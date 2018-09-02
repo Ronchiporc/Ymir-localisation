@@ -1,0 +1,4078 @@
+﻿#b_menu_tutorial
+TUTORIEL
+
+#b_menu_newgame
+NOUVELLE PARTIE
+
+#b_menu_load
+CHARGER
+
+#b_menu_join
+REJOINDRE
+
+#b_menu_editor
+EDITEUR
+
+#b_menu_options
+OPTIONS
+
+#b_menu_quit
+QUITTER
+
+#b_menu_resume
+REPRENDRE
+
+#b_menu_tomain
+MENU PRINCIPAL
+
+#ui_tomainvalid
+Quitter la partie et revenir au menu principal?
+
+#ui_connctstat_1
+Connecté à [x] ping: [y]
+
+#ui_connctstat_2
+Taux de pertes: [x]% (envoyé: [y] a échoué: [z])
+
+#ui_connct_stable
+Votre connexion au serveur est stable.
+
+#ui_connct_unstbl
+Attention! Votre connexion au serveur est instable!
+
+#mainmenu_mute
+cliquer pour couper / activer les son du jeu
+
+#mainmenu_fullscrn
+cliquer pour passer du monde fenêtré à plein écran
+
+#mainmenu_quit
+cliquer pour quitter le jeu
+
+#b_menuop_fullscreen
+Plein écran
+
+#bc_menuop_fullscreen
+activer le plein écran
+
+#b_menuop_autores
+Résolution automatique
+
+#bc_menuop_autores
+adapte automatiquement l'affichage à la résolution de l'écran quand en mode plein écran
+
+#b_menuop_res
+Affichage
+
+#bc_menuop_res
+choisir la résolution d'affichage désirée pour le mode plein écran
+
+#b_menuop_terrain
+Terrain
+
+#b_menuop_low
+faible
+
+#b_menuop_medium
+normal
+
+#b_menuop_high
+haut
+
+#b_menuop_bdgs
+Bâtiments
+
+#b_menuop_units
+Unités
+
+#b_menuop_fx
+FX
+
+#b_menuop_shaders
+Shaders
+
+#b_menuop_worldmap
+Carte du monde
+
+#b_menuop_logic
+Logique
+
+#b_menuop_cosveg
+Végétations cosmétiques
+
+#bc_menuop_cosveg
+Active l'affichage des végétations décoratives dans les régions.
+
+#b_menuop_cosunits
+Unités cosmétiques
+
+#bc_menuop_cosunits
+Active l'affichage des unités décoratives dans les régions.
+
+#b_menuop_grain
+Grain vidéo
+
+#bc_menuop_grain
+Active ou désactive cet effet
+
+#b_menuop_mvol
+Volume musique
+
+#b_menuop_ambvol
+Volume ambiant
+
+#b_menuop_uivol
+Interface de volume
+
+#b_menuop_lang
+La langue
+
+#bc_menuop_lang
+Choisissez votre langue
+
+#b_menuop_apply
+Appliquer
+
+#b_menuop_display
+AFFICHAGE
+
+#b_menuop_sound
+FILS
+
+#b_menuop_game
+JEU
+
+#ui_menuop_options
+OPTIONS
+
+#joingame_yourgames
+Vos parties
+
+#joingame_persist
+Parties persistantes
+
+#joingame_realtime
+Parties temps réel
+
+#joingame_direct
+IP directe
+
+#joingame_connect
+REJOINDRE
+
+#servlst_name
+Partie
+
+#servlst_name_c1
+Nom de la partie en cours sur ce serveur
+
+#servlst_creat
+Créateur
+
+#servlst_creat_c1
+Nom de l'utilisateur hébergant cette partie
+
+#servlst_players
+Joueurs
+
+#servlst_players_c1
+Nombre de joueurs actuellement connectés sur cette partie
+
+#servlst_dur
+Durée
+
+#servlst_dur_c1
+Durée totale de cette partie depuis son commencement
+
+#servlst_ver
+Version du serveur
+
+#servlst_ver_c1
+La version du jeu utilisée par ce serveur.
+
+#servlst_ver_c2
+Attention! Votre version ([x]) ne correspond pas à celle de ce serveur ([y])!
+
+#servlst_nogam
+Désolé: Il n'a pas de présentement de parti disponible!
+
+#b_newgame_name
+Nom:
+
+#b_newgame_public
+publique
+
+#b_newgame_friends
+amis uniquement
+
+#b_newgame_private
+privée
+
+#b_newgame_password
+Mot de passe:
+
+#bc_newgame_password
+définir un mot de passe pour rejoindre cette partie
+
+#b_newgame_maxplayers
+Max joueurs:
+
+#b_newgame_start
+LANCER LA PARTIE
+
+#ui_newgame_newgame
+NOUVELLE PARTIE
+
+#ui_newgame_world
+MONDE
+
+#b_newgame_wprocedural
+De procédure
+
+#b_newgame_wcustom
+Douane
+
+#newgame_serv_c
+options de serveur
+
+#newgame_serv_run
+pas de fermeture automatique
+
+#newgame_serv_empty
+fermer quand vide
+
+#newgame_serv_leave
+fermer à votre déconnection
+
+#newgame_samname
+Une sauvegarde '[x]' existe déjà! Que voulez-vous faire?
+
+#newgame_overw
+Écraser
+
+#newgame_renam
+Renommage automatique
+
+#newgame_nomap
+aucun disponible
+
+#newgame_invmap
+Auncune carte personnalisée disponible. Sélectionnez un type de carte procédural.
+
+#taille de la carte
+Taille de la carte
+
+#mapsize1
+Minuscule
+
+#mapsize2
+Petit
+
+#mapsize3
+Ordinaire
+
+#mapsize4
+Grand
+
+#mapsize5
+Énorme
+
+#mapsize6
+Géant
+
+#maptyp
+Carte prédéfinie
+
+#maptyp1
+Terra
+
+#maptyp1_dscr
+Des mondes terrestres tempérés avec plusieurs continents.
+
+#maptyp2
+Pangée
+
+#maptyp2_dscr
+Des mondes tempérés principalement composés de terres, avec seulement quelques petites mers.
+
+#maptyp3
+Archipel
+
+#maptyp3_dscr
+Les mondes marins avec beaucoup d'îles et de plus petites terres.
+
+#maptyp4
+Monde désertique
+
+#maptyp4_dscr
+Des mondes désertiques où les territoires hospitaliers sont principalement situés vers les pôles et autour des petites mers intérieures.
+
+#maptyp5
+Monde de glace
+
+#maptyp5_dscr
+Des mondes désertiques froids avec seulement quelques territoires hospitaliers.
+
+#maptyp6
+Tropico
+
+#maptyp6_dscr
+Mondes de la mer chauds et humides avec beaucoup d'îles tropicales.
+
+#maptypcust
+Paramètres personnalisés
+
+#custmap_sel
+Sélectionnez une carte du monde
+
+#custmap_sel_c
+Sélectionnez une carte personnalisée
+
+#custmap_dscr
+Les mondes personnalisés sont des cartes créées manuellement avec l'éditeur au lieu d'être générées de manière procédurale.
+
+#newgame_gamset
+PARAMÈTRES DE JEU
+
+#gmtyp_off
+Officiel
+
+#gmtyp_off_dscr
+Les jeux étiquetés comme officiels utilisent des paramètres normalisés non personnalisables pour fournir une expérience fiable.
+
+#gmtyp_offtype
+Type de jeu
+
+#gmtyp_offtype_c
+Sélectionnez un mode prédéfini
+
+#gmtyp_rtime
+Temps réél
+
+#gmtyp_rtime_dscr1
+Les parties en temps réel sont destinés à être joués directement avec chaque joueur en jeu à tout moment, en sauvegardant et en rechargeant la partie plus tard pour la continuer si nécessaire.
+
+#gmtyp_rtime_dscr2
+La production de ressources, la croissance démographique et les mouvements d'unités sont rapides.
+
+#gmtyp_rtime_dscr3
+Ceci est destiné aux petits jeux privés tels que jouer localement avec un groupe d'amis via IP directe.
+
+#gmtyp_prsist
+Persistant
+
+#gmtyp_prsist_dscr1
+Les parties persistantes sont équilibrés pour un serveur tournant 24h/24 où les actions peuvent prendre plusieurs heures à compléter et où les joueurs ne sont pas censés être dans le jeu en permanence.
+
+#gmtyp_prsist_dscr2
+La production de ressources, la croissance démographique, les technologies, et les mouvements d'unités sont lents.
+
+#gmtyp_prsist_dscr3
+Ceci est destiné aux parties plus grand public et aux serveurs avec un plus grand nombre de joueurs.
+
+#gmtyp_cstm
+Douane
+
+#gmtyp_cstm_dscr
+Les parties personnalisées vous permettent de définir vos propres paramètres modifiant l'équilibre et la vitesse de jeu.
+
+#gamelob_disco
+Déconnection
+
+#gamelob_disco_c1
+Retour au menu principal
+
+#gamelob_usechar
+Jouer en utilisant ce personnage
+
+#gamelob_newchar
+Nouveau
+
+#gamelob_newchar_c1
+Créer un nouveau personnage sur cette partie.
+
+#gamelob_play
+JOUER
+
+#nechar_title
+Nouveau personnage
+
+#newchar_startpref
+Préférences de départ
+
+#newchar_availspwn
+Disponible commence à correspondre à ces paramètres
+
+#newchar_closeto
+frayer près du caractère ...
+
+#newchar_closeto_c
+Vous allez apparaître le plus près possible du caractère sélectionné, tout en correspondant aux conditions sélectionnées ci-dessus.
+
+#newchar_starttyp
+Démarrer les types
+
+#newchar_clim
+Climats
+
+#nechar_st_pt
+Tribus primitives
+
+#newchar_st_pt_c1
+Commencez à zéro en prenant le contrôle d'une tribu primitive.
+
+#newchar_st_pt_c2
+C'est la manière standard de rejoindre une partie venant de débuter.
+
+#newchar_st_suc
+Succession
+
+#newchar_st_suc_c1
+Devenir le nouveau dirigeant d'un gouvernement déjà existant ayant besoin d'un successeur.
+
+#newchar_st_suc_c2
+Vous allez prendre le contrôle d'un personnage inactif et hériter de toutes ses possessions.
+
+#newchar_st_col
+Colonies
+
+#newchar_st_col_c1
+Devenez le nouveau leader d'une colonie créée par un autre joueur
+
+#newchar_st_col_c2
+(Vous rejoindrez une Nation existante)
+
+#newchar_st_ar
+Nouveau leader
+
+#newchar_st_ar_c1
+Devenir le nouveau leader d'un territoire en anarchie
+
+#newchar_st_ar_c2
+(un territoire qui s'est révolté ou a perdu son précédent leader: s'attendre à l'inattendu!)
+
+#newchar_clim_c
+Sélectionnez les climats où vous souhaiteriez potentiellement apparaître
+
+#newchar_cold
+Du froid
+
+#newchar_temp
+Tempéré
+
+#newchar_arid
+Aride
+
+#nechar_trop
+Tropical
+
+#newchar_nofind
+Impossible de trouver une unité ou un territoire pour ce personnage!
+
+#findchar_bc
+cliquez pour rechercher un personnage existant dans cette partie
+
+#findchar_none
+[aucun]
+
+#findchar_srch
+recherche de personnage ...
+
+#findchar_reslt
+Résultats
+
+#findchar_wait
+recherche...
+
+#findchar_instr
+Tapez le nom complet d'un personnage ou une partie de son nom et appuyez sur Entrée pour voir les correspondances valides
+
+#findchar_nores
+aucun résultat correspondant à cette recherche
+
+#tuto_ask
+DIDACTICIEL
+
+#tuto_ask_1
+Salutations, nouveauporc! Est-ce la première fois que vous jouez à Ymir et souhaitez-vous activer le mode tutoriel?
+
+#ui_gen_toreg
+Cliquez pour acceder au territoire sélectionné
+
+#ui_gen_toworld
+Cliquez pour retourner sur la carte du monde
+
+#ui_gen_tonovis
+Vous ne pouvez pas aller sur ce territoire parce que vous n'en avez pas la visibilité.
+
+#ui_gen_score
+Score du personnage
+
+#ui_gen_vpts
+Points de victoire
+
+#ui_gen_vpts2
+Vous avez besoin d'un total de [x] pour gagner la partie.
+
+#ui_gen_regmen
+Menu de Territoire
+
+#ui_bdginf_cons
+coût de construction
+
+#ui_bdginf_cost
+coût des matériaux:
+
+#ui_bdginf_empl
+emploie
+
+#b_bdginf_hhold
+Foyer
+
+#bc_bdginf_hhold
+le nombre de foyers que peut heberger ce logement
+
+#bc_bdginf_h
+Bonus de santé pour les résidents de ce logement
+
+#bc_bdginf_lq
+Bonus de qualité de vie pour les résidents de ce logement
+
+#bc_bdginf_eff
+L'efficacité augmente la force de travail de chaqun des travailleurs de ce bâtiment.
+
+#b_bdginf_wealth
+production de richesse maximale
+
+#bc_bdginf_wealth
+Le montant maximal de la richesse que ce bâtiment peut théoriquement générer si sa main-d'œuvre est en pleine production
+
+#b_bdginf_scap
+capacité
+
+#bc_bdginf_scap
+Capacité de stockage dans les unités de ressources
+
+#b_bdginf_stype
+Peut stocker
+
+#b_bdginf_mcap
+Capacité de distribution
+
+#ui_place_form0
+Le camp de la nouvelle formation
+
+#ui_place_form1
+Déplacer le camp
+
+#bc_erase
+Outil de destruction
+
+#b_erase_ter
+terrain
+
+#b_erase_inf
+les infrastructures
+
+#b_erase_bdg
+bâtiments
+
+#b_erase_ptf
+plateformes
+
+#bc_menubdg_destroy
+Démolir le bâtiment
+
+#bc_menubdg_destroy2
+(recycle le bâtiment et récupére une partie de ses matériaux)
+
+#bc_menubdg_sleep
+Désactiver
+
+#bc_menubdg_sleep2
+(le bâtiment est désactivé mais toujours entretenu)
+
+#bc_menubdg_aband
+Abandonner
+
+#bc_menubdg_aband2
+(le bâtiment est désactivé mais se dégrade avec le temps)
+
+#ui_menubdg_sleep1
+Mode veille
+
+#ui_menubdg_sleep2
+En mode veille: toutes les fonctionnalités sont arrêtées jusqu'à ce que vous l'activiez à nouveau. Le bâtiment ne se dégrade pas avec le temps (maintenance).
+
+#ui_menubdg_build1
+Sous contruction
+
+#ui_menubdg_build2
+Ce bâtiment n'est pas fini et donc pas encore fonctionnel.
+
+#ui_menubdg_fonct1
+Fonctionnel
+
+#ui_menubdg_fonct2
+Ce bâtiment est entièrement fonctionnel.
+
+#ui_menubdg_morework1
+Travailleurs disparus
+
+#ui_menubdg_morework2
+Ce bâtiment a besoin de plus de travailleurs pour être pleinement fonctionnel.
+
+#ui_menubdg_noworker1
+Vide
+
+#ui_menubdg_noworker2
+Ce bâtiment a besoin de travailleurs pour être fonctionnel.
+
+#ui_menubdg_destr1
+Détruit
+
+#ui_menubdg_destr2
+Ce bâtiment doit être reconstruit pour être fonctionnel.
+
+#ui_menubdg_ruin1
+Abandonné
+
+#ui_menubdg_ruin2
+Abandonné et doit être restauré pour être fonctionnel. Aucun entretien, et le bâtiment se dégrade avec le temps.
+
+#ui_menubdg_recycl1
+Démolir
+
+#ui_menubdg_recycl2
+Ce bâtiment est en train d'être démoli. Lorsque le processus sera terminé, il sera complètement enlevé et la moitié de ses matériaux de construction seront récupérés.
+
+#ui_menubdg_stckperm
+Autorisations de stockage:
+
+#ui_menubdg_Usage
+Utilisation:
+
+#ui_menubdg_perslot
+par emplacement
+
+#ui_menubdg_upto
+Améliorer en
+
+#ui_menubdg_upgrades
+Améliorations
+
+#ui_menubdg_winc
+Revenu gagné par chaque travailleur
+
+#bc_menubdg_wake1
+Réveiller
+
+#bc_menubdg_wake2
+(le bâtiment redevient actif)
+
+#bc_menubdg_rest1
+Restaure
+
+#bc_menubdg_rest2
+(fonctionnalité de réparation et de restauration du bâtiment)
+
+#ui_upgbdg_upto
+Améliorer en
+
+#ui_upgbdg_rstr
+Restaurer
+
+#ui_menubdg_prod
+PRODUCTION
+
+#ui_menubdg_distrib
+COMMERCE
+
+#ui_menubdg_addan
+ajouter un stand de marché
+
+#ui_menubdg_addan2
+(réduit la main-d'œuvre productrice)
+
+#ui_menubdg_dtrb1
+Ce bâtiment peut créer des stands sur le marché où les travailleurs vendront directement leurs produits au public, mais cela réduit la production de main-d'œuvre.
+
+#ui_menubdg_dtrb2
+Ce bâtiment ne peut pas créer des stands de maket parce qu'il ne peut pas produire quelque chose vendable au public.
+
+#ui_menubdg_anx
+Annexes
+
+#bc_menubdg_expl
+exploité
+
+#bc_menubdg_nsource
+sources naturelles de
+
+#ui_annex_add
+ajouter une annexe
+
+#ui_annex_txt1
+ajoute une nouvelle source de production
+
+#ui_annex_txt2
+distribue directement la production
+
+#bc_annex_dstrb
+(vente [x])
+
+#bc_annex_prod
+Fournit des sources de production supplémentaires de [x].
+
+#bc_annex_eff
+Fournit [x] d'efficacité supplémentaire au bâtiment.
+
+#ui_annex_err1
+aucune ressource disponible pour la production par cette annexe
+
+#ui_annex_err2
+ce bâtiment n'a aucune production valide pour la distribution
+
+#bc_menubdg_selp
+sélectionnez la ressource à produire
+
+#bc_menubdg_nopran
+Ce bâtiment n'a pas d'annexes possibles.
+
+#regeco_taxes
+Taxes
+
+#regeco_taxes_c1
+Total des revenus de toutes les taxes dans ce territoire
+
+#regeco_tax_sal
+Revenus de taxe de vente
+
+#regeco_tax_sal_c1
+Impôts toutes les ventes effectuées sur le territoire (n'inclut pas les exportations)
+
+#regeco_tax_inc
+Revenus d'impôts
+
+#regeco_tax_inc_c1
+Impôts tous les revenus de la population
+
+#regeco_upkeep
+Entretien
+
+#regeco_upkeep_c1
+Certains bâtiments ou infrastructures nécessitent un coût d'entretien à payer par vous (le gouvernement).
+
+#regeco_salaries
+Salaires d'État
+
+#regeco_salaries_c1
+Le coût total de tous les salaires de l'Etat payés sur le territoire.
+
+#regeco_up_bdg
+Entretien des bâtiments
+
+#regeco_up_bdg_c1
+Total des coûts d'entretien de tous les bâtiments de l'Etat sur ce territoire (ex: bâtiments officiels et militaires).
+
+#regeco_up_infr
+Entretien des infrastructures
+
+#regeco_up_infr_c1
+Coût total d'entretien de toutes les infrastructures de ce territoire (ex: murs ou jardins qui coûtent l'entretien).
+
+#regeco_tradebal
+Commerce
+
+#regeco_tradebal_c1
+Le solde final de toutes les marchandises expansées et des revenus importés et exportés.
+
+#regeco_ii
+Ventes locales de marchandises importées
+
+#regeco_ii_c1
+Revenus générés par toutes les marchandises importées vendues sur le territoire (à leur prix local).
+
+#regeco_ic
+Coût d'achat des biens importés
+
+#regeco_ic_c1
+Coût total payé pour toutes les marchandises importées via les routes commerciales vers ce territoire (au prix de leur route commerciale).
+
+#regeco_ei
+Ventes de biens exportés
+
+#regeco_ei_c1
+Revenus de toutes les marchandises exportées de ce territoire par des routes commerciales (au prix de leur route commerciale).
+
+#regeco_ec
+Coût d'achat des biens exportés
+
+#regeco_ec_c1
+Coût total payé pour l'achat des produits exportés à leurs producteurs locaux sur ce territoire (à leur prix local).
+
+#bc_menureg_cur1
+Devise utilisée sur ce territoire:
+
+#bc_menureg_cur2
+Monnaie non pertinente uniquement utilisée localement dans ce territoire
+
+#b_menureg_coin
+valeur de l'argent:
+
+#bc_menureg_coin1
+pièces de monnaie circulant pour
+
+#bc_menureg_coin2
+La valeur d'une pièce est approximative
+
+#b_menureg_gdp
+PIB:
+
+#bc_menureg_gdp1
+Produit intérieur brut territorial
+
+#bc_menureg_gdp2
+Somme de tous les revenus de pièces sur le territoire
+
+#b_menureg_wlth
+richesse du territoire:
+
+#bc_menureg_wlth
+La richesse totale du territoire
+
+#ui_menureg_admin1
+Capacité
+
+#ui_menureg_admin2
+Etat
+
+#ui_menureg_admin3
+Territoire
+
+#bc_menureg_totpop
+Population totale
+
+#bc_menureg_totpop2
+Population active
+
+#bc_menureg_sprt1
+Ce territoire soutient actuellement [x] porcos dans toutes ses formations.
+
+#bc_menureg_sprt2
+Sa démographie peut supporter jusqu'à [x] porcos. Au-delà de cette limite, la croissance du territoire est impactée en permanence.
+
+#bc_menureg_lq1
+Qualité de vie moyenne
+
+#bc_menureg_int1
+Intelligence moyenne
+
+#b_menureg_job
+emplois dispo.
+
+#bc_menureg_job1
+emplois inoccupés sur le territoire
+
+#bc_menureg_job2
+total des emplois
+
+#b_menureg_emp
+de chômage
+
+#bc_menureg_emp
+sans-emploi sur
+
+#b_menureg_hlth
+Santé
+
+#bc_menureg_hlth
+Santé moyenne de la population
+
+#b_menureg_totg
+Croissance totale
+
+#bc_menureg_totg
+variation actuelle de la population totale
+
+#b_menureg_actg
+Actifs
+
+#bc_menureg_actg
+variation actuelle de la population active
+
+#bc_vneed1
+La population a en moyenne
+
+#bc_vneed2
+de ses besoins vitaux satisfaits
+
+#bc_vneed3
+sans leurs besoins vitaux satisfaits, votre population mourra
+
+#ui_gen_m
+M
+
+#bc_gen_mainmenu
+ouvrir le menu principal
+
+#bc_gen_gameset
+paramètres de jeu actuels
+
+#bc_gen_gov
+Gouvernement
+
+#bc_gen_coin
+Trésorerie
+
+#bc_gen_cult
+Culture
+
+#bc_gen_fact
+Faction
+
+#bc_gen_ev
+Événements
+
+#bc_gen_honor
+Honneur
+
+#sc_menubdg_getmax
+obtenir max
+
+#sc_menubdg_get
+ajouter
+
+#sc_menubdg_empty
+vider
+
+#sc_menubdg_emptyall
+vider tout
+
+#sc_menubdg_destroy
+détruire
+
+#sc_menubdg_forbid
+interdire
+
+#sc_menubdg_auth
+autoriser
+
+#sc_menubdg_allowv
+tout authoriser
+
+#sc_menubdg_restrict
+restreint
+
+#sc_menubdg_allow
+authoriser
+
+#bc_menubdg_perm
+Sélectionnez comment les ressources sont acceptées dans ce bâtiment de stockage
+
+#b_menubdg_allempty
+vider tout
+
+#b_menubdg_alldestr
+détruire tout
+
+#bc_menubdg_move
+Déplacer
+
+#bc_menubdg_move2
+Démolit ce bâtiment pour le reconstruire ailleurs
+
+#ui_gov_name
+Gouvernement de
+
+#ui_gov_actpol
+POLITIQUES ACTIVES
+
+#ui_gov_coins
+trésorerie
+
+#ui_gov_ecobalance
+solde budgétaire courant
+
+#ui_gov_legit
+légitimité actuelle du gouvernement
+
+#ui_gov_power
+Pouvoir d'État actuel
+
+#ui_gov_pdgreform
+Vous avez une réforme en attente qui n'est pas appliquée. Êtes-vous sûr de vouloir fermer ce menu et annuler cette réforme (les changements de politique ne seront pas appliqués)?
+
+#ui_gov_gdp
+PIB
+
+#ui_gov_gdp_c1
+Le produit intérieur brut actuel de tous vos territoires.
+
+#ui_gov_gdp_c2
+Il est calculé en additionnant les revenus bruts générés dans tous vos territoires sur 10 cycles de production.
+
+#bc_selpolicy
+liste des nouvelles politiques disponibles
+
+#ui_gov_nopol
+pas de nouvelles politiques disponibles!
+
+#ui_civ_repl
+remplace '[x]'
+
+#ui_civ_req
+nécessite '[x]'
+
+#ui_civ_on
+AJOUTER DANS LA RÉFORME
+
+#ui_civ_on_c
+cliquez pour ajouter cette nouvelle politique à la réforme
+
+#ui_civ_off
+REVOQUE DANS LA RÉFORME
+
+#ui_civ_off_c
+cliquez pour ajouter la révocation de cette politique à la réforme
+
+#ui_civ_cncl
+ANNULER DE LA REFORME
+
+#ui_civ_cncl_c
+cliquez pour supprimer cette modification en attente de votre réforme
+
+#ui_civ_warn
+(Notez que vous devez appliquer la réforme avant que ces changements ne prennent effet)
+
+#ui_defaultciv
+politique par défaut
+
+#bc_defaultciv1
+les stratégies par défaut ne peuvent pas être révoquées ou transmises manuellement.
+
+#bc_defaultciv2
+ils apparaissent automatiquement lorsqu'aucune autre politique n'est active.
+
+#ui_stateeffect
+EFFETS DE L'ÉTAT
+
+#bc_stateeffect
+effet de réforme en attente
+
+#b_applyreform
+APPLIQUER LA RÉFORME
+
+#bc_applyreform
+Cliquez pour appliquer toutes les modifications en attente sur les stratégies
+
+#ui_eco_title
+TRÉSORERIE
+
+#ui_eco_balance
+Solde budgétaire
+
+#ui_eco_dscr
+Le trésor est le montant total des pièces de monnaie détenues par votre gouvernement. Les politiques économiques définissent comment l'économie de votre société est actuellement organisée.
+
+#ui_eco_notrsr_dscr
+Cette société fonctionne actuellement sans aucune forme de monnaie et ses gens partagent tout simplement dans la communauté: le gouvernement n'a pas de trésorerie ni de revenus ou d'explications.
+
+#ui_eco_lead
+La richesse personnelle du leader
+
+#ui_eco_lead_c1
+Le leader attribue actuellement [x]% de sa richesse totale personnelle aux finances publiques.
+
+#ui_eco_tax
+Impôts sur les revenus
+
+#ui_eco_tax_c1
+Somme de tous les revenus fiscaux de tous vos territoires.
+
+#ui_eco_contrib
+Contributions volontaires
+
+#ui_eco_contrib_c1
+Dans une société sans impôts organisés, les revenus proviennent uniquement de la contribution volontaire du peuple pour la communauté (20% de ses revenus).
+
+#ui_eco_wast
+Déchets
+
+#ui_eco_wast_c1
+Les revenus fiscaux perdus à cause des déchets dans vos territoires. Les déchets sont le résultat d'une administration à faible territoire.
+
+#ui_eco_bdgs
+Entretien des bâtiments
+
+#ui_eco_bdgs_c1
+Entretien total de tous les bâtiments de tous vos territoires.
+
+#ui_eco_infr
+Entretien des infrastructures
+
+#ui_eco_infr_c1
+Le coût total de l'entretien de toutes les infrastructures de tous vos territoires tels que les murs ou les routes.
+
+#ui_eco_units
+Entretien des unités
+
+#ui_eco_units_c1
+Total entretien de toutes les unités dans toutes vos formations.
+
+#ui_eco_salar
+Les salaires
+
+#ui_eco_salar_c1
+Total dépensé pour les salaires de l'État.
+
+#ui_eco_trt
+Traités
+
+#ui_eco_trt_c1
+Pièces envoyées ou reçues d'autres États par le biais de vos traités actuellement en vigueur.
+
+#ui_eco_civc
+Maintenance civique
+
+#ui_eco_civc_c1
+Coût total du maintien de tous nos services civiques actuellement actifs.
+
+#ui_eco_proj
+Projets actuels
+
+#ui_eco_proj_c1
+Coût total de tous les projets en cours.
+
+#ui_eco_nat
+Nation
+
+#ui_eco_nat_c1
+Impôts des subordonnés: [x]
+
+#ui_eco_nat_c2
+Impôts pour votre supérieur hiérarchique: [x]
+
+#ui_mres_storvar
+VARIATION DE STOCKAGE
+
+#ui_mres_prod
+PRODUCTION
+
+#ui_mres_imp
+IMPORTER
+
+#ui_mres_dist
+DISTRIBUTION
+
+#ui_mres_ind
+LES INDUSTRIES
+
+#ui_mres_exp
+EXPORTATION
+
+#ui_price_mkt
+étude de marché
+
+#ui_price_sd1
+offre / demande du marché
+
+#ui_price_sd2
+industries offre / demande
+
+#ui_price_state
+état de l'offre / demande
+
+#ui_price_prod
+rentabilité
+
+#ui_mres_access
+ACCÈS À LA POPULATION
+
+#uic_mres_access
+Satisfaction de la population pourcentage de leur besoin pour cette ressource
+
+#ui_mres_dist_need
+Idéalement nécessaire
+
+#uic_mres_dist_need
+Montant théorique nécessaire pour un accès à 100%, indépendamment du prix et de l'abordabilité de la population
+
+#ui_mres_dist_dem
+Demande
+
+#uic_mres_dist_dem
+Montant effectivement demandé aux commerçants par les Porcos qui peuvent se le permettre à son prix actuel
+
+#ui_mres_dist_avail
+La fourniture
+
+#uic_mres_dist_avail
+Montant actuellement distribué sur le marché
+
+#ui_mres_dist_sold
+Vendu
+
+#uic_mres_dist_sold
+Quantité vendue à la population
+
+#ui_bdgeff_bdg
+bâtiment
+
+#ui_bdgeff_state
+Etat
+
+#ui_bdgeff_plac
+placement
+
+#ui_mres_indaccess
+ACCÈS AUX INDUSTRIES
+
+#uic_mres_indaccess
+Industries accès à cette ressource comme un matériau
+
+#ui_mres_indneed
+Demande
+
+#uic_mres_indneed
+Quantité de cette ressource requise par les industries
+
+#ui_mres_indsold
+Vendu
+
+#uic_mres_indsold
+Quantité de cette ressource effectivement distribuée et vendue aux industries qui en ont besoin
+
+#ui_mres_prodcost
+Coût de production
+
+#uic_mres_prodcost
+Coût moyen d'achat des matériaux requis pour produire une unité de cette ressource
+
+#ui_menubdg_merchsup
+la fourniture
+
+#ui_mres_costimp
+coût des importations
+
+#uic_mres_costimp
+Le coût total payé (par l'état) pour le montant importé par les routes commerciales.
+
+#bc_menubdg_rsell
+sélectionnez la ressource à vendre avec ce marchand
+
+#ui_menubdg_hire
+En louer un
+
+#ui_menubdg_fire
+Tirer un
+
+#storpol
+Politique de stockage
+
+#storpol_all
+tous les stockages
+
+#storpol_c_all1
+Le stockage de cette ressource est autorisé dans n'importe quel stockage disponible.
+
+#storpol_c_all2
+Sera même stocké directement sur le sol s'il n'y a pas d'espace disponible.
+
+#storpol_restr
+seulement en restriction
+
+#storpol_c_restr1
+Seuls les stockages valides en mode restreint sont autorisés à stocker cette ressource.
+
+#storpol_c_restr2
+Si aucune n'est disponible, les ressources supplémentaires sont détruites.
+
+#storpol_none
+pas de stockage
+
+#storpol_c_none1
+Le stockage de cette ressource est désactivé.
+
+#storpol_c_none2
+Toutes les ressources supplémentaires sont détruites.
+
+#stormntn
+Maintenir le stock
+
+#stormntn_c
+Si le stock actuel est inférieur à la valeur souhaitée, 25% de la production sera réservée et verrouillée afin d'augmenter le stock.
+
+#stormntn_set
+Définir un nouveau stock minimum de maintien de [x] [y].
+
+#regeco_eff
+Effets: affecte positivement ou négativement la trésorerie de votre gouvernement
+
+#regeco_1
+Le solde budgétaire de votre territoire est le résultat de tous les revenus et dépenses spécifiques à ce territoire tels que les taxes, les salaires et les frais d'entretien.
+
+#regeco_2
+Le budget peut également être affecté négativement par les déchets. Il représente les revenus perdus à cause de la fraude fiscale, de la mauvaise gestion, de la corruption et de l'économie souterraine.
+
+#regadmin_eff
+Effets: augmente les revenus budgétaires (-waste)
+
+#regadmin_1
+L'administration représente la capacité de gestion de votre gouvernement dans ce territoire.
+
+#regadmin_2
+Plus la population et la distance de la capitale sont importantes, plus il est difficile de gérer le territoire. Mais il peut aussi être amélioré par des politiques et des services actifs sur le territoire tels que les scribes aidant dans l'administration du territoire.
+
+#regconf_eff
+Effets: diminue la croissance (+ meurtres), diminue la loyauté (-authorité)
+
+#regconf_1
+Le conflit représente le niveau de conflits aléatoires entre les habitants du territoire.
+
+#regconf_2
+L'éducation civique active et les services dans le territoire comme la justice peuvent aider à la réduire.
+
+#regloy_eff
+Effets: empêche la rébellion de la population
+
+#regloy_1
+La loyauté représente la loyauté mondiale des peuples du territoire envers vous: le gouvernement central qui contrôle ce territoire.
+
+#regloy_2
+Il est affecté par de nombreux facteurs tels que la culture du peuple, le niveau de conflit sur le territoire, les politiques actives, les événements passés ou l'autorité du gouvernement sur le territoire. Si la loyauté devient trop faible (inférieure à 30%), il y aura un risque élevé de soulèvement populaire mondial qui peut conduire à perdre le contrôle du territoire.
+
+#regcltr_eff
+Effets: contribue à votre culture globale, affecte la loyauté, augmente l'intelligence de la population
+
+#regcltr_1
+La culture représente l'ensemble des connaissances, des coutumes et des comportements des habitants de ce territoire.
+
+#regcltr_2
+Une culture totale basée sur la quantité de population peut alors être partagée entre différents types de cultures. "Culture d'état" représente votre culture. La «culture locale» représente les coutumes et les comportements propres à ce territoire et différents de votre culture principale partagée par tous vos peuples. D'autres cultures étrangères pourraient également être présentes.
+
+#reggrwth_eff
+Effets: détermine l'évolution de votre population.
+
+#reggrwth_1
+La croissance représente l'évolution démographique actuelle de votre population sur ce territoire.
+
+#reggrwth_2
+La croissance dépend beaucoup de la «volonté de reproduction» des gens, qui détermine combien de couples auront des enfants au cours de la prochaine génération.
+
+#popw_base
+La richesse de base
+
+#popw_income
+Le revenu de Porco
+
+#popw_priv
+Privilèges
+
+#popneed_sat
+SATISFACTION DES BESOINS
+
+#popstat_wealth
+RICHESSE
+
+#popstat_wealth_c1
+La richesse d'un porco définit son pouvoir d'achat.
+
+#popstat_wealth_c2
+Un porco peut entièrement se permettre n'importe quel prix valable également ou beugler son niveau de richesse.
+
+#popstat_health
+SANTÉ
+
+#popstat_health_c1
+La santé détermine la durée de vie et la résistance aux maladies.
+
+#popstat_health_c2
+Il améliore la croissance de la population.
+
+#popstat_lifequal
+QUALITÉ DE VIE
+
+#popstat_lifequal_c1
+La qualité de vie est un score qui mesure à quel point la vie du porco est bonne et confortable.
+
+#popstat_lifequal_c2
+Il affecte beaucoup d'autres choses telles que l'intelligence, le bonheur ou la croissance.
+
+#popstat_intel
+INTELLIGENCE
+
+#popstat_intel_c1
+L'intelligence est notre capacité à créer des algorythmes mesurant les probabilités de la vérité.
+
+#popstat_intel_c2
+Les Porcos intelligents génèrent plus d'idées et de culture, mais ont tendance à être plus malheureux et plus difficiles à contrôler.
+
+#popneed_qual
+qualité de satisfaction
+
+#popneed_access
+accès
+
+#popneed_food
+nourriture
+
+#popneed_water
+eau
+
+#popneed_furnish
+mobilier
+
+#popneed_cloth
+Vêtements
+
+#popneed_alco
+alcools
+
+#popneed_entert
+divertissements
+
+#popneed_lux
+luxe
+
+#popneed_pfood
+aliments de plaisir
+
+#popneed_social
+social
+
+#popneed_2
+besoins secondaires
+
+#popneed_3
+besoins tertiaires
+
+#popneed_4
+besoins quaternaires
+
+#popneed_unsat
+en raison des besoins insatisfaits de priorité plus élevée
+
+#loadgame_select
+Sélectionnez une sauvegarde locale à charger
+
+#loadgame_localsav
+(Les sauvegardes locales sont situées dans les sauvegardes \ AppData \ Local \ Ymir \)
+
+#loadgame_nofnd
+Pas de parties trouvées!
+
+#loadgame_none1
+Il semble qu'il n'y a pas de parties existants à charger!
+
+#loadgame_none2
+Vous devez créer un nouveau jeu.
+
+#loadgame_crtnew
+CRÉER UNE PARTIE
+
+#loadgame_rename
+Renommer
+
+#loadgame_copy
+copie
+
+#loadgame_del
+effacer
+
+#loadgame_renaming
+Renommer la partie
+
+#loadgame_copying
+Copier le nom
+
+#loadgame_deleting
+Êtes-vous sûr de vouloir supprimer cette sauvegarde?
+
+#joingame_serv
+IP du serveur
+
+#joingame_port
+Port de serveur
+
+#popstat_wbase
+richesse de base
+
+#popstat_wbase_c
+chaque porco fait naturellement de la richesse
+
+#popstat_winc
+pièces de monnaie
+
+#popstat_winc_c1
+gagner [x] pièces de monnaie sur [y] au total
+
+#popstat_winc_c2
+attribue [x]% de la richesse du territoire [y]
+
+#popstat_wpriv
+privilèges
+
+#popstat_wpriv_c
+la richesse donnée directement en tant que privilèges par les politiques sociales
+
+#legit_dscr
+La légitimité est la mesure dans laquelle les gens reconnaissent le droit des prétentions à l'autorité de votre État qui sont définies par vos politiques de légitimité actives. Ceux-ci affectent l'influence positive ou négative de tous les différents facteurs de légitimité.
+
+#legit_tot
+Légitimité totale
+
+#legit_protect
+Force militaire
+
+#legit_protect_c
+Notre force militaire est actuellement [x]. Il a augmenté en ayant plus d'armées et d'unités plus puissantes par rapport à votre population totale.
+
+#legit_wealth
+Supériorité du chef
+
+#legit_wealth_c
+La supériorité de notre chef est actuellement de [x]. Il est augmenté par la richesse de la classe de population du leader.
+
+#legit_relig
+La religiosité des gens
+
+#legit_relig_c
+[pas encore mis en œuvre]
+
+#legit_parl
+Pouvoir du Parlement
+
+#legit_parl_c
+[pas encore mis en œuvre]
+
+#legit_senat
+Pouvoir du Sénat
+
+#legit_senat_c
+[pas encore mis en œuvre]
+
+#legit_approv
+Approbation de personnes
+
+#legit_approv_c
+[pas encore mis en œuvre]
+
+#legit_minist
+Pouvoir du ministère
+
+#legit_minist_c
+[pas encore mis en œuvre]
+
+#legit_inf_pos
+Le facteur [x] a actuellement une influence positive sur notre légitimité. ([y])
+
+#legit_inf_neg
+Le facteur [x] a actuellement une influence négative sur notre légitimité. ([y])
+
+#legit_inf_neut
+Le facteur [x] n'a actuellement aucune influence sur notre légitimité.
+
+#statepow_dscr
+Le pouvoir d'État est la capacité de votre État à gérer les choses. Les politiques de pouvoir définissent comment le pouvoir politique est organisé dans l'État, générant le pouvoir de l'État et affectant différents types de légitimité. Le pouvoir d'État augmente la loyauté des territoires.
+
+#statepow_tot
+Puissance totale de l'État
+
+#statepow_civ
+Politiques d'alimentation
+
+#statepow_civ_c1
+Le pouvoir total de l'État généré par les politiques de puissance actuellement actives.
+
+#statepow_upk
+Maintenance des politiques
+
+#statepow_upk_c1
+Le pouvoir total de l'État consommé par toutes les politiques actuellement actives.
+
+#statepow_nbcit
+Nombre de régions
+
+#statepow_nbcit_c1
+Nous contrôlons actuellement [x] régions supplémentaires. Chaque région, outre le capital, coûte le pouvoir de l'État.
+
+#statepow_debt
+Dette
+
+#statepow_debt_c1
+La dette réduit le pouvoir de l'État et nous avons actuellement une dette de [x] pièces de monnaie.
+
+#statepow_hon
+Déshonorer
+
+#statepow_hon_c1
+Personne ne veut servir un leader déshonorant! L'honneur négatif réduit le pouvoir d'État (honneur actuel: [x]).
+
+#statepow_tmain
+Maintenance des traités
+
+#statepow_tmain_c1
+Tous les traités actifs coûtent un certain pouvoir d'État à maintenir, selon la nature de nos termes dans les traités.
+
+#statepow_powtr
+Transferts de puissance d'état
+
+#statepow_powtr_c1
+Le pouvoir d'État est transféré à d'autres gouvernements ou en provenance d'autres gouvernements en raison des traités actifs en vigueur.
+
+#statepow_civmnt
+Maintenance civique
+
+#statepow_civmnt_c1
+Le coût de l'électricité pour maintenir tous les civiques actuellement actifs.
+
+#statepow_nation
+Nation
+
+#statepow_nation_c1
+Pouvoir de l'État transféré des subordonnés: [x]
+
+#statepow_nation_c2
+Pouvoir de l'État transféré aux subordonnés: [x]
+
+#statepow_nation_c3
+Nombre de subordonnés directs: [x]
+
+#statepow_nation_c4
+Distance des subordonnés directs: [x]
+
+#conf_c1
+Le conflit effectif actuel du territoire
+
+#conf_var_c1
+La variation de conflit actuelle du territoire
+
+#conf_gpop
+Population
+
+#conf_gstate
+Politiques
+
+#conf_gserv
+Prestations de service
+
+#conf_pop
+Conflit de base
+
+#conf_pop_c1
+La population totale du territoire engendrera naturellement des conflits, utilisés comme base pour d'autres facteurs.
+
+#conf_state
+Politiques ([x]%)
+
+#conf_state_c1
+Les politiques gouvernementales actuelles peuvent affecter le conflit de base de la population.
+
+#conf_serv
+Services ([x]%)
+
+#conf_serv_c1
+Les services sur le territoire comme la justice peuvent réduire le niveau de conflit final, en fonction de l'accès de la population.
+
+#loyal_c1
+La loyauté effective actuelle du territoire
+
+#loyal_var_c1
+La variation de loyauté actuelle du territoire
+
+#loyal_pop
+population
+
+#loyal_pop_c1
+Comment les facteurs de population affectent la loyauté du territoire.
+
+#loyal_cult
+de l'équilibre culturel
+
+#loyal_cult_c1
+L'équilibre entre les cultures étatiques et locales peut affecter positivement ou négativement la loyauté du territoire.
+
+#loyal_state
+Etat
+
+#loyal_state_c1
+Comment les facteurs mondiaux affectent la loyauté du territoire.
+
+#loyal_legit
+de la légitimité de l'État
+
+#loyal_legit_c1
+La légitimité de l'État affecte la loyauté de tous les territoires.
+
+#loyal_statepow
+du pouvoir de l'État
+
+#loyal_statepow_c1
+Le pouvoir d'État affecte la loyauté de tous les territoires.
+
+#loyal_hightax
+impôts élevés
+
+#loyal_hightax_c1
+Lorsque la somme de toutes les taxes d'Etat dépasse 50%, cela commence à bouleverser les gens et à réduire leur loyauté envers l'Etat.
+
+#loyal_prvldg
+privilèges
+
+#loyal_prvldg_c1
+Privilèges déranger les gens et réduire leur loyauté à l'Etat.
+
+#loyal_autho
+autorité
+
+#loyal_autho_c1
+Comment les différents facteurs d'autorité affectent la loyauté du territoire.
+
+#loyal_statearmy
+troupes d'état
+
+#loyal_statearmy_c1
+La présence de troupes d'état augmente l'autorité de l'Etat sur le territoire.
+
+#loyal_guard
+gardes
+
+#loyal_guard_c1
+Le service de gardiennage total augmente l'autorité de l'Etat.
+
+#loyal_garrison
+garnison locale
+
+#loyal_garrison_c1
+Fournir du matériel militaire aux citoyens du territoire pour se défendre les rend également plus confiants pour défier l'autorité de l'État.
+
+#loyal_poppow
+quantité de population
+
+#loyal_poppow_c1
+Plus il y a de population, moins il y a d'autorité. Le montant total de la population réduit la loyauté du territoire.
+
+#loyal_conf
+conflit
+
+#loyal_conf_c1
+Le conflit de territoire réduit l'autorité de votre gouvernement dans ce territoire car il crée l'instabilité.
+
+#loyal_events
+événements
+
+#loyal_events_c1
+Certains événements peuvent affecter temporairement la loyauté du territoire.
+
+#loyal_revolts
+révoltes récentes
+
+#loyal_revolts_c1
+Les troubles récents et les révoltes augmentent temporairement la loyauté du territoire
+
+#loyal_stateev
+événements d'état récents
+
+#loyal_stateev_c1
+Événements étatiques récents affectant temporairement la loyauté du territoire
+
+#loyal_resist
+la résistance!
+
+#loyal_resist_c1
+Loyalistes à l'ancien propriétaire de ce territoire ([x])
+
+#loyal_lvl0
+critique déloyal! très haut risque de rébellion
+
+#loyal_lvl1
+faible loyauté: il y a un risque de rébellion
+
+#loyal_lvl2
+loyauté questionnable: il y a un risque modéré d'agitation
+
+#loyal_lvl3
+bonne loyauté: ce territoire est stable
+
+#loyal_lvl4
+dévoué: la loyauté de ce territoire envers l'Etat est indiscutable
+
+#admin_capacit
+production
+
+#admin_capacit_c1
+Total de l'administration disponible sur ce territoire.
+
+#admin_streg
+politiques territoriales
+
+#admin_streg_c1
+Administration générée à partir de stratégies de puissance active affectant tous les territoires.
+
+#admin_stcity
+politiques de la ville
+
+#admin_stcity_c1
+Administration generated from active power policies affecting cities.
+
+#admin_stcap
+capital policies
+
+#admin_stcap_c1
+Administration generated from active power policies affecting the capital.
+
+#admin_scrib
+scribes
+
+#admin_scrib_c1
+Extra administration produced by Scribes.
+
+#admin_reg
+local
+
+#admin_reg_c1
+Facteurs locaux affectant l'administration.
+
+#admin_pop
+gestion de la population
+
+#admin_pop_c1
+Coût d'administration de la population de ce territoire.
+
+#admin_bdg
+gestion des bâtiments
+
+#admin_bdg_c1
+Coût total des bâtiments nécéssiant de l'administration dans ce territoire.
+
+#admin_glob
+global
+
+#admin_glob_c1
+Facteur généraux affectant l'administration de ce territoire.
+
+#admin_nbcit
+nombre de régions
+
+#admin_nbcit_c1
+-[x]% d'administration par région autre que la capitale
+
+#admin_nbcit_c2
+nombre de regions sous votre contrôle: [x]
+
+#admin_dist
+distance de la capitale
+
+#admin_dist_c1
+-[x]% d'administration par case de distance avec la capitale
+
+#admin_dist_c2
+distance de la capitale: [x]
+
+#admin_claim
+Revendication régionale
+
+#admin_claim_c1
+Le coût de gestion de toutes les revendications territoriales faites par cette région.
+
+#admin_claim_c2
+nombre de revendications: [x]
+
+#admin_ter
+Territoires régionaux
+
+#admin_ter_c1
+Le coût de gestion de tous les territoires supplémentaires appartenant à cette région.
+
+#admin_ter_c2
+nombre de territoires annexés: [x]
+
+#cultr_state
+culture d'état
+
+#cultr_local
+culture local
+
+#cultr_pop
+culture de la population
+
+#cultr_srv
+culture des services
+
+#eco_balance
+Équilibre
+
+#growth_males
+Variation des porcos
+
+#growth_sows
+Variation des porcasses
+
+#growth_piglets
+Variation de porcelets
+
+#growth_oldpigs
+Oldpigs variation
+
+#growth_mnew
+orcelets mâles atteignant l'âge adulte
+
+#growth_msick
+maladie
+
+#growth_mmurder
+meurtres
+
+#growth_mage
+Porcos agés devenant vieux
+
+#growth_munitsup
+vieillissement dans les formations: [x] porcos dans les unités soutenues (support gratuit pour [y])
+
+#growth_snew
+porcelets femelles atteignant l'âge adulte
+
+#growth_ssick
+maladie
+
+#growth_smurder
+meurtres
+
+#growth_sage
+les porcasses vieillissantes devienant vieilles
+
+#growth_pnew
+naissances
+
+#growth_psick
+maladie
+
+#growth_pmurder
+meurtres
+
+#growth_page
+atteindre l'âge adulte
+
+#growth_onew
+population vieillissante devenant oldpigs
+
+#growth_osick
+maladie
+
+#growth_omurder
+meurtres
+
+#growth_odeath
+décès naturels
+
+#breed_chance
+taux de reproduction
+
+#breed_chance_dscr
+Le pourcentage prédictif de porcasses qui auront des porcelets au cours de la prochaine génération.
+
+#breed_chance_c
+[x] porcasses se reproduiront au cours de la prochaine génération.
+
+#breed_base
+taux de reproduction de base
+
+#breed_intel
+influence de l'intelligence
+
+#breed_totpop
+Effet total de la population
+
+#breed_piglets
+l'influence des porcelets par porcasse
+
+#breed_smcity
+petite ville boost
+
+#breed_vit
+influence du manque de besoins vitaux
+
+#breed_fertil
+la fertilité
+
+#breed_fertil_c
+le nombre moyen de porcelets par portée
+
+#growth_genlen
+durée d'une génération
+
+#growth_genlen_c1
+La quantité de temps qu'une génération de Porcos dure.
+
+#growth_genlen_c2
+Les porcs vivent jusqu'à 5 générations: une comme porcelet, 3 adultes et 1 vieux. Cela fait durer leur durée de vie totale jusqu'à [x].
+
+#growth_pergen
+prévision de la prochaine génération
+
+#growth_pergen_c
+variation prévue de la population totale pour la prochaine génération
+
+#growth_c
+taux de variation actuel de la population totale
+
+#ui_growthdel
+Estimé pour la prochaine génération ...
+
+#troop_recruit
+recruter une nouvelle troupe
+
+#b_dplmode
+Outil stratégique
+
+#bc_dplmode
+Passez en mode déploiement, où vous pouvez gérer les positions de déploiement et les ordres de toutes vos troupes.
+
+#forminv_add
+ajouter des ressources
+
+#ui_recruit_resist
+Vous ne pouvez pas recruter de nouvelles unités dans un territoire avec de la résistance.
+
+#ui_recruit_nothm
+Vous ne pouvez pas recruter de nouvelles unités en dehors du territoire d'origine de cette formation ([x]).
+
+#ui_recruit_cant
+Vous ne pouvez pas recruter ou dissoudre des troupes dans des territoires que vous ne contrôlez pas.
+
+#ui_recruit_noup
+( L'entretien des milices est plus faible car il n'inclut pas le salaire d'un soldat )
+
+#ui_recruit_nopop
+( Pas de population mobilisée parce que c'est une milice locale )
+
+#ui_recruit_max_pop
+Plus de population nécessaire!
+
+#ui_recruit_max_ts
+La taille maximale de cette troupe est de [x] unités.
+
+#ui_recruit_max_res
+[x] nécessaire!
+
+#ui_recruit_cost
+Coût par unité
+
+#ui_recruit_civ
+unités civiles
+
+#ui_recruit_inf
+unités de mêlée
+
+#ui_recruit_arc
+unités à distance
+
+#ui_recruit_cav
+unités montées
+
+#ui_recruit_full
+Cette formation est pleine!
+
+#ui_recruit_totpop
+Population totale disponible pour cette unité sur le territoire: [x]
+
+#ui_recruit_inact
+Actuellement inactifs: [x]
+
+#ui_statunit_t
+Résistance
+
+#ui_statunit_t_dscr
+La résistance est la capacité de l'unité à résister aux dégâts lorsqu'elle est touchée, elle détermine ses chances d'être réellement blessée.
+
+#ui_statunit_a
+Armure
+
+#ui_statunit_a_dscr
+L'armure donne des chances de détourner les coups ennemis.
+
+#ui_statunit_m
+Vitesse de déplacement
+
+#ui_statunit_m_dscr
+La vitesse de déplacement de l'unité. Affecte également la vitesse de déplacement de la formation dans la carte du monde (l'unité la plus lente définit la vitesse sur la carte du monde).
+
+#ui_statunit_mass
+Masse
+
+#ui_statunit_mass_dscr
+La masse de l'unité combinée à sa vitesse donne un bonus de dégâts lors de la charge.
+
+#ui_statunit_ms
+Compétence de mêlée
+
+#ui_statunit_ms_dscr
+En mêlée, la capacité de toucher les ennemis et d'esquiver leurs attaques dépend de la différence de compétence de mêlée entre les 2 adversaires.
+
+#ui_statunit_md
+Dégâts de mélée
+
+#ui_statunit_md_dscr
+Amount of damage inflicted to the enemy when hit.
+
+#ui_statunit_rch
+Portée de mélée
+
+#ui_statunit_rch_dscr
+En mêlée, une portée plus élevée que celle de l'adversaire donne un bonus à toucher. Reach donne également un bonus pour frapper en mêlée contre des unités de masse supérieure.
+
+#ui_statunit_rs
+Compétence à distance
+
+#ui_statunit_rs_dscr
+La capacité de frapper des ennemis dans un combat à distance.
+
+#ui_statunit_rd
+Dégâts à distance
+
+#ui_statunit_rd_dscr
+Quantité de dégâts infligés à l'ennemi lorsqu'il est touché.
+
+#ui_statunit_rg
+Portée
+
+#ui_statunit_rg_dscr
+Pour les unités à distance, c'est la distance maximale (dans les cases de terrain) à laquelle elles peuvent engager des ennemis.
+
+#ui_statunit_p
+Pillage
+
+#ui_statunit_p_dscr
+La capacité de pillage de l'unité. Améliore la vitesse et l'efficacité du pillage des bâtiments ennemis.
+
+#ui_statunit_c
+Capacite de transport
+
+#ui_statunit_c_dscr
+La quantité de ressources que cette unité peut transporter. La capacité d'inventaire de la formation est la somme de toutes les capacités de charge.
+
+#ui_troop_reinforce
+Renforcer
+
+#ui_troop_disband
+Dissoudre
+
+#ui_troop_transfer
+Transfert
+
+#ui_trptrans_c
+Choisissez une troupes de destination
+
+#ui_formtrans_c
+Choisissez une formation de destination
+
+#ui_formtrans_samform
+même formation
+
+#ui_formtrans_newtr
+nouvelle troupe
+
+#ui_formtrans_unavail
+[indisponible]
+
+#ui_foinv_cant
+Vous ne pouvez pas prendre de ressources à partir d'un territoire que vous ne contrôlez pas!
+
+#ui_foinv_load
+Charger des ressources dans l'inventaire de la formation
+
+#ui_foinv_unload
+Décharger des ressources de l'inventaire de la formation
+
+#ui_foinv_destr
+Détruire les ressources de l'inventaire de la formation
+
+#ui_foinv_choose
+Choisissez une ressource
+
+#ui_foinv_loadfrm
+Où charger les ressources de
+
+#ui_foinv_unlodto
+Où décharger les ressources
+
+#ui_foinv_target
+Stockages du territoire
+
+#ui_reg_build_tertool
+outils de terrain
+
+#ui_reg_build_tertool_c
+modifier les hauteurs de terrain
+
+#ui_tertool
+OUTIL DE HAUTEUR DE TERRAIN
+
+#ui_tertool_1
+Augmenter la hauteur: Ctrl + molette de la souris vers le haut
+
+#ui_tertool_2
+Diminuer la hauteur: ctrl + molette de la souris vers le bas
+
+#ui_tertool_3
+Annuler et fermer: clic-droit
+
+#ui_tertool_4
+Confirmer le travail et fermer: barre d'espace
+
+#ui_tertool_add
+Ajouter
+
+#ui_tertool_dig
+Creuser
+
+#ui_tertool_bal
+Déséquilibre
+
+#ui_tertool_cost
+coût prévu en outils pour effectuer cette tâche
+
+#ui_tertool_penal
+Pénalité de déséquilibre
+
+#ui_tertool_dscr
+Cela montre seulement un aperçu des modifications. Si vous validez cette tâche, les cases modifiées seront marquées et seront travaillées au fil du temps pour correspondre à cet aperçu, en consommant également des ressources d'outils dans le processus.
+
+#ui_tertool_warn1
+Cette case manque de support pour atteindre cette hauteur!
+
+#ui_tertool_warn2
+Certaines cases manquent de support pour atteindre la hauteur désirée!
+
+#ui_reg_build_plat
+Plateformes
+
+#ui_reg_build_plat_c
+construire des plateformes
+
+#ui_plattool
+OUTIL PLATEFORME
+
+#ui_plattool_1
+Définir la hauteur de la plate-forme: ctrl + molette de la souris
+
+#ui_plattool_2
+Mode pont: maintenir maj
+
+#ui_plattool_3
+Cancel and close : clic-droit
+
+#ui_plattool_4
+Confirm work and close: barre d'espace
+
+#ui_plattool_cost
+coût prévu pour construire ces plates-formes
+
+#ui_plattool_dscr
+Cela montre seulement un aperçu des modifications. Si vous validez cette tâche, les cases modifiées seront marquées et les plates-formes seront construites au fil du temps pour correspondre à cet aperçu, consommant également des ressources dans le processus.
+
+#ui_builderr_ter
+Vous ne pouvez pas placer ce(tte) [x] ici.
+
+#ui_builderr_res
+Il vous manque [x] de [y] pour construire ce [z].
+
+#ui_builderr_coin
+Vous n'avez pas assez de pièces pour construire ceci [x].
+
+#ui_builderr_ptf
+Ce bâtiment ne peut être placé que sur des plateformes.
+
+#ui_builderr_onres
+Ce bâtiment ne peut être placé que sur une ressource qu'il peut exploiter.
+
+#ui_builderr_shore
+Doit être placé sur une rive d'une profondeur minimale de [x].
+
+#ui_builderr_dist
+Ce bâtiment doit être au moins [x] cases de tout autre bâtiment du même type.
+
+#ui_builderr_stairs
+Les escaliers ne peuvent être placés qu'à côté d'une tuile d'élévation plus élevée.
+
+#ui_builderr_gate
+Les portes ne peuvent être placées que près d'une plateforme de type pont suffisamment élevée.
+
+#ui_builderr_water
+Ce bâtiment ne peut pas être placé sur l'eau.
+
+#ui_builderr_mustw
+Ce bâtiment doit être placé sur de l'eau d'au moins [x] de profondeur.
+
+#ui_builderr_adjcnt
+Doit être placé à côté de son propriétaire.
+
+#ui_builderr_bldrs
+Ce bâtiment nécessite une construction professionnelle et vous n'avez aucun constructeur.
+
+#ui_builderr_inaxss
+Vous ne pouvez pas placer ceci ici parce que cette zone est actuellement inaccessible!
+
+#ui_builderr_noprd
+Il n'y a rien à exploiter par ce bâtiment ici.
+
+#ui_dpltool_needreg
+Vous devez être dans la vue de territoire pour personnaliser les déploiements de troupes!
+
+#ui_dpltool
+OUTIL STRATÉGIQUE
+
+#ui_dpltool_dscr
+Concevez la stratégie défensive de votre territoire au cas où il serait attaqué.
+
+#ui_dpltool_done
+TERMINÉ
+
+#ui_dpltool_addz
+Ajouter une nouvelle zone défensive
+
+#ui_dpltool_matt
+Prendre part à la bataille
+
+#ui_dpltool_matt_dscr
+La troupe se redéploiera pour faire face à toute menace entrante et engagera immédiatement une bataille de terrain. La position de déploiement actuelle de la troupe n'a donc aucune importance dans ce mode
+
+#ui_dpltool_mdef
+Engagement restreint
+
+#ui_dpltool_mdef_dscr
+La troupe engagera tout ennemi entrant dans la zone spécifiée depuis sa position initiale de déploiement. La troupe se déplacera de façon nécessaire pour le faire.
+
+#ui_dpltool_mzon
+Zone défensive
+
+#ui_dpltool_mzon_dscr
+La troupe reste dans la zone défensive sélectionnée et empêche les ennemis d'y entrer. La troupe se déplacera dans la zone pour faire face à tout ennemi entrant. Les unités à distance engageront n'importe quel ennemi à portée du bord de la zone.
+#ui_dpltool_mstand
+Stand ground
+
+#ui_dpltool_mstand_dscr
+La troupe gardera cette position quoi qu'il arrive et ne s'engagera que s'il y a un contact immédiat. Si c'est une unité à distance, elle tirera sur toute cible disponible de cette position.
+
+#ui_dpltool_mult
+Multiple
+
+#ui_dpltool_mult_dscr
+Les troupes sélectionnées sont actuellement dans différents modes. Sélectionnez-en un pour appliquer le même mode à toutes les troupes sélectionnées.
+
+#ui_dpltool_multsel
+sélection multiple ([x] troupes)
+
+#ui_dpltool_curmode
+définir la stratégie des troupes sélectionnées
+
+#ui_dpltool_needdefz
+Vous devez placer au moins une zone défensive avant de pouvoir y affecter des troupes.
+
+#ui_dpltool_maxdefz
+Vous avez atteint le nombre maximum de zones défensives.
+
+#ui_dpltool_delzon
+Supprimer cette zone
+
+#bc_menuform_disb
+Dissoudre la formation
+
+#bc_menuform_movc
+Déplacer la position du camp
+
+#bc_menuform_disb_1
+Êtes-vous sûr de vouloir dissoudre cette formation?
+
+#bc_menuform_disb_2
+Si vous démantelez cette formation dans l'un de vos territoires contrôlés, tout l'inventaire et l'équipement des troupes seront déchargés sur le territoire. Toutes les unités intégreront leur population (si ce n'est pas locale).
+
+#bc_menuform_disb_3
+Vous ne pouvez pas dissoudre dans les territoires que vous ne contrôlez pas!
+
+#menuform_disb_err1
+Vous ne pouvez pas dissoudre cette formation ici!
+
+#ui_wregown_smes
+envoyer le message
+
+#ui_wregown_war
+déclarer la guerre
+
+#ui_confwar_title
+DÉCLARATION DE GUERRE
+
+#ui_confwar
+Êtes-vous sûr de vouloir déclarer la guerre?
+
+#contact_sending
+Envoyer un message à [x] de [y] ...
+
+#contact_messto
+Message à [x] de [y]
+
+#contact_pptreat
+Proposer un traité
+
+#contact_pptreat_c
+Joindre une proposition de traité à ce message
+
+#contact_messfrom
+Message de [x]
+
+#contact_greet
+Salutations,
+
+#contact_renegoc
+Salutations, je souhaite négocier les termes de notre traité actuel et voici mon offre.
+
+#contact_reply
+Répondre au message
+
+#treated_off
+Offres disponibles:
+
+#treated_dem
+Exigences disponibles:
+
+#treated_dur
+durée du traité
+
+#treated_dur_c1
+après cette durée, le traité prendra fin
+
+#treated_dur_c2
+(Certains termes du traité sont permanents et resteront actifs même lorsque la durée du traité est terminée, mais ils peuvent être annulés sans aucune pénalité)
+
+#treated_new
+NOUVEAU TRAITÉ
+
+#treated_pers
+Reste efféctif même après la durée du traité, mais il peut être annulé sans interruption
+
+#treated_inst
+Appliqué une fois, à la signature du traité
+
+#treaterm_coins
+Pièces de monnaie
+
+#treaterm_noidea
+Pas de connaissances à partager!
+
+#treaterm_noreg
+Aucun territoire valide pour le transfert!
+
+#b_endtreaty
+Rompre le traité!
+
+#b_endtreaty_c1
+Le traité sera immédiatement résilié. Les close de pénalité de rupture de votre côté s'appliqueront
+
+#b_endagreed
+Demander la résiliation
+
+#b_endagreed_c1
+Demandez à l'autre partie une résiliation convenue. Si accepté, aucune close de pénalité de rupture ne s'appliquera.
+
+#b_renegoc
+Renégocier
+
+#b_renegoc_c1
+Envoyer une proposition de renégociation. Si l'autre partie est d'accord, le traité actuel sera mis à jour.
+
+#ui_treat_termsent
+Demande d'accord pour mettre fin à ce traité envoyé à l'autre partie!
+
+#ui_treat_eng1
+Vous êtes actuellement engagé par ce traité! Si vous choisissez d'y mettre fin de toute façon, vos clauses de pénalité de rupture s'appliqueront. Vous paierez [x] pièces de monnaie ([y]% de votre PIB) et perdrez [z] honneur.
+
+
+#ui_treat_eng2
+Cela ne déclenchera pas la guerre avec [x].
+
+#ui_treat_eng3
+Cela déclenchera la guerre avec [x].
+
+#ui_treat_end
+Vous n'êtes pas engagé par ce traité et pouvez choisir d'y mettre fin sans pénalité. Tous ses termes cesseront de s'appliquer pour les deux membres. Êtes-vous sur de vouloir continuer ?
+
+#menuevt_title
+ÉVÉNEMENTS
+
+#menuevt_trpow
+% du pouvoir d'Etat transféré
+
+#menuevt_tax
+% du revenu des pièces de monnaie transféré
+
+#menuevt_invalid
+entrée invalide!
+
+#menuevt_empty
+Aucun événement à afficher
+
+#menuevt_new
+Nouveaux événements
+
+#menuevt_all
+Tous les évènements
+
+#menuevt_dipl
+Diplomatique
+
+#menuevt_mil
+Militaire
+
+#menuevt_state
+Etat
+
+#menuevt_nation
+Nation
+
+#menuevt_miss
+Missions
+
+#menuevt_ideas
+Idées
+
+#menuevt_trade
+Commerce
+
+#menuevt_objv
+Objectifs
+
+#menuevt_rewd
+Récompenses
+
+#menuevt_prgrs
+actuel
+
+#menuevt_comp
+terminé!
+
+#menuevt_incomp
+incomplet
+
+#menuevt_trt_no
+Refuser le traité
+
+#menuevt_trt_reneg
+Proposer une contre-offre
+
+#menuevt_trt_yes
+Accepter le traité
+
+#ui_evt_goto
+Aller à la région
+
+#ui_form_nb
+Nombre d'unités dans cette formation.
+
+#ui_form_threat
+Force militaire de cette formation.
+
+#ui_form_mltreq
+Requiert [x] Porcos dans le territoire.
+
+#ui_form_mltmiss
+Pas assez de population pour complètement remplir cette milice!
+
+#ui_form_diplo_p1
+Cette formation est pacifique envers nous.
+
+#ui_form_diplo_p2
+Nous pouvons camper dans leur territoire ou le traverser leur territoire en toute sécurité.
+
+#ui_form_diplo_h1
+Cette formation est hostile envers nous!
+
+#ui_form_diplo_h2
+Si cette formation rencontre l'une de nos unités dans un même territoire ou si nous essayons de passer par leur emplacement actuel, cela déclenchera une bataille.
+
+#ui_form_sprt
+Ville natale
+
+#ui_form_sprt_c1
+La ville natale qui soutient ces unités: les porcos vieillissent et doivent être remplacés par de nouveaux porcos de la ville natale.
+
+#ui_form_sprt_c2
+Cette formation nécessite actuellement [x] porcos par génération de sa ville natale pour être maintenue.
+
+#ui_form_sethome
+Définir le territoire actuel comme ville natale
+
+#ui_form_invhom_1
+Vous ne pouvez pas définir des territoires vides comme ville natale: elle doit être un territoire que vous possédez.
+
+#ui_form_invhom_2
+Vous ne pouvez pas définir des territoires étrangers comme ville natale: elle doit être un territoire que vous possédez.
+
+#ui_form_upkp
+Entretien de cette formation
+
+#ui_form_upkp1
+(équipement + salaire du soldat)
+
+#ui_form_upkp2
+(entretien inférieur pour les milices: seulement l'équipement)
+
+#ui_conf_sure
+Êtes-vous sûr?
+
+#ui_conf_renonce
+Vous ne contrôlerez plus ce territoire. Laissé à lui-même, ce territoire tombera dans l'anarchie.
+
+#ui_conf_abandon
+Le territoire sera nettoyé. Toute sa population sera transférée en une formation ou plus, en prenant toutes les ressources qu'ils peuvent porter avec eux.
+
+#ui_conf_capital
+Voulez-vous vraiment définir ce territoire comme votre nouvelle capitale?
+
+#b_renonce
+Renoncer au contrôle de ce territoire
+
+#err_reg_rnnc1
+Vois ne pouvez renoncer à ce territoire tant qu'il y a une bataille.
+
+#b_abandon
+Évacuer ce territoire
+
+#err_reg_abdn1
+Ce territoire ne peut pas être évacué tant qu'une bataille s'y déroule.
+
+#err_reg_abdn2
+Ce territoire ne peut pas être évacué car sa loyauté est trop faible.
+
+#err_reg_abdn3
+Ce territoire ne peut pas être évacué car il a un mouvement de résistance.
+
+#b_regclaim
+Revendiquer le territoire
+
+#b_regunclaim
+Enlever la revendication du territoire
+
+#regclaim_title
+Revendication de territoire ...
+
+#regclaim_txt
+Vous pouvez revendiquer ce territoire et l'attacher à l'un de vos territoires. Cela coûtera de l'administration à ville principale du territoire.
+
+#regclaim_par
+Territoire parent
+
+#regclaim_err1
+Vous ne pouvez pas revendiquer ce territoire parce qu'il est actuellement occupé par des unités étrangères!
+
+#regclaim_err2
+Administration insuffisante! Vous ne pouvez pas revendiquer de nouveaux territoires avec cette région.
+
+#regclaim_err3
+Les colonies ne peuvent pas revendiquer de nouveaux territoires!
+
+#regclaim_acst
+Coût administratif
+
+#regclaim_acst_c1
+Le maintien de cette revendication coûtera [x] de l'Administration du territoire d'origine.
+
+#b_movcapit
+Définir ce territoire comme capitale
+
+#b_actv_trt_perm
+engagement permanent
+
+#b_actv_trt_engov
+engagement sur
+
+#b_actv_trt_eng
+engagé pour
+
+#b_actv_trt_m1
+Vous
+
+#b_actv_trt_m2
+L'autre
+
+#b_actv_trt_cancel
+annuler le traité
+
+#ui_wrldmov_er1
+Cette formation est déjà sur le territoire.
+
+#ui_wrldmov_er2
+Tu ne peux pas bouger ici.
+
+#ui_wrldmov_er3
+Cette formation est actuellement immmobilisée et ne peut pas bouger!
+
+#ui_wrldmov_er4
+Vous ne pouvez pas vous déplacer ici car vous n'avez aucun droit de passage avec le propriétaire de ce territoire!
+
+#formimob_er1
+Vous ne pouvez pas donner d'ordres à cette formation car elle est actuellement immobilisée!
+
+#ui_bdg_nbprod
+Nombre de travailleurs affectés à la production
+
+#ui_bdg_nbdstb
+Nombre de travailleurs affectés à la vente des biens produits de ce bâtiment.
+
+#ui_bdg_nbrsrch
+Nombre de travailleurs occupés avec les projets de recherche en cours.
+
+#ui_bdg_nbrsrch2
+[x] [y] sur [z] dans ce territoire sont actuellement affectés à des projets de recherche.
+
+#ui_bdg_ef_dscr
+L'efficacité actuelle des travailleurs, affectant l'effectif total du bâtiment.
+
+#ui_bdg_wf_dscr
+La quantité totale de travail que ce bâtiment peut actuellement faire.
+
+#ui_bdg_wf_dscr2
+[x] production de travailleurs * [y] efficacité = [z] de l'efficacité total
+
+#ui_bdg_wl_dscr
+67/5000
+Combien ce bâtiment contribue à la richesse du territoire total.
+
+#ui_bdg_wl_dscr2
+[x] de la main-d'œuvre productive * [y] = [z] de la richesse additionnelle
+
+#ui_bdg_wu_dscr
+Quelle proportion de la main-d'œuvre disponible est actuellement utilisée et occupée à produire?
+
+#ui_bdg_wu_dscr2
+Si elle est inférieure à 100%, cela signifie que les travailleurs ne travaillent pas à pleine capacité.
+
+#ui_bdg_ef1_dscr
+L'efficacité de base du bâtiment lui-même.
+
+#ui_bdg_ef1_dscr2
+Peut être augmenté en améliorant le bâtiment, déverrouillé par les technologies.
+
+#ui_bdg_ef2_dscr
+Effet total de l'état sur l'efficacité de ce bâtiment.
+
+#ui_bdg_ef2_dscr2
+De nombreuses politiques affectent l'efficacité des bâtiments.
+
+#ui_bdg_ef3_dscr
+Le placement du bâtiment affecte son efficacité.
+
+#ui_bdg_ef3_dscr2
+La connexion routière et la proximité de certains autres bâtiments peuvent affecter son efficacité [pas encore implémenté].
+
+#ui_bdg_proddet
+DÉTAILS
+
+#ui_bdg_pdet_1
+vente directe
+
+#ui_bdg_pdet_1_c
+[x]% de la production est mis directement sur le marché par les travailleurs de ce bâtiment.
+
+#ui_bdg_pdet_s
+[x]% ([y]) est vendu avec succès au prix de [z] par unité (les stocks invendus sont perdus).
+
+#ui_bdg_pdet_2
+via marchands
+
+#ui_bdg_pdet_2_c
+[x]% de la production est mise sur le marché via des commerçants qui conservent une part des bénéfices.
+
+#ui_bdg_pdet_3
+pour producteurs 
+
+#ui_bdg_pdet_3_c
+[x]% de la production est vendue à d'autres industries ou services.
+
+#ui_bdg_pdet_4
+exporté
+
+#ui_bdg_pdet_4_c
+[x]% de la production est exportée vers les marchés étrangers
+
+#ui_bdg_pdet_5
+vendu à l'État
+
+#ui_bdg_pdet_5_c
+Les revenus provenant des ventes à l'État (vous) sont amortis et transférés lentement aux travailleurs, générant des revenus plus longtemps.
+
+#ui_bdg_pdet_6
+Coût de production
+
+#ui_bdg_pdet_6_c
+Les dépenses pour acheter les matériaux requis pour la production.
+
+#ui_bdg_pdet_7
+revenu total
+
+#ui_bdg_pdet_7_c
+Le revenu brut total (avant taxes) pour cette production.
+
+#ui_bdgbudget_1
+Ventes
+
+#ui_bdgbudget_1_c
+Total des revenus bruts provenant de toutes les ventes réalisées par le bâtiment.
+
+#ui_bdgbudget_2
+Coût de production
+
+#ui_bdgbudget_2_c
+Le coût de tous les matériaux requis pour la production, le cas échéant.
+
+#ui_bdgbudget_3
+taxes
+
+#ui_bdgbudget_3_c
+Montant du revenu imposé par l'État (vous). C'est le revenu réel que l'activité de ce bâtiment génère pour vous.
+
+#ui_bdgbudget_4
+revenu du travailleur
+
+#ui_bdgbudget_4_c
+Le revenu net est parti après tous les coûts et taxes, partagés entre tous les travailleurs employés par ce bâtiment.
+
+#ui_bdgbudget_5
+part du producteur
+
+#ui_bdgbudget_5_c
+La part des ventes qui revient aux producteurs des ressources: les commerçants ne les paient qu'en fonction des ventes et les stocks invendus ne sont pas payés.
+
+#ui_bdgind_nbprd1
+Le nombre actuel de productions, en fonction de l'effectif du bâtiment et de la disponibilité des matériaux requis.
+
+#ui_bdgind_nbprd2
+Chaque production génère [x] unités de [y] et nécessite [z] de main-d'œuvre.
+
+#ui_bdgind_prcnt1
+Le taux de production actuel, en fonction de toutes les disponibilités du matériel requis.
+
+#ui_bdgind_prcnt2
+[x]% de l'effectif total de [y] travaille = [z] de la main-d'œuvre productive.
+#ui_bdgind_curprod
+Produits [x] de [y] [z].
+
+#ui_bdgind_curcons
+Consommes [x] de [y] [z] pour cette production.
+
+#ui_bdgind_mat1
+Défini pour utiliser [x] comme matériau pour produire [y]. Le besoin de ce matériel est satisfait à [z]%.
+
+#ui_bdgind_mat2
+Utiliser automatiquement [x] comme matériau pour produire [y]. Le besoin de ce matériel est satisfait à [z]%.
+
+#ui_bdgind_recip
+Il faut [x] de [y] pour chaque unité de [z] produite.
+
+#ui_bdgind_byprod
+Produire [x] [y] comme sous-produits.
+
+#ui_bdgcstr_title
+En construction...
+
+#ui_bdgcstr_self
+Auto-construction
+
+#ui_bdgcstr_self_c
+Certains bâtiments simples peuvent être construits sans les constructeurs professionnels, et se construiront même sans aucun.
+
+#ui_bdgcstr_bdrs
+Constructeurs
+
+#ui_bdgcstr_bdrs_c
+La quantité de travaux de construction que ce bâtiment reçoit actuellement des constructeurs professionnels.
+
+#ui_regres_inv
+Inventaire
+
+#ui_regres_inv_c
+Liste de toutes les ressources et services de ce territoire.
+
+#ui_regres_mtrd
+Métiers de marché
+
+#ui_regres_mtrd_c
+Acheter et vendre des stocks de ressources
+
+#ui_regres_trt
+Routes commerciales
+
+#ui_regres_trt_c
+Transférer un flux constant de ressources entre territoires.
+
+#ui_regres_addrt
+Nouvelle route commerciale
+#ui_regres_buysell
+Acheter et vendre
+
+#ui_regres_totimp
+Importations
+
+#ui_regres_totimp_c1
+Les marchandises importées sont achetées par vous à leur prix de route commerciale et sont ensuite vendues sur le territoire à leur prix local.
+
+#ui_regres_totimp_c2
+Coût d'achat de la route commerciale:
+
+#ui_regres_totimp_c3
+Ventes locales
+
+#ui_regres_totexp
+Exportations
+
+#ui_regres_totexp_c1
+Les marchandises exportées sont achetées par vous à leur prix local auprès des producteurs de ce territoire et sont ensuite vendues au prix de l'itinéraire de l'importateur.
+
+#ui_regres_totexp_c2
+Coût d'achat des producteurs locaux:
+
+#ui_regres_totexp_c3
+Revenus des ventes d'itinéraires commerciaux:
+
+#ui_regres_addofr
+Ajouter une offre
+
+#ui_regres_trsf
+TRANSFERT
+
+#ui_regres_imp
+IMPORTER
+
+#ui_regres_exp
+EXPORTATION
+
+#ui_regres_buy
+ACHETER
+
+#ui_regres_sell
+VENDRE
+
+#ui_regres_imps
+Importations actuelles
+
+#ui_regres_exps
+Exportations actuelles
+
+#ui_regres_oper
+Routes commerciales exploitées
+
+#ui_regres_makeav
+disponible dans le réseau de commerce
+
+#ui_regres_makeav_c
+Si activé, le service de cargo de ce territoire sera également disponible à la location à tous les membres de votre réseau commercial.
+
+#ui_regres_tax
+impôt
+
+#ui_regres_tax_c
+Imposer un pourcentage de la valeur totale de toutes les marchandises de chaque route commerciale exploitée par cette ville.
+
+#ui_regres_pndng
+Nos offres
+
+#ui_regres_prod
+Production
+
+#ui_regres_bal
+En stock
+
+#ui_regres_lprc
+Prix local
+
+#ui_regres_atprc
+au prix
+
+#ui_regres_noinp
+[tapez un nom de ressource]
+
+#ui_newofr_noprod
+Vous ne pouvez pas exporter cette ressource car vous n'en possédez aucune production ni aucun stock.
+
+#ui_newofr_notrd
+Pas assez de service commercial pour créer cette offre!
+
+#ui_newofr_sent
+Nouvelle offre de route commerciale envoyée!
+
+#ui_regres_pndng2
+Notre itinéraire commercial actuel offre:
+
+#ui_regres_off1
+Offres disponibles dans notre réseau de trading:
+
+#ui_regres_off2
+Offres concurrentes dans notre réseau de trading:
+
+#ui_regres_cancel
+Annuler l'offre commerciale
+
+#button_trtimp_c1
+Vous importez actuellement [x] de [y] de [z] dans ce territoire pour un total de [v] pièces de monnaie.
+
+#button_trtexp_c1
+Vous exportez actuellement [x] de [y] vers [z] pour un total de [v] pièces de monnaie.
+
+#button_trtcargo
+Exiger [x] de Cargo, opéré par [y].
+
+#ui_ofrcanceled
+Offre commerciale annulée!
+
+#ui_troute_opnw
+Ouverture d'une nouvelle route commerciale ...
+
+#ui_troute_optr
+Opérateur de route commerciale
+
+#ui_troute_dscr
+Une route commerciale transfère un flux constant de ressources entre les villes. Il nécessite un service de cargo pour fonctionner.
+
+#ui_troute_opdscr1
+L'opérateur de route commerciale est la ville qui s'occupe du transport des marchandises.
+
+#ui_troute_opdscr2
+Il peut s'agir de la ville ouvrant la route commerciale ou de toute autre ville au sein de votre réseau commercial qui a rendu un service de cargo disponible.
+
+#ui_troute_opdscr3
+Le coût du cargo est exponentiel à la distance de la route commerciale. Le choix d'une ville tierce située au milieu de votre route commerciale en tant qu'opérateur réduira considérablement son coût de cargo.
+
+#ui_troute_vol
+Volume de cargaison
+
+#ui_troute_cargorq
+CARGO REQUIS
+
+#ui_troute_cargorq_c1
+La quantité de service de cargo nécessaire pour exploiter cette route commerciale.
+
+#ui_troute_cargorq_c2
+facteur de distance * volume de chargement
+
+#ui_troute_distf
+Facteur de distance
+
+#ui_troute_distf_c1
+Ce facteur dépend de la plus longue des deux distances entre l'opérateur et chacune des destinations de l'itinéraire commercial.
+
+#ui_troute_distf_c2
+plus longue distance de l'opérateur
+
+#ui_troute_opetax
+TAXE D'EXPLOITATION
+
+#ui_troute_opetax_c1
+Un opérateur de routes commerciales peut également imposer un pourcentage de la valeur de toutes les marchandises transitant sur leur territoire.
+
+#ui_troute_maxava
+Cargo disponible
+
+#ui_troute_maxava_c1
+La quantité de service de cargo actuellement disponible dans l'opérateur.
+
+#ui_troute_edit
+Modification d'une route commerciale existante ...
+
+#ui_troute_apl1
+Route commerciale ouverte
+
+#ui_troute_apl2
+Appliquer
+
+#ui_troute_cgcost_c1
+Coût total du cargo utilisé par ce territoire comme opérateur de routes commerciales.
+
+#ui_troute_totcost
+COÛT TOTAL DE LA ROUTE
+
+#ui_troute_totcost_c1
+Le coût total du maintien de cette route commerciale.
+
+#ui_troute_bdgtdscr1
+L'État paie et détient la totalité des marchandises importées de la ville exportatrice, indépendamment de leur utilisation ultérieure.
+
+#ui_troute_bdgtdscr2
+Tous les revenus plus tard faits localement de la vente de ces marchandises sont alors entièrement pour l'état.
+
+#ui_troute_bgc
+coût des marchandises
+
+#ui_troute_bgc_c1
+Le coût d'achat de marchandises à la ville exportatrice.
+
+#ui_troute_bcc
+coût du cargo
+
+#ui_troute_bcc_c1
+Le coût du service de cargo acheté à l'opérateur de route commerciale.
+
+#ui_troute_bt
+taxe d'opérateur
+
+#ui_troute_bt_c1
+Le montant payé à l'opérateur taxant les marchandises transitant dans leur ville.
+
+#ui_troute_open
+Ouvrir une nouvelle route commerciale!
+
+#ui_troute_err1
+Impossible d'ouvrir une route commerciale car l'opérateur sélectionné ne peut pas fournir le service de cargo requis!
+
+#ui_troute_close
+Fermer cette route commerciale
+
+#menu_nfrm_title
+Créer une nouvelle formation ...
+
+#menu_nfrm_fname
+Nom de la formation
+
+#menu_nfrm_chtp
+Sélectionnez un type de formation
+
+#menu_nfrm_type1
+Armée
+
+#menu_nfrm_t1_dscr1
+Une armée est composée d'unités mobilisées en permanence, ce qui coût d'entretien.
+
+#menu_nfrm_t1_dscr2
+Ils ont besoin d'un soutien constant de leur ville natale pour remplacer les porcos vieillissants, et le recrutement de nouvelles unités enlève les porcs du territoire.
+
+#menu_nfrm_t1_dscr3
+Les armées peuvent se déplacer dans d'autres territoires et leur présence augmente l'autorité de l'État.
+
+#menu_nfrm_type2
+Milice
+
+#menu_nfrm_t2_dscr1
+Une milice est composée par la population du territoire elle-même, ne se mobilisant que pour défendre le territoire lorsqu'il est attaqué.
+
+#menu_nfrm_t2_dscr2
+Les milices ne monopolisent pas les porcos en permanence, ce qui leur permet de garder un emploi et son entretien est moins important, car les soldats n'ont pas besoin de salaire.
+
+#menu_nfrm_t2_dscr3
+Cependant, la milice ne peut pas se déplacer vers d'autres territoires et diminue l'autorité de l'État.
+
+#menu_trbuy_title
+Ressources d'achetées ...
+
+#menu_trbuy_buy
+ACHETER
+
+#menu_trbuy_cost
+Coût d'achat
+
+#menu_trbuy_bght
+Acheté [x] de [y] pour [z] pièces de monnaie!
+
+#ui_evidea_yes
+<< Oui, voyons ce dont ils ont besoin pour ce projet >>
+
+#ui_evidea_no
+<< C'est une perte de temps >>
+
+#menu_bdg_up_err1
+Il vous manque [x] de [y] pour mettre à jour ce bâtiment vers [z].
+
+#menu_bdg_up_err2
+Vous n'avez pas assez de pièces pour mettre à jour ce bâtiment à [x].
+
+#menu_bdg_up_err3
+Cette mise à niveau nécessite un constructeur professionnel et vous n'en avez aucun !
+
+#menu_tch_curknw
+Connaissances actuelles
+
+#menu_tch_curuse
+Utilisation des connaissances
+
+#menu_tch_curuse_c1
+Votre société a actuellement [x] de connaissances, et une capacité à stocker [y].
+
+#menu_tch_curuse_c2
+Vous perdrez des connaissances si votre capacité de stockage est inférieure à vos connaissances actuelles.
+
+#menu_tch_str_cult
+Culture
+
+#menu_tch_str_cult1
+La culture vous donne de la capacité de stockage des connaissances, proportionnellement à votre culture totale.
+
+#menu_tch_str_lbr
+Bibliothèques
+
+#menu_tch_str_lbr1
+Chaque bibliothèque en service augmente votre capacité de stockage des connaissances.
+
+#menu_tch_prjcts
+Projets
+
+#menu_tch_prj_cur
+Projets actuels
+
+#menu_tch_prj_avail
+Projets disponibles
+
+#menu_tch_prj_dnd
+Projets rejetés
+
+#menu_tch_prj_rwd
+Récompenses du projet:
+
+#menu_prj_inpgr
+En cours...
+
+#menu_prj_new
+Nouveau projet...
+
+#menu_prj_req
+Conditions de départ:
+
+#menu_prj_reqkn
+Vous avez besoin de [x] espace libre de connaissances pour lancer ce projet.
+
+#menu_prj_rcoin1
+Coût de base du projet: [x] pièces de monnaie
+
+#menu_prj_rcoin2
+Les matériaux requis coûtent: [x] pièces de monnaie
+
+#menu_prj_rmat1
+Besoins [x] [y] de [z]
+
+#menu_prj_rmat2
+(cliquez pour sélectionner un autre territoire)
+
+#menu_prj_start
+DÉBUT DU PROJET
+
+#menu_prj_diff
+Difficulté
+
+#menu_prj_work
+Recherché
+
+#menu_prj_rschrs
+Chercheurs
+
+#menu_prj_rwk
+Travail
+
+#menu_prj_rwk_c1
+Tous les chercheurs assignés génèrent actuellement [x] points de recherche [y].
+
+#menu_prj_rwk_c2
+* de [x] chercheurs principaux: [y] points de recherche.
+
+#menu_prj_rwk_c3
+* de [x] chercheurs supplémentaires: [y] points de recherche.
+
+#menu_prj_nb1
+Ce projet nécessite idéalement jusqu'à [x] chercheurs.
+
+#menu_prj_nb2
+Bien que vous puissiez affecter des chercheurs supplémentaires au-delà de ce nombre, leurs contributions au projet sont grandement réduites.
+
+#menu_prj_rtyp
+Ce projet nécessite [x] comme chercheurs.
+
+#menu_prj_bdgt_r
+Des chercheurs
+
+#menu_prj_bdgt_p
+Projet
+
+#menu_prj_bdgt
+Budget
+
+#menu_prj_bdgt_c1
+Le coût total d'entretien de ce projet, à payer continuellement jusqu'à la fin du projet.
+
+#menu_prj_norsch
+Affectez des chercheurs au projet pour pouvoir le démarrer!
+
+#menu_prj_pgrss
+Ce projet est achevé à [x]%
+
+#menu_prj_addnewr
+cliquez pour attribuer de nouveaux chercheurs au projet
+
+#menu_prj_br_c1
+[x] des chercheurs de [y] sont actuellement affectés à ce projet et produisent [z] des points de recherche pour le compléter.
+
+#menu_prj_br_c2
+(cliquez pour modifier le nombre de chercheurs assignés de ce territoire)
+
+#menu_prj_none1
+Vous n'avez aucun projet disponible!
+
+#menu_prj_none2
+Les projets sont débloqués par des «idées»: des événements déclenchés par votre population. Améliorer l'intelligence et la qualité de vie de votre population est généralement un bon moyen d'augmenter les chances d'obtenir de nouvelles idées.
+
+#menu_prj_none3
+Les projets nécessitent alors des chercheurs et du temps, ainsi que du matériel et un budget. Une fois terminé, en cas de succès, ils donnent des récompenses comme débloquer une nouvelle «connaissance».
+
+#menu_rschr_title
+Ajout de chercheurs ...
+
+#menu_rschr_type
+Recherche de population pour ce projet
+
+#menu_rschr_frm
+De
+
+#menu_rschr_time
+Temps estimé pour terminer ce projet
+
+#menu_rschr_odds
+Succès
+
+#menu_rschr_odds_c1
+Une fois terminé, ce projet a actuellement [x]% de chances de réussir et de déclencher ses récompenses. En cas d'échec, le projet devra être redémarré à partir de zéro.
+
+#menu_rschr_odds_c2
+100 + chercheurs efficacité [x] -difficulté [y] = [z]% de chances de succès
+
+#menu_rschr_all
+Toute la population
+
+#menu_rschr_noav
+Pas de [x] actuellement disponible dans cette ville!
+
+#prj_strt_err1
+Vous devez affecter des chercheurs avant de commencer ce projet!
+
+#prj_strt_err2
+Il vous manque des pièces pour lancer ce projet!
+
+#prj_strt_err3
+Il vous manque des matériaux nécessaires pour démarrer ce projet!
+
+#ui_tech_alw
+Permet...
+
+#ui_tech_bdg
+Nouveau bâtiment
+
+#ui_tech_res
+Nouvelle ressource
+
+#ui_tech_unit
+Nouvelle unité
+
+#ui_tech_pol
+Nouvelle politique
+
+#ui_tech_with
+avec...
+
+#ui_tech_forget
+Oubliez cette connaissance
+
+#ui_tech_cantfgt
+Vous ne pouvez pas oublier cette connaissance car elle est actuellement requise par d'autres plus récentes telles que: '[x]'.
+
+#ui_techfrgt_1
+Oubliez cette connaissance?
+
+#ui_techfrgt_2
+Attention! Cette action ne peut pas être annulée. Les connaissances seront immédiatement supprimées et vous perdrez tous ses effets actuels. Vous devrez à nouveau compléter son projet afin de le récupérer si nécessaire.
+
+#pop_all
+population totale
+
+#fstate_inact
+Au repos
+
+#fstate_mov
+En mouvement
+
+#fstate_fight
+En combat
+
+#fstate_immo
+Immobilisé
+
+#menu_scr_w
+Richesse
+
+#menu_scr_w_c
+Score de la richesse totale produite dans tous vos territoires.
+
+#menu_scr_c
+Culture
+
+#menu_scr_c_c
+Score de votre culture totale (culture d'état).
+
+#menu_scr_k
+Connaissances
+
+#menu_scr_k_c
+Score de vos connaissances totales.
+
+#menu_scr_p
+Militaire
+
+#menu_scr_p_c
+Score de votre puissance militaire totale. N'inclut pas les milices.
+
+#menu_scr_tot
+Score
+
+#menu_scr_tot_c
+Votre score personnel.
+
+#menu_scr_vpscr
+Du score d'équilibrage
+
+#menu_scr_vpscr_c1
+Le score d'équilibrage est votre score supérieur au score de référence de [y] pts. Vous obtenez 1 point de victoire pour chaque [x] pts de score d'équilibrage.
+
+#menu_scr_vpscr_c2
+Le score moyen et le coût de chaque point de victoire sont dynamiques et basés sur les scores de tous les joueurs.
+
+#menu_scr_vpmiss
+Missions
+
+#menu_scr_vpmiss_c
+Points de victoire gagnés en complétant des missions de points de victoire.
+
+#menu_scr_vp
+Points de victoire
+
+#menu_scr_vp_c
+Vos points de victoire personnels.
+
+#menu_scr_avg
+Score de référence
+
+#menu_scr_avg_c1
+Utilisé pour déterminer votre score d'équilibrage. Sa valeur est basée sur les scores de tous les joueurs.
+
+#menu_scr_avg_c2
+Avoir un score personnel au dessus de ça accorde des points de victoire.
+
+#menu_scr_vpcost
+Coût du point de victoire
+
+#menu_scr_vpcost_c
+Le nombre de points dont vous avez besoin au-dessus du score de référence pour chaque point de victoire.
+
+#menu_scr_frna
+pour la Nation
+
+#menu_scr_frnas_c
+De combien de points vous contribuez actuellement au score de votre nation.
+
+#menu_scr_frnavp_c
+De combien de points de victoire vous contribuez actuellement aux points de victoire de votre nation.
+
+#menu_nscr_name
+Votre nation
+
+#menu_nscr_rank
+Votre rang dans votre nation
+
+#menu_nscr_scr
+Le score total de votre nation
+
+#menu_nscr_vp
+Total des points de victoire de votre nation
+
+#menu_scr_govnam
+Le nom de votre gouvernement
+
+#menu_scr_t1
+Rang
+
+#menu_scr_t2
+Nation
+
+#menu_scr_t3
+Score
+
+#menu_scr_t4
+Points de victoire
+
+#majmess_reglost
+Vous avez perdu le contrôle du territoire!
+
+#b_buildprevbdg
+Version obsolète: [x]
+
+#b_admitdft
+ACCEPTER LA DEFAITE
+
+#ui_admitdft
+Vous avez admis votre défaite!
+
+#ui_battleover
+La bataille est terminée!
+
+#ui_terinf_fert
+Fertilité
+
+#ui_terinf_grndw
+Eaux souterraines
+
+#btl_objtv_neut
+neutre
+
+#btl_objtv_raid
+Raid ce territoire
+
+#btl_objtv_sack
+Sac ce territoire
+
+#btl_objtv_inv
+envahis
+
+#btl_objtv_def
+défend
+
+#btl_objtv_defa
+aide la défense
+
+#btl_objtv_atta
+attaque d'attaque
+
+#btl_objtv_hunt
+chasse
+
+#btl_rslt_dead
+décédés
+
+#btl_rslt_deft
+vaincu
+
+#btl_rslt_vict
+victorieux
+
+#btl_rslt_neutr
+était neutre
+
+#btlrslt_neutr
+NEUTRE
+
+#btlrslt_att
+ATTACKANT
+
+#btlrslt_def
+DEFENSEURS
+
+#btlrslt_loot
+BUTIN DE BATAILLE
+
+#btlrslt_unit
+unités
+
+#btlrslt_loss
+pertes
+
+#btlrslt_kill
+tue
+
+#btlrslt_totloot
+butin total
+
+#rcvloot_reg
+Nous avons reçu du butin dans [x]:
+
+#rcvloot_form
+Notre formation a reçu le butin:
+
+#gamelob_genav
+Générer un avatar
+
+#gamelob_face
+Visage
+
+#gamelob_eyes
+Yeux
+
+#gamelob_snout
+Museau
+
+#gamelob_mouth
+Bouche
+
+#gamelob_nam
+Nom du personnage
+
+#gamelob_randnam
+Générer un nom aléatoire
+
+#gamelob_nat
+Nom de la nation
+
+#gamelob_randnat
+Générer le nom d'une nation aléatoire
+
+#gamelob_status
+statut du personnage
+
+#gamelob_status_c1
+Un personnage devient "inactif" s'il est hors ligne depuis trop longtemps. Il devient alors disponible pour la succession: tout nouveau joueur rejoignant le jeu peut apparaître comme son successeur et reprendre toutes ses positions.
+
+#gamelob_status_c2
+La durée d'inactivité d'un personnage dépend de son temps de jeu total et des paramètres du jeu.
+
+#gamelob_status_c3
+Maximum d'heure hors connexion actuellement autorisée pour ce personnage: [x]
+
+#gamelob_ACTV
+ACTIF
+
+#gamelob_INACTV
+INACTIF
+
+#gamelob_lstlog
+Dernière connexion
+
+#gamelob_lstlogt
+Il y a [x]
+
+#gamelob_lstlog_c
+dernière connexion pour ce personnage: [x]
+
+#gamelob_creat
+créé
+
+#gamelob_creat_c
+Date à laquelle ce personnage a été créé (GMT).
+
+#gamelob_plt
+temps de jeu total
+
+#gamelob_plt_c
+Le temps total passé en ligne à jouer ce personnage.
+
+#gamelob_maxchar
+Personnages maximum
+
+#gamelob_maxchar_c
+Le nombre maximum de personnages autorisés par joueur sur ce serveur est [x].
+
+#gamelob_spcloff
+Rafraichissement du spawn
+
+#gamelob_spcloff_c1
+Le délai minimum avant d'être autorisé à réapparaître sur ce serveur.
+
+#gamelob_spcloff_c2
+Dernière apparition: il y a [x] 
+
+#gamelob_maxoff
+Maximum de temps hors connexion
+
+#gamelob_maxoff_c1
+La durée maximale pendant laquelle un personnage peut être hors ligne avant de devenir «inactif» sur ce serveur.
+
+#gamelob_maxoff_c2
+ATTENTION: cette limite est plus basse pour les personnages créés récemment!
+
+#gamelob_err1
+Vous avez actuellement le nombre maximum de personnage autorisés sur ce jeu!
+
+#gamelob_err2
+Vous devez attendre [x] avant de pouvoir créer un nouveau personnage dans ce jeu!
+
+#gamelob_abnd
+Abandonner
+
+#gamelob_abnd_c1
+Cliquez pour abandonner ce personnage et toutes ses possessions.
+
+#gamelob_abndwrn
+Êtes-vous sûr de vouloir abandonner ce personnage? Cela ne peut pas être annulé et vous perdrez définitivement le contrôle de ce personnage et de toutes ses possessions! Le personnage sera retiré de votre liste. Il sera instantanément défini comme "inactif" et pourrait devenir disponible pour la succession.
+
+#facrank_title
+Titre
+
+#facrank_ter
+Territoire
+
+#facttl_titl
+Titre du personnage
+
+#facttl_titl_c1
+Le titre donné aux personnages de ce rang.
+
+#facttl_trtry
+Le titre du territoire
+
+#facttl_trtry_c1
+Le nom donné aux territoires associés aux personnages de ce rang.
+
+#facttl_lvl
+Niveau de rang
+
+#facttl_lvl_c1
+Le niveau de rang représente la position hiérarchique au sein de la nation.
+
+#facttl_tax
+Impôt sur le revenu
+
+#facttl_tax_c1
+% du revenu brut versé en impôt au supérieur de ce rang.
+
+#facttl_pow
+Transfert de pouvoir
+
+#facttl_pow_c1
+% du pouvoir de l'Etat transféré au supérieur de ce rang.
+
+#facttl_vote
+Peut voter
+
+#facttl_vote_c1
+Ce rang peut participer aux processus de vote ou non.
+
+#facttl_rcrut
+Peut recruter
+
+#facttl_rcrut_c1
+Ce rang est autorisé à recruter de nouveaux membres dans la nation ou non.
+
+#facttl_prom
+Peut promouvoir
+
+#facttl_prom_c1
+Ce rang est autorisé à gérer les rangs de ses subordonnés ou non (promotion et promotion).
+
+#facttl_rplcm
+Succession
+
+#facttl_rplcm_c1
+Comment la succession de ce personnage est géré s'il devient inactif.
+
+#frplcm_e1
+Élection (directe)
+
+#frplcm_e1_c1
+Un successeur est élu par les subalternes directs de son rang seulement.
+
+#frplcm_e2
+Élection (tous)
+
+#frplcm_e2_c1
+Un successeur est élu par tous les subordonnés de son rang.
+
+#frplcm_heir
+Héritier choisi
+
+#frplcm_heir_c1
+Le détenteur du rang choisit lui-même son héritier qui peut prendre le relais s'il devient inactif.
+
+#frplcm_nom
+Nommmé
+
+#frplcm_nom_c1
+Un successeur est nommé par le supérieur de ce rang.
+
+#facttl_xpl
+Peut expulser
+
+#facttl_xpl_c1
+Si ce rang est autorisé à expulser ses subordonnés de la Nation.
+
+#facttl_mngter
+Peut démanteler
+
+#facttl_mngter_c1
+Si ce rang est autorisé à redistribuer directement les territoires de subordonnés inactifs aux autres membres de la Nation.
+
+#facttl_sub1
+Subordonnés directs
+
+#facttl_sub2
+Tous les subordonnés
+
+#fachier_hier
+Hiérarchie
+
+#fachier_addnew
+Ajouter un nouveau rang
+
+#fachier_addnew_c1
+Cliquez pour créer un nouveau classement
+
+#fachier_remrk
+Supprimer ce rang
+
+#fachier_remrk_c1
+Cliquez pour supprimer le rang actuellement sélectionné
+
+#fachier_remrk_err1
+Vous ne pouvez pas supprimer ce rang parce qu'il est actuellement utilisé par un ou plusieurs membres!
+
+#facnewrk_title
+Ajouter un nouveau rang ...
+
+#facmmb_ter
+Les régions
+
+#facmmb_dismant
+Démanteler
+
+#facmmb_dismant_c1
+Parce que ce personnage est inactif, votre titre vous permet de démanteler ses territoires et de les partager entre vos subordonnés ou vous-même.
+
+#facmmb_prom
+Promouvoir
+
+#facmmb_prom_c1
+Votre titre vous permet de gérer cette position hiérarchique de ce personnage: promouvoir ou rétrograder ce personnage.Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+
+#facmmb_xpl
+Expulser
+
+#facmmb_xpl_c1
+Votre titre vous permet d'expulser ce personnage de la Nation.
+
+#facmmb_quit
+Quitter
+
+#facmmb_quit_c1
+Quitte cette Nation et retrouve votre souveraineté.
+
+#facmmb_quit_c2
+ATTENTION: si vous êtes lié à cette nation par des traités, cela va déclencher les closes de pénalité d'annulation!
+
+#facmmb_actv
+ACTIF
+
+#facmmb_actv_c1
+Ce personnage joue toujours activement et n'est pas éligible pour la succession.
+
+#facmmb_inact
+INACTIF
+
+#facmmb_inact_c1
+Ce personnage n'a pas été connecté depuis un moment et est maintenant considéré comme inactif. Il est éligible à la succession au sein de la Nation.
+
+#facmmb_rplc
+Remplacer
+
+#facmmb_rplc_c1
+Ce personnage est inactif et votre titre vous permet, en tant que supérieur, de nommer un successeur parmi vos subordonnés qui le remplacera.
+
+#facmmb_tax
+Taxes
+
+#facmmb_tax_c1
+Les impôts de la nation sont reçus des subalternes directs et également payés au supérieur. Les taux d'imposition sont définis par leurs rangs respectifs.
+
+#facmmb_tax_r
+Impôts des subordonnés: [x]
+
+#facmmb_tax_p
+Payé à supérieur: [x]
+
+#facmmb_pwr
+Transferts de pouvoir
+
+#facmmb_pwr_c1
+Le pouvoir d'état peut être reçu de subordonnés directs et transféré au supérieur. Les tarifs sont définis par leurs rangs respectifs.
+
+#facmmb_mng
+Entretien
+
+#facmmb_mng_c1 
+Pouvoir d'État consommé par la maintenance de la Nation. Augmentes avec le nombre de subordonnés à ce personnage.
+
+#facmmb_heir
+Héritier
+
+#facmmb_heir_c1
+L'héritier désigné peut succeder directement au personnage s'il devient inactif.
+
+#facmmb_heir_c2
+Notez que si l'héritier désigné refuse ou n'est pas disponible, la succession se fera par éléction des subordonnés par défaut.
+
+#facprom_title
+Position de [x]
+
+#facprom_txt
+Vous pouvez changer la position hiérarchique de [x] au sein de cette Nation en changeant son rang ou en le réassignant a un nouveau Supérieur (uniquement parmis vos propres subordonnées). Notez que le personnage gardera tous ses propres subordonnées sous lui, dont les rangs respectifs seront ajustés en conséquence pour conserver la même hiérarchie relative au personnage.
+
+#facprom_supr
+Supérieur
+
+#facprom_rk
+Rang
+
+#facxpl_title
+Expuler [x] de la Nation
+
+#facxpl_txt
+En tant que supérieur de [x], vôtre rang vous authorise a expulser ce personnage de la Nation. Notez que tous ses subordonnés, s'il en a, le suivront et quitteront donc également la Nation avec lui.
+
+#facxpl_xpl
+Virer!
+
+#facrplc_title
+Remplacer [x]...
+
+#facrplc_txt
+En tant que supérieur de [x] et puisqu'il est inactif, vôtre rang vous authorise a nommer un successeur de rang inférieur qui prendra sa place au sein de la Nation. Leurs positions seront interverties. Le successeur ne peut être initialement d'un rang supérieur a celui qu'il va remplacer. 
+
+#facrplc_none
+Aucun disponible!
+
+#facdsmtl_title
+Démantler les territoires
+
+#facdsmtl_text
+Puisque [x] est inactif, vôtre rang vous authorise a redistribuer ses territoires aux autres membres de la Nation.
+
+#facquit_title
+Êtes-vous sûr?
+
+#facquit_txt
+En quittant cette Nation vous recouvrirez votre souverainté en tant que chef d'une Nation indépendante. Vous emporterez avec vous tous vos subordonnés, qui rejoindront donc votre nouvelle Nation également. Cependant, si vous êtes lié a cette Nation par traité, la quitter en déclenchera les clauses de ruptures et vous exposera potentiellement a des pénalités ou a la guerre.
+
+#menugov_setnam
+Nom du gouvernement
+
+#menugov_setnam_c1
+Définissez le nom de votre gouvernement (combiné ensuite avec votre titre national).
+
+#regnam_unclaimed
+Territoire vierge
+
+#regnam_regof
+Region de [x]
+
+#regnam_claimby
+Revendiqué par [x]
+
+#uiworld_ownr
+Propriété
+
+#uiworld_nownr
+Aucun propriétaire
+
+#uiworld_settl_1
+Vous pouvez coloniser ce territoire en donant l'ordre a une formation de 'Coloniser' cette case.
+
+#uiworld_settl_2
+Pour que cette action soit disponible, la formation doit contenir au moins une unité civile.
+
+#facvote_name
+Éléction du successeur de [x]
+
+#uivote_mode
+Type de vote
+
+#uivote_mod_high
+Majorité des votes
+
+#uivote_mod_high_c1
+La proposition avec le plus de voix remporte le vote. Le vote se termine lorsque tous les élécteurs potentiels ont éxprimmé leur suffrage.
+
+#uivote_status
+Statut du vote
+
+#uivote_st_p
+en cours...
+
+#uivote_st_o
+plus de
+
+#uivote_result
+Vote result
+
+#uivote_res_und
+indécis
+
+#uivote_cast
+Votes cast
+
+#uivote_yrvt
+VOTRE VOTE
+
+#uivote_txt1
+Vous n'avez pas encore voté. Selectionnez un des choix ci-dessous et votez. Attention: votre vote est définitif et ne peut être modifié une fois confirmé!
+
+#uivote_txt2
+Vous avez déjà voté. Le vote est définitif et ne peut être modifié. Le resultat final sera annoncé lorsque le processus de vote sera complété.
+
+#uivote_choice
+choix
+
+#uivote_sendvt
+VOTER!
+
+#regstatus_claim_1
+Un territoire vide peut être revendiqué par votre État et inclus dans vos frontières officielles.
+
+#regstatus_trtry_1
+Un territoire fait partie d'une région et est administré par sa cité principale.
+
+#regstatus_colony_1
+Une colonie est un territoire autonome rattaché à votre gouvernement. Vous ne pouvez pas le contrôler directement, mais cela ne coûte rien, tout en générant un petit revenu fiscal. Il peut être utilisé comme une position de départ pour les nouveaux joueurs. Ils prennent le contrôle de la colonie et commencent directement dans votre nation en tant que vos subordonnés.
+
+#regstatus_city_1
+La ville est la tête de chaque région. Il a sa propre administration locale qui gère également tous les territoires de la région. Chaque ville coûte du pouvoir d'état à maintenir.
+
+#regstatus_capital_1
+La capitale est où le gouvernement de votre état est situé et où le chef réside. Contrairement aux villes ordinaires, cela ne coûte aucun pouvoir d'État. Certains bâtiments gouvernementaux sont uniques à la capitale. La distance de la capitale peut affecter diverses choses telles que l'administration d'autres villes ou le maintien de subordonnés dans la nation.
+
+#regstatus_title
+Statut du territoire
+
+#regstatus_txt
+Mofication du statut administratif de ce territoire...
+
+#regstatus_setnew
+Définir nouveau statut à
+
+#regstatus_setcap_1
+Vous ne pouvez avoir qu'une seule capitale: votre capitale actuelle perdra son statut et deviendra une cité normale. Notez qu'en bougeant votre capitale vous affecterez potentiellement l'administration et la culture de vos autres villes ainsi que votre Pouvoir d'État et vos finances.
+
+#regstatus_setcit_1
+Ce territoire deviendra une nouvelle region et coûtera du Pouvoir d'État additionnel. Vous pourrez ensuite y rattacher d'autres territoires.
+
+#regstatus_setcol_1
+ATTENTION: Ceci est irréversible. Vous perdrez le contrôle direct de ce territoire. La région obtiens une administration, une loyauté, et une culture stable. Aucuns coûts de maintenance ou de Pouvoir d'État. Génères 5% de taxes. Si un nouveau joueur y spawnes, il commence dans votre nation avec un traité colonial maintenant 5% de taxes sur ses revenus.
+
+#regstatus_setcol_2
+Pour être déclaré colonie, ce territoire nécéssite au moins 150 de population avec 75% d'accès aux besoins vitaux.
+
+#setcolony_err1
+Ce territoire a besoin d'au moins 150 de population pour être fait colonie!
+
+#setcolony_err2
+Ce territoire a besoin d'au moins 75% de besoins vitaux pour être fait colonie!
+
+#regstatus_err1
+Vous ne pouvez changer le status de votre capitale!
+
+#voxclss_wall
+Murs
+
+#voxclss_wind
+Fenêtres
+
+#voxclss_door
+Portes
+
+#voxclss_pilr
+Pilliers
+
+#voxclss_beam
+Poutres
+
+#voxclss_flr
+Sols
+
+#voxclss_cube
+Cubes

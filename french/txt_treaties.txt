@@ -1,0 +1,161 @@
+﻿# agrim_goldo_1
+Paiement unique
+
+# agrim_goldo_2
+Paie [x] pièces
+
+# agrim_goldo_3
+Paiement unique de pièces de [x] vers [y], effectué à la signature du traité.
+
+# agrim_goldr_1
+Transfert d'argent
+
+# agrim_goldr_2
+Transfert constant d'argent d'un total de [x] pièces.
+
+# agrim_goldr_3
+[x] transfère continuellement de l'argent à [y] aussi longtemps que le traité reste actif.
+
+# agrim_goldtax_1
+Taxe sur les revenus
+
+# agrim_goldtax_2
+Donne [x]% de ses revenus
+
+# agrim_goldtax_3
+[x] transfère un % de ses revenus à [y].
+
+# agrim_admtax_1
+Transfert de pouvoir
+
+# agrim_admtax_2
+Transferes [x]% de Pouvoir d'État
+
+# agrim_admtax_3
+[x] transfère un % de son pouvoir d'État à [y].
+
+# agrim_trad_1
+Accords commerciaux
+
+# agrim_trad_2
+Permet le commerce
+
+# agrim_trad_3
+[x] donne à [y] l'accès à toutes ses offres d'échanges et de routes commerciales.
+
+# agrim_pass_1
+Droit de passage
+
+# agrim_pass_2
+Donne le droit de passage
+
+# agrim_pass_3
+Permet aux unités de [y] de passer sur les territoires de [x].
+
+# agrim_embrg_1
+Embargo contre ...
+
+# agrim_embrg_2
+Embargo de contre [x]
+
+# agrim_embrg_3
+Forbids commerce avec un état spécifié
+
+# agrim_vassal_1
+Rejoidre la nation
+
+# agrim_vassal_2
+Rejoindre le [x]
+
+# agrim_vassal_3
+[x] rejoindra la nation de [y].
+
+# agrim_war_1
+Déclarer la guerre à ...
+
+# agrim_war_2
+Déclaration de guerre à [x]
+
+# agrim_war_3
+Déclarer la guerre à un autre état spécifié
+
+# agrim_peace_1
+Traité de paix
+
+# agrim_peace_2
+Traité de paix
+
+# agrim_peace_3
+Interdit la guerre entre les membres du traité.
+
+# agrim_ceasefr_1
+Cessez-le-feu
+
+# agrim_ceasefr_2
+Cessez-le-feu
+
+# agrim_ceasefr_3
+Fin de la guerre entre les membres du traité.
+
+# agrim_tradrt_1
+Route commerciale
+
+# agrim_tradrt_2
+Route commerciale
+
+# agrim_tradrt_3
+Configurer une route commerciale consolidée par traité
+
+# agrim_givreg_1
+Donner la région
+
+# agrim_givreg_2
+Donner la région de '[x]'
+
+# agrim_givreg_3
+Transférer la propriété d'une région à [y].
+
+# agrim_gividea_1
+Donner une idée
+
+# agrim_gividea_2
+Donner une idée pour [x]
+
+# agrim_gividea_3
+[y] recevra de [x] une nouvelle idée de connaissances qu'il n'a pas encore.
+
+#treaty_powcost
+Coût de l'Etat pour maintenir ce traité
+
+#treaty_coinpen
+Pénalité de pièces
+
+# treaty_coinpen_c1
+% du PIB transféré comme pénalité si [x] rompt ce traité,
+
+# treaty_coinpen_c2
+à [x].
+
+#treaty_gdp
+[x]% du PIB
+
+#treaty_honor
+Engagement d'honneur
+
+# treaty_honor_c1
+Niveau d'engagement de [x] à respecter ce traité.
+
+# treaty_honor_c2
+L'honneur proportionnel est perdu si [x] le casse.
+
+#treaty_warbound
+Guerre
+
+# treaty_warbound_c1
+Si oui ou non la rupture du traité entrainera une déclaration de guerre automatique de [x]
+
+# treaty_warbound_c2
+au cas ou [x] rompt ce traité.
+
+#treaty_closes
+Clauses de rupture

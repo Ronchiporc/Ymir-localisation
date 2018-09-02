@@ -1,0 +1,383 @@
+﻿#civfx_inc_n
+revenus de la population
+
+#civfx_inc_dscr
+débloque la richesse dynamique de la population
+
+#civfx_price_n
+prix dynamiques
+
+#civfx_price_dscr
+les ressources et les objets de valeur ont des prix dynamiques basés sur l'offre et la demande de la population
+
+#civfx_autodist_n
+distribution automatique
+
+#civfx_autodist_dscr
+toutes les ressources sont automatiquement disponibles pour toute la population et il n'y a pas besoin de distributeurs
+
+#civfx_bdgeff_n
+l'efficacité du bâtiment
+
+#civfx_bdgeff_dscr
+modifie l'efficacité des bâtiments
+
+#civfx_conflict_n
+conflit de population
+
+#civfx_conflict_dscr
+modifie les conflits de population
+
+#civfx_stress_n
+stress de la population
+
+#civfx_stress_dscr
+modifie le stress de la population
+
+#civfx_paidmat_n
+matériaux payés
+
+#civfx_paidmat_dscr
+l'État doit payer pour les matériaux qu'il consomme au prix du marché actuel
+
+#civfx_seizem_n
+matériaux saisis
+
+#civfx_seizem_dscr
+Lorsque les matériaux payants sont actifs, tout ou partie des matériaux est saisi gratuitement au lieu d'être payé par l'Etat.
+
+#civfx_seizem_set
+pourcentage saisi
+
+#civfx_seizem_setd
+définir le pourcentage des prix du matériel que vous souhaitez saisir
+
+#civfx_territ_n
+Territoires de la province
+
+#civfx_territ_dscr
+les villes peuvent annexer d'autres territoires comme leur province
+
+#civfx_inctax_n
+impôt sur le revenu
+
+#civfx_inctax_dscr
+une taxe appliquée à tous les revenus de la population du territoire
+
+#civfx_inctax_set
+pourcentage d'impôt sur le revenu
+
+#civfx_inctax_setd
+définir le pourcentage du revenu qui doit être imposé
+
+#civfx_saltax_n
+taxe de vente
+
+#civfx_saltax_dscr
+taxe appliquée à toutes les ventes sur le territoire (TVA simplifiée)
+
+#civfx_saltax_set
+pourcentage de taxe de vente
+
+#civfx_saltax_setd
+définir le pourcentage de ventes à taxer
+
+#civfx_leadwlth_n
+Les privilèges des leaders
+
+#civfx_leadwlth_dscr
+Les dirigeants obtiennent une partie de la richesse du territoire en tant que privilège
+
+#civfx_leadwlth_set
+Privilège des leaders
+
+#civfx_leadwlth_setd
+le pourcentage de richesse territoriale donné comme privilège aux dirigeants
+
+#civfx_leadsal_n
+Salaires Leaders
+
+#civfx_leadsal_dscr
+Les dirigeants reçoivent un salaire payé par l'Etat
+
+#civfx_leadsal_set
+Salaires Leaders
+
+#civfx_leadsal_setd
+montant du salaire en pièces de monnaie
+
+#civfx_nobwlth_n
+Privilèges Nobles
+
+#civfx_nobwlth_dscr
+Les nobles obtiennent une partie de la richesse du territoire en tant que privilège
+
+#civfx_nobwlth_set
+Privilège Nobles
+
+#civfx_nobwlth_setd
+le pourcentage de richesse territoriale donné comme privilège aux nobles
+
+#civfx_nobsal_n
+Salaire Nobles
+
+#civfx_nobsal_dscr
+Les nobles reçoivent un salaire payé par l'état
+
+#civfx_nobsal_set
+Salaire Nobles
+
+#civfx_nobsal_setd
+montant du salaire en pièces de monnaie
+
+#civfx_offwlth_n
+Privilèges des travailleurs d'Etat
+
+#civfx_offwlth_dscr
+Les travailleurs de l'Etat obtiennent une partie de la richesse du territoire en tant que privilège
+
+#civfx_offwlth_set
+Privilège des travailleurs d'Etat
+
+#civfx_offwlth_setd
+le pourcentage de richesse territoriale donné en tant que privilège aux travailleurs de l'Etat
+
+#civfx_offsal_n
+Salaire des travailleurs d'Etat
+
+#civfx_offsal_dscr
+Les travailleurs de l'Etat reçoivent un salaire payé par l'Etat
+
+#civfx_offsal_set
+Salaire des travailleurs d'Etat
+
+#civfx_offsal_setd
+montant du salaire en pièces de monnaie
+
+#civfx_capadmin_n
+administration du capital
+
+#civfx_capadmin_dscr
+modifie l'administration de la capitale
+
+#civfx_cityadmin_n
+administration de la ville
+
+#civfx_cityadmin_dscr
+modifie l'administration de chaque ville
+
+#civfx_regadmin_n
+adimnistration du territoire
+
+#civfx_regadmin_dscr
+modifie l'administration de chaque territoire
+
+#civfx_caplead_n
+leaders du capital
+
+#civfx_caplead_dscr
+dirigeants dans la capitale
+
+#civfx_capnob_n
+nobles du capital
+
+#civfx_capnob_dscr
+nobles dans la capitale
+
+#civfx_citlead_n
+dirigeants de la ville
+
+#civfx_citlead_dscr
+dirigeants par ville
+
+#civfx_citnob_n
+nobles de la ville
+
+#civfx_citnob_dscr
+nobles par ville
+
+#civfx_reglead_n
+leaders locaux
+
+#civfx_reglead_dscr
+leaders par territoire
+
+#civfx_regnob_n
+nobles locaux
+
+#civfx_regnob_dscr
+nobles par territoire
+
+#civfx_goldstck_n
+la richesse des métaux précieux
+
+#civfx_goldstck_dscr
+augmente la richesse de tous les territoires pour chaque unité de métaux précieux (or et argent) dans les entrepôts
+
+#civfx_modhap_n
+bonheur de la population
+
+#civfx_modhap_dscr
+modifie le bonheur de la population
+
+#civfx_happy_n
+bonheur de la population
+
+#civfx_happy_dscr
+modifie le bonheur de la population
+
+#civfx_enmerch_n
+marchands
+
+#civfx_enmerch_dscr
+permet l'utilisation de marchands qui peuvent vendre des ressources à la population
+
+#civfx_entrout_n
+routes commerciales
+
+#civfx_entrout_dscr
+permet de créer des routes commerciales permanentes entre territoires
+
+#civfx_legitprt_n
+protecteur du peuple
+
+#civfx_legitprt_dscr
+modifie le facteur de légitimité de la force militaire
+
+#civfx_legitw_n
+supériorité du chef
+
+#civfx_legitw_dscr
+modifie le facteur de légitimité de la supériorité du leader
+
+#civfx_legitr_n
+la religiosité des gens
+
+#civfx_legitr_dscr
+modifie le facteur de légitimité de la religiosité des personnes
+
+#civfx_legitp_n
+le pouvoir du parlement
+
+#civfx_legitp_dscr
+modifie le facteur de légitimité du parlement
+
+#civfx_legitsen_n
+le pouvoir du sénat
+
+#civfx_legitsen_dscr
+modifie le facteur de légitimité du sénat
+
+#civfx_legitm_n
+le pouvoir du ministère
+
+#civfx_legitm_dscr
+modifie le facteur de légitimité du ministère
+
+#civfx_legitap_n
+l'approbation des gens
+
+#civfx_legitap_dscr
+modifie le facteur de légitimité de l'approbation des personnes
+
+#civfx_wlegitprt_n
+importance de la force militaire
+
+#civfx_wlegitprt_dscr
+Combien de force militaire affecte la légitimité
+
+#civfx_wlegitw_n
+l'importance de la supériorité du leader
+
+#civfx_wlegitw_dscr
+la supériorité du leader affecte la légitimité
+
+#civfx_wlegitr_n
+importance de la religiosité
+
+#civfx_wlegitr_dscr
+combien la religiosité des gens affecte la légitimité
+
+#civfx_wlegitp_n
+importance du parlement
+
+#civfx_wlegitp_dscr
+dans quelle mesure la puissance du parlement affecte la légitimité
+
+#civfx_wlegitsen_n
+importance du Sénat
+
+#civfx_wlegitsen_dscr
+combien le pouvoir du sénat affecte la légitimité.
+
+#civfx_wlegitm_n
+l'importance du ministère
+
+#civfx_wlegitm_dscr
+combien le pouvoir du ministère affecte la légitimité.
+
+#civfx_wlegitap_n
+importance de l'approbation des gens
+
+#civfx_wlegitap_dscr
+combien l'approbation des gens affecte la légitimité.
+
+#civfx_statepow_n
+le pouvoir de l'État
+
+#civfx_statepow_dscr
+modifie la quantité de pouvoir de l'Etat
+
+#civfx_foodcons_n
+consommation de nourriture
+
+#civfx_foodcons_dscr
+affecte la quantité de nourriture requise par les porcs pour satisfaire leurs besoins alimentaires
+
+#civfx_coin_n
+trésor public
+
+#civfx_coin_dscr
+permet à l'État de gagner et de dépenser de l'argent.
+
+#civfx_agrisav_n
+graines de stockage
+
+#civfx_agrisav_dscr
+25% de toute la production agroalimentaire va directement dans les greniers
+
+#civfx_subv_n
+subvention
+
+#civfx_subv_dscr
+une aide publique accordée à chaque travailleur d'une classe sociale déterminée, pour augmenter son revenu
+
+# civfx_subv_set1
+Classe des travailleurs
+
+# civfx_subv_set1d
+La classe sociale qui reçoit cette subvention
+
+# civfx_subv_set2
+Pièces de monnaie
+
+# civfx_subv_set2d
+Le montant de la subvention. Chaque ouvrier de cette classe recevra cette quantité de pièces ajoutée à son revenu.
+
+#civfx_paidrsrch_n
+chercheurs rémunérés
+
+#civfx_paidrsrch_dscr
+les chercheurs sont payés et ne réduisent plus les effectifs des bâtiments où ils travaillent.
+
+#civfx_ldcntrb_n
+La contribution personnelle du leader
+
+#civfx_ldcntrb_dscr
+Le chef peut contribuer aux finances du gouvernement avec sa propre richesse (réduit sa richesse).
+
+#civfx_ldcntrb_set
+Contribution %
+
+#civfx_ldcntrb_setd
+Pourcentage de la richesse du chef utilisé pour les finances du gouvernement. Notez que cela réduira proportionnellement la richesse du Leader.

@@ -1,0 +1,1619 @@
+﻿#cond_nbreg
+Posséder [x] ou plus territoires
+
+#cond_prodsupto
+Produire au moins [x] de [y] sur le territoire
+
+#cond_incrfoodprod
+Augmentez votre production alimentaire d'au moins [x]
+
+#cond_ownbdg
+Avoir [x] [y] sur le territoire
+
+#cond_ownbdg_class
+Avoir [x] bâtiments de la classe [y] sur le territoire
+
+#cond_cmplted_ev
+Evénement terminé [x]
+
+#cond_loyal_inf
+Fidélité territoriale inférieure à [x]
+
+#cond_loyal_sup
+Fidélité territoriale supérieure à [x]
+
+#cond_pow_inf
+Pouvoir de l'État inférieur à [x]
+
+#cond_pow_sup
+Pouvoir de l'État supérieur à [x]
+
+#cond_legit_inf
+Légitimité de l'État inférieure à [x]
+
+#cond_legit_sup
+Légitimité de l'État supérieure à [x]
+
+#cond_coins_inf
+Devise d'état inférieure à [x]
+
+#cond_coins_sup
+Monnaie d'état supérieure à [x]
+
+#cond_notech
+Ne pas avoir la connaissance de '[x]'
+
+#cond_hastech
+Avoir la connaissance de '[x]'
+
+#cond_popnb_inf
+[y] inférieur à [x]
+
+#cond_popnb_sup
+[y] supérieur à [x]
+
+#cond_intel_inf
+[y] intelligence inférieure à [x]
+
+#cond_intel_sup
+[y] intelligence supérieure à [x]
+
+#cond_lifeq_inf
+[y] qualité de vie inférieure à [x]
+
+#cond_lifeq_sup
+[y] qualité de vie supérieure à [x]
+
+#cond_health_inf
+[y] santé inférieure à [x]
+
+#cond_health_sup
+[y] santé supérieure à [x]
+
+#cond_regcltr_sup
+Culture du territoire supérieure à [x]
+
+#cond_cltr_inf
+Culture totale inférieure à [x]
+
+#cond_cltr_sup
+Culture totale supérieure à [x]
+
+#cond_conflict_inf
+Conflit de population inférieur à [x]
+
+#cond_conflict_sup
+Conflit de population supérieur à [x]
+
+#cond_cons_sup
+Consommation de [x] supérieure à [y]
+
+#cond_natres
+Avoir des ressources naturelles de [x]
+
+#cond_resaxs_inf
+[y] accès inférieur à [x]%
+
+#cond_resaxs_sup
+[y] accès supérieur à [x]%
+
+#cond_needaxs_inf
+[z] [y] accès inférieur à [x]%
+
+#cond_needaxs_sup
+[z] [y] accès supérieur à [x]%
+
+#cond_resstk_inf
+[y] les stocks inférieurs à [x]
+
+#cond_resstk_sup
+[y] stocks supérieurs à [x]
+
+#cond_agrprd_inf
+Production agricole inférieure à [x]
+
+#cond_agrprd_sup
+Production agricole supérieure à [x]
+
+#cond_natagri
+Avoir des sources naturelles de légumes et de plantes
+
+#cond_militia_inf
+Milice inférieure à [x] [y]
+
+#cond_militia_sup
+Milice supérieure à [x] [y]
+
+#cond_army_inf
+Armée inférieure à [x] [y]
+
+#cond_army_sup
+Armée supérieure à [x] [y]
+
+#cond_natmetal
+Avoir des sources naturelles de métal
+
+#cond_GDP_inf
+PIB inférieur à [x]
+
+#cond_GDP_sup
+PIB supérieur à [x]
+
+#cond_wlth_inf
+Richesse inférieure à [x]
+
+#cond_wlth_sup
+Richesse supérieure à [x]
+
+#cond_vitn_inf
+Besoins vitaux de [y] inférieurs à [x]
+
+#cond_vitn_sup
+Besoins vitaux de [y] supérieurs à [x]
+
+#cond_bdgcat_inf
+Avoir moins de [x] [y] bâtiments
+
+#cond_bdgcat_sup
+Avoir plus de [x] [y] bâtiments
+
+#cond_rescat_inf
+[y] stock inférieur à [x]
+
+#cond_rescat_sup
+[y] actions supérieures à [x]
+
+#cond_rescatprd_inf
+[y] production inférieure à [x]
+
+#cond_rescatprd_sup
+[y] production supérieure à [x]
+
+#cond_prdgrp_inf
+Stocks de [y] ressources inférieures à [x]
+
+#cond_prdgrp_sup
+Stocks de ressources [y] supérieures à [x]
+
+#cond_prdgrpprd_inf
+Production de ressources [y] inférieures à [x]
+
+#cond_prdgrpprd_sup
+Production de ressources [y] supérieures à [x]
+
+#cond_resneed_inf
+Une demande insatisfaite de [y] de moins de [x]
+
+#cond_resneed_sup
+Une demande insatisfaite de [y] supérieure à [x]
+
+#cond_civic
+Avoir le civique '[x]' activé
+
+#cond_civeff
+Avoir l'effet civique: '[x]'
+
+#cond_militpow_inf
+Puissance militaire totale inférieure à [x]
+
+#cond_militpow_sup
+Puissance militaire totale supérieure à [x]
+
+#cond_ecobal_inf
+Solde budgétaire du gouvernement inférieur à [x]
+
+#cond_ecobal_sup
+Solde budgétaire du gouvernement supérieur à [x]
+
+#cond_growth_inf
+[y] croissance inférieure à [x]
+
+#cond_growth_sup
+[y] croissance supérieure à [x]
+
+#cond_reglvl_inf
+niveau du territoire inférieur à [x]
+
+#cond_reglvl_sup
+niveau du territoire supérieur à [x]
+
+#cond_speed_inf
+vitesse de carbonisation inférieure à [x]
+
+#cond_speed_sup
+vitesse de carbonisation supérieure à [x]
+
+#cond_has_res
+Avoir accès à [x]
+
+#effect_givres
+Recevoir [y] [x] sur le territoire
+
+#effect_globgivres
+Recevoir [y] [x]
+
+#effect_givfood
+Recevoir [x] de nourriture
+
+#effect_trigev
+Événement Triggers
+
+#effect_givcoin
+Recive [x] pièces de monnaie
+
+#effect_setcoin
+Trésorerie définie sur [x] pièces
+
+#effect_loyalev
+Événement d'État: [x] loyauté territoriale
+
+#effect_trigproj
+Déverrouille le projet: [x]
+
+#effect_rejproj
+Rejette le projet: [x]
+
+#effect_givtech
+Déverrouille la technologie: [x]
+
+#effect_bandits
+La formation est immédiatement attaquée par [x] bandits.
+
+#effect_invloss
+Perdez [x]% de l'inventaire de la formation.
+
+#effect_invcatloss
+Perdez [x]% de l'inventaire [y] de la formation.
+
+#effect_givloot
+Vous recevez [x] de butin.
+
+#effect_hostribe
+La formation est immédiatement attaquée par des primitives [x].
+
+#effect_unitloss
+[x]% des porcs de la formation sont perdus.
+
+#effect_joinbfmly
+La formation est rejointe par [x] familles.
+
+#effect_xplrmap
+Révèle la carte du territoire jusqu'à [x] tuiles autour de la formation.
+
+#effect_formlst
+La formation est perdue.
+
+#effect_canceldebt
+Annuler votre dette.
+
+#effect_givunit
+La formation est rejointe par [y] [x].
+
+#effect_agrifood
+Recevez [x] de nourriture agricole
+
+#effect_spawnunit
+[x] [z] [y] apparaîtra.
+
+#effect_modhonor
+Honneur [x]
+
+#effect_giveVP
+Récompenses [x] Points de victoire.
+
+#effect_immigr
+[x] les familles arrivent sur le territoire.
+
+#effect_emigr
+[x] les familles quittent le territoire.
+
+#effect_gividea
+Recevoir une nouvelle idée: [x]
+
+#effect_givreg
+Prenez le contrôle du territoire.
+
+#effect_fac_rplc
+Vous permuterez la position dans la hiérarchie de la Nation avec ce personnage.
+
+#effect_fac_trigvt
+Sera déclencher un vote des subalternes pour élire un successeur à la position de ce personnage dans la nation.
+
+#event_diplomes
+Message de [x]
+
+#event_treaty
+Proposition de traité de [x]
+
+#event_dwar_att
+Nous avons déclaré la guerre à [x]
+
+# event_dwar_att_1
+Monseigneur, nous avons déclaré la guerre à [x] de [y] et sommes maintenant en guerre avec ces porcelets faibles.
+
+#event_dwar_def
+[x] nous a déclaré la guerre!
+
+# event_dwar_def_1
+Mon seigneur, [x] de [y] nous a déclaré la guerre.
+
+# event_dwar_def_2
+Nous sommes maintenant en guerre avec ces cochons sales.
+
+#event_war_state
+Notre pays est actuellement en guerre!
+
+#event_misscomp
+Mission terminée: [x]
+
+# event_misscomp_1
+Nous avons terminé cette mission et reçu ses récompenses.
+
+#event_gameovr
+Jeu terminé!
+
+# event_gameovr_1
+Le jeu est terminé et son vainqueur est la nation de '[x]', étant le premier à atteindre [p1] points de victoire et avec un score total de [p2].
+
+# event_gameovr_2
+Notez que le jeu peut continuer et vous pouvez continuer à jouer, mais les scores et les rangs ne seront plus mis à jour et il n'y aura plus de missions de victoire.
+
+#event_rsk_upris
+Risque de rébellion en [x]
+
+# event_rsk_upris_1
+La loyauté de [x] est très faible et il y a un risque élevé de rébellion imminente de sa population! Nous devons faire quelque chose à ce sujet ...
+
+# event_rsk_upris_2
+La loyauté est réduite par des facteurs tels que: quantité de culture locale, forte garnison locale, absence de troupes d'état, faible pouvoir ou légitimité de l'Etat, nombre de villes et distance de capitale. Vous pouvez ouvrir le classement pour voir votre score final.
+
+#event_revolt
+Révolte populaire dans [x]!
+
+# event_revolt_1
+La population de [x] se révolte contre nous et les rebelles tentent de prendre le contrôle de la ville! S'ils réussissent, nous perdrons le contrôle de ce territoire!
+
+# event_revolt_2
+[p2]% de la population prend les armes et se rebelle, y compris [p3] les soldats de la garnison locale qui ont fait défection aux rebelles. Nos soldats loyalistes [p5] font face à un total de [p4] rebelles.
+
+#event_br_revolt
+Révolte populaire en [x]
+
+# event_br_revolt_1
+La population de [x] s'est révoltée contre nous et les rebelles ont essayé de prendre le contrôle de la ville.
+
+# event_br_revolt_2
+[p2]% de la population a pris les armes et a rebellé, y compris [p4] les soldats de la garnison locale qui ont défection aux rebelles. [p5] les soldats loyalistes ont fait face à un total de [p3] rebelles.
+
+#event_Ab_pitch
+Attaquant [x] de [y]
+
+# event_Ab_pitch_1
+Nous engageons l'armée ennemie de '[x]' [y] dans une bataille de terrain avec des soldats [p2].
+
+# event_Ab_pitch_2
+Ils nous font face avec des soldats [p3].
+
+#event_Abr_pitch
+Attaqué [x] de [y]
+
+# event_Abr_pitch_1
+Nous avons engagé l'armée ennemie de '[x]' [y] dans une bataille de terrain avec des soldats [p2].
+
+# event_Abr_pitch_2
+Ils nous ont fait face avec des soldats [p3].
+
+#event_Db_pitch
+'[x]' sont attaqués par [y]
+
+# event_Db_pitch_1
+'[x]' sont engagés dans une bataille de lancement par une armée de [y].
+
+# event_Db_pitch_2
+Nos soldats [p2] font face à des [p3] soldats ennemis.
+
+#event_Dbr_pitch
+'[x]' ont été attaqués par une armée [y]
+
+# event_Dbr_pitch_1
+'[x]' était engagé dans une bataille de lancement par une armée de [y].
+
+# event_Dbr_pitch_2
+Nos [p2] soldats ont affronté [p3] des soldats ennemis.
+
+#event_Ab_invad
+Invasion [x]
+
+# event_Ab_invad_1
+Nous lançons un assaut sur [x] avec des soldats [p2] pour envahir et prendre le contrôle du territoire.
+
+# event_Ab_invad_2
+Pour réussir, nous devons éliminer tous les ennemis et les défenses du territoire. Ils le défendent avec des soldats [p3].
+
+#event_Abr_invad
+Invasion de [x]
+
+# event_Abr_invad_1
+Nous avons lancé un assaut sur [x] avec [p2] des soldats pour envahir et prendre le contrôle du territoire.
+
+# event_Abr_invad_2
+Ils l'ont défendu avec des soldats [p3].
+
+#event_Db_invad
+[y] essaie d'envahir [x]
+
+# event_Db_invad_1
+[y] a lancé un assaut sur [x] avec des soldats [p3] pour tenter d'envahir et prendre le contrôle de notre territoire.
+
+# event_Db_invad_2
+Nous devons repousser leur invasion ou nous perdrons le contrôle du territoire! Nous avons [p2] des soldats qui le défendent.
+
+#event_Dbr_invad
+Défense de [x] contre une invasion de [y]
+
+# event_Dbr_invad_1
+[y] a lancé un assaut sur [x] avec [p3] soldats pour tenter d'envahir et prendre le contrôle de notre territoire.
+
+# event_Dbr_invad_2
+Nous l'avons défendu avec des soldats [p2].
+
+#event_Ab_raid
+Raid [x]
+
+# event_Ab_raid_1
+Nous lançons un raid sur [x] pour piller leur territoire avec des soldats [p2].
+
+# event_Ab_raid_2
+Nos troupes tenteront de piller les ressources et les bâtiments avant de quitter le territoire avec leur butin.
+
+#event_Abr_raid
+Raid de [x]
+
+# event_Abr_raid_1
+Nous avons attaqué [x] pour piller leur territoire avec des soldats [p2].
+
+# event_Abr_raid_2
+Nos troupes ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+
+#event_Db_raid
+[y] attaque [x]
+
+# event_Db_raid_1
+[y] a lancé un raid sur [x] avec des soldats [p2].
+
+# event_Db_raid_2
+Nous devons les arrêter avant qu'ils n'atteignent et pillent nos ressources et bâtiments et quittent le territoire avec leur butin!
+
+#event_Dbr_raid
+Défense de [x] contre un raid de [y]
+
+# event_Dbr_raid_1
+[y] a attaqué [x] pour piller notre territoire avec [p2] des soldats.
+
+# event_Dbr_raid_2
+Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+
+#event_Ab_sack
+Mise à sac [x]
+
+# event_Ab_sack_1
+Nous lançons un assaut sur [x] pour saccager le territoire avec des soldats [p2].
+
+# event_Ab_sack_2
+Nos troupes tenteront d'éliminer tous les ennemis et les défenses du territoire avant de piller tout ce qu'elles peuvent et partir avec leur butin.
+
+#event_Abr_sack
+Pillage de [x]
+
+# event_Abr_sack_1
+Nous avons lancé un assaut sur [x] pour saccager leur territoire avec des soldats [p2].
+
+# event_Abr_sack_2
+Nos troupes ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+
+#event_Db_sack
+[y] essaie de mettre à sac [x]
+
+# event_Db_sack_1
+[y] a lancé un assaut sur [x] pour saccager le territoire avec [p2] soldats.
+
+# event_Db_sack_2
+Ils vont essayer d'éliminer toutes nos troupes et nos défenses avant de piller tout ce qu'ils peuvent et de partir avec le butin.
+
+#event_Dbr_sack
+Défense de [x] contre un limogeage de [y]
+
+# event_Dbr_sack_1
+[y] a lancé un assaut sur [x] pour saccager notre territoire avec [p2] des soldats.
+
+# event_Dbr_sack_2
+Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+
+#event_Db_assist
+Aider [y] à défendre [x]
+
+# event_Db_assist_1
+[y] est attaqué dans [x].
+
+# event_Db_assist_2
+En tant qu'allié, nos troupes [p2] participent à la bataille et aident à se défendre contre [p3] ennemis.
+
+#event_Dbr_assist
+Aidé [en] pour défendre [x]
+
+# event_Dbr_assist_1
+[y] a été attaqué dans [x].
+
+# event_Dbr_assist_2
+En tant qu'allié, nos troupes [p2] ont participé à la bataille pour aider dans sa défense contre [p3] ennemis.
+
+#event_Ab_assist
+Aider [y] dans l'attaque de [x]
+
+# event_Ab_assist_1
+[y] attaque [y].
+
+# event_Ab_assist_2
+En tant qu'allié de [y], nos troupes participent à la bataille et aident ses armées.
+
+#event_Abr_assist
+Assisté [y] dans l'attaque de [x]
+
+# event_Abr_assist_1
+[y] a attaqué [y].
+
+# event_Abr_assist_2
+En tant qu'allié de [y], nos troupes ont participé à la bataille et ont aidé ses armées.
+
+#event_hunt
+Chasse [p2] [p3]
+
+# event_hunt_1
+Nous lançons une chasse contre [p2] [p3]!
+
+# event_hunt_2
+Nos chasseurs tenteront de tuer autant de ces animaux qu'ils le peuvent pour remplir leur inventaire.
+
+#event_huntr
+Chasse [p2] [p3]
+
+# event_huntr_1
+Nos chasseurs ont à nouveau lancé une chasse [p2] [p3].
+
+# event_huntr_2
+Ils ont essayé de tuer autant de ces animaux qu'ils pouvaient pour remplir leur inventaire.
+
+#event_debt
+Endetté!
+
+# event_debt_1
+Nous sommes actuellement endettés de [p1] pièces de monnaie dans notre trésor. Le fait de s'endetter réduit notre pouvoir d'État et affecte la loyauté de nos villes et de nos armées.
+
+# event_debt_2
+Nous devons remettre le solde de notre revenu public dans le vert ou nous aurons de sérieux problèmes. Si la situation est désespérée, nous pouvons également prendre une décision de dernier recours d'annuler notre dette, mais cela va générer de grands troubles dans notre état.
+
+#event_c_canceldebt
+Annuler la dette
+
+#event_confcdebt
+Confirmer l'annulation de la dette?
+
+# event_confcdebt_1
+Êtes-vous sûr de vouloir déclarer notre dette nulle et non avenue?
+
+# event_confcdebt_2
+Avec une dette de [p1] pièces et un PIB de [p2], notre dette représente actuellement [p3]% de notre PIB: si nous l'annulons, nous subirons une sanction estimée de [p4] loyauté dans tous nos territoires!
+
+#event_canceldebt
+Dette annulée!
+
+# event_canceldebt_1
+Nous avons pris la mesure drastique de déclarer notre dette de [p1] pièces nulles et non avenues, en annonçant que nous ne rembourserions pas ce que nous devions.
+
+# event_canceldebt_2
+Dans toutes nos villes, les créanciers de notre dette se révoltent de ne jamais recevoir ce que nous leur devons. Beaucoup de gens ont tout perdu et sont ruinés en conséquence. L'économie est déstabilisée et dans une grande agitation, sans parler de la perte de confiance de la population dans son gouvernement.
+
+# event_canceldebt_3
+En conséquence de l'annulation d'une dette de [p3]% de notre PIB total ([p2]), nous subissons une pénalité de [p4] Loyauté dans tous nos territoires. Cet effet va lentement se dégrader car les gens oublient cet événement, mais cela prendra du temps. En attendant, nous devrions nous préparer au pire.
+
+#event_lowpow
+Pouvoir d'état négatif!
+
+# event_lowpow_1
+Le pouvoir d'État est la capacité de votre État à gérer les choses. Sans cela, nous serons incapables d'adopter des réformes et la loyauté de nos territoires sera négativement affectée, ce qui pourrait mener à des rébellions populaires.
+
+# event_lowpow_2
+Le pouvoir de l'État peut être amélioré en: possédant moins de villes, n'ayant pas de dette, révoquant des politiques coûteuses.
+
+#event_lowlegit
+Légitimité négative!
+
+# event_lowlegit_1
+La légitimité est de savoir combien les gens reconnaissent le droit des revendications de l'état à l'autorité. Sans cela, non seulement nous sommes confrontés à un risque croissant de soulèvements populaires, mais nos armées pourraient aussi se retourner contre nous pour renverser notre gouvernement illégitime!
+
+# event_lowlegit_2
+Les politiques de légitimité définissent les revendications que vous faites pour affirmer votre droit en tant que dirigeant de cet État. Ces revendications définissent l'importance de tous les différents facteurs de légitimité. Pour améliorer notre situation, nous pourrions soit travailler à améliorer les facteurs actuels, soit réformer nos prétentions à la légitimité en nous appuyant sur des facteurs plus bénéfiques.
+
+#event_tribwarn
+Territoire volé
+
+# event_tribwarn_1
+Il faut se méfier! En créant notre nouvelle colonie de [x], nous avons usurpé les terres d'une tribu primitive qui vit là depuis des générations. Bien sûr, ce territoire semblait attrayant, mais nous finirons par payer les conséquences de cette action car les autochtones ne toléreront pas notre présence pour toujours.
+
+# event_tribwarn_2
+Pour l'instant, ils nous ont seulement regardé fixer le camp de loin, mais ils connaissent mieux ces terres que quiconque et disparaissent à chaque fois que nous essayons de les approcher. Je crains que nous ne soyons pas capables de "traiter avec eux" avant qu'ils ne choisissent de causer des problèmes ... Nous devrions nous préparer à une attaque surprise possible par eux. Ils pourraient préparer des armes et des guerriers pour nous chasser de leurs terres en ce moment même! Ou peut-être que cette terre ne vaut pas la peine après tout et que nous pourrions simplement faire nos bagages et les laisser être?
+
+#event_tribreb
+Une tribu primitive qui se moque de [x]!
+
+# event_tribreb_1
+Les indigènes vivant sur notre territoire de [x] sont devenus mécontents d'avoir ce qu'ils ressentent comme étant leur territoire occupé par nous. Ils ont pris les armes et ont décidé d'attaquer traîtreusement!
+
+#event_trt_ref
+[y] a refusé notre proposition de traité
+
+# event_trt_ref_1
+Un émissaire de [y] nous a informés que notre offre de traité juste et généreuse a été déclinée de [x].
+
+#event_trt_acc
+Traité avec [y] signé
+
+# event_trt_acc_1
+Notre traité avec [x] de [y] a été approuvé et signé par nous deux et est maintenant en vigueur!
+
+#event_trt_rngoc
+[y] propose une renégociation des traités
+
+# event_trt_rngoc_1
+[x] de [y] propose la renonciation suivante d'un traité que nous avons actuellement avec eux. Si nous acceptons ces nouvelles conditions, le traité sera mis à jour.
+
+#event_trt_asktrm
+[y] demande de mettre fin à un traité
+
+# event_trt_asktrm_1
+[x] de [y] demande la fin mutuellement convenue d'un traité que nous avons avec son peuple. Si nous acceptons cette demande, le traité sera résilié instantanément sans déclencher de casse et ses conditions cesseront d'être en vigueur. Si nous refusons, rien ne se passera et le traité restera actif à moins qu'ils décident de le casser illégalement (auquel cas leurs fermetures de rupture s'appliquent).
+
+# event_trt_brk1
+[x] a brisé un traité!
+
+# event_trt_brk1_1
+[x] a brisé illégalement le traité de '[y]' qu'ils avaient avec nous!
+
+# event_trt_brk1_2
+Selon les termes de rupture du traité, nous avons reçu [p1] pièces de monnaie en compensation et ils ont perdu [p2] d'honneur.
+
+# event_trt_brk2
+Nous avons rompu un traité avec [x]!
+
+# event_trt_brk2_1
+Nous avons illégalement brisé le traité de '[y]' que nous avons eu avec [x].
+
+# event_trt_brk2_2
+Selon les termes de rupture du traité, comme pénalité, nous avons payé [p1] pièces de monnaie et perdu [p2] de l'honneur.
+
+# event_trt_brkw1
+Nous leur avons déclaré la guerre en représailles, et tout autre traité avec eux a
+
+# event_trt_brkw2
+Ils nous ont déclaré la guerre en représailles.
+
+#event_brb_raid
+Pillards barbares entrants!
+
+# event_brb_raid_1
+Nos éclaireurs rapportent qu'un groupe de pilleurs [p1] barbares ont quitté le territoire voisin de [x] et arrivent sur notre chemin.
+
+# event_brb_raid_2
+Ils pourraient être ici bientôt et tenter de faire rapidement des raids dans nos entrepôts. Nous devons préparer nos défenses!
+
+#event_brb_sack
+Groupe de guerre barbare entrant!
+
+# event_brb_sack_1
+Nos éclaireurs rapportent qu'une bande de barbares d'environ [p1] pocros a quitté le territoire voisin de [x] et arrive sur notre route.
+
+# event_brb_sack_2
+Ils pourraient être ici bientôt et attaqueront pour vaincre toutes nos défenses avant de saccager tout le territoire! Nous devons préparer nos défenses!
+
+#event_brb_inv
+Envahisseurs barbares entrants!
+
+# event_brb_inv_1
+Nos éclaireurs rapportent qu'une armée de barbares d'environ [p1] pocros a quitté le territoire voisin de [x] et nous arrive.
+
+# event_brb_inv_2
+Ils pourraient être ici bientôt et ils ne semblent pas venir juste pour piller, mais pour envahir nos terres! Nous devons préparer nos défenses!
+
+#event_crsh_vict
+Victoire écrasante!
+
+# event_crsh_vict_1
+Notre formation << [x] >> a complètement écrasé et éliminé une petite troupe d'ennemis, grâce à nos nombres supérieurs écrasants.
+
+#event_crsh_dfeat
+Une défaite écrasante!
+
+# event_crsh_dfeat_1
+Nouvelles graves: notre formation << [x] >> a été complètement écrasée et éliminée par l'ennemi [y], avec des nombres supérieurs accablants. Personne n'a survécu pour même raconter l'histoire.
+
+#event_popdefrise
+Les gens de [x] défendent la ville!
+
+# event_popdefrise_1
+Les habitants de la ville de [x] prennent les armes par eux-mêmes pour aider à défendre la ville contre les assaillants. [p1] porcos se joignent à la bataille!
+
+# event_trout_w1
+Avertissement d'itinéraire commercial: pas de droits de négociation!
+
+# event_trout_w1_1
+Parce que nous n'avons plus de droits de négociation avec la ville de [y], notre route commerciale entre cette ville et [x] se fermera bientôt, à moins que nous ne réglions ce problème rapidement.
+
+# event_trout_w1_2
+Cela peut arriver si la ville a un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de négociation, ou si ces droits ont été révoqués.
+
+# event_trout_b1
+Route commerciale cassée!
+
+# event_trout_b1_1
+Parce que nous n'avions plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] était fermée.
+
+# event_trout_b1_2
+Cela s'est produit parce que la ville a eu un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de négociation ou si les droits de négociation ont été révoqués.
+
+# event_trout_w2
+Avertissement d'itinéraire commercial: cargaison manquante!
+
+# event_trout_w2_1
+Notre route commerciale avec [x] exploité par [y] manque [p2] de la cargaison à exploiter correctement. La route commerciale se fermera bientôt à moins que nous réglions ce problème rapidement.
+
+# event_trout_w2_2
+Le service de fret est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
+
+# event_trout_w2_3
+Cependant, cet opérateur ne produit plus assez de service de fret requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
+
+# event_trout_b2
+Route commerciale cassée!
+
+# event_trout_b2_1
+Notre route commerciale avec [x] fermé parce que son opérateur [y] était incapable de fournir la cargaison requise ([p3]) pour la maintenir (manquait [p2]).
+
+# event_trout_b2_2
+Le service de fret est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
+
+# event_trout_b2_3
+Cependant, cet opérateur ne produit plus assez de service de fret requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
+
+# event_trout_w3
+Avertissement d'itinéraire commercial: il nous manque des marchandises!
+
+# event_trout_w3_1
+Notre route commerciale exportant [p2] [p3] à [x] de [y] manque des biens requis et fermera bientôt si nous ne résolvons pas ce problème rapidement!
+
+# event_trout_w3_2
+Cela arrive parce que nous ne produisons plus assez [p3] en [x] et que nos stocks sont épuisés.
+
+# event_trout_b3
+Route commerciale interrompue!
+
+# event_trout_b3_1
+Notre route commerciale exportant [p2] [p3] à [x] de [y] a été fermée parce que nous ne pouvions plus fournir les biens requis.
+
+# event_trout_b3_2
+Cela est arrivé parce que nous ne produisions pas assez [p3] en [x] et que nos stocks étaient épuisés.
+
+# event_trout_w4
+Avertissement d'itinéraire commercial: l'exportateur manque des marchandises!
+
+# event_trout_w4_1
+Notre route commerciale important [p2] [p3] de [y] vers [x] manque des biens requis et pourrait bientôt se fermer à moins que l'exportateur répare rapidement ce problème!
+
+# event_trout_w4_2
+Cela arrive parce que leur production de [p3] en [y] est insuffisante et leurs stocks épuisés.
+
+# event_trout_b4
+Route commerciale interrompue!
+
+# event_trout_b4_1
+Notre route commerciale important [p2] [p3] de [x] à [y] a fermé parce qu'elle ne pouvait plus fournir les biens requis.
+
+# event_trout_b4_2
+Cela est arrivé parce que leur production de [p3] en [x] était insuffisante et que leurs stocks étaient épuisés.
+
+# event_trout_c1
+[x] a fermé une route commerciale!
+
+# event_trout_c1_1
+La ville de [x] a fermé sa route commerciale de [p2] [p3] avec notre ville de [y].
+
+# event_trout_c2
+Une de nos routes commerciales a été fermée par son opérateur!
+
+# event_trout_c2_1
+La ville de [x] a décidé d'arrêter d'exploiter notre route commerciale de [p2] [p3] avec notre ville de [y]. Cela a entraîné la fermeture de la route commerciale.
+
+#event_cdog
+Un chasseur a apprivoisé quelques chiens sauvages dans [x]!
+
+# event_cdog_1
+Certains chiens sauvages ont erré autour du village de [x] ces derniers temps. Les animaux semblaient amicaux et un chasseur parvint à apprivoiser certains d'entre eux: il les mit dans un enclos fermé pour les garder. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
+
+#event_csheep
+Nous avons apprivoisé quelques moutons sauvages dans [x]!
+
+# event_csheep_1
+Certains moutons sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture! Ils sont aussi assez moelleux.
+
+#event_cgoat
+Nous avons apprivoisé des chèvres sauvages dans [x]!
+
+# event_cgoat_1
+Certaines chèvres sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
+
+#event_crabbit
+Les chasseurs ont capturé quelques lapins sauvages dans [x]!
+
+# event_crabbit_1
+Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des lapins vivants et les ont mis dans des cages pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
+
+#event_cchick
+Les chasseurs ont attrapé du poulet sauvage dans [x]!
+
+# event_cchick_1
+Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des poulets vivants et les ont mis dans des cages pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
+
+#event_ccow
+Nous avons apprivoisé des vaches sauvages dans [x]!
+
+# event_ccow_1
+Certaines vaches sauvages ont erré autour du village de [x] ces derniers temps. Ces animaux semblaient passifs, et un villageois a réussi à les diriger vers un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
+
+#event_cbuff
+Nous avons apprivoisé quelques buffles sauvages dans [x]!
+
+# event_cbuff_1
+Certains buffles sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
+
+#event_chorse
+Les chasseurs ont capturé des chevaux sauvages dans [x]!
+
+# event_chorse_1
+Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des chevaux sauvages. Ils ont enfermé les animaux agités dans un petit enclos pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
+
+#event_ccamel
+Les chasseurs ont capturé quelques chameaux sauvages dans [x]!
+
+# event_ccamel_1
+Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des chameaux sauvages. Ils ont enfermé les animaux stupides et obstinés dans un petit enclos pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
+
+#event_cllama
+Nous avons apprivoisé quelques lamas sauvages dans [x]!
+
+# event_cllama_1
+Certains lamas sauvages ont erré autour du village de [x] ces derniers temps. Ces animaux semblaient plutôt sympathiques - à la mesure d'un lama crachant obstiné - et un villageois a réussi à les pousser dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
+
+#event_projsuc
+Notre projet '[x]' a été complété avec succès!
+
+# event_projsuc_1
+Notre projet '[x]' a été complété avec succès et nous avons gagné ses récompenses!
+
+#event_projfail
+Notre projet '[x]' a échoué!
+
+# event_projfail_1
+Notre projet de '[x]' avec [p2]% de chances de succès a été complété, mais malheureusement, il n'a pas répondu à ses attentes et nous n'avons pas obtenu les récompenses attendues. Je crains que nous devons recommencer à zéro et espérer de meilleurs résultats ...
+
+# event_projfail_2
+Un projet peut échouer si sa difficulté est supérieure à l'intelligence moyenne des chercheurs qui lui sont assignés. Nous devrions essayer d'assigner de meilleurs chercheurs pour augmenter nos chances de succès la prochaine fois!
+
+#event_herd
+Troupeau de [p2] repéré près de [x]!
+
+# event_herd_1
+Les éclaireurs de la tribu ont repéré un mouvement d'environ [p1] [p2] près de notre village de [x], dans un territoire de [y].
+
+# event_herd_2
+Nous pourrions envoyer certains de nos meilleurs porcs pour les chasser: cela nous fournirait de la viande fraîche et du cuir pour la tribu!
+
+#event_rcvidea
+Nous avons reçu une nouvelle idée de [x]!
+
+# event_rcvidea_1
+Bonne nouvelle: les gens de [x] nous ont montré leur connaissance de [p1] et nous ont expliqué les rudiments de ce que c'est et comment cela fonctionne.
+
+# event_rcvidea_2
+Sur la base de ce qu'ils nous ont montré, nous avons maintenant débloqué un nouveau projet: '[p2]', que nous pouvons essayer de compléter nous-mêmes pour maîtriser la connaissance de [p1]!
+
+#event_trtov
+Notre traité '[x]' avec [y] est maintenant terminé.
+
+# event_trtov_1
+Le traité '[x]' que nous avons eu avec [y] a atteint la fin de sa durée convenue et est maintenant obsolète!
+
+#ev_migtrib
+Tribu de nomades affamés dans [x]
+
+# ev_migtrib_1
+Attirée par notre prospérité, une tribu primitive de nomades affamés est arrivée en [x]. Ils errent depuis longtemps dans les terres, souffrent de la faim, et ils sont intéressés à se joindre à notre communauté. Ils portent peu avec eux et n'ont pas grand chose à offrir en plus de leur main-d'œuvre.
+
+# ev_migtrib_2
+Devrions-nous les accueillir dans notre tribu?
+
+# ev_migtrib_c1
+"Oui, nous avons besoin de l'effectif supplémentaire, qu'ils soient accueillis parmi nous."
+
+# ev_migtrib_c2
+"Non, nous ne pouvons pas nous permettre des bouches supplémentaires à nourrir."
+
+#ev_stormwood
+Nuit orageuse dans [x]
+
+# ev_stormwood_1
+Une violente tempête a fait rage toute la nuit en [x], avec de forts vents. Heureusement, Noone a été blessé et le village n'a subi aucun dommage.
+
+# ev_stormwood_2
+Cependant, le matin, les villageois ont remarqué que quelques grands arbres étaient tombés à proximité, ce qui en faisait une source de bois facile et gratuite!
+
+#ev_luckgath
+Lucky gatherer dans [x]
+
+# ev_luckgath_1
+Un de nos cueilleurs a eu de la chance et a trébuché sur une parcelle de plantes comestibles jusque-là inconnue cachée dans la végétation que personne n'avait remarquée auparavant! C'est une bonne récolte pour la journée!
+
+#ev_nagwif
+La femme harcelante
+
+# ev_nagwif_1
+Un porco du village de [x], exaspéré par les harcèlements incessants de sa porcasse, décida de partir en retraite dans le désert pour chasser et ainsi disparut pendant plusieurs jours.
+
+# ev_nagwif_2
+Beaucoup craignaient qu'il ne revienne jamais. Mais le 5ème jour, il revint, emportant avec lui les dépouilles de ce qui s'était avéré être une chasse très réussie. Il a été acclamé par toute la tribu. Sa femme, cependant, n'était pas contente et partit avec ses porcelets pour vivre dans la tribu de sa mère, de l'autre côté de la vallée.
+
+#ev_regwolf
+Loups affamés dans [x]!
+
+# ev_regwolf_1
+Une meute de loups affamés est arrivée sur le territoire de [x], probablement attirée par nos stocks alimentaires! Pendant la nuit, ils ont réveillé toute la tribu avec leurs hurlements effrayants qui se rapprochaient de plus en plus. A l'aube, leurs silhouettes sombres ont été repérées autour du village.
+
+# ev_regwolf_2
+Tous les guerriers se sont précipités vers leurs armes et se sont rassemblés, prêts à combattre la meute de loups et à protéger le peuple et les stocks du village!
+
+#ev_regbear
+Mauvais ours dans [x]
+
+# ev_regbear_1
+Un petit groupe d'ours est venu errer sur le territoire de [x]. Pendant la nuit, ils sont entrés dans le village et ont commencé à se déchaîner à travers nos réserves alimentaires et nos provisions.
+
+# ev_regbear_c1
+"Tout le monde, fais semblant de dormir ..."
+
+# ev_regbear_c2
+Il est temps de se battre avec des ours!
+
+#ev_asylm
+Demandeurs d'asile en [x]
+
+# ev_asylm_1
+Un groupe de nomades est arrivé sur notre territoire de [x]. Ils ont raconté comment ils ont été chassés de leurs terres par une autre tribu voisine après un conflit entre eux.
+
+# ev_asylm_2
+Attaqués pendant une nuit, ils ont perdu la plupart de leurs gens et ont fui leur patrie, mais pas avant qu'un de leurs meilleurs guerriers ait réussi à tuer le chef de la tribu ennemie. Depuis lors, son fils a juré de les pourchasser pour se venger peu importe où ils vont, et ils ont été en fuite pendant plusieurs semaines.
+
+# ev_asylm_3
+Leurs poursuivants ne sont pas loin derrière, et votre tribu est maintenant leur seul espoir. Ils demandent l'asile et la sécurité, en offrant de promettre leur loyauté envers notre peuple si nous acceptons de les protéger. Si nous le faisons, nous devrons combattre leurs poursuivants!
+
+# ev_asylm_c1
+Offrez-leur l'asile et combattez leurs poursuivants.
+
+# ev_asylm_c2
+Capturez ces fugitifs et offrez-les à la justice de leurs poursuivants pour une récompense.
+
+#ev_knowtrav
+Le voyageur averti
+
+# ev_knowtrav_1
+Un jour, un vieux cochon est arrivé dans notre village de [x], les pieds fatigués des nombreux voyages qu'il avait faits. Il était un ermite solitaire, vivant et voyageant seul pendant de nombreuses années maintenant.
+
+# ev_knowtrav_2
+Il a raconté l'histoire de l'ancien peuple auquel il appartenait, qui a péri il y a longtemps d'une maladie mystérieuse dont il a été le seul à se remettre, en fuyant loin de sa terre. Il racontait aussi comment son peuple vivait: des histoires incroyables sur des choses qu'ils a faites. Il y avait beaucoup à apprendre de ses enseignements car il semblait provenir d'un peuple mystérieux et plus raffiné que le notre.
+
+#ev_knowtrav_3
+Mais l'émerveillement et l'influence qu'il a acquis parmi la tribu ont commencé à bouleverser ses membres plus dominants qui ont senti leur position menacée ... Que devrions-nous faire à ce sujet?
+
+#ev_knowtrav_c1
+Écoutez ce que ce voyageur a à enseigner même si cela dérange tout le monde.
+
+#ev_knowtrav_c2
+Bannir le vieux cochon du village pour ses mensonges.
+
+#ev_frndgift
+Don d'amitié à [x]
+
+#ev_frndgift_1
+Un groupe de voyageurs nomades a traversé notre petit village de [x]. Ils sont restés quelques jours, partageant des histoires et se liant d'amitié avec certains locaux. Heureux de notre hospitalité, ils nous ont offert quelques-uns de leurs biens en signe d'amitié, avant de nous faire nos adieux et de poursuivre leur voyage.
+
+#ev_vp_complet
+Mission de victoire complétée.
+
+#ev_vp_complet_1
+Nous avons accompli la mission de victoire "[y]" avant tout le monde et avons gagné sa récompense, prouvant à tout le monde que nous sommes un peuple glorieux!
+
+#ev_vp_fail
+[x] a complété une mission de victoire!
+
+#ev_vp_fail_1
+Le peuple de [x] a complété une mission de victoire "[y]" avant nous!
+
+#ev_joinwriors
+Des guerriers veulent se joindrent à nous!
+
+#ev_joinwriors_1
+Un groupe de 10 guerriers ont erré dans les terres pendant plusieurs lunesavant d'arriver dans notre tribus. Ils sont amicaux et souhaitent se joindre à nous: ils nous offrent leur aide pour chasser et explorer le monde si nous les accueillons parmi nous.
+
+#ev_joinwriors_c1
+"Oui, accueillons-les!"
+
+#ev_joinwriors_c2
+"Non, nous ne pouvons pas soutenir de nouvelles personnes en ce moment."
+
+#ev_exceptool
+Des outils exceptionnels
+
+#ev_exceptool_1
+L'un des artisans les plus talentueux de la tribu a trouvé des pierres d'une solidité et d'une dureté inhabituelles et il a réussi à en fabriquer quelques outils d'une qualité exceptionnelle!
+
+#ev_spdboost
+Boost de vitesse
+
+#ev_spdboost_1
+En tant que nouveau personnage, pour profiter d'un départ dynamique, vous recevrez un x [x] SPEED BOOST temporaire pendant vos premières [y] minutes de jeu!
+
+#ev_spdboost_2
+Ce bonus, tant qu'il reste actif, modifie les statistiques suivantes de votre personnage:
+
+#ev_spdboost_3
+- La production et la consommation des ressources dans vos territoires sont plus rapides, le cycle de production étant réduit de [x].
+
+#ev_spdboost_4
+- La croissance de la population évolue plus vite puisque la durée d'une génération normale est réduite de [x].
+
+#ev_spdboost_5
+- La vitesse de recherche est augmentée de [x].
+
+#ev_spdboost_6
+- La vitesse de construction est augmentée de [x].
+
+#ev_rebljoin
+[x] se sont rebellés et souhaitent nous rejoindre.
+
+#ev_rebljoin_1
+Bonne nouvelle: la ville de [x] s'est rebellée contre ses oppresseurs de [y]. La ville est enfin libre et la population, se sentant culturellement attachée à nous, souhaite maintenant rejoindre notre glorieuse nation!
+
+#ev_rebljoin_2
+Si nous acceptons, nous reprendrons la propriété et le contrôle de ce territoire. Si nous refusons, ils resteront gouvernés par les rebelles.
+
+#ev_rebljoin_c1
+Accepter et annexer le territoire
+
+#ev_rebljoin_c2
+Refuser
+
+#ev_heirprop
+Héritage
+
+#ev_heirprop_1
+[x] est maintenant inactif et sa position est prête pour la succession. Il vous a désigné comme son héritier, et vous pouvez donc immédiatement prendre sa place dans la Nation.
+
+#ev_heirprop_2
+Si vous êtes d'accord, vos positions seront immédiatement échangées: vous hériterez de son rang et de ses subordonnés pendant qu'il héritera du vôtre, devenant votre propre subordonné. En fonction des privilèges de votre nouveau titre, vous pourrez alors le retirer entièrement de la Nation, démanteler ses territoires, ou réorganiser la hiérarchie pour récupérer vos subordonnés passés ou le déplacer plus bas.
+
+#ev_heirprop_c1
+Accepter
+
+#ev_heirprop_c2
+Refuser
+
+#ev_votesucc
+Il est temps de voter!
+
+#ev_votesucc_1
+[x], votre supérieur, est maintenant inactif et sa position est prête pour la succession. Il est temps de voter pour désigner qui parmi ses subordonnés sera choisi pour le remplacer.
+
+#ev_votesucc_2
+Une fois qu'un successeur est élu, sa position sera immédiatement échangée avec [x] et il héritera de son grade et de ses subordonnés.  . Le prédécesseur, par défaut, est automatiquement déplacé vers la position précédente du successeur nouvellement élu, où il peut ensuite être géré en tant que subordonné (démantelé, expulsé, remplacé ...).
+
+#ev_votesucc_rslt
+[p2] a été élu [x]
+
+#ev_votesucc_rslt_1
+[p2] a été élu [x], succédant à [p1].
+
+#ev_votesucc_rslt_2
+[p2] a remporté l'élection avec [p3] votes sur [p4] votes exprimés.
+
+#ev_votesucc_won
+Vous avez été élu [x]!
+
+#ev_votesucc_won_1
+Toutes nos félicitations! Vous avez été élu (e) successeur de [p1].
+
+#ev_votesucc_won_2
+Vous avez gagné l'élection avec [p3] votes en votre faveur sur [p4] votes exprimés.
+
+#ev_xplrch_vrywl
+"Très bien."
+
+#ev_xplrch_shame
+"C'est dommage."
+
+#ev_xplrch_exlnt
+"Excellent!"
+
+#ev_xplrch_notime
+"Non, nous n'avons pas le temps pour ça."
+
+#ev_xplrch_proceed
+"Oui, procéder comme ça!"
+
+#ev_xplrch_nvrmnd
+"Non, ça ne va pas."
+
+#ev_xplrch_leave
+Laisser.
+
+#ev_xplr_bdts
+Des bandits ont tendu une embuscade à notre formation '[x]'!
+
+#ev_xplr_bdts_1
+Tandis que notre formation '[x]' de [p2] porcos voyageait à travers le désert, ils arrivèrent à un moment donné à traverser une petite passe étroite nichée entre deux collines. Le soleil était haut et les Porcos étaient fatigués du long voyage et du transport de tous les biens que la troupe avait avec eux.
+
+#ev_xplr_bdts_2
+Sans surprise, un petit groupe d'une vingtaine de bandits embusqués est soudainement apparu des deux côtés, entourant nos troupes. Leur chef a avancé, et a fait une demande simple: "Donnez-nous tout votre butin ou devenez du bacon!". Que devrions nous faire?
+
+#ev_xplr_bdts_c1
+"Nous n'avons pas peur de ces Pigbandits!"
+
+#ev_xplr_bdts_c2
+Donnez leur ce qu'ils veulent.
+
+#ev_xplr_abvil
+'[x]' a trouvé un village abandonné.
+
+#ev_xplr_abvil_1
+En explorant les terres, notre groupe '[x] a trébuché sur les restes d'un village primitif abortif de quelques huttes. Prudemment, les poroso ont commencé à inspecter ces restes et sont arrivés à la conclusion que ceux qui vivaient là sont maintenant partis depuis longtemps. "Ils semblent avoir abandonné beaucoup de choses ici ... Qui sait pour quelles raisons les gens qui ont vécu là-bas ont décidé de partir, mais ils n'ont pas pris grand chose avec eux!", A conclu le chef du groupe.
+
+#ev_xplr_abvil_2
+Bien que beaucoup de choses se soient détériorées avec le temps, certaines semblent encore en assez bon état pour nous intéresser. Devrions-nous fouiller le village et fouiller ce que nous pouvons?
+
+#ev_xplr_abvil_c1
+"Oui, fouillons le village abandonné et prenons ce que nous pouvons!"
+
+#ev_xplr_abvil_c2
+on, laissons les choses telles qu'elles sont, nous n'avons pas le temps pour ça."
+
+#ev_xplr_birds
+Oiseaux intrépides
+
+#ev_xplr_birds_1
+«[x]» campaient dans une forêt après une longue journée de marche dans ces terres inconnues. La nuit arrivait, et tous les porcos étaient rassemblés autour des feux de camp. C'est à ce moment qu'ils ont entendu un bruit dans un buisson voisin, d'où émergea une bande oiseaux qui ne leur étaient pas familiers. Les bêtes semblaient inconscientes de leur présence, choisissant des choses sur le sol de la forêt comme si elles étaient seules sur la terre.
+
+#ev_xplr_birds_2
+"Eh bien ... On dirait que la viande fraîche est de retour au menu, les garçons!", Sourit le chef du groupe: au matin, tous les oiseaux étaient allés à la rencontre de leur créateur. Quelle chasse chanceuse! Le groupe, le matin, est parti avec une bedaine et de nouveaux stocks de viande fraîche.
+
+#ev_xplr_hsttrib
+'[x]' est attaqué par une tribu hostile!
+
+#ev_xplr_hsttrib_1
+Mauvaises nouvelles! Tandis que [x] traversait de nouvelles terres inconnues, ils se retrouvèrent soudain entourés d'un groupe d'une demi-douzaine de natifs hostiles. Ils sont venus de nulle part ... Nous avons probablement marché près de leur territoire, ou peut-être qu'ils n'aiment pas nos museaux. Avant même que les porcos ne réalisent ce qui se passait, les guerriers primitifs attaquaient déjà ...
+
+#ev_xplr_thirst
+Désert impitoyable
+
+#ev_xplr_thirst_1
+Notre formation "[x]" a erré trop loin dans des terres arides inconnues. Pendant des jours, ils n'ont pu trouver aucune source d'eau douce. Les porcs cherchaient désespérément de l'eau, mais ce n'était pas une tâche facile dans ces contrées désertiques. Au moment où ils ont trouvé une flaque de boue pour étancher leur thrist, beaucoup d'entre eux avaient été perdus au détriment des vautours et du soleil impitoyable de ces terres.
+
+#ev_xplr_thirst_2
+Peut-être aurions-nous dû éviter de nous aventurer trop loin dans un territoire aussi hostile.
+
+#ev_xplr_lstjngl
+Perdu dans la jungle
+
+#ev_xplr_lstjngl_1
+Les porcos de '[x] étaient perdus depuis des jours dans cette jungle sanglante, harcelé par la chaleur et perdu. Il ne fallut pas longtemps avant que le groupe se transforme en deux groupes ... "Hé Mr Jenkins, je jure que j'ai déjà vu ce foutu arbre il y a 2 jours!" dit Porkypigs. "Viens, peut-être que nous trouverons bientôt le reste du groupe! Continuons de marcher!". Mais ils ne l'ont jamais fait. Cependant, ils ont trouvé un nid de mouches mangeuses de chairs de la taille d'une main au moment où M. Jenkins a décidé que c'était le bon moment pour titiller un trou suspect dans un arbre avec un bâton pour essayer de trouver quelque chose à manger.
+
+#ev_xplr_lstjngl_c1
+"Sanglant M. Jenkins!"
+
+#ev_xplr_strvtrib
+La tribu affamée
+
+#ev_xplr_strvtrib_1
+Les porcos de '[x]' avaient repéré un petit groupe de personnes, marchant sur le flanc d'une colline. Le lendemain matin, le même groupe a été repéré, cette fois-ci plus près, et les porcos ont décidé d'aller les rencontrer: c'était un petit groupe de quelques familles, avec des porcelets et des porcasses, et ils ne semblaient pas être une menace.
+
+#ev_xplr_strvtrib_2
+Quand ils se rapprochaient, leur état devenait horriblement clair: ces gens qui marchaient étaient squelletiques, affamés. Ils marchaient lentement, et il n'y avait aucun espoir dans leur yeux. Ils ne semblaient pas remarquer la présence du groupe qui se rapprochait d'eux jusqu'à ce que l'un d'entre nous s'avance littéralement devant eux.
+
+#ev_xplr_strvtrib_3
+Nous leur avons offert certaines de nos provisions, et ce n'est qu'à partir du deuxième jour qu'ils ont finalement échangé quelques mots avec le groupe et nous ont raconté leur histoire. Ils étaient une tribu grande et prospère, vivant de la chasse et de la cueillette jusqu'à ce qu'ils soient chassés de leurs terres par une tribu plus puissante. Ils avaient perdu tous leurs précieux outils et armes, et la plupart des porcos les plus forts de leur tribu étaient morts en combattant. Depuis lors, les survivants ont erré dans les terres incapables de chasser, lentement affamés.
+
+#ev_xplr_strvtrib_c1
+"Rejoignez-nous, nous vous offrirons une nouvelle maison!"
+
+#ev_xplr_strvtrib_c2
+Nous ne pouvons pas prendre soin de ces gens. Souhaitons-leur bonne chance et passons à autre chose.
+
+#ev_xplr_snakes
+Serpents dans une plaine
+
+#ev_xplr_snakes_1
+Notre formation '[x] traversait lentement une plaine apparemment sans fin couverte de hautes herbes épaisses à la hauteur d'un porco quand l'un d'eux sentit une vive douleur sur ses pieds: il avait été mordu par un serpent coloré qui disparut rapidement dans l'herbe . Il n'y avait rien que nous puissions faire pour le malchanceux: en quelques minutes sa jambe avait doublé de volume et il connu une mort horrible.
+
+#ev_xplr_snakes_2
+Cela, malheureusement, était juste un début car au moment où le groupe a réussi à échapper à la plaine, deux autres avaient été mordus et ont subit le même sort. Cette plaine était infestée littéralement de serpents visqueux.
+
+#ev_xplr_snakes_c1
+"Je l'ai eu avec ces serpents de merde!"
+
+#ev_xplr_map
+La tribu amicale offre '[x]' une carte du territoire.
+
+#ev_xplr_map_1
+Notre formation '[x]' a été bien reçue par les indigènes dans un petit village, où ils ont passé quelques jours pour se reposer. Les villageois ont proposé à nos porcs de tout leur apprendre sur le territoire environnant qu'ils connaissent très bien:
+
+#ev_xplr_map_2
+"Sniffingwind est le meilleur éclaireur du village" a déclaré leur chef. "Il connaît tous les tenants et les aboutissants de ces terres. Si vous le souhaitez, Sniffingwind peut vous montrer comment voyager à travers ce territoire, il n'a jamais eu de problèmes. Il vous dira quelles zones sont à éviter, quels endroits sont dangereux. En attendant, vous pouvez rester dans notre petit village! Devrions-nous rester un peu plus et accepter leur aide?
+
+#ev_xplr_snglost
+Explorateur perdu!
+
+#ev_xplr_snglost_1
+Il est très dangereux de voyager seul dans ces terres inconnues. Malheureusement, notre explorateur a disparu et n'a plus jamais été entendu.
+
+#ev_xplr_snglost_2
+Qui sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, pour augmenter nos chances de succès.
+
+#ev_xplr_grplost
+Explorateur perdu!
+
+#ev_xplr_grplost_1
+Il est très dangereux de parcourir ces terres inconnues dans un petit groupe. Malheureusement, notre explorateur a disparu et on n'en a plus jamais entendu parler.
+
+#ev_xplr_grplost_2
+Qui sait ce qui leur est arrivé ... Peut-être devrions-nous envisager d'envoyer une plus grande expédition la prochaine fois, pour augmenter nos chances de succès.
+
+#ev_xplr_storm
+Navires perdus dans une terrible tempête!
+
+#ev_xplr_storm_1
+La mer est dangereuse et de mauvaise humeur. Avant que quelqu'un ait eu le temps de réagir, une brise calme s'est transformée en une tempête terrifiante avec des vagues plus hautes que des collines et un ciel plus sombre que la nuit. Notre navire, malheureusement, n'était pas de taille pour cette tempête. Les porcos se battaient courageusement, mais les porcos et les navires étaient tous réclamés par la mer pour le lendemain matin. J'ai peur que nous ayons perdu toute l'expédition.
+
+#ev_xplr_rwave
+Vague mesquine!
+
+#ev_xplr_rwave_1
+La mer est dangereuse et traîtresse. C'était une journée ensoleillée, la mer semblait calme et la brise était agréable. Les porcos étaient détendus, mais désireux d'être de retour sur terre. Mais soudainement, un porco hurla, pointant à l'horizon sur tribord. Tout le monde regarda avec terreur ce qui ressemblait à un improbable mur d'eau qui se dirigeait vers le navire. Avant que n'importe qui puisse faire n'importe quoi, le petit bateau a été frappé et chaviré.
+
+#ev_xplr_rwave_2
+Il n'y avait rien qu'ils auraient pu faire contre un événement aussi perfide et imprévisible: ils n'avaient aucune chance. Les navires et les porcos ont été traînés au fond de la mer, pour ne plus jamais être revus.
+
+#ev_xplr_menlstsea
+'[x]' a été frappé par une tempête.
+
+#ev_xplr_menlstsea_1
+Le ciel menaçait toute la soirée: un mur de nuages noirs venant de l'horizon vers eux. Le capitaine essaya d'y échapper, mais sans succès. Il était trop grand, il bougeait trop vite et le vaisseau était trop petit. Ils devaient y faire face, et à la tombée de la nuit, il les avait engloutis.
+
+#ev_xplr_menlstsea_2
+Ce fut une nuit terrible que tous les porcos se rappelleront pour toujours. Les vagues ont presque fait chaviré le navire de fret plusieurs fois, mais heureusement et contre toute attente, leur embarcation loyal a pendu dessus. Tout le monde n'était pas là au matin, de nombreux porcos ont perdu des frères ce soir-là. Ils n'en parleront plus jamais, mais tous se souviendront à jamais des appels désespérés  de ceux qui sont tombés dans la mer pendant la tempête, tandis qu'ils les regardaient, impuissants, s'éloigner inexorablement du navire.
+
+#ev_xplr_invlstsea
+'[x]' a perdu des fournitures dans la mer.
+
+#ev_xplr_invlstsea_1
+Un marin non qualifié n'a pas correctement attaché une caisse de fournitures que le navire transportait et pendant une nuit turbulente avec de forts vents, la caisse est tombée dans la mer et nous avons perdu son contenu!
+
+#ev_xplr_sngseal
+Mer dangereuse
+
+#ev_xplr_sngseal_1
+La mer n'est pas un endroit pour un porco seul, et c'est impardonnable et impitoyable. Notre explorateur solitaire a disparu et n'a plus jamais été revu.
+
+#ev_xplr_sngseal_2
+Qui sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, si nous voulons avoir une chance!
+
+#ev_xplr_wiseold
+Le sage Oldpig
+
+#ev_xplr_wiseold_1
+Alors que notre expédition «[x]» se dirigeait vers un nouveau territoire inexploré, un groupe de porcos en haillons a croisé notre chemin. Malgré leur apparence modeste, ils semblaient tous bien éduqués, pleins d'assurance et de détermination. Leur chef, un vieux vénérable portant une barbe hirsute tombant à genoux, se présentait comme un philosophe. Il avait erré dans le monde pendant de nombreuses années, professant sa pensée à quiconque voulait l'écouter.
+
+#ev_xplr_wiseold_2
+Nous avons décidé de nous asseoir avec eux un moment et le vieux porco sage a commencé à présenter sa doctrine: Il a soutenu que le bonheur ne pouvait pas être atteint en satisfaisant les désirs conventionnels comme la richesse, la puissance, la renommée ou les plaisirs de la chair. Selon son école de pensée, seule une vie simple et libre de toutes possessions pourrait vraiment remplir nos âmes.
+
+#ev_xplr_wiseold_3
+Il a plaidé pendant des heures, captivant tout le public. Ses mots étaient subtils et son raisonnement logique. Il était même si persuasif que beaucoup d'entre nous décidèrent d'abandonner tous leurs biens pour le suivre.
+
+#ev_xplr_cptsow
+porcasses captives
+
+#ev_xplr_cptsow_1
+Un éclaireur de l'expédition [x] vient de signaler la présence d'une bande de guerriers dans la région. A en juger par l'apparition de leur camp, leur présence sur le territoire n'est que temporaire.
+
+#ev_xplr_cptsow_2
+Au centre de leur bivouac, l'éclaireur a repéré une grande cage en bois remplie de porcasses en captivité. Nous ne connaissons pas les intentions de ces guerriers, ni les circonstances dans lesquelles ces porcasses ont été capturées, mais leur sort semble assez désagréable.
+
+#ev_xplr_cptsow_c1
+Combattez les ravisseurs pour libérer les porcasses.
+
+#ev_xplr_cptsow_c2
+Ne vous impliqué pas.
+
+#ev_xplr_slprats
+Satanés rats!
+
+#ev_xplr_slprats_1
+Notre expédition, '[x]' a été obligée de se mettre à l'abri dans la première cavité rocheuse que nous avons pu trouver alors qu'un orage a soudainement éclaté. Trempés jusqu'à la peau, nous nous sommes tous rassemblés et avons essayé de nous reposer malgré le bruit assourdissant de la tempête.
+
+#ev_xplr_slprats_2
+Le matin, la pluie s'est finalement arrêtée et le calme est revenu. À moitié endormis, nous avons entendu des cris venant de nos récipients de nourriture. Nous avons vite réalisé que nous étions entourés de rats. Les rongeurs malveillants avaient profité du bruit pour se régaler de nos provisions toute la nuit.
+
+#ev_xplr_jnglsnek
+Serpent de la jungle
+
+#ev_xplr_jnglsnek_1
+Pendant que '[x] se frayaient un chemin dans la forêt tropicale dense, un de nos explorateurs a été mordu par un serpent noir. Le reptile rampant disparut aussitôt derrière un buisson. Après quelques heures, le porco blessé se plaignait de se sentir étourdis et d'avoir une vision floue. Il est finalement mort dans la nuit, incapable de respirer.
+
+#ev_xplr_lckyfsh
+Pêche chanceuse
+
+#ev_xplr_lckyfsh_1
+Nos explorateurs de '[x] campaient sur les rives d'une rivière pour la nuit. C'était un après-midi ensoleillé, et l'eau était limpide. C'est alors qu'un porco les a repérés: des poissons gras géants nageant dans les eaux peu profondes! Ils étaient si lents que le groupe pouvait les ramasser sans effort.
+
+#ev_xplr_lckyfsh_2
+Le groupe s'est bien nourri cette nuit-là. Ils ont aussi vidé et fumé beaucoup plus de poissons pour les emmener avec eux.
+
+#ev_xplr_natrprov
+La nature fournit
+
+#ev_xplr_natrprov_1
+'[x]', en voyageant à travers la terre, est tombé sur une petite parcelle de terre fertile couverte de plantes brillantes remplies de légumes et de fruits prêts pour la cueillette.
+
+#ev_xplr_natrprov_2
+Parfois, la nature est généreuse et distribue. Les porcos s'arrêtèrent quelques heures et se régalèrent de ce cadeau inattendu et prirent le reste avec eux.
+
+#ev_xplr_elegsow
+La porcasse élégante
+
+#ev_xplr_elegsow_1
+Pendant leur voyage à travers un territoire inexploré, l'expédition de '[x] a rencontré une procession menée par une porcasse élégante, confortablement assise sur un palanquin. Les deux groupes ont décidé de voyager ensemble temporairement afin de bénéficier d'une protection mutuelle.*
+
+#ev_xplr_elegsow_2
+Les porcos du cortege ont à peine prononcé un mot. Contrairement aux autres membres de son groupe, la matriarche était très dynamique et bavarde. Elle a dit qu'elle était passionné par les arts de la botanique et qu'elle pouvait préparer toutes sortes de remèdes et d'onguents miraculeux. Quand le temps du diner est venu, elle a servi certaines de ses spécialités. Afin de digérer, elle a également offert des boissons qu'elle a concocter. À la fin du mélange étrange, les explorateurs se sentaient mieux qu'ils ne l'avaient jamais été auparavant. Ils pensaient que la boisson était bénie et que la puissante porcasse était de nature divine pour pouvoir concevoir une telle substance. Le mois suivant, on leur a offert le mélange sacré chaque fois qu'ils le demandaient. Ils sont vite devenus dépendants de la délicieuse drogue du Hag. Ils sont devenus ses marionnettes, vidées de toutes leurs volontés, comme tous les autres malheureux dans la procession.
+
+#ev_xplr_elegsow_3
+Quelques-uns d'entre eux ne pouvaient plus le supporter et ont décidé de fuir pendant la nuit. Les jours suivants, ils erraient sans but, luttant contre le manque de drogue. Après un long et dur sevrage, ils ont finalement récupéré. Juste quelques porcos de l'ancienne expédition sont toujours là. Tous les autres ont été ensorcelés par la concoction extrêmement addictive de la sorcière.
+
+#ev_xplr_mahout
+Les mahouts
+
+#ev_xplr_mahout_1
+Pendant leurs pérégrinations dans des terres inexplorées, les porcs de '[x] s'arrêtèrent dans un petit hameau de mahouts paisibles. Les habitants possédaient un troupeau de cinq éléphants en bonne santé. Apprivoiser ces grosses créatures est un processus long et laborieux, et parfois leurs instincts sauvages reprennent le dessus.
+
+#ev_xplr_mahout_2
+Alors que nos explorateurs étaient sur le point de partir, les énormes pachydermes devinrent soudainement furieux. Ils ont fait une brèche dans la clôture et ont provoqué le chaos dans le hameau, broyant les huttes, mettant tout à l'envers. Alors que la situation devenait désespérée, un de nos porcos s'approcha prudemment des cinq éléphants furieux. Contre toute attente, les animaux enragés se sont calmés instantanément. Allongés sur le ventre, ils levèrent leurs malles vers les cèpes, en signe de prostration. La population locale était stupéfaite et pensait que notre porc était un être divin. Ils se sont tous agenouillés dans sa direction et ont crié "Le père des éléphants!"
+
+#ev_xplr_mahout_3
+Après cela, les cornacs ont semblé adorer nos porcs et ont souhaité nous rejoindre avec leur troupeau.
+
+#ev_xplr_mahout_c1
+Enrôlez-les.
+
+#ev_xplr_mahout_c2
+Refuser et partir.
+
+#ev_xplr_luckstrk
+Coup de chance
+
+#ev_xplr_luckstrk_1
+Nos explorateurs [x] 'remontaient les pentes abruptes d'un territoire nouvellement découvert quand ils ont commencé à sentir le sol se mouvoir sous leurs pieds. Le terrain sur lequel le groupe se tenait se détacha brusquement, provoquant un énorme glissement de terrain.
+
+#ev_xplr_luckstrk_2
+Beaucoup de nos porcos ont été blessés, mais heureusement, ils ont tous survécu. Quand ils se relevèrent, ils remarquèrent de loin une protubérance brillante. En approchant, ils ont découvert un énorme gisement de minerai qui avait été mis à nu par le glissement de terrain.
+
+#ev_xplr_ruinorph
+Les survivants orphelins
+
+#ev_xplr_ruinorph_1
+Nos explorateurs [x] avaient repéré un large nuage de fumée à l'horizon, se levant et couvrant le ciel de son manteau sombre. Nos porcos s'approchèrent prudemment de l'endroit d'origine du feu et découvrirent des ruines fumantes, remplies de la puanteur de la mort: des corps sans vie jonchaient le sol tout autour, dépouillés de tout objet de valeur. Même le bétail n'avait pas été épargné.
+
+#ev_xplr_ruinorph_2
+La nuit tombait et les membres de l'expédition n'avaient pas l'intention de passer plus de temps au milieu de cette scène macabre. Alors qu'ils s'apprêtaient à partir, leur attention a été attirée par des centaines de petits feux verts qui décollaient d'un buisson voisin: des lucioles. Quelque chose avait perturbé tous ces insectes.
+
+#ev_xplr_ruinorph_3
+En cherchant de plus près, nos porcos ont trouvé des dizaines d'enfants cachés dans la végétation. Ils semblaient tous très faibles et désespérés. Ils appartenaient sans aucun doute au village en ruines et leurs chances de survie semblent très faibles si aucune aide n'est apportée.
+
+#ev_xplr_ruinorph_c1
+Adoptez les porcelets orphelins.
+
+#ev_xplr_ruinorph_c2
+Laisser.
+
+#ev_xplr_sick
+Les explorateurs malades
+
+#ev_xplr_sick_1
+De nombreux porcoss de l'expédition '[x]' ont contracté de la fièvre. La maladie ne semble pas guérir et s'est même aggravée jour après jour. Les porcos malades sont frappés par des hallucinations et des délires. Ils transpirent abondamment et ne peuvent plus marcher avec le reste de l'expédition
+
+#ev_xplr_sick_2
+Les membres valides de notre expédition doivent faire un choix: soit établir le camp pendant un moment dans le voisinage pour nourrir les malades et espérer qu'ils se rétabliront, soit partir sans eux.
+
+#ev_xplr_sick_c1
+"Ces porcos malheureux sont un fardeau.
+
+#ev_xplr_sick_c2
+Arrêtez et nourrissez les malades jusqu'à ce que leur état s'améliore.
+
+#ev_xplr_shpwrk
+Naufrage
+
+#ev_xplr_shpwrk_1
+Les porcos [x] exploraient la côte de terres inconnues lorsqu'ils ont découvert divers morceaux d'une épave de navire récemment ramenée sur le rivage par la marée. Un peu plus loin, ils ont trouvé les corps de ses malheureux marins allongés sur la plage.
+
+#ev_xplr_shpwrk_2
+La plupart d'entre eux s'étaient noyés mais certains porcos pouvaient encore respirer: avec de la nourriture et du repos, les survivants pouvaient être remis sur pied.*
+
+#ev_xplr_shpwrk_c1
+Nourrir les naufragés et les enrôler dans le groupe.
+
+#ev_xplr_shpwrk_c2
+Piller le naufrage et ses survivants.
+
+#ev_xplr_drnkfl
+Le fou ivre
+
+#ev_xplr_drnkfl_1
+Notre expédition '[x]' a rencontré une petite tribu nomade. Les membres de cette tribu étaient très gentils et accueillants. Jamais nos explorateurs n'avaient rencontré de semblables amis.
+
+#ev_xplr_drnkfl_2
+Après quelques jours agréables dans leur compagnie, nos porcos ont finalement dû partir, et une cérémonie a été tenue en leur honneur la veille de leur départ. Pour l'occasion, les nomades ont sorti une statue majestueuse de leur idole: Un porco accroupi à deux têtes: l'une en bois et l'autre en or.
+
+#ev_xplr_drnkfl_3
+Pendant les festivités, l'un de nos porcos, enivré par l'alcool, décapita la tête dorée de la statue. Cela provoqua une grande indignation de la part de la tribu et le coupable fut immédiatement attaché et condamné à mort pour ce grand sacrilège.
+
+#ev_xplr_drnkfl_c1
+Laissez les nomades exécuter votre porco et partir.
+
+#ev_xplr_drnkfl_c2
+Combattez les nomades et libérez votre idiot ivre.
+
+#ev_xplr_mourn
+La tribu en deuil
+
+#ev_xplr_mourn_1
+Nos explorateurs de '[x] exploraient de nouvelles terres lorsqu'ils rencontrèrent une douzaine de porcos en deuil, enterrant une porcasse et un porcelet. Après des funérailles poignantes, ils ont dit à nos porcs qu'ils appartenaient autrefois à un groupe beaucoup plus grand qui avait été lentement décimé par de multiples attaques de bandits et d'épidémies. Ils manquaient de provisions maintenant et avaient perdu tout espoir de salut.
+
+#ev_xplr_mourn_c1
+Proposez-leur de rejoindre votre expédition.
+
+#ev_xplr_mourn_c2
+Attaque-les et prends leurs provisions restantes.
+
+#ev_xplr_amazn
+Amazones!
+
+#ev_xplr_amazn_1
+Tout en explorant une forêt tropicale dense, nos porcos ['] ont entendu une mélodie enchanteresse. En s'approchant de l'endroit d'où venait la musique, ils découvrirent une magnifique porcasse assise au bord d'un étang, glissant langoureusement les doigts entre les cordes d'une harpe de bois. Les explorateurs ont été captivés par tant de beauté et abaissa leurs gardes.
+
+#ev_xplr_amazn_2
+Après avoir terminé sa chanson, la porcasse se leva délicatement, attrapa un court arc et tira une flèche en direction des explorateurs, accompagnée par d'autres jeunes filles guerrières qui avaient surgi autour d'eux.
+
+#ev_xplr_amazn_c1
+"Je pensais que les Amazones étaient une légende ... Défendez-vous!"
+
+#ev_xplr_egg
+Le porco curieux
+
+#ev_xplr_egg_1
+Nos explorateurs de '[x] ont trébuché sur un nid abandonné contenant quelques gros œufs: assez pour faire une omelette juteuse. Un porco curieux a décidé de garder son œuf, se privant du délicieux repas. Pendant des jours il l'a porté, et il a dormi à côté  pendant les nuits. Cela a duré des dizaines de jours, attirant la moquerie de ses compagnons.
+
+#ev_xplr_egg_2
+Un matin, sous le regard curieux du porco, l'œuf éclos et en sortit une minuscule autruche pelucheuse. Depuis lors, il a suivi son bienfaiteur partout où il va et le reste du groupe en est même venu à considérer l'oiseau comme le mascotte de leur troupe.
+
+#ev_xplr_orphel
+Le pachyderme orphelin
+
+#ev_xplr_orphel_1
+Nos explorateurs de '[x] avaient marché pendant des heures sous le soleil des terres arides quand ils ont entendu des bruits d'appel étranges qui semblaient désespérés. Ils se dirigèrent vers un profond trou boueux au fond duquel était coincé un jeune pachyderm et sa mère. Pendant que le petit éléphant était vivant, sa mère ne l'était plus.
+
+#ev_xplr_orphel_2
+En coupant des branches d'arbres morts à proximité, le groupe a travaillé sans fatigue pendant quelques heures pour creuser et aider le petit à sortir du trou. Dès qu'il est sorti, l'animal effrayé s'est d'abord enfui. Mais reconnaissant et n'ayant nulle part où aller, le petit pachyderme a apparemment pris goût au groupe et depuis il a commencé à les suivre. D'abord à une distance respectueuse, et tous les jours plus près jusqu'à ce qu'il finisse par marcher au milieu de leur groupe et dormir à côté de leur camp pendant la nuit.
+
+#ev_xplr_orphel_c1
+Gardez le petit comme un éléphant de compagnie
+
+#ev_xplr_orphel_c2
+"On dirait que la viande fraîche est de retour sur le menu les gars!"
+
+#ev_xplr_tribrem
+Les restes de la tribu
+
+#ev_xplr_tribrem_1
+Nos explorateurs de '[x] ont trébuché sur les restes d'un petit groupe de nomades malheureux. En apparence, ils étaient morts il y a longtemps dans des circonstances que le groupe ne pouvait pas comprendre. Toutes leurs affaires semblaient être encore intactes à côté d'eux.
+
+#ev_xplr_tribrem_c1
+Récupérer leurs restes pour récupérer ce que nous pouvons.
+
+#ev_xplr_tribrem_c2
+Donnez-leur un enterrement approprié.
+
+#ev_xplr_wolfcubs
+Petit abandonnés
+
+#ev_xplr_wolfcubs_1
+Nos explorateurs de '[x]' ont été attrapés par une violente tempête et se sont réfugiés dans une petite caverne sous une falaise à proximité pour l'attendre. Pendant qu'ils étaient occupés à y installer un campement, ils ont entendu des bruits d'appel étranges.
+
+#ev_xplr_wolfcubs_2
+Saisissant une torche, un porco est allé au fond de la caverne pour enquêter et a découvert 3 louveteaux en détresse. Ils avaient l'air sales et affamés, visiblement abandonnés depuis longtemps: ce n'était pas un repaire de loups ordinaire et il n'y avait aucun signe de loups à proximité. Personne n'a su comment ces 3 petits avaient fini ici, mais le groupe a décidé de les adopter. Les jeunes loups se remirent rapidement en forme et il ne fallut pas longtemps pour qu'ils deviennent de fidèles compagnons, agréés par tout le groupe. Eh bien, tout le monde sauf le vieux Clawhog dont toute la famille a été tragiquement dévorée par les loups alors qu'il n'était qu'un porcelet.
+
+#ev_xplr_wolves
+Bêtes dans la forêt
+
+#ev_xplr_wolves_1
+Nos explorateurs de '[x]' qui voyageaient à travers une forêt dense au crépuscule, ils ont commencé à se sentir mal à l'aise et observé. Ils ont continué à avancer dans le silence, nerveux, tandis que des silhouettes sombres semblaient les suivre et les encercler.
+
+#ev_xplr_wolves_2
+Soudain, un grondement terrifiant vint de l'avant, arrêtant le groupe. «Les loups, je te le dis!», Dit le vieux Clawhop qui n'aimait pas ces bêtes, comme tout le monde le savait. "Préparez vos armes, les porcos!", Ajouta-t-il alors que plusieurs grognements résonnaient autour d'eux. Ils ont émergé de tous les cotés, vilains loups mangeurs de bacon.
+
+#ev_xplr_bears
+Ours!
+
+#ev_xplr_bears_1
+Nos explorateurs de '[x]' avaient campé dans des terres inconnues pour la nuit où, à l'aube, ils se sont réveillés à cause de bruits étranges. Horrifiés, ils ont vu un groupe de 3 énormes ours qui fouillaient dans leur inventaire et dans leur provisions à côté du camp.
+
+#ev_xplr_bears_2
+L'un des porcos endormis près de l'endroit où les ours étaient surpris par cette prise de conscience, fit un geste qui eut la malheureuse conséquence d'attirer l'attention de l'une des bêtes. L'animal, en colère et affamé, accourut vers le pauvre porco et décida qu'il était temps pour un petit-déjeuner au bacon.
+
+#ev_xplr_bears_c1
+Tout le monde fait semblant de dormir. Pauvre vieux Jenkins ...
+
+#ev_xplr_bears_c2
+"Meurs sale bête!"
+
+#ev_spwn_succ
+Succession
+
+#ev_spwn_succ_1
+[x] de [y] a quitté son poste après de nombreuses années de service. Vous avez été nommé successeur et avez hérité du contrôle de tous les biens et devoirs de [y].
+
+#ev_spwn_succ_2
+Vous avez pris le contrôle d'un personnage qui est devenu inactif pour ne pas avoir été joué assez longtemps par son ancien propriétaire. Vous commencez donc là où il s'était arrêté. Vous avez hérité de toutes ses régions, unités, relations diplomatiques et connaissances, et vous pourriez même faire partie d'une nation existante.
+
+#ev_spwn_newld
+Nouveau dirigeant
+
+#ev_spwn_newld_1
+La région de [x], qui a besoin d'un nouveau dirigeant, vous a choisi pour la tâche.
+
+#ev_spwn_newld_2
+Vous avez repris une région auparavant sans chef, soit parce qu'elle a été abandonnée par son précédent propriétaire, soit parce que ses habitants se sont rebellés contre lui. Vous êtes donc une nouvelle entité souveraine libre et indépendante, libre de tout traité, commençant par une seule région. Vos connaissances de départ sont héritées des bâtiments préexistants dans la région. Soyez vigilant: vous pourriez faire face à l'hostilité du propriétaire précédent de votre région s'il est toujours là.
+
+#ev_spwn_clny
+Diriger la colonie
+
+#ev_spwn_clny_1
+Après de nombreuses années de développement lent et de gouvernance discrete, la colonie de [x] attachée à [y] est maintenant prête à devenir une entité politique à part entière. Vous avez gagné leur confiance et avez été promu pour devenir le premier vrai chef de [x] car la région reçoit un nouveau statut administratif et politique au sein du [p1], sous la tutelle du [y]. Il est temps pour [x] de se faire un nom et de laisser sa marque dans l'histoire de notre espèce.
+
+#ev_spwn_clny_2
+Vous êtes devenu le premier souverain d'une colonie précédemment fondée par un autre joueur. Cette région évolue donc maintenant et devient sa propre entité politique dirigée par vous. Cependant, vous commencez en tant que membre d'une nation existante, et par défaut sous la tutelle du fondateur original de la colonie: le [y]. En tant que nouvelle branche de sa culture, vous commencez aussi avec toutes les connaissances du fondateur. En tant qu'ex-colonie, sachez que vous commencez aussi avec un traité qui vous lie à sa nation, ce qui signifie que vous ne pourrez pas le quitter sans le briser et subir des pénalités ou même la guerre. Mais cela peut aussi être une bonne chose: vous ne démarrez pas seul et pouvez demander la protection et l'aide de vos supérieurs dans la Nation, en aidant votre développement. C'est probablement une bonne idée de commencer par tendre la main à votre supérieur et fondateur pour le saluer et établir des relations amicales. Alors qui sait, peut-être qu'un jour il sera temps pour [x] de revendiquer son indépendance!
+
+#ev_clnyevlv
+Une colonie a évolué!
+
+#ev_clnyevlv_1
+Bonnes nouvelles! Une de nos colonies, [x], a trouvé son premier dirigeant: [p1]. Ils ont établi leur propre nouveau gouvernement et sont maintenant connus sous le nom du [p2].
+
+#ev_clnyevlv_2
+Ils ont intégré notre grande nation comme l'un de nos subordonnés et ont formellement ratifié le traité colonial qui nous liait en acceptant une taxe de 5% de leurs revenus en plus des devoirs de leur nouveau titre dans la nation.
+
+#ev_clnyevlv_3
+En tant qu'assurance, nous garderons le contrôle de leur trésorerie de plus de 50% de leur PIB si ils décident de rompre illégalement cet accord!
