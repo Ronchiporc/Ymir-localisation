@@ -1,0 +1,156 @@
+#civ_gifteco_n
+Gift economy
+
+#civ_gifteco_dscr
+A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards.
+
+#civ_fairxchang_n
+Fair exchange
+
+#civ_fairxchang_dscr
+Immediate and reciprocal exchange of equivalent valuables.
+
+#civ_currency_n
+Currency
+
+#civ_currency_dscr
+Having a reference valuable to facilitate exchanges and used as a unit for value measurement. 
+
+#civ_coinage_n
+Coinage
+
+#civ_coinage_dscr
+A state certified currency.
+
+#civ_repmoney_n
+Representative money
+
+#civ_repmoney_dscr
+A currency representing a claim on a commodity instead of beeing a commodity in itself.
+
+#civ_bandsociety_n
+Band society
+
+#civ_bandsociety_dscr
+The simplest form of society, with loose organization and informal leadership.
+
+#civ_leadership_n
+Leadership
+
+#civ_leadership_dscr
+One recognized leader to rule them all.
+
+#civ_localchief_n
+Local authorities
+
+#civ_localchief_dscr
+Local territorynal chiefs ruling their single territory and carrying the orders of the central power.
+
+#civ_governors_n
+Governors
+
+#civ_governors_dscr
+Public officials with the power to govern provinces.
+
+#civ_senate_n
+Senate
+
+#civ_senate_dscr
+An assembly of statespigs acting for the interests of the people.
+
+#civ_prtctor_n
+Protector of the people
+
+#civ_prtctor_dscr
+"I rule because i am in charge of protecting the people."
+
+#civ_superior_n
+Superior leader
+
+#civ_superior_dscr
+"I rule because i am superior."
+
+#civ_divine_n
+Divine leader
+
+#civ_divine_dscr
+"I rule because i am a god."
+
+#civ_divinerep_n
+Divine representative
+
+#civ_divinerep_dscr
+"I rule because i am chosen by the gods."
+
+#civ_comgood_n
+Common good
+
+#civ_comgood_dscr
+"I rule for the people."
+
+#civ_people_n
+People representative
+
+#civ_people_dscr
+"I rule in the name of the people."
+
+#civ_tax_n
+Taxation
+
+#civ_tax_dscr
+Financial charges imposed upon taxpayers by the state.
+
+#civ_seizem_n
+Seize materials
+
+#civ_seizem_dscr
+Seize construction materials from the population instead of paying for them. Excess of this might harm your economy.
+
+#civ_statepriv_n
+Privileges
+
+#civ_statepriv_dscr
+Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
+
+#civ_statesal_n
+State workers
+
+#civ_statesal_dscr
+State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
+
+#civ_parl_n
+Parliament
+
+#civ_parl_dscr
+An assembly of representatives of the people.
+
+#civ_minist_n
+Ministry
+
+#civ_minist_dscr
+A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
+
+#civ_ration_n
+Food rationing
+
+#civ_ration_dscr
+The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improving everyone's access to foods.
+
+#civ_agrisav_n
+Seeds stocking
+
+#civ_agrisav_dscr
+Prevent a portion of your agricultural food production from beeing directly distributed or consummed in order to save seeds to create new fields.
+
+#civ_subv_n
+Subvention
+
+#civ_subv_dscr
+An aid paid by the state to every porco of a specific class of workers, increasing their income.
+
+#civ_paidrsrch_n
+Paid researchers
+
+#civ_paidrsrch_dscr
+Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings where they work.
+

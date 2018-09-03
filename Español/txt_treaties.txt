@@ -1,0 +1,161 @@
+﻿#agrim_goldo_1
+Pago único
+
+#agrim_goldo_2
+Paga [x] monedas
+
+#agrim_goldo_3
+Pagio unico de oro de [x] a [y], al firmar el tratado.
+
+#agrim_goldr_1
+Transferencia de oro
+
+#agrim_goldr_2
+Transferencia continua de [x] monedas del ingreso
+
+#agrim_goldr_3
+[x] transfiere monedas constantemente a [y] siempre y cuando el contrato se mantenga activo.
+
+#agrim_goldtax_1
+Impuesto de monedas
+
+#agrim_goldtax_2
+Otorga el [x]% de monedas del ingreso
+
+#agrim_goldtax_3
+[x] transfiere un % de sus ingresos totales a [y].
+
+#agrim_admtax_1
+Transferencia de poder
+
+#agrim_admtax_2
+Transfiere [x]% de poder estatal
+
+#agrim_admtax_3
+[x] transfiere un % de su poder estatal a [y].
+
+#agrim_trad_1
+Acuerdo comercial
+
+#agrim_trad_2
+Permite comerciar
+#agrim_trad_3
+Le otorga a [y] acceso a todas los ofertas y rutas comerciales de [x].
+
+#agrim_pass_1
+Abrir fronteras
+
+#agrim_pass_2
+Otorga apertura de fronteras
+
+#agrim_pass_3
+Permite a las unidades de [y] pasar y atravesar por los territorios de [x].
+
+#agrim_embrg_1
+Embargo comercial contra...
+
+#agrim_embrg_2
+Crea un embargo comercial contra [x]
+
+#agrim_embrg_3
+Prohibe el comercio con un estado especifico
+
+#agrim_vassal_1
+Unirse a nación
+
+#agrim_vassal_2
+Unirse a [x]
+
+#agrim_vassal_3
+[x] se unira a la nacion de [y].
+
+#agrim_war_1
+Declarar la guerra a...
+
+#agrim_war_2
+Le declara la guerra a [x]
+
+#agrim_war_3
+Declara la guerra a un estado especifico
+
+#agrim_peace_1
+Tratado de paz
+
+#agrim_peace_2
+Tratado de paz
+
+#agrim_peace_3
+Prohibe la guerra entre los miembros del tratado
+
+#agrim_ceasefr_1
+Cease fire
+
+#agrim_ceasefr_2
+Alto al fuego
+
+#agrim_ceasefr_3
+Termina la guerra entre los miembros del tratado.
+
+#agrim_tradrt_1
+Ruta comercial
+
+#agrim_tradrt_2
+Ruta comercial
+
+#agrim_tradrt_3
+Establece un ruta comercial ligada a un tratado
+
+#agrim_givreg_1
+Dar region
+
+#agrim_givreg_2
+Dar region a '[x]' 
+
+#agrim_givreg_3
+Transfiere el control de una region a [y].
+
+#agrim_gividea_1
+Dar idea
+
+#agrim_gividea_2
+Dar la idea de [x]
+
+#agrim_gividea_3
+[y] recibirá de [x] una nueva idea o conocimiento que el no posee aun.
+
+#treaty_powcost
+Coste de poder estatal para mantener este tratado
+
+#treaty_coinpen
+Penalidad financiera
+
+#treaty_coinpen_c1
+% del PBI transferido como penalidad si [x] rompe el tratado,
+
+#treaty_coinpen_c2
+a [x].
+
+#treaty_gdp
+[x]% del PBI
+
+#treaty_honor
+Comprometer honor
+
+#treaty_honor_c1
+Nivel de comprometimiento de [x] para respetar este tratado.
+
+#treaty_honor_c2
+Si [x] rompe el tratado, el perdera el Honor.
+
+#treaty_warbound
+Union de guerra
+
+#treaty_warbound_c1
+Si o si [x] declarara guerra automáticamente
+
+#treaty_warbound_c2
+si [x] rompe el tratado.
+
+#treaty_closes
+Cerrar
+
