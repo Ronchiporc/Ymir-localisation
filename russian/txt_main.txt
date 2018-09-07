@@ -1,473 +1,473 @@
 ﻿#g_ok
-ok
+ОК
 
 #g_Ok
-Ok
+Ок
 
 #g_OK
-OK
+ОК
 
 #g_Yes
-Yes
+Да
 
 #g_yes
-yes
+да
 
 #g_No
-No
+Нет
 
 #g_no
-no
+нет
 
 #g_Apply
-Apply
+Применить
 
 #g_low
-low
+низко
 
 #g_medium
-medium
+средне
 
 #g_high
-high
+высоко
 
 #g_of
-of
+от
 
 #g_free
-free
+свободно
 
 #g_Free
-Free
+Свободно
 
 #g_cost
-cost
+Цена
 
 #g_coins
-coins
+монет
 
 #g_upkeep
-upkeep
+поддержание
 
 #g_Upkeep
-Upkeep
+Поддержание
 
 #g_admin
-administration
+администрация
 
 #g_Admin
-Administration
+Администрация
 
 #g_Admincost
-Administration cost
+Стоимость администрации
 
 #g_Lifequal
-Life quality
+Качество жизни
 
 #g_Health
-Health
+Здоровье
 
 #g_efficiency
-efficiency
+эффективность
 
 #g_EFFICIENCY
-EFFICIENCY
+ЭФФЕКТИВНОСТЬ
 
 #g_resunit
-resource unit
+ресурсный юнит
 
 #g_resunits
-resource units
+ресурсные юниты
 
 #g_Households
-Households
+Домовладения
 
 #g_cancel
-cancel
+отмена
 
 #g_Cancel
-Cancel
+Отмена
 
 #g_empty
-empty
+пусто
 
 #g_workforce
-workforce
+рабочая сила
 
 #g_WORKFORCE
-WORKFORCE
+РАБОЧАЯ СИЛА
 
 #g_wealth
-wealth
+богатство
 
 #g_WEALTH
-WEALTH
+БОГАТСТВО
 
 #g_usage
-usage
+использование
 
 #g_building
-building
+постройка
 
 #g_None
-None
+Ничего
 
 #g_none
-none
+ничего
 
 #g_All
-All
+Все
 
 #g_all
-all
+все
 
 #g_distribute
-distribute
+распространение
 
 #g_produce
-produce
+произвести
 
 #g_production
-production
+производство
 
 #g_needed
-needed
+требуется
 
 #g_or
-or
+или
 
 #g_status
-status
+статус
 
 #g_city
-city
+город
 
 #g_capital
-capital
+столица
 
 #g_territory
-territory
+территория
 
 #g_colony
-colony
+колония
 
 #g_reg_claim
-claim
+притязание
 
 #g_owner
-owner
+владелец
 
 #g_Salaries
-Wages
+зарплата
 
 #g_Taxes
-Taxes
+налоги
 
 #g_Waste
-Waste
+Отходы
 
 #g_Economy
-Economy
+экономика
 
 #g_ECONOMY
-ECONOMY
+ЭКОНОМИКА
 
 #g_currency
-currency
+валюта
 
 #g_loyalty
-loyalty
+лояльность
 
 #g_Loyalty
-Loyalty
+Лояльность
 
 #g_conflict
-conflict
+конфликт
 
 #g_Conflict
-Conflict
+Конфликт
 
 #g_state_culture
-state culture
+государственная культура
 
 #g_local_culture
-local culture
+Местная культура
 
 #g_Growth
-Growth
+рост
 
 #g_Employment
-Employment
+Занятость
 
 #g_Vital_needs
-Vital needs
+Жизненные потребности
 
 #g_vital_needs
-vital needs
+жизненные потребности
 
 #g_faction
-faction
+фракция
 
 #g_Faction
-Faction
+Фракция
 
 #g_Culture
-Culture
+культура
 
 #g_Knowledges
-Knowledges
+Познания
 
 #g_Nation
-Nation
+Нация
 
 #g_Policies
-Policies
+Политики
 
 #g_Government
-Government
+Правительство
 
 #g_Society
-Society
+Общество
 
 #g_Diplomacy
-Diplomacy
+Дипломатия
 
 #g_Power
-Power
+Мощность
 
 #g_POWER
-POWER
+МОЩНОСТЬ
 
 #g_Legitimacy
-Legitimacy
+Легитимность
 
 #g_LEGITIMACY
-LEGITIMACY
+ЛЕГИТИМНОСТЬ
 
 #g_state_power
-state power
+государственная власть
 
 #g_STATE_POWER
-STATE POWER
+СОСТОЯНИЕ
 
 #g_Social
-Social
+Социальное
 
 #g_SOCIAL
-SOCIAL
+СОЦИАЛЬНОЕ
 
 #g_add
-add
+добавить
 
 #g_Add
-Add
+Добавить
 
 #g_enables
-enables
+позволяет
 
 #g_Disable
-Disable
+Отключить
 
 #g_disables
-disables
+отключает
 
 #g_price
-price
+цена
 
 #g_PRICE
-PRICE
+ЦЕНА
 
 #g_Server
-Server
+Сервер
 
 #g_server
-server
+сервер
 
 #g_increasing_to
-increasing to
+до
 
 #g_decreasing_to
-decreasing to
+уменьшается до
 
 #g_stable
-stable
+стабильный
 
 #g_Administation
-Administration
+администрация
 
 #g_Porco
-Porco
+Порко
 
 #g_Porcos
-Porcos
+Порко
 
 #g_Load
-Load
+Загрузка
 
 #g_Unload
-Unload
+Разгрузка
 
 #g_Destroy
-Destroy
+Уничтожить
 
 #g_From
-From
+Из
 
 #g_from
-from
+из
 
 #g_multiple
-multiple
+множественный
 
 #g_confirm
-confirm
+подтвердить
 
 #g_AT_WAR
-AT WAR
+ВОЙНА
 
 #g_NEUTRAL
-NEUTRAL
+НЕЙТРАЛЬНО
 
 #g_AT_PEACE
-AT PEACE
+МИР
 
 #g_year
-year
+год
 
 #g_day
-day
+день
 
 #g_Rebels
-Rebels
+Повстанцы
 
 #g_automatic
-automatic
+автоматически
 
 #g_noresult
-no result
+безрезультатно
 
 #g_Fertility
-Fertility
+фертильность
 
 #g_Groundwater
-Groundwater
+грунтовая вода
 
 #g_Any
-Any
+Любые
 
 #g_any
-any
+Любые
 
 #g_seconds
-seconds
+секунд
 
 #g_minuts
-minuts
+Минут
 
 #g_hours
-hours
+часов
 
 #g_days
-days
+дней
 
 #g_Structure
-Structure
+Состав
 
 #g_structure
-structure
+состав
 
 #g_Solidity
-Solidity
+основательность
 
 #g_solidity
-solidity
+основательность
 
 #g_Cover
-Cover
+Обложка
 
 #g_cover
-cover
+обложка
 
 #g_random
-random
+случайный
 
 #g_agree
-agree
+согласиться
 
 #g_refuse
-refuse
+отказаться
 
 #g_warning
-WARNING!
+ПРЕДУПРЕЖДЕНИЕ!
 
 #g_areyousure
-Are you sure?
+Вы уверены?
 
 #g_Gaia
-Gaia
+Гайа
 
 #g_Primitives
-Primitives
+Примитивы
 
 #g_Rebels
-Rebels
+Повстанцы
 
 #g_Partisans
-Partisans
+Партизаны
 
 #g_Barbarians
-Barbarians
+Варвары
 
 #g_Free_cities
-Free cities
+Бесплатные города
 
 #g_facnameprep
-of
+из
 
-#g_facrk1_1
-High Chief
+# g_facrk1_1
+Высокий вождь
 
-#g_facrk1_2
-Chiefdom
+# g_facrk1_2
+Вождество
 
-#g_facrk2_1
-Chieftain
+# g_facrk2_1
+атаман
 
-#g_facrk2_2
-Chiefdom
+# g_facrk2_2
+Вождество
 
 #g_prmtv_trb
-Primitive tribe
+Примитивное племя
 
 #g_trb_of
-Tribe of [x]
+Племя [x]
 
 #g_colonialtrty
-Colonial treaty
+Колониальный договор
 
 #g_nocltr
-ancient culture
+древняя культура
 
 #g_claim
-claim
+Запрос
 
 #g_territory
-territory
+территория
 
 #g_colony
-colony
+колония
 
 #g_city
-city
+город
 
 #g_capital
-capital
+столица
 
 #g_and
-and
+и
 
 #g_Amount
-Amount
+Количество
 
 #g_amount
-amount
+количество
