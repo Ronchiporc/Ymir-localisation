@@ -1,156 +1,155 @@
 #civ_gifteco_n
-Gift economy
+Экономика подарков
 
 #civ_gifteco_dscr
-A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards.
+Режим обмена, в котором ценности не торгуются или продаются, а предоставляются без явного соглащения о немедленных или будущих вознаграждениях.
 
 #civ_fairxchang_n
-Fair exchange
+Честный обмен
 
 #civ_fairxchang_dscr
-Immediate and reciprocal exchange of equivalent valuables.
+Немедленный и взаимный обмен эквивалентными ценностями.
 
 #civ_currency_n
-Currency
+Валюта
 
 #civ_currency_dscr
-Having a reference valuable to facilitate exchanges and used as a unit for value measurement. 
+Для упрощения обмена, наличие назначенного товара, относительно которого производится отсчет ценности других товаров.
 
 #civ_coinage_n
-Coinage
+Чеканка
 
 #civ_coinage_dscr
-A state certified currency.
+Государственная сертифицированная валюта.
 
 #civ_repmoney_n
-Representative money
+Представительские деньги
 
 #civ_repmoney_dscr
-A currency representing a claim on a commodity instead of beeing a commodity in itself.
+Валюта, представляющая право на товар вместо того, чтобы быть самим товаром.
 
 #civ_bandsociety_n
-Band society
+Общество банд
 
 #civ_bandsociety_dscr
-The simplest form of society, with loose organization and informal leadership.
+Простейшая форма общества, со слабой организацией и неформальным руководством.
 
 #civ_leadership_n
-Leadership
+Руководство
 
 #civ_leadership_dscr
-One recognized leader to rule them all.
+Один признанный лидер, чтобы управлять ими всеми.
 
 #civ_localchief_n
-Local authorities
+Местные власти
 
 #civ_localchief_dscr
-Local territorynal chiefs ruling their single territory and carrying the orders of the central power.
+Местные территориальные вожди управляют своей единственной территорией и выполняют приказы центральной власти.
 
 #civ_governors_n
-Governors
+Губернаторы
 
 #civ_governors_dscr
-Public officials with the power to govern provinces.
+Государственные чиновники, обладающие полномочиями управлять провинциями.
 
 #civ_senate_n
-Senate
+Сенат
 
 #civ_senate_dscr
-An assembly of statespigs acting for the interests of the people.
+Собрание госсвинов, действующих в интересах народа.
 
 #civ_prtctor_n
-Protector of the people
+Защитник народа
 
 #civ_prtctor_dscr
-"I rule because i am in charge of protecting the people."
+«Я правлю, потому что я отвечаю за защиту людей».
 
 #civ_superior_n
-Superior leader
+Высший лидер
 
 #civ_superior_dscr
-"I rule because i am superior."
+«Я правлю, потому что я лучше остальных».
 
 #civ_divine_n
-Divine leader
+Божественный лидер
 
 #civ_divine_dscr
-"I rule because i am a god."
+«Я правлю, потому что я бог».
 
 #civ_divinerep_n
-Divine representative
+Божественный представитель
 
 #civ_divinerep_dscr
-"I rule because i am chosen by the gods."
+«Я правлю, потому что я избран богами».
 
 #civ_comgood_n
-Common good
+Общее благо
 
 #civ_comgood_dscr
-"I rule for the people."
+«Я правлю для народа».
 
 #civ_people_n
-People representative
+Представитель народа
 
 #civ_people_dscr
-"I rule in the name of the people."
+«Я правлю от имени народа».
 
 #civ_tax_n
-Taxation
+налогообложение
 
 #civ_tax_dscr
-Financial charges imposed upon taxpayers by the state.
+Финансовые сборы, взимаемые с налогоплательщиков государством.
 
 #civ_seizem_n
-Seize materials
+Присвоить материалы
 
 #civ_seizem_dscr
-Seize construction materials from the population instead of paying for them. Excess of this might harm your economy.
+Происвойте себе строительные материалы населения вместо того, чтобы платить за них. Чрезмерное использование этого может нанести ущерб вашей экономике.
 
 #civ_statepriv_n
-Privileges
+привилегии
 
 #civ_statepriv_dscr
-Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
+Привилегии для руководства вашего правительства, предоставляющие им процент от богатств территорий по праву.
 
 #civ_statesal_n
-State workers
+Государственные работники
 
 #civ_statesal_dscr
-State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
+Государственные работники непосредственно нанятые и оплачиваемые государством и служащие в различных официальных зданиях, таких как администрация или школы.
 
 #civ_parl_n
-Parliament
+Парламент
 
 #civ_parl_dscr
-An assembly of representatives of the people.
+Собрание представителей народа.
 
 #civ_minist_n
-Ministry
+Министерство
 
 #civ_minist_dscr
-A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
+Совет госсвинов, занимающих значимые государственные должности, разрабатывает и реализует решения по вопросам политики в сочетании друг с другом.
 
 #civ_ration_n
-Food rationing
+Ограничение продовольствия
 
 #civ_ration_dscr
-The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improving everyone's access to foods.
+Ограничение продовольствия ("еда по талонам") снижает потребление пищи каждого порко. Во время нехватки еды это помогает улучшить доступ каждого к пище.
 
 #civ_agrisav_n
-Seeds stocking
+Накопление семян
 
 #civ_agrisav_dscr
-Prevent a portion of your agricultural food production from beeing directly distributed or consummed in order to save seeds to create new fields.
+Предотвращение части вашей сельскохозяйственной пищевой продукции от непосредственного распространения или потребления, для сохранения семян для создания новых полей.
 
 #civ_subv_n
-Subvention
+Субсидия
 
 #civ_subv_dscr
-An aid paid by the state to every porco of a specific class of workers, increasing their income.
+Помощь, выплачиваемая государством каждому порко определенного рабочего класса, увеличивая их доход.
 
 #civ_paidrsrch_n
-Paid researchers
+Платные исследователи
 
 #civ_paidrsrch_dscr
-Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings where they work.
-
+Исследователям проектов платит государство пропорционально их текущему богатству и больше не сокращается рабочая сила зданий, где они работают.
