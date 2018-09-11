@@ -1,914 +1,914 @@
-#b_menu_tutorial
-TUTORIAL
+﻿#b_menu_tutorial
+ОБУЧЕНИЕ
 
 #b_menu_newgame
-NEW GAME
+НОВАЯ ИГРА
 
 #b_menu_load
-LOAD GAME
+ЗАГРУЗИТЬ ИГРУ
 
 #b_menu_join
-JOIN GAME
+ПРИСОЕДИНИТЬСЯ К ИГРЕ
 
 #b_menu_editor
-EDITOR
+РЕДАКТОР
 
 #b_menu_options
-OPTIONS
+НАСТРОЙКИ
 
 #b_menu_quit
-QUIT
+ВЫХОД
 
 #b_menu_resume
-RESUME
+ПРОДОЛЖИТЬ
 
 #b_menu_tomain
-TO MAIN MENU
+В ГЛАВНОЕ МЕНЮ
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+Вы действительно хотите выйти и вернуться в главное меню?
 
 #ui_connctstat_1
-Currently connected to [x]  ping: [y]
+В настоящее время подключен к [x] пинг: [y]
 
 #ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z] )
+Коэффициент потерь: [x]% (отправлено: [y] потеряно: [z])
 
 #ui_connct_stable
-Your connection with the server is stable.
+Ваше соединение с сервером стабильно.
 
 #ui_connct_unstbl
-Warning! Your connection with the server is unstable!
+Предупреждение! Ваше соединение с сервером нестабильно!
 
 #mainmenu_mute
-click to mute/unmute the whole game
+нажмите, чтобы включить/выключить весь звук игры
 
 #mainmenu_fullscrn
-click to switch between windowed and fullscreen modes
+нажмите, чтобы переключиться между оконным и полноэкранным режимами
 
 #mainmenu_quit
-click to quit the game
+нажмите, чтобы выйти из игры
 
 #b_menuop_fullscreen
-Fullscreen
+Полноэкранный
 
 #bc_menuop_fullscreen
-enable fullscreen
+включить полноэкранный режим
 
 #b_menuop_autores
-Automatic resolution
+Автоматическое разрешение
 
 #bc_menuop_autores
-automatically adapt resolution to the display in fullscreen
+автоматически адаптировать разрешение к отображению в полноэкранном режиме
 
 #b_menuop_res
-Display resolution
+Разрешение экрана
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+выберите желаемое разрешение экрана в полноэкранном режиме
 
 #b_menuop_terrain
-Terrain
+местность
 
 #b_menuop_low
-low
+низко
 
 #b_menuop_medium
-medium
+средне
 
 #b_menuop_high
-high
+высоко
 
 #b_menuop_bdgs
-Buidings
+Постройки
 
 #b_menuop_units
-Units
+Единицы
 
 #b_menuop_fx
 FX
 
 #b_menuop_shaders
-Shaders
+Шейдеры
 
 #b_menuop_worldmap
-Worldmap
+Карта мира
 
 #b_menuop_logic
-Logic
+Логика
 
 #b_menuop_cosveg
-Cosmetic vegetation
+Декоративная растительность
 
 #bc_menuop_cosveg
-Enable cosmetic grass and bushes
+Включить декоративную траву и кусты
 
 #b_menuop_cosunits
-Cosmetic units 
+Декоративные юниты
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+Включить декоративные юниты, такие как декоративные животные
 
 #b_menuop_grain
-Video grain
+Зернистость видео
 
 #bc_menuop_grain
-Enable or disable this post-processing effect
+Включить или отключить этот эффект пост-обработки
 
 #b_menuop_mvol
-Music volume
+Громкость музыки
 
 #b_menuop_ambvol
-Ambiant volume
+Громкость звуков окружения
 
 #b_menuop_uivol
-UI volume
+Громкость звуков интерфейса
 
 #b_menuop_lang
-Language
+Язык
 
 #bc_menuop_lang
-Choose your language
+Выберите ваш язык
 
 #b_menuop_apply
-Apply
+Применить
 
 #b_menuop_display
-DISPLAY
+ДИСПЛЕЙ
 
 #b_menuop_sound
-SOUND
+ЗВУК
 
 #b_menuop_game
-GAME
+ИГРА
 
 #ui_menuop_options
-OPTIONS
+ОПЦИИ
 
 #joingame_yourgames
-Your games
+Ваши игры
 
 #joingame_persist
-Peristent games
+Постоянные игры
 
 #joingame_realtime
-Real-time games
+Игры в реальном времени
 
 #joingame_direct
-Direct IP
+Прямой IP
 
 #joingame_connect
-JOIN GAME
+ПРИСОЕДИНИТЬСЯ К ИГРЕ
 
 #servlst_name
-Server name
+Имя сервера
 
 #servlst_name_c1
-The custom name of the server's game
+Пользовательское имя игры сервера
 
 #servlst_creat
-Creator
+Создатель
 
 #servlst_creat_c1
-The steam user name of the server host
+Steam - имя хоста сервера
 
 #servlst_players
-Players
+Игроки
 
 #servlst_players_c1
-The number of players currently online in this game
+Количество игроков в данный момент онлайн в этой игре
 
 #servlst_online
-Online
+В сети
 
 #servlst_actives_c1
-The number of active players in this game
+Количество активных игроков в этой игре
 
 #servlst_dur
-Duration
+Продолжительность
 
 #servlst_dur_c1
-The amount of time this game has been going on
+Время, которое игра идет
 
 #servlst_ver
-server's version
+версия сервера
 
 #servlst_ver_c1
-The version of the game this server is currently running.
+Версия игры запущенного сейчас сервера.
 
 #servlst_ver_c2
-Warning! Your version ([x]) does not match with the one of this server ([y])!
+Предупреждение! Ваша версия ([x]) не соответствует версии сервера ([y])!
 
 #servlst_nogam
-Sorry: It looks like there is currently no games available!
+Извините: похоже, в настоящее время игр нет!
 
 #b_newgame_name
-Game name:
+Название игры:
 
 #b_newgame_public
-public
+публичная
 
 #b_newgame_friends
-friends only
+только друзья
 
 #b_newgame_private
-private
+приватная
 
 #b_newgame_password
-Password:
+Пароль:
 
 #bc_newgame_password
-set a password requested to join this game
+введите пароль для присоединения к этой игре
 
 #b_newgame_maxplayers
-Max players:
+Максимум игроков:
 
 #b_newgame_start
-START GAME
+НАЧАТЬ ИГРУ
 
 #ui_newgame_newgame
-NEW GAME
+НОВАЯ ИГРА
 
 #ui_newgame_world
-WORLD
+МИР
 
 #b_newgame_wprocedural
-Procedural
+процедурный
 
 #b_newgame_wcustom
-Custom
+Пользовательский
 
 #newgame_serv_c
-server options
+параметры сервера
 
 #newgame_serv_run
-server doesnt close automatically
+сервер не закрывается автоматически
 
 #newgame_serv_empty
-close server when empty
+выключить сервер если он пуст
 
 #newgame_serv_leave
-close server when you disconnect
+выключить сервер при выходе из игры
 
 #newgame_samname
-A saved game '[x]' already exists in the local files! What do you want to do?
+Сохраненная игра «[x]» уже существует в локальных файлах! Что вы хотите сделать?
 
 #newgame_overw
-Overwrite
+Перезаписать
 
 #newgame_renam
-Autorename
+Переименовать автоматически
 
 #newgame_nomap
-none available
+нет доступных
 
 #newgame_invmap
-It seems there is'nt any custom map available. Please select a procedural type of map.
+Похоже что нет пользовательских карт. Выберите процедурный тип карты.
 
 #mapsize
-Map size
+Размер карты
 
 #mapsize1
-Tiny
+Крошечная
 
 #mapsize2
-Small
+Маленькая
 
 #mapsize3
-Regular
+Нормальная
 
 #mapsize4
-Large
+Большая
 
 #mapsize5
-Huge
+Огромная
 
 #mapsize6
-Giant
+Гигантская
 
 #maptyp
-Map preset
+Пресет карты
 
 #maptyp1
-Terra
+Терра
 
 #maptyp1_dscr
-Temperate earth-like worlds with several continents.
+Умеренные землеподобные миры с несколькими континентами.
 
 #maptyp2
-Pangea
+Пангея
 
 #maptyp2_dscr
-Temperate worlds mostly made of lands, with only a few small seas.
+Умеренные миры в основном из суши, с несколькими небольшими морями.
 
 #maptyp3
-Archipelago
+Архипелаг
 
 #maptyp3_dscr
-Sea worlds with lots of islands and smaller landmass.
+Морские миры с большим количеством островов и малым количеством суши.
 
 #maptyp4
-Desert world
+Мир пустыни
 
 #maptyp4_dscr
-Desertic worlds where hospitable territories are mostly located towards poles and around smaller inland seas.
+Пустынные миры, где пригодные территории в основном расположены на полюсах и вокруг небольших внутренних морей.
 
 #maptyp5
-Ice world
+Ледяной мир
 
 #maptyp5_dscr
-Cold desertic worlds with only a few hospitable territories.
+Холодные пустынные миры с малым количеством пригодных территорий.
 
 #maptyp6
 Tropico
 
 #maptyp6_dscr
-Warm and humid sea worlds with lots of tropical islands.
+Теплые и влажные морские миры с множеством тропических островов.
 
 #maptypcust
-Custom settings
+Пользовательские настройки
 
 #custmap_sel
-Select a world map
+Выберите карту мира
 
 #custmap_sel_c
-Select a custom map
+Выберите пользовательскую карту
 
 #custmap_dscr
-Custom worlds are maps manually created with the editor instead of beeing procedurally generated.
+Пользовательские миры - это карты, созданные вручную с помощью редактора, а не сгенерированные процедурно.
 
 #newgame_gamset
-GAME SETTINGS
+ИГРОВЫЕ НАСТРОЙКИ
 
 #gmtyp_off
-Official
+Официальная
 
 #gmtyp_off_dscr
-Games labelled as official are using standardized non-customizable settings to provide a reliable experience.
+Игры, обозначенные как официальные, используют стандартизированные не настраиваемые параметры для обеспечения предсказуемого опыта игры.
 
 #gmtyp_offtype
-Game type
+Тип игры
 
 #gmtyp_offtype_c
-Select a game preset
+Выберите предустановку игры
 
 #gmtyp_rtime
-Real-time
+Реальное время
 
 #gmtyp_rtime_dscr1
-Real-time games are meant to be played directly with every player ingame at all times, saving and reloading the game later on to continue the game if necessary.
+Игры в реальном времени предназначены для игры непосредственно с каждым игроком, играющим все время, с сохранением и загрузкой игры для продолжения.
 
 #gmtyp_rtime_dscr2
-Resource production, population growth and unit movements are fast.
+Производство ресурсов, рост населения и движение единиц быстрое.
 
 #gmtyp_rtime_dscr3
-This is meant for smaller private games such as playing locally with a group of friends via direct IP.
+Это предназначено для небольших частных игр, таких как локальная игра с группой друзей через прямой IP-адрес.
 
 #gmtyp_prsist
-Persistent
+Постоянная
 
 #gmtyp_prsist_dscr1
-Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently ingame.
+Постоянные игры сбалансированы для серверов, работающих 24/7, в которых действия могут занять несколько часов и где игроки не должны постоянно присутствовать.
 
 #gmtyp_prsist_dscr2
-Resource production, population growth and unit movements are slow.
+Производство ресурсов, рост населения и движение юнитов происходят медленно.
 
 #gmtyp_prsist_dscr3
-This is meant for bigger public games and servers with higher numbers of players.
+Это предназначено для более крупных публичных игр и серверов с большим количеством игроков.
 
 #gmtyp_cstm
-Custom
+Пользовательская
 
 #gmtyp_cstm_dscr
-Custom games allow you to define your own settings affecting the game-balance and speed.
+Пользовательские игры позволяют вам определять собственные настройки, влияющие на баланс игры и скорость.
 
 #gamelob_disco
-Disconnect
+Отключить
 
 #gamelob_disco_c1
-Return to main menu
+Вернуться в главное меню
 
 #gamelob_usechar
-Play using this character
+Играть этим персонажем
 
 #gamelob_newchar
-New
+Новый
 
 #gamelob_newchar_c1
-Create a new character on this game
+Создайте нового персонажа в этой игре
 
 #gamelob_play
-PLAY
+ИГРАТЬ
 
 #newchar_title
-New character
+Новый персонаж
 
 #newchar_startpref
-Starting preferences
+Начальные настройки
 
 #newchar_availspwn
-Available starts matching these settings
+Доступные старты соответствующие этим настройкам
 
 #newchar_closeto
-spawn close to character...
+появиться близко к персонажу...
 
 #newchar_closeto_c
-You will spawn as close as possible to the selected character, while matching the selected conditions above.
+Вы появитесь как можно ближе к выбранному персонажу, при этом соответствуя выбранным выше условиям.
 
 #newchar_starttyp
-Start types
+Типы старта
 
 #newchar_clim
-Climates
+Климаты
 
 #newchar_st_precious
-This is a "Precious start": once used you won't be able to respawn from another "Precious spawn" for [x] regardless of your spawn cooloff.
+Это «Драгоценный старт»: после его использования вы не сможете возродиться на другом «Драгоценном старте» для [x], независимо от вашего кулдауна старта.
 
 #newchar_st_prlck
-This "Precious start" is locked because you spawned from another one less than [x] ago ([y] remaining).
+Этот «Драгоценный старт» заблокирован, потому что вы использовали другой раньше, чем [x] назад ([y]).
 
 #newchar_st_pt
-Primitive tribes
+Примитивные племена
 
 #newchar_st_pt_c1
-Start from scratch by taking control of a primitive tribe.
+Начните с нуля, взяв под свой контроль примитивное племя.
 
 #newchar_st_pt_c2
-It's the default and standard way to start a game at the begining.
+Это стандартный старт, он предлагается по умолчанию в начале.
 
 #newchar_st_suc
-Succession
+Правопреемство
 
 #newchar_st_suc_c1
-Become the new ruler an already existing government in need of a successor.
+Станьте новым правителем уже существующего правительства, нуждающегося в преемнике.
 
 #newchar_st_suc_c2
-You will gain control of an inactive character and inherit of all its possessions.
+Вы получите контроль над неактивным персонажем и унаследуете все его имущество.
 
 #newchar_st_col
-Colonies
+Колонии
 
 #newchar_st_col_c1
-Become the new leader of a colony created by another player
+Станьте новым лидером колонии, созданной другим игроком
 
 #newchar_st_col_c2
-(You will join an existing Nation)
+(Вы присоединитесь к существующей нации)
 
 #newchar_st_ar
-New leader
+Новый лидер
 
 #newchar_st_ar_c1
-Become the new leader of a territory previously fallen into anarchy
+Станьте новым лидером территории, ранее впавшей в анархию
 
 #newchar_st_ar_c2
-(a territory that rebelled or lost his previous leader: expect the unexpected!)
+(территория, которая восстала или потеряла своего предыдущего лидера: ожидайте неожиданного!)
 
 #newchar_clim_c
-Select climates where you'd wish to potentially spawn
+Выберите климат, в котором вы хотите потенциально появиться
 
 #newchar_cold
-Cold
+Холодно
 
 #newchar_temp
-Temperate
+Умеренный
 
 #newchar_arid
-Arid
+Засушливый
 
 #newchar_trop
-Tropical
+Тропический
 
 #newchar_prspwn_warn
-WARNING: you have selected one or more "Precious start" types. These cannot be re-used for [x] regardless of your spawn cool-off period in this game. Do not mess it up!
+ПРЕДУПРЕЖДЕНИЕ: вы выбрали один или несколько типов «Драгоценного старта». Они не могут быть повторно использованы для [x], независимо от кулдауна старта в этой игре. Не провалитесь в этот раз!
 
 #newchar_nofind
-Could not find any unit or territory for this character!
+Не удалось найти ни одного юнита или территории для этого персонажа!
 
 #findchar_bc
-click to search for an existing character in this game
+нажмите, чтобы найти существующего персонажа в этой игре
 
 #char_invcode
-Invite code: [x]
+Код приглашения: [x]
 
 #charcreate_err1
-Please provide a name for your new character.
+Укажите имя нового персонажа.
 
 #charcreate_err2
-Please provide a name for your government.
+Укажите название своего правительства.
 
 #charcreate_err3
-There is no valid starting location matching your settings.
+Нет допустимого стартового положения, соответствующего вашим настройкам.
 
 #charcreate_err4
-Please provide an Invite code to complete your character creation!
+Предоставьте код приглашения, чтобы завершить создание вашего персонажа!
 
 #charcreate_err5
-Invalid Invite code!
+Неправильный код приглашения!
 
 #findchar_none
-[none]
+[нет]
 
 #invtcd_title
-Invite code for [x]
+Код приглашения для [x]
 
 #invtcd_txt
-You are trying to spawn near a character called '[x]'. To ensure that you are doing so in agreement with its owner, you must now provide the valid "invite code" matching this character and known only by the player controlling it. If you are joining a friend, ask him to give you this code which is displayed on his character's avatar ingame.
+Вы пытаетесь появиться рядом с персонажем «[x]». Чтобы убедиться, что вы делаете это по согласованию с его владельцем, вы должны предоставить действительный «код приглашения», соответствующий этому персонажу и известный только игроку, контролирующему его. Если вы присоединяетесь к другу, попросите его предоставить вам этот код, который будет отображаться на его игровом персонаже.
 
 #findchar_srch
-search for character...
+поиск персонажа ...
 
 #findchar_reslt
-Results
+Результаты
 
 #findchar_wait
-researching...
+исследование ...
 
 #findchar_instr
-type a character's full name or part of it's name and press enter to see valid matches
+введите полное имя персонажа или его часть и нажмите enter, чтобы увидеть существующие совпадения
 
 #findchar_nores
-no result matching this search
+нет результатов, соответствующих этому запросу
 
 #tuto_ask
-TUTORIAL
+РУКОВОДСТВО
 
 #tuto_ask_1
-Greetings, newpig! Is this the first time you play Ymir and do you wish to enable the tutorial mode ?
+Приветствие, новосвин! Это первый раз, когда вы играете в Ymir, хотите ли вы включить режим учебника?
 
 #ui_gen_toreg
-Click to go to the currently selected territory
+Нажмите, чтобы перейти к выбранной территории
 
 #ui_gen_toworld
-Click to go to the worldmap
+Нажмите, чтобы перейти к карте мира
 
 #ui_gen_tonovis
-You cannot go to this territory because you have no visibility of it.
+Вы не можете пойти на эту территорию, потому что у вас нет её видимости.
 
 #ui_gen_score
-Character's score
+Очки персонажа
 
 #ui_gen_vpts
-Victory points
+Очки победы
 
 #ui_gen_vpts2
-You need a total of [x] to win this game.
+Вам нужно в общей сложности [x], чтобы выиграть эту игру.
 
 #ui_gen_regmen
-Territory menu
+Меню территории
 
 #ui_bdginf_cons
-construction cost
+стоимость строительства
 
 #ui_bdginf_cost
-materials cost:
+стоимость материалов:
 
 #ui_bdginf_empl
-employs
+использует
 
 #b_bdginf_hhold
-household
+домашнее хозяйство
 
 #bc_bdginf_hhold
-households capacity of this dwelling
+вместительность домохозяйств в этом здании
 
 #bc_bdginf_h
-Health bonus for this dwelling's residents
+Бонус здоровья для жителей этого жилья
 
 #bc_bdginf_lq
-Life quality bonus for this dwelling's residents
+Бонус качества жизни для жителей этого жилья
 
 #bc_bdginf_eff
-Efficiency multiplies the workforce of each worker of the building
+Множители эффективности рабочей силы работников этого здания
 
 #b_bdginf_wealth
-max wealth production
+максимальное производство богатства
 
 #bc_bdginf_wealth
-The maximum amount of wealth this building can theoretically generate if it's full workforce is in full production
+Максимальное количество богатства, которое это здание может теоретически генерировать, если полная рабочая сила находится в полном объеме
 
 #b_bdginf_scap
-capacity
+вместимость
 
 #bc_bdginf_scap
-Storage capacity in resource units
+Вместимость хранилища в единицах ресурсов
 
 #b_bdginf_stype
-Can stock
+Можно запасать
 
 #b_bdginf_mcap
-Distribution capacity
+Мощность распределения
 
 #ui_place_form0
-New formation's camp
+Новый лагерь формирования
 
 #ui_place_form1
-Relocating camp
+Перемещение лагеря
 
 #bc_erase
-Destruction tool
+Инструмент уничтожения
 
 #b_erase_ter
-terrain
+местность
 
 #b_erase_inf
-infrastructures
+инфраструктуры
 
 #b_erase_bdg
-buildings
+здания
 
 #b_erase_ptf
-platforms
+платформы
 
 #bc_menubdg_destroy
-Demolish building
+Снести здание
 
 #bc_menubdg_destroy2
-(tear down building and recover some of it's materials)
+(разрушить здание и восстановить некоторые из его материалов)
 
 #bc_menubdg_sleep
-Sleep
+Спать
 
 #bc_menubdg_sleep2
-(building is disabled but still maintained)
+(здание отключено, но все еще поддерживается)
 
 #bc_menubdg_aband
-Abandon
+Забросить
 
 #bc_menubdg_aband2
-(building is disabled and decays with time)
+(здание отключено и деградирует со временем)
 
 #ui_menubdg_sleep1
-Sleep mode
+Режим сна
 
 #ui_menubdg_sleep2
-In sleep mode : all functionnalities are stopped until you activate it again. Building does not degrade with time (maintenance).
+В спящем режиме все функции прекращаются до тех пор, пока вы не активируете его снова. Здание не разрушается со временем (расходуется техническое обслуживание).
 
 #ui_menubdg_build1
-Under contruction
+Строится
 
 #ui_menubdg_build2
-This building is not finished and therefor not fonctionnal yet.
+Это здание еще не закончено, а значит, еще не функционирует.
 
 #ui_menubdg_fonct1
-Fonctionnal
+Функционирует
 
 #ui_menubdg_fonct2
-This building is fully fonctionnal.
+Это здание полностью функционирует.
 
 #ui_menubdg_morework1
-Missing workers
+Не хватает рабочих
 
 #ui_menubdg_morework2
-This building needs more workers to be fully fonctionnal.
+Это здание нуждается в большем количестве рабочих, чтобы оно полностью функционировало.
 
 #ui_menubdg_noworker1
-Empty
+Пусто
 
 #ui_menubdg_noworker2
-This building needs workers to be fonctionnal.
+Это здание нуждается в работниках
 
 #ui_menubdg_deficit1
-Unprofitable
+Убыточно
 
 #ui_menubdg_deficit2
-This building is currently unprofitable for its workers, operating at a loss. Its efficiency will be greatly affected and Porcos will avoid working here.
+Это здание в настоящее время невыгодно для своих рабочих, они работают в убыток. Его эффективность будет сильно снижена, и Порко избежат работы здесь.
 
 #ui_menubdg_destr1
-Destroyed
+Разрушено
 
 #ui_menubdg_destr2
-This building needs to be rebuilt to be fonctionnal.
+Это здание необходимо перестроить, чтобы оно работало.
 
 #ui_menubdg_ruin1
-Abandonned
+Заброшено
 
 #ui_menubdg_ruin2
-Abandonned and needs to be restaured to be fonctionnal. No maintenance, and building degrades with time.
+Здание заброшено и его нужно перезапустить чтобы оно работало. Нет расходов на содержание, но здание деградирует со временем.
 
 #ui_menubdg_recycl1
-Demolishing
+Разрушение
 
 #ui_menubdg_recycl2
-This building is beeing demolished. When the process is complete, it will be completely completely removed and some of it's materials will be recovered.
+Это здание разрушается Когда процесс будет завершен, здание полностью удалено и некоторые из его материалов будут восстановлены.
 
 #ui_menubdg_stckperm
-Stockage permissions :
+Разрешения складирования:
 
 #ui_menubdg_Usage
-Usage :
+Использование :
 
 #ui_menubdg_perslot
-per slot
+на слот
 
 #ui_menubdg_upto
-Upgrade to
+Улучшить до
 
 #ui_menubdg_upgrades
-Upgrades
+Улучшения
 
 #ui_menubdg_winc_1
-Income earned by each worker
+Доход, получаемый каждым работником
 
 #ui_menubdg_winc_2
-Buidling activity: [x]
+Активность: [x]
 
 #ui_menubdg_winc_3
-State salary: [x]
+Государственная зарплата: [x]
 
 #ui_menubdg_winc_4
-Subventions: [x]
+Субсидии: [x]
 
 #bc_menubdg_wake1
-Wake
+Разбудить
 
 #bc_menubdg_wake2
-(building becomes active again)
+(здание снова активируется)
 
 #bc_menubdg_rest1
-Restaure
+Восстановить
 
 #bc_menubdg_rest2
-(repair and restaure functionnality of the building)
+(Отремонтировать и восстановить функциональность здания)
 
 #ui_upgbdg_upto
-Upgrade to
+Улучшить до
 
 #ui_upgbdg_rstr
-Restaure
+Восстановить
 
 #ui_menubdg_prod
-PRODUCTION
+ПРОИЗВОДСТВО
 
 #ui_menubdg_distrib
-TRADING
+ТОРГОВЛЯ
 
 #ui_menubdg_addan
-add a market stand
+добавить рыночную позицию
 
 #ui_menubdg_addan2
-(reduces producing workforce)
+(сокращает производство рабочей силы)
 
 #ui_menubdg_dtrb1
-This building can create market stands where workers will sell directly their products to the public, but it reduces it's producing workforce.
+Это здание может создавать рыночные стенды, где работники будут продавать напрямую свою продукцию общественности, но это сокращает производство рабочей силы.
 
 #ui_menubdg_dtrb2
-This building cannot create maket stands because it cannot produce anything sellable to the public.
+Это здание не может создавать рыночные стенды, потому что оно не может производить ничего продаваемого для публики.
 
 #ui_menubdg_anx
-Annexes
+Пристройки
 
 #bc_menubdg_expl
-exploited
+использованный
 
 #bc_menubdg_nsource
-natural sources of
+естественные источники
 
 #ui_annex_add
-add annex
+добавить пристройку
 
 #ui_annex_txt1
-adds a new production source
+добавляет новый источник производства
 
 #ui_annex_txt2
-directly distributes production
+напрямую распределяет производство
 
 #bc_annex_dstrb
-(selling [x])
+(продажа [x])
 
 #bc_annex_prod
-Provides additionnal production sources of [x].
+Обеспечивает дополнительные производственные источники [x].
 
 #bc_annex_eff
-Provides [x] of additionnal efficiency to the building.
+Обеспечивает [x] дополнительной эффективности для здания.
 
 #ui_annex_err1
-no resource available for production by this annex
+нет ресурсов, доступных для производства в этой пристройке
 
 #ui_annex_err2
-this building doesnt have any production valid for distribution
+это здание не имеет какой-либо продукции, пригодной для распространения
 
 #bc_menubdg_selp
-select resource to produce
+выберите ресурс для производства
 
 #bc_menubdg_nopran
-This building doesnt have any possible annexes.
+В этом здании нет никаких возможных пристроек.
 
 #regeco_taxes
-Taxe incomes
+Налоговые доходы
 
 #regeco_taxes_c1
-Total income of all taxes in this territory
+Общий доход всех налогов на этой территории
 
 #regeco_tax_sal
-Sales tax revenues
+Доходы от продаж
 
 #regeco_tax_sal_c1
-Taxes all sales made in the territory ( does not include exports )
+Налоги на все продажи, произведенные на территории (не включает экспорт)
 
 #regeco_tax_inc
-Income tax revenues
+Доходы по налогу на прибыль
 
 #regeco_tax_inc_c1
-Taxes all incomes of the population 
+Налоги на все доходы населения
 
 #regeco_waste
-Waste
+Потери
 
 #regeco_waste_c1
-The share of tax and trade incomes lost because of waste and corruption in this territory.
+Доля налоговых и торговых доходов, потерянных из-за отходов и коррупции на этой территории.
 
 #regeco_waste_c2
-With a waste rate of [x]%, we are currently losing [y] coins of tax income.
+При уровне отходов [x]% мы в настоящее время теряем [y] монет налогового дохода.
 
 #regeco_wst_admin
-Local administration
+Местная администрация
 
 #regeco_wst_admin_c1
-Waste caused by a weak or negative local administration.
+Потери, вызванные слабым или отрицательным местным управлением.
 
 #regeco_wst_stpwr
-State's corruption
+Государственная коррупция
 
 #regeco_wst_stpwr_c1
-Corruption of state officials because of a weak or negative state power.
+Коррупция государственных чиновников из-за слабой или отрицательной государственной власти.
 
 #regeco_wst_pop
-Population's corruption
+Коррупция населения
 
 #regeco_wst_pop_c1
-Corruption and waste from the total population in the region.
+Коррупция и потери от общей численности населения в регионе.
 
 #regeco_wst_srvc
-Waste reduction services
+Услуги по сокращению потерь
 
 #regeco_wst_srvc_c1
-Waste reduction from active services such as Tax collection.
+Сокращение потерь от активных услуг, таких как сбор налогов.
 
 #regeco_upkeep
-City upkeep
+Поддержание города
 
 #regeco_upkeep_c1
-Some buildings or infrastructures require a maintenance cost to be paid by you (the governement).
+В некоторых зданиях или инфраструктурах требуется плата за обслуживание, которую вы оплачиваете (правительство).
 
 #regeco_salaries
-State salaries
+Государственные оклады
 
 #regeco_salaries_c1
-The total cost of all state salaries paid in the territory.
+Общая стоимость всех государственных зарплат, выплачиваемых на территории.
 
 #regeco_up_bdg
-Buildings upkeep
+Поддержание зданий
 
 #regeco_up_bdg_c1
-Total maintenance cost of all state buildings in this territory (ex: official and militay buildings).
+Общая стоимость обслуживания всех государственных зданий на этой территории (например, официальные и военные здания).
 
 #regeco_up_infr
-Infrastructures upkeep
+Поддержание инфраструктуры
 
 #regeco_up_infr_c1
-Total maintenance cost of all infrastructures in this territory (ex: walls or gardens that cost upkeep).
+Общая стоимость обслуживания всех инфраструктур на этой территории (например, стены или сады, которые требуют содержания).
 
 #regeco_tradebal
-Trading balance
+Торговый баланс
 
 #regeco_tradebal_c1
-The final balance of all imported and exported goods expanses and incomes.
+Общий баланс всех импортируемых и экспортируемых товаров, доходов и трат.
 
 #regeco_ii
-Imported goods local sales
+Местные продажи импортируемых товаров
 
 #regeco_ii_c1
-Revenues generated from all imported goods sold in the territory (at their local price).
+Доходы, полученные от всех импортируемых товаров, проданных на территории (по их местной цене).
 
 #regeco_ic
-Imported goods purchasing cost
+Затраты на покупку импортных товаров
 
 #regeco_ic_c1
-Total cost paid for all the goods imported via trade routes to this territory (at their trade route price).
+Общая стоимость, уплаченная за все товары, ввозимые через торговые пути на эту территорию (по ценам их торговых маршрутов).
 
 #regeco_ei
-Exported goods sales
+Прибыли от экспортируемых товаров
 
 #regeco_ei_c1
-Revenues of all the goods exported from this territory via trade routes (at their trade route price).
+Доходы всех товаров, вывозимых с этой территории через торговые пути (по ценам их торговых маршрутов).
 
 #regeco_ec
-Exported goods purchasing cost
+Затраты на экспортные товары
 
 #regeco_ec_c1
-Total cost paid for purchasing the exported goods to their local producers in this territory (at their local price).
+Общая стоимость, уплаченная за покупку экспортируемых товаров местным производителям на этой территории (по их местной цене).
 
 #regeco_ers
-State-owned resources sales
+Продажа государственных ресурсов
 
 #regeco_ers_c1
-State-owned resources sold to population or industries.
+Государственные ресурсы, продаваемые населению или отраслям.
 
 #regeco_esr
-State-owned resources purchases
+Покупка государственных ресурсов
 
 #regeco_esr_c1
-Total paid auto-purchasing resources for the state (you).
+Всего затраты на закупки ресурсов для государства (вас).
 
 #bc_menureg_cur1
 Currency beeing used in this territory:
