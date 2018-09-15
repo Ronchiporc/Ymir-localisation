@@ -911,574 +911,574 @@ Tropico
 Всего затраты на закупки ресурсов для государства (вас).
 
 #bc_menureg_cur1
-Currency beeing used in this territory:
+Валюта используемая на этой территории:
 
 #bc_menureg_cur2
-Irrelevant currency only used locally in this territory
+Не важная валюта используемая только на этой территории
 
 #b_menureg_coin
-coin value:
+стоимость монет:
 
 #bc_menureg_coin1
-coins circulating for
+циркулирующие монеты
 
 #bc_menureg_coin2
-Value of 1 coin is approximatively
+Цена 1 монеты приблизительно
 
 #b_menureg_gdp
-GDP:
+ВВП:
 
 #bc_menureg_gdp1
-Territorynal gross domestic product
+Территориальный валовой внутренний продукт
 
 #bc_menureg_gdp2
-Sum of all the coin incomes in the territory
+Сумма всех монетных доходов на территории
 
 #b_menureg_wlth
-territory wealth:
+богатство территории:
 
 #bc_menureg_wlth
-Total wealth of the territory
+Общее богатство территории
 
 #ui_menureg_admin1
-Capacity
+Вместимость
 
 #ui_menureg_admin2
-State
+Государство
 
 #ui_menureg_admin3
-Territory
+Территория
 
 #bc_menureg_totpop
-Total population
+Общая численность населения
 
 #bc_menureg_totpop2
-Active population
+Активное население
 
 #bc_menureg_sprt1
-This territory is currently supporting [x] porcos in all it's formations.
+В настоящее время эта территория поддерживает [x] Порко во всех ее формациях.
 
 #bc_menureg_sprt2
-It's demographics can support up to [x] porcos. Above that limit, the territory's growth is permanently impacted.
+Демография может поддерживать до [x] Порко. Выше этого предела рост территории перманентно ограничивается.
 
 #bc_menureg_lq1
-Average life quality
+Среднее качество жизни
 
 #bc_menureg_int1
-Average intelligence
+Средний интеллект
 
 #b_menureg_job
-available jobs
+доступные рабочие места
 
 #bc_menureg_job1
-unoccupied jobs in the territory
+незанятые рабочие места на территории
 
 #bc_menureg_job2
-total jobs
+всего рабочих мест
 
 #b_menureg_emp
-unemployment
+безработица
 
 #bc_menureg_emp
-jobless out of
+безработных из
 
 #b_menureg_hlth
-Health
+Здоровье
 
 #bc_menureg_hlth
-Average population health
+Среднее здоровье населения
 
 #b_menureg_totg
-Total growth
+Общий рост
 
 #bc_menureg_totg
-current variation of the total population
+текущая вариативность общей численности населения
 
 #b_menureg_actg
-Actives
+Активные
 
 #bc_menureg_actg
-current variation of the active population
+текущее изменение активной популяции
 
 #bc_vneed1
-The population has in average
+Население в среднем имеет
 
 #bc_vneed2
-of their vital needs satisfied
+их жизненно необходимых потребностей
 
 #bc_vneed3
-without their vital needs satisfied, your population will die
+без удовлетворения их жизненных потребностей, ваше население умрет
 
 #ui_gen_m
 M
 
 #bc_gen_mainmenu
-open main menu
+открыть главное меню
 
 #bc_gen_gameset
-current game settings
+текущие настройки игры
 
 #bc_gen_gov
-Government
+Правительство
 
 #bc_gen_coin
-Treasury
+Казна
 
 #bc_gen_cult
-Culture
+Культура
 
 #bc_gen_fact
-Faction
+Фракция
 
 #bc_gen_ev
-Events
+События
 
 #bc_gen_honor
-Honor
+Честь
 
 #sc_menubdg_getmax
-get max
+получить максимум
 
 #sc_menubdg_get
-get some
+получить сколько-нибудь
 
 #sc_menubdg_empty
-empty some
+опустошить сколько-нибудь
 
 #sc_menubdg_emptyall
-empty all
+опустошить все
 
 #sc_menubdg_destroy
-destroy some
+уничтожить некоторые
 
 #sc_menubdg_forbid
-forbid
+запретить
 
 #sc_menubdg_auth
-authorize
+санкционировать
 
 #sc_menubdg_allowv
-allow everything
+разрешить все
 
 #sc_menubdg_restrict
-restricted
+ограниченно
 
 #sc_menubdg_allow
-allow
+разрешить
 
 #bc_menubdg_perm
-Select how resources are accepted in this storage building
+Выберите, какие ресурсы будут приняты в это хранилище
 
 #b_menubdg_allempty
-empty all
+убрать все
 
 #b_menubdg_alldestr
-destroy all
+уничтожить все
 
 #bc_menubdg_move
-move
+перевезти
 
 #bc_menubdg_move2
-deconstruct this building and rebuild it elsewhere
+разобрать это здание и перестроить его в другом месте
 
 #ui_gov_name
-Government of
+Правительство
 
 #ui_gov_actpol
-ACTIVE POLICIES
+АКТИВНАЯ ПОЛИТИКА
 
 #ui_gov_coins
-state coins
+государственные монеты
 
 #ui_gov_ecobalance
-current budget balance
+текущий бюджетный баланс
 
 #ui_gov_legit
-current legitimacy of the government
+текущая легитимность правительства
 
 #ui_gov_power
-current state power
+текущая государственная власть
 
 #ui_gov_pdgreform
-You have a pending reform that is not applied. Are you sure you want to close this menu and discard this reform (policy changes will not be applied)?
+У вас есть не принятая реформа. Вы действительно хотите закрыть это меню и отказаться от этой реформы (изменения не будут приняты)?
 
 #ui_gov_gdp
-GDP
+ВВП
 
 #ui_gov_gdp_c1
-The current Gross Domestic Product of all your territories.
+Текущий валовой внутренний продукт на всех ваших территориях.
 
 #ui_gov_gdp_c2
-It's calculated by summing up the gross incomes generated in all your territories over 10 production cycles.
+Он рассчитывается путем суммирования валовых доходов, генерируемых на всех ваших территориях, в течение более 10 циклов производства.
 
 #bc_selpolicy
-list of available new policies
+список доступных новых политик
 
 #ui_gov_nopol
-no new policies available!
+нет новых политик!
 
 #ui_civ_repl
-replaces '[x]'
+заменяет '[x]'
 
 #ui_civ_req
-requires '[x]'
+требует '[x]'
 
 #ui_civ_on
-ADD IN REFORM
+ДОБАВИТЬ В РЕФОРМУ
 
 #ui_civ_on_c
-click to add this new policy to the reform
+нажмите, чтобы добавить эту новую политику к реформе
 
 #ui_civ_off
-REVOQUE IN REFORM
+ОТМЕНИТЬ В РЕФОРМЕ
 
 #ui_civ_off_c
-click to add the revocation of this policy to the reform
+нажмите, чтобы добавить отзыв этой политики в реформу
 
 #ui_civ_cncl
-CANCEL FROM REFORM
+ОТМЕНИТЬ ИЗ РЕФОРМЫ
 
 #ui_civ_cncl_c
-click to remove this pending modification from your reform
+нажмите, чтобы удалить это ожидающее изменения от вашей реформы
 
 #ui_civ_warn
-(note that you need to apply the reform before these changes actually take effect)
+(обратите внимание, что вам необходимо применить реформу до того, как эти изменения вступят в силу)
 
 #ui_defaultciv
-default policy
+политика по умолчанию
 
 #bc_defaultciv1
-default policies cannot be revoqued or passed manually.
+политики по умолчанию не могут быть отменены или переданы вручную.
 
 #bc_defaultciv2
-they appear automatically when no other policy is active.
+они появляются автоматически, когда никакая другая политика не активна.
 
 #ui_stateeffect
-STATE EFFECTS
+ГОСУДАРСТВЕННЫЕ ЭФФЕКТЫ
 
 #bc_stateeffect
-pending reform effect
+ожидаемый эффект реформы
 
 #b_applyreform
-APPLY REFORM
+ПРИМЕНИТЬ РЕФОРМУ
 
 #bc_applyreform
-click to submit your reform and make all your pending changes on policies effective.
+нажмите, чтобы принять реформу и сделать все ожидающие изменения в политике действующими.
 
 #b_reform_cflct
-Reform effect: +[x] conflict in all territories
+Эффект реформы: + [x] конфликт на всех территориях
 
 #b_reform_cflct_c1
-Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] of conflict in all of your territories.
+Предупреждение! Из-за своего содержания ваша ожидающая реформа вызовет мгновенный одноразовый штраф в виде [x] конфликтов на всех ваших территориях.
 
 #ui_eco_title
-TREASURY
+КАЗНА
 
 #ui_eco_balance
-Budget balance
+Бюджетный баланс
 
 #ui_eco_dscr
-The treasury is the total amount of coins your government owns. Economic policies define how the economy of your society is currently organized.
+Казна - это общее количество монет, которыми владеет ваше правительство. Экономическая политика определяет, как экономика вашего общества в настоящее время организована.
 
 #ui_eco_notrsr_dscr
-This society currently works without any form of currency and it's people simply share everything in community: the government has no treasury nor incomes or explanses.
+В настоящее время это общество работает без какой-либо формы валюты, и люди просто делят все в обществе: у правительства нет казны, доходов или трат.
 
 #ui_eco_lead
-Leader's personnal wealth
+Личностное богатство лидера
 
 #ui_eco_lead_c1
-The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
+Лидер в настоящее время направляет [x]% его личного богатства [y] государственным финансам.
 
 #ui_eco_tax
-Taxes incomes
+Налоговые доходы
 
 #ui_eco_tax_c1
-Sum of all the tax incomes from all your territories.
+Сумма всех налоговых доходов со всех ваших территорий.
 
 #ui_eco_contrib
-Voluntary contributions
+Добровольные взносы
 
 #ui_eco_contrib_c1
-In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (20% of their incomes).
+В обществе без организованных налогов доходы поступают только от добровольного вклада жителей в сообщество (20% их доходов).
 
 #ui_eco_wast
-Waste
+Потери
 
 #ui_eco_wast_c1
-Tax incomes lost because of Waste in your territories. Waste is a result of low territory administration.
+Налоговые доходы потеряны из-за потерь на ваших территориях. Потери являются результатом низкой развитости администрации на территории.
 
 #ui_eco_bdgs
-Buildings upkeep
+Содержание зданий
 
 #ui_eco_bdgs_c1
-Total upkeep of all buildings in all your territories.
+Общее содержание всех зданий на всех ваших территориях.
 
 #ui_eco_infr
-Infrastructures upkeep
+Содержание инфраструктуры
 
 #ui_eco_infr_c1
-Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
+Общая стоимость поддержания всех инфраструктур всех ваших территорий, таких как стены или дороги.
 
 #ui_eco_units
-Units upkeep
+Содержание юнитов
 
 #ui_eco_units_c1
-Total upkeep of all units in all your formations.
+Общее содержание всех подразделений во всех ваших формированиях.
 
 #ui_eco_salar
-Wages
+Зарплаты
 
 #ui_eco_salar_c1
-Total spent on state wages.
+Всего потрачено на государственные зарплаты
 
 #ui_eco_trt
-Treaties
+Договоры
 
 #ui_eco_trt_c1
-Coins sent or received from other states through your currently active treaties.
+Монеты, отправленные или полученные из других государств через ваши действующие в настоящее время договоры.
 
 #ui_eco_civc
-Civics maintenance
+Траты на политики
 
 #ui_eco_civc_c1
-Total cost of maintaining all our currently active civics.
+Общая стоимость поддержки всех наших активных в настоящее время политик.
 
 #ui_eco_proj
-Current projects
+Текущие проекты
 
 #ui_eco_proj_c1
-Total cost of all the projects currently in progress.
+Общая стоимость всех текущих проектов.
 
 #ui_eco_nat
-Nation
+Народ
 
 #ui_eco_nat_c1
-Taxes from subordinates: [x]
+Налоги от подчиненных: [x]
 
 #ui_eco_nat_c2
-Taxes for your hierarchic superior: [x]
+Налоги для вашего иерархического начальника: [x]
 
 #ui_eco_tradbal
-Trade balance
+Торговый баланс
 
 #ui_eco_tradbal_c1
-The trade balance across all your territories fromm all your current trade routes.
+Торговый баланс на всех ваших территориях от всех ваших текущих торговых маршрутов.
 
 #ui_eco_tradbal_c2
-Trading incomes: [x]
+Торговые доходы: [x]
 
 #ui_eco_tradbal_c3
-Trading expenses: [x]
+Торговые расходы: [x]
 
 #ui_mres_storvar
-STORAGE VARIATION
+ВАРИАЦИИ ХРАНИЛИЩА
 
 #ui_mres_prod
-PRODUCTION
+ПРОИЗВОДСТВО
 
 #ui_mres_imp
-IMPORT
+ИМПОРТ
 
 #ui_mres_dist
-DISTRIBUTION
+РАСПРОСТРАНЕНИЕ
 
 #ui_mres_ind
-INDUSTRIES
+ИНДУСТРИИ
 
 #ui_mres_exp
-EXPORT
+ЭКСПОРТ
 
 #ui_price_base
-Base price
+Базовая цена
 
 #ui_price_base_c1
-This is the minimum price possible for this resource, regardless of the other factors.
+Это минимальная цена, возможная для этого ресурса, независимо от других факторов.
 
 #ui_price_base1
-Production cost ([x]%)
+Стоимость производства ([x]%)
 
 #ui_price_base1_c1
-The cost of local production for this resource based on the cost of required materials.
+Стоимость местного производства для этого ресурса основанная на стоимости необходимых материалов.
 
 #ui_price_base2
-Importation cost ([x]%)
+Стоимость импорта ([x]%)
 
 #ui_price_base2_c1
-The cost of importation of this resource from current trade routes.
+Стоимость импорта этого ресурса с текущих торговых маршрутов.
 
 #ui_price_base3
-Profit margin
+Рентабельность
 
 #ui_price_base3_c1
-Ensuring minimum profits for the traders and producers of this resource.
+Обеспечение минимальной прибыли для торговцев и производителей этого ресурса.
 
 #ui_price_work
-Work price:  [x]
+Цена работы: [x]
 
 #ui_price_work_c1
-Price based on the amount of work required to produce this resource.
+Цена основана на объеме работы, необходимой для создания этого ресурса.
 
 #ui_price_work_c2
-Worforce required per resource unit: [x]
+Требуется рабочей силы для единицы ресурса: [x]
 
 #ui_price_mkt
-Market study:  [x]
+Исследование рынка: [x]
 
 #ui_price_mkt_c1
-Study of the current markets for this resource to determine its ideal price and ensure maximum profits for its producers and traders.
+Изучение текущих рынков этого ресурса, чтобы определить его идеальную цену и обеспечить максимальную прибыль для своих производителей и торговцев.
 
 #ui_price_mkt1
-Public market ([x]%)
+Публичный рынок ([x]%)
 
 #ui_price_mkt1_c1
-The public study is based on the purchasing power of all the population classes consumming this resource and the amount being distributed on the public market. This is the ideal price at which the profits would be optimal for the merchants selling this resource.
+Публичное исследование основано на покупательной способности всех классов населения, которые потребляют этот ресурс и объем, распределяемый на публичном рынке. Это идеальная цена, при которой прибыль будет оптимальной для продавцов, продающих этот ресурс.
 
 #ui_price_mkt2
-Industries market ([x]%)
+Рынок промышленности ([x]%)
 
 #ui_price_mkt2_c1
-The industrial study is based on how much revenue is generated by industries using this resource as a material. A share of these revenues will be coveted and that determines the ideal price of this resource for industrial consumption.
+Промышленное исследование основано на том, сколько доходов генерируется отраслями, использующими этот ресурс в качестве материала. Доля этих доходов будет желательна и определяет идеальную цену этого ресурса для промышленного потребления.
 
 #ui_price_mkt3
-Exportations ([x]%)
+Экспорт ([x]%)
 
 #ui_price_mkt3_c1
-The average price of exportations and the share of the local market they represent influences the price study proportionnally.
+Средняя цена экспорта и доля местного рынка, который они представляют, влияют на исследование цены пропорционально.
 
 #ui_price_sd
-Supply/demand: [x]%
+Спрос/предложение: [x]%
 
 #ui_price_sd_c1
-The ratio of total supply with total demand influences the price both ways, resulting from the competition between traders or between buyers.
+Соотношение общего предложения с общим спросом влияет на цену в обоих направлениях, в результате конкуренции между торговцами или покупателями.
 
 #ui_price_sd_c2
-Supply: [x] units
+Предложение: [x] единиц
 
 #ui_price_sd_c3
-Demand: [x] units
+Спрос: [x] единиц
 
 #ui_mres_ststk
-State owned
+Государственные
 
 #ui_mres_ststk_c1
-Resources you own directly yourself as the state, as opposed to the rest of it owned privately by your population. New resources start initially owned by their respective producers.
+Ресурсы, которыми вы владеете как государство, в отличие от остальной части, принадлежащей вашему населению частным образом. Ресурсы первоначально принадлежат их производителям.
 
 #ui_mres_ststk_c2
-You do not have to buy the resources you already own when using them and you also earn back incomes if used by third parties such as industries or traders.
+Вам не нужно покупать ресурсы, которые у вас есть, когда вы их используете, и вы также получаете деньги назад, если ресурсы используются населением, такими как промышленность или торговцы.
  
 #ui_mres_ststk_c3
-You currently own [x] of the [y] [z] currently stocked in this territory.
+В настоящее время вы владеете [x] из [y] [z], хранящимися на этой территории.
 
 #ui_mres_stres
-State resource
+Государственный ресурс
 
 #ui_mres_stres_c1
-If declared a State Resource, the whole production of this resource will be automatically purchased by the state as they are produced.
+Если объявлено государственным ресурсом, все производство этого ресурса будет автоматически приобретаться государством по мере производства.
 
 #ui_mres_stres_c2
-A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work.
+Полезный вариант для стратегических ресурсов, используемых исключительно государством, таких как оружие или инструменты, для обеспечения регулярного дохода их производителей.
  
 #ui_mres_stmntn
-Maintain ownership
+Поддерживать количество
 
 #ui_mres_stmntn_c1
-The amount of resources in stocks to maintain direct ownership of. 
+Объем ресурсов на складах, наличие которых мы поддерживаем.
 
 #ui_mres_stmntn_c2
-If below the specified amount, new resources going into storage will be automatically purchased by the state until the required amount is reached.
+Ресурсы будут автоматически покупаться государством до достижения указанной суммы.
  
 #ui_mres_access
-POPULATION ACCESS
+ДОСТУП НАСЕЛЕНИЯ
 
 #uic_mres_access
-Population's satisfaction percentage of their need for this resource
+Удовлетворение потребности населения в этом ресурсе в процентах
 
 #ui_mres_dist_need
-Ideally needed
+Требуется в идеале
 
 #uic_mres_dist_need
-Theoric amount needed for a 100% access, regardless of price and affordability by the population
+Теоретическая сумма, необходимая для 100% доступа, независимо от цены и доступности для населения
 
 #ui_mres_dist_dem
-Demand
+Спрос
 
 #uic_mres_dist_dem
-Amount actually demanded to merchants by porcos who can afford it at it's current price
+Количество, фактически потребованное Порко у торговцев, которые могут себе это позволить по текущей цене
 
 #ui_mres_dist_avail
-Supply
+Предложение
 
 #uic_mres_dist_avail
-Amount currently distributed on the market
+Количество, которое в настоящее время распространяется на рынке
 
 #ui_mres_dist_sold
-Sold
+Продано
 
 #uic_mres_dist_sold
-Amount sold to the population
+Количество, проданное населению
 
 #ui_bdgeff_bdg
-building
+здание
 
 #ui_bdgeff_state
-state
+государство
 
 #ui_bdgeff_plac
-placement
+размещение
 
 #ui_bdgeff_profit
-unprofitability ([x]%)
+убыточность ([x]%)
 
 #ui_mres_indaccess
-INDUSTRIES ACCESS
+ДОСТУП ПРОМЫШЛЕННОСТИ
 
 #uic_mres_indaccess
-Industries access to this resource as a material
+Доступ промышленности к этому ресурсу в качестве материала
 
 #ui_mres_indneed
-Demand
+Требовать
 
 #uic_mres_indneed
-Amount of this resource required by industries
+Объем этого ресурса, требуемый отраслями
 
 #ui_mres_indsold
-Sold
+Продано
 
 #uic_mres_indsold
-Amount of this resource actually distributed and sold to industries needing it
+Объем этого ресурса, фактически распределенный и проданный отраслям, которым это необходимо
 
 #ui_mres_prodcost
-Production cost
+Стоимость производства
 
 #uic_mres_prodcost
-Average cost of buying required materials to produce one unit of this resource
+Средняя стоимость покупки необходимых материалов для производства одной единицы этого товара
 
 #ui_menubdg_merchsup
-supply
+поставка
 
 #ui_mres_costimp
-cost of imports
+стоимость импорта
 
 #uic_mres_costimp
-The total cost paid (by the state) for the amount being imported through trade routes.
+Общая стоимость, уплаченная (государством) за сумму, импортируемую через торговые маршруты.
 
 #bc_menubdg_rsell
-select resource to sell with this merchant
+выберите ресурс для продажи у этого продавца
 
 #ui_menubdg_hire
-Hire one
+Нанять одного
 
 #ui_menubdg_fire
-Fire one
+Уволить одного
 
 #ui_menubdg_wkprio
-Priority of filling jobs in this building.
+Приоритет заполнения вакансий в этом здании.
 
 #storpol
-Storage policy
+Политика склада
 
 #storpol_all
-all storages
+все склады
 
 #storpol_c_all1
 Stocking of this resource is allowed in any available storage. 
