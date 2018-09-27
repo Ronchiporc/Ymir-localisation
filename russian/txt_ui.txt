@@ -1481,283 +1481,283 @@ M
 все склады
 
 #storpol_c_all1
-Stocking of this resource is allowed in any available storage. 
+Удержание этого ресурса разрешено в любом доступном хранилище.
 
 #storpol_c_all2
-Will even be stocked directly on ground if there is no available space.
+Будет даже запасаться прямо на земле, если нет свободного места.
 
 #storpol_restr
-only in restricted
+только в ограниченных
 
 #storpol_c_restr1
-Only valid storages in restricted mode are allowed to stock this resource.
+Разрешено хранить только этот ресурс только в действительных хранилищах в ограниченном режиме.
 
 #storpol_c_restr2
-If none is available, the extra resources are destroyed.
+Если их нет, дополнительные ресурсы будут уничтожены.
 
 #storpol_none
-no stocking
+нет чулок
 
 #storpol_c_none1
-The stocking of this resource is disabled.
+Заполнение этого ресурса отключено.
 
 #storpol_c_none2
-All the extra resources are destroyed.
+Все дополнительные ресурсы уничтожены.
 
 #stormntn
-Maintain stock
+Поддержание запасов
 
 #stormntn_c
-If the current stock is below the desired value, 25% of the production will be reserved and locked in order to increase the stock. 
+Если текущий запас ниже желаемого значения, 25% продукции будет зарезервировано и заблокировано для увеличения запаса.
 
 #stormntn_set
-Set maintaining stock at minimum of [x] [y]. 
+Установите поддерживающий запас минимум [x] [y].
 
 #storownr_set
-Set maintaining ownership of minimum [x] [y]. 
+Установите сохранение минимального значения [x] [y].
 
 #storownr_enab
-[x] is now a State Resource (all production auto-purchased by you). 
+[x] теперь является государственным ресурсом (вся продукция, купленная вами автоматически).
 
 #storownr_disab
-[x] no longer is a State Resource (no auto-purchasing of production). 
+[x] больше не является государственным ресурсом (нет автоматической покупки продукции).
 
 #regeco_eff
-Effects: affects your government's treasury positively or negatively 
+Эффекты: влияет на казну правительства положительно или отрицательно
 
 #regeco_1
-The budget balance of your territory is the result of all incomes and expenses specific to this territory such as taxes, salaries and maintenance costs.
+Бюджетный баланс вашей территории является результатом всех доходов и расходов, характерных для этой территории, таких как налоги, зарплаты и расходы на техническое обслуживание.
 
 #regeco_2
-Budget can also be negatively affected by Waste. It represents incomes lost to tax fraud, bad management, corruption and 'black economy'.
+Отходы также могут негативно отразиться на бюджете. Это представляет собой доходы, потерянные для налогового мошенничества, плохого управления, коррупции и «черной экономики».
 
 #regadmin_eff
-Effects: increases budget incomes (-waste)
+Эффекты: увеличивает доходы бюджета (-отходы)
 
 #regadmin_1
-Administration represents your government's management capacity in this territory.
+Администрация представляет собой управленческий потенциал вашего правительства на этой территории.
 
 #regadmin_2
-The more population and distance from the capital, the harder it is to manage the territory. But it can also be improved by active policies and services in the territory such as Scribes helping in the territory's administration.
+Чем больше населения и расстояние от столицы, тем труднее управлять территорией. Но его также можно улучшить с помощью активных политик и услуг на территории, таких как книжники, помогающие в управлении территорией.
 
 #regconf_eff
-Effects: decreases growth (+murders), decreases loyalty (-authority)
+Эффекты: уменьшает рост (+ убийства), уменьшает лояльность (-власть)
 
 #regconf_1
-Conflict represents the level of random conflicts between the people of the territory.
+Конфликт представляет собой уровень случайных конфликтов между людьми на территории.
 
 #regconf_2
-Active government civics and services in the territory such as Justice can help reduce it.
+Активные государственные гражданские службы и службы на территории, такие как Правосудие, могут помочь уменьшить ее.
 
 #regloy_eff
-Effects: prevents population rebellion
+Эффекты: предотвращает восстание населения
 
 #regloy_1
-Loyalty represents the global loyalty of the territory's people to you: the central government controlling this territory.
+Лояльность представляет собой глобальную лояльность жителей территории к вам: центральное правительство контролирует эту территорию.
 
 #regloy_2
-It is affected by many factors such as the culture of the people, the level of conflict in the territory, active policies, past events or authority of the government in the territory. If Loyalty gets too low (below 30%), there will be a high risk of global popular uprising that can lead to losing the control of the territory.
+На него влияют многие факторы, такие как культура народа, уровень конфликта на территории, активная политика, прошлые события или авторитет правительства на территории. Если лояльность становится слишком низкой (ниже 30%), существует высокий риск глобального народного восстания, который может привести к потере контроля над территорией.
 
 #regcltr_eff
-Effects: contributes to your total culture, affects loyalty, increases population's intelligence
+Эффекты: способствует вашей общей культуре, влияет на лояльность, увеличивает интеллект населения
 
 #regcltr_1
-Culture represents the total knowledges, customs and behaviors of the people in this territory.
+Культура представляет собой общие знания, обычаи и поведение людей на этой территории.
 
 #regcltr_2
-A total culture based on the amount of population can then be shared between different types of cultures. "State culture" represents your culture. "Local culture" represents customs and behaviors specific to this territory and different from your main culture shared among all your people. Other foreign cultures might also be present.
+Тогда общая культура, основанная на количестве населения, может быть распределена между различными типами культур. «Государственная культура» представляет вашу культуру. «Местная культура» представляет обычаи и поведение, характерные для этой территории, и отличается от вашей основной культуры, разделяемой между всеми вашими людьми. Могут также присутствовать и другие иностранные культуры.
 
 #reggrwth_eff
-Effects: determines the evolution of your population.
+Эффекты: определяет эволюцию вашего населения.
 
 #reggrwth_1
-Growth represents the current demographic evolution of your population in this territory. 
+Рост представляет собой демографическую эволюцию вашего населения на этой территории.
 
 #reggrwth_2
-Growth is greatly dependent on the "breeding will" of the people which determines how many couples will have children within the next generation.
+Рост сильно зависит от «размножающейся воли» людей, которая определяет, сколько пар будут иметь детей в следующем поколении.
 
 #popw_base
-Base wealth
+Базовые богатства
 
 #popw_income
-Porco's income
+Доход Порко
 
 #popw_priv
-Priviledges
+привилегированности
 
 #popneed_sat
-NEEDS SATISFACTION
+УДОВЛЕТВОРЕНИЕ ПОТРЕБНОСТЕЙ
 
 #popstat_wealth
-WEALTH
+БОГАТСТВО
 
 #popstat_wealth_c1
-A porco's wealth defines it's purchasing power.
+Богатство porco определяет его покупательную способность.
 
 #popstat_wealth_c2
-A porco can fully afford any valuable priced equally or bellow it's wealth level.
+Порко может полностью позволить себе любую ценную цену, равную или равную ее уровню богатства.
 
 #popstat_health
-HEALTH
+ЗДОРОВЬЕ
 
 #popstat_health_c1
-Health determines life span and resistance to deseases.
+Здоровье определяет продолжительность жизни и устойчивость к заболеваниям.
 
 #popstat_health_c2
-It improves population's growth.
+Это улучшает рост населения.
 
 #popstat_lifequal
-LIFE QUALITY
+КАЧЕСТВО ЖИЗНИ
 
 #popstat_lifequal_c1
-The quality of life is a score measuring how good and comfortable the porco's life is.
+Качество жизни - это оценка того, насколько хороша и удобна жизнь porco.
 
 #popstat_lifequal_c2
-It affects many other things such as intelligence, happyness or growth.
+Это затрагивает многие другие вещи, такие как интеллект, счастье или рост.
 
 #popstat_intel
-INTELLIGENCE
+ИНТЕЛЛЕКТ
 
 #popstat_intel_c1
-Intelligence is one's ability to create algorythms measuring probabilities of Truth.
+Интеллект - это способность создавать алгориты, измеряющие вероятности Истины.
 
 #popstat_intel_c2
-Intelligent porcos will generate more ideas and culture, but tend to be unhappier and harder to control.
+Интеллектуальные porcos будут генерировать больше идей и культуры, но, как правило, неудобнее и труднее контролировать.
 
 #popneed_qual
-satisfaction quality
+качество удовлетворенности
 
 #popneed_access
-access
+доступ
 
 #popneed_food
-foods
+продукты
 
 #popneed_water
-water
+воды
 
 #popneed_furnish
-furnishings
+обстановка
 
 #popneed_cloth
-clothing
+одежда
 
 #popneed_alco
-alcohols
+спирты
 
 #popneed_entert
-entertainments
+развлечения
 
 #popneed_lux
-luxury
+роскошь
 
 #popneed_pfood
-pleasure foods
+продукты для удовольствия
 
 #popneed_social
-social
+Социальное
 
 #popneed_2
-secondary needs
+вторичные потребности
 
 #popneed_3
-tertiary needs
+третичные потребности
 
 #popneed_4
-quaternary needs
+четвертичные потребности
 
 #popneed_unsat
-(-[x]% for unsatisfied needs of higher priority)
+(-[x]% для неудовлетворенных потребностей более высокого приоритета)
 
 #popneed_lq
-life quality bonus: +[x]
+бонус качества жизни: +[x]
 
 #loadgame_select
-Select a local saved game to load
+Выберите локальную сохраненную игру для загрузки
 
 #loadgame_localsav
-( Local saves are located in \AppData\Local\Ymir\saves )
+(Локальные сейвы расположены в папке \AppData\Local\Ymir\saves)
 
 #loadgame_nofnd
-No games found!
+Игры не найдены!
 
 #loadgame_none1
-It seems there is no existing games to load!
+Кажется, нет существующих игр для загрузки!
 
 #loadgame_none2
-You need to create a new game.
+Вам нужно создать новую игру.
 
 #loadgame_crtnew
-CREATE NEW GAME
+СОЗДАТЬ НОВУЮ ИГРУ
 
 #loadgame_rename
-rename
+переименовать
 
 #loadgame_copy
-copy
+копия
 
 #loadgame_del
-delete
+удалить
 
 #loadgame_renaming
-Rename game
+Переименовать игру
 
 #loadgame_copying
-Copy name
+Копировать имя
 
 #loadgame_deleting
-Are you sure you want to delete this saved game ?
+Вы действительно хотите удалить эту сохраненную игру?
 
 #joingame_serv
-Server IP
+IP-адрес сервера
 
 #joingame_port
-Server port
+Порт сервера
 
 #popstat_wbase
-base wealth
+базовое богатство
 
 #popstat_wbase_c
-every porco naturally makes wealth on it's own
+каждый Порко естественно зарабатывает богатство самостоятельно
 
 #popstat_winc
-coins of income
+монет дохода
 
 #popstat_winc_c1
-earning [x] coins out of [y] in total
+получение [x] монет из [y] в целом
 
 #popstat_winc_c2
-awards [x]% of [y] territory wealth
+награды [x]% от [y] богатства территории
 
 #popstat_wpriv
-privileges
+привилегии
 
 #popstat_wpriv_c
-wealth given directly as privileges by social policies
+богатство, предоставляемое непосредственно в качестве привилегий по социальной политике
 
 #legit_dscr
-Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
+Легитимность заключается в том, насколько люди признают правомерность претензий вашего государства на власть, которые определяются вашей активной политикой легитимности. Они влияют на положительное или отрицательное влияние всех различных факторов легитимности.
 
 #legit_tot
-Total legitimacy
+Полная легитимность
 
 #legit_honor
-Honor
+Честь
 
 #legit_honor_c
-Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
+Ваша честь напрямую влияет на вашу легитимность. Никто не хочет служить под непобедимым правителем!
 
 #legit_protect
-Military strenght
+Военная сила
 
 #legit_protect_c
-Our military strenght is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
+Наша военная сила сейчас [х]. Она увеличена за счет увеличения количества армий и более мощных единиц по отношению к вашей общей численности населения.
 
 #legit_wealth
-Leader superiority
+Лидерское превосходство
 
 #legit_wealth_c
-Our leader superiority is currently of [x]. It's increased by the wealth of the leader's population class.
+Превосходство нашего лидера в настоящее время составляет [x]. Оно увеличивается благодаря богатству класса населения лидера.
 
 #legit_relig
 People religiosity
