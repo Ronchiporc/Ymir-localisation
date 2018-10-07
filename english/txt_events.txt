@@ -1762,6 +1762,12 @@ Home of '[y]' has insufficient population!
 #ev_form_ovrdrft_1
 The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
 
+#ev_form_desertion
+Our soldiers are deserting!
+
+#ev_form_desertion_1
+The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+
 #ev_form_ovrdrft_2
 Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
 

@@ -151,8 +151,26 @@ Your games
 #joingame_persist
 Peristent games
 
+#joingame_persist_dscr_1
+Persistant games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
+
+#joingame_persist_dscr_2
+To garantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). Only gameplay is law.
+
 #joingame_realtime
 Real-time games
+
+#joingame_realtime_dscr_1
+Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
+
+#joingame_custom
+Custom games
+
+#joingame_custom_dscr_1
+Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
+
+#joingame_custom_dscr_2
+WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
 
 #joingame_direct
 Direct IP
@@ -189,6 +207,18 @@ Duration
 
 #servlst_dur_c1
 The amount of time this game has been going on
+
+#servlst_admn
+Admin tools
+
+#servlst_admn_c1
+Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
+
+#servlst_preset
+Game preset
+
+#servlst_preset_c1
+Game balance preset used on this custom server.
 
 #servlst_ver
 server's version
@@ -647,25 +677,25 @@ In sleep mode : all functionnalities are stopped until you activate it again. Bu
 Under contruction
 
 #ui_menubdg_build2
-This building is not finished and therefor not fonctionnal yet.
+This building is not finished and therefor not functional yet.
 
 #ui_menubdg_fonct1
-Fonctionnal
+Functional
 
 #ui_menubdg_fonct2
-This building is fully fonctionnal.
+This building is fully functional.
 
 #ui_menubdg_morework1
 Missing workers
 
 #ui_menubdg_morework2
-This building needs more workers to be fully fonctionnal.
+This building needs more workers to be fully functional.
 
 #ui_menubdg_noworker1
 Empty
 
 #ui_menubdg_noworker2
-This building needs workers to be fonctionnal.
+This building needs workers to be functional.
 
 #ui_menubdg_deficit1
 Unprofitable
@@ -677,13 +707,13 @@ This building is currently unprofitable for its workers, operating at a loss. It
 Destroyed
 
 #ui_menubdg_destr2
-This building needs to be rebuilt to be fonctionnal.
+This building needs to be rebuilt to be functional.
 
 #ui_menubdg_ruin1
 Abandonned
 
 #ui_menubdg_ruin2
-Abandonned and needs to be restaured to be fonctionnal. No maintenance, and building degrades with time.
+Abandonned and needs to be restored to be functional. No maintenance, and building degrades with time.
 
 #ui_menubdg_recycl1
 Demolishing
@@ -725,16 +755,16 @@ Wake
 (building becomes active again)
 
 #bc_menubdg_rest1
-Restaure
+Restore
 
 #bc_menubdg_rest2
-(repair and restaure functionnality of the building)
+(repair and restore functionnality of the building)
 
 #ui_upgbdg_upto
 Upgrade to
 
 #ui_upgbdg_rstr
-Restaure
+Restore
 
 #ui_menubdg_prod
 PRODUCTION
@@ -1170,6 +1200,12 @@ Reform effect: +[x] conflict in all territories
 
 #b_reform_cflct_c1
 Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] of conflict in all of your territories.
+
+#b_reform_loyal
+Reform effect: -[x] loyalty in all territories
+
+#b_reform_loyal_c1
+Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] loyalty in all of your territories.
 
 #ui_eco_title
 TREASURY
@@ -1949,7 +1985,7 @@ State power affects the loyalty of all territories.
 high taxes
 
 #loyal_hightax_c1
-When the sum of all state taxes exceed 50%, it starts to upset people and reduces their loyalty to the state.
+High taxes upset people and reduces their loyalty to the state.
 
 #loyal_prvldg
 priviledges
@@ -2687,7 +2723,7 @@ This formation type costs [x] State Power to maintain.
 You cannot disband this formation here!
 
 #ui_wregown_smes
-send message
+send missive
 
 #ui_wregown_war
 declare war
@@ -2776,6 +2812,15 @@ Send a renegociation proposal. If agreed by the other party, the current treaty 
 #ui_treat_termsent
 Request to agree to terminate this treaty sent to the other party!
 
+#b_trtcancelofr
+Cancel offer
+
+#b_trtcancelofr_c1
+Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+
+#ui_treat_cancld
+Your treaty proposal was cancelled.
+
 #ui_treat_eng1
 You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
 
@@ -2846,13 +2891,13 @@ completed!
 incomplete
 
 #menuevt_trt_no
-Refuse treaty
+Refuse
 
 #menuevt_trt_reneg
-Propose a counter-offer
+Counter-offer
 
 #menuevt_trt_yes
-Agree to treaty
+Agree
 
 #ui_evt_goto
 GO TO REGION
@@ -3014,16 +3059,16 @@ This territory cannot be evacutated while it has an active resistance movement.
 Claim territory
 
 #b_regunclaim_1
-Unclaim territory
+You can unclaim this territory: it will become free of any ownership.
 
 #b_regunclaim_2
-WARNING: You will lose 2 of Honor!
+WARNING: By willingly revoking this claim you will lose 2 of Honor!
 
 #regclaim_title
 Claiming territory...
 
 #regclaim_txt
-You can claim this territory and attach it to one of your territories. This will cost Administration from the territory's main city.
+You can claim this territory and attach it to one of your regions. This will cost Administration to the region's main city. If your city runs out of Administration, you will automatically lose your claims (note that unclaiming territories comes with a small Honor penalty).
 
 #regclaim_par
 Parent territory
@@ -3054,6 +3099,12 @@ engagement over
 
 #b_actv_trt_eng
 engaged for
+
+#b_actv_trt_pend1
+pending: waiting for your reply...
+
+#b_actv_trt_pend2
+pending: waiting for other's response...
 
 #b_actv_trt_m1
 You
@@ -4363,6 +4414,18 @@ Dismantling territories
 #facdsmtl_text
 Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
 
+#facdsmtl_c1
+Select a new owner for this territory.
+
+#facdsmtl_err
+[cannot dismantle]
+
+#facdsmtl_err_c1
+This territory was integrated recently and hasn't been part of your Nation long enough to be transfered via the 'dismantle' function.
+
+#facdsmtl_err_c2
+Time before this territory can be dismantled: [x].
+
 #facquit_title
 Are you sure?
 
@@ -4648,6 +4711,15 @@ Invade
 #formact_batl
 Battle
 
+#formact_claim
+Claim territory
+
+#formact_reclaim
+Reclaim territory
+
+#formact_unclaim
+Unclaim territory
+
 #formhome_title
 Changing this formation's home...
 
@@ -4665,3 +4737,18 @@ Select the desired home region for this formation.
 
 #formhome_sel_c2
 ( The formation needs to be positionned in the desired city to be able to rebase in it )
+
+#menu_mission_sel
+Action
+
+#menu_mission_sel_c1
+Select the action to perform in this territory.
+
+#chat_pm
+Message [x]
+
+#chat_faction
+Nation '[x]'
+
+#chat_emptytxt
+[type your message here]
