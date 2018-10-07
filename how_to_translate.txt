@@ -14,3 +14,12 @@ automatically added at the end of the files after launching the game once, makin
 - When keys are missing, their content is copy pasted by default from the "parent language" defined in 
 the "_language_setup.txt" file of the concerned language directory. It is "english" by default.
 - The game fonts currently only supports the latin and cyrillic characters.
+
+
+LANGUAGE SETUP file
+
+font_scale: global scale factor applied to fonts, additionnally to the ingame size and scale factors for each ui. 1 is default.
+
+font_pos_x & font_pos_y: global position offset applied to all displayed fonts. nb of pixels for a size 10 font. 
+applied proportionnally to the each text depending on its size to maintain the same proportional offset (so font_pos_x of 2 
+means x+ 4pixels when displaying a font of size 20 )

@@ -1,26 +1,26 @@
-#b_menu_tutorial
-TUTORIAL
+﻿#b_menu_tutorial
+教程
 
 #b_menu_newgame
-NEW GAME
+新游戏
 
 #b_menu_load
-LOAD GAME
+加载游戏
 
 #b_menu_join
-JOIN GAME
+加入游戏
 
 #b_menu_editor
-EDITOR
+编辑
 
 #b_menu_options
-OPTIONS
+设置
 
 #b_menu_quit
-QUIT
+放弃
 
 #b_menu_resume
-RESUME
+恢复
 
 #b_menu_tomain
 TO MAIN MENU
@@ -3329,7 +3329,7 @@ The trade route operator is the city dealing with the transportation of the good
 It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+The cost of cargo is exponential to the trade route’s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
 
 #ui_troute_vol
 Cargo volume
@@ -3443,7 +3443,7 @@ Militia
 A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
 
 #menu_nfrm_t2_dscr2
-Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Militias don’t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
 
 #menu_nfrm_t2_dscr3
 However , the militia cannot move to other territory s and decreases the state authority.
