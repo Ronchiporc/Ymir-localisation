@@ -1,0 +1,179 @@
+﻿#agrim_goldo_1
+Unique payment
+
+#agrim_goldo_2
+Platí [x] mincí
+
+#agrim_goldo_3
+Single coin payment from [x] to [y], at treaty signature.
+
+#agrim_goldr_1
+Převod peněz(mincí)
+
+#agrim_goldr_2
+Continuous transfer of [x] coins from income
+
+#agrim_goldr_3
+[x] continuously transfers coins to [y] for as long as the treaty remains active.
+
+#agrim_goldtax_1
+Coins tax
+
+#agrim_goldtax_2
+Gives [x]% of coins income
+
+#agrim_goldtax_3
+[x] transfers a % of his total coins income to [y].
+
+#agrim_admtax_1
+Power transfer
+
+#agrim_admtax_2
+Transfers [x]% of state power
+
+#agrim_admtax_3
+[x] tranfers a % of his state power to [y].
+
+#agrim_trad_1
+Obchodní dohoda
+
+#agrim_trad_2
+Allows trade
+
+#agrim_trad_3
+Gives [y] access to all trade offers and trade routes from [x].
+
+#agrim_pass_1
+Right of passage
+
+#agrim_pass_2
+Gives right of passage
+
+#agrim_pass_3
+Allows units of [y] to travel in the territories of [x].
+
+#agrim_embrg_1
+Embargo na...
+
+#agrim_embrg_2
+Embargo proti [x]
+
+#agrim_embrg_3
+Zakazuje obchody se zadaným státem
+
+#agrim_vassal_1
+Připojte se k národu
+
+#agrim_vassal_2
+Joining the [x]
+
+#agrim_vassal_3
+[x] will join the nation of [y].
+
+#agrim_war_1
+Vyhlaš válku...
+
+#agrim_war_2
+Vyhlásit válku [x]
+
+#agrim_war_3
+Declare war to another specified state
+
+#agrim_peace_1
+Mírová smlouva
+
+#agrim_peace_2
+Mírová smlouva
+
+#agrim_peace_3
+Forbids war between treaty members.
+
+#agrim_ceasefr_1
+Cease fire
+
+#agrim_ceasefr_2
+Cease fire
+
+#agrim_ceasefr_3
+Ends war between treaty members.
+
+#agrim_tradrt_1
+Obchodní cesta
+
+#agrim_tradrt_2
+Obchodní cesta
+
+#agrim_tradrt_3
+Setup a treaty binded trade route
+
+#agrim_givreg_1
+Odevzdat region
+
+#agrim_givreg_2
+Darovat region za '[x]' 
+
+#agrim_givreg_3
+Transfer ownership of a region to [y].
+
+#agrim_gividea_1
+Dát nápad
+
+#agrim_gividea_2
+Dát nápad za [x]
+
+#agrim_gividea_3
+[y] will receive from [x] a new idea for knowledges he doesnt have yet.
+
+#treaty_powcost
+State power cost to maintain this treaty
+
+#treaty_coinpen
+Sankce v mincích
+
+#treaty_coinpen_c1
+% z HDP bude přeposláno od [x] jako sankce za porušení dohody,
+
+#treaty_coinpen_c2
+k [x].
+
+#treaty_gdp
+[x]% z HDP
+
+#treaty_honor
+Honor commitment
+
+#treaty_honor_c1
+Level of commitment of [x] to respect this treaty.
+
+#treaty_honor_c2
+Proportionnal honor is lost if [x] breaks it.
+
+#treaty_warbound
+War bound
+
+#treaty_warbound_c1
+Wether or not [x] will automatically declare war
+
+#treaty_warbound_c2
+if [x] breaks this treaty.
+
+#treaty_closes
+Breaking closes
+
+#diplo_npass
+National right of passage
+
+#diplo_npass_dscr_1
+All members of the Nation can move through each other's territory.
+
+#diplo_ntrade
+National trade agreement
+
+#diplo_ntrade_dscr_1
+All members of the Nation get automatic trading rights with each other.
+
+#diplo_ndef
+Národní obranná smlouva
+
+#diplo_ndef_dscr_1
+Jakékoliv vyhlášení války proti členu země(národu) vyvolá automatické vyhlášení války od všech ostatních členů země(národa), aniž by se přerušilo jeho uzavření.

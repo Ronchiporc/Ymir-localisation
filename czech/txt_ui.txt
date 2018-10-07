@@ -1,0 +1,4667 @@
+﻿#b_menu_tutorial
+TUTORIAL
+
+#b_menu_newgame
+NOVÁ HRA
+
+#b_menu_load
+NAČTI HRU
+
+#b_menu_join
+PŘIPOJ SE DO HRY
+
+#b_menu_editor
+EDITOR
+
+#b_menu_options
+NASTAVENÍ
+
+#b_menu_quit
+KONEC
+
+#b_menu_resume
+POKRAČOVAT
+
+#b_menu_tomain
+DO MAIN MENU
+
+#ui_tomainvalid
+Do you really want to leave and return to the main menu ?
+
+#ui_connctstat_1
+Currently connected to [x]  ping: [y]
+
+#ui_connctstat_2
+Loss rate: [x]% ( sent:[y]  failed:[z] )
+
+#ui_connct_stable
+Vaše spojení se serverem je stabilní.
+
+#ui_connct_unstbl
+Varování! Vaše spojení se serverem je nestabilní!
+
+#mainmenu_mute
+klikněte pro vypnutí/zapnutí zvuku v celé hře
+
+#mainmenu_fullscrn
+klepnutím přepnete mezi režimem v okně a celou obrazovkou
+
+#mainmenu_quit
+klikněte pro ukončení hry
+
+#b_menuop_fullscreen
+Celá obrazovka
+
+#bc_menuop_fullscreen
+povolit Fullscreen
+
+#b_menuop_autores
+Automatické rozlišení
+
+#bc_menuop_autores
+automatically adapt resolution to the display in fullscreen
+
+#b_menuop_res
+Display resolution
+
+#bc_menuop_res
+choose the desired display resolution when in fullscreen
+
+#b_menuop_terrain
+Terrain
+
+#b_menuop_low
+low
+
+#b_menuop_medium
+medium
+
+#b_menuop_high
+high
+
+#b_menuop_bdgs
+Budovy
+
+#b_menuop_units
+Jednotky
+
+#b_menuop_fx
+FX
+
+#b_menuop_shaders
+Shaders
+
+#b_menuop_worldmap
+Worldmap
+
+#b_menuop_logic
+Logic
+
+#b_menuop_cosveg
+Cosmetic vegetation
+
+#bc_menuop_cosveg
+Enable cosmetic grass and bushes
+
+#b_menuop_cosunits
+Cosmetic units 
+
+#bc_menuop_cosunits
+Enable cosmetic units like decorative animals
+
+#b_menuop_grain
+Video grain
+
+#bc_menuop_grain
+Enable or disable this post-processing effect
+
+#b_menuop_mvol
+Music volume
+
+#b_menuop_ambvol
+Ambiant volume
+
+#b_menuop_uivol
+UI volume
+
+#b_menuop_lang
+Jazyk
+
+#bc_menuop_lang
+Zvolte si svůj jazyk
+
+#b_menuop_apply
+Použít
+
+#b_menuop_display
+DISPLAY
+
+#b_menuop_sound
+ZVUK
+
+#b_menuop_game
+HRA
+
+#ui_menuop_options
+NASTAVENÍ
+
+#joingame_yourgames
+Tvé hry
+
+#joingame_persist
+Peristent games
+
+#joingame_realtime
+Real-time games
+
+#joingame_direct
+Direct IP
+
+#joingame_connect
+PŘIPOJIT SE DO HRY
+
+#servlst_name
+Název serveru
+
+#servlst_name_c1
+The custom name of the server's game
+
+#servlst_creat
+Creator
+
+#servlst_creat_c1
+Steam nick hráče který vytvořil server
+
+#servlst_players
+Hráči
+
+#servlst_players_c1
+Počet hráčů právě online ve hře
+
+#servlst_online
+Online
+
+#servlst_actives_c1
+Počet aktivních hráču ve hře
+
+#servlst_dur
+Duration
+
+#servlst_dur_c1
+The amount of time this game has been going on
+
+#servlst_ver
+server's version
+
+#servlst_ver_c1
+The version of the game this server is currently running.
+
+#servlst_ver_c2
+Warning! Your version ([x]) does not match with the one of this server ([y])!
+
+#servlst_nogam
+Sorry: It looks like there is currently no games available!
+
+#b_newgame_name
+Game name:
+
+#b_newgame_public
+public
+
+#b_newgame_friends
+friends only
+
+#b_newgame_private
+private
+
+#b_newgame_password
+Heslo:
+
+#bc_newgame_password
+Nastav heslo potřebné ke připojení do této hry
+
+#b_newgame_maxplayers
+Max hráčů:
+
+#b_newgame_start
+ZAČÍT HRU
+
+#ui_newgame_newgame
+NOVÁ HRA
+
+#ui_newgame_world
+SVĚT
+
+#b_newgame_wprocedural
+Procedural
+
+#b_newgame_wcustom
+Custom
+
+#newgame_serv_c
+nastavení serveru
+
+#newgame_serv_run
+server se automaticky nezavírá
+
+#newgame_serv_empty
+zavřete server, když je prázdný
+
+#newgame_serv_leave
+zavřete server při odpojení
+
+#newgame_samname
+A saved game '[x]' already exists in the local files! What do you want to do?
+
+#newgame_overw
+Přepsat
+
+#newgame_renam
+Autorename
+
+#newgame_nomap
+žádný není k dispozici
+
+#newgame_invmap
+It seems there is'nt any custom map available. Please select a procedural type of map.
+
+#mapsize
+Velikost Mapy
+
+#mapsize1
+Tiny
+
+#mapsize2
+Small
+
+#mapsize3
+Regular
+
+#mapsize4
+Large
+
+#mapsize5
+Huge
+
+#mapsize6
+Giant
+
+#maptyp
+Map preset
+
+#maptyp1
+Terra
+
+#maptyp1_dscr
+Temperate earth-like worlds with several continents.
+
+#maptyp2
+Pangea
+
+#maptyp2_dscr
+Temperate worlds mostly made of lands, with only a few small seas.
+
+#maptyp3
+Archipelago
+
+#maptyp3_dscr
+Sea worlds with lots of islands and smaller landmass.
+
+#maptyp4
+Desert world
+
+#maptyp4_dscr
+Desertic worlds where hospitable territories are mostly located towards poles and around smaller inland seas.
+
+#maptyp5
+Ice world
+
+#maptyp5_dscr
+Cold desertic worlds with only a few hospitable territories.
+
+#maptyp6
+Tropico
+
+#maptyp6_dscr
+Warm and humid sea worlds with lots of tropical islands.
+
+#maptypcust
+Custom settings
+
+#custmap_sel
+Select a world map
+
+#custmap_sel_c
+Select a custom map
+
+#custmap_dscr
+Custom worlds are maps manually created with the editor instead of beeing procedurally generated.
+
+#newgame_gamset
+HERNÍ NASTVENÍ
+
+#gmtyp_off
+Official
+
+#gmtyp_off_dscr
+Games labelled as official are using standardized non-customizable settings to provide a reliable experience.
+
+#gmtyp_offtype
+Game type
+
+#gmtyp_offtype_c
+Select a game preset
+
+#gmtyp_rtime
+Real-time
+
+#gmtyp_rtime_dscr1
+Real-time games are meant to be played directly with every player ingame at all times, saving and reloading the game later on to continue the game if necessary.
+
+#gmtyp_rtime_dscr2
+Resource production, population growth and unit movements are fast.
+
+#gmtyp_rtime_dscr3
+This is meant for smaller private games such as playing locally with a group of friends via direct IP.
+
+#gmtyp_prsist
+Persistent
+
+#gmtyp_prsist_dscr1
+Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently ingame.
+
+#gmtyp_prsist_dscr2
+Resource production, population growth and unit movements are slow.
+
+#gmtyp_prsist_dscr3
+This is meant for bigger public games and servers with higher numbers of players.
+
+#gmtyp_cstm
+Vlastní
+
+#gmtyp_cstm_dscr
+Vlastní hra umožňuje definovat vlastní nastavení ovlivňující vyvážení hry a rychlost hry.
+
+#gamelob_disco
+Odpojit
+
+#gamelob_disco_c1
+Return to main menu
+
+#gamelob_usechar
+Play using this character
+
+#gamelob_newchar
+Nový
+
+#gamelob_newchar_c1
+Create a new character on this game
+
+#gamelob_play
+HRAJ
+
+#newchar_title
+Nová postava
+
+#newchar_startpref
+Začátecní předvolba
+
+#newchar_availspwn
+Available starts matching these settings
+
+#newchar_closeto
+objev se blýzko postavy...
+
+#newchar_closeto_c
+Objevíte se co nejblíže u vybrané postav. Během čehož se budou shodovat s výše uvedenými podmínkami.
+
+#newchar_starttyp
+Typy startů
+
+#newchar_clim
+Podnebí
+
+#newchar_st_precious
+Jedná se o "Skvělý start": jakmile se použije, nebudete schopni se respawnout z jiného "Drahoceného startu" po dobu [x] bez ohledu na váš spawn cool-off.
+
+#newchar_st_prlck
+Tento "Skvělý start" je uzamčen, protože jste vytvořili jiný méně než [x] ([y] zbývající).
+
+#newchar_st_pt
+Primitivní kmeny
+
+#newchar_st_pt_c1
+Začněte od nuly s vládou nad primitivním kmenem.
+
+#newchar_st_pt_c2
+Je to výchozí a standardní způsob zahájení hry.
+
+#newchar_st_suc
+Nástupnictví
+
+#newchar_st_suc_c1
+Staňte se novým vládcem již existující vlády, která potřebuje nástupce.
+
+#newchar_st_suc_c2
+Získáte kontrolu nad neaktivní postavou(hráčem) a zdědíte všechen jeho majetek.
+
+#newchar_st_col
+Kolonie
+
+#newchar_st_col_c1
+Staňte se novým vůdcem kolonie vytvořené jiným hráčem
+
+#newchar_st_col_c2
+(Připojíte se už do existující země)
+
+#newchar_st_ar
+Nový vládce
+
+#newchar_st_ar_c1
+Staňte se novým vůdcem území, které předtím spadlo do anarchie
+
+#newchar_st_ar_c2
+(Území které spadlo do anarchie nebo stratilo vůdce: počítejte s nepředvídaným!)
+
+#newchar_clim_c
+Vyberte si podnebí, ve kterých byste se chtěli potenciálně objevit
+
+#newchar_cold
+Chladném
+
+#newchar_temp
+Mírném
+
+#newchar_arid
+Suchém
+
+#newchar_trop
+Tropickém
+
+#newchar_prspwn_warn
+WANRING: Vybrali jste jeden nebo více typů "Skvělého startu". Ty nemohou být opakovaně použity pro [x] bez ohledu na cool-off v této hře. Nepodělejte to!
+
+#newchar_nofind
+Could not find any unit or territory for this character!
+
+#findchar_bc
+kliknutím vyhledejte existující postavu v této hře
+
+#char_invcode
+Invite code: [x]
+
+#charcreate_err1
+Zadejte prosím název nové postavy.
+
+#charcreate_err2
+Uveďte název vaší vlády.
+
+#charcreate_err3
+Neexistuje platné výchozí umístění odpovídající vašemu nastavení.
+
+#charcreate_err4
+Uveďte prosím Invite code, abyste dokončili vytváření vaší postavy!
+
+#charcreate_err5
+Neplatný Invite code!
+
+#findchar_none
+[none]
+
+#invtcd_title
+Invite code for [x]
+
+#invtcd_txt
+Snažíte se objevit v blízkosti postavy jménem '[x]'. Abyste se ujistili, že to děláte po dohodě s jeho majitelem, musíte nyní poskytnout platný "Invite code", který odpovídá této postavě a který je znám pouze hráčem, který ho ovládá. Pokud se připojíte k příteli, požádejte ho, aby vám dal tento kód, který je zobrazen na jeho avataru ve hře.
+
+#findchar_srch
+Najdi postavu...
+
+#findchar_reslt
+Výsledky
+
+#findchar_wait
+vyhledávám...
+
+#findchar_instr
+type a character's full name or part of it's name and press enter to see valid matches
+
+#findchar_nores
+no result matching this search
+
+#tuto_ask
+TUTORIÁL
+
+#tuto_ask_1
+Greetings, newpig! Is this the first time you play Ymir and do you wish to enable the tutorial mode ?
+
+#ui_gen_toreg
+Kliknutím přejdete na aktuálně vybrané území
+
+#ui_gen_toworld
+Kliknutím přejdete na mapu světa
+
+#ui_gen_tonovis
+You cannot go to this territory because you have no visibility of it.
+
+#ui_gen_score
+Score postavy
+
+#ui_gen_vpts
+Victory points
+
+#ui_gen_vpts2
+You need a total of [x] to win this game.
+
+#ui_gen_regmen
+Territory menu
+
+#ui_bdginf_cons
+construction cost
+
+#ui_bdginf_cost
+materials cost:
+
+#ui_bdginf_empl
+employs
+
+#b_bdginf_hhold
+domácnost
+
+#bc_bdginf_hhold
+Kapacita domácností tohoto obydlí
+
+#bc_bdginf_h
+Zdravotní bonus pro obyvatele tohoto obydlí
+
+#bc_bdginf_lq
+Bonus životní úrovně pro obyvatele tohoto obydlí
+
+#bc_bdginf_eff
+Efektivita vynásobí pracovní sílu každého pracovníka této budovy
+
+#b_bdginf_wealth
+max wealth production
+
+#bc_bdginf_wealth
+The maximum amount of wealth this building can theoretically generate if it's full workforce is in full production
+
+#b_bdginf_scap
+kapacity
+
+#bc_bdginf_scap
+Úložná kapacita v jednotkách zboží(materiálu)
+
+#b_bdginf_stype
+Can stock
+
+#b_bdginf_mcap
+Distribution capacity
+
+#ui_place_form0
+New formation's camp
+
+#ui_place_form1
+Relocating camp
+
+#bc_erase
+Destruction tool
+
+#b_erase_ter
+terén
+
+#b_erase_inf
+infrastructures
+
+#b_erase_bdg
+budovy
+
+#b_erase_ptf
+platformy
+
+#bc_menubdg_destroy
+Znič budovu
+
+#bc_menubdg_destroy2
+(zničit budovu a získej některé z jejích materiálů)
+
+#bc_menubdg_sleep
+Sleep
+
+#bc_menubdg_sleep2
+(building is disabled but still maintained)
+
+#bc_menubdg_aband
+Opusť
+
+#bc_menubdg_aband2
+(building is disabled and decays with time)
+
+#ui_menubdg_sleep1
+Sleep mode
+
+#ui_menubdg_sleep2
+In sleep mode : all functionnalities are stopped until you activate it again. Building does not degrade with time (maintenance).
+
+#ui_menubdg_build1
+Under contruction
+
+#ui_menubdg_build2
+This building is not finished and therefor not fonctionnal yet.
+
+#ui_menubdg_fonct1
+Fungující
+
+#ui_menubdg_fonct2
+Tato budova je plně funkční.
+
+#ui_menubdg_morework1
+Chybí pracovníci
+
+#ui_menubdg_morework2
+Tato budova potřebuje více pracovníků, aby byla plně funkční.
+
+#ui_menubdg_noworker1
+Prázdné
+
+#ui_menubdg_noworker2
+This building needs workers to be fonctionnal.
+
+#ui_menubdg_deficit1
+Nevýnosné
+
+#ui_menubdg_deficit2
+Tato budova je pro své pracovníky v současné době nevýnosná a pracuje se ztrátou. Její efektivita bude značně ovlivněna a Prasata se budou vyhýbat práci zde.
+
+#ui_menubdg_destr1
+Zničeno
+
+#ui_menubdg_destr2
+Tato budova musí být opravena aby byla znovu funkční.
+
+#ui_menubdg_ruin1
+Opuštěno
+
+#ui_menubdg_ruin2
+Opuštěno musí být restaurováno aby byla znovu funkční. Žádná údržba a budova se časem zníčí.
+
+#ui_menubdg_recycl1
+Likvidace
+
+#ui_menubdg_recycl2
+This building is beeing demolished. When the process is complete, it will be completely completely removed and some of it's materials will be recovered.
+
+#ui_menubdg_stckperm
+Stockage permissions :
+
+#ui_menubdg_Usage
+Usage :
+
+#ui_menubdg_perslot
+per slot
+
+#ui_menubdg_upto
+Vylepši na
+
+#ui_menubdg_upgrades
+Vylepšení
+
+#ui_menubdg_winc_1
+Příjem získaný každým pracovníkem
+
+#ui_menubdg_winc_2
+Buidling activity: [x]
+
+#ui_menubdg_winc_3
+State salary: [x]
+
+#ui_menubdg_winc_4
+Subventions: [x]
+
+#bc_menubdg_wake1
+Wake
+
+#bc_menubdg_wake2
+(building becomes active again)
+
+#bc_menubdg_rest1
+Restauruje se
+
+#bc_menubdg_rest2
+(opravuje se a obnovuje se funkčnost budovy)
+
+#ui_upgbdg_upto
+Vylepši na
+
+#ui_upgbdg_rstr
+Restauruj
+
+#ui_menubdg_prod
+VÝROBA
+
+#ui_menubdg_distrib
+OBCHODOVÁNÍ
+
+#ui_menubdg_addan
+přidat tržní stánek
+
+#ui_menubdg_addan2
+(snižuje pracovní sílu)
+
+#ui_menubdg_dtrb1
+This building can create market stands where workers will sell directly their products to the public, but it reduces it's producing workforce.
+
+#ui_menubdg_dtrb2
+This building cannot create maket stands because it cannot produce anything sellable to the public.
+
+#ui_menubdg_anx
+Annexes
+
+#bc_menubdg_expl
+exploited
+
+#bc_menubdg_nsource
+natural sources of
+
+#ui_annex_add
+přidej rozšíření
+
+#ui_annex_txt1
+přídá novou výrobní část
+
+#ui_annex_txt2
+directly distributes production
+
+#bc_annex_dstrb
+(selling [x])
+
+#bc_annex_prod
+Provides additionnal production sources of [x].
+
+#bc_annex_eff
+Provides [x] of additionnal efficiency to the building.
+
+#ui_annex_err1
+no resource available for production by this annex
+
+#ui_annex_err2
+this building doesnt have any production valid for distribution
+
+#bc_menubdg_selp
+select resource to produce
+
+#bc_menubdg_nopran
+This building doesnt have any possible annexes.
+
+#regeco_taxes
+Příjmy z daní
+
+#regeco_taxes_c1
+Celkový příjem ze všech daní na tomto území
+
+#regeco_tax_sal
+Daň z přidanné hodnoty
+
+#regeco_tax_sal_c1
+Taxes all sales made in the territory ( does not include exports )
+
+#regeco_tax_inc
+Daň z příjmu
+
+#regeco_tax_inc_c1
+Taxes all incomes of the population 
+
+#regeco_waste
+Ztráty
+
+#regeco_waste_c1
+Podíl daňových a obchodních příjmů ztracených kvůli plýtvání a korupci na tomto území.
+
+#regeco_waste_c2
+Při ztrátě [x]% v současnosti ztrácíme [y] mincí z daní.
+
+#regeco_wst_admin
+Místní administrativa
+
+#regeco_wst_admin_c1
+Ztráty způsobené slabou nebo negativní administratyvou.
+
+#regeco_wst_stpwr
+Vládní korupce
+
+#regeco_wst_stpwr_c1
+Korupce státních úředníků kvůli slabé nebo negativní státní power.
+
+#regeco_wst_pop
+Populační korupce
+
+#regeco_wst_pop_c1
+Korupce a ztráty z celkové populace v regionu.
+
+#regeco_wst_srvc
+Služby na snižování ztrát
+
+#regeco_wst_srvc_c1
+Waste reduction from active services such as Tax collection.
+
+#regeco_upkeep
+Městské výdaje
+
+#regeco_upkeep_c1
+Some buildings or infrastructures require a maintenance cost to be paid by you (the governement).
+
+#regeco_salaries
+Státní platy
+
+#regeco_salaries_c1
+The total cost of all state salaries paid in the territory.
+
+#regeco_up_bdg
+Udržba za budovy
+
+#regeco_up_bdg_c1
+Celkové náklady na údržbu všech státních budov na tomto území (např. Oficiální a vojenské budovy).
+
+#regeco_up_infr
+Náklady za Infrastructuru
+
+#regeco_up_infr_c1
+Total maintenance cost of all infrastructures in this territory (ex: walls or gardens that cost upkeep).
+
+#regeco_tradebal
+Obchodní zisk
+
+#regeco_tradebal_c1
+Zisk ze všech importovanných a exportovanných zboží a příjmů.
+
+#regeco_ii
+Imported goods local sales
+
+#regeco_ii_c1
+Revenues generated from all imported goods sold in the territory (at their local price).
+
+#regeco_ic
+Imported goods purchasing cost
+
+#regeco_ic_c1
+Total cost paid for all the goods imported via trade routes to this territory (at their trade route price).
+
+#regeco_ei
+Exported goods sales
+
+#regeco_ei_c1
+Revenues of all the goods exported from this territory via trade routes (at their trade route price).
+
+#regeco_ec
+Exported goods purchasing cost
+
+#regeco_ec_c1
+Total cost paid for purchasing the exported goods to their local producers in this territory (at their local price).
+
+#regeco_ers
+State-owned resources sales
+
+#regeco_ers_c1
+State-owned resources sold to population or industries.
+
+#regeco_esr
+State-owned resources purchases
+
+#regeco_esr_c1
+Total paid auto-purchasing resources for the state (you).
+
+#bc_menureg_cur1
+Currency beeing used in this territory:
+
+#bc_menureg_cur2
+Irrelevant currency only used locally in this territory
+
+#b_menureg_coin
+coin value:
+
+#bc_menureg_coin1
+coins circulating for
+
+#bc_menureg_coin2
+Value of 1 coin is approximatively
+
+#b_menureg_gdp
+HDP:
+
+#bc_menureg_gdp1
+Hrubý domácí produkt
+
+#bc_menureg_gdp2
+Celkový příjem mincí z území.
+
+#b_menureg_wlth
+territory wealth:
+
+#bc_menureg_wlth
+Celkový majetek území
+
+#ui_menureg_admin1
+Kapacita
+
+#ui_menureg_admin2
+Stát
+
+#ui_menureg_admin3
+Území
+
+#bc_menureg_totpop
+Celková populace
+
+#bc_menureg_totpop2
+Aktivní obyvatelstvo
+
+#bc_menureg_sprt1
+Toto území v současné době podporuje [x] prasat ve všech svých formacích.
+
+#bc_menureg_sprt2
+It's demographics can support up to [x] porcos. Above that limit, the territory's growth is permanently impacted.
+
+#bc_menureg_lq1
+Průměrná životní úroveň
+
+#bc_menureg_int1
+Průměrná inteligence
+
+#b_menureg_job
+volných pracovních míst
+
+#bc_menureg_job1
+neobsazených pracovních míst na území
+
+#bc_menureg_job2
+celkem pracovních míst
+
+#b_menureg_emp
+nezaměstnanost
+
+#bc_menureg_emp
+Nezaměstnaní z
+
+#b_menureg_hlth
+Zdraví
+
+#bc_menureg_hlth
+Průměrné zdraví obyvatelstva
+
+#b_menureg_totg
+Celkový růst
+
+#bc_menureg_totg
+současné změny celkové populace
+
+#b_menureg_actg
+Aktivní
+
+#bc_menureg_actg
+současná variace aktivní populace
+
+#bc_vneed1
+The population has in average
+
+#bc_vneed2
+of their vital needs satisfied
+
+#bc_vneed3
+without their vital needs satisfied, your population will die
+
+#ui_gen_m
+M
+
+#bc_gen_mainmenu
+otevři main menu
+
+#bc_gen_gameset
+současné nastavení hry
+
+#bc_gen_gov
+Vláda
+
+#bc_gen_coin
+Pokladna
+
+#bc_gen_cult
+Kultura
+
+#bc_gen_fact
+Faction
+
+#bc_gen_ev
+Events
+
+#bc_gen_honor
+Čest
+
+#sc_menubdg_getmax
+get max
+
+#sc_menubdg_get
+get some
+
+#sc_menubdg_empty
+empty some
+
+#sc_menubdg_emptyall
+empty all
+
+#sc_menubdg_destroy
+destroy some
+
+#sc_menubdg_forbid
+zakázat
+
+#sc_menubdg_auth
+povolit
+
+#sc_menubdg_allowv
+dovolit vše
+
+#sc_menubdg_restrict
+omezený
+
+#sc_menubdg_allow
+dovolit
+
+#bc_menubdg_perm
+Select how resources are accepted in this storage building
+
+#b_menubdg_allempty
+empty all
+
+#b_menubdg_alldestr
+destroy all
+
+#bc_menubdg_move
+move
+
+#bc_menubdg_move2
+deconstruct this building and rebuild it elsewhere
+
+#ui_gov_name
+Government of
+
+#ui_gov_actpol
+ACTIVE POLICIES
+
+#ui_gov_coins
+state coins
+
+#ui_gov_ecobalance
+current budget balance
+
+#ui_gov_legit
+current legitimacy of the government
+
+#ui_gov_power
+current state power
+
+#ui_gov_pdgreform
+Máte probíhající reformu, která není použita. Opravdu chcete tuto nabídku zavřít a tuto reformu zrušit (změny zásad nebudou aplikovány)?
+
+#ui_gov_gdp
+HDP
+
+#ui_gov_gdp_c1
+The current Gross Domestic Product of all your territories.
+
+#ui_gov_gdp_c2
+It's calculated by summing up the gross incomes generated in all your territories over 10 production cycles.
+
+#bc_selpolicy
+list of available new policies
+
+#ui_gov_nopol
+no new policies available!
+
+#ui_civ_repl
+replaces '[x]'
+
+#ui_civ_req
+requires '[x]'
+
+#ui_civ_on
+PŘIDAT DO REFORMY
+
+#ui_civ_on_c
+klepnutím přidáte novou zásadu k reformě
+
+#ui_civ_off
+REVOKCE V REFORMĚ
+
+#ui_civ_off_c
+klepnutím přidáte zrušení této zásady v reformě
+
+#ui_civ_cncl
+ZRUŠIT Z REFORMY
+
+#ui_civ_cncl_c
+click to remove this pending modification from your reform
+
+#ui_civ_warn
+(note that you need to apply the reform before these changes actually take effect)
+
+#ui_defaultciv
+default policy
+
+#bc_defaultciv1
+default policies cannot be revoqued or passed manually.
+
+#bc_defaultciv2
+they appear automatically when no other policy is active.
+
+#ui_stateeffect
+STATE EFFECTS
+
+#bc_stateeffect
+pending reform effect
+
+#b_applyreform
+APPLY REFORM
+
+#bc_applyreform
+click to submit your reform and make all your pending changes on policies effective.
+
+#b_reform_cflct
+Reform effect: +[x] conflict in all territories
+
+#b_reform_cflct_c1
+Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] of conflict in all of your territories.
+
+#ui_eco_title
+STÁTNÍ KASA
+
+#ui_eco_balance
+Budget balance
+
+#ui_eco_dscr
+The treasury is the total amount of coins your government owns. Economic policies define how the economy of your society is currently organized.
+
+#ui_eco_notrsr_dscr
+This society currently works without any form of currency and it's people simply share everything in community: the government has no treasury nor incomes or explanses.
+
+#ui_eco_lead
+Leader's personnal wealth
+
+#ui_eco_lead_c1
+The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
+
+#ui_eco_tax
+Taxes incomes
+
+#ui_eco_tax_c1
+Sum of all the tax incomes from all your territories.
+
+#ui_eco_contrib
+Voluntary contributions
+
+#ui_eco_contrib_c1
+In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (20% of their incomes).
+
+#ui_eco_wast
+Waste
+
+#ui_eco_wast_c1
+Tax incomes lost because of Waste in your territories. Waste is a result of low territory administration.
+
+#ui_eco_bdgs
+Buildings upkeep
+
+#ui_eco_bdgs_c1
+Total upkeep of all buildings in all your territories.
+
+#ui_eco_infr
+Infrastructures upkeep
+
+#ui_eco_infr_c1
+Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
+
+#ui_eco_units
+Units upkeep
+
+#ui_eco_units_c1
+Total upkeep of all units in all your formations.
+
+#ui_eco_salar
+Wages
+
+#ui_eco_salar_c1
+Total spent on state wages.
+
+#ui_eco_trt
+Treaties
+
+#ui_eco_trt_c1
+Coins sent or received from other states through your currently active treaties.
+
+#ui_eco_civc
+Civics maintenance
+
+#ui_eco_civc_c1
+Total cost of maintaining all our currently active civics.
+
+#ui_eco_proj
+Current projects
+
+#ui_eco_proj_c1
+Total cost of all the projects currently in progress.
+
+#ui_eco_nat
+Nation
+
+#ui_eco_nat_c1
+Taxes from subordinates: [x]
+
+#ui_eco_nat_c2
+Taxes for your hierarchic superior: [x]
+
+#ui_eco_tradbal
+Trade balance
+
+#ui_eco_tradbal_c1
+The trade balance across all your territories fromm all your current trade routes.
+
+#ui_eco_tradbal_c2
+Trading incomes: [x]
+
+#ui_eco_tradbal_c3
+Trading expenses: [x]
+
+#ui_mres_storvar
+STORAGE VARIATION
+
+#ui_mres_prod
+PRODUCTION
+
+#ui_mres_imp
+IMPORT
+
+#ui_mres_dist
+DISTRIBUTION
+
+#ui_mres_ind
+INDUSTRIES
+
+#ui_mres_exp
+EXPORT
+
+#ui_price_base
+Base price
+
+#ui_price_base_c1
+This is the minimum price possible for this resource, regardless of the other factors.
+
+#ui_price_base1
+Production cost ([x]%)
+
+#ui_price_base1_c1
+The cost of local production for this resource based on the cost of required materials.
+
+#ui_price_base2
+Importation cost ([x]%)
+
+#ui_price_base2_c1
+The cost of importation of this resource from current trade routes.
+
+#ui_price_base3
+Profit margin
+
+#ui_price_base3_c1
+Ensuring minimum profits for the traders and producers of this resource.
+
+#ui_price_work
+Work price:  [x]
+
+#ui_price_work_c1
+Price based on the amount of work required to produce this resource.
+
+#ui_price_work_c2
+Worforce required per resource unit: [x]
+
+#ui_price_mkt
+Market study:  [x]
+
+#ui_price_mkt_c1
+Study of the current markets for this resource to determine its ideal price and ensure maximum profits for its producers and traders.
+
+#ui_price_mkt1
+Public market ([x]%)
+
+#ui_price_mkt1_c1
+The public study is based on the purchasing power of all the population classes consumming this resource and the amount being distributed on the public market. This is the ideal price at which the profits would be optimal for the merchants selling this resource.
+
+#ui_price_mkt2
+Industries market ([x]%)
+
+#ui_price_mkt2_c1
+The industrial study is based on how much revenue is generated by industries using this resource as a material. A share of these revenues will be coveted and that determines the ideal price of this resource for industrial consumption.
+
+#ui_price_mkt3
+Exportations ([x]%)
+
+#ui_price_mkt3_c1
+The average price of exportations and the share of the local market they represent influences the price study proportionnally.
+
+#ui_price_sd
+Supply/demand: [x]%
+
+#ui_price_sd_c1
+The ratio of total supply with total demand influences the price both ways, resulting from the competition between traders or between buyers.
+
+#ui_price_sd_c2
+Supply: [x] units
+
+#ui_price_sd_c3
+Demand: [x] units
+
+#ui_mres_ststk
+State owned
+
+#ui_mres_ststk_c1
+Resources you own directly yourself as the state, as opposed to the rest of it owned privately by your population. New resources start initially owned by their respective producers.
+
+#ui_mres_ststk_c2
+You do not have to buy the resources you already own when using them and you also earn back incomes if used by third parties such as industries or traders.
+ 
+#ui_mres_ststk_c3
+You currently own [x] of the [y] [z] currently stocked in this territory.
+
+#ui_mres_stres
+State resource
+
+#ui_mres_stres_c1
+If declared a State Resource, the whole production of this resource will be automatically purchased by the state as they are produced.
+
+#ui_mres_stres_c2
+A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work.
+ 
+#ui_mres_stmntn
+Maintain ownership
+
+#ui_mres_stmntn_c1
+The amount of resources in stocks to maintain direct ownership of. 
+
+#ui_mres_stmntn_c2
+If below the specified amount, new resources going into storage will be automatically purchased by the state until the required amount is reached.
+ 
+#ui_mres_access
+POPULATION ACCESS
+
+#uic_mres_access
+Population's satisfaction percentage of their need for this resource
+
+#ui_mres_dist_need
+Ideally needed
+
+#uic_mres_dist_need
+Theoric amount needed for a 100% access, regardless of price and affordability by the population
+
+#ui_mres_dist_dem
+Demand
+
+#uic_mres_dist_dem
+Amount actually demanded to merchants by porcos who can afford it at it's current price
+
+#ui_mres_dist_avail
+Supply
+
+#uic_mres_dist_avail
+Amount currently distributed on the market
+
+#ui_mres_dist_sold
+Sold
+
+#uic_mres_dist_sold
+Amount sold to the population
+
+#ui_bdgeff_bdg
+building
+
+#ui_bdgeff_state
+state
+
+#ui_bdgeff_plac
+placement
+
+#ui_bdgeff_profit
+unprofitability ([x]%)
+
+#ui_mres_indaccess
+INDUSTRIES ACCESS
+
+#uic_mres_indaccess
+Industries access to this resource as a material
+
+#ui_mres_indneed
+Demand
+
+#uic_mres_indneed
+Amount of this resource required by industries
+
+#ui_mres_indsold
+Sold
+
+#uic_mres_indsold
+Amount of this resource actually distributed and sold to industries needing it
+
+#ui_mres_prodcost
+Production cost
+
+#uic_mres_prodcost
+Average cost of buying required materials to produce one unit of this resource
+
+#ui_menubdg_merchsup
+supply
+
+#ui_mres_costimp
+cost of imports
+
+#uic_mres_costimp
+The total cost paid (by the state) for the amount being imported through trade routes.
+
+#bc_menubdg_rsell
+select resource to sell with this merchant
+
+#ui_menubdg_hire
+Hire one
+
+#ui_menubdg_fire
+Fire one
+
+#ui_menubdg_wkprio
+Priority of filling jobs in this building.
+
+#storpol
+Storage policy
+
+#storpol_all
+all storages
+
+#storpol_c_all1
+Stocking of this resource is allowed in any available storage. 
+
+#storpol_c_all2
+Will even be stocked directly on ground if there is no available space.
+
+#storpol_restr
+only in restricted
+
+#storpol_c_restr1
+Only valid storages in restricted mode are allowed to stock this resource.
+
+#storpol_c_restr2
+If none is available, the extra resources are destroyed.
+
+#storpol_none
+no stocking
+
+#storpol_c_none1
+The stocking of this resource is disabled.
+
+#storpol_c_none2
+All the extra resources are destroyed.
+
+#stormntn
+Maintain stock
+
+#stormntn_c
+If the current stock is below the desired value, 25% of the production will be reserved and locked in order to increase the stock. 
+
+#stormntn_set
+Set maintaining stock at minimum of [x] [y]. 
+
+#storownr_set
+Set maintaining ownership of minimum [x] [y]. 
+
+#storownr_enab
+[x] is now a State Resource (all production auto-purchased by you). 
+
+#storownr_disab
+[x] no longer is a State Resource (no auto-purchasing of production). 
+
+#regeco_eff
+Effects: affects your government's treasury positively or negatively 
+
+#regeco_1
+The budget balance of your territory is the result of all incomes and expenses specific to this territory such as taxes, salaries and maintenance costs.
+
+#regeco_2
+Budget can also be negatively affected by Waste. It represents incomes lost to tax fraud, bad management, corruption and 'black economy'.
+
+#regadmin_eff
+Effects: increases budget incomes (-waste)
+
+#regadmin_1
+Administration represents your government's management capacity in this territory.
+
+#regadmin_2
+The more population and distance from the capital, the harder it is to manage the territory. But it can also be improved by active policies and services in the territory such as Scribes helping in the territory's administration.
+
+#regconf_eff
+Effects: decreases growth (+murders), decreases loyalty (-authority)
+
+#regconf_1
+Conflict represents the level of random conflicts between the people of the territory.
+
+#regconf_2
+Active government civics and services in the territory such as Justice can help reduce it.
+
+#regloy_eff
+Effects: prevents population rebellion
+
+#regloy_1
+Loyalty represents the global loyalty of the territory's people to you: the central government controlling this territory.
+
+#regloy_2
+It is affected by many factors such as the culture of the people, the level of conflict in the territory, active policies, past events or authority of the government in the territory. If Loyalty gets too low (below 30%), there will be a high risk of global popular uprising that can lead to losing the control of the territory.
+
+#regcltr_eff
+Effects: contributes to your total culture, affects loyalty, increases population's intelligence
+
+#regcltr_1
+Culture represents the total knowledges, customs and behaviors of the people in this territory.
+
+#regcltr_2
+A total culture based on the amount of population can then be shared between different types of cultures. "State culture" represents your culture. "Local culture" represents customs and behaviors specific to this territory and different from your main culture shared among all your people. Other foreign cultures might also be present.
+
+#reggrwth_eff
+Effects: determines the evolution of your population.
+
+#reggrwth_1
+Growth represents the current demographic evolution of your population in this territory. 
+
+#reggrwth_2
+Growth is greatly dependent on the "breeding will" of the people which determines how many couples will have children within the next generation.
+
+#popw_base
+Base wealth
+
+#popw_income
+Porco's income
+
+#popw_priv
+Priviledges
+
+#popneed_sat
+NEEDS SATISFACTION
+
+#popstat_wealth
+WEALTH
+
+#popstat_wealth_c1
+A porco's wealth defines it's purchasing power.
+
+#popstat_wealth_c2
+A porco can fully afford any valuable priced equally or bellow it's wealth level.
+
+#popstat_health
+HEALTH
+
+#popstat_health_c1
+Health determines life span and resistance to deseases.
+
+#popstat_health_c2
+It improves population's growth.
+
+#popstat_lifequal
+LIFE QUALITY
+
+#popstat_lifequal_c1
+The quality of life is a score measuring how good and comfortable the porco's life is.
+
+#popstat_lifequal_c2
+It affects many other things such as intelligence, happyness or growth.
+
+#popstat_intel
+INTELLIGENCE
+
+#popstat_intel_c1
+Intelligence is one's ability to create algorythms measuring probabilities of Truth.
+
+#popstat_intel_c2
+Intelligent porcos will generate more ideas and culture, but tend to be unhappier and harder to control.
+
+#popneed_qual
+satisfaction quality
+
+#popneed_access
+access
+
+#popneed_food
+foods
+
+#popneed_water
+water
+
+#popneed_furnish
+furnishings
+
+#popneed_cloth
+clothing
+
+#popneed_alco
+alcohols
+
+#popneed_entert
+entertainments
+
+#popneed_lux
+luxury
+
+#popneed_pfood
+pleasure foods
+
+#popneed_social
+social
+
+#popneed_2
+secondary needs
+
+#popneed_3
+tertiary needs
+
+#popneed_4
+quaternary needs
+
+#popneed_unsat
+(-[x]% for unsatisfied needs of higher priority)
+
+#popneed_lq
+life quality bonus: +[x]
+
+#loadgame_select
+Select a local saved game to load
+
+#loadgame_localsav
+( Local saves are located in \AppData\Local\Ymir\saves )
+
+#loadgame_nofnd
+No games found!
+
+#loadgame_none1
+It seems there is no existing games to load!
+
+#loadgame_none2
+You need to create a new game.
+
+#loadgame_crtnew
+CREATE NEW GAME
+
+#loadgame_rename
+rename
+
+#loadgame_copy
+copy
+
+#loadgame_del
+delete
+
+#loadgame_renaming
+Rename game
+
+#loadgame_copying
+Copy name
+
+#loadgame_deleting
+Are you sure you want to delete this saved game ?
+
+#joingame_serv
+Server IP
+
+#joingame_port
+Server port
+
+#popstat_wbase
+base wealth
+
+#popstat_wbase_c
+every porco naturally makes wealth on it's own
+
+#popstat_winc
+coins of income
+
+#popstat_winc_c1
+earning [x] coins out of [y] in total
+
+#popstat_winc_c2
+awards [x]% of [y] territory wealth
+
+#popstat_wpriv
+privileges
+
+#popstat_wpriv_c
+wealth given directly as privileges by social policies
+
+#legit_dscr
+Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
+
+#legit_tot
+Total legitimacy
+
+#legit_honor
+Honor
+
+#legit_honor_c
+Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
+
+#legit_protect
+Military strenght
+
+#legit_protect_c
+Our military strenght is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
+
+#legit_wealth
+Leader superiority
+
+#legit_wealth_c
+Our leader superiority is currently of [x]. It's increased by the wealth of the leader's population class.
+
+#legit_relig
+People religiosity
+
+#legit_relig_c
+[not implemented yet]
+
+#legit_parl
+Parliament power
+
+#legit_parl_c
+[not implemented yet]
+
+#legit_senat
+Senate power
+
+#legit_senat_c
+[not implemented yet]
+
+#legit_approv
+People approval
+
+#legit_approv_c
+[not implemented yet]
+
+#legit_minist
+Ministry power
+
+#legit_minist_c
+[not implemented yet]
+
+#legit_inf_pos
+The [x] factor currently has a positive influence over our Legitimacy. ([y])
+
+#legit_inf_neg
+The [x] factor currently has a negative influence over our Legitimacy. ([y])
+
+#legit_inf_neut
+The [x] factor currently has no influence over our legitimacy.
+
+#statepow_dscr
+State power is the capacity of your state to manage things. Power policies define how the political power is organized in the state, generating State power and affecting different types of legitimacies. State power increases the loyalty of territories.
+
+#statepow_tot
+Total state power
+
+#statepow_civ
+Power policies
+
+#statepow_civ_c1
+The total State power generated by the currently active Power policies.
+
+#statepow_upk
+Policies maintenance
+
+#statepow_upk_c1
+The total State power consumed by all the currently active policies.
+
+#statepow_nbcit
+Number of regions
+
+#statepow_nbcit_c1
+We currently control [x] extra regions. Every region besides the capital costs State power. 
+
+#statepow_debt
+Debt
+
+#statepow_debt_c1
+Debt reduces State power and we currentlly have a debt of [x] coins.
+
+#statepow_hon
+Dishonor
+
+#statepow_hon_c1
+Noone wants to serve a dishonorable leader! Negative honor reduces State Power (current honor : [x] ).
+
+#statepow_tmain
+Treaties maintenance
+
+#statepow_tmain_c1
+All active treaties cost a certain amount of State Power to be maintained, depending on the nature of our terms in the treaties.
+
+#statepow_powtr
+State Power transfers
+
+#statepow_powtr_c1
+State Power beeing transfered to or from other governments due to current active treaties.
+
+#statepow_civmnt
+Civics maintenance
+
+#statepow_civmnt_c1
+The power cost to maintain all the currently active civics.
+
+#statepow_nation
+Nation
+
+#statepow_nation_c1
+State power transfered from subordinates: [x]
+
+#statepow_nation_c2
+State power transfered to superior: [x]
+
+#statepow_nation_c3
+Number of direct subordinates: [x]
+
+#statepow_nation_c4
+Distance of direct subordinates: [x]
+
+#statepow_nation_c5
+Number of total subordinates: [x]
+
+#statepow_forms
+Maintenance of formations
+
+#statepow_forms_c1
+Each formation you own can cost some State Power to maintain.
+
+#conf_c1
+The current effective conflict of the territory
+
+#conf_var_c1
+The current conflict variation of the territory
+
+#conf_gpop
+Population
+
+#conf_gstate
+Policies
+
+#conf_gserv
+Services
+
+#conf_pop
+Base conflict
+
+#conf_pop_c1
+The total population in the territory will naturally generate conflict, used as a base for other factors.
+
+#conf_state
+Policies ([x]%)
+
+#conf_state_c1
+Current government policies can effect the base conflict from population.
+
+#conf_serv
+Services ([x]%)
+
+#conf_serv_c1
+Services in the territory like Justice can reduce the final conflict level, depending on how well population has access to them.
+
+#loyal_c1
+The current effective loyalty of the territory
+
+#loyal_var_c1
+The current loyalty variation of the territory
+
+#loyal_pop
+population
+
+#loyal_pop_c1
+How population factors affect the loyalty of the territory.
+
+#loyal_cult
+from cultural balance
+
+#loyal_cult_c1
+The balance between state and local cultures can affect positively or negatively the loyalty of the territory.
+
+#loyal_state
+state
+
+#loyal_state_c1
+How global state factors affect the loyalty of the territory.
+
+#loyal_legit
+from state legitimacy
+
+#loyal_legit_c1
+State legitimacy affects the loyalty of all territories.
+
+#loyal_statepow
+from state power
+
+#loyal_statepow_c1
+State power affects the loyalty of all territories.
+
+#loyal_hightax
+high taxes
+
+#loyal_hightax_c1
+When the sum of all state taxes exceed 50%, it starts to upset people and reduces their loyalty to the state.
+
+#loyal_prvldg
+priviledges
+
+#loyal_prvldg_c1
+Priviledges upset the people and reduce their loyalty to the state.
+
+#loyal_autho
+authority
+
+#loyal_autho_c1
+How the different factors of authority affect the loyalty of the territory.
+
+#loyal_statearmy
+state troops
+
+#loyal_statearmy_c1
+The presence of state troops increases the state's authority in the territory.
+
+#loyal_guard
+guards
+
+#loyal_guard_c1
+The total produced guarding service increases the authority of the state.
+
+#loyal_garrison
+local garrison
+
+#loyal_garrison_c1
+Providing military equipment to the citizens of the territory to defend themselves also makes them more confident to defy the state's authority.
+
+#loyal_poppow
+amount of population
+
+#loyal_poppow_c1
+The more population there is, the less authority. The total amount of population reduces the territory's loyalty.
+
+#loyal_conf
+conflict
+
+#loyal_conf_c1
+Territory conflict reduces the authority of your government in this territory as it creates instability.
+
+#loyal_events
+events
+
+#loyal_events_c1
+Some events can affect temporarly the loyalty of the territory.
+
+#loyal_revolts
+recent revolts
+
+#loyal_revolts_c1
+Recent unrest and revolts temporarly increase loyalty of the territory
+
+#loyal_stateev
+recent state events
+
+#loyal_stateev_c1
+Recent state events temporarly affecting the loyalty of the territory
+
+#loyal_resist
+resistance!
+
+#loyal_resist_c1
+Loyalists to the previous owner of this territory ([x])
+
+#loyal_lvl0
+critically disloyal! very high risk of rebellion
+
+#loyal_lvl1
+low loyalty: there is a risk of rebellion
+
+#loyal_lvl2
+questionnable loyaty: there is a moderate risk of unrest
+
+#loyal_lvl3
+good loyalty: this territory is stable
+
+#loyal_lvl4
+devoted: this territory's loyalty to the state is unquestionnable
+
+#admin_capacit
+production
+
+#admin_capacit_c1
+Total administration available in this territory.
+
+#admin_streg
+territorynal policies
+
+#admin_streg_c1
+Administration generated from active power policies affecting all territories.
+
+#admin_stcity
+city policies
+
+#admin_stcity_c1
+Administration generated from active power policies affecting cities.
+
+#admin_stcap
+capital policies
+
+#admin_stcap_c1
+Administration generated from active power policies affecting the capital.
+
+#admin_scrib
+scribes
+
+#admin_scrib_c1
+Extra administration produced by Scribes.
+
+#admin_reg
+local
+
+#admin_reg_c1
+Local factors affecting administration.
+
+#admin_pop
+population management
+
+#admin_pop_c1
+Administration cost from the total population of this territory.
+
+#admin_bdg
+buildings management
+
+#admin_bdg_c1
+Total cost of buildings requiring administration in this territory.
+
+#admin_glob
+global
+
+#admin_glob_c1
+Global factors affecting this territory's administration.
+
+#admin_nbcit
+number of regions
+
+#admin_nbcit_c1
+-[x]% of administration per non-capital region
+
+#admin_nbcit_c2
+number of extra regions under your control: [x]
+
+#admin_dist
+distance from capital
+
+#admin_dist_c1
+-[x]% of administration per distance to the capital in territories
+
+#admin_dist_c2
+distance from capital: [x]
+
+#admin_claim
+Regional claims
+
+#admin_claim_c1
+The management cost of all the territorial claims made by this region.
+
+#admin_claim_c2
+number of claims: [x]
+
+#admin_ter
+Regional territories
+
+#admin_ter_c1
+The management cost of all the additionnal territories belonging to this region.
+
+#admin_ter_c2
+number of annexed territories: [x]
+
+#cultr_state
+state culture
+
+#cultr_local
+local culture
+
+#cultr_pop
+culture from population
+
+#cultr_srv
+culture from services
+
+#eco_balance
+Balance
+
+#growth_males
+Porcos variation
+
+#growth_sows
+Sows variation
+
+#growth_piglets
+Piglets variation
+
+#growth_oldpigs
+Oldpigs variation
+
+#growth_mnew
+male piglets reaching adulthood
+
+#growth_msick
+sickness
+
+#growth_mmurder
+murders
+
+#growth_mage
+aging porcos becoming oldpigs
+
+#growth_munitsup
+aging in formations: [x] porcos in supported units (free support for [y])
+
+#growth_snew
+female piglets reaching adulthood
+
+#growth_ssick
+sickness
+
+#growth_smurder
+murders
+
+#growth_sage
+aging sows becoming oldpigs
+
+#growth_pnew
+births
+
+#growth_psick
+sickness
+
+#growth_pmurder
+murders
+
+#growth_page
+reaching adulthood
+
+#growth_onew
+aging population becoming oldpigs
+
+#growth_osick
+sickness
+
+#growth_omurder
+murders
+
+#growth_odeath
+natural deaths
+
+#breed_chance
+breeding rate
+
+#breed_chance_dscr
+The predicetd percentage of sows that will have piglets during the next generation.
+
+#breed_chance_c
+[x] sows will breed during the next generation
+
+#breed_base
+basic breeding rate
+
+#breed_intel
+intelligence influence
+
+#breed_totpop
+total population effect
+
+#breed_piglets
+piglets per sow influence
+
+#breed_smcity
+small city boost
+
+#breed_vit
+missing vital needs influence
+
+#breed_fertil
+fertility
+
+#breed_fertil_c
+the average number of piglets per litter
+
+#growth_genlen
+generation lenght
+
+#growth_genlen_c1
+The amount of time a generation of Porcos lasts. 
+
+#growth_genlen_c2
+Porcos live up to 5 generations: one as a piglet, 3 as adults and 1 as oldpigs. That makes their total lifespan last up to [x].
+
+#growth_pergen
+next generation prediction
+
+#growth_pergen_c
+predicted variation of the total population for the next generation
+
+#growth_c
+current variation rate of the total population
+
+#ui_growthdel
+Estimated for the next generation...
+
+#troop_recruit
+recruit a new troop
+
+#b_dplmode
+Strategic tool
+
+#bc_dplmode
+Go to deployment mode, where you can manage the deployment positions and orders of all your troops.
+
+#forminv_add
+add resources
+
+#ui_recruit_resist
+You cannot recruit new units in a territory with resistance.
+
+#ui_recruit_immo
+You cannot modify troops while this formation is immobilized.
+
+#ui_recruit_nothm
+You cannot recruit new units outside this formation's home territory ([x]).
+
+#ui_recruit_cant
+You cannot recruit or disband troops in territories you do not control.
+
+#ui_recruit_noup
+( militias upkeep is lower as it doesnt include a soldier's salary )
+
+#ui_recruit_nopop
+( no population mobilized because it's a local militia )
+
+#ui_recruit_cost_1
+Cost to recruit one unit.
+
+#ui_recruit_cost_2
+Includes a training cost plus the price of its equipment.
+
+#ui_recruit_cost_3
+- Cost of training: [x]
+
+#ui_recruit_cost_4
+- Cost of equipment: [x]
+
+#ui_recruit_totcost
+Total recruitment cost
+
+#ui_recruit_nopay
+You do not have enough funds to recruit these new units!
+
+#ui_recruit_max_pop
+More population needed!
+
+#ui_recruit_max_ts
+Maximum size of this troop is [x] units.
+
+#ui_recruit_max_res
+[x] needed!
+
+#ui_recruit_cost
+Cost per unit
+
+#ui_recruit_civ
+civilian units
+
+#ui_recruit_inf
+melee units
+
+#ui_recruit_arc
+range units
+
+#ui_recruit_cav
+mounted units
+
+#ui_recruit_full
+This formation is full!
+
+#ui_recruit_totpop
+Total population available for this unit in the territory: [x] 
+
+#ui_recruit_inact
+Currently inactives: [x]
+
+#ui_recruit_rcrt
+Recruit
+
+#ui_recruit_dsbd
+Disband
+
+#ui_recruit_trsfr
+Transfer
+
+#ui_recruit_AP
+This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
+
+#ui_statunit_t
+Toughness
+
+#ui_statunit_t_dscr
+Toughness if the capacity of the unit to withstand damage when hit, determining it's chances to be actually wounded.
+
+#ui_statunit_a
+Armor
+
+#ui_statunit_a_dscr
+Armor gives chances to deflect enemy hits.
+
+#ui_statunit_m
+Movement
+
+#ui_statunit_m_dscr
+The movement speed of the unit. Also affects the movement speed of the formation in the worldmap (slowest unit defines worldmap speed).
+
+#ui_statunit_mass
+Mass
+
+#ui_statunit_mass_dscr
+The mass of the unit combined with it's speed gives a damage bonus when charging.
+
+#ui_statunit_ms
+Melee skill
+
+#ui_statunit_ms_dscr
+In melee, the ability to hit enemies and dodge their attacks depends on the difference of melee skill between the 2 opponents.
+
+#ui_statunit_md
+Melee damage
+
+#ui_statunit_md_dscr
+Amount of damage inflicted to the enemy when hit.
+
+#ui_statunit_rch
+Reach
+
+#ui_statunit_rch_dscr
+In melee, a higher reach than the opponent's gives a bonus to hit. Reach also gives a bonus to hit in melee against units of higher mass. 
+
+#ui_statunit_rs
+Ranged skill
+
+#ui_statunit_rs_dscr
+The ability to hit enemies in ranged combat.
+
+#ui_statunit_rd
+Range damage
+
+#ui_statunit_rd_dscr
+Amount of damage inflicted to the enemy when hit.
+
+#ui_statunit_rg
+Range
+
+#ui_statunit_rg_dscr
+For range units, the maximum distance (in terrain tiles) at which they can engage ennemies.
+
+#ui_statunit_p
+Pillage
+
+#ui_statunit_p_dscr
+The pillage ability of the unit. Improves the speed and efficiency of pillaging ennemy buildings.
+
+#ui_statunit_c
+Carrying capacity
+
+#ui_statunit_c_dscr
+The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units' carrying capacity.
+
+#ui_troop_reinforce
+Reinforce
+
+#ui_troop_disband
+Disband
+
+#ui_troop_transfer
+Transfer
+
+#ui_trptrans_c
+Choose a destination troop
+
+#ui_formtrans_c
+Choose a destination formation
+
+#ui_formtrans_samform
+same formation
+
+#ui_formtrans_newtr
+new troop
+
+#ui_formtrans_unavail
+[unavailable]
+
+#ui_foinv_cant
+You can't take resources from a territory you do not control!
+
+#ui_foinv_empreg
+You can't load resources from an empty territory!
+
+#ui_foinv_load
+Loading resources into formation's inventory
+
+#ui_foinv_unload
+Unloading resources from formation's inventory
+
+#ui_foinv_destr
+Destroy resrouces from formation's inventory
+
+#ui_foinv_choose
+Choose resource
+
+#ui_foinv_cost_c1
+Cost of purchasing these resources.
+
+#ui_foinv_cost_c2
+To load resources into a formation, the state has to take ownership of them and purchase them at their local price from their owners (except for already state-owned stocks).
+
+#ui_foinv_cost_c3
+State-owned stocks: [x]
+
+#ui_foinv_cost_c4
+Purchasing [x] resources at local price of [y] coins.
+
+#ui_foinv_loadfrm
+Where to load ressources from
+
+#ui_foinv_unlodto
+Where to unload ressources
+
+#ui_foinv_target
+Territory's storages
+
+#ui_reg_build_tertool
+terrain tools
+
+#ui_reg_build_tertool_c
+modify terrain heights
+
+#ui_tertool
+TERRAIN HEIGHT TOOL
+
+#ui_tertool_1
+Increase height: ctrl + mouse wheel up
+
+#ui_tertool_2
+Decrease height: ctrl + mouse wheel down
+
+#ui_tertool_3
+Cancel and close : right-click
+
+#ui_tertool_4
+Confirm work and close: space bar
+
+#ui_tertool_add
+Adding
+
+#ui_tertool_dig
+Digging
+
+#ui_tertool_bal
+Imbalance
+
+#ui_tertool_cost
+predicted cost in tools to complete this task
+
+#ui_tertool_penal
+Imbalance cost penalty
+
+#ui_tertool_dscr
+This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and will be worked over time to match this preview, also consuming tool resources in the process.
+
+#ui_tertool_warn1
+This tile lacks support to reach this height!
+
+#ui_tertool_warn2
+Some tiles lack support to reach the desired height!
+
+#ui_reg_build_plat
+Platforms
+
+#ui_reg_build_plat_c
+build platforms
+
+#ui_plattool
+PLATFORM TOOL
+
+#ui_plattool_1
+Set platform height: ctrl + mouse wheel
+
+#ui_plattool_2
+Bridge mode: hold shift
+
+#ui_plattool_3
+Cancel and close : right-click
+
+#ui_plattool_4
+Confirm work and close: space bar
+
+#ui_plattool_cost
+predicted cost to build these platforms
+
+#ui_plattool_dscr
+This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and platforms will be built over time to match this preview, also consuming resources in the process.
+
+#ui_builderr_ter
+You cannot place this [x] here.
+
+#ui_builderr_res
+You're missing [x] of [y] to build this [z].
+
+#ui_builderr_coin
+You do not have enough coins to build this [x].
+
+#ui_builderr_ptf
+This building can only be placed on platforms.
+
+#ui_builderr_onres
+This building can only be placed over a resource it can exploit.
+
+#ui_builderr_shore
+Needs to be placed on a shore of a minimum depth of [x].
+
+#ui_builderr_dist
+This building need to be at least [x] tiles away of any other building of the same type.
+
+#ui_builderr_stairs
+Stairs can only be placed next to a tile of higher elevation.
+
+#ui_builderr_gate
+Gates can only be placed next to a high enough bridge-type platform.
+
+#ui_builderr_water
+This building cannot be placed on water.
+
+#ui_builderr_mustw
+This building must be placed on water of at least [x] of depth.
+
+#ui_builderr_adjcnt
+Must be placed adjascent to it's owner.
+
+#ui_builderr_bldrs
+This building requires professional construction and you do not have any builders.
+
+#ui_builderr_inaxss
+You cannot place this here because this area is currently inaccessible!
+
+#ui_builderr_noprd
+There is nothing to exploitable by this building here.
+
+#ui_builderr_maxan
+This building cannot have more than [x] [y].
+
+#ui_dpltool_needreg
+You need to be in the territory view to customize troop deployments!
+
+#ui_dpltool
+STRATEGIC TOOL
+
+#ui_dpltool_dscr
+Design the defensive strategy of your formations in this territory, in case of battle.
+
+#ui_dpltool_formtog
+(click to toggle deployment of this formation)
+
+#ui_dpltool_done
+DONE
+
+#ui_dpltool_addz
+Add a new defensive zone
+
+#ui_dpltool_matt
+Pitch battle
+
+#ui_dpltool_matt_dscr
+The troop will redeploy to face any incoming threat and engage immediately in a pitch battle manner. The current deployment position of the troop has therefore no importance in this mode.
+
+#ui_dpltool_mdef
+Restricted engagement
+
+#ui_dpltool_mdef_dscr
+The troop will engage any ennemy entering within the specified range from it's original deployment position. The troop will move in any way necessary to do so.
+
+#ui_dpltool_mzon
+Defensive zone
+
+#ui_dpltool_mzon_dscr
+The troop remains in the selected defensive zone and prevents ennemies from entering it. The troop will move within the zone to face any incoming ennemy. Range units will engage any ennemy in range from the edge of the zone.
+
+#ui_dpltool_mstand
+Stand ground
+
+#ui_dpltool_mstand_dscr
+The troop will keep this position no matter what and only engage if there's immediate contact. If it's a range unit, it will fire any available target from this position.
+
+#ui_dpltool_mult
+Multiple
+
+#ui_dpltool_mult_dscr
+The selected troops are currently in different modes. Select one to apply the same mode to all the selected troops.
+
+#ui_dpltool_multsel
+multiple selection ([x] troops)
+
+#ui_dpltool_curmode
+set strategy of the selected troops
+
+#ui_dpltool_needdefz
+You need to place at least one defensive zone before you can assign troops to it.
+
+#ui_dpltool_maxdefz
+You've reached the maximum number of defensive zones.
+
+#ui_dpltool_delzon
+Delete this zone
+
+#bc_menuform_disb
+Disband formation
+
+#bc_menuform_movc
+Move camp position
+
+#bc_menuform_disb_1
+Are you sure you want to disband this formation ?
+
+#bc_menuform_disb_2
+If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
+
+#bc_menuform_disb_3
+You cannot disband in territories you do not control!
+
+#menuform_pwr
+This formation type costs [x] State Power to maintain.
+
+#menuform_disb_err1
+You cannot disband this formation here!
+
+#ui_wregown_smes
+send message
+
+#ui_wregown_war
+declare war
+
+#ui_confwar_title
+DECLARING WAR
+
+#ui_confwar
+Are you sure you want to declar war ?
+
+#contact_sending
+Sending message to [x] of [y]...
+
+#contact_messto
+Messaging [x] of [y]
+
+#contact_pptreat
+Propose treaty
+
+#contact_pptreat_c
+Joins a treaty proposition to this message
+
+#contact_messfrom
+Message from [x]
+
+#contact_greet
+Greetings,
+
+#contact_renegoc
+Greetings, I wish to renegociate the terms of our current treaty and here is my offer.
+
+#contact_reply
+Reply to message
+
+#treated_off
+Available offers:
+
+#treated_dem
+Available demands:
+
+#treated_dur
+treaty duration
+
+#treated_dur_c1
+after this duration, the treaty will end
+
+#treated_dur_c2
+(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
+
+#treated_new
+NEW TREATY
+
+#treated_pers
+Remains effective even after treaty's duration but it can then be cancelled without breaking closes
+
+#treated_inst
+Applied once, at the treaty's signature
+
+#treaterm_coins
+Coins
+
+#treaterm_noidea
+No knowledges to share!
+
+#treaterm_noreg
+No territories valid to transfer!
+
+#b_endtreaty
+Break treaty!
+
+#b_endtreaty_c1
+The treaty will instantly be terminated. Breaking closes on your side will apply.
+
+#b_endagreed
+Ask termination
+
+#b_endagreed_c1
+Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
+
+#b_renegoc
+Renegociate
+
+#b_renegoc_c1
+Send a renegociation proposal. If agreed by the other party, the current treaty will be updated.
+
+#ui_treat_termsent
+Request to agree to terminate this treaty sent to the other party!
+
+#ui_treat_eng1
+You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
+
+#ui_treat_eng2
+This will not trigger war with [x].
+
+#ui_treat_eng3
+This will trigger war with [x].
+
+#ui_treat_end
+You are not engaged by this treaty and can choose to end it without penalty. All it's terms will cease to apply for both members. Are you sure you want to proceed ?
+
+#menuevt_title
+EVENTS
+
+#menuevt_trpow
+% of state power transfered
+
+#menuevt_tax
+% of coins income transfered
+
+#menuevt_invalid
+invalid input!
+
+#menuevt_empty
+No events to display
+
+#menuevt_new
+New events
+
+#menuevt_all
+All events
+
+#menuevt_dipl
+Diplomatic
+
+#menuevt_mil
+Military
+
+#menuevt_state
+State
+
+#menuevt_nation
+Nation
+
+#menuevt_miss
+Missions
+
+#menuevt_ideas
+Ideas
+
+#menuevt_trade
+Trading
+
+#menuevt_objv
+Objectives
+
+#menuevt_rewd
+Rewards
+
+#menuevt_prgrs
+current
+
+#menuevt_comp
+completed!
+
+#menuevt_incomp
+incomplete
+
+#menuevt_trt_no
+Refuse treaty
+
+#menuevt_trt_reneg
+Propose a counter-offer
+
+#menuevt_trt_yes
+Agree to treaty
+
+#ui_evt_goto
+GO TO REGION
+
+#ui_form_nb
+Number of units in this formation.
+
+#ui_form_threat
+Military strenght of this formation.
+
+#ui_form_threat
+Military strenght of this formation.
+
+#ui_form_AP_c1
+Action Points: [x]/100   ([y] [z])
+
+#ui_form_AP_c2
+Required to perform actions such as movements or attacks, these points are regained over time by encamping or by returning to their home region. Below 50 the formation is forced to encamp and cannot perform new actions.
+
+#ui_form_AP_d1
+- Recovery[y]: [x]
+
+#ui_form_AP_enc
+encamped
+
+#ui_form_AP_hom
+at home
+
+#ui_form_AP_cit
+in city
+
+#ui_form_AP_d2
+- Territory[y]: [x]
+
+#ui_form_AP_enm
+enemy
+
+#ui_form_AP_d3
+- Home distance ([y]%): [x]
+
+#ui_form_movcost
+Basic Action Points cost for moving one territory tile for this formation. This base cost is then combined with other contextual factors to determine the final cost of a movement. 
+
+#ui_form_movcost_d1
+- Base cost: [x]
+
+#ui_form_movcost_d2
+- Units movement speed: [x]
+
+#ui_form_movcost_d3
+- Mounted units only ([y]%): [x]
+
+#ui_form_movcost_d4
+- Army size ([y]%): [x]
+
+#ui_tile_movcost
+The movement cost of this territory is used to determine the Action Points cost of units moving through it.
+
+#ui_tile_movcost_d1
+- Terrain cost[y]: [x]
+
+#ui_tile_movcost_d2
+- Diplomatic stance [y]: [x]
+
+#ui_tile_movcost_ntr
+netural
+
+#ui_tile_movcost_own
+own territory
+
+#ui_tile_movcost_frd
+friendly territory
+
+#ui_tile_movcost_enm
+enemy territory
+
+#ui_tile_movcost_set
+is settled
+
+#ui_form_mltreq
+Requires [x] Porcos in the territory.
+
+#ui_form_mltmiss
+Not enough population to fully pig-up this militia!
+
+#ui_form_diplo_p1
+This formation is peaceful towards us. 
+
+#ui_form_diplo_p2
+We can safely camp or pass through their territory.
+
+#ui_form_diplo_h1
+This formation is hostile towards us! 
+
+#ui_form_diplo_h2
+If this formation meets any of our units in a same territory or if we try to pass through their current location, it will trigger a battle.
+
+#ui_form_sprt
+home
+
+#ui_form_sprt_c1
+The home city supporting these units: Porcos grow old and need to be replaced by new ones coming from the home city.
+
+#ui_form_sprt_c2
+This formation currently requires [x] porcos per generation from it's home to be maintained.
+
+#ui_form_sethome
+Set current territory as home
+
+#ui_form_invhom_1
+You cannot set empty territories as a home: it needs to be a territory you own.
+
+#ui_form_invhom_2
+You cannot set foreign territories as a home: it needs to be a territory you own.
+
+#ui_form_upkp
+Upkeep of this formation
+
+#ui_form_upkp1
+(equipment + soldier's salary)
+
+#ui_form_upkp2
+(lower upkeep for militias: equiment only)
+
+#ui_conf_sure
+Jseš si jist?
+
+#ui_conf_renonce
+WARNING: You will no longer control this territory: left on it's own, this territory will fall into anarchy.
+
+#ui_conf_abandon
+The territory will be cleared. All it's population will be transfered in one of more formations, taking all the resources they can carry with them.
+
+#ui_conf_capital
+Do you really want to set this territory as your new capital ? 
+
+#b_renonce
+Renounce control of this territory
+
+#err_reg_rnnc1
+This territory cannot be renounced while there is a battle taking place in it.
+
+#err_reg_rnnc2
+This territory cannot be renounced while it has an active resistance movement.
+
+#b_abandon
+Evakuace území
+
+#err_reg_abdn1
+This territory cannot be evacutated while there is a battle taking place in it.
+
+#err_reg_abdn2
+This territory cannot be evacutated because it's loyalty is too low.
+
+#err_reg_abdn3
+This territory cannot be evacutated while it has an active resistance movement.
+
+#b_regclaim
+Claim territory
+
+#b_regunclaim_1
+Unclaim territory
+
+#b_regunclaim_2
+WARNING: You will lose 2 of Honor!
+
+#regclaim_title
+Claiming territory...
+
+#regclaim_txt
+You can claim this territory and attach it to one of your territories. This will cost Administration from the territory's main city.
+
+#regclaim_par
+Parent territory
+
+#regclaim_err1
+You cannot claim this territory because its currently occupied by foreign units!
+
+#regclaim_err2
+Insufficient Administration! You cannot claim any new territories with this region.
+
+#regclaim_err3
+Colonies cannot claim new territories!
+
+#regclaim_acst
+Administration cost
+
+#regclaim_acst_c1
+Maintaining this claim will cost [x] of Administration from the parent territory.
+
+#b_movcapit
+Set this territory as capital
+
+#b_actv_trt_perm
+permanent engagement
+
+#b_actv_trt_engov
+engagement over
+
+#b_actv_trt_eng
+engaged for
+
+#b_actv_trt_m1
+Ty
+
+#b_actv_trt_m2
+Other
+
+#b_actv_trt_cancel
+cancel treaty
+
+#ui_wrldmov_er1
+This formation is already in the territory.
+
+#ui_wrldmov_er2
+Nemůžš se sem přemístit.
+
+#ui_wrldmov_er3
+This formation is currently immmobilized and cannot move!
+
+#ui_wrldmov_er4
+You cannot move here because you have no right of passage with the owner of this territory!
+
+#ui_wrldmov_er5
+This formation cannot break camp until it has at least 50 Action Points.
+
+#formimob_er1
+You cannot give any orders to this formation because its currently immobilized!
+
+#ui_bdg_nbprod
+Number of workers that are assigned to production.
+
+#ui_bdg_nbdstb
+Number of workers assigned to selling the produced goods of this building.
+
+#ui_bdg_nbrsrch
+Number of workers busy with current research projects.
+
+#ui_bdg_nbrsrch2
+[x] [y] out of [z] in this territory are currently assigned to research projects.
+
+#ui_bdg_ef_dscr
+Current efficiency of workers, affecting the total workforce of the building.
+
+#ui_bdg_wf_dscr
+Total amount of work that this building can currently get done.
+
+#ui_bdg_wf_dscr2
+[x] producing workers * [y] efficiency = [z] of total workforce
+
+#ui_bdg_wl_dscr
+How much this building contributes to the total territory's wealth.
+
+#ui_bdg_wl_dscr2
+[x] of producing workforce * [y] = [z] of additionnal wealth
+
+#ui_bdg_wu_dscr
+How much of the available workforce is currently being used and busy producing.
+
+#ui_bdg_wu_dscr2
+If below 100%, it means the workers are not working at their full capacity.
+
+#ui_bdg_ef1_dscr
+The base efficiency of the building itself.
+
+#ui_bdg_ef1_dscr2
+Can be increased by upgrading the building, unlocked by technologies.
+
+#ui_bdg_ef2_dscr
+Total effect of the state on this building's efficiency.
+
+#ui_bdg_ef2_dscr2
+Many state policies affect the efficiency of buildings.
+
+#ui_bdg_ef3_dscr
+The building's placement effect on it's efficiency.
+
+#ui_bdg_ef3_dscr2
+Road connection and proximity of certain other buildings can affect it's efficieny [not implemented yet].
+
+#ui_bdg_ef4_dscr
+If unprofitable for its workers, efficiency of the building is progressively reduced.
+
+#ui_bdg_proddet
+PRODUCTION DETAILS
+
+#ui_bdg_pdet_1
+sold directly
+
+#ui_bdg_pdet_1_c
+[x]% of the production is put on the market directly by the workers of this building.
+
+#ui_bdg_pdet_s
+[x]% of it ([y]) is successfuly sold at a price of [z] per unit (unsold stocks are lost).
+
+#ui_bdg_pdet_2
+sold via traders
+
+#ui_bdg_pdet_2_c
+[x]% of the production is put on the market via traders who keep a share of the benefits.
+
+#ui_bdg_pdet_3
+sold to producers
+
+#ui_bdg_pdet_3_c
+[x]% of the production is sold to other industries or services.
+
+#ui_bdg_pdet_4
+exported
+
+#ui_bdg_pdet_4_c
+[x]% of the production is exported to foreign markets
+
+#ui_bdg_pdet_5
+státní prodeje
+
+#ui_bdg_pdet_5_c1
+Incomes from sales to the state (you) are buffered and slowly transfered back to the workers, generating income for a longer time.
+
+#ui_bdg_pdet_5_c2
+From auto-purchases: [x] coins ([y] resources).
+
+#ui_bdg_pdet_5_c3
+From past purchases: [x] coins.
+
+#ui_bdg_pdet_6
+production cost
+
+#ui_bdg_pdet_6_c
+Expenses to buy required materials for the production.
+
+#ui_bdg_pdet_7
+total income
+
+#ui_bdg_pdet_7_c
+The total gross income (before taxes) for this production.
+
+#ui_bdgbudget_1
+sales
+
+#ui_bdgbudget_1_c
+Total raw income from all sales made by the building.
+
+#ui_bdgbudget_2
+production cost
+
+#ui_bdgbudget_2_c
+The cost of all required materials for production, if any.
+
+#ui_bdgbudget_3
+taxes
+
+#ui_bdgbudget_3_c
+Amount of income taxed by the state (you). This is the actual income this building's activity generates for you.
+
+#ui_bdgbudget_4
+worker's income
+
+#ui_bdgbudget_4_c
+The net income left after all costs and taxes, shared between all the workers employed by this building.
+
+#ui_bdgbudget_5
+producer's share
+
+#ui_bdgbudget_5_c
+The share of the sales that goes back to the producers of the resources: merchants only pay them depending on the sales and unsold stocks are not paid.
+
+#ui_bdgind_nbprd1
+The current number of productions, depending on the buidlings's workforce and required materials availablity.
+
+#ui_bdgind_nbprd2
+Each production generates [x] units of [y] and require [z] of workforce. 
+
+#ui_bdgind_prcnt1
+The current production rate, depending of all the required material's availabilities.
+
+#ui_bdgind_prcnt2
+[x]% of the total workforce of [y] is working = [z] of productive workforce.
+
+#ui_bdgind_curprod
+Currently producing [x] units of [y] [z].
+
+#ui_bdgind_curcons
+Currently consumming [x] units of [y] [z] for this production.
+
+#ui_bdgind_mat1
+Set to use [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+
+#ui_bdgind_mat2
+Automatically using [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+
+#ui_bdgind_recip
+It takes [x] of [y] for every unit of [z] produced.
+
+#ui_bdgind_byprod
+Producing [x] [y] as byproducts.
+
+#ui_bdgcstr_title
+In construction...
+
+#ui_bdgcstr_self
+Self-constructing
+
+#ui_bdgcstr_self_c
+Some simple buildings can be built without professional builders, and will self construct even without any.
+
+#ui_bdgcstr_bdrs
+Builders
+
+#ui_bdgcstr_bdrs_c
+The amount of construction work this building is currently getting from from professional builders.
+
+#ui_regres_inv
+Inventář
+
+#ui_regres_inv_c
+Listing all the resources and services of this territory.
+
+#ui_regres_mtrd
+Trhové obchody
+
+#ui_regres_mtrd_c
+To buy and sell stocks of resources
+
+#ui_regres_trt
+Obchodní cesty
+
+#ui_regres_trt_c
+To transfer a constant flux of resources between territories.
+
+#ui_regres_addrt
+Nová obchodní stezka
+
+#ui_regres_buysell
+Kup nebo prodej
+
+#ui_regres_totimp
+Importations
+
+#ui_regres_totimp_c1
+Imported goods are bought by you at their trade route price and are then sold in the territory at their local price.
+
+#ui_regres_totimp_c2
+Purchasing cost from the trade route:
+
+#ui_regres_totimp_c3
+Local sales:
+
+#ui_regres_totimp_c4
+Purchased cargo:
+
+#ui_regres_totexp
+Exportations
+
+#ui_regres_totexp_c1
+Exported goods are bought by you at their local price from the producers of this territory and are then sold at their trade route price to the importer.
+
+#ui_regres_totexp_c2
+Purchasing cost from local producers:
+
+#ui_regres_totexp_c3
+Income from trade route sales:
+
+#ui_regres_totexp_c4
+Sold cargo:
+
+#ui_regres_addofr
+Přidat nabídku
+
+#ui_regres_trsf
+TRANSFER
+
+#ui_regres_imp
+IMPORT
+
+#ui_regres_exp
+EXPORT
+
+#ui_regres_buy
+BUY
+
+#ui_regres_sell
+SELL
+
+#ui_regres_imps
+Current importations
+
+#ui_regres_exps
+Current exportations
+
+#ui_regres_oper
+Operated trade routes
+
+#ui_regres_makeav
+available to trade network
+
+#ui_regres_makeav_c
+If enabled, the cargo service of this territory will also be available for rent to everyone in your trading network.
+
+#ui_regres_tax
+daň
+
+#ui_regres_tax_c
+Taxing a percentage of the total value of all goods of every trade route operated by this city.
+
+#ui_regres_pndng
+Naše nabídky
+
+#ui_regres_prod
+Production
+
+#ui_regres_bal
+In stock
+
+#ui_regres_lprc
+Místní cena
+
+#ui_regres_atprc
+at price
+
+#ui_regres_noinp
+[type a resource name]
+
+#ui_newofr_noprod
+You cannot export this resource because you do not have any production or stocks of it.
+
+#ui_newofr_notrd
+Not enough trading service to create this offer!
+
+#ui_newofr_sent
+New trade route offer sent!
+
+#ui_regres_pndng2
+Our current trade-route offers:
+
+#ui_regres_off1
+Available offers in our trading network:
+
+#ui_regres_off2
+Competing offers in our trading network:
+
+#ui_regres_cancel
+Cancel trade offer
+
+#button_trtimp_c1
+You are currently importing [x] of [y] from [z] into this territory for a total of [v] coins.
+
+#button_trtexp_c1
+You are currently exporting [x] of [y] to [z] for a total of [v] coins.
+
+#button_trtcargo
+Requiring [x] of Cargo, operated by [y]. 
+
+#ui_ofrcanceled
+Trade offer canceled!
+
+#ui_troute_opnw
+Opening new trade route...
+
+#ui_troute_optr
+Trade route operator
+
+#ui_troute_dscr
+A trade route transfers a constant flux of resources between cities. It requires a cargo service to operate. 
+
+#ui_troute_opdscr1
+The trade route operator is the city dealing with the transportation of the goods.
+
+#ui_troute_opdscr2
+It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
+
+#ui_troute_opdscr3
+The cost of cargo is exponential to the trade route’s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+
+#ui_troute_vol
+Cargo volume
+
+#ui_troute_cargorq
+CARGO REQUIRED
+
+#ui_troute_cargorq_c1
+The amount of cargo service needed to operate this trade route.
+
+#ui_troute_cargorq_c2
+distance factor * cargo volume
+
+#ui_troute_distf
+Distance factor
+
+#ui_troute_distf_c1
+This factor depends of the longest of the 2 distances between the operator and each one of the trade route's destinations. 
+
+#ui_troute_distf_c2
+longest distance from operator
+
+#ui_troute_opetax
+OPERATOR TAX
+
+#ui_troute_opetax_c1
+A trade route operator may also tax a percentage of the value of all goods transiting through their territory.
+
+#ui_troute_maxava
+Cargo available
+
+#ui_troute_maxava_c1
+The amount of cargo service currently available in the operator.
+
+#ui_troute_edit
+Editing existing trade route...
+
+#ui_troute_apl1
+Open trade route
+
+#ui_troute_apl2
+Apply
+
+#ui_troute_cgcost_c1
+Total cost of cargo using this territory as the trade route operator.
+
+#ui_troute_totcost
+TOTAL TRADE ROUTE COST
+
+#ui_troute_totcost_c1
+The total cost of maintaining this trade route.
+
+#ui_troute_bdgtdscr1
+The state pays and owns the entirety of the imported goods from the exporting city, regardless of their later use.
+
+#ui_troute_bdgtdscr2
+All the later incomes made locally from the selling of these goods are then entirely for the state.
+
+#ui_troute_bgc
+goods cost
+
+#ui_troute_bgc_c1
+The cost of purchasing goods to the exporting city.
+
+#ui_troute_bcc
+cargo cost
+
+#ui_troute_bcc_c1
+The cost of the cargo service purchased to the trade route operator.
+
+#ui_troute_bt
+operator tax
+
+#ui_troute_bt_c1
+The amount paid to the operator taxing goods transiting through their city.
+
+#ui_troute_open
+Opened a new trade route!
+
+#ui_troute_err1
+Cannot open trade route because the selected operator cannot provide the required cargo service!
+
+#ui_troute_close
+Close this trade route
+
+#menu_nfrm_title
+Creating a new formation...
+
+#menu_nfrm_fname
+Formation's name
+
+#menu_nfrm_chtp
+Select a type of formation
+
+#menu_nfrm_type1
+Army
+
+#menu_nfrm_t1_dscr1
+An army is composed by permanently mobilized units, costing upkeep.
+
+#menu_nfrm_t1_dscr2
+They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+
+#menu_nfrm_t1_dscr3
+Armies can move into other territories and their presence increases state authority.
+
+#menu_nfrm_type2
+Militia
+
+#menu_nfrm_t2_dscr1
+A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+
+#menu_nfrm_t2_dscr2
+Militias don’t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+
+#menu_nfrm_t2_dscr3
+However , the militia cannot move to other territory s and decreases the state authority.
+
+#menu_nfrm_type3
+National army
+
+#menu_nfrm_t3_1
+A national army is similar to a regular army except that its also controllable by any of your superiors in your Nation's hierarchy, allowing you to delegate its control in case of national wars and operations.
+
+#menu_nfrm_t3_2
+National armies also give their authority bonus to all regions of the Nation, even if its owned by a different character.
+
+#menu_nfrm_t3_3
+Note that you can convert a regular army into a National one at will and vice-versa.
+
+#menu_trbuy_title
+Buying resource...
+
+#menu_trbuy_buy
+BUY
+
+#menu_trbuy_cost
+Purchase cost
+
+#menu_trbuy_bght
+Bought [x] of [y] for [z] coins!
+
+#ui_evidea_yes
+<<Yes, let's see what they need for this project!>>
+
+#ui_evidea_no
+<<This is a waste of time.>>
+
+#menu_bdg_up_err1
+You're missing [x] of [y] to upgrade this building to [z].
+
+#menu_bdg_up_err2
+You do not have enough coins to upgrade this building to [x].
+
+#menu_bdg_up_err3
+This upgrade requires professionnal construction and you do not have any builders!
+
+#menu_tch_curknw
+Current knowledges
+
+#menu_tch_curuse
+Knowledge use
+
+#menu_tch_curuse_c1
+Your societe currently has [x] of knowledges, and a capacity to store [y].
+
+#menu_tch_curuse_c2
+You will lose knowledges if your storage capacity gets lower than your current knowledges.
+
+#menu_tch_str_cult
+Culture
+
+#menu_tch_str_cult1
+Culture gives you knowledge storage capacity, proportionally to your total culture.
+
+#menu_tch_str_lbr
+Libraries
+
+#menu_tch_str_lbr1
+Each library building in service increases your knowledge storage capacity.
+
+#menu_tch_prjcts
+Projects
+
+#menu_tch_prj_cur
+Current Projects
+
+#menu_tch_prj_avail
+Available Projects
+
+#menu_tch_prj_dnd
+Rejected Projects
+
+#menu_tch_prj_rwd
+Project rewards:
+
+#menu_prj_inpgr
+In progress...
+
+#menu_prj_new
+New project...
+
+#menu_prj_req
+Starting requirements:
+
+#menu_prj_reqkn
+You need [x] free space of knowledges to launch this project.
+
+#menu_prj_rcoin1
+Project base cost: [x] coins
+
+#menu_prj_rcoin2
+Required  materials cost: [x] coins
+
+#menu_prj_rmat1
+Needs [x] [y] from [z]
+
+#menu_prj_rmat2
+(click to select a different territory)
+
+#menu_prj_start
+START PROJECT
+
+#menu_prj_diff
+Difficulty
+
+#menu_prj_work
+Research
+
+#menu_prj_rschrs
+Researchers
+
+#menu_prj_rwk
+Work
+
+#menu_prj_rwk_c1
+All the assigned researchers currently generate [x] research points [y].
+
+#menu_prj_rwk_c2
+* from [x] main researchers: [y] research points.
+
+#menu_prj_rwk_c3
+* from [x] extra researchers: [y] research points.
+
+#menu_prj_nb1
+This project ideally requires up to [x] researchers.
+
+#menu_prj_nb2
+While you can assign extra researchers beyond this number, their contributions to the project are greatly reduced.
+
+#menu_prj_rtyp
+This project requires [x] as researchers.
+
+#menu_prj_bdgt_r
+Researchers
+
+#menu_prj_bdgt_p
+Project
+
+#menu_prj_bdgt
+Budget
+
+#menu_prj_bdgt_c1
+The total maintenance cost for this project, to be paid continuously until the project is completed.
+
+#menu_prj_norsch
+Assign researchers to the project to be able to start it!
+
+#menu_prj_pgrss
+This project is [x]% completed
+
+#menu_prj_addnewr
+click to assign new researchers to the project
+
+#menu_prj_br_c1
+[x] researchers from [y] are currently assigned to this project and produce [z] research points to complete it.
+
+#menu_prj_br_c2
+( click to edit the number of assigned researchers from this territory )
+
+#menu_prj_none1
+You don't have any projects available!
+
+#menu_prj_none2
+Projects are unlocked by "Ideas": events that are triggered by your population. Improving the intelligence and life quality of your population is generally a good way to increase odds of getting new ideas.
+
+#menu_prj_none3
+Projects then require researchers and time as well as materials and buget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
+
+#menu_rschr_title
+Adding researchers...
+
+#menu_rschr_type
+Researching population for this project
+
+#menu_rschr_frm
+From
+
+#menu_rschr_time
+Estimated time to complete this project
+
+#menu_rschr_odds
+success
+
+#menu_rschr_odds_c1
+Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will need to be restarted from scratch.
+
+#menu_rschr_odds_c2
+100 +researchers efficiency [x] -difficulty [y] = [z]% success odds
+
+#menu_rschr_all
+All population
+
+#menu_rschr_noav
+No [x] currently available in this city!
+
+#prj_strt_err1
+You need to assign researchers before starting this project!
+
+#prj_strt_err2
+You are missing coins to start this project!
+
+#prj_strt_err3
+You are missing required materials to start this project!
+
+#ui_tech_alw
+Allows...
+
+#ui_tech_bdg
+New building
+
+#ui_tech_res
+New resource
+
+#ui_tech_unit
+New unit
+
+#ui_tech_pol
+New policy
+
+#ui_tech_with
+with...
+
+#ui_tech_forget
+Forget this knowledge
+
+#ui_tech_cantfgt
+You cannot forget this knowledge because it is currently required by other more recent ones such as: '[x]'.
+
+#ui_techfrgt_1
+Forget this knowledge ?
+
+#ui_techfrgt_2
+Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all it's current effects. You will need to complete it's project again in order to recover it if you need to.
+
+#pop_all
+total population
+
+#fstate_inact
+Idle
+
+#fstate_encamp
+Encamped
+
+#fstate_mov
+Moving
+
+#fstate_fight
+In combat
+
+#fstate_immo
+Immobilized
+
+#menu_scr_w
+Wealth
+
+#menu_scr_w_c
+Score from the total wealth produced in all your territories.
+
+#menu_scr_c
+Culture
+
+#menu_scr_c_c
+Score from your total culture (state culture).
+
+#menu_scr_k
+Knowledges
+
+#menu_scr_k_c
+Score from your total knowledges.
+
+#menu_scr_p
+Military
+
+#menu_scr_p_c
+Score from your total military power. Does not include Militias.
+
+#menu_scr_v
+Subordinates
+
+#menu_scr_v_c
+Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
+
+#menu_scr_tot
+Score
+
+#menu_scr_tot_c
+You personnal score.
+
+#menu_scr_vpscr
+From Par score
+
+#menu_scr_vpscr_c1
+Par score is your score above the reference score of [y]pts. You get 1 Victory point for every [x]pts of Par score.
+
+#menu_scr_vpscr_c2
+The average score and the cost of each victory points are dynamic and based on all player's scores.
+
+#menu_scr_vpmiss
+Missions
+
+#menu_scr_vpmiss_c
+Victory points you earned by completing Victory point missions.
+
+#menu_scr_vp
+Victory points
+
+#menu_scr_vp_c
+You personnal victory points.
+
+#menu_scr_avg
+Reference Score
+
+#menu_scr_avg_c1
+Used to determine your Par Score. It's value is based on all player's scores. 
+
+#menu_scr_avg_c2
+Having a personnal score above it grants victory points.
+
+#menu_scr_vpcost
+Victory point cost
+
+#menu_scr_vpcost_c
+The amount of points you need above the reference score to be granted each Victory point.
+
+#menu_scr_frna
+for Nation
+
+#menu_scr_frnas_c
+How much points you are currently contributing to your Nation's score. The lower in the ranks, the less you contribute.
+
+#menu_scr_frnavp_c
+How much victory points you are currently contributing to your Nation's Victory Points. The lower in the ranks, the less you contribute.
+
+#menu_nscr_name
+Your nation
+
+#menu_nscr_rank
+Your nation's rank
+
+#menu_nscr_scr
+Your nation's total score
+
+#menu_nscr_vp
+Your nation's total Victory points
+
+#menu_scr_govnam
+Your personnal government's name
+
+#menu_scr_t1
+Rank
+
+#menu_scr_t2
+Nation
+
+#menu_scr_t3
+Score
+
+#menu_scr_t4
+Victory points
+
+#majmess_reglost
+You have lost control of the territory!
+
+#b_buildprevbdg
+Obsolete version: [x]
+
+#b_admitdft
+ADMIT DEFEAT
+
+#ui_admitdft
+You have admitted your defeat!
+
+#ui_battleover
+Battle is over!
+
+#ui_terinf_fert
+Fertility
+
+#ui_terinf_grndw
+Groundwater
+
+#btl_objtv_neut
+neutral
+
+#btl_objtv_raid
+raiding territory
+
+#btl_objtv_sack
+sacking territory
+
+#btl_objtv_inv
+invading
+
+#btl_objtv_def
+defending
+
+#btl_objtv_defa
+assisting defense
+
+#btl_objtv_atta
+assisting attack
+
+#btl_objtv_hunt
+hunting
+
+#btl_rslt_dead
+died
+
+#btl_rslt_deft
+defeated
+
+#btl_rslt_vict
+victorious
+
+#btl_rslt_neutr
+was neutral
+
+#btlrslt_neutr
+NEUTRAL
+
+#btlrslt_att
+ATTACKERS
+
+#btlrslt_def
+DEFENDERS
+
+#btlrslt_loot
+BATTLE LOOT
+
+#btlrslt_unit
+units
+
+#btlrslt_loss
+losses
+
+#btlrslt_kill
+kills
+
+#btlrslt_totloot
+total loot
+
+#rcvloot_reg
+We received loot in [x]:
+
+#rcvloot_form
+Our formation received loot:
+
+#gamelob_genav
+Generate avatar
+
+#gamelob_face
+Face
+
+#gamelob_eyes
+Eyes
+
+#gamelob_snout
+Snout
+
+#gamelob_mouth
+Mouth
+
+#gamelob_nam
+Character's name
+
+#gamelob_randnam
+Generate a random name
+
+#gamelob_nat
+Nation's name
+
+#gamelob_randnat
+Generate a random nation's name
+
+#gamelob_status
+character status
+
+#gamelob_status_c1
+A character becomes "inactive" if offline for too long. It then becomes available for succession: any new player joining the game can spawn as its sucessor and takeover all its posessions.
+
+#gamelob_status_c2
+The amount of time before a character becomes inactive depends on its total playtime and on the game's settings.
+
+#gamelob_status_c3
+Max offline time currently allowed for this character: [x]
+
+#gamelob_ACTV
+ACTIVE
+
+#gamelob_INACTV
+INACTIVE
+
+#gamelob_lstlog
+last login
+
+#gamelob_lstlogt
+[x] ago
+
+#gamelob_lstlog_c
+last login for this character: [x]
+
+#gamelob_creat
+created
+
+#gamelob_creat_c
+Date when this character was created (GMT).
+
+#gamelob_plt
+total playtime
+
+#gamelob_plt_c
+The total amount of time spent online playing this character.
+
+#gamelob_maxchar
+Max characters
+
+#gamelob_maxchar_c
+The maximum number of characters per player allowed on this server is [x].
+
+#gamelob_spcloff
+Spawn cool off
+
+#gamelob_spcloff_c1
+The minimum time before you are allowed to respawn on this server.
+
+#gamelob_spcloff_c2
+You have spawned [x] times in this game. The more times you respawn, the longer the cool-off (base cool-off in this game is of [y]).
+
+#gamelob_spcloff_c3
+Last spawn: [x] ago
+
+#gamelob_spcloffw
+([x] remaining)
+
+#gamelob_maxoff
+Max offline time
+
+#gamelob_maxoff_c1
+The maximum amount of time a character can get to be offline before turning 'inactive' on this server.
+
+#gamelob_maxoff_c2
+WARNING: this limit is lower for recently created characters!
+
+#gamelob_err1
+You currently have the maximum number of characters allowed on this game!
+
+#gamelob_err2
+You must wait [x] before being allowed to create a new character in this game!
+
+#gamelob_abnd
+Abandon
+
+#gamelob_abnd_c1
+Click to abandon this character and all its possessions.
+
+#gamelob_abndwrn
+Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
+
+#facrank_title
+Title
+
+#facrank_ter
+Territory
+
+#facttl_titl
+Character's title
+
+#facttl_titl_c1
+The title given to characters of this rank.
+
+#facttl_trtry
+Territory's title
+
+#facttl_trtry_c1
+The name given to the territories associated with characters of this rank.
+
+#facttl_lvl
+Rank level
+
+#facttl_lvl_c1
+Rank level represents the hierarchic position within the nation.
+
+#facttl_tax
+Income tax
+
+#facttl_tax_c1
+% of raw income paid as a tax to the superior of this rank.
+
+#facttl_pow
+Power transfer
+
+#facttl_pow_c1
+% of state power transfered to the superior of this rank.
+
+#facttl_vote
+Can vote 
+
+#facttl_vote_c1
+Wether this rank can participate in voting processes or not.
+
+#facttl_rcrut
+Can recruit
+
+#facttl_rcrut_c1
+Wether this rank is allowed to recruit new members into the Nation or not.
+
+#facttl_prom
+Can promote
+
+#facttl_prom_c1
+Wether this rank is allowed to manage ranks of its subordinates or not (promoting and unpromoting).
+
+#facttl_rplcm
+Succession
+
+#facttl_rplcm_c1
+How the succession of this character is managed if he becomes inactive.
+
+#frplcm_e1
+Election (direct)
+
+#frplcm_e1_c1
+A sucessor is elected by the direct subordinates of this rank only.
+
+#frplcm_e2
+Election (all)
+
+#frplcm_e2_c1
+A sucessor is elected by all the subordinates of this rank.
+
+#frplcm_heir
+Chosen heir
+
+#frplcm_heir_c1
+The rank holder himself chooses its heir that can take over if he becomes inactive.
+
+#frplcm_nom
+Nominated
+
+#frplcm_nom_c1
+A sucessor is appointed by the superior of this rank.
+
+#facttl_xpl
+Can expell
+
+#facttl_xpl_c1
+If this rank is allowed to expell its subordinates from the Nation.
+
+#facttl_mngter
+Can dismantle
+
+#facttl_mngter_c1
+If this rank is allowed to directly redistribute territories of inactive subordinates to other Nation members.
+
+#facttl_sub1
+Direct subordinates
+
+#facttl_sub2
+All subordinates
+
+#fachier_hier
+Hierarchy
+
+#fachier_addnew
+Add new rank
+
+#fachier_addnew_c1
+Click to create a new rank
+
+#fachier_remrk
+Remove this rank
+
+#fachier_remrk_c1
+Click to delete the currently selected rank
+
+#fachier_remrk_err1
+You cannot remove this rank because its currently used by one or more members!
+
+#facnewrk_title
+Adding a new rank...
+
+#facmmb_ter
+Regions
+
+#facmmb_dismant
+Dismantle
+
+#facmmb_dismant_c1
+Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
+
+#facmmb_prom
+Promote
+
+#facmmb_prom_c1
+Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+
+#facmmb_xpl
+Expel
+
+#facmmb_xpl_c1
+Your title allows you to expell this character from the Nation.
+
+#facmmb_quit
+Quit
+
+#facmmb_quit_c1
+Leave this Nation and regain your sovereignty. 
+
+#facmmb_quit_c2
+WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+
+#facmmb_actv
+ACTIVE
+
+#facmmb_actv_c1
+This character is still actively playing the game and is not elligible for succession.
+
+#facmmb_inact
+INACTIVE
+
+#facmmb_inact_c1
+This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
+
+#facmmb_pwrlss
+POWERLESS
+
+#facmmb_pwrlss_c1
+This character controls not territories and is powerless.
+
+#facmmb_dead
+DEAD
+
+#facmmb_dead_c1
+This character is dead: it controls no territories and was abandonned by its player.
+
+#facmmb_rplc
+Replace
+
+#facmmb_rplc_c1
+This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
+
+#facmmb_tax
+Taxes
+
+#facmmb_tax_c1
+Nation taxes are received from direct subordinates and also paid to the superior. Tax rates are defined by their respective ranks.
+
+#facmmb_tax_r
+Taxes from subordinates: [x]
+
+#facmmb_tax_p
+Paid to superior: [x]
+
+#facmmb_pwr
+Power transfers
+
+#facmmb_pwr_c1
+State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
+
+#facmmb_mng
+Maintenance
+
+#facmmb_mng_c1
+State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
+
+#facmmb_mrshl
+Army Marshal
+
+#facmmb_mrshl_c1
+Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
+
+#facmmb_heir
+Heir
+
+#facmmb_heir_c1
+The designated heir can directly succeed to this character if he becomes inactive.
+
+#facmmb_heir_c2
+Note that if the designated heir refuses or is unavailable, succession will default to election by direct subordinates.
+
+#facprom_title
+Position of [x]
+
+#facprom_txt
+You can change the hierarchic position of [x] within this Nation by changing his rank or moving him under a different superior (only your amongst your own subordinates). Note that the character will retain all its subordinates with the same relative hierarchy under him no matter the modified position. Ranks of the subordinates might be automatically adjusted if need be, in order to retain their relative hierarchy. 
+
+#facprom_supr
+Set superior
+
+#facprom_rk
+Set rank
+
+#facxpl_title
+Expel [x] from the Nation
+
+#facxpl_txt
+As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
+
+#facxpl_xpl
+Expel!
+
+#facrplc_title
+Replacing [x]...
+
+#facrplc_txt
+As a superior of [x] and because this character is now inactive, your rank allows you to nominate a successor of lower rank that will take over its position within the Nation. The successor will swap its position and subordinates with the ones of the replaced character. The chosen successor cannot be of higher rank than the replaced character.
+
+#facrplc_none
+None available!
+
+#facdsmtl_title
+Dismantling territories
+
+#facdsmtl_text
+Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
+
+#facquit_title
+Are you sure?
+
+#facquit_txt
+By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+
+#facfalg_title
+Editing Nation flag
+
+#menugov_setnam
+Government name
+
+#menugov_setnam_c1
+Set the core name of your government (then combined with your Nation title).
+
+#regnam_unclaimed
+Unclaimed territory
+
+#regnam_regof
+Region of [x]
+
+#regnam_claimby
+Claimed by [x]
+
+#uiworld_ownr
+Ownership
+
+#uiworld_nownr
+No owner
+
+#uiworld_settl_1
+You can settle this territory by giving a formation the mission 'Settle' with this region as a target.
+
+#uiworld_settl_2
+For this mission type to be available, the formation must contain at least one civilian unit.
+
+#facvote_name
+Voting for the successor of [x]
+
+#uivote_mode
+Voting mode
+
+#uivote_mod_high
+Highest votes
+
+#uivote_mod_high_c1
+The proposition with the most votes simply wins the vote. The vote is completed once all the valid voters have cast their vote.
+
+#uivote_status
+Vote status
+
+#uivote_st_p
+pending...
+
+#uivote_st_o
+over
+
+#uivote_result
+Vote result
+
+#uivote_res_und
+undecided
+
+#uivote_cast
+Votes cast
+
+#uivote_yrvt
+YOUR VOTE
+
+#uivote_txt1
+You have not cast your vote yet. Select one of the possible choices below and vote. Warning: your vote is final and cannot be modified once validated!
+
+#uivote_txt2
+You have already cast your vote. It is final and you cannot edit it anymore. The result will be announced once the voting process is completed.
+
+#uivote_choice
+choice
+
+#uivote_sendvt
+CAST VOTE!
+
+#regstatus_claim_1
+An empty territory can be claimed by your state and included in your official frontiers.
+
+#regstatus_trtry_1
+A territory is part of a region and is managed by the region's main city administration.
+
+#regstatus_colony_1
+A colony is an autonomous territory attached to your government. You cannot directly control it but it costs no maintenance while generating a small tax incomes. It can be used as a starting position for new players. They take control of the colony and start directly in your nation as your subordinates.
+
+#regstatus_city_1
+The city is the head each region. It has its own local administration which also manages all the territories of the region. Every city costs state power to maintain.
+
+#regstatus_capital_1
+The capital is where your state's government is located and where the leader resides. Unlike regular cities, it costs no state power. Some government buildings are unique to the capital. The distance from the capital can affect various things such as the administration of other cities or the maintenance of subordinates in the nation.
+
+#regstatus_title
+Territory status
+
+#regstatus_txt
+Modifying the administrative status of this territory...
+
+#regstatus_setnew
+Set new status to
+
+#regstatus_setcap_1
+You can only have one capital city: your current capital will lose its status and become a regular city. Note that moving your capital may affect adminstration and culture in your other cities as well as you state power and finances.
+
+#regstatus_setcit_1
+This territory will form a new region and will cost additionnal State power. You will then be able to attach other territories to this city as part of that region. 
+
+#regstatus_setcol_1
+WANRING: This is irreversible. You will lose direct control of this territory. Region gets a stable administration, loyalty and culture. No maintenance cost and no state power cost. Generates 5% income tax. If a player spawns in it, he starts in your nation with a colonial treaty of 5% income tax. 
+
+#regstatus_setcol_2
+To make a colony the territory needs at least 150 of population and at least 65% of vital needs.
+
+#setcolony_err1
+The territory needs at least 150 of population to be made a colony!
+
+#setcolony_err2
+The territory needs at least 65% of vital needs to be made a colony!
+
+#setcolony_err3
+The territory has too much resistance to be made a colony!
+
+#regstatus_err1
+You cannot change the status of your capital city!
+
+#voxclss_wall
+Walls
+
+#voxclss_wind
+Windows
+
+#voxclss_door
+Doors
+
+#voxclss_pilr
+Pillars
+
+#voxclss_beam
+Beams
+
+#voxclss_flr
+Floors
+
+#voxclss_cube
+Cubes
+
+#treaty_endwar
+Armistice
+
+#treaty_peace
+Peace treaty
+
+#treaty_nation
+Treaty of unification
+
+#treaty_vassal
+Vassality treaty
+
+#treaty_trade
+Trading agreement
+
+#treaty_trtry
+Territorial transfer
+
+#treaty_tech
+Knowledges transfer
+
+#treaty_pass
+Treaty of passage
+
+#treaty_deflt
+Treaty
+
+#ui_colchos
+click to select a color
+
+#ui_icchos
+click to select an icon
+
+#ui_fhierchy
+click to view this nation's hierarchy
+
+#resist_abandon_1
+You cannot abandon buildings in a resistant city!
+
+#resist_demol_1
+You cannot demolish more than 3 buildings at a time in a resistant city!
+
+#resist_demol_2
+You cannot demolish infrastructures in a resistant city!
+
+#treaterr_1
+You do not have enough coins in your treasury to honor this treaty!
+
+#treaterr_2
+You do not have enough income in your treasury to honor this treaty!
+
+#servfull
+Maximum number of active characters currently reached! Try again later.
+
+#menu_frmtyp_title
+Changing this formation's type...
+
+#menu_frmtyp_err1
+You cannot convert to a militia outside your own cities!
+
+#menu_frmtyp_err2
+You cannot convert formations in resistant cities.
+
+#formact_sack_1
+Warning: this action will cost you 15 of honnor, if successful!
+
+#formact_sack_2
+The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
+
+#formact_sack_3
+This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honnor.
+
+#wkprio_0
+Avoided
+
+#wkprio_1
+Low
+
+#wkprio_2
+Regular
+
+#wkprio_3
+High
+
+#wkprio_4
+Critical
+
+#recyclmat
+We have recovered
+
+#recyclbdg
+We have recovered [x] from the demolition of a [y].
+
+#charstate_1
+Inactive
+
+#charstate_2
+Active
+
+#charstate_3
+Dead
+
+#charstate_4
+Powerless
+
+#err_inaxsbdg
+This building is currently inaccessible!
+
+#formact_none
+Move
+
+#formact_camp
+Encamp
+
+#formact_hunt
+Hunt
+
+#formact_captr
+Capture
+
+#formact_settle
+Settle
+
+#formact_raid
+Raid
+
+#formact_sack
+Sack
+
+#formact_invd
+Invade
+
+#formact_batl
+Battle
+
+#formhome_title
+Changing this formation's home...
+
+#formhome_dscr_1
+A formation's home region is the city they are attached to. The home provides renewal of aging soldiers and has to support the armies attached to it. It also defines the culture of the formation's units. 
+
+#formhome_dscr_2
+Formations will decay if they are attached to a home that doesn't have enough population to support them. 
+
+#formhome_dscr_3
+WARNING: changing the home region will deplete all its Action Points and will trigger auto-encampment. 
+
+#formhome_sel_c1
+Select the desired home region for this formation.
+
+#formhome_sel_c2
+( The formation needs to be positionned in the desired city to be able to rebase in it )

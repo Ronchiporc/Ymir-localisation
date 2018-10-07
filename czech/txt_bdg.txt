@@ -1,0 +1,756 @@
+﻿#bdg_hous_n
+obydlí
+
+#bdg_hous_dscr
+Ubytovává populaci, zvyšuje zdraví a životní úroveň.
+
+#bdg_prod_n
+Výrobní budova
+
+#bdg_prod_dscr
+Využíva obohacená plochy a vyrábi z nich zásoby (material, jidlo).
+
+#bdg_ind_n
+Industriální budova
+
+#bdg_ind_dscr
+Přetváří materiál na různé zboží.(nástroje, oblečení, atd.)
+
+#bdg_srv_n
+služba
+
+#bdg_srv_dscr
+Vytváří služby (a non-material resources that cannot be stored).
+
+#bdg_stor_n
+úložný prostor
+
+#bdg_stor_dscr
+Zásoby. 
+
+#bdg_merch_n
+distribuce
+
+#bdg_merch_dscr
+Distributoři získávají zboží z jakýchkoliv výrobních budov nebo úložných prostor a zpřístupňují je obyvatelstvu. Jsou schopni distribuovat velké mnnožství zboží ale obchodníci si ponechávají část zisku, což snižuje výrobcovu mzdu.
+
+#bdg_roads_n
+cesty
+
+#bdg_roads_dscr
+Zlepšuje pohyb jednotek a dodává bunus propojených budovám.
+
+#bdg_walls_n
+zdi
+
+#bdg_walls_dscr
+Obranná stavba která brání všem jednotkám v průchodu.
+
+#bdg_deco_n
+ozdobný
+
+#bdg_deco_dscr
+Stavby určenné jen na zkrášlení území.
+
+#bdg_towers_n
+obranné věže
+
+#bdg_towers_dscr
+Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
+
+#bdg_battlem_n
+cimbuří
+
+#bdg_battlem_dscr
+Cimbuří mohou být postavený jen na platformách. Poskytují bojový bonus jednotkám stojících na zdi během bitvy.
+
+#bdg_annex_n
+přístavba
+
+#bdg_annex_dscr
+Přístavby jsou rozšíření existujících staveb ,které rozšiřují výrobu a distribuční kapacitu.
+
+#bdg_pltf_n
+platforma
+
+#bdg_pltf_dscr
+Platformy jsou převýšené dlaždice přes které můžete stavět. Obranné stavby jako věže a cimbuří mohou být postaveny puze nanich. Jsou drahé a pomalu se stavějí.
+
+#bdg_stairs_n
+schody
+
+#bdg_stairs_dscr
+Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
+
+#bdg_gates_n
+brána
+
+#bdg_gates_dscr
+Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
+
+#bdg_all
+Všechny budovy
+
+#txt_cider_n
+Výrobna Cideru
+
+#txt_cider_dscr
+Vyrábí Cider z jablek. Cider je distribuvatelné zboží uspokujující potřebu po alkoholu. 
+
+#txt_brewery_n
+Pivovar
+
+#txt_brewery_dscr
+Vyrábí pivo z ječmenu. Pivo je distribuvatelné zboží uspokujující potřebu po alkoholu. 
+
+#txt_claycamp_n
+Využití jílu
+
+#txt_claycamp_dscr
+Možnost využít jílové plochy na těžbu jílu. Musí být postaven v dosahu jílového naleziště.
+
+#txt_claypit_n
+Jílový důl
+
+#txt_claypit_dscr
+Musí být položen na plochu s jílem. Zvýší produkci jílu na těchto plochách.
+
+#txt_clothmk_n
+Textilní výrobce
+
+#txt_clothmk_dscr
+Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
+
+#txt_gather_n
+Sběrači
+
+#txt_gather_dscr
+Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+
+#txt_farm_n
+Farma
+
+#txt_farm_dscr
+Mohou vytvářet pole pro výrobu různých zemědělských zdrojů. Mohou také využívat přirozeně přítomné v dosahu.
+
+#txt_fisher_n
+Prasorybář
+
+#txt_fisher_dscr
+Využívá plochy s rybami. Musí být postaven na břeh a v dosahu naleziště s rybami.
+
+#txt_grnry_n
+Sýpka
+
+#txt_grnry_dscr
+Úchovává jídlo.
+
+#txt_hslum_n
+Slum
+
+#txt_hslum_dscr
+Slumy nic nestojí a vytváří se sami pokud prasata nedokážou najít volné obydlí. Poskytuje nízkou životní úroveň a žádnou zdravotní podporu.
+
+#txt_hrustc_n
+Dům
+
+#txt_hrustc_dscr
+Venkovské obydlí které poskytuje nízkou životní úroveň a zdravotní bonus.
+
+#txt_hconf_n
+Velký dům
+
+#txt_hconf_dscr
+Pohodlné obydlí které poskytuje vysokou životní úroveň a zdravotní bunus.
+
+#txt_hapt_n
+Apartmán
+
+#txt_hapt_dscr
+Několika úrovňové obydlí které poskytuje ubytování pro několik rodin.
+
+#txt_hunter_n
+Lovec
+
+#txt_hunter_dscr
+Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
+
+#txt_flint_n
+Flint collector
+
+#txt_flint_dscr
+Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
+
+#txt_platf1_n
+Dřevěnná platforma
+
+#txt_platf1_dscr
+A cheap low resistance platform. Usefull to make cheap defenses and bridges.
+
+#txt_platf2_n
+Kamenná platforma
+
+#txt_platf2_dscr
+A solid platform usefull to make resistent walls.
+
+#txt_dstrplatf_n
+Znič platformu
+
+#txt_dstrplatf_dscr
+Orders destruction of selected platforms.
+
+#txt_tow1_n
+Rozhledna
+
+#txt_tow1_dscr
+A cheap but weak defensive tower made of leather covered wood. Fire arrows.
+
+#txt_tow2_n
+Dřevěnná věž
+
+#txt_tow2_dscr
+A defensive tower made of thick wooden beams. Fire arrows.
+
+#txt_tow3_n
+Kamenná věž
+
+#txt_tow3_dscr
+Stone towers are much more resistent than their wooden counterparts. Fire arrows.
+
+#txt_tow4_n
+Velká věž
+
+#txt_tow4_dscr
+This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
+
+#txt_batlm1_n
+Dřevěnné cimbuří
+
+#txt_batlm1_dscr
+Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
+
+#txt_batlm2_n
+Kamenné cimbuří
+
+#txt_batlm2_dscr
+Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
+
+#txt_batlm3_n
+Machicolated stone battlements
+
+#txt_batlm3_dscr
+Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+
+#txt_batlm4_n
+Ohrada
+
+#txt_batlm4_dscr
+Excellent cover but weaker than stone battlements.
+
+#txt_market_n
+Tržní stojan
+
+#txt_market_dscr
+Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
+
+#txt_field_n
+Pole
+
+#txt_field_dscr
+Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
+
+#txt_road1_n
+Hliněnná cesta
+
+#txt_road1_dscr
+A basic road and free to build road.
+
+#txt_road2_n
+Dřevěnná cesta
+
+#txt_road2_dscr
+A road with pieces of wood encrusted in dirt to limit mud on rainy weather.
+
+#txt_road3_n
+Štěrkovanná cesta
+
+#txt_road3_dscr
+A road paved with crude cobblestones.
+
+#txt_road4_n
+Kamenná cesta
+
+#txt_road4_dscr
+An expensive road made of large stone blocs
+
+#txt_road5_n
+Dlážděnná cesta
+
+#txt_road5_dscr
+A road made of small stone blocs composed artistically.
+
+#txt_road6_n
+Mosaic plaza
+
+#txt_road6_dscr
+A fancy floor made of colofull small tiles of stone, glass and other materials.
+
+#txt_road7_n
+Mramorové náměstí
+
+#txt_road7_dscr
+Nádherná podlaha z lesklých mramorových bloků
+
+#txt_road8_n
+Limestone road
+
+#txt_road8_dscr
+An expensive road made of large white limestone blocs
+
+#txt_road9_n
+Pískovcová cesta
+
+#txt_road9_dscr
+Drahá cesta z velkých pískovcových bloků
+
+#txt_fence1_n
+Dřevěnný plot
+
+#txt_fence1_dscr
+Rustic fences made of wood.
+
+#txt_fence2_n
+Ozdobný plot
+
+#txt_fence2_dscr
+Decorative fences worthy of gardens and avenues.
+
+#txt_fence3_n
+Kamenný plot
+
+#txt_fence3_dscr
+Rustic fences made of stone.
+
+#txt_garden1_n
+Květinové zahrady
+
+#txt_garden1_dscr
+Decorative gardens with flowers.
+
+#txt_garden2_n
+Stromové zahrady
+
+#txt_garden2_dscr
+Decorative gardens with trees.
+
+#txt_grass_n
+Trávník
+
+#txt_grass_dscr
+An area of soil covered with carefully maintained grass for aesthetic and recreational purposes.
+
+#txt_flowerbed_n
+Záhon
+
+#txt_flowerbed_dscr
+A plain patch of flowers for decoration.
+
+#txt_woodc_n
+Dřevorubec
+
+#txt_woodc_dscr
+Woodcutters can exploit most of the available trees in range to produce wood.
+
+#txt_merchant_n
+Obchodník
+
+#txt_merchant_dscr
+Specialized distributors who make one selectable resource available to the population.
+
+#txt_mine_n
+Težební tábor
+
+#txt_mine_dscr
+Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
+
+#txt_mineshaft_n
+Důl
+
+#txt_mineshaft_dscr
+Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
+
+#txt_paddock_n
+Výběh(ohrada)
+
+#txt_paddock_dscr
+Výběh umožňuje chov dobytka.
+
+#txt_elephantpen_n
+Sloní výběh
+
+#txt_elephantpen_dscr
+Sloní výběh umožňuje uchovávání vélké zvěře jako třeba slona.
+
+#txt_potter_n
+Hrnčíř
+
+#txt_potter_dscr
+Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
+
+#txt_stonecut_n
+Kamenářský tábor
+
+#txt_stonecut_dscr
+Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
+
+#txt_quarry_n
+Lom
+
+#txt_quarry_dscr
+Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
+
+#txt_sawmill_n
+Pila
+
+#txt_sawmill_dscr
+The sawmill refines crude wood into wood planks, a material required to build many buildings.
+
+#txt_tannery_n
+Koželužna
+
+#txt_tannery_dscr
+Koželužny přetváří kůži na koženou látku. Distribuvatelné zboží uspokujující potřebu obyvatelstva po oblečení.
+
+#txt_toolmk_n
+Výrobce nástrojů
+
+#txt_toolmk_dscr
+Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
+
+#txt_items_n
+Předměty
+
+#txt_items_dscr
+Jsou suroviny které by nechány ležeti na zemi a zníčí se přes čas ,pokud nebudou rychle uloženy do pořádných skladišť.
+
+#txt_storegrnd_n
+Pozemní sklad
+
+#txt_storegrnd_dscr
+Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
+
+#txt_warehouse_n
+Skladiště
+
+#txt_warehouse_dscr
+Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
+
+#txt_weapmk_n
+Výrobce zbraní
+
+#txt_weapmk_dscr
+Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
+
+#txt_weaver_n
+Tkadlec
+
+#txt_weaver_dscr
+Tkadlec přetvoří ruzné materiály (bavlna, vlna atd.) do textilií. Textílie mohou být potom využity do mnoha věcí jako třeba výro oblečení.
+
+#txt_stairs1_n
+Schody
+
+#txt_stairs1_dscr
+Flexible stairs that can be placed against cliffs or walls of any height. 
+
+#txt_gate1_n
+Dřevěnná brána
+
+#txt_gate1_dscr
+A cheap wooden gate.
+
+#txt_gate2_n
+Vylepšenná dřevěnná brána
+
+#txt_gate2_dscr
+A strong gate made of wood held tohether by bronze. 
+
+#txt_gate3_n
+Vyztuženná brána
+
+#txt_gate3_dscr
+A solid gate reinforced with iron.
+
+#txt_cattle_n
+Dobytčí farma
+
+#txt_cattle_dscr
+The cattle farms allows you to create pastures that produce cattle.
+
+#txt_pastr_n
+Pastvina
+
+#txt_pastr_dscr
+An enclosed area of land where cattle can feed and breed.
+
+#txt_pastrw_n
+Vlněná pastvina
+
+#txt_pastrw_dscr
+Pastures of wool producing animals, regularly sheared to collect their wool.
+
+#txt_builder_n
+Stavitelé
+
+#txt_builder_dscr
+Spousty budov mohou by postaveny pouze profesionálním týmem stavitelů.
+
+#txt_butcher_n
+Řezník
+
+#txt_butcher_dscr
+Slaughters live cattle to produce fresh meat.
+
+#txt_well_n
+Studna
+
+#txt_well_dscr
+Extracts water from the ground.
+
+#txt_watercol_n
+Sběrač vody
+
+#txt_watercol_dscr
+Místo kam prasata chodí pro čerstvou vodu z řek a jezer.
+
+#txt_landock_n
+Pozemní doky
+
+#txt_landock_dscr
+Docks for land caravans, carrying goods across territories and required to operate trade routes.
+
+#txt_dock_n
+Přístaviště
+
+#txt_dock_dscr
+Docks for trade ships, carrying goods across territories and required to operate trade routes. 
+
+#txt_theater_n
+Divadlo
+
+#txt_theater_dscr
+Provides entertainement to the Porcos.
+
+#txt_baths_n
+Lázně
+
+#txt_baths_dscr
+A place of social gathering and relaxation which also provides better health.
+
+#txt_tavern_n
+Hodpoda
+
+#txt_tavern_dscr
+A place of social gathering to drink and party.
+
+#txt_forum_n
+Forum
+
+#txt_forum_dscr
+A place of social gathering to discuss matters of the community.
+
+#txt_furnmkr_n
+Výrobce nábydku
+
+#txt_furnmkr_dscr
+Produces furniture, a distributable resource filling the population needs in Furnishings.
+
+#txt_carpetmkr_n
+Výrobce koberců
+
+#txt_carpetmkr_dscr
+Produces rugs, a distributable resource filling the population needs in Furnishings.
+
+#txt_mudcamp_n
+Soil miner
+
+#txt_mudcamp_dscr
+A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
+
+#txt_brickwk_n
+Cihlař
+
+#txt_brickwk_dscr
+Vyrábí cihly, základní stavební materiál.
+
+#txt_kiln_n
+Pec
+
+#txt_kiln_dscr
+Produces different construction materials.
+
+#txt_fundry_n
+Slévárna
+
+#txt_fundry_dscr
+Refines metallic ores into ingots.
+
+#txt_steel_n
+Ocelárna
+
+#txt_steel_dscr1
+Produces steel by carburization of wrough iron through smithing.
+
+#txt_steel_dscr2
+Produces steel by decarburization of cast iron by melting it.
+
+#txt_charcl_n
+Koksárna
+
+#txt_charcl_dscr
+Karbonizuje dřevo na dřevěné uhlí.
+
+#txt_archtct_n
+Architekt
+
+#txt_archtct_dscr
+Vytváří plány staveb potřebné pro důležité památky.
+
+#txt_windwheel_n
+Větrné kolo
+
+#txt_windwheel_dscr
+Provides mechanical power to the building, improving its efficiency.
+
+#txt_waterwheel_n
+Vodní kolo
+
+#txt_waterwheel_dscr
+Provides mechanical power to the building, improving its efficiency.
+
+#txt_wash_n
+Prádelna
+
+#txt_wash_dscr
+Místo kam lidé chodí si umít sbé oblečení
+
+#txt_taxcol_n
+Výběrčí daní
+
+#txt_taxcol_dscr
+Snižuje ztráty tím že hlída jestli obyvatelé platí správně své daně.
+
+#txt_scrib_n
+Písař
+
+#txt_scrib_dscr
+Úředníci ve službách státu pomáhají sledovat administrativní záležitosti.
+
+#txt_eldcounc_n
+Elder's council
+
+#txt_eldcounc_dscr
+A council of elders to solve conflicts in the city.
+
+#txt_magistrt_n
+Soud
+
+#txt_magistrt_dscr
+Snižuje konflikty mezi obyvateli.
+
+#txt_school_n
+Škola
+
+#txt_school_dscr
+Budova určena pro mučení dětí a zvýšení inteligence populace.
+
+#txt_winery_n
+Vinný sklýpek
+
+#txt_winery_dscr
+Vyrábí víno z vinných bobulý.
+
+#txt_oilpress_n
+Olivový lis
+
+#txt_oilpress_dscr
+Vyrábí olivový olej z oliv. 
+
+#txt_bakery_n
+Pekárna
+
+#txt_bakery_dscr
+Vyrábí chleba z mouky.
+
+#txt_mill_n
+Mlýn
+
+#txt_mill_dscr
+Drtí semínka na mouku, jednodušší uskladnění a možnost vyrábět chléb.
+
+#txt_libr_n
+Knihovna
+
+#txt_libr_dscr
+Uchovává znalosti.
+
+#txt_eldrcncl_n
+Rada starších
+
+#txt_eldrcncl_dscr
+Rada starších se kteří se snaží vyřešit konflikty uvnitř kmenu a dodává základní formu spravedlnosti.
+
+#txt_magistr_n
+Soud
+
+#txt_magistr_dscr
+Budova která poskytuje spravedlnost obyvatelstvu, snižuje konflikty. 
+
+#txt_paper_n
+Papírna
+
+#txt_paper_dscr
+Vyrabí papír
+
+#txt_rum_n
+Rumovna(Destilérie)
+
+#txt_rum_dscr
+Destilérie která vyrábí rum z cukrové třtiny.
+
+#txt_trmarket_n
+Tržiště
+
+#txt_trmarket_dscr
+Umožňuje vytváření obchodních nabídek s jinými územími.
+
+#txt_academ_n
+Akademie
+
+#txt_acedem_dscr
+Místo pro moudrá a vzdělanná prasata která studují vědy a umění ,čím zvyšují vzdělání a kulturu a přispívají ke zkoumání nových projektů.
+
+#txt_doctor_n
+Doktor
+
+#txt_doctor_dscr
+Zvyšuje zdraví populace.
+
+#txt_ftower1
+Primitivní věž
+
+#txt_ftower1_dscr
+Primitivní obranná věž udělaná ze dřeva. Střílí oštěpy.
+
+#txt_wall1_n
+Palisáda
+
+#txt_wall1_dscr
+Jednoduchá obranná stěna ze dřeva.
+
+#txt_wall2_n
+Hliněnná zeď
+
+#txt_wall2_dscr
+Jednoduchá branná zeď vyrobena z hliněných cihel.
+
