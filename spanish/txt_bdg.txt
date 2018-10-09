@@ -1,0 +1,743 @@
+﻿#bdg_hous_n
+sanidad y alojamiento
+
+#bdg_hous_dscr
+Aloja a la población, mejorando su salud y calidad de vida.
+
+#bdg_prod_n
+edificio de producción
+
+#bdg_prod_dscr
+Explota los terrenos de la región para producir recursos.
+
+#bdg_ind_n
+edificio industrial
+
+#bdg_ind_dscr
+Produce bienes con los recursos almacenados.
+
+#bdg_srv_n
+servicio
+
+#bdg_srv_dscr
+Brinda un servicio (un recurso no material que no puede ser almacenado).
+
+#bdg_stor_n
+almacenamiento
+
+#bdg_stor_dscr
+Almacena recursos.
+
+#bdg_merch_n
+distribución
+
+#bdg_merch_dscr
+Los distribuidores consiguen recursos de los edificios de producción o del almacén y los distribuyen a la población. Pueden distribuir grandes cantidades de recursos, pero se quedan con un porcentaje de las ganancias, reduciendo los ingresos del productor.
+
+#bdg_roads_n
+caminos
+
+#bdg_roads_dscr
+Mejora el movimiento de las unidades sobre la casilla y da un bonus a los edificios conectados.
+
+#bdg_walls_n
+Muros
+
+#bdg_walls_dscr
+Estructure defensiva que bloquea el movimiento de unidades.
+
+#bdg_deco_n
+decorativo
+
+#bdg_deco_dscr
+Elementos puramente cosméticos que mejoran el aspecto de tu ciudad.
+
+#bdg_towers_n
+torres defensivas
+
+#bdg_towers_dscr
+Las torres defensivas emplean soldados independientemente de la cantidad de formaciones. Solamente pueden ser construidas sobre plataformas. Proveen fuego de apoyo durante las batallas. 
+
+#bdg_battlem_n
+almenas
+
+#bdg_battlem_dscr
+Las almenas solamente pueden ser construidas sobre plataformas. Dan un bonus de defensa a las unidades guarnecidas en la plataforma durante la batalla.
+
+#bdg_annex_n
+anexo 
+
+#bdg_annex_dscr
+Los anexos son extensiones de otros edificios que proveen mayor producción de recursos o mayor capacidad de distribución.
+
+#bdg_pltf_n
+plataformas
+
+#bdg_pltf_dscr
+Las plataformas son elevaciones de casillas "artificiales". Algunas estructuras defensivas (torres y almenas) solamente pueden ser construidas sobre plataformas. Son costosas y lentas de construir.
+
+#bdg_stairs_n
+escaleras
+
+#bdg_stairs_dscr
+Permite a tus porocs acceder a casillas de diferente elevación. Póngalo contra plataformas o acantilados para dar acceso.
+
+#bdg_gates_n
+puerta
+
+#bdg_gates_dscr
+Las puertas bloquean tropas enemigas durante una batalla. Tiene que ser puesta en cercanía a una plataforma en modo "puente".
+
+#bdg_all
+Todos los edificios
+
+#txt_cider_n
+"Molino de sidra"
+
+#txt_cider_dscr
+Produce sidra con las manzanas disponibles. La sidra es un recurso distribuible que satisface la necesidad por alcohol de la población.
+
+#txt_brewery_n
+Cervecería
+
+#txt_brewery_dscr
+Produce cerveza con la cebada disponible. La sidra es un recurso distribuible que satisface la necesidad por alcohol de la población.
+
+#txt_claycamp_n
+Cantera de arcilla
+
+#txt_claycamp_dscr
+Explota casillas de arcilla para recolectar el recurso. Tiene que ser posicionada cerca de depósitos de arcilla.
+
+#txt_claypit_n
+Pozo de arcilla
+
+#txt_claypit_dscr
+Debe ser posicionado sobre casillas de arcilla. Aumente la producción de estas casillas.
+
+#txt_clothmk_n
+Sastrería
+
+#txt_clothmk_dscr
+Produce ropa a partir de textil. Ropa es un recurso distribuible que satisface la necesidad de vestimenta de la población.
+
+#txt_gather_n
+Campamento recolector
+
+#txt_gather_dscr
+Explotara los recursos de agricultura salvajes. Debes ubicarse en rango de dichos recursos.
+
+#txt_farm_n
+Granja
+
+#txt_farm_dscr
+Puede crear campos de cultivo que producen una variedad de recursos de agricultura. También explotara los recursos salvajes en rango.
+
+#txt_fisher_n
+Pescador
+
+#txt_fisher_dscr
+Explotara cardúmenes para producir pescado fresco. Debe tener pescado en rango.
+
+#txt_grnry_n
+Granero
+
+#txt_grnry_dscr
+Almacena recursos alimenticios.
+
+#txt_hslum_n
+Chabola
+
+#txt_hslum_dscr
+Las chabolas no cuestan nada y aparecerán solas si los porcos no encuentras una vivienda disponible. Proveen baja calidad de vida y nada de salud.
+
+#txt_hrustc_n
+Casa
+
+#txt_hrustc_dscr
+Viviendas simples que proveen algo de calidad de vida y bonus de salud.
+
+#txt_hconf_n
+Casa grande
+
+#txt_hconf_dscr
+Vivienda cómoda que provee alta calidad de vida y bonus de salud.
+
+#txt_hapt_n
+Apartamento
+
+#txt_hapt_dscr
+Edificio de varios pisos que provee vivienda para varias familias.
+
+#txt_hunter_n
+Cazador
+
+#txt_hunter_dscr
+Puede explotar animales salvajes para producir carne y cuero.
+
+#txt_flint_n
+Recolector de pedernal
+
+#txt_flint_dscr
+Produce pedernal a partir de casillas de grava. El pedernal se usa por los artesanos para producir herramientas de piedra.
+
+#txt_platf1_n
+Plataforma de madera
+
+#txt_platf1_dscr
+Plataforma barata y débil de madera. Útil para hacer defensas simples y puentes.
+
+#txt_platf2_n
+Plataforma de piedra
+
+#txt_platf2_dscr
+Una plataforma solida, útil para hacer muros resistentes.
+
+#txt_dstrplatf_n
+Destruir plataformas
+
+#txt_dstrplatf_dscr
+Ordena la destrucción de plataformas seleccionadas
+
+#txt_tow1_n
+Torre simple
+
+#txt_tow1_dscr
+Una torre barata y débil hecha de madera y cuero. Dispara flechas.
+
+#txt_tow2_n
+Torre de madera
+
+#txt_tow2_dscr
+Una torre defensiva hecha de fuertes vigas de madera. Dispara flechas.
+
+#txt_tow3_n
+Torre de madera
+
+#txt_tow3_dscr
+Las torres de piedra son mucho mas resistentes que sus contrapartes de madera. Dispara flechas.
+
+#txt_tow4_n
+Torre pesada
+
+#txt_tow4_dscr
+Torre hecha de bloques sólidos de piedra, resistente a artillería enemiga. Dispara flechas.
+
+#txt_batlm1_n
+Almena de madera
+
+#txt_batlm1_dscr
+Simples almenas de madera que proveen cobertura básica de fuego enemigo durante el combate. Resistencia baja.
+
+#txt_batlm2_n
+Almena de piedra
+
+#txt_batlm2_dscr
+Almenas resistentes que proveen una buena cobertura durante el combate. Resistencia media.
+
+#txt_batlm3_n
+Almenas pesadas
+
+#txt_batlm3_dscr
+Almenas pesadas hechas de sólidos bloques de piedra. Proveen excelente cobertura al fuego enemigo y son muy resistentes.
+
+#txt_batlm4_n
+Matacán
+
+#txt_batlm4_dscr
+Estructura de madera que provee excelente cobertura pero es menos resistente.
+
+#txt_market_n
+Puesto comercial
+
+#txt_market_dscr
+Los puestos comerciales distribuyen a la población los recursos que produce el edificio el cual el puesto comercial pertenece. El ingreso va íntegramente a los productores pero habrá un trabajador menos que se encargara de vender.
+
+#txt_field_n
+Campo de cultivo
+
+#txt_field_dscr
+Campos explotables por la granja a la que pertenece. Produce un abanico de productos agrícolas.
+
+#txt_road1_n
+Camino de tierra
+
+#txt_road1_dscr
+Una camino básico y gratuito.
+
+#txt_road2_n
+Camino de madera
+
+#txt_road2_dscr
+Un camino con planchas de madera para facilitar el transporte durante tiempo lluvioso.
+
+#txt_road3_n
+Camino rustico
+
+#txt_road3_dscr
+Camino pavimentado con piedra rustica.
+
+#txt_road4_n
+Camino de piedra
+
+#txt_road4_dscr
+Camino caro hecho de bloques de piedra
+
+#txt_road5_n
+Camino pavimentado
+
+#txt_road5_dscr
+Camino hecho de bloquecitos de piedra en disposición artística.
+
+#txt_road6_n
+Camino de mosaico
+
+#txt_road6_dscr
+Un camino lujoso compuesto por coloridos pedacitos de piedra y otros materiales.
+
+#txt_road7_n
+Camino de mármol
+
+#txt_road7_dscr
+Un camino lujoso hecho de mármol
+
+#txt_road8_n
+Camino de caliza
+
+#txt_road8_dscr
+Un camino lujoso hecho de piedra caliza
+
+#txt_road9_n
+Camino de arenisca
+
+#txt_road9_dscr
+Un camino lujoso hecho de bloques de arenisca
+
+#txt_fence1_n
+Vallas
+
+#txt_fence1_dscr
+Vallas rusticas de madera, piedra y arbustos.
+
+#txt_fence2_n
+Vallas lujosas
+
+#txt_fence2_dscr
+Vallas lindas dignas de avenidas o jardines.
+
+#txt_garden1_n
+Jardín de flores
+
+#txt_garden1_dscr
+Jardín decorativo compuesto por flores.
+
+#txt_garden2_n
+Jardín de arboles
+
+#txt_garden2_dscr
+Jardín decorativo con arboles
+
+#txt_grass_n
+Césped
+
+#txt_grass_dscr
+Área de tierra con césped bien cuidado con fines estéticos.
+
+#txt_flowerbed_n
+Colchón de flores
+
+#txt_flowerbed_dscr
+Un colchón de flores para decorar
+
+#txt_woodc_n
+Leñador
+
+#txt_woodc_dscr
+Los leñadores explotaran arboles y producirán madera.
+
+#txt_merchant_n
+Mercader
+
+#txt_merchant_dscr
+Distribuidores especializados que harán un recurso seleccionable disponible para la población.
+
+#txt_mine_n
+Campamento minero
+
+#txt_mine_dscr
+Explotara casillas con depósitos de minerales para producir variedad de materiales, especialmente mediante sus anexos cuando estén disponibles.
+
+#txt_mineshaft_n
+Mina
+
+#txt_mineshaft_dscr
+Anexo especial del campamento minero. Las minas aumentan la producción del campamento al que pertenezcan. Solo puede estar sobre casillas de minerales.
+
+#txt_paddock_n
+Corral
+
+#txt_paddock_dscr
+Los corrales almacenan animales vivos.
+
+#txt_potter_n
+Alfarero
+
+#txt_potter_dscr
+Los alfareros refinan arcilla en cerámica. La cerámica se puede distribuir y satisfará la necesidad de amueblamiento.
+
+#txt_stonecut_n
+Cortador de piedra
+
+#txt_stonecut_dscr
+Explotara casillas de roca para producir piedra. Puede hacer el anexo de cantera para producir bloques de piedra o bloques especiales.
+
+#txt_quarry_n
+Cantera
+
+#txt_quarry_dscr
+Anexo esencial del cortador de piedra. Produce bloques de piedra o bloques especiales si se ubica sobre la piedra correspondiente.
+
+#txt_sawmill_n
+Aserradero
+
+#txt_sawmill_dscr
+Refina madera en tablones.
+
+#txt_tannery_n
+Curtiduría
+
+#txt_tannery_dscr
+Refina cuero en ropa de cuero, que satisface la necesidad de vestimenta.
+
+#txt_toolmk_n
+Artesano
+
+#txt_toolmk_dscr
+Los artesanos producirán variedad de herramientas, especialmente usadas como material de construcción.
+
+#txt_items_n
+Objetos
+
+#txt_items_dscr
+Estos objetos están en el suelo y se arruinaran si no los almacenas correctamente!
+
+#txt_storegrnd_n
+Almacenamiento en el suelo
+
+#txt_storegrnd_dscr
+Sector de suelo marcado como almacenamiento. Es gratis, pero tiene poca capacidad.
+
+#txt_warehouse_n
+Almacén
+
+#txt_warehouse_dscr
+Los almacenes pueden almacenar todo tipo de materiales básicos. Están cuidados por un trabajador y poseen mucha capacidad.
+
+#txt_weapmk_n
+Armero
+
+#txt_weapmk_dscr
+Los herreros producirán variedad de armas para equipar a las tropas.
+
+#txt_weaver_n
+Tejedor
+
+#txt_weaver_dscr
+El tejedor producirá textil a partir de recursos básicos como algodón, lana o lino. El textil se usara para varias cosas como la sastrería.
+
+#txt_stairs1_n
+Escalera
+
+#txt_stairs1_dscr
+Estructura que se puede ubicar junto a una elevación para acceder a ella.
+
+#txt_gate1_n
+Puerta de madera
+
+#txt_gate1_dscr
+Una simple puerta de madera.
+
+#txt_gate2_n
+Puerta fuerte
+
+#txt_gate2_dscr
+Una puerta resistente hecha de madera y bronce. 
+
+#txt_gate3_n
+Puerta reforzada
+
+#txt_gate3_dscr
+Una puerta solida reforzada con hierro.
+
+#txt_cattle_n
+Granja de ganado
+
+#txt_cattle_dscr
+Las granjas de ganado te permitirán crear pastizales donde se explotaran animales.
+
+#txt_pastr_n
+Pastizal
+
+#txt_pastr_dscr
+Área cerrada donde se crían animales
+
+#txt_pastrw_n
+Pastizal de lana
+
+#txt_pastrw_dscr
+Pastizal que producirá lana.
+
+#txt_builder_n
+Constructor
+
+#txt_builder_dscr
+Muchos edificios solo pueden ser construidos por constructores profesionales.
+
+#txt_butcher_n
+Carnicero
+
+#txt_butcher_dscr
+Matara animales para producir carne y cuero.
+
+#txt_well_n
+Pozo
+
+#txt_well_dscr
+Extrae agua del suelo.
+
+#txt_watercol_n
+Recolector de agua.
+
+#txt_watercol_dscr
+Punto designado donde los porcos podrán recoger agua de ríos o lagos.
+
+#txt_landock_n
+Centro de comercio
+
+#txt_landock_dscr
+Centro para caravanas terrestres, transportando bienes por los territorios y necesario para operar rutas comerciales.
+
+#txt_dock_n
+Puerto
+
+#txt_dock_dscr
+Puerto para barcos comerciales, transportando bienes por los mares y ríos, necesario para operar rutas comerciales.
+
+#txt_theater_n
+Teatro
+
+#txt_theater_dscr
+Provee entretenimiento a los porcos.
+
+#txt_baths_n
+Sauna
+
+#txt_baths_dscr
+Lugar de interacción social que provee salud
+
+#txt_tavern_n
+Taberna
+
+#txt_tavern_dscr
+Lugar de interacción social para beber y festejar.
+
+#txt_forum_n
+Foro
+
+#txt_forum_dscr
+Lugar de interacción social para discutir sobre problemas de la comunidad.
+
+#txt_furnmkr_n
+Carpintero
+
+#txt_furnmkr_dscr
+Producirá muebles, un recurso distribuible que satisfará la necesidad de amueblamiento.
+
+#txt_carpetmkr_n
+Alfombrero
+
+#txt_carpetmkr_dscr
+Producirá alfombras, un recurso distribuible que satisfará la necesidad de amueblamiento.
+
+#txt_mudcamp_n
+Recolector de suelo
+
+#txt_mudcamp_dscr
+Campamento simple donde trabajadores recogerán elementos útiles como barro, ceniza o turba.
+
+#txt_brickwk_n
+Fabrica de ladrillos
+
+#txt_brickwk_dscr
+Producirá ladrillos, un elemento básico de construcción.
+
+#txt_kiln_n
+Horno industrial
+
+#txt_kiln_dscr
+Producirá variedad de materiales de construcción.
+
+#txt_fundry_n
+Fundición
+
+#txt_fundry_dscr
+Refina minerales en lingotes.
+
+#txt_steel_n
+Molino de acero
+
+#txt_steel_dscr1
+Produce acero mediante la carburizacion del hierro mediante la herrería.
+
+#txt_steel_dscr2
+Produce acero mediante la carburizacion del hierro al derretirlo.
+
+#txt_charcl_n
+Horno de carbón vegetal
+
+#txt_charcl_dscr
+Carboniza madera en carbón vegetal.
+
+#txt_archtct_n
+Arquitecto
+
+#txt_archtct_dscr
+Produce el servicio de planos, necesario para monumentos importantes.
+
+#txt_windwheel_n
+Molino de viento
+
+#txt_windwheel_dscr
+Provee poder mecánico al edificio, aumentando su eficiencia.
+
+#txt_waterwheel_n
+Molino de agua
+
+#txt_waterwheel_dscr
+Provee poder mecánico al edificio, aumentando su eficiencia.
+
+#txt_wash_n
+Lavandería
+
+#txt_wash_dscr
+Lugar donde los porcos vienen a hacer su lavandería.
+
+#txt_taxcol_n
+Recolector de impuestos
+
+#txt_taxcol_dscr
+Reduce la perdida de ingresos asegurando que la población paga sus impuestos
+
+#txt_scrib_n
+Escriba
+
+#txt_scrib_dscr
+Los escribas al servicio del estado reducen la corrupción al llevar un registro contable.
+
+#txt_eldcounc_n
+Consejo de ancianos
+
+#txt_eldcounc_dscr
+Un consejo de ancianos para resolver los conflictos te la sociedad.
+
+#txt_magistrt_n
+Corte
+
+#txt_magistrt_dscr
+Reduce el conflicto en la población
+
+#txt_school_n
+Escuela
+
+#txt_school_dscr
+Aumenta la inteligencia de la población
+
+#txt_winery_n
+Viñedo
+
+#txt_winery_dscr
+Produce vino a partir de uvas
+
+#txt_oilpress_n
+Presa de aceitunas
+
+#txt_oilpress_dscr
+Produce aceite de oliva a partir de aceitunas
+
+#txt_bakery_n
+Panadería
+
+#txt_bakery_dscr
+Hace pan a partir de harina
+
+#txt_mill_n
+Molino
+
+#txt_mill_dscr
+Pulveriza cereales para producir harina.
+
+#txt_libr_n
+Biblioteca
+
+#txt_libr_dscr
+Almacena conocimientos
+
+#txt_eldrcncl_n
+Consejo de ancianos
+
+#txt_eldrcncl_dscr
+Un consejo de ancianos para resolver los conflictos te la sociedad, y provee una forma temprana de justicia.
+
+#txt_magistr_n
+Corte
+
+#txt_magistr_dscr
+Reduce el conflicto en la población al proveer el servicio de justicia.
+
+#txt_paper_n
+Papelera
+
+#txt_paper_dscr
+Produce papel
+
+#txt_rum_n
+Ronera
+
+#txt_rum_dscr
+Destilería que produce ron a partir de caña de azúcar
+
+#txt_trmarket_n
+Mercado
+
+#txt_trmarket_dscr
+Permite hacer intercambios de recursos con otros territorios
+
+#txt_academ_n
+Academia
+
+#txt_acedem_dscr
+Sabios e inteligentes porcos que estudian las artes, aumentando la educación y cultura y contribuyen a proyectos de investigación.
+
+#txt_doctor_n
+Doctor
+
+#txt_doctor_dscr
+Aumenta la salud de la población
+
+#txt_ftower1
+Atalaya
+
+#txt_ftower1_dscr
+Torre primitiva hecha de madera. Dispara jabalinas.
+
+#txt_wall1_n
+Palizada
+
+#txt_wall1_dscr
+Una simple pared defensiva hecha de troncos.
+
+#txt_wall2_n
+Pared de barro.
+
+#txt_wall2_dscr
+Una débil pared hecha de ladrillos de barro.

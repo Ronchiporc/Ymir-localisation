@@ -1,9 +1,6 @@
 ﻿#g_ok
 ok
 
-#g_Ok
-Ok
-
 #g_OK
 OK
 
@@ -114,12 +111,6 @@ None
 
 #g_none
 none
-
-#g_All
-All
-
-#g_all
-all
 
 #g_distribute
 distribute
@@ -265,9 +256,6 @@ Add
 #g_enables
 enables
 
-#g_Disable
-Disable
-
 #g_disables
 disables
 
@@ -412,9 +400,6 @@ Primitives
 #g_Rebels
 Rebels
 
-#g_Partisans
-Partisans
-
 #g_Barbarians
 Barbarians
 
@@ -445,41 +430,3 @@ Tribe of [x]
 #g_colonialtrty
 Colonial treaty
 
-#g_nocltr
-ancient culture
-
-#g_claim
-claim
-
-#g_territory
-territory
-
-#g_colony
-colony
-
-#g_city
-city
-
-#g_capital
-capital
-
-#g_and
-and
-
-#g_Amount
-Amount
-
-#g_amount
-amount
-
-#g_Enabled
-Enabled
-
-#g_enabled
-enabled
-
-#g_Disabled
-Disabled
-
-#g_disabled
-disabled
