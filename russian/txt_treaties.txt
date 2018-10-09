@@ -1,179 +1,179 @@
 #agrim_goldo_1
-Unique payment
+Одиночный платеж
 
 #agrim_goldo_2
-Pays [x] coins
+Платит [x] монеты
 
 #agrim_goldo_3
-Single coin payment from [x] to [y], at treaty signature.
+Одиночная выплата монет от [x] до [y], при подписании договора.
 
 #agrim_goldr_1
-Coins transfer
+Перевод монет
 
 #agrim_goldr_2
-Continuous transfer of [x] coins from income
+Постоянная передача [x] монет из дохода
 
 #agrim_goldr_3
-[x] continuously transfers coins to [y] for as long as the treaty remains active.
+[x] непрерывно передает монеты на [y] до тех пор, пока договор остается активным.
 
 #agrim_goldtax_1
-Coins tax
+Налог в монетах
 
 #agrim_goldtax_2
-Gives [x]% of coins income
+Дает [x]% дохода монет
 
 #agrim_goldtax_3
-[x] transfers a % of his total coins income to [y].
+[x] передает% своего дохода монет [y].
 
 #agrim_admtax_1
-Power transfer
+Передача власти
 
 #agrim_admtax_2
-Transfers [x]% of state power
+Передачи [x]% от государственной мощности
 
 #agrim_admtax_3
-[x] tranfers a % of his state power to [y].
+[x] переводит% от его государственной власти [y].
 
 #agrim_trad_1
-Trade agreement
+Торговое соглашение
 
 #agrim_trad_2
-Allows trade
+Позволяет торговать
 
 #agrim_trad_3
-Gives [y] access to all trade offers and trade routes from [x].
+Предоставляет [y] доступ ко всем торговым предложениям и торговым маршрутам с [x].
 
 #agrim_pass_1
-Right of passage
+Право прохода
 
 #agrim_pass_2
-Gives right of passage
+Дает право прохода
 
 #agrim_pass_3
-Allows units of [y] to travel in the territories of [x].
+Позволяет юнитам [y] путешествовать по территориям [x].
 
 #agrim_embrg_1
-Embargo against...
+Эмбарго против ...
 
 #agrim_embrg_2
-Embargo of against [x]
+Эмбарго против [x]
 
 #agrim_embrg_3
-Forbids trade with a specified state
+Запрет торговли с указанным государством
 
 #agrim_vassal_1
-Join nation
+Присоединение к нации
 
 #agrim_vassal_2
-Joining the [x]
+Присоединение к [x]
 
 #agrim_vassal_3
-[x] will join the nation of [y].
+[x] присоединится к нации [y].
 
 #agrim_war_1
-Declare war to...
+Объявить войну ...
 
 #agrim_war_2
-Declaring war to [x]
+Объявление войны [x]
 
 #agrim_war_3
-Declare war to another specified state
+Объявить войну другой нации
 
 #agrim_peace_1
-Peace treaty
+Мирный договор
 
 #agrim_peace_2
-Peace treaty
+Мирный договор
 
 #agrim_peace_3
-Forbids war between treaty members.
+Завершает войну между членами договора.
 
 #agrim_ceasefr_1
-Cease fire
+Прекратить огонь
 
 #agrim_ceasefr_2
-Cease fire
+Прекратить огонь
 
 #agrim_ceasefr_3
-Ends war between treaty members.
+Завершает войну между членами договора.
 
 #agrim_tradrt_1
-Trade route
+Торговый маршрут
 
 #agrim_tradrt_2
-Trade route
+Торговый маршрут
 
 #agrim_tradrt_3
-Setup a treaty binded trade route
+Настройка договора, связанного с торговым маршрутом
 
 #agrim_givreg_1
-Give region
+Передача региона
 
 #agrim_givreg_2
-Giving region of '[x]' 
+Области области '[x]'
 
 #agrim_givreg_3
-Transfer ownership of a region to [y].
+Передайте право на регион [y].
 
 #agrim_gividea_1
-Give idea
+Дать идею
 
 #agrim_gividea_2
-Give idea for [x]
+Дать идею о [x]
 
 #agrim_gividea_3
-[y] will receive from [x] a new idea for knowledges he doesnt have yet.
+[y] получит от [x] новую идею знаний, которой у него еще нет.
 
 #treaty_powcost
-State power cost to maintain this treaty
+Затраты власти для поддержания этого договора
 
 #treaty_coinpen
-Coins penalty
+Штраф
 
 #treaty_coinpen_c1
-% of GDP transfered as penalty if [x] breaks this treaty,
+% от ВВП передано в качестве штрафа, если [x] нарушает этот договор,
 
 #treaty_coinpen_c2
-to [x].
+к [x].
 
 #treaty_gdp
-[x]% of GDP
+[x]% от ВВП
 
 #treaty_honor
-Honor commitment
+Честное соглашение
 
 #treaty_honor_c1
-Level of commitment of [x] to respect this treaty.
+Уровень приверженности [x] соблюдению этого договора.
 
 #treaty_honor_c2
-Proportionnal honor is lost if [x] breaks it.
+Честь теряется, если [x] нарушает соглашение.
 
 #treaty_warbound
-War bound
+Угроза войны
 
 #treaty_warbound_c1
-Wether or not [x] will automatically declare war
+Объявление войны [x] автоматически
 
 #treaty_warbound_c2
-if [x] breaks this treaty.
+если [x] нарушает этот договор.
 
 #treaty_closes
-Breaking closes
+Нарушение отключает
 
 #diplo_npass
-National right of passage
+Национальное право прохода
 
 #diplo_npass_dscr_1
-All members of the Nation can move through each other's territory.
+Все члены Нации могут перемещаться по территории друг друга.
 
 #diplo_ntrade
-National trade agreement
+Национальное торговое соглашение
 
 #diplo_ntrade_dscr_1
-All members of the Nation get automatic trading rights with each other.
+Все члены Нации получают автоматические торговые права друг с другом.
 
 #diplo_ndef
-National defensive pact
+Национальный оборонительный договор
 
 #diplo_ndef_dscr_1
-Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, without breaking closes. 
+Любое объявление войны против члена нации вызовет автоматическое объявление войны от всех других членов нации, не нарушая закрытий.
