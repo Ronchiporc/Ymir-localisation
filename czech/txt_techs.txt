@@ -215,7 +215,7 @@ tech_watres_dscr_1
 Odpadní systém
 
 #tech_sewers_dscr_1
-tech_sewers_dscr_1
+Kanálový systém
 
 #tech_foodstor
 Uchovávání jídla
@@ -254,10 +254,10 @@ Granary
 How to build structures specifically designed for storing food and protecting it from vermins for a longer conservation.
 
 #tech_runwat
-Running water
+Tekoucí voda
 
 #tech_runwat_dscr_1
-tech_runwat_dscr_1
+Omožňuje potrubní systém pro rozvoz vody.
 
 #tech_baths
 Lázně
@@ -416,10 +416,10 @@ Bloomery
 tech_bloomry_dscr_1
 
 #tech_iron
-Iron working
+Zpracovávání železa
 
 #tech_iron_dscr_1
-tech_iron_dscr_1
+Zpracovávat železo do ingotů a z nich do nástrojů a jiných potřeb.
 
 #tech_bllws
 Bellows
@@ -452,7 +452,7 @@ Forging
 tech_forg_dscr_1
 
 #tech_steel
-Steel
+Ocel
 
 #tech_steel_dscr_1
 tech_steel_dscr_1
@@ -482,7 +482,7 @@ Mining tools
 tech_miningtl_dscr_1
 
 #tech_pickaxe
-Pickaxe
+Krumpáč
 
 #tech_pickaxe_dscr_1
 tech_pickaxe_dscr_1
@@ -506,16 +506,16 @@ Ventilation shafts
 How to improve and manage the air ventilation of mining galleries, allowing for deeper and more productive mines.
 
 #tech_coke
-Coke
+Koks
 
 #tech_coke_dscr_1
-How to process mineral coal into coke, a new combustible that can then be used in place of charcoal.
+Zpracování uhlí na koks, využito ke spalování na místo dřevěnného uhlí.
 
 #tech_agrcultr
-Agriculture
+Zemědělství
 
 #tech_agrcultr_dscr_1
-The knowledge of cultivating plants.
+Znalosti o pěstování rostlyn.
 
 #tech_plantselect
 Plant selection
@@ -530,10 +530,10 @@ Ard
 An agricultural tool consisting of a simple spike dragged through the soil and pulled by draft animals, making the preparation of fields much faster and easier.
 
 #tech_plough
-Plough
+Pluh
 
 #tech_plough_dscr_1
-A large farming tool with one or more blades fixed in a frame, drawn over soil to turn it over and cut furrows in preparation for the planting of seeds, increasing fertility and homogeneity of the fields.
+Velký nástroj s jednou a více čepelmi využívaný k orání pudy. Zoraná puda je připravnná k sázení a přispíva k většímu obnosu ze sklizně.
 
 #tech_domdog
 Domestic dog
@@ -590,19 +590,19 @@ Soil collectors
 tech_soilcol_dscr_1
 
 #tech_wheel
-Wheel
+Kolo
 
 #tech_wheel_dscr_1
-It spins!
+Ono se to točííí!
 
 #tech_paper
-Paper
+Papír
 
 #tech_paper_dscr_1
 tech_paper_dscr_1
 
 #tech_charcoal
-Charcoal
+Dřevěnné uhlí
 
 #tech_charcoal_dscr_1
 How to produce charcoal from wood by slow pyrolisis: the heating of wood without oxygen. Charcoal can then be used as a combustibe more efficient than wood, as it produces much more heat! 
@@ -656,7 +656,7 @@ Carpet making
 tech_carpet_dscr_1
 
 #tech_cloth
-Clothing
+Oblečení
 
 #tech_cloth_dscr_1
 The concept of wearing clothes instead of walking around naked.
@@ -755,7 +755,7 @@ A device that allows to separate different substances from a liquid, used mainly
 Víno
 
 #tech_wine_dscr_1
-How to make an intoxicating beverage out of grapes.
+Znalost na přetváření hroznového vína na výborný alkoholický nápoj.
 
 #tech_barrel
 Sud
@@ -812,10 +812,10 @@ Javelin
 tech_javelin_dscr_1
 
 #tech_archery
-Archery
+Lukostřelba
 
 #tech_archery_dscr_1
-tech_archery_dscr_1
+Možnost využívat luky a šípy k většímu a přesnějšímu dostřelu. 
 
 #tech_longbow
 Longbow
@@ -872,16 +872,16 @@ Helbard
 tech_helbard_dscr_1
 
 #tech_shield
-Shield
+Štíty
 
 #tech_shield_dscr_1
-tech_shield_dscr_1
+Využití kusu dřeva k obraně těla před zásahy od zbraní.
 
 #tech_metshield
-Metal shield
+Kovové štíty
 
 #tech_metshield_dscr_1
-tech_metshield_dscr_1
+Využívání kovových materiálů k vytvoření odolnějšího štítu tim zlepšení celkoé obrany.
 
 #tech_hvshield
 Heavy shield
