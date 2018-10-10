@@ -23,10 +23,10 @@ Territory loyalty inferior to [x]
 Territory loyalty superior to [x]
 
 #cond_pow_inf
-State power inferior to [x]
+State power nižší než [x]
 
 #cond_pow_sup
-State power superior to [x]
+State power vyšší než [x]
 
 #cond_legit_inf
 State legitimacy inferior to [x]
