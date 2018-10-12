@@ -932,7 +932,7 @@ Steam - имя хоста сервера
 Территориальный валовой внутренний продукт
 
 #bc_menureg_gdp2
-Сумма всех монетных доходов на территории
+Сумма всех доходов на территории
 
 #b_menureg_wlth
 богатство территории:
@@ -1562,7 +1562,7 @@ M
 Эффекты: способствует вашей общей культуре, влияет на лояльность, увеличивает интеллект населения
 
 #regcltr_1
-Культура представляет собой общие знания, обычаи и поведение людей на этой территории.
+Культура представляет собой общие знания, обычаи и поведение жителей на этой территории.
 
 #regcltr_2
 Тогда общая культура, основанная на количестве населения, может быть распределена между различными типами культур. «Государственная культура» представляет вашу культуру. «Местная культура» представляет обычаи и поведение, характерные для этой территории, и отличается от вашей основной культуры, разделяемой между всеми вашими людьми. Могут также присутствовать и другие иностранные культуры.
@@ -1574,7 +1574,7 @@ M
 Рост представляет собой демографическую эволюцию вашего населения на этой территории.
 
 #reggrwth_2
-Рост сильно зависит от «размножающейся воли» людей, которая определяет, сколько пар будут иметь детей в следующем поколении.
+Рост сильно зависит от «воли к размножению» жителей, которая определяет, сколько пар будут иметь детей в следующем поколении.
 
 #popw_base
 Базовые богатства
@@ -1586,7 +1586,7 @@ M
 привилегированности
 
 #popneed_sat
-УДОВЛЕТВОРЕНИЕ ПОТРЕБНОСТЕЙ
+Потребности
 
 #popstat_wealth
 БОГАТСТВО
@@ -1619,10 +1619,10 @@ M
 ИНТЕЛЛЕКТ
 
 #popstat_intel_c1
-Интеллект - это способность создавать алгориты, измеряющие вероятности Истины.
+Интеллект - это способность создавать алгоритмы, измеряющие вероятности Истины.
 
 #popstat_intel_c2
-Интеллектуальные porcos будут генерировать больше идей и культуры, но, как правило, неудобнее и труднее контролировать.
+Интеллектуальные порко будут генерировать больше идей и культуры, но, как правило, неудобнее и труднее контролировать.
 
 #popneed_qual
 качество удовлетворенности
@@ -1634,10 +1634,10 @@ M
 продукты
 
 #popneed_water
-воды
+вода
 
 #popneed_furnish
-обстановка
+мебель
 
 #popneed_cloth
 одежда
@@ -1820,7 +1820,7 @@ IP-адрес сервера
 Количество регионов
 
 #statepow_nbcit_c1
-В настоящее время мы контролируем дополнительные регионы. Каждый регион, кроме капитала, стоит государственной власти.
+В настоящее время мы контролируем дополнительные регионы. Каждый регион, кроме столицы, стоит государственной власти.
 
 #statepow_debt
 Задолженности
@@ -2201,7 +2201,7 @@ IP-адрес сервера
 естественные смерти
 
 #breed_chance
-скорость размножения
+Прирост
 
 #breed_chance_dscr
 Прогнозируемый процент свиножен, которые будут иметь поросят в течение следующего поколения.
@@ -2243,106 +2243,106 @@ IP-адрес сервера
 Порко живут 5 поколений: 1 как поросенок, 3 как взрослые и 1, как старосвины. Это увеличивает срок их службы до [x].
 
 #growth_pergen
-next generation prediction
+предсказание следующего поколения
 
 #growth_pergen_c
-predicted variation of the total population for the next generation
+прогнозируемое изменение общей численности населения для следующего поколения
 
 #growth_c
-current variation rate of the total population
+текущий коэффициент вариации общей численности населения
 
 #ui_growthdel
-Estimated for the next generation...
+Предполагаемый для следующего поколения ...
 
 #troop_recruit
-recruit a new troop
+набирать новый отряд
 
 #b_dplmode
-Strategic tool
+Стратегический инструмент
 
 #bc_dplmode
-Go to deployment mode, where you can manage the deployment positions and orders of all your troops.
+Перейдите в режим развертывания, где вы можете управлять позициями и порядком ваших войск.
 
 #forminv_add
-add resources
+добавить ресурсы
 
 #ui_recruit_resist
-You cannot recruit new units in a territory with resistance.
+Вы не можете набирать новые подразделения на территории с сопротивлением.
 
 #ui_recruit_immo
-You cannot modify troops while this formation is immobilized.
+Вы не можете изменять войска, пока этот юнит иммобилизован.
 
 #ui_recruit_nothm
-You cannot recruit new units outside this formation's home territory ([x]).
+Вы не можете набирать новые юниты вне своей территории ([x]).
 
 #ui_recruit_cant
-You cannot recruit or disband troops in territories you do not control.
+Вы не можете набирать или распускать войска на территориях, которые вы не контролируете.
 
 #ui_recruit_noup
-( militias upkeep is lower as it doesnt include a soldier's salary )
+(содержание милиции ниже, поскольку оно не включает в себя солдатскую зарплату)
 
 #ui_recruit_nopop
-( no population mobilized because it's a local militia )
+(население не мобилизовано, потому что это местная милиция)
 
 #ui_recruit_cost_1
-Cost to recruit one unit.
+Стоимость набора одного подразделения.
 
 #ui_recruit_cost_2
-Includes a training cost plus the price of its equipment.
+Включает стоимость обучения плюс стоимость ее предметов.
 
 #ui_recruit_cost_3
-- Cost of training: [x]
+- Стоимость обучения: [x]
 
 #ui_recruit_cost_4
-- Cost of equipment: [x]
+- Стоимость предметов: [x]
 
 #ui_recruit_totcost
-Total recruitment cost
+Общая стоимость набора
 
 #ui_recruit_nopay
-You do not have enough funds to recruit these new units!
+У вас недостаточно средств для набора этих единиц!
 
 #ui_recruit_max_pop
-More population needed!
+Нужно больше населения !
 
 #ui_recruit_max_ts
-Maximum size of this troop is [x] units.
+Максимальный размер этого отряда - [x].
 
 #ui_recruit_max_res
-[x] needed!
+[x] нужен!
 
 #ui_recruit_cost
-Cost per unit
+Стоимость юнита
 
 #ui_recruit_civ
-civilian units
+гражданские подразделения
 
 #ui_recruit_inf
-melee units
+юниты ближнего боя
 
 #ui_recruit_arc
-range units
+диапазоны
 
 #ui_recruit_cav
-mounted units
+верховые отряды
 
 #ui_recruit_full
-This formation is full!
+Этот отряд заполнен!
 
 #ui_recruit_totpop
-Total population available for this unit in the territory: [x] 
+Общее население, доступное для данного подразделения на территории: [x]
 
 #ui_recruit_inact
-Currently inactives: [x]
+В настоящее время неактивны: [x]
 
 #ui_recruit_rcrt
-Recruit
+Нанять
 
 #ui_recruit_dsbd
-Disband
+Расформировать
 
 #ui_recruit_trsfr
-Transfer
+Передать
 
 #ui_recruit_AP
 This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
