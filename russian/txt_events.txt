@@ -1,4 +1,4 @@
-#cond_nbreg
+﻿#cond_nbreg
 Own [x] or more territories
 
 #cond_prodsupto
@@ -227,22 +227,22 @@ char speed superior to [x]
 Have access to [x]
 
 #effect_givres
-Receive [y] [x] 
+Получите [y] [x] 
 
 #effect_takeres
-Lose [y] [x]
+Потеряйте [y] [x]
 
 #effect_globgivres
-Receive [y] [x]
+Получите [y] [x]
 
 #effect_givfood
-Receive [x] of food
+Получите [x] of food
 
 #effect_trigev
 Triggers event
 
 #effect_givcoin
-Recive [x] coins
+Получите [x] монет
 
 #effect_setcoin
 Treasury set to [x] coins
@@ -257,7 +257,7 @@ Unlocks the project: [x]
 Rejects the project: [x]
 
 #effect_givtech
-Unlocks technology: [x]
+Открывает технологию: [x]
 
 #effect_bandits
 The formation is immediately attacked by [x] bandits.
@@ -287,7 +287,7 @@ The formation is joined by [x] families.
 Reveals the map of the territory up to [x] tiles around the formation.
 
 #effect_formlst
-The formation is lost.
+Юнит потерян
 
 #effect_canceldebt
 Cancel your debt.
@@ -302,22 +302,22 @@ Receive [x] of agricultural food
 [x] [z] [y] will appear.
 
 #effect_modhonor
-Honor [x]
+Честь [x]
 
 #effect_modAP
-Action Points [x]
+Очки действия [x]
 
 #effect_giveVP
-Awards [x] Victory Points.
+Получите [x] очков Победы.
 
 #effect_immigr
-[x] families arrive in the territory.
+[x] семей прибывают на территорию.
 
 #effect_emigr
-[x] families leave the territory.
+[x] семей покидают территорию.
 
 #effect_gividea
-Receive a new idea: [x]
+Получите новую идею: [x]
 
 #effect_givreg
 Gain control of the territory.
@@ -329,19 +329,19 @@ You will swap position in the Nation's hierarchy with this character.
 Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
 
 #event_diplomes
-Message from [x]
+Сообщение от [x]
 
 #event_treaty
-Treaty proposal from [x]
+Предложение от [x]
 
 #event_dwar_att
-We have declared war to [x]
+Мы объявили войну [x]
 
 #event_dwar_att_1
 My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
 
 #event_dwar_def
-[x] has declared war on us!
+[x] объявили нам войну!
 
 #event_dwar_def_1
 My lord, [x] of [y] has declared war on us.
@@ -353,7 +353,7 @@ We are now at war with these filthy hogs.
 Our country is currently at war!
 
 #event_misscomp
-Mission completed: [x]
+Миссия выполнена: [x]
 
 #event_misscomp_1
 We have completed this mission and received its rewards.
@@ -368,7 +368,7 @@ The game is over and its winner is the nation of '[x]' , being the first to reac
 Note that the game may go on and you can keep playing, but scores and ranks will no longer be updated and there will be no further victory missions.
 
 #event_rsk_upris
-Rebellion risk in [x]
+Риск восстания в: [x]
 
 #event_rsk_upris_1
 The loyalty of [x] is very low and there is a high risk of imminent rebellion of its population! We need to do something about it...
@@ -395,7 +395,7 @@ The population of [x] revolted against your government because of low loyalty, a
 [p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
 
 #event_br_lstrevolt
-[x] was lost to rebels!
+[x] потерян повстанцам!
 
 #event_br_lstrevolt_1
 The population of [x] revolted against us and rebels managed to take control of the city. Losing control of one of our cities to rebels has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost 25 of honor.
@@ -476,7 +476,7 @@ We're launching an assault on [x] with [p2] soldiers to invade and take control 
 To suceed we must eliminate all the enemies and defenses of the territory. They're defending it with [p3] soldiers.
 
 #event_Abr_invad
-Invasion of [x]
+Вторжение [x]
 
 #event_Abr_invad_1
 We launched an assault on [x] with [p2] soldiers to invade and take control of the territory.
@@ -647,7 +647,7 @@ Assisted [y] in the attack of [x]
 As an ally of [y], our troops participated to the battle and assissted his armies.
 
 #event_hunt
-Hunting [p2] [p3]
+Охота [p2] [p3]
 
 #event_hunt_1
 We are launching a hunt against [p2] [p3]!
@@ -698,7 +698,7 @@ In all our cities, the creditors of our debt are revolted that they're never get
 As a consequence of canceling a debt of [p3]% our total GDP ([p2] coins), we are suffering a penalty of [p4] Loyalty in all our territories and you have lost [p5] of honor. This effect will slowly decay as people forget this event, but it will require time. In the meantime, we should prepare for the worse.
 
 #event_lowpow
-Negative state power!
+Негативная власть государства!
 
 #event_lowpow_1
 State power is the capacity of your state to manage things. Without it, we will be unable to pass reforms and the loyalty of our territories is negatively impacted which may lead to popular rebellions.
@@ -707,7 +707,7 @@ State power is the capacity of your state to manage things. Without it, we will 
 State power can be improved by : owning less cities, having no debt, revoquing expensive policies.
 
 #event_lowlegit
-Negative legitimacy!
+Отрицательная легитимность!
 
 #event_lowlegit_1
 Legitimacy is how much the people recognizes the right of your state's claims to authority. Without it, not only do we face an increasing risk of popular uprisings, but our armies might also turn against us to overthrow our illegitimate government!
@@ -737,7 +737,7 @@ The natives living in our territory of [x] have grown upset of having what they 
 An emissary of [y] has informed us that our fair and generous treaty offer has been declined by [x].
 
 #event_trt_acc
-Treaty with [y] signed
+Подписан договор с [y]
 
 #event_trt_acc_1
 Our treaty with [x] of [y] has been approved and signed by us both and is now effective!
@@ -764,7 +764,7 @@ Our treaty with [x] of [y] has been approved and signed by us both and is now ef
 According to the treaty's breaking terms, we have received [p1] coins in compensation and they lost [p2] of honor.
 
 #event_trt_brk2
-We have broken a treaty with [x]!
+Мы нарушили соглашение с [x]!
 
 #event_trt_brk2_1
 We have illegaly broken the treaty of '[y]' we had with [x].
@@ -1022,7 +1022,7 @@ Our treaty '[x]' with [y] is now over.
 The treaty '[x]' we had with [y] reached the end of its agreed duration and is now obsolete! 
 
 #ev_migtrib
-Tribe of hungry nomads in [x]
+Племя голодных кочевников [x]
 
 #ev_migtrib_1
 Attracted by our prosperity, a primitive tribe of hungry nomads has arrived in [x]. They have been wandering the lands for a long time, suffering from hunger, and they are interested in joining our community. They carry little with them and don't have much to offer besides their workforce.
@@ -1031,13 +1031,13 @@ Attracted by our prosperity, a primitive tribe of hungry nomads has arrived in [
 Should we welcome them into our tribe ?
 
 #ev_migtrib_c1
-"Yes, we need the extra workforce. Let them be welcomed amongst us."
+"Да, нам нужна рабочая сила. Давайте поприветствуем их среди нас."
 
 #ev_migtrib_c2
-"No! We can't afford extra mouths to feed."
+"Нет! Мы не можем позволить больше ртов."
 
 #ev_stormwood
-Stormy night in [x]
+Ночной шторм в [x]
 
 #ev_stormwood_1
 A violent storm raged all night in [x], with strong winds. Luckily, nooone was harmed and the village didn't sustain any damage.
@@ -1082,10 +1082,10 @@ A small group bears came wandering in the territory of [x]. During the night the
 Time to fight some bears!
 
 #ev_asylm
-Asylum seekers in [x]
+Искатели убежища в [x]
 
 #ev_asylm_1
-A group of nomads arrived in our territory of [x]. They told their story of how they were chased away of their lands by another neighboring tribe after a conflict between them.
+Группа кочевников прибыла в нашу территорию [x]. Они рассказали свою историю о том как они убегали из своих земель, будучи преследуемыми другим племенем после конфликта с ними.
 
 #ev_asylm_2
 Attacked during one night, they lost most of their people and fled their homeland, but not before one of their best warriors managed to kill the chief of the enemy tribe. Since then, his son has vowed to hunt them down for revenge no matter where they go, and they have been on the run for many weeks. 
@@ -1094,10 +1094,10 @@ Attacked during one night, they lost most of their people and fled their homelan
 Their pursuers are not far behind, and your tribe is now their only hope. They beg for asylum and safety, offering to pledge their loyalty to our people if we accept to protect them. If we do, we will have to fight their pursuers! 
 
 #ev_asylm_c1
-Offer them asylum and fight off their pursuers.
+Дать убежище и биться с преследователями.
 
 #ev_asylm_c2
-Capture these fugitives and offer them to justice of their pursuers for a reward.
+Захватить беглецов и предоставить их на суд преследователей за награду.
 
 #ev_knowtrav
 The knowledgable traveler
@@ -1355,7 +1355,7 @@ Our formation '[x]' was well received by natives in a small village, where they 
 "Sniffingwind here is the village's best scout" said their chief. "He knows all the ins and outs of these lands. If you wish, Sniffingwind can show you how to travel in the territory, he's never been in trouble. He'll tell you what areas to avoid, what places are dangerous, and where to pass. In the meantime you're welcome to stay in our small village!" Should we stay a little more and accept their help?
 
 #ev_xplr_snglost
-Explorer lost!
+Разведчик потерян!
 
 #ev_xplr_snglost_1
 It is very dangerous to travel these unknown lands alone. Sadly, our explorer disapeared and was never heard of again. 
@@ -1364,7 +1364,7 @@ It is very dangerous to travel these unknown lands alone. Sadly, our explorer di
 Who knows what happened to him... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
 
 #ev_xplr_grplost
-Explorers lost!
+Разведчик потерян!
 
 #ev_xplr_grplost_1
 It is very dangerous to travel these unknown lands in a small group. Sadly, our explorer disapeared and were never heard of again. 
@@ -1655,7 +1655,7 @@ Our explorers of '[x]' where travelling through a dense forest when at dusk, the
 Suddently, a terrifying growl came from the front, stopping the group. "Wolves i tell ya!", said the old Clawhop who didn't like these beasts -to say the least- as everyone on the group knew. "Get yerr weapons ready, pigs!", he added as several growls echoed around them. From all sides they emerged, ugly bacon-eating canines.
 
 #ev_xplr_bears
-Bears!
+Медведи!
 
 #ev_xplr_bears_1
 Our explorers of '[x]' had setup camp in unknown lands for the night when, at dawn, they woke up to unusual rumpus. Horrified, they saw a group of 3 huge bears scavenging through their inventory and supplies lying next to the camp.
@@ -1766,7 +1766,7 @@ The population of [x], home of our formation '[y]', is insufficient to maintain 
 Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
 
 #ev_xplr_brkleg
-Broken leg
+Сломанная нога
 
 #ev_xplr_brkleg_1
 One of our explorers managed to break his leg in a misstep while walking on a portion of difficult terrain, and is now slowing down the whole group. What should we do ?
@@ -1790,13 +1790,13 @@ Clumsy Porco
 While our explorers were walking along the edge of a tall cliff, one clumsy Porco tripped and fell to his death.
 
 #ev_xplr_slowed
-Challenging terrain
+Сложный ландшафт
 
 #ev_xplr_slowed_1
 These unknown lands proved particularly challenging to cross: our explorers got lost multiple times and lost a lot of time and it took them much longer than expected to reach their destination.
 
 #ev_xplr_wellrest
-Hospitable natives
+Добрые местные
 
 #ev_xplr_wellrest_1
 Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
