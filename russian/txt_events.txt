@@ -44,7 +44,7 @@ State currency superior to [x]
 Do not have the knowledge of '[x]'
 
 #cond_hastech
-Have the knowledge of '[x]'
+Знайте о '[x]'
 
 #cond_popnb_inf
 [y] inferior to [x]
@@ -377,7 +377,7 @@ The loyalty of [x] is very low and there is a high risk of imminent rebellion of
 Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leaderboard to see your final score.
 
 #event_revolt
-Popular revolt in [x]!
+Популярное восстание в [x]!
 
 #event_revolt_1
 The population of [x] are revolting against us and rebels are trying to take control of the city! If they suceed, we will lose control of this territory!
@@ -698,7 +698,7 @@ In all our cities, the creditors of our debt are revolted that they're never get
 As a consequence of canceling a debt of [p3]% our total GDP ([p2] coins), we are suffering a penalty of [p4] Loyalty in all our territories and you have lost [p5] of honor. This effect will slowly decay as people forget this event, but it will require time. In the meantime, we should prepare for the worse.
 
 #event_lowpow
-Негативная власть государства!
+Недостаток политической силы!
 
 #event_lowpow_1
 State power is the capacity of your state to manage things. Without it, we will be unable to pass reforms and the loyalty of our territories is negatively impacted which may lead to popular rebellions.
