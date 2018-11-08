@@ -1,53 +1,53 @@
 #bdg_hous_n
-housing
+жилье
 
 #bdg_hous_dscr
 Accomodates population, improving their health and life quality.
 
 #bdg_prod_n
-production building
+производственное строение
 
 #bdg_prod_dscr
 Exploits terrain tiles to produce raw resources.
 
 #bdg_ind_n
-industrial building
+индустриальное строение
 
 #bdg_ind_dscr
 Produces goods out of existing resources.
 
 #bdg_srv_n
-service
+услуги
 
 #bdg_srv_dscr
 Produces a service (a non-material resources that cannot be stored).
 
 #bdg_stor_n
-storage
+хранилище
 
 #bdg_stor_dscr
 Stocks resources.
 
 #bdg_merch_n
-distribution
+распространение
 
 #bdg_merch_dscr
 Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sales incomes for themselves, reducing the producer's.
 
 #bdg_roads_n
-roads
+дороги
 
 #bdg_roads_dscr
 Improves unit movement on this tile and provides bonuses to connected buildings.
 
 #bdg_walls_n
-walls
+стены
 
 #bdg_walls_dscr
 Defensive structure that prevents all units from passing.
 
 #bdg_deco_n
-decorative
+декорации
 
 #bdg_deco_dscr
 Purely cosmetic elements to improve the look of your city.
@@ -59,184 +59,184 @@ defensive towers
 Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
 
 #bdg_battlem_n
-battlements
+бойницы
 
 #bdg_battlem_dscr
 Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during batlles.
 
 #bdg_annex_n
-annex
+пристройка
 
 #bdg_annex_dscr
 Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
 
 #bdg_pltf_n
-platforms
+платформы
 
 #bdg_pltf_dscr
 Platforms are a pigmade tile elevation you can build over. Defensive structures like towers and battlements can only be built over platforms. They are costly and slow to build.
 
 #bdg_stairs_n
-stairs
+лестницы
 
 #bdg_stairs_dscr
 Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
 
 #bdg_gates_n
-gate
+ворота
 
 #bdg_gates_dscr
 Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
 
 #bdg_all
-All buildings
+Все строения
 
 #txt_cider_n
-Cider mill
+Сидроварня
 
 #txt_cider_dscr
 Produce cider from apples. Cider is a distributable resource than satisfies the population needs for alcohols.
 
 #txt_brewery_n
-Brewery
+Пивоварня
 
 #txt_brewery_dscr
 Produce beer from barley. Beer is a distributable resource than satisfies the population needs for alcohols.
 
 #txt_claycamp_n
-Clay exploitation
+Добыча глины
 
 #txt_claycamp_dscr
 Can exploit clay terrain tiles to produce clay. Needs to be placed in range of clay deposits.
 
 #txt_claypit_n
-Clay pit
+Глиняная яма
 
 #txt_claypit_dscr
 Place directly over clay tiles. Increases clay production of these tiles.
 
 #txt_clothmk_n
-Clothmaker
+Изготовитель одежды
 
 #txt_clothmk_dscr
 Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
 
 #txt_gather_n
-Gathering camp
+Лагерь собирателей
 
 #txt_gather_dscr
 Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
 
 #txt_farm_n
-Farm
+Ферма
 
 #txt_farm_dscr
 Can create fields to produce a variety of agricultural resources. Can also exploit naturally present ones in range.
 
 #txt_fisher_n
-Fisherpig
+Рыбак
 
 #txt_fisher_dscr
 Can exploit wild fishes to produce fresh fish. Needs to be placed on the shore in range of a wild fishes spot.
 
 #txt_grnry_n
-Granary
+Амбар
 
 #txt_grnry_dscr
 Can store food resources.
 
 #txt_hslum_n
-Slum
+Трущобы
 
 #txt_hslum_dscr
 Slums that cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life quality and no health. 
 
 #txt_hrustc_n
-House
+Дом
 
 #txt_hrustc_dscr
 Rustic dwellings that provide low life quality and health bonuses.
 
 #txt_hconf_n
-Large house
+Большой дом
 
 #txt_hconf_dscr
 Comfortable dwellings that provide high life quality and health bonuses.
 
 #txt_hapt_n
-Apartment
+Апартаменты
 
 #txt_hapt_dscr
 Multistorey buildings that provide housing for multiple households.
 
 #txt_hunter_n
-Hunter
+Охотник
 
 #txt_hunter_dscr
 Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
 
 #txt_flint_n
-Flint collector
+Сборщик кремней
 
 #txt_flint_dscr
 Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
 
 #txt_platf1_n
-Wooden platform
+Деревянная платформа
 
 #txt_platf1_dscr
 A cheap low resistance platform. Usefull to make cheap defenses and bridges.
 
 #txt_platf2_n
-Stone platform
+Каменная платформа
 
 #txt_platf2_dscr
 A solid platform usefull to make resistent walls.
 
 #txt_dstrplatf_n
-Destroy platforms
+Уничтожить платформы
 
 #txt_dstrplatf_dscr
 Orders destruction of selected platforms.
 
 #txt_tow1_n
-Watchtower
+Сторожевая башня
 
 #txt_tow1_dscr
 A cheap but weak defensive tower made of leather covered wood. Fire arrows.
 
 #txt_tow2_n
-Wooden tower
+Деревянная башня
 
 #txt_tow2_dscr
 A defensive tower made of thick wooden beams. Fire arrows.
 
 #txt_tow3_n
-Stone tower
+Каменная башня
 
 #txt_tow3_dscr
 Stone towers are much more resistent than their wooden counterparts. Fire arrows.
 
 #txt_tow4_n
-Heavy tower
+Тяжелая башня
 
 #txt_tow4_dscr
 This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
 
 #txt_batlm1_n
-Wooden battlements
+Деревянные бойницы
 
 #txt_batlm1_dscr
 Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
 
 #txt_batlm2_n
-Stone battlements
+Каменные бойницы
 
 #txt_batlm2_dscr
 Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
 
 #txt_batlm3_n
-Machicolated stone battlements
+Каменные бойницы с мачикуляциями
 
 #txt_batlm3_dscr
 Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
@@ -248,19 +248,19 @@ Hoardings
 Excellent cover but weaker than stone battlements.
 
 #txt_market_n
-Market stand
+Рыночная стойка
 
 #txt_market_dscr
 Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
 
 #txt_field_n
-Field
+Поле
 
 #txt_field_dscr
 Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
 
 #txt_road1_n
-Dirt road
+Грязевая дорога
 
 #txt_road1_dscr
 A basic road and free to build road.
@@ -344,7 +344,7 @@ Tree gardens
 Decorative gardens with trees.
 
 #txt_grass_n
-Lawn
+Газон
 
 #txt_grass_dscr
 An area of soil covered with carefully maintained grass for aesthetic and recreational purposes.
@@ -356,19 +356,19 @@ Flowerbed
 A plain patch of flowers for decoration.
 
 #txt_woodc_n
-Woodcutter
+Лесоруб
 
 #txt_woodc_dscr
 Woodcutters can exploit most of the available trees in range to produce wood.
 
 #txt_merchant_n
-Merchant
+Торговец
 
 #txt_merchant_dscr
 Specialized distributors who make one selectable resource available to the population.
 
 #txt_mine_n
-Mining camp
+Шахтерский лагерь
 
 #txt_mine_dscr
 Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
@@ -380,7 +380,7 @@ Mining shaft
 Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
 
 #txt_paddock_n
-Paddock
+Загон
 
 #txt_paddock_dscr
 Paddocks allow the storage of livestock resources.
@@ -392,67 +392,67 @@ Elephant pen
 Elephant pens allow the storage of single large animals such as Elephants.
 
 #txt_potter_n
-Potter
+Гончар
 
 #txt_potter_dscr
 Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
 
 #txt_stonecut_n
-Stonecutter camp
+Лагерь камнетесов
 
 #txt_stonecut_dscr
 Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
 
 #txt_quarry_n
-Quarry
+Карьер
 
 #txt_quarry_dscr
 Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
 
 #txt_sawmill_n
-Sawmill
+Лесопилка
 
 #txt_sawmill_dscr
 The sawmill refines crude wood into wood planks, a material required to build many buildings.
 
 #txt_tannery_n
-Tannery
+Дубильня
 
 #txt_tannery_dscr
 Tanneries refine leather into leather cloth, a distributable resource filling the population needs in clothing.
 
 #txt_toolmk_n
-Tool-maker
+Изготовитель инструментов
 
 #txt_toolmk_dscr
 Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
 
 #txt_items_n
-Items
+Предметы
 
 #txt_items_dscr
 These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
 
 #txt_storegrnd_n
-Ground storage
+Наземное хранилище
 
 #txt_storegrnd_dscr
 Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
 
 #txt_warehouse_n
-Warehouse
+Склад
 
 #txt_warehouse_dscr
 Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
 
 #txt_weapmk_n
-Weapon-maker
+Оружейник
 
 #txt_weapmk_dscr
 Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
 
 #txt_weaver_n
-Weaver
+Ткач
 
 #txt_weaver_dscr
 The weaver refines different raw materials (cotton,flax,wool...) into textile. Textile can then be used for various things like clothmaking.
@@ -482,13 +482,13 @@ Reinforced gate
 A solid gate reinforced with iron.
 
 #txt_cattle_n
-Cattle farm
+Животноводческая ферма
 
 #txt_cattle_dscr
 The cattle farms allows you to create pastures that produce cattle.
 
 #txt_pastr_n
-Pasture
+Пастбище
 
 #txt_pastr_dscr
 An enclosed area of land where cattle can feed and breed.
@@ -500,25 +500,25 @@ Wool Pasture
 Pastures of wool producing animals, regularly sheared to collect their wool.
 
 #txt_builder_n
-Builders
+Строители
 
 #txt_builder_dscr
 Many buildings can only be constructed by professional teams of builders.
 
 #txt_butcher_n
-Butcher
+Мясник
 
 #txt_butcher_dscr
 Slaughters live cattle to produce fresh meat.
 
 #txt_well_n
-Well
+Колодец
 
 #txt_well_dscr
 Extracts water from the ground.
 
 #txt_watercol_n
-Water collector
+Водокачка
 
 #txt_watercol_dscr
 A point where people can collect fresh water from rivers or lakes.
@@ -530,13 +530,13 @@ Land docks
 Docks for land caravans, carrying goods across territories and required to operate trade routes.
 
 #txt_dock_n
-Docks
+Доки
 
 #txt_dock_dscr
 Docks for trade ships, carrying goods across territories and required to operate trade routes. 
 
 #txt_theater_n
-Theater
+Театр
 
 #txt_theater_dscr
 Provides entertainement to the Porcos.
@@ -548,19 +548,19 @@ Public baths
 A place of social gathering and relaxation which also provides better health.
 
 #txt_tavern_n
-Tavern
+Таверна
 
 #txt_tavern_dscr
 A place of social gathering to drink and party.
 
 #txt_forum_n
-Forum
+Форум
 
 #txt_forum_dscr
 A place of social gathering to discuss matters of the community.
 
 #txt_furnmkr_n
-Furniture maker
+Изготовитель мебели
 
 #txt_furnmkr_dscr
 Produces furniture, a distributable resource filling the population needs in Furnishings.
@@ -572,7 +572,7 @@ Carpet maker
 Produces rugs, a distributable resource filling the population needs in Furnishings.
 
 #txt_mudcamp_n
-Soil miner
+Добыча земли
 
 #txt_mudcamp_dscr
 A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
@@ -635,19 +635,19 @@ Washhouse
 A place where people can come wash their laundry.
 
 #txt_taxcol_n
-Tax collector
+Сборщик налогов
 
 #txt_taxcol_dscr
 Reduces waste by ensuring population pays correctly their taxes.
 
 #txt_scrib_n
-Scribe
+Писарь
 
 #txt_scrib_dscr
 Scribes at the service of the state help keep track of administrative matters.
 
 #txt_eldcounc_n
-Elder's council
+Совет старейшин
 
 #txt_eldcounc_dscr
 A council of elders to solve conflicts in the city.
@@ -659,7 +659,7 @@ Magistrate
 Reduces conflict in the population.
 
 #txt_school_n
-School
+Школа
 
 #txt_school_dscr
 School increases intelligence of the population.
@@ -677,25 +677,25 @@ Olives press
 Produces olive oil out of olives.
 
 #txt_bakery_n
-Bakery
+Пекарня
 
 #txt_bakery_dscr
 Makes bread from flour.
 
 #txt_mill_n
-Mill
+Мельница
 
 #txt_mill_dscr
 Crushes cereals to produce flour, easier to stock and used to make bread.
 
 #txt_libr_n
-Library
+Библиотека
 
 #txt_libr_dscr
 Stores knowledges.
 
 #txt_eldrcncl_n
-Elder's council
+Совет старейшин
 
 #txt_eldrcncl_dscr
 A council of elders that attempts to solve conflicts amongst the tribe and provides an early form of justice.
@@ -719,7 +719,7 @@ Rumery
 A distilery that produces rum out of sugarcane.
 
 #txt_trmarket_n
-Market
+Рынок
 
 #txt_trmarket_dscr
 Allows to create trade offers to exchange goods with other territories.
@@ -731,7 +731,7 @@ Academia
 Wise and knowledgable pigs who study science and arts increasing education and culture and contribute to research projects.
 
 #txt_doctor_n
-Doctor
+Доктор
 
 #txt_doctor_dscr
 Increases health of the population.

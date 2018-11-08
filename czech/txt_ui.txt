@@ -8,10 +8,10 @@ NOVÁ HRA
 NAČTI HRU
 
 #b_menu_join
-PŘIPOJ SE DO HRY
+NAJÍT HRU
 
 #b_menu_editor
-EDITOR
+EDITOR	
 
 #b_menu_options
 NASTAVENÍ
@@ -158,7 +158,7 @@ Real-time games
 Direct IP
 
 #joingame_connect
-PŘIPOJIT SE DO HRY
+PŘIPOJIT
 
 #servlst_name
 Název serveru
@@ -197,13 +197,13 @@ server's version
 The version of the game this server is currently running.
 
 #servlst_ver_c2
-Warning! Your version ([x]) does not match with the one of this server ([y])!
+Varování! Tvá verze hry ([x]) není shodná s verzí serveru ([y])!
 
 #servlst_nogam
 Sorry: It looks like there is currently no games available!
 
 #b_newgame_name
-Game name:
+Název hry:
 
 #b_newgame_public
 public
@@ -1442,7 +1442,7 @@ Demand
 Amount of this resource required by industries
 
 #ui_mres_indsold
-Sold
+Prodáno
 
 #uic_mres_indsold
 Amount of this resource actually distributed and sold to industries needing it
@@ -1466,10 +1466,10 @@ The total cost paid (by the state) for the amount being imported through trade r
 select resource to sell with this merchant
 
 #ui_menubdg_hire
-Hire one
+Najmout
 
 #ui_menubdg_fire
-Fire one
+Vyhodit
 
 #ui_menubdg_wkprio
 Priority of filling jobs in this building.
@@ -4430,19 +4430,19 @@ undecided
 Votes cast
 
 #uivote_yrvt
-YOUR VOTE
+Tvůj hlas
 
 #uivote_txt1
-You have not cast your vote yet. Select one of the possible choices below and vote. Warning: your vote is final and cannot be modified once validated!
+Ještě si nehlasoval. Dole si zvol jednu z možných volb. Pozor: tvůj hlas je definitivní a nemůže být změněn jakmile byl potvrzen!
 
 #uivote_txt2
-You have already cast your vote. It is final and you cannot edit it anymore. The result will be announced once the voting process is completed.
+Už si hlasoval. Tvuj hlas je definitví a už nemůže býti změněn. Výsledky budou zvěřejněný jakmile hlasování bude u konce.
 
 #uivote_choice
-choice
+volba
 
 #uivote_sendvt
-CAST VOTE!
+HLASOVAT!
 
 #regstatus_claim_1
 An empty territory can be claimed by your state and included in your official frontiers.
@@ -4493,13 +4493,13 @@ The territory has too much resistance to be made a colony!
 You cannot change the status of your capital city!
 
 #voxclss_wall
-Walls
+Zdi
 
 #voxclss_wind
-Windows
+Okna
 
 #voxclss_door
-Doors
+Dveře
 
 #voxclss_pilr
 Pillars
@@ -4526,7 +4526,7 @@ Treaty of unification
 Vassality treaty
 
 #treaty_trade
-Trading agreement
+Obchodní dohoda
 
 #treaty_trtry
 Territorial transfer
@@ -4535,10 +4535,10 @@ Territorial transfer
 Knowledges transfer
 
 #treaty_pass
-Treaty of passage
+Dohoda o možnosti průchodu
 
 #treaty_deflt
-Treaty
+Dohoda
 
 #ui_colchos
 click to select a color
@@ -4607,10 +4607,10 @@ We have recovered
 We have recovered [x] from the demolition of a [y].
 
 #charstate_1
-Inactive
+Neaktivní
 
 #charstate_2
-Active
+Aktivní
 
 #charstate_3
 Dead
@@ -4622,22 +4622,22 @@ Powerless
 This building is currently inaccessible!
 
 #formact_none
-Move
+Přesunout
 
 #formact_camp
-Encamp
+Vytvořit kamp
 
 #formact_hunt
-Hunt
+Lovit
 
 #formact_captr
-Capture
+Chytit
 
 #formact_settle
 Settle
 
 #formact_raid
-Raid
+Rabovat
 
 #formact_sack
 Sack

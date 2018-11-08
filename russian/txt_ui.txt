@@ -8,7 +8,7 @@
 ЗАГРУЗИТЬ ИГРУ
 
 #b_menu_join
-ПРИСОЕДИНИТЬСЯ К ИГРЕ
+ПРИСОЕДИНИТЬСЯ
 
 #b_menu_editor
 РЕДАКТОР
@@ -116,13 +116,13 @@ FX
 Включить или отключить этот эффект пост-обработки
 
 #b_menuop_mvol
-Громкость музыки
+Музыка
 
 #b_menuop_ambvol
-Громкость звуков окружения
+Окружение
 
 #b_menuop_uivol
-Громкость звуков интерфейса
+Интерфейс
 
 #b_menuop_lang
 Язык
@@ -158,7 +158,7 @@ FX
 Прямой IP
 
 #joingame_connect
-ПРИСОЕДИНИТЬСЯ К ИГРЕ
+Войти
 
 #servlst_name
 Имя сервера
@@ -320,7 +320,7 @@ Steam - имя хоста сервера
 Холодные пустынные миры с малым количеством пригодных территорий.
 
 #maptyp6
-Tropico
+Тропическая
 
 #maptyp6_dscr
 Теплые и влажные морские миры с множеством тропических островов.
@@ -596,7 +596,7 @@ Tropico
 Можно запасать
 
 #b_bdginf_mcap
-Мощность распределения
+Распределение власти
 
 #ui_place_form0
 Новый лагерь формирования
@@ -932,7 +932,7 @@ Tropico
 Территориальный валовой внутренний продукт
 
 #bc_menureg_gdp2
-Сумма всех монетных доходов на территории
+Сумма всех доходов на территории
 
 #b_menureg_wlth
 богатство территории:
@@ -1184,7 +1184,7 @@ M
 В настоящее время это общество работает без какой-либо формы валюты, и люди просто делят все в обществе: у правительства нет казны, доходов или трат.
 
 #ui_eco_lead
-Личностное богатство лидера
+Личное богатство лидера
 
 #ui_eco_lead_c1
 Лидер в настоящее время направляет [x]% его личного богатства [y] государственным финансам.
@@ -1487,7 +1487,7 @@ M
 Будет даже запасаться прямо на земле, если нет свободного места.
 
 #storpol_restr
-только в ограниченных
+с ограничением
 
 #storpol_c_restr1
 Разрешено хранить только этот ресурс только в действительных хранилищах в ограниченном режиме.
@@ -1496,10 +1496,10 @@ M
 Если их нет, дополнительные ресурсы будут уничтожены.
 
 #storpol_none
-нет чулок
+не запасать
 
 #storpol_c_none1
-Заполнение этого ресурса отключено.
+Хранение этого ресурса отключено.
 
 #storpol_c_none2
 Все дополнительные ресурсы уничтожены.
@@ -1511,10 +1511,10 @@ M
 Если текущий запас ниже желаемого значения, 25% продукции будет зарезервировано и заблокировано для увеличения запаса.
 
 #stormntn_set
-Установите поддерживающий запас минимум [x] [y].
+Установлено поддержание запаса минимум [x] [y].
 
 #storownr_set
-Установите сохранение минимального значения [x] [y].
+Установлено поддержание запаса минимум [x] [y].
 
 #storownr_enab
 [x] теперь является государственным ресурсом (вся продукция, купленная вами автоматически).
@@ -1562,7 +1562,7 @@ M
 Эффекты: способствует вашей общей культуре, влияет на лояльность, увеличивает интеллект населения
 
 #regcltr_1
-Культура представляет собой общие знания, обычаи и поведение людей на этой территории.
+Культура представляет собой общие знания, обычаи и поведение жителей на этой территории.
 
 #regcltr_2
 Тогда общая культура, основанная на количестве населения, может быть распределена между различными типами культур. «Государственная культура» представляет вашу культуру. «Местная культура» представляет обычаи и поведение, характерные для этой территории, и отличается от вашей основной культуры, разделяемой между всеми вашими людьми. Могут также присутствовать и другие иностранные культуры.
@@ -1574,7 +1574,7 @@ M
 Рост представляет собой демографическую эволюцию вашего населения на этой территории.
 
 #reggrwth_2
-Рост сильно зависит от «размножающейся воли» людей, которая определяет, сколько пар будут иметь детей в следующем поколении.
+Рост сильно зависит от «воли к размножению» жителей, которая определяет, сколько пар будут иметь детей в следующем поколении.
 
 #popw_base
 Базовые богатства
@@ -1586,7 +1586,7 @@ M
 привилегированности
 
 #popneed_sat
-УДОВЛЕТВОРЕНИЕ ПОТРЕБНОСТЕЙ
+Потребности
 
 #popstat_wealth
 БОГАТСТВО
@@ -1619,10 +1619,10 @@ M
 ИНТЕЛЛЕКТ
 
 #popstat_intel_c1
-Интеллект - это способность создавать алгориты, измеряющие вероятности Истины.
+Интеллект - это способность создавать алгоритмы, измеряющие вероятности Истины.
 
 #popstat_intel_c2
-Интеллектуальные porcos будут генерировать больше идей и культуры, но, как правило, неудобнее и труднее контролировать.
+Интеллектуальные порко будут генерировать больше идей и культуры, но, как правило, неудобнее и труднее контролировать.
 
 #popneed_qual
 качество удовлетворенности
@@ -1634,10 +1634,10 @@ M
 продукты
 
 #popneed_water
-воды
+вода
 
 #popneed_furnish
-обстановка
+мебель
 
 #popneed_cloth
 одежда
@@ -1820,7 +1820,7 @@ IP-адрес сервера
 Количество регионов
 
 #statepow_nbcit_c1
-В настоящее время мы контролируем дополнительные регионы. Каждый регион, кроме капитала, стоит государственной власти.
+В настоящее время мы контролируем дополнительные регионы. Каждый регион, кроме столицы, стоит государственной власти.
 
 #statepow_debt
 Задолженности
@@ -1871,478 +1871,477 @@ IP-адрес сервера
 Количество подданых: [x]
 
 #statepow_forms
-Maintenance of formations
+Поддержание формаций
 
 #statepow_forms_c1
-Each formation you own can cost some State Power to maintain.
+Каждая формация, которой вы владеете, стоит государственной власти для поддержания.
 
 #conf_c1
-The current effective conflict of the territory
+Нынешний фактический конфликт территории
 
 #conf_var_c1
-The current conflict variation of the territory
+Текущая вариация конфликта на территории
 
 #conf_gpop
-Population
+Население
 
 #conf_gstate
-Policies
+Политики
 
 #conf_gserv
-Services
+Сервисы
 
 #conf_pop
-Base conflict
+Базовый конфликт
 
 #conf_pop_c1
-The total population in the territory will naturally generate conflict, used as a base for other factors.
+Общая численность населения на территории порождает конфликт, используемый в качестве основы для других факторов.
 
 #conf_state
-Policies ([x]%)
+Политики ([x]%)
 
 #conf_state_c1
-Current government policies can effect the base conflict from population.
+Текущая политика правительства может повлиять на базовый конфликт.
 
 #conf_serv
-Services ([x]%)
+Услуги ([x]%)
 
 #conf_serv_c1
-Services in the territory like Justice can reduce the final conflict level, depending on how well population has access to them.
+Услуги на территории, такие как Правосудие, могут снизить уровень конечного конфликта, в зависимости от того, насколько хорошо население имеет доступ к ним.
 
 #loyal_c1
-The current effective loyalty of the territory
+Нынешняя лояльность территории
 
 #loyal_var_c1
-The current loyalty variation of the territory
+Текущее изменение лояльности территории
 
 #loyal_pop
-population
+Население
 
 #loyal_pop_c1
-How population factors affect the loyalty of the territory.
+Как демографические факторы влияют на лояльность территории.
 
 #loyal_cult
-from cultural balance
+от культурного баланса
 
 #loyal_cult_c1
-The balance between state and local cultures can affect positively or negatively the loyalty of the territory.
+Баланс между государственной и местной культурой может положительно или отрицательно повлиять на лояльность территории.
 
 #loyal_state
-state
+государство
 
 #loyal_state_c1
-How global state factors affect the loyalty of the territory.
+Как глобальные факторы состояния влияют на лояльность территории.
 
 #loyal_legit
-from state legitimacy
+от государственной легитимности
 
 #loyal_legit_c1
-State legitimacy affects the loyalty of all territories.
+Государственная легитимность влияет на лояльность всех территорий.
 
 #loyal_statepow
-from state power
+от государственной власти
 
 #loyal_statepow_c1
-State power affects the loyalty of all territories.
+Государственная власть влияет на лояльность всех территорий.
 
 #loyal_hightax
-high taxes
+высокие налоги
 
 #loyal_hightax_c1
-When the sum of all state taxes exceed 50%, it starts to upset people and reduces their loyalty to the state.
+Когда сумма всех государственных налогов превышает 50%, это начинает злить людей и снижает их лояльность к государству.
 
 #loyal_prvldg
-priviledges
+привилегии
 
 #loyal_prvldg_c1
-Priviledges upset the people and reduce their loyalty to the state.
+Привилегии расстраивают людей и снижают их лояльность государству.
 
 #loyal_autho
-authority
+власть
 
 #loyal_autho_c1
-How the different factors of authority affect the loyalty of the territory.
+Как различные факторы власти влияют на лояльность территории.
 
 #loyal_statearmy
-state troops
+государственные войска
 
 #loyal_statearmy_c1
-The presence of state troops increases the state's authority in the territory.
+Присутствие государственных войск увеличивает полномочия государства на территории.
 
 #loyal_guard
-guards
+охрана
 
 #loyal_guard_c1
-The total produced guarding service increases the authority of the state.
+Общая произведенная охрана повышает авторитет государства.
 
 #loyal_garrison
-local garrison
+местный гарнизон
 
 #loyal_garrison_c1
-Providing military equipment to the citizens of the territory to defend themselves also makes them more confident to defy the state's authority.
+Предоставление оружия гражданам территории для защиты самих себя также делает их более уверенными в том что можно игнорировать власть государства.
 
 #loyal_poppow
-amount of population
+количество населения
 
 #loyal_poppow_c1
-The more population there is, the less authority. The total amount of population reduces the territory's loyalty.
+Чем больше население, тем меньше полномочий. Общая численность населения снижает лояльность территории.
 
 #loyal_conf
-conflict
+конфликт
 
 #loyal_conf_c1
-Territory conflict reduces the authority of your government in this territory as it creates instability.
+Территориальный конфликт уменьшает авторитет вашего правительства на этой территории, поскольку это создает нестабильность.
 
 #loyal_events
-events
+События
 
 #loyal_events_c1
-Some events can affect temporarly the loyalty of the territory.
+Некоторые события могут временно повлиять на лояльность территории.
 
 #loyal_revolts
-recent revolts
+недавние восстания
 
 #loyal_revolts_c1
-Recent unrest and revolts temporarly increase loyalty of the territory
+Недавние волнения и восстания временно повышают лояльность территории
 
 #loyal_stateev
-recent state events
+последние государственные события
 
 #loyal_stateev_c1
-Recent state events temporarly affecting the loyalty of the territory
+Последние события, временно влияющие на лояльность территории
 
 #loyal_resist
-resistance!
+сопротивление!
 
 #loyal_resist_c1
-Loyalists to the previous owner of this territory ([x])
+Лоялисты предыдущему владельцу этой территории ([x])
 
 #loyal_lvl0
-critically disloyal! very high risk of rebellion
+критическая нелояльность! очень высокий риск восстания
 
 #loyal_lvl1
-low loyalty: there is a risk of rebellion
+низкая лояльность: существует риск восстания
 
 #loyal_lvl2
-questionnable loyaty: there is a moderate risk of unrest
+сомнительная лояльность: существует умеренный риск беспорядков
 
 #loyal_lvl3
-good loyalty: this territory is stable
+хорошая лояльность: эта территория стабильна
 
 #loyal_lvl4
-devoted: this territory's loyalty to the state is unquestionnable
+предана: лояльность к государству неоспорима
 
 #admin_capacit
-production
+производство
 
 #admin_capacit_c1
-Total administration available in this territory.
+Общее администрирование доступное на этой территории.
 
 #admin_streg
-territorynal policies
+территориальные политика
 
 #admin_streg_c1
-Administration generated from active power policies affecting all territories.
+Администрирование, генерируемое из активных политик власти, влияющей на все территории.
 
 #admin_stcity
-city policies
+городские политики
 
 #admin_stcity_c1
-Administration generated from active power policies affecting cities.
+Администрирование, генерируемое из активных политик власти, влияющей на города.
 
 #admin_stcap
-capital policies
+политики капитала
 
 #admin_stcap_c1
-Administration generated from active power policies affecting the capital.
+Администрирование, генерируемое из активных политик власти, влияющей на столицу.
 
 #admin_scrib
-scribes
+писцы
 
 #admin_scrib_c1
-Extra administration produced by Scribes.
+Дополнительное администрирование, производимое писцами.
 
 #admin_reg
-local
+местное
 
 #admin_reg_c1
-Local factors affecting administration.
+Местные факторы, влияющие на администрацию.
 
 #admin_pop
-population management
+управление населением
 
 #admin_pop_c1
-Administration cost from the total population of this territory.
+Стоимость администрирования от общей численности населения этой территории.
 
 #admin_bdg
-buildings management
+управление зданиями
 
 #admin_bdg_c1
-Total cost of buildings requiring administration in this territory.
+Общая стоимость зданий, требующих администрации на этой территории.
 
 #admin_glob
-global
+Глобальный
 
 #admin_glob_c1
-Global factors affecting this territory's administration.
+Глобальные факторы, влияющие на администрацию этой территории.
 
 #admin_nbcit
-number of regions
+количество регионов
 
 #admin_nbcit_c1
--[x]% of administration per non-capital region
+- [x]% от администрирования за каждый не столичный регион
 
 #admin_nbcit_c2
-number of extra regions under your control: [x]
+количество дополнительных регионов под вашим контролем: [x]
 
 #admin_dist
-distance from capital
+расстояние от столицы
 
 #admin_dist_c1
--[x]% of administration per distance to the capital in territories
+- [x]% от администрации на расстояние от столицы на территориях
 
 #admin_dist_c2
-distance from capital: [x]
+расстояние от столицы: [x]
 
 #admin_claim
-Regional claims
+Региональные претензии
 
 #admin_claim_c1
-The management cost of all the territorial claims made by this region.
+Стоимость управления всеми территориальными претензиями этого региона.
 
 #admin_claim_c2
-number of claims: [x]
+количество претензий: [x]
 
 #admin_ter
-Regional territories
+Региональные территории
 
 #admin_ter_c1
-The management cost of all the additionnal territories belonging to this region.
+Стоимость управления всеми дополнительными территориями, принадлежащими этому региону.
 
 #admin_ter_c2
-number of annexed territories: [x]
+число прилегающих территорий: [x]
 
 #cultr_state
-state culture
+государственная культура
 
 #cultr_local
-local culture
+местная культура
 
 #cultr_pop
-culture from population
+культура от населения
 
 #cultr_srv
-culture from services
+культура от услуг
 
 #eco_balance
-Balance
+Баланс
 
 #growth_males
-Porcos variation
+Порко
 
 #growth_sows
-Sows variation
+Свиножены
 
-#growth_piglets
-Piglets variation
+Поросята
 
 #growth_oldpigs
-Oldpigs variation
+Старосвины
 
 #growth_mnew
-male piglets reaching adulthood
+поросята мужского пола достигают совершеннолетия
 
 #growth_msick
-sickness
+болезни
 
 #growth_mmurder
-murders
+убийства
 
 #growth_mage
-aging porcos becoming oldpigs
+стареющие порко становятся старосвинами
 
 #growth_munitsup
-aging in formations: [x] porcos in supported units (free support for [y])
+старение в формациях: [x] порко в поддерживаемых единицах (бесплатная поддержка для [y])
 
 #growth_snew
-female piglets reaching adulthood
+поросята женского пола достигают совершеннолетия
 
 #growth_ssick
-sickness
+болезни
 
 #growth_smurder
-murders
+убийства
 
 #growth_sage
-aging sows becoming oldpigs
+стареющие свиножены становятся старосвинами
 
 #growth_pnew
-births
+рождения
 
 #growth_psick
-sickness
+болезни
 
 #growth_pmurder
-murders
+убийства
 
 #growth_page
-reaching adulthood
+взросление
 
 #growth_onew
-aging population becoming oldpigs
+стареющее население становится старосвинами
 
 #growth_osick
-sickness
+болезни
 
 #growth_omurder
-murders
+убийства
 
 #growth_odeath
-natural deaths
+естественные смерти
 
 #breed_chance
-breeding rate
+Прирост
 
 #breed_chance_dscr
-The predicetd percentage of sows that will have piglets during the next generation.
+Прогнозируемый процент свиножен, которые будут иметь поросят в течение следующего поколения.
 
 #breed_chance_c
-[x] sows will breed during the next generation
+[x] свиножен будут размножаться в течение следующего поколения
 
 #breed_base
-basic breeding rate
+базовый уровень размножения
 
 #breed_intel
-intelligence influence
+влияние интеллекта
 
 #breed_totpop
-total population effect
+общий эффект популяции
 
 #breed_piglets
-piglets per sow influence
+поросята на свиножену
 
 #breed_smcity
-small city boost
+небольшой прирост города
 
 #breed_vit
-missing vital needs influence
+отсутствие жизненных потребностей
 
 #breed_fertil
-fertility
+фертильность
 
 #breed_fertil_c
-the average number of piglets per litter
+среднее количество поросят на семью
 
 #growth_genlen
-generation lenght
+длина поколения
 
 #growth_genlen_c1
-The amount of time a generation of Porcos lasts. 
+Время, в течение которого поколение Порко длится.
 
 #growth_genlen_c2
-Porcos live up to 5 generations: one as a piglet, 3 as adults and 1 as oldpigs. That makes their total lifespan last up to [x].
+Порко живут 5 поколений: 1 как поросенок, 3 как взрослые и 1, как старосвины. Это увеличивает срок их службы до [x].
 
 #growth_pergen
-next generation prediction
+предсказание следующего поколения
 
 #growth_pergen_c
-predicted variation of the total population for the next generation
+прогнозируемое изменение общей численности населения для следующего поколения
 
 #growth_c
-current variation rate of the total population
+текущий коэффициент вариации общей численности населения
 
 #ui_growthdel
-Estimated for the next generation...
+Предполагаемый для следующего поколения ...
 
 #troop_recruit
-recruit a new troop
+набирать новый отряд
 
 #b_dplmode
-Strategic tool
+Стратегический инструмент
 
 #bc_dplmode
-Go to deployment mode, where you can manage the deployment positions and orders of all your troops.
+Перейдите в режим развертывания, где вы можете управлять позициями и порядком ваших войск.
 
 #forminv_add
-add resources
+добавить ресурсы
 
 #ui_recruit_resist
-You cannot recruit new units in a territory with resistance.
+Вы не можете набирать новые подразделения на территории с сопротивлением.
 
 #ui_recruit_immo
-You cannot modify troops while this formation is immobilized.
+Вы не можете изменять войска, пока этот юнит иммобилизован.
 
 #ui_recruit_nothm
-You cannot recruit new units outside this formation's home territory ([x]).
+Вы не можете набирать новые юниты вне своей территории ([x]).
 
 #ui_recruit_cant
-You cannot recruit or disband troops in territories you do not control.
+Вы не можете набирать или распускать войска на территориях, которые вы не контролируете.
 
 #ui_recruit_noup
-( militias upkeep is lower as it doesnt include a soldier's salary )
+(содержание милиции ниже, поскольку оно не включает в себя солдатскую зарплату)
 
 #ui_recruit_nopop
-( no population mobilized because it's a local militia )
+(население не мобилизовано, потому что это местная милиция)
 
 #ui_recruit_cost_1
-Cost to recruit one unit.
+Стоимость набора одного подразделения.
 
 #ui_recruit_cost_2
-Includes a training cost plus the price of its equipment.
+Включает стоимость обучения плюс стоимость ее предметов.
 
 #ui_recruit_cost_3
-- Cost of training: [x]
+- Стоимость обучения: [x]
 
 #ui_recruit_cost_4
-- Cost of equipment: [x]
+- Стоимость предметов: [x]
 
 #ui_recruit_totcost
-Total recruitment cost
+Общая стоимость набора
 
 #ui_recruit_nopay
-You do not have enough funds to recruit these new units!
+У вас недостаточно средств для набора этих единиц!
 
 #ui_recruit_max_pop
-More population needed!
+Нужно больше населения !
 
 #ui_recruit_max_ts
-Maximum size of this troop is [x] units.
+Максимальный размер этого отряда - [x].
 
 #ui_recruit_max_res
-[x] needed!
+[x] нужен!
 
 #ui_recruit_cost
-Cost per unit
+Стоимость юнита
 
 #ui_recruit_civ
-civilian units
+гражданские подразделения
 
 #ui_recruit_inf
-melee units
+юниты ближнего боя
 
 #ui_recruit_arc
-range units
+диапазоны
 
 #ui_recruit_cav
-mounted units
+верховые отряды
 
 #ui_recruit_full
-This formation is full!
+Этот отряд заполнен!
 
 #ui_recruit_totpop
-Total population available for this unit in the territory: [x] 
+Общее население, доступное для данного подразделения на территории: [x]
 
 #ui_recruit_inact
-Currently inactives: [x]
+В настоящее время неактивны: [x]
 
 #ui_recruit_rcrt
-Recruit
+Нанять
 
 #ui_recruit_dsbd
-Disband
+Расформировать
 
 #ui_recruit_trsfr
-Transfer
+Передать
 
 #ui_recruit_AP
 This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
@@ -2555,10 +2554,10 @@ predicted cost to build these platforms
 This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and platforms will be built over time to match this preview, also consuming resources in the process.
 
 #ui_builderr_ter
-You cannot place this [x] here.
+Вы не можете построить [x] здесь.
 
 #ui_builderr_res
-You're missing [x] of [y] to build this [z].
+Вам не хватает [x] [y] для постройки этого [z].
 
 #ui_builderr_coin
 You do not have enough coins to build this [x].
@@ -4607,13 +4606,13 @@ We have recovered
 We have recovered [x] from the demolition of a [y].
 
 #charstate_1
-Inactive
+Безработные
 
 #charstate_2
-Active
+Работающие
 
 #charstate_3
-Dead
+Мертвые
 
 #charstate_4
 Powerless
@@ -4622,31 +4621,31 @@ Powerless
 This building is currently inaccessible!
 
 #formact_none
-Move
+Двигаться
 
 #formact_camp
-Encamp
+Лагерь
 
 #formact_hunt
-Hunt
+Охотиться
 
 #formact_captr
-Capture
+Захватить
 
 #formact_settle
-Settle
+Заселить
 
 #formact_raid
-Raid
+Набег
 
 #formact_sack
-Sack
+Грабить
 
 #formact_invd
-Invade
+Захватить
 
 #formact_batl
-Battle
+Сражаться
 
 #formhome_title
 Changing this formation's home...

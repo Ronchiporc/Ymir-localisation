@@ -1,8 +1,8 @@
 #msn1
-Creating a first settlement
+Создание вашего первого поселения
 
 #msn1_1
-Greetings, [x].
+Приветствую [x].
 
 #msn1_2
 After living as nomads since the dawn of times, living of hunting and gathering, your primitive tribe has finally stumbled upon a territory that seemed worthy of renouncing their nomadic ways. The time has come to settle down and build something significant to resist the test of time, and they have chosen you to lead them.
@@ -11,13 +11,13 @@ After living as nomads since the dawn of times, living of hunting and gathering,
 This seems to be a decent territory to do so, but maybe it's worth continuing your journey to find better lands ( not adviced for new players ), the decision is yours.
 
 #msn1_o_1
-Settle your tribe in a territory
+Поселите ваше племя
 
 #msn1_o_2
 Select your tribe formation in the world map, clic on the 'orders' button in its menu (bottom-left) and then select the order 'settle' to create a new settlement.
 
 #msn2
-Water for the tribe
+Вода для племени
 
 #msn2_1
 Our newly settled tribe now urgently needs fresh water to survive!
@@ -35,7 +35,7 @@ Build a water collector on the shore of any source of fresh water.
 In the building tabs, select the water collector and find a valid spot to place it on the shore of fresh water tiles. This building does not require anything and will automatically produce and distribute some water to the population, satisfying their vital need for water.
 
 #msn3
-Hunting
+Охота
 
 #msn3_1
 Our newly settled tribe will quickly starve if we do not find food.
@@ -50,7 +50,7 @@ Build a hunting camp to hunt naturally present wild animals and produce meat.
 Go in your newly settled territory. In the building tabs, select the hunting camp and scan the terrain. The highlighted area around the building is its range. Exploitable tiles show up in green. Look for animals and place the hunting camp in range so that it will produce meat.
 
 #msn4
-Gathering
+Собирательство
 
 #msn4_1
 It seems there is also plants in the territory that produce vegetables and fruits we can harvest to feed the tribe.
@@ -65,7 +65,7 @@ Build a gathering camp to exploit edible plants and produce more food.
 In your newly settled territory, in the building tabs, select the gathering camp and scan the terrain. The highlighted area around the building is its range. Exploitable tiles show up in green. Look for edible plants and place the gathering camp in range so that it will harvest them and produce food.
 
 #msn5
-Tools
+Инструменты
 
 #msn5_1
 We were only carrying a few stone stools with us. Those are required for pretty much everything and soon we will need new ones if we want to keep developping the tribe! 
@@ -80,7 +80,7 @@ Build a tool maker and a flint collector to start a production of Hammers.
 Hammers are the first type of tools. Unlike foods, the population itself doesnt consume or need it, but they are required to build many things.
 
 #msn6
-Wood
+Древесина
 
 #msn6_1
 We will also need wood to make things. 
@@ -95,7 +95,7 @@ Build a wood gatherer near trees to start a production of Wood.
 Wood, like Hammers, is not a resource consummed directly by population. But it is required for many constructions and as a material for some production buildings as well.
 
 #msn7
-Defending the tribe
+Защита племени
 
 #msn7_1
 There might be hostile barbarians around and other unfriendly tribes. We need to be ready to defend ourselves!
@@ -113,7 +113,7 @@ Create a militia to defend the tribe.
 Go to the military tab of your territory and create a new formation of the 'militia' type. Place their campment and recruit 'rockthrowers' into it. Use the strategic tool de deploy them and set their behavior to "stand ground", ideally inside a small fort of wooden palissades.
 
 #msn8
-New ideas and knowledges
+Новые идеи и знания
 
 #msn8_1
 Occasionally, Porcos of our tribe will get new ideas about how to improve our society and techniques. Ideas from other tribes might reach us as well. These ideas unlock 'projects' we can complete to unlock and master new knowledges. 
@@ -134,7 +134,7 @@ Complete your first project to unlock the knowledge of Sedentism.
 In the government tab (crown button on the top left of the screen), go to the knowledges tab and select the Sedentism project. Assign researchers to it and start it and wait until its competed.
 
 #msn_houses
-Build your first houses
+Постройте ваши первые дома
 
 #msn_houses_1
 Now that we have Sedentarity, we can build our first permanent dwellings : primitive rustic huts.
@@ -149,7 +149,7 @@ Building your first houses
 In the building tab, select the rustic house building and place at least 10 of them.
 
 #msn_frstform
-First explorers
+Первые разведчики
 
 #msn_frstform_1
 Now that our population is growing, we should think about forming a group to go explore our surroundings. For this we should gather a group of at least 10 warriors of the tribe and get them ready to move out of the village!
@@ -161,7 +161,7 @@ Unlike the 'militia', troops recruited in a regular army are actually removed fr
 Each formation has a 'home' territory which is by default the place where it was created. The home territory is the territory that 'supports' the formation representing the fact its units will need to be replaced as they grow old and that time passes. Each territory can support for free a certain amount of troops before having its demography negatively impacted, and you can check this value in the Territory Menu.
 
 #msn_frstform_o_1
-Create your first army
+Создайте вашу первую армию
 
 #msn_frstform_o_2
 Create a new formation of the 'army' type. Place their campment and recruit at least 10 warriors in it.
@@ -170,7 +170,7 @@ Create a new formation of the 'army' type. Place their campment and recruit at l
 Victory mission: be the first to complete it to earn Victory Points!
 
 #vmsn_totpop
-The biggest population
+Самое большое население
 
 #vmsn_totpop_1
 For the glory of our people, we should be the first to unite as many people as possible under the same banner!
@@ -179,7 +179,7 @@ For the glory of our people, we should be the first to unite as many people as p
 Be the first player to reach this amount of total population in ALL your territories combined.
 
 #vmsn_regpop
-The largest city
+Самый большой город
 
 #vmsn_regpop_1
 For the glory of our people, we should be the first to build the largest city that's ever been!
@@ -188,7 +188,7 @@ For the glory of our people, we should be the first to build the largest city th
 Be the first player to reach this amount of total population in a single territory.
 
 #vmsn_frstknw
-First discoverer
+Первооткрыватель
 
 #vmsn_frstknw_1
 For the glory of our people, we should be the first to master this new knowledge!
@@ -206,7 +206,7 @@ For the glory of our people, we should cumulate the largest treasure in Gold ing
 Be the first player to cumulate the required amount of gold ingots in one territory.
 
 #vmsn_frstbdg
-First builder
+Первый строитель
 
 #vmsn_frstbdg_1
 For the glory of our people, we should be the first to complete the construction of these buildings!
@@ -215,7 +215,7 @@ For the glory of our people, we should be the first to complete the construction
 Be the first to complete de construction of all the required buildings in one territory.
 
 #vmsn_army
-Strongest army
+Сильнейшая армия
 
 #vmsn_army_1
 For the glory of our people, we should show our strenght by having the most powerful army in the world!
@@ -224,7 +224,7 @@ For the glory of our people, we should show our strenght by having the most powe
 Be the first to reach this level of military strenght, with all your Armies combined.
 
 #vmsn_nbreg
-Largest territory
+Самая большая территория
 
 #vmsn_nbreg_1
 For the glory of our people, we should demonstrate our domination by controlling the biggest territory in the world!

@@ -1,464 +1,464 @@
 #r_all
-All resources
+Все ресурсы
 
 #rcat_prod
-Products
+Продукты
 
 #rcat_food
-Foods
+Пища
 
 #rcat_weapon
-Weapons
+Оружие
 
 #rcat_animal
-Animals
+Животные
 
 #rcat_slave
-Slaves
+Рабы
 
 #rcat_service
-Services
+Услуги
 
 #rcat_drink
-Drinks
+Напитки
 
 #rprdg_cltv
-cultivated
+культивировано
 
 #rprdg_animal
-animals
+животные
 
 #rprdg_weapon
-weapons
+оружие
 
 #rprdg_mine
-mined
+добывается
 
 #rprdg_quarry
-quarry
+карьер
 
 #rprdg_smelt
-metals
+металлы
 
 #rprdg_tool
-tools
+инструменты
 
 #r_hammers
-Hammers
+Молотки
 
 #r_axes
-Axes
+Топоры
 
 #r_shovels
-Shovels
+Лопаты
 
 #r_saws
-Saws
+Пилы
 
 #r_pickaxes
-Pickaxes
+Кирки
 
 #r_hoes
-Hoes
+Мотыги
 
 #r_ploughs
-Ploughs
+Плуги
 
 #r_wood
-Wood
+Дерево
 
 #r_planks
-Planks
+Доски
 
 #r_mud
-Mud
+Грязь
 
 #r_mudbricks
-Mudbricks
+Грязевые кирпичи
 
 #r_bricks
-Bricks
+Кирпичи
 
 #r_ashes
-Ashes
+Пепел
 
 #r_plaster
-Plaster
+Штукатурка
 
 #r_cement
-Cement
+Цемент
 
 #r_charcoal
-Charcoal
+Древесный уголь
 
 #r_flints
-Flints
+Кремни
 
 #r_stone
-Stone
+Камень
 
 #r_stoneblocs
-Stoneblocs
+Каменные блоки
 
 #r_slate
-Slate
+Сланец
 
 #r_limestone
-Limestone
+Известняк
 
 #r_granit
-Granit
+Гранит
 
 #r_sandstone
-Sandstone
+Песчаник
 
 #r_marble
-Marble
+Мрамор
 
 #r_orecopper
-Copper ore
+Медная руда
 
 #r_oretin
-Tin ore
+Оловянная руда
 
 #r_oreiron
-Iron ore
+Железная руда
 
 #r_oresilver
-Silver ore
+Серебряная руда
 
 #r_oregold
-Gold ore
+Золотая руда
 
 #r_coal
-Coal
+Каменный уголь
 
 #r_coke
-Coke
+Кокс
 
 #r_copper
-Copper
+Медь
 
 #r_tin
-Tin
+Олово
 
 #r_bronze
-Bronze
+Бронза
 
 #r_iron
-Iron
+Железо
 
 #r_steel
-Steel
+Сталь
 
 #r_silver
-Silver
+Серебро
 
 #r_gold
-Gold
+Золото
 
 #r_leather
-Leather
+Кожа
 
 #r_cotton
-Cotton
+Хлопок
 
 #r_flax
-Flax
+Лен
 
 #r_wool
-Wool
+Шерсть
 
 #r_textile
-Textile
+Текстиль
 
 #r_cloth
-Cloth
+Ткань
 
 #r_leathercloth
-Leathercloth
+Кожанная одежда
 
 #r_rabbits
-Rabbits
+Кролики
 
 #r_deer
-Deer
+Олени
 
 #r_dogs
-Dogs
+Собаки
 
 #r_cows
-Cows
+Коровы
 
 #r_buffalos
-Buffalos
+Буйволы
 
 #r_ostriches
-Ostriches
+Страусы
 
 #r_horses
-Horses
+Лошади
 
 #r_camels
-Camels
+Верблюды
 
 #r_elephants
-Elephants
+Слоны
 
 #r_mammoths
-Mammoths
+Мамонты
 
 #r_sheeps
-Sheeps
+Овцы
 
 #r_chickens
-Chickens
+Куры
 
 #r_caipibaras
-Caipibaras
+Капибары
 
 #r_llamas
-Llamas
+Ламы
 
 #r_fish
-Fish
+Рыба
 
 #r_meat
-Meat
+Мясо
 
 #r_wheat
-Wheat
+Пшеница
 
 #r_corn
-Corn
+Кукуруза
 
 #r_flour
-Flour
+Мука
 
 #r_bread
-Bread
+Хлеб
 
 #r_potatoes
-Potatoes
+Картофель
 
 #r_carrots
-Carrots
+Морковь
 
 #r_tomatoes
-Tomatoes
+помидоры
 
 #r_lettuce
-Lettuce
+Салат
 
 #r_bananas
-Bananas
+Бананы
 
 #r_apples
-Apples
+Яблоки
 
 #r_beans
-Beans
+Фасоль
 
 #r_figs
-Figs
+Инжир
 
 #r_rice
-Rice
+Рис
 
 #r_chickpeas
-Chickpeas
+Нут
 
 #r_oil
-Olive oil
+Оливковое масло
 
 #r_truffles
-Truffles
+Трюфели
 
 #r_javelins
-Javelins
+Дротики
 
 #r_bows
-Bows
+Луки
 
 #r_longbows
-Longbows
+Большие луки
 
 #r_crossbows
-Crossbows
+Арбалеты
 
 #r_arquebuses
-Arquebuses
+Пищали
 
 #r_muskets
-Muskets
+Мушкеты
 
 #r_spears
-Spears
+Копья
 
 #r_shortswords
-Shortswords
+Короткие мечи
 
 #r_longswords
-Longswords
+Длинные мечи
 
 #r_battleaxes
-Battleaxes
+Боевые топоры
 
 #r_warhammers
-Wrhammers
+Военные топоры
 
 #r_halberds
-Halberds
+Алебарды
 
 #r_shield_wood
-Wooden shields
+Деревянные щиты
 
 #r_shield_bronze
-Metal shields
+Металлические щиты
 
 #r_shield_heavy
-Heavy shields
+Тяжелые щиты
 
 #r_shield_steel
-Steel shields
+Стальные щиты
 
 #r_helmetlight
-Light helmets
+Легкие шлемы
 
 #r_helmetheavy
-Heavy helmets
+Тяжелые шлемы
 
 #r_heaumes
 Heaumes
 
 #r_armorpadded
-Padded armors
+Мягкие доспехи
 
 #r_armorbrigand
 Brigandines
 
 #r_cuirass
-Cuirasses
+Кирасы
 
 #r_armorscale
-Scale armors
+Чешуйчатые доспехи
 
 #r_amorlaminar
-Laminar armors
+Ламинарные доспехи
 
 #r_amorchain
-Chainmails
+Кольчуги
 
 #r_amorplate
-Plate armors
+Латные доспехи
 
 #r_pottery
-Pottery
+глиняная посуда
 
 #r_furniture
-Furniture
+Мебель
 
 #r_rugs
-Rugs
+Ковры
 
 #r_barley
-Barley
+Ячмень
 
 #r_beer
-Beer
+Пиво
 
 #r_grapes
-Grapes
+Виноград
 
 #r_wine
-Wine
+Вино
 
 #r_apples
-Apples
+Яблоки
 
 #r_cider
-Cider
+Сидр
 
 #r_sugarcane
-Sugarcane
+Сахарный тростник
 
 #r_rum
-Rum
+Ром
 
 #r_goats
-Goats
+Козы
 
 #r_papyrus
-Papyrus
+Папирус
 
 #r_paper
-Paper
+Бумага
 
 #r_olives
-Olives
+Оливки
 
 #r_building
-Building
+Здание
 
 #r_plans
-Plans
+Планы
 
 #r_taxcollect
-Tax collection
+Сбор налогов
 
 #r_cmnty
-Community
+Общение
 
 #r_tavern
-Tavern
+Таверна
 
 #r_theater
-Theater
+Театр
 
 #r_doctor
-Doctor
+Врач
 
 #r_justice
-Justice
+Справедливость
 
 #r_cargo
-Cargo
+Груз
 
 #r_clay
-Clay
+Глина
 
 #r_water
-Water
+Вода
 
 #r_trading
-Trading
+Торговля
 
 #r_school
-School
+Школа
 
 #r_wash
-Laundry
+Прачечная
 
 #r_baths
-Baths
+Бани
 
 #r_scribe
-Scribe
+Писарь
 
 #r_academ
-Academia
+Академия
 
 #r_guard
-Guarding
+Охрана
 
 #r_bear
-Bears
+Медведи
 
 #r_wolf
-Wolves
+Волки
 
 #r_obsidian
-Obsidian
+Обсидиан
 
 #r_topilli
 Topillis
@@ -467,7 +467,7 @@ Topillis
 Macanas
 
 #r_library
-Library
+Библиотека
 
 #r_dates
-Dates
+Финики
