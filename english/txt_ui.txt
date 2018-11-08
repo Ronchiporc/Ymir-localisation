@@ -109,6 +109,12 @@ Cosmetic units
 #bc_menuop_cosunits
 Enable cosmetic units like decorative animals
 
+#b_menuop_animveget
+Animated vegetation
+
+#bc_menuop_animveget
+Enable or disable animated vegetation in the territory view
+
 #b_menuop_grain
 Video grain
 
@@ -143,7 +149,7 @@ SOUND
 GAME
 
 #ui_menuop_options
-OPTIONS
+SETTINGS
 
 #joingame_yourgames
 Your games
@@ -1050,6 +1056,12 @@ current game settings
 
 #bc_gen_gov
 Government
+
+#bc_gen_chat
+Diplomacy
+
+#bc_gen_news
+Chronicles
 
 #bc_gen_coin
 Treasury
@@ -4752,3 +4764,60 @@ Nation '[x]'
 
 #chat_emptytxt
 [type your message here]
+
+#ui_reginf_vsb
+Visibility 
+
+#chat_r_hall
+Great Hall
+
+#chat_r_ass
+Assembly
+
+#chat_r_councl
+Council
+
+#chron_tab1
+World news
+
+#chron_tab2
+My chronicles
+
+#chron_new
++ New chronicle
+
+#chron_publish
+Publish
+
+#char_chrons
+View all chronicles from this character
+
+#chron_sent
+New chronicle published!
+
+#chron_react
+React to this news
+
+#chron_reactup_1
+This is interesting!
+
+#chron_reactup_2
+This news will be relayed by your cultural network and will propagate to your contacts.
+
+#chron_reactdw_1
+I don't care about this.
+
+#chron_reactdw_2
+This news will not be relayed by you.
+
+#chron_expand
+read more
+
+#chron_expand_c1
+click to read the rest of this chronicle
+
+#chron_past_up
+You found this interesting.
+
+#chron_past_down
+You didn't find this interesting.
