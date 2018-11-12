@@ -13,11 +13,17 @@
 #g_yes
 да
 
+#g_YES
+ДА
+
 #g_No
 Нет
 
 #g_no
 нет
+
+#g_NO
+НЕТ
 
 #g_Apply
 Применить
@@ -164,7 +170,7 @@
 налоги
 
 #g_Waste
-Отходы
+Потери
 
 #g_Economy
 Экономика
@@ -200,10 +206,10 @@
 Занятость
 
 #g_Vital_needs
-Жизненные потребности
+Нужды
 
 #g_vital_needs
-жизненные потребности
+потребности
 
 #g_faction
 фракция
@@ -471,3 +477,17 @@
 
 #g_amount
 количество
+
+
+#g_Enabled
+Enabled
+
+#g_enabled
+enabled
+
+#g_Disabled
+Disabled
+
+#g_disabled
+disabled
+

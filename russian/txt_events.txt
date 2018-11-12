@@ -665,28 +665,28 @@ Our hunters launched a hunt against [p2] [p3].
 They attempted to kill as much of these animals as they could to fill their inventory.
 
 #event_debt
-Indebted !
+В долгу!
 
 #event_debt_1
-We are currently indebted of [p1] coins in our trasury. Beeing in debt reduces our State power and affects the loyalty of our cities and armies.
+Сейчас мы в долгу на [p1] монет в нашей казне. Бытие в долгу уменьшает власть и влияет на лояльность наших городов и армий.
 
 #event_debt_2
 We need to put back our state income balance in the green or we'll get in serious trouble. If the situation is desperate, we can also take a last resort decision of cancelling our debt but this will generate great unrest in our state.
 
 #event_c_canceldebt
-Cancel the debt
+Отменить долг
 
 #event_confcdebt
-Confirm canceling the debt?
+Подтвердите отмену долга?
 
 #event_confcdebt_1
-Are you sure you want to declare our debt nul and void ? 
+Вы уверены что хотите объявить свой долг несуществующим?
 
 #event_confcdebt_2
-With a debt of [p1] coins and a GDP of [p2], our debt currently represents [p3]% of our GDP: if we cancel it, we will suffer an estimated penalty of [p4] loyalty in all our territories and you will lose about [p5] of honor!
+При долге [p1] монет и ВВП [p2], наш долг представляет [p3] нашего ВВП: если мы отменим его, мы потерпим приблизительный штраф в [p4] лояльности во всех наших территориях и потеряем около [p5] чести!
 
 #event_canceldebt
-Debt canceled!
+Долг отменен!
 
 #event_canceldebt_1
 We took the drastic measure of declaring our debt of [p1] coins nul and void, anouncing that we would not be paying back what we owed.
@@ -755,7 +755,7 @@ Our treaty with [x] of [y] has been approved and signed by us both and is now ef
 [x] of [y] is asking for the mutually agreed termination of a treaty we have with his people. If we agree to this request, the treaty will be terminated instantly without triggering any breaking closes and its terms will cease to be effective. If we refuse, nothing will happen and the treaty will remain active unless they decide to break it illegally (in which case their breaking closes apply).
 
 #event_trt_brk1
-[x] has broken a treaty!
+[x] нарушил соглашение!
 
 #event_trt_brk1_1
 [x] has illegaly broken the treaty of '[y]' they had with us!
@@ -893,7 +893,7 @@ Our trade route importing [p2] [p3] from [y] to [x] is lacking the required good
 This is happening because their production of [p3] in [y] is insufficent and their stocks ran out.
 
 #event_trout_b4
-Trade route broken!
+Торговый маршрут сломан!
 
 #event_trout_b4_1
 Our trade route importing [p2] [p3] from [x] to [y] closed because they could no longer provide the required goods.
@@ -914,7 +914,7 @@ One of our trade routes was closed by its operator!
 The city of [x] has decided to stop operating our trade route of [p2] [p3] with our city of [y]. This resulted in the trade route beeing closed.
 
 #event_cdog
-A hunter tamed some wild dogs in [x]!
+Охотники поймали несколько диких собак в [x]!
 
 #event_cdog_1
 Some wild dogs have been wandering around the village of [x] lately. The animals seemed friendly and one hunter managed to tame some of them: he put them in a closed paddock to keep them around. We should keep them until we need fresh meat, its always good to have food stocks!
@@ -932,13 +932,13 @@ We have tamed some wild goats in [x]!
 Some wild goats have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
 
 #event_crabbit
-Hunters have captured some wild rabbits in [x]!
+Охотники поймали несколько диких кроликов в [x]!
 
 #event_crabbit_1
 The hunters of [x] got lucky and have managed to capture some rabbits alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
 
 #event_cchick
-Hunters have catched some wild chicken in [x]!
+Охотники поймали несколько диких куриц в [x]!
 
 #event_cchick_1
 The hunters of [x] got lucky and have managed to capture some chickens alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
@@ -956,13 +956,13 @@ We have tamed some wild buffalos in [x]!
 Some wild buffalos have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
 
 #event_chorse
-Hunters captured some wild horses in [x]!
+Охотники поймали несколько диких лошадей в [x]!
 
 #event_chorse_1
 The hunters of [x] got lucky and have managed to capture some wild horses. They have locked the agitated animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
 
 #event_ccamel
-Hunters captured some wild camels in [x]!
+Охотники поймали несколько диких верблюдов в [x]!
 
 #event_ccamel_1
 The hunters of [x] got lucky and have managed to capture some wild camels. They have locked the stubborn silly looking animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
@@ -1007,7 +1007,7 @@ We could send some of our best Porcos to hunt them: that would provide us with f
 Animals may escape if they are too numerous relative to their keepers or simply kept for too long in a formation's inventory. To make sure this doesn't happen again, maybe we should consider parking them in proper paddocks or carrying smaller numbers so they are less likely to escape the supervision of their assigned keepers.
 
 #event_rcvidea
-We received a new idea from [x]!
+Мы получили новую идею от [x]!
 
 #event_rcvidea_1
 Good news: the people of [x] have shown us their knowledge of [p1] and explained to us the rudiments of what it is and how it works.
@@ -1124,7 +1124,7 @@ Gift of friendship in [x]
 A group of nomad travellers passed through our small village of [x]. They stayed for a few days, sharing stories and befriending some of our locals. Pleased by our hospitality, they gifted us with some of their belongings as a token of friendship, before bidding us farewell and moving on with their journey.
 
 #ev_vp_complet
-Victory mission completed!
+Победная миссия выполнена!
 
 #ev_vp_complet_1
 We have completed the victory mission "[y]" before anyone else and earned its reward, proving to everyone that we are a glorious people!
@@ -1142,10 +1142,10 @@ Warriors wish to join us!
 A group of 10 warriors had been wandering the lands for many moons before arriving in our tribe. They are friendly and wish to join us: they offer to help us to hunt herds and explore the world if we welcome them among us.
 
 #ev_joinwriors_c1
-"Yes, let us welcome them!"
+"Да, давайте примем их к нам!"
 
 #ev_joinwriors_c2
-"No, we cannot support new people right now."
+"Нет, мы не можем поддерживать новых людей сейчас."
 
 #ev_exceptool
 Exceptionnal tools
@@ -1235,10 +1235,10 @@ You won the election with [p3] votes in your favor out of [p4] cast votes.
 "Very well."
 
 #ev_xplrch_shame
-"Its a shame."
+"Очень жаль"
 
 #ev_xplrch_exlnt
-"Excellent!"
+"Прекрасно!"
 
 #ev_xplrch_notime
 "No, we have no time for this."
@@ -1247,10 +1247,10 @@ You won the election with [p3] votes in your favor out of [p4] cast votes.
 "Yes, proceed!"
 
 #ev_xplrch_nvrmnd
-"No. Nevermind."
+"Нет. Забудьте."
 
 #ev_xplrch_leave
-Leave.
+Покинуть.
 
 #ev_xplr_bdts
 Bandits ambushed our formation '[x]'!
@@ -1806,3 +1806,11 @@ Our explorers met friendly natives that offered them their hospitality. After a 
 
 #ev_claimloss_1
 Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
+
+#ev_form_desertion
+Our soldiers are deserting!
+
+#ev_form_desertion_1
+The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+
+

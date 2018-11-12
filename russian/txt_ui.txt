@@ -109,6 +109,12 @@ FX
 #bc_menuop_cosunits
 Включить декоративные юниты, такие как декоративные животные
 
+#b_menuop_animveget
+Animated vegetation
+
+#bc_menuop_animveget
+Enable or disable animated vegetation in the territory view
+
 #b_menuop_grain
 Зернистость видео
 
@@ -143,7 +149,7 @@ FX
 ИГРА
 
 #ui_menuop_options
-ОПЦИИ
+НАСТРОЙКИ
 
 #joingame_yourgames
 Ваши игры
@@ -845,13 +851,13 @@ Steam - имя хоста сервера
 Сокращение потерь от активных услуг, таких как сбор налогов.
 
 #regeco_upkeep
-Поддержание города
+Город
 
 #regeco_upkeep_c1
 В некоторых зданиях или инфраструктурах требуется плата за обслуживание, которую вы оплачиваете (правительство).
 
 #regeco_salaries
-Государственные оклады
+Гос.оклады
 
 #regeco_salaries_c1
 Общая стоимость всех государственных зарплат, выплачиваемых на территории.
@@ -1050,6 +1056,12 @@ M
 
 #sc_menubdg_destroy
 уничтожить некоторые
+
+#bc_gen_chat
+Дипломатия
+
+#bc_gen_news
+Хроника
 
 #sc_menubdg_forbid
 запретить
@@ -1529,10 +1541,10 @@ M
 Бюджетный баланс вашей территории является результатом всех доходов и расходов, характерных для этой территории, таких как налоги, зарплаты и расходы на техническое обслуживание.
 
 #regeco_2
-Отходы также могут негативно отразиться на бюджете. Это представляет собой доходы, потерянные для налогового мошенничества, плохого управления, коррупции и «черной экономики».
+Потери также могут негативно отразиться на бюджете. Это представляет собой доходы, потерянные для налогового мошенничества, плохого управления, коррупции и «черной экономики».
 
 #regadmin_eff
-Эффекты: увеличивает доходы бюджета (-отходы)
+Эффекты: увеличивает доходы бюджета (-потери)
 
 #regadmin_1
 Администрация представляет собой управленческий потенциал вашего правительства на этой территории.
@@ -2143,6 +2155,7 @@ IP-адрес сервера
 #growth_sows
 Свиножены
 
+#growth_piglets
 Поросята
 
 #growth_oldpigs
@@ -2161,7 +2174,7 @@ IP-адрес сервера
 стареющие порко становятся старосвинами
 
 #growth_munitsup
-старение в формациях: [x] порко в поддерживаемых единицах (бесплатная поддержка для [y])
+старение в формациях: [x] порко в поддерживаемых юнитах (бесплатно для [y])
 
 #growth_snew
 поросята женского пола достигают совершеннолетия
@@ -2257,7 +2270,7 @@ IP-адрес сервера
 набирать новый отряд
 
 #b_dplmode
-Стратегический инструмент
+Расстановка
 
 #bc_dplmode
 Перейдите в режим развертывания, где вы можете управлять позициями и порядком ваших войск.
@@ -2314,13 +2327,13 @@ IP-адрес сервера
 Стоимость юнита
 
 #ui_recruit_civ
-гражданские подразделения
+гражданские
 
 #ui_recruit_inf
-юниты ближнего боя
+ближний бой
 
 #ui_recruit_arc
-диапазоны
+дальний бой
 
 #ui_recruit_cav
 верховые отряды
@@ -4606,10 +4619,10 @@ We have recovered
 We have recovered [x] from the demolition of a [y].
 
 #charstate_1
-Безработные
+Неактивный
 
 #charstate_2
-Работающие
+Активный
 
 #charstate_3
 Мертвые
@@ -4664,3 +4677,150 @@ Select the desired home region for this formation.
 
 #formhome_sel_c2
 ( The formation needs to be positionned in the desired city to be able to rebase in it )
+
+#b_trtcancelofr
+Отменить предложение
+
+#b_trtcancelofr_c1
+Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+
+#ui_treat_cancld
+Your treaty proposal was cancelled.
+
+#b_actv_trt_pend1
+pending: waiting for your reply...
+
+#b_actv_trt_pend2
+pending: waiting for other's response...
+
+#chat_pm
+Написать [x]
+
+#chat_faction
+Нация '[x]'
+
+#chat_emptytxt
+[type your message here]
+
+#ui_reginf_vsb
+Видимость 
+
+#chat_r_hall
+Большой холл
+
+#chat_r_ass
+Собор
+
+#chat_r_councl
+Совет
+
+#chron_tab1
+Мировые новости
+
+#chron_tab2
+Моя хроника
+
+#chron_new
++ Новая хроника
+
+#chron_publish
+Опубликовать
+
+#char_chrons
+View all chronicles from this character
+
+#chron_sent
+Новая хроника опубликована!
+
+#chron_react
+React to this news
+
+#chron_reactup_1
+Это интересно!
+
+#chron_reactup_2
+This news will be relayed by your cultural network and will propagate to your contacts.
+
+#chron_reactdw_1
+I don't care about this.
+
+#chron_reactdw_2
+This news will not be relayed by you.
+
+#chron_expand
+дальше
+
+#chron_expand_c1
+click to read the rest of this chronicle
+
+#chron_past_up
+You found this interesting.
+
+#chron_past_down
+You didn't find this interesting.
+
+#chron_none
+Вы еще не получили новостей из внешнего мира!
+
+#joingame_persist_dscr_1
+Persistant games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
+
+#joingame_persist_dscr_2
+To garantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). Only gameplay is law.
+
+#joingame_realtime_dscr_1
+Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
+
+#joingame_custom
+Custom games
+
+#joingame_custom_dscr_1
+Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
+
+#joingame_custom_dscr_2
+WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
+
+#servlst_admn
+Admin tools
+
+#servlst_admn_c1
+Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
+
+#servlst_preset
+Game preset
+
+#servlst_preset_c1
+Game balance preset used on this custom server.
+
+#b_reform_loyal
+Reform effect: -[x] loyalty in all territories
+
+#b_reform_loyal_c1
+Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] loyalty in all of your territories.
+
+#facdsmtl_c1
+Select a new owner for this territory.
+
+#facdsmtl_err
+[cannot dismantle]
+
+#facdsmtl_err_c1
+This territory was integrated recently and hasn't been part of your Nation long enough to be transfered via the 'dismantle' function.
+
+#facdsmtl_err_c2
+Time before this territory can be dismantled: [x].
+
+#formact_claim
+Claim territory
+
+#formact_reclaim
+Reclaim territory
+
+#formact_unclaim
+Unclaim territory
+
+#menu_mission_sel
+Action
+
+#menu_mission_sel_c1
+Select the action to perform in this territory.
