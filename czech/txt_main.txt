@@ -13,11 +13,17 @@ Ano
 #g_yes
 ano
 
+#g_YES
+YES
+
 #g_No
 Ne
 
 #g_no
 ne
+
+#g_NO
+NO
 
 #g_Apply
 Použít
@@ -471,3 +477,15 @@ Množství
 
 #g_amount
 množství
+
+#g_Enabled
+Enabled
+
+#g_enabled
+enabled
+
+#g_Disabled
+Disabled
+
+#g_disabled
+disabled
