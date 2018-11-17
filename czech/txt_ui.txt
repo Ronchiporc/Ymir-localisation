@@ -1040,10 +1040,10 @@ Pokladna
 Kultura
 
 #bc_gen_fact
-Faction
+Frakce
 
 #bc_gen_ev
-Events
+Eventy
 
 #bc_gen_honor
 Čest
@@ -1130,10 +1130,10 @@ list of available new policies
 no new policies available!
 
 #ui_civ_repl
-replaces '[x]'
+nahraď '[x]'
 
 #ui_civ_req
-requires '[x]'
+potřebuje '[x]'
 
 #ui_civ_on
 PŘIDAT DO REFORMY
@@ -1151,7 +1151,7 @@ klepnutím přidáte zrušení této zásady v reformě
 ZRUŠIT Z REFORMY
 
 #ui_civ_cncl_c
-click to remove this pending modification from your reform
+kliknutím odstraníte tuto nevyřízenou úpravu z vaší reformy
 
 #ui_civ_warn
 (note that you need to apply the reform before these changes actually take effect)
@@ -1172,7 +1172,7 @@ STATE EFFECTS
 pending reform effect
 
 #b_applyreform
-APPLY REFORM
+POTVRDIT REFORMU
 
 #bc_applyreform
 click to submit your reform and make all your pending changes on policies effective.
@@ -1190,13 +1190,13 @@ STÁTNÍ KASA
 Budget balance
 
 #ui_eco_dscr
-The treasury is the total amount of coins your government owns. Economic policies define how the economy of your society is currently organized.
+Pokladna reprezentuje celkovou částku v mincích, které vaše vláda vlastní. Hospodářské politiky definují, jak je ekonomika vaší společnosti v současné době organizována.
 
 #ui_eco_notrsr_dscr
 This society currently works without any form of currency and it's people simply share everything in community: the government has no treasury nor incomes or explanses.
 
 #ui_eco_lead
-Leader's personnal wealth
+Vládcovo bohatsví
 
 #ui_eco_lead_c1
 The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
@@ -1205,16 +1205,16 @@ The leader is currently assigning [x]% of his personnal total wealth of [y] to t
 Taxes incomes
 
 #ui_eco_tax_c1
-Sum of all the tax incomes from all your territories.
+Celkový objem z daní ze všech tvých teritorií.
 
 #ui_eco_contrib
-Voluntary contributions
+Dobrovolné příspěvky
 
 #ui_eco_contrib_c1
 In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (20% of their incomes).
 
 #ui_eco_wast
-Waste
+Ztráty
 
 #ui_eco_wast_c1
 Tax incomes lost because of Waste in your territories. Waste is a result of low territory administration.
@@ -1232,19 +1232,19 @@ Infrastructures upkeep
 Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
 
 #ui_eco_units
-Units upkeep
+Údržba vojska
 
 #ui_eco_units_c1
 Total upkeep of all units in all your formations.
 
 #ui_eco_salar
-Wages
+Platy
 
 #ui_eco_salar_c1
-Total spent on state wages.
+Kolik je utraceno na státních platech.
 
 #ui_eco_trt
-Treaties
+Dohody
 
 #ui_eco_trt_c1
 Coins sent or received from other states through your currently active treaties.
@@ -1256,22 +1256,22 @@ Civics maintenance
 Total cost of maintaining all our currently active civics.
 
 #ui_eco_proj
-Current projects
+Aktuální projekty
 
 #ui_eco_proj_c1
-Total cost of all the projects currently in progress.
+Celková cena za všechny projekty které jsou v provozu.
 
 #ui_eco_nat
-Nation
+Národ
 
 #ui_eco_nat_c1
-Taxes from subordinates: [x]
+Daňe ze všech podřízených: [x]
 
 #ui_eco_nat_c2
-Taxes for your hierarchic superior: [x]
+Daně pro vašeho nadřízeného: [x]
 
 #ui_eco_tradbal
-Trade balance
+Obchodní bilance
 
 #ui_eco_tradbal_c1
 The trade balance across all your territories fromm all your current trade routes.
@@ -1286,13 +1286,13 @@ Trading expenses: [x]
 STORAGE VARIATION
 
 #ui_mres_prod
-PRODUCTION
+PRODUKCE
 
 #ui_mres_imp
 IMPORT
 
 #ui_mres_dist
-DISTRIBUTION
+DISTRIBUCE
 
 #ui_mres_ind
 INDUSTRIES
@@ -1406,7 +1406,7 @@ POPULATION ACCESS
 Population's satisfaction percentage of their need for this resource
 
 #ui_mres_dist_need
-Ideally needed
+Ideálně potřeba
 
 #uic_mres_dist_need
 Theoric amount needed for a 100% access, regardless of price and affordability by the population
@@ -1418,16 +1418,16 @@ Demand
 Amount actually demanded to merchants by porcos who can afford it at it's current price
 
 #ui_mres_dist_avail
-Supply
+Zásoby
 
 #uic_mres_dist_avail
-Amount currently distributed on the market
+Objem právě distribuován na trh
 
 #ui_mres_dist_sold
-Sold
+Prodáno
 
 #uic_mres_dist_sold
-Amount sold to the population
+Objem prodán populaci
 
 #ui_bdgeff_bdg
 building
@@ -1439,19 +1439,19 @@ state
 placement
 
 #ui_bdgeff_profit
-unprofitability ([x]%)
+Neprofitovatelnost ([x]%)
 
 #ui_mres_indaccess
-INDUSTRIES ACCESS
+PŘÍSTUP OD PRŮMYSLU
 
 #uic_mres_indaccess
 Industries access to this resource as a material
 
 #ui_mres_indneed
-Demand
+Poptávka
 
 #uic_mres_indneed
-Amount of this resource required by industries
+Objem této suroviny potřebný průmyslem
 
 #ui_mres_indsold
 Prodáno
@@ -1466,10 +1466,10 @@ Production cost
 Average cost of buying required materials to produce one unit of this resource
 
 #ui_menubdg_merchsup
-supply
+zásoby
 
 #ui_mres_costimp
-cost of imports
+cena za import
 
 #uic_mres_costimp
 The total cost paid (by the state) for the amount being imported through trade routes.
@@ -1610,7 +1610,7 @@ A porco's wealth defines it's purchasing power.
 A porco can fully afford any valuable priced equally or bellow it's wealth level.
 
 #popstat_health
-HEALTH
+ZDRAVÍ
 
 #popstat_health_c1
 Health determines life span and resistance to deseases.
@@ -1619,7 +1619,7 @@ Health determines life span and resistance to deseases.
 It improves population's growth.
 
 #popstat_lifequal
-LIFE QUALITY
+ŽIVOTNÍ ÚROVEŇ
 
 #popstat_lifequal_c1
 The quality of life is a score measuring how good and comfortable the porco's life is.
@@ -1643,19 +1643,19 @@ satisfaction quality
 access
 
 #popneed_food
-foods
+jídlo
 
 #popneed_water
-water
+voda
 
 #popneed_furnish
 furnishings
 
 #popneed_cloth
-clothing
+oblečení
 
 #popneed_alco
-alcohols
+alkohol
 
 #popneed_entert
 entertainments
@@ -1754,7 +1754,7 @@ Legitimacy is how much the people recognizes the right of your state's claims to
 Total legitimacy
 
 #legit_honor
-Honor
+Čest
 
 #legit_honor_c
 Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
@@ -1835,10 +1835,10 @@ Number of regions
 We currently control [x] extra regions. Every region besides the capital costs State power. 
 
 #statepow_debt
-Debt
+Dluh
 
 #statepow_debt_c1
-Debt reduces State power and we currentlly have a debt of [x] coins.
+Dluh snižuje státní moc a právě jsme v dluhu [x] mincí.
 
 #statepow_hon
 Dishonor
@@ -1865,7 +1865,7 @@ Civics maintenance
 The power cost to maintain all the currently active civics.
 
 #statepow_nation
-Nation
+Národ
 
 #statepow_nation_c1
 State power transfered from subordinates: [x]
@@ -1970,7 +1970,7 @@ priviledges
 Priviledges upset the people and reduce their loyalty to the state.
 
 #loyal_autho
-authority
+authorita
 
 #loyal_autho_c1
 How the different factors of authority affect the loyalty of the territory.
@@ -2000,7 +2000,7 @@ amount of population
 The more population there is, the less authority. The total amount of population reduces the territory's loyalty.
 
 #loyal_conf
-conflict
+konflikt
 
 #loyal_conf_c1
 Territory conflict reduces the authority of your government in this territory as it creates instability.
@@ -2024,7 +2024,7 @@ recent state events
 Recent state events temporarly affecting the loyalty of the territory
 
 #loyal_resist
-resistance!
+odpor!
 
 #loyal_resist_c1
 Loyalists to the previous owner of this territory ([x])
@@ -2075,7 +2075,7 @@ scribes
 Extra administration produced by Scribes.
 
 #admin_reg
-local
+místní
 
 #admin_reg_c1
 Local factors affecting administration.
@@ -2135,10 +2135,10 @@ The management cost of all the additionnal territories belonging to this region.
 number of annexed territories: [x]
 
 #cultr_state
-state culture
+státní kultura
 
 #cultr_local
-local culture
+místní kultura
 
 #cultr_pop
 culture from population
@@ -2165,10 +2165,10 @@ Oldpigs variation
 male piglets reaching adulthood
 
 #growth_msick
-sickness
+nemocných
 
 #growth_mmurder
-murders
+vražd
 
 #growth_mage
 aging porcos becoming oldpigs
@@ -3908,13 +3908,13 @@ Your nation's total Victory points
 Your personnal government's name
 
 #menu_scr_t1
-Rank
+Hodnost
 
 #menu_scr_t2
-Nation
+Národ
 
 #menu_scr_t3
-Score
+Skore
 
 #menu_scr_t4
 Victory points
@@ -3926,7 +3926,7 @@ You have lost control of the territory!
 Obsolete version: [x]
 
 #b_admitdft
-ADMIT DEFEAT
+UZNAT PORÁŽKU
 
 #ui_admitdft
 You have admitted your defeat!
@@ -3968,28 +3968,28 @@ hunting
 died
 
 #btl_rslt_deft
-defeated
+poražen
 
 #btl_rslt_vict
 victorious
 
 #btl_rslt_neutr
-was neutral
+byl neutrální
 
 #btlrslt_neutr
-NEUTRAL
+NEUTRALNÍ
 
 #btlrslt_att
-ATTACKERS
+ÚTOČÍCÍ
 
 #btlrslt_def
-DEFENDERS
+OBRÁNCI
 
 #btlrslt_loot
 BATTLE LOOT
 
 #btlrslt_unit
-units
+jednotky
 
 #btlrslt_loss
 losses
@@ -4007,19 +4007,19 @@ We received loot in [x]:
 Our formation received loot:
 
 #gamelob_genav
-Generate avatar
+Vygeneruj avatara
 
 #gamelob_face
-Face
+Obličej
 
 #gamelob_eyes
-Eyes
+Oči
 
 #gamelob_snout
-Snout
+Čumák
 
 #gamelob_mouth
-Mouth
+Držka
 
 #gamelob_nam
 Character's name
@@ -4046,16 +4046,16 @@ The amount of time before a character becomes inactive depends on its total play
 Max offline time currently allowed for this character: [x]
 
 #gamelob_ACTV
-ACTIVE
+ACTIVNÍ
 
 #gamelob_INACTV
-INACTIVE
+NEAKTIVNÍ
 
 #gamelob_lstlog
-last login
+naposledy přihlášen
 
 #gamelob_lstlogt
-[x] ago
+před [x]
 
 #gamelob_lstlog_c
 last login for this character: [x]
@@ -4109,7 +4109,7 @@ You currently have the maximum number of characters allowed on this game!
 You must wait [x] before being allowed to create a new character in this game!
 
 #gamelob_abnd
-Abandon
+Opustit
 
 #gamelob_abnd_c1
 Click to abandon this character and all its possessions.
@@ -4118,7 +4118,7 @@ Click to abandon this character and all its possessions.
 Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
 
 #facrank_title
-Title
+Titul
 
 #facrank_ter
 Territory
@@ -4142,7 +4142,7 @@ Rank level
 Rank level represents the hierarchic position within the nation.
 
 #facttl_tax
-Income tax
+Daň z příjmu
 
 #facttl_tax_c1
 % of raw income paid as a tax to the superior of this rank.
@@ -4154,55 +4154,55 @@ Power transfer
 % of state power transfered to the superior of this rank.
 
 #facttl_vote
-Can vote 
+Může hlasovat 
 
 #facttl_vote_c1
 Wether this rank can participate in voting processes or not.
 
 #facttl_rcrut
-Can recruit
+Může rekrutovat
 
 #facttl_rcrut_c1
 Wether this rank is allowed to recruit new members into the Nation or not.
 
 #facttl_prom
-Can promote
+Může povyšovat
 
 #facttl_prom_c1
 Wether this rank is allowed to manage ranks of its subordinates or not (promoting and unpromoting).
 
 #facttl_rplcm
-Succession
+Nástupnictví
 
 #facttl_rplcm_c1
 How the succession of this character is managed if he becomes inactive.
 
 #frplcm_e1
-Election (direct)
+Volby (přímá)
 
 #frplcm_e1_c1
 A sucessor is elected by the direct subordinates of this rank only.
 
 #frplcm_e2
-Election (all)
+Volby (všihni)
 
 #frplcm_e2_c1
 A sucessor is elected by all the subordinates of this rank.
 
 #frplcm_heir
-Chosen heir
+Zvolen následník
 
 #frplcm_heir_c1
 The rank holder himself chooses its heir that can take over if he becomes inactive.
 
 #frplcm_nom
-Nominated
+Nominován
 
 #frplcm_nom_c1
 A sucessor is appointed by the superior of this rank.
 
 #facttl_xpl
-Can expell
+Může vyloučit
 
 #facttl_xpl_c1
 If this rank is allowed to expell its subordinates from the Nation.
@@ -4214,16 +4214,16 @@ Can dismantle
 If this rank is allowed to directly redistribute territories of inactive subordinates to other Nation members.
 
 #facttl_sub1
-Direct subordinates
+Přímý poddání
 
 #facttl_sub2
-All subordinates
+Všichni poddání
 
 #fachier_hier
-Hierarchy
+Hierarchie
 
 #fachier_addnew
-Add new rank
+Přidat novou hodnost
 
 #fachier_addnew_c1
 Click to create a new rank
@@ -4250,19 +4250,19 @@ Dismantle
 Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
 
 #facmmb_prom
-Promote
+Povýšit
 
 #facmmb_prom_c1
 Your title allows you to manage this hierarchic position of this character: promote or demote this character.
 
 #facmmb_xpl
-Expel
+Vyloučit
 
 #facmmb_xpl_c1
 Your title allows you to expell this character from the Nation.
 
 #facmmb_quit
-Quit
+Odejít
 
 #facmmb_quit_c1
 Leave this Nation and regain your sovereignty. 
@@ -4301,7 +4301,7 @@ Replace
 This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
 
 #facmmb_tax
-Taxes
+Daňe
 
 #facmmb_tax_c1
 Nation taxes are received from direct subordinates and also paid to the superior. Tax rates are defined by their respective ranks.
@@ -4331,7 +4331,7 @@ Army Marshal
 Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
 
 #facmmb_heir
-Heir
+Následník
 
 #facmmb_heir_c1
 The designated heir can directly succeed to this character if he becomes inactive.
@@ -4358,7 +4358,7 @@ Expel [x] from the Nation
 As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
 
 #facxpl_xpl
-Expel!
+Vyloučit!
 
 #facrplc_title
 Replacing [x]...
@@ -4403,7 +4403,7 @@ Claimed by [x]
 Ownership
 
 #uiworld_nownr
-No owner
+Bez vlastníka
 
 #uiworld_settl_1
 You can settle this territory by giving a formation the mission 'Settle' with this region as a target.
@@ -4415,7 +4415,7 @@ For this mission type to be available, the formation must contain at least one c
 Voting for the successor of [x]
 
 #uivote_mode
-Voting mode
+Hlasovací mod
 
 #uivote_mod_high
 Highest votes
@@ -4430,13 +4430,13 @@ Vote status
 pending...
 
 #uivote_st_o
-over
+konec
 
 #uivote_result
-Vote result
+Výsledky hlasování
 
 #uivote_res_und
-undecided
+nerozhodnut
 
 #uivote_cast
 Votes cast
@@ -4514,7 +4514,7 @@ Okna
 Dveře
 
 #voxclss_pilr
-Pillars
+Pilíře
 
 #voxclss_beam
 Beams
@@ -4535,7 +4535,7 @@ Peace treaty
 Treaty of unification
 
 #treaty_vassal
-Vassality treaty
+Vasalská dohoda
 
 #treaty_trade
 Obchodní dohoda
@@ -4553,10 +4553,10 @@ Dohoda o možnosti průchodu
 Dohoda
 
 #ui_colchos
-click to select a color
+klikni pro zvolení barvy
 
 #ui_icchos
-click to select an icon
+klikni pro zvolení symbolu
 
 #ui_fhierchy
 click to view this nation's hierarchy
@@ -4589,7 +4589,7 @@ You cannot convert to a militia outside your own cities!
 You cannot convert formations in resistant cities.
 
 #formact_sack_1
-Warning: this action will cost you 15 of honnor, if successful!
+Warning: tahle akce tě bude stát 15 česti, pokud bude úspěšná!
 
 #formact_sack_2
 The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
@@ -4625,10 +4625,10 @@ Neaktivní
 Aktivní
 
 #charstate_3
-Dead
+Mrtev
 
 #charstate_4
-Powerless
+Bezbranný
 
 #err_inaxsbdg
 This building is currently inaccessible!
@@ -4652,16 +4652,16 @@ Settle
 Rabovat
 
 #formact_sack
-Sack
+Drancovat
 
 #formact_invd
-Invade
+Napadnout
 
 #formact_batl
-Battle
+Bytva
 
 #formhome_title
-Changing this formation's home...
+Změna domova této formace...
 
 #formhome_dscr_1
 A formation's home region is the city they are attached to. The home provides renewal of aging soldiers and has to support the armies attached to it. It also defines the culture of the formation's units. 
@@ -4697,7 +4697,7 @@ Custom games are community hosted games with no enforced standardization, where 
 WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
 
 #servlst_admn
-Admin tools
+Adminské nástroje
 
 #servlst_admn_c1
 Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
@@ -4721,7 +4721,7 @@ Cancel offer
 Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
 
 #ui_treat_cancld
-Your treaty proposal was cancelled.
+Tvoje nabídka dohody byla zrušena.
 
 #b_actv_trt_pend1
 pending: waiting for your reply...
@@ -4760,13 +4760,13 @@ Select the action to perform in this territory.
 Message [x]
 
 #chat_faction
-Nation '[x]'
+Národ '[x]'
 
 #chat_emptytxt
-[type your message here]
+[napiš svou zprávu ,zde]
 
 #ui_reginf_vsb
-Visibility 
+Viditelnost 
 
 #chat_r_hall
 Great Hall
@@ -4778,7 +4778,7 @@ Assembly
 Council
 
 #chron_tab1
-World news
+Světové zprávy
 
 #chron_tab2
 My chronicles
@@ -4787,7 +4787,7 @@ My chronicles
 + New chronicle
 
 #chron_publish
-Publish
+Publikovat
 
 #char_chrons
 View all chronicles from this character
@@ -4799,7 +4799,7 @@ New chronicle published!
 React to this news
 
 #chron_reactup_1
-This is interesting!
+Tohle je zajímavé!
 
 #chron_reactup_2
 This news will be relayed by your cultural network and will propagate to your contacts.
@@ -4817,7 +4817,7 @@ read more
 click to read the rest of this chronicle
 
 #chron_past_up
-You found this interesting.
+Přišlo ti to zajímavé.
 
 #chron_past_down
 You didn't find this interesting.
