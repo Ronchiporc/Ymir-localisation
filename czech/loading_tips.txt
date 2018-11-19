@@ -3,14 +3,14 @@ Jakákoliv podobnost s nějakým druhem by bylo je jen náhodou a posměškou.
 The economy is never stable. Things are always fluctuating, and that's because it is the result of a dynamic simulation where lots of things continuously influence each other. Do not worry if you cannot get everything to stay still.
 If a porco's income represent 3% of the region's total incomes, his wealth will be 3% of the region's total wealth.
 The income of a social class is shared equitably between all the porcos belonging to that class. The individual income of a porco is therefore an average value based on his social class total income.
-The market study of rare resources will tend to match the wealth of your richest classes while abundant ones will tend to match the wealth of the commoners.
+Studie trhu o vzácných zdrojích bude mít tendenci odpovídat bohatství vašich nejbohatších tříd, zatímco bohatě se nacházející budou mít tendenci odpovídat bohatství průměrných prasat.
 Prase o bohatsví 2 bude schopno nasitit plně své potřeby po surovině pokud cena té suroviny je rovna 2 mincím nebo nižší.
 Pokud surovina stojí 4 mince, prase s bohatsvím o velikosti 1 může jen nasitit 25% jeho potřeb po té surovině.
-The wealth of a porco defines his purchasing power, like the resources he can afford to buy to satisfy his needs.
+Bohatství prasete definuje jeho kupní sílu, neboli jaké suroviny si může dovolit koupit, aby uspokojil své potřeby.
 Wealth is the unit of objective value. It's defined by time spent by a Porco working on anything, regardless of the subjective value (coin prices) his society gives to what he does. 
 Wealth, as a reference universal unit of value, is the same across all regions and players.
 Each Porco spending time working on something produces Wealth proportionnaly to the amount of work done.
-A Porco working in a building with twice the efficiency of another one will produce twice the amount of work in a day, and therefore twice the Wealth.
+Prase které pracuje v budově s dvojnásobnou efektivností jiného, ​​bude produkovat dvojnásobné množství práce za den, a tedy dvakrát tak bohatství.
 The type or price of goods have no effect on Wealth. These things are relative to societies while wealth is an objective universal unit representing time spent working on anything.
 If one Porco earns 10 coins out of 1000 circulating (sum of incomes in the region) but then things change and there's suddenly 2000 circulating, it's like he lost half of what his coins are really worth and he lost half of the region wealth he used to have out if his 10 coins.
 Currencies represent a right to a share of real value, and do not necessarly have value by themselves. In Ymir that "real objective value" is the unit of "Wealth" represented by currencies called "Coins". 
@@ -25,4 +25,5 @@ Každy projekt más optimální počet výzkumníků. Jakýkoliv další výkumn
 U projektů, každý výzkumník odává "výzkumné body" podle jejich úrovně inteligence.
 Dávej si majzla: přiřazování výzkumníku k projektu snižuje jejich produktivitu v jejich zaměstnáních.
 Nemůžeš kontrolovat kdy a jaké nápady tvá populace dostane. Každý nápad je založený na svýh vlastních podmínkách.
-In the building tab, you can still choose to build the previous now obsolete version of a building by right-clicking on the building's button.
+V záložce pro stavby, si můžeš zvolit ke stavění stavbu o level nižší než který má teď, stačí jen pravým tlačítkem kliknout na ikonku té konkrétní stavby.
+Pokud ti vadí některé přeložené pasáže a nebo ty které nejsou, zajdi na discord ymiru a ptej se po 'Donekulda'.

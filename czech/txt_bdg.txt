@@ -56,7 +56,7 @@ Stavby určenné jen na zkrášlení území.
 obranné věže
 
 #bdg_towers_dscr
-Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
+Obranné věže zaměstbávají vojska nezávisle na posádkách a formacích. Mohou být jenom postaveny na platformách. Dodávají balistickou podporu při bitvách.
 
 #bdg_battlem_n
 cimbuří
@@ -86,7 +86,7 @@ Allows porcos to access tiles with a different height. Place against platforms o
 brána
 
 #bdg_gates_dscr
-Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
+Brány blokují nepřátelská vojska během bitvy. Potřebují se umístit poblíž platform v režimu "bridge".
 
 #bdg_all
 Všechny budovy
@@ -125,7 +125,7 @@ Produces clothes from textile. Cloth is a distributable resource that satisfies 
 Sběrači
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+Can exploit wild agricultural resources. Needs to be placed in range of the resources.
 
 #txt_farm_n
 Farma
@@ -413,7 +413,7 @@ Essential annex of the Stonecutter, quarries can produce stone blocs or speciali
 Pila
 
 #txt_sawmill_dscr
-The sawmill refines crude wood into wood planks, a material required to build many buildings.
+Pila zpracuje nezpracované dřevo na dřevěné desky, typ suroviny potřebný pro stavbu mnoha budov.
 
 #txt_tannery_n
 Koželužna
@@ -437,13 +437,13 @@ Jsou suroviny které by nechány ležeti na zemi a zníčí se přes čas ,pokud
 Pozemní sklad
 
 #txt_storegrnd_dscr
-Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
+Vyznačený kus zeminy, jež je určený pro uchovávaní materiálů. Je zdarma, ale není chráněn a není schopen uchovávat větší množství surovin najednou.
 
 #txt_warehouse_n
 Skladiště
 
 #txt_warehouse_dscr
-Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
+Skladiště jsou schopny uchovávat jakýkoliv druh surovin. Jsou stráženy a jsou schopny uchovávat větší objem surovin než ty pozemní.
 
 #txt_weapmk_n
 Výrobce zbraní
@@ -461,7 +461,7 @@ Tkadlec přetvoří ruzné materiály (bavlna, vlna atd.) do textilií. Textíli
 Schody
 
 #txt_stairs1_dscr
-Flexible stairs that can be placed against cliffs or walls of any height. 
+Flexibilní schody které je možno postavit na útest a nebo zdi, nezávisle na jejich velikosti.
 
 #txt_gate1_n
 Dřevěnná brána
@@ -473,7 +473,7 @@ A cheap wooden gate.
 Vylepšenná dřevěnná brána
 
 #txt_gate2_dscr
-A strong gate made of wood held tohether by bronze. 
+Silná brána vyrobena ze dřeva která je držena pohromadě pomocí brozu.
 
 #txt_gate3_n
 Vyztuženná brána
@@ -509,13 +509,13 @@ Spousty budov mohou by postaveny pouze profesionálním týmem stavitelů.
 Řezník
 
 #txt_butcher_dscr
-Slaughters live cattle to produce fresh meat.
+Pozabijí živý dobytej jež zpracuje na maso a kdyžtak i vedlejší produkt danného zvířete.
 
 #txt_well_n
 Studna
 
 #txt_well_dscr
-Extracts water from the ground.
+Extraktuje vodu z podzemí.
 
 #txt_watercol_n
 Sběrač vody
@@ -527,31 +527,31 @@ Místo kam prasata chodí pro čerstvou vodu z řek a jezer.
 Pozemní doky
 
 #txt_landock_dscr
-Docks for land caravans, carrying goods across territories and required to operate trade routes.
+Obsahuje doky pro pozemní karavany, umožňuje přepravu zboží přes území a je potřebná pro kontrolu obchodních cest. 
 
 #txt_dock_n
 Přístaviště
 
 #txt_dock_dscr
-Docks for trade ships, carrying goods across territories and required to operate trade routes. 
+Obsahuje doky pro obchodní lodě, umožňuje přeprava zboží přes území a je potřebná pro kontrolu obchodních cest. 
 
 #txt_theater_n
 Divadlo
 
 #txt_theater_dscr
-Provides entertainement to the Porcos.
+Dodá zábavu Prasatům.
 
 #txt_baths_n
 Lázně
 
 #txt_baths_dscr
-A place of social gathering and relaxation which also provides better health.
+Místo pro sociální shromáždění a relaxaci, které také zlepšuje zdraví prasat.
 
 #txt_tavern_n
 Hodpoda
 
 #txt_tavern_dscr
-A place of social gathering to drink and party.
+Místo určené společenská setkání k pití a večírkům.
 
 #txt_forum_n
 Forum
@@ -563,19 +563,19 @@ A place of social gathering to discuss matters of the community.
 Výrobce nábydku
 
 #txt_furnmkr_dscr
-Produces furniture, a distributable resource filling the population needs in Furnishings.
+Vyrábí nábytek, distribuovatelná surovina ,která naplňuje potřeby obyvatelstva po nábytku.
 
 #txt_carpetmkr_n
 Výrobce koberců
 
 #txt_carpetmkr_dscr
-Produces rugs, a distributable resource filling the population needs in Furnishings.
+Výrobce koberců, distributovatelná surovina dodávajíci populaci jejich potřebě po nábytku.
 
 #txt_mudcamp_n
 Soil miner
 
-#txt_mudcamp_dscr
-A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
+#txt_mudcamp_dscr 
+Malý tábor, kde pracovníci shromažďují využitelné typy půdy, jako je bláto, rašelina nebo popel.
 
 #txt_brickwk_n
 Cihlař
@@ -587,22 +587,22 @@ Vyrábí cihly, základní stavební materiál.
 Pec
 
 #txt_kiln_dscr
-Produces different construction materials.
+Vyrábí rozdílné konstrukční materiály.
 
 #txt_fundry_n
 Slévárna
 
 #txt_fundry_dscr
-Refines metallic ores into ingots.
+Zpracuje kovovou rudu do ingotů.
 
 #txt_steel_n
 Ocelárna
 
 #txt_steel_dscr1
-Produces steel by carburization of wrough iron through smithing.
+Výroba oceli pomocí karbonizace prasečího železa.
 
 #txt_steel_dscr2
-Produces steel by decarburization of cast iron by melting it.
+Vyroba oceli dekarbonizací železa tím, že jej roztaví.
 
 #txt_charcl_n
 Koksárna
@@ -620,13 +620,13 @@ Vytváří plány staveb potřebné pro důležité památky.
 Větrné kolo
 
 #txt_windwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+Dodává mechanickou sílu budově, zvyšuje její efektivitu.
 
 #txt_waterwheel_n
 Vodní kolo
 
 #txt_waterwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+Dodává mechanickou sílu budově, zvyšuje její efektivitu.
 
 #txt_wash_n
 Prádelna
