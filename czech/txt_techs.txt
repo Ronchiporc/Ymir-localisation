@@ -209,13 +209,13 @@ tech_irrig_dscr_1
 Vodní nádrže
 
 #tech_watres_dscr_1
-tech_watres_dscr_1
+Konečně výme jak správně skaldovat vytěženou vodu po delší dobu !
 
 #tech_sewers
 Odpadní systém
 
 #tech_sewers_dscr_1
-Kanálový systém
+Kanálový systém určený pro odvod odpadů a fekálii z obytvných častí a tím se zbavení mnoha druhů nemocí neboli zvýšení celkového zdraví prasat.
 
 #tech_foodstor
 Uchovávání jídla
@@ -464,10 +464,10 @@ Decarburization
 tech_decarb_dscr_1
 
 #tech_cementation
-Cementation
+Cement
 
 #tech_cementation_dscr_1
-tech_cementation_dscr_1
+Schopnost využití vápna pro stavbu.
 
 #tech_airblstl
 Air-blowing steel process
@@ -884,13 +884,13 @@ Kovové štíty
 Využívání kovových materiálů k vytvoření odolnějšího štítu tim zlepšení celkoé obrany.
 
 #tech_hvshield
-Heavy shield
+Těžký štít
 
 #tech_hvshield_dscr_1
 tech_hvshield_dscr_1
 
 #tech_stlshld
-Steel shield
+Ocelový štít
 
 #tech_stlshld_dscr_1
 tech_stlshld_dscr_1
@@ -902,13 +902,13 @@ Padded armor
 tech_paddarm_dscr_1
 
 #tech_scalearm
-Scale armor
+Šupinaté brnění
 
 #tech_scalearm_dscr_1
 tech_scalearm_dscr_1
 
 #tech_paparmor
-Paper armor
+Papírové brnění
 
 #tech_paparmor_dscr_1
 tech_paparmor_dscr_1
@@ -920,7 +920,7 @@ Brigandine
 tech_brigdn_dscr_1
 
 #tech_chnmail
-Chainmail
+řetězová košile
 
 #tech_chnmail_dscr_1
 tech_chnmail_dscr_1
@@ -938,13 +938,13 @@ Laminar armor
 tech_lamnrarm_dscr_1
 
 #tech_platearm
-Plate armor
+Plátové brnění
 
 #tech_platearm_dscr_1
 tech_platearm_dscr_1
 
 #tech_lhelmet
-Helmet
+Helma
 
 #tech_lhelmet_dscr_1
 tech_lhelmet_dscr_1
@@ -962,7 +962,7 @@ Hrnčířské kolo
 Hrnčířské kolo je stroj používaný při tvarování kulatých keramických výrobků, čímž se zlepšuje kvalita a výroba Keramiky. Umožňuje využít nový proces výroby keramiky nazývaný "házení", ve kterém je na kotouč umístěn kus hlíny a pak se tvaruje, když se kolo točí. Nahrazuje primitivnější techniku ​​"navíjení", v níž byla hlína vytažena do dlouhých nití k vytvoření keramiky.
 
 #tech_glaz
-Glazing
+Glazulace
 
 #tech_glaz_dscr_1
 Glazing is the process of coating ceramic with vitreous substances, improving the esthetic and solidity of pottery. It also makes it impermeable which allows it to hold liquids more efficiently.
@@ -974,19 +974,19 @@ Zahradničení
 Umění chovu, kultivace a aranžování rostlin pro estetické účely.
 
 #tech_elephrid
-Elephant riding
+Ježdění na slonech
 
 #tech_elephrid_dscr_1
 The knowledge of how to take care and tame wild pachyderms and how to train them for various tasks such as combat.
 
 #tech_obsidn
-Obsidian weaponry
+Obsidiánové zbraně
 
 #tech_obsidn_dscr_1
 The art of crafting deadly weapons out of wood and obsidian (volcanic glass) that are sharper than any other types of flint weapons. Obsidian can be sharper than steel but being glass it is also brittle and it can only be sculpted into desired shapes.
 
 #tech_beastwr
-Elite warriors
+Elite vojsko
 
 #tech_beastwr_dscr_1
 Elite casts of warriors inspired by the spirit of fierce wild animals.
@@ -1001,11 +1001,11 @@ Sůl se používá pro zlepšení konzervace čerstvého masa.
 Nože
 
 #tech_knives_dscr_1
-How to make new tools specifically designed to facilitate butchery.
+Schopnost zpracování nových nástrojů specifický určených pro řeznictví.
 
 #tech_sausg
-Sausages
+Klobásy
 
 #tech_sausg_dscr_1
-Sausages are a way to process fresh meat allowing for a longer conservation.
+Klobasování je způsob zpracování čerstvého masa , které umožnujě delší uchovávání.
 

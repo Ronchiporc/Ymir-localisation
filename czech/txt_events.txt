@@ -1806,3 +1806,9 @@ Our explorers met friendly natives that offered them their hospitality. After a 
 
 #ev_claimloss_1
 Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
+
+#ev_form_desertion
+Naši vojáci dezertují!
+
+#ev_form_desertion_1
+Vojáci z tvé armády dezertují protože máš negativní Legitimitu! Lide si nepřejí sloužit vládci keterý se už nedá brát za důvěryhodného a budou nadále dezetovat z naších řad do te doby než se stanete znovu Legitimním.

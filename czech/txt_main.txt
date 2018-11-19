@@ -13,11 +13,17 @@ Ano
 #g_yes
 ano
 
+#g_YES
+ANO
+
 #g_No
 Ne
 
 #g_no
 ne
+
+#g_NO
+NE
 
 #g_Apply
 Použít
@@ -119,7 +125,7 @@ nic
 All
 
 #g_all
-all
+vše
 
 #g_distribute
 distribuce
@@ -236,7 +242,7 @@ Diplomacie
 Power
 
 #g_POWER
-POWER
+MOC
 
 #g_Legitimacy
 Důvěryhodnost
@@ -302,10 +308,10 @@ Porco
 Porcos
 
 #g_Load
-Load
+Naložit
 
 #g_Unload
-Unload
+Vyložit
 
 #g_Destroy
 Destroy
@@ -320,13 +326,13 @@ from
 multiple
 
 #g_confirm
-confirm
+potvrdit
 
 #g_AT_WAR
-AT WAR
+VE VÁLCE
 
 #g_NEUTRAL
-NEUTRAL
+NEUTRALNÍ
 
 #g_AT_PEACE
 MÍR
@@ -347,7 +353,7 @@ automatic
 no result
 
 #g_Fertility
-Fertility
+Úrodnost
 
 #g_Groundwater
 Podzemní voda
@@ -389,7 +395,7 @@ Cover
 cover
 
 #g_random
-random
+náhodda
 
 #g_agree
 příjmout
@@ -422,7 +428,7 @@ Barbaři
 Free cities
 
 #g_facnameprep
-of
+z
 
 #g_facrk1_1
 Náčelník
@@ -446,7 +452,7 @@ Kmen [x]
 Koloniální smlouva
 
 #g_nocltr
-ancient culture
+prastará kultura
 
 #g_claim
 claim
@@ -471,3 +477,15 @@ Množství
 
 #g_amount
 množství
+
+#g_Enabled
+Zapnuto
+
+#g_enabled
+zapnuto
+
+#g_Disabled
+Vypnuto
+
+#g_disabled
+vypnuto

@@ -11,16 +11,16 @@ dynamické ceny
 zdroje a cennosti mají dynamické ceny založené na nabídce a poptávce obyvatelstva
 
 #civfx_autodist_n
-automatic distribution
+automatická distribuce
 
 #civfx_autodist_dscr
 all resources are automatically available to all the population and there is no need for distributors
 
 #civfx_bdgeff_n
-building efficiency
+eketivita budovy
 
 #civfx_bdgeff_dscr
-upravuje the efficiency of buildings
+upravuje efektivitu budov
 
 #civfx_conflict_n
 population conflict
@@ -173,40 +173,40 @@ administrativa území
 upravuje administration of every territory
 
 #civfx_caplead_n
-capital leaders
+vůdcy hlavního města
 
 #civfx_caplead_dscr
-leaders in capital
+počet vůdců ve hlavním městě
 
 #civfx_capnob_n
-capital nobles
+šlechta hlavního města
 
 #civfx_capnob_dscr
-nobles in capital
+počet šlechticů ve hlavním městě
 
 #civfx_citlead_n
-city leaders
+měšťští vůdci
 
 #civfx_citlead_dscr
-leaders per city
+počet vůdců v každém městě
 
 #civfx_citnob_n
-city nobles
+měšťští šlechtici
 
 #civfx_citnob_dscr
 nobles per city
 
 #civfx_reglead_n
-local leaders
+místní vůdcy
 
 #civfx_reglead_dscr
-leaders per territory
+vůdců na teritorium
 
 #civfx_regnob_n
 místní šlechtici
 
 #civfx_regnob_dscr
-nobles per territory
+šlechticů na teritorium
 
 #civfx_goldstck_n
 wealth from precious metals
@@ -227,16 +227,16 @@ spokojenost obyvatelstva
 upravuje spokojenost obyvatelstva
 
 #civfx_enmerch_n
-merchants
+obchodníci
 
 #civfx_enmerch_dscr
 allows the use of merchants who can sell resources to the population
 
 #civfx_entrout_n
-trade routes
+obchodní stezky
 
 #civfx_entrout_dscr
-allows to create permanent trade routes between territories
+umožňuje vytvářet dlouhodobé obchodní stezky mezi teritorii
 
 #civfx_legitprt_n
 protector of the people
