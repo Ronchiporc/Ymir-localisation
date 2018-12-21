@@ -3203,31 +3203,31 @@ total income
 The total gross income (before taxes) for this production.
 
 #ui_bdgbudget_1
-sales
+продажи
 
 #ui_bdgbudget_1_c
 Total raw income from all sales made by the building.
 
 #ui_bdgbudget_2
-production cost
+цена производства
 
 #ui_bdgbudget_2_c
 The cost of all required materials for production, if any.
 
 #ui_bdgbudget_3
-taxes
+налоги
 
 #ui_bdgbudget_3_c
 Amount of income taxed by the state (you). This is the actual income this building's activity generates for you.
 
 #ui_bdgbudget_4
-worker's income
+доход работника
 
 #ui_bdgbudget_4_c
 The net income left after all costs and taxes, shared between all the workers employed by this building.
 
 #ui_bdgbudget_5
-producer's share
+доля производителя
 
 #ui_bdgbudget_5_c
 The share of the sales that goes back to the producers of the resources: merchants only pay them depending on the sales and unsold stocks are not paid.

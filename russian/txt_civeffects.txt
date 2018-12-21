@@ -2,10 +2,10 @@
 доходы населения
 
 #civfx_inc_dscr
-unlocks dynamic population wealth
+открывает динамическое богатство населения
 
 #civfx_price_n
-dynamic prices
+динамические цены
 
 #civfx_price_dscr
 resources and valuables have dynamic prices based on supply and demand of the population
@@ -20,7 +20,7 @@ all resources are automatically available to all the population and there is no 
 эффективность строений
 
 #civfx_bdgeff_dscr
-modifies the efficiency of buildings
+модифицирует эффективность строений
 
 #civfx_conflict_n
 конфликт населения
@@ -65,7 +65,7 @@ income tax
 a tax applied to all the incomes of the population in the territory 
 
 #civfx_inctax_set
-income tax percent
+процент налогов на доходы
 
 #civfx_inctax_setd
 set the percent of income that is to be taxed
@@ -83,7 +83,7 @@ a tax applied to all sales in the territory (simplified VAT tax)
 set the percent of sales that is to be taxed
 
 #civfx_leadwlth_n
-Leaders privileges
+Привилегии лидеров
 
 #civfx_leadwlth_dscr
 Leaders get a portion of the territory wealth as a privilege
@@ -206,10 +206,10 @@ leaders per territory
 local nobles
 
 #civfx_regnob_dscr
-nobles per territory
+дворяне в территориях
 
 #civfx_goldstck_n
-wealth from precious metals
+богатство из драг.металлов
 
 #civfx_goldstck_dscr
 increases wealth of all territories for each unit of precious metals (gold and silver) in storages
