@@ -413,7 +413,7 @@ Steam - имя хоста сервера
 Начальные настройки
 
 #newchar_availspwn
-Доступные старты соответствующие этим настройкам
+Доступные старты по этим настройкам
 
 #newchar_closeto
 появиться близко к персонажу...
@@ -800,7 +800,7 @@ Steam - имя хоста сервера
 В этом здании нет никаких возможных пристроек.
 
 #regeco_taxes
-Налоговые доходы
+Налоги
 
 #regeco_taxes_c1
 Общий доход всех налогов на этой территории
@@ -1202,7 +1202,7 @@ M
 Лидер в настоящее время направляет [x]% его личного богатства [y] государственным финансам.
 
 #ui_eco_tax
-Налоговые доходы
+Налоги
 
 #ui_eco_tax_c1
 Сумма всех налоговых доходов со всех ваших территорий.
@@ -3767,28 +3767,28 @@ You are missing required materials to start this project!
 Allows...
 
 #ui_tech_bdg
-New building
+Новое строение
 
 #ui_tech_res
-New resource
+Новый ресурс
 
 #ui_tech_unit
-New unit
+Новый юнит
 
 #ui_tech_pol
-New policy
+Новая политика
 
 #ui_tech_with
-with...
+при...
 
 #ui_tech_forget
-Forget this knowledge
+Забыть знание
 
 #ui_tech_cantfgt
 You cannot forget this knowledge because it is currently required by other more recent ones such as: '[x]'.
 
 #ui_techfrgt_1
-Forget this knowledge ?
+Забыть это знание ?
 
 #ui_techfrgt_2
 Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all it's current effects. You will need to complete it's project again in order to recover it if you need to.
