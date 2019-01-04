@@ -1,1239 +1,1296 @@
 #tuto_launch_1
-Welcome to Ymir! It looks like it's the first time you're launching this game. 
+Добро пожаловать в Юмир! Кажется, вы первый раз запустили эту игру. 
 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+Это комплексная игра: если вы ещё не знакомы c таким жанром, настоятельно рекомендуется пройти обучение для начинающих 
+в одиночной кампании чтобы изучить основы игры. Однако, если вы уже знакомы с этой игрой – вы можете отключить все обучения прямо сейчас.
 
 #tuto_create_1
-This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+Здесь ты можешь настроить и начать новую игру. Существует 2 основных режима игры: постоянный и в реальном времени. Если вы играете один или с
+друзьями, лучше оставить это на режим в реальном времени.
 
 #tuto_lnchgame_1
-You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
+Вот вы и начинаете свою первую игру! Это игра с архитектурой Клиент - Сервер: даже если вы играете в одиночку, запуск новой игры автоматически 
+запустит отдельный сервер и автоматически подключит вас к нему. Для того, чтобы другие имели возможность данную игры, вы должны убедиться наперёд, 
+что порт используется вашим сервером должным образом (14804 по умолчанию). Если автоматический запуск сервера не удался, вам нужно будет вручную
+запустить сервер из файлов игры, используя server.bat, далее присоединиться к серверу через "Join game"[Джоин Гейм] ("Присоединиться к Игре").
 
 #tuto_char_1
-This is where you create your character. You can design and name it, as well as your government's name and flag. 
+Здесь происходит создание вашего персонажа. Вы можете придумать ему образ и дать имя, также добавить название вашей страны и её флаг. 
 
 #tuto_char_2
-You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
+Вам необходимо выбрать один из стартовых видов начала игры, по умолчанию являющийся "первобытным племенем".
 
 #tuto_char_3
-In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
+Во многопользовательской игре вы так же можете указать имя персонажа вашего друга для того, чтобы появиться рядом с ним как можно ближе, но для этого вам понадобится его "Код-приглашение".
 
 #tuto_char_4
-Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
+Будьте внимательны: однажды создав вашего персонажа, особенно в режиме постоянных многопользовательских игр, вам будет недоступно создание нового, если вдруг вы сделали что-то не то с предыдущим(?)! 
+Вам придётся подождать несколько дней, по окончании которых вы сможете попытаться снова в той же сессии.
 
 #tuto_warnjoin_1
-You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multiplayer game.
+Вы ещё не закончили обучение: настоятельно рекомендуется закончить его перед тем, как вы попытаетесь поучаствовать в режиме постоянной игры.
+
 
 #tuto_warnjoin_2
-Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
+Многопользовательские постоянные сессии просто незабываемы! Стартовых условий здесь может быть больше, и, если вы потерпите неудачу, у вас не будет возможности сразу же создать нового персонажа
+так как время на перерождение потребует нескольких дней. Для начала выучите основы, чтобы вы сразу не оплошали и не потеряли очередную возможность поиграть!
 
 #tuto_join_1
-This is where you join existing games. 
+Здесь вы можете присоединиться к уже существующим сессиям.
 
 #tuto_join_2
-If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
+Если вам потребуется перезайти в вашу собственную сессию, перейдите в "Direct IP" [Дайрект АйПи] (Прямой IP адрес) и подключитесь к "localhost" [локал хоуст] (локальный хост) через порт 14804. 
 
 #tuto_join_3
-If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
+Если вам хочется подключиться к многопользовательским сессиям, вам понадобится выбрать между постоянными (сессии в режиме 24/7 за последний месяц) или в режиме реального времени (быстротекущие сессии 
+для игры с друзьями)  
 
 #tuto_persist_1
-You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
+Вы присоединились к первой многопользовательской сессии в режиме постоянной игры! В данном игровом режиме всё происходит ГОРАЗДО медленнее чем в режиме "реального времени", так же будьте осторожны: у вас нет
+права на ошибку! Вам придётся справляться с любыми трудностями, представившимися в начале, второй шанс будет стоить очень дорого так как вам придётся ждать несколько дней, после чего вы сможете попробовать
+снова другим персонажем в случае потери предыдущего. 
 
 #tuto_0_1
-Greetings newpig! I am Sagacious Pig your tutorial assistant. 
+Приветсвую, новенький! Я – Мудрый Хряк, твой помощник в обучении.
 
 #tuto_0_2
-I'm here to guide you through the first steps of the game and explain how things work.
+Я пришёл чтобы научить тебя основам игры и объяснить что здесь к чему.
 
 #tuto_0_c1
-Tell me more!--1
+Продолжай!--1
 
 #tuto_0_c2
-I wanted to do the tutorial but now that i see your ugly face i'd rather skip it.--82
+Я бы хотел пройти обучение, а смотреть на твоё мерзкое рыло! Пропустить.--82
 
 #tuto_1_1
-You are currently in the world map. Each tile is a 'territory' you can explore and colonize. 
+Вы в настоящее время находитесь на карте мира. Каждый квадрат - это область, которую вы можете исследовать и покорить.
 
 #tuto_1_2
-At the start, most of the map is unexplored except the few territories around your tribe.
+Для начала, большая часть карты ещё неисследована кроме нескольких прилегающих территорий вокруг вашего племени.
 
 #tuto_1_c1
-Very well... so what now ?--2--1
+Ладно... Что дальше?--2--1
+
 
 #tuto_2_1
-This is a mission event. You will sometimes get missions you can complete to unlock rewards. Here, your first task is simply to settle your tribe in your first territory.
+Это – событие-миссия. Периодически вам будут поступать миссии, проходя которые вы можете получить вознаграждение. Вот, твоё первое задание: размести своё племя на данной тебе территории.
 
 #tuto_2_c1
-Yes... yes... Let us begin then!--3--2
+Ага-ага. Давай уже начинать!--3--2
 
 #tuto_3_1
-Events will appear  as flags on top of the screen and you can also review them all by clicking this button next to the flags.
+События будут объявляться как флажки в верхней части экрана, нажав на которые вы можете посмотреть более подробную информацию о нём.
 
 #tuto_3_c1
-Thank you mister Pig, shall we continue ?--4--3
+Спасибо, господин Хряк, мы можем продолжить?--4--3
 
 #tuto_4_1
-You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Clic on it to select it.
+Вы начинаете с простой группы жителей – это первобытное племя кочевников, которым вы управляете. Нажмите на него, чтобы выбрать.
 
-#tuto_5_1
-On the bottom left is the formation menu of your formation. It shows details such as the list of units in this formation and their inventory. 
+#tuto_5_1 
+В левом нижнем углу экрана располагается меню управления вашего племени. Оно показывает подробную информацию о юнитах в данном племени и прилегющих территориях.
 
 #tuto_5_2
-Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, clic the 'orders' button.
+Ваше племя в данный момент располагается на территории с достаточным количеством ресурсов для начала игры. Это должно быть безопасне место для создания вашего первого поселения: зайдите в меню управления
+племенем, нажмите "Orders" [ордерс] (приказы, команды, поручения).
 
 #tuto_6_1
-Select the mission "Settle", leave all the options by default, and validate to order your whole tribe to settle in this territory. Its units and inventory will be unloaded in the territory which will now be under your control and the formation itself will disapear.
+Выберите задачу "Поселиться", оставьте все настройки по умолчанию и отдайте приказ вашему племени поселиться на этом месте. Ваши жители будут располагаться на территории, которая теперь будет под вашим
+контролем.
 
 #tuto_7_1
-The territory selector shows the name of your  currently selected territory. On it's left is a round button that allows you to go into the territory.
+Селектор территорий показывает название выбранной территории. Слева располагается круглая кнопка позволяющая перейти на эту территорию.
 
 #tuto_7_2
-With your newly settled territory selected, clic that button to go into your territory.
+Выбрав недавно заселенную территорию, нажмите эту кнопку, чтобы перейти на свою территорию.
 
 #tuto_8_1
-This is the territory you have settled and now control. In the middle of it is the camp your tribe has set with tents and with all their resources now unloaded onto the ground.
+Это территория, на которой вы расположились и теперь находится под вашем контролем. В центре этого поселения ваше племя установило палатки и все их ресурсы теперь выгружены на землю.
 
 #tuto_8_c1
-Very well.--9--7
+Хорошо.--9--7
+
 
 #tuto_9_1
-You have now completed your first mission and unlocked it's rewards.
+Вы завершили своё первое задание и заработали награды.
 
 #tuto_9_2
-Your next mission is now to provide fresh water for your tribe.
+Ваше следующее задание – обеспечить ваше племя пресной водой.
 
 #tuto_9_c1
-I am thrilled by the complexity of these missions, lets get on with it!--10
+Я в восторге от сложности этих миссий, давайте покончим с этим!--10
+
 
 #tuto_10_1
-To sustain themselves, your porcos need food and water or they will quickly die. They were carrying a bit of food with them, but no water : the first urgent thing to do is to setup a water collection point on the shore a fresh water point.
+Чтобы поддерживать жизнь поселение, вашим Поркам (Pork - свинья, Porc - это своеобразный человеческий вид) нужна еда и вода, иначе они скоро погибнут. 
+Они могу нести с собой немного еды, но не воду. Первое, что нужно сделать - это установить на берегу Водосборник.
 
 #tuto_10_c1
-How do i do that ?--11--8
+Как мне это сделать?--11--8
 
 #tuto_11_1
-This is the building tab of the territory, where you can see all your currently available buildings and order their construction in this territory.
+Это раздел строительства, где вы можете увидеть доступные вам для сооружения постройки и команды для их возведения.
 
 #tuto_11_2
-In the first "housing" building tab, select the "Water collector" building. 
+В первой вкладке "жилище"(смотреть как там будет переведено), выбери "Водосборник".
 
 #tuto_12_1
-This building is free and does not require any workers: it simply represents a spot on the shore cleared and levelled to allow your porcos easy access to fresh water: they will get it themselves as they need it. Try to place it next to tiles of water:  it needs to have one edge adjascent to water to work.
+Эта постройка не затрачивает ресурсы и не требует строителя: оно просто располагается на берегу реки, предварительно разравнивая поверхность вокруг, чтобы у ваших Порко была возможность добраться до неё.
+Порки будут собирать её как только она им понадобится. Поставьте Водосборник так, чтобы одна из его сторон примыкала к воде, иначе он не будет работать.
 
 #tuto_13_1
-Now that your porcos need for water is satisifed, they need sustainable sources of food as their stocks will run out soon. 
+Теперь потребности ваших порко в воде удволетворены, им требуется постоянные источники пищи, так как их запасы вот-вот иссякнут.
 
 #tuto_13_c1
-Food please!--14--10
+Дайте поесть!--14--10
 
 #tuto_14_1
-There is 2 kinds of natural sources of foods : edible plants and spots of wild animals. The first one can be exploited by the Farm building and the latter by the Hunter.
+Существует 2 вида природных источников пищи: съедобные растения и места обитания диких животных. Первые могут быть выращены на Ферме, а последние - добыты охотником.
 
 #tuto_14_2
-Farms and Hunters are buildings that exploit natural resources. They need to be placed near valid resources. Now, start by trying to place a hunter.
+Фермы и Охотники (в данном случае имеется в виду лачуга охотника или что-то вроде того) пользуются природными ресурсами. Они должны быть размещены вблизи действующих источников ресурсов соответственно. 
+А теперь попробуй разместить Охотника.  
 
-#tuto_15_1
-When you are placing a building that exploits natural resources, an area of tiles appears highlighted around it: it's the production range of the building.  
+#tuto_15_1 
+Когда вы размещаете постройку, она будет использовать природные ресурсы. Область вокруг постройки будет подсвечена, это её производственныйК диапазон.
 
 #tuto_15_2
-Grey and Red tiles means there's nothing exploitable: you need to look fot the tiles that are highlighted in GREEN, indicating a valid exploitable resource for the building.
+Серые и Красные зоны означают, что здесь нет используемых ресурсов: вам понадобится найти области подсвеченые зелёным, показывающие доступные для постройки ресурсы.
 
 #tuto_15_3
-Scan the territory with the building selected to look for a valid spot to place it.
+Просканируйте территорию при помощи выбранной постройки на наличие требуемого места для её размещения.
 
 #tuto_15_c1
-How do i recognize exploitable animals ?--16
+Как определить животных, на которых можно охотиться?--16
 
 #tuto_15_c2
-How do i recognize edible plants ?--18
+Как определить растения, которые можно собирать?--18
 
 #tuto_16_1
-A natural spot of wild animals is a single tile that will appear green when placing a Hunter. It has a few visible animals walking wandering around it. One hunter is enough as it's only a single tile.
+Место обитания диких животных – это область, подсвечиваемая зелёным при размещении домика охотника. Оно имеет отображающихся животных, перемещающиеся рядом. Один домик достаточен для одной такой области.
 
 #tuto_16_c1
-Got it.--15
+Я понял.--15
 
 #tuto_16_c2
-I see animals but the Hunter doesnt seem to be able to exploit them.--17
+Я вижу животных, но охотник не может выйти на охоту.--17
 
 #tuto_17_1
-Sometimes animals are present in a territory as a 'herd'. Herds are depletable and temporary groups of animals and they cannot be hunted in a permanent and sustainable way through a Hunter building: you will need to manually hunt them with units. Ignore them for now.
+Иногда животные находятся в стаде. Стада являются истощаемыми и временными группами животных, на них не получится охотиться в одиночку. Вам понадобится охотиться на них при помощи ваших
+жителей. Пока что, вы можете их игнорировать.
 
 #tuto_17_c1
-Very well...--15
+Что ж, ладно.--15
 
 #tuto_18_1
-Spots of edible plants are usually large patches of similar looking plants or trees. If the patch is large, you may place several Farms around it to fully exploit it.
+Места со съедобными растениями представляют собой большую поляну или похожие на них растения. Если поляна достаточно большая, вы можете разместить несколько Ферм, чтобы полностью использовать её. 
 
 #tuto_18_c1
-Very well.--15
+Ладно.--15
 
 #tuto_19_1
-You have now started satisfying the 2 urgent needs of your tribe of water and food. These 2 needs combined form something called the "Vital needs".
+Теперь вы смогли обеспечить 2 главные потребности вашего племени едой и водой. Эти два компонента можно назвать "жизненно важными потребностями".
 
 #tuto_19_2
-When the Vital needs are not fully satisfied, it means some of your Porcos are suffering from malnutrition and dying.
+Когда жизнено важные потребности ваших порко не удволетворяются, они начнуть страдать от истощения и вскоре погибнут.
 
 #tuto_19_c1
-Good to know.--20--13
+Буду знать.--20--13
 
 #tuto_20_1
-This button opens an important menu: the "Territory menu". 
+Это кнопка открывает достаточно важное меню "Меню Территории".
 
 #tuto_20_2
-It shows everything you need to know about the territory you are in, allowing you to check it's situation and to diagnose it's problems. Clic to open it.
+Оно показывает всё, что тебе нужно знать о территории, на которой вы находитесь, позволяя вам исследовать её состояние и предоставить отчёт о проблемах. Нажмите, чтобы открыть его.
 
 #tuto_21_1
-This menu has a lot of informations combined in it. The top half is a global summary of the territory with all it's important stats in a single space.
+В этом меню много информации, объединенной в нем. В верхней части экрана расположена глобальная сводка территорий со всеми ее важными характеристиками в одном месте.
 
 #tuto_21_2
-The lower half of the menu is a set of tabs, each one giving you more in-depth details about a specific territory stat: economy, growth, administration...
+Нижняя половина меню представляет собой набор вкладок, каждая из которых дает вам более подробную информацию о состоянии конкретной территории: экономика, рост, администрация.
 
 #tuto_21_c1
-Ok!--22
+Ок!--22
 
 #tuto_22_1
-This is the important part to look for now : the global vital needs of your populaiton that i mentionned earlier. 
+Это одна из самых важных частей, на которую стоит обратить внимание: общие жизненно важные потребности вашего поселения, о которых я упоминал ранее.
 
 #tuto_22_2
-It needs to remains more or less above 70%: meaning most people in your tribe have enough food and water not to starve to death. It's an important value you will always have to monitor.
+Оно должно составлять не менее 70%, то есть большинство ваших поселенцев обеспечено пищей и водой чтобы не умереть с голоду. Это важнный показатель, за которым тебе нужно постоянно следить.
 
 #tuto_22_c1
-Very well.--23--15
+Я понял.--23--15
 
 #tuto_23_1
-Just below it is the territory's Growth: the current variation of your population. This is what you will be looking for the most in early game.
+Ниже расположена статистика роста населения: текущее количество поселенцев. Это то, за чем вы будете следить больше всего в начале игры.
 
 #tuto_23_2
-Positive growth means your population is increasing and you will get new active Porcos you can employ in buildings. 
+Положительный рост означает, что популяция увеличивается и у вас появится больше Порко, которым вы можете отдавать приказы.
 
 #tuto_23_3
-Satisfied Vital Needs is essential to maintain a positive growth, but it's not the only factor influencing it.
+Для положительного роста важно, чтобы удволетворялись жизненно важные потребности, но это не единственный фактор, влияющий на это.
 
 #tuto_23_c1
-Got it.--26--16
+Понял.--26--16
 
 #tuto_23_c2
-What are the factors influencing Growth?--24
+Какие факторы влияют на рост населения?--24
 
 #tuto_23_c3
-How do I improve Growth?--25
+Как я могу наладить рост населения?--25
 
 #tuto_24_1
-You can clic on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
+Вы можете нажать на "Прирост" чтобы увидеть подробности о популяции всего вашего народа. Прирост является результатом 2 главных факторов: желание поселенцев иметь поросят и их выживаемость в среде.
 
 #tuto_24_2
-The will to have children is detailed in the right side column and is affected mostly by the Life Quality of the population.
+Желание иметь поросят подробно описано в правой колонке и в основном зависит от качества жизни населения.
 
 #tuto_24_3
-The survival of piglets into adulthood is affected mostly by the global Health of your population.
+На выживание поросят в зрелом возрасте в основном влияет общее состояние здоровья населения.
 
 #tuto_24_c1
-Got it.--26--16
+Понял.--26--16
 
 #tuto_24_c2
-So how do I improve it?--25
+Так как мне это улучшить?--25
 
 #tuto_25_1
-First make sure your Vital Needs are satisfied. Then you will want to improve global Health and Life Quality as much as possible.
+Для начала убедитесь, что все потребности ваших жителей удволетворены. Затем вы 
+Сначала убедитесь, что жизненные потребности ваших жителей удовлетворены. Тогда вам захочется как улучшить глобальное здоровье и качество жизни.
 
 #tuto_25_2
-Provide good dwellings for your population, diversified food and generally try to fill the maximum of your population's needs!
+Обеспечьте своих жителей хорошим жильём, разнообразной едой и, как правило, постарайтесь удовлетворить максимум их потребностей!
 
 #tuto_25_c1
-Got it.--26--16
+Ясно.--26--16
 
 #tuto_26_1
-This is your current population. It's divided into groups of "Social Classes", each one represented by one button.
+Это популяция ваших поселенцев в данный момент. Она разделен на группы «Социальные классы», каждая из которых представлена одной кнопкой.
 
 #tuto_26_2
-"Inactives" is the default class of currently jobless adult Porcos available to work in new buildings. Once a porco starts working in a building, he converts to the social class the building employs.
+«Неактивные» - это класс по умолчанию безработных взрослых Порко, которые могут работать в новых структурах. Как только порк начинает работать в той или иной структуре, он переходит в социальный класс, 
+соответсвующий этой структуре.
 
 #tuto_26_c1
-Understood. Now what ?--27
+Понял. Что теперь?--27
 
 #tuto_27_1
-Before building new production buildings, you will want to check that you have enough inactives to work in them.
+Перед началом строительства новых производственных структур, вам понадобится удостовериться, хватит ли вам жителей со статусом "Неактивный".
 
 #tuto_27_2
-You should still have a decent amount of Inactive Porcos available: let's keep them busy and move on the next mission!
+У вас, должно быть, ещё осталось некоторое количество Порко со статусом "Неактивный". Давайте же займём их делом и приступим к следующему заданию!
 
 #tuto_27_c1
-I'm ready.--28--17
+Я готов.--28--17
 
 #tuto_28_1
-Building things require resources and one of the most commonly required one at first is Hammers, made from Flints.
+Для постройки сооружений потребуются ресурсы и один из самых популярных инструментов – молотки, сделанные из кремней.
 
 #tuto_28_2
-You must now produce your first Hammers as your stocks will soon run out as you build. 
+Теперь вы должны произвести свои первые молотки, так как ваши запасы скоро истощатся, так как вы строите.
 
 #tuto_28_c1
-Ok.--29--18
+Ок.--29--18
 
 #tuto_29_1
-Hammers will be your first 'industrial product': a resource that is crafted from other resources.
+Молоты будут вашим первым «промышленным продуктом»: ресурсом, созданным из других ресурсов.
 
 #tuto_29_2
-Hammers require flints -a natural resource- which you can produce with the Flint collector.
+Для создания молотков требуется кремний – природный ресурс, который вы можете произвести при промощи Сборщика Кремния.
 
 #tuto_29_3
-Start by building a Flint collector in a valid location, near any gravely looking ground tiles.
+Начинайте с расположения Сборщика Кремния в соответсвующем месте, поближе к каменистым областям.
 
 #tuto_30_1
-Very well! Now you can build the Tool maker.
+Отлично! Теперь вы можете сделать Верстак.
 
 #tuto_30_2
-Unlike natural producers, industries can be placed anywhere for they do not exploit any natural resource: they combine existing ones.
+В отличии от природных источников, производственные структуры могут быть расположены где угодно, поскольку они не используют никаких природных ресурсов: они объединяют существующие.
 
 #tuto_31_1
-Great, you are now producing your first Hammers!
+Отлично, теперь вы производите свои первые Молотки!
 
 #tuto_31_2
-Hammers are your first type of tool. Later, you will unlock new tools which will also be required by many constructions.
+Молотки – ваш первый вид инструментов. Скоро вы сможете открыть новые инструменты, которые так же понадобятся для постройки многих других сооружений.
 
 #tuto_31_3
-Unlike resources like foods, tools are not consummed by the population to satisfy their needs: it's player-used only.
+В отличии таких ресурсов как Еда, инструменты не потребляются поселенцами для удовлетворения их нужд. Они используются только самим игроком.
 
 #tuto_31_c1
-Ok.--32--21
+Ок.--32--21
 
 #tuto_32_1
-This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade,buy,sell ot transport resources between territories later on.
+Это панель ресурсов вашей территории: список всех ресурсов произведённых и накопленных на данной территории. Этим вы так же можете обмениваться, покупать и продавать на другие территории.
 
 #tuto_32_2
-Clic to open the tab.
+Нажмите, чтобы открыть панель
 
 #tuto_33_1
-Each button shows you one type of resource currently stored or produced in the territory. On each button you can see the amount stocked, a sign indicating it's current variation, and it's local price.
+Каждая кнопка показывает вам определённый тип ресурсов, запасённый или произведённый на данной территории. На каждой кнопке вы можете увидеть количество запасённых продуктов, текущую разновидность и местную 
+стоимость.
 
 #tuto_33_2
-Now click on one of these buttons to open it's Resource Menu.
+Теперь нажмите на одну из этих кнопок, чтобы открыть Меню Ресурсов.
 
 #tuto_34_1
-The Resource Menu gives you all the details about a specific resource: production, consumption by population or industries, price...
+Меню ресурсов позволяет вам увидеть подробности о каждом ресурсе: произовдство, потребление населением или структурами, стоимость...
 
 #tuto_34_c1
-Ok.--35--24
+Ок.--35--24
 
 #tuto_35_1
-It also gives you access to some resource-specific options. 
+Оно так же даёт вам доступ к некоторым опциям, относящимся к ресурсам.
 
 #tuto_35_2
 The first one is the storage policy: you can change the rules for storing this specific resource such as only allowing it in specific storages or forbidding it totally.
+Первым делом, стоит взглянуть на политику хранения: здесь вы можете изменить правила хранения определённых запасов, которые будут соблюдаться в определённых хранилищах или во всех в целом.
 
 #tuto_35_c1
-Got it.--38--25
+Понял.--38--25
 
 #tuto_35_c2
-What happens when there's no room to store things ?--36
+Что произойдёт, если не останется свободного места?
 
 #tuto_35_c3
-What is the "only in restricted" mode ?--37
+Что такое режим "только в определённые"?--37
 
-#tuto_36_1
-If there is no room available, resources will be placed directly on the floor where they will decay and eventually be lost unless quickly stored properly. 
+#tuto_36_1 
+Если не останется свободного места, ресурсы будут храниться прямо на земле, где они будут гнить и пропадать, если не будут сложены в хранилище должным образом.
 
 #tuto_36_2
-Extra resources on the ground will auto-relocate to any valid storage if free space becomes available.
+Оставшиеся на земле ресурсы будут автоматически перемещены в любое свободное хранилище, если в нём освободится место.
 
 #tuto_36_c1
-Got it.--38--25
+Понятно.--38--25
 
 #tuto_36_c2
-What is the "only in restricted" mode ?--37
+Что такое режим "толкьо в определённые"?--37
 
 #tuto_37_1
-When you clic on a storage building, you can set it to "restricted" and control what resources are allowed in it. 
+Если вы откроете хранилище, вы можете установить режим "определённые" и контроллировать какие ресурсы могут здесь находиться.
 
 #tuto_37_2
-If you then set a resource storage policy to "only in restricted" in this menu, it will ONLY be allowed in storages that are in "restricted" mode AND that have been set to allow that specific resource. If there's no room the resources are destroyed.
+Если вы настроили вашу политику хранения в режиме "только определённые" в данном меню, здесь будут запасаться ТОЛЬКО определённые ресурсы, которые вы указали.
 
 #tuto_37_c1
-Got it.--38--25
+Ясно.--38--25
 
 #tuto_37_c2
-What happens when there's no room to store things ?--36
+Что произойдёт, если не останется свободного места?--36
 
 #tuto_38_1
-The second one is the "Maintain stock" option: it allows you to ensure some of the produced resources will be saved to maintain a certain amount in stock, no matter what. Its really usefull to maintain stocks of foods for instance, regardless of the population's consumption.
+Второй вариант - «Поддерживать хранение»: он позволяет вам сохранить некоторые из произведенных ресурсов для сохранения определенного количества на складе, несмотря ни на что. 
+Это действительно полезно для поддержания нужного количества продуктов, например, независимо от потребления населения.
 
 #tuto_38_c1
-Good to know!--39--26
+Приму к сведению!--39--26
 
 #tuto_39_1
-For now your only storage available is the "Ground storage": a free but inefficient storage of basic resources. It's just ground marked for storage of things. 
+На данный момент, единственным доступным хранилищем является «Наземное хранилище»: бесплатное, но неэффективное хранилище основных ресурсов. Это просто размеченое место для хранения вещей.
 
 #tuto_39_2
-Later on you will unlock proper storage buildings that can store much more on a smaller surface.
+Позже, вы откроете соответсвующие складские здания, которые могут хранить гораздо больше ресурсов и на меньших размерах.
 
 #tuto_39_c1
-Very well.--40
+Отлично.--40
 
 #tuto_40_1
-Not all resources can be stored anywhere: some specific categories of resources require specific storage types.
+Не все ресурсы могут храниться где угодно: определённые категории ресурсов требует специальных условий хранения.
 
 #tuto_40_2
-For example, foods like meat or wheat can only be stored in granaries and livestocks require Paddocks. For now though, you do not have access to these buildings.
+Например, такие ресурсы, как еда: овощи, фрукты и мясо может храниться только в амбарах, а для скота требуются загоны. На данный момент у вас нет доступа к этим структурам.
 
 #tuto_40_c1
-Ok.--41--27
+Oк.--41--27
 
 #tuto_41_1
-Now to the next mission : start producing some Wood.
+Перейдём к следующему заданию: начни добывать Древесину.
 
 #tuto_41_2
-Wood, like Hammers, is an essential material used for many constructions. It is also consummed by many industrial buildings to craft other products.
+Древесина как и молотки – необходимый материал для создания построек. Она так же используется большинством производственных структур для создания других предметов.
 
 #tuto_41_3
-Place a woodcutter near a dense area of trees to start producing some.
+Расположите Лесопилку вблизи густого леса для того, чтобы начать производить Древесину.
 
 #tuto_42_1
-Excellent. Now it's time to think about defending yourself: for that you will have to create a new "Formation" (a group of units).
+Прекрасно. Теперь настало время подумать о том, как себя обезопасить: для этого вам понадобится создать новую группу поселенцев.
 
 #tuto_42_2
-There is different types of formations. The best one to start defending yourself with is the "Militia".
+Существует несколько видов групп. Лучше всего начать с оборонять себя при помощи "Народного Ополчения".
 
 #tuto_42_c1
-Tell me more.--43
+Давай дальше.--43
 
 #tuto_43_1
-In a "Militia" formation, it's units are not really recruited: it's the current population of the territory itself. Think of it as a stash of weapons kept ready for the population to take arms with when attacked.
+В Народном Ополчении нет определённого количества участников, это все поселенцы на данной локации. Подумайте об арсенале, готовым быть использованным вашими поселенцами, чтобы встать на оборону.
 
 #tuto_43_2
-Therefore, it's units are not actually removed from your population and are "free", but the Militia cannot move to other territories and is purely defensive. Its perfect as basic defense.
+Следовательно, ваши поселенцы не становятся свободны от работы, но Ополчение не может перемещаться на другие территории и является чисто оборонительным. Это прекрасно в качестве базовой защиты.
 
 #tuto_43_c1
-Where do i create one ?--44--29
+Как мне создать его?--44--29
 
 #tuto_44_1
-This is the Units tab. In it you can see all the formations currently present in the territory. It's also where you can create new Formations.
+Это меню Отрядов. В нём вы можете создавать отряды и размещать их на территории. Здесь вы так же можете создавать новые группы.
 
 #tuto_44_2
-Clic on the tab to open it.
+Нажмите, чтобы открыть эту панель.
 
 #tuto_45_1
-Now clic the button to create a new Formation. Select the "Militia" type, and place the Formation's camp near your tribe.
+Теперь нажмите на эту кнопку, чтобы создать новое формирование. Выберите "Народное Ополчение" и разместите его лагерь рядом с вашим поселением.
 
 #tuto_46_1
-Very well. Now you have to recruit your first units into this new formation.
+Отлично. Теперь вам нужно нанять свой первый отряд для первого формирования.
 
 #tuto_46_2
-There is different categories of units: civilian units are what you will use to create settling expeditions or transfering goods with carriers, but obviously not to defend youself. Open the "Ranged" tab.
+Существуют разные виды отрядов: мирные жители понадобятся для создания экспедиций или траспортировки товаров с перевозчиками, но очевидно они не смогут защищаться. Откройте панель "Вариаций".
 
 #tuto_47_1
-For now you only have access to a single ranged military unit: the rockthrower. A porco simply equiped with stones to throw, best used to defend behind walls and gates.
+Теперь вы имеето доступ только к одному виду отрядов – метателей камнями. Это порки с экипироваными камнями, чтобы кидать их. Подходит лучше всего, чтобы оборонять стены и ворота.
 
 #tuto_47_2
-Now, recruit at least 20 rockthrowers (2 troops of 10 each). Remember: as a "Militia", in fact you're not really recruiting them but merely storing equipment (here simple stones) for your population to use in case of attack.
+Теперь завербуйте как минимум 20 метателей камней (2 бойца по 10). Помните, так как это "Ополчение", фактически вы никого не вербуете, а просто экипируете ваше население камнями (вот немного), чтобы вы 
+могли отбиться от атакующих.  
 
 #tuto_47_c1
-What happens if i 'recruit' more militia that i have of population ?--48
+Что произвойдёт, если я завербую больше ополченцев, чем количество поселенцев?--48
 
 #tuto_48_1
-Then your militia will not be fully "manned" in case of attack: if you saved up equipment for 40 soldiers as your militia but only have 15 porcos in age to fight at the time of the attack in the territory, your Militia will only include 15 soldiers in the battle.
+
+Тогда ваше ополчение не будет полностью сгруппировано в случае атаки. Если вы собрали экипировку для 40 солдат в качестве ополчения, но у вас есть только 15 порко в отряде, чтобы сражаться во время атаки 
+на территории, ваше ополчение будет состоять только из 15 солдат в битве.
 
 #tuto_48_c1
-Got it.--47
+Понятно.--47
 
 #tuto_49_1
-Congratulations: you now saved equipment -a bunch of wooden clubs- for your population to use in case of attack. 
+Поздравляю: вы собрали снаряжение. Вот немного дубинок, чтобы ваши жители могли воспользоваться ими в случае осады.
 
 #tuto_49_2
-Now, additionnaly to that, you can also organize the defensive strategy of your units using the "Strategic tool", such as defining the deployment positions of your new militia. Clic to open it.
+Теперь, в дополнение к этому, вы также можете организовать оборонительную стратегию своих подразделений, используя «Стратегический инструмент», например, определение позиций
+развертывания вашего нового ополчения. Нажмите, чтобы открыть его.
 
 #tuto_50_1
-With this tool, you can preview where all your troops ( militia or not ) will deploy in case of battle.
+С помощью этого инструмента вы можете просмотреть, где будут развернуты все ваши войска (ополченцы или нет) в случае битвы.
 
 #tuto_50_2
-You can select each troop and redeploy it where you want with the right clic. Hold it to set their ranks and orientation.
+Вы можете выбрать каждый отряд и расположить его, где вы хотите, с помощью правой кнопкой мыши. Держите его, чтобы установить им звания и опрелить направленность.
 
 #tuto_50_c1
-Tell me more.--51--35
+Давай дальше.--51--35
 
 #tuto_51_1
-You can set the behavior mode of each troop. By default they will move to engage any enemy that arrives.
+Вы можете установить режим ведения боя для каждого отряда. По умолчанию, ваши солдаты будут атаковать любые прибывающие силы противника.
 
 #tuto_51_2
-With a troop selected, you can clic the dropdown button on the bottom left to select other modes that will affect that troop's behavior in battle.
+Выделив бойца, вы можете нажать на выпадающий список внизу слева, чтобы выбрать другие режимы, которые повлияют на поведение этого бойца в бою.
 
 #tuto_51_c1
-Very well.--52--36
+Очень хорошо.--52--36
 
 #tuto_52_1
-Another tool is to create "Defensive zones" by clicking this button. Then clic and drag on the terrain to set a point and a radius around it. 
+Другим инструментом является создание «Оборонительных зон». Нажмите на зону и зажмите, затем перетащите на местности, чтобы установить точку и радиус вокруг нее.
 
 #tuto_52_2
-Once the zone is created, you can deploy troops in it and set them to the "defensive zone" behavior to have them defend this specific zone: they will be allowed to move out of it during battle.
+Как только данная зона создана, вы можете разместить бойцов в ней и установить для них режим "оборона зоны", чтобы они охраняли определённое место: они смогут выходить из неё во время битвы.
 
 #tuto_52_c1
-Got it.--53--37
+Понял.--53--37
 
 #tuto_53_1
-Rockthrowers are only usefull in defense behind walls: I advise you to create a small fort of palissades and to then deploy them in it in 'stand ground' mode. This will protect you at least against invasion attempts.
+Метатели камней эфективны только при обороне позади своих стен: Я советую вам создать небольшие фортификации из частокола, а затем разместить их в режиме «установить на поверхность».
+Это защитит вас от первых нашествий.
 
 #tuto_53_2
-Once you are happy with your changes, make sure to close and SAVE your changes by clicking here.
+Однажды закончив со всеми изменениями вашего поселения, убедитесь, что вы вышли и СОХРАНИЛИ ваши изменения, нажав вот здесь.
 
 #tuto_54_1
-You now finished organizing your basic defenses. 
+Теперь вы закончили организацию начальных укреплений.
 
-#tuto_54_2
-In addition to potential events or conflicts with other players, nearby NPC 'barbarian' camps are likely to regularly spawn warbands that will attempt to raid, sack , or even invade your territories. 
+#tuto_54_2 
+В дополнение к возможным конфликтам с другими игроками, ближайшие лагери дикарей, вероятно, будут регулярно создавать отряды, которые будут пытаться совершать набеги, грабить или даже вторгаться на ваши территории.
 
 #tuto_54_3
-It won't be long before they notice you and send their first raiders, so you better be ready!
+Скоро они заметят вас и отправят своих первых рейдеров, так что будьте на чеку!
 
 #tuto_54_c1
-Good to know...--55--39
+Приму к сведению...--55--39
+
 
 #tuto_55_1
-It's time to address the topic of Knowledges (technologies), which unlock things like new buildings or new resources.
+Пришло время обратиться к теме Знаний (технологий), которые открывают новые улучшения для вашего поселения во всех сферах деятельности.
 
 #tuto_55_2
-To get new knowledges, you need to complete Projects. And to get Projects, you need to get Ideas. 
+Чтобы заполучить новые знания, вам необходимо завершать Проекты. Чтобы получить проекты, вам нужно иметь Идеи.
 
 #tuto_55_c1
-Go on...--56
+Продолжай.--56
 
 #tuto_56_1
-Ideas can come from your own population, spread from other territories, or be directly exchanged with other players via treaties.
+Идеи приходят сами прямо от ваших поселенцев, доходят из других областей или же они могут быть обменяны самими игроками между собой.
 
 #tuto_56_2
-You cannot directly control when and what ideas your people will have. Each idea comes with it's own hidden conditions.
+Вы не сможете непосредственно контролировать то, где и какие идеи ваши жители придумывают. Каждая идея имеет свои скрытые условия появления.
 
 #tuto_56_c1
 Ok.--57
 
 #tuto_57_1
-Now that your tribe is done setting camp in this territory, they got their first idea for Sedentarity, which will allow you to build your first proper dwellings.
+Теперь, когда ваше племя завершило размещение лагеря на этой территории, у них появляются первые идеи об Оседлости, которая позволит вам построить ваше первое надлежащее жилье.
 
 #tuto_57_2
-To actually get the 'knowledge' of Sendentarity, you will need to complete it's project first.
+Чтобы непосредственно заполучить Знания об Оседлости, вам понадобится исполнить соответсвующий проект.
 
 #tuto_57_c1
-How do i do that ?--58--40
+Как мне это сделать?--58--40
 
 #tuto_58_1
-This new button allows you to open another important menu : the Government Menu.
-
+Эта новая кнопка позволит открыть тебе другое немаловажное меню: Меню Управления (Правительственное меню).
+ 
 #tuto_58_2
-That's where you can manage and monitor all global matters (non territory-specific ones) such as your treasury balance, your culture, your policies etc...
+Здесь вы можете управлять и контролировать все глобальные вопросы (не относящиеся к территории), такие как баланс вашего казначейства, ваша культура, ваша политика и т.д ...
 
 #tuto_58_3
-Clic to open it.
+Нажмите, чтобы открыть его.
 
 #tuto_59_1
-The "Society" tab is where you manage your Policies, defining how your society is organized and works.
+Во вкладке «Общество» вы управляете своей политикой, определяя, насколько ваше общество организовано и как хорошо оно работает.
 
-#tuto_59_2
-For now, you are a primitive band society with a gift economy where everyone shares their goods. 
+#tuto_59_2 
+На данный момент вы - примитивное общество с экономикой "даров", где каждый обменивается своими товарами.
 
 #tuto_59_c1
-How do i change that ?--60
+Как мне поменять его?--60
 
 #tuto_60_1
-Later, with new knowledges, you'll unlock new policies allowing your to evolve your society's political and economical organization.
+Позже, с получением новых Знаний вы сможете разблокировать новые принципы, позволяющую вашему обществу развивать политическую и экономическую организацию.
 
 #tuto_60_2
-Now open the "Knowledges" tab to access your projects.
+Теперь откройте вкладку "Знания", для доступа к своим проектам.
 
 #tuto_61_1
-This colum shows all the Knowledges your society currently has. It's empty for now.
+Эта колонка показывает все знания, которые ваше общество имеет в настоящее время. Пока что она пуста.
 
 #tuto_61_2
-It also shows your knowledge capacity and current use. Each new knowledge costs some points depending on it's complexity. If your capacity is fully used, you will not be able to master new knowledges.
+Он также показывает ваш потенциал знаний и его текущее использование. Каждое новое знание стоит несколько очков в зависимости от его сложности. Если ваш потенциал будет полностью использован, 
+вы не сможете освоить новые знания.
 
 #tuto_61_c1
-Ok.--63--43
+Oк.--63--43
 
 #tuto_61_c2
-How do i get knowledge capacity ?--62
+Как мне получить больше потенциала знаний?--62
 
 #tuto_62_1
-Your capacity is increased by your total culture. At start, your culture will be mostly produced by your total population so the more population you have, the more knowledge capacity.
+Ваш потенциал увеличивается в зависимости от общей окультуризованности. Для начала, ваша культура будет в основном создана вашими поселенцами, так что, чем больше у вас поселенцев, тем больше ваш 
+потенциал знаний.
 
 #tuto_62_2
-Later, with writting,  you'll also be able to build Libraries to manually increased your knowledge capacity.
+Позже, с приходом умения писать, вы также сможете создавать библиотеки, чтобы вручную увеличивать ваши знания.
 
 #tuto_62_c1
-Ok.--63--43
+Oк.--63--43
 
 #tuto_63_1
-The "Sedentary life" project will unlock the knowledge of "Sedentism". To start it you first need to assign "researchers" to the project, and each project requires a specific 'class' of researchers (here it's Farmers).
+Проект "Оседлого образа жизни" разблокирует такое Знание как "Оседлость". Чтобы начать ваш первый проект Чтобы начать, вам понадобится назначить «исследователей», а для каждого проекта 
+требуется определенный «класс» исследователей.
+
 
 #tuto_63_2
-Clic the "+" button to assign researchers to the project.
+Нажмите "+" чтобы назначть исследователей для проекта.
 
 #tuto_64_1
-Be careful: assigning researchers reduces the productivity of all buildings employing the same population class as they are busy with the project instead of working.
+Будьте осторожны: назначение исследователей снижает производительность всех зданий, в которых используется один и тот же класс населения, поскольку они заняты проектом, а не работают.
 
 #tuto_64_2
-For instance, if you assign ALL your farmers to a project, then your farms will no longer produce anything.
+Например: если вы назначите ВСЕХ своих фермеров на определённый проект, тогда они больше не смогут ничего выращивать.
 
 #tuto_64_3
-Select how many researchers you want to assign for the project and validate.
+Выберите, сколько исследователей вы хотите назначить для проекта и подтвердите это действие.
 
 #tuto_65_1
-Each researcher contributes 'research points' based on their intelligence.
+Каждый исследователь вносит «очки исследования» на основании своего интеллекта.
 
 #tuto_65_2
-Each project also has a difficulty level, and the average intelligence of the assigned researchers define the odds of successfuly completing the project.
+Каждый проект имеет свой уровень сложности и cредний уровень интеллекта всех назначенных исследователей определяет шансы на успешное завершение проекта.
 
 #tuto_65_c1
-Ok.--66--46
+Oк.--66--46
 
 #tuto_66_1
-To start some projects you may also need to pay coins or resources. You will also need enough knowledge space to store the new knowledge it unlocks.
+Чтобы начать некоторые проекты, вам так же понадобится заплатить валютой или ресурсами. Вам также необходимо достаточно места чтобы запасать новые знания, которые он откроет.
 
 #tuto_66_2
-You can now clic to start the work on the project.
+Теперь вы можете  нажать на старт, чтобы начать работать над проектом.
 
 #tuto_67_1
-Congratulations, you started your first project! It will take some time to complete it, depending on your number of researchers and their efficiency.
+Мои поздравления, вы начали разрабатывать свой первый проект! Это займёт некоторое время для его завершения, которое зависит от количества исследователей и их эфективности.
 
 #tuto_67_c1
-Very well.--111
+Очень хорошо.--111
 
 #tuto_67_c2
-What happens if a project fails ?--68
+Что произойдёт, если проект провалится?--68
 
 #tuto_68_1
-If your project fails, you will have to restart it from scratch again. 
+Если ваш проект провалится, вам понадобится начать изучать его ещё раз.
 
 #tuto_68_2
-You will have to repay all the starting requirements.
+Вам придётся оплатить все начальные расходы ещё раз.
 
 #tuto_68_c1
-Damnit... So what now ?--111
+Чёрт возьми... Ну, так что теперь?--111
 
 #tuto_69_1
-You now know all the minimum basics to start ruling and developing your tribe in Ymir and I only have a few things left to show you before i leave you.
+Теперь вы знаете все начальные основы, чтобы начать управлять и развивать свое племя в Юмире, и у меня осталось всего несколько вещей, чтобы показать вам, прежде чем я покину вас.
 
 #tuto_69_c1
-It's about time!--70--48
+Вовремя!--70--48
 
 #tuto_70_1
-This is your player score. Its based on different stats like your total wealth, culture, military power and knowledges.
+Это ваш игровой счёт. Он основан на различных показателях, например вашего общего благополучия, культуры, военной мощи и знаний.
 
 #tuto_70_c1
-Ok.--71--49
+Oк.--71--49
 
 #tuto_71_1
-Next to it are your Victory Points. They are earned by completing victory missions that may be shared in common with other players, in which case only the first one to complete it will get the reward.
+Рядом с ним расположены ваши Победные Очки. Они зарабатываются посредством завершения победных миссий, которые могут проводиться совместно  другими игроками, и в этом случае награду получает 
+только тот, кто завершит ее.
 
 #tuto_71_2
-You win the game by beeing the first player to reach the objective of Victory Points set for that game.
+Вы выигрываете игру, будучи первым игроком, достигшим назначеного количества победных очков установленных для этой игры.
 
 #tuto_71_c1
-Good to know!--72--50
+Приму к сведению!--72--50
 
 #tuto_71_c2
-How do i get these missions ?--81
+Как мне получить задания?--81
 
 #tuto_72_1
-Well that's it : my work here is now done and it's time for me to leave you in charge.
+Ну вот и все, на этом моя работа здесь завершена, и мне пора предоставить тебя самому себе.
 
 #tuto_72_c1
-Thank you mister Pig.--999
+Спасибо вам, господин Хряк.--999
 
 #tuto_72_c2
-Wait! What should i do now ?--73
+Погоди! Что мне делать теперь?--73
 
 #tuto_72_c3
-I have some questions!--74
+У меня есть ещё вопросы!--74
+
 
 #tuto_73_1
-Now that your tribe is settled, it's population should be slowly growing but this can take some time.
+Теперь, когда ваше племя разместилось, его население начнёт медленно расти, но это может занять некоторое время.
 
 #tuto_73_2
-In the meantime, it might be a good idea to keep exploring your surroundings in the worldmap and to locate herds to hunt down to provide your tribe with additional food to boost it's growth.
+Тем временем, возможно это будет хорошей идеей продолжать исследовать мир вокруг себя и искать места обитания диких животных, чтобы обеспечить ваше племя дополнительной пищей для ускорения его роста.
 
 #tuto_73_c1
-Ok.--74
+Oк.--74
 
 #tuto_74_1
-What do you want to know more about, young piglet ?
+Что мне ещё потребуется знать о поросятах?
 
 #tuto_74_c1
-I have no more questions, mister Pig.--75
+У меня больше нет вопросов, господин Хряк.--75
 
 #tuto_74_c2
-Can i see you again ?--76
+Мы увидимся снова?--76
 
 #tuto_75_1
-Farewell then, and good luck!
+Прощай же, и удачи!
 
 #tuto_75_c1
-Goodbye!--999
+Прощай!--999
 
 #tuto_76_1
-Yes i might popup from time to time when you unlock new important things!
+Да, я буду иногда появляться время от времени, когда ты откроешь для себя что-то важное и новое!
 
 #tuto_76_c1
-Ok!--74
+Oк!--74
 
 #tuto_77_1
-You will have to create a new 'Formation' (your exploration expedition) and recruit units in it, then move it from the worldmap view.
+Вам нужно будет создать новое Формирование (ваша исследовательская экспедиция) и набрать в него жителей, а затем переместить его по глобальной карте.
 
 #tuto_77_2
-But be careful! This is dangerous, as every time you explore new territory tiles you may trigger 'exploration events': There is a lot to gain from them but also a lot to lose.
+Но будь осторожен! Это опасно, так как каждый раз, когда вы исследуете новые области, вы можете спровоцировать различные события: на них можно не только заработать, но и потерять многое.
 
 #tuto_77_c1
-Ok.--78
+Oк.--78
 
 #tuto_78_1
-For your explorers to have any chance of success i strongly suggest you to recruit at least 10 warriors into your expedition party, for the world is dark and full of terrors.
+Чтобы ваши исследователи имели какой-либо шанс на успех, я настоятельно рекомендую вам привлечь как минимум 10 воинов в вашу экспедиционную группу, поскольку этот мир опасен и полон ужасов.
 
 #tuto_78_c1
 Very well.--74
 
 #tuto_79_1
-Herds are finite groups of animals and not a permanent resource: they cannot be exploited by the Hunter building.
+Стада - это ограниченые группы животных, а не постоянный ресурс: Охотник не сможет на них охотиться.
 
 #tuto_79_2
-To hunt them, you have to form a hunting party: Create a 'Formation' and recruit hunters (any warriors of your choice) as well as some carriers to transport the looted meat.
+Чтобы ты смог на них охотиться, создай формирование Охотников и завербуй несколько воинов на ваш выбор, так же немного носильщиков для транспортировки свежедобытого мяса.
 
 #tuto_79_c1
-What then ?--80
+Что дальше?--80
 
 #tuto_80_1
-Move the hunters to the same territory as the herd in the worldmap and give them the order to "Hunt": it will initiate a battle where they will attempt to kill animals of the herd.
+Переместите охотников туда же, где и находится стадо, на глобальной карте отдайте им команду "Охотиться": это начнёт бой, где они будут убивать животных из этого стада.
 
 #tuto_80_2
-Animals will fight back so be careful! Once the hunting is over and if successful, the formation will have fresh meat in it's inventory, which you can bring back to your tribe.
+Но будьте осторожны, животные так же могут атаковать в ответ. Как только охота закончится, формирование будет иметь добытое мясо в своих инвенторях, которое вы сможете отнести в своё поселение.
 
 #tuto_80_c1
-Excellent.--74
+Чудесно.--74
 
 #tuto_81_1
-You can't. Victory point missions, like other missions or other events, will happen to you randomly.
+Вы не можете. Задания на Победные Очки, как и любые другие события будут происходить случайно.
 
 #tuto_81_c1
-Fair enough.--72--50
+Справедливо.--72--50
 
 #tuto_82_1
-Are you sure? This tutorial can help you...
+Вы уверены? Это обучение поможет вам...
 
 #tuto_82_c1
-Yes--83
+Да.--83
 
 #tuto_83_1
-Are you really sure ? I think it might be the best thing for you.
+
+65/5000
+Ты действительно уверен? Я думаю,есть и более выгодные для вас.
 
 #tuto_83_c1
-Yes!--84
+Да!--84
 
 #tuto_84_1
-I think i know what is best for you, i'm going to stay here and go on with this tutorial. 
+Я лучше знаю, что для тебя сейчас выгоднее, так что я останусь здесь до конца обучения.
 
 #tuto_84_c1
-Please go away...--1
+Пожалуйста, уходи.--1
 
 #tuto_84_c2
-What can i do to make you leave me alone ?--85
+Что мне сделать, чтобы ты отстал от меня?--85
 
 #tuto_85_1
-Bears.
+Медведи.
 
 #tuto_85_c1
-What ?--86
+Чего?--86
 
 #tuto_86_1
-I have bears.
+У меня есть медведи.
 
 #tuto_86_c1
-Bears ? What does that have to do with anything ?--87
+Медведи? Какое это имеет отношение?--87
 
 #tuto_87_1
-It will, if you don't go on with my tutorial.
+Оно появится, если ты не будешь продолжать обучаться вместе со мной.
 
 #tuto_87_c1
-You're a Bear summoning tutorial assistant ?--88
+Ты – помощник - призыватель медведей?--88
 
 #tuto_87_c2
-I don't see any bears. Where are they ?--98
+Я не вижу никаких медведей. Где они?--98
 
 #tuto_88_1
-Yes.
+Да.
 
 #tuto_88_c1
-And what will your bears do if i don't follow your tutorial ?--89
+И что же твои медведи сделают, если я не продолжу обучение?--89
 
 #tuto_89_1
-My bears are trained to do many things, including devouring the entrails of your tribespigs.
+Мои медведи научены делать многие вещи, включая поедание твоих свинок заживо.
 
 #tuto_89_c1
-I don't care, i can get another tribe.--90
+Мне всё равно, я найду другое племя.--90
 
 #tuto_90_1
-You're not a really good leader for your people.
+Ты не самый лучший лидер для своего народа. 
 
 #tuto_90_c1
-You're not a really good tutorial assistant.--91
+Ты не самый лучший помощник по обучению.--91
 
 #tuto_91_1
-You're mean.
+Ты придираешься.
 
 #tuto_91_c1
-Will you leave me alone now ?--92
+Может отстанешь уже наконец?--92
 
 #tuto_92_1
-Fine. Have fun with this shitty game: Its UIs and menus are so bad you're never gonna figure it out by yourself anyways. I'm too old for this shit...
+Ладно. Веселись в этой паршивенькой игрушке: Пользовательский интерфейс здесь настолько плох, что ты никогда сам в нём не разберёшься. Ох, я стал слишком стар для этого дерьма...
 
 #tuto_92_c1
-Yes, FINE! I don't need you!--999
+Ну и ладно! Ты мне не нужен!--999
 
 #tuto_92_c2
-Wait what ?--93
+Погоди, что?--93
 
 #tuto_93_1
-No it's too late. Ha! I bet you won't even find how to settle your tribe, the buttons have been visciously hidden... Goodbye... Piglet!
+Нет, уже поздно. Ха! Ставлю на то, что ты никогда не догадаешься как дать твоему племени "осесть", я намеренно спрятал нужные кнопки... Прощай... Свинота!
 
 #tuto_93_c1
-No! Don't leave, i changed my mind!--94
+Нет! Постой, я передумал!--94
 
 #tuto_93_c2
-I'll take my chances, if it means getting passed this lousy tutorial.--999
+Я пойду на риск, если я потом смогу пройти это паршивое обучение.--999
 
 #tuto_94_1
-That's not gonna be enough. I demand apologies.
+Этого будет недостаточно. Я требую извинений.
 
 #tuto_94_c1
-I'm sorry.--95
+Извините.--95
 
 #tuto_95_1
-I'm sorry who ?
+Что "извините"?
 
 #tuto_95_c1
-I'm sorry, mister Sagacious Pig.--96
+Извините, Мудрый Хряк.--96
 
 #tuto_96_1
-It's MISTER mister Sagacious pig to you.
+Для тебя я ГОСПОДИН Мудрый Хряк.
 
 #tuto_96_c1
-I'm sorry, mister mister Sagacious Pig. Can we get back at it now?--97
+Извините, господин Мудрый Хряк. Может мы вернёмся к тому, чем занимались ранее?--97
 
 #tuto_97_1
-Hmmmph... That will do, pig... that will do. You better be listening and nice this time!
+Хмммм... Так-то лучше... так-то лучше. Тебе лучше слушать меня и слушать меня хорошо на этот раз!
 
 #tuto_97_c1
-I'm listening.--1
+Я слушаю.--1
 
 #tuto_98_1
-They're hiding. Bears hibernate.
+Они все попрятались. Медведи впали в спячку.
 
 #tuto_98_c1
-You're bluffing.--99
+Да ты блефуешь.--99
 
 #tuto_98_c2
-We're not even in winter. Bears only hibernate in winter.--104
+Сейчас не зима. Медведи впадают в спячку только зимой.--104
 
 #tuto_99_1
-I have an army of bears! I can summon them all and wipe your insolent tribe off this world!
+Да у меня есть армия медведей! Я могу призвать их всех и стереть твоё жалкое племя с лица земли!
 
 #tuto_99_c1
-No you don't. You're just a lame tutorial assistant trying to be funny.--100
+Не-а, не сможешь. Ты всего лишь жалкий помощник по обучению, пытающийся быть смешным.--100
 
 #tuto_100_1
-How dare you!
+Да как ты смеешь!
 
 #tuto_100_c1
-You don't even exist. You're just a script of pseudo interactive pre-written lines here only for my personnal entertainment.--101
+Ты даже не существуешь. Ты всего лишь скрипт, созданный чтобы развлекать меня.--101
 
 #tuto_101_1
-You're lying!
+Ты лжёшь!
 
 #tuto_101_c1
-I can get rid of you anytime by simply editing the .ini file of this game.-102
+Я могу избавиться от тебя когда угодно, просто удалив .ini файл из игры.-102
 
 #tuto_102_1
-No you can't! You will be lost in this game without me. You NEED me.
+Нет, не можешь! Ты запутаешься в этой игре. Я НУЖЕН ТЕБЕ.
 
 #tuto_102_c1
-Yes i can, and i will. Right now.--103--51
+Да я разберусь сам. Прямо сейчас.--103--51
 
 #tuto_102_c2
-Yes i could. But i'm a generous god. I will let you carry on with your purpose.--1
+Я смогу. Но я щедрый бог. Я позволю тебе продолжить самому.--1
 
 #tuto_103_1
-Not before i spawn my army of Bears and exterminate your puny excuse of a tribe. Die Fetcher!
+Но не раньше, чем я создам свою армию Медведей и уничтожу ваше жалкое подобие племени. Умри же, мальчишка на побегушках!
 
 #tuto_103_c1
-How... What kind of freakin' tutorial is this ?!--999
+Что... Что это чёрт возьми такое? Что это за обучение такое?!--999
 
 #tuto_104_1
-Oh because you're such an expert in bears!
+Ох, потому что ты такой специалист по медведям!
 
 #tuto_104_c1
-Yes i am, actually.--105
+Ну, да, на самом деле.--105
 
 #tuto_105_1
-Fine. If you're such an expert, then answer that: how do you call a group of bears ? If you answer right, i will leave. If you don't, you'll have to endure my tutorial.
+Ладно. Если ты весь из себя такой эксперт, тогда ответь мне: как называется медвежье сборище? Если ответишь правильно - я уйду. Если же нет, то тебе придётся вытерпеть моё обучение.
 
 #tuto_105_c1
-A group of bears.--106
+Медвежье сборище.--106
+
 
 #tuto_105_c2
-A band.--107
+Медвежья семья.--107
 
 #tuto_105_c3
 A sloth.--108
-
+(Что-то вроде "сброда", но это не точно)
 #tuto_105_c4
 A congregation.--107
+Община.
 
 #tuto_106_1
-You are wise, young piglet. Wiser than you look. Fair enough, i will leave you alone. But are you sure you want to skip this tutorial ?
-
+А ты умён. По крайней мере, умнее чем кажешься. Что ж, я оставлю тебя в покое. Но ты уверен, что хочешь пропустить обучение?
 #tuto_106_c1
-Yes.--999
+Да.--999
 
 #tuto_106_c2
-No. I won, but I will indulge your tutorial.--1
+Нет. Хоть я и победил, я буду снисходителен и пройду твоё обучение.--1
 
 #tuto_107_1
-Wrong! You foolish piglet! Now pay attention and suffer my neverending tutorial!
+Неправильно! Глупый свинтус! Теперь внимай ко мне и страдай в этом нескончаемом обучении!
 
 #tuto_107_c1
-Damnit...--1
+Чёрт тебя подери...--1
 
 #tuto_108_1
-You googled it, didn't you.
+Ты это загуглил, не правда ли?
 
 #tuto_108_c1
-No.--109
+Нет.--109
 
 #tuto_109_1
-You did. I know it. Just admit it, or face irreversible consequences!
+А вот и да. Я знаю кто. Просто признай это, или столкнись лицом к лицу с необратимыми последствиями!
 
 #tuto_109_2
-I am the Bearmaster. If you do not come clean, i will summon my army of vengeful bears and exterminate you and your puny tribe! Then, no more tutorial for you, MISTER piglet! You will be alone in this cruel unforgiving game with it's confusing counter-intuitive UIs and menus. So think again, before doing anything foolish as to defy me. This is your last chance!
+Я – Мастер медведей. Если ты не будешь честен со мной, я призову свою медвежью армию возмездия и уничтожу твоё ничтожное племя! Тогда уже не будет никакого обучения для вас, ГОСПОДИН Свинтус! Ты останешься 
+один в этой жестокой и беспощадной игре с её нелогичным интерфейсом и меню. Так что подумай ещё раз, прежде чем сделать очередную глупость, ослушавшись меня. Это твой последний шанс!
 
 #tuto_109_c1
-I will not!--110--51
+Я не буду этого делать!--110--51
 
 #tuto_110_1
-You CHEATED! For this you deserve unBEARable punishment! Its time for my bears to maul your insolent tribe!
+Ты ЖУЛЬНИЧАЛ! Посему ты заслуживаешь безжалостное наказание! Пришло время для моих медведей растерзать ваше наглое племя!
 
 #tuto_110_c1
-I can't beleive this...--999
+Я просто не могу в это поверить...--999
 
 #tuto_111_1
-Now let's wait until the project is completed...
+А теперь дождитесь, пока проект не будет исследован полностью.
 
 #tuto_112_1
-There! You can now build your first solid dwelling : a primitive rustic hut. 
+Вот так! Теперь вы можете построить первый дом: примитивную деревенскую хату.
 
 #tuto_112_2
-Currently, your tribe is living in 'slums'. Slums are 1 tile dwellings that will spawn automatically whenever no proper housing is available. They will also disapear automatically when empty houses are available, as it's residents relocate into them.
+В настоящий момент, ваше племя является трущобами. Трущобы  представляют собой 1 хижину, которая будет появляться автоматически всякий раз, когда не окажется подходящего жилья. Они так же автоматически исчезнут,
+как появится новый дом и жители хижины переедут в него.
 
 #tuto_112_c1
-What's the use of providing good houses ?--113
+В чём заключается польза в обеспечивании "хороших" домов?--113
 
-#tuto_113_1
-Slums provide no bonuses while houses improve the Health and Life Quality of it's residents. Life quality increases Intelligence while Health decreases sickness, which reduces the amount of your porcos dying during each generation. 
+#tuto_113_1 
+Хижины не дают никаких бонусов, в то же время нормальные дома повышают здоровый образ жизни и Качество жизни его жильцов. Качество жизни увеличивает Интеллект, пока Здоровый образ жизни уменьшает риск заболеваний, которые могут уменьшать количество ваших порко.
 
 #tuto_113_2
-Improving both these stats will increase your population's happiness and growth, giving you more Actives to employ in buildings or armies.
+Обеспечение этих показателей повысит популяцию ваших жителей, давая вам больше работников для строительства или армии.
 
 #tuto_113_c1
-Good to know!--114
+Приму к сведению!--114
 
 #tuto_114_1
-Your next assignement is to use your starting resources to start building your first proper huts. Once they are completed, slums will progressively disapear as population relocates into the new houses. 
+Ваше следующее задание - использовать ваши стартовые ресурсы, чтобы начать строить свои первые правильные хижины. Как только они будут завершены, трущобы будут постепенно исчезать, поскольку население 
+переезжает в новые дома.
 
 #tuto_114_2
-You can also speed up this process by manually destroying the slums. If you destroy more than there is room available, new ones will simply reappear elsewhere, so you can't lose any population!
+Вы также можете ускорить этот процесс, уничтожив трущобы вручную. Если вы уничтожите больше, чем окажется свободных мест, очередные хижины появятся в другом месте, так что вы не потеряете своих жителей!
 
 #tuto_114_c1
-Very well.--115
+Отлично.--115
 
 #tuto_115_1
-This is the destroy tool. Its what you use to order the destruction of infrastuctures, clear terrain, or deconstruct building. When you right clic on it, you can filter what you wish to destroy.
+Это инструмент для уничтожения. Это то, что вы можете использовать, чтобы приказать разработать определённую инфраструктуру, очистить местность или разрушить строения. Если щелкнуть по нему правой кнопкой мыши, вы можете отфильтровать то, что хотите уничтожить.
 
 #tuto_115_2
-When your order the deconstruction of a building, you will recover about half it's initial materials.
+При команде разборки здания вы будете восстанавливать около половины потраченных на него материалов.
 
 #tuto_115_c1
-Good!--116
+Хорошо!--116
 
 #tuto_116_1
-Now complete your current assignement by building at least 10 huts for your population.
+Теперь завершите текущее задание, построив, как минимум, 10 деревенских хат для ваших поселенцев.
 
 #tuto_117_1
-Good! As a reward new families settled in your territory which will help us for to the next step: creating your first expedition to hunt and explore.
+Отлично! В качестве награды, на вашей территории поселилось несколько семей, которые помогут нам со следющим шагом: создание первых экспедиций для охоты и исследования земель.
 
 #tuto_117_c1
-Why is that ?--131
+Почему именно так?--131
 
 #tuto_131_1
-As hunters and gatherers, you currently rely only on your natural sources of food which might quickly become insufficient for your tribe. You need to explore territories around your village and to hunt Herds to provide the extra food you'll need to support the growth of your tribe.
+Как охотники и собиратели, вы можете полагаться только на окружающие вас природные пищевые ресурсы, количество которых может становиться недостаточным для вашего племени. Вам потребуется исследовать территории
+вокруг и находить табуны животных для добычи достаточного количества пищи, которое понадобится для снабжения вашего племени.
 
 #tuto_131_c1
-What are Herds ?--118
+Что за табуны?--118
 
 #tuto_118_1
-Herds are groups of animal units. They are finite and are not a permanent resource: they cannot be exploited by the Hunter building. 
+Табуны – это группы животных. Они конечны и не являются постоянным ресурсом: Охотники не могут охотиться на них в одиночку.
 
 #tuto_118_2
-As 'units', they are visible from the world map and can be hunted without the need of a settlement.
+По отдельности, их можно увидеть с карты мира и на них можно охотиться без необходимости поселяться рядом.
 
 #tuto_118_c1
-How do i hunt them, then ?--119
+Как тогда мне на них охотиться?--119
 
 #tuto_119_1
-To hunt them, you have to form an expedition party.
+Чтобы вам охотиться на них, вам потребуется сформировать экспедиционную бригаду.
 
 #tuto_119_2
-While a militia is just a stack of weapons to use by your population in case of attack, a regular 'army' is a group of actual units that are removed from your population and permanently mobilized. An army can move to other territories and perform actions like hunting.
+В то время как ополчение - это просто население, которое вооружается в случае нападения, регулярная "армия" - это группа постоянных подразделений, которые находятся вне вашего поселения и постоянно 
+мобилизованы. Армия может перемещаться в другие области и выполнять такие действия, как охота.
 
 #tuto_119_c1
-Got it, so what do i do ?--120
+Понятно, что мне сделать?--120
 
 #tuto_120_1
-Now create a new 'Army' formation and recruit 10 warriors in it. 
+Теперь создайте новое Формирование "Армия" и завербуйте в него 10 воинов.
 
 #tuto_120_2
-This time note that they will be removed from your current population as it's not a 'Militia', so you'll never want to recruit all your actives in an army because it would empty all it's production buildings of it's workers.
+Учите, что теперь они будут находиться вне вашего поселения, так как это не Ополчение, так что вам не стоит вербовать всех ваших рабочих в армию, так как дальнейшее производство и строительство 
+не будет продолжаться.
 
 #tuto_121_1
-Select your new formation by clicking on it's camp or by clicking it's button on the Formations tab.
+Выберите ваше новое Формирование, нажав на полевой лагерь или нажав соответсвующую кнопку во вкладке Формации.
 
 #tuto_122_1
-On your selected Formation's menu, click the "+" button to add additionnal troops to your already existing army.
+В выбранном меню Формации, нажмите "+" чтобы добавить допольнительных бойцов в уже существующую армию.
 
 #tuto_123_1
-Armies can carry goods and have their own inventory whose capacity depends on the units in it. Carriers are non-fighting units who simply provide a lot of inventory capacity for your Formation.
+Армия может переносить вещи на себе и иметь собственный инвентарь, размер которого зависит от количества человек в нём. Носильщики – это не боевые юниты, которые просто могут тащить больше вещей на себе в этом формировании.
 
 #tuto_123_2
-You need to recruit at least 3 of them.
+Вам понадобится завербовать как минимум 3 Носильщиков.
 
 #tuto_124_1
-You can see your formation's inventory by clicking on it's inventory tab in it's menu.
+Вы можете открыть инвентарь вашего формирования, нажав на вкладку инвентаря в его меню.
 
 #tuto_124_2
-There you can see it's current inventory capacity, and you can load or unload resources from your formation into your territory.
+Здесь вы можете увидеть его заполненность в текущий момент, так же вы можете загружать или разгружать его на близлежащей территории.
 
 #tuto_124_c1
-Got it!--125
+Понял!--125
 
 #tuto_125_1
-Now that your first expedition is ready, go back to the worlmap view to start exploring other territories.
+Теперь, когда ваша первая экспедиция готова, вернитесь к карте мира, чтобы начать исследовать другие территории.
 
-#tuto_126_1
-On the worldmap view, all your formations will be visible and you can select them and give them orders. 'Militias' will also appear, but cannot be moved as they are binded to their territory!
+#tuto_126_1!
+На карте мира все ваши формирования будут видны вам, и вы сможете выбрать их и отдавать им приказы. «Ополченцы» также появятся, но их нельзя перемещать, поскольку они закреплены на их территории!
 
 #tuto_126_2
-You can recruit, disband, load and unload resources directly from the worldmap as well.
+Вы так можете вербовать, распускать, загружать и разгружать ресурсы прямо на мировой карте.
 
 #tuto_126_c1
-Ok!--127
+Oк!--127
 
 #tuto_127_1
-Now beware! Only the tiles next to your tribe are visible while the rest remains hidden until you first explore it. But whenever you uncover new tiles for the first time, you group of explorers might trigger an "exploration event".
+Теперь будьте осторожны! Видны только области рядом с вашим племенем, а остальные остаются скрытыми до тех пор, пока вы не исследуете их. Но всякий раз, когда вы открываете новые области впервые, ваша группа 
+исследователей может вызвать «событие разведки».
 
 #tuto_127_c1
-Got it.--132
+Понял.--132
 
-#tuto_132_1
-These events can be dangerous but can also be rewarding, giving you new resources and units. To have any chance of successfully explore, always do so with a group of 10 or more porcos. Once a territory has been explored once, you can then move safely through them for it will not trigger any new exploration event.
+#tuto_132_1 
+Эти события могут оказаться опасными, но иметь хорошее вознаграждение, давая вам новые ресурсы или людей. Чтобы иметь возможность совершить успешное исследование, всегда делайте это с группой из 10 или 
+более порко. Как только территория оказывается исследованной, вы сможете безопасно перемещаться по ней не вызывая новое событие исследования.
 
 #tuto_132_c1
-Good to know!--128
+Принял к сведению!--128
 
 #tuto_128_1
-Now try to locate a 'herd': a group of animals units, and explore new tiles if you have to. Select the herd formation once you have found one.
+Теперь попытайтесь найти табун: группу отдельных животных и исследуйте новые области, если вам это понадобится. Выберите табун, если вы нашли такой.
 
 #tuto_129_1
-That's a 'herd'. You can see how many animals it has and you can click on it's inventory to see it's 'loot' : the total amound of meat and leather you can recover from killing them.
+Это табун. Вы можете увидеть сколько в нём животных(кол-во лута) нажав на его инвентарь: суммарное количество мяса и кожи, которые вы можете получить, убив их.
 
 #tuto_129_2
-With your formation of warriors selected, you can right clic on the tile of the territory where the herd is, and the action "Hunt" will be available.
+С помощью выбранного формирования воинов, вы можете нажать правым кликом на область в данной территории где находится табун, после чего действие "Охота" станет доступным.
 
 #tuto_129_c1
-What happens next ?--130
+А что потом?--130
 
 #tuto_130_1
-If you confirm the hunting action, it will initiate a 'battle' between your warriors and the animals of the herd. You can also witness the hunting by going into the territory.
+Если вы подтвердите начало охоты, оно начнет «битву» между вашими воинами и животными в табуне. Вы также можете наблюдать за охотой, открыв эту территорию.
 
 #tuto_130_2
-If your warriors are sucessful, some or all of the animals loot will be transfered into your formation's inventory, which you can then bring back and unload into your territory, providing extra food to support your tribe's growth!
+Если ваши воины добьются успеха, часть или вся добыча с убитых животных будет перенесена в инвентарь вашего формирования, которую вы сможете затем вернуть и выгрузить на своей территории, снабжая
+ваше племя пищей.
 
 #tuto_130_c1
-Excellent!--69
+Отлично!--69
 
 #tuto_300_1
-Congrats! It looks like you have unlocked the knowledge of agriculture for the first time!
+Мои поздравления! Похоже, открыли знания о сельском хозяйстве!
 
 #tuto_300_c1
-Indeed.--301
+Есть такое.--301
 
 #tuto_300_c2
-No, i don't need your help thank you!--998
+Нет, спасибо, мне не нужна твоя помощь!--998
 
 #tuto_301_1
-Agriculture now allows you to create fields with your gathering camps. Fields are not buildings: they are 'annexes'.
+Теперь cельское хозяйство позволяет вам создавать поля вместе с лагерями для собирателей. Поля не являются зданиями: они являются «пристройкой».
 
 #tuto_301_2
-An annex is constructed and linked to the building owning it. It provides it with additionnal production sources, distribution, or even bonuses such as increasing its efficiency.
+Пристройка сконструирована и подключена к строению, владеющим ей. Это обеспечивает строение дополнительными производственными источниками,  распределением или даже бонусами, такими как повышение его эффективности.
 
 #tuto_301_c1
-Very well.--302
+Очень хорошо!--302
 
 #tuto_302_1
-Fields are a production annex to your gathering camps. Thanks to them you can now place new gathering camps regardless of the presence of exploitable natural resources, as you can make your own with fields!
+Поля являются пристройкой к вашим лагерям собирателей. Благодаря им вы теперь можете размещать новые лагеря собирателей независимо от наличия эксплуатируемых природных ресурсов, так как вы можете 
+создавать свои собственные с полями!
 
 #tuto_302_2
-To create fields, select one of your gathering camps to open its building menu.
+Чтобы создать поле, выберите один из лагерей собирателей, чтобы открыть его меню строительства.
 
 #tuto_303_1
-The available annexes for a building appear on the bottom of its building menu. Click on the new Field button to place fields for this gathering camp.
+Доступные для строительства пристройки появятся внизу этого меню. Нажмите на кнопку Новое Поле, чтобы разместить поле для этого лагеря собирателей.
 
 #tuto_304_1
-Fields cost hoes to create as well as one resource unit of the culture type (as seeds). Once placed they are permanent and each fields adds a new "production source" to the building they are attached to.
+Поля так же требуют для своего создания мотыги, чтобы создать так же как одну единицу культурных растений (семена).  После размещения они являются постоянными, и каждое поле добавляет новый «источник 
+производства» в здание, к которому они присоединены.
 
 #tuto_304_2
-Ground fertility affects the productivity of the fields : try placing them over the most fertile grounds (groundwater is not effective yet).
+Плодородие почвы влияет на продуктивность полей: попробуйте разместить их над наиболее плодородными почвами (грунтовые воды пока не очень эффективны).
 
 #tuto_304_c1
-Got it!--305
+Понял!--305
 
 #tuto_305_1
-Each field requires workforce from its building to be exploited. If the workforce of the gathering camp is already 100% used, it is useless to add any new fields until some is available. That can happen after upgrading the building or changing policies that affect building's efficiency.
+Каждому полю требуется рабочая сила из ближайшей постройки, которая это поле испольщует.  Если рабочая сила в лагере уже используется на 100%, добавлять новые поля бессмысленно, пока 
+некоторые из них не станут снова доступны. Это может случиться после повышения уровня постройки или изменения ведения политики, которые влияют на эффективность постройки.
 
 #tuto_305_c1
-Good to know.--306
+Понял.--306
 
 #tuto_306_1
-Agriculture also unlocks a new type of tools required to make fields: hoes. To make them, you can click on one of your toolmakers and switch its production from hammers to hoes!
+Сельское хозяйство также открывает новый тип инструментов, необходимых для создания полей: мотыги. Чтобы сделать их, вы можете нажать на одного из ваших производителей инструментов
+и переключить его производство с молотков на мотыги!
 
 #tuto_306_c1
-Ok!--307
+Oк!--307
 
 #tuto_307_1
-That's it for now, enjoy farming!
+Вот и все, пока наслаждайтесь сельским хозяйством!
 
 #tuto_307_c1
-Thank you mister Sagacious Pig.--998
+Спасибо вам, господин Мудрый Хряк.--998
 
 #tuto_400_1
-It looks like its the first time you ever discover the knowledge of "Barter"! 
+Похоже, вы впервые открыли знание "Бартер"!
 
 #tuto_400_2
-This allows you to enable the economic policy of "fair exchange". It's a milestone transition for your society that requires to explain a few new things...
+Это позволяет включить экономическую политику "честного обмена". Это важный этап для вашего общества, в котором  потребуется объяснить несколько новых вещей ...
 
 #tuto_400_c1
-Go on...--401
+Продолжайте...--401
 
 #tuto_401_1
-By enabling "fair exchange", you will transition from a gift economy to a barter economy where people no longer freely share their commodities with each other while expecting later paybacks.
+Включив «честный обмен», вы перейдете от экономики разделения к бартерной экономике, где порко больше не будут свободно делиться друг с другом своими товарами, ожидая более поздних выплат.
 
 #tuto_401_c1
-So what?--402
+Что дальше?--402
 
 #tuto_402_1
-Then, people will have properties and trade goods of equivalent value immediately. Your population will have incomes depending on their activites and they will also be able to increase their wealth level beyond 1 as a consequence.
+Тогда порко будут иметь возможность обменивать товары равной стоимости в этот же момент. У вашего населения будут доходы в зависимости от их деятельности, и они также смогут увеличить свой уровень благосостояния выше 1, как следствие.
 
 #tuto_402_c1
-Ok--403
+Oк.--403
 
 #tuto_403_1
-More importantly, while being in a gift economy your people can automatically access any of the available resources they want but this will no longer be the case once you enable "fair exchange".
+Что еще более важно, находясь в экономике разделения, ваши люди могут автоматически получать доступ к любым доступным ресурсам, которые они захотят, но это больше не будет происходить, если вы включите «честный обмен».
 
 #tuto_403_2
-For people to access a resource, it will need to be distributed first and they'll have to purchase it.
+Чтобы люди могли получить доступ к ресурсу, его сначала нужно будет распространить, затем им придется его купить.
 
 #tuto_403_c1
-How can I do that?--404
+Как мне это сделать?--404
 
 #tuto_403_c2
-Very well. What then?--405
+Отлично. Что дальше?--405
 
 #tuto_404_1
-There is 2 ways of doing this. The first one is with a new building, the merchant, that only does distribution. It will 'consume' one specific resource from the territory's stocks and make it available for the population to buy.
+Есть 2 способа сделать это. Первый - с новым зданием, купцом, который занимается только сбытом. Он будет «потреблять» один конкретный ресурс из запасов территории и делать его доступным для покупки населением.
 
 #tuto_404_2
-The traders keep a share of the sales incomes while the rest goes to the original producers of the resource.
+Торговцы сохраняют часть доходов от продаж, в то время как остальная часть идет исходным поставщикам ресурса.
 
 #tuto_404_c1
-What's the other way?--405
+А какой второй способ?--405
 
 #tuto_405_1
-All production buildings also have access to a new type of annex: market stands. Like other annexes such as fields for farms, they're available from the production building's menu. 
+Все производственные здания также имеют доступ к новому типу пристройки: рыночные лавки. Как и другие пристройки, такие как поля для ферм, они доступны в меню производственного здания.
 
 #tuto_405_2
-These annexes consume some of the building's workforce but they make the whole production of the building available for the people to buy. 
+Эти пристройки потребляют часть рабочей силы постройки, но они делают всю продукцию постройки доступной для покупки людьми.
 
 #tuto_405_c1
-So what's the difference between the 2 methods?--406
+Так в чём же разница между этими двумя способами?--406
+
 
 #tuto_406_1
-Market stands are free, consume workforce, and cannot distribute resource from stocks. They only sell their building's current productions.
+Рыночные лавки свободны, потребляют рабочую силу и не могут распределять ресурсы из своих запасов. Они продают только текущую продукцию своего здания.
 
 #tuto_406_2
-Merchants will sell any available resource -produced or stored- but they require one worker and they are not free to build. Also, they keep a share of all sales for themselves reducing the income of the producers.
+Купцы продадут любой доступный ресурс - произведенный или запасённый - но им требуется однин работник, так же они не могут ничего строить. Кроме того, они сохраняют за собой долю всех продаж для себя, уменьшая
+доход производителя.
 
 #tuto_406_c1
-Very well. What now?--407
+Отлично. Что дальше?--407
 
-#tuto_407_1
-Once "fair exchange" is enabled, your population no longer has any access to any resource -including food- that is not 'distributed' by merchants or market stands. 
+#tuto_407_1 
+Как только «честный обмен» включен, ваше население больше не будет имеет доступа к каким-либо ресурсам, включая продукты питания, которые не "сбываются" торговцами или рыночными ценам.
 
 #tuto_407_2
-It will be urgent that you start by making food (and then other resources such as pottery etc..) available to your people again by building merchants or setting up market stands with your production buildings.
+Нужно срочно начать с того, чтобы сделать еду (а затем и другие ресурсы, такие как посуда и т. д.) дающие вашим людям возможность торговать или создавать рынок сбыта.
 
 #tuto_407_c1
-Ok!--408
+Oк!--408
 
 #tuto_407_c2
-Wait... How can I do that again?--404
+Подождите ... Как я могу сделать это?--404
 
 #tuto_408_1
-Now, thanks to barter, your workers will now be much more efficient and your society more stable with less conflict allowing you to manage a bigger community with less risks of instability. 
+Теперь, благодаря бартеру, ваши работники станут более эффективными, а ваше общество - более стабильным, с меньшим количеством конфликтов, что позволит вам управлять большим сообществом с меньшими рисками нестабильности.
 
 #tuto_408_2
-You'll also get to control if and how much you want to distribute each produced resource depending on your needs, which you can't do in a gift economy!
+Вы также сможете контролировать, будете ли и сколько сбывать каждый произведенный ресурс в зависимости от ваших потребностей, чего вы не сможете сделать в экономике распределения!
 
 #tuto_408_c1
-Good to know.--409
+Нужная инфомрация.--409
 
 #tuto_409_1
-Fair exchange enabling a primitive form of currency, you'll now also have to manage your government's treasury balance which is in charge of all the services global to the community such as the maintenance of common buildings, the village's palissades, or armies. These services require payments as well once you're not in a gift economy!
+Справедливый обмен, создающий примитивную форму валюты, потребует создания и управления казначейством правительства.которое отвечает за все общие услуги для сообщества, такие как обслуживание общих зданий, 
+оборонительных сооружений деревни или армии. Эти услуги также требуют оплаты, если вы не находитесь в экономике распределения!
 
 #tuto_409_c1
-How do I fund all that?--410
+Как я могу финансировать все это?--410
 
 #tuto_410_1
-In these primitive times, the biggest source of income you can get is from your leader's own personnal funds by making them one and the same. 
+В эти примитивные времена, самый большой источник дохода, который вы можете получить, так это из личных средств вашего лидера, делая их одинаковыми.
 
 #tuto_410_2
-Using the "privileges" policy you can define the % of the territory's wealth awarded to your leader by right. This will slowly increase his personal wealth level which you can monitor in the territory menu by selecting the "Leader" population class.
+Используя политику «привилегий», вы можете определить% богатства территории, по праву присвоенный вашему лидеру. Это будет постепенно увеличивать уровень его личного богатства, которое вы можете отслеживать в меню территории.
+выбрав класс населения «Лидер».
 
 #tuto_410_c1
-Ok...--411
+Oк...--411
 
 #tuto_411_1
-Then, with the "Leadership" policy, you can assign how much of his personnal wealth you wish to assign to the government's expenses! 
+Затем, с помощью политики «Лидерство», вы можете назначить, сколько его личного богатства вы хотите выделить на расходы правительства!
 
 #tuto_411_2
-For example, a leader with a wealth of 20 contributing at 50% will therefore generate a treasury income of +10.
+Например, лидер с благосостоянием 20, вкладывающий 50%, будет получать доход от казны +10.
 
 #tuto_411_c1
-How else can I generate treasury income?--412
+Как еще я могу получить доход в казну?--412
 
 #tuto_412_1
-This is likely to be your main source of income in these early ages. Besides that, your people will also willingly contribute to expenses for the community with up to 20% of their own incomes but its likely to remain marginal at first.
+Это может быть вашим пока что основным источником дохода в этом раннем периоде. Кроме того, ваши люди также охотно будут вкладываться в сообщество с доходом до 20% от их собственных доходов, но 
+вначале они, вероятно, останутся незначительными.
 
 #tuto_412_2
-Once you develop proper taxation, you'll be able to modify this percentage yourself!
+Как только вы разработаете правильное налогообложение, вы сможете изменять их процент самостоятельно!
 
 #tuto_412_c1
-Very well.--413
+Отлично.--413
 
 #tuto_413_1
-That is all for now. Good luck in this difficult transition!
+На этом пока что всё. Удачи в этом нелёгком деле!
 
 #tuto_413_c1
-Thank you mister Sagacious Pig.--997
-
+Спасибо вам, Мудрый Хряк.--997
