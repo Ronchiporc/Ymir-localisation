@@ -1,28 +1,28 @@
-Ce jeu est destiné à être complexe et difficile.
-Toute similitude avec une autre espèce serait purement fortuite et involontaire.
-L'économie n'est jamais stable. Les choses fluctuent toujours, parce que c'est le résultat d'une simulation dynamique où beaucoup de choses s'influencent continuellement. Ne vous inquiétez pas si tout n'est pas toujours stable.
-Si le revenu d'un porco représente 3% du revenu total de la région, sa richesse représentera 3% de la richesse totale de la région.
-Le revenu d'une classe sociale est partagé équitablement entre tous les porcs appartenant à cette classe. Le revenu individuel d'un porco est donc une valeur moyenne basée sur le revenu total de sa classe sociale.
-L'étude de marché des ressources rares aura tendance à correspondre à la richesse de vos classes les plus riches tandis que les ressources abondantes auront tendance à correspondre à la richesse des classes pauvres.
-Un porco avec une richesse de 2 sera en mesure de satisfaire pleinement ses besoins de toute ressource coûtant 2 pièces ou moins.
-Si une ressource coûte 4 pièces, un porco avec une richesse de 1 ne peut satisfaire que 25% de son besoin pour cette ressource.
-La richesse d'un porco définit son pouvoir d'achat, comme les ressources qu'il peut se permettre d'acheter pour satisfaire ses besoins.
-La richesse est l'unité de la valeur objective. Il est défini par le temps passé par un porco travaillant sur n'importe quoi, indépendamment de la valeur subjective (prix des pièces) que son entreprise donne pour ce qu'il fait.
-La richesse, en tant qu'unité de valeur universelle de référence, est la même pour toutes les régions et tous les acteurs.
-Chaque porco qui passe du temps à travailler sur quelque chose produit la richesse proportionnellement à la quantité de travail effectué.
-Un Porco travaillant dans un bâtiment avec deux fois l'efficacité d'un autre produira deux fois la quantité de travail dans une journée, et donc deux fois la richesse.
-Le type ou le prix des marchandises n'a aucun effet sur la richesse. Ces choses sont relatives aux sociétés alors que la richesse est une unité universelle objective représentant le temps passé à travailler sur n'importe quoi.
-Si un Porco gagne 10 pièces sur 1000 en circulation (somme des revenus dans la région) mais que les choses changent et qu'il y en a soudainement 2000, c'est comme s'il perdait la moitié de son pouvoir d'achat et qu'il perdait la moitié de la richesse régionale qu'il utilise pour ses besoins avec ses 10 pièces de monnaie.
-Les devises représentent un droit à une part de valeur réelle et n'ont pas forcément de valeur par elles-mêmes. Dans Ymir cette "valeur objective réelle" est l'unité de "Richesse" représentée par des monnaies appelées "Pièces".
-Si la richesse totale de la région était une tarte, chaque pièce donnerait à un porco le droit à une tranche de celle-ci. La taille de la tranche dépend du nombre d'autres pièces circulant (somme de tous les revenus dans la région).
-La somme de tous les revenus d'une région représente la quantité totale de pièces circulant et donc la valeur objective (richesse) que représente chaque pièce.
-À ymir, pour simplifier et éviter la complication des monnaies relatives, la quantité de pièces en circulation est automatiquement définie comme la somme de tous les revenus. Par conséquent, la valeur réelle (richesse) de chaque pièce fluctue automatiquement en fonction du montant total des revenus.
-Vous pouvez toujours accéder aux ressources depuis un bâtiment de stockage sans employés, mais il ne peut en recevoir de nouveaux.
-Toute ressource distribuée et mise à la disposition de la population (que ce soit par les commerçants, les producteurs ou toute autre chose) est perdue, qu'elle soit vendue ou non.
-Le prix d'une ressource sera toujours d'au moins une pièce au-dessus de son coût de production pour assurer un minimum de bénéfices à ses producteurs.
-Si une industrie produit quelque chose de très valorisé, les producteurs de ses matériaux requis convoiteront les revenus de cette industrie et augmenteront le prix de leurs matériaux.
-Chaque projet a un nombre optimal de chercheurs. Au-delà, tout chercheur supplémentaire ajoutera seulement une contribution mineure au projet.
-Dans un projet, chaque chercheur apporte des «points de recherche» basés sur son intelligence.
-Attention: affecter des chercheurs à un projet réduit la productivité de tous les bâtiments qui emploient la même classe de population.
-Vous ne pouvez pas contrôler directement quand et quelles idées votre peuple aura. Chaque idée vient avec ses propres conditions cachées.
-Dans l'onglet Construction, vous pouvez toujours choisir de construire la version obsolète précédente d'un bâtiment en cliquant avec le bouton droit sur le bouton du bâtiment.
+ï»¿Ce jeu est destinÃ© Ã  Ãªtre complexe et difficile.
+Toute similitude avec une autre espÃ¨ce serait purement fortuite et involontaire.
+L'Ã©conomie n'est jamais stable. Les choses fluctuent toujours, parce que c'est le rÃ©sultat d'une simulation dynamique oÃ¹ beaucoup de choses s'influencent continuellement. Ne vous inquiÃ©tez pas si tout n'est pas toujours stable.
+Si le revenu d'un porco reprÃ©sente 3% du revenu total de la rÃ©gion, sa richesse reprÃ©sentera 3% de la richesse totale de la rÃ©gion.
+Le revenu d'une classe sociale est partagÃ© Ã©quitablement entre tous les porcs appartenant Ã  cette classe. Le revenu individuel d'un porco est donc une valeur moyenne basÃ©e sur le revenu total de sa classe sociale.
+L'Ã©tude de marchÃ© des ressources rares aura tendance Ã  correspondre Ã  la richesse de vos classes les plus riches tandis que les ressources abondantes auront tendance Ã  correspondre Ã  la richesse des classes pauvres.
+Un porco avec une richesse de 2 sera en mesure de satisfaire pleinement ses besoins de toute ressource coÃ»tant 2 piÃ¨ces ou moins.
+Si une ressource coÃ»te 4 piÃ¨ces, un porco avec une richesse de 1 ne peut satisfaire que 25% de son besoin pour cette ressource.
+La richesse d'un porco dÃ©finit son pouvoir d'achat, comme les ressources qu'il peut se permettre d'acheter pour satisfaire ses besoins.
+La richesse est l'unitÃ© de la valeur objective. Il est dÃ©fini par le temps passÃ© par un porco travaillant sur n'importe quoi, indÃ©pendamment de la valeur subjective (prix des piÃ¨ces) que son entreprise donne pour ce qu'il fait.
+La richesse, en tant qu'unitÃ© de valeur universelle de rÃ©fÃ©rence, est la mÃªme pour toutes les rÃ©gions et tous les acteurs.
+Chaque porco qui passe du temps Ã  travailler sur quelque chose produit la richesse proportionnellement Ã  la quantitÃ© de travail effectuÃ©.
+Un Porco travaillant dans un bÃ¢timent avec deux fois l'efficacitÃ© d'un autre produira deux fois la quantitÃ© de travail dans une journÃ©e, et donc deux fois la richesse.
+Le type ou le prix des marchandises n'a aucun effet sur la richesse. Ces choses sont relatives aux sociÃ©tÃ©s alors que la richesse est une unitÃ© universelle objective reprÃ©sentant le temps passÃ© Ã  travailler sur n'importe quoi.
+Si un Porco gagne 10 piÃ¨ces sur 1000 en circulation (somme des revenus dans la rÃ©gion) mais que les choses changent et qu'il y en a soudainement 2000, c'est comme s'il perdait la moitiÃ© de son pouvoir d'achat et qu'il perdait la moitiÃ© de la richesse rÃ©gionale qu'il utilise pour ses besoins avec ses 10 piÃ¨ces de monnaie.
+Les devises reprÃ©sentent un droit Ã  une part de valeur rÃ©elle et n'ont pas forcÃ©ment de valeur par elles-mÃªmes. Dans Ymir cette "valeur objective rÃ©elle" est l'unitÃ© de "Richesse" reprÃ©sentÃ©e par des monnaies appelÃ©es "PiÃ¨ces".
+Si la richesse totale de la rÃ©gion Ã©tait une tarte, chaque piÃ¨ce donnerait Ã  un porco le droit Ã  une tranche de celle-ci. La taille de la tranche dÃ©pend du nombre d'autres piÃ¨ces circulant (somme de tous les revenus dans la rÃ©gion).
+La somme de tous les revenus d'une rÃ©gion reprÃ©sente la quantitÃ© totale de piÃ¨ces circulant et donc la valeur objective (richesse) que reprÃ©sente chaque piÃ¨ce.
+Ã€ ymir, pour simplifier et Ã©viter la complication des monnaies relatives, la quantitÃ© de piÃ¨ces en circulation est automatiquement dÃ©finie comme la somme de tous les revenus. Par consÃ©quent, la valeur rÃ©elle (richesse) de chaque piÃ¨ce fluctue automatiquement en fonction du montant total des revenus.
+Vous pouvez toujours accÃ©der aux ressources depuis un bÃ¢timent de stockage sans employÃ©s, mais il ne peut en recevoir de nouveaux.
+Toute ressource distribuÃ©e et mise Ã  la disposition de la population (que ce soit par les commerÃ§ants, les producteurs ou toute autre chose) est perdue, qu'elle soit vendue ou non.
+Le prix d'une ressource sera toujours d'au moins une piÃ¨ce au-dessus de son coÃ»t de production pour assurer un minimum de bÃ©nÃ©fices Ã  ses producteurs.
+Si une industrie produit quelque chose de trÃ¨s valorisÃ©, les producteurs de ses matÃ©riaux requis convoiteront les revenus de cette industrie et augmenteront le prix de leurs matÃ©riaux.
+Chaque projet a un nombre optimal de chercheurs. Au-delÃ , tout chercheur supplÃ©mentaire ajoutera seulement une contribution mineure au projet.
+Dans un projet, chaque chercheur apporte des Â«points de rechercheÂ» basÃ©s sur son intelligence.
+Attention: affecter des chercheurs Ã  un projet rÃ©duit la productivitÃ© de tous les bÃ¢timents qui emploient la mÃªme classe de population.
+Vous ne pouvez pas contrÃ´ler directement quand et quelles idÃ©es votre peuple aura. Chaque idÃ©e vient avec ses propres conditions cachÃ©es.
+Dans l'onglet Construction, vous pouvez toujours choisir de construire la version obsolÃ¨te prÃ©cÃ©dente d'un bÃ¢timent en cliquant avec le bouton droit sur le bouton du bÃ¢timent.

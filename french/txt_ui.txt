@@ -122,10 +122,10 @@ Volume musique
 Volume ambiant
 
 #b_menuop_uivol
-Interface de volume
+Volumes
 
 #b_menuop_lang
-La langue
+Language
 
 #bc_menuop_lang
 Choisissez votre langue
@@ -137,7 +137,7 @@ Appliquer
 AFFICHAGE
 
 #b_menuop_sound
-FILS
+AUDIO
 
 #b_menuop_game
 JEU
@@ -224,13 +224,13 @@ LANCER LA PARTIE
 NOUVELLE PARTIE
 
 #ui_newgame_world
-MONDE
+CARTE
 
 #b_newgame_wprocedural
-De procédure
+Procédurale
 
 #b_newgame_wcustom
-Douane
+Customisée
 
 #newgame_serv_c
 options de serveur
@@ -239,7 +239,7 @@ options de serveur
 pas de fermeture automatique
 
 #newgame_serv_empty
-fermer quand vide
+fermer à vide
 
 #newgame_serv_leave
 fermer à votre déconnection
@@ -251,13 +251,13 @@ Une sauvegarde '[x]' existe déjà! Que voulez-vous faire?
 Écraser
 
 #newgame_renam
-Renommage automatique
+Auto-renommer
 
 #newgame_nomap
 aucun disponible
 
 #newgame_invmap
-Auncune carte personnalisée disponible. Sélectionnez un type de carte procédural.
+Auncune carte custom disponible. Sélectionnez un type de carte procédural.
 
 #taille de la carte
 Taille de la carte
@@ -266,19 +266,19 @@ Taille de la carte
 Minuscule
 
 #mapsize2
-Petit
+Petite
 
 #mapsize3
 Ordinaire
 
 #mapsize4
-Grand
+Grande
 
 #mapsize5
 Énorme
 
 #mapsize6
-Géant
+Géante
 
 #maptyp
 Carte prédéfinie
@@ -287,37 +287,37 @@ Carte prédéfinie
 Terra
 
 #maptyp1_dscr
-Des mondes terrestres tempérés avec plusieurs continents.
+Des cartes similaires a la Terre, tempérés avec plusieurs continents.
 
 #maptyp2
 Pangée
 
 #maptyp2_dscr
-Des mondes tempérés principalement composés de terres, avec seulement quelques petites mers.
+Des cartes tempérées principalement composés de terre, avec seulement quelques petites mers intérieures.
 
 #maptyp3
 Archipel
 
 #maptyp3_dscr
-Les mondes marins avec beaucoup d'îles et de plus petites terres.
+Les cartes marines avec beaucoup d'îles et de plus petites terres.
 
 #maptyp4
 Monde désertique
 
 #maptyp4_dscr
-Des mondes désertiques où les territoires hospitaliers sont principalement situés vers les pôles et autour des petites mers intérieures.
+Des cartes désertiques où les territoires hospitaliers sont principalement situés vers les pôles et autour des petites mers intérieures.
 
 #maptyp5
 Monde de glace
 
 #maptyp5_dscr
-Des mondes désertiques froids avec seulement quelques territoires hospitaliers.
+Des cartes désertiques froids avec seulement quelques territoires hospitaliers.
 
 #maptyp6
 Tropico
 
 #maptyp6_dscr
-Mondes de la mer chauds et humides avec beaucoup d'îles tropicales.
+Cartes de mer chaudes et humides avec beaucoup d'îles tropicales.
 
 #maptypcust
 Paramètres personnalisés
@@ -329,7 +329,7 @@ Sélectionnez une carte du monde
 Sélectionnez une carte personnalisée
 
 #custmap_dscr
-Les mondes personnalisés sont des cartes créées manuellement avec l'éditeur au lieu d'être générées de manière procédurale.
+Les cartes custom sont des cartes créées manuellement avec l'éditeur au lieu d'être générées de manière procédurale.
 
 #newgame_gamset
 PARAMÈTRES DE JEU
@@ -338,7 +338,7 @@ PARAMÈTRES DE JEU
 Officiel
 
 #gmtyp_off_dscr
-Les jeux étiquetés comme officiels utilisent des paramètres normalisés non personnalisables pour fournir une expérience fiable.
+Ces parties utilisent des réglages officiels non personnalisables pour fournir une expérience de jeu standardisée et fiable.
 
 #gmtyp_offtype
 Type de jeu
@@ -347,28 +347,28 @@ Type de jeu
 Sélectionnez un mode prédéfini
 
 #gmtyp_rtime
-Temps réél
+Temps-réél
 
 #gmtyp_rtime_dscr1
-Les parties en temps réel sont destinés à être joués directement avec chaque joueur en jeu à tout moment, en sauvegardant et en rechargeant la partie plus tard pour la continuer si nécessaire.
+Les parties en temps réel sont faites pour être jouées avec chaque joueur en jeu à tout moment, en sauvegardant et en rechargeant la partie plus tard pour la continuer si nécessaire.
 
 #gmtyp_rtime_dscr2
 La production de ressources, la croissance démographique et les mouvements d'unités sont rapides.
 
 #gmtyp_rtime_dscr3
-Ceci est destiné aux petits jeux privés tels que jouer localement avec un groupe d'amis via IP directe.
+Ceci est adapté aux parties privées entre amis jouant localement ou par IP directe.
 
 #gmtyp_prsist
 Persistant
 
 #gmtyp_prsist_dscr1
-Les parties persistantes sont équilibrés pour un serveur tournant 24h/24 où les actions peuvent prendre plusieurs heures à compléter et où les joueurs ne sont pas censés être dans le jeu en permanence.
+Les parties persistantes sont faites pour des serveurs en ligne 24/24 où les actions peuvent prendre plusieurs heures à compléter et où les joueurs ne sont pas censés être dans le jeu en permanence.
 
 #gmtyp_prsist_dscr2
 La production de ressources, la croissance démographique, les technologies, et les mouvements d'unités sont lents.
 
 #gmtyp_prsist_dscr3
-Ceci est destiné aux parties plus grand public et aux serveurs avec un plus grand nombre de joueurs.
+Ceci est destiné aux parties publiques acceuillant un plus grand nombre de joueurs.
 
 #gmtyp_cstm
 Douane
@@ -905,7 +905,7 @@ variation actuelle de la population active
 La population a en moyenne
 
 #bc_vneed2
-de ses besoins vitaux satisfaits
+de ses besoins vitaux satisfaits.
 
 #bc_vneed3
 sans leurs besoins vitaux satisfaits, votre population mourra
@@ -1370,7 +1370,7 @@ Le revenu de Porco
 Privilèges
 
 #popneed_sat
-SATISFACTION DES BESOINS
+BESOINS
 
 #popstat_wealth
 RICHESSE
@@ -1457,7 +1457,7 @@ en raison des besoins insatisfaits de priorité plus élevée
 Sélectionnez une sauvegarde locale à charger
 
 #loadgame_localsav
-(Les sauvegardes locales sont situées dans les sauvegardes \ AppData \ Local \ Ymir \)
+(Les sauvegardes locales sont situées dans: \AppData\Local\Ymir\saves)
 
 #loadgame_nofnd
 Pas de parties trouvées!
@@ -1904,19 +1904,19 @@ culture des services
 Équilibre
 
 #growth_males
-Variation des porcos
+Porcos
 
 #growth_sows
-Variation des porcasses
+Porcasses
 
 #growth_piglets
-Variation de porcelets
+Porcelets
 
-#growth_oldpigs
-Oldpigs variation
+#growth_vioques
+Vioques
 
 #growth_mnew
-orcelets mâles atteignant l'âge adulte
+Porcelets mâles atteignant l'âge adulte
 
 #growth_msick
 maladie
@@ -1925,10 +1925,10 @@ maladie
 meurtres
 
 #growth_mage
-Porcos agés devenant vieux
+Porcos vieillissants
 
 #growth_munitsup
-vieillissement dans les formations: [x] porcos dans les unités soutenues (support gratuit pour [y])
+maintenance des formations: [x] porcos (support gratuit pour [y])
 
 #growth_snew
 porcelets femelles atteignant l'âge adulte
@@ -1940,7 +1940,7 @@ maladie
 meurtres
 
 #growth_sage
-les porcasses vieillissantes devienant vieilles
+Porcasses vieillissantes
 
 #growth_pnew
 naissances
@@ -1955,7 +1955,7 @@ meurtres
 atteindre l'âge adulte
 
 #growth_onew
-population vieillissante devenant oldpigs
+population vieillissante
 
 #growth_osick
 maladie
@@ -1970,49 +1970,49 @@ décès naturels
 taux de reproduction
 
 #breed_chance_dscr
-Le pourcentage prédictif de porcasses qui auront des porcelets au cours de la prochaine génération.
+Le pourcentage prévu de porcasses qui auront des porcelets au cours de la prochaine génération.
 
 #breed_chance_c
 [x] porcasses se reproduiront au cours de la prochaine génération.
 
 #breed_base
-taux de reproduction de base
+taux de base
 
 #breed_intel
-influence de l'intelligence
+intelligence moyenne
 
 #breed_totpop
-Effet total de la population
+population totale
 
 #breed_piglets
-l'influence des porcelets par porcasse
+porcelets par porcasse
 
 #breed_smcity
-petite ville boost
+bonus de petite ville
 
 #breed_vit
-influence du manque de besoins vitaux
+besoins vitaux insatisfaits
 
 #breed_fertil
-la fertilité
+fertilité
 
 #breed_fertil_c
-le nombre moyen de porcelets par portée
+le nombre moyen de porcelets pouvant naitre d'une Porcasse au cours d'une génération
 
 #growth_genlen
 durée d'une génération
 
 #growth_genlen_c1
-La quantité de temps qu'une génération de Porcos dure.
+La durée d'une génération de Porcos.
 
 #growth_genlen_c2
-Les porcs vivent jusqu'à 5 générations: une comme porcelet, 3 adultes et 1 vieux. Cela fait durer leur durée de vie totale jusqu'à [x].
+Les Porcs vivent jusqu'à 5 générations: une en porcelet, 3 en adulte et 1 en vioque. Leur esperance de vie est de [x].
 
 #growth_pergen
-prévision de la prochaine génération
+prochaine génération
 
 #growth_pergen_c
-variation prévue de la population totale pour la prochaine génération
+variation prévue de la population totale au cours de la prochaine génération
 
 #growth_c
 taux de variation actuel de la population totale
@@ -3190,7 +3190,7 @@ Cette mise à niveau nécessite un constructeur professionnel et vous n'en avez 
 Connaissances actuelles
 
 #menu_tch_curuse
-Utilisation des connaissances
+Capacité
 
 #menu_tch_curuse_c1
 Votre société a actuellement [x] de connaissances, et une capacité à stocker [y].
@@ -3451,7 +3451,7 @@ Points de victoire
 Vos points de victoire personnels.
 
 #menu_scr_avg
-Score de référence
+Score référence
 
 #menu_scr_avg_c1
 Utilisé pour déterminer votre score d'équilibrage. Sa valeur est basée sur les scores de tous les joueurs.
@@ -3460,10 +3460,10 @@ Utilisé pour déterminer votre score d'équilibrage. Sa valeur est basée sur l
 Avoir un score personnel au dessus de ça accorde des points de victoire.
 
 #menu_scr_vpcost
-Coût du point de victoire
+Point de victoire
 
 #menu_scr_vpcost_c
-Le nombre de points dont vous avez besoin au-dessus du score de référence pour chaque point de victoire.
+Le coût en points de score (au-dessus du score de référence) pour chaque point de victoire.
 
 #menu_scr_frna
 pour la Nation
@@ -3700,19 +3700,19 @@ Titre
 Territoire
 
 #facttl_titl
-Titre du personnage
+Titre
 
 #facttl_titl_c1
 Le titre donné aux personnages de ce rang.
 
 #facttl_trtry
-Le titre du territoire
+Territoire
 
 #facttl_trtry_c1
 Le nom donné aux territoires associés aux personnages de ce rang.
 
 #facttl_lvl
-Niveau de rang
+Niveau
 
 #facttl_lvl_c1
 Le niveau de rang représente la position hiérarchique au sein de la nation.
@@ -3805,7 +3805,7 @@ Ajouter un nouveau rang
 Cliquez pour créer un nouveau classement
 
 #fachier_remrk
-Supprimer ce rang
+Supprimer
 
 #fachier_remrk_c1
 Cliquez pour supprimer le rang actuellement sélectionné
@@ -3814,7 +3814,7 @@ Cliquez pour supprimer le rang actuellement sélectionné
 Vous ne pouvez pas supprimer ce rang parce qu'il est actuellement utilisé par un ou plusieurs membres!
 
 #facnewrk_title
-Ajouter un nouveau rang ...
+Nouveau rang ...
 
 #facmmb_ter
 Les régions
@@ -3841,7 +3841,7 @@ Votre titre vous permet d'expulser ce personnage de la Nation.
 Quitter
 
 #facmmb_quit_c1
-Quitte cette Nation et retrouve votre souveraineté.
+Quitter cette Nation et retrouver votre souveraineté.
 
 #facmmb_quit_c2
 ATTENTION: si vous êtes lié à cette nation par des traités, cela va déclencher les closes de pénalité d'annulation!
@@ -3850,34 +3850,34 @@ ATTENTION: si vous êtes lié à cette nation par des traités, cela va déclenc
 ACTIF
 
 #facmmb_actv_c1
-Ce personnage joue toujours activement et n'est pas éligible pour la succession.
+Ce personnage est toujours activement joué et n'est donc pas éligible à la succession.
 
 #facmmb_inact
 INACTIF
 
 #facmmb_inact_c1
-Ce personnage n'a pas été connecté depuis un moment et est maintenant considéré comme inactif. Il est éligible à la succession au sein de la Nation.
+Ce personnage n'a pas été connecté depuis un moment et il est maintenant considéré comme inactif. Il est éligible à la succession au sein de la Nation.
 
 #facmmb_rplc
 Remplacer
 
 #facmmb_rplc_c1
-Ce personnage est inactif et votre titre vous permet, en tant que supérieur, de nommer un successeur parmi vos subordonnés qui le remplacera.
+Ce personnage est inactif et votre titre vous permet, en tant que supérieur, de nommer un successeur parmi vos subordonnés pour le remplacer.
 
 #facmmb_tax
 Taxes
 
 #facmmb_tax_c1
-Les impôts de la nation sont reçus des subalternes directs et également payés au supérieur. Les taux d'imposition sont définis par leurs rangs respectifs.
+Les impôts nationaux sont reçus des subalternes directs. Les taux d'imposition sont définis par leurs titres respectifs.
 
 #facmmb_tax_r
 Impôts des subordonnés: [x]
 
 #facmmb_tax_p
-Payé à supérieur: [x]
+Payé au supérieur: [x]
 
 #facmmb_pwr
-Transferts de pouvoir
+Transfers de pouvoir
 
 #facmmb_pwr_c1
 Le pouvoir d'état peut être reçu de subordonnés directs et transféré au supérieur. Les tarifs sont définis par leurs rangs respectifs.
@@ -3940,7 +3940,7 @@ Puisque [x] est inactif, vôtre rang vous authorise a redistribuer ses territoir
 En quittant cette Nation vous recouvrirez votre souverainté en tant que chef d'une Nation indépendante. Vous emporterez avec vous tous vos subordonnés, qui rejoindront donc votre nouvelle Nation également. Cependant, si vous êtes lié a cette Nation par traité, la quitter en déclenchera les clauses de ruptures et vous exposera potentiellement a des pénalités ou a la guerre.
 
 #menugov_setnam
-Nom du gouvernement
+Gouvernement
 
 #menugov_setnam_c1
 Définissez le nom de votre gouvernement (combiné ensuite avec votre titre national).
@@ -4075,4 +4075,783 @@ Poutres
 Sols
 
 #voxclss_cube
-Cubes
+Blocs
+
+#treaty_endwar
+Armistice
+
+#treaty_peace
+Traité de paix
+
+#treaty_nation
+Traité d'unification
+
+#treaty_vassal
+Traité de vassalité
+
+#treaty_trade
+Accord commercial
+
+#treaty_trtry
+Transfer de territoire
+
+#treaty_tech
+Transfer d'idées
+
+#treaty_pass
+Droit de passage
+
+#treaty_deflt
+Traité
+
+#ui_colchos
+cliquer pour selectionner une couleur
+
+#ui_icchos
+cliquer pour selectionner un symbole
+
+#ui_fhierchy
+cliquer pour voir la hierarchie de cette nation
+
+#resist_abandon_1
+Vous ne pouvez pas abandonner de batiments dans un terrtoire résistant!
+
+#resist_demol_1
+Vous ne pouvez pas démolir plus de 3 bâtiments a la fois dans un territoire résistant!
+
+#resist_demol_2
+Vous ne pouvez pas démolir les infrastructures d'un territoire résistant!
+
+#treaterr_1
+Vous n'avez pas assez d'argent dans votre trésorerie pour honnorer ce traité!
+
+#treaterr_2
+Vous n'avez pas assez de revenus dans votre trésorerie pour honnorer ce traité!
+
+#servfull
+Nombre maximum de personnages actifs atteint! Re-essayez plus tard.
+
+#menu_frmtyp_title
+Changement du type de formation...
+
+#menu_frmtyp_err1
+Vous ne pouvez pas changer en milice en dehors de vos propres territoires!
+
+#menu_frmtyp_err2
+Vous ne pouvez pas changer de type de formation dans un territoire résistant.
+
+#formact_sack_1
+Attention: cette action vous coutera 15 d'honneur!
+
+#formact_sack_2
+L'objectif sera tout dabord d'éliminer toutes les défenses du territoire. En cas de succès, vos troupes iront ensuite piller méthodiquement autant de ressources que possible tout en infligeant un maximum de dommages à la cité en détruisant des bâtiments et massacrant les habitants. Une fois terminé la formation se retirera.
+
+#formact_sack_3
+Cette action fournit plus de butin qu'un simple raid tout en infligeant plus de dommages, mais contrairement a un raid elle implique au préalable d'éliminer toutes les defenses, et l'action coute de l'honneur.
+
+#wkprio_0
+Evité
+Avoided
+
+#wkprio_1
+Faible
+
+#wkprio_2
+Normale
+
+#wkprio_3
+Haute
+
+#wkprio_4
+Critique
+
+#recyclmat
+Nous avons récupéré
+
+#recyclbdg
+Nous avons récupéré [x] de la démolition de [y].
+
+#charstate_1
+Inactif
+
+#charstate_2
+Actif
+
+#charstate_3
+Mort
+
+#charstate_4
+Sans-terre
+
+#err_inaxsbdg
+Ce bâtiment est inacessible!
+
+#formact_none
+Mouvement
+
+#formact_camp
+Camper
+
+#formact_hunt
+Chasser
+
+#formact_captr
+Capturer
+
+#formact_settle
+Coloniser
+
+#formact_raid
+Raider
+
+#formact_sack
+Mettre à sac
+
+#formact_invd
+Envahir
+
+#formact_batl
+Combattre
+
+#formact_claim
+Revendiquer
+
+#formact_reclaim
+Revendiquer
+
+#formact_unclaim
+Dé-revendiquer
+
+#formhome_title
+Réassigner la region mère de cette formation...
+
+#formhome_dscr_1
+La région mère d'une formation est le territoire auquel elle est rattachée. Elle fournit les porcos assurant le renouvellement de ses troupes (support) et détérmine leur culture d'origine. 
+
+#formhome_dscr_2
+Les formations se délitent si leur région mère n'a plus suffisemment de population pour les maintenir.
+
+#formhome_dscr_3
+ATTENTION: changer de région mère vide tout les Points d'Action de la formation et déclenche son cantonnement.
+
+#formhome_sel_c1
+Selectionnez la nouvelle région mère de cette formation.
+
+#formhome_sel_c2
+(la formation doit être localisée dans le territoire désiré pour pouvoir s'y relocaliser )
+
+#menu_mission_sel
+Action
+
+#menu_mission_sel_c1
+Séléctionner l'action a éfféctuer dans ce territoire.
+
+#chat_pm
+Contacter [x]
+
+#chat_faction
+Nation '[x]'
+
+#chat_emptytxt
+[écrire votre message ici]
+
+#ui_reginf_vsb
+Visibilité
+
+#chat_r_hall
+Grand Hall
+
+#chat_r_ass
+Assemblée
+
+#chat_r_councl
+Conseil
+
+#chron_tab1
+Nouvelles du monde
+
+#chron_tab2
+Mes chroniques
+
+#chron_new
++ Nouvelle chronique
+
+#chron_publish
+Publier
+
+#char_chrons
+Voir toutes les chroniques de ce personnage
+
+#chron_sent
+Nouvelle chronique publiée!
+
+#chron_react
+Réagir à cette nouvelle
+
+#chron_reactup_1
+Intéréssant!
+
+#chron_reactup_2
+Cette nouvelle sera relayée par votre réseau culturel et se propagera à vos contacts.
+
+#chron_reactdw_1
+Sans interêt.
+
+#chron_reactdw_2
+Cette nouvelle ne sera pas relayée par vous.
+
+#chron_expand
+lire le reste
+
+#chron_expand_c1
+cliquez pour lire le reste de cette chronique
+
+#chron_past_up
+Vous avez trouvé cela intéréssant.
+
+#chron_past_down
+Vous n'avez pas trouvé cela intéréssant.
+
+#chron_none
+Vous n'avez pas encore été atteint pas des nouvelles du monde exterieur!
+
+#b_menuop_animveget
+Végétation animée
+
+#bc_menuop_animveget
+Activer ou désactiver les végétations animées dans la vue de térritoire
+
+#joingame_persist_dscr_1
+Les parties persistantes constituent l'expérience principale du jeu: des parties au rythme lent qui peuvent durer des mois sur des serveurs tournant 24/24.
+
+#joingame_persist_dscr_2
+Pour garantir une expérience de jeu équilibrée, les serveurs listés ici partagent tous les même réglagles officiels du mode de jeu persistant. La personnalisation des paramètres de jeu n'est pas authorisée: il n'y a ni modérateurs, ni règles spécifiques aux serveurs, et les hébergeurs de serveur n'ont aucun pouvoir (pas d'outils d'administration permettant de bannir des joueurs). Seul le gameplay fait Loi.
+
+#joingame_realtime_dscr_1
+Les parties "temps-réel" sont un mode de jeu officiel d'Ymir, pour des parties plus rapides faites pour être jouées en multiples sessions entre amis ou entre plus petits groupes de joueurs.
+
+#joingame_custom
+Personnalisées
+
+#joingame_custom_dscr_1
+Les parties listées ici sont hebergées par la communautée et authorisent la personnalisation des paramètres de jeu: l'équilibrage peut donc différer des modes officiels et modifier votre experience de jeu.
+
+#joingame_custom_dscr_2
+ATTENTION: Notez que contrairement aux modes officiels, ces serveur sont libres d'appliquer leurs propres règles et les outils de modération sont disponibles aux hébergeurs des parties. Cela inclus la possibilité aux administrateurs de bannir des joueurs de leurs parties.
+
+#servlst_online
+En-ligne
+
+#servlst_actives_c1
+Nombre de joueurs actifs dans cette partie
+
+#servlst_admn
+Modération
+
+#servlst_admn_c1
+Si les outils d'administration sont activés sur ce serveur. Si oui, l'hébergeur de la partie a le pouvoir de bannir des joueurs de sa partie à sa discretion.
+
+#servlst_preset
+Mode de jeu
+
+#servlst_preset_c1
+Mode de jeu utilisé dans cette partie.
+
+#mapsize
+Taille de carte
+
+#newchar_title
+Nouveau personnage
+
+#newchar_st_precious
+Ceci est un "départ précieux": une fois utilisé vous ne pourrez par réutiliser un autre "départ précieux" avant [x], indépendemment de votre limite de respawn.
+
+#newchar_st_prlck
+Ce "départ précieux" n'est pas disponible parceque vous en avez déja utilisé un autre il y a moins de [x] (reste [x]).
+
+#newchar_st_pt
+Tribus primitives
+
+#newchar_trop
+Tropical
+
+#newchar_prspwn_warn
+ATTENTION: vous avez séléctionné un ou plusieurs types de "départ précieux". Ceux-ci ne peuvent pas être réutilisés avant [x], indépendemment de votre temps limite de respawn. Ne le gâchez pas!
+
+#char_invcode
+Code d'invitation: [x]
+
+#charcreate_err1
+Merci d'entrer un nom pour votre nouveau personnage.
+
+#charcreate_err2
+Merci d'entrer un nom pour votre nouveau gouvernement.
+
+#charcreate_err3
+Il n'y a aucun départ valide correspondant à vos critères.
+
+#charcreate_err4
+Merci de fournir le code d'invitation du personnage près duquel vous désirez commencer!
+
+#charcreate_err5
+Code d'invitation invalide!
+
+#invtcd_title
+Code d'invitation pour [x]
+
+#invtcd_txt
+Vous tentez de spawner près d'un personnage nommé '[x]'. Pour s'assurer que cela soit fait avec l'accord de son propriétaire, vous devez égalemnt fournir le code d'invitation de ce personnage, connu seulement du joueur le controllant. Si vous rejoignez un ami, demandez lui de vous fournir ce code (affiché sur son avatar de personnage dans le jeu).
+
+#ui_menubdg_deficit1
+Déficitaire
+
+#ui_menubdg_deficit2
+Ce bâtiment est déficitaire pour ses travailleurs, fonctionnant à pertes. Son éfficacité en sera grandement affectée et les Porcos éviteront d'y travailler.
+
+#ui_menubdg_winc_1
+Revenu par travailleur
+
+#ui_menubdg_winc_2
+Activité: [x]
+
+#ui_menubdg_winc_3
+Salaire: [x]
+
+#ui_menubdg_winc_4
+Subventions: [x]
+
+#regeco_waste
+Waste
+
+#regeco_waste_c1
+The share of tax and trade incomes lost because of waste and corruption in this territory.
+
+#regeco_waste_c2
+With a waste rate of [x]%, we are currently losing [y] coins of tax income.
+
+#regeco_wst_admin
+Local administration
+
+#regeco_wst_admin_c1
+Waste caused by a weak or negative local administration.
+
+#regeco_wst_stpwr
+State's corruption
+
+#regeco_wst_stpwr_c1
+Corruption of state officials because of a weak or negative state power.
+
+#regeco_wst_pop
+Population's corruption
+
+#regeco_wst_pop_c1
+Corruption and waste from the total population in the region.
+
+#regeco_wst_srvc
+Waste reduction services
+
+#regeco_wst_srvc_c1
+Waste reduction from active services such as Tax collection.
+
+#regeco_ers
+State-owned resources sales
+
+#regeco_ers_c1
+State-owned resources sold to population or industries.
+
+#regeco_esr
+State-owned resources purchases
+
+#regeco_esr_c1
+Total paid auto-purchasing resources for the state (you).
+
+#bc_gen_chat
+Diplomacy
+
+#bc_gen_news
+Chronicles
+
+#b_reform_cflct
+Reform effect: +[x] conflict in all territories
+
+#b_reform_cflct_c1
+Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] of conflict in all of your territories.
+
+#b_reform_loyal
+Reform effect: -[x] loyalty in all territories
+
+#b_reform_loyal_c1
+Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] loyalty in all of your territories.
+
+#ui_eco_tradbal
+Trade balance
+
+#ui_eco_tradbal_c1
+The trade balance across all your territories fromm all your current trade routes.
+
+#ui_eco_tradbal_c2
+Trading incomes: [x]
+
+#ui_eco_tradbal_c3
+Trading expenses: [x]
+
+#ui_price_base
+Base price
+
+#ui_price_base_c1
+This is the minimum price possible for this resource, regardless of the other factors.
+
+#ui_price_base1
+Production cost ([x]%)
+
+#ui_price_base1_c1
+The cost of local production for this resource based on the cost of required materials.
+
+#ui_price_base2
+Importation cost ([x]%)
+
+#ui_price_base2_c1
+The cost of importation of this resource from current trade routes.
+
+#ui_price_base3
+Profit margin
+
+#ui_price_base3_c1
+Ensuring minimum profits for the traders and producers of this resource.
+
+#ui_price_work
+Work price:  [x]
+
+#ui_price_work_c1
+Price based on the amount of work required to produce this resource.
+
+#ui_price_work_c2
+Worforce required per resource unit: [x]
+
+#ui_price_mkt_c1
+Study of the current markets for this resource to determine its ideal price and ensure maximum profits for its producers and traders.
+
+#ui_price_mkt1
+Public market ([x]%)
+
+#ui_price_mkt1_c1
+The public study is based on the purchasing power of all the population classes consumming this resource and the amount being distributed on the public market. This is the ideal price at which the profits would be optimal for the merchants selling this resource.
+
+#ui_price_mkt2
+Industries market ([x]%)
+
+#ui_price_mkt2_c1
+The industrial study is based on how much revenue is generated by industries using this resource as a material. A share of these revenues will be coveted and that determines the ideal price of this resource for industrial consumption.
+
+#ui_price_mkt3
+Exportations ([x]%)
+
+#ui_price_mkt3_c1
+The average price of exportations and the share of the local market they represent influences the price study proportionnally.
+
+#ui_price_sd
+Supply/demand: [x]%
+
+#ui_price_sd_c1
+The ratio of total supply with total demand influences the price both ways, resulting from the competition between traders or between buyers.
+
+#ui_price_sd_c2
+Supply: [x] units
+
+#ui_price_sd_c3
+Demand: [x] units
+
+#ui_mres_ststk
+State owned
+
+#ui_mres_ststk_c1
+Resources you own directly yourself as the state, as opposed to the rest of it owned privately by your population. New resources start initially owned by their respective producers.
+
+#ui_mres_ststk_c2
+You do not have to buy the resources you already own when using them and you also earn back incomes if used by third parties such as industries or traders.
+
+#ui_mres_ststk_c3
+You currently own [x] of the [y] [z] currently stocked in this territory.
+
+#ui_mres_stres
+State resource
+
+#ui_mres_stres_c1
+If declared a State Resource, the whole production of this resource will be automatically purchased by the state as they are produced.
+
+#ui_mres_stres_c2
+A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work.
+
+#ui_mres_stmntn
+Maintain ownership
+
+#ui_mres_stmntn_c1
+The amount of resources in stocks to maintain direct ownership of. 
+
+#ui_mres_stmntn_c2
+If below the specified amount, new resources going into storage will be automatically purchased by the state until the required amount is reached.
+
+#ui_bdgeff_profit
+unprofitability ([x]%)
+
+#ui_menubdg_wkprio
+Priority of filling jobs in this building.
+
+#storownr_set
+Set maintaining ownership of minimum [x] [y]. 
+
+#storownr_enab
+[x] is now a State Resource (all production auto-purchased by you). 
+
+#storownr_disab
+[x] no longer is a State Resource (no auto-purchasing of production). 
+
+#popneed_lq
+life quality bonus: +[x]
+
+#legit_honor
+Honor
+
+#legit_honor_c
+Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
+
+#statepow_nation_c5
+Number of total subordinates: [x]
+
+#statepow_forms
+Maintenance of formations
+
+#statepow_forms_c1
+Each formation you own can cost some State Power to maintain.
+
+#ui_recruit_immo
+You cannot modify troops while this formation is immobilized.
+
+#ui_recruit_cost_1
+Cost to recruit one unit.
+
+#ui_recruit_cost_2
+Includes a training cost plus the price of its equipment.
+
+#ui_recruit_cost_3
+- Cost of training: [x]
+
+#ui_recruit_cost_4
+- Cost of equipment: [x]
+
+#ui_recruit_totcost
+Total recruitment cost
+
+#ui_recruit_nopay
+You do not have enough funds to recruit these new units!
+
+#ui_recruit_rcrt
+Recruit
+
+#ui_recruit_dsbd
+Disband
+
+#ui_recruit_trsfr
+Transfer
+
+#ui_recruit_AP
+This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
+
+#ui_foinv_empreg
+You can't load resources from an empty territory!
+
+#ui_foinv_cost_c1
+Cost of purchasing these resources.
+
+#ui_foinv_cost_c2
+To load resources into a formation, the state has to take ownership of them and purchase them at their local price from their owners (except for already state-owned stocks).
+
+#ui_foinv_cost_c3
+State-owned stocks: [x]
+
+#ui_foinv_cost_c4
+Purchasing [x] resources at local price of [y] coins.
+
+#ui_builderr_maxan
+This building cannot have more than [x] [y].
+
+#ui_dpltool_formtog
+(click to toggle deployment of this formation)
+
+#menuform_pwr
+This formation type costs [x] State Power to maintain.
+
+#b_trtcancelofr
+Cancel offer
+
+#b_trtcancelofr_c1
+Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+
+#ui_treat_cancld
+Your treaty proposal was cancelled.
+
+#ui_form_AP_c1
+Action Points: [x]/100   ([y] [z])
+
+#ui_form_AP_c2
+Required to perform actions such as movements or attacks, these points are regained over time by encamping or by returning to their home region. Below 50 the formation is forced to encamp and cannot perform new actions.
+
+#ui_form_AP_d1
+- Recovery[y]: [x]
+
+#ui_form_AP_enc
+encamped
+
+#ui_form_AP_hom
+at home
+
+#ui_form_AP_cit
+in city
+
+#ui_form_AP_d2
+- Territory[y]: [x]
+
+#ui_form_AP_enm
+enemy
+
+#ui_form_AP_d3
+- Home distance ([y]%): [x]
+
+#ui_form_movcost
+Basic Action Points cost for moving one territory tile for this formation. This base cost is then combined with other contextual factors to determine the final cost of a movement. 
+
+#ui_form_movcost_d1
+- Base cost: [x]
+
+#ui_form_movcost_d2
+- Units movement speed: [x]
+
+#ui_form_movcost_d3
+- Mounted units only ([y]%): [x]
+
+#ui_form_movcost_d4
+- Army size ([y]%): [x]
+
+#ui_tile_movcost
+The movement cost of this territory is used to determine the Action Points cost of units moving through it.
+
+#ui_tile_movcost_d1
+- Terrain cost[y]: [x]
+
+#ui_tile_movcost_d2
+- Diplomatic stance [y]: [x]
+
+#ui_tile_movcost_ntr
+netural
+
+#ui_tile_movcost_own
+own territory
+
+#ui_tile_movcost_frd
+friendly territory
+
+#ui_tile_movcost_enm
+enemy territory
+
+#ui_tile_movcost_set
+is settled
+
+#err_reg_rnnc2
+This territory cannot be renounced while it has an active resistance movement.
+
+#b_regunclaim_1
+You can unclaim this territory: it will become free of any ownership.
+
+#b_regunclaim_2
+WARNING: By willingly revoking this claim you will lose 2 of Honor!
+
+#b_actv_trt_pend1
+pending: waiting for your reply...
+
+#b_actv_trt_pend2
+pending: waiting for other's response...
+
+#ui_wrldmov_er5
+This formation cannot break camp until it has at least 50 Action Points.
+
+#ui_bdg_ef4_dscr
+If unprofitable for its workers, efficiency of the building is progressively reduced.
+
+#ui_bdg_pdet_5_c1
+Incomes from sales to the state (you) are buffered and slowly transfered back to the workers, generating income for a longer time.
+
+#ui_bdg_pdet_5_c2
+From auto-purchases: [x] coins ([y] resources).
+
+#ui_bdg_pdet_5_c3
+From past purchases: [x] coins.
+
+#ui_regres_totimp_c4
+Purchased cargo:
+
+#ui_regres_totexp_c4
+Sold cargo:
+
+#menu_nfrm_type3
+National army
+
+#menu_nfrm_t3_1
+A national army is similar to a regular army except that its also controllable by any of your superiors in your Nation's hierarchy, allowing you to delegate its control in case of national wars and operations.
+
+#menu_nfrm_t3_2
+National armies also give their authority bonus to all regions of the Nation, even if its owned by a different character.
+
+#menu_nfrm_t3_3
+Note that you can convert a regular army into a National one at will and vice-versa.
+
+#fstate_encamp
+Encamped
+
+#menu_scr_v
+Subordinates
+
+#menu_scr_v_c
+Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
+
+#gamelob_spcloff_c3
+Dernier spawn: [x]
+
+#gamelob_spcloffw
+([x] remaining)
+
+#facmmb_pwrlss
+SANS-TERRE
+
+#facmmb_pwrlss_c1
+Ce personnage ne contrôle aucun territoire. Son gouvernment est sans pouvoir.
+
+#facmmb_dead
+MORT
+
+#facmmb_dead_c1
+Ce personnage est mort: il ne controle aucun territoire et a été abandonné par son joueur.
+
+#facmmb_mrshl
+Maréchal
+
+#facmmb_mrshl_c1
+Les maréchaux peuvent contoller toutes les armées nationales, subordonés ou pas. Nommés par le chef de Nation.
+
+#facdsmtl_c1
+Selectionnez un nouveau propriétaire.
+
+#facdsmtl_err
+[démantellement impossible]
+
+#facdsmtl_err_c1
+Ce territoire a été intégré recemment et n'a pas fait partie de votre Nation suffisemment longtemps pour être transféré sans pénalités avec l'action de démantellement.
+
+#facdsmtl_err_c2
+Temps avant de pouvoir utiliser le démantellement: [x].
+
+#facfalg_title
+Editer le drapeau national
+
+#setcolony_err3
+Ce territoire à trop de résistance pour être changé en colonie!
+

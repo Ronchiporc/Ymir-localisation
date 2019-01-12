@@ -121,6 +121,36 @@ Video grain
 #bc_menuop_grain
 Enable or disable this post-processing effect
 
+#b_menuop_autovsize
+Automatic viewport definition
+
+#b_menuop_autovsize_c1
+Viewport definition will remain at 1:1 with your display resolution.
+
+#b_menuop_vsize
+Viewport definition
+
+#b_menuop_vsize_c1
+Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+
+#b_menuop_vsize_c2
+Lowering this ratio greatly increases performances.
+
+#b_menuop_autoui
+Automatic UI size
+
+#b_menuop_autoui_c1
+UI size will automatically adapt to your display resolution.
+
+#b_menuop_uisize
+UI size
+
+#b_menuop_uisize_c1
+Changes the size of the UI layer. 
+
+#b_menuop_uisize_c2
+Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+
 #b_menuop_mvol
 Music volume
 
@@ -1003,47 +1033,11 @@ Average life quality
 #bc_menureg_int1
 Average intelligence
 
-#b_menureg_job
-available jobs
-
-#bc_menureg_job1
-unoccupied jobs in the territory
-
-#bc_menureg_job2
-total jobs
-
-#b_menureg_emp
-unemployment
-
-#bc_menureg_emp
-jobless out of
-
 #b_menureg_hlth
 Health
 
 #bc_menureg_hlth
 Average population health
-
-#b_menureg_totg
-Total growth
-
-#bc_menureg_totg
-current variation of the total population
-
-#b_menureg_actg
-Actives
-
-#bc_menureg_actg
-current variation of the active population
-
-#bc_vneed1
-The population has in average
-
-#bc_vneed2
-of their vital needs satisfied
-
-#bc_vneed3
-without their vital needs satisfied, your population will die
 
 #ui_gen_m
 M
@@ -1310,13 +1304,19 @@ Taxes for your hierarchic superior: [x]
 Trade balance
 
 #ui_eco_tradbal_c1
-The trade balance across all your territories fromm all your current trade routes.
+The trade balance across all your territories from all your current trade routes.
 
 #ui_eco_tradbal_c2
-Trading incomes: [x]
+State resources: +[x] sales -[y] purchases
 
 #ui_eco_tradbal_c3
-Trading expenses: [x]
+Importations: +[x] sales -[y] purchases
+
+#ui_eco_tradbal_c4
+Exportations: +[x] sales -[y] purchases
+
+#ui_eco_tradbal_c5
+Cargo: +[x] sales -[y] purchases
 
 #ui_mres_storvar
 STORAGE VARIATION
@@ -1512,6 +1512,12 @@ The total cost paid (by the state) for the amount being imported through trade r
 
 #bc_menubdg_rsell
 select resource to sell with this merchant
+
+#bc_menubdg_lmtd
+Limited distribution
+
+#bc_menubdg_lmtd_c1
+Click to toggle limited distribution for this merchant. Allows you to control the amount of the resource distributed to the public market.
 
 #ui_menubdg_hire
 Hire one
@@ -1865,10 +1871,10 @@ Policies maintenance
 The total State power consumed by all the currently active policies.
 
 #statepow_nbcit
-Number of regions
+Territories
 
 #statepow_nbcit_c1
-We currently control [x] extra regions. Every region besides the capital costs State power. 
+Sum of State Power cost of all your controlled territories (costs can vary depending of the status of each territory). 
 
 #statepow_debt
 Debt
@@ -1958,7 +1964,7 @@ Services ([x]%)
 Services in the territory like Justice can reduce the final conflict level, depending on how well population has access to them.
 
 #loyal_c1
-The current effective loyalty of the territory
+The current loyalty of the territory
 
 #loyal_var_c1
 The current loyalty variation of the territory
@@ -1974,6 +1980,12 @@ from cultural balance
 
 #loyal_cult_c1
 The balance between state and local cultures can affect positively or negatively the loyalty of the territory.
+
+#loyal_status
+from territorial status
+
+#loyal_status_c1
+Territorial status can affect loyalty positively or negatively. More authonomous statuses tend to increase loyalty.
 
 #loyal_state
 state
@@ -2065,20 +2077,26 @@ resistance!
 #loyal_resist_c1
 Loyalists to the previous owner of this territory ([x])
 
-#loyal_lvl0
-critically disloyal! very high risk of rebellion
+#loyal_decr
+Warning: even though loyalty is currently good, it is decreasing towards dangerous levels and this territory will soon be at risk of a popular uprising.
 
-#loyal_lvl1
-low loyalty: there is a risk of rebellion
+#loyal_risk
+Warning: this territory is currently at risk of a popular uprising!
 
-#loyal_lvl2
-questionnable loyaty: there is a moderate risk of unrest
+#loyal_good
+This territory is currently not at risk of a popular uprising.
 
-#loyal_lvl3
-good loyalty: this territory is stable
+#loyal_resist_1
+Warning: A resistance movement of [x] points is present in this territory!
 
-#loyal_lvl4
-devoted: this territory's loyalty to the state is unquestionnable
+#loyal_resist_2
+You are at risk of a Partisans uprising (can happen regardless of the population's loyalty).
+
+#loyal_resist_inc
+The resistance movement is currently growing by +[x] [y].
+
+#loyal_resist_decr
+The resistance movement is currently decaying by -[x] [y].
 
 #admin_capacit
 production
@@ -2314,6 +2332,33 @@ Go to deployment mode, where you can manage the deployment positions and orders 
 #forminv_add
 add resources
 
+#ui_recruit_new
+Creating a new troop
+
+#ui_recruit_rnfrc
+Reinforcing troop
+
+#ui_recruit_dsbd
+Disbanding units
+
+#ui_recruit_trsfr
+Transfering units
+
+#ui_recruit_support_1
+Military support of this territory
+
+#ui_recruit_support_2
+Max support:[x] units. 
+
+#ui_recruit_support_3
+Currently supporting: [x] units.
+
+#ui_recruit_pop_1
+Total active population: [x] porcos.
+
+#ui_recruit_pop_2
+Jobless: [x] porcos.
+
 #ui_recruit_resist
 You cannot recruit new units in a territory with resistance.
 
@@ -2325,6 +2370,9 @@ You cannot recruit new units outside this formation's home territory ([x]).
 
 #ui_recruit_cant
 You cannot recruit or disband troops in territories you do not control.
+
+#ui_recruit_ovrdrft
+Cannot recruit: support limit reached and overdraft is not allowed in this territory.
 
 #ui_recruit_noup
 ( militias upkeep is lower as it doesnt include a soldier's salary )
@@ -3055,6 +3103,9 @@ This territory cannot be renounced while there is a battle taking place in it.
 #err_reg_rnnc2
 This territory cannot be renounced while it has an active resistance movement.
 
+#err_reg_rnnc3
+The current status of this territory doesn't allow you to renounce to its control.
+
 #b_abandon
 Evacuate this territory
 
@@ -3066,6 +3117,9 @@ This territory cannot be evacutated because it's loyalty is too low.
 
 #err_reg_abdn3
 This territory cannot be evacutated while it has an active resistance movement.
+
+#err_reg_abdn4
+The current status of this territory doesn't allow you to order its evacuation.
 
 #b_regclaim
 Claim territory
@@ -4526,13 +4580,94 @@ An empty territory can be claimed by your state and included in your official fr
 A territory is part of a region and is managed by the region's main city administration.
 
 #regstatus_colony_1
-A colony is an autonomous territory attached to your government. You cannot directly control it but it costs no maintenance while generating a small tax incomes. It can be used as a starting position for new players. They take control of the colony and start directly in your nation as your subordinates.
+Autonomous territory attached to a state.
+
+#regstatus_occup_1
+Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
+
+#regstatus_outpost_1
+Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
 
 #regstatus_city_1
-The city is the head each region. It has its own local administration which also manages all the territories of the region. Every city costs state power to maintain.
+Regional center of your state, fully integrated and administered by your government.
 
 #regstatus_capital_1
-The capital is where your state's government is located and where the leader resides. Unlike regular cities, it costs no state power. Some government buildings are unique to the capital. The distance from the capital can affect various things such as the administration of other cities or the maintenance of subordinates in the nation.
+Home of the government, where the leader resides.
+
+#regstatprop
+Territorial status special properties
+
+#regstatprop_build
+cannot build
+
+#regstatprop_res
+cannot control resources
+
+#regstatprop_trade
+cannot control trade
+
+#regstatprop_loyal
+loyalty [x]
+
+#regstatprop_cultr
+state culture [x]%
+
+#regstatprop_rsrch
+can't do projects
+
+#regstatprop_milit
+cannot recruit militia
+
+#regstatprop_army
+cannot recruit army
+
+#regstatprop_dist
+distance penalty [x]%
+
+#regstatprop_nodist
+no distance penalty
+
+#regstatprop_inc
+incomes [x]%
+
+#regstatprop_noinc
+no incomes
+
+#regstatprop_exp
+expenses [x]%
+
+#regstatprop_noexp
+no expenses
+
+#regstatprop_resist
+resistance growth [x]
+
+#regstatprop_claim
+cannot own sub-territories
+
+#regstatprop_evac
+cannot be evacuated
+
+#regstatprop_rencd
+cannot be renounced
+
+#regstatprop_trsfr
+cannot be transfered
+
+#regstatprop_spawn
+is a player spawn
+
+#regstatprop_pnlty
+[x] loyalty event on changing
+
+#regstatprop_overdrft
+cannot overdraft
+
+#regstatus_penalty
+WARNING: changing current status will trigger an immediate loyalty event of [x]!
+
+#regstatus_claimoccup
+WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
 
 #regstatus_title
 Territory status
@@ -4821,3 +4956,111 @@ You found this interesting.
 
 #chron_past_down
 You didn't find this interesting.
+
+#chron_none
+You havn't been reached by any news from the outside world yet!
+
+#antl_name
+Annex tool
+
+#antl_dscr
+Allows you to reorganise annexes by changing their owning buildings.
+
+#antl_close
+CLOSE
+
+#antl_1
+Relink: hold left click and drag.
+
+#antl_2
+Add/remove from select with ctrl+left-click.
+
+#antl_3
+Clear selection: right-click.
+
+#regmenu_status_c1
+Current territorial status: '[x]' (click to change)
+
+#regmenu_powcost
+This territorial status currently costs you [x] of State Power to maintain.
+
+#regmenu_jobs
+Jobs
+
+#regmenu_jobs_c1
+All available jobs are filled!
+
+#regmenu_jobs_c2
+[x]% of available jobs are missing workers ([y]).
+
+#regmenu_actives
+Employed
+
+#regmenu_actv_c1
+All actives are currently employed!
+
+#regmenu_actv_c2
+[x]% of actives are jobless ([y]).
+
+#regmenu_inc
+Budget balance of this territory
+
+#regmenu_inc_dscr
+It is the result of all state incomes and expenses, such as taxes, trade balance, salaries and maintenance costs.
+
+#regmenu_admin
+Administration balance of this territory
+
+#regmenu_admin_dscr
+A badly administered territory generates more waste and corruption, reducing all sources of incomes.
+
+#regmenu_wealth
+Total wealth of this territory
+
+#regmenu_wealth_dscr
+Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+
+#regmenu_gdp
+GDP of this territory
+
+#regmenu_gdp_dscr
+An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+
+#regmenu_growth_1
+Current demographic evolution: [x] Porcos [y].
+
+#regmenu_growth_2
+Active population: [x] [y]
+
+#regmenu_vitals_1
+Vital needs of the population are currently [x]% satisfied.
+
+#regmenu_vitals_2
+Low vital needs reduce birth rate and increases mortality.
+
+#subjug_title
+Subjugate
+
+#subjug_can
+You can automatically subjugate [x].
+
+#subjug_dscr
+This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. However any territories currently occupied by your forces will automatically be retroceded to [x].
+
+#subjug_cant
+You cannot subjugate [x] yet.
+
+#subjug_cant_dscr
+A character that has lost control of all his territories in a war can be automatically subjugated, forcing his capitulation and making him a vassal to the winner.
+
+#subjug_cant_why
+To subjugate this character you need to take control of:
+
+#subjug_apply
+Subjugate!
+
+#info_cltrtrsfr
+[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+
+#info_supportlmt
+This territory cannot support more units and does not allow overdraft!

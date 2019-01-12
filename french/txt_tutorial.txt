@@ -1,4 +1,44 @@
-﻿# tuto_lnchgame_1
+﻿
+#tuto_launch_1
+Bienvenue dans Ymir! Il semblerait que se soit la première fois que vous lancez ce jeu.
+
+#tuto_launch_2
+C'est un jeu complexe: si vous n'êtes pas encore familié du jeu, il est fortement conseillé de commencer en complétant le tutoriel en solo pour en apprendre les bases. Cependant si vous connaissez déja le jeu, vous pouvez choisir de désactiver tous les tutoriels dès a présent.
+
+#tuto_create_1
+C'est ici que l'ont configure et lance une nouvelle partie. Il ya 2 modes de jeu principaux: persistant et temps-réel. Si vous jouez seul ou avec quelques amis, il est préférable de laisser 'temps-réel' par défault.
+
+#tuto_char_1
+C'est ici que l'ont crée son personnage. Vous pouvez le nommer et choisir son apparence, ainsi qu'un nom de gouvernement et un drapeau.
+
+#tuto_char_2
+Vous devez choisir parmis une liste de différent types de départs, celui par défaut pour une nouvelle partie étant la "tribu primitive".
+
+#tuto_char_3
+En multijoueur, vous pouvez également spécifier le nom du personnage d'un ami pour apparaitre au plus proche de lui (mais pour cela il vous faudra également le code d'invitation du perosnnage rejoint).
+
+#tuto_char_4
+Attention: lorsque vous créez un personnage -surtout en multijoueur persistant- vous n'êtes pas authorisé à en recréer un nouveau immédiatement si vous abandonnez! Il vous faudra attendre un certain temps (jusqu'a plusieurs jours) avant de pouvoir respawner dans la meme partie.
+
+#tuto_warnjoin_1
+Vous n'avez pas encore complété le tutoriel de départ: il est grandement conseillé de faire cela avant de tenter de rejoindre une partie multijoueur persistante!
+
+#tuto_warnjoin_2
+Les parties multijoueur persistantes sont sans pitié! Les conditions de départ peuvent être bien plus complexes, et si vous râtez votre départ vous ne serez pas authorisé a recommencer immédiatement, parfois pendant plusieurs jours. Apprenez les bases du jeu pour commencer afin de ne pas perdre votre chance dès le départ!
+
+#tuto_join_1
+C'est ici que vous pouvez rejoindre des parties existantes.
+
+#tuto_join_2
+Si vous voulez rejoindre votre propre partie locale, allez dans "IP directe" et connectez vous à "localhost" sur le port 14804 (par défaut).
+
+#tuto_join_3
+Si vous voulez rejoindre une partie multijoueur, vous avez le choix entre persistant (partie 24/24 durant des mois) ou temps-réel (partie plus rapide a jouer entre amis).
+
+#tuto_persist_1
+Vous avez rejoint votre première partie multijoueur persistante! Dans ce mode de jeu, les choses sont BEAUCOUP plus lentes qu'en mode temps réel, et faites attention: pas de place pour les erreurs ici! Vous devez faire au mieux avec le départ que vous avez et les deuxièmes-chances sont cher payées puisqu'il vous faudra attendre plusieurs jours si vous échouez avec ce personnage.
+
+# tuto_lnchgame_1
 On dirait que c'est la première fois que vous commencez une partie! Il est important de comprendre qu'il s'agit d'un jeu client-serveur, même si vous jouez seul. Lancer une nouvelle partie lancera automatiquement un serveur et vous connectera à celui-ci. Pour que d'autres puissent rejoindre cette partie, vous DEVEZ vous assurer de transférer correctement le port utilisé par votre serveur (14804 par défaut). Si le lancement automatique du serveur échoue, vous pouvez le démarrer vous-même dans le dossier du jeu en utilisant server.bat avant de vous y connecter via "rejoindre">"IP directe" dans le menu principal.
 
 # tuto_0_1

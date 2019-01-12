@@ -159,3 +159,21 @@ au cas ou [x] rompt ce traité.
 
 #treaty_closes
 Clauses de rupture
+
+#diplo_npass
+Droit de passage national
+
+#diplo_npass_dscr_1
+Droit de passage automatique entre tous les membres de la nation.
+
+#diplo_ntrade
+Accord commercial national
+
+#diplo_ntrade_dscr_1
+Accord commercial automatique entre tous les membres de la nation.
+
+#diplo_ndef
+Pacte de défense national
+
+#diplo_ndef_dscr_1
+Toute déclaration de guerre contre un membre de la nation déclenche l'entrée en guerre automatique de tous les autres membres. Les clauses de ruptures de traités, s'ils y en a, sont du côté de l'agresseur.

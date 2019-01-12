@@ -458,10 +458,16 @@ Weaver
 The weaver refines different raw materials (cotton,flax,wool...) into textile. Textile can then be used for various things like clothmaking.
 
 #txt_stairs1_n
-Stairs
+Wooden stairs
 
 #txt_stairs1_dscr
-Flexible stairs that can be placed against cliffs or walls of any height. 
+Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+
+#txt_stairs2_n
+Stone stairs
+
+#txt_stairs2_dscr
+Stairs that can be placed against cliffs or walls of any height to allow for passage. 
 
 #txt_gate1_n
 Wooden gate
@@ -752,5 +758,22 @@ A simple defensive wall made of timbers.
 Mudbrick wall
 
 #txt_wall2_dscr
-A simple defensive wall made of mudbricks.
+A simple defensive wall made of mudbricks, weaker but cheaper to maintain than a palissade.
 
+#txt_wall3_n
+Cobblestone wall
+
+#txt_wall3_dscr
+A simple defensive wall made of cobble stone held together with crude masonry.
+
+#txt_wall4_n
+Brick wall
+
+#txt_wall4_dscr
+A simple defensive wall made of fired bricks, stronger than mudbricks.
+
+#txt_wall5_n
+Stoneblocs wall
+
+#txt_wall5_dscr
+A solid defensive wall made of stone blocs.

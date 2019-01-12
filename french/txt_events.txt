@@ -1617,3 +1617,198 @@ Ils ont intégré notre grande nation comme l'un de nos subordonnés et ont form
 
 #ev_clnyevlv_3
 En tant qu'assurance, nous garderons le contrôle de leur trésorerie de plus de 50% de leur PIB si ils décident de rompre illégalement cet accord!
+
+#effect_takeres
+Perte de [y] de [x]
+
+#effect_nbdeath
+Perte de [x] unités au hasard dans la formation.
+
+#effect_modAP
+Points d'Action [x]
+
+#event_br_lstrevolt
+[x] est tombée au mains de rebelles!
+
+#event_br_lstrevolt_1
+La population de [x] s'est rebellée contre nous et des rebelles sont parvenus a en prendre le contrôle. La perte de l'une de nos cités à des rebelles à décrédibilisé votre pouvoir. Cette défaite va affaiblir votre légitimité en tant que dirigeant pendant un certain temps: vous avez perdu 25 points d'honneur.
+
+#event_br_lstrevolt_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] rebelles.
+
+#event_partis
+Révolte de résistants à [x]!
+
+#event_partis_1
+Le mouvement de résistance de [y] vient de lancer une attaque à [x] pour tenter de libérer la ville. S'ils y parviennent, nous perdront le contrôle du territoire ainsi que [p7] points d'honneur!
+
+#event_partis_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] résistants.
+
+#event_br_partis
+Résistants vaincus à [x]
+
+#event_br_partis_1
+Bonne nouvelle! Une tentative de libération de [x] par le mouvement de Résistance de [x] à échoué: leurs partisans ont été vaincus, et le mouvement est désormais affaiblit suite a cette défaite!
+
+#event_br_partis_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] résistants.
+
+#event_br_lstpartis
+[x] was lost to partisans!
+
+#event_br_lstpartis_1
+Mauvaise nouvelle: le mouvement de Résistance de [y] est parvenu a libérer [x] et à repris le contrôle du territoire. Cette défaite porte un lourd cout à la crédibilité votre pouvoir et va affaiblir votre légitimité en tant que dirigeant pendant un certain temps: vous avez perdu [p7] points d'honneur.
+
+#event_br_lstpartis_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] résistants.
+
+#event_Ab_elim
+Attaque de [x]
+
+#event_Ab_elim_1
+Nous avons lancé une attaque sur [x] avec [p2] soldats pour éliminer toutes les forces ennemies en présence sur ce territoire.
+
+#event_Ab_elim_2
+Pour completer notre objectif, toutes les forces ennemies du territoire doivent être éliminées. Nos troupes prioritiseront l'engagement des forces ennemies. Des pillages mineurs peuvent se produire si l'opportunité se présente. Nos troupes batteront en retraire une fois l'objectif accomplit. L'ennemi nous fait face avec [p3] soldats.
+
+#event_Abr_elim
+Attaque de [x]
+
+#event_Abr_elim_1
+Nous avons lancé une attaque sur [x] avec [p2] soldats pour éliminer toutes les forces ennemies en présence sur ce territoire.
+
+#event_Abr_elim_2
+Ils ont défendu avec [p3] soldats.
+
+#event_Db_elim
+[y] nous attaque à [x]
+
+#event_Db_elim_1
+[y] à lancé une attaque sur [x] avec [p3] soldats dans le but d'éliminer nos forces en présence.
+
+#event_Db_elim_2
+Leurs objectif n'est pas de nous piller ou d'envahir le territoire, mais simplement d'éliminer nos forces. En cas de succès, ils se retireront de notre territoire. Nous avons [p2] soldats en défense.
+
+#event_Dbr_elim
+Défense de [x] contre [y]
+
+#event_Dbr_elim_1
+[y] nous a attaqué à [x] avec [p3] soldats dans le but d'éliminer nos forces.
+
+#event_Dbr_elim_2
+Nous avons défendu avec [p2] soldats.
+
+#event_form_animesc
+Des [p3] ont échapé a la surveillance de notre '[x]'!
+
+#event_form_animesc_1
+[p2] [p3] ont échapé a la surveillance de leurs gardiens, la formation '[x]' et sont désormais perdus.
+
+#event_form_animesc_2
+Les animaux gardés par des formations peuvent pardois s'échapper, surtout s'ils deviennent trop nombreux pour leurs gardiens. Pour s'assurer que cela n'arrive pas, il faudrait peut être considerer de les garder dans des enclos construits, ou bien de les garder en plus petits nombre dans les formations pour réduire la probabilité qu'ils échapent a la vigilance de leurs gardiens.
+
+#ev_xplr_civlost
+Explorateurs sans défenses perdus!
+
+#ev_xplr_civlost_1
+Envoyer des civils sans défenses pour explorer des territoires inconnus est une décision risquée et dangereuse... Nos explorateurs '[x]' ont ainsi disparus et personne n'a plus jamais eu de leurs nouvelles. Nul ne sait ce qui leur ai arrivé.
+
+#ev_xplr_blizzard
+Terrible blizzard
+
+#ev_xplr_blizzard_1
+Un terrible blizzard a immobilisé nos explorateurs '[x]' pendant de nombreux jours. Nombre d'entre eux n'ont pas survécu, tandis que les survivants ont épuisés toutes les réserves de nourriture. Il n'y a rien a manger dans ce desert glacial!
+
+#ev_xplr_icehole
+Maudit trou!
+
+#ev_xplr_icehole_1
+Ces terres sont traitresses. Tandis que nos explorateurs '[x]' progressaient sur un terrain particulièrement difficile, une croûte de glace a cédé sous les pieds de certains d'entre eux, révélant un trou abyssal dans lequel ils ont disparus corps et biens.
+
+#ev_xplr_avlch
+Avalanche!
+
+#ev_xplr_avlch_1
+Alors que nos explorateurs '[x]' progressaient sur les ravines d'un glacier, une avalanche soudaine a emporté la moitié de notre expédition corps et biens! Mais que sommes nous donc venus faire dans cette galère ?!
+
+#ev_xplr_freez1
+Nuit glaciale
+
+#ev_xplr_freez1_1
+Voyager au travers d'un tel désert polaire nécéssite constamment des provisions, tel que du bois pour maintenir des feux allumés pendant les nuits glaciales. C'est donc une bonne chose que nos explorateurs '[x]' possaidaient encore sur eux du bois pour faire face à une nuit particulièrement froide.
+
+#ev_xplr_freez2
+Nuit glaciale
+
+#ev_xplr_freez2_1
+Après une nuit particulièrement glaciale, n'ayant plus de provisions pour se maintenir au chaud, plusieurs explorateurs de '[x]' se sont endormis pour ne jamais se reveiller au matin.
+
+#ev_xplr_polfood1
+Desert de glaçe
+
+#ev_xplr_polfood1_1
+Travelling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
+
+#ev_xplr_polfood2
+Desert de glaçe
+
+#ev_xplr_polfood2_1
+Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disapeared into this glacial white unforgiving desert and where never heard of again.
+
+#ev_form_ovrdrft
+Home of '[y]' has insufficient population!
+
+#ev_form_ovrdrft_1
+The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
+
+#ev_form_desertion
+Our soldiers are deserting!
+
+#ev_form_desertion_1
+The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+
+#ev_form_ovrdrft_2
+Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
+
+#ev_xplr_brkleg
+Broken leg
+
+#ev_xplr_brkleg_1
+One of our explorers managed to break his leg in a misstep while walking on a portion of difficult terrain, and is now slowing down the whole group. What should we do ?
+
+#ev_xplr_brkleg_c1
+Wait for him to recover.
+
+#ev_xplr_brkleg_c2
+Abandon him, there is no place for the weak!
+
+#ev_xplr_drnriv
+River drowning
+
+#ev_xplr_drnriv_1
+While crossing a river, one of our explorers fell in the water. The poor hog didn't knew how to swim and the currents carried him away before anyone could help him.
+
+#ev_xplr_cliff
+Clumsy Porco
+
+#ev_xplr_cliff_1
+While our explorers were walking along the edge of a tall cliff, one clumsy Porco tripped and fell to his death.
+
+#ev_xplr_slowed
+Challenging terrain
+
+#ev_xplr_slowed_1
+These unknown lands proved particularly challenging to cross: our explorers got lost multiple times and lost a lot of time and it took them much longer than expected to reach their destination.
+
+#ev_xplr_wellrest
+Hospitable natives
+
+#ev_xplr_wellrest_1
+Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
+
+#ev_claimloss
+[x] has lost a territorial claim!
+
+#ev_claimloss_1
+Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
