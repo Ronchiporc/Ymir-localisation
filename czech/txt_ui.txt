@@ -4824,3 +4824,435 @@ You didn't find this interesting.
 
 #chron_none
 You havn't been reached by any news from the outside world yet!
+
+#b_menuop_animveget
+Animated vegetation
+
+#bc_menuop_animveget
+Enable or disable animated vegetation in the territory view
+
+#bc_gen_chat
+Diplomacy
+
+#bc_gen_news
+Chronicles
+
+#b_trtcancelofr
+Cancel offer
+
+#b_trtcancelofr_c1
+Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+
+#ui_treat_cancld
+Your treaty proposal was cancelled.
+
+#b_actv_trt_pend1
+pending: waiting for your reply...
+
+#b_actv_trt_pend2
+pending: waiting for other's response...
+
+#chat_pm
+Message [x]
+
+#chat_faction
+Nation '[x]'
+
+#chat_emptytxt
+[type your message here]
+
+#ui_reginf_vsb
+Visibility 
+
+#chat_r_hall
+Great Hall
+
+#chat_r_ass
+Assembly
+
+#chat_r_councl
+Council
+
+#chron_tab1
+World news
+
+#chron_tab2
+My chronicles
+
+#chron_new
++ New chronicle
+
+#chron_publish
+Publish
+
+#char_chrons
+View all chronicles from this character
+
+#chron_sent
+New chronicle published!
+
+#chron_react
+React to this news
+
+#chron_reactup_1
+This is interesting!
+
+#chron_reactup_2
+This news will be relayed by your cultural network and will propagate to your contacts.
+
+#chron_reactdw_1
+I don't care about this.
+
+#chron_reactdw_2
+This news will not be relayed by you.
+
+#chron_expand
+read more
+
+#chron_expand_c1
+click to read the rest of this chronicle
+
+#chron_past_up
+You found this interesting.
+
+#chron_past_down
+You didn't find this interesting.
+
+#chron_none
+You havn't been reached by any news from the outside world yet!
+
+#b_menuop_autovsize
+Automatic viewport definition
+
+#b_menuop_autovsize_c1
+Viewport definition will remain at 1:1 with your display resolution.
+
+#b_menuop_vsize
+Viewport definition
+
+#b_menuop_vsize_c1
+Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+
+#b_menuop_vsize_c2
+Lowering this ratio greatly increases performances.
+
+#b_menuop_autoui
+Automatic UI size
+
+#b_menuop_autoui_c1
+UI size will automatically adapt to your display resolution.
+
+#b_menuop_uisize
+UI size
+
+#b_menuop_uisize_c1
+Changes the size of the UI layer. 
+
+#b_menuop_uisize_c2
+Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+
+#ui_eco_tradbal_c4
+Exportations: +[x] sales -[y] purchases
+
+#ui_eco_tradbal_c5
+Cargo: +[x] sales -[y] purchases
+
+#bc_menubdg_lmtd
+Limited distribution
+
+#bc_menubdg_lmtd_c1
+Click to toggle limited distribution for this merchant. Allows you to control the amount of the resource distributed to the public market.
+
+#loyal_status
+from territorial status
+
+#loyal_status_c1
+Territorial status can affect loyalty positively or negatively. More authonomous statuses tend to increase loyalty.
+
+#loyal_decr
+Warning: even though loyalty is currently good, it is decreasing towards dangerous levels and this territory will soon be at risk of a popular uprising.
+
+#loyal_risk
+Warning: this territory is currently at risk of a popular uprising!
+
+#loyal_good
+This territory is currently not at risk of a popular uprising.
+
+#loyal_resist_1
+Warning: A resistance movement of [x] points is present in this territory!
+
+#loyal_resist_2
+You are at risk of a Partisans uprising (can happen regardless of the population's loyalty).
+
+#loyal_resist_inc
+The resistance movement is currently growing by +[x] [y].
+
+#loyal_resist_decr
+The resistance movement is currently decaying by -[x] [y].
+
+#ui_recruit_new
+Creating a new troop
+
+#ui_recruit_err1
+The status of this territory doesn't allow you to recruit armies in it.
+
+#ui_recruit_err2
+You are not allowed to recruit militias in this territory.
+
+#ui_recruit_err3
+You are not allowed to recruit armies in this territory.
+
+#ui_recruit_rnfrc
+Reinforcing troop
+
+#ui_recruit_support_1
+Military support of this territory
+
+#ui_recruit_support_2
+Max support:[x] units. 
+
+#ui_recruit_support_3
+Currently supporting: [x] units.
+
+#ui_recruit_pop_1
+Total active population: [x] porcos.
+
+#ui_recruit_pop_2
+Jobless: [x] porcos.
+
+#ui_recruit_ovrdrft
+Cannot recruit: support limit reached and overdraft is not allowed in this territory.
+
+#ui_foinv_forbid
+You're not allowed to access resources of this territory.
+
+#treated_conf
+WARNING! This treaty is in conflict with some of your other treaties!
+
+#treated_conf_c1
+On or more terms in this treaty is in conflict with engagements you made in other treaties. Signing this treaty means violating the conflicting treaties and will trigger breaking penalties on your side.
+
+#treated_conf_c2
+Conflicts with:
+
+#err_reg_rnnc3
+The current status of this territory doesn't allow you to renounce to its control.
+
+#err_reg_abdn4
+The current status of this territory doesn't allow you to order its evacuation.
+
+#facprom_auto
+Automatic rank
+
+#regstatus_occup_1
+Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
+
+#regstatus_outpost_1
+Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+
+#regstatprop
+Territorial status special properties
+
+#regstatprop_build
+cannot build
+
+#regstatprop_res
+cannot control resources
+
+#regstatprop_trade
+cannot control trade
+
+#regstatprop_loyal
+loyalty [x]
+
+#regstatprop_cultr
+state culture [x]%
+
+#regstatprop_rsrch
+can't do projects
+
+#regstatprop_milit
+cannot recruit militia
+
+#regstatprop_army
+cannot recruit army
+
+#regstatprop_dist
+distance penalty [x]%
+
+#regstatprop_nodist
+no distance penalty
+
+#regstatprop_inc
+[x]% of tax incomes
+
+#regstatprop_noinc
+no tax incomes
+
+#regstatprop_exp
+[x]% of expenses
+
+#regstatprop_noexp
+no expenses
+
+#regstatprop_resist
+resistance growth [x]
+
+#regstatprop_claim
+cannot own sub-territories
+
+#regstatprop_evac
+cannot be evacuated
+
+#regstatprop_rencd
+cannot be renounced
+
+#regstatprop_trsfr
+cannot be transfered
+
+#regstatprop_spawn
+is a player spawn
+
+#regstatprop_pnlty
+[x] loyalty event on changing
+
+#regstatprop_overdrft
+cannot overdraft
+
+#regstatus_penalty
+WARNING: changing current status will trigger an immediate loyalty event of [x]!
+
+#regstatus_claimoccup
+WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+
+#antl_name
+Annex tool
+
+#antl_dscr
+Allows you to reorganise annexes by changing their owning buildings.
+
+#antl_close
+CLOSE
+
+#antl_1
+Relink: hold left click and drag.
+
+#antl_2
+Add/remove from select with ctrl+left-click.
+
+#antl_3
+Clear selection: right-click.
+
+#regmenu_status_c1
+Current territorial status: '[x]' (click to change)
+
+#regmenu_powcost
+This territorial status currently costs you [x] of State Power to maintain.
+
+#regmenu_jobs
+Jobs
+
+#regmenu_jobs_c1
+All available jobs are filled!
+
+#regmenu_jobs_c2
+[x]% of available jobs are missing workers ([y]).
+
+#regmenu_actives
+Employed
+
+#regmenu_actv_c1
+All actives are currently employed!
+
+#regmenu_actv_c2
+[x]% of actives are jobless ([y]).
+
+#regmenu_inc
+Budget balance of this territory
+
+#regmenu_inc_dscr
+It is the result of all state incomes and expenses, such as taxes, trade balance, salaries and maintenance costs.
+
+#regmenu_admin
+Administration balance of this territory
+
+#regmenu_admin_dscr
+A badly administered territory generates more waste and corruption, reducing all sources of incomes.
+
+#regmenu_wealth
+Total wealth of this territory
+
+#regmenu_wealth_dscr
+Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+
+#regmenu_gdp
+GDP of this territory
+
+#regmenu_gdp_dscr
+An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+
+#regmenu_growth_1
+Current demographic evolution: [x] Porcos [y].
+
+#regmenu_growth_2
+Active population: [x] [y]
+
+#regmenu_vitals_1
+Vital needs of the population are currently [x]% satisfied.
+
+#regmenu_vitals_2
+Low vital needs reduce birth rate and increases mortality.
+
+#subjug_title
+Subjugate
+
+#subjug_can
+You can automatically subjugate [x].
+
+#subjug_dscr
+This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+
+#subjug_cant
+You cannot subjugate [x] yet.
+
+#subjug_cant_dscr
+A character that has lost control of all its territories in a war can be automatically subjugated, provided that you are occupying at least one its territories. Subjugation will force his capitulation and make him your vassal, integrating him into your nation.
+
+#subjug_cant_why
+To subjugate this character you need to take control of:
+
+#subjug_apply
+Subjugate!
+
+#info_cltrtrsfr
+[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+
+#info_supportlmt
+This territory cannot support more units and does not allow overdraft!
+
+#displyr_c1
+click to select a display layer.
+
+#displyr_c2
+currently displayed:
+
+#button_togh_c1
+toggle heights display
+
+#button_togh_c2
+heights: 
+
+#displyr_normal
+Normal view
+
+#displyr_fertil
+Fertility
+
+#displyr_gwater
+Groundwater
+
+#displyr_height
+Heights
+
+#displyr_fortif
+Fortifications
