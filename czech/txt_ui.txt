@@ -5096,7 +5096,7 @@ no tax incomes
 no expenses
 
 #regstatprop_resist
-resistance growth [x]
+růst rebélie [x]
 
 #regstatprop_claim
 cannot own sub-territories
@@ -5150,7 +5150,7 @@ Current territorial status: '[x]' (click to change)
 This territorial status currently costs you [x] of State Power to maintain.
 
 #regmenu_jobs
-Jobs
+Zaměstnání
 
 #regmenu_jobs_c1
 All available jobs are filled!
@@ -5186,7 +5186,7 @@ Total wealth of this territory
 Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
 
 #regmenu_gdp
-GDP of this territory
+HDP území
 
 #regmenu_gdp_dscr
 An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
@@ -5222,13 +5222,13 @@ A character that has lost control of all its territories in a war can be automat
 To subjugate this character you need to take control of:
 
 #subjug_apply
-Subjugate!
+Podmanit!
 
 #info_cltrtrsfr
 [x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
 
 #info_supportlmt
-This territory cannot support more units and does not allow overdraft!
+Toto území nemůže podporovat více jednotek a neumožňuje přečerpání limitu!
 
 #displyr_c1
 click to select a display layer.
