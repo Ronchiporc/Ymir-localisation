@@ -5256,3 +5256,267 @@ Heights
 
 #displyr_fortif
 Fortifications
+
+#gmtyp_solo
+Solo
+
+#gmtyp_solo_dscr1
+Solo games can only be played alone.
+
+#gmtyp_solo_dscr2
+Game speed overall is the fastest.
+
+#gmtyp_solo_dscr3
+This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+
+#regeco_tax_inc_c2
+Tax revenue: [x]% of [y] = [z] coins.
+
+#regeco_tax_share
+-[x]% from territorial status
+
+#regeco_tax_share_c1
+The current status of this territory grants you [x]% of all the generated tax incomes.
+
+#bc_gen_speed
+set overall game speed to x[x]
+
+#ui_price_base3_c2
+Profit margin may increase to +2 if the resources is distributed via merchants, as their cut also needs to be taken into account by the producers.
+
+#poph_base
+Base health
+
+#poph_base_c1
+The default health for this population class.
+
+#poph_ter
+Terrain effect
+
+#poph_ter_c1
+Climate [y] modifyer: [x]
+
+#poph_ter_c2
+Is a swamp: [x]
+
+#poph_housing
+Housing effect
+
+#poph_housing_c1
+Each lodging provides a health bonus to its residents.
+
+#poph_housing_c2
+This is the average housing health bonus of logdings occupied by this population class.
+
+#poph_totpop
+Total population
+
+#poph_totpop_c1
+Overall population in the territory decreases health.
+
+#poph_foodqual
+Food quality of [x]
+
+#poph_foodqual_c1
+Higher food quality increases health.
+
+#poph_foodqual_c2
+Current food quality access: [x]
+
+#poph_serv
+Health services
+
+#poph_serv_c1
+Some services (such as doctors) provide a health bonus to those who have access to it.
+
+#poph_vitals
+-[x]% from missing vital needs
+
+#poph_vitals_c1
+Missing vital needs affects overall health proportionnally.
+
+#poplq_vitals
+Vital needs
+
+#poplq_vitals_c1
+Life quality gained by the satisfaction and quality of vital needs.
+
+#poplq_vitals_c2
+Vital needs are satisfied at [x]%.
+
+#poplq_house
+Housing quality
+
+#poplq_house_c1
+Life quality gained by the average housing quality of lodgings occupied by this population.
+
+#poplq_house_c2
+Average quality of lodgings: [x].
+
+#poplq_house_c3
+(requires satisfaction of vital needs)
+
+#poplq_2nd
+Secondary needs
+
+#poplq_2nd_c1
+Life quality gained by the satisfaction and quality of secondary needs.
+
+#poplq_2nd_c2
+(requires satisfaction of vital needs)
+
+#poplq_3rd
+Teritiary needs
+
+#poplq_3rd_c1
+Life quality gained by the satisfaction and quality of tertiary needs.
+
+#poplq_3rd_c2
+(requires satisfaction of secondary needs)
+
+#poplq_4th
+Quaternary needs
+
+#poplq_4th_c1
+Life quality gained by the satisfaction and quality of quaternary needs.
+
+#poplq_4th_c2
+(requires satisfaction of tertiary needs)
+
+#popint_base
+Base intelligence
+
+#popint_base_c1
+The default intelligence level of this species.
+
+#popint_serv
+Education services
+
+#popint_serv_c1
+Intelligence gained from access to education services such as schools.
+
+#popint_lq
+Life quality
+
+#popint_lq_c1
+Intelligence gained from current Life Quality.
+
+#popint_lq_c2
+Each point of Life Quality provides +0.75 of Intelligence.
+
+#popint_kn
+Total knowledges
+
+#popint_kn_c1
+The total of your current knowledges increases overall intelligence. 
+
+#popint_cult
+Territory's culture
+
+#popint_cult_c1
+The total culture in this territory increases the overall intelligence of its population.
+
+#cltrstat_prod
+Population
+
+#cltrstat_prod_c1
+Amount of state culture currently generated in the territory by its population.
+
+#cltrstat_pop
+Raw culture production
+
+#cltrstat_pop_c1
+Amount of raw culture produced by the population.
+
+#cltrstat_pop_c2
+[x] porcos of [y] intelligence are currently producing [z] of culture.
+
+#cltrstat_local
+-[x]% of local culture
+
+#cltrstat_local_c1
+[x]% of the culture produced by the population is local.
+
+#cltrstat_local_c2
+- local culture from capital distance: +[x]%
+
+#cltrstat_local_c3
+- local culture from territorial status: +[x]%
+
+#cltrstat_serv
+Services
+
+#cltrstat_serv_c1
+Amount of state culure produced by the activity of cultural buildings and their services.
+
+#cltrstat_decay
+Decay
+
+#cltrstat_decay_c1
+Amount of state culure lost by decay.
+
+#cltrstat_dovrs
+Maximum stored capacity
+
+#cltrstat_dovrs_c1
+Decay caused if the current maximum capacity of stored culture is reached in this territory.
+
+#cltrstat_dovrs_c2
+This capacity increases the more population resides in the territory.
+
+#cltrstat_dinf
+Cultural influence
+
+#cltrstat_dinf_c1
+Decay due to state culture losing influence compared to other cultures present in this territory.
+
+#cltrstat_dinf_c2
+This territory produces [x] of state culture, out of a total production of [y] culture, resulting in a target cultural influence of [z]% in this territory.
+
+#cltrstat_dinf_c3
+Current state culture influence is [x]%.
+
+#cltrstat_stock
+Culture stock capacity
+
+#cltrstat_stock_c1
+This territory currently has [x] of culture stored out of a maximum of [y].
+
+#cltrstat_stock_c2
+Overall culture in this territory is increasing.
+
+#cltrstat_stock_c3
+Overall culture in this territory is decreasing because it is above its current maximum!
+
+#cltrstat_ststock
+State culture
+
+#cltrstat_ststock_c1
+[x]% of this territory's culture is state culture.
+
+#cltrstat_ststock_c2
+It has [x] points of state culture in stock.
+
+#statepow_powtr_c2
+- sent from active treaties: [x]
+
+#statepow_powtr_c3
+- received from active treaties: [x]
+
+#conf_gpop_c1
+Amount of conflict generated by the current population in the territory.
+
+#conf_territ
+[x]% from territorial status
+
+#conf_territ_c1
+The current territorial status can modify the base conflict generated by the population.
+
+#ui_tech_ter
+New territorial status
+
+#regstatprop_bdgup
+buildings upkeep [x]
+
+#regstatprop_conf
+population conflict [x]%
