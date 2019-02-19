@@ -5520,3 +5520,84 @@ buildings upkeep [x]
 
 #regstatprop_conf
 population conflict [x]%
+
+#mainmenu_maxim
+maximize
+
+#mainmenu_minim
+minimize
+
+#bc_erase_c2
+(right click for options)
+
+#regeco_wasted_c1
+Amount of income lost from waste.
+
+#regeco_wastab_c1
+The total income subject to waste.
+
+#regeco_wastab_c2
+Tax incomes: [x]
+
+#regeco_wastab_c3
+Importations profits: [x]
+
+#regeco_wastab_c4
+Exportations profits: [x]
+
+#regeco_wastab_c5
+State resource sales: [x]
+
+#ui_price_arb
+Price arbitrage
+
+#ui_price_arb_c1
+Cenové arbitráže se mohou stát, když mezi tímto územím a blízkými regiony (s vaší nebo zahraničními obchodními vztahy) existují velké rozdíly v cenách.
+
+#ui_price_arb_c2
+The average price in this area of the world is of [x] coins.
+
+#ui_price_arb_c3
+With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
+
+#ui_price_arb_c4
+No price arbitrage: no nearby territories are currently using this resource.
+
+#popstat_wbase_c1
+every porco naturally makes wealth on it's own
+
+#popstat_winhrt_c1
+inherits its wealth and resources access from the average of all actives
+
+#admin_dist_c3
+[x]% from territorial status distance modificator of [y]%
+
+#b_newform
+Nová Formace
+
+#b_newform_c1
+klikni pro vytváření nové formace
+
+#regctrl_b_h
+Housing
+
+#regctrl_b_p
+Production
+
+#regctrl_b_c
+Cultural
+
+#regctrl_b_m
+Military
+
+#regctrl_b_g
+Government
+
+#regctrl_b_i
+Infrastructures
+
+#ui_dpltool_mbdg
+Obranné budovy
+
+#ui_dpltool_mbdg_dscr
+This is a defensive building that may only engage enemies in range.

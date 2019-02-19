@@ -1830,3 +1830,6 @@ You have been subjugated the state of [x], ruled by [y], who is now your liedge 
 
 #ev_been_subjug_2
 You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
+
+#effect_res_convstate
+Converts [x]% of the stocked resources in all territories to State owned.
