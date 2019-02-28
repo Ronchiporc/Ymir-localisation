@@ -491,3 +491,39 @@ Disabled
 #g_disabled
 disabled
 
+
+#g_capitultrty
+Соглашение о капитуляции
+
+#g_occupiedterrit
+оккупированная территория
+
+#g_outpost
+аванпост
+
+#g_per_day
+в день
+
+#g_ev_days
+каждые [x] дней
+
+#g_per_hour
+в час
+
+#g_ev_hours
+каждые [x] часов
+
+#g_per_minut
+в минуту
+
+#g_ev_minuts
+каждые [x] минут
+
+#g_per_second
+в секунду
+
+#g_ev_seconds
+каждые [x] секунд
+
+#g_with
+с
