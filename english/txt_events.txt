@@ -328,6 +328,9 @@ You will swap position in the Nation's hierarchy with this character.
 #effect_fac_trigvt
 Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
 
+#effect_res_convstate
+Converts [x]% of the stocked resources in all territories to State owned.
+
 #event_diplomes
 Message from [x]
 

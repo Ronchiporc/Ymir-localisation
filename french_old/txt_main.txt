@@ -1,62 +1,54 @@
-﻿#g_ok
+﻿
+#g_ok
 ok
-
-#g_Ok
-Ok
 
 #g_OK
 OK
 
 #g_Yes
-Yes
+Oui
 
 #g_yes
-yes
-
-#g_YES
-YES
+oui
 
 #g_No
-No
+Non
 
 #g_no
-no
-
-#g_NO
-NO
+non
 
 #g_Apply
-Apply
+Appliquer
 
 #g_low
-low
+faible
 
 #g_medium
-medium
+moyen
 
 #g_high
-high
+haut
 
 #g_of
-of
+de
 
 #g_free
-free
+gratuit
 
 #g_Free
-Free
+Gratuit
 
 #g_cost
-cost
+coût
 
 #g_coins
-coins
+pièces
 
 #g_upkeep
-upkeep
+entretient
 
 #g_Upkeep
-Upkeep
+Entretient
 
 #g_admin
 administration
@@ -65,196 +57,190 @@ administration
 Administration
 
 #g_Admincost
-Administration cost
+Coût d'administration
 
 #g_Lifequal
-Life quality
+Qualité de vie
 
 #g_Health
-Health
+Santé
 
 #g_efficiency
-efficiency
+efficacité
 
 #g_EFFICIENCY
-EFFICIENCY
+EFFICACITÉ
 
 #g_resunit
-resource unit
+ressource
 
 #g_resunits
-resource units
+ressources
 
 #g_Households
-Households
+Foyers
 
 #g_cancel
-cancel
+annuler
 
 #g_Cancel
-Cancel
+Annuler
 
 #g_empty
-empty
+vide
 
 #g_workforce
-workforce
+force de travail
 
 #g_WORKFORCE
-WORKFORCE
+TRAVAIL
 
 #g_wealth
-wealth
+richesse
 
 #g_WEALTH
-WEALTH
+RICHESSE
 
 #g_usage
-usage
+utilisation
 
 #g_building
-building
+bâtiment
 
 #g_None
-None
+Aucun
 
 #g_none
-none
-
-#g_All
-All
-
-#g_all
-all
+aucun
 
 #g_distribute
-distribute
+distribue
 
 #g_produce
-produce
+produit
 
 #g_production
 production
 
 #g_needed
-needed
+requis
 
 #g_or
-or
+ou
 
 #g_status
 status
 
 #g_city
-city
+cité
 
 #g_capital
-capital
+capitale
 
 #g_territory
-territory
+territoire
 
 #g_colony
-colony
+colonie
 
 #g_reg_claim
-claim
+revendication
 
 #g_owner
-owner
+propriétaire
 
 #g_Salaries
-Wages
+Salaires
 
 #g_Taxes
 Taxes
 
 #g_Waste
-Waste
+Corruption
 
 #g_Economy
-Economy
+Economie
 
 #g_ECONOMY
-ECONOMY
+ÉCONOMIE
 
 #g_currency
-currency
+monnaie
 
 #g_loyalty
-loyalty
+loyauté
 
 #g_Loyalty
-Loyalty
+Loyauté
 
 #g_conflict
-conflict
+conflit
 
 #g_Conflict
-Conflict
+Conflit
 
 #g_state_culture
-state culture
+culture d'Etat
 
 #g_local_culture
-local culture
+culture locale
 
 #g_Growth
-Growth
+Croissance
 
 #g_Employment
-Employment
+Emploi
 
 #g_Vital_needs
-Vital needs
+Besoins vitaux
 
 #g_vital_needs
-vital needs
+besoins vitaux
 
 #g_faction
 faction
 
 #g_Faction
-Faction
+Fation
 
 #g_Culture
 Culture
 
 #g_Knowledges
-Knowledges
+Connaissances
 
 #g_Nation
 Nation
 
 #g_Policies
-Policies
+Doctrines
 
 #g_Government
-Government
+Gouvernement
 
 #g_Society
-Society
+Société
 
 #g_Diplomacy
-Diplomacy
+Diplomacie
 
 #g_Power
-Power
+Pouvoir
 
 #g_POWER
-POWER
+POUVOIR
 
 #g_Legitimacy
-Legitimacy
+Légitimité
 
 #g_LEGITIMACY
-LEGITIMACY
+LÉGITIMITÉ
 
 #g_state_power
-state power
+Pouvoir d'État
 
 #g_STATE_POWER
-STATE POWER
+POUVOIR D'ÉTAT
 
 #g_Social
 Social
@@ -263,37 +249,34 @@ Social
 SOCIAL
 
 #g_add
-add
+ajouter
 
 #g_Add
-Add
+Ajouter
 
 #g_enables
-enables
-
-#g_Disable
-Disable
+active
 
 #g_disables
-disables
+désactive
 
 #g_price
-price
+prix
 
 #g_PRICE
-PRICE
+PRIX
 
 #g_Server
-Server
+Serveur
 
 #g_server
-server
+serveur
 
 #g_increasing_to
-increasing to
+augmentes à
 
 #g_decreasing_to
-decreasing to
+réduit à
 
 #g_stable
 stable
@@ -308,73 +291,73 @@ Porco
 Porcos
 
 #g_Load
-Load
+Charger
 
 #g_Unload
-Unload
+Décharger
 
 #g_Destroy
-Destroy
+Détruire
 
 #g_From
-From
+Depuis
 
 #g_from
-from
+depuis
 
 #g_multiple
 multiple
 
 #g_confirm
-confirm
+confirmer
 
 #g_AT_WAR
-AT WAR
+EN GUERRE
 
 #g_NEUTRAL
-NEUTRAL
+NEUTRE
 
 #g_AT_PEACE
-AT PEACE
+EN PAIX
 
 #g_year
-year
+année
 
 #g_day
-day
+jour
 
 #g_Rebels
-Rebels
+Rebelles
 
 #g_automatic
-automatic
+automatique
 
 #g_noresult
-no result
+aucun résultat
 
 #g_Fertility
-Fertility
+Fertilité
 
 #g_Groundwater
-Groundwater
+Nappe phréatique
 
 #g_Any
-Any
+N'importe
 
 #g_any
-any
+n'importe
 
 #g_seconds
-seconds
+secondes
 
 #g_minuts
-minuts
+minutes
 
 #g_hours
-hours
+heures
 
 #g_days
-days
+jours
 
 #g_Structure
 Structure
@@ -383,145 +366,115 @@ Structure
 structure
 
 #g_Solidity
-Solidity
+Solidité
 
 #g_solidity
-solidity
+solidité
 
 #g_Cover
-Cover
+Protection
 
 #g_cover
-cover
+protection
 
 #g_random
-random
+aléatoire
 
 #g_agree
-agree
+accepter
 
 #g_refuse
-refuse
+refuser
 
 #g_warning
-WARNING!
+ATTENTION!
 
 #g_areyousure
-Are you sure?
+Etes-vous sûr?
 
 #g_Gaia
 Gaia
 
 #g_Primitives
-Primitives
+Primitifs
 
 #g_Rebels
-Rebels
-
-#g_Partisans
-Partisans
+Rebelles
 
 #g_Barbarians
-Barbarians
+Barbares
 
 #g_Free_cities
-Free cities
+Cité libre
 
 #g_facnameprep
-of
+de
 
 #g_facrk1_1
-High Chief
+Grand chef
 
 #g_facrk1_2
-Chiefdom
+Chefferie
 
 #g_facrk2_1
-Chieftain
+Chef
 
 #g_facrk2_2
-Chiefdom
+Chefferie
 
 #g_prmtv_trb
-Primitive tribe
+Tribu primitive
 
 #g_trb_of
-Tribe of [x]
+Tribu de [x]
 
 #g_colonialtrty
-Colonial treaty
+Traité colonial
 
-#g_capitultrty
-Capitulation treaty
+#g_Ok
+Ok
+
+#g_YES
+OUI
+
+#g_NO
+NON
+
+#g_All
+Tout
+
+#g_all
+tout
+
+#g_Disable
+Désactivé
+
+#g_Partisans
+Resistants
 
 #g_nocltr
-ancient culture
+ancienne culture
 
 #g_claim
-claim
-
-#g_territory
-territory
-
-#g_colony
-colony
-
-#g_occupiedterrit
-occupied territory
-
-#g_outpost
-outpost
-
-#g_city
-city
-
-#g_capital
-capital
+revendiquer
 
 #g_and
-and
+et
 
 #g_Amount
-Amount
+Quantité
 
 #g_amount
-amount
+quantité
 
 #g_Enabled
-Enabled
+Activé
 
 #g_enabled
-enabled
+activé
 
 #g_Disabled
-Disabled
+Désactivé
 
 #g_disabled
-disabled
-
-#g_per_day
-per day
-
-#g_ev_days
-every [x] days
-
-#g_per_hour
-per hour
-
-#g_ev_hours
-every [x] hours
-
-#g_per_minut
-per minut
-
-#g_ev_minuts
-every [x] minuts
-
-#g_per_second
-per second
-
-#g_ev_seconds
-every [x] seconds
-
-#g_with
-with
+désactivé

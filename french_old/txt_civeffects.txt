@@ -1,5 +1,4 @@
-
-#civfx_inc_n
+﻿#civfx_inc_n
 revenus de la population
 
 #civfx_inc_dscr
@@ -18,7 +17,7 @@ distribution automatique
 toutes les ressources sont automatiquement disponibles pour toute la population et il n'y a pas besoin de distributeurs
 
 #civfx_bdgeff_n
-Efficacité des bâtiments
+l'efficacité du bâtiment
 
 #civfx_bdgeff_dscr
 modifie l'efficacité des bâtiments
@@ -353,16 +352,16 @@ subvention
 #civfx_subv_dscr
 une aide publique accordée à chaque travailleur d'une classe sociale déterminée, pour augmenter son revenu
 
-#civfx_subv_set1
-Population
+# civfx_subv_set1
+Classe des travailleurs
 
-#civfx_subv_set1d
+# civfx_subv_set1d
 La classe sociale qui reçoit cette subvention
 
-#civfx_subv_set2
-Subvention
+# civfx_subv_set2
+Pièces de monnaie
 
-#civfx_subv_set2d
+# civfx_subv_set2d
 Le montant de la subvention. Chaque ouvrier de cette classe recevra cette quantité de pièces ajoutée à son revenu.
 
 #civfx_paidrsrch_n
@@ -381,5 +380,4 @@ Le chef peut contribuer aux finances du gouvernement avec sa propre richesse (r�
 Contribution %
 
 #civfx_ldcntrb_setd
-Percentage of the leader's wealth used for the government's finances. Note that this will reduce the Leader's wealth proportionnally.
-
+Pourcentage de la richesse du chef utilisé pour les finances du gouvernement. Notez que cela réduira proportionnellement la richesse du Leader.
