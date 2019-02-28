@@ -1,4 +1,5 @@
-﻿#agrim_goldo_1
+
+#agrim_goldo_1
 Pago único
 
 #agrim_goldo_2
@@ -39,6 +40,7 @@ Acuerdo comercial
 
 #agrim_trad_2
 Permite comerciar
+
 #agrim_trad_3
 Le otorga a [y] acceso a todas los ofertas y rutas comerciales de [x].
 
@@ -158,4 +160,22 @@ si [x] rompe el tratado.
 
 #treaty_closes
 Cerrar
+
+#diplo_npass
+National right of passage
+
+#diplo_npass_dscr_1
+All members of the Nation can move through each other's territory.
+
+#diplo_ntrade
+National trade agreement
+
+#diplo_ntrade_dscr_1
+All members of the Nation get automatic trading rights with each other.
+
+#diplo_ndef
+National defensive pact
+
+#diplo_ndef_dscr_1
+Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
 

@@ -1,4 +1,5 @@
-﻿#msn1
+
+#msn1
 Vytváření první osady
 
 #msn1_1
@@ -6,7 +7,7 @@ Zdravím, [x].
 
 #msn1_2
 Poté, co jse žili jako kočovníci od úsvitu dob, po životech lovu a shromažďování, váš primitivní kmen konečně narazil na území, které se zdálo vhodné pro ukončení kočovného života. Nastal čas usadit se a postavit něco důležitého, něco co odolá zkoušce času, a zvolili si vás abyste je vedl.
- 
+
 #msn1_3
 Toto vypadá na dobré prostředí na usazení, ale možná je to výhodnější pokračovat na cestách pro najití lepšího prostředí ( nedoporučuje se novým hráčům ), rozhodnutí je natobě.
 
@@ -142,7 +143,7 @@ Teď když máme Sedentismus, můžeme postavit náše první trvalé obydlí: p
 #msn_houses_2
 Pořádné obydlí dodává bonus životní úrovně a zdraví těm jež poskytují obydlí, což pomůže zvednou naši celkovou populaci tímž že zredukuje počet nemocných a zvýší jejich celkový chtič po prasátkách. Jakmile je ubytování možné, populace automaticky opustí podomácku vytvořenné stany které právě obývají a přesunou se do nových ubykací. Ale pokud se populace rozroste a není volné další obydlí tak další rodiny budou donuceni se ubytovat do podomácku vytvořených stanů, a slumy se začnou vytvářet kolem tvého města dokud nevyřešíš tento problém. Slemy poskytují nulovou životní úroveň a snižují zdraví svých residentů, čímž sníží tvůj růst populace.
 
-#msn_houses_o_1 
+#msn_houses_o_1
 Stavba tvých prvních obydlí
 
 #msn_houses_o_2
@@ -285,4 +286,19 @@ Pro slávu našich prasat, měli bysme demonstrovat naši nadřazenost tím že 
 
 #vmsn_cltr_o
 Buď první co dosáhne potřebného množství Státní kultury, ve všech tvých teritorií dohromady.
+
+#msn_barter
+Barter economy
+
+#msn_barter_1
+To keep developping our growing society, we need to transition from the gift economy to barter in order to stabilize our growing population. While a gift economy is fine for a small tribe, once population increases beyond the capacity of each individual to know and remember everyone else, a more immediate system of exchange is required as they can no longer keep track of who did what. Without it, conflicts will rise quickly and destablize our society!
+
+#msn_barter_2
+Transitionning to a barter economy is a significant change. You will now have to manage a treasury balance and resources will no longer be free to use: they will have to be purchased from the population owning it. Consummables like food will no longer be auto-distributed and directly available to the population: they will now need to be distributed via merchants or market stands (a building annex).
+
+#msn_barter_o_1
+Transition from gift economy to barter economy
+
+#msn_barter_o_2
+Pass the "Fair exchange" policy, in the government menu's economic tab.
 

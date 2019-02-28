@@ -1,4 +1,5 @@
-﻿#g_ok
+
+#g_ok
 ok
 
 #g_OK
@@ -429,4 +430,88 @@ Tribe of [x]
 
 #g_colonialtrty
 Colonial treaty
+
+#g_Ok
+Ok
+
+#g_YES
+YES
+
+#g_NO
+NO
+
+#g_All
+All
+
+#g_all
+all
+
+#g_Disable
+Disable
+
+#g_Partisans
+Partisans
+
+#g_capitultrty
+Capitulation treaty
+
+#g_nocltr
+ancient culture
+
+#g_claim
+claim
+
+#g_occupiedterrit
+occupied territory
+
+#g_outpost
+outpost
+
+#g_and
+and
+
+#g_Amount
+Amount
+
+#g_amount
+amount
+
+#g_Enabled
+Enabled
+
+#g_enabled
+enabled
+
+#g_Disabled
+Disabled
+
+#g_disabled
+disabled
+
+#g_per_day
+per day
+
+#g_ev_days
+every [x] days
+
+#g_per_hour
+per hour
+
+#g_ev_hours
+every [x] hours
+
+#g_per_minut
+per minut
+
+#g_ev_minuts
+every [x] minuts
+
+#g_per_second
+per second
+
+#g_ev_seconds
+every [x] seconds
+
+#g_with
+with
 

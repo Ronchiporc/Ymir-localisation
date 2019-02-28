@@ -160,3 +160,20 @@ if [x] breaks this treaty.
 #treaty_closes
 Breaking closes
 
+#diplo_npass
+National right of passage
+
+#diplo_npass_dscr_1
+All members of the Nation can move through each other's territory.
+
+#diplo_ntrade
+National trade agreement
+
+#diplo_ntrade_dscr_1
+All members of the Nation get automatic trading rights with each other.
+
+#diplo_ndef
+National defensive pact
+
+#diplo_ndef_dscr_1
+Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 

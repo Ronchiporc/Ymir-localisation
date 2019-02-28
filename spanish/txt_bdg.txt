@@ -1,4 +1,5 @@
-﻿#bdg_hous_n
+
+#bdg_hous_n
 sanidad y alojamiento
 
 #bdg_hous_dscr
@@ -741,3 +742,40 @@ Pared de barro.
 
 #txt_wall2_dscr
 Una débil pared hecha de ladrillos de barro.
+
+#txt_fence3_n
+Stone fence
+
+#txt_fence3_dscr
+Rustic fences made of stone.
+
+#txt_elephantpen_n
+Elephant pen
+
+#txt_elephantpen_dscr
+Elephant pens allow the storage of single large animals such as Elephants.
+
+#txt_stairs2_n
+Stone stairs
+
+#txt_stairs2_dscr
+Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+
+#txt_wall3_n
+Cobblestone wall
+
+#txt_wall3_dscr
+A simple defensive wall made of cobble stone held together with crude masonry.
+
+#txt_wall4_n
+Brick wall
+
+#txt_wall4_dscr
+A simple defensive wall made of fired bricks, stronger than mudbricks.
+
+#txt_wall5_n
+Stoneblocs wall
+
+#txt_wall5_dscr
+A solid defensive wall made of stone blocs.
+

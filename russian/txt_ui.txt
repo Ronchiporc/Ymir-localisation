@@ -1,4 +1,5 @@
-﻿#b_menu_tutorial
+
+#b_menu_tutorial
 ОБУЧЕНИЕ
 
 #b_menu_newgame
@@ -805,12 +806,6 @@ Steam - имя хоста сервера
 #regeco_taxes_c1
 Общий доход всех налогов на этой территории
 
-#regeco_tax_sal
-Доходы от продаж
-
-#regeco_tax_sal_c1
-Налоги на все продажи, произведенные на территории (не включает экспорт)
-
 #regeco_tax_inc
 Доходы по налогу на прибыль
 
@@ -973,47 +968,11 @@ Steam - имя хоста сервера
 #bc_menureg_int1
 Средний интеллект
 
-#b_menureg_job
-доступные рабочие места
-
-#bc_menureg_job1
-незанятые рабочие места на территории
-
-#bc_menureg_job2
-всего рабочих мест
-
-#b_menureg_emp
-безработица
-
-#bc_menureg_emp
-безработных из
-
 #b_menureg_hlth
 Здоровье
 
 #bc_menureg_hlth
 Среднее здоровье населения
-
-#b_menureg_totg
-Общий рост
-
-#bc_menureg_totg
-текущая вариативность общей численности населения
-
-#b_menureg_actg
-Активные
-
-#bc_menureg_actg
-текущее изменение активной популяции
-
-#bc_vneed1
-Население в среднем имеет
-
-#bc_vneed2
-их жизненно необходимых потребностей
-
-#bc_vneed3
-без удовлетворения их жизненных потребностей, ваше население умрет
 
 #ui_gen_m
 M
@@ -1377,7 +1336,7 @@ M
 
 #ui_mres_ststk_c2
 Вам не нужно покупать ресурсы, которые у вас есть, когда вы их используете, и вы также получаете деньги назад, если ресурсы используются населением, такими как промышленность или торговцы.
- 
+
 #ui_mres_ststk_c3
 В настоящее время вы владеете [x] из [y] [z], хранящимися на этой территории.
 
@@ -1389,7 +1348,7 @@ M
 
 #ui_mres_stres_c2
 Полезный вариант для стратегических ресурсов, используемых исключительно государством, таких как оружие или инструменты, для обеспечения регулярного дохода их производителей.
- 
+
 #ui_mres_stmntn
 Поддерживать количество
 
@@ -1398,7 +1357,7 @@ M
 
 #ui_mres_stmntn_c2
 Ресурсы будут автоматически покупаться государством до достижения указанной суммы.
- 
+
 #ui_mres_access
 ДОСТУП НАСЕЛЕНИЯ
 
@@ -1729,9 +1688,6 @@ IP-адрес сервера
 #popstat_wbase
 базовое богатство
 
-#popstat_wbase_c
-каждый Порко естественно зарабатывает богатство самостоятельно
-
 #popstat_winc
 монет дохода
 
@@ -2028,21 +1984,6 @@ IP-адрес сервера
 
 #loyal_resist_c1
 Лоялисты предыдущему владельцу этой территории ([x])
-
-#loyal_lvl0
-критическая нелояльность! очень высокий риск восстания
-
-#loyal_lvl1
-низкая лояльность: существует риск восстания
-
-#loyal_lvl2
-сомнительная лояльность: существует умеренный риск беспорядков
-
-#loyal_lvl3
-хорошая лояльность: эта территория стабильна
-
-#loyal_lvl4
-предана: лояльность к государству неоспорима
 
 #admin_capacit
 производство
@@ -4824,3 +4765,730 @@ Action
 
 #menu_mission_sel_c1
 Select the action to perform in this territory.
+
+#b_menu_discord_1
+Ymir official Discord
+
+#b_menu_discord_2
+Join the Ymir community!
+
+#b_menu_porcopedia_1
+Porcopedia
+
+#b_menu_porcopedia_2
+The online official wiki of the game
+
+#b_menu_trell_1
+Ymir on Trello
+
+#b_menu_trell_2
+Follow the game's development and vote for planned features
+
+#mainmenu_maxim
+maximize
+
+#mainmenu_minim
+minimize
+
+#dsclmr_title
+DISCLAIMER
+
+#dsclmr_1
+- This game is a one-man project: development is slow.
+
+#dsclmr_2
+- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+
+#dsclmr_3
+- Playing solo is available, but the main focus of this game is multiplayer.
+
+#b_menuop_autovsize
+Automatic viewport definition
+
+#b_menuop_autovsize_c1
+Viewport definition will remain at 1:1 with your display resolution.
+
+#b_menuop_vsize
+Viewport definition
+
+#b_menuop_vsize_c1
+Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+
+#b_menuop_vsize_c2
+Lowering this ratio greatly increases performances.
+
+#b_menuop_autoui
+Automatic UI size
+
+#b_menuop_autoui_c1
+UI size will automatically adapt to your display resolution.
+
+#b_menuop_uisize
+UI size
+
+#b_menuop_uisize_c1
+Changes the size of the UI layer. 
+
+#b_menuop_uisize_c2
+Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+
+#gmtyp_solo
+Solo
+
+#gmtyp_solo_dscr1
+Solo games can only be played alone.
+
+#gmtyp_solo_dscr2
+Game speed overall is the fastest.
+
+#gmtyp_solo_dscr3
+This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+
+#ui_bdginf_bldrs
+requires builders
+
+#bc_erase_c2
+(right click for options)
+
+#regeco_tax_inc_c2
+Tax revenue: [x]% of [y] = [z] coins.
+
+#regeco_tax_share
+-[x]% from territorial status
+
+#regeco_tax_share_c1
+The current status of this territory grants you [x]% of all the generated tax incomes.
+
+#regeco_wasted_c1
+Amount of income lost from waste.
+
+#regeco_wastab_c1
+The total income subject to waste.
+
+#regeco_wastab_c2
+Tax incomes: [x]
+
+#regeco_wastab_c3
+Importations profits: [x]
+
+#regeco_wastab_c4
+Exportations profits: [x]
+
+#regeco_wastab_c5
+State resource sales: [x]
+
+#bc_gen_speed
+set overall game speed to x[x]
+
+#ui_eco_tradbal_c4
+Exportations: +[x] sales -[y] purchases
+
+#ui_eco_tradbal_c5
+Cargo: +[x] sales -[y] purchases
+
+#ui_price_base3_c2
+Increased to +30% of the production cost if the resources is distributed via merchants, as their cut also needs to be taken into account by the producers.
+
+#ui_price_arb
+Price arbitrage
+
+#ui_price_arb_c1
+Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
+
+#ui_price_arb_c2
+The average price in this area of the world is of [x] coins.
+
+#ui_price_arb_c3
+With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
+
+#ui_price_arb_c4
+No price arbitrage: no nearby territories are currently using this resource.
+
+#bc_menubdg_lmtd
+Limited distribution
+
+#bc_menubdg_lmtd_c1
+Click to toggle limited distribution for this merchant. Allows you to control the amount of the resource distributed to the public market.
+
+#regcltr_intgr
+Cultural integration of the nation
+
+#regcltr_intgr_c1
+This territory's culture has fully integrated the nation of [x], as its been part of it for a long time.
+
+#regcltr_intgr_c2
+Transfering this territory between nation members generates 50% less resistance.
+
+#regcltr_notintgr_c1
+This territory's culture hasn't integrated the nation of [x] yet. It will be in [y]. 
+
+#poph_base
+Base health
+
+#poph_base_c1
+The default health for this population class.
+
+#poph_ter
+Terrain effect
+
+#poph_ter_c1
+Climate [y] modifyer: [x]
+
+#poph_ter_c2
+Is a swamp: [x]
+
+#poph_housing
+Housing effect
+
+#poph_housing_c1
+Each lodging provides a health bonus to its residents.
+
+#poph_housing_c2
+This is the average housing health bonus of logdings occupied by this population class.
+
+#poph_totpop
+Total population
+
+#poph_totpop_c1
+Overall population in the territory decreases health.
+
+#poph_foodqual
+Food quality of [x]
+
+#poph_foodqual_c1
+Higher food quality increases health.
+
+#poph_foodqual_c2
+Current food quality access: [x]
+
+#poph_serv
+Health services
+
+#poph_serv_c1
+Some services (such as doctors) provide a health bonus to those who have access to it.
+
+#poph_vitals
+-[x]% from missing vital needs
+
+#poph_vitals_c1
+Missing vital needs affects overall health proportionnally.
+
+#poplq_vitals
+Vital needs
+
+#poplq_vitals_c1
+Life quality gained by the satisfaction and quality of vital needs.
+
+#poplq_vitals_c2
+Vital needs are satisfied at [x]%.
+
+#poplq_house
+Housing quality
+
+#poplq_house_c1
+Life quality gained by the average housing quality of lodgings occupied by this population.
+
+#poplq_house_c2
+Average quality of lodgings: [x].
+
+#poplq_house_c3
+(requires satisfaction of vital needs)
+
+#poplq_2nd
+Secondary needs
+
+#poplq_2nd_c1
+Life quality gained by the satisfaction and quality of secondary needs.
+
+#poplq_2nd_c2
+(requires satisfaction of vital needs)
+
+#poplq_3rd
+Teritiary needs
+
+#poplq_3rd_c1
+Life quality gained by the satisfaction and quality of tertiary needs.
+
+#poplq_3rd_c2
+(requires satisfaction of secondary needs)
+
+#poplq_4th
+Quaternary needs
+
+#poplq_4th_c1
+Life quality gained by the satisfaction and quality of quaternary needs.
+
+#poplq_4th_c2
+(requires satisfaction of tertiary needs)
+
+#popint_base
+Base intelligence
+
+#popint_base_c1
+The default intelligence level of this species.
+
+#popint_serv
+Education services
+
+#popint_serv_c1
+Intelligence gained from access to education services such as schools.
+
+#popint_lq
+Life quality
+
+#popint_lq_c1
+Intelligence gained from current Life Quality.
+
+#popint_lq_c2
+Each point of Life Quality provides +0.75 of Intelligence.
+
+#popint_kn
+Total knowledges
+
+#popint_kn_c1
+The total of your current knowledges increases overall intelligence. 
+
+#popint_cult
+Territory's culture
+
+#popint_cult_c1
+The total culture in this territory increases the overall intelligence of its population.
+
+#cltrstat_prod
+Population
+
+#cltrstat_prod_c1
+Amount of state culture currently generated in the territory by its population.
+
+#cltrstat_pop
+Raw culture production
+
+#cltrstat_pop_c1
+Amount of raw culture produced by the population.
+
+#cltrstat_pop_c2
+[x] porcos of [y] intelligence are currently producing [z] of culture.
+
+#cltrstat_local
+-[x]% of local culture
+
+#cltrstat_local_c1
+[x]% of the culture produced by the population is local.
+
+#cltrstat_local_c2
+- local culture from capital distance: +[x]%
+
+#cltrstat_local_c3
+- local culture from territorial status: +[x]%
+
+#cltrstat_serv
+Services
+
+#cltrstat_serv_c1
+Amount of state culure produced by the activity of cultural buildings and their services.
+
+#cltrstat_decay
+Decay
+
+#cltrstat_decay_c1
+Amount of state culure lost by decay.
+
+#cltrstat_dovrs
+Maximum stored capacity
+
+#cltrstat_dovrs_c1
+Decay caused if the current maximum capacity of stored culture is reached in this territory.
+
+#cltrstat_dovrs_c2
+This capacity increases the more population resides in the territory.
+
+#cltrstat_dinf
+Cultural influence
+
+#cltrstat_dinf_c1
+Decay due to state culture losing influence compared to other cultures present in this territory.
+
+#cltrstat_dinf_c2
+This territory produces [x] of state culture, out of a total production of [y] culture, resulting in a target cultural influence of [z]% in this territory.
+
+#cltrstat_dinf_c3
+Current state culture influence is [x]%.
+
+#cltrstat_stock
+Culture stock capacity
+
+#cltrstat_stock_c1
+This territory currently has [x] of culture stored out of a maximum of [y].
+
+#cltrstat_stock_c2
+Overall culture in this territory is increasing.
+
+#cltrstat_stock_c3
+Overall culture in this territory is decreasing because it is above its current maximum!
+
+#cltrstat_ststock
+State culture
+
+#cltrstat_ststock_c1
+[x]% of this territory's culture is state culture.
+
+#cltrstat_ststock_c2
+It has [x] points of state culture in stock.
+
+#popstat_wbase_c1
+every porco naturally makes wealth on it's own
+
+#popstat_winhrt_c1
+inherits its wealth and resources access from the average of all actives
+
+#statepow_powtr_c2
+- sent from active treaties: [x]
+
+#statepow_powtr_c3
+- received from active treaties: [x]
+
+#conf_gpop_c1
+Amount of conflict generated by the current population in the territory.
+
+#conf_territ
+[x]% from territorial status
+
+#conf_territ_c1
+The current territorial status can modify the base conflict generated by the population.
+
+#loyal_status
+from territorial status
+
+#loyal_status_c1
+Territorial status can affect loyalty positively or negatively. More authonomous statuses tend to increase loyalty.
+
+#loyal_decr
+Warning: even though loyalty is currently good, it is decreasing towards dangerous levels and this territory will soon be at risk of a popular uprising.
+
+#loyal_risk
+Warning: this territory is currently at risk of a popular uprising!
+
+#loyal_good
+This territory is currently not at risk of a popular uprising.
+
+#loyal_resist_1
+Warning: A resistance movement of [x] points is present in this territory!
+
+#loyal_resist_2
+You are at risk of a Partisans uprising (can happen regardless of the population's loyalty).
+
+#loyal_resist_inc
+The resistance movement is currently growing by +[x] [y].
+
+#loyal_resist_decr
+The resistance movement is currently decaying by -[x] [y].
+
+#admin_dist_c3
+[x]% from territorial status distance modificator of [y]%
+
+#b_newform
+New formation
+
+#b_newform_c1
+click to create a new formation of units
+
+#regctrl_b_h
+Housing
+
+#regctrl_b_p
+Production
+
+#regctrl_b_c
+Cultural
+
+#regctrl_b_m
+Military
+
+#regctrl_b_g
+Government
+
+#regctrl_b_i
+Infrastructures
+
+#ui_recruit_new
+Creating a new troop
+
+#ui_recruit_err1
+The status of this territory doesn't allow you to recruit armies in it.
+
+#ui_recruit_err2
+You are not allowed to recruit militias in this territory.
+
+#ui_recruit_err3
+You are not allowed to recruit armies in this territory.
+
+#ui_recruit_rnfrc
+Reinforcing troop
+
+#ui_recruit_support_1
+Military support of this territory
+
+#ui_recruit_support_2
+Max support:[x] units. 
+
+#ui_recruit_support_3
+Currently supporting: [x] units.
+
+#ui_recruit_pop_1
+Total active population: [x] porcos.
+
+#ui_recruit_pop_2
+Jobless: [x] porcos.
+
+#ui_recruit_ovrdrft
+Cannot recruit: support limit reached and overdraft is not allowed in this territory.
+
+#ui_foinv_forbid
+You're not allowed to access resources of this territory.
+
+#ui_dpltool_mbdg
+Defensive building
+
+#ui_dpltool_mbdg_dscr
+This is a defensive building that may only engage enemies in range.
+
+#treated_conf
+WARNING! This treaty is in conflict with some of your other treaties!
+
+#treated_conf_c1
+On or more terms in this treaty is in conflict with engagements you made in other treaties. Signing this treaty means violating the conflicting treaties and will trigger breaking penalties on your side.
+
+#treated_conf_c2
+Conflicts with:
+
+#err_reg_rnnc3
+The current status of this territory doesn't allow you to renounce to its control.
+
+#err_reg_abdn4
+The current status of this territory doesn't allow you to order its evacuation.
+
+#ui_tech_ter
+New territorial status
+
+#facprom_auto
+Automatic rank
+
+#regstatus_occup_1
+Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
+
+#regstatus_outpost_1
+Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+
+#regstatprop
+Territorial status special properties
+
+#regstatprop_build
+cannot build
+
+#regstatprop_res
+cannot control resources
+
+#regstatprop_trade
+cannot control trade
+
+#regstatprop_bdgup
+buildings upkeep [x]
+
+#regstatprop_loyal
+loyalty [x]
+
+#regstatprop_cultr
+state culture [x]%
+
+#regstatprop_conf
+population conflict [x]%
+
+#regstatprop_rsrch
+can't do projects
+
+#regstatprop_milit
+cannot recruit militia
+
+#regstatprop_army
+cannot recruit army
+
+#regstatprop_dist
+administration distance penalty [x]%
+
+#regstatprop_nodist
+no administration distance penalty
+
+#regstatprop_inc
+[x]% of tax incomes
+
+#regstatprop_noinc
+no tax incomes
+
+#regstatprop_exp
+[x]% of expenses
+
+#regstatprop_noexp
+no expenses
+
+#regstatprop_resist
+resistance growth [x]
+
+#regstatprop_claim
+cannot own sub-territories
+
+#regstatprop_evac
+cannot be evacuated
+
+#regstatprop_rencd
+cannot be renounced
+
+#regstatprop_trsfr
+cannot be transfered
+
+#regstatprop_spawn
+is a player spawn
+
+#regstatprop_pnlty
+[x] loyalty event on changing
+
+#regstatprop_overdrft
+cannot overdraft
+
+#regstatus_penalty
+WARNING: changing current status will trigger an immediate loyalty event of [x]!
+
+#regstatus_claimoccup
+WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+
+#antl_name
+Annex tool
+
+#antl_dscr
+Allows you to reorganise annexes by changing their owning buildings.
+
+#antl_close
+CLOSE
+
+#antl_1
+Relink: hold left click and drag.
+
+#antl_2
+Add/remove from select with ctrl+left-click.
+
+#antl_3
+Clear selection: right-click.
+
+#regmenu_status_c1
+Current territorial status: '[x]' (click to change)
+
+#regmenu_powcost
+This territorial status currently costs you [x] of State Power to maintain.
+
+#regmenu_jobs
+Jobs
+
+#regmenu_jobs_c1
+All available jobs are filled!
+
+#regmenu_jobs_c2
+[x]% of available jobs are missing workers ([y]).
+
+#regmenu_actives
+Employed
+
+#regmenu_actv_c1
+All actives are currently employed!
+
+#regmenu_actv_c2
+[x]% of actives are jobless ([y]).
+
+#regmenu_inc
+Budget balance of this territory
+
+#regmenu_inc_dscr
+It is the result of all state incomes and expenses, such as taxes, trade balance, salaries and maintenance costs.
+
+#regmenu_admin
+Administration balance of this territory
+
+#regmenu_admin_dscr
+A badly administered territory generates more waste and corruption, reducing all sources of incomes.
+
+#regmenu_wealth
+Total wealth of this territory
+
+#regmenu_wealth_dscr
+Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+
+#regmenu_gdp
+GDP of this territory
+
+#regmenu_gdp_dscr
+An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+
+#regmenu_growth_1
+Current demographic evolution: [x] Porcos [y].
+
+#regmenu_growth_2
+Active population: [x] [y]
+
+#regmenu_vitals_1
+Vital needs of the population are currently [x]% satisfied.
+
+#regmenu_vitals_2
+Low vital needs reduce birth rate and increases mortality.
+
+#subjug_title
+Subjugate
+
+#subjug_can
+You can automatically subjugate [x].
+
+#subjug_dscr
+This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+
+#subjug_cant
+You cannot subjugate [x] yet.
+
+#subjug_cant_dscr
+A character that has lost control of all its territories in a war can be automatically subjugated, provided that you are occupying at least one its territories. Subjugation will force his capitulation and make him your vassal, integrating him into your nation.
+
+#subjug_cant_why
+To subjugate this character you need to take control of:
+
+#subjug_apply
+Subjugate!
+
+#info_cltrtrsfr
+[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+
+#info_supportlmt
+This territory cannot support more units and does not allow overdraft!
+
+#displyr_c1
+click to select a display layer.
+
+#displyr_c2
+currently displayed:
+
+#button_togh_c1
+toggle heights display
+
+#button_togh_c2
+heights: 
+
+#displyr_normal
+Normal view
+
+#displyr_fertil
+Fertility
+
+#displyr_gwater
+Groundwater
+
+#displyr_height
+Heights
+
+#displyr_fortif
+Fortifications
+

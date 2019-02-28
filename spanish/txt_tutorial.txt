@@ -1,5 +1,3 @@
-﻿10121012#tuto_lnchgame_1
-Parece que es la primera vez que abres el juego! Debes tener en cuenta que este es un juego basado en el sistema Cliente-Servidor, aunque estes jugando tu solo. Empezar un juego nuevo va a encender el servidor y conectarte a este. Para que otros puedan entrar a tu partida, debes asegurarte de abrir los puertos utilizados por tu servidor (14804 por defecto). If the server auto-launch fails, you can start it yourself in the game folder using server.bat before connecting to it with "join game".
 
 #tuto_0_1
 Bienvenido Cerdito! Soy Cerdo Sagacio, tu asistente de tutorial. 
@@ -1197,4 +1195,46 @@ That is all for now. Good luck in this difficult transition!
 
 #tuto_413_c1
 Thank you mister Sagacious Pig.--997
+
+#tuto_launch_1
+Welcome to Ymir! It looks like it's the first time you're launching this game. 
+
+#tuto_launch_2
+This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+
+#tuto_create_1
+This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+
+#tuto_lnchgame_1
+You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
+
+#tuto_char_1
+This is where you create your character. You can design and name it, as well as your government's name and flag. 
+
+#tuto_char_2
+You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
+
+#tuto_char_3
+In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
+
+#tuto_char_4
+Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
+
+#tuto_warnjoin_1
+You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multiplayer game.
+
+#tuto_warnjoin_2
+Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
+
+#tuto_join_1
+This is where you join existing games. 
+
+#tuto_join_2
+If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
+
+#tuto_join_3
+If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
+
+#tuto_persist_1
+You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
 
