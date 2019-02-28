@@ -1813,22 +1813,4 @@ Our soldiers are deserting!
 #ev_form_desertion_1
 The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
 
-#ev_has_subjug
-Вы подчинили [x]!
-
-#ev_has_subjug_1
-You have subjugated the state of [x], ruled by [y], who is now your vassal. 
-
-#ev_has_subjug_2
-[x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceeded to [x]. 
-
-#ev_been_subjug
-Вы были подчинены [x]!
-
-#ev_been_subjug_1
-You have been subjugated the state of [x], ruled by [y], who is now your liedge lord. 
-
-#ev_been_subjug_2
-You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
-
 

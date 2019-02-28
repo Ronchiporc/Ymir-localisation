@@ -17,10 +17,10 @@ Měna
 S referencí cenosti pro usnadnění výměn a použití jako jednotka pro měření hodnoty. 
 
 #civ_coinage_n
-Doba peněz
+Coinage
 
 #civ_coinage_dscr
-Státem stanovená měna.
+A state certified currency.
 
 #civ_repmoney_n
 Representative money
@@ -89,10 +89,10 @@ Všeobecné blaho
 "Vládnu pro dobro obyvatelstva."
 
 #civ_people_n
-Zástupce lidu
+People representative
 
 #civ_people_dscr
-"Vládnu ve jménu mého lidu."
+"I rule in the name of the people."
 
 #civ_tax_n
 Taxation
@@ -113,10 +113,10 @@ Privileges
 Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
 
 #civ_statesal_n
-Státní zaměstnanci
+State workers
 
 #civ_statesal_dscr
-Státní pracovníci jsou přímo zaměstnáni a placeni státem a slouží v různých oficiálních budovách, jako je administrativa nebo školství.
+State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
 
 #civ_parl_n
 Parlament
