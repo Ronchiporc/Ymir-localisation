@@ -1749,89 +1749,89 @@ Après une nuit particulièrement glaciale, n'ayant plus de provisions pour se m
 Desert de glaçe
 
 #ev_xplr_polfood1_1
-Travelling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
+Voyager dans des terres arides, stériles et glacées exige un approvisionnement constant, surtout dans le désert. Heureusement que notre expédition de '[x]' avait encore des provisions pour survivre un autre jour.
 
 #ev_xplr_polfood2
 Desert de glaçe
 
 #ev_xplr_polfood2_1
-Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disapeared into this glacial white unforgiving desert and where never heard of again.
+Malheureusement, maintenant à court d’aliments et incapables de trouver quelque chose à manger dans ces terres terribles, notre expédition affamée '[x]' a disparu dans ce désert glacial et impitoyable et n’a plus jamais été aperçu.
 
 #ev_form_ovrdrft
-Home of '[y]' has insufficient population!
+La foyer de '[y]' a une population insuffisante!
 
 #ev_form_ovrdrft_1
-The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
+La population de [x], foyer de notre formation '[y]', est insuffisante pour maintenir cette formation! Il n’y a pas assez de nouveaux porcos adultes pour remplacer ceux qui vieillissent et, de ce fait, nous ne pourrons pas maintenir les effectifs actuels et la formation perdra progressivement des unités jusqu’à ce que cela soit réglé.
 
 #ev_form_desertion
-Our soldiers are deserting!
+Nos soldats désertent!
 
 #ev_form_desertion_1
-The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+Les soldats de nos armées désertent à cause de votre légitimité négative! Les gens ne souhaitent pas servir un dirigeant qu'ils ne considèrent plus comme légitime et nous continuerons de voir les porcos quitter nos rangs tous les jours jusqu'à ce que votre légitimité soit redevenue positive.
 
 #ev_form_ovrdrft_2
-Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
+Peut-être devrions-nous envisager une réduction des effectifs afin de réduire le surpeuplement de la population en [x], ou nous pourrions déplacer cette formation sur un autre territoire qui pourrait mieux la prendre en charge. Si nous n'agissons pas, cette formation va lentement se désintégrer!
 
 #ev_xplr_brkleg
-Broken leg
+Jambe cassée
 
 #ev_xplr_brkleg_1
-One of our explorers managed to break his leg in a misstep while walking on a portion of difficult terrain, and is now slowing down the whole group. What should we do ?
+L'un de nos explorateurs a réussi à se casser la jambe en faisant un faux pas en marchant sur une portion de terrain difficile et ralentit maintenant l'ensemble du groupe. Que devrions nous faire ?
 
 #ev_xplr_brkleg_c1
-Wait for him to recover.
+Attendez qu'il récupère.
 
 #ev_xplr_brkleg_c2
-Abandon him, there is no place for the weak!
+Abandonnez-le, il n'y a pas de place pour les faibles!
 
 #ev_xplr_drnriv
-River drowning
+Noyade de rivière
 
 #ev_xplr_drnriv_1
-While crossing a river, one of our explorers fell in the water. The poor hog didn't knew how to swim and the currents carried him away before anyone could help him.
+En traversant une rivière, l'un de nos explorateurs est tombé à l'eau. Le pauvre porc ne savait pas nager et les courants l'ont emporté avant que quiconque puisse l'aider.
 
 #ev_xplr_cliff
-Clumsy Porco
+Porco maladroit
 
 #ev_xplr_cliff_1
-While our explorers were walking along the edge of a tall cliff, one clumsy Porco tripped and fell to his death.
+Alors que nos explorateurs marchaient au bord d'une haute falaise, un Porco  maladroit a trébuché et est tombé à la mort.
 
 #ev_xplr_slowed
-Challenging terrain
+Terrain difficile
 
 #ev_xplr_slowed_1
-These unknown lands proved particularly challenging to cross: our explorers got lost multiple times and lost a lot of time and it took them much longer than expected to reach their destination.
+Ces terres inconnues se sont avérées particulièrement difficiles à traverser: nos explorateurs se sont perdus plusieurs fois, ils ont perdu beaucoup de temps et il leur a fallu beaucoup plus de temps que prévu pour atteindre leur destination.
 
 #ev_xplr_wellrest
-Hospitable natives
+Indigènes hospitaliers
 
 #ev_xplr_wellrest_1
-Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
+Nos explorateurs ont rencontré des autochtones sympathiques qui leur ont offert leur hospitalité. Après un bon repos et des repas copieux, notre expédition leur a dit au revoir et est repartie revigorée.
 
 #ev_claimloss
-[x] has lost a territorial claim!
+[x] a perdu une revendication territoriale!
 
 #effect_res_convstate
-Converts [x]% of the stocked resources in all territories to State owned.
+Convertit [x]% des ressources stockées sur tous les territoires en propriété de l’État.
 
 #ev_claimloss_1
-Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
+En raison de son administration locale insuffisante ([p1]), la ville de [x] a perdu l'une de ses revendications territoriales car elle ne pouvait plus se permettre de la maintenir.
 
 #ev_has_subjug
-You have subjugated [x]!
+Vous avez soumis [x]!
 
 #ev_has_subjug_1
-You have subjugated the state of [x], ruled by [y], who is now your vassal. 
+Vous avez soumis l'état de [x], dirigé par [y], qui est maintenant votre vassal.
 
 #ev_has_subjug_2
-[x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceeded to [x]. 
+[x] va maintenant vous payer des tributs de pièces de monnaie et du pouvoir d'État. Il a rejoint votre nation en tant que votre subordonné. En échange, tous les territoires occupés ont été rétrocédés à [x].
 
 #ev_been_subjug
-You have been subjugated by [x]!
+Vous avez été soumis par [x]!
 
 #ev_been_subjug_1
-You have been subjugated the state of [x], ruled by [y], who is now your liedge lord. 
+Vous avez été soumis à l'état de [x], dirigé par [y], qui est maintenant votre seigneur.
 
 #ev_been_subjug_2
-You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
+Vous allez maintenant devoir payer des tributs de pièces de monnaie et du pouvoir d'État, Vous avez rejoint la nation de [x] en tant que subordonné de [y]. En échange, tous les territoires occupés vous ont été rétrocédés.
 
