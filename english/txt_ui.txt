@@ -202,6 +202,36 @@ Language
 #bc_menuop_lang
 Choose your language
 
+#menuop_k_up
+Camera up
+
+#menuop_k_le
+Camera left
+
+#menuop_k_ri
+Camera right
+
+#menuop_k_dw
+Camera down
+
+#menuop_keyset
+click and press a keyboard key to bind it to this action
+
+#menuop_togtut
+Toggle tutorials
+
+#menuop_togtut_c1
+Enables the main tutorial and all the help popups when doing things for the first time.
+
+#menuop_resetut
+Reset all
+
+#menuop_resetut_c1
+Reset all tutorials to zero.
+
+#menuop_resetutd
+All tutorials reseted.
+
 #b_menuop_apply
 Apply
 
