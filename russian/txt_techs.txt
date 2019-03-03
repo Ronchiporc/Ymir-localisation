@@ -155,49 +155,49 @@
 Философия
 
 #tech_philo_dscr_1
-The study of general and fundamental problems concerning matters such as existence, knowledge, values, reason, mind, and language.
+Изучение общих и фундаментальных проблем, касающихся таких понятий, как бытие, знание, ценности, сознание, разум и язык.
 
 #tech_aritmet
 Арифметика
 
 #tech_aritmet_dscr_1
-The study of numbers, especially the properties of the traditional operations of addition, subtraction, multiplication and division.
+Учение о цифрах, концентрирующееся на свойствах базовых операций сложения, вычитания, умножения и деления
 
 #tech_algebr
 Алгебра
 
 #tech_algebr_dscr_1
-A 'language' for numbers and operations, algebra is the study of mathematical symbols and the rules for manipulating these symbols.
+"Язык" чисел и операций над ними, алгебра - это раздел математики, изучающий символы и правила их преобразования.
 
 #tech_calculus
 Высшая математика
 
 #tech_calculus_dscr_1
-The mathematical study of continuous change through the reunion of algebra and geometry.
+Математичекское учение о непрерывности, соединяющее алгебру и геометрию.
 
 #tech_geometry
 Геометрия
 
 #tech_geometry_dscr_1
-A branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space.
+Раздел математики занимающийся вопросами формы, размера, относительного расположения фигур и свойствами пространства.
 
 #tech_metrolog
 Метрология
 
 #tech_metrolog_dscr_1
-The use of standardized units of measurements for things like distances, volumes or weights. 
+Использование стандартизованных единиц для измерения расстояния, объема, веса и т.д. 
 
 #tech_engineer
 Инженерия
 
 #tech_engineer_dscr_1
-The application of mathematics and scientific knowledges to invent, build, research, and improve things like machines and tools.
+Применение математики и научных знаний, чтобы изобретать, строить, исследовать и улучшать орудия и механизмы.
 
 #tech_well
 Создание колодцев
 
 #tech_well_dscr_1
-How to dig holes in the ground to exploit underground water sources.
+Как рыть глубокие норы, чтобы добраться до подземных вод.
 
 #tech_irrig
 Ирригация
@@ -251,7 +251,7 @@ tech_storheav_dscr_1
 Амбар
 
 #tech_granary_dscr_1
-How to build structures specifically designed for storing food and protecting it from vermins for a longer conservation.
+Как возводить специальные здания для долговременного хранения и защиты еды от вредителей. 
 
 #tech_runwat
 Текущая вода
@@ -272,10 +272,10 @@ tech_baths_dscr_1
 tech_mudbdg_dscr_1
 
 #tech_mudbrick
-Грязевые кирпичи
+Саманные кирпичи
 
 #tech_mudbrick_dscr_1
-How to use and process soil into solid bricks, facilitating construction out of cheap materials.
+Как сформовать и обработать землю, чтобы получить твердые кирпичи, строя сооружения из дешевых материалов.
 
 #tech_stonebdg
 Каменное строительство
@@ -503,85 +503,85 @@ tech_grndmining_dscr_1
 Вентиляционные шахты
 
 #tech_ventshaft_dscr_1
-How to improve and manage the air ventilation of mining galleries, allowing for deeper and more productive mines.
+Как улучшить и управлять подачей воздуха в штреках, чтобы строить более глубокие и продуктивные шахты.
 
 #tech_coke
 Коксовая добыча
 
 #tech_coke_dscr_1
-How to process mineral coal into coke, a new combustible that can then be used in place of charcoal.
+Как получить из ископаемого угля кокс, новое топливо, которое можно использовать вместо древесного угля.
 
 #tech_agrcultr
 Агрокультура
 
 #tech_agrcultr_dscr_1
-The knowledge of cultivating plants.
+Умение культивировать растения.
 
 #tech_plantselect
 Селекция растений
 
 #tech_plantselect_dscr_1
-The process of carefully selecting plants with the best desired properties generation after generation to develop certain traits such as their yielding, growth speed and resistence.
+Процесс тщательного отбора растений с наилучшими свойствами поколение за поколением, чтобы развить конкретные признаки, такие как урожайность, скорость роста и устойчивость. 
 
 #tech_ard
 Арг
 
 #tech_ard_dscr_1
-An agricultural tool consisting of a simple spike dragged through the soil and pulled by draft animals, making the preparation of fields much faster and easier.
+Сельскохозяйственный инструмент, состоящий из простого шипа, который тянут по почве тягловые животные. Делает вспашку полей проще и быстрее.
 
 #tech_plough
 Плуг
 
 #tech_plough_dscr_1
-A large farming tool with one or more blades fixed in a frame, drawn over soil to turn it over and cut furrows in preparation for the planting of seeds, increasing fertility and homogeneity of the fields.
+Большое приспособление с одним или несколькими лезвиями, закрепленными на раме, которое тянут по почве, чтобы перевернуть верхний слой и прорезать борозду, перед посадкой семян. Увеличивает урожайность и однородность полей.
 
 #tech_domdog
 Домашние собаки
 
 #tech_domdog_dscr_1
-Befriending wild wolves to assist porcos in their daily tasks, especially hunting and guarding.
+Одомашнивание диких волков, чтобы те помогали свинам в их повседневной жизни, в особенности, на охоте и охране.
 
 #tech_animcaptr
 Захват животных
 
 #tech_animcaptr_dscr_1
-How to capture, tame and take care of wild animals to keep them as livestock for times of need. 
+Как захватить, приручить и заботиться о диких животных, чтобы иметь под рукой скот, когда он понадобится.
 
 #tech_animdom
 Разведение животных
 
 #tech_animdom_dscr_1
-After knowing how to take care of captured animals, we now know how to handle their breeding, allowing us to produce new animals on our own!
+Научившись заботится о пойманных животных, мы отныне знаем, как управлять их размножением, благодаря чему мы можем выращивать животных сами по себе!
 
 #tech_animhusb
 Искуственный отбор животных
 
 #tech_animhusb_dscr_1
-It appear that by selective breeding of animals with desired behaviors and traits, we can change them and make new animals that produce more and are friendlier to us, much different than the wild original ones. We domesticated them! 
+Оказалось, что выборочно случая животных с тихим норовом и желанными качествами, мы можем изменять их и получать новых животных, производящих больше и более дружелюбных по отношению к нам. Они совсем не похожи на своих диких собратьев. Мы одомашнили их!
 
 #tech_rotgraz
 Ротационный выпас
 
 #tech_rotgraz_dscr_1
-Livestock are now regularly rotated to fresh paddocks at the right time to prevent overgrazing and optimize grass growth.
+Скот теперь регулярно перегоняется в загоны со свежей травой, чтобы исключить перевыпас и оптимизировать рост травы.
 
 #tech_cattleliers
 Выпас на лошади
 
 #tech_cattleliers_dscr_1
-Handling and managing the livestocks is much easier and efficient on horseback!
+Справляться и направлять скотину, сидя на лошади, гораздо легче и эффективней!
 
 #tech_manure
 Удобрение навозом
 
 #tech_manure_dscr_1
-It turns out that putting manure on the ground makes plants grow faster and bigger, who would have guessed ?
+Оказывается добавление навоза в почву заставляет растения расти быстрее и выше, кто бы мог подумать?
 
 #tech_horsebckrid
 Верховая езда
 
 #tech_horsebckrid_dscr_1
-We have trained and domesticated animals in order to be able to ride them directly sitting on their backs!
+Мы одомашнили и обучили животных, чтобы ездить, сидя у них на спине!
 
 #tech_soilcol
 Сборщики земли
@@ -605,43 +605,43 @@ tech_paper_dscr_1
 Древесный уголь
 
 #tech_charcoal_dscr_1
-How to produce charcoal from wood by slow pyrolisis: the heating of wood without oxygen. Charcoal can then be used as a combustibe more efficient than wood, as it produces much more heat! 
+Как получить древесный уголь из дерево с помощью пиролиза: нагревания дерева без доступа кислорода. Древесный угол можно использовать в качестве топлива, более эффективного, чем древесина, так как он дает гораздо больше жара!
 
 #tech_kiln
 Кильн
 
 #tech_kiln_dscr_1
-A kiln is a thermally insulated chamber that produces temperatures sufficient to complete some process, such as hardening, drying, or chemical changes.
+Кильн - это теплоизолированная камера, дающая температуы, достаточные для завершения некоторых процессов, таких как затвердение, высыхание или химические превращения.
 
 #tech_weaving
 Ткачество
 
 #tech_weaving_dscr_1
-We can now create strange hides out of a single thread made out of plants!
+Мы теперь можем делать странные шкуры из единственной нити, сделанной из растения!
 
 #tech_loom2
 Простой ткацкий станок
 
 #tech_loom2_dscr_1
-The loom is a device used to weave cloth instead of manually weaving it, improving its production.
+Ткацкий станок - это устройство, используемое для изготовления ткани вместо ручного прядения и ускоряющее процесс.
 
 #tech_loom3
 Ткацкий станок
 
 #tech_loom3_dscr_1
-An improved loom allowing faster and more practical production of cloth.
+Улучшенный станок, обеспечивающий более быстрое и эффективное производство ткани.
 
 #tech_loom4
 Большой ткацкий станок
 
 #tech_loom4_dscr_1
-A larger loom that sits directly on the floor and uses foot pedals called treadles to control its mechanisms.
+Большо ткацкий станок стоящий прямо на полу и использующий педали, называемые подножками, для управления.
 
 #tech_loom5
 Летающий челночный ткацкий станок
 
 #tech_loom5_dscr_1
-With the flying shuttle, a single weaver can now produce fabric wider than an arm’s length and at much greater speeds than what had been achieved with previous looms.
+С летающим челноком, один ткач может произвести ткань шире, чем длина его руки и гораздо большей скоростью, чем было доступно на прежних станках.
 
 #tech_loom6
 Силовой ткацкий станок
@@ -659,25 +659,25 @@ tech_carpet_dscr_1
 Одежда
 
 #tech_cloth_dscr_1
-The concept of wearing clothes instead of walking around naked.
+Представление о ношении одежды, вместо того, чтобы разгуливать голым.
 
 #tech_tanning
 Дубление
 
 #tech_tanning_dscr_1
-No need to wear putrid dead animal skins anymore. By unhairing, drying and smoking the hides we can produce proper leather. It lasts longer, its more flexible, and its less smelly for delicate snouts.
+Больше не нужно носить гнилые шкуры животных. Очищая шкуры от волос, высушивая и коптя их, мы получаем кожу. Она дольше служит, более гибкая и не так сильно воняет для чувствительных пятачков.
 
 #tech_urunhair
 Удаление волос вымачиванием в мочевине
 
 #tech_urunhair_dscr_1
-Who though urine could be usefull: soaking the pelts in it for days facilitate the laborious process of unhairing them, improving the production of leather.
+Кто бы мог подумать, что моча может быть полезна: вымачивая в ней шкуры в течение нескольких дней избавляет нас от трудоемкого труда по удалению шерсти, улучшая производительность.
 
 #tech_vegettan
 Овощное дубление
 
 #tech_vegettan_dscr_1
-Eco-pigs rejoice for vegetable tanning, the environmentally friendly evolution of tanning, is now available. No more using disgusting brains and smoke: tannis, which comes from tree barks, makes leather more flexible, durable and water repellent!
+Эко-свины возрадуйтейс, ибо грядет овощное дубление, дружелюбный к окружающей среде новый шаг в дублении, и он уже доступен. Больше никаких мерзких мозгов и дыма: танин, получаемый из коры деревьев, делает кожу более гибкой, долговечной и водонепроницаемой!
 
 #tech_sprfish
 Рыбалка копьем
@@ -743,67 +743,67 @@ How to preserve desired properties given by a randomly obtained mixture of yeast
 Ром
 
 #tech_rum_dscr_1
-An alcoholic beverage made from sugarcane.
+Алкогольный напиток из сахарного тростника.
 
 #tech_alambic
 Медный перегонный куб
 
 #tech_alambic_dscr_1
-A device that allows to separate different substances from a liquid, used mainly to distillate alcoholic beverages.
+Устройство, позволяющее отделять различные вещества от жидкости, применяемое в основном для дисцилляции алкогольных напитков.
 
 #tech_wine
 Вино
 
 #tech_wine_dscr_1
-How to make an intoxicating beverage out of grapes.
+Как сделать алькогольный напиток из винограда.
 
 #tech_barrel
 Бочки
 
 #tech_barrel_dscr_1
-A container made of wooden planks held together with hoops of metal. Solid, dismountable, optimized space usage and perfect to age and store alcohols.
+Контейнер из досок, скрепленных металлическими обручами. Крепкая, разборная, оптимально использующая пространство и отлично подходит для выдержки и хранения алкоголя.
 
 #tech_baskpress
-Basket Press
+Корзинный пресс
 
 #tech_baskpress_dscr_1
-A mechanical press using a capstan to provide pressure over fruits placed in a wooden basket with vertical slats, replacing older beam press technique.
+Механический пресс, исплозующий кабестан, чтобы давить фрукты в деревянной корзине с вертикальными направляющими. Заменяет старый рычаговый  пресс. 
 
 #tech_cider
 Сидр
 
 #tech_cider_dscr_1
-An alcoholic beverage made from fermented juice of apples.
+Алкогольный напиток из перебродившего яблочного сока.
 
 #tech_oliveoil
 Оливковое масло
 
 #tech_oliveoil_dscr_1
-Olive oil is a liquid fat obtained from olives, used as a cooking ingredient but also as a medecine and for skin care application.
+Оливковое масло - это растительный жир, получаемый из оливок и используемый в качестве ингредиента в приготовлении пищи, а также лекарство от болезней кожи.
 
 #tech_beamprss
-Beam press
+Рычаговый пресс
 
 #tech_beamprss_dscr_1
-The beam press allows to extract juice out of fruits more efficiently than hand or foot crushing, using the principle of the lever with a large horizontal beam on top of an elevated platform that contains a shallow basin where the fruits are placed.
+Рычаговый пресс позволяет извлекать сок из фруктов более эффективно, чем при давке руками или ногами. Использует принцип рычага. Имеет большую горизонтальную балку, закрепленную на верху приподнятой платформы с углублением, в которое кладутся фрукты.
 
 #tech_furnitr
 Изготовление мебели
 
 #tech_furnitr_dscr_1
-How to produce fine pieces of furnitures for homes out of wood and metal.
+Как делать прекрасные предметы интерьера из дерева и металла.
 
 #tech_glue
 Клей
 
 #tech_glue_dscr_1
-An adhesive substance produced from boiled animal materials, used for woodworking and the production of furniture.
+Клейкое вещество, получаемое из вареных частей животных, используемое для работы с деревом и производства мебели.
 
 #tech_verneer
-Vermeering
+Фанера
 
 #tech_verneer_dscr_1
-A technique of gluing thin sheets of wood together to produce a stronger and more economic piece of wood while retaining the same esthetic qualities.
+Технология склеивания тонких листов дерева для производства боле экономичного материала, сохраняющего прежние эстетические качества.
 
 #tech_javelin
 Дротик
@@ -959,53 +959,52 @@ tech_hvhelmet_dscr_1
 Гончарный круг
 
 #tech_ptrwhl_dscr_1
-The potter's wheel is a machine used in the shaping of round ceramic ware, improving pottery quality and production. It enables a new process of pottery-making to develop called 'throwing' in which a lump of clay is placed on a fast spining wheel and then shaped as the wheel turns. It replaces the more primitive technique of 'coiling' in which clay was rolled into long threads to form the pottery.
+Гончарный круг - это устройство для изготовления округлых керамических товаров, улучшающее качество керамики и повышающее производительность. Оно позволяет использовать новый способ формования глины, называемый "бросание", при котором кусок глины размещают на быстро вращающееся колесо, а затем придают ему форму пока колесо вращается. Оно позволяет оказаться от примитивной технологии "змейки", при которой глина скатывается в длинный колбаски, из которы потом формируются стеки посуды.
 
 #tech_glaz
 Глазурование
 
 #tech_glaz_dscr_1
-Glazing is the process of coating ceramic with vitreous substances, improving the esthetic and solidity of pottery. It also makes it impermeable which allows it to hold liquids more efficiently.
+Глазурование - это процесс покрытия керамики стекловидными субстанциями, улучшающими внешний вид и прочность изделия. Кроме того, оно делает посуду непроницаемой для жидкости, что позволяет хранить ее более эффективно.
 
 #tech_garden
 Садоводство
 
 #tech_garden_dscr_1
-The art of tending, cultivating and arranging plants for esthetical purposes.
+Искусство ухаживания, выращивания и высаживания растение для эстетических целей.
 
 #tech_elephrid
 Езда на слонах
 
 #tech_elephrid_dscr_1
-The knowledge of how to take care and tame wild pachyderms and how to train them for various tasks such as combat.
+Знание о том, как заботиться и приручать диких толстокожих, как обучать их разным задачам, например войне.
 
 #tech_obsidn
 Обсидиановое оружие
 
 #tech_obsidn_dscr_1
-The art of crafting deadly weapons out of wood and obsidian (volcanic glass) that are sharper than any other types of flint weapons. Obsidian can be sharper than steel but being glass it is also brittle and it can only be sculpted into desired shapes.
+Искусство создания смертоносного оружия из дерева и обсидиана (вуканического стекла), более острого чем любой вид кремневого оружия. Обсидиан может быть острее стали, но являясь стеклом, очень хрупкий и может быть только расколот для получения нужной формы.
 
 #tech_beastwr
 Элитные войны
 
 #tech_beastwr_dscr_1
-Elite casts of warriors inspired by the spirit of fierce wild animals.
+Элитная каста воинов, вдохновленная духом свирепых диких животных.
 
 #tech_salt
 Соль
 
 #tech_salt_dscr_1
-Salt is really useful to improve conservation of fresh meat.
+Соль очень полезна для консервации свежего мяса.
 
 #tech_knives
 Нож мясника
 
 #tech_knives_dscr_1
-How to make new tools specifically designed to facilitate butchery.
+Как изготовитть новые инструменты, специально предназначенные для разделывания туш.
 
 #tech_sausg
 Сосиски
 
 #tech_sausg_dscr_1
-Sausages are a way to process fresh meat allowing for a longer conservation.
-
+Способ переработки свежего мяса, позволяющий хранить его дольше.
