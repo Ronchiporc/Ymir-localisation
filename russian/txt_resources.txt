@@ -74,7 +74,7 @@
 Земля
 
 #r_mudbricks
-Грязевые кирпичи
+Саманные кирпичи
 
 #r_bricks
 Кирпичи
@@ -173,7 +173,7 @@
 Текстиль
 
 #r_cloth
-Ткань
+Одежда
 
 #r_leathercloth
 Кожанная одежда
@@ -287,7 +287,7 @@
 Арбалеты
 
 #r_arquebuses
-Пищали
+Аркебузы
 
 #r_muskets
 Мушкеты
@@ -305,7 +305,7 @@
 Боевые топоры
 
 #r_warhammers
-Военные топоры
+Боевые молоты
 
 #r_halberds
 Алебарды
@@ -314,7 +314,7 @@
 Деревянные щиты
 
 #r_shield_bronze
-Металлические щиты
+Бронзовые щиты
 
 #r_shield_heavy
 Тяжелые щиты
@@ -329,13 +329,13 @@
 Тяжелые шлемы
 
 #r_heaumes
-Heaumes
+Шлемы
 
 #r_armorpadded
 Мягкие доспехи
 
 #r_armorbrigand
-Brigandines
+Бригандины
 
 #r_cuirass
 Кирасы
@@ -344,16 +344,16 @@ Brigandines
 Чешуйчатые доспехи
 
 #r_amorlaminar
-Ламинарные доспехи
+Ламеллярные доспехи
 
 #r_amorchain
 Кольчуги
 
 #r_amorplate
-Латные доспехи
+Латы
 
 #r_pottery
-глиняная посуда
+Глиняная посуда
 
 #r_furniture
 Мебель
@@ -464,7 +464,7 @@ Brigandines
 Topillis
 
 #r_macana
-Macanas
+Макана
 
 #r_library
 Библиотека
