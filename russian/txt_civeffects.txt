@@ -8,13 +8,13 @@
 динамические цены
 
 #civfx_price_dscr
-resources and valuables have dynamic prices based on supply and demand of the population
+цены на ресурсы и ценности зависят от спроса населения и предложения
 
 #civfx_autodist_n
 автоматическое распространение
 
 #civfx_autodist_dscr
-all resources are automatically available to all the population and there is no need for distributors
+все ресурсы автоматически доступны всему населению и в посредниках нет необходимости
 
 #civfx_bdgeff_n
 эффективность строений
@@ -26,359 +26,359 @@ all resources are automatically available to all the population and there is no 
 конфликт населения
 
 #civfx_conflict_dscr
-modifies conflict of population
+изменяет конфликтность населения
 
 #civfx_stress_n
 стресс населения
 
 #civfx_stress_dscr
-modifies stress of population
+изменяет стресс населения
 
 #civfx_paidmat_n
 платные материалы
 
 #civfx_paidmat_dscr
-the state has to pay for materials it consumes at their current market price
+государство должно платить за используемые материалы по рыночной цене
 
 #civfx_seizem_n
-seized materials
+реквизиция
 
 #civfx_seizem_dscr
-when paid materials is active, all or a fraction of materials is seized for free instead of beeing paid by the state.
+когда реквизиция активна, все или часть материалов присваивается государством задаром
 
 #civfx_seizem_set
-seized percent
+процент реквизиции
 
 #civfx_seizem_setd
-set the percent of material's prices you wish to seize
+установить процент стоимости материалов, который вы хотите реквизировать
 
 #civfx_territ_n
-province territories
+провинции
 
 #civfx_territ_dscr
-cities can annex other territories as their province
+города могут присоединять территории как провинции
 
 #civfx_inctax_n
-income tax
+подоходный налог
 
 #civfx_inctax_dscr
-a tax applied to all the incomes of the population in the territory 
+налог, налагаемый на все доходы населения территории
 
 #civfx_inctax_set
 процент налогов на доходы
 
 #civfx_inctax_setd
-set the percent of income that is to be taxed
+установить величину налога на доходы в процентах
 
 #civfx_saltax_n
 налог с продаж
 
 #civfx_saltax_dscr
-a tax applied to all sales in the territory (simplified VAT tax)
+налог, взимаемый со всех продаж территории (упрощенный налог на добавленную стоимость)
 
 #civfx_saltax_set
 процент налога с продаж
 
 #civfx_saltax_setd
-set the percent of sales that is to be taxed
+установить величину налога с продаж в процентах
 
 #civfx_leadwlth_n
 Привилегии лидеров
 
 #civfx_leadwlth_dscr
-Leaders get a portion of the territory wealth as a privilege
+Лидеры получают часть богатства территории в качестве привилегии
 
 #civfx_leadwlth_set
-Leaders privilege
+Доля лидера
 
 #civfx_leadwlth_setd
-the percentage of territory wealth given as privilege to the leaders
+процент богатства территории отдаваемый лидеру в качестве привилегии
 
 #civfx_leadsal_n
 Выплаты лидерам
 
 #civfx_leadsal_dscr
-Leaders get a salary paid by the state
+Лидеры получают от государства зарплату
 
 #civfx_leadsal_set
 Выплаты лидерам
 
 #civfx_leadsal_setd
-amount of the salary in coins
+размер зарплаты в монетах
 
 #civfx_nobwlth_n
-Nobles privileges
+Привилегии знати
 
 #civfx_nobwlth_dscr
-Nobles get a portion of the territory wealth as a privilege
+Знать получает часть богатства территории в качестве привилегии
 
 #civfx_nobwlth_set
-Nobles privilege
+Доля знати
 
 #civfx_nobwlth_setd
-the percentage of territory wealth given as privilege to the nobles
+процент богатства территории, отдаваемый в качестве привилегии знати
 
 #civfx_nobsal_n
 Выплаты знати
 
 #civfx_nobsal_dscr
-Nobles get a salary paid by the state
+Знать получает от государства зарплату
 
 #civfx_nobsal_set
 Выплаты знати
 
 #civfx_nobsal_setd
-amount of the salary in coins
+размер зарплаты в монетах
 
 #civfx_offwlth_n
-State workers privileges
+Привилегии госслужащих
 
 #civfx_offwlth_dscr
-State workers get a portion of the territory wealth as a privilege
+Госслужащие получают часть богатства территории в качесте привилегии
 
 #civfx_offwlth_set
-State workers privilege
+Привилегия госслужащих
 
 #civfx_offwlth_setd
-the percentage of territory wealth given as privilege to the State workers
+процент богатства территории, выделяемый госслужащим в качестве привилегии
 
 #civfx_offsal_n
-State workers salary
+Зарплата госслужащих
 
 #civfx_offsal_dscr
-State workers get a salary paid by the state
+Госслужащие получают зарплату от государства
 
 #civfx_offsal_set
-State workers salary
+Зарплата госслужащих
 
 #civfx_offsal_setd
-amount of the salary in coins
+размер зарплаты в монетах
 
 #civfx_capadmin_n
-capital administration
+Администрация столицы
 
 #civfx_capadmin_dscr
-modifies administration of the capital
+изменяет администрацию в столице
 
 #civfx_cityadmin_n
-city administration
+Городская администрация
 
 #civfx_cityadmin_dscr
-modifies administration of every city
+Изменяет администрацию в каждом городе
 
 #civfx_regadmin_n
-territory adimnistration
+Администрация территории
 
 #civfx_regadmin_dscr
-modifies administration of every territory
+Изменяет администрацию каждой территории
 
 #civfx_caplead_n
-capital leaders
+Столичные лидеры
 
 #civfx_caplead_dscr
-leaders in capital
+лидеры в столице
 
 #civfx_capnob_n
-capital nobles
+Столичная знать
 
 #civfx_capnob_dscr
-nobles in capital
+знать в столице
 
 #civfx_citlead_n
-city leaders
+Городские лидеры
 
 #civfx_citlead_dscr
-leaders per city
+лидеров в каждом городе
 
 #civfx_citnob_n
-city nobles
+Городская знать
 
 #civfx_citnob_dscr
-nobles per city
+знатных в каждом городе
 
 #civfx_reglead_n
-local leaders
+Местные лидеры
 
 #civfx_reglead_dscr
-leaders per territory
+лидеров на территории
 
 #civfx_regnob_n
-local nobles
+Местная знать
 
 #civfx_regnob_dscr
-дворяне в территориях
+знатных на территории
 
 #civfx_goldstck_n
 богатство из драг.металлов
 
 #civfx_goldstck_dscr
-increases wealth of all territories for each unit of precious metals (gold and silver) in storages
+увеличивает богатство всех территорий за каждый иединицу драг. металлов (золота и серебра) на складах
 
 #civfx_modhap_n
 счастье населения
 
 #civfx_modhap_dscr
-modifies happyness of population
+изменяет счастье населения
 
 #civfx_happy_n
 счастье населения
 
 #civfx_happy_dscr
-modifies happyness of population
+изменяет счастье населения
 
 #civfx_enmerch_n
-merchants
+торговцы
 
 #civfx_enmerch_dscr
-allows the use of merchants who can sell resources to the population
+разрешает использовать торговцев для продажи ресурсов населению
 
 #civfx_entrout_n
-trade routes
+торговые пути
 
 #civfx_entrout_dscr
-allows to create permanent trade routes between territories
+позволяет создавать постоянные торговые пути между территориями
 
 #civfx_legitprt_n
-protector of the people
+защитник народа
 
 #civfx_legitprt_dscr
-modifies legitimacy factor of military strenght
+изменяет Легитимность за счет военной силы
 
 #civfx_legitw_n
-leader superiority
+превосходство лидера
 
 #civfx_legitw_dscr
-modifies legitimacy factor of leader's superiority
+изменяет Легитимность за счет превосходства лидера
 
 #civfx_legitr_n
-people's religiosity
+религиозность народа
 
 #civfx_legitr_dscr
-modifies legitimacy factor of people's religiosity
+изменяет Легитимность за счет религиозности народа
 
 #civfx_legitp_n
-parliament's power
+влияние парламента
 
 #civfx_legitp_dscr
+изменяет Легитимность за счет влияния парламента
 modifies legitimacy factor of the parliament
 
 #civfx_legitsen_n
-senate's power
+влияние сената
 
 #civfx_legitsen_dscr
-modifies legitimacy factor of the senate
+изменяет Легитимность за счет влияния сената
 
 #civfx_legitm_n
-ministry's power
+влияние министерства
 
 #civfx_legitm_dscr
-modifies legitimacy factor of the ministry
+изменяет Легитимность за счет министерства
 
 #civfx_legitap_n
-people's approval
+народное одобрение
 
 #civfx_legitap_dscr
-modifies legitimacy factor of people's approval
+изменяет Легитимность за счет народного одобрения
 
 #civfx_wlegitprt_n
-importance of military strenght
+важность военной силы
 
 #civfx_wlegitprt_dscr
-how much military strenght affects legitimacy
+как сильно военная сила влияет на Легитимность
 
 #civfx_wlegitw_n
-importance of leader's superiority
+важность превосходства лидера
 
 #civfx_wlegitw_dscr
-how much leader's superiority affects legitimacy
+как сильно превосходство лидера влияет на Легитимность
 
 #civfx_wlegitr_n
-importance of religiosity
+важность религиозности
 
 #civfx_wlegitr_dscr
-how much people's religiosity affects legitimacy
+как сильно религиозность влияет на Легитимность
 
 #civfx_wlegitp_n
-importance of the parliament
+важность парламента
 
 #civfx_wlegitp_dscr
-how much the parliament's power affects legitimacy
+как сильно парламент влияет на Легитимность
 
 #civfx_wlegitsen_n
-importance of the senate
+важность сената
 
 #civfx_wlegitsen_dscr
-how much the senate's power affects legitimacy.
+как сильно сенат влияет на Легитимность
 
 #civfx_wlegitm_n
-importance of the ministry
+важность министерства
 
 #civfx_wlegitm_dscr
-how much the ministry's power affects legitimacy.
+как сильно министерство влияет на Легитимность
 
 #civfx_wlegitap_n
-importance of people's approval
+важность народного одобрения
 
 #civfx_wlegitap_dscr
-how much people's approval affects legitimacy.
+как сильно народное одобрение влияет на Легитимность
 
 #civfx_statepow_n
-state power
+Власть
 
 #civfx_statepow_dscr
-modifies the amount of state power
+изменяет силу власти 
 
 #civfx_foodcons_n
-food consumption
+потребление еды
 
 #civfx_foodcons_dscr
-affects the amount of food required by porcos to satisfy their need for food
+влияет на количество продовольствия, требующееся свинам, чтобы удовлетворить потребность в еде
 
 #civfx_coin_n
-state treasury
+Казна
 
 #civfx_coin_dscr
-enables the state earning and spending money.
+включает гос. финансы
 
 #civfx_agrisav_n
-stocking seeds
+Накопление семян
 
 #civfx_agrisav_dscr
-25% of all agricultural food production going directly into granaries
+25% всего производства еды идет напрямую в амбары
 
 #civfx_subv_n
-subvention
+Пособие
 
 #civfx_subv_dscr
-a government aid given to each worker of a specified social class, to increase their income
+помощь от государства, выделяемая каждому работнику конкретного социального класса, чтобы увелчить из доходы
 
 #civfx_subv_set1
-Subvention
+Пособие
 
 #civfx_subv_set1d
-The social class that receives this subvention
+Социальный класс, получающий пособие
 
 #civfx_subv_set2
-Coins
+Монеты
 
 #civfx_subv_set2d
-The amount of the subvention. Each worker of this class will receive this amount of coins, added to their income.
+Размер пособия. Каждые работник класса получит эту сумму в добавок их основному доходу.
 
 #civfx_paidrsrch_n
-paid researchers
+Оплачиваемые исследователи
 
 #civfx_paidrsrch_dscr
-researchers get paid and no longer reduce the workforce of the buildings where they work.
+Исследователям платят и они больше не снижают производительность зданий, где работают.
 
 #civfx_ldcntrb_n
-Leader's personnal contribution
+Личный вклад лидера
 
 #civfx_ldcntrb_dscr
-The leader can contribute to the government's finances with his own wealth (reduces his wealth).
+Лидер может вкладывать в казну свое собственное богатство (уменьшая его)
 
 #civfx_ldcntrb_set
-Contribution %
+Вклад %
 
 #civfx_ldcntrb_setd
-Percentage of the leader's wealth used for the government's finances. Note that this will reduce the Leader's wealth proportionnally.
-
+Процент богатства лидера, используемый на гос. расходы. Учтите, что это пропорционально уменьшит богатство Лидера.
