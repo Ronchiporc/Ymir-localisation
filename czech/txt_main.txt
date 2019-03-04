@@ -1,4 +1,5 @@
-﻿#g_ok
+
+#g_ok
 ok
 
 #g_Ok
@@ -491,37 +492,38 @@ Vypnuto
 vypnuto
 
 #g_capitultrty
-Dohoda o kapitulaci
+Capitulation treaty
 
 #g_occupiedterrit
-obsazené území
+occupied territory
 
 #g_outpost
 outpost
 
 #g_per_day
-denně
+per day
 
 #g_ev_days
-každých [x] days
+every [x] days
 
 #g_per_hour
-za hodinu
+per hour
 
 #g_ev_hours
-každých [x] hodin
+every [x] hours
 
 #g_per_minut
-za minutu
+per minut
 
 #g_ev_minuts
-každých [x] minut
+every [x] minuts
 
 #g_per_second
-za sekundu
+per second
 
 #g_ev_seconds
-každých [x] sekund
+every [x] seconds
 
 #g_with
 with
+

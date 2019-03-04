@@ -1,4 +1,5 @@
-﻿#g_ok
+
+#g_ok
 ок
 
 #g_Ok
@@ -430,16 +431,16 @@
 #g_facnameprep
 из
 
-# g_facrk1_1
+#g_facrk1_1
 Высокий вождь
 
-# g_facrk1_2
+#g_facrk1_2
 Вождество
 
-# g_facrk2_1
+#g_facrk2_1
 атаман
 
-# g_facrk2_2
+#g_facrk2_2
 Вождество
 
 #g_prmtv_trb
@@ -478,7 +479,6 @@
 #g_amount
 количество
 
-
 #g_Enabled
 Вкл.
 
@@ -491,39 +491,39 @@
 #g_disabled
 выкл.
 
-
 #g_capitultrty
-Соглашение о капитуляции
+Capitulation treaty
 
 #g_occupiedterrit
-оккупированная территория
+occupied territory
 
 #g_outpost
-аванпост
+outpost
 
 #g_per_day
-в день
+per day
 
 #g_ev_days
-каждые [x] дней
+every [x] days
 
 #g_per_hour
-в час
+per hour
 
 #g_ev_hours
-каждые [x] часов
+every [x] hours
 
 #g_per_minut
-в минуту
+per minut
 
 #g_ev_minuts
-каждые [x] минут
+every [x] minuts
 
 #g_per_second
-в секунду
+per second
 
 #g_ev_seconds
-каждые [x] секунд
+every [x] seconds
 
 #g_with
-с
+with
+

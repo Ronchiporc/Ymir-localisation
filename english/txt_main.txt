@@ -451,6 +451,9 @@ Tribe of [x]
 #g_colonialtrty
 Colonial treaty
 
+#g_capitultrty
+Capitulation treaty
+
 #g_nocltr
 ancient culture
 
@@ -462,6 +465,12 @@ territory
 
 #g_colony
 colony
+
+#g_occupiedterrit
+occupied territory
+
+#g_outpost
+outpost
 
 #g_city
 city
@@ -489,3 +498,30 @@ Disabled
 
 #g_disabled
 disabled
+
+#g_per_day
+per day
+
+#g_ev_days
+every [x] days
+
+#g_per_hour
+per hour
+
+#g_ev_hours
+every [x] hours
+
+#g_per_minut
+per minut
+
+#g_ev_minuts
+every [x] minuts
+
+#g_per_second
+per second
+
+#g_ev_seconds
+every [x] seconds
+
+#g_with
+with

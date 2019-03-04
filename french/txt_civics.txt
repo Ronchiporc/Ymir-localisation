@@ -1,4 +1,5 @@
-﻿#civ_gifteco_n
+
+#civ_gifteco_n
 Économie de don
 
 #civ_gifteco_dscr
@@ -56,7 +57,7 @@ Les fonctionnaires ayant le pouvoir de gouverner les provinces.
 Sénat
 
 #civ_senate_dscr
-Une assemblée de statespigs agissant pour les intérêts du peuple.
+Une assemblée de porcos agissant pour les intérêts du peuple.
 
 #civ_prtctor_n
 Protecteur du peuple
@@ -68,13 +69,13 @@ Protecteur du peuple
 Leader supérieur
 
 #civ_superior_dscr
-"Je règle parce que je suis supérieur."
+"Je dirige parce que je suis supérieur."
 
 #civ_divine_n
 Chef divin
 
 #civ_divine_dscr
-"Je règle parce que je suis un dieu."
+"Je dirige parce que je suis un dieu."
 
 #civ_divinerep_n
 Représentant Divine
@@ -152,4 +153,5 @@ Une aide versée par l'État à chaque porco d'une catégorie spécifique de tra
 Chercheurs payés
 
 #civ_paidrsrch_dscr
-Les chercheurs du projet sont payés par l'État proportionnellement à leur richesse actuelle et ne réduisent plus l'effectif des bâtiments où ils travaillent.
+Les chercheurs du projet sont payés proportionnellement par l'État à leur richesse actuelle et ne réduisent plus la main-d'œuvre des bâtiments où ils travaillent.
+

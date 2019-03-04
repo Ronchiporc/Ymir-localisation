@@ -1,4 +1,5 @@
-﻿#bdg_hous_n
+
+#bdg_hous_n
 hébergement
 
 #bdg_hous_dscr
@@ -181,16 +182,16 @@ Collecteur de cailloux
 #txt_flint_dscr
 Produit des silex à partir des cases de gravier. Les silex peuvent ensuite être utilisés par les fabricants d'outils pour fabriquer des outils en pierre. Peut également exploiter l'obsidienne.
 
-# txt_platf1_n
+#txt_platf1_n
 Plateforme en bois
 
-# txt_platf1_dscr
+#txt_platf1_dscr
 Une plate-forme à faible résistance et bon marché. Utile pour faire des défenses et des ponts peu cher.
 
-# txt_platf2_n
+#txt_platf2_n
 Plateforme en pierre
 
-# txt_platf2_dscr
+#txt_platf2_dscr
 Une plate-forme solide utile pour faire des murs résistants.
 
 #txt_dstrplatf_n
@@ -199,52 +200,52 @@ Détruire les plates-formes
 #txt_dstrplatf_dscr
 Commande la destruction des plates-formes sélectionnées.
 
-# txt_tow1_n
+#txt_tow1_n
 Tour de guet
 
-# txt_tow1_dscr
+#txt_tow1_dscr
 Une tour défensive bon marché mais faible faite de bois recouvert de cuir.
 
-# txt_tow2_n
+#txt_tow2_n
 Tour en bois
 
-# txt_tow2_dscr
+#txt_tow2_dscr
 Une tour de défense faite de poutres en bois épais. 
 
-# txt_tow3_n
+#txt_tow3_n
 Tour de pierre
 
-# txt_tow3_dscr
+#txt_tow3_dscr
 Les tours de pierre sont beaucoup plus résistantes que leurs homologues en bois. 
 
-# txt_tow4_n
+#txt_tow4_n
 Tour maçonnée
 
-# txt_tow4_dscr
+#txt_tow4_dscr
 Cette tour est construite à partir de blocs de pierre solides pour augmenter la résistance à l'artillerie ennemie.
 
-# txt_batlm1_n
+#txt_batlm1_n
 Créneaux en bois
 
-# txt_batlm1_dscr
+#txt_batlm1_dscr
 Des créneaux en bois grossier fournissant une couverture de base du feu ennemi aux unités debout sur la plate-forme pendant les batailles.
 
-# txt_batlm2_n
+#txt_batlm2_n
 Remparts de pierre
 
-# txt_batlm2_dscr
+#txt_batlm2_dscr
 Les remparts en pierre servant de couverture du feu ennemi aux unités se tenant debout sur la plate-forme pendant les batailles.
 
-# txt_batlm3_n
+#txt_batlm3_n
 Remparts à machicoulis
 
-# txt_batlm3_dscr
+#txt_batlm3_dscr
 Des remparts lourds faits de blocs de pierre solides avec des mâchicoulis offrant une excellente couverture depuis le feu ennemi jusqu'aux unités qui se tenaient sur la plate-forme pendant les batailles.
 
-# txt_batlm4_n
+#txt_batlm4_n
 Hourds
 
-# txt_batlm4_dscr
+#txt_batlm4_dscr
 Excellente couverture mais moins résistants que les créneaux en pierre.
 
 #txt_market_n
@@ -259,82 +260,82 @@ Champ
 #txt_field_dscr
 Les champs ne sont exploitables que par la ferme à laquelle ils appartiennent. Ils produisent une large gamme de produits agricoles.
 
-# txt_road1_n
+#txt_road1_n
 Chemin de terre
 
-# txt_road1_dscr
+#txt_road1_dscr
 Une route de base et libre de construire la route.
 
-# txt_road2_n
+#txt_road2_n
 Route en bois
 
-# txt_road2_dscr
+#txt_road2_dscr
 Une route avec des morceaux de bois incrustés dans la terre pour limiter la boue par temps pluvieux.
 
-# txt_road3_n
+#txt_road3_n
 Route pavée
 
-# txt_road3_dscr
+#txt_road3_dscr
 Une route pavée de pavés grossiers.
 
-# txt_road4_n
+#txt_road4_n
 Route de pierre
 
-# txt_road4_dscr
+#txt_road4_dscr
 Une route chère faite de grands blocs de pierre
 
-# txt_road5_n
+#txt_road5_n
 Rue pavée
 
-# txt_road5_dscr
+#txt_road5_dscr
 Une route faite de petits blocs de pierre composés artistiquement.
 
-# txt_road6_n
+#txt_road6_n
 Place de mosaïque
 
-# txt_road6_dscr
+#txt_road6_dscr
 Un sol décoratif composé de petits cases de pierre, de verre et d'autres matériaux.
 
-# txt_road7_n
+#txt_road7_n
 Place de marbre
 
-# txt_road7_dscr
+#txt_road7_dscr
 Un sol décoratif fait de blocs de marbre brillant.
 
-# txt_road8_n
+#txt_road8_n
 Route de calcaire
 
-# txt_road8_dscr
+#txt_road8_dscr
 Une route chère faite de gros blocs de calcaire blanc.
 
-# txt_road9_n
+#txt_road9_n
 Route de grès
 
-# txt_road9_dscr
+#txt_road9_dscr
 Une route coûteuse faite de gros blocs de grès.
 
-# txt_fence1_n
+#txt_fence1_n
 Clôtures
 
-# txt_fence1_dscr
+#txt_fence1_dscr
 Clôtures rustiques de bois, de pierre ou d'arbustes.
 
-# txt_fence2_n
+#txt_fence2_n
 Clôtures décoratif
 
-# txt_fence2_dscr
+#txt_fence2_dscr
 Des clôtures décoratives pour jardins et avenues.
 
-# txt_garden1_n
+#txt_garden1_n
 Jardins de fleurs
 
-# txt_garden1_dscr
+#txt_garden1_dscr
 Jardins décoratifs avec fleurs.
 
-# txt_garden2_n
+#txt_garden2_n
 Jardins d'arbres
 
-# txt_garden2_dscr
+#txt_garden2_dscr
 Jardins décoratifs avec arbres.
 
 #txt_grass_n
@@ -389,7 +390,7 @@ Les potiers façonnent des pots à partir d'argile. La poterie est une ressource
 Tailleur de pierre
 
 #txt_stonecut_dscr
-Peut exploiter des cases de roche dans la gamme pour produire de la pierre brute ou construire des annexes de carrière pour produire des blocs de pierre ou des blocs spécialisés sur des tuiles avec un type de roche valide.
+Peut exploiter des cases de roche pour produire de la pierre brute ou construire des annexes de carrière pour produire des blocs de pierre ou des blocs spécialisés sur des tuiles avec un type de roche valide.
 
 #txt_quarry_n
 Carrière
@@ -425,7 +426,7 @@ Ces ressources sont abandonnées sur le sol et se décomposent avec le temps à 
 Stockage au sol
 
 #txt_storegrnd_dscr
-Terrain marqué comme zone de stockage. C'est gratuit, mais non gardé et n'a pas une grande capacité de stockage par tuile.
+Terrain marqué comme zone de stockage. C'est gratuit, mais non gardé et n'a pas une grande capacité de stockage.
 
 #txt_warehouse_n
 Entrepôt
@@ -445,28 +446,28 @@ Tisserand
 #txt_weaver_dscr
 Le tisserand affine différentes matières premières (coton, lin, laine ...) en textile. Le textile peut ensuite être utilisé pour diverses choses comme la confection de vêtements.
 
-# txt_stairs1_n
+#txt_stairs1_n
 Escaliers
 
-# txt_stairs1_dscr
+#txt_stairs1_dscr
 Escaliers flexibles qui peuvent être placés contre des falaises ou des murs de toute hauteur.
 
-# txt_gate1_n
+#txt_gate1_n
 Porte en bois
 
-# txt_gate1_dscr
+#txt_gate1_dscr
 Une porte en bois bon marché.
 
-# txt_gate2_n
+#txt_gate2_n
 Porte forte
 
-# txt_gate2_dscr
+#txt_gate2_dscr
 Une solide porte en bois maintenue par le bronze.
 
-# txt_gate3_n
+#txt_gate3_n
 Porte renforcée
 
-# txt_gate3_dscr
+#txt_gate3_dscr
 Une porte solide renforcée de fer.
 
 #txt_cattle_n
@@ -479,7 +480,7 @@ Les fermes d'élevage vous permettent de créer des pâturages qui produisent du
 Pâturage
 
 #txt_pastr_dscr
-Une zone fermée de terre où les bovins peuvent se nourrir et se reproduire.
+Une zone fermée de terre où le bétail peuvent se nourrir et se reproduire.
 
 #txt_pastrw_n
 Pâturage de laine
@@ -497,7 +498,7 @@ De nombreux bâtiments ne peuvent être construits que par des équipes professi
 Boucher
 
 #txt_butcher_dscr
-Les abatteurs vivent du bétail pour produire de la viande fraîche.
+Les bouchers vivent du bétail pour produire de la viande fraîche.
 
 #txt_well_n
 Puits
@@ -586,10 +587,10 @@ Affine les minerais métalliques en lingots.
 #txt_steel_n
 Aciérie
 
-# txt_steel_dscr1
-Produit de l'acier par carburation du fer à repasser par forge.
+#txt_steel_dscr1
+Produit de l'acier par carburation du fer forgé par la forge.
 
-# txt_steel_dscr2
+#txt_steel_dscr2
 Produit de l'acier par décarburation de la fonte en la fondant.
 
 #txt_charcl_n
@@ -602,7 +603,7 @@ Carbonise le bois en charbon de bois.
 Architecte
 
 #txt_archtct_dscr
-Produit les plans de service, requis pour les monuments importants.
+Produit des plans en tant que service, requis pour les monuments importants.
 
 #txt_windwheel_n
 Roue à vent
@@ -668,7 +669,7 @@ Produit de l'huile d'olive à partir d'olives.
 Boulangerie
 
 #txt_bakery_dscr
-Fait du pain de farine.
+Fait du pain à partir de farine.
 
 #txt_mill_n
 Moulin
@@ -686,7 +687,7 @@ Stocke les connaissances.
 Conseil des anciens
 
 #txt_eldrcncl_dscr
-Un conseil des vieux qui tente de résoudre les conflits entre la tribu et fournit une forme précoce de la justice.
+Un conseil des vieux qui tente de résoudre les conflits entre la tribu et fournit une forme précoce de justice.
 
 #txt_magistr_n
 Magistrat
@@ -724,20 +725,57 @@ Docteur
 #txt_doctor_dscr
 Augmente la santé de la population.
 
-# txt_ftower1
+#txt_ftower1
 Tour primitive
 
-# txt_ftower1_dscr
+#txt_ftower1_dscr
 Une tour de défense primitive en bois. Tire des javelots.
 
-# txt_wall1_n
+#txt_wall1_n
 Palissade
 
-# txt_wall1_dscr
+#txt_wall1_dscr
 Un mur défensif simple fait de rondins de bois.
 
-# txt_wall2_n
+#txt_wall2_n
 Mur de boue
 
-# txt_wall2_dscr
+#txt_wall2_dscr
 Un mur défensif simple fait de briques de boue séchée.
+
+#txt_fence3_n
+Muret de pierre
+
+#txt_fence3_dscr
+Un muret rustique fait de pierres.
+
+#txt_elephantpen_n
+Etable à éléphant
+
+#txt_elephantpen_dscr
+Elephant pens allow the storage of single large animals such as Elephants.
+
+#txt_stairs2_n
+Escaliers en pierre
+
+#txt_stairs2_dscr
+Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+
+#txt_wall3_n
+Mur de pavés
+
+#txt_wall3_dscr
+Un simple mur de défense en pavés, assemblé avec de la maçonnerie grossière.
+
+#txt_wall4_n
+Mur de brique
+
+#txt_wall4_dscr
+Un simple mur de défense en briques cuites, plus solides que les briques en boue.
+
+#txt_wall5_n
+Mur de blocs de pierre
+
+#txt_wall5_dscr
+Un mur de défense solide constitué de blocs de pierre.
+

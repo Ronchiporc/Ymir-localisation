@@ -1,4 +1,5 @@
-﻿#bdg_hous_n
+
+#bdg_hous_n
 obydlí
 
 #bdg_hous_dscr
@@ -574,7 +575,7 @@ Výrobce koberců, distributovatelná surovina dodávajíci populaci jejich pot�
 #txt_mudcamp_n
 Soil miner
 
-#txt_mudcamp_dscr 
+#txt_mudcamp_dscr
 Malý tábor, kde pracovníci shromažďují využitelné typy půdy, jako je bláto, rašelina nebo popel.
 
 #txt_brickwk_n
@@ -761,19 +762,20 @@ Stone stairs
 Stairs that can be placed against cliffs or walls of any height to allow for passage. 
 
 #txt_wall3_n
-Dlažbová zeď
+Cobblestone wall
 
 #txt_wall3_dscr
 A simple defensive wall made of cobble stone held together with crude masonry.
 
 #txt_wall4_n
-Cihlová zeĎ
+Brick wall
 
 #txt_wall4_dscr
 A simple defensive wall made of fired bricks, stronger than mudbricks.
 
 #txt_wall5_n
-Kamenná zeĎ
+Stoneblocs wall
 
 #txt_wall5_dscr
 A solid defensive wall made of stone blocs.
+

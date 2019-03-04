@@ -1,4 +1,5 @@
-﻿#cond_nbreg
+
+#cond_nbreg
 Vlatni alespoň [x] území
 
 #cond_prodsupto
@@ -1813,6 +1814,9 @@ Naši vojáci dezertují!
 #ev_form_desertion_1
 Vojáci z tvé armády dezertují protože máš negativní Legitimitu! Lide si nepřejí sloužit vládci keterý se už nedá brát za důvěryhodného a budou nadále dezetovat z naších řad do te doby než se stanete znovu Legitimním.
 
+#effect_res_convstate
+Converts [x]% of the stocked resources in all territories to State owned.
+
 #ev_has_subjug
 You have subjugated [x]!
 
@@ -1831,5 +1835,3 @@ You have been subjugated the state of [x], ruled by [y], who is now your liedge 
 #ev_been_subjug_2
 You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
 
-#effect_res_convstate
-Converts [x]% of the stocked resources in all territories to State owned.

@@ -1,4 +1,5 @@
-﻿#cond_nbreg
+
+#cond_nbreg
 Posséder [x] ou plus territoires
 
 #cond_prodsupto
@@ -328,16 +329,16 @@ Proposition de traité de [x]
 #event_dwar_att
 Nous avons déclaré la guerre à [x]
 
-# event_dwar_att_1
+#event_dwar_att_1
 Monseigneur, nous avons déclaré la guerre à [x] de [y] et sommes maintenant en guerre avec ces porcelets faibles.
 
 #event_dwar_def
 [x] nous a déclaré la guerre!
 
-# event_dwar_def_1
+#event_dwar_def_1
 Mon seigneur, [x] de [y] nous a déclaré la guerre.
 
-# event_dwar_def_2
+#event_dwar_def_2
 Nous sommes maintenant en guerre avec ces cochons sales.
 
 #event_war_state
@@ -346,250 +347,250 @@ Notre pays est actuellement en guerre!
 #event_misscomp
 Mission terminée: [x]
 
-# event_misscomp_1
+#event_misscomp_1
 Nous avons terminé cette mission et reçu ses récompenses.
 
 #event_gameovr
 Jeu terminé!
 
-# event_gameovr_1
+#event_gameovr_1
 Le jeu est terminé et son vainqueur est la nation de '[x]', étant le premier à atteindre [p1] points de victoire et avec un score total de [p2].
 
-# event_gameovr_2
+#event_gameovr_2
 Notez que le jeu peut continuer et vous pouvez continuer à jouer, mais les scores et les rangs ne seront plus mis à jour et il n'y aura plus de missions de victoire.
 
 #event_rsk_upris
 Risque de rébellion en [x]
 
-# event_rsk_upris_1
+#event_rsk_upris_1
 La loyauté de [x] est très faible et il y a un risque élevé de rébellion imminente de sa population! Nous devons faire quelque chose à ce sujet ...
 
-# event_rsk_upris_2
+#event_rsk_upris_2
 La loyauté est réduite par des facteurs tels que: quantité de culture locale, forte garnison locale, absence de troupes d'état, faible pouvoir ou légitimité de l'Etat, nombre de villes et distance de capitale. Vous pouvez ouvrir le classement pour voir votre score final.
 
 #event_revolt
 Révolte populaire dans [x]!
 
-# event_revolt_1
+#event_revolt_1
 La population de [x] se révolte contre nous et les rebelles tentent de prendre le contrôle de la ville! S'ils réussissent, nous perdrons le contrôle de ce territoire!
 
-# event_revolt_2
+#event_revolt_2
 [p2]% de la population prend les armes et se rebelle, y compris [p3] les soldats de la garnison locale qui ont fait défection aux rebelles. Nos soldats loyalistes [p5] font face à un total de [p4] rebelles.
 
 #event_br_revolt
 Révolte populaire en [x]
 
-# event_br_revolt_1
+#event_br_revolt_1
 La population de [x] s'est révoltée contre nous et les rebelles ont essayé de prendre le contrôle de la ville.
 
-# event_br_revolt_2
+#event_br_revolt_2
 [p2]% de la population a pris les armes et a rebellé, y compris [p4] les soldats de la garnison locale qui ont défection aux rebelles. [p5] les soldats loyalistes ont fait face à un total de [p3] rebelles.
 
 #event_Ab_pitch
 Attaquant [x] de [y]
 
-# event_Ab_pitch_1
+#event_Ab_pitch_1
 Nous engageons l'armée ennemie de '[x]' [y] dans une bataille de terrain avec des soldats [p2].
 
-# event_Ab_pitch_2
+#event_Ab_pitch_2
 Ils nous font face avec des soldats [p3].
 
 #event_Abr_pitch
 Attaqué [x] de [y]
 
-# event_Abr_pitch_1
+#event_Abr_pitch_1
 Nous avons engagé l'armée ennemie de '[x]' [y] dans une bataille de terrain avec des soldats [p2].
 
-# event_Abr_pitch_2
+#event_Abr_pitch_2
 Ils nous ont fait face avec des soldats [p3].
 
 #event_Db_pitch
 '[x]' sont attaqués par [y]
 
-# event_Db_pitch_1
+#event_Db_pitch_1
 '[x]' sont engagés dans une bataille de lancement par une armée de [y].
 
-# event_Db_pitch_2
+#event_Db_pitch_2
 Nos soldats [p2] font face à des [p3] soldats ennemis.
 
 #event_Dbr_pitch
 '[x]' ont été attaqués par une armée [y]
 
-# event_Dbr_pitch_1
+#event_Dbr_pitch_1
 '[x]' était engagé dans une bataille de lancement par une armée de [y].
 
-# event_Dbr_pitch_2
+#event_Dbr_pitch_2
 Nos [p2] soldats ont affronté [p3] des soldats ennemis.
 
 #event_Ab_invad
 Invasion [x]
 
-# event_Ab_invad_1
+#event_Ab_invad_1
 Nous lançons un assaut sur [x] avec des soldats [p2] pour envahir et prendre le contrôle du territoire.
 
-# event_Ab_invad_2
+#event_Ab_invad_2
 Pour réussir, nous devons éliminer tous les ennemis et les défenses du territoire. Ils le défendent avec des soldats [p3].
 
 #event_Abr_invad
 Invasion de [x]
 
-# event_Abr_invad_1
+#event_Abr_invad_1
 Nous avons lancé un assaut sur [x] avec [p2] des soldats pour envahir et prendre le contrôle du territoire.
 
-# event_Abr_invad_2
+#event_Abr_invad_2
 Ils l'ont défendu avec des soldats [p3].
 
 #event_Db_invad
 [y] essaie d'envahir [x]
 
-# event_Db_invad_1
+#event_Db_invad_1
 [y] a lancé un assaut sur [x] avec des soldats [p3] pour tenter d'envahir et prendre le contrôle de notre territoire.
 
-# event_Db_invad_2
+#event_Db_invad_2
 Nous devons repousser leur invasion ou nous perdrons le contrôle du territoire! Nous avons [p2] des soldats qui le défendent.
 
 #event_Dbr_invad
 Défense de [x] contre une invasion de [y]
 
-# event_Dbr_invad_1
+#event_Dbr_invad_1
 [y] a lancé un assaut sur [x] avec [p3] soldats pour tenter d'envahir et prendre le contrôle de notre territoire.
 
-# event_Dbr_invad_2
+#event_Dbr_invad_2
 Nous l'avons défendu avec des soldats [p2].
 
 #event_Ab_raid
 Raid [x]
 
-# event_Ab_raid_1
+#event_Ab_raid_1
 Nous lançons un raid sur [x] pour piller leur territoire avec des soldats [p2].
 
-# event_Ab_raid_2
+#event_Ab_raid_2
 Nos troupes tenteront de piller les ressources et les bâtiments avant de quitter le territoire avec leur butin.
 
 #event_Abr_raid
 Raid de [x]
 
-# event_Abr_raid_1
+#event_Abr_raid_1
 Nous avons attaqué [x] pour piller leur territoire avec des soldats [p2].
 
-# event_Abr_raid_2
+#event_Abr_raid_2
 Nos troupes ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
 
 #event_Db_raid
 [y] attaque [x]
 
-# event_Db_raid_1
+#event_Db_raid_1
 [y] a lancé un raid sur [x] avec des soldats [p2].
 
-# event_Db_raid_2
+#event_Db_raid_2
 Nous devons les arrêter avant qu'ils n'atteignent et pillent nos ressources et bâtiments et quittent le territoire avec leur butin!
 
 #event_Dbr_raid
 Défense de [x] contre un raid de [y]
 
-# event_Dbr_raid_1
+#event_Dbr_raid_1
 [y] a attaqué [x] pour piller notre territoire avec [p2] des soldats.
 
-# event_Dbr_raid_2
+#event_Dbr_raid_2
 Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
 
 #event_Ab_sack
 Mise à sac [x]
 
-# event_Ab_sack_1
+#event_Ab_sack_1
 Nous lançons un assaut sur [x] pour saccager le territoire avec des soldats [p2].
 
-# event_Ab_sack_2
+#event_Ab_sack_2
 Nos troupes tenteront d'éliminer tous les ennemis et les défenses du territoire avant de piller tout ce qu'elles peuvent et partir avec leur butin.
 
 #event_Abr_sack
 Pillage de [x]
 
-# event_Abr_sack_1
+#event_Abr_sack_1
 Nous avons lancé un assaut sur [x] pour saccager leur territoire avec des soldats [p2].
 
-# event_Abr_sack_2
+#event_Abr_sack_2
 Nos troupes ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
 
 #event_Db_sack
 [y] essaie de mettre à sac [x]
 
-# event_Db_sack_1
+#event_Db_sack_1
 [y] a lancé un assaut sur [x] pour saccager le territoire avec [p2] soldats.
 
-# event_Db_sack_2
+#event_Db_sack_2
 Ils vont essayer d'éliminer toutes nos troupes et nos défenses avant de piller tout ce qu'ils peuvent et de partir avec le butin.
 
 #event_Dbr_sack
 Défense de [x] contre un limogeage de [y]
 
-# event_Dbr_sack_1
+#event_Dbr_sack_1
 [y] a lancé un assaut sur [x] pour saccager notre territoire avec [p2] des soldats.
 
-# event_Dbr_sack_2
+#event_Dbr_sack_2
 Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
 
 #event_Db_assist
 Aider [y] à défendre [x]
 
-# event_Db_assist_1
+#event_Db_assist_1
 [y] est attaqué dans [x].
 
-# event_Db_assist_2
+#event_Db_assist_2
 En tant qu'allié, nos troupes [p2] participent à la bataille et aident à se défendre contre [p3] ennemis.
 
 #event_Dbr_assist
 Aidé [en] pour défendre [x]
 
-# event_Dbr_assist_1
+#event_Dbr_assist_1
 [y] a été attaqué dans [x].
 
-# event_Dbr_assist_2
+#event_Dbr_assist_2
 En tant qu'allié, nos troupes [p2] ont participé à la bataille pour aider dans sa défense contre [p3] ennemis.
 
 #event_Ab_assist
 Aider [y] dans l'attaque de [x]
 
-# event_Ab_assist_1
+#event_Ab_assist_1
 [y] attaque [y].
 
-# event_Ab_assist_2
+#event_Ab_assist_2
 En tant qu'allié de [y], nos troupes participent à la bataille et aident ses armées.
 
 #event_Abr_assist
 Assisté [y] dans l'attaque de [x]
 
-# event_Abr_assist_1
+#event_Abr_assist_1
 [y] a attaqué [y].
 
-# event_Abr_assist_2
+#event_Abr_assist_2
 En tant qu'allié de [y], nos troupes ont participé à la bataille et ont aidé ses armées.
 
 #event_hunt
 Chasse [p2] [p3]
 
-# event_hunt_1
+#event_hunt_1
 Nous lançons une chasse contre [p2] [p3]!
 
-# event_hunt_2
+#event_hunt_2
 Nos chasseurs tenteront de tuer autant de ces animaux qu'ils le peuvent pour remplir leur inventaire.
 
 #event_huntr
 Chasse [p2] [p3]
 
-# event_huntr_1
+#event_huntr_1
 Nos chasseurs ont à nouveau lancé une chasse [p2] [p3].
 
-# event_huntr_2
+#event_huntr_2
 Ils ont essayé de tuer autant de ces animaux qu'ils pouvaient pour remplir leur inventaire.
 
 #event_debt
 Endetté!
 
-# event_debt_1
+#event_debt_1
 Nous sommes actuellement endettés de [p1] pièces de monnaie dans notre trésor. Le fait de s'endetter réduit notre pouvoir d'État et affecte la loyauté de nos villes et de nos armées.
 
-# event_debt_2
+#event_debt_2
 Nous devons remettre le solde de notre revenu public dans le vert ou nous aurons de sérieux problèmes. Si la situation est désespérée, nous pouvons également prendre une décision de dernier recours d'annuler notre dette, mais cela va générer de grands troubles dans notre état.
 
 #event_c_canceldebt
@@ -598,424 +599,424 @@ Annuler la dette
 #event_confcdebt
 Confirmer l'annulation de la dette?
 
-# event_confcdebt_1
+#event_confcdebt_1
 Êtes-vous sûr de vouloir déclarer notre dette nulle et non avenue?
 
-# event_confcdebt_2
+#event_confcdebt_2
 Avec une dette de [p1] pièces et un PIB de [p2], notre dette représente actuellement [p3]% de notre PIB: si nous l'annulons, nous subirons une sanction estimée de [p4] loyauté dans tous nos territoires!
 
 #event_canceldebt
 Dette annulée!
 
-# event_canceldebt_1
+#event_canceldebt_1
 Nous avons pris la mesure drastique de déclarer notre dette de [p1] pièces nulles et non avenues, en annonçant que nous ne rembourserions pas ce que nous devions.
 
-# event_canceldebt_2
+#event_canceldebt_2
 Dans toutes nos villes, les créanciers de notre dette se révoltent de ne jamais recevoir ce que nous leur devons. Beaucoup de gens ont tout perdu et sont ruinés en conséquence. L'économie est déstabilisée et dans une grande agitation, sans parler de la perte de confiance de la population dans son gouvernement.
 
-# event_canceldebt_3
+#event_canceldebt_3
 En conséquence de l'annulation d'une dette de [p3]% de notre PIB total ([p2]), nous subissons une pénalité de [p4] Loyauté dans tous nos territoires. Cet effet va lentement se dégrader car les gens oublient cet événement, mais cela prendra du temps. En attendant, nous devrions nous préparer au pire.
 
 #event_lowpow
 Pouvoir d'état négatif!
 
-# event_lowpow_1
+#event_lowpow_1
 Le pouvoir d'État est la capacité de votre État à gérer les choses. Sans cela, nous serons incapables d'adopter des réformes et la loyauté de nos territoires sera négativement affectée, ce qui pourrait mener à des rébellions populaires.
 
-# event_lowpow_2
+#event_lowpow_2
 Le pouvoir de l'État peut être amélioré en: possédant moins de villes, n'ayant pas de dette, révoquant des politiques coûteuses.
 
 #event_lowlegit
 Légitimité négative!
 
-# event_lowlegit_1
+#event_lowlegit_1
 La légitimité est de savoir combien les gens reconnaissent le droit des revendications de l'état à l'autorité. Sans cela, non seulement nous sommes confrontés à un risque croissant de soulèvements populaires, mais nos armées pourraient aussi se retourner contre nous pour renverser notre gouvernement illégitime!
 
-# event_lowlegit_2
+#event_lowlegit_2
 Les politiques de légitimité définissent les revendications que vous faites pour affirmer votre droit en tant que dirigeant de cet État. Ces revendications définissent l'importance de tous les différents facteurs de légitimité. Pour améliorer notre situation, nous pourrions soit travailler à améliorer les facteurs actuels, soit réformer nos prétentions à la légitimité en nous appuyant sur des facteurs plus bénéfiques.
 
 #event_tribwarn
 Territoire volé
 
-# event_tribwarn_1
+#event_tribwarn_1
 Il faut se méfier! En créant notre nouvelle colonie de [x], nous avons usurpé les terres d'une tribu primitive qui vit là depuis des générations. Bien sûr, ce territoire semblait attrayant, mais nous finirons par payer les conséquences de cette action car les autochtones ne toléreront pas notre présence pour toujours.
 
-# event_tribwarn_2
+#event_tribwarn_2
 Pour l'instant, ils nous ont seulement regardé fixer le camp de loin, mais ils connaissent mieux ces terres que quiconque et disparaissent à chaque fois que nous essayons de les approcher. Je crains que nous ne soyons pas capables de "traiter avec eux" avant qu'ils ne choisissent de causer des problèmes ... Nous devrions nous préparer à une attaque surprise possible par eux. Ils pourraient préparer des armes et des guerriers pour nous chasser de leurs terres en ce moment même! Ou peut-être que cette terre ne vaut pas la peine après tout et que nous pourrions simplement faire nos bagages et les laisser être?
 
 #event_tribreb
 Une tribu primitive qui se moque de [x]!
 
-# event_tribreb_1
+#event_tribreb_1
 Les indigènes vivant sur notre territoire de [x] sont devenus mécontents d'avoir ce qu'ils ressentent comme étant leur territoire occupé par nous. Ils ont pris les armes et ont décidé d'attaquer traîtreusement!
 
 #event_trt_ref
 [y] a refusé notre proposition de traité
 
-# event_trt_ref_1
+#event_trt_ref_1
 Un émissaire de [y] nous a informés que notre offre de traité juste et généreuse a été déclinée de [x].
 
 #event_trt_acc
 Traité avec [y] signé
 
-# event_trt_acc_1
+#event_trt_acc_1
 Notre traité avec [x] de [y] a été approuvé et signé par nous deux et est maintenant en vigueur!
 
 #event_trt_rngoc
 [y] propose une renégociation des traités
 
-# event_trt_rngoc_1
+#event_trt_rngoc_1
 [x] de [y] propose la renonciation suivante d'un traité que nous avons actuellement avec eux. Si nous acceptons ces nouvelles conditions, le traité sera mis à jour.
 
 #event_trt_asktrm
 [y] demande de mettre fin à un traité
 
-# event_trt_asktrm_1
+#event_trt_asktrm_1
 [x] de [y] demande la fin mutuellement convenue d'un traité que nous avons avec son peuple. Si nous acceptons cette demande, le traité sera résilié instantanément sans déclencher de casse et ses conditions cesseront d'être en vigueur. Si nous refusons, rien ne se passera et le traité restera actif à moins qu'ils décident de le casser illégalement (auquel cas leurs fermetures de rupture s'appliquent).
 
-# event_trt_brk1
+#event_trt_brk1
 [x] a brisé un traité!
 
-# event_trt_brk1_1
+#event_trt_brk1_1
 [x] a brisé illégalement le traité de '[y]' qu'ils avaient avec nous!
 
-# event_trt_brk1_2
+#event_trt_brk1_2
 Selon les termes de rupture du traité, nous avons reçu [p1] pièces de monnaie en compensation et ils ont perdu [p2] d'honneur.
 
-# event_trt_brk2
+#event_trt_brk2
 Nous avons rompu un traité avec [x]!
 
-# event_trt_brk2_1
+#event_trt_brk2_1
 Nous avons illégalement brisé le traité de '[y]' que nous avons eu avec [x].
 
-# event_trt_brk2_2
+#event_trt_brk2_2
 Selon les termes de rupture du traité, comme pénalité, nous avons payé [p1] pièces de monnaie et perdu [p2] de l'honneur.
 
-# event_trt_brkw1
+#event_trt_brkw1
 Nous leur avons déclaré la guerre en représailles, et tout autre traité avec eux a
 
-# event_trt_brkw2
+#event_trt_brkw2
 Ils nous ont déclaré la guerre en représailles.
 
 #event_brb_raid
 Pillards barbares entrants!
 
-# event_brb_raid_1
+#event_brb_raid_1
 Nos éclaireurs rapportent qu'un groupe de pilleurs [p1] barbares ont quitté le territoire voisin de [x] et arrivent sur notre chemin.
 
-# event_brb_raid_2
+#event_brb_raid_2
 Ils pourraient être ici bientôt et tenter de faire rapidement des raids dans nos entrepôts. Nous devons préparer nos défenses!
 
 #event_brb_sack
 Groupe de guerre barbare entrant!
 
-# event_brb_sack_1
+#event_brb_sack_1
 Nos éclaireurs rapportent qu'une bande de barbares d'environ [p1] pocros a quitté le territoire voisin de [x] et arrive sur notre route.
 
-# event_brb_sack_2
+#event_brb_sack_2
 Ils pourraient être ici bientôt et attaqueront pour vaincre toutes nos défenses avant de saccager tout le territoire! Nous devons préparer nos défenses!
 
 #event_brb_inv
 Envahisseurs barbares entrants!
 
-# event_brb_inv_1
+#event_brb_inv_1
 Nos éclaireurs rapportent qu'une armée de barbares d'environ [p1] pocros a quitté le territoire voisin de [x] et nous arrive.
 
-# event_brb_inv_2
+#event_brb_inv_2
 Ils pourraient être ici bientôt et ils ne semblent pas venir juste pour piller, mais pour envahir nos terres! Nous devons préparer nos défenses!
 
 #event_crsh_vict
 Victoire écrasante!
 
-# event_crsh_vict_1
+#event_crsh_vict_1
 Notre formation << [x] >> a complètement écrasé et éliminé une petite troupe d'ennemis, grâce à nos nombres supérieurs écrasants.
 
 #event_crsh_dfeat
 Une défaite écrasante!
 
-# event_crsh_dfeat_1
+#event_crsh_dfeat_1
 Nouvelles graves: notre formation << [x] >> a été complètement écrasée et éliminée par l'ennemi [y], avec des nombres supérieurs accablants. Personne n'a survécu pour même raconter l'histoire.
 
 #event_popdefrise
 Les gens de [x] défendent la ville!
 
-# event_popdefrise_1
+#event_popdefrise_1
 Les habitants de la ville de [x] prennent les armes par eux-mêmes pour aider à défendre la ville contre les assaillants. [p1] porcos se joignent à la bataille!
 
-# event_trout_w1
+#event_trout_w1
 Avertissement d'itinéraire commercial: pas de droits de négociation!
 
-# event_trout_w1_1
+#event_trout_w1_1
 Parce que nous n'avons plus de droits de négociation avec la ville de [y], notre route commerciale entre cette ville et [x] se fermera bientôt, à moins que nous ne réglions ce problème rapidement.
 
-# event_trout_w1_2
+#event_trout_w1_2
 Cela peut arriver si la ville a un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de négociation, ou si ces droits ont été révoqués.
 
-# event_trout_b1
+#event_trout_b1
 Route commerciale cassée!
 
-# event_trout_b1_1
+#event_trout_b1_1
 Parce que nous n'avions plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] était fermée.
 
-# event_trout_b1_2
+#event_trout_b1_2
 Cela s'est produit parce que la ville a eu un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de négociation ou si les droits de négociation ont été révoqués.
 
-# event_trout_w2
+#event_trout_w2
 Avertissement d'itinéraire commercial: cargaison manquante!
 
-# event_trout_w2_1
+#event_trout_w2_1
 Notre route commerciale avec [x] exploité par [y] manque [p2] de la cargaison à exploiter correctement. La route commerciale se fermera bientôt à moins que nous réglions ce problème rapidement.
 
-# event_trout_w2_2
+#event_trout_w2_2
 Le service de fret est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
 
-# event_trout_w2_3
+#event_trout_w2_3
 Cependant, cet opérateur ne produit plus assez de service de fret requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
 
-# event_trout_b2
+#event_trout_b2
 Route commerciale cassée!
 
-# event_trout_b2_1
+#event_trout_b2_1
 Notre route commerciale avec [x] fermé parce que son opérateur [y] était incapable de fournir la cargaison requise ([p3]) pour la maintenir (manquait [p2]).
 
-# event_trout_b2_2
+#event_trout_b2_2
 Le service de fret est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
 
-# event_trout_b2_3
+#event_trout_b2_3
 Cependant, cet opérateur ne produit plus assez de service de fret requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
 
-# event_trout_w3
+#event_trout_w3
 Avertissement d'itinéraire commercial: il nous manque des marchandises!
 
-# event_trout_w3_1
+#event_trout_w3_1
 Notre route commerciale exportant [p2] [p3] à [x] de [y] manque des biens requis et fermera bientôt si nous ne résolvons pas ce problème rapidement!
 
-# event_trout_w3_2
+#event_trout_w3_2
 Cela arrive parce que nous ne produisons plus assez [p3] en [x] et que nos stocks sont épuisés.
 
-# event_trout_b3
+#event_trout_b3
 Route commerciale interrompue!
 
-# event_trout_b3_1
+#event_trout_b3_1
 Notre route commerciale exportant [p2] [p3] à [x] de [y] a été fermée parce que nous ne pouvions plus fournir les biens requis.
 
-# event_trout_b3_2
+#event_trout_b3_2
 Cela est arrivé parce que nous ne produisions pas assez [p3] en [x] et que nos stocks étaient épuisés.
 
-# event_trout_w4
+#event_trout_w4
 Avertissement d'itinéraire commercial: l'exportateur manque des marchandises!
 
-# event_trout_w4_1
+#event_trout_w4_1
 Notre route commerciale important [p2] [p3] de [y] vers [x] manque des biens requis et pourrait bientôt se fermer à moins que l'exportateur répare rapidement ce problème!
 
-# event_trout_w4_2
+#event_trout_w4_2
 Cela arrive parce que leur production de [p3] en [y] est insuffisante et leurs stocks épuisés.
 
-# event_trout_b4
+#event_trout_b4
 Route commerciale interrompue!
 
-# event_trout_b4_1
+#event_trout_b4_1
 Notre route commerciale important [p2] [p3] de [x] à [y] a fermé parce qu'elle ne pouvait plus fournir les biens requis.
 
-# event_trout_b4_2
+#event_trout_b4_2
 Cela est arrivé parce que leur production de [p3] en [x] était insuffisante et que leurs stocks étaient épuisés.
 
-# event_trout_c1
+#event_trout_c1
 [x] a fermé une route commerciale!
 
-# event_trout_c1_1
+#event_trout_c1_1
 La ville de [x] a fermé sa route commerciale de [p2] [p3] avec notre ville de [y].
 
-# event_trout_c2
+#event_trout_c2
 Une de nos routes commerciales a été fermée par son opérateur!
 
-# event_trout_c2_1
+#event_trout_c2_1
 La ville de [x] a décidé d'arrêter d'exploiter notre route commerciale de [p2] [p3] avec notre ville de [y]. Cela a entraîné la fermeture de la route commerciale.
 
 #event_cdog
 Un chasseur a apprivoisé quelques chiens sauvages dans [x]!
 
-# event_cdog_1
+#event_cdog_1
 Certains chiens sauvages ont erré autour du village de [x] ces derniers temps. Les animaux semblaient amicaux et un chasseur parvint à apprivoiser certains d'entre eux: il les mit dans un enclos fermé pour les garder. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_csheep
 Nous avons apprivoisé quelques moutons sauvages dans [x]!
 
-# event_csheep_1
+#event_csheep_1
 Certains moutons sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture! Ils sont aussi assez moelleux.
 
 #event_cgoat
 Nous avons apprivoisé des chèvres sauvages dans [x]!
 
-# event_cgoat_1
+#event_cgoat_1
 Certaines chèvres sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_crabbit
 Les chasseurs ont capturé quelques lapins sauvages dans [x]!
 
-# event_crabbit_1
+#event_crabbit_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des lapins vivants et les ont mis dans des cages pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_cchick
 Les chasseurs ont attrapé du poulet sauvage dans [x]!
 
-# event_cchick_1
+#event_cchick_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des poulets vivants et les ont mis dans des cages pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_ccow
 Nous avons apprivoisé des vaches sauvages dans [x]!
 
-# event_ccow_1
+#event_ccow_1
 Certaines vaches sauvages ont erré autour du village de [x] ces derniers temps. Ces animaux semblaient passifs, et un villageois a réussi à les diriger vers un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_cbuff
 Nous avons apprivoisé quelques buffles sauvages dans [x]!
 
-# event_cbuff_1
+#event_cbuff_1
 Certains buffles sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_chorse
 Les chasseurs ont capturé des chevaux sauvages dans [x]!
 
-# event_chorse_1
+#event_chorse_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des chevaux sauvages. Ils ont enfermé les animaux agités dans un petit enclos pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_ccamel
 Les chasseurs ont capturé quelques chameaux sauvages dans [x]!
 
-# event_ccamel_1
+#event_ccamel_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des chameaux sauvages. Ils ont enfermé les animaux stupides et obstinés dans un petit enclos pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_cllama
 Nous avons apprivoisé quelques lamas sauvages dans [x]!
 
-# event_cllama_1
+#event_cllama_1
 Certains lamas sauvages ont erré autour du village de [x] ces derniers temps. Ces animaux semblaient plutôt sympathiques - à la mesure d'un lama crachant obstiné - et un villageois a réussi à les pousser dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_projsuc
 Notre projet '[x]' a été complété avec succès!
 
-# event_projsuc_1
+#event_projsuc_1
 Notre projet '[x]' a été complété avec succès et nous avons gagné ses récompenses!
 
 #event_projfail
 Notre projet '[x]' a échoué!
 
-# event_projfail_1
+#event_projfail_1
 Notre projet de '[x]' avec [p2]% de chances de succès a été complété, mais malheureusement, il n'a pas répondu à ses attentes et nous n'avons pas obtenu les récompenses attendues. Je crains que nous devons recommencer à zéro et espérer de meilleurs résultats ...
 
-# event_projfail_2
+#event_projfail_2
 Un projet peut échouer si sa difficulté est supérieure à l'intelligence moyenne des chercheurs qui lui sont assignés. Nous devrions essayer d'assigner de meilleurs chercheurs pour augmenter nos chances de succès la prochaine fois!
 
 #event_herd
 Troupeau de [p2] repéré près de [x]!
 
-# event_herd_1
+#event_herd_1
 Les éclaireurs de la tribu ont repéré un mouvement d'environ [p1] [p2] près de notre village de [x], dans un territoire de [y].
 
-# event_herd_2
+#event_herd_2
 Nous pourrions envoyer certains de nos meilleurs porcs pour les chasser: cela nous fournirait de la viande fraîche et du cuir pour la tribu!
 
 #event_rcvidea
 Nous avons reçu une nouvelle idée de [x]!
 
-# event_rcvidea_1
+#event_rcvidea_1
 Bonne nouvelle: les gens de [x] nous ont montré leur connaissance de [p1] et nous ont expliqué les rudiments de ce que c'est et comment cela fonctionne.
 
-# event_rcvidea_2
+#event_rcvidea_2
 Sur la base de ce qu'ils nous ont montré, nous avons maintenant débloqué un nouveau projet: '[p2]', que nous pouvons essayer de compléter nous-mêmes pour maîtriser la connaissance de [p1]!
 
 #event_trtov
 Notre traité '[x]' avec [y] est maintenant terminé.
 
-# event_trtov_1
+#event_trtov_1
 Le traité '[x]' que nous avons eu avec [y] a atteint la fin de sa durée convenue et est maintenant obsolète!
 
 #ev_migtrib
 Tribu de nomades affamés dans [x]
 
-# ev_migtrib_1
+#ev_migtrib_1
 Attirée par notre prospérité, une tribu primitive de nomades affamés est arrivée en [x]. Ils errent depuis longtemps dans les terres, souffrent de la faim, et ils sont intéressés à se joindre à notre communauté. Ils portent peu avec eux et n'ont pas grand chose à offrir en plus de leur main-d'œuvre.
 
-# ev_migtrib_2
+#ev_migtrib_2
 Devrions-nous les accueillir dans notre tribu?
 
-# ev_migtrib_c1
+#ev_migtrib_c1
 "Oui, nous avons besoin de l'effectif supplémentaire, qu'ils soient accueillis parmi nous."
 
-# ev_migtrib_c2
+#ev_migtrib_c2
 "Non, nous ne pouvons pas nous permettre des bouches supplémentaires à nourrir."
 
 #ev_stormwood
 Nuit orageuse dans [x]
 
-# ev_stormwood_1
+#ev_stormwood_1
 Une violente tempête a fait rage toute la nuit en [x], avec de forts vents. Heureusement, Noone a été blessé et le village n'a subi aucun dommage.
 
-# ev_stormwood_2
+#ev_stormwood_2
 Cependant, le matin, les villageois ont remarqué que quelques grands arbres étaient tombés à proximité, ce qui en faisait une source de bois facile et gratuite!
 
 #ev_luckgath
 Lucky gatherer dans [x]
 
-# ev_luckgath_1
+#ev_luckgath_1
 Un de nos cueilleurs a eu de la chance et a trébuché sur une parcelle de plantes comestibles jusque-là inconnue cachée dans la végétation que personne n'avait remarquée auparavant! C'est une bonne récolte pour la journée!
 
 #ev_nagwif
 La femme harcelante
 
-# ev_nagwif_1
+#ev_nagwif_1
 Un porco du village de [x], exaspéré par les harcèlements incessants de sa porcasse, décida de partir en retraite dans le désert pour chasser et ainsi disparut pendant plusieurs jours.
 
-# ev_nagwif_2
+#ev_nagwif_2
 Beaucoup craignaient qu'il ne revienne jamais. Mais le 5ème jour, il revint, emportant avec lui les dépouilles de ce qui s'était avéré être une chasse très réussie. Il a été acclamé par toute la tribu. Sa femme, cependant, n'était pas contente et partit avec ses porcelets pour vivre dans la tribu de sa mère, de l'autre côté de la vallée.
 
 #ev_regwolf
 Loups affamés dans [x]!
 
-# ev_regwolf_1
+#ev_regwolf_1
 Une meute de loups affamés est arrivée sur le territoire de [x], probablement attirée par nos stocks alimentaires! Pendant la nuit, ils ont réveillé toute la tribu avec leurs hurlements effrayants qui se rapprochaient de plus en plus. A l'aube, leurs silhouettes sombres ont été repérées autour du village.
 
-# ev_regwolf_2
+#ev_regwolf_2
 Tous les guerriers se sont précipités vers leurs armes et se sont rassemblés, prêts à combattre la meute de loups et à protéger le peuple et les stocks du village!
 
 #ev_regbear
 Mauvais ours dans [x]
 
-# ev_regbear_1
+#ev_regbear_1
 Un petit groupe d'ours est venu errer sur le territoire de [x]. Pendant la nuit, ils sont entrés dans le village et ont commencé à se déchaîner à travers nos réserves alimentaires et nos provisions.
 
-# ev_regbear_c1
+#ev_regbear_c1
 "Tout le monde, fais semblant de dormir ..."
 
-# ev_regbear_c2
+#ev_regbear_c2
 Il est temps de se battre avec des ours!
 
 #ev_asylm
 Demandeurs d'asile en [x]
 
-# ev_asylm_1
+#ev_asylm_1
 Un groupe de nomades est arrivé sur notre territoire de [x]. Ils ont raconté comment ils ont été chassés de leurs terres par une autre tribu voisine après un conflit entre eux.
 
-# ev_asylm_2
+#ev_asylm_2
 Attaqués pendant une nuit, ils ont perdu la plupart de leurs gens et ont fui leur patrie, mais pas avant qu'un de leurs meilleurs guerriers ait réussi à tuer le chef de la tribu ennemie. Depuis lors, son fils a juré de les pourchasser pour se venger peu importe où ils vont, et ils ont été en fuite pendant plusieurs semaines.
 
-# ev_asylm_3
+#ev_asylm_3
 Leurs poursuivants ne sont pas loin derrière, et votre tribu est maintenant leur seul espoir. Ils demandent l'asile et la sécurité, en offrant de promettre leur loyauté envers notre peuple si nous acceptons de les protéger. Si nous le faisons, nous devrons combattre leurs poursuivants!
 
-# ev_asylm_c1
+#ev_asylm_c1
 Offrez-leur l'asile et combattez leurs poursuivants.
 
-# ev_asylm_c2
+#ev_asylm_c2
 Capturez ces fugitifs et offrez-les à la justice de leurs poursuivants pour une récompense.
 
 #ev_knowtrav
 Le voyageur averti
 
-# ev_knowtrav_1
+#ev_knowtrav_1
 Un jour, un vieux cochon est arrivé dans notre village de [x], les pieds fatigués des nombreux voyages qu'il avait faits. Il était un ermite solitaire, vivant et voyageant seul pendant de nombreuses années maintenant.
 
-# ev_knowtrav_2
+#ev_knowtrav_2
 Il a raconté l'histoire de l'ancien peuple auquel il appartenait, qui a péri il y a longtemps d'une maladie mystérieuse dont il a été le seul à se remettre, en fuyant loin de sa terre. Il racontait aussi comment son peuple vivait: des histoires incroyables sur des choses qu'ils a faites. Il y avait beaucoup à apprendre de ses enseignements car il semblait provenir d'un peuple mystérieux et plus raffiné que le notre.
 
 #ev_knowtrav_3
@@ -1617,3 +1618,220 @@ Ils ont intégré notre grande nation comme l'un de nos subordonnés et ont form
 
 #ev_clnyevlv_3
 En tant qu'assurance, nous garderons le contrôle de leur trésorerie de plus de 50% de leur PIB si ils décident de rompre illégalement cet accord!
+
+#effect_takeres
+Perte de [y] de [x]
+
+#effect_nbdeath
+Perte de [x] unités au hasard dans la formation.
+
+#effect_modAP
+Points d'Action [x]
+
+#event_br_lstrevolt
+[x] est tombée au mains de rebelles!
+
+#event_br_lstrevolt_1
+La population de [x] s'est rebellée contre nous et des rebelles sont parvenus a en prendre le contrôle. La perte de l'une de nos cités à des rebelles à décrédibilisé votre pouvoir. Cette défaite va affaiblir votre légitimité en tant que dirigeant pendant un certain temps: vous avez perdu 25 points d'honneur.
+
+#event_br_lstrevolt_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] rebelles.
+
+#event_partis
+Révolte de résistants à [x]!
+
+#event_partis_1
+Le mouvement de résistance de [y] vient de lancer une attaque à [x] pour tenter de libérer la ville. S'ils y parviennent, nous perdront le contrôle du territoire ainsi que [p7] points d'honneur!
+
+#event_partis_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] résistants.
+
+#event_br_partis
+Résistants vaincus à [x]
+
+#event_br_partis_1
+Bonne nouvelle! Une tentative de libération de [x] par le mouvement de Résistance de [x] à échoué: leurs partisans ont été vaincus, et le mouvement est désormais affaiblit suite a cette défaite!
+
+#event_br_partis_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] résistants.
+
+#event_br_lstpartis
+[x] was lost to partisans!
+
+#event_br_lstpartis_1
+Mauvaise nouvelle: le mouvement de Résistance de [y] est parvenu a libérer [x] et à repris le contrôle du territoire. Cette défaite porte un lourd cout à la crédibilité votre pouvoir et va affaiblir votre légitimité en tant que dirigeant pendant un certain temps: vous avez perdu [p7] points d'honneur.
+
+#event_br_lstpartis_2
+[p2]% de la population a pris les armes et s'est rebellé, parmis lesquels [p4] miliciens qui sont passés du côté des rebelles. [p5] loyalistes ont fait face à [p3] résistants.
+
+#event_Ab_elim
+Attaque de [x]
+
+#event_Ab_elim_1
+Nous avons lancé une attaque sur [x] avec [p2] soldats pour éliminer toutes les forces ennemies en présence sur ce territoire.
+
+#event_Ab_elim_2
+Pour completer notre objectif, toutes les forces ennemies du territoire doivent être éliminées. Nos troupes prioritiseront l'engagement des forces ennemies. Des pillages mineurs peuvent se produire si l'opportunité se présente. Nos troupes batteront en retraire une fois l'objectif accomplit. L'ennemi nous fait face avec [p3] soldats.
+
+#event_Abr_elim
+Attaque de [x]
+
+#event_Abr_elim_1
+Nous avons lancé une attaque sur [x] avec [p2] soldats pour éliminer toutes les forces ennemies en présence sur ce territoire.
+
+#event_Abr_elim_2
+Ils ont défendu avec [p3] soldats.
+
+#event_Db_elim
+[y] nous attaque à [x]
+
+#event_Db_elim_1
+[y] à lancé une attaque sur [x] avec [p3] soldats dans le but d'éliminer nos forces en présence.
+
+#event_Db_elim_2
+Leurs objectif n'est pas de nous piller ou d'envahir le territoire, mais simplement d'éliminer nos forces. En cas de succès, ils se retireront de notre territoire. Nous avons [p2] soldats en défense.
+
+#event_Dbr_elim
+Défense de [x] contre [y]
+
+#event_Dbr_elim_1
+[y] nous a attaqué à [x] avec [p3] soldats dans le but d'éliminer nos forces.
+
+#event_Dbr_elim_2
+Nous avons défendu avec [p2] soldats.
+
+#event_form_animesc
+Des [p3] ont échapé a la surveillance de notre '[x]'!
+
+#event_form_animesc_1
+[p2] [p3] ont échapé a la surveillance de leurs gardiens, la formation '[x]' et sont désormais perdus.
+
+#event_form_animesc_2
+Les animaux gardés par des formations peuvent pardois s'échapper, surtout s'ils deviennent trop nombreux pour leurs gardiens. Pour s'assurer que cela n'arrive pas, il faudrait peut être considerer de les garder dans des enclos construits, ou bien de les garder en plus petits nombre dans les formations pour réduire la probabilité qu'ils échapent a la vigilance de leurs gardiens.
+
+#ev_xplr_civlost
+Explorateurs sans défenses perdus!
+
+#ev_xplr_civlost_1
+Envoyer des civils sans défenses pour explorer des territoires inconnus est une décision risquée et dangereuse... Nos explorateurs '[x]' ont ainsi disparus et personne n'a plus jamais eu de leurs nouvelles. Nul ne sait ce qui leur ai arrivé.
+
+#ev_xplr_blizzard
+Terrible blizzard
+
+#ev_xplr_blizzard_1
+Un terrible blizzard a immobilisé nos explorateurs '[x]' pendant de nombreux jours. Nombre d'entre eux n'ont pas survécu, tandis que les survivants ont épuisés toutes les réserves de nourriture. Il n'y a rien a manger dans ce desert glacial!
+
+#ev_xplr_icehole
+Maudit trou!
+
+#ev_xplr_icehole_1
+Ces terres sont traitresses. Tandis que nos explorateurs '[x]' progressaient sur un terrain particulièrement difficile, une croûte de glace a cédé sous les pieds de certains d'entre eux, révélant un trou abyssal dans lequel ils ont disparus corps et biens.
+
+#ev_xplr_avlch
+Avalanche!
+
+#ev_xplr_avlch_1
+Alors que nos explorateurs '[x]' progressaient sur les ravines d'un glacier, une avalanche soudaine a emporté la moitié de notre expédition corps et biens! Mais que sommes nous donc venus faire dans cette galère ?!
+
+#ev_xplr_freez1
+Nuit glaciale
+
+#ev_xplr_freez1_1
+Voyager au travers d'un tel désert polaire nécéssite constamment des provisions, tel que du bois pour maintenir des feux allumés pendant les nuits glaciales. C'est donc une bonne chose que nos explorateurs '[x]' possaidaient encore sur eux du bois pour faire face à une nuit particulièrement froide.
+
+#ev_xplr_freez2
+Nuit glaciale
+
+#ev_xplr_freez2_1
+Après une nuit particulièrement glaciale, n'ayant plus de provisions pour se maintenir au chaud, plusieurs explorateurs de '[x]' se sont endormis pour ne jamais se reveiller au matin.
+
+#ev_xplr_polfood1
+Desert de glaçe
+
+#ev_xplr_polfood1_1
+Voyager dans des terres arides, stériles et glacées exige un approvisionnement constant, surtout dans le désert. Heureusement que notre expédition de '[x]' avait encore des provisions pour survivre un autre jour.
+
+#ev_xplr_polfood2
+Desert de glaçe
+
+#ev_xplr_polfood2_1
+Malheureusement, maintenant à court d’aliments et incapables de trouver quelque chose à manger dans ces terres terribles, notre expédition affamée '[x]' a disparu dans ce désert glacial et impitoyable et n’a plus jamais été aperçu.
+
+#ev_form_ovrdrft
+La foyer de '[y]' a une population insuffisante!
+
+#ev_form_ovrdrft_1
+La population de [x], foyer de notre formation '[y]', est insuffisante pour maintenir cette formation! Il n’y a pas assez de nouveaux porcos adultes pour remplacer ceux qui vieillissent et, de ce fait, nous ne pourrons pas maintenir les effectifs actuels et la formation perdra progressivement des unités jusqu’à ce que cela soit réglé.
+
+#ev_form_desertion
+Nos soldats désertent!
+
+#ev_form_desertion_1
+Les soldats de nos armées désertent à cause de votre légitimité négative! Les gens ne souhaitent pas servir un dirigeant qu'ils ne considèrent plus comme légitime et nous continuerons de voir les porcos quitter nos rangs tous les jours jusqu'à ce que votre légitimité soit redevenue positive.
+
+#ev_form_ovrdrft_2
+Peut-être devrions-nous envisager une réduction des effectifs afin de réduire le surpeuplement de la population en [x], ou nous pourrions déplacer cette formation sur un autre territoire qui pourrait mieux la prendre en charge. Si nous n'agissons pas, cette formation va lentement se désintégrer!
+
+#ev_xplr_brkleg
+Jambe cassée
+
+#ev_xplr_brkleg_1
+L'un de nos explorateurs a réussi à se casser la jambe en faisant un faux pas en marchant sur une portion de terrain difficile et ralentit maintenant l'ensemble du groupe. Que devrions nous faire ?
+
+#ev_xplr_brkleg_c1
+Attendez qu'il récupère.
+
+#ev_xplr_brkleg_c2
+Abandonnez-le, il n'y a pas de place pour les faibles!
+
+#ev_xplr_drnriv
+Noyade de rivière
+
+#ev_xplr_drnriv_1
+En traversant une rivière, l'un de nos explorateurs est tombé à l'eau. Le pauvre porc ne savait pas nager et les courants l'ont emporté avant que quiconque puisse l'aider.
+
+#ev_xplr_cliff
+Porco maladroit
+
+#ev_xplr_cliff_1
+Alors que nos explorateurs marchaient au bord d'une haute falaise, un Porco  maladroit a trébuché et est tombé à la mort.
+
+#ev_xplr_slowed
+Terrain difficile
+
+#ev_xplr_slowed_1
+Ces terres inconnues se sont avérées particulièrement difficiles à traverser: nos explorateurs se sont perdus plusieurs fois, ils ont perdu beaucoup de temps et il leur a fallu beaucoup plus de temps que prévu pour atteindre leur destination.
+
+#ev_xplr_wellrest
+Indigènes hospitaliers
+
+#ev_xplr_wellrest_1
+Nos explorateurs ont rencontré des autochtones sympathiques qui leur ont offert leur hospitalité. Après un bon repos et des repas copieux, notre expédition leur a dit au revoir et est repartie revigorée.
+
+#ev_claimloss
+[x] a perdu une revendication territoriale!
+
+#effect_res_convstate
+Convertit [x]% des ressources stockées sur tous les territoires en propriété de l’État.
+
+#ev_claimloss_1
+En raison de son administration locale insuffisante ([p1]), la ville de [x] a perdu l'une de ses revendications territoriales car elle ne pouvait plus se permettre de la maintenir.
+
+#ev_has_subjug
+Vous avez soumis [x]!
+
+#ev_has_subjug_1
+Vous avez soumis l'état de [x], dirigé par [y], qui est maintenant votre vassal.
+
+#ev_has_subjug_2
+[x] va maintenant vous payer des tributs de pièces de monnaie et du pouvoir d'État. Il a rejoint votre nation en tant que votre subordonné. En échange, tous les territoires occupés ont été rétrocédés à [x].
+
+#ev_been_subjug
+Vous avez été soumis par [x]!
+
+#ev_been_subjug_1
+Vous avez été soumis à l'état de [x], dirigé par [y], qui est maintenant votre seigneur.
+
+#ev_been_subjug_2
+Vous allez maintenant devoir payer des tributs de pièces de monnaie et du pouvoir d'État, Vous avez rejoint la nation de [x] en tant que subordonné de [y]. En échange, tous les territoires occupés vous ont été rétrocédés.
+

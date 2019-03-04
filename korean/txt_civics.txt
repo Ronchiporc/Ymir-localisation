@@ -1,20 +1,20 @@
-﻿#civ_gifteco_n
-Dárovná ekonomika
+#civ_gifteco_n
+Gift economy
 
 #civ_gifteco_dscr
-Způsob výměny, kdy cennosti nejsou obchodovány nebo prodávány, ale jsou dány bez výslovné dohody o okamžitých nebo budoucích odměnách.
+A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards.
 
 #civ_fairxchang_n
-Tržní výměna
+Fair exchange
 
 #civ_fairxchang_dscr
-Okamžitá a vzájemná výměna ekvivalentních cenností.
+Immediate and reciprocal exchange of equivalent valuables.
 
 #civ_currency_n
-Měna
+Currency
 
 #civ_currency_dscr
-S referencí cenosti pro usnadnění výměn a použití jako jednotka pro měření hodnoty. 
+Having a reference valuable to facilitate exchanges and used as a unit for value measurement. 
 
 #civ_coinage_n
 Coinage
@@ -38,55 +38,55 @@ The simplest form of society, with loose organization and informal leadership.
 Leadership
 
 #civ_leadership_dscr
-Jeden zvolený vůdce k vládě všem.
+One recognized leader to rule them all.
 
 #civ_localchief_n
-Místní authority
+Local authorities
 
 #civ_localchief_dscr
-Místní teritoriální šlechtic vladne svému jednomu teritoriu a vynáší rozkazy hlavní mocy.
+Local territorynal chiefs ruling their single territory and carrying the orders of the central power.
 
 #civ_governors_n
-Guvernéři
+Governors
 
 #civ_governors_dscr
-Veřejní činitelé s pravomocí řídit provincie.
+Public officials with the power to govern provinces.
 
 #civ_senate_n
-Senát
+Senate
 
 #civ_senate_dscr
-Sestava státních svázku jednajících za zájmy prasat.
+An assembly of statespigs acting for the interests of the people.
 
 #civ_prtctor_n
-Ochránce prasat
+Protector of the people
 
 #civ_prtctor_dscr
-"Vládnu ,protože mám na starost ochranu prasat."
+"I rule because i am in charge of protecting the people."
 
 #civ_superior_n
-Vynikající vůdce
+Superior leader
 
 #civ_superior_dscr
-"Vládnu protože jsem nadřízený."
+"I rule because i am superior."
 
 #civ_divine_n
-Božský vůdce
+Divine leader
 
 #civ_divine_dscr
-"Vládnu, protože jsem bůh."
+"I rule because i am a god."
 
 #civ_divinerep_n
-Božský zástupce
+Divine representative
 
 #civ_divinerep_dscr
-"Vládnu, protože si mě vybrali bohové."
+"I rule because i am chosen by the gods."
 
 #civ_comgood_n
-Všeobecné blaho
+Common good
 
 #civ_comgood_dscr
-"Vládnu pro dobro obyvatelstva."
+"I rule for the people."
 
 #civ_people_n
 People representative
@@ -119,28 +119,28 @@ State workers
 State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
 
 #civ_parl_n
-Parlament
+Parliament
 
 #civ_parl_dscr
-Poskládaní reprezentativců lidí.
+An assembly of representatives of the people.
 
 #civ_minist_n
-Ministerstvo
+Ministry
 
 #civ_minist_dscr
 A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
 
 #civ_ration_n
-Jídelní přídělový systém
+Food rationing
 
 #civ_ration_dscr
-Přídělový systém na jídlo sníží spotřebu jídla od každého prasete. Vyplatí se v kryzích nedostatku jídla, umožňujě přístup všem k jídlu. Ale pozor zvyšuje nepohodlnost obyvatelstva. 
+The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improving everyone's access to foods.
 
 #civ_agrisav_n
-Uchovávání semen
+Seeds stocking
 
 #civ_agrisav_dscr
-Zabraňuje části vypěstovaného jídla býti zkonzumováno nebo distuboováno, účelem je uchovat dostatek na možnost stavby dalších nových polí.
+Prevent a portion of your agricultural food production from beeing directly distributed or consummed in order to save seeds to create new fields.
 
 #civ_subv_n
 Subvention
@@ -149,8 +149,8 @@ Subvention
 An aid paid by the state to every porco of a specific class of workers, increasing their income.
 
 #civ_paidrsrch_n
-Zapalcení výzkumníci
+Paid researchers
 
 #civ_paidrsrch_dscr
-Výzkumníci projektů dostanou zaplaceno statém přímoúměrně jejich bohatství a už nesnižují produktivitu budov ve kterých pracují.
+Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings where they work.
 
