@@ -131,36 +131,6 @@ Language
 #bc_menuop_lang
 Choisir le language du jeu
 
-#menuop_k_up
-Camera haut
-
-#menuop_k_le
-Camera gauche
-
-#menuop_k_ri
-Camera droite
-
-#menuop_k_dw
-Camera bas
-
-#menuop_keyset
-cliquez et pressez une touche pour l'attacher à cette action
-
-#menuop_togtut
-Activer les tutoriaux
-
-#menuop_togtut_c1
-Active le tutorial principal ainsi que tous les messages d'aide lors de nouvelles actions.
-
-#menuop_resetut
-Réinitialiser
-
-#menuop_resetut_c1
-Réinitialiser tous les tutoriaux à zéro.
-
-#menuop_resetutd
-Tous les tutoriaux ont été réinitialisés.
-
 #b_menuop_apply
 Appliquer
 
