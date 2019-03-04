@@ -1,93 +1,92 @@
-
 #bdg_hous_n
 жилье
 
 #bdg_hous_dscr
-Accomodates population, improving their health and life quality.
+Жилое здание. Улучшает здоровье и качество жизни.
 
 #bdg_prod_n
 производственное строение
 
 #bdg_prod_dscr
-Exploits terrain tiles to produce raw resources.
+Использует тайлы поверхности и производит сырье 
 
 #bdg_ind_n
 индустриальное строение
 
 #bdg_ind_dscr
-Produces goods out of existing resources.
+Производит товары из имеющихся ресурсов.
 
 #bdg_srv_n
 услуги
 
 #bdg_srv_dscr
-Produces a service (a non-material resources that cannot be stored).
+Производит услугу (нематериальный ресурс, который не может быть складирован).
 
 #bdg_stor_n
 хранилище
 
 #bdg_stor_dscr
-Stocks resources.
+Хранит ресурсы.
 
 #bdg_merch_n
 распространение
 
 #bdg_merch_dscr
-Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sales incomes for themselves, reducing the producer's.
+Поставщики получают ресурсы от любых производств или складов и делают их доступными населению. Торговцы могут сбывать большие объёмы товаров, но забирают часть прибыли от продаж, тем самым уменьшая прибыль производителей.
 
 #bdg_roads_n
 дороги
 
 #bdg_roads_dscr
-Improves unit movement on this tile and provides bonuses to connected buildings.
+Улучшают движение юнитов на этом тайле и обеспечивают бонусы соединенным зданиям.
 
 #bdg_walls_n
 стены
 
 #bdg_walls_dscr
-Defensive structure that prevents all units from passing.
+Оборонительное сооружение. Преграждает юнитам путь.
 
 #bdg_deco_n
 декорации
 
 #bdg_deco_dscr
-Purely cosmetic elements to improve the look of your city.
+Чисто декоративные элементы. Украсьте ими ваш город.
 
 #bdg_towers_n
-defensive towers
+сторожевые башни
 
 #bdg_towers_dscr
-Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
+В сторожевых башнях солдаты несут службу вне зависимости от гарнизонов и армий. Могут стоять только на платформах. В бою обеспечивают поддержку огнём.
 
 #bdg_battlem_n
 бойницы
 
 #bdg_battlem_dscr
-Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during batlles.
+Бойницы могут быть построены только на платформах. Обеспечивают юнитам на платформе бонус в бою.
 
 #bdg_annex_n
 пристройка
 
 #bdg_annex_dscr
-Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
+Пристройки дают прибавку в производстве или распространении зданиям, к которым привязаны.
 
 #bdg_pltf_n
 платформы
 
 #bdg_pltf_dscr
-Platforms are a pigmade tile elevation you can build over. Defensive structures like towers and battlements can only be built over platforms. They are costly and slow to build.
+Платформы - это свинскуственно приподнятые тайлы, пригодные для строительства. Защитные сооружения типа башен и зубцов можно строить только на платформах. Стоят дорого, строятся долго. 
 
 #bdg_stairs_n
 лестницы
 
 #bdg_stairs_dscr
-Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
+Позволяют хрякам добраться до тайлов другой высоты. Устанавливать рядом с платформами и уступами.
 
 #bdg_gates_n
 ворота
 
 #bdg_gates_dscr
-Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
+Не пропускают вражеские войска во время битв. Должны располагаться рядом с платформами в режиме "мост". 
 
 #bdg_all
 Все строения
@@ -96,686 +95,685 @@ Gates block hostile troops during battles. Needs to be placed adjascent to a pla
 Сидроварня
 
 #txt_cider_dscr
-Produce cider from apples. Cider is a distributable resource than satisfies the population needs for alcohols.
+Делает из яблок сидр. Сидр - распространяемый ресурс. Удовлетворяет потребность населения в алкоголе.
 
 #txt_brewery_n
 Пивоварня
 
 #txt_brewery_dscr
-Produce beer from barley. Beer is a distributable resource than satisfies the population needs for alcohols.
+Делает из ячменя пиво. Пиво - распространяемый ресурс. Удовлетворяет потребность населения в алкоголе.
 
 #txt_claycamp_n
 Добыча глины
 
 #txt_claycamp_dscr
-Can exploit clay terrain tiles to produce clay. Needs to be placed in range of clay deposits.
+Использует глиняные тайлы, производя глину. Должен располагаться вблизи залежей глины.
 
 #txt_claypit_n
 Глиняная яма
 
 #txt_claypit_dscr
-Place directly over clay tiles. Increases clay production of these tiles.
+Ставится непосредственно на глиняные тайлы. Увеличивает выход глины с этих тайлов.
 
 #txt_clothmk_n
-Изготовитель одежды
+Портной
 
 #txt_clothmk_dscr
-Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
+Шьет одежду из ткани. Одежда - распространяемый ресурс. Удовлетворяет потребность населения в шмотках.
 
 #txt_gather_n
 Лагерь собирателей
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+Использует дикорастущие растения. Должен располагаться поблизости от объектов сбора.
 
 #txt_farm_n
 Ферма
 
 #txt_farm_dscr
-Can create fields to produce a variety of agricultural resources. Can also exploit naturally present ones in range.
+Может создавать поля и выращивать агрокультурные ресурсы. Также использует дикие растения в зоне досягаемости.
 
 #txt_fisher_n
 Рыбак
 
 #txt_fisher_dscr
-Can exploit wild fishes to produce fresh fish. Needs to be placed on the shore in range of a wild fishes spot.
+Добывает свежую рыбу. Должен располагаться на побережье в досягаемости косяка рыбы.
 
 #txt_grnry_n
 Амбар
 
 #txt_grnry_dscr
-Can store food resources.
+Хранит продовольствие.
 
 #txt_hslum_n
 Трущобы
 
 #txt_hslum_dscr
-Slums that cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life quality and no health. 
+Трущобы бесплатны и появятся сами если свинам больше негде поселиться. Обеспечивают низкое качество жизни. 
 
 #txt_hrustc_n
 Дом
 
 #txt_hrustc_dscr
-Rustic dwellings that provide low life quality and health bonuses.
+Скромное жилище. Обеспечивает низкое качество жизни и слегка улучшает здоровье.
 
 #txt_hconf_n
 Большой дом
 
 #txt_hconf_dscr
-Comfortable dwellings that provide high life quality and health bonuses.
+Комфортабельное жилище. Обеспечивает высокий уровень жизни и сильно улучшает здоровье. 
 
 #txt_hapt_n
 Апартаменты
 
 #txt_hapt_dscr
-Multistorey buildings that provide housing for multiple households.
+Многоэтажное здание, вмещающее несколько домохозяйств.
 
 #txt_hunter_n
 Охотник
 
 #txt_hunter_dscr
-Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
+Охотится на диких животных,производя свежее мясо и кожу. Должен находится поблизости от мест обитания дичи.
 
 #txt_flint_n
 Сборщик кремней
 
 #txt_flint_dscr
-Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
+Добывает из гравийных тайлов кремни. Ремесленники используют кремни для производства каменных орудий.
 
 #txt_platf1_n
 Деревянная платформа
 
 #txt_platf1_dscr
-A cheap low resistance platform. Usefull to make cheap defenses and bridges.
+Дешевая, непрочная платформа. Удобна при строительстве дешёвых укреплений и мостов
 
 #txt_platf2_n
 Каменная платформа
 
 #txt_platf2_dscr
-A solid platform usefull to make resistent walls.
+Крепка каменная платформа. Подходит для создания надёжных стен.
 
 #txt_dstrplatf_n
 Уничтожить платформы
 
 #txt_dstrplatf_dscr
-Orders destruction of selected platforms.
+Заказывает уничтожение выбранных платформ.
 
 #txt_tow1_n
 Сторожевая башня
 
 #txt_tow1_dscr
-A cheap but weak defensive tower made of leather covered wood. Fire arrows.
+Дешёвая, но непрочная сторожевая башня из дерева, покрытого кожами. Пускает стрелы.
 
 #txt_tow2_n
 Деревянная башня
 
 #txt_tow2_dscr
-A defensive tower made of thick wooden beams. Fire arrows.
+Крепостная башня сделанная из толстых брёвен. Пускает стрелы
 
 #txt_tow3_n
 Каменная башня
 
 #txt_tow3_dscr
-Stone towers are much more resistent than their wooden counterparts. Fire arrows.
+Каменные башни гораздо прочнее деревянных аналогов. Пускает стрелы.
 
 #txt_tow4_n
 Тяжелая башня
 
 #txt_tow4_dscr
-This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
+Эта башня построена из прочных каменных блоков, чтобы повысить устойчивость к огню вражеской артиллерии. Пускает стрелы
 
 #txt_batlm1_n
-Деревянные бойницы
+Деревянные зубцы
 
 #txt_batlm1_dscr
-Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
+Грубо сделанные деревянные зубцы. Обеспечивают юнитам, стоящим на платформе, базовую защиту от вражеского огня во время битв. 
 
 #txt_batlm2_n
-Каменные бойницы
+Каменные зубцы
 
 #txt_batlm2_dscr
-Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
+Каменные зубцы. Обеспечивают юнитам, стоящим на платформе, защиту от вражеского огня во время битв. 
 
 #txt_batlm3_n
-Каменные бойницы с мачикуляциями
+Каменные зубцы с машикулями
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+Массивные зубцы из прочных каменных блоков с машикулями, обеспечивающие отличную защиту от вражеского огня всем стоящим на платформе во время битвы.
 
 #txt_batlm4_n
-Hoardings
+Гурдиция
 
 #txt_batlm4_dscr
-Excellent cover but weaker than stone battlements.
+Отличное укрытие, но менее крепкое, чем каменные зубцы.
 
 #txt_market_n
 Рыночная стойка
 
 #txt_market_dscr
-Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
+Рыночная стойка распространяет среди населения продукцию здания, которому принадлежит. Весь доход с продажи идёт изготовителю, один работник отрывается от производства, чтобы торговать в стойке.
 
 #txt_field_n
 Поле
 
 #txt_field_dscr
-Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
+Поля обрабатываются только фермой, которой они принадлежат. Производят широкий перечень агрокультур.
 
 #txt_road1_n
 Грязевая дорога
 
 #txt_road1_dscr
-A basic road and free to build road.
+Базовая и бесплатная дорога.
 
 #txt_road2_n
-Wooden road
+Дорога с щепой
 
 #txt_road2_dscr
-A road with pieces of wood encrusted in dirt to limit mud on rainy weather.
+Дорога, посыпанная щепой, чтобы меньше развозить грязь в дождливую погоду.
 
 #txt_road3_n
-Cobblestone road
+Булыжная дорога
 
 #txt_road3_dscr
-A road paved with crude cobblestones.
+Дорога мощёная булыжником.
 
 #txt_road4_n
-Stone road
+Каменная
 
 #txt_road4_dscr
-An expensive road made of large stone blocs
+Дорогая дорога из больших каменных блоков.
 
 #txt_road5_n
-Paved road
+Мощёная дорога
 
 #txt_road5_dscr
-A road made of small stone blocs composed artistically.
+Дорога из маленьких каменных блоков, выложенных в прихотливый узор.
 
 #txt_road6_n
-Mosaic plaza
+Площадь с мозаикой
 
 #txt_road6_dscr
-A fancy floor made of colofull small tiles of stone, glass and other materials.
+Затейливое покрытие из небольших разноцветных кусков камня, стекла и других материалов.
 
 #txt_road7_n
-Marble plaza
+Площадь из мрамора
 
 #txt_road7_dscr
-A fancy floor made of shiny marble blocs
+Прихотливый пол из блестящих мраморных блоков.
 
 #txt_road8_n
 Известняковая дорога
 
 #txt_road8_dscr
-An expensive road made of large white limestone blocs
+Дорогая дорога из крупных блоков известняка.
 
 #txt_road9_n
-Sandstone road
+Дорога из песчаника
 
 #txt_road9_dscr
-An expensive road made of large sandstone blocs
+Дорогая дорога из крупных блоков песчаника.
 
 #txt_fence1_n
-Wooden fence
+Деревянный забор
 
 #txt_fence1_dscr
-Rustic fences made of wood.
+Непритязательный забор из дерева.
 
 #txt_fence2_n
-Fancy fence
+Изгородь
 
 #txt_fence2_dscr
-Decorative fences worthy of gardens and avenues.
+Декоративный забор, подходящий для садов и бульваров.
 
 #txt_fence3_n
-Stone fence
+Каменный забор
 
 #txt_fence3_dscr
-Rustic fences made of stone.
+Обычный забор из камней.
 
 #txt_garden1_n
-Flower gardens
+Цветочные сады
 
 #txt_garden1_dscr
-Decorative gardens with flowers.
+Декоративные пространства с цветами.
 
 #txt_garden2_n
-Tree gardens
+Сады
 
 #txt_garden2_dscr
-Decorative gardens with trees.
+Декоративные пространства с деревьями.
 
 #txt_grass_n
 Газон
 
 #txt_grass_dscr
-An area of soil covered with carefully maintained grass for aesthetic and recreational purposes.
+Участок почвы со специально высаженной и оберегаемой травой для красоты и отдыха.
 
 #txt_flowerbed_n
-Flowerbed
+Клумба
 
 #txt_flowerbed_dscr
-A plain patch of flowers for decoration.
+Обычные покров из цветов для украшения.
 
 #txt_woodc_n
 Лесоруб
 
 #txt_woodc_dscr
-Woodcutters can exploit most of the available trees in range to produce wood.
+Лесорубы используют большинство из имеющихся в досягаемости деревьев для производства древесины.
 
 #txt_merchant_n
 Торговец
 
 #txt_merchant_dscr
-Specialized distributors who make one selectable resource available to the population.
+Посредники, делающие один ресурс на выбор доступным для населения.
 
 #txt_mine_n
-Шахтерский лагерь
+Рудник
 
 #txt_mine_dscr
-Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
+Может использовать тайлы с особыми ископаемыми ресурсами для добычи различного сырья, особенно эффективен при наличии пристроек.
 
 #txt_mineshaft_n
-Mining shaft
+Шахта
 
 #txt_mineshaft_dscr
-Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
+Важная пристройка рудника. Шахты увеличивают добычу рудника, которому принадлежат. Располагаются только на тайлах с соответствующим ресурсом.
 
 #txt_paddock_n
 Загон
 
 #txt_paddock_dscr
-Paddocks allow the storage of livestock resources.
+Загон позволяет хранить скот.
 
 #txt_elephantpen_n
-Elephant pen
+Слоновий вольер
 
 #txt_elephantpen_dscr
-Elephant pens allow the storage of single large animals such as Elephants.
+Позволяет хранить одно большое животное, такое как Слон.
 
 #txt_potter_n
 Гончар
 
 #txt_potter_dscr
-Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
+Делают посуду из глины. Посуда - это распределяемый ресурс. Удовлетворяет потребность населения в убранстве.
 
 #txt_stonecut_n
-Лагерь камнетесов
+Лагерь камнетёсов
 
 #txt_stonecut_dscr
-Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
+Может использовать каменные тайлы в зоне досягаемости, производя грубый камень, или возводить пристройки-Карьеры, производящие каменные блоки или специальные блоки на тайлах соответствующего типа.
 
 #txt_quarry_n
 Карьер
 
 #txt_quarry_dscr
-Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
+Важная пристройка Камнетёса, карьеры производят каменные блоки или специальные блоки, в зависимости от подстилающих тайлов. 
 
 #txt_sawmill_n
 Лесопилка
 
 #txt_sawmill_dscr
-The sawmill refines crude wood into wood planks, a material required to build many buildings.
+Пилит бревна на доски, материал, требующийся для строительства многих зданий.
 
 #txt_tannery_n
 Дубильня
 
 #txt_tannery_dscr
-Tanneries refine leather into leather cloth, a distributable resource filling the population needs in clothing.
+Производит одежду из кожи, распространяемый ресурс, удовлетворяющий потребность населения в шмотках.
 
 #txt_toolmk_n
-Изготовитель инструментов
+Мастерская
 
 #txt_toolmk_dscr
-Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
+Изготавливает разные орудия. Орудия используются много где, но в основном как строительный материал.
 
 #txt_items_n
 Предметы
 
 #txt_items_dscr
-These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
+Эти ресурсы кто-то скинул на землю, и со временем они пропадут, если никто не найдёт для них подходящего хранилища. 
 
 #txt_storegrnd_n
 Наземное хранилище
 
 #txt_storegrnd_dscr
-Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
+Участок земли отведённый под хранилище. Незащищённое, но бесплатное, имеет малую вместимость.
 
 #txt_warehouse_n
 Склад
 
 #txt_warehouse_dscr
-Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
+Склады могут хранить все типы базовых материалов. Они охраняются и вмещают гораздо больше чем наземные хранилища.
 
 #txt_weapmk_n
 Оружейник
 
 #txt_weapmk_dscr
-Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
+Оружейник производит множество типов оружия и брони для оснащения и найма войск.
 
 #txt_weaver_n
 Ткач
 
 #txt_weaver_dscr
-The weaver refines different raw materials (cotton,flax,wool...) into textile. Textile can then be used for various things like clothmaking.
+Делает текстиль из различных материалов (хлопок, лен, шерсть...). Текстиль затем используется, например, для пошива одежды.
 
 #txt_stairs1_n
-Stairs
+Лестница
 
 #txt_stairs1_dscr
-Flexible stairs that can be placed against cliffs or walls of any height. 
+Универсальная лестница. Может располагаться у обрывов и стен любой высоты
 
 #txt_gate1_n
-Wooden gate
+Деревянные ворота
 
 #txt_gate1_dscr
-A cheap wooden gate.
+Дешёвые деревянные ворота
 
 #txt_gate2_n
-Strong gate
+Крепкие ворота
 
 #txt_gate2_dscr
-A strong gate made of wood held tohether by bronze. 
+Крепкие ворота из дерева, скреплённого бронзой. 
 
 #txt_gate3_n
-Reinforced gate
+Укреплённые ворота
 
 #txt_gate3_dscr
-A solid gate reinforced with iron.
+Прочные ворота усиленные железом.
 
 #txt_cattle_n
 Животноводческая ферма
 
 #txt_cattle_dscr
-The cattle farms allows you to create pastures that produce cattle.
+Позволяет создавать пастбища для разведения скота.
 
 #txt_pastr_n
 Пастбище
 
 #txt_pastr_dscr
-An enclosed area of land where cattle can feed and breed.
+Огороженные участок, где скот плодится и кормится.
 
 #txt_pastrw_n
-Wool Pasture
+Выпас под шерсть
 
 #txt_pastrw_dscr
-Pastures of wool producing animals, regularly sheared to collect their wool.
+Здесь пасутся животные, с которых регулярно стригут шерсть.
 
 #txt_builder_n
 Строители
 
 #txt_builder_dscr
-Many buildings can only be constructed by professional teams of builders.
+Многие здания могут быть возведены только профессионалами.
 
 #txt_butcher_n
 Мясник
 
 #txt_butcher_dscr
-Slaughters live cattle to produce fresh meat.
+Забивает скотину и разделывает на мясо.
 
 #txt_well_n
 Колодец
 
 #txt_well_dscr
-Extracts water from the ground.
+Добывает воду из-под земли.
 
 #txt_watercol_n
 Водокачка
 
 #txt_watercol_dscr
-A point where people can collect fresh water from rivers or lakes.
+Место где свины могут набрать свежей воды из рек и озер.
 
 #txt_landock_n
-Land docks
+Караван-сарай
 
 #txt_landock_dscr
-Docks for land caravans, carrying goods across territories and required to operate trade routes.
+Сюда приходят караваны с товарами. Требуется для работы торговых путей.
 
 #txt_dock_n
-Доки
+Пристань
 
 #txt_dock_dscr
-Docks for trade ships, carrying goods across territories and required to operate trade routes. 
+Пристань куда приходят торговые суда с товарами. Требуется для работы торговых путей. 
 
 #txt_theater_n
 Театр
 
 #txt_theater_dscr
-Provides entertainement to the Porcos.
+Обеспечивает свинов развлечениями.
 
 #txt_baths_n
-Public baths
+Общественные бани
 
 #txt_baths_dscr
-A place of social gathering and relaxation which also provides better health.
+Место встреч и отдыха. Также повышает здоровье.
 
 #txt_tavern_n
 Таверна
 
 #txt_tavern_dscr
-A place of social gathering to drink and party.
+Место, где общаются, пьют и веселятся.
 
 #txt_forum_n
 Форум
 
 #txt_forum_dscr
-A place of social gathering to discuss matters of the community.
+Место для встреч и обсуждения общественных вопросов.
 
 #txt_furnmkr_n
-Изготовитель мебели
+Мебельная мастерская
 
 #txt_furnmkr_dscr
-Produces furniture, a distributable resource filling the population needs in Furnishings.
+Производит мебель, распределяемый ресурс, утоляющий потребность населения в Убранстве.
 
 #txt_carpetmkr_n
-Carpet maker
+Ковродел
 
 #txt_carpetmkr_dscr
-Produces rugs, a distributable resource filling the population needs in Furnishings.
+Делает ковры, распространяемый материал, утоляющий потребность в Убранстве.
 
 #txt_mudcamp_n
-Добыча земли
+Землекоп
 
 #txt_mudcamp_dscr
-A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
+Простой лагерь, работники которого добывают такие типы почвы как грязь, торф и пепел.
 
 #txt_brickwk_n
-Brickworks
+Кирпичная мастерская
 
 #txt_brickwk_dscr
-Produces bricks, a basic construction material.
+Производит кирпичи, основной строительный материал.
 
 #txt_kiln_n
-Kiln
+Килн
 
 #txt_kiln_dscr
-Produces different construction materials.
+Производит различные материалы.
 
 #txt_fundry_n
-Foundry
+Плавильня
 
 #txt_fundry_dscr
-Refines metallic ores into ingots.
+Переплавляет металлическую руду в слитки.
 
 #txt_steel_n
-Steel mill
+Сталеплавильная мастерская
 
 #txt_steel_dscr1
-Produces steel by carburization of wrough iron through smithing.
+Получает сталь, насыщая углеродом железо во время ковки.
 
 #txt_steel_dscr2
-Produces steel by decarburization of cast iron by melting it.
+Получает сталь, плавя чугун и уменьшая содержание углерода в нем.
 
 #txt_charcl_n
-Charcoal clamps
+Углежог
 
 #txt_charcl_dscr
-Carbonizes wood into charcoal.
+Делает древесный уголь.
 
 #txt_archtct_n
-Architect
+Архитектор
 
 #txt_archtct_dscr
-Produces the service Plans, required for important monuments.
+Производит услугу Чертежи, требующуюся для важных строений.
 
 #txt_windwheel_n
-Windwheel
+Ветряная мельница
 
 #txt_windwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+Обеспечивает механической энергией здание, повышая его эффективность.
 
 #txt_waterwheel_n
-Waterwheel
+Водяная мельница
 
 #txt_waterwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+Обеспечивает механической энергией здание, повышая его эффективность.
 
 #txt_wash_n
-Washhouse
+Прачечная
 
 #txt_wash_dscr
-A place where people can come wash their laundry.
+Место где свины могут постирать свои вещи.
 
 #txt_taxcol_n
 Сборщик налогов
 
 #txt_taxcol_dscr
-Reduces waste by ensuring population pays correctly their taxes.
+Уменьшает траты, следя, чтобы все платили налоги и спали спокойно.
 
 #txt_scrib_n
 Писарь
 
 #txt_scrib_dscr
-Scribes at the service of the state help keep track of administrative matters.
+Писари на государевой службе занимаются бумажной работой, повышая администрацию.
 
 #txt_eldcounc_n
 Совет старейшин
 
 #txt_eldcounc_dscr
-A council of elders to solve conflicts in the city.
+Совет старейшин, решающих городские конфликты.
 
 #txt_magistrt_n
-Magistrate
+Магистрат
 
 #txt_magistrt_dscr
-Reduces conflict in the population.
+Уменьшает конфликтность населения.
 
 #txt_school_n
 Школа
 
 #txt_school_dscr
-School increases intelligence of the population.
+Увеличивает интеллект населения.
 
 #txt_winery_n
-Wine cellar
+Винодел
 
 #txt_winery_dscr
-Produces wine out of grapes.
+Делает из винограда вино.
 
 #txt_oilpress_n
-Olives press
+Пресс.
 
 #txt_oilpress_dscr
-Produces olive oil out of olives.
+Отжимает масло из оливок.
 
 #txt_bakery_n
 Пекарня
 
 #txt_bakery_dscr
-Makes bread from flour.
+Делает хлеб из муки.
 
 #txt_mill_n
 Мельница
 
 #txt_mill_dscr
-Crushes cereals to produce flour, easier to stock and used to make bread.
+Мелет злаки в муку, которую легче хранить и использовать для производства хлеба.
 
 #txt_libr_n
 Библиотека
 
 #txt_libr_dscr
-Stores knowledges.
+Хранилище знаний.
 
 #txt_eldrcncl_n
 Совет старейшин
 
 #txt_eldrcncl_dscr
-A council of elders that attempts to solve conflicts amongst the tribe and provides an early form of justice.
+Совет старейшин пытается решать конфликты внутри племени и представляет раннюю форму правосудия.
 
 #txt_magistr_n
-Magistrate
+Магистрат
 
 #txt_magistr_dscr
-A service building that provides the Justice service to population, reducing conflict.
+Служебное здание, обеспечивающее население услугой Правосудия, уменьшает конфликт.
 
 #txt_paper_n
-Paper mill
+Производство бумаги
 
 #txt_paper_dscr
-Produces paper
+Производит бумагу
 
 #txt_rum_n
-Rumery
+Перегонщик рома
 
 #txt_rum_dscr
-A distilery that produces rum out of sugarcane.
+Гонит ром из сахарного тростника.
 
 #txt_trmarket_n
 Рынок
 
 #txt_trmarket_dscr
-Allows to create trade offers to exchange goods with other territories.
+Позволяет создавать торговые предложения для обмена товарами с другими территориями
 
 #txt_academ_n
-Academia
+Академия
 
 #txt_acedem_dscr
-Wise and knowledgable pigs who study science and arts increasing education and culture and contribute to research projects.
+Мудрые и образованные свины изучают здесь науки и искусства, повышая образование и культуру и помогая в научных проектах. 
 
 #txt_doctor_n
 Доктор
 
 #txt_doctor_dscr
-Increases health of the population.
+Повышает здоровье населения.
 
 #txt_ftower1
-Primitive tower
+Примитивная башня
 
 #txt_ftower1_dscr
-A primitive defensive tower made of wood. Fires javelins.
+Примитивная сторожевая башня из дерева. Пускает дротики.
 
 #txt_wall1_n
-Palissade
+Частокол
 
 #txt_wall1_dscr
-A simple defensive wall made of timbers.
+Простая стена из брёвен
 
 #txt_wall2_n
-Mudbrick wall
+Саманная стена
 
 #txt_wall2_dscr
-A simple defensive wall made of mudbricks.
+Простая стена из необожженного кирпича
 
 #txt_stairs2_n
-Stone stairs
+Каменная лестница
 
 #txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Располагается рядом с уступами и стенами любой высоты, обеспечивая проход.
 
 #txt_wall3_n
-Cobblestone wall
+Булыжная стена
 
 #txt_wall3_dscr
-A simple defensive wall made of cobble stone held together with crude masonry.
+Простая стена из булыжников, грубо скреплённых между собой.
 
 #txt_wall4_n
-Brick wall
+Кирпичная стена
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks, stronger than mudbricks.
+Простая стена из обожжённого кирпича.
 
 #txt_wall5_n
-Stoneblocs wall
+Стена из каменных блоков
 
 #txt_wall5_dscr
-A solid defensive wall made of stone blocs.
-
+Крепкая стена из каменных блоков
