@@ -246,7 +246,7 @@ protecteur du peuple
 modifie le facteur de légitimité de la force militaire
 
 #civfx_legitw_n
-supériorité du chef
+supériorité du dirigeant
 
 #civfx_legitw_dscr
 modifie le facteur de légitimité de la supériorité du leader
@@ -375,11 +375,10 @@ les chercheurs sont payés et ne réduisent plus les effectifs des bâtiments o�
 La contribution personnelle du leader
 
 #civfx_ldcntrb_dscr
-Le chef peut contribuer aux finances du gouvernement avec sa propre richesse (réduit sa richesse).
+Le dirigeant peut contribuer aux finances du gouvernement avec sa propre richesse (réduit sa richesse).
 
 #civfx_ldcntrb_set
 Contribution %
 
 #civfx_ldcntrb_setd
-Percentage of the leader's wealth used for the government's finances. Note that this will reduce the Leader's wealth proportionnally.
-
+Pourcentage de la richesse du dirigeant utilisée pour les finances du gouvernement. Notez que cela réduira proportionnellement la richesse du leader.
