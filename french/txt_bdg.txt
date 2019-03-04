@@ -390,7 +390,7 @@ Les potiers façonnent des pots à partir d'argile. La poterie est une ressource
 Tailleur de pierre
 
 #txt_stonecut_dscr
-Peut exploiter des cases de roche dans la gamme pour produire de la pierre brute ou construire des annexes de carrière pour produire des blocs de pierre ou des blocs spécialisés sur des tuiles avec un type de roche valide.
+Peut exploiter des cases de roche pour produire de la pierre brute ou construire des annexes de carrière pour produire des blocs de pierre ou des blocs spécialisés sur des tuiles avec un type de roche valide.
 
 #txt_quarry_n
 Carrière
@@ -426,7 +426,7 @@ Ces ressources sont abandonnées sur le sol et se décomposent avec le temps à 
 Stockage au sol
 
 #txt_storegrnd_dscr
-Terrain marqué comme zone de stockage. C'est gratuit, mais non gardé et n'a pas une grande capacité de stockage par tuile.
+Terrain marqué comme zone de stockage. C'est gratuit, mais non gardé et n'a pas une grande capacité de stockage.
 
 #txt_warehouse_n
 Entrepôt
@@ -480,7 +480,7 @@ Les fermes d'élevage vous permettent de créer des pâturages qui produisent du
 Pâturage
 
 #txt_pastr_dscr
-Une zone fermée de terre où les bovins peuvent se nourrir et se reproduire.
+Une zone fermée de terre où le bétail peuvent se nourrir et se reproduire.
 
 #txt_pastrw_n
 Pâturage de laine
@@ -498,7 +498,7 @@ De nombreux bâtiments ne peuvent être construits que par des équipes professi
 Boucher
 
 #txt_butcher_dscr
-Les abatteurs vivent du bétail pour produire de la viande fraîche.
+Les bouchers vivent du bétail pour produire de la viande fraîche.
 
 #txt_well_n
 Puits
@@ -588,7 +588,7 @@ Affine les minerais métalliques en lingots.
 Aciérie
 
 #txt_steel_dscr1
-Produit de l'acier par carburation du fer à repasser par forge.
+Produit de l'acier par carburation du fer forgé par la forge.
 
 #txt_steel_dscr2
 Produit de l'acier par décarburation de la fonte en la fondant.
@@ -603,7 +603,7 @@ Carbonise le bois en charbon de bois.
 Architecte
 
 #txt_archtct_dscr
-Produit les plans de service, requis pour les monuments importants.
+Produit des plans en tant que service, requis pour les monuments importants.
 
 #txt_windwheel_n
 Roue à vent
@@ -669,7 +669,7 @@ Produit de l'huile d'olive à partir d'olives.
 Boulangerie
 
 #txt_bakery_dscr
-Fait du pain de farine.
+Fait du pain à partir de farine.
 
 #txt_mill_n
 Moulin
@@ -687,7 +687,7 @@ Stocke les connaissances.
 Conseil des anciens
 
 #txt_eldrcncl_dscr
-Un conseil des vieux qui tente de résoudre les conflits entre la tribu et fournit une forme précoce de la justice.
+Un conseil des vieux qui tente de résoudre les conflits entre la tribu et fournit une forme précoce de justice.
 
 #txt_magistr_n
 Magistrat
@@ -756,26 +756,26 @@ Etable à éléphant
 Elephant pens allow the storage of single large animals such as Elephants.
 
 #txt_stairs2_n
-Stone stairs
+Escaliers en pierre
 
 #txt_stairs2_dscr
 Stairs that can be placed against cliffs or walls of any height to allow for passage. 
 
 #txt_wall3_n
-Cobblestone wall
+Mur de pavés
 
 #txt_wall3_dscr
-A simple defensive wall made of cobble stone held together with crude masonry.
+Un simple mur de défense en pavés, assemblé avec de la maçonnerie grossière.
 
 #txt_wall4_n
-Brick wall
+Mur de brique
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks, stronger than mudbricks.
+Un simple mur de défense en briques cuites, plus solides que les briques en boue.
 
 #txt_wall5_n
-Stoneblocs wall
+Mur de blocs de pierre
 
 #txt_wall5_dscr
-A solid defensive wall made of stone blocs.
+Un mur de défense solide constitué de blocs de pierre.
 
