@@ -3,16 +3,16 @@
 Bienvenue dans Ymir! Il semblerait que se soit la première fois que vous lancez ce jeu.
 
 #tuto_launch_2
-C'est un jeu complexe: si vous n'êtes pas encore familier au jeu, il est fortement conseillé de commencer en complétant le tutoriel en solo pour en apprendre les bases. Cependant si vous connaissez déja le jeu, vous pouvez choisir de désactiver tous les tutoriels dès a présent.
+C'est un jeu complexe: si vous n'êtes pas encore familié du jeu, il est fortement conseillé de commencer en complétant le tutoriel en solo pour en apprendre les bases. Cependant si vous connaissez déja le jeu, vous pouvez choisir de désactiver tous les tutoriels dès a présent.
 
 #tuto_create_1
-C'est ici que vous pouvez configurer et lancer une nouvelle partie. Il ya 2 modes de jeu principaux: persistant et temps-réel. Si vous jouez seul ou avec quelques amis, il est préférable de laisser 'temps-réel' par défault.
+C'est ici que l'ont configure et lance une nouvelle partie. Il ya 2 modes de jeu principaux: persistant et temps-réel. Si vous jouez seul ou avec quelques amis, il est préférable de laisser 'temps-réel' par défault.
 
 #tuto_char_1
-C'est ici que vous créez votre personnage. Vous pouvez le nommer et choisir son apparence, ainsi qu'un nom de gouvernement et son emblème.
+C'est ici que l'ont crée son personnage. Vous pouvez le nommer et choisir son apparence, ainsi qu'un nom de gouvernement et un drapeau.
 
 #tuto_char_2
-Vous devez choisir un ou plusieurs types de départs, celui par défaut pour une nouvelle partie étant la "tribu primitive".
+Vous devez choisir parmis une liste de différent types de départs, celui par défaut pour une nouvelle partie étant la "tribu primitive".
 
 #tuto_char_3
 En multijoueur, vous pouvez également spécifier le nom du personnage d'un ami pour apparaitre au plus proche de lui (mais pour cela il vous faudra également le code d'invitation du perosnnage rejoint).
@@ -1236,5 +1236,5 @@ Très bien.--413
 C'est tout pour le moment. Bonne chance dans cette transition difficile!
 
 #tuto_413_c1
-Merci, Monsieur Porc.--997
+Merci, Monsieur Porc.-- 997
 
