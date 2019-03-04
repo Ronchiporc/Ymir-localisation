@@ -1,222 +1,221 @@
-
-#cond_nbreg
-Own [x] or more territories
+﻿﻿#cond_nbreg
+Имейте [x] или больше территорий
 
 #cond_prodsupto
-Produce at least [x] of [y] in territory
+Производите как минимум [x] единиц товара [y] на территории
 
 #cond_incrfoodprod
-Increase your food production by at least [x]
+Увеличьте производство еды как минимум на [x]
 
 #cond_ownbdg
-Have [x] [y] in the territory
+Храните [x] единиц товара [y] на территории
 
 #cond_ownbdg_class
-Have [x] buildings of the [y] class in the territory
+Имейте [x] строений типа [y] на территории
 
 #cond_cmplted_ev
-Completed event [x]
+Завершено событие [x]
 
 #cond_loyal_inf
-Territory loyalty inferior to [x]
+Лояльность территории меньше [x]
 
 #cond_loyal_sup
-Territory loyalty superior to [x]
+Лояльность территории больше [x]
 
 #cond_pow_inf
-State power inferior to [x]
+Власть меньше [x]
 
 #cond_pow_sup
-State power superior to [x]
+Власть больше [x]
 
 #cond_legit_inf
-State legitimacy inferior to [x]
+Легитимность правления меньше [x]
 
 #cond_legit_sup
-State legitimacy superior to [x]
+Легитимность правления больше [x]
 
 #cond_coins_inf
-State currency inferior to [x]
+Денег в казне меньше [x]
 
 #cond_coins_sup
-State currency superior to [x]
+Денег в казне больше [x]
 
 #cond_notech
-Do not have the knowledge of '[x]'
+Не обладать знанием "[x]"
 
 #cond_hastech
 Знайте о '[x]'
 
 #cond_popnb_inf
-[y] inferior to [x]
+[y] меньше, чем [x]
 
 #cond_popnb_sup
-[y] superior to [x]
+[y] больше, чем [x]
 
 #cond_intel_inf
-[y] intelligence inferior to [x]
+Интеллект у [y] меньше [x]
 
 #cond_intel_sup
-[y] intelligence superior to [x]
+Интеллект у [y] больше [x]
 
 #cond_lifeq_inf
-[y] life quality inferior to [x]
+Качество жизни у [y] меньше [x]
 
 #cond_lifeq_sup
-[y] life quality superior to [x]
+Качество жизни у [y] больше [x]
 
 #cond_health_inf
-[y] health inferior to [x]
+Здоровье у [y] меньше [x]
 
 #cond_health_sup
-[y] health superior to [x]
+Здоровье у [y] больше [x]
 
 #cond_regcltr_sup
-Territory culture superior to [x]
+Культура территории больше [x]
 
 #cond_cltr_inf
-Total Culture inferior to [x]
+Общая культура меньше [x]
 
 #cond_cltr_sup
-Total Culture superior to [x]
+Общая культура больше [x]
 
 #cond_conflict_inf
-Population conflict inferior to [x]
+Конфликтность населения меньше [x]
 
 #cond_conflict_sup
-Population conflict superior to [x]
+Конфликтность населения больше [x]
 
 #cond_cons_sup
-Consumption of [x] superior to [y]
+Потребление товара [x] больше [y]
 
 #cond_natres
-Have natural resource of [x]
+Обладать природным ресурсом [x]
 
 #cond_resaxs_inf
-[y] access inferior to [x]%
+Доступ к товару [y] меньше [x]%
 
 #cond_resaxs_sup
-[y] access superior to [x]%
+Доступ к товару [y] больше [x]%
 
 #cond_needaxs_inf
-[z] [y] access inferior to [x]%
+Доступ у [z] к товару [y] меньше [x]%
 
 #cond_needaxs_sup
-[z] [y] access superior to [x]%
+Доступ у [z] к товару [y] больше [x]%
 
 #cond_resstk_inf
-[y] stocks inferior to [x]
+Запасы товара [y] меньше [x]
 
 #cond_resstk_sup
-[y] stocks superior to [x]
+Запасы товара [y] больше [x]
 
 #cond_agrprd_inf
-Agricultural production inferior to [x]
+Производство агрокультур меньше [x]
 
 #cond_agrprd_sup
-Agricultural production superior to [x]
+Производство агрокультур больше [x]
 
 #cond_natagri
-Have natural sources of vegetables and plants
+Владеть природными источниками овощей и растений
 
 #cond_militia_inf
-Militia inferior to [x] [y]
+Ополчение меньше [x] воинов типа [y]
 
 #cond_militia_sup
-Militia superior to [x] [y]
+Ополчение больше [x] воинов типа [y]
 
 #cond_army_inf
-Army inferior to [x] [y]
+Армия меньше [x] воинов типа [y]
 
 #cond_army_sup
-Army superior to [x] [y]
+Армия больше [x] воинов типа [y]
 
 #cond_natmetal
-Have natural sources of metal
+Обладать месторождением металла
 
 #cond_GDP_inf
-GDP inferior to [x]
+ВВП меньше [x]
 
 #cond_GDP_sup
-GDP superior to [x]
+ВВП больше [x]
 
 #cond_wlth_inf
-Wealth inferior to [x]
+Богатство меньше [x]
 
 #cond_wlth_sup
-Wealth superior to [x]
+Богатство больше [x]
 
 #cond_vitn_inf
-Vital needs of [y] inferior to [x]
+Базовые потребности класса [y] удовлетворены меньше [x]
 
 #cond_vitn_sup
-Vital needs of [y] superior to [x]
+Базовые потребности класса [y] удовлетворены больше [x]
 
 #cond_bdgcat_inf
-Have less than [x] [y] buildings
+Иметь менее [x] строений типа '[y]'
 
 #cond_bdgcat_sup
-Have more than [x] [y] buildings
+Иметь более [x] строений типа '[y]'
 
 #cond_rescat_inf
-[y] stock inferior to [x]
+Запасы ресурса "[y]" меньше [x]
 
 #cond_rescat_sup
-[y] stock superior to [x]
+Запасы ресурса "[y]" больше [x]
 
 #cond_rescatprd_inf
-[y] production inferior to [x]
+Производство ресурса [y] меньше [x]
 
 #cond_rescatprd_sup
-[y] production superior to [x]
+Производство ресурса [y] больше [x]
 
 #cond_prdgrp_inf
-Stocks of [y] resources inferior to [x]
+Запасы [y] ресурсов меньше [x]
 
 #cond_prdgrp_sup
-Stocks of [y] resources superior to [x]
+Запасы [y] ресурсов больше [x]
 
 #cond_prdgrpprd_inf
-Production of [y] resources inferior to [x]
+Производство [y] ресурсов меньше [x]
 
 #cond_prdgrpprd_sup
-Production of [y] resources superior to [x]
+Производство [y] ресурсов больше [x]
 
 #cond_resneed_inf
-An unsatisfied demand of [y] of less than [x]
+Неудовлетворённый спрос на [y] меньше [x]
 
 #cond_resneed_sup
-An unsatisfied demand of [y] superior than [x]
+Неудовлетворённый спрос на [y] больше [x]
 
 #cond_civic
-Have the civic '[x]' enabled
+Гражданский институт "[x]" работает
 
 #cond_civeff
-Have the civic effect: '[x]'
+Пользоваться гражданским эффектом: "[x]"
 
 #cond_militpow_inf
-Total military power inferior to [x]
+Общая военная мощь меньше [x]
 
 #cond_militpow_sup
-Total military power superior to [x]
+Общая военная  мощь больше [x]
 
 #cond_ecobal_inf
-Government budget balance inferior to [x]
+Баланс бюджета меньше [x]
 
 #cond_ecobal_sup
-Government budget balance superior to [x]
+Баланс бюджета больше [x]
 
 #cond_growth_inf
-[y] growth inferior to [x]
+Прирост [y] меньше [x]
 
 #cond_growth_sup
-[y] growth superior to [x]
+Прирост [y] больше [x]
 
 #cond_reglvl_inf
-territory level inferior to [x]
+Уровень территории меньше [x]
 
 #cond_reglvl_sup
-territory level superior to [x]
+Уровень территории больше [x]
 
 #cond_speed_inf
 char speed inferior to [x]
@@ -225,7 +224,7 @@ char speed inferior to [x]
 char speed superior to [x]
 
 #cond_has_res
-Have access to [x]
+Иметь доступ к [x]
 
 #effect_givres
 Получите [y] [x] 
@@ -237,7 +236,7 @@ Have access to [x]
 Получите [y] [x]
 
 #effect_givfood
-Получите [x] of food
+Получите [x] еды
 
 #effect_trigev
 Triggers event
@@ -246,61 +245,61 @@ Triggers event
 Получите [x] монет
 
 #effect_setcoin
-Treasury set to [x] coins
+В казне теперь [x] монет
 
 #effect_loyalev
-State event: [x] territory loyalty
+Общегосударственное событие: [x] лояльность территории
 
 #effect_trigproj
-Unlocks the project: [x]
+Открывает проект: [x]
 
 #effect_rejproj
-Rejects the project: [x]
+Отменяет проект: [x]
 
 #effect_givtech
 Открывает технологию: [x]
 
 #effect_bandits
-The formation is immediately attacked by [x] bandits.
+Формирование тотчас атакуют [x] бандитов.
 
 #effect_invloss
-Lose [x]% of the formation's inventory.
+Формирование теряет [x]% инвентаря.
 
 #effect_invcatloss
-Lose [x]% of the formation's [y] inventory.
+Формирование теряет [x]% инвентаря типа [y].
 
 #effect_givloot
-You receive [x] of loot.
+Получите [x] добычи.
 
 #effect_hostribe
-The formation is immediately attacked by [x] primitives.
+Формирование точас атакуют [x] туземцев.
 
 #effect_unitloss
-[x]% of the formation's porcos are lost.
+[x]% формирования будет потеряно.
 
 #effect_nbdeath
-Lose [x] random unit in the formation.
+Потерять [x] случайных юнитов в формировании.
 
 #effect_joinbfmly
-The formation is joined by [x] families.
+К формировании присоединяются [x] семей.
 
 #effect_xplrmap
-Reveals the map of the territory up to [x] tiles around the formation.
+Открывает глобальную карту на [x] тайла вокруг формирования.
 
 #effect_formlst
-Юнит потерян
+Формирование потеряно
 
 #effect_canceldebt
-Cancel your debt.
+Списание долга.
 
 #effect_givunit
-The formation is joined by [y] [x].
+К формированию присоединяются [y] юнитов типа [x].
 
 #effect_agrifood
-Receive [x] of agricultural food
+Получите [x] единиц растительной пищи.
 
 #effect_spawnunit
-[x] [z] [y] will appear.
+Появятся [x] [z] [y].
 
 #effect_modhonor
 Честь [x]
@@ -321,13 +320,13 @@ Receive [x] of agricultural food
 Получите новую идею: [x]
 
 #effect_givreg
-Gain control of the territory.
+Получите контрол над территорией.
 
 #effect_fac_rplc
-You will swap position in the Nation's hierarchy with this character.
+Вы поменяетесь с этим персонажем своим положением в Национальной иерархии.
 
 #effect_fac_trigvt
-Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
+Спровоцирует голосование среди подчинённых на выбор наследника Национального поста этого персонажа.
 
 #event_diplomes
 Сообщение от [x]
@@ -339,697 +338,697 @@ Will trigger a vote from subordinates to elect a successor to this character's p
 Мы объявили войну [x]
 
 #event_dwar_att_1
-My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
+Милорд! Мы объявили войну [x] из [y] и теперь должны начистить рыло этим никчёмным свиньям!
 
 #event_dwar_def
 [x] объявили нам войну!
 
 #event_dwar_def_1
-My lord, [x] of [y] has declared war on us.
+Милорд! [x] из [y] объявил нам войну.
 
 #event_dwar_def_2
-We are now at war with these filthy hogs.
+Теперь мы воюем с этими косорылыми уродами.
 
 #event_war_state
-Our country is currently at war!
+Наша страна находится в состоянии войны!
 
 #event_misscomp
 Миссия выполнена: [x]
 
 #event_misscomp_1
-We have completed this mission and received its rewards.
+Мы выполнили эту миссию и получили причитающуюся награду.
 
 #event_gameovr
-Game over!
+Игра окончена!
 
 #event_gameovr_1
-The game is over and its winner is the nation of '[x]' , being the first to reach [p1] Victory points and with a total score of [p2].
+Игра окончена и её победитель - нация "[x]". Они первыми набрали [p1] Победных очков с общим счётом [p2].
 
 #event_gameovr_2
-Note that the game may go on and you can keep playing, but scores and ranks will no longer be updated and there will be no further victory missions.
+Учитывайте, что игру можно продолжить, но счёт и ранг не будут изменяться и новых миссий не появится.
 
 #event_rsk_upris
 Риск восстания в: [x]
 
 #event_rsk_upris_1
-The loyalty of [x] is very low and there is a high risk of imminent rebellion of its population! We need to do something about it...
+Лояльность в [x]  очень низка, и есть восстание населения неминуемо! Мы должны что-то с этим сделать...
 
 #event_rsk_upris_2
-Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leaderboard to see your final score.
+Лояльность уменьшается такими факторами как: количество местно культуры, сильный местный гарнизон, отсутствие войск, низкая легитимность или власть, количество  городов и расстояние до столицы. Вы можете открыть таблицу лидеров и увидеть свой финальный счёт.
 
 #event_revolt
-Популярное восстание в [x]!
+Народное восстание в [x]!
 
 #event_revolt_1
-The population of [x] are revolting against us and rebels are trying to take control of the city! If they suceed, we will lose control of this territory!
+Население [x] восстало против нас и мятежники пытаются овладеть городом! Если они одержат верх, мы потеряем контроль над этой территорией!
 
 #event_revolt_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]%  населения взяли в руки оружие и восстали, включая [p3] солдат местного гарнизона, переметнувшихся к мятежникам. [p5] верных нам солдат противостоят [p4] бунтовщикам.
 
 #event_br_revolt
-Revolt thwarted in [x]
+Мятеж в [x] провалился.
 
 #event_br_revolt_1
-The population of [x] revolted against your government because of low loyalty, and rebels unsucessfully tried to take control of the city.
+Население [x] взбунтовалось против вашего правительства из-за низкой лояльности, и мятежники неудачно попытались взять контроль над городом.
 
 #event_br_revolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]%  населения взяли в руки оружие и восстали, включая [p4] солдат местного гарнизона, переметнувшихся к мятежникам. [p5] верных нам солдат противостояли [p3] бунтовщикам.
 
 #event_br_lstrevolt
-[x] потерян повстанцам!
+[x] захвачен бунтовщиками!
 
 #event_br_lstrevolt_1
-The population of [x] revolted against us and rebels managed to take control of the city. Losing control of one of our cities to rebels has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost 25 of honor.
+Население [x] восстало против нас, и восставшие смогли захватить город. Сдача одного из наших городов мятежникам опозорило ваш престол. Это поражение пошатнёт ваши легитимность как лидера на какое-то время: вы потеряли 25 единиц чести.
 
 #event_br_lstrevolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% населения взяли в руки оружие и восстали, включая [p4] солдат местного гарнизона, переметнувшихся на сторону мятежников. [p5] верных нам солдат противостояли в общей сложности [p3] бунтовщикам.
 
 #event_partis
-Partisans uprising in [x]!
+Нападение партизан [x]!
 
 #event_partis_1
-There is an active Resistance movement in [x], and partistans loyal to the [y] have just launched an attack to try take control of the city. If they suceed, we will lose control of this territory and [p7] of honor!
+В [x] есть активное движение Сопротивления, и партизаны, верные [y], атаковали с целью захватить контроль над городом. Если это им удастся, мы потеряем контроль над этой территорией и [p7] чести!
 
 #event_partis_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]%  населения взяли в руки оружие и восстали, включая [p3] солдат местного гарнизона, предавших нас. [p5] верных нам солдат противостоят [p4] предателям.
 
 #event_br_partis
-Partisans defeated in [x]
+Партизаны побеждены [x]
 
 #event_br_partis_1
-Good news! There was an attempt from the Resistance movement in [x] loyal to the [y] to retake control of the city, but their uprising was defeated and the resistance movement was weakened by this defeat!
+Хорошие новости! В [x] силами Сопротивления,верными [y], совершена попытка захвата власти, но их восстание потерпело неудачу, а воля к борьбе теперь подорвана этим поражением! 
 
 #event_br_partis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% населения взяли в руки оружие и восстали, включая [p4] солдат местного гарнизона, изменивших присяге. [p5] верных нам солдат противостояли в общей сложности [p3] предателям.
 
 #event_br_lstpartis
-[x] was lost to partisans!
+[x] захвачен партизанами!
 
 #event_br_lstpartis_1
-Terrible news: the Resistance movement of [x], loyal to the [y], has launched an uprising and partisans have managed to take control of the city. Losing to a Resistance movement has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost [p7] of honor.
+Ужасные новости: движение Сопротивления в [x], преданное [y], подняло восстание и партизаны смогли захватить контроль над городом. Проигрыш партизанам опозорил ваш престол. Это поражение пошатнёт вашу легитимность как лидера на какое-то время: вы потеряли [p7] единиц чести.
 
 #event_br_lstpartis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% населения взяли в руки оружие и восстали, включая [p4] солдат местного гарнизона, изменивших присяге. [p5] верных нам солдат противостояли в общей сложности [p3] предателям.
 
 #event_Ab_pitch
-Attacking [x] of [y]
+Нападение на [x] из [y]
 
 #event_Ab_pitch_1
-We are engaging the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+Мы противостоим вражеской армии '[x]' из [y] в полевом сражении, имея [p2] солдат.
 
 #event_Ab_pitch_2
-They are facing us with [p3] soldiers.
+Они противостоят нам с [p3] солдатами.
 
 #event_Abr_pitch
-Attacked [x] of [y]
+Атакован [x] из [y]
 
 #event_Abr_pitch_1
-We engaged the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+Мы сразились с вражеской армией '[x]' из [y] в полевом сражении, имея [p2] солдат.
 
 #event_Abr_pitch_2
-They faced us with [p3] soldiers.
+Они противостояли нам с [p3] солдатами.
 
 #event_Db_pitch
-'[x]' are under attack by [y]
+'[x]' атакованы [y]
 
 #event_Db_pitch_1
-'[x]' are beeing engaged in pitch battle by an army of [y].
+'[x]' атакованы в  полевом сражение армией из [y].
 
 #event_Db_pitch_2
-Our [p2] soldiers are facing [p3] enemy soldiers.
+Наши [p2] солдат противостоят [p3] врагам.
 
 #event_Dbr_pitch
-'[x]' were attacked by an army [y]
+'[x]' были атакованы армией [y]
 
 #event_Dbr_pitch_1
-'[x]' was engaged in pitch battle by an army of [y].
+'[x]' были атакованы в полевом сражении армией из [y].
 
 #event_Dbr_pitch_2
-Our [p3] soldiers faced [p2] enemy soldiers.
+[p3] наших солдат противостояли [p2] супостатам.
 
 #event_Ab_invad
-Invading [x]
+Вторжение в [x]
 
 #event_Ab_invad_1
-We're launching an assault on [x] with [p2] soldiers to invade and take control of the territory.
+Мы пытаемся взять приступом [x], имея [p2] солдат, чтобы вторгнуться и захватить контроль над территорией.
 
 #event_Ab_invad_2
-To suceed we must eliminate all the enemies and defenses of the territory. They're defending it with [p3] soldiers.
+Чтобы победить, мы должны уничтожить всех защитников и укрепления территории. Они защищаются с [p3] солдатами.
 
 #event_Abr_invad
-Вторжение [x]
+Вторжение в [x]
 
 #event_Abr_invad_1
-We launched an assault on [x] with [p2] soldiers to invade and take control of the territory.
+Мы попытались взять приступом [x] имея [p2] солдат, чтобы вторгнуться и захватить контроль над территорией.
 
 #event_Abr_invad_2
-They defended it with [p3] soldiers.
+Они защищались с[p3] солдатами.
 
 #event_Db_invad
-[y] is trying to invade [x]
+[y] пытается вторгнуться в [x]
 
 #event_Db_invad_1
-[y] has launched an assault on [x] with [p3] soldiers to try to invade and take control of our territory.
+[y] пытается взять приступом [x] имея [p3] солдат, чтобы вторгнуться и захватить контроль над нашей территорией.
 
 #event_Db_invad_2
-We must repel their invasion or we will lose control of the territory! We have [p2] soldiers defending it.
+Мы должны отразить их вторжение, иначе контроль над территорией будет потерям! Мы обороняемся с [p2] солдатами.
 
 #event_Dbr_invad
-Defense of [x] against an invasion from [y]
+Оборона [x] против вторжения из [y]
 
 #event_Dbr_invad_1
-[y] launched an assault on [x] with [p3] soldiers to try to invade and take control of our territory.
+[y] попытался взять приступом [x] имея [p3] солдат, чтобы вторгнуться и захватить контроль над нашей территорией.
 
 #event_Dbr_invad_2
-We defended it with [p2] soldiers.
+Мы защищались с [p2] солдатами.
 
 #event_Ab_elim
-Attacking [x]
+Нападение на [x]
 
 #event_Ab_elim_1
-We're launching an assault on [x] with [p2] soldiers to eliminate all enemy forces in the territory.
+Мы нападаем на [x], имея [p2] солдат, чтобы уничтожить все вражеские силы на этой территорией.
 
 #event_Ab_elim_2
-To suceed we must eliminate all the enemies and defenses of the territory. Our troops will prioritize engaging all hostile forces in presence. Some minor pillage might occur on the way if the opportunity arises. They will leave the territory once done. They're defending it with [p3] soldiers.
+Чтобы победить, мы должны уничтожить всех защитников и укрепления территории. Наши войска будут в первую очередь атаковать вражеские формирования. Если представится возможность, некоторые хранилища по пути движения войск могут быть разграблены. После битвы наши войска покинут территорию. Противник защищается с [p3] солдатами.
 
 #event_Abr_elim
-Attack of [x]
+Атака на [x]
 
 #event_Abr_elim_1
-We launched an assault on [x] with [p2] soldiers to eliminate all ennemies in the territory.
+Мы напали на [x], имея [p2] солдат, чтобы уничтожить все вражеские силы на этой территорией.
 
 #event_Abr_elim_2
-They defended it with [p3] soldiers.
+Они защищались с [p3] солдатами.
 
 #event_Db_elim
-[y] is attacking [x]
+[y] атакует [x]
 
 #event_Db_elim_1
-[y] has launched an assault on [x] with [p3] soldiers to eliminate all our forces in the territory.
+[y] атаковал [x] с [p3] солдатами, чтобы уничтожить все наши войска на территории.
 
 #event_Db_elim_2
-They are not attempting to pillage, sack or invade the territory but simply to engage and eliminate our forces. If successful they will then retreat out of the territory. We have [p2] soldiers defending it.
+Они не пытаются разграбить, разорить или вторгнуться на территорию, но хотят уничтожить наши войска. Если это им удастся, то затем они покинут территорию. Мы защищаем ее с [p2] солдатами.
 
 #event_Dbr_elim
-Defense of [x] against an attack from [y]
+Защита [x]  против атаки [y]
 
 #event_Dbr_elim_1
-[y] launched an assault on [x] with [p3] soldiers to try to eliminate all our forces in the territory.
+[y] начал атаку [x], имея [p3] солдат, чтобы попытаться уничтожить все наши войска на территории.
 
 #event_Dbr_elim_2
-We defended it with [p2] soldiers.
+Мы защищались с [p2] солдатами.
 
 #event_Ab_raid
-Raiding [x]
+Ограбление [x]
 
 #event_Ab_raid_1
-We're launching a raid on [x] to pillage their territory with [p2] soldiers.
+Мы пытаемся ограбить [x] с [p2] солдатами.
 
 #event_Ab_raid_2
-Our troops will attempt to pillage resources and buildings before leaving the territory with their loot.
+Наши войска попытаются ограбить склады и здания перед тем, как покинуть территорию.
 
 #event_Abr_raid
-Raiding of [x]
+Ограбление [x]
 
 #event_Abr_raid_1
-We raided [x] to pillage their territory with [p2] soldiers.
+Мы напали на [x] чтобы ограбить их территорию с [p2] солдатами.
 
 #event_Abr_raid_2
-Our troops managed to pillage [p3] resources and [p4] coins. 
+Нашим войскам удалось захватить [p3] ресурсов и [p4] монет. 
 
 #event_Db_raid
-[y] is raiding [x]
+[y] грабит [x]
 
 #event_Db_raid_1
-[y] has launched a raid on [x] with [p2] soldiers.
+[y] грабит [x] с [p2] солдатами.
 
 #event_Db_raid_2
-We have to stop them before they reach and pillage our resources and buildings and leave the territory with their loot!
+Мы должны остановить их до того как они доберутся до наших ресурсов и зданий, ограбят их и покинут территорию с добычей!
 
 #event_Dbr_raid
-Defense of [x] against a raid from [y]
+Защита [x] от грабителей из [y]
 
 #event_Dbr_raid_1
-[y] raided [x] to pillage our territory with [p2] soldiers.
+[y] напал на [x], чтобы ограбить нашу территорию с [p2] солдатами.
 
 #event_Dbr_raid_2
-They managed to pillage [p3] resources and [p4] coins. 
+Им удалось награбить [p3] ресурсов и [p4] монет. 
 
 #event_Ab_sack
-Sacking [x]
+Разорение [x]
 
 #event_Ab_sack_1
-We're launching an assault on [x] to sack the territory with [p2] soldiers.
+Мы напали на  [x], чтобы разорить территорию, имея [p2] солдат.
 
 #event_Ab_sack_2
-Our troops will attempt to eliminate all the enemies and defenses of the territory before pillaging everything they can and leave with their loot.
+Наши войска попытаются уничтожить всех врагов и укрепления на территории, прежде чем разрушить и сжечь все, что смогут и уйти с награбленным.
 
 #event_Abr_sack
-Sacking of [x]
+Разорение [x]
 
 #event_Abr_sack_1
-We launched an assault on [x] to sack their territory with [p2] soldiers.
+Мы напали на  [x], чтобы разорить их территорию, имея [p2] солдат.
 
 #event_Abr_sack_2
-Our troops managed to pillage [p3] resources and [p4] coins. 
+Нашим войскам удалось награбить [p3] ресурсов и [p4] монет. 
 
 #event_Db_sack
-[y] is trying to sack [x]
+[y] пытается разорить [x]
 
 #event_Db_sack_1
-[y] has launched an assault on [x] to sack the territory with [p2] soldiers.
+[y] напал на [x], чтобы разорить территорию, имея [p2] солдат.
 
 #event_Db_sack_2
-They will attempt to eliminate all our troops and defenses before pillaging everything they can and leaving with the loot.
+Они попытаются уничтожить все наши войска и укрепления на территории, прежде чем разрушить и сжечь все, что смогут и уйти с награбленным.
 
 #event_Dbr_sack
-Defense of [x] against a sacking from [y]
+Защита [x] от разорения со стороны [y]
 
 #event_Dbr_sack_1
-[y] launched an assault on [x] to sack our territory with [p2] soldiers.
+[y] напал на [x], чтобы разорить нашу территорию с [p2] солдатами.
 
 #event_Dbr_sack_2
-They managed to pillage [p3] resources and [p4] coins. 
+Им удалось награбить [p3] ресурсов и [p4] монет. 
 
 #event_Db_assist
-Assisting [y] in defense of [x]
+Помощь [y] в защите [x]
 
 #event_Db_assist_1
-[y] is under attack in [x]. 
+[y] под ударом в [x]. 
 
 #event_Db_assist_2
-As an ally, our [p2] troops are participating to the battle and assissting in its defense against [p3] enemies.
+Выполняя союзные обязательства перед [p2], наши войска участвуют в битве и помогают отбиться от [p3] врагов.
 
 #event_Dbr_assist
-Assisted [y] in defense of [x]
+Помощь [y] в защите [x]
 
 #event_Dbr_assist_1
-[y] was attacked in [x]. 
+[y] был атакован в [x]. 
 
 #event_Dbr_assist_2
-As an ally, our [p2] troops participated to the battle to help in its defense against [p3] enemies.
+Выполняя союзные обязательства перед [p2], наши войска участвовали в битве и помогали отбиться от [p3] врагов.
 
 #event_Ab_assist
-Assisting [y] in the attack of [x]
+Помощь [y] в нападении на [x]
 
 #event_Ab_assist_1
-[y] is attacking [y]. 
+[y] атакует [y]. 
 
 #event_Ab_assist_2
-As an ally of [y], our troops are participating to the battle and assissting his armies.
+Выполняя союзные обязательства перед [y], наши войска участвуют в битве и помогают его армии
 
 #event_Abr_assist
-Assisted [y] in the attack of [x]
+Помощь [y] в нападении на [x]
 
 #event_Abr_assist_1
-[y] attacked [y]. 
+[y] атаковал [y]. 
 
 #event_Abr_assist_2
-As an ally of [y], our troops participated to the battle and assissted his armies.
+Выполняя союзные обязательства перед [y], наши войска участвовали в битве и помогали его армии.
 
 #event_hunt
-Охота [p2] [p3]
+Охота на [p2] [p3]
 
 #event_hunt_1
-We are launching a hunt against [p2] [p3]!
+Мы начинаем охоту на [p2] [p3]!
 
 #event_hunt_2
-Our hunters will attempt to kill as much of these animals as they can to fill their inventory.
+Наши охотники попытаются убить как можно больше этих животных, чтобы заполнить инвентарь.
 
 #event_huntr
-Hunting [p2] [p3]
+Охота на [p2] [p3]
 
 #event_huntr_1
-Our hunters launched a hunt against [p2] [p3].
+Наши охотились на [p2] [p3].
 
 #event_huntr_2
-They attempted to kill as much of these animals as they could to fill their inventory.
+Они попытались убить как можно больше этих животных, чтобы заполнить инвентарь.
 
 #event_debt
-В долгу!
+Задолженность!
 
 #event_debt_1
-Сейчас мы в долгу на [p1] монет в нашей казне. Бытие в долгу уменьшает власть и влияет на лояльность наших городов и армий.
+Сейчас в нашей казне не хватает [p1] монет. Пребывание в долгу уменьшает нашу Власть и влияет на лояльность наших городов и армий.
 
 #event_debt_2
-We need to put back our state income balance in the green or we'll get in serious trouble. If the situation is desperate, we can also take a last resort decision of cancelling our debt but this will generate great unrest in our state.
+Нам нужно вернуть баланс бюджета в зелёную область или у нас будут серьёзные неприятности. Если ситуация отчаянная, мы можем прибегнуть к последнему средству и списать свой долг, но это вызовет большие волнения в государстве.
 
 #event_c_canceldebt
-Отменить долг
+Списать долг
 
 #event_confcdebt
-Подтвердите отмену долга?
+Подтвердите списание долга?
 
 #event_confcdebt_1
-Вы уверены что хотите объявить свой долг несуществующим?
+Вы уверены что хотите списать долг?
 
 #event_confcdebt_2
 При долге [p1] монет и ВВП [p2], наш долг представляет [p3] нашего ВВП: если мы отменим его, мы потерпим приблизительный штраф в [p4] лояльности во всех наших территориях и потеряем около [p5] чести!
 
 #event_canceldebt
-Долг отменен!
+Долг списан!
 
 #event_canceldebt_1
-We took the drastic measure of declaring our debt of [p1] coins nul and void, anouncing that we would not be paying back what we owed.
+Мы пошли на крайние меры и объявили, что не будем платить кредиторам, тем самым списав свой долг, составлявший [p1] монет.
 
 #event_canceldebt_2
-In all our cities, the creditors of our debt are revolted that they're never getting paid what we owed them. Many people lost everything and are ruined as a consequence. The economy is destabilized and in great turmoil, not to mention the loss of the people's trust in their government. 
+Во всех наших городах, кредиторы восстали, поняв, что никогда не получат назад свои деньги. Многие потеряли все и, как следствие, разорились. Экономика дестабилизирована, и все в смятении, не говоря о том, что граждане потеряли веру в правительство.
 
 #event_canceldebt_3
-As a consequence of canceling a debt of [p3]% our total GDP ([p2] coins), we are suffering a penalty of [p4] Loyalty in all our territories and you have lost [p5] of honor. This effect will slowly decay as people forget this event, but it will require time. In the meantime, we should prepare for the worse.
+Как следствие того, что нами списан долг в [p3]% нашего ВВП ([p2] монет), мы теряем [p4] Лояльности во всех территориях, а также [p5] Чести. Этот эффект постепенно сойдёт на нет по мере того, как люди забудут вызвавшие его события, но на это потребуется время. Пока же, нам стоит приготовится к худшему.
 
 #event_lowpow
-Недостаток политической силы!
+Недостаточно Власти!
 
 #event_lowpow_1
-State power is the capacity of your state to manage things. Without it, we will be unable to pass reforms and the loyalty of our territories is negatively impacted which may lead to popular rebellions.
+Власть - это способность вашего государства управлять вещами. Без неё, мы не сможем проводить реформы, а Лояльность территорий уменьшается, что может привести к народным восстаниям.
 
 #event_lowpow_2
-State power can be improved by : owning less cities, having no debt, revoquing expensive policies.
+Власть можно увеличить владея меньшим числом городов, отсутствием долга, проведением дорогостоящих реформ.
 
 #event_lowlegit
-Отрицательная легитимность!
+Недостаточно Легитимности!
 
 #event_lowlegit_1
-Legitimacy is how much the people recognizes the right of your state's claims to authority. Without it, not only do we face an increasing risk of popular uprisings, but our armies might also turn against us to overthrow our illegitimate government!
+Легитимность показывает, на сколько люди признают ваше право управлять государством. Без неё мы не только подвергнемся увеличивающемуся риску народных восстаний, но и наши армии могут восстать против нас, чтобы свергнуть нелигитимное правительство!
 
 #event_lowlegit_2
-Legitimacy policies define what claims you make to assert your right as the leader of this State. These claims define the importance of all the different Legitimacy factors. To improve our situation, we could either work to improve the current factors, or reform our Legitimacy claims to rely on more beneficial ones.
+Политики Легитимности определяют, какие заявления вы делаете, чтобы отстоять своё право на лидерство. Эти заявления определяют важность каждого из различных факторов Легитимности. Чтобы улучшить ситуацию, мы можем как улучшить имеющиеся факторы, так и изменить наши заявления на Легитимность, чтобы опираться на те из них, что более продуктивны. 
 
 #event_tribwarn
-Stolen territory
+Украденные земли
 
 #event_tribwarn_1
-Beware! By creating our newest settlement of [x], we have usurped the lands of a primitive tribe that has been living there for generations. Sure, this territory looked appealing, but we will eventually pay the consequences of this action for the natives will not tolerate our presence forever.
+Осторожно! Создав недавно поселение [x], мы захватили земли примитивного племени, жившего здесь на протяжении многих поколений. Пусть эта территория выглядела привлекательно, но скоро мы поплатимся за свои действия, ведь местные не будут вечно нас терпеть.
 
 #event_tribwarn_2
-For now, they only watched us set camp from afar but they know these lands better than anyone and disapear everytime we try to approach them. I'm afraid we won't be able to 'deal with them' before they choose to cause trouble... We should prepare for a possible surprise attack by them. They might be preparing weapons and warriors to chase us from their lands as we speak! Or maybe this land is not worth the trouble after all and we could just pack up and leave them be?
+До сих пор они лишь наблюдали издалека, как мы устраиваем свой лагерь. Но они знают эти земли лучше, чем кто-либо и исчезают всякий раз, как мы пытаемся приблизиться. Боюсь, у нас не получится "разобраться с ними" до того, как они решат доставить нам неприятности... Нам стоит приготовиться к возможной засаде. Прямо сейчас, как  мы разговариваем, они могут готовить оружие и воинов, чтобы прогнать нас со своей земли! Может это место не стоит того и нам лучше просто собраться и оставить их в покое?
 
 #event_tribreb
-Primitive tribe uprsiging in [x]!
+Восстание примитивного племени в [x]!
 
 #event_tribreb_1
-The natives living in our territory of [x] have grown upset of having what they feel to be their territory occupied by us. They have taken arms and decided to treacherously attack!
+Аборигены, живущие на территории [x] устали терпеть наше присутствие на, как они считают, их территории. Они взяли в руки оружие и подло напали на нас!
 
 #event_trt_ref
-[y] has refused our treaty proposal
+[y] отказался от предложенного нами договора
 
 #event_trt_ref_1
-An emissary of [y] has informed us that our fair and generous treaty offer has been declined by [x].
+Посланник [y] сообщил нам, что наше искреннее и щедрое предложение было отклонено [x].
 
 #event_trt_acc
 Подписан договор с [y]
 
 #event_trt_acc_1
-Our treaty with [x] of [y] has been approved and signed by us both and is now effective!
+Договор с [x] из [y] был одобрен, подписан обеими сторонами и вступил в силу!
 
 #event_trt_rngoc
-[y] is proposing a treaty renegociation
+[y] предлагает заново подписать договор на новых условиях
 
 #event_trt_rngoc_1
-[x] of [y] is proposing the following renogication of a treaty we currently have with them. If we agree to these new terms, the treaty will be updated.
+[x] из [y] предлагает нижеследующие изменения в имеющийся между нами договор. Если мы согласимся на новые условия, договор будет подписан заново.
 
 #event_trt_asktrm
-[y] is asking to terminate a treaty
+[y] просит расторгнуть договор
 
 #event_trt_asktrm_1
-[x] of [y] is asking for the mutually agreed termination of a treaty we have with his people. If we agree to this request, the treaty will be terminated instantly without triggering any breaking closes and its terms will cease to be effective. If we refuse, nothing will happen and the treaty will remain active unless they decide to break it illegally (in which case their breaking closes apply).
+[x] из [y] просит расторгнуть договор при взаимном согласии сторон. Если мы согласимся, договор будет моментально расторгнуто без применения штрафных санкций, и его положения перестанут действовать. Если мы откажемся, ничего не произойдёт, и договор останется в силе, если только они не расторгнут его в одностороннем порядке (в этом случае к ним будут применены штрафные санкции).
 
 #event_trt_brk1
 [x] нарушил соглашение!
 
 #event_trt_brk1_1
-[x] has illegaly broken the treaty of '[y]' they had with us!
+[x] отказался выполнять условия соглашения "[y]", заключённого с нами!
 
 #event_trt_brk1_2
-According to the treaty's breaking terms, we have received [p1] coins in compensation and they lost [p2] of honor.
+В соответствии с условиями договора, мы получили [p1] монет в качестве компенсации, а они потеряли [p2] Чести.
 
 #event_trt_brk2
 Мы нарушили соглашение с [x]!
 
 #event_trt_brk2_1
-We have illegaly broken the treaty of '[y]' we had with [x].
+Мы отказались выполнять условия соглашения "[y]", заключённого с [x].
 
 #event_trt_brk2_2
-According to the treaty's breaking terms, as a penalty we have paid [p1] coins and lost [p2] of honor.
+В соответствии с условиями договори, мы заплатили штраф в размере [p1] монет и потеряли [p2] Чести.
 
 #event_trt_brkw1
-We have declared war to them in retaliation, and any other treaty with them has 
+В отместку мы объявили им войну.
 
 #event_trt_brkw2
-They have declared war on us in retaliation.
+В отместку они объявили нам войну.
 
 #event_brb_raid
-Incoming barbarian raiders!
+Приближаются варвары грабители!
 
 #event_brb_raid_1
-Our scouts report that a group of around [p1] barbarian raiders have left the nearby territory of [x] and are coming our way.
+Наши разведчики сообщают, что группа из примерно [p1] варваров грабителей покинула близлежащую территорию [x] и направляется в нашу сторону.
 
 #event_brb_raid_2
-They might be here soon and attempt to quickly raid our warehouses. We must get our defenses ready! 
+Скоро они будут здесь и попытаются быстро ограбить наши склады. Мы должны приготовиться к обороне!
 
 #event_brb_sack
-Incoming barbarian warband!
+Приближается банда варваров!
 
 #event_brb_sack_1
-Our scouts report that a barbarian warband of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+Наши разведчики сообщают, что варварская банда из [p1] свинов покинула близлежащую территорию [x] и направляется в нашу сторону.
 
 #event_brb_sack_2
-They might be here soon and will attack to overcome all our defenses beofre sacking the whole territory! We must get our defenses ready! 
+Скоро они будут здесь, чтобы преодолеть нашу оборону и затем разорить всю территорию! Мы должны приготовиться к обороне!
 
 #event_brb_inv
-Incoming barbarian invaders!
+Приближаются варвары захватчики!
 
 #event_brb_inv_1
-Our scouts report that an army of barbarians of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+Наши разведчики сообщают, что армия варваров из примерно [p1] свинов покинула близлежащую территорию [x] и направляется в нашу сторону.
 
 #event_brb_inv_2
-They might be here soon and they dont seem to be coming just to pillage, but to invade our lands! We must get our defenses ready! 
+Скоро они будут здесь, и похоже, что идут они не просто чтобы пограбить, но чтобы захватить наши земли! Нам надо приготовиться к битве! 
 
 #event_crsh_vict
-Crushing victory!
+Сокрушительная победа!
 
 #event_crsh_vict_1
-Our formation <<[x]>> has utterly crushed and eliminated a small troop of [y] enemies, thanks to our overwhelming superior numbers. 
+Формирование <<[x]>> с предельной жестокостью расправилось с небольшим отрядом из [y] супостатов, благодаря нашему подавляющему численному превосходству. 
 
 #event_crsh_dfeat
-Crushing defeat!
+Сокрушительное поражение!
 
 #event_crsh_dfeat_1
-Grave news : our formation <<[x]>> has been utterly crushed and eliminated by the [y] enemy, with overwhelming superior numbers. Nobody survived to even tell the tale.
+Печальные новости: наше формирование <<[x]>> было вдребезги разбито неисчислимыми ордами [y]. В живых не осталось никого.
 
 #event_popdefrise
-The people of [x] is defending the city!
+Жители [x] защищают город!
 
 #event_popdefrise_1
-The people of the city of [x] are taking arms by themselves to help defend the city against the attackers. [p1] porcos are joining the battle!
+Граждане города [x] берут в руки оружие, чтобы помочь в защите города от недругов. [p1] свинов вступают в битву!
 
 #event_trout_w1
-Trade route warning: no trading rights!
+Предупреждение Торгового Пути: нет прав на торговлю!
 
 #event_trout_w1_1
-Because we no longer have trading rights with the city of [y], our trade route between this city and [x] will close soon unless we fix this issue quickly. 
+Так как у нас больше нет прав на торговлю с городом [y], наш торговый путь между этим городом и [x] будет закрыт, если мы быстро не исправим положение. 
 
 #event_trout_w1_2
-This can happen if the city has a new owner with whom we havn't negociated trading rights, or if these rights have been revoked.
+Это могло произойти, если у города новый владелец, с которым у нас нет прав на торговлю, или если эти права были отозваны.
 
 #event_trout_b1
-Trade route broken!
+Торговый путь не работает!
 
 #event_trout_b1_1
-Because we no longer had trading rights with the city of [y], our trade route between this city and [x] closed. 
+Так как у нас больше нет прав на торговлю с городом [y], наш торговый путь между этим городом и [x] закрыт. 
 
 #event_trout_b1_2
-This happened because the city got a new owner with whom we havn't negociated trading rights or if because the trading rights were revoked.
+Это произошло из-за того, что у города теперь новый владелец, с которым у нас нет прав на торговлю, или если эти права были отозваны. 
 
 #event_trout_w2
-Trade route warning: missing cargo!
+Предупреждение Торгового Пути: не хватает Грузоперевозки!
 
 #event_trout_w2_1
-Our trade route with [x] operated by [y] is missing [p2] of cargo to be operated properly. The trade route will close soon unless we fix this issue quickly.
+Нашему торговому пути с [x], управляемому из [y], не хватает [p2] Грузоперевозки, чтобы работать нормально. Торговый путь скоро закроется, если мы быстро не исправим положение.
 
 #event_trout_w2_2
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
+Услуга Грузоперевозки - это то, что позволяет осуществлять непрерывный провоз товаров по торговому пути. Каждый путь, в зависимости от дистанции и объёма провозимых товаров, требует определённого количества Грузоперевозок. 
 
 #event_trout_w2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+Однако, оператор торгового пути больше не производит достаточный для функционирования этого торгового пути объем Грузоперевозок. Чтобы исправить положение, нужно увеличить доступный объем услуг или переключится на нового оператора, способного предоставить требуемый объем Грузоперевозок ([p3]).
 
 #event_trout_b2
-Trade route broken!
+Торговое сообщение разорвано!
 
 #event_trout_b2_1
-Our trade route with [x] closed because its operator [y] was unable to provide the required cargo ([p3]) to maintain it (was missing [p2]).
+Торговое сообщение с [x] был разорвано, так как оператор [y] не мог предоставить требуемого для его поддержки количества грузоперевозок ([p3]). Не хватало [p2].
 
 #event_trout_b2_2
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
+Услуга Грузоперевозки - это то, что позволяет осуществлять непрерывный провоз товаров по торговому пути. Каждый путь, в зависимости от дистанции и объёма провозимых товаров, требует определённого количества Грузоперевозок. 
 
 #event_trout_b2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+Однако, оператор торгового пути больше не производит достаточный для функционирования этого торгового пути объем Грузоперевозок. Чтобы исправить положение, нужно увеличить доступный объем услуг или переключится на нового оператора, способного предоставить требуемый объем Грузоперевозок ([p3]).
 
 #event_trout_w3
-Trade route warning: we are missing goods!
+Предупреждение Торгового Пути: не хватает товаров!
 
 #event_trout_w3_1
-Our trade route exporting [p2] [p3] to [x] from [y] is lacking the required goods and will close soon unless we fix this issue quickly!
+Нашему торговый путь, экспортирующему [p2] [p3] из [y] в [x] не хватает товаров и скоро закроется если, мы ничего не предпримем!
 
 #event_trout_w3_2
-This is happening because we are no longer producing enough [p3] in [x] and our stocks have run out. 
+Причина в том, что мы больше не производим достаточно [p3] в [x] и наши запасы закончились. 
 
 #event_trout_b3
-Trade route broken!
+Торговое сообщение разорвано!
 
 #event_trout_b3_1
-Our trade route exporting [p2] [p3] to [x] from [y] closed because we could no longer provide the required goods.
+Наш торговый путь, экспортирующий [p2] [p3] из [y] в [x] закрыт, так как мы больше не можем обеспечить их требуемыми товарами.
 
 #event_trout_b3_2
-This happened because we were not producing enough [p3] in [x] and our stocks had ran out. 
+Это произошло из-за того, что мы не производили достаточно [p3] в [x] и наши запасы закончились. 
 
 #event_trout_w4
-Trade route warning: exporter is missing goods!
+Предупреждение торгового пути: экспортёру не хватает товаров!
 
 #event_trout_w4_1
-Our trade route importing [p2] [p3] from [y] to [x] is lacking the required goods and might close soon unless the exporter fix this issue quickly!
+Наш торговый маршрут, импортирующий [p2] [p3] из [y] в [x] испытывает нехватку товаров и может скоро прекратить существование, если экспортёр ничего не сделает в ближайшее время!
 
 #event_trout_w4_2
-This is happening because their production of [p3] in [y] is insufficent and their stocks ran out.
+Это происходит, потому что производство [p3] в [y] недостаточно и их склады опустели.
 
 #event_trout_b4
-Торговый маршрут сломан!
+Торговое сообщение разорвано!
 
 #event_trout_b4_1
-Our trade route importing [p2] [p3] from [x] to [y] closed because they could no longer provide the required goods.
+Наш торговый путь, импортировавший [p2] [p3] из [x] в [y] закрыт, по причине отсутствие нужного объёма товаров.
 
 #event_trout_b4_2
-This happened because their production of [p3] in [x] was insufficent and their stocks had ran out.
+Это произошло из-за того, что их производство [p3] в [x] было недостаточно, а запасы закончились.
 
 #event_trout_c1
-[x] closed a trade route!
+[x] разорвал торговое сообщение!
 
 #event_trout_c1_1
-The city of [x] closed their trade route of [p2] [p3] with our city of [y].
+Город [x] закрыл торговый путь на [p2] [p3] с нашим городом [y].
 
 #event_trout_c2
-One of our trade routes was closed by its operator!
+Один из наших торговых путей был закрыт его оператором!
 
 #event_trout_c2_1
-The city of [x] has decided to stop operating our trade route of [p2] [p3] with our city of [y]. This resulted in the trade route beeing closed.
+Город [x] решил прекратить поддерживать наш торговый путь на [p2] [p3] с городом [y]. Как следствие, торговый путь был закрыт.
 
 #event_cdog
 Охотники поймали несколько диких собак в [x]!
 
 #event_cdog_1
-Some wild dogs have been wandering around the village of [x] lately. The animals seemed friendly and one hunter managed to tame some of them: he put them in a closed paddock to keep them around. We should keep them until we need fresh meat, its always good to have food stocks!
+Несколько диких собак недавно слонялись рядом с деревней [x]. Животные выглядели дружелюбными, и один охотник смог их приручить: он заманил их в маленьких загон, из которого им не выбраться. Нам стоит оставить их, пока не понадобится свежее мясо. Хорошо иметь запасы продовольствия!
 
 #event_csheep
-We have tamed some wild sheep in [x]!
+Мы приручили несколько диких овец в [x]!
 
 #event_csheep_1
-Some wild sheep have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks! They are also quite fluffy.
+Несколько диких овец недавно слонялись рядом с деревней [x]. Животные выглядели дружелюбными, и один из селян смог заманить их в маленьких загон, из которого им не выбраться. Нам стоит оставить их, пока не понадобится свежее мясо. Хорошо иметь запасы продовольствия! К тому же они такие пушистые!
 
 #event_cgoat
-We have tamed some wild goats in [x]!
+Мы приручили несколько диких коз в [x]!
 
 #event_cgoat_1
-Some wild goats have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Несколько диких коз недавно слонялись рядом с деревней [x]. Животные выглядели дружелюбными, и один из селян смог заманить их в маленьких загон, из которого им не выбраться. Нам стоит оставить их, пока не понадобится свежее мясо. Хорошо иметь запасы продовольствия!
 
 #event_crabbit
 Охотники поймали несколько диких кроликов в [x]!
 
 #event_crabbit_1
-The hunters of [x] got lucky and have managed to capture some rabbits alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
+Охотникам из [x] повезло и они смогли поймать несколько диких кроликов. Их поймали живьём и посадили в клетки на случай, если нам потребуется свежее мясо! Хорошо иметь запасы продовольствия!
 
 #event_cchick
 Охотники поймали несколько диких куриц в [x]!
 
 #event_cchick_1
-The hunters of [x] got lucky and have managed to capture some chickens alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
+Охотникам из [x] повезло и они смогли поймать несколько диких куриц. Их поймали живьём и посадили в клетки на случай, если нам потребуется свежее мясо! Хорошо иметь запасы продовольствия!
 
 #event_ccow
-We have tamed some wild cows in [x]!
+Мы приручили несколько диких коров в [x]!
 
 #event_ccow_1
-Some wild cows have been wandering around the village of [x] lately. These animals seemed passive, and one villager managed to direct them to a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Несколько диких коров недавно слонялись рядом с деревней [x]. Животные выглядели безразличными, и один из селян смог направить их в маленьких загон, из которого им не выбраться. Нам стоит оставить их, пока не понадобится свежее мясо. Хорошо иметь запасы продовольствия!
 
 #event_cbuff
-We have tamed some wild buffalos in [x]!
+Мы приручили несколько диких буффало в [x]!
 
 #event_cbuff_1
-Some wild buffalos have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Несколько диких буффало недавно слонялись рядом с деревней [x]. Животные выглядели дружелюбными, и один из селян смог заманить их в маленьких загон, из которого им не выбраться. Нам стоит оставить их, пока не понадобится свежее мясо. Хорошо иметь запасы продовольствия!
 
 #event_chorse
 Охотники поймали несколько диких лошадей в [x]!
 
 #event_chorse_1
-The hunters of [x] got lucky and have managed to capture some wild horses. They have locked the agitated animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
+Охотникам из [x] повезло и они смогли поймать несколько диких лошадей. Они заперли взволнованных животных в небольшом загоне на случай, если нам потребуется свежее мясо! Хорошо иметь запасы продовольствия!
 
 #event_ccamel
 Охотники поймали несколько диких верблюдов в [x]!
 
 #event_ccamel_1
-The hunters of [x] got lucky and have managed to capture some wild camels. They have locked the stubborn silly looking animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
+Охотникам из [x] повезло и они смогли поймать несколько диких верблюдов. Они заперли упрямых, смешно выглядящих животных в небольшом загоне на случай, если нам потребуется свежее мясо! Хорошо иметь запасы продовольствия!
 
 #event_cllama
-We have tamed some wild llamas in [x]!
+Мы приручили несколько диких лам в [x]!
 
 #event_cllama_1
-Some wild llamas have been wandering around the village of [x] lately. These animals seemed quite friendly - to the extent of a stubborn spitting llama - and one villager managed to push them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Несколько диких лам недавно слонялись рядом с деревней [x]. Животные казались дружелюбными - на столько, насколько может быть дружелюбной упёртая, плюющаяся лама, - и один из селян смог затолкнуть их в маленький загон, из которого им не выбраться. Нам стоит оставить их, пока не понадобится свежее мясо. Хорошо иметь запасы продовольствия!
 
 #event_projsuc
-Our project '[x]' was successfully completed!
+Наш проект "[x]" успешно завершён!
 
 #event_projsuc_1
-Our project '[x]' has been successfully completed and we have earned its rewards!
+Наш проект "[x]" успешно завершён и мы получили его плоды!
 
 #event_projfail
-Our Project '[x]' failed!
+Наш проект "[x]" провален!
 
 #event_projfail_1
-Our project of '[x]' with [p2]% chances of success has been completed, but unfortunately it failed to meet its expectations and we have not earned its expected rewards. I'm afraid we have to start again from scratch and hope for better results...
+Наш проект "[x]", имевший [p2]% шанс на успех завершён, но к сожалению, не оправдал ожиданий и мы не получили желаемого результата. Боюсь, нам придётся начать все сначала. Может, в следующий раз получится...
 
 #event_projfail_2
-A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We should try to assign better researchers to increase our chaces of success next time!
+Проект может провалиться, если его сложность выше чем средний интеллект исследователей, занимающихся им. Мы должны назначать лучших исследователей, чтобы увеличить шансы на успех в следующий раз!
 
 #event_herd
-Herd of [p2] spotted near [x]!
+Стадо, состоящее из [p2], было замечено около [x]!
 
 #event_herd_1
-The scouts of the tribe have spotted a moving heard of around [p1] [p2] near our settlement of [x],in a territory of [y].
+Разведчики племени заметили движение стада, состоящего из примерно [p1] [p2] около нашего поселения [x], на территории [y].
 
 #event_herd_2
-We could send some of our best Porcos to hunt them: that would provide us with fresh meat and leather for the tribe!
+Мы можем послать наших лучших Свинов на охоту. Они могут обеспечить наше племя свежим мясом и кожей!
 
 #event_form_animesc
-[p3] have escaped the surveillance of our '[x]'!
+[p3] скрылись от наших"[x]"!
 
 #event_form_animesc_1
-[p2] [p3] have escaped from the surveillance of our formation '[x]' that was guarding them, and are now lost.
+[p2] [p3] скрылись от нашего формирования "[x]", охранявшего их, и теперь потеряны для нас.
 
 #event_form_animesc_2
-Animals may escape if they are too numerous relative to their keepers or simply kept for too long in a formation's inventory. To make sure this doesn't happen again, maybe we should consider parking them in proper paddocks or carrying smaller numbers so they are less likely to escape the supervision of their assigned keepers.
+Животные могут сбежать, если слишком многочисленны, по сравнению с их охранниками, или слишком долго содержатся в инвентаре отряда. Чтобы предотвратить это в будущем, нам стоит подумать об обустройстве подходящих загонов, или содержать меньшее количество, чтобы уменьшить вероятность их побега.
 
 #event_rcvidea
 Мы получили новую идею от [x]!
 
 #event_rcvidea_1
-Good news: the people of [x] have shown us their knowledge of [p1] and explained to us the rudiments of what it is and how it works.
+Хорошие новости: свины из [x] поделились с нами знанием о [p1] и объяснили на пальцах, что это и как оно работает.
 
 #event_rcvidea_2
-Based on what they shown us, we have now unlocked a new project: '[p2]', which we can attempt to complete ourselves to master the knowledge of [p1] as well!
+Основываясь на том, что она нам показали, мы смогли открыть новый проект: "[p2]", который мы можем попытаться завершить самостоятельно и тоже освоить знание о [p1]!
 
 #event_trtov
-Our treaty '[x]' with [y] is now over.
+Наш договор "[x]" с [y] завершён.
 
 #event_trtov_1
-The treaty '[x]' we had with [y] reached the end of its agreed duration and is now obsolete! 
+Договор "[x]", заключённые нами с [y] достиг конца оговорённого срока действия и теперь недействителен! 
 
 #ev_migtrib
 Племя голодных кочевников [x]
 
 #ev_migtrib_1
-Attracted by our prosperity, a primitive tribe of hungry nomads has arrived in [x]. They have been wandering the lands for a long time, suffering from hunger, and they are interested in joining our community. They carry little with them and don't have much to offer besides their workforce.
+Привлечённое нашим процветанием, примитивное племя голодных кочевников прибыло в [x]. Они странствовали по землям долгое время, страдая от голода, и теперь заинтересованы присоединиться к нашей общине. Они мало что несут с собой и ничего не могут предложить взамен, кроме своей работы.
 
 #ev_migtrib_2
-Should we welcome them into our tribe ?
+Примем ли мы их в племя?
 
 #ev_migtrib_c1
 "Да, нам нужна рабочая сила. Давайте поприветствуем их среди нас."
@@ -1041,58 +1040,58 @@ Should we welcome them into our tribe ?
 Ночной шторм в [x]
 
 #ev_stormwood_1
-A violent storm raged all night in [x], with strong winds. Luckily, nooone was harmed and the village didn't sustain any damage.
+Страшная буря бушевала всю ночь в [x]. К счастью никто не пострадал, и деревне не нанесено никакого ущерба.
 
 #ev_stormwood_2
-In the morning however, the villagers noticed that a few tall old trees had fallen nearby, making it an easy free supply of wood! 
+Однако утром жители заметили, что несколько высоких деревьев упало неподалёку, и теперь у нас есть доступный источник древесины! 
 
 #ev_luckgath
-Lucky gatherer in [x]
+Удачливый собиратель [x]
 
 #ev_luckgath_1
-One of our gatherers got lucky and stumbled upon a previously undiscovered patch of edible plants hidden in the vegetation that noone had previously noticed! That is one good harvest for the day!
+Одному из наших собирателей повезло и он наткнулся на окружённый зарослями и прежде не замеченный никем клочок земли со съедобными растениями! Отличный урожай для одного дня! 
 
 #ev_nagwif
-The nagging wife
+Ворчливая жена
 
 #ev_nagwif_1
-One porco of the village of [x], exasperated by the constant naggings of his Sow, decided to go on a lonely retreat in the wilderness to hunt and thus he disapeared for several days. 
+Один хряк из деревни [x], раздраженный постоянными упрёками своей жены, решил уединиться в глуши, чтобы поохотиться, и исчез на несколько дней.
 
 #ev_nagwif_2
-Many feared he would never return. But on the 5th day he came back, carrying with him the spoils of what had turned out to be a greatly successful hunt. He was cheered by the whole tribe. His wife however was not pleased and left with her piglets to live at her mother's tribe on the other side of valley.
+Многие опасались, что он не вернётся. Но на 5ый день он появился, неся с собой обильную добычу. Его приветствовало все племя. Жена героя, однако, вовсе не обрадовалась и, забрав поросят, ушла жить в племя своей матери на другой стороне долины.
 
 #ev_regwolf
-Hungry wolves in [x]!
+Голодные волки в [x]!
 
 #ev_regwolf_1
-A pack of hungry wolves has arrived in the territory of [x], probably attracted by our food stocks! During the night, they woke up the whole tribe with their frightening howlings which which got closer and closer. At dawn, their dark silhouettes were spotted around the village.
+Стая голодных волков появилась на территории [x]! Возможно, их привлекли наши запасы еды. Ночью они разбудили все племя своим леденящим душу воем. На рассвете их тёмные силуэты были замечены вокруг деревни.
 
 #ev_regwolf_2
-All the warriors rushed to their weapons and gathered, ready to fight off the incoming wolf pack and to protect the village's people and stocks!
+Все воины схватили оружие и собрались, готовые дать отпор приближающейся стае и защитить деревню и припасы!
 
 #ev_regbear
-Bad bears in [x]
+Плохие мишки в [x]
 
 #ev_regbear_1
-A small group bears came wandering in the territory of [x]. During the night they entered the village and started to rampage through our food stocks and supplies.
+Небольшая группа медведей забрела на территорию [x]. Ночью они пробрались в деревню и начали уничтожать наши запасы продовольствия и инвентаря.
 
 #ev_regbear_c1
-"Everyone, just pretend to sleep..."
+"Давайте просто притворимся спящими..."
 
 #ev_regbear_c2
-Time to fight some bears!
+Пора сразиться с медведями!
 
 #ev_asylm
 Искатели убежища в [x]
 
 #ev_asylm_1
-Группа кочевников прибыла в нашу территорию [x]. Они рассказали свою историю о том как они убегали из своих земель, будучи преследуемыми другим племенем после конфликта с ними.
+Группа кочевников прибыла в нашу территорию [x]. Они рассказали свою историю о том, как убежали со своих земель, спасаясь от враждебного племени, и теперь преследующего их.
 
 #ev_asylm_2
-Attacked during one night, they lost most of their people and fled their homeland, but not before one of their best warriors managed to kill the chief of the enemy tribe. Since then, his son has vowed to hunt them down for revenge no matter where they go, and they have been on the run for many weeks. 
+На них напали ночью. Многие погибли, а оставшиеся в живых покинули землю предков. Но в пылу битвы один из лучших их воинов смог убить вражеского вождя. Сын же того вождя поклялся выследить всех выживших и отомстить, чего бы это ему не стоило. Погоня продолжается уже много недель.
 
 #ev_asylm_3
-Their pursuers are not far behind, and your tribe is now their only hope. They beg for asylum and safety, offering to pledge their loyalty to our people if we accept to protect them. If we do, we will have to fight their pursuers! 
+Их преследователи неподалёку, и ваше племя - это последняя надежда беглецов. Они умоляют предоставить им убежище и защиту, утверждая, что станут частью общины, если мы защитим их. Если мы согласимся, нам придётся сражаться с их преследователями!
 
 #ev_asylm_c1
 Дать убежище и биться с преследователями.
@@ -1101,139 +1100,139 @@ Their pursuers are not far behind, and your tribe is now their only hope. They b
 Захватить беглецов и предоставить их на суд преследователей за награду.
 
 #ev_knowtrav
-The knowledgable traveler
+Мудрый странник
 
 #ev_knowtrav_1
-One day, an old pig arrived in our village of [x], his feet weary from the many travels he had made. He was a lonely hermit, living and travelling alone for many years now. 
+Однажды старый свин прибыл в нашу деревню [x]. Копыта его носили следы многих странствий. Он был отшельником, жившим и путешествовавшим в одиночестве многие годы.
 
 #ev_knowtrav_2
-He told the tale of the ancient people he belonged to, who perished a long time ago from a mysterious desease that he was the only one to miraculously recover from, fleeing away from his land. He also told stories of how his people used to live: incredible stories about things they did that noone here had ever though off. There was much to learn from his teachings as he seemed to come from a more refined a mysterious people. 
+Он поведал о древних людях, к которым сам принадлежал, погибшим давным-давно от таинственной болезни. Он один смог чудом оправиться от неё и покинул свою Родину. Также он рассказал истории из жизни своего народа: удивительные истории о вещах, о которых никто из нас даже не задумывался. Из его рассказов многому можно было научиться, поскольку видно было, что происходит он из народа таинственного и более развитого чем мы. 
 
 #ev_knowtrav_3
-But the wonder and influence he gained amongst the tribe started to upset its more dominant members who felt their position threatened... What should we do about it ?
+Но неудевитльно, что влияние, которое он получил в нашем племени, начало раздражать наиболее уважаемых членов общины, почувствовавших, что их положение под угрозой... Как нам следует поступить?
 
 #ev_knowtrav_c1
-Listen to what this traveler has to teach even if it upsets them.
+Послушать, чему этот путник может нас научить, даже если это кого-то разозлит.
 
 #ev_knowtrav_c2
-Ban the oldpig of the village for his lies.
+Изгнать старика из деревни за его ложь.
 
 #ev_frndgift
-Gift of friendship in [x]
+Подарок в знак дружбы в [x]
 
 #ev_frndgift_1
-A group of nomad travellers passed through our small village of [x]. They stayed for a few days, sharing stories and befriending some of our locals. Pleased by our hospitality, they gifted us with some of their belongings as a token of friendship, before bidding us farewell and moving on with their journey.
+Группа кочевников прошла через небольшую деревню [x]. Они оставались там несколько дней, делясь историями и сводя дружбу с местными. Довольные нашим гостеприимством, они подарили нам часть своих пожитков в знак дружбы, а затем попрощались и отправились дальше.
 
 #ev_vp_complet
 Победная миссия выполнена!
 
 #ev_vp_complet_1
-We have completed the victory mission "[y]" before anyone else and earned its reward, proving to everyone that we are a glorious people!
+Мы выполнили победную миссию "[y]" прежде остальных и получили награду, доказав всем, какой мы славный народ!
 
 #ev_vp_fail
-[x] has completed a victory mission!
+[x] выполнил победную миссию!
 
 #ev_vp_fail_1
-The people of [x] have completed the victory mission "[y]" before us!
+Свины из [x] выполнили победную миссию "[y]" прежде нас!
 
 #ev_joinwriors
-Warriors wish to join us!
+Воины хотят присоединиться!
 
 #ev_joinwriors_1
-A group of 10 warriors had been wandering the lands for many moons before arriving in our tribe. They are friendly and wish to join us: they offer to help us to hunt herds and explore the world if we welcome them among us.
+Группа из 10 воинов путешествовала много лун, прежде чем набрела на наше племя. Они дружелюбны и предлагают присоединиться к нам: они обещают помочь в охоте на стада и в исследовании мира, если мы согласимся.
 
 #ev_joinwriors_c1
-"Да, давайте примем их к нам!"
+"Да, давайте примем их в племя!"
 
 #ev_joinwriors_c2
 "Нет, мы не можем поддерживать новых людей сейчас."
 
 #ev_exceptool
-Exceptionnal tools
+Необыкновенные инструменты
 
 #ev_exceptool_1
-One of the tribe's most skilled craftspig found stones of unusual solidity and hardness and he managed to craft a few tools of exceptionnal quality out of it!
+Один из наиболее талантливых ремесленников племени нашёл камни необычно прочные и твердые и сумел создать из них инструменты исключительного качества!
 
 #ev_spdboost
-Speed boost!
+Бонус к скорости!
 
 #ev_spdboost_1
-As a newly created character, to enjoy a dynamic start you are awarded a temporary x[x] SPEED BOOST during your first [y] minuts of playing!
+Чтобы, как недавно созданный персонаж, наслаждаться быстрым стартом вам предоставляется временный x[x] БОНУС К СКОРОСТИ во время ваших первых [y] минут игры!
 
 #ev_spdboost_2
-This bonus, as long as it remains active, modifies the following stats of your character:
+Этот бонус, оставаясь активным, изменяет следующие параметры вашего персонажа:
 
 #ev_spdboost_3
-- Production and consumption of resources in your territories happens at a faster rate, as the production cycle is reduced by [x].
+- Производства и потребление ресурсов на ваших территориях происходит быстрее, а производственный цикл сокращён на [x].
 
 #ev_spdboost_4
-- Population growth evolves faster as the duration of a normal generation is reduced by [x].
+- Рост населения изменяется быстрее так как время жизни нормального поколения сокращено на [x].
 
 #ev_spdboost_5
-- Research speed is increased by [x].
+- Скорость исследования увеличена на [x].
 
 #ev_spdboost_6
-- Construction speed is increased by [x].
+- Скорость строительства увеличена на [x].
 
 #ev_rebljoin
-[x] rebelled and wishes to join us.
+[x] восстал и хочет присоединиться к вам.
 
 #ev_rebljoin_1
-Good news: the city of [x] rebelled against its opressors of [y]. The city is free at last and the popuation, feeling culturally attached to us, now wishes to rejoin our glorious nation! 
+Хорошие новости: город [x] восстал против своего угнетателя [y]. Наконец город свободен и население, чувствуя культурную близость, хочет присоединиться к нашей великой нации! 
 
 #ev_rebljoin_2
-If we accept, we will regain ownership and control of this territory. If we refuse, they will remain ruled by rebels.
+Если мы согласимся, то получим  контроль над этой территорией. Если откажемся, они останутся под управлением мятежников.
 
 #ev_rebljoin_c1
-Agree and annex the territory
+Согласиться и присоединить их территорию
 
 #ev_rebljoin_c2
-Refuse
+Отказать
 
 #ev_heirprop
-Heirdom
+Наследование
 
 #ev_heirprop_1
-[x] is now inactive and his position is up for succession. He designated you as his heir, and you can therefore immediately take his place within the Nation.
+[x] стал неактивным и его титул подлежит наследованию. Он назначил вас своим наследником. Таким образом, вы можете немедленно занять его место внутри национальной иерархии.
 
 #ev_heirprop_2
-If you agree, your positions will be immediately swapped: you will inherit his rank and subordinates while he inherits yours, becoming your own subordinate. Depending on your new title's priviledges, you might then be able to remove him entirely from the Nation, dismantle his territories, or reorganize the hierarchy to recover your past subordinates or move him further down.
+Если вы согласитесь, то моментально обменяетесь титулами: вы унаследуете его ранг и вассалов, тогда как он унаследует ваши, сам став вашим вассалом. В зависимости от привилегий вашего титула, вы сможете затем полностью исключить его из нации, разобрать его территории, или реорганизовать иерархию так, чтобы восстановить своих прежних вассалов или опустить его ещё ниже.
 
 #ev_heirprop_c1
-Accept
+Дать согласие
 
 #ev_heirprop_c2
-Refuse
+Отказаться
 
 #ev_votesucc
-Time to vote!
+Пора голосовать!
 
 #ev_votesucc_1
-[x], your superior, is now inactive and his position is up for succession. It's time to vote to designate who amongst his subordinates will be chosen to replace him.
+[x], ваш сеньор, стал неактивным и его титул подлежит наследованию. Пора голосованием определить, кто из его вассалов займёт его место.
 
 #ev_votesucc_2
-Once a successor is elected, his position will be immediately swapped with [x] and he will inherit his rank and subordinates. The predecessor, by default, is automatically moved to the newly elected successor's previous position where he can then be further managed as a subordinate (dismantled, expelled, replaced...).
+Как только наследник будет выбран, он тут же поменяется местами с [x] и унаследует его титул и вассалов. Предшественник, по умолчанию перемещается на прежнюю должность новоизбранного наследника, где им можно управлять как вассалом (отбирать земли, изгонять, заменять и т.д.).
 
 #ev_votesucc_rslt
-[p2] has been elected [x]
+[p2] был избран [x]
 
 #ev_votesucc_rslt_1
-[p2] has been elected [x], succeeding to [p1]. 
+[p2] был избран [x], наследуя [p1]. 
 
 #ev_votesucc_rslt_2
-[p2] won the election with [p3] votes out of [p4] cast votes.
+[p2] победил на выборах с [p3] голосами из [p4] поданных.
 
 #ev_votesucc_won
-You have been elected [x]!
+Вас избрали [x]!
 
 #ev_votesucc_won_1
-Congratulations! You have been elected [y] in succession of [p1]. 
+Поздравляем! Вас избрали [y]. Вы наследуете [p1]. 
 
 #ev_votesucc_won_2
-You won the election with [p3] votes in your favor out of [p4] cast votes.
+Вы победили на выборах с [p3] голосами из [p4] поданных.
 
 #ev_xplrch_vrywl
-"Very well."
+"Очень хорошо."
 
 #ev_xplrch_shame
 "Очень жаль"
@@ -1242,10 +1241,10 @@ You won the election with [p3] votes in your favor out of [p4] cast votes.
 "Прекрасно!"
 
 #ev_xplrch_notime
-"No, we have no time for this."
+"Нет, у нас нет на это времени."
 
 #ev_xplrch_proceed
-"Yes, proceed!"
+"Да, продолжить!"
 
 #ev_xplrch_nvrmnd
 "Нет. Забудьте."
@@ -1254,565 +1253,566 @@ You won the election with [p3] votes in your favor out of [p4] cast votes.
 Покинуть.
 
 #ev_xplr_bdts
-Bandits ambushed our formation '[x]'!
+Бандиты напали на отряд "[x]"!
 
 #ev_xplr_bdts_1
-While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troup had with them.
+Во время продвижения по глухим местам, нашему отряду "[x]" из [p2] Свинов пришлось в какой-то момент вступить в узкий проход между 2 холмов. Солнце было высоко, и Свины едва волочили ноги под тяжестью своего скарба и пройденного расстояния.
 
 #ev_xplr_bdts_2
-Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on both sides, surrounding our troops. Their leader moved forwarded, and made a simple demand: "Give us all yerr loot or be bacon!". What should we do?
+Неудивительно, что небольшая группа из 20 бандитов внезапно появилась с двух сторон, окружив наш отряд. Их вожак вышел вперёд и потребовал: "Усе, шо есь, давай, а то на фарш пушшу!". Что нам делать?
 
 #ev_xplr_bdts_c1
-"We ain't afraid of no Pigbandits!"
+"Мы не боимся каких-то там Уркосвинов!"
 
 #ev_xplr_bdts_c2
-Give them what they want.
+Отдать им все, что они хотят.
 
 #ev_xplr_abvil
-'[x]' found an abandonned village.
+"[x]" нашли заброшенную деревню.
 
 #ev_xplr_abvil_1
-While exploring the lands, our group '[x]' stumbled upon the remains of an abonned primitive village of a few huts. Cautiously, the Porcos started to inspect these remains and came to the conclusion that whomever lived there are now long gone. "They seem to have abandonned many things here. Who knows for what reasons the people who lived there decided to leave, but they didnt take much with them!", concluded the group leader.
+Исследуя окрестности, наш отряд "[x]" наткнулся на заброшенную примитивную деревеньку из нескольких лачуг. Осторожно осмотрев остатки, Свины пришли к заключению, что кто бы здесь ни жил когда-то, их давно уж след простыл. "Похоже, они много вещей здесь оставили. Не знаю, что заставило живших здесь свинов уйти, но с собой они взяли немного!" - заключил предводитель отряда.
 
 #ev_xplr_abvil_2
-Although many things have spoiled or decayed with time, some still appear to be in good enough condition to be of interest to us. Should we search the village and scavenge what we can ?
+Хотя многие вещи успели испортиться и сгнить, некоторые ещё могут представлять для нас интерес. Стоит ли нам обыскать деревню забрать все, что плохо лежит?
 
 #ev_xplr_abvil_c1
-"Yes, search the abandonned village and let's take what we can!"
+"Да, давайте обыщем здесь все и заберём, что можем!"
 
 #ev_xplr_abvil_c2
-"No, let's leave things as they are, we have no time for this."
+"Нет, давайте оставим все на своих местах, у нас нет на это времени."
 
 #ev_xplr_birds
-Fearless birds
+Бесстрашные птицы
 
 #ev_xplr_birds_1
-'[x]' were camping in a forest after a long day of walking in these unknown lands. Night was coming, and all the porcos were gathered around campfires. That's they heard a noise in a nearby bush, from which emerged a bunch of dumblooking fat birds unknown to them. The beasts seemed oblivious of their presence, picking on things on the forest floor as if they were alone on earth.
+"[x]" остановились на привал в лесу после долгого перехода по этим незнакомым землям. Ночь приближалась, и все свины собрались у костров, когда вдруг услышали шум в ближайших кустах. Затем из кустов появилась группа забавно выглядящих жирных птиц неизвестной породы. Животные, казалось, не догадывались об их присутствии, подбирая корм с лесной подстилки, словно они были одни на всей земле.
 
 #ev_xplr_birds_2
-"Well... Looks like fresh meat's back on the menu, boys!", grinned the group's leader: by morning, all the birds had went to meet their maker. What a lucky hunt! The group, in the morning, left with a fullbelly and a new stocks of fresh meat.
+"Что ж... Похоже, свежее мясо снова в меню, братцы!" - ухмыльнулся предводитель отряда. К утру все птицы отправились к создателю. Что за славная охота! Утром же отряд отправился дальше сытый и с новыми запасами свежего мяса.
 
 #ev_xplr_hsttrib
-'[x]' is attacked by an hostile tribe!
+"[x]" атакованы враждебным племенем!
 
 #ev_xplr_hsttrib_1
-Bad news! While '[x]' was walking across new unknown lands, they suddenly found themselves surrounded by a group of a demi-dozen hostile natives. They came from nowhere... We probably stepped to close to their territory, or maybe they just don't like our snouts. Before the porcos could even realize what was happening, the primitive warriors was already attacking...
+Плохие новости! Идя по незнакомой местности, "[x]" внезапно обнаружили, что окружены группой из полудюжины злобных туземцев. Они появились из неоткуда... Видимо, мы подошли слишком близко к их территории, а может и просто не понравились наши рыла. Прежде чем свины поняли, что происходит, туземцы бросились в атаку.
 
 #ev_xplr_thirst
-Unforgiving desert
+Безжалостная пустыня
 
 #ev_xplr_thirst_1
-Our formation '[x]' wandered too far in unknown arid lands. For days, they could not find any source of fresh water. The porcos desperately searched for water, but it was no easy task in these desertic foreign lands. By the time they found a muddy puddle to quench their thrist, many of them had been lost to the vultures and the unforgiving sun of these lands.
+Наш отряд "[x]" забрёл слишком далеко в глубь засушливых земель. Многие дни они не могли найти источника воды. Свины отчаянно искали воду, но в этих пустынных чужедальних землях это непростая задача. К тому времени, как они нашли грязную лужу и утолили жажду, многие уже стали добычей стервятников и безжалостного местного солнца.
 
 #ev_xplr_thirst_2
-Maybe we should have avoided venturing too far in such an hostile territory.  
+Возможно, нам стоит избегать походов вглубь этой враждебной земли.
 
 #ev_xplr_lstjngl
-Lost in the jungle
+Заплутавшие в джунглях
 
 #ev_xplr_lstjngl_1
-The porcos of '[x]' had been wondering in this bloody jungle for days, harassed by the heat and lost. It wasnt long before the one group turned into 2 groups... "Hey Mr Jenkins, I swear i already saw this damn tree 2 days ago!" said Porkypigs. "Common, maybe we'll find the rest of the group soon! Let's keep waking!". But they never did. However, they did find a nest of flesh eating flies the size of a hand when Mr Jenkins decided it was a good time to poke a suspicious hole in a tree with a stick in an attempt to find something to eat.
+Свины из "[x]" блуждали в этих проклятых джунглях дни напролёт, мучимые жарой и потерявшиеся. Вскоре одна группа разбилась на две, и они потеряли друг друга... "Эй, Мистер Дженкинс, Я клянусь, что уже видел это чертово дерево 2 дня назад!" - сказал Свинохряк. "Скорее, может нам удастся найти вторую группу! Не останавливаться!". Но они никого не нашли. Впрочем они нашли гнездо плотоядных мух размером с руку, когда Мистер Дженкинс решил, что сейчас подходящее время разжиться едой и ткнул палкой в подозрительно выглядевшее дупло.
 
 #ev_xplr_lstjngl_c1
-"Bloody Mr Jenkins!" 
+"Чертов Мистер Дженкинс!" 
 
 #ev_xplr_strvtrib
-The starving tribe
+Голодающее племя
 
 #ev_xplr_strvtrib_1
-The porcos of '[x]' had spotted a small group of people away from them, walking on the side of a hill. The next day, in the morning, the same group was spotted again, this time closer, and the Porcos decided to go meet them: it was a small group of a few families, with piglets and sows, and they didnt seem to be of any threat.
+Свины из "[x]" заметили вдалеке маленькую группу свинов, бредущих по склону холма. Утром следующего дня, та же группа была замечена вновь, уже ближе, и Свины решили встретиться с ними. Оказалось, что это несколько семей с поросятами и свиноматками, и опасности они не представляют.
 
 #ev_xplr_strvtrib_2
-When moving closer, their condition became horrifyingly clear: these people were walking skelettons, starving. They walked slowly, and in their eyes was no hope. They didn't seem to notice the presence of the group getting closer to them until one of us stepped litteraly in front of them.
+Вблизи из состояние стало пугающе заметно: эти свины так оголодали, что были похожи на ходячих скелетов. Они двигались медленно, в их глазах читалась безнадёжность. Похоже было, что они не замечают наше присутствие, пока один из нас не подошёл к ним вплотную.
 
 #ev_xplr_strvtrib_3
-We offered them some of our provisions, and it wasn't before the 2nd day that they finaly exchanged a few words with the group and told us their story. They used to be a bigger and prosperous tribe, living of hunting and gathering until they were chased away from their lands by a more powerful tribe. They had lost all their precious tools and weapons, and most of the strongest Porcos of their tribe had died fighting. Since then, the survivors had wandered the land unable to hunt, slowly starving.
+Мы предложили им немного провизии, и на 2ой день они наконец-то обрели дар речи и поведали свою историю. Когда-то они были большим и процветающим племенем, живя охотой и собирательством, пока более могущественные соседи не прогнали их с насиженных мест. Они потеряли все свои драгоценные инструменты и оружие, а большинство самых сильных свинов погибло в бою. С тех пор выжившие скитались по земле, не в состоянии охотиться и медленно умирали с голоду.
 
 #ev_xplr_strvtrib_c1
-"Join us, we will offer you a new home!"
+"Присоединяйтесь к нам, у нас вы найдёте новый дом!"
 
 #ev_xplr_strvtrib_c2
-We can't take care of these people. Let's wish them good luck and move on. 
+Мы не можем позаботиться об этих свинах. Давайте пожелаем им удачи и продолжим путь.
 
 #ev_xplr_snakes
-Snakes in a plain
+Степные змеи
 
 #ev_xplr_snakes_1
-Our formation '[x]' was slowly crossing a seemingly endless plain covered in tall thick grass the height of a porco when one of them felt a sharp pain on his feet: he had been bitten by a colorfull snake that quickly disapeared in the grass. There was nothing we could do for the poor bastard: in a few minuts his leg had doubled volume and he met a gruesome death.
+Наш отряд "[x]" медленно двигался по казавшейся бесконечной равнине, покрытой густой травой высотой со взрослого свина, когда один из них почувствовал острую боль в ноге: он был укушен разноцветной змеёй, которая быстро исчезла в траве. Мы ничем не могли помочь бедняге: за несколько минут его нога вдвое увеличилась в объеме, и он встретил ужасный конец.
 
 #ev_xplr_snakes_2
-That, unfortunately, was just a begining as by the time the group managed to escape the plain, 2 more had been bitten and followed the same fate. This plain was litterally infested with viscious snakes.
+Увы, это было только начало. К моменту, когда отряд сумел выйти с равнины, ещё двое были укушены и приняли такую же страшную смерть. Эта равнина была буквально наводнена злобными змеями.
 
 #ev_xplr_snakes_c1
-"I've had it with these motherfuckin' snakes!"
+"Хватит с меня этих грёбаных змей!"
 
 #ev_xplr_map
-Friendly tribe offers '[x]' a map of the territory.
+Дружелюбное племя предлагает "[x]" карту местности.
 
 #ev_xplr_map_1
-Our formation '[x]' was well received by natives in a small village, where they spent a few days to rest. The villagers offered our porcos to teach them all about the surrounding territory that they know very well: 
+Наш отряд "[x]" был радушно встречен местными в маленько деревне, где провёл несколько дней, отдыхая с дороги. Местные жители предложили рассказать нашим свинам об окружающих деревню землях: 
 
 #ev_xplr_map_2
-"Sniffingwind here is the village's best scout" said their chief. "He knows all the ins and outs of these lands. If you wish, Sniffingwind can show you how to travel in the territory, he's never been in trouble. He'll tell you what areas to avoid, what places are dangerous, and where to pass. In the meantime you're welcome to stay in our small village!" Should we stay a little more and accept their help?
+"Это Ветронюх, лучший следопыт деревни" - сказал вождь. "Он знает все овраги и перелески в этих землях. Если хотите, Ветронюх покажет вам дорогу, с ним никогда не попадёшь в беду.  Он расскажет вам, каких мест избегать, где опасно, а где можно пройти. А пока что, будем рады вам в нашей деревеньке!" Стоит ли нам остаться ещё на немного и воспользоваться их помощью?
 
 #ev_xplr_snglost
 Разведчик потерян!
 
 #ev_xplr_snglost_1
-It is very dangerous to travel these unknown lands alone. Sadly, our explorer disapeared and was never heard of again. 
+Очень опасно путешествовать по незнакомым землям в одиночку. К несчастью, наш исследователь бесследно исчез. 
 
 #ev_xplr_snglost_2
-Who knows what happened to him... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
+Кто знает, какая судьба его постигла... Может нам стоит послать более крупную экспедицию в следующий раз, чтобы увеличить шансы на успех!
 
 #ev_xplr_grplost
-Разведчик потерян!
+Разведчики потеряны!
 
 #ev_xplr_grplost_1
-It is very dangerous to travel these unknown lands in a small group. Sadly, our explorer disapeared and were never heard of again. 
+Очень опасно путешествовать по незнакомым землям маленькой группой. К несчастью, наши исследователи бесследно исчезли. 
 
 #ev_xplr_grplost_2
-Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
+Кто знает, что с ними стало... Может нам стоит послать более крупную экспедицию в следующий раз, чтобы увеличить шансы на успех!
 
 #ev_xplr_storm
-Ships lost in a terrible storm!
+Ужасный шторм уничтожил корабли!
 
 #ev_xplr_storm_1
-The sea is dangerous and moody. Before anyone had time to react, a calm breeze turned into a terrifying storm with waves taller than hills and a sky darker than the night. Our ship, sadly, was no match for this storm. The porcos fought bravely, but pigs and ships were all claimed by the sea by the next morning. I'm afraid we've lost the whole expedition.
+Море опасно и переменчиво. Прежде чем кто-либо успел что-то сделать, мягкий бриз превратился в ужасающий шторм, с волнами, как горы, а небо сделалось темнее, чем ночь. Наш корабль, увы, не смог противостоять буре. Свины храбро боролись, но к утру следующего дня все отправились на дно вместе с судами. Боюсь, мы потеряли всю экспедицию.
 
 #ev_xplr_rwave
-Rogue wave!
+Предательская волна!
 
 #ev_xplr_rwave_1
-The sea is dangerous and treacherous. It was a sunny day, the sea appeared to be calm and the breeze was nice. The porcos were relaxed, though eager to be back on land. But suddenly, one pig squeeled, pointing at horizon on starboard. Everyone looked in terror at what looked like an improbable wall of water coming in the direction of the ship. Before anyone could do anything, the tiny ship was hit and capsized. 
+Море опасно и не предсказуемо. Был чудесный солнечный день, море было спокойным, дул лёгкий ветерок. Свины расслабились, но с нетерпением ожидали возвращения на твёрдую землю. Внезапно один свин взвизгнул, указывая на горизонт по правому борту. Все в ужасе уставились на нечто, выглядящее как непроницаемая стена из воды, приближающаяся к кораблю. Прежде чем кто-либо успел что-то предпринять, корабль был опрокинут кверху дном.
 
 #ev_xplr_rwave_2
-There was nothing they could have done against such a treacherous and unpredictible event: they did not stand a chance. Ship and pigs were dragged to tbe bottom of the sea, never to be seen again.
+Они ничего не могли поделать против такого непредсказуемого события, у них не было шансов. Корабль и его команда отправились ко дну, исчезнув без следа.
 
 #ev_xplr_menlstsea
-'[x]' was hit by a storm.
+"[x]" попали в шторм.
 
 #ev_xplr_menlstsea_1
-The sky had been threatening all evening: a wall of dark clouds coming from the horizon towards them. The captain tried to escape it, but unsucessfuly. It was too big, it moved too fast, and the ship was too tiny. They had to face it, and by nightfall, it had engulfed them.
+Небо весь вечер не предвещало ничего хорошего: чёрные тучи стеной надвигались на них. Капитан пытался избежать опасности, но тщетно. Шторм был слишком велик, двигался слишком быстро, а корабль в сравнении с ним был всего лишь щепкой. Они должны пережить шторм, и к закату он настиг их.
 
 #ev_xplr_menlstsea_2
-It was a terrible night all the porcos will forever remember. Waves almost capsized the freil ship multiple times, but fortunately and against all odds, their loyal embarcation hanged on. Not everyone was there in the morning, and many porcos lost brothers that night. They will never mention it again, but all will remember forever the desperate calls for help of those who fell in the sea during the storm while they watched, helpless, as they drifted inexorably away from the ship.
+Ту ужасную ночь они запомнят навсегда. Волны много раз почти перевернули утлое судно, но к счастью, не смотря не на что их верная посудина держалась. Не все дожили до утра, и многие свины потеряли братьев в ту ночь. Они никогда не упомянут, но все навеки запомнят отчаянные вопли о помощи тех, кто упал за борт и неумолимо удалялся прочь от корабля, а они наблюдали, не в силах помочь.
 
 #ev_xplr_invlstsea
-'[x]' lost supplies to the sea.
+"[x]" потеряли припасы в море.
 
 #ev_xplr_invlstsea_1
-One unskilled sailor didnt properly attach a crate of supplies the ship was carrying and during a turbulent night with strong winds, the crate fell into the sea and we lost its contents!
+Один неопытный моряк не закрепил как следует ящик с припасами, а ветренной ночью ящик упал в море и исчез со всем содержимым!
 
 #ev_xplr_sngseal
-Dangerous sea
+Опасное море
 
 #ev_xplr_sngseal_1
-The sea is no place for lone navigators. It is unforgiving and unmercyful: our few travellers disapeared and were never heard of again.
+Море не место для одиноких странников. Оно безжалостно и не прощает ошибок: наши путешественники исчезли без следа.
 
 #ev_xplr_sngseal_2
-Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, if we want to stand a chance!
+Кто знает, что с ними сталось... Может нам стоит послать более крупную экспедицию в следующий раз, если мы хотим иметь хоть какие-то шансы на успех!
 
 #ev_xplr_wiseold
-The Wise Oldpig
+Мудрый Старосвин
 
 #ev_xplr_wiseold_1
-As our expedition '[x]' was heading to a new unexplored territory, a group of porcos in rags crossed our path. Despite their modest appearance, they all seemed well-educated, filled with assurance and determination. Their leader, a venerable oldpig wearing a shaggy beard falling to his knees, presented himself as a philosopher. He had been roaming the world for many years, professing his thought to anyone willing to listen.
+Когда наша экспедиция "[x]" направлялась к новой неисследованной территории, группа свинов в лохмотьях пересекла их путь. Несмотря на скромный внешний вид, все они казались хорошо образованными, непреклонными и полными решимости. Их лидер, заслуженный старосвин c косматой бородой по колено, представился философом. Он странствовал по миру много лет, делясь своими мыслями со всеми желающими.
 
 #ev_xplr_wiseold_2
-We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldn�t be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
+Мы решили остановить и послушать, и мудрый старосвин начал рассказывать о своём учении. Он утверждал, что счастье не возможно достичь, удовлетворяя жажду власти, богатства, славы или плотских утех. В соответствии с его учением, только простая жизнь, свободная от обладания чем-либо может по-настоящему удовлетворить наши души. 
 
 #ev_xplr_wiseold_3
-He pleaded for hours, captivating the whole audience. His words were subtle and his reasoning logical. He was even so persuasive that many of us decided to give up all their possessions to follow him.
+Он проповедовал в течение многих часов, захватив внимание аудитории. Его слова были вкрадчивы, а выводы логичны. Он был настолько убедителен, что многие из нас решили отказаться от своего имущества и последовать за ним.
 
 #ev_xplr_cptsow
-Captive sows
+Свинки в беде
 
 #ev_xplr_cptsow_1
-A scout of the expedition '[x]' just reported the presence of a band of warriors in the area. Judging by the appearance of their camp, their presence in the territory is just temporary. 
+Разведчик экспедиции "[x]" только что сообщил о присутствии банды воинов внеподалеку. Судя по их лагерю, они здесь не задержатся. 
 
 #ev_xplr_cptsow_2
-In the center of their bivouac, the scout has spotted a large wooden cage filled with captive sows. We do not know the intentions of these warriors, nor the circumstances in which these sows were caught, but their fate seem quite unpleasant. 
+В центре бивуака, разведчик заметил большую деревянную клетку с пленными свинками. Нам не известны ни намерения этих воинов, ни обстоятельства, при которых они пленили этих свинок, но участи их не позавидуешь.
 
 #ev_xplr_cptsow_c1
-Fight the captors to free the sows.
+Сражаться с похитителями и освободить свинок.
 
 #ev_xplr_cptsow_c2
-Do not get involved.
+Не вмешиваться.
 
 #ev_xplr_slprats
-Damn rats!
+Проклятые крысы!
 
 #ev_xplr_slprats_1
-Our expedition, '[x]' was forced to take shelter in the first rocky cavity we could find as a thunderstorm suddenly broke out. Rain-soaked to the skin, we all clustered together and tried to rest despite the deafening noise of the tempest.
+Наша экспедиция, "[x]" была вынуждена укрыться под первым попавшимся каменным карнизом из-за внезапно разразившейся грозы. Промокшие до нитки, мы все сбились в кучу, пытаясь согреться и отдохнуть, не смотря на оглушающий рёв бури.
 
 #ev_xplr_slprats_2
-In the morning, the rain finally stopped and calm returned. Half asleep, we heard squeaks coming from our food containers. We soon realized we were surrounded by rats. The malicious rodents had taken advantage of the noise to feast on our provisions all night. 
+Утром дождь наконец перестал и погода прояснилась. В полусне мы услышали писк, доносившийся от контейнеров с едой. Мы осознали, что окружены крысами.
+Злобные грызуны воспользовались громом бури и лакомились нашими припасами всю ночь.
 
 #ev_xplr_jnglsnek
-Jungle snake
+Змеи в джунглях
 
 #ev_xplr_jnglsnek_1
-While '[x]' were making their way into the dense rainforest, one of our explorers was bitten by a jet-black snake. The creeping reptile then immediately vanished behind a bush. After a few hours, the injured porcos complained of feeling dizzy and having a blurred vision. He finally died in the night, unable to breathe. 
+Продвигаясь через чащу дождевого леса, исследователь из "[x]" был укушен чёрной как смоль змеёй. Ползучая рептилия моментально исчезла в кустах. Через несколько часов укушенный свин пожаловался на головокружение и расплывчатое зрение. Ночью он умер, не в состоянии сделать вдох.
 
 #ev_xplr_lckyfsh
-Lucky fishing
+Удачная рыбалка
 
 #ev_xplr_lckyfsh_1
-Our explorers of '[x]' were camping on the banks of a river for the night. It was a sunny late afternoon, and the water was crystal clear. That's when one porco spotted them: giant fat fishes swimming in the shallow waters! They were so slow the group could pick them up effortlessly.
+Наши исследователи из "[x]" разбили на ночь лагерь на берегу реки. Солнечные день клонился к закату, а вода реки была кристально чистой. Тогда-то один из свинов и заметил их: гигантских рыб, плавающих на мелководье! Они были так медлительны, что их можно было хватать из воды руками.
 
 #ev_xplr_lckyfsh_2
-The group fed well that night. They also gutted and smoked a lot more fish to take with them on their journey.
+Группа вдоволь наелась в ту ночь. Они также выпотрошили и закоптили много рыбы и взял с собой.
 
 #ev_xplr_natrprov
-Nature provides
+Дары природы
 
 #ev_xplr_natrprov_1
-'[x]', while travelling across the land, stumbled upon a small patch of fertile land covered with lustrous plants filled with vegetables and fruits ready for the picking.
+"[x]", во время своих странствий наткнулись на небольшой клочок плодородной земли густо заросший растениями, усыпанными овощами и фруктами, готовыми к сбору.
 
 #ev_xplr_natrprov_2
-Sometimes, the nature is generous and provides. The porcos stopped for a few hours and feasted with this unxpected gift and took the rest with them.
+Иногда природа бывает щедрой и вознаграждает. Свины остановились на несколько часов и вкусили от этих неожиданных щедрот, а несъеденное взяли с собой.
 
 #ev_xplr_elegsow
-The elegant sow
+Элегантная свинка
 
 #ev_xplr_elegsow_1
-During their journey through an unexplored territory, the expedition of '[x]' met a procession led by an elegant sow, comfortably seated on a palanquin. The two groups decided to travel together temporarily in order to benefit from mutual protection. 
+Путешествуя по незнакомой местности, экспедиция "[x]" встретила процессию, которую возглавляла элегантная свинка, с комфортом разместившаяся в паланкине. Две наших группы решили временно путешествовать вместе, объединив силы. 
 
 #ev_xplr_elegsow_2
-The porcos in the cortege barely spoke a word. Unlike the other members of her group, the matriarch was very dynamic and talkative. She said she was versed in the arts of botany and could prepare all kinds of miraculous remedies and ointments. When the time came for dinner, she served some of her specialties.  In order to wash it down, she also offered holy drinks concocted by her. Upon finishing the strange mixture, the explorers felt better than they had ever felt before. They thought the drink was blessed and that the mighty sow was of divine nature for being able to conceive such a substance. The following month, they were offered the holy mixture whenever they asked for it. They soon became addicted to the delicious drug of the Hag. They became her puppets, drained of all their wills, just like all the other unfortunate fellows in the procession.
+Свины кортежа были очень немногословны. В отличие от них, матрона была очень деятельна и разговорчива. Она поведала, что преуспела в искусстве ботаники и знает, как приготовить любые чудодейственные снадобья и мази. Когда пришло время ужинать, она угостила нас некоторыми из своих напитков. Чтобы протрезветь, она предложила священные напитки собственного приготовления. Выпив странную смесь, исследователи почувствовали себя так хорошо, как никогда в своей жизни. Они посчитали, что напиток освящён, а могущественная свинка - богиня - раз способна приготовить такой эликсир. В течение следующего месяца им давали священный напиток когда бы они ни попросили. Скоро они пристрастились к это восхитительному наркотику ведьмы. Они стали марионетками в её руках, лишёнными воли, как и прочие бедолаги в процессии.
 
 #ev_xplr_elegsow_3
-A few of them couldn�t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
+Немногие из них больше не могли это терпеть и решили бежать под покровом ночи. В течение следующих дней они бесцельно скитались, борясь с ломкой. После долгой и тяжёлой ломки, они наконец поправились. Осталось всего несколько свинов из прежней экспедиции. Всех прочих околдовало зелье ведьмы.
 
 #ev_xplr_mahout
-The mahouts
+Погонщики слонов
 
 #ev_xplr_mahout_1
-During their peregrinations in unexplored lands, the porcos of  '[x]' halted in a small hamlet of peaceful mahouts. The locals owned a couple of healthy elephants. Taming these big creatures is a long and laborious process, and sometimes their wild instincts take control again. 
+Во время наших странствий по неизведанным землям, свины из "[x]" остановились в маленьком посёлке мирных погонщиков слонов. Местные владели парой здоровых животных. Приручение этих больших созданий - длительный и трудоёмкий процесс, а их инстинкты иногда все равно берут верх над воспитанием. 
 
 #ev_xplr_mahout_2
-As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the two furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted: �The father of elephants!�
+Наши исследователи уже готовились уходить, когда огромные толстокожие будто сошли с ума. Они проломили изгородь и начали крушить посёлок, руша хижины и переворачивая все вверх дном. Когда ситуация стала отчаянной, один из наших свинов осторожно приблизился к двум взбешённым слонам. Как ни странно, животные моментально успокоились. Лежа на животах, они воздели свои хоботы в сторону наших свинов в знак изнеможения. Местные были шокированы увиденным и посчитали что наш свин - это реинкарнация божества. Они все преклонили колени в его сторону и закричали: "Отец слонов!"
 
 #ev_xplr_mahout_3
-After that, the mahouts seemed to worship our porcos and wished to join us with their herd.
+После этого, погонщики стали поклоняться нашим свинам и пожелали присоединиться к отряду вместе со своим стадом.
 
 #ev_xplr_mahout_c1
-Enroll them.
+Взять их.
 
 #ev_xplr_mahout_c2
-Refuse and leave.
+Отказаться и уйти.
 
 #ev_xplr_luckstrk
-Lucky strike
+Счастливая случайность
 
 #ev_xplr_luckstrk_1
-Our explorers '[x]' were ascending the steep slopes of a newly discovered territory when they started to feel the ground moving under their feet.  The piece of land on which the group was standing sharply broke away, causing a massive landslide. 
+Наши исследователи "[x]" спускались по крутым склонам недавно открытой местности, когда почувствовали, что земля пришла в движение у них под ногами. Участок породы, на котором стоял отряд внезапно откололся, вызвав мощный камнепад.
 
 #ev_xplr_luckstrk_2
-Many of our porcos were injured, but luckily all of them survived. As they got back on their feet, they noticed a shiny protuberance from afar.  As they approached it, they discovered an enormous deposit of ore, which had been laid bare by the landslide. 
+Многие свины пострадали, но к счастью, никто не погиб. Когда же они оправились, то заметили блестящий вдалеке выступ. Как оказалось, это огромная залежь руды, обнажившаяся после камнепада.
 
 #ev_xplr_ruinorph
-The orphan survivors
+Выжившие сироты
 
 #ev_xplr_ruinorph_1
-Our explorers '[x]' had spotted a large cloud of smoke on the horizon, rising and covering the sky of its dark coat. Our porcos cautiously approached the location from which the fire originated and discovered smoldering ruins, filled with the stench of death: lifeless bodies littered the ground all around, stripped of all valuables. Even the cattle had not been spared. 
+Наши путешественники из "[x]"  заметили большое облако дыма на горизонте, поднимавшееся и застилавшее небо своим тёмным покрывалом. Наши свины осторожно приблизились к источнику дыма и обнаружили тлеющие развалины, пропитанные запахом смерти. Мёртвые тела лежали всюду, лишённые всех ценностей. Не пощадили даже скот.
 
 #ev_xplr_ruinorph_2
-Night was falling and the members of the expedition did not intend to spend more time in the middle of this macabre scene. As they were about to leave, their attention was caught by hundreds of small green lights taking off from a nearby bush: fireflies. Something had disrupted all these insects.
+Приближалась ночь и члены экспедиции не собирались оставаться посреди этого ужасного места. Когда они уже собирались уходить, их внимание привлекли сотни зелёных огоньков взлетевших с ближайшего куста: светлячков. Что-то потревожило насекомых.
 
 #ev_xplr_ruinorph_3
-By searching more closely, our porcos found dozens of children hidden in the vegetation. They all looked very weak and desperate. They undoubtedly belonged to the village in ruins and their chances of survival seem very small if no help is given.
+Приглядевшись, наши свины обнаружили несколько дюжин поросят, спрятавшихся в зарослях. Они выглядели очень слабыми и отчаявшимися. Несомненно, они родом из разрушенной деревни, и без помощи им не выжить.
 
 #ev_xplr_ruinorph_c1
-Adopt the orphaned piglets.
+Взять сирот к себе.
 
 #ev_xplr_ruinorph_c2
-Leave.
+Уйти.
 
 #ev_xplr_sick
-Sick explorers
+Больные путники
 
 #ev_xplr_sick_1
-Many porcos in the expedition '[x]' have contracted a fever. The disease doesnt seem to heal and even got worse day after day. The sick porcos are struck by hallucinations and delusions. They sweat profusely and can no longer walk with the rest of the expedition party. 
+Многие свины в экспедиции "[x]" подцепили лихорадку.  Болезнь не лечится и становится только хуже с каждым днём. Больные свины бредят, обильно потеют и больше не могут продолжать путь вместе с остальными.
 
 #ev_xplr_sick_2
-The valid members of our expedition have to make a choice: either set camp for a while in the vicinity to feed the sick and hope that they'll recover, or leave without them.
+Здоровые члены экспедиции должны принять решение: разбить лагерь поблизости, чтобы кормить больных и надеяться, что они выздоровеют, или оставить их.
 
 #ev_xplr_sick_c1
-Stop and feed the sick until their condition improves. 
+Остановиться и позаботиться о больных, пока им не полегчает.
 
 #ev_xplr_sick_c2
-"These unfortunate Porcos are a burden. Let's keep moving!"
+"Эти неудачники для нас обуза. Пора в путь!"
 
 #ev_xplr_shpwrk
-Shipwreck
+Кораблекрушение
 
 #ev_xplr_shpwrk_1
-The porcos '[x]' were exploring the coast of unknowned lands when they found various pieces of a recent ship wreck brought back on the shore by the tide. A little further away, they found the bodies of its unfortunate sailors lying down on the beach. 
+Свины из "[x]" исследовали побережье незнакомой земли, когда начали находить различные обломки судна, выкинутые на берег приливом. Пройдя чуть дальше, они нашли и тела несчастных моряков, лежащие на песке. 
 
 #ev_xplr_shpwrk_2
-Most of them had drowned but some porcos could still breathe: with some food and rest, the survivors could be put back on their feet.
+Многие из них утонули, но некоторые свины ещё могли дышать. Выживших можно спасти, если накормить их и дать отдохнуть.
 
 #ev_xplr_shpwrk_c1
-Feed the shipwrecked porcos and enroll them in the group.
+Накормить потерпевших Кораблекрушение и зачислить в отряд.
 
 #ev_xplr_shpwrk_c2
-Pillage the shipwreck and its survivors.
+Обобрать место кораблекрушения и выживших.
 
 #ev_xplr_drnkfl
-The drunken fool
+Пьяный дурак
 
 #ev_xplr_drnkfl_1
-Our expedition '[x]' encountered a small nomadic tribe. The members of this tribe were very kind and welcoming. Never had our explorers met such friendly fellows. 
+Наша экспедиция "[x]" повстречала небольшое племя кочевников. Члены племени были очень доброжелательны и радушны. Никогда еще ваши исследователи не встречали таких дружелюбных ребят. 
 
 #ev_xplr_drnkfl_2
-After a few pleasant days in their company, our porcos finally had to leave, and a ceremony was held in their honor the day before their departure. For the occasion, the nomads brought out a majestic statue of their idol: A squatting porco with two heads: one of wood and the other of gold.
+После пары приятных дней, проведённых вместе, нашим свинам пора было в дорогу. За день до отбытия была проведена церемония в их честь. По случаю, кочевники вынесли прекрасную статую своего божка: сидящий свин с двумя головами, одной из дерева, другой из золота.
 
 #ev_xplr_drnkfl_3
-During the festivities, one of our porcos, emboldened by alcohol, beheaded the golden head of the statue. This sparked great outrage from the tribe and the thief was immediately attached and condemned to death for this great sacrilege.
+Во время возлияний, один из наших свинов, одурманенный алкоголем, оторвал золотую голову статуи. Это вызвало великий гнев всего племени и вор тотчас же был схвачен и приговорён к смерти за святотатство.
 
 #ev_xplr_drnkfl_c1
-Let the nomads execute your porco and leave.
+Позволить кочевникам казнить вашего свина и уйти.
 
 #ev_xplr_drnkfl_c2
-Fight the nomads and free your drunken fool.
+Сразиться с кочевниками и освободить пьяного дурака.
 
 #ev_xplr_mourn
-The mourning tribe
+Скорбящее племя
 
 #ev_xplr_mourn_1
-Our explorers of '[x]' were exploring new lands when they encountered a dozen of mourning porcos, burying a sow and a piglet. After a poignant funeral, they told our porcos that they formerly belonged to a much larger group that had been slowly decimated by multiple bandit attacks and epidemics. They were running out of supplies now and had lost all hope of salvation.
+Наши путешественники из "[x]" исследовали новые земли, когда встретили дюжину скорбящих свинов, хоронящих свиноматку и поросёнка. После душераздирающих похорон, они поведали нам, что раньше принадлежали к большому племени, но оно было постепенно истреблено многочисленными эпидемиями и  в стычках с бандитами. Теперь же у них заканчиваются припасы, и надежды на спасение нет.
 
 #ev_xplr_mourn_c1
-Offer them to join your expedition.
+Предложить им присоединиться к нашей экспедиции.
 
 #ev_xplr_mourn_c2
-Attack them and take their remaining supplies.
+Напасть и отобрать все что у них осталось
 
 #ev_xplr_amazn
-Amazons!
+Амазонки!
 
 #ev_xplr_amazn_1
-While exploring a dense tropical forest, our porcos '[x]' heard an enchanting melody. As they approached the location from which the music came from, they discovered a magnificent sow sitting at the edge of a pond, languorously sliding her fingers between the strings of a wooden harp. The explorers were captivated by so much beauty and lowered their guards.
+Продираясь через чащу тропического леса, наши свины "[x]" услышали чарующую мелодию. Приблизившись к месту, откуда доносилась музыка, они увидели прекрасную свинку, сидящую на краю озерца, томно перебирающую струны деревянной арфы. Путешественники были захвачены невероятной красотой увиденного и ослабили бдительность.
 
 #ev_xplr_amazn_2
-After finishing her song, the sow delicately stood up, grabbed a short bow and shot an arrow in the direction of the explorers, accompanied by other warrior maidens who had sprung everywhere around them. 
+Закончив петь, свинка осторожно встала, схватила короткий лук и метнула стрелу в направлении наших путешественников. То же самое сделали и другие свинки-воительницы, внезапно появившиеся отовсюду вокруг. 
 
 #ev_xplr_amazn_c1
-�I thought the Amazons were a legend� Defend yourselves!�
+"Я думал, что Амазонок не существует! К оружию!"
 
 #ev_xplr_egg
-The curious hog
+Любопытный хряк
 
 #ev_xplr_egg_1
-Our explorers of '[x]' stumbled upon an abandonned nest containing a few large eggs: enough to make a juicy omelet. One curious hog decided to keep his egg , depriving himself of  the tasty meal. During days he carried it around, and he slept next to it at nights. This went on for dozens of days, attracting him mockery from his companions. 
+Наши путешественники из "[x]" наткнулись на оставленное гнездо с несколькими большими яйцами: достаточно, чтобы сделать сочный омлет. Один любопытный хряк решил оставить яйцо, отказавшись от аппетитного лакомства. Днём он носил его с собой, а ночью с спал вместе с ним. Так продолжалось неделями, вызывая насмешки его компаньонов.
 
 #ev_xplr_egg_2
-One morning, under the curious hog's scrutiny, the egg hatched and from it emerged a tiny fluffy ostrich. Since then, its been following its benefactor everywhere he goes and the rest of the group even came to consider the bird as their troop's mascott.
+Однажды утром, под внимательным взглядом хряка, яйцо треснуло и из него появился маленький пушистый страусёнок. С тех пор, он следовал за своим спасителем, куда бы тот ни шёл, а прочие члены группы стали считать птицу талисманом отряда.
 
 #ev_xplr_orphel
-The orphaned pachyderm
+Толстокожий сирота
 
 #ev_xplr_orphel_1
-Our explorers of '[x]' had been marching for hours under the sun of arid lands when they heard weird calling noises that seemed desperate. They walked to a deep muddy hole at the bottom of which was stuck a young pachyderm calf and her mother. While the little elephant was alive, the other was no longer. 
+Путешественники из "[x]" много часов маршировали под палящим солнцем каменистых земель, когда услышали странные призывные звуки, в которых сквозило отчаяние. Они набрели на глубокую грязевую яму, на дне которого застрял маленький слонёнок и его мама. Малыш был жив, чего нельзя было сказать о его матери.
 
 #ev_xplr_orphel_2
-By cutting branches from dead trees nearby, the group worked tiredlessly for a few hours to dig and help the calf out of the hole. As soon as it got out, the scared animal first ran away. But grateful and having nowhere else to go, the little pachyderm apparently took a liking of the group and started folowing them ever since. First at at a respectful distance, and everyday closer until it ended up marching right in the middle of their group and sleeping next to their camp at nights.
+Отряд срубил ветви мёртвых деревьев неподалеку, а затем работал не покладая рук на протяжении нескольких часов, чтобы выкопать и вытащить слонёнка из ямы. Сначала он испугался и убежал. Но не зная куда податься, а может испытывая благодарность за спасение, он в конце концов привык к свинам и стал следовать за ними. Сначала двигаясь на почтительном расстоянии, но с каждым днём приближаясь ближе и ближе, он в итоге шёл прямо в центре отряда, а по  ночам спал рядом с лагерем.
 
 #ev_xplr_orphel_c1
-Keep the calf as a pet elephant
+Вырастить из малыша домашнего слона.
 
 #ev_xplr_orphel_c2
-"Looks like fresh meat's back on the menu boys!"
+"Эй, братки, а давненько свежего мяса в меню не было!"
 
 #ev_xplr_tribrem
-Tribe's remains
+Останки племени
 
 #ev_xplr_tribrem_1
-Our explorers of '[x]' stumbled upon the remains of an unfortunate small group of nomads. By the looks of it, they had died a long time ago in circumstances the group couldn't figure out. All their belongings appeared to be still intact next to them.
+Наши путешественники из "[x]" натолкнулись на останки небольшой группы несчастных кочевников. Судя по внешнему виду, они умерли очень давно и при неизвестных обстоятельствах. Все их пожитки нетронутые лежали рядом.
 
 #ev_xplr_tribrem_c1
-Scavenge their remains to recover what we can.
+Обобрать трупы и забрать все, что можем.
 
 #ev_xplr_tribrem_c2
-Give them a proper burrial.
+Похоронить их по-свински.
 
 #ev_xplr_wolfcubs
-Abandonned cubs
+Оставленные волчата
 
 #ev_xplr_wolfcubs_1
-Our explorers of '[x]' where caught by a violent storm and took refuge in a small cavern under a nearby cliff to wait it out. While they were busy setting camp in it, they heard strange calling noises. 
+Исследователи из "[x]" были застигнуты бурей и, решив переждать непогоду, укрылись в небольшом углублении под ближайшим утёсом. Разбивая лагерь, они услышали станных, будто зовущие кого-то голоса. 
 
 #ev_xplr_wolfcubs_2
-Grabbing a torch, one Porco went in the back to investigate and discovered 3 distressed wolf cubs. They looked dirty and hungry, visibly abandonned for quite a while : this was no regular wolf den and there was no sign of any wolves nearby. Noone knew how these 3 cubs ended up here, but the group decided to adopt them. The young wolves quickly got back in shape and it wasnt long until they became loyal companions apreciated by the whole group. Well, all except for the old Clawhog whose entire family was tragically devoured by wolves when he was just a piglet. 
+Взяв факел, один Свин отправился во тьму на разведку и нашёл 3 несчастных волчат. Грязные и голодные, они выглядели давно брошенными: это не было обычное волчье логово и других волков поблизости не было. Неизвестно, как 3 этих волчёнка оказались здесь, но свины решили их взять их к себе. Молодые волки быстро пришли в себя и скоро стали верными товарищами, всеобщими любимцами. Всеобщими, за исключение старого Когтепрыга, вся семья которого была съедена волками, когда он ещё был поросёнком.
 
 #ev_xplr_wolves
-Beasts in the forest
+Лесные твари
 
 #ev_xplr_wolves_1
-Our explorers of '[x]' where travelling through a dense forest when at dusk, they started to feel uneasy and watched. They kept progressing in silence, nervous, while dark silhouettes seemed to follow and encircle them. 
+Наши исследователи из "[x]" продирались сквозь лесную чащу в вечерний час, когда почувствовали, что за ними наблюдают. Они продолжали свой путь в тревожной тишине, а тёмные силуэты, казалось преследовали и окружали их.
 
 #ev_xplr_wolves_2
-Suddently, a terrifying growl came from the front, stopping the group. "Wolves i tell ya!", said the old Clawhop who didn't like these beasts -to say the least- as everyone on the group knew. "Get yerr weapons ready, pigs!", he added as several growls echoed around them. From all sides they emerged, ugly bacon-eating canines.
+Внезапно, ужасающий рык донёсся из темноты, заставив группу остановиться. "Волчары ета, точна хрюварю!" - сказал старый Когтепрыг, который, как все знали, мягко говоря, не любил этих тварей. "Оружие к бою, свины!" - добавил он, а в это время рычание уже доносилось отовсюду. Они напали с разных сторон, мерзкие, жадные до свинины волки.  
 
 #ev_xplr_bears
 Медведи!
 
 #ev_xplr_bears_1
-Our explorers of '[x]' had setup camp in unknown lands for the night when, at dawn, they woke up to unusual rumpus. Horrified, they saw a group of 3 huge bears scavenging through their inventory and supplies lying next to the camp.
+Наши исследователи из "[x]" разбили лагерь на ночь в незнакомых землях. На рассвете их разбудил необычный шум. К своему ужасу, проснувшись, они увидели группу из 3 здоровенных медведей, роющихся в их вещах и припасах, сложенных неподалеку.
 
 #ev_xplr_bears_2
-One of the porcos sleeping close to where the bears were, startled by this realization, made a move which had the unfortunate consequence of calling the attention of one of the beasts. The animal, angry and hungry, ran up to the poor bastard and decided it was time for a bacon breakfast.
+Один из наших свинов, спавший ближе всего к медведям, испуганный увиденным, пошевелился и, к несчастью, привлёк внимание одного из зверей. Медведь, злой и голодный, устремился к бедолаге, явно намереваясь позавтракать беконом.
 
 #ev_xplr_bears_c1
-Everyone pretends to sleep. Poor ol' Jenkins...
+Всем претвориться спящими. Бедняга Дженкинс...
 
 #ev_xplr_bears_c2
-"Die you ugly fat beasts!"
+"Сдохните, мерзкие жирные твари!"
 
 #ev_xplr_civlost
-Defenseless explorers lost!
+Безоружные исследователи потеряны!
 
 #ev_xplr_civlost_1
-Sending defenseless civilians to explore unknown foreign lands is a risky and dangerous decision. Our explorers '[x]' disapeared and were never heard of again: who knows what ill fate was bestowed upon them...
+Рискованно и опасно посылать безоружных свинов разведывать незнакомые земли. Наши исследователи "[x]" исчезли без следа: кто знает, что за злая судьба их постигла...
 
 #ev_xplr_blizzard
-Viscious blizzard
+Жестокий буран
 
 #ev_xplr_blizzard_1
-A viscious blizzard immobolized our expedition of '[x]' for many days. Many of them did not make it while the survivors consummed all the remaining food supplies. There is nothing to eat in these bleak lands!
+Жестокий буран обездвижил наш экспедицию "[x]" на много дней. Немногие выжившие доели остатки еды. В этих безрадостных землях больше нечего есть.
 
 #ev_xplr_icehole
-Bloody ice-hole!
+Проклятая дыра!
 
 #ev_xplr_icehole_1
-These lands are treacherous. While progressing on a difficult terrain, a few porcos of our expendition '[x]' fell to their death as ice broke under them, revealing a deep sink hole.
+Эти земли безжалостны и коварны. Продвигаясь через нагромождения льда, несколько свинов нашей экспедиции "[x]" упали и разбились насмерть, провалившись сквозь лед в глубокую расщелину.
 
 #ev_xplr_avlch
-Avalanche!
+Лавина!
 
 #ev_xplr_avlch_1
-As our group was travelling in a difficult terrain, a sudden avalanche took half of our people and supplies! What are we even doing there?!
+Внезапная лавина погребла под собой половину наших припасов и нас самих, когда мы пробирались по труднопроходимой местности! Что мы вообще здесь делаем?!
 
 #ev_xplr_freez1
-Glacial night
+Ночь во льдах
 
 #ev_xplr_freez1_1
-Travelling in such a glacial weather requires constant supplies, including wood to keep fires alive in the camp during nights. Good thing our expedition of '[x]' still had some wood to survive a particularly glacial night.
+Путешествия на таком морозе требуют непрерывного расхода припасов, включая дерево, чтобы поддерживать огонь в лагере по ночам. Хорошо, что наша экспедиция "[x]" все ещё имеет в запасе достаточно дерева чтобы пережить ещё одну ночь на леднике.
 
 #ev_xplr_freez2
-Glacial night
+Ночь во льдах
 
 #ev_xplr_freez2_1
-After a particularly glacial night, having nothing to keep themselves warm,  many of members of the '[x]' expedition fell asleep never to wake up again.
+После очередной морозной ночи, когда из чего было развести костёр, многие члены экспедиции "[x]" так и не проснулись.
 
 #ev_xplr_polfood1
-Icy desert
+Ледяная пустыня
 
 #ev_xplr_polfood1_1
-Travelling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
+Путешествия на таком морозе требуют непрерывного расхода припасов, включая еду, ведь в этой ледяной пустыне нечего есть. Хорошо, что у нашей экспедиции "[x]" ещё есть продовольствие чтобы пережить этот день.
 
 #ev_xplr_polfood2
-Icy desert
+Ледяная пустыня
 
 #ev_xplr_polfood2_1
-Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disapeared into this glacial white unforgiving desert and where never heard of again.
+Увы, исчерпав запасы еды и не в состоянии найти пропитание в этих ужасных землях, наша глодающая экспедиция "[x]" бесследно исчезла в безжалостной, белой, ледяной пустыне.
 
 #ev_spwn_succ
-Succession
+Наследование
 
 #ev_spwn_succ_1
-[x] of the [y] has left his position after many years of service. You have been named as successor and have now inherited control of all the possessions and duties of the [y].
+[x] из [y] оставил свой пост после многих лет. Вас выбрали наследником и теперь получаете во владение все права и обязанности [y].
 
 #ev_spwn_succ_2
-You have taken over a character that became inactive for remaining unplayed for too long by its previous owner. You are therefore picking up where it was left. You inhertied all its regions, units, diplomatic relations and knowledges, and you might be part of an existing Nation. 
+Вы взяли под управление персонажа, ставшего неактивным, так как его предыдущий владелец слишком долго за него не играл. Таким образом, вы начнёте с того места где его оставили. Вы наследуете все его регионы, юниты, дипломатические отношения и знания. Кроме того, вы можете быть частью существующей Нации.
 
 #ev_spwn_newld
-New leadership
+Новый лидер
 
 #ev_spwn_newld_1
-The region of [x], in need of new leadership, has chosen you for the task. 
+Регион [x], в поисках нового лидера, выбрал вас. 
 
 #ev_spwn_newld_2
-You have taken over a previously leader-less region, either because it was abandonned by its previous owner or because its people rebelled against him. You are therefore a new free and independent sovereign entity free of all treaties, starting with a single region. Your starting knowledges are inherited from the pre-existing buildings in the region. Be weary: you might face the hostility of your region's previous owner if he's still around.
+Вы берете под начало прежде никому не принадлежавший регион, потому что он был заброшен своим предыдущим хозяином или из-за того, что его народ взбунтовался против него. Таким образом, вы новый, независимый субъект на международной арене, свободный от любых соглашений, начинаете с одним регионом. Ваши начальные знания наследуются от существующих в регионе строений. Будьте осторожны, вы можете испытать враждебность предыдущего владельца, если он все ещё рядом.
 
 #ev_spwn_clny
-Leading the colony
+Глава колонии
 
 #ev_spwn_clny_1
-After many years of slow development and quiet leadership from obedient administrators, the colony of [x] attached to the [y] is now ready to become a political entity of its own. You have gained their trust and been promoted to become the first true leader of [x] as the region is awarded a new administrative and political status within the [p1], under the patronnage of the [y]. Its is time for [x] to make a name for itself and leave its mark in the history of Porcokind. 
+После многих лет постепенного развития под управлением исполнительных администраторов, колония [x], принадлежащая [y], готова стать самостоятельным субъектом на международной арене. Вы заслужили доверие и были выдвинуты на должность лидера [x], тогда как регион получил новы административный и политический статус внутри [p1], под патронажем [y]. Пора [x] заработать себе имя и оставить след в истории Свинства. 
 
 #ev_spwn_clny_2
-You have become the first ruler of a colony previously founded by another player. This region is therefore now evolving and becoming its own political entity ruled by you. However you start as a member of an existing Nation, and by default under the patronnage of the colony's original founder: the [y]. As a new branch of his culture, you also start with all the knowledges of the founders. As an ex-colony, be warned that you also start with a treaty binding you to his Nation, meaning you wont be able to leave it without breaking it and suffering penalties or even war. But this can also be a good thing: you are not starting alone and can seek protection and help from your superiors in the Nation, helping your development. It is probably a wise idea to start by reaching out to your superior and founder to greet him and establish friendly relations. Then who knows, maybe one day it will be time for [x] to claim its independance!
+Вы стали первым правителем колонии, ранее управлявшейся другим игроком. Это регион теперь становится самостоятельным государством под вашим управлением. Однако, вы начинаете как член существующей Нации, и по умолчанию под патронажем основателя колонии: [y]. Являясь новой ветвью его культуры  вы также начинаете со всеми знаниями основателя. Учтите, что как бывшая колония, вы связаны договором с его Нацией, что означает невозможность выйти из неё просто так. Вам придётся заплатить штраф или даже подвергнуться нападению. Положительная сторона заключается в том, что вы начинаете не один и может попросить помощи в развитии и защиты у своих сюзеренов в Нации. Мудрым поступком было бы начать с обращения к своему сюзерену и основателю чтобы поприветствовать его и установить добрые отношения. Кто знает, может однажды придёт час и [x] заявит о своей независимости!
 
 #ev_clnyevlv
-A colony has evolved!
+Колония развивается!
 
 #ev_clnyevlv_1
-Good news! One of our colonies, [x], has found its first proper ruler: [p1]. They have established their own new government and are now known as the [p2]. 
+Хорошие новости! Одна из наших колоний, [x], нашла подходящего лидера: [p1]. Они сформировали новое правительство и теперь известны как [p2]. 
 
 #ev_clnyevlv_2
-They have integrated our great nation as one of our subordinates and formally ratified the colonial treaty binding them to us and agreeing to a tax of 5% of their incomes in addition to the duties of their new title in the nation. 
+Они вступили в нашу великую нацию как один из подчинённых и официально подписали колониальный договор, связывающий их с нами, и согласились платить налог в 5% от своих доходов, а также выполнять обязанности их нового положения в нации. 
 
 #ev_clnyevlv_3
-As insurance, we will maintain control of their treasury of over 50% of their GDP in case they ever decide to illegally break this agreement!
+В качестве гарантии, мы оставляем за собой контроль над частью их Казны, превышающей 50% ВВП, на тот случай, если они решат самовольно разорвать это соглашение!
 
 #ev_form_ovrdrft
-Home of '[y]' has insufficient population!
+Дома у "[y]" недостаточно населения!
 
 #ev_form_ovrdrft_1
-The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
+Населения [x], дома для отряда "[y]", недостаточно, чтобы поддерживать это формирование! Нам не хватает молодых свинов, чтобы замещать уходящих со службы по старости. Из-за этого мы не сможем поддерживать текущую численность подразделения, и оно будет постепенно терять юнитов пока ситуация не изменится.
 
 #ev_form_ovrdrft_2
-Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
+Возможно, нам стоит уменьшить штатную численность отряда, чтобы снизить рекрутскую нагрузку на население в [x]. Также мы можем переместить это формирование в другую территорию, способную его обеспечить. Если мы ничего не предпримем, формирование будет медленно таять!
 
 #ev_xplr_brkleg
 Сломанная нога
 
 #ev_xplr_brkleg_1
-One of our explorers managed to break his leg in a misstep while walking on a portion of difficult terrain, and is now slowing down the whole group. What should we do ?
+Один из наших исследователей умудрился сломать ногу, оступившись на клочке неровной грунта и теперь замедляет всю группу. Что будем делать?
 
 #ev_xplr_brkleg_c1
-Wait for him to recover.
+Подождать пока он поправится.
 
 #ev_xplr_brkleg_c2
-Abandon him, there is no place for the weak!
+Оставьте его, нам не нужны слабаки!
 
 #ev_xplr_drnriv
-River drowning
+Жертва реки
 
 #ev_xplr_drnriv_1
-While crossing a river, one of our explorers fell in the water. The poor hog didn't knew how to swim and the currents carried him away before anyone could help him.
+Перебираясь через реку, один из наших исследователей упал в воду. Несчастный хряк не умел плавать и течение унесло его прежде, чем кто-либо сумел ему помочь.
 
 #ev_xplr_cliff
-Clumsy Porco
+Неуклюжий свин
 
 #ev_xplr_cliff_1
-While our explorers were walking along the edge of a tall cliff, one clumsy Porco tripped and fell to his death.
+Пока наши исследователи шли вдоль краю высокого утёса, один неуклюжий свин споткнулся и разбился насмерть.
 
 #ev_xplr_slowed
 Сложный ландшафт
 
 #ev_xplr_slowed_1
-These unknown lands proved particularly challenging to cross: our explorers got lost multiple times and lost a lot of time and it took them much longer than expected to reach their destination.
+Эти неведомые земли оказалось трудно пересечь: наши исследователи много раз терялись и потратили гораздо больше времени, чем рассчитывали, прежде чем добарлись до цели.
 
 #ev_xplr_wellrest
-Добрые местные
+Радушные аборигены
 
 #ev_xplr_wellrest_1
-Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
+Наши исследователи встретили дружелюбным местных жителей, которые предложили им своё гостеприимство. После хорошего отдыха и обильной еды, наша экспедиция распрощалась с ними и отправилась в путь полной сил.
 
 #ev_claimloss
-[x] has lost a territorial claim!
+[x] утратил права на территорию!
 
 #ev_claimloss_1
-Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
+Из-за недостатка местной Администрации ([p1]), город [x] потерял право на одну из территорий, так как больше был не в состоянии подтвердить его.
 
 #ev_form_desertion
-Our soldiers are deserting!
+Наши солдаты дезертируют!
 
 #ev_form_desertion_1
-The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+Солдату в наших армиях дезертируют из-за вашей негативной Легитимности! Бойцы не хотят служить правителю, которого не считают легитимным и продолжат покидать свои посты, пока ваша легитимность не станет вновь положительной.
 
 #effect_res_convstate
 Converts [x]% of the stocked resources in all territories to State owned.
@@ -1821,17 +1821,16 @@ Converts [x]% of the stocked resources in all territories to State owned.
 You have subjugated [x]!
 
 #ev_has_subjug_1
-You have subjugated the state of [x], ruled by [y], who is now your vassal. 
+Вы покорили страну [x], в которой правит [y]. Теперь это ваш вассал. 
 
 #ev_has_subjug_2
-[x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceeded to [x]. 
+[x] теперь будет платить вам налоги в виде монет и Власти, кроме того, он присоединился к вашей нации в качестве вашего вассала. В замен, все оккупированные территории будут возвращены [x]. 
 
 #ev_been_subjug
 You have been subjugated by [x]!
 
 #ev_been_subjug_1
-You have been subjugated the state of [x], ruled by [y], who is now your liedge lord. 
+Вас завоевал [y], правитель [x]. Теперь он ваш сюзерен. 
 
 #ev_been_subjug_2
-You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
-
+Теперь вы должны будете платить налоги монетами и Властью. Кроме того, вы присоединитесь к нации [x] в качестве вассала [y]. В замен, все оккупированные территории были возвращены вам.
