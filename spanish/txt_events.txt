@@ -1,12 +1,12 @@
 
 #cond_nbreg
-Posee [x] o más territorios.
+Posee [x] o mÃ¡s territorios.
 
 #cond_prodsupto
 Produce al menos [x] de [y] en territorio.
 
 #cond_incrfoodprod
-Aumenta tu producción de alimentos al menos a [x]
+Aumenta tu producciÃ³n de alimentos al menos a [x]
 
 #cond_ownbdg
 Ten [x] [y] en el territorio.
@@ -81,10 +81,10 @@ Cultura total inferior a [x]
 Cultura Total superior a [x]
 
 #cond_conflict_inf
-Conflicto de población inferior a [x]
+Conflicto de poblaciÃ³n inferior a [x]
 
 #cond_conflict_sup
-Conflicto de población superior a [x]
+Conflicto de poblaciÃ³n superior a [x]
 
 #cond_cons_sup
 Consumo de [x] superior a [y]
@@ -111,10 +111,10 @@ Ten un recurso natural de [x]
 [y] productos superiores a [x]
 
 #cond_agrprd_inf
-Prodcción agrícola inferior a [x]
+ProdcciÃ³n agrÃ­cola inferior a [x]
 
 #cond_agrprd_sup
-Producción agrícola superior a [x]
+ProducciÃ³n agrÃ­cola superior a [x]
 
 #cond_natagri
 Ten recursos naturales de verduras o plantas. Have natural sources of vegetables and plants
@@ -126,10 +126,10 @@ Milicia inferior a [x] [y]
 Milicia superior a [x] [y]
 
 #cond_army_inf
-Ejército inferior a [x] [y]
+EjÃ©rcito inferior a [x] [y]
 
 #cond_army_sup
-Ejército superior a [x] [y]
+EjÃ©rcito superior a [x] [y]
 
 #cond_natmetal
 Ten recursos naturales de metal. 
@@ -156,7 +156,7 @@ Necesidad(es) vital(es) de [y] superior(es) a[x]
 Ten menos de [x] [y] construcciones
 
 #cond_bdgcat_sup
-Ten más de [x] [y] construcciones
+Ten mÃ¡s de [x] [y] construcciones
 
 #cond_rescat_inf
 [y] bienes inferiores a [x]
@@ -165,10 +165,10 @@ Ten más de [x] [y] construcciones
 [y] bienes superiores a [x]
 
 #cond_rescatprd_inf
-[y] producción inferior a [x]
+[y] producciÃ³n inferior a [x]
 
 #cond_rescatprd_sup
-[y] producción superior a [x]
+[y] producciÃ³n superior a [x]
 
 #cond_prdgrp_inf
 Existencias de [y] recursos inferiores a [x]
@@ -177,10 +177,10 @@ Existencias de [y] recursos inferiores a [x]
 Existencias de [y] resources superiores a [x]
 
 #cond_prdgrpprd_inf
-Producción de [y] recursos inferiores a [x]
+ProducciÃ³n de [y] recursos inferiores a [x]
 
 #cond_prdgrpprd_sup
-Producción de [y] recursos superiores a [x]
+ProducciÃ³n de [y] recursos superiores a [x]
 
 #cond_resneed_inf
 Demanda insatisfecha de [y] de menos de [x]
@@ -219,31 +219,31 @@ Nivel del territorio inferior a [x]
 Nivel del territorio superior a [x]
 
 #cond_speed_inf
-Velocidad de combustión inferior a - char speed inferior to [x]
+Velocidad de combustiÃ³n inferior a - char speed inferior to [x]
 
 #cond_speed_sup
-Velocidad de combustión superior a -char speed superior to [x]
+Velocidad de combustiÃ³n superior a -char speed superior to [x]
 
 #cond_has_res
 Ten acceso a [x]
 
 #effect_givres
-Obtén [y] [x] en territorio
+ObtÃ©n [y] [x] en territorio
 
 #effect_globgivres
-Obtén [y] [x]
+ObtÃ©n [y] [x]
 
 #effect_givfood
-Obtén [x] de comida
+ObtÃ©n [x] de comida
 
 #effect_trigev
 Desencadena el evento - Triggers event
 
 #effect_givcoin
-Obtén [x] monedas
+ObtÃ©n [x] monedas
 
 #effect_setcoin
-Tesorería establecida en [x] monedas - Treasury set to [x] coins
+TesorerÃ­a establecida en [x] monedas - Treasury set to [x] coins
 
 #effect_loyalev
 Evento de estado: [x] lealtad de territorio. - State event: [x] territory loyalty
@@ -255,46 +255,46 @@ Desbloquea el proyecto: [x]
 Rechaza el proyecto: [x]
 
 #effect_givtech
-Desbloquea tecnología: [x]
+Desbloquea tecnologÃ­a: [x]
 
 #effect_bandits
-La formación es inmediatamente atacada por [x] bandidos.
+La formaciÃ³n es inmediatamente atacada por [x] bandidos.
 
 #effect_invloss
-Pierde [x]% del inventario de formación - Lose [x]% of the formation's inventory.
+Pierde [x]% del inventario de formaciÃ³n - Lose [x]% of the formation's inventory.
 
 #effect_invcatloss
-Pierde [x]% del inventario de la formación [y] - Lose [x]% of the formation's [y] inventory.
+Pierde [x]% del inventario de la formaciÃ³n [y] - Lose [x]% of the formation's [y] inventory.
 
 #effect_givloot
-Recibes [x] de botín.
+Recibes [x] de botÃ­n.
 
 #effect_hostribe
-La formación es inmediatamente atacada por [x] primitivos.
+La formaciÃ³n es inmediatamente atacada por [x] primitivos.
 
 #effect_unitloss
-Se pierde un [x]% de la formación de porcos.  [x]% of the formation's porcos are lost.
+Se pierde un [x]% de la formaciÃ³n de porcos.  [x]% of the formation's porcos are lost.
 
 #effect_joinbfmly
-Se unen a la formación [x] familias. - The formation is joined by [x] families.
+Se unen a la formaciÃ³n [x] familias. - The formation is joined by [x] families.
 
 #effect_xplrmap
-Revela el mapa del territorio hasta [x] cuadrículas/baldosas de la formación. - Reveals the map of the territory up to [x] tiles around the formation.
+Revela el mapa del territorio hasta [x] cuadrÃ­culas/baldosas de la formaciÃ³n. - Reveals the map of the territory up to [x] tiles around the formation.
 
 #effect_formlst
-La formación se ha perdido. - The formation is lost.
+La formaciÃ³n se ha perdido. - The formation is lost.
 
 #effect_canceldebt
 Cancela tu deuda. 
 
 #effect_givunit
-Se unen a la formación [y] [x]. 
+Se unen a la formaciÃ³n [y] [x]. 
 
 #effect_agrifood
-Obtén [x] de comida agrícola. 
+ObtÃ©n [x] de comida agrÃ­cola. 
 
 #effect_spawnunit
-[x] [z] [y] Aparecerán. 
+[x] [z] [y] AparecerÃ¡n. 
 
 #effect_modhonor
 Da honor [x]
@@ -309,94 +309,94 @@ Concede [x] Puntos de Victoria.
 [x] families abandonan el territorio.
 
 #effect_gividea
-Obtén una nueva idea: [x]
+ObtÃ©n una nueva idea: [x]
 
 #effect_givreg
 Gana control del territorio.
 
 #effect_fac_rplc
-Intercambiarás posiciones en la jerarquía de la Nación con este personaje. -You will swap position in the Nation's hierarchy with this character.
+IntercambiarÃ¡s posiciones en la jerarquÃ­a de la NaciÃ³n con este personaje. -You will swap position in the Nation's hierarchy with this character.
 
 #effect_fac_trigvt
-Desencadenará un voto de los subordinados para elegir un sucesor para la posición de este personaje en la Nación. - Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
+DesencadenarÃ¡ un voto de los subordinados para elegir un sucesor para la posiciÃ³n de este personaje en la NaciÃ³n. - Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
 
 #event_diplomes
 Mensaje de [x] 
 
 #event_treaty
-Proposición de pacto de [x] - Treaty proposal from [x]
+ProposiciÃ³n de pacto de [x] - Treaty proposal from [x]
 
 #event_dwar_att
 Hemos declarado la guerra a [x]
 
 #event_dwar_att_1
-Mi señor, hemos declarado la guerra a [x] de [y] y estamos ahora en guerra con estos puercos enclenques. - My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
+Mi seÃ±or, hemos declarado la guerra a [x] de [y] y estamos ahora en guerra con estos puercos enclenques. - My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
 
 #event_dwar_def
-[x] ¡nos ha declarado la guerra!
+[x] Â¡nos ha declarado la guerra!
 
 #event_dwar_def_1
-Mi señor, [x] de [y] nos ha declarado la guerra.
+Mi seÃ±or, [x] de [y] nos ha declarado la guerra.
 
 #event_dwar_def_2
 Ahora estamos en guerra con estos cerdos asquerosos. 
 
 #event_war_state
-¡Nuestro país está actualmente en guerra!
+Â¡Nuestro paÃ­s estÃ¡ actualmente en guerra!
 
 #event_misscomp
-Misión completada: [x]
+MisiÃ³n completada: [x]
 
 #event_misscomp_1
-Hemos completado esta misión y recibido sus recompensas.
+Hemos completado esta misiÃ³n y recibido sus recompensas.
 
 #event_gameovr
-¡Fin del juego! 
+Â¡Fin del juego! 
 
 #event_gameovr_1
-El juego ha finalizado y el ganador es la nación de [x], siendo el primero en alcanzar [p1] Puntos de Victoria con una puntuación total de [p2].
+El juego ha finalizado y el ganador es la naciÃ³n de [x], siendo el primero en alcanzar [p1] Puntos de Victoria con una puntuaciÃ³n total de [p2].
 
 #event_gameovr_2
-Ten en cuenta que el juego puede continuar y puedes seguir jugando, pero las puntuaciones y clasificaciones ya no serán actualizadas y no habrá más misiones de victoria.
+Ten en cuenta que el juego puede continuar y puedes seguir jugando, pero las puntuaciones y clasificaciones ya no serÃ¡n actualizadas y no habrÃ¡ mÃ¡s misiones de victoria.
 
 #event_rsk_upris
-Riesgo de rebelión en [x]
+Riesgo de rebeliÃ³n en [x]
 
 #event_rsk_upris_1
-¡La lealtad de [x] es muy baja y hay un alto riesgo de rebelión inminente de su población! Tenemos que hacer algo al respecto...
+Â¡La lealtad de [x] es muy baja y hay un alto riesgo de rebeliÃ³n inminente de su poblaciÃ³n! Tenemos que hacer algo al respecto...
 
 #event_rsk_upris_2
-La lealtad es reducida por factores como: cantidad de cultura local, grave guarnición local, ausencia de tropas estatales, bajo poder o legitimidad del estado, número de ciudades y distancia de la capital. Puedes abrir la tabla de clasificaciones para ver tu puntuación final.
+La lealtad es reducida por factores como: cantidad de cultura local, grave guarniciÃ³n local, ausencia de tropas estatales, bajo poder o legitimidad del estado, nÃºmero de ciudades y distancia de la capital. Puedes abrir la tabla de clasificaciones para ver tu puntuaciÃ³n final.
 
 #event_revolt
-¡Rebelión en [x]!
+Â¡RebeliÃ³n en [x]!
 
 #event_revolt_1
-¡La población de [x] se está revelando contra nosotros y los rebeldes toman el control de la ciudad! ¡Si triunfan perderemos el control del territorio!
+Â¡La poblaciÃ³n de [x] se estÃ¡ revelando contra nosotros y los rebeldes toman el control de la ciudad! Â¡Si triunfan perderemos el control del territorio!
 
 #event_revolt_2
-[p2]% de la población se ha alzado en armas y se está rebelando, incluyendo [p3] soldados de la guarnición local que han desertado. Nuestros [p5] soldados más leales están enfrentándose a [p4] rebeldes.
+[p2]% de la poblaciÃ³n se ha alzado en armas y se estÃ¡ rebelando, incluyendo [p3] soldados de la guarniciÃ³n local que han desertado. Nuestros [p5] soldados mÃ¡s leales estÃ¡n enfrentÃ¡ndose a [p4] rebeldes.
 
 #event_br_revolt
 Revuelta popular en [x]
 
 #event_br_revolt_1
-La población de [x] se ha rebelado contra nosotros y los rebeldes han intentado tomar el control de la ciudad.
+La poblaciÃ³n de [x] se ha rebelado contra nosotros y los rebeldes han intentado tomar el control de la ciudad.
 
 #event_br_revolt_2
-[p2]% de la población se alzó en armas y rebelaron, incluyendo [p4] soldados de la guarnición local que desertaron. [p5] de los soldados más leales se enfrentaron a [p3] rebeldes.
+[p2]% de la poblaciÃ³n se alzÃ³ en armas y rebelaron, incluyendo [p4] soldados de la guarniciÃ³n local que desertaron. [p5] de los soldados mÃ¡s leales se enfrentaron a [p3] rebeldes.
 
 #event_Ab_pitch
 Atacando [x] de [y]
 
 #event_Ab_pitch_1
-Nos estamos enfrentando al ejército enemigo de'[x]' de [y] en una batalla campal con [p2] soldados.
+Nos estamos enfrentando al ejÃ©rcito enemigo de'[x]' de [y] en una batalla campal con [p2] soldados.
 
 #event_Ab_pitch_2
 Se enfrentan a nosotros con [p3] soldados.
 
 #event_Abr_pitch
-Atacado/Atacó [x] de [y] - Attacked [x] of [y]
+Atacado/AtacÃ³ [x] de [y] - Attacked [x] of [y]
 
 #event_Abr_pitch_1
 Nos enfrentamos al enemigo de '[x]' de [y] en una batalla campal con [p2] soldados.
@@ -405,16 +405,16 @@ Nos enfrentamos al enemigo de '[x]' de [y] en una batalla campal con [p2] soldad
 Se enfrentaron a nosotros con [p3] soldados.
 
 #event_Db_pitch
-'[x]' están bajo ataque de [y]
+'[x]' estÃ¡n bajo ataque de [y]
 
 #event_Db_pitch_1
-'[x]' están siendo atacados en una batalla campal por un ejército de [y].
+'[x]' estÃ¡n siendo atacados en una batalla campal por un ejÃ©rcito de [y].
 
 #event_Db_pitch_2
-Nuestros[p2] soldados se están enfrentando a [p3] soldados enemigos.
+Nuestros[p2] soldados se estÃ¡n enfrentando a [p3] soldados enemigos.
 
 #event_Dbr_pitch
-'[x]' fueron atacados por un ejército de [y]
+'[x]' fueron atacados por un ejÃ©rcito de [y]
 
 #event_Dbr_pitch_1
 '[x]' fueron atacados en una batalla campal por [y].
@@ -429,10 +429,10 @@ Invadiendo [x]
 Estamos iniciando un asalto en [x] con [p2] soldados para invadir y tomar el control del territorio.
 
 #event_Ab_invad_2
-Para vencer debemos eliminar a todos los enemigos del territorio y sus defensas. Se están defendiendo con [p3] soldados.
+Para vencer debemos eliminar a todos los enemigos del territorio y sus defensas. Se estÃ¡n defendiendo con [p3] soldados.
 
 #event_Abr_invad
-Invasión de [x]
+InvasiÃ³n de [x]
 
 #event_Abr_invad_1
 Iniciamos un asalto en [x] con [p2] soldados para invadir y tomar control del territorio.
@@ -441,19 +441,19 @@ Iniciamos un asalto en [x] con [p2] soldados para invadir y tomar control del te
 Se defendieron con [p3] soldados.
 
 #event_Db_invad
-[y] está intentando invadir [x]
+[y] estÃ¡ intentando invadir [x]
 
 #event_Db_invad_1
 [y] ha comenzado un asalto a [x] con [p3] soldados para invadir y tomar el control del territorio.
 
 #event_Db_invad_2
-¡ Debemos rechazar su invasión o perderemos el control del territorio! Tenemos [p2] soldados defendiendo.
+Â¡ Debemos rechazar su invasiÃ³n o perderemos el control del territorio! Tenemos [p2] soldados defendiendo.
 
 #event_Dbr_invad
-Defensa de [x] ante una invasión de [y]
+Defensa de [x] ante una invasiÃ³n de [y]
 
 #event_Dbr_invad_1
-[y] comenzó un asalto a [x] con [p3] soldados para intentar invadir y tomar el control de nuestro territorio.
+[y] comenzÃ³ un asalto a [x] con [p3] soldados para intentar invadir y tomar el control de nuestro territorio.
 
 #event_Dbr_invad_2
 Nos defendimos con [p2] soldados.
@@ -465,7 +465,7 @@ Asaltando [x]
 Estamos emprendiendo un asalto en [x] para saquear su territorio con [p2] soldados.
 
 #event_Ab_raid_2
-Nuestras tropas intentarán saquear recursos y construcciones antes de abandonar el territorio con el botín.
+Nuestras tropas intentarÃ¡n saquear recursos y construcciones antes de abandonar el territorio con el botÃ­n.
 
 #event_Abr_raid
 Asalto de [x]
@@ -477,19 +477,19 @@ Asaltamos [x] para saquear su territorio con [p2] soldados.
 Nuestras tropas consiguieron saquear [p3] recursos y [p4] monedas. 
 
 #event_Db_raid
-[y] está asaltando [x]
+[y] estÃ¡ asaltando [x]
 
 #event_Db_raid_1
 [y] ha comenzado un asalto a [x] con [p2] soldados.
 
 #event_Db_raid_2
-¡Tenemos que pararles antes de que lleguen y saqueen nuestros recursos y construcciones y se vayan con nuestras posesiones!
+Â¡Tenemos que pararles antes de que lleguen y saqueen nuestros recursos y construcciones y se vayan con nuestras posesiones!
 
 #event_Dbr_raid
 Defensa de [x] ante el asalto de [y]
 
 #event_Dbr_raid_1
-[y] asaltó [x] para saquear nuestro territorio con [p2] soldados.
+[y] asaltÃ³ [x] para saquear nuestro territorio con [p2] soldados.
 
 #event_Dbr_raid_2
 Lograron saquear [p3] recursos y [p4] monedas. 
@@ -501,7 +501,7 @@ Saqueando [x]
 Estamos comenzando un asalto en [x] para saquear el territorio con [x] soldados. 
 
 #event_Ab_sack_2
-Nuestras tropas tratarán de eliminar todos los enemigos del territorio y sus defensas antes de saquear todo lo que puedan y abandonar el lugar con el botín.
+Nuestras tropas tratarÃ¡n de eliminar todos los enemigos del territorio y sus defensas antes de saquear todo lo que puedan y abandonar el lugar con el botÃ­n.
 
 #event_Abr_sack
 Saqueo de [x]
@@ -513,19 +513,19 @@ Comenzamos un asalto en [x] para saquear su territorio con [p2] soldados.
 Nuestras tropas lograron saquear [p3] recursos y [p4] monedas. 
 
 #event_Db_sack
-[y] está intentando saquear [x]
+[y] estÃ¡ intentando saquear [x]
 
 #event_Db_sack_1
 [y] ha empezado un asalto en [x] para saquear el territorio con [p2] soldados. 
 
 #event_Db_sack_2
-!Intentarán eliminar todas nuestras tropas y defensas antes de saquear todo lo que puedan y largarse con el botín! 
+!IntentarÃ¡n eliminar todas nuestras tropas y defensas antes de saquear todo lo que puedan y largarse con el botÃ­n! 
 
 #event_Dbr_sack
 Defensa de [x] ante el saqueo de [y]
 
 #event_Dbr_sack_1
-[y] Comenzó un asalto [x] para saquear el territorio con [p2] soldados.
+[y] ComenzÃ³ un asalto [x] para saquear el territorio con [p2] soldados.
 
 #event_Dbr_sack_2
 Consiguieron saquear [p3] recursos y [p4] monedas.
@@ -534,13 +534,13 @@ Consiguieron saquear [p3] recursos y [p4] monedas.
 Ayudando a [y] en defensa de [x]
 
 #event_Db_assist_1
-[y] está bajo ataque de [x]. 
+[y] estÃ¡ bajo ataque de [x]. 
 
 #event_Db_assist_2
-Como aliado, nuestras [p2] tropas están participando en la batalla y colaborando en la defensa contra [p3] enemigos.
+Como aliado, nuestras [p2] tropas estÃ¡n participando en la batalla y colaborando en la defensa contra [p3] enemigos.
 
 #event_Dbr_assist
-Ayudó a [x] en defensa de [x] - Assisted [y] in defense of [x]
+AyudÃ³ a [x] en defensa de [x] - Assisted [y] in defense of [x]
 
 #event_Dbr_assist_1
 [y] fue atacado en [x]. 
@@ -552,19 +552,19 @@ Como aliado, nuestras [p2] tropas participaron en la batalla para ayudar en la d
 Ayudando [y] en el ataque de [x]
 
 #event_Ab_assist_1
-[y] está atacando [y]. 
+[y] estÃ¡ atacando [y]. 
 
 #event_Ab_assist_2
-Como aliado de [y], nuestras tropas están participando en la batalla y asistiendo a su ejército.
+Como aliado de [y], nuestras tropas estÃ¡n participando en la batalla y asistiendo a su ejÃ©rcito.
 
 #event_Abr_assist
-Colaboró [y] en el ataque de [x]
+ColaborÃ³ [y] en el ataque de [x]
 
 #event_Abr_assist_1
-[y] atacó [y]. 
+[y] atacÃ³ [y]. 
 
 #event_Abr_assist_2
-Como aliado de [x], nuestras tropas participaron en la batalla y dieron soporte a su ejército. 
+Como aliado de [x], nuestras tropas participaron en la batalla y dieron soporte a su ejÃ©rcito. 
 
 #event_hunt
 Cazando [p2] [p3]
@@ -573,7 +573,7 @@ Cazando [p2] [p3]
 Estamos comenzando una caza contra [p2] [p3]!
 
 #event_hunt_2
-Nuestros cazadores intentarán matar tantos animales de estos como puedan hasta llenar inventario.
+Nuestros cazadores intentarÃ¡n matar tantos animales de estos como puedan hasta llenar inventario.
 
 #event_huntr
 Cazando [p2] [p3]
@@ -585,70 +585,70 @@ Nuestros cazadores emprendieron una caza de nuevo [p2] [p3].
 Intentaron matar tantos animales como pudieron para llenar inventario.
 
 #event_debt
-¡Endeudado!
+Â¡Endeudado!
 
 #event_debt_1
-Actualmente estamos endeudados con [x] monedas en nuestra tesorería. Estar en deuda reduce el Poder de Estado y afecta a la lealtad de nuestras ciudades y ejércitos.
+Actualmente estamos endeudados con [x] monedas en nuestra tesorerÃ­a. Estar en deuda reduce el Poder de Estado y afecta a la lealtad de nuestras ciudades y ejÃ©rcitos.
 
 #event_debt_2
-Necesitamos volver a poner nuestros ingresos en verde o estaremos en serios problemas. Si la situación es desesperadad, también podemos como último recurso cancelar nuestra deuda, pero esto generará enorme malestar en nuestro Estado. 
+Necesitamos volver a poner nuestros ingresos en verde o estaremos en serios problemas. Si la situaciÃ³n es desesperadad, tambiÃ©n podemos como Ãºltimo recurso cancelar nuestra deuda, pero esto generarÃ¡ enorme malestar en nuestro Estado. 
 
 #event_c_canceldebt
 Cancelar la deuda
 
 #event_confcdebt
-¿Confirma cancelar la deuda? 
+Â¿Confirma cancelar la deuda? 
 
 #event_confcdebt_1
-¿Estás seguro de que quieres declarar nuestra deuda nula y vacía? 
+Â¿EstÃ¡s seguro de que quieres declarar nuestra deuda nula y vacÃ­a? 
 
 #event_confcdebt_2
-Con una deuda de [p1] monedas y un PIB de [p2], nuestra actual deuda representa un [p3]% de nuestro PBI: ¡si lo cancelamos, sufriremos una penalización estimada de [p4] lealtad en todos nuestros territorios!
+Con una deuda de [p1] monedas y un PIB de [p2], nuestra actual deuda representa un [p3]% de nuestro PBI: Â¡si lo cancelamos, sufriremos una penalizaciÃ³n estimada de [p4] lealtad en todos nuestros territorios!
 
 #event_canceldebt
 Deuda cancelada.
 
 #event_canceldebt_1
-Tomamos la medida drásica de declarar nuestra deuda de [p1] nula y vacía, declarando que no devolveríamos lo que debíamos.
+Tomamos la medida drÃ¡sica de declarar nuestra deuda de [p1] nula y vacÃ­a, declarando que no devolverÃ­amos lo que debÃ­amos.
 
 #event_canceldebt_2
-En todas nuestras ciudades, los acreedores manifiestan que nunca van a recibir lo que les debemos. Mucha gente lo perdió todo y está en la ruina como consecuencia. La economía es inestable y confusa,  por ni hablar de la pérdida de confianza en el gobierno. 
+En todas nuestras ciudades, los acreedores manifiestan que nunca van a recibir lo que les debemos. Mucha gente lo perdiÃ³ todo y estÃ¡ en la ruina como consecuencia. La economÃ­a es inestable y confusa,  por ni hablar de la pÃ©rdida de confianza en el gobierno. 
 
 #event_canceldebt_3
-Como consecuencia por cancelar la deuda de [p3]% nuestro PIB total ([p2] monedas) estamos sufriendo una penalización de [p4] lealtad en todos nuestros territorios. Esto efecto irá decreciendo lentamente a medida que la gente olvida este sucese, pero requerirá tiempo. Mientras tanto, deberíamos preparanos para lo peor.
+Como consecuencia por cancelar la deuda de [p3]% nuestro PIB total ([p2] monedas) estamos sufriendo una penalizaciÃ³n de [p4] lealtad en todos nuestros territorios. Esto efecto irÃ¡ decreciendo lentamente a medida que la gente olvida este sucese, pero requerirÃ¡ tiempo. Mientras tanto, deberÃ­amos preparanos para lo peor.
 
 #event_lowpow
-¡Poder de Estado negativo!
+Â¡Poder de Estado negativo!
 
 #event_lowpow_1
-El poder de Estado es la capacidad de tu Estado para controlar cosas. Sin él, seríamos incapaces de aprobar reformas y la lealtad de nuestros territorios sería negativamente afectada, lo que puede llevar a revueltas populares.
+El poder de Estado es la capacidad de tu Estado para controlar cosas. Sin Ã©l, serÃ­amos incapaces de aprobar reformas y la lealtad de nuestros territorios serÃ­a negativamente afectada, lo que puede llevar a revueltas populares.
 
 #event_lowpow_2
 El poder de estado puede mejorarse al: tener menos ciudades, no tener deuda y/o renunciar a polizas caras.
 
 #event_lowlegit
-¡Legitimidad negativa! - Negative legitimacy!
+Â¡Legitimidad negativa! - Negative legitimacy!
 
 #event_lowlegit_1
-La legitimidad es lo mucho que la gente reconoce el derecho de tu estado para reclamar autoridad. Sin ella, no solo nos enfrentamos al incremento de riesgo de rebeliones, sino también a que nuestros ejércitos se rebelen contra nosotros para derrocar nuestro gobierno ilegítimo.
+La legitimidad es lo mucho que la gente reconoce el derecho de tu estado para reclamar autoridad. Sin ella, no solo nos enfrentamos al incremento de riesgo de rebeliones, sino tambiÃ©n a que nuestros ejÃ©rcitos se rebelen contra nosotros para derrocar nuestro gobierno ilegÃ­timo.
 
 #event_lowlegit_2
-Las políticas de legitimidad definen qué reclamaciones hacer para asegurarte tu derecho como líder del Estado. Estas reclamaciones definen la importancia de todos los diferentes factores de Legitimidad. Para mejorar esta situación, podemos trabajar o bien en mejorar los factores actuales o en reformar nuestras reivindicaciones para conseguir las más provechosas.
+Las polÃ­ticas de legitimidad definen quÃ© reclamaciones hacer para asegurarte tu derecho como lÃ­der del Estado. Estas reclamaciones definen la importancia de todos los diferentes factores de Legitimidad. Para mejorar esta situaciÃ³n, podemos trabajar o bien en mejorar los factores actuales o en reformar nuestras reivindicaciones para conseguir las mÃ¡s provechosas.
 
 #event_tribwarn
 Territorio robado
 
 #event_tribwarn_1
-¡Atención! Al crear nuestro último asentamiento de [x] hemos usurpado territorios de una tribu primitiva que ha estado viviendo allí durante generaciones. Claro que este territorio resulta atractivo, pero con el tiempo pagaremos las consecuencias de esta acción pues los nativos no tolerarán jamás nuestra presencia.
+Â¡AtenciÃ³n! Al crear nuestro Ãºltimo asentamiento de [x] hemos usurpado territorios de una tribu primitiva que ha estado viviendo allÃ­ durante generaciones. Claro que este territorio resulta atractivo, pero con el tiempo pagaremos las consecuencias de esta acciÃ³n pues los nativos no tolerarÃ¡n jamÃ¡s nuestra presencia.
 
 #event_tribwarn_2
-Por ahora, solo nos han visto asentar un campamento desde lejos, pero conocen estas tierras mejor que nadie y desaparecen en cuanto nos acercamos a ellos. Me temo que no podremos tratar con ellos antes de que elijan causar problemas. Deberíamos preparanos por un posible ataque sorpresa. ¡Puede que estén preparando armas y guerreros para perseguirnos mientras hablamos! ¿O quizá esta tierra no vale la pena después de todo y podamos simplemente irnos y dejarlos en paz?-   
+Por ahora, solo nos han visto asentar un campamento desde lejos, pero conocen estas tierras mejor que nadie y desaparecen en cuanto nos acercamos a ellos. Me temo que no podremos tratar con ellos antes de que elijan causar problemas. DeberÃ­amos preparanos por un posible ataque sorpresa. Â¡Puede que estÃ©n preparando armas y guerreros para perseguirnos mientras hablamos! Â¿O quizÃ¡ esta tierra no vale la pena despuÃ©s de todo y podamos simplemente irnos y dejarlos en paz?-   
 
 #event_tribreb
-¡Alzamiento de tribu primitiva en [x] ! 
+Â¡Alzamiento de tribu primitiva en [x] ! 
 
 #event_tribreb_1
-Los nativos viviendo en nuestro territorio de [x] se han enfadado al sentir que su territorio es ocupado por nosotros. ¡Han cogido armas y han decidido atacarnos a traición!
+Los nativos viviendo en nuestro territorio de [x] se han enfadado al sentir que su territorio es ocupado por nosotros. Â¡Han cogido armas y han decidido atacarnos a traiciÃ³n!
 
 #event_trt_ref
 [y] ha rechazado nuestra propuesta
@@ -660,112 +660,112 @@ Un mensajero de [y] nos ha informado que nuestra generosa y justa offerta ha sid
 Tratado con [y] firmado.
 
 #event_trt_acc_1
-¡Nuestro tratado con [x] de [y] ha sido aprobado y firmado por ambos y ya es efectivo!
+Â¡Nuestro tratado con [x] de [y] ha sido aprobado y firmado por ambos y ya es efectivo!
 
 #event_trt_rngoc
-[y] está proponiendo renegociar un tratado. 
+[y] estÃ¡ proponiendo renegociar un tratado. 
 
 #event_trt_rngoc_1
-[x] de [y] está proponiendo la siguiente renegociación de un tratado que actualmente tenemos con ellos. Si aceptamos estos términos, el tratado será actualizado.
+[x] de [y] estÃ¡ proponiendo la siguiente renegociaciÃ³n de un tratado que actualmente tenemos con ellos. Si aceptamos estos tÃ©rminos, el tratado serÃ¡ actualizado.
 
 #event_trt_asktrm
 [y] solicita finalizar un tratado. 
 
 #event_trt_asktrm_1
-[x] de [y] está pidiendo llegar a un mutuo acuerdo para finalizar el tratado que tenemos con su gente. Si aceptamos, el tratado será finalizado al instante sin ocasionar ninguna cláusula de ruptura y sus términos dejarán de ser efectivos. Si nos negamos, no ocurrirá nada  y el pacto permanecerá activo, a no ser que decidan acabar con él de forma ilegal (en cuyo caso se aplicarán las cláusulas de ruptura). 
+[x] de [y] estÃ¡ pidiendo llegar a un mutuo acuerdo para finalizar el tratado que tenemos con su gente. Si aceptamos, el tratado serÃ¡ finalizado al instante sin ocasionar ninguna clÃ¡usula de ruptura y sus tÃ©rminos dejarÃ¡n de ser efectivos. Si nos negamos, no ocurrirÃ¡ nada  y el pacto permanecerÃ¡ activo, a no ser que decidan acabar con Ã©l de forma ilegal (en cuyo caso se aplicarÃ¡n las clÃ¡usulas de ruptura). 
 
 #event_trt_brk1
 [x] ha roto un tratado!
 
 #event_trt_brk1_1
-![x] ha roto ilegalmente un tratado de '[y]' que tenían con nosotros!
+![x] ha roto ilegalmente un tratado de '[y]' que tenÃ­an con nosotros!
 
 #event_trt_brk1_2
-De acuerdo con los términos de ruptura en el tratado, hemos recibido [p1] monedas como compensación y ellos han perdido [p2] de honor.
+De acuerdo con los tÃ©rminos de ruptura en el tratado, hemos recibido [p1] monedas como compensaciÃ³n y ellos han perdido [p2] de honor.
 
 #event_trt_brk2
-¡Hemos roto un tratado con [x]!
+Â¡Hemos roto un tratado con [x]!
 
 #event_trt_brk2_1
-Hemos roto ilegalmente el tratado de '[y]' que teníamos con [x] 
+Hemos roto ilegalmente el tratado de '[y]' que tenÃ­amos con [x] 
 
 #event_trt_brk2_2
-De acuerdo con los términos de ruptura del tratado, hemos pagado como penalización [p1] monedas y perdido [p2] de honor. 
+De acuerdo con los tÃ©rminos de ruptura del tratado, hemos pagado como penalizaciÃ³n [p1] monedas y perdido [p2] de honor. 
 
 #event_trt_brkw1
 Les hemos declarado la guerra como venganza, y cualquier otro tratado con ellos ha (?) - We have declared war to them in retaliation, and any other treaty with them has 
 
 #event_trt_brkw2
-Nos han declarado la guerra en señal de venganza. 
+Nos han declarado la guerra en seÃ±al de venganza. 
 
 #event_brb_raid
-¡Se aproximan asaltantes bárbaros!
+Â¡Se aproximan asaltantes bÃ¡rbaros!
 
 #event_brb_raid_1
-Nuestros exploradores informan que un grupo de alrededor de [p1] asaltantes bárbaros han abandonado el terreno cercano de [x] y vienen de camino hacia aquí.
+Nuestros exploradores informan que un grupo de alrededor de [p1] asaltantes bÃ¡rbaros han abandonado el terreno cercano de [x] y vienen de camino hacia aquÃ­.
 
 #event_brb_raid_2
-Puede que pronto estén aquí e intenten asaltar rápidamente nuestros almacenes. ¡Debemos tener nuestras defensas listas! 
+Puede que pronto estÃ©n aquÃ­ e intenten asaltar rÃ¡pidamente nuestros almacenes. Â¡Debemos tener nuestras defensas listas! 
 
 #event_brb_sack
-¡Se aproxima una guerrilla bárbara! - Incoming barbarian warband!
+Â¡Se aproxima una guerrilla bÃ¡rbara! - Incoming barbarian warband!
 
 #event_brb_sack_1
-Nuestros exploradores informan que una guerrilla bárbaba de alrededor de [p1] porcos ha abandonado el territorio cercano de [x] y están de camino.
+Nuestros exploradores informan que una guerrilla bÃ¡rbaba de alrededor de [p1] porcos ha abandonado el territorio cercano de [x] y estÃ¡n de camino.
 
 #event_brb_sack_2
-¡Puede que pronto estén aquí y ataquen nuestras defensas antes de saquear todo el territorio!  ¡Debemos ttener nuestras defensas listas! 
+Â¡Puede que pronto estÃ©n aquÃ­ y ataquen nuestras defensas antes de saquear todo el territorio!  Â¡Debemos ttener nuestras defensas listas! 
 
 #event_brb_inv
-¡Se aproximan invasores bárbaros!
+Â¡Se aproximan invasores bÃ¡rbaros!
 
 #event_brb_inv_1
-Nuestros exploradores informan que un ejército de bárbaros de alrededor de [p1] porcos ha abandonado el territorio próximo de [x] y vienen hacia aquí.
+Nuestros exploradores informan que un ejÃ©rcito de bÃ¡rbaros de alrededor de [p1] porcos ha abandonado el territorio prÃ³ximo de [x] y vienen hacia aquÃ­.
 
 #event_brb_inv_2
-Puede que pronto estén aquí y no parece que vengan solo a asaltarnos, ¡sino a invadirnos! ¡Debemos tener nuestras defensas preparadas! - They might be here soon and they dont seem to be coming just to pillage, but to invade our lands! We must get our defenses ready! 
+Puede que pronto estÃ©n aquÃ­ y no parece que vengan solo a asaltarnos, Â¡sino a invadirnos! Â¡Debemos tener nuestras defensas preparadas! - They might be here soon and they dont seem to be coming just to pillage, but to invade our lands! We must get our defenses ready! 
 
 #event_crsh_vict
-¡Victoria aplastante!
+Â¡Victoria aplastante!
 
 #event_crsh_vict_1
-Nuestra formación <<[x]>> ha aplastado y eliminado a una pequeña tropa de [y] enemigos, gracias a nuestra abrumadora superioridad numérica.
+Nuestra formaciÃ³n <<[x]>> ha aplastado y eliminado a una pequeÃ±a tropa de [y] enemigos, gracias a nuestra abrumadora superioridad numÃ©rica.
 
 #event_crsh_dfeat
-¡Derrota aplastante!
+Â¡Derrota aplastante!
 
 #event_crsh_dfeat_1
-Malas noticias: nuestra formación <<[x]>> ha sido aplastada y eliminada por el [x] enemigo, con una abrumadora superioridad numérica. Nadie ha sobrevivido para contarlo.
+Malas noticias: nuestra formaciÃ³n <<[x]>> ha sido aplastada y eliminada por el [x] enemigo, con una abrumadora superioridad numÃ©rica. Nadie ha sobrevivido para contarlo.
 
 #event_popdefrise
-!La gente de [x] está defendiendo la ciudad!
+!La gente de [x] estÃ¡ defendiendo la ciudad!
 
 #event_popdefrise_1
-La gente de la ciudad de [x] han cogido armas para ayudar a defender la ciudad de los atacantes. ¡[p1] porcos se están uniendo a la batalla!
+La gente de la ciudad de [x] han cogido armas para ayudar a defender la ciudad de los atacantes. Â¡[p1] porcos se estÃ¡n uniendo a la batalla!
 
 #event_trout_w1
-Advertencia de ruta comercial: ¡Sin derechos comerciales!
+Advertencia de ruta comercial: Â¡Sin derechos comerciales!
 
 #event_trout_w1_1
-Puesto que ya no tenemos derechos comerciales en la ciudad de [y], nuestra ruta comercial entre esta ciudad y [x] se cerrará pronto a no ser que arregemos este problema pronto.
+Puesto que ya no tenemos derechos comerciales en la ciudad de [y], nuestra ruta comercial entre esta ciudad y [x] se cerrarÃ¡ pronto a no ser que arregemos este problema pronto.
 
 #event_trout_w1_2
 Esto puede ocurrir si la ciudad tiene un nuevo propietario con quien no hemos negociado derechos de comercio, o si estos derechos han sido rechazados. 
 
 #event_trout_b1
-¡Ruta comercial rota! - Trade route broken!
+Â¡Ruta comercial rota! - Trade route broken!
 
 #event_trout_b1_1
-Puesto que ya no tenemos derechos comerciales con la ciudad de [y] nuestra ruta comercial entre esta ciudad y [x] cerró. 
+Puesto que ya no tenemos derechos comerciales con la ciudad de [y] nuestra ruta comercial entre esta ciudad y [x] cerrÃ³. 
 
 #event_trout_b1_2
-Esto pasó porque la ciudad tuvo un nuevo propietario con quien no hemos negociado derechos comerciales, o porque estos fueron rechazados.
+Esto pasÃ³ porque la ciudad tuvo un nuevo propietario con quien no hemos negociado derechos comerciales, o porque estos fueron rechazados.
 
 #event_trout_w2
-Advertencia de ruta comercial: ¡cargamento faltante! - Trade route warning: missing cargo!
+Advertencia de ruta comercial: Â¡cargamento faltante! - Trade route warning: missing cargo!
 
 #event_trout_w2_1
-Nuestra ruta comercial con [x] operada por [y] está perdiendo [p2] de cargamento para ser dirigida adecuadamente. La ruta cerrará pronto a no ser que arreglemos este problema pronto.
+Nuestra ruta comercial con [x] operada por [y] estÃ¡ perdiendo [p2] de cargamento para ser dirigida adecuadamente. La ruta cerrarÃ¡ pronto a no ser que arreglemos este problema pronto.
 
 #event_trout_w2_2
 El servicio de cargamento es lo que permite llevar los bienes continuamente a lo largo de la ruta comercial y mantener una transferencia constante de recursos. Cada ruta, dependiendo de la distancia y el volumen de los bienes intercambiados, requiere de una cierta cantidad de cargamento.
@@ -774,10 +774,10 @@ El servicio de cargamento es lo que permite llevar los bienes continuamente a lo
 En cualquier caso, este agente ya no produce suficiente cargamento, requerido para operar adecuadamente en esta ruta comercial: para arreglar este problema se necesita aumentar el servicio disponible o cambiar a un operario diferente que pueda proveernos del cargamento necesario ([p3]).
 
 #event_trout_b2
-¡Ruta comercial rota!
+Â¡Ruta comercial rota!
 
 #event_trout_b2_1
-Nuestra ruta comercial con [x] cerró porque su operador [y] era incapaz de proveer los suministros necesarios ([p3]) para mantenerlo (faltaba(n) ([p2])
+Nuestra ruta comercial con [x] cerrÃ³ porque su operador [y] era incapaz de proveer los suministros necesarios ([p3]) para mantenerlo (faltaba(n) ([p2])
 
 #event_trout_b2_2
 El servicio de carga es lo que te permite llevar los bien continuamente a lo largo de la ruta comercial y mantener una constante transferencia de recursos. Cada ruta, dependiendo de la distancia y volumen de los bienes comerciados, requiere una cierta cantidad de carga.  
@@ -786,244 +786,244 @@ El servicio de carga es lo que te permite llevar los bien continuamente a lo lar
 En cualquier caso, este operador ya no produce el cargamento requerido para operar adecuadamente esta ruta comercial: Para arreglar este problema se necesita incrementar su servicio disponible o cambiar a un operador diferente que pueda facilitar la carga requerida ([p3]).
 
 #event_trout_w3
-Advertecnia de ruta comercial: ¡Estamos perdiendo bienes!
+Advertecnia de ruta comercial: Â¡Estamos perdiendo bienes!
 
 #event_trout_w3_1
-¡Nuestra ruta comercial que exporta [p2] [p2] a [x] desde [y] carece de los bienes requeridos y cerrará pronto a no ser que arreglemos este problema rápidamente!
+Â¡Nuestra ruta comercial que exporta [p2] [p2] a [x] desde [y] carece de los bienes requeridos y cerrarÃ¡ pronto a no ser que arreglemos este problema rÃ¡pidamente!
 
 #event_trout_w3_2
 Esto ocurre porque ya no producimos suficiente [p3] en [x] y nuestras existencias se han acabado.
 
 #event_trout_b3
-¡Ruta comercial rota! - Trade route broken!
+Â¡Ruta comercial rota! - Trade route broken!
 
 #event_trout_b3_1
-Nuestra ruta comercial que exporta [p2] [p3] a [x] desde [y] cerró porque ya no podíamos suministrar los bienes necesarios.
+Nuestra ruta comercial que exporta [p2] [p3] a [x] desde [y] cerrÃ³ porque ya no podÃ­amos suministrar los bienes necesarios.
 
 #event_trout_b3_2
-Esto ocurrió porque no estabamos produciendo suficiente [p3] en [x] y nuestras existencias se acabaron. 
+Esto ocurriÃ³ porque no estabamos produciendo suficiente [p3] en [x] y nuestras existencias se acabaron. 
 
 #event_trout_w4
-Advertencia de ruta comercial: ¡el exportador está perdiendo bienes! 
+Advertencia de ruta comercial: Â¡el exportador estÃ¡ perdiendo bienes! 
 
 #event_trout_w4_1
-!Nuestra ruta comercial que importa [p2] [p3] desde [y] a [x] carece de los bienes necesarios y puede cerrar pronto a no ser que el exportador arregle este problema rápidamente! 
+!Nuestra ruta comercial que importa [p2] [p3] desde [y] a [x] carece de los bienes necesarios y puede cerrar pronto a no ser que el exportador arregle este problema rÃ¡pidamente! 
 
 #event_trout_w4_2
-Esto ocurre porque su producción de [p3] en [y] es insuficiente y se han acabado sus existencias.
+Esto ocurre porque su producciÃ³n de [p3] en [y] es insuficiente y se han acabado sus existencias.
 
 #event_trout_b4
-¡Ruta comercial rota! - Trade route broken!
+Â¡Ruta comercial rota! - Trade route broken!
 
 #event_trout_b4_1
-Nuestra ruta comercial que importa [p2] [p3] desde [x] a [y] cerró porque ellos no podían proveer los bienes necesarios.
+Nuestra ruta comercial que importa [p2] [p3] desde [x] a [y] cerrÃ³ porque ellos no podÃ­an proveer los bienes necesarios.
 
 #event_trout_b4_2
-Esto ocurrió porque su producción de [p3] en [x] era insuficiente y se agotaron sus existencias.
+Esto ocurriÃ³ porque su producciÃ³n de [p3] en [x] era insuficiente y se agotaron sus existencias.
 
 #event_trout_c1
-¡[x] cerró una ruta comercial! - [x] closed a trade route!
+Â¡[x] cerrÃ³ una ruta comercial! - [x] closed a trade route!
 
 #event_trout_c1_1
-La ciudad de [p2] cerró su ruta comercial de [p2] [p3] con nuestra ciudad de [y].
+La ciudad de [p2] cerrÃ³ su ruta comercial de [p2] [p3] con nuestra ciudad de [y].
 
 #event_trout_c2
-¡Una de nuestras rutas comerciales fue cerrada por su operador!
+Â¡Una de nuestras rutas comerciales fue cerrada por su operador!
 
 #event_trout_c2_1
 La ciudad de [x] ha decidido dejar de operar nuestra ruta comercial de [p2] [p3] con nuestra ciudad [y]. Esto supuso el cierre de la ruta.
 
 #event_cdog
-¡Un cazador domó alguos perros salvajes en [x]! 
+Â¡Un cazador domÃ³ alguos perros salvajes en [x]! 
 
 #event_cdog_1
-Algunos perros salvajes han estado vagando alrededor de la aldea de [x] ultimamente. Los animales parecían amistosos y un cazador consiguió domar a algunos de ellos: los ha colocado en una cerca para mantenerlos por la zona. Deberíamos conservarlos hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida!
+Algunos perros salvajes han estado vagando alrededor de la aldea de [x] ultimamente. Los animales parecÃ­an amistosos y un cazador consiguiÃ³ domar a algunos de ellos: los ha colocado en una cerca para mantenerlos por la zona. DeberÃ­amos conservarlos hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida!
 
 #event_csheep
-¡Hemos domado algunas ovejas salvajes en [x]!
+Â¡Hemos domado algunas ovejas salvajes en [x]!
 
 #event_csheep_1
-Algunas ovejas salvajes han estado merodeando la zona de [x] ultimamente. Estos animales parecían amistosos y un aldeano consiguió atraerlas a una pequeña cerca para asegurarse de que no escapan. Deberíamos conservarlos hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida! Además, son bastante peludas.
+Algunas ovejas salvajes han estado merodeando la zona de [x] ultimamente. Estos animales parecÃ­an amistosos y un aldeano consiguiÃ³ atraerlas a una pequeÃ±a cerca para asegurarse de que no escapan. DeberÃ­amos conservarlos hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida! AdemÃ¡s, son bastante peludas.
 
 #event_cgoat
-¡Hemos domado algunas cabras salvajes en [x]!
+Â¡Hemos domado algunas cabras salvajes en [x]!
 
 #event_cgoat_1
-Algunas cabras salvajes han estado vagando alrededor de la aldea de [x] ultimamente. Estos animales parecían amistosos y un aldeano consiguió atraerlas a una pequeña cerca para asegurarse de que no escapan. Deberíamos conservarlos hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida!
+Algunas cabras salvajes han estado vagando alrededor de la aldea de [x] ultimamente. Estos animales parecÃ­an amistosos y un aldeano consiguiÃ³ atraerlas a una pequeÃ±a cerca para asegurarse de que no escapan. DeberÃ­amos conservarlos hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida!
 
 #event_crabbit
-¡Unos cazadores han capturado algunos conejos salvajes en [x]!
+Â¡Unos cazadores han capturado algunos conejos salvajes en [x]!
 
 #event_crabbit_1
-¡Los cazadores de [x] tuvieron suerte y consiguieron capturar algunos conejos vivos y ponerlos en jaulas para conservarlos en caso de que necesitemos carne fresca! Siempre está bien tener reservas de comida.
+Â¡Los cazadores de [x] tuvieron suerte y consiguieron capturar algunos conejos vivos y ponerlos en jaulas para conservarlos en caso de que necesitemos carne fresca! Siempre estÃ¡ bien tener reservas de comida.
 
 #event_cchick
-¡Los cazadores han cogido algunas gallinas salvajes en [x]! 
+Â¡Los cazadores han cogido algunas gallinas salvajes en [x]! 
 
 #event_cchick_1
-Los cazadores de [x] tuvieron suerte y consiguieron capturar algunas gallinas vivas y ponerlas en jaulas para conservarlos en caso de que necesitemos carne fresca! Siempre está bien tener reservas de comida.
+Los cazadores de [x] tuvieron suerte y consiguieron capturar algunas gallinas vivas y ponerlas en jaulas para conservarlos en caso de que necesitemos carne fresca! Siempre estÃ¡ bien tener reservas de comida.
 
 #event_ccow
-¡Hemos domado algunas vacas salvajes en [x]! 
+Â¡Hemos domado algunas vacas salvajes en [x]! 
 
 #event_ccow_1
-Algunas vacas salvajes han estado merodeando cerca de la aldea de [x] ultimamente. Estos animales parecían tranquilos, y un aldeano consiguió atraerlas a una pequeña cerca para asegurarse de que no escapen. Deberíamos conservarlas hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida! 
+Algunas vacas salvajes han estado merodeando cerca de la aldea de [x] ultimamente. Estos animales parecÃ­an tranquilos, y un aldeano consiguiÃ³ atraerlas a una pequeÃ±a cerca para asegurarse de que no escapen. DeberÃ­amos conservarlas hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida! 
 
 #event_cbuff
-¡Hemos domado algunos búfalos salvajes en [x]! 
+Â¡Hemos domado algunos bÃºfalos salvajes en [x]! 
 
 #event_cbuff_1
-Algunos búfalos salvajes han estado merodeando cerca de la aldea de [x]. Estos animales parecían amistosos y un aldeano consiguió atraerlos a una pequeña cerca para asegurarse de que no escapan. Deberíamos conservarlos hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida!
+Algunos bÃºfalos salvajes han estado merodeando cerca de la aldea de [x]. Estos animales parecÃ­an amistosos y un aldeano consiguiÃ³ atraerlos a una pequeÃ±a cerca para asegurarse de que no escapan. DeberÃ­amos conservarlos hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida!
 
 #event_chorse
-¡Unos cazadores capturaron algunos caballos salvajes en [x]! - Hunters captured some wild horses in [x]!
+Â¡Unos cazadores capturaron algunos caballos salvajes en [x]! - Hunters captured some wild horses in [x]!
 
 #event_chorse_1
-¡Los cazadores de [x] tuvieron suerte y consiguieron capturar algunos caballos. Han encerrado a estos agitados animales en una pequeña cerca para asegurarse de que no escapen. Deberíamos conservarlos hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida!
+Â¡Los cazadores de [x] tuvieron suerte y consiguieron capturar algunos caballos. Han encerrado a estos agitados animales en una pequeÃ±a cerca para asegurarse de que no escapen. DeberÃ­amos conservarlos hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida!
 
 #event_ccamel
-¡Unos cazadores capturaros algunos camellos salvajes en [x]! 
+Â¡Unos cazadores capturaros algunos camellos salvajes en [x]! 
 
 #event_ccamel_1
-¡Los cazadores de [x] tuvieron suerte y consiguieron capturar algunos camellos! Han encerrado a estos tontos y cabezones animales en una pequeña cerca para asegurarse de que no escapen. Deberíamos conservarlos hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida!
+Â¡Los cazadores de [x] tuvieron suerte y consiguieron capturar algunos camellos! Han encerrado a estos tontos y cabezones animales en una pequeÃ±a cerca para asegurarse de que no escapen. DeberÃ­amos conservarlos hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida!
 
 #event_cllama
-¡Hemos domado algunas llamas salvajes en [x]! 
+Â¡Hemos domado algunas llamas salvajes en [x]! 
 
 #event_cllama_1
-Algunas llamas salvajes han estado merodeando cerca de la aldea de [x] ultimamente. Estos animales parecían bastante amistosos -para ser unas tercas llamas que escupen - y un aldeano consiguió llevarlas hasta una pequeña cerca para asegurarse de que no se escapan. Deberíamos conservarlas hasta que necesitemos carne fresca, ¡siempre es bueno tener reservas de comida!
+Algunas llamas salvajes han estado merodeando cerca de la aldea de [x] ultimamente. Estos animales parecÃ­an bastante amistosos -para ser unas tercas llamas que escupen - y un aldeano consiguiÃ³ llevarlas hasta una pequeÃ±a cerca para asegurarse de que no se escapan. DeberÃ­amos conservarlas hasta que necesitemos carne fresca, Â¡siempre es bueno tener reservas de comida!
 
 #event_projsuc
-¡Nuestro proyecto '[x]' ha sido completado satisfactoriamente!
+Â¡Nuestro proyecto '[x]' ha sido completado satisfactoriamente!
 
 #event_projsuc_1
-¡Nuestro proyecto '[x]' ha sido completado satisfactoriamente y hemos conseguido sus recompensas!
+Â¡Nuestro proyecto '[x]' ha sido completado satisfactoriamente y hemos conseguido sus recompensas!
 
 #event_projfail
-¡Nuestro proyecto '[x]' fracasó!
+Â¡Nuestro proyecto '[x]' fracasÃ³!
 
 #event_projfail_1
-Nuestro proyecto de '[x]' con [p2]% de posibilidades de éxito ha sido completado, pero desgraciadamente no consiguió cumplir las expectativas y no hemos conseguido sus recompensas. Me temo que tendremos que empezar de nuevo y esperar mejores resultados...
+Nuestro proyecto de '[x]' con [p2]% de posibilidades de Ã©xito ha sido completado, pero desgraciadamente no consiguiÃ³ cumplir las expectativas y no hemos conseguido sus recompensas. Me temo que tendremos que empezar de nuevo y esperar mejores resultados...
 
 #event_projfail_2
-¡Un projecto puede fracasar si su dificultad es más alta que la inteligencia media de los investigadores asignados a ello. Deberíamos intentar asignar mejores investigadores para incrementar las posibilidades de éxito la próxima vez!
+Â¡Un projecto puede fracasar si su dificultad es mÃ¡s alta que la inteligencia media de los investigadores asignados a ello. DeberÃ­amos intentar asignar mejores investigadores para incrementar las posibilidades de Ã©xito la prÃ³xima vez!
 
 #event_herd
-¡Rebaño/manada de [p2] visto cerca de [x]! 
+Â¡RebaÃ±o/manada de [p2] visto cerca de [x]! 
 
 #event_herd_1
-Los exploradores de la tribu han visto un rebaño moviéndose alrededor de [p1] [p2] cerca de nuestro asentamiento e [x], en un territorio de [y].
+Los exploradores de la tribu han visto un rebaÃ±o moviÃ©ndose alrededor de [p1] [p2] cerca de nuestro asentamiento e [x], en un territorio de [y].
 
 #event_herd_2
-Podríamos enviar algunos de nuestros mejores Porcos para cazarlos: ¡eso nos proporcionaría carne fresca y pieles para la tribu! 
+PodrÃ­amos enviar algunos de nuestros mejores Porcos para cazarlos: Â¡eso nos proporcionarÃ­a carne fresca y pieles para la tribu! 
 
 #event_rcvidea
-¡Recibimos una nueva idea de [x]! 
+Â¡Recibimos una nueva idea de [x]! 
 
 #event_rcvidea_1
-Buenas noticias: la gente de [x] nos han mostrado su conocimiento de [p1] y explicado las primeras nociones de qué es y cómo funciona.
+Buenas noticias: la gente de [x] nos han mostrado su conocimiento de [p1] y explicado las primeras nociones de quÃ© es y cÃ³mo funciona.
 
 #event_rcvidea_2
-Gracias a lo que nos han enseñado, hemos desbloqueado un nuevo proyecto: '[p2]', el cual podemos intentar completar por nuestra cuenta para dominar el conocimiento de [p1]
+Gracias a lo que nos han enseÃ±ado, hemos desbloqueado un nuevo proyecto: '[p2]', el cual podemos intentar completar por nuestra cuenta para dominar el conocimiento de [p1]
 
 #event_trtov
 Nuestro tratado '[x]' con [y] ahora ha finalizado.
 
 #event_trtov_1
-¡El tratado '[x]' que teníamos con [y] ha llegado a su duración acordada y ahora está obsoleto!
+Â¡El tratado '[x]' que tenÃ­amos con [y] ha llegado a su duraciÃ³n acordada y ahora estÃ¡ obsoleto!
 
 #ev_migtrib
-Tribu de nómadas hambrientos en [x].
+Tribu de nÃ³madas hambrientos en [x].
 
 #ev_migtrib_1
-Atraídos por nuestra prosperidad, una triu primitiva de nómadas hambrientos ha llegado a [x]. Han estado vagando por las tierras durante mucho tiempo, padeciendo hambre, y están interesados en unirse a nuestra comunidad. Llevan a un pequeño consigo y no tienen mucho que ofrecer a parte de su fuerza
+AtraÃ­dos por nuestra prosperidad, una triu primitiva de nÃ³madas hambrientos ha llegado a [x]. Han estado vagando por las tierras durante mucho tiempo, padeciendo hambre, y estÃ¡n interesados en unirse a nuestra comunidad. Llevan a un pequeÃ±o consigo y no tienen mucho que ofrecer a parte de su fuerza
 
 #ev_migtrib_2
-¿Deberíamos acogerles en nuestra tribu?
+Â¿DeberÃ­amos acogerles en nuestra tribu?
 
 #ev_migtrib_c1
-"Sí, necesitamos mano de obra extra. Que sean bienvenidos entre nosotros." 
+"SÃ­, necesitamos mano de obra extra. Que sean bienvenidos entre nosotros." 
 
 #ev_migtrib_c2
-"¡No! No podemos permitirnos más bocas que alimentar.
+"Â¡No! No podemos permitirnos mÃ¡s bocas que alimentar.
 
 #ev_stormwood
 Noche tormentosa en [x]
 
 #ev_stormwood_1
-Una violenta tormenta rugió toda la noche en [x], con fuertes vientos. Por suerte nadie resultó herido y la aldea no sufrió ningún daño.
+Una violenta tormenta rugiÃ³ toda la noche en [x], con fuertes vientos. Por suerte nadie resultÃ³ herido y la aldea no sufriÃ³ ningÃºn daÃ±o.
 
 #ev_stormwood_2
-En cualquier caso, por la mañana los aldeanos encontraron unos cuantos árboles altos, convirtiéndolos en madera fácilmente adquirible.
+En cualquier caso, por la maÃ±ana los aldeanos encontraron unos cuantos Ã¡rboles altos, convirtiÃ©ndolos en madera fÃ¡cilmente adquirible.
 
 #ev_luckgath
 Recolector afortunado en [x]
 
 #ev_luckgath_1
-¡Uno de nuestros recolectores tuvo suerte y tropezó con un camino sendero no descubierto de plantas comestibles escondidas en la vegetación que nadie anteriormente había visto! ¡Resulta una buena recolección para hoy!
+Â¡Uno de nuestros recolectores tuvo suerte y tropezÃ³ con un camino sendero no descubierto de plantas comestibles escondidas en la vegetaciÃ³n que nadie anteriormente habÃ­a visto! Â¡Resulta una buena recolecciÃ³n para hoy!
 
 #ev_nagwif
 La esposa criticona.
 
 #ev_nagwif_1
-Un porco de la aldea de [x], exasperado por las constantes quejas de su Porca, decidió irse a un retiro solitario en tierras salvajes para cazar y ha desaparecido por varios días.
+Un porco de la aldea de [x], exasperado por las constantes quejas de su Porca, decidiÃ³ irse a un retiro solitario en tierras salvajes para cazar y ha desaparecido por varios dÃ­as.
 
 #ev_nagwif_2
-Muchos temen que nunca vuelva. Pero al quinto día volvió, cargando con lo que resulta una caza exitosa. Fue aclamado por toda la tribu. A su mujer, sin embargo, no le hizo gracia y se fue con sus hijos a la tribu de su madre, al otro lado del valle.
+Muchos temen que nunca vuelva. Pero al quinto dÃ­a volviÃ³, cargando con lo que resulta una caza exitosa. Fue aclamado por toda la tribu. A su mujer, sin embargo, no le hizo gracia y se fue con sus hijos a la tribu de su madre, al otro lado del valle.
 
 #ev_regwolf
-¡Lobos hambrientos en [x]!
+Â¡Lobos hambrientos en [x]!
 
 #ev_regwolf_1
-Un conjunto de lobos hambrientos han llegado al territorio de [x], probablemente atraídos por nuestras reservas de comida! Durante la noche, despertaron a toda la tribu con sus temerosos aullidos, los cuales sonaban cada vez más cerca. Al amanecer, sus oscuras siluetas fueron vistas alrededor de la aldea.
+Un conjunto de lobos hambrientos han llegado al territorio de [x], probablemente atraÃ­dos por nuestras reservas de comida! Durante la noche, despertaron a toda la tribu con sus temerosos aullidos, los cuales sonaban cada vez mÃ¡s cerca. Al amanecer, sus oscuras siluetas fueron vistas alrededor de la aldea.
 
 #ev_regwolf_2
-¡Todos los guerreros corrieron con sus armas, listos para luchar a los lobos y proteger a los aldeanos y las reservas! 
+Â¡Todos los guerreros corrieron con sus armas, listos para luchar a los lobos y proteger a los aldeanos y las reservas! 
 
 #ev_regbear
 Osos malvados en [x].
 
 #ev_regbear_1
-Un pequeño grupo de osos merodeaban alrededor de [x]. Durante la noche entraron a la aldea y arrasaron con nuestras reservas de suministros y comida.
+Un pequeÃ±o grupo de osos merodeaban alrededor de [x]. Durante la noche entraron a la aldea y arrasaron con nuestras reservas de suministros y comida.
 
 #ev_regbear_c1
-"Todo el mundo, aparentad que dormís..." - "Everyone, just pretend to sleep..."
+"Todo el mundo, aparentad que dormÃ­s..." - "Everyone, just pretend to sleep..."
 
 #ev_regbear_c2
-¡Hora de combatir algunos osos!
+Â¡Hora de combatir algunos osos!
 
 #ev_asylm
 Buscadores de refugio en [x] 
 
 #ev_asylm_1
-Un grupo de nómadas llegaron a nuestro territorio de [x]. Nos han contado la historia de cómo fueron ahuyentados de sus tierras por parte de una tribu vecina tras un conflicto entre ellos.
+Un grupo de nÃ³madas llegaron a nuestro territorio de [x]. Nos han contado la historia de cÃ³mo fueron ahuyentados de sus tierras por parte de una tribu vecina tras un conflicto entre ellos.
 
 #ev_asylm_2
-Atacaron durante la noche, perdieron a la mayoría de su gente y huyeron de su tierra natal, pero no sin que uno de sus mejores guerreros consiguiese matar al jefe de la tribu enemiga. Desde entonces, su hijo ha prometido cazarles por venganza sin importar dónde estén, y llevan corriendo semanas. 
+Atacaron durante la noche, perdieron a la mayorÃ­a de su gente y huyeron de su tierra natal, pero no sin que uno de sus mejores guerreros consiguiese matar al jefe de la tribu enemiga. Desde entonces, su hijo ha prometido cazarles por venganza sin importar dÃ³nde estÃ©n, y llevan corriendo semanas. 
 
 #ev_asylm_3
-Sus perseguidores no andan muy lejos, y tu tribu es ahora su única esperanza. Suplican por asilo y seguridad, ofreciendo a cambio lealtad a nuestra gente. Si aceptamos, ¡tendremos que luchar contra sus perseguidores! 
+Sus perseguidores no andan muy lejos, y tu tribu es ahora su Ãºnica esperanza. Suplican por asilo y seguridad, ofreciendo a cambio lealtad a nuestra gente. Si aceptamos, Â¡tendremos que luchar contra sus perseguidores! 
 
 #ev_asylm_c1
-Ofréceles asilo y combatir contra sus perseguidores.
+OfrÃ©celes asilo y combatir contra sus perseguidores.
 
 #ev_asylm_c2
-Captura a estos fugitivos y ofréceselos a la justicia para conseguir una recompensa.
+Captura a estos fugitivos y ofrÃ©ceselos a la justicia para conseguir una recompensa.
 
 #ev_knowtrav
 El viajero experto.
 
 #ev_knowtrav_1
-Un día, un viejo cerdo llegó a nuestra aldea de [x], sus pies cansados de los muchos viajes que había hecho. Era un ermitaño solitario, había viajado y vivido solo durante muchos años.  
+Un dÃ­a, un viejo cerdo llegÃ³ a nuestra aldea de [x], sus pies cansados de los muchos viajes que habÃ­a hecho. Era un ermitaÃ±o solitario, habÃ­a viajado y vivido solo durante muchos aÃ±os.  
 
 #ev_knowtrav_2
-Contó una historia sober la gente a la que perteneció, quienes perecieron largo tiempo atrás de una misteriosa enfermedad, siendo él el único que se recuperó milagrosamente, abandonando su tierra. También contó historias sobre cómo su gente solía vivir: increíbles historias sobre cosas que ellos hacían y que nadie podría imaginar. Había mucho que aprender de sus enseñanzas, puesto que parecía venir de un pueblo distinto y misterioso.
+ContÃ³ una historia sober la gente a la que perteneciÃ³, quienes perecieron largo tiempo atrÃ¡s de una misteriosa enfermedad, siendo Ã©l el Ãºnico que se recuperÃ³ milagrosamente, abandonando su tierra. TambiÃ©n contÃ³ historias sobre cÃ³mo su gente solÃ­a vivir: increÃ­bles historias sobre cosas que ellos hacÃ­an y que nadie podrÃ­a imaginar. HabÃ­a mucho que aprender de sus enseÃ±anzas, puesto que parecÃ­a venir de un pueblo distinto y misterioso.
 
 #ev_knowtrav_3
-Pero el asombro y la influencia que obtuvo entre la tribu comenzó a perturbar a los miembros más dominantes, quienes sentían su posición amenazada... ¿Qué deberíamos hacer al respecto?
+Pero el asombro y la influencia que obtuvo entre la tribu comenzÃ³ a perturbar a los miembros mÃ¡s dominantes, quienes sentÃ­an su posiciÃ³n amenazada... Â¿QuÃ© deberÃ­amos hacer al respecto?
 
 #ev_knowtrav_c1
-Escuchar lo que el viajero tiene que enseñar incluso si eso les preocupa a los otros.
+Escuchar lo que el viajero tiene que enseÃ±ar incluso si eso les preocupa a los otros.
 
 #ev_knowtrav_c2
 Prohibir a ese viejo cerdo estar en la aldea por sus mentiras.
@@ -1032,67 +1032,67 @@ Prohibir a ese viejo cerdo estar en la aldea por sus mentiras.
 Regalo de amistad en [x] 
 
 #ev_frndgift_1
-Un grupo de nómadas pasaron por nuestra pequeña aldea de [x]. Permanecerieron unos pocos días, compartiendo histories y entablando amistad con algunos habitantes. Agradecidos por nuestra hospitalidad, nos regalaron algunas de sus pertenencias como símbolo de amistad antes de despedirse y continuar con su travesía.
+Un grupo de nÃ³madas pasaron por nuestra pequeÃ±a aldea de [x]. Permanecerieron unos pocos dÃ­as, compartiendo histories y entablando amistad con algunos habitantes. Agradecidos por nuestra hospitalidad, nos regalaron algunas de sus pertenencias como sÃ­mbolo de amistad antes de despedirse y continuar con su travesÃ­a.
 
 #ev_vp_complet
-¡Misión de Victoria completada!
+Â¡MisiÃ³n de Victoria completada!
 
 #ev_vp_complet_1
-¡Hemos completado la misión de Victoria "[y]" antes que nadie y conseguido su recompensa, demostrando a todos que somos gente memorable!
+Â¡Hemos completado la misiÃ³n de Victoria "[y]" antes que nadie y conseguido su recompensa, demostrando a todos que somos gente memorable!
 
 #ev_vp_fail
-¡[x] ha completado una misión de victoria!
+Â¡[x] ha completado una misiÃ³n de victoria!
 
 #ev_vp_fail_1
-¡La gente de [x] ha completado la misión de victoria "[y]" antes que nosotros!
+Â¡La gente de [x] ha completado la misiÃ³n de victoria "[y]" antes que nosotros!
 
 #ev_joinwriors
-¡Unos Guerreros quieren unirse a nosotros!
+Â¡Unos Guerreros quieren unirse a nosotros!
 
 #ev_joinwriors_1
-Un grupo de 10 guerreros ha estado merodeando las tierras durante muchas lunas antes de llegar a nuestra tribu. Son amistosos y desearían unirse a nosotros: se ofrecen a ayudarnos a cazar y explorar el mundo si los recibimos entre nosotros. 
+Un grupo de 10 guerreros ha estado merodeando las tierras durante muchas lunas antes de llegar a nuestra tribu. Son amistosos y desearÃ­an unirse a nosotros: se ofrecen a ayudarnos a cazar y explorar el mundo si los recibimos entre nosotros. 
 
 #ev_joinwriors_c1
-"Sí, ¡que sean bienvenidos!"
+"SÃ­, Â¡que sean bienvenidos!"
 
 #ev_joinwriors_c2
-"No, no podemos permitirnos más gente ahora mismo."
+"No, no podemos permitirnos mÃ¡s gente ahora mismo."
 
 #ev_exceptool
 Herramientas excepcionales.
 
 #ev_exceptool_1
-¡Uno de los cerdtesanos más hábiles encontró piedras de una solidez y dureza inusuales y consiguió crear con ellas unas pocas herramientas de una calidad excepcional!
+Â¡Uno de los cerdtesanos mÃ¡s hÃ¡biles encontrÃ³ piedras de una solidez y dureza inusuales y consiguiÃ³ crear con ellas unas pocas herramientas de una calidad excepcional!
 
 #ev_spdboost
-¡Mejora de velocidad! - Speed boost!
+Â¡Mejora de velocidad! - Speed boost!
 
 #ev_spdboost_1
-¡Como personaje recientemente creado, para disfrutar de un comienzo más dinamico se te ha concedido una temporal [x] MEJORA DE VELOCIDAD durante tus primeros [y] minutos de juego!
+Â¡Como personaje recientemente creado, para disfrutar de un comienzo mÃ¡s dinamico se te ha concedido una temporal [x] MEJORA DE VELOCIDAD durante tus primeros [y] minutos de juego!
 
 #ev_spdboost_2
-Esta bonificación, mientras se mantenga activa, modifica las siguientes estadísticas de tu personaje:
+Esta bonificaciÃ³n, mientras se mantenga activa, modifica las siguientes estadÃ­sticas de tu personaje:
 
 #ev_spdboost_3
-- La producción y el consumo de recursos en tus territorios a un ritmo más rápido, así como el ciclo de producción se reduce en [x].
+- La producciÃ³n y el consumo de recursos en tus territorios a un ritmo mÃ¡s rÃ¡pido, asÃ­ como el ciclo de producciÃ³n se reduce en [x].
 
 #ev_spdboost_4
-- El crecimiento de población evoluciona más rápido y la duración de una generación normal se reduce en [x].  
+- El crecimiento de poblaciÃ³n evoluciona mÃ¡s rÃ¡pido y la duraciÃ³n de una generaciÃ³n normal se reduce en [x].  
 
 #ev_spdboost_5
--Velocidad de investigación es aumentada en [x].
+-Velocidad de investigaciÃ³n es aumentada en [x].
 
 #ev_spdboost_6
--Velocidad de construcción es incrementada en [x].
+-Velocidad de construcciÃ³n es incrementada en [x].
 
 #ev_rebljoin
 [x] se ha rebelado y desea unirse a nosotros.
 
 #ev_rebljoin_1
-Buenas noticias: la ciudad de [x] se rebeló contra sus opresos de [y]. La ciudad es libre al fin y sus habitantes, sintiéndose culturalmente ligados a nosotros, !quiere ahora unirse a nuestra gloriosa nación!
+Buenas noticias: la ciudad de [x] se rebelÃ³ contra sus opresos de [y]. La ciudad es libre al fin y sus habitantes, sintiÃ©ndose culturalmente ligados a nosotros, !quiere ahora unirse a nuestra gloriosa naciÃ³n!
 
 #ev_rebljoin_2
-Si aceptamos, obtendremos la posesión y el control de este territorio. Si nos negamos, permanecerán regidos por rebeldes.
+Si aceptamos, obtendremos la posesiÃ³n y el control de este territorio. Si nos negamos, permanecerÃ¡n regidos por rebeldes.
 
 #ev_rebljoin_c1
 Aceptar y anexionar el territorio.
@@ -1104,10 +1104,10 @@ Rechazar
 Herencia
 
 #ev_heirprop_1
-[x] está ahora inactivo y su posición está pendiente de sucesión. Te designó a ti como heredero, y puedes en consecuencia tomar inmediatamente su puesto en la Nación.
+[x] estÃ¡ ahora inactivo y su posiciÃ³n estÃ¡ pendiente de sucesiÃ³n. Te designÃ³ a ti como heredero, y puedes en consecuencia tomar inmediatamente su puesto en la NaciÃ³n.
 
 #ev_heirprop_2
-Si aceptas, tus posiciones serán inmediatamente intercambiadas: heredarás su rango y subordinados mientras que él hereda los tuyos, convirtiéndose en tu propio subordinado. Dependiendo de los privilegios de tu nuevo título, quizá puedas expulsarle completamente de la Nación, desarmando sus territorios o reorganizando la jerarquía para recuperar tus antiguos subordinados o colocarle en una posición más baja.
+Si aceptas, tus posiciones serÃ¡n inmediatamente intercambiadas: heredarÃ¡s su rango y subordinados mientras que Ã©l hereda los tuyos, convirtiÃ©ndose en tu propio subordinado. Dependiendo de los privilegios de tu nuevo tÃ­tulo, quizÃ¡ puedas expulsarle completamente de la NaciÃ³n, desarmando sus territorios o reorganizando la jerarquÃ­a para recuperar tus antiguos subordinados o colocarle en una posiciÃ³n mÃ¡s baja.
 
 #ev_heirprop_c1
 Aceptar-
@@ -1116,13 +1116,13 @@ Aceptar-
 Rechazar.
 
 #ev_votesucc
-¡Hora de votar!
+Â¡Hora de votar!
 
 #ev_votesucc_1
-[x], tu superior, está ahora inactivo y su posición está pendiente de sucesión. Es hora de votar para designar quien entre sus subordinados será elegido para reemplazarle.
+[x], tu superior, estÃ¡ ahora inactivo y su posiciÃ³n estÃ¡ pendiente de sucesiÃ³n. Es hora de votar para designar quien entre sus subordinados serÃ¡ elegido para reemplazarle.
 
 #ev_votesucc_2
-Una vez el sucesor sea elegido, su posición será inmediatamente intercambiada con [x] y él heredará su rango y subordinados. El predecesor, por defecto, es automáticamente colocado en la anterior posición del nuevo sucesor, donde podrá ser manejado como subordinado (desarmado, expulsado, reemplazado...).
+Una vez el sucesor sea elegido, su posiciÃ³n serÃ¡ inmediatamente intercambiada con [x] y Ã©l heredarÃ¡ su rango y subordinados. El predecesor, por defecto, es automÃ¡ticamente colocado en la anterior posiciÃ³n del nuevo sucesor, donde podrÃ¡ ser manejado como subordinado (desarmado, expulsado, reemplazado...).
 
 #ev_votesucc_rslt
 [p2] ha sido elegido [x]
@@ -1131,13 +1131,13 @@ Una vez el sucesor sea elegido, su posición será inmediatamente intercambiada co
 [p2] ha sido elegido [x], sucediendo a [p1] 
 
 #ev_votesucc_rslt_2
-[p2] ganó las elecciones con [p3] votos de [p4] contados.
+[p2] ganÃ³ las elecciones con [p3] votos de [p4] contados.
 
 #ev_votesucc_won
-¡Has sido elegido [x]!
+Â¡Has sido elegido [x]!
 
 #ev_votesucc_won_1
-Enhorabuena! Has sido elegido [y] en sucesión de [p1]. 
+Enhorabuena! Has sido elegido [y] en sucesiÃ³n de [p1]. 
 
 #ev_votesucc_won_2
 Ganaste las elecciones con [p3] votos a tu favor de [p4] contados.
@@ -1149,13 +1149,13 @@ Ganaste las elecciones con [p3] votos a tu favor de [p4] contados.
 "Es una pena."
 
 #ev_xplrch_exlnt
-"¡Excelente!"
+"Â¡Excelente!"
 
 #ev_xplrch_notime
 "No, no tenemos tiempo para esto".
 
 #ev_xplrch_proceed
-"¡Sí, proceded!"
+"Â¡SÃ­, proceded!"
 
 #ev_xplrch_nvrmnd
 "No, no importa."
@@ -1164,34 +1164,34 @@ Ganaste las elecciones con [p3] votos a tu favor de [p4] contados.
 Vete.
 
 #ev_xplr_bdts
-¡Bandidos tendieron una emboscada a nuestra formación '[x]'!
+Â¡Bandidos tendieron una emboscada a nuestra formaciÃ³n '[x]'!
 
 #ev_xplr_bdts_1
-While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troup had with them.
+Mientras nuestra formacion '[x]' de [p2] Porcos estaba atravesando zona inexplorada, llegaron a un angosto pasaje que transcurria entre 2 colinas. El Sol era agobiante y los Porcos estaban cansados luego de el largo viaje cargando toda la mercancia.
 
 #ev_xplr_bdts_2
-Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on both sides, surrounding our troops. Their leader moved forwarded, and made a simple demand: "Give us all yerr loot or be bacon!". What should we do?
+Repentinamente, un pequeÃ±o grupo de 20 bandidos surgio de la maleza a los lados y rodearon a nuestras tropas. Su lider dio un paso al frente e hizo una simple demanda: "Dadnos todos vuestros bienes o convertios en tocino!". Â¿Que debemos hacer?
 
 #ev_xplr_bdts_c1
-"We ain't afraid of no Pigbandits!"
+"No le tenemos miedo a sucios bandidos!"
 
 #ev_xplr_bdts_c2
-Give them what they want.
+Les daremos todo lo que quieren.
 
 #ev_xplr_abvil
-'[x]' found an abandonned village.
+'[x]' encontro una aldea abandonada.
 
 #ev_xplr_abvil_1
-While exploring the lands, our group '[x]' stumbled upon the remains of an abonned primitive village of a few huts. Cautiously, the Porcos started to inspect these remains and came to the conclusion that whomever lived there are now long gone. "They seem to have abandonned many things here. Who knows for what reasons the people who lived there decided to leave, but they didnt take much with them!", concluded the group leader.
+Mientras exploraban, nuestro grupo '[x]' se topo con los restos de una aldea primitiva con algunas chozas. Cuidadosamente los Porcos comenzaron a inspeccionar los restos y llegaron a la conclucion de que quienquiera que vivio aqui ya se ha ido. "Parecen haber abandonado tantas cosas aqui. Quien sabe porque se fueron, pero no se llevaron mucho consigo!", concluyo el lider del grupo.
 
 #ev_xplr_abvil_2
-Although many things have spoiled or decayed with time, some still appear to be in good enough condition to be of interest to us. Should we search the village and scavenge what we can ?
+A pesar de que muchas cosas se han hechado a perder luego de tanto tiempo, algunas parecen estar en buena condicion. Â¿Deberiamos investigar el poblado y ver que encontramos?
 
 #ev_xplr_abvil_c1
-"Yes, search the abandonned village and let's take what we can!"
+"Si. Busquen bien y obtengan algunos recursos!"
 
 #ev_xplr_abvil_c2
-"No, let's leave things as they are, we have no time for this."
+"No, dejen todo como esta. No tenemos tiempo para esto."
 
 #ev_xplr_birds
 Fearless birds
@@ -1329,7 +1329,7 @@ The Wise Oldpig
 As our expedition '[x]' was heading to a new unexplored territory, a group of porcos in rags crossed our path. Despite their modest appearance, they all seemed well-educated, filled with assurance and determination. Their leader, a venerable oldpig wearing a shaggy beard falling to his knees, presented himself as a philosopher. He had been roaming the world for many years, professing his thought to anyone willing to listen.
 
 #ev_xplr_wiseold_2
-We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldn’t be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
+We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldnÂ’t be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
 
 #ev_xplr_wiseold_3
 He pleaded for hours, captivating the whole audience. His words were subtle and his reasoning logical. He was even so persuasive that many of us decided to give up all their possessions to follow him.
@@ -1392,7 +1392,7 @@ During their journey through an unexplored territory, the expedition of '[x]' me
 The porcos in the cortege barely spoke a word. Unlike the other members of her group, the matriarch was very dynamic and talkative. She said she was versed in the arts of botany and could prepare all kinds of miraculous remedies and ointments. When the time came for dinner, she served some of her specialties.  In order to wash it down, she also offered holy drinks concocted by her. Upon finishing the strange mixture, the explorers felt better than they had ever felt before. They thought the drink was blessed and that the mighty sow was of divine nature for being able to conceive such a substance. The following month, they were offered the holy mixture whenever they asked for it. They soon became addicted to the delicious drug of the Hag. They became her puppets, drained of all their wills, just like all the other unfortunate fellows in the procession.
 
 #ev_xplr_elegsow_3
-A few of them couldn’t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
+A few of them couldnÂ’t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
 
 #ev_xplr_mahout
 The mahouts
@@ -1401,7 +1401,7 @@ The mahouts
 During their peregrinations in unexplored lands, the porcos of  '[x]' halted in a small hamlet of peaceful mahouts. The locals owned a herd of five healthy elephants. Taming these big creatures is a long and laborious process, and sometimes their wild instincts take control again. 
 
 #ev_xplr_mahout_2
-As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the five furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted “The father of elephants!”
+As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the five furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted Â“The father of elephants!Â”
 
 #ev_xplr_mahout_3
 After that, the mahouts seemed to worship our porcos and wished to join us with their herd.
@@ -1509,7 +1509,7 @@ While exploring a dense tropical forest, our porcos '[x]' heard an enchanting me
 After finishing her song, the sow delicately stood up, grabbed a short bow and shot an arrow in the direction of the explorers, accompanied by other warrior maidens who had sprung everywhere around them. 
 
 #ev_xplr_amazn_c1
-“I thought the Amazons were a legend… Defend yourselves!”
+Â“I thought the Amazons were a legendÂ… Defend yourselves!Â”
 
 #ev_xplr_egg
 The curious hog
