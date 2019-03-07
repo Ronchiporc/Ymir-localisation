@@ -80,37 +80,37 @@ impuesto a todas las ventas en el territorio (VAT o IVA simplificado)
 porcentaje de impuesto a las ventas
 
 #civfx_saltax_setd
-seleccione el porcentaje de impuesto que deben tener la ventas
+seleccione el porcentaje de impuesto que deben tener las ventas
 
 #civfx_leadwlth_n
-Leaders privileges
+Privilegios de casta
 
 #civfx_leadwlth_dscr
-Leaders get a portion of the territory wealth as a privilege
+Los lideres obtendran un porcentaje de la riqueza de la region como privilegio
 
 #civfx_leadwlth_set
-Leaders privilege
+privilegios de casta
 
 #civfx_leadwlth_setd
-the percentage of territory wealth given as privilege to the leaders
+porcentaje de la riqueza que se le otorga como privilegio a un lider
 
 #civfx_leadsal_n
-Leaders salary
+Salario de los lideres
 
 #civfx_leadsal_dscr
-Leaders get a salary paid by the state
+Los lideres obtienen un salario pago por el estado
 
 #civfx_leadsal_set
-Leaders salary
+Salario de los lideres
 
 #civfx_leadsal_setd
-amount of the salary in coins
+cantidad del salario en monedas
 
 #civfx_nobwlth_n
-Nobles privileges
+Privilegios de nobleza
 
 #civfx_nobwlth_dscr
-Nobles get a portion of the territory wealth as a privilege
+los nobles obtienen una cantidad de la riqueza de la region como privilegio
 
 #civfx_nobwlth_set
 Nobles privilege
