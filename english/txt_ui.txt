@@ -1,4 +1,4 @@
-#b_menu_tutorial
+﻿#b_menu_tutorial
 TUTORIAL
 
 #b_menu_newgame
@@ -2466,6 +2466,39 @@ The resistance movement is currently growing by +[x] [y].
 
 #loyal_resist_decr
 The resistance movement is currently decaying by -[x] [y].
+
+#resist_title
+Resistance movement
+
+#resist_dscr
+A resistance movement is present in this territory. This might result in a partisans uprising at any time and regardless of the territory's current loyalty!
+
+#resist_loyal
+Loyalty: [x]
+
+#resist_loyal_c1
+This resistance movement is loyal to [x].
+
+#resist_loyal_c2
+If Partisans manage to free this territory, they will automatically offer to rejoin this state.
+
+#resist_max
+Maximum resistance: [x]
+
+#resist_max_c1
+The maximum resistance points this territory can have. Resistance is limited by the total population of the territory.
+
+#resist_hloss
+Defeat penalty: [x] Honnor
+
+#resist_hloss_c1
+The amount of honor that will be lost as a penalty if Partisans manage to free this territory. 
+
+#resist_tot_c1
+The resistance movement currently has [x] points out of a potential maximum of [y] points.
+
+#resist_tot_c2
+The more points, the stronger the resistance is in this territory and the more population are involved in the resistance, which means potentially more Partisans if an uprising do happens.
 
 #admin_capacit
 production
@@ -5102,7 +5135,7 @@ cannot overdraft
 WARNING: changing current status will trigger an immediate loyalty event of [x]!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+WARNING: claiming this occupied territory will increase the honor penalty to [z] in case of defeat against partistans, and will trigger an immediate penalty of [x] resistance and [y] loyalty!
 
 #regstatus_title
 Territory status

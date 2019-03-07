@@ -1,4 +1,4 @@
-
+﻿
 #b_menu_tutorial
 TUTORIEL
 
@@ -5174,6 +5174,39 @@ Le mouvement de Résistance se renforce présentement de +[x] [y].
 #loyal_resist_decr
 Le mouvement de Résistance s'affaiblit présentement de -[x] [y].
 
+#resist_title
+Résistance
+
+#resist_dscr
+Un mouvement de Résistance est présent dans ce territoire. Cela peut résulter en un soulèvement de Partisans à tout moment et quelque soit le niveau de Loyauté!
+
+#resist_loyal
+Loyauté: [x]
+
+#resist_loyal_c1
+Ce mouvement de Résistance est loyal à [x].
+
+#resist_loyal_c2
+Si des Partisans arrivent à libérer ce territoire, ils offriront de rejoindre cet Etat.
+
+#resist_max
+Résistance maximum: [x]
+
+#resist_max_c1
+La quantité maximum de Résistance possible dans ce territoire, basée sur la quantité totale de population adulte.
+
+#resist_hloss
+Pénalité de défaite: [x] d'Honneur
+
+#resist_hloss_c1
+La quantité d'Honneur qui sera perdue en cas de défaite face à un soulèvement de Partisans. 
+
+#resist_tot_c1
+Le mouvement de Résistance est actuellement de [x] points sur un total maximum de [y].
+
+#resist_tot_c2
+Plus la Résistance possède de points, plus elle est forte dans ce territoire et plus il y a de population dans ses rangs, ce qui signifie potentiellement plus de Partisans si un soulèvement s'y produit.
+
 #admin_dist_c3
 [x]% en raison du statut territorial modifiant les pénalités de distance de [y]%
 
@@ -5354,7 +5387,7 @@ sur-recrutement impossible
 ATTENTION: changer ce statut territorial déclenchera un évenement de loyauté de [x]!
 
 #regstatus_claimoccup
-ATTENTION: revendiquer ce territoire occupé y déclenchera une pénalité immédiate de [x] de résistance et [y] de loyauté!
+ATTENTION: revendiquer ce territoire occupé augmentera la pénalité d'honneur à [z] en cas de défaite contre un soulèvement de partisans, et y déclenchera une pénalité immédiate de [x] de résistance et [y] de loyauté!
 
 #setcolony_err3
 Ce territoire a trop de résistance pour être convertit en colonie!
