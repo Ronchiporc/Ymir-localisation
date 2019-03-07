@@ -1,86 +1,86 @@
 #civfx_inc_n
-population incomes
+ingresos de la poblacion
 
 #civfx_inc_dscr
-unlocks dynamic population wealth
+desbloquea la riqueza dinamica de la poblacion
 
 #civfx_price_n
-dynamic prices
+precios dinamicos
 
 #civfx_price_dscr
-resources and valuables have dynamic prices based on supply and demand of the population
+bienes tienen precios dinamicos basados en la oferta y demanda de la poblacion
 
 #civfx_autodist_n
-automatic distribution
+distribucion automatica
 
 #civfx_autodist_dscr
-all resources are automatically available to all the population and there is no need for distributors
+todos los recursos son automaticamente disponibles para toda la poblacion y no se necesitan distribuidores
 
 #civfx_bdgeff_n
-building efficiency
+eficiencia del edificio
 
 #civfx_bdgeff_dscr
-modifies the efficiency of buildings
+modifica la eficiencia de edificios
 
 #civfx_conflict_n
-population conflict
+conflicto en la poblacion
 
 #civfx_conflict_dscr
-modifies conflict of population
+modifica el conflicto en la poblacion
 
 #civfx_stress_n
-population stress
+stress de la poblacion
 
 #civfx_stress_dscr
-modifies stress of population
+modifica el stress de la poblacion
 
 #civfx_paidmat_n
-paid materials
+materiales pagos
 
 #civfx_paidmat_dscr
-the state has to pay for materials it consumes at their current market price
+el estado debe pagar por los materiales que consume al precio que tenga en el mercado al momento de la compra
 
 #civfx_seizem_n
-seized materials
+secuestro de recursos
 
 #civfx_seizem_dscr
-when paid materials is active, all or a fraction of materials is seized for free instead of beeing paid by the state.
+cuando el secuestro de recursos este activado, todos o una fraccion de los recursos son secuestrados en vez de ser comprados por el estado.
 
 #civfx_seizem_set
-seized percent
+secuestro porcentual
 
 #civfx_seizem_setd
-set the percent of material's prices you wish to seize
+define el porcentaje de materiales que deseas secuestrar
 
 #civfx_territ_n
-province territories
+territorios provinciales
 
 #civfx_territ_dscr
-cities can annex other territories as their province
+ciudades pueden anexar otros territorios como provincias
 
 #civfx_inctax_n
-income tax
+impuesto a las ganancias
 
 #civfx_inctax_dscr
-a tax applied to all the incomes of the population in the territory 
+impuesto a todas las ganancias que tenga la poblacion en el territorio
 
 #civfx_inctax_set
-income tax percent
+porcentaje de impuesto a las ganancias
 
 #civfx_inctax_setd
-set the percent of income that is to be taxed
+defina el porcentaje de ingreso que sera tomado por el impuesto
 
 #civfx_saltax_n
-sales tax
+impuesto a ventas
 
 #civfx_saltax_dscr
-a tax applied to all sales in the territory (simplified VAT tax)
+impuesto a todas las ventas en el territorio (VAT o IVA simplificado)
 
 #civfx_saltax_set
-sales tax percent
+porcentaje de impuesto a las ventas
 
 #civfx_saltax_setd
-set the percent of sales that is to be taxed
+seleccione el porcentaje de impuesto que deben tener la ventas
 
 #civfx_leadwlth_n
 Leaders privileges
