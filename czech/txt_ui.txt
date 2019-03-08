@@ -4206,7 +4206,7 @@ Your title allows you to expell this character from the Nation.
 Odejít
 
 #facmmb_quit_c1
-Leave this Nation and regain your sovereignty. 
+Odejít z tohoto národa a získaz zpět svou samostatnost. 
 
 #facmmb_quit_c2
 WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
@@ -4317,16 +4317,16 @@ Dismantling territories
 Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
 
 #facquit_title
-Are you sure?
+Jseš si jist?
 
 #facquit_txt
-By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+Tím, že opustíte tento národ, získáte plnou svrchovanost jako hlava nového nezávislého národa. Všichni vaši současní podřízené zůstanou pod vámi a proto se připojují i ​​k novému národu. Upozorňujme však, že pokud jste vázáni touto zemí smlouvami, budou spuštěny tresty z vaší ztrany což může vést k obdržení penalizací nebo dokonce i k vyhlášení války.
 
 #facfalg_title
-Editing Nation flag
+Úprava národní vlajky
 
 #menugov_setnam
-Government name
+Název vlády
 
 #menugov_setnam_c1
 Set the core name of your government (then combined with your Nation title).
@@ -4335,13 +4335,13 @@ Set the core name of your government (then combined with your Nation title).
 Unclaimed territory
 
 #regnam_regof
-Region of [x]
+Region hráče/ky [x]
 
 #regnam_claimby
-Claimed by [x]
+Zabráno hráčem [x]
 
 #uiworld_ownr
-Ownership
+Vlastnictví
 
 #uiworld_nownr
 Bez vlastníka
