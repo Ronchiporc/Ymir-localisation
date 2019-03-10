@@ -44,7 +44,7 @@ l'État doit payer pour les matériaux qu'il consomme au prix du marché actuel
 matériaux saisis
 
 #civfx_seizem_dscr
-Lorsque les matériaux payants sont actifs, tout ou partie des matériaux est saisi gratuitement au lieu d'être payé par l'Etat.
+Lorsque les matériaux saisis sont actifs, tout ou partie des matériaux est saisi gratuitement au lieu d'être payé par l'Etat.
 
 #civfx_seizem_set
 pourcentage saisi
@@ -56,7 +56,7 @@ définir le pourcentage des prix du matériel que vous souhaitez saisir
 Territoires de la province
 
 #civfx_territ_dscr
-les villes peuvent annexer d'autres territoires comme leur province
+les villes peuvent annexer d'autres territoires à leur province
 
 #civfx_inctax_n
 impôt sur le revenu
@@ -92,13 +92,13 @@ Les dirigeants obtiennent une partie de la richesse du territoire en tant que pr
 Privilège des leaders
 
 #civfx_leadwlth_setd
-le pourcentage de richesse territoriale donné comme privilège aux dirigeants
+le pourcentage de richesse territoriale donné comme privilège au dirigeant
 
 #civfx_leadsal_n
 Salaires Leaders
 
 #civfx_leadsal_dscr
-Les dirigeants reçoivent un salaire payé par l'Etat
+Le dirigeant reçoit un salaire payé par l'Etat
 
 #civfx_leadsal_set
 Salaires Leaders
@@ -251,10 +251,10 @@ supériorité du dirigeant
 modifie le facteur de légitimité de la supériorité du leader
 
 #civfx_legitr_n
-la religiosité des gens
+la foi des gens
 
 #civfx_legitr_dscr
-modifie le facteur de légitimité de la religiosité des personnes
+modifie le facteur de légitimité de la foi des personnes
 
 #civfx_legitp_n
 le pouvoir du parlement
@@ -275,16 +275,16 @@ le pouvoir du ministère
 modifie le facteur de légitimité du ministère
 
 #civfx_legitap_n
-l'approbation des gens
+l'approbation du peuple
 
 #civfx_legitap_dscr
-modifie le facteur de légitimité de l'approbation des personnes
+modifie le facteur de légitimité de l'approbation du peuple
 
 #civfx_wlegitprt_n
 importance de la force militaire
 
 #civfx_wlegitprt_dscr
-Combien de force militaire affecte la légitimité
+La force militaire affecte la légitimité
 
 #civfx_wlegitw_n
 l'importance de la supériorité du leader
@@ -317,10 +317,10 @@ l'importance du ministère
 combien le pouvoir du ministère affecte la légitimité.
 
 #civfx_wlegitap_n
-importance de l'approbation des gens
+importance de l'approbation du peuple
 
 #civfx_wlegitap_dscr
-combien l'approbation des gens affecte la légitimité.
+combien l'approbation du peuple affecte la légitimité.
 
 #civfx_statepow_n
 le pouvoir de l'État
@@ -332,7 +332,7 @@ modifie la quantité de pouvoir de l'Etat
 consommation de nourriture
 
 #civfx_foodcons_dscr
-affecte la quantité de nourriture requise par les porcs pour satisfaire leurs besoins alimentaires
+affecte la quantité de nourriture requise par les porcos pour satisfaire leurs besoins alimentaires
 
 #civfx_coin_n
 trésor public
