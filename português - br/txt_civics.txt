@@ -1,156 +1,156 @@
 #civ_gifteco_n
-Gift economy
+Economia da dádiva
 
 #civ_gifteco_dscr
-A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards.
+Um modo de troca onde bens não são trocados ou vendidos, mas doados sem que haja um acordo explícito para recompensas imediatas ou futuras.
 
 #civ_fairxchang_n
-Fair exchange
+Escambo
 
 #civ_fairxchang_dscr
-Immediate and reciprocal exchange of equivalent valuables.
+Uma troca imediata e recíproca Immediate and reciprocal exchange of equivalent valuables.
 
 #civ_currency_n
-Currency
+Moeda
 
 #civ_currency_dscr
-Having a reference valuable to facilitate exchanges and used as a unit for value measurement. 
+Possuir um bem de valor referenciado para facilitar trocas e ser usado como unidade mesurável de valor. 
 
 #civ_coinage_n
-Coinage
+Cunhagem
 
 #civ_coinage_dscr
-A state certified currency.
+Uma moeda certificada pelo Estado.
 
 #civ_repmoney_n
-Representative money
+Dinheiro representativo
 
 #civ_repmoney_dscr
-A currency representing a claim on a commodity instead of beeing a commodity in itself.
+Uma moeda representando um direito a certa quantia de uma commoditie ao invés de ser a commoditie ela mesma.
 
 #civ_bandsociety_n
-Band society
+Sociedade de bando
 
 #civ_bandsociety_dscr
-The simplest form of society, with loose organization and informal leadership.
+A forma mais simples de organização social, com liderança informal e estrutura difusa.
 
 #civ_leadership_n
-Leadership
+Liderança
 
 #civ_leadership_dscr
-One recognized leader to rule them all.
+Um líder reconhecido para todos governar!
 
 #civ_localchief_n
-Local authorities
+Autoridades Locais
 
 #civ_localchief_dscr
-Local territorynal chiefs ruling their single territory and carrying the orders of the central power.
+Chefes territoriais locais, governando seu único domínio e obedecendo ordens de um poder central.
 
 #civ_governors_n
-Governors
+Governadores
 
 #civ_governors_dscr
-Public officials with the power to govern provinces.
+Oficiais públicos com o poder de governar províncias.
 
 #civ_senate_n
-Senate
+Senado
 
 #civ_senate_dscr
-An assembly of statespigs acting for the interests of the people.
+Uma assembléia de porcos estadistas agindo em prol do interesse do povo.
 
 #civ_prtctor_n
-Protector of the people
+Protetor do povo
 
 #civ_prtctor_dscr
-"I rule because i am in charge of protecting the people."
+"Eu governo porque eu sou o encarregado de proteger o povo!"
 
 #civ_superior_n
-Superior leader
+O Melhor Porco
 
 #civ_superior_dscr
-"I rule because i am superior."
+"Eu governo pois sou superior."
 
 #civ_divine_n
-Divine leader
+O Porco Deus
 
 #civ_divine_dscr
-"I rule because i am a god."
+"Eu governo pois eu sou um deus!"
 
 #civ_divinerep_n
-Divine representative
+O Representante Divino
 
 #civ_divinerep_dscr
-"I rule because i am chosen by the gods."
+"Eu governo porque os deuses me escolheram."
 
 #civ_comgood_n
-Common good
+Pelo Bem-comum
 
 #civ_comgood_dscr
-"I rule for the people."
+"Eu governo para o povo."
 
 #civ_people_n
-People representative
+Representante do povo
 
 #civ_people_dscr
-"I rule in the name of the people."
+"Eu governo em nome do povo."
 
 #civ_tax_n
-Taxation
+Tributação
 
 #civ_tax_dscr
-Financial charges imposed upon taxpayers by the state.
+Encargos financeiros impostos sobre contribuintes pelo Estado.
 
 #civ_seizem_n
-Seize materials
+Tomar materiais
 
 #civ_seizem_dscr
-Seize construction materials from the population instead of paying for them. Excess of this might harm your economy.
+Confisca materiais de construção da população ao invés de pagá-los. Usado em excesso pode prejudicar sua economia.
 
 #civ_statepriv_n
-Privileges
+Privilégios
 
 #civ_statepriv_dscr
-Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
+Privilégios para os líderes do seu governo, garantindo a eles um percentual da riqueza do território por direito.
 
 #civ_statesal_n
-State workers
+Funcionários Públicos
 
 #civ_statesal_dscr
-State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
+Funcionários públicos são empregados e pagos diretamente pelo Estado e trabalham em diferentes prédios públicos como na administração ou nas escolas.
 
 #civ_parl_n
-Parliament
+Parlamento
 
 #civ_parl_dscr
-An assembly of representatives of the people.
+Uma assembléia de representante do povo.
 
 #civ_minist_n
-Ministry
+Ministérios
 
 #civ_minist_dscr
-A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
+Um conselho de porcos estadistas possuindo importantes posições públicas, tomando e implementando decisões em políticas em conjunto um com outro.
 
 #civ_ration_n
-Food rationing
+Racionamento de Alimentos
 
 #civ_ration_dscr
-The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improving everyone's access to foods.
+O racionamento de alimentos reduz o consumo de comida por porco. Em tempos de falta de alimentos, ajuda a melhorar o acesso de todos à comida.
 
 #civ_agrisav_n
-Seeds stocking
+Estocamento de sementes
 
 #civ_agrisav_dscr
-Prevent a portion of your agricultural food production from beeing directly distributed or consummed in order to save seeds to create new fields.
+Evita que uma porção de sua produção de alimentos agrícolas seja distribuída ou consumida, para guardar sementes no intuito de criar novos campos de plantações.
 
 #civ_subv_n
-Subvention
+Subvenção
 
 #civ_subv_dscr
-An aid paid by the state to every porco of a specific class of workers, increasing their income.
+Um auxílio pago pelo Estado para cada porco de uma categoria de trabalhadores específica, aumentando sua renda.
 
 #civ_paidrsrch_n
-Paid researchers
+Pesquisadores Subvencionados
 
 #civ_paidrsrch_dscr
-Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings where they work.
+Pesquisadores são pagos pelo Estado propocionalmente a sua riqueza atual e não mais reduzem a força de trabalho do seu local de trabalho.
 
