@@ -591,7 +591,7 @@ Endetté!
 Nous sommes actuellement endettés de [p1] pièces de monnaie dans notre trésor. Le fait de s'endetter réduit notre pouvoir d'État et affecte la loyauté de nos villes et de nos armées.
 
 #event_debt_2
-Nous devons remettre le solde de notre revenu public dans le vert ou nous aurons de sérieux problèmes. Si la situation est désespérée, nous pouvons également prendre une décision de dernier recours d'annuler notre dette, mais cela va générer de grands troubles dans notre état.
+Nous devons remettre notre revenu dans le vert ou nous aurons de sérieux problèmes. Si la situation est désespérée, nous pouvons également prendre une décision de dernier recours d'annuler notre dette, mais cela va générer de grands troubles dans notre état.
 
 #event_c_canceldebt
 Annuler la dette
@@ -630,7 +630,7 @@ Le pouvoir de l'État peut être amélioré en: possédant moins de villes, n'ay
 Légitimité négative!
 
 #event_lowlegit_1
-La légitimité est de savoir combien les gens reconnaissent le droit des revendications de l'état à l'autorité. Sans cela, non seulement nous sommes confrontés à un risque croissant de soulèvements populaires, mais nos armées pourraient aussi se retourner contre nous pour renverser notre gouvernement illégitime!
+La légitimité est la reconnaissance du peuple à votre droit de revendications de l'état par l'autorité. Sans cela, non seulement nous sommes confrontés à un risque croissant de soulèvements populaires, mais nos armées pourraient aussi se retourner contre nous pour renverser notre gouvernement illégitime!
 
 #event_lowlegit_2
 Les politiques de légitimité définissent les revendications que vous faites pour affirmer votre droit en tant que dirigeant de cet État. Ces revendications définissent l'importance de tous les différents facteurs de légitimité. Pour améliorer notre situation, nous pourrions soit travailler à améliorer les facteurs actuels, soit réformer nos prétentions à la légitimité en nous appuyant sur des facteurs plus bénéfiques.
@@ -639,22 +639,22 @@ Les politiques de légitimité définissent les revendications que vous faites p
 Territoire volé
 
 #event_tribwarn_1
-Il faut se méfier! En créant notre nouvelle colonie de [x], nous avons usurpé les terres d'une tribu primitive qui vit là depuis des générations. Bien sûr, ce territoire semblait attrayant, mais nous finirons par payer les conséquences de cette action car les autochtones ne toléreront pas notre présence pour toujours.
+Il faut se méfier! En créant notre nouvelle colonie [x], nous avons usurpé les terres d'une tribu primitive qui vit là depuis des générations. Bien sûr, ce territoire semblait attrayant, mais nous finirons par payer les conséquences de cette action car les autochtones ne toléreront pas notre présence pour toujours.
 
 #event_tribwarn_2
-Pour l'instant, ils nous ont seulement regardé fixer le camp de loin, mais ils connaissent mieux ces terres que quiconque et disparaissent à chaque fois que nous essayons de les approcher. Je crains que nous ne soyons pas capables de "traiter avec eux" avant qu'ils ne choisissent de causer des problèmes ... Nous devrions nous préparer à une attaque surprise possible par eux. Ils pourraient préparer des armes et des guerriers pour nous chasser de leurs terres en ce moment même! Ou peut-être que cette terre ne vaut pas la peine après tout et que nous pourrions simplement faire nos bagages et les laisser être?
+Pour l'instant, ils nous ont seulement regardé fixer le camp de loin, mais ils connaissent mieux ces terres que quiconque et disparaissent à chaque fois que nous essayons de les approcher. Je crains que nous ne soyons pas capables de "traiter avec eux" avant qu'ils ne choisissent de causer des problèmes ... Nous devrions nous préparer à une attaque surprise possible par eux. Ils pourraient préparer des armes et des guerriers pour nous chasser de leurs terres en ce moment même! Ou peut-être que cette terre ne vaut pas la peine après tout et que nous pourrions simplement faire nos bagages et les laisser tranquille?
 
 #event_tribreb
-Une tribu primitive qui se moque de [x]!
+Une tribu primitive se soulève à [x]!
 
 #event_tribreb_1
-Les indigènes vivant sur notre territoire de [x] sont devenus mécontents d'avoir ce qu'ils ressentent comme étant leur territoire occupé par nous. Ils ont pris les armes et ont décidé d'attaquer traîtreusement!
+Les indigènes vivant sur notre territoire de [x] sont devenus mécontents que nous occupions leur territoire. Ils ont pris les armes et ont décidé d'attaquerpar surprise!
 
 #event_trt_ref
 [y] a refusé notre proposition de traité
 
 #event_trt_ref_1
-Un émissaire de [y] nous a informés que notre offre de traité juste et généreuse a été déclinée de [x].
+Un émissaire de [y] nous a informés que notre offre de traité juste et généreuse a été déclinée par [x].
 
 #event_trt_acc
 Traité avec [y] signé
@@ -678,7 +678,7 @@ Notre traité avec [x] de [y] a été approuvé et signé par nous deux et est m
 [x] a brisé un traité!
 
 #event_trt_brk1_1
-[x] a brisé illégalement le traité de '[y]' qu'ils avaient avec nous!
+[x] a brisé le traité de '[y]' qu'ils avaient avec nous!
 
 #event_trt_brk1_2
 Selon les termes de rupture du traité, nous avons reçu [p1] pièces de monnaie en compensation et ils ont perdu [p2] d'honneur.
@@ -687,7 +687,7 @@ Selon les termes de rupture du traité, nous avons reçu [p1] pièces de monnaie
 Nous avons rompu un traité avec [x]!
 
 #event_trt_brk2_1
-Nous avons illégalement brisé le traité de '[y]' que nous avons eu avec [x].
+Nous avons brisé le traité de '[y]' que nous avons eu avec [x].
 
 #event_trt_brk2_2
 Selon les termes de rupture du traité, comme pénalité, nous avons payé [p1] pièces de monnaie et perdu [p2] de l'honneur.
