@@ -132,7 +132,7 @@ Armée inférieure à [x] [y]
 Armée supérieure à [x] [y]
 
 #cond_natmetal
-Avoir des sources naturelles de métal
+Avoir des gisements naturelles de métal
 
 #cond_GDP_inf
 PIB inférieur à [x]
@@ -471,16 +471,16 @@ Nos troupes tenteront de piller les ressources et les bâtiments avant de quitte
 Raid de [x]
 
 #event_Abr_raid_1
-Nous avons attaqué [x] pour piller leur territoire avec des soldats [p2].
+Nous avons attaqué [x] avec [p2] soldats pour piller leur territoire.
 
 #event_Abr_raid_2
-Nos troupes ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+Nos troupes ont réussi à piller [p3] des ressources et [p4] pièces de monnaie.
 
 #event_Db_raid
 [y] attaque [x]
 
 #event_Db_raid_1
-[y] a lancé un raid sur [x] avec des soldats [p2].
+[y] a lancé un raid sur [x] avec [p2] soldats.
 
 #event_Db_raid_2
 Nous devons les arrêter avant qu'ils n'atteignent et pillent nos ressources et bâtiments et quittent le territoire avec leur butin!
@@ -489,16 +489,16 @@ Nous devons les arrêter avant qu'ils n'atteignent et pillent nos ressources et 
 Défense de [x] contre un raid de [y]
 
 #event_Dbr_raid_1
-[y] a attaqué [x] pour piller notre territoire avec [p2] des soldats.
+[y] a attaqué [x] pour piller notre territoire avec [p2] soldats.
 
 #event_Dbr_raid_2
-Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+Ils ont réussi à piller [p3] des ressources et [p4] pièces de monnaie.
 
 #event_Ab_sack
-Mise à sac [x]
+Mise à sac de [x]
 
 #event_Ab_sack_1
-Nous lançons un assaut sur [x] pour saccager le territoire avec des soldats [p2].
+Nous lançons un assaut sur [x] pour saccager le territoire avec [p2] soldats .
 
 #event_Ab_sack_2
 Nos troupes tenteront d'éliminer tous les ennemis et les défenses du territoire avant de piller tout ce qu'elles peuvent et partir avec leur butin.
@@ -525,22 +525,22 @@ Ils vont essayer d'éliminer toutes nos troupes et nos défenses avant de piller
 Défense de [x] contre un limogeage de [y]
 
 #event_Dbr_sack_1
-[y] a lancé un assaut sur [x] pour saccager notre territoire avec [p2] des soldats.
+[y] a lancé un assaut sur [x] pour saccager notre territoire avec [p2] soldats.
 
 #event_Dbr_sack_2
-Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+Ils ont réussi à piller [p3] des ressources et [p4] pièces de monnaie.
 
 #event_Db_assist
 Aider [y] à défendre [x]
 
 #event_Db_assist_1
-[y] est attaqué dans [x].
+[y] est attaqué à [x].
 
 #event_Db_assist_2
-En tant qu'allié, nos troupes [p2] participent à la bataille et aident à se défendre contre [p3] ennemis.
+En tant qu'allié, nos [p2] troupes participent à la bataille et aident à défendre contre [p3] ennemis.
 
 #event_Dbr_assist
-Aidé [en] pour défendre [x]
+Aidé [y] pour défendre [x]
 
 #event_Dbr_assist_1
 [y] a été attaqué dans [x].
