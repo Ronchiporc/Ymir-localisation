@@ -4469,6 +4469,15 @@ Offre: [x] unités
 #ui_price_sd_c3
 Demande: [x] unités
 
+#ui_price_sd_c31
+(offre soutenue par l'Etat)
+
+#ui_price_sd_c4
+[x]% du prix pré offre/demand de [y] monnaies = [z]
+
+#ui_price_sd_c41
+(effet limité par le prix minimal de [x]!)
+
 #ui_mres_ststk
 Propriété d'État
 
@@ -4886,8 +4895,11 @@ Arbitrage
 #ui_price_arb_c1
 L'arbitrage des prix peut se produire lorsqu'il existe de grandes différence entre le prix local et celui des autres territoires a proximité (vôtres où étrangers avec relations commerciales)
 
+#ui_price_arb_c5
+Prix local avant arbitrage: [x] monnaies.
+
 #ui_price_arb_c2
-Le prix moyen dans cette région du monde est de [x] monnaies.
+Prix moyen dans cette région du monde: [x] monnaies.
 
 #ui_price_arb_c3
 Avec une différence de prix de [x]%, le prix mondial à une influence de [y]% sur le prix local résultant d'un arbitrage de [z] sur le prix final.

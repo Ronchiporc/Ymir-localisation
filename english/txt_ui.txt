@@ -1516,14 +1516,26 @@ Supply: [x] units
 #ui_price_sd_c3
 Demand: [x] units
 
+#ui_price_sd_c31
+(supply backed by state purchasing!)
+
+#ui_price_sd_c4
+[x]% of a price before supply/demand of [y] coins = [z]
+
+#ui_price_sd_c41
+(effect limited by minimal price of [x] coins!)
+
 #ui_price_arb
 Price arbitrage
 
 #ui_price_arb_c1
 Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
 
+#ui_price_arb_c5
+Local price before arbitrage: [x] coins.
+
 #ui_price_arb_c2
-The average price in this area of the world is of [x] coins.
+Average price in this area of the world: [x] coins.
 
 #ui_price_arb_c3
 With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
