@@ -1,0 +1,1239 @@
+﻿#tuto_launch_1
+Willkommen bei Ymir! Es sieht so aus, als ob es das erste Mal ist, dass du dieses Spiel startest. 
+
+#tuto_launch_2
+Dies ist ein komplexes Spiel: Wenn Sie damit noch nicht vertraut sind, wird dringend empfohlen, zunächst das Einsteiger-Tutorial in einem Solospiel abzuschließen, um die Grundlagen zu erlernen. Howerver, wenn Sie das Spiel bereits kennen, können Sie wählen, ob Sie alle Tutorials sofort deaktivieren möchten.
+
+#tuto_create_1
+Hier richten Sie ein und starten ein neues Spiel. Es gibt 2 Hauptspielarten: Dauerhaft und Echtzeit. Wenn du alleine oder mit ein paar Freunden spielst, überlasse es am besten der "Echtzeit".
+
+#tuto_lnchgame_1
+Du startest dein erstes eigenes Spiel! Dies ist ein Client-Server-Spiel: Selbst wenn du alleine spielst, wird das Starten eines neuen Spiels automatisch einen separaten Server starten und dich automatisch mit ihm verbinden. Damit andere an diesem Spiel teilnehmen können, MÜSSEN Sie sicherstellen, dass der von Ihrem Server verwendete Port korrekt weitergeleitet wird (14804 standardmäßig). Wenn der Autostart des Servers fehlschlägt, müssen Sie den Server manuell aus dem Spielordner mit server.bat starten und sich dann mit "join game" mit ihm verbinden.
+
+#tuto_char_1
+Hier kannst du deinen Charakter erstellen. Du kannst es entwerfen und benennen, ebenso wie den Namen und die Flagge deiner Regierung. 
+
+#tuto_char_2
+Du musst aus einer Liste verschiedener Starttypen wählen, wobei der Standard für ein neues Spiel der "primitive Stamm" ist.
+
+#tuto_char_3
+Im Mehrspieler-Modus kannst du auch den Namen des Charakters eines Freundes angeben, der so nah wie möglich an ihn heranwächst, aber dafür brauchst du auch seinen'Einladungscode'.
+
+#tuto_char_4
+Seien Sie vorsichtig: Sobald Sie einen Charakter erstellt haben - besonders in hartnäckigen Multiplayer-Spielen - dürfen Sie nicht sofort einen neuen erstellen, wenn Sie es vermasseln! Du musst bis zu mehreren Tagen warten, bevor du es im selben Spiel noch einmal versuchen darfst. 
+
+#tuto_warnjoin_1
+Du hast das Starttutorial noch nicht abgeschlossen: Es wird dringend empfohlen, dies zu tun, bevor man versucht, an einem dauerhaften Multiplayer-Spiel teilzunehmen.
+
+#tuto_warnjoin_2
+Persistente Multiplayer-Spiele sind unnachgiebig! Die Startbedingungen können viel komplexer sein, und wenn du scheiterst, darfst du einen neuen Charakter nicht sofort neu starten, da das Wiederbeleben durch eine Abkühlphase von bis zu mehreren Tagen begrenzt ist. Lernen Sie zuerst die Grundlagen, damit Sie nicht sofort Fehler machen und Ihre Chance verlieren!
+
+#tuto_join_1
+Hier können Sie an bestehenden Spielen teilnehmen. 
+
+#tuto_join_2
+Wenn du wieder an deinem eigenen lokalen Spiel teilnehmen musst, gehe zu "Direct IP" und verbinde dich mit dem Port 14804 von "localhost". 
+
+#tuto_join_3
+Wenn Sie an Multiplayer-Spielen teilnehmen möchten, haben Sie die Wahl zwischen persistenten (24/7-Spiele, die in den letzten Monaten stattgefunden haben) und Echtzeitspielen (schnellere Spiele, um mit Freunden zu spielen).
+
+#tuto_persist_1
+Du hast an deinem ersten dauerhaften Multiplayer-Spiel teilgenommen! In diesem Spielmodus geht es VIEL langsamer als im Echtzeitmodus, und sei vorsichtig: Hier ist kein Platz für Fehler! Du musst mit dem Start fertig werden, den du bekommen hast, und zweite Chancen sind teuer, da du Tage warten musst, bevor du es mit einem neuen Charakter erneut versuchen kannst, wenn du diesen verlierst.
+
+#tuto_0_1
+Grüße Newpig! Ich bin Sagacious Pig, dein Tutorial-Assistent. 
+
+#tuto_0_2
+Ich bin hier, um dich durch die ersten Schritte des Spiels zu führen und zu erklären, wie die Dinge funktionieren.
+
+#tuto_0_c1
+Erzähl mir mehr!--1
+
+#tuto_0_c2
+Ich wollte das Tutorial machen, aber jetzt, da ich dein hässliches Gesicht sehe, würde ich es lieber überspringen. --82
+
+#tuto_1_1_1
+Du befindest dich derzeit auf der Weltkarte. Jede Kachel ist ein Territorium, das du erkunden und kolonisieren kannst. 
+
+#tuto_1_2
+Zu Beginn ist der größte Teil der Karte unerforscht, außer den wenigen Gebieten um deinen Stamm herum.
+
+#tuto_1_c1_c1
+Sehr gut.... also was jetzt ?--2--1
+
+#tuto_2_1
+Das ist ein Missionsevent. Manchmal bekommst du Missionen, die du erledigen kannst, um Belohnungen freizuschalten. Hier ist deine erste Aufgabe einfach, deinen Stamm in deinem ersten Gebiet anzusiedeln.
+
+#tuto_2_c1
+Ja.... ja... ja.... ja.... Lasst uns also anfangen!--3--2--2
+
+#tuto_3_1
+Ereignisse werden als Flaggen oben auf dem Bildschirm angezeigt und Sie können sie auch alle ansehen, indem Sie auf diese Schaltfläche neben den Flaggen klicken.
+
+#tuto_3_c1
+Danke, Herr Schwein, sollen wir weitermachen? --4--4--3
+
+#tuto_4_1
+Sie beginnen mit einer einzigen Gruppe von Einheiten (einer "Formation"), die der primitive Stamm der Nomaden ist, den Sie derzeit kontrollieren.  Klicken Sie darauf, um es auszuwählen.
+
+#tuto_5_1
+Unten links befindet sich das Formationsmenü deiner Formation. Es zeigt Details wie die Liste der Einheiten in dieser Formation und deren Inventar. 
+
+#tuto_5_2
+Dein Stamm zeltet derzeit in einem Gebiet mit den richtigen Ressourcen, um das Spiel zu starten. Dies sollte ein sicherer Ort sein, um Ihre erste Siedlung zu gründen: Klicken Sie in ihrem Gründungsmenü auf die Schaltfläche "Bestellungen".
+
+#tuto_6_1
+Wählen Sie die Mission "Siedlung", lassen Sie alle Optionen standardmäßig stehen und bestätigen Sie, um Ihrem gesamten Stamm zu befehlen, sich in diesem Gebiet niederzulassen. Seine Einheiten und sein Inventar werden in dem Gebiet entladen, das nun unter Ihrer Kontrolle steht, und die Formation selbst wird verschwinden.
+
+#tuto_7_1
+Der Gebietsauswahlschalter zeigt den Namen des aktuell ausgewählten Gebiets an. Auf der linken Seite befindet sich ein runder Knopf, mit dem du in das Gebiet gehen kannst.
+
+#tuto_7_2
+Wenn Ihr neu besiedeltes Gebiet ausgewählt ist, klicken Sie auf diese Schaltfläche, um in Ihr Gebiet zu gelangen.
+
+#tuto_8_1
+Dies ist das Gebiet, das Sie besiedelt haben und nun kontrollieren. In der Mitte befindet sich das Lager, das dein Stamm mit Zelten und all seinen Ressourcen eingerichtet hat, die jetzt auf den Boden entladen werden.
+
+#tuto_8_c1
+Sehr gut. 9, 7, 7.
+
+#tuto_9_1
+Du hast jetzt deine erste Mission abgeschlossen und die Belohnungen freigeschaltet.
+
+#tuto_9_2
+Deine nächste Mission ist es nun, deinem Stamm frisches Wasser zu liefern.
+
+#tuto_9_c1
+Ich bin begeistert von der Komplexität dieser Missionen, machen wir weiter!--10
+
+#tuto_10_10_1
+Um sich zu ernähren, brauchen Ihre Porcos Nahrung und Wasser, sonst sterben sie schnell. Sie trugen ein wenig Essen, aber kein Wasser mit sich herum: Das erste, was zu tun ist, ist, eine Wassersammelstelle am Ufer und eine Frischwasserstation einzurichten.
+
+#tuto_10_c1
+Wie mache ich das ?--11--8
+
+#tuto_11_1_1
+Dies ist die Registerkarte Gebäude des Gebiets, wo Sie alle Ihre derzeit verfügbaren Gebäude sehen und deren Bau in diesem Gebiet bestellen können.
+
+#tuto_11_2
+Wählen Sie auf der ersten Registerkarte "Wohnen" das Gebäude "Wasserkollektor" aus. 
+
+#tuto_12_12_1
+Dieses Gebäude ist kostenlos und erfordert keine Arbeiter: Es stellt einfach einen Platz an der Küste dar, der geräumt und geebnet wurde, um Ihren Porcos einen einfachen Zugang zu frischem Wasser zu ermöglichen: Sie erhalten es selbst, wie sie es brauchen. Versuchen Sie, es neben Wasserkacheln zu platzieren: Es muss eine an das Wasser angrenzende Kante haben, um zu funktionieren.
+
+#tuto_13_13_1
+Jetzt, da der Wasserbedarf Ihrer Porcos gedeckt ist, brauchen sie nachhaltige Nahrungsquellen, da ihre Bestände bald erschöpft sein werden. 
+
+#tuto_13_c1
+Essen bitte!--14--10
+
+#tuto_14_1
+Es gibt 2 Arten von natürlichen Nahrungsquellen: essbare Pflanzen und Flecken von Wildtieren. Das erste kann vom Bauernhof und das zweite vom Jäger genutzt werden.
+
+#tuto_14_2
+Farmen und Jäger sind Gebäude, die natürliche Ressourcen nutzen. Sie müssen in der Nähe gültiger Ressourcen platziert werden. Beginnen Sie mit dem Versuch, einen Jäger zu platzieren.
+
+#tuto_15_1
+Wenn Sie ein Gebäude platzieren, das natürliche Ressourcen nutzt, erscheint um es herum ein Bereich von Kacheln hervorgehoben: es ist die Produktionspalette des Gebäudes.  
+
+#tuto_15_2
+Graue und rote Kacheln bedeutet, dass es nichts Ausnutzbares gibt: Sie müssen nach den Kacheln suchen, die in GRÜN hervorgehoben sind, was auf eine gültige ausnutzbare Ressource für das Gebäude hinweist.
+
+#tuto_15_3
+Scannen Sie das Gebiet mit dem ausgewählten Gebäude, um nach einem gültigen Platz zu suchen.
+
+#tuto_15_c1
+Wie erkenne ich verwertbare Tiere ?--16
+
+#tuto_15_c2
+Wie erkenne ich essbare Pflanzen ?--18
+
+#tuto_16_1
+Ein natürlicher Fleck von wilden Tieren ist eine einzelne Kachel, die grün erscheint, wenn man einen Jäger platziert. Es gibt ein paar sichtbare Tiere, die um ihn herum wandern. Ein Jäger genügt, da es sich nur um einen einzigen Stein handelt.
+
+#tuto_16_c1
+Ich habe es verstanden. --15
+
+#tuto_16_c2
+Ich sehe Tiere, aber der Jäger scheint nicht in der Lage zu sein, sie auszunutzen.--17
+
+#tuto_17_1
+Manchmal sind Tiere in einem Gebiet als "Herde" vorhanden. Herden sind erschöpfbare und temporäre Tiergruppen und können nicht dauerhaft und nachhaltig durch ein Jägergebäude gejagt werden: Sie müssen sie manuell mit Einheiten jagen. Ignoriere sie vorerst.
+
+#tuto_17_c1
+Sehr gut....--15
+
+#tuto_18_1
+Flecken von essbaren Pflanzen sind in der Regel große Flächen von ähnlich aussehenden Pflanzen oder Bäumen. Wenn der Patch groß ist, kannst du mehrere Farmen um ihn herum platzieren, um ihn vollständig auszunutzen.
+
+#tuto_18_c1
+Sehr gut. --15
+
+#tuto_19_1
+Du hast jetzt damit begonnen, die beiden dringenden Bedürfnisse deines Stammes an Wasser und Nahrung zu befriedigen. Diese beiden Bedürfnisse bilden zusammen etwas, das als "Lebensbedarf" bezeichnet wird.
+
+#tuto_19_2
+Wenn die lebenswichtigen Bedürfnisse nicht vollständig gedeckt sind, bedeutet das, dass einige Ihrer Porcos an Unterernährung leiden und sterben.
+
+#tuto_19_c1
+Gut zu wissen. 20-20--13
+
+#tuto_20_1
+Diese Schaltfläche öffnet ein wichtiges Menü: das "Territory menu". 
+
+#tuto_20_2
+Es zeigt alles, was Sie über das Gebiet, in dem Sie sich befinden, wissen müssen, damit Sie seine Situation überprüfen und seine Probleme diagnostizieren können. Klicken Sie hier, um es zu öffnen.
+
+#tuto_21_1_1
+In diesem Menü sind viele Informationen zusammengefasst. Die obere Hälfte ist eine globale Zusammenfassung des Gebiets mit allen wichtigen Statistiken in einem einzigen Bereich.
+
+#tuto_21_2_2
+Die untere Hälfte des Menüs ist eine Reihe von Registerkarten, die Ihnen jeweils detailliertere Informationen über einen bestimmten Gebietsstatus geben: Wirtschaft, Wachstum, Verwaltung....
+
+#tuto_21_c1
+Ok!--22
+
+#tuto_22_1
+Dies ist der wichtige Teil, nach dem man jetzt suchen muss: die globalen lebenswichtigen Bedürfnisse der Bevölkerung, die ich bereits erwähnt habe. 
+
+#tuto_22_2_2
+Es muss mehr oder weniger über 70% bleiben: Das bedeutet, dass die meisten Menschen in deinem Stamm genügend Nahrung und Wasser haben, um nicht zu verhungern. Es ist ein wichtiger Wert, den Sie immer überwachen müssen.
+
+#tuto_22_c1
+Sehr gut. --23--15-15
+
+#tuto_23_1
+Direkt darunter befindet sich das Wachstum des Territoriums: die aktuelle Variation Ihrer Bevölkerung. Dies ist es, was Sie am meisten im frühen Spiel suchen werden.
+
+#tuto_23_23_2
+Positives Wachstum bedeutet, dass Ihre Bevölkerung wächst und Sie neue aktive Porcos erhalten, die Sie in Gebäuden einsetzen können. 
+
+#tuto_23_3_3
+Satisfied Vital Needs ist unerlässlich, um ein positives Wachstum aufrechtzuerhalten, aber es ist nicht der einzige Faktor, der es beeinflusst.
+
+#tuto_23_c1
+Ich habe es verstanden. --26--16-16
+
+#tuto_23_c2
+Welche Faktoren beeinflussen das Wachstum?--24
+
+#tuto_23_c3
+Wie kann ich das Wachstum verbessern? --25
+
+#tuto_24_1
+Sie können auf die Registerkarte "Wachstum" klicken, um Details über das globale Wachstum Ihrer Bevölkerung zu erhalten. Das Wachstum ist das Ergebnis von zwei Hauptfaktoren: dem Willen der Bevölkerung, Kinder zu bekommen und ihr Überleben. 
+
+#tuto_24_2
+Der Kinderwunsch ist in der rechten Spalte aufgeführt und wird vor allem von der Lebensqualität der Bevölkerung beeinflusst.
+
+#tuto_24_3
+Das Überleben von Ferkeln im Erwachsenenalter wird vor allem durch die globale Gesundheit Ihrer Bevölkerung beeinflusst.
+
+#tuto_24_c1
+Ich habe es verstanden. --26--16-16
+
+#tuto_24_c2
+Also, wie kann ich es verbessern? --25
+
+#tuto_25_1
+Stelle zuerst sicher, dass deine Lebensbedürfnisse erfüllt sind. Dann werden Sie die globale Gesundheits- und Lebensqualität so weit wie möglich verbessern wollen.
+
+#tuto_25_2
+Biete gute Wohnungen für deine Bevölkerung, abwechslungsreiche Lebensmittel und versuche generell, das Maximum aus den Bedürfnissen deiner Bevölkerung zu decken!
+
+#tuto_25_c1
+Ich habe es verstanden. --26--16-16
+
+#tuto_26_1
+Das ist deine aktuelle Bevölkerung. Es ist in Gruppen von "Sozialklassen" unterteilt, die jeweils durch eine Schaltfläche dargestellt werden.
+
+#tuto_26_2
+"Inaktiv" ist die Standardklasse der derzeit arbeitslosen erwachsenen Porcos, die für die Arbeit in neuen Gebäuden zur Verfügung stehen. Sobald ein Porco anfängt, in einem Gebäude zu arbeiten, geht er in die soziale Klasse über, in der das Gebäude arbeitet.
+
+#tuto_26_c1
+Verstanden. Nun, was ?--27
+
+#tuto_27_1
+Bevor Sie neue Produktionsgebäude bauen, sollten Sie überprüfen, ob Sie genügend Inaktivitäten haben, um in ihnen zu arbeiten.
+
+#tuto_27_2
+Du solltest noch eine ordentliche Menge an inaktiven Porcos zur Verfügung haben: Lass sie uns beschäftigen und zur nächsten Mission aufbrechen!
+
+#tuto_27_c1
+Ich bin bereit. --28--17-17
+
+#tuto_28_1
+Baustoffe benötigen Ressourcen und einer der am häufigsten benötigten ist zunächst der Hammer, der aus Steinzeug hergestellt wird.
+
+#tuto_28_2
+Sie müssen jetzt Ihre ersten Hämmer produzieren, da Ihre Bestände beim Bau bald erschöpft sein werden. 
+
+#tuto_28_c1
+Ok. --29--18--18
+
+#tuto_29_1
+Hämmer werden Ihr erstes "Industrieprodukt" sein: eine Ressource, die aus anderen Ressourcen hergestellt wird.
+
+#tuto_29_2
+Hämmer benötigen Feuersteine - einen natürlichen Rohstoff -, die Sie mit dem Feuerstein-Kollektor herstellen können.
+
+#tuto_29_3
+Beginnen Sie mit dem Bau eines Feuerstein-Sammlers an einem gültigen Ort, in der Nähe von Bodenfliesen, die sehr ernst aussehen.
+
+#tuto_30_1
+Sehr gut! Jetzt können Sie den Werkzeugmacher erstellen.
+
+#tuto_30_2
+Im Gegensatz zu Naturproduzenten können Industrien überall platziert werden, da sie keine natürlichen Ressourcen nutzen: Sie kombinieren bestehende.
+
+#tuto_31_1_1
+Großartig, du produzierst jetzt deine ersten Hämmer!
+
+#tuto_31_2
+Hämmer sind Ihre erste Art von Werkzeug. Später werden Sie neue Werkzeuge freischalten, die auch von vielen Konstruktionen benötigt werden.
+
+#tuto_31_3_3
+Im Gegensatz zu Ressourcen wie Lebensmitteln werden Werkzeuge von der Bevölkerung nicht konsumiert, um ihre Bedürfnisse zu befriedigen: Sie werden nur von Spielern verwendet.
+
+#tuto_31_c1
+Ok.--32--21
+
+#tuto_32_1
+Dies ist die Registerkarte Ressourcen Ihres Territoriums: Sie listet alle produzierten Ressourcen auf, die sich derzeit in den Speichern des Territoriums befinden. Hier können Sie auch später zwischen den Territorien handeln, kaufen, verkaufen oder Transportressourcen verkaufen.
+
+#tuto_32_2
+Klicken Sie hier, um die Registerkarte zu öffnen.
+
+#tuto_33_1
+Jede Schaltfläche zeigt Ihnen eine Art von Ressource, die derzeit in dem Gebiet gelagert oder produziert wird. Auf jeder Taste sehen Sie den Lagerbestand, ein Schild, das die aktuelle Abweichung und den lokalen Preis anzeigt.
+
+#tuto_33_2
+Klicken Sie nun auf eine dieser Schaltflächen, um das Ressourcenmenü zu öffnen.
+
+#tuto_34_1
+Das Ressourcenmenü zeigt Ihnen alle Details zu einer bestimmten Ressource: Produktion, Verbrauch nach Bevölkerung oder Branchen, Preis.....
+
+#tuto_34_c1
+Ok. --35--24-24
+
+#tuto_35_1
+Es gibt Ihnen auch Zugriff auf einige ressourcenspezifische Optionen. 
+
+#tuto_35_2
+Die erste ist die Speicherrichtlinie: Sie können die Regeln für die Speicherung dieser spezifischen Ressource ändern, z.B. nur in bestimmten Speichern zulassen oder sie vollständig verbieten.
+
+#tuto_35_c1
+Ich habe es. --38--25-25
+
+#tuto_35_c2
+Was passiert, wenn es keinen Platz zum Aufbewahren gibt ?--36
+
+#tuto_35_c3
+Was ist der "nur im eingeschränkten" Modus ?--37
+
+#tuto_36_1
+Wenn kein Platz vorhanden ist, werden die Ressourcen direkt auf den Boden gelegt, wo sie verfallen und schließlich verloren gehen, wenn sie nicht schnell und richtig gelagert werden. 
+
+#tuto_36_2
+Zusätzliche Ressourcen vor Ort werden automatisch auf jeden gültigen Speicher verlagert, wenn freier Speicherplatz verfügbar wird.
+
+#tuto_36_c1
+Ich habe es. --38--25-25
+
+#tuto_36_c2
+Was ist der "nur im eingeschränkten" Modus ?--37
+
+#tuto_37_1
+Wenn Sie auf ein Speichergebäude klicken, können Sie es auf "eingeschränkt" setzen und steuern, welche Ressourcen darin erlaubt sind. 
+
+#tuto_37_2
+Wenn Sie dann in diesem Menü eine Speicherrichtlinie für Ressourcen auf "nur in eingeschränkten" einstellen, wird sie NUR in Speichern erlaubt, die sich im "eingeschränkten" Modus befinden UND so eingestellt wurden, dass sie diese spezifische Ressource zulassen. Wenn es keinen Platz gibt, werden die Ressourcen zerstört.
+
+#tuto_37_c1
+Ich habe es. --38--25-25
+
+#tuto_37_c2
+Was passiert, wenn es keinen Platz zum Aufbewahren gibt ?--36
+
+#tuto_38_1
+Die zweite ist die Option "Bestand pflegen": Sie ermöglicht es Ihnen, sicherzustellen, dass ein Teil der produzierten Ressourcen eingespart wird, um eine bestimmte Menge auf Lager zu halten, egal was passiert. Es ist wirklich nützlich, z.B. Vorräte an Lebensmitteln zu halten, unabhängig vom Konsum der Bevölkerung.
+
+#tuto_38_c1
+Gut zu wissen!--39--26
+
+#tuto_39_1
+Im Moment ist Ihr einziger verfügbarer Speicher der "Ground Storage": ein kostenloser, aber ineffizienter Speicher für grundlegende Ressourcen. Es ist nur der Boden, der für die Aufbewahrung von Dingen markiert ist. 
+
+#tuto_39_2
+Später wirst du richtige Lagergebäude freischalten, die viel mehr auf einer kleineren Fläche lagern können.
+
+#tuto_39_c1
+Sehr gut. 40.
+
+#tuto_40_1
+Nicht alle Ressourcen können überall gelagert werden: Einige bestimmte Kategorien von Ressourcen erfordern bestimmte Lagertypen.
+
+#tuto_40_2
+So können beispielsweise Lebensmittel wie Fleisch oder Weizen nur in Getreidespeichern gelagert werden, und die Tiere benötigen ein Fahrerlager. Im Moment hast du jedoch keinen Zugang zu diesen Gebäuden.
+
+#tuto_40_c1
+Ok. --41--27.
+
+#tuto_41_1
+Nun zur nächsten Mission: Beginnen Sie mit der Produktion von etwas Holz.
+
+#tuto_41_2
+Holz ist, wie der Hammer, ein unverzichtbarer Werkstoff für viele Konstruktionen. Es wird auch von vielen Industriegebäuden für die Herstellung anderer Produkte verwendet.
+
+#tuto_41_3
+Stellen Sie einen Holzfäller in die Nähe einer dichten Baumgruppe, um mit der Produktion zu beginnen.
+
+#tuto_42_1
+Ausgezeichnet. Jetzt ist es an der Zeit, über die Verteidigung nachzudenken: Dazu müssen Sie eine neue "Formation" (eine Gruppe von Einheiten) schaffen.
+
+#tuto_42_2
+Es gibt verschiedene Arten von Formationen. Der Beste, mit dem man sich verteidigen kann, ist die "Miliz".
+
+#tuto_42_c1
+Erzähl mir mehr. --43
+
+#tuto_43_1
+In einer "Miliz"-Formation werden ihre Einheiten nicht wirklich rekrutiert: Es ist die aktuelle Bevölkerung des Territoriums selbst. Betrachten Sie es als einen Vorrat an Waffen, der für die Bevölkerung bereitgehalten wird, um bei einem Angriff Waffen zu nehmen.
+
+#tuto_43_2
+Daher werden seine Einheiten nicht wirklich aus deiner Bevölkerung entfernt und sind "frei", aber die Miliz kann nicht in andere Gebiete ziehen und ist rein defensiv. Es ist perfekt als grundlegende Verteidigung.
+
+#tuto_43_c1
+Wo erstelle ich ein ?--44--29
+
+#tuto_44_1
+Dies ist die Registerkarte Einheiten. Darin sehen Sie alle Formationen, die derzeit im Gebiet vorhanden sind. Hier können Sie auch neue Formationen erstellen.
+
+#tuto_44_2
+Klicken Sie auf die Registerkarte, um sie zu öffnen.
+
+#tuto_45_1
+Klicken Sie nun auf die Schaltfläche, um eine neue Formation zu erstellen. Wählen Sie den Typ "Miliz" und legen Sie das Lager der Formation in der Nähe Ihres Stammes auf.
+
+#tuto_46_1
+Sehr gut. Jetzt musst du deine ersten Einheiten in diese neue Formation rekrutieren.
+
+#tuto_46_2
+Es gibt verschiedene Kategorien von Einheiten: Zivile Einheiten sind das, was Sie verwenden werden, um Expeditionen zu organisieren oder Waren mit Spediteuren zu transportieren, aber natürlich nicht, um sich selbst zu verteidigen. Öffnen Sie die Registerkarte "Ranged".
+
+#tuto_47_1
+Im Moment hast du nur Zugang zu einer einzigen militärischen Fernkampfeinheit: dem Felswerfer. Ein Porco, der einfach mit Steinen zum Werfen ausgestattet ist, wird am besten zur Verteidigung hinter Mauern und Toren verwendet.
+
+#tuto_47_2
+Rekrutiere nun mindestens 20 Felswerfer (2 Truppen à 10 Mann). Denke daran: Als "Miliz" rekrutierst du sie eigentlich nicht wirklich, sondern lagerst nur Ausrüstung (hier einfache Steine), die deine Bevölkerung im Falle eines Angriffs benutzen kann.
+
+#tuto_47_c1
+Was passiert, wenn ich mehr Miliz "rekrutiere", als ich von der Bevölkerung habe ?--48
+
+#tuto_48_1
+Dann wird Ihre Miliz im Falle eines Angriffs nicht vollständig "bemannt" sein: Wenn Sie die Ausrüstung für 40 Soldaten als Ihre Miliz aufgespart haben, aber nur 15 Schweine im Alter haben, um zum Zeitpunkt des Angriffs auf dem Territorium zu kämpfen, wird Ihre Miliz nur 15 Soldaten in die Schlacht einbeziehen.
+
+#tuto_48_c1
+Ich habe es verstanden. --47
+
+#tuto_49_1
+Herzlichen Glückwunsch: Du hast jetzt die Ausrüstung - ein Haufen Holzknüppel - für deine Bevölkerung gespeichert, die sie im Falle eines Angriffs benutzen kann. 
+
+#tuto_49_2
+Darüber hinaus können Sie nun mit dem "Strategischen Werkzeug" auch die Verteidigungsstrategie Ihrer Einheiten organisieren, wie z.B. die Definition der Einsatzpositionen Ihrer neuen Miliz. Klicken Sie hier, um es zu öffnen.
+
+#tuto_50_1
+Mit diesem Tool kannst du dir eine Vorschau ansehen, wo alle deine Truppen (Miliz oder nicht) im Falle eines Kampfes eingesetzt werden.
+
+#tuto_50_2
+Du kannst jede Truppe auswählen und mit dem richtigen Klick dort einsetzen, wo du willst. Halten Sie es gedrückt, um ihre Ränge und Ausrichtung festzulegen.
+
+#tuto_50_c1
+Erzähl mir mehr. --51--35
+
+#tuto_51_1_1
+Du kannst den Verhaltensmodus jeder Truppe einstellen. Standardmäßig werden sie sich bewegen, um jeden ankommenden Feind zu bekämpfen.
+
+#tuto_51_2
+Wenn eine Truppe ausgewählt ist, kannst du die Dropdown-Schaltfläche unten links anklicken, um andere Modi auszuwählen, die das Verhalten dieser Truppe im Kampf beeinflussen.
+
+#tuto_51_c1
+Sehr gut. --52--36
+
+#tuto_52_1
+Ein weiteres Werkzeug ist die Erstellung von "Verteidigungszonen" durch Anklicken dieser Schaltfläche. Klicken und ziehen Sie dann auf dem Gelände, um einen Punkt und einen Radius um ihn herum festzulegen. 
+
+#tuto_52_2
+Sobald die Zone erstellt ist, kannst du Truppen in ihr einsetzen und sie auf das Verhalten der "Verteidigungszone" einstellen, damit sie diese spezifische Zone verteidigen können: Sie dürfen sich während des Kampfes aus ihr herausbewegen.
+
+#tuto_52_c1
+Ich habe es verstanden. --53--37
+
+#tuto_53_1
+Felswerfer sind nur zur Verteidigung hinter Mauern nützlich: Ich empfehle Ihnen, eine kleine Festung von Palissaden zu errichten und sie dann in ihr im Stand-Around-Modus einzusetzen. Dies wird dich zumindest vor Invasionsversuchen schützen.
+
+#tuto_53_2
+Wenn Sie mit Ihren Änderungen zufrieden sind, schließen und speichern Sie Ihre Änderungen, indem Sie hier klicken.
+
+#tuto_54_1
+Du hast nun deine grundlegenden Verteidigungsmaßnahmen organisiert. 
+
+#tuto_54_2
+Zusätzlich zu möglichen Ereignissen oder Konflikten mit anderen Spielern werden in den nahegelegenen NSC-"barbarischen" Lagern regelmäßig Warbands gelaicht, die versuchen werden, eure Territorien zu überfallen, zu plündern oder sogar einzudringen. 
+
+#tuto_54_3
+Es wird nicht lange dauern, bis sie dich bemerken und ihre ersten Raider schicken, also seid ihr besser bereit!
+
+#tuto_54_c1
+Gut zu wissen...--55--39
+
+#tuto_55_1
+Es ist an der Zeit, sich mit dem Thema Wissen (Technologien) zu befassen, die Dinge wie neue Gebäude oder neue Ressourcen erschließen.
+
+#tuto_55_2
+Um neue Erkenntnisse zu gewinnen, müssen Sie Projekte abschließen. Und um Projekte zu bekommen, braucht man Ideen. 
+
+#tuto_55_c1
+Mach schon....--56
+
+#tuto_56_1
+Ideen können aus der eigenen Bevölkerung kommen, aus anderen Gebieten kommen oder über Verträge direkt mit anderen Spielern ausgetauscht werden.
+
+#tuto_56_2
+Du kannst nicht direkt kontrollieren, wann und welche Ideen deine Leute haben werden. Jede Idee hat ihre eigenen versteckten Bedingungen.
+
+#tuto_56_c1
+Ok. --57
+
+#tuto_57_1
+Nachdem Ihr Stamm nun damit fertig ist, in diesem Gebiet zu lagern, haben sie ihre erste Idee für Sedentarität entwickelt, die es Ihnen ermöglicht, Ihre ersten richtigen Wohnungen zu bauen.
+
+#tuto_57_2
+Um tatsächlich das "Wissen" über Sendentarität zu erlangen, müssen Sie zuerst das Projekt abschließen.
+
+#tuto_57_c1
+Wie mache ich das ?--58--40
+
+#tuto_58_1
+Mit dieser neuen Schaltfläche können Sie ein weiteres wichtiges Menü öffnen: das Regierungsmenü.
+
+#tuto_58_2
+Hier können Sie alle globalen Angelegenheiten (nicht gebietsspezifische) wie Ihren Treasury-Bestand, Ihre Kultur, Ihre Richtlinien usw. verwalten und überwachen....
+
+#tuto_58_3
+Klicken Sie hier, um es zu öffnen.
+
+#tuto_59_1
+Auf der Registerkarte "Gesellschaft" verwalten Sie Ihre Richtlinien und definieren, wie Ihre Gesellschaft organisiert ist und funktioniert.
+
+#tuto_59_2
+Im Moment bist du eine primitive Bandgesellschaft mit einer Geschenkökonomie, in der jeder seine Waren teilt. 
+
+#tuto_59_c1
+Wie kann ich das ändern ?--60
+
+#tuto_60_1
+Später, mit neuen Kenntnissen, werden Sie neue Richtlinien freischalten, die es Ihnen ermöglichen, die politische und wirtschaftliche Organisation Ihrer Gesellschaft zu entwickeln.
+
+#tuto_60_2
+Öffnen Sie nun die Registerkarte "Wissen", um auf Ihre Projekte zuzugreifen.
+
+#tuto_61_1_1
+Diese Spalte zeigt alle Kenntnisse, die deine Gesellschaft derzeit hat. Es ist vorerst leer.
+
+#tuto_61_2
+Es zeigt auch Ihre Wissenskapazität und die aktuelle Nutzung an. Jedes neue Wissen kostet je nach Komplexität einige Punkte. Wenn Ihre Kapazität voll ausgelastet ist, werden Sie nicht in der Lage sein, neue Kenntnisse zu erwerben.
+
+#tuto_61_c1_c1
+Ok. --63--43--43
+
+#tuto_61_c2
+Wie erhalte ich Wissenskapazität ?--62
+
+#tuto_62_1
+Deine Kapazität wird durch deine Gesamtkultur erhöht. Am Anfang wird Ihre Kultur hauptsächlich von Ihrer Gesamtbevölkerung produziert, also je mehr Bevölkerung Sie haben, desto mehr Wissenskapazität.
+
+#tuto_62_2
+Später, mit dem Schreiben, werden Sie auch in der Lage sein, Bibliotheken zu erstellen, um Ihre Wissenskapazität manuell zu erhöhen.
+
+#tuto_62_c1
+Ok. --63--43--43
+
+#tuto_63_1
+Das Projekt "Sesshaftes Leben" wird das Wissen über "Sesshaftigkeit" freisetzen. Um damit zu beginnen, müssen Sie zunächst "Forscher" dem Projekt zuordnen, und jedes Projekt erfordert eine bestimmte "Klasse" von Forschern (hier ist es Farmers).
+
+#tuto_63_2
+Klicken Sie auf die Schaltfläche "+", um dem Projekt Forscher zuzuordnen.
+
+#tuto_64_1
+Seien Sie vorsichtig: Der Einsatz von Forschern reduziert die Produktivität aller Gebäude, die die gleiche Bevölkerungsklasse beschäftigen, da sie mit dem Projekt beschäftigt sind, anstatt zu arbeiten.
+
+#tuto_64_2
+Wenn Sie zum Beispiel ALLE Ihre Landwirte einem Projekt zuordnen, dann werden Ihre Betriebe nichts mehr produzieren.
+
+#tuto_64_3
+Wählen Sie aus, wie viele Forscher Sie für das Projekt zuordnen und validieren möchten.
+
+#tuto_65_1
+Jeder Forscher trägt "Forschungspunkte" basierend auf seiner Intelligenz bei.
+
+#tuto_65_2
+Jedes Projekt hat auch einen Schwierigkeitsgrad, und die durchschnittliche Intelligenz der eingesetzten Forscher definiert die Chancen, das Projekt erfolgreich abzuschließen.
+
+#tuto_65_c1
+Ok.--66--46
+
+#tuto_66_1
+Um einige Projekte zu starten, müssen Sie möglicherweise auch Münzen oder Ressourcen bezahlen. Sie benötigen auch genügend Wissensraum, um das neue Wissen zu speichern, das es freisetzt.
+
+#tuto_66_2
+Sie können nun mit einem Klick die Arbeit am Projekt beginnen.
+
+#tuto_67_1
+Herzlichen Glückwunsch, du hast dein erstes Projekt gestartet! Es wird einige Zeit dauern, bis es fertig ist, abhängig von Ihrer Anzahl von Forschern und deren Effizienz.
+
+#tuto_67_c1
+Sehr gut. --111
+
+#tuto_67_c2
+Was passiert, wenn ein Projekt fehlschlägt ?--68
+
+#tuto_68_1
+Wenn Ihr Projekt fehlschlägt, müssen Sie es erneut von Grund auf neu starten. 
+
+#tuto_68_2
+Du musst alle Startbedingungen zurückzahlen.
+
+#tuto_68_c1
+Verdammt..... Also, was jetzt ?--111
+
+#tuto_69_1
+Du kennst jetzt alle minimalen Grundlagen, um zu beginnen, deinen Stamm in Ymir zu regieren und zu entwickeln, und ich habe nur noch ein paar Dinge, die ich dir zeigen kann, bevor ich dich verlasse.
+
+#tuto_69_c1
+Es wird Zeit!--70--48
+
+#tuto_70_1
+Dies ist dein Spielerwert. Es basiert auf verschiedenen Statistiken wie Ihrem Gesamtvermögen, Ihrer Kultur, Ihrer militärischen Macht und Ihrem Wissen.
+
+#tuto_70_c1
+Ok.--71--49
+
+#tuto_71_1
+Daneben befinden sich deine Siegpunkte. Sie werden verdient, indem man Siegesmissionen absolviert, die gemeinsam mit anderen Spielern geteilt werden können, in diesem Fall erhält nur der Erste, der sie abgeschlossen hat, die Belohnung.
+
+#tuto_71_2
+Sie gewinnen das Spiel, indem Sie der erste Spieler sind, der das Ziel der für dieses Spiel festgelegten Siegpunkte erreicht.
+
+#tuto_71_c1
+Gut zu wissen!--72--50
+
+#tuto_71_c2
+Wie erhalte ich diese Missionen ?--81
+
+#tuto_72_1
+Nun, das war's: Meine Arbeit hier ist nun erledigt und es ist Zeit für mich, dir die Verantwortung zu überlassen.
+
+#tuto_72_c1
+Danke, Herr Pig.999.
+
+#tuto_72_c2
+Warte! Was soll ich jetzt tun ?--73
+
+#tuto_72_c3
+Ich habe ein paar Fragen!--74
+
+#tuto_73_1
+Nun, da dein Stamm besiedelt ist, sollte seine Bevölkerung langsam wachsen, aber das kann einige Zeit dauern.
+
+#tuto_73_2
+In der Zwischenzeit könnte es eine gute Idee sein, die Umgebung auf der Weltkarte weiter zu erkunden und Herden zu finden, um sie zu jagen, um deinem Stamm zusätzliche Nahrung zu geben, um sein Wachstum zu fördern.
+
+#tuto_73_c1
+Ok. 74.
+
+#tuto_74_1
+Worüber willst du mehr wissen, junges Ferkel?
+
+#tuto_74_c1
+Ich habe keine weiteren Fragen, Mr. Pig. 75.
+
+#tuto_74_c2
+Kann ich dich wiedersehen? --76
+
+#tuto_75_1
+Dann lebe wohl, und viel Glück!
+
+#tuto_75_c1
+Auf Wiedersehen!999
+
+#tuto_76_1
+Ja, ich könnte von Zeit zu Zeit auftauchen, wenn du neue wichtige Dinge freischaltest!
+
+#tuto_76_c1
+Ok!--74
+
+#tuto_77_1
+Du musst eine neue "Formation" (deine Erkundungsexpedition) erstellen und Einheiten darin rekrutieren und sie dann aus der Weltkartenansicht verschieben.
+
+#tuto_77_2
+Aber sei vorsichtig! Das ist gefährlich, denn jedes Mal, wenn du Neuland erkundest, kannst du "Erkundungsereignisse" auslösen: Es gibt viel zu gewinnen, aber auch viel zu verlieren.
+
+#tuto_77_c1
+Ok. 78.
+
+#tuto_78_1
+Damit Ihre Entdecker eine Erfolgschance haben, empfehle ich Ihnen dringend, mindestens 10 Krieger für Ihre Expeditionsgruppe zu rekrutieren, denn die Welt ist dunkel und voller Schrecken.
+
+#tuto_78_c1
+Sehr gut. 74.
+
+#tuto_79_1
+Herden sind endliche Tiergruppen und keine permanente Ressource: Sie können vom Gebäude des Jägers nicht genutzt werden.
+
+#tuto_79_2
+Um sie zu jagen, muss man eine Jagdgesellschaft bilden: Erstellen Sie eine "Formation" und rekrutieren Sie Jäger (alle Krieger Ihrer Wahl) sowie einige Träger, um das geraubte Fleisch zu transportieren.
+
+#tuto_79_c1
+Was dann ?--80
+
+#tuto_80_1
+Bringen Sie die Jäger auf das gleiche Gebiet wie die Herde auf der Weltkarte und geben Sie ihnen den Befehl zur "Jagd": Sie wird eine Schlacht auslösen, in der sie versuchen werden, Tiere der Herde zu töten.
+
+#tuto_80_2
+Tiere werden sich wehren, also seid vorsichtig! Sobald die Jagd vorbei ist und wenn sie erfolgreich ist, hat die Formation frisches Fleisch im Inventar, das du zu deinem Stamm zurückbringen kannst.
+
+#tuto_80_c1
+Ausgezeichnet.--74
+
+#tuto_81_1_1
+Das kannst du nicht. Siegespunkt-Missionen, wie andere Missionen oder andere Ereignisse, werden dir zufällig passieren.
+
+#tuto_81_c1_c1
+In Ordnung. 72. 50.
+
+#tuto_82_1
+Bist du sicher? Dieses Tutorial kann Ihnen helfen.....
+
+#tuto_82_c1
+Ja--83
+
+#tuto_83_1
+Bist du dir wirklich sicher? Ich denke, es könnte das Beste für dich sein.
+
+#tuto_83_c1
+Ja!--84
+
+#tuto_84_1
+Ich denke, ich weiß, was das Beste für dich ist, ich werde hier bleiben und mit diesem Tutorial weitermachen. 
+
+#tuto_84_c1
+Bitte geh weg....--1
+
+#tuto_84_c2
+Was kann ich tun, damit du mich in Ruhe lässt ?--85
+
+#tuto_85_1
+Bären.
+
+#tuto_85_c1
+Was ?--86
+
+#tuto_86_1
+Ich habe Bären.
+
+#tuto_86_c1
+Bären? Was hat das mit allem zu tun ?--87
+
+#tuto_87_1
+Das wird es, wenn du nicht mit meinem Tutorial weitermachst.
+
+#tuto_87_c1
+Du bist ein Bär, der einen Tutorial-Assistenten beschwört ?--88
+
+#tuto_87_c2
+Ich sehe keine Bären. Wo sind sie ?--98
+
+#tuto_88_1
+Ja.
+
+#tuto_88_c1
+Und was werden deine Bären tun, wenn ich deinem Tutorial nicht folge ?--89
+
+#tuto_89_1
+Meine Bären sind darauf trainiert, viele Dinge zu tun, einschließlich der Verschlingung der Eingeweide deiner Stammesschweine.
+
+#tuto_89_c1
+Ist mir egal, ich kann mir einen anderen Stamm suchen. --90
+
+#tuto_90_1
+Du bist kein wirklich guter Anführer für dein Volk.
+
+#tuto_90_c1
+Du bist kein wirklich guter Tutorial-Assistent.--91
+
+#tuto_91_1_1
+Du bist gemein.
+
+#tuto_91_c1_c1
+Wirst du mich jetzt in Ruhe lassen ?--92
+
+#tuto_92_92_1
+Gut. Viel Spaß mit diesem beschissenen Spiel: Seine Benutzeroberflächen und Menüs sind so schlecht, dass du es sowieso nie selbst herausfinden wirst. Ich bin zu alt für diesen Scheiß.....
+
+#tuto_92_92_c1
+Ja, FEIN! Ich brauche dich nicht!--999
+
+#tuto_92_92_c2
+Warte was ?--93
+
+#tuto_93_1
+Nein, es ist zu spät. Ha! Ich wette, du wirst nicht einmal finden, wie du deinen Stamm besiedeln kannst, die Knöpfe wurden visuell versteckt..... Auf Wiedersehen..... Ferkel!
+
+#tuto_93_c1
+Nein! Geh nicht, ich habe meine Meinung geändert!--94
+
+#tuto_93_c2
+Ich gehe das Risiko ein, wenn es darum geht, dieses lausige Tutorial zu bestehen. 1999.
+
+#tuto_94_1
+Das wird nicht genug sein. Ich verlange Entschuldigungen.
+
+#tuto_94_c1
+Es tut mir leid. 95.
+
+#tuto_95_1
+Es tut mir leid, wer?
+
+#tuto_95_c1
+Es tut mir leid, Herr Scharfsinniges Schwein.--96
+
+#tuto_96_1
+Für dich ist es MISTER, Mister Scharfsinniges Schwein.
+
+#tuto_96_c1
+Es tut mir leid, Mister Mister Sagacious Pig. Können wir es jetzt noch einmal versuchen? 97
+
+#tuto_97_1
+Hmmmph..... Das reicht, Schwein.... das reicht. Du solltest besser zuhören und diesmal nett sein!
+
+#tuto_97_c1
+Ich höre zu. --1
+
+#tuto_98_1
+Sie verstecken sich. Bären überwintern.
+
+#tuto_98_c1
+Du bluffst. 99.
+
+#tuto_98_c2
+Wir sind nicht einmal im Winter. Bären halten nur im Winter Winterschlaf. --104
+
+#tuto_99_99_1
+Ich habe eine Armee von Bären! Ich kann sie alle rufen und deinen frechen Stamm von dieser Welt tilgen!
+
+#tuto_99_99_c1
+Nein, tust du nicht. Du bist nur ein lahmer Tutorial-Assistent, der versucht, lustig zu sein. --100
+
+#tuto_100_1
+Wie kannst du es wagen!
+
+#tuto_100_c1
+Du existierst nicht einmal. Du bist nur ein Skript von pseudo-interaktiven, vorgefertigten Zeilen hier, nur zu meiner persönlichen Unterhaltung. --101
+
+#tuto_101_1_1
+Du lügst!
+
+#tuto_101_c1
+Ich kann dich jederzeit loswerden, indem ich einfach die.ini-Datei dieses Spiels bearbeite.-102
+
+#tuto_102_1
+Nein, das kannst du nicht! Du wirst in diesem Spiel ohne mich verloren sein. Du brauchst mich.
+
+#tuto_102_c1
+Ja, das kann ich, und das werde ich. Sofort. --103--51
+
+#tuto_102_c2_c2
+Ja, das könnte ich. Aber ich bin ein großzügiger Gott. Ich werde dich mit deiner Absicht weitermachen lassen. --1
+
+#tuto_103_1
+Nicht bevor ich meine Armee von Bären hervorbringe und deine mickrige Ausrede eines Stammes vernichte. Der Fänger!
+
+#tuto_103_c1
+Wie.... Was für ein verdammtes Tutorial ist das?!--999
+
+#tuto_104_1
+Oh, weil du so ein Experte für Bären bist!
+
+#tuto_104_c1
+Ja, das bin ich, eigentlich. --105
+
+#tuto_105_1
+Gut. Wenn du so ein Experte bist, dann beantworte das: Wie nennt man eine Gruppe von Bären? Wenn du richtig antwortest, werde ich gehen. Wenn du es nicht tust, musst du mein Tutorial durchstehen.
+
+#tuto_105_c1
+Eine Gruppe von Bären.--106
+
+#tuto_105_c2
+Eine Band. --107
+
+#tuto_105_c3
+Eine Faulheit. --108
+
+#tuto_105_c4
+Eine Gemeinde.--107
+
+#tuto_106_1
+Du bist weise, junges Ferkel. Klüger, als du aussiehst. In Ordnung, ich werde dich in Ruhe lassen. Aber bist du sicher, dass du dieses Tutorial überspringen willst?
+
+#tuto_106_c1
+Ja.--999
+
+#tuto_106_c2
+Nein. Ich habe gewonnen, aber ich werde deinem Tutorial nachgehen. --1
+
+#tuto_107_1
+Falsch! Du dummes Ferkel! Jetzt pass auf und erleide mein endloses Tutorial!
+
+#tuto_107_c1
+Verdammt....--1
+
+#tuto_108_1
+Du hast es gegoogelt, nicht wahr?
+
+#tuto_108_c1
+Nr.--109
+
+#tuto_109_1
+Das hast du. Ich weiß es. Gib es einfach zu, oder stelle dich unumkehrbaren Folgen!
+
+#tuto_109_2
+Ich bin der Bärenmeister. Wenn du nicht ins Reine kommst, werde ich meine Armee von rachsüchtigen Bären rufen und dich und deinen mickrigen Stamm vernichten! Dann gibt es kein Tutorial mehr für dich, MISTER-Ferkel! Sie werden in diesem grausamen, unnachgiebigen Spiel mit seinen verwirrenden, kontraintuitiven Benutzeroberflächen und Menüs allein sein. Also denk noch einmal nach, bevor du etwas Dummes tust, um mir zu trotzen. Das ist deine letzte Chance!
+
+#tuto_109_c1
+Das werde ich nicht!--110--51
+
+#tuto_110_110_1
+Du hast gebraten! Dafür verdienst du eine unerträgliche Strafe! Es ist an der Zeit, dass meine Bären deinen frechen Stamm zerfleischen!
+
+#tuto_110_c1
+Ich kann das nicht glauben...--999
+
+#tuto_111_1_1
+Warten wir nun, bis das Projekt abgeschlossen ist.....
+
+#tuto_112_112_1
+Da! Du kannst jetzt deine erste solide Wohnung bauen: eine primitive rustikale Hütte. 
+
+#tuto_112_2
+Derzeit lebt dein Stamm in Slums. Slums sind 1 Kachelwohnungen, die automatisch laichen, wenn keine richtige Unterkunft zur Verfügung steht. Sie werden auch automatisch verschwinden, wenn leere Häuser verfügbar sind, da die Bewohner in sie umziehen.
+
+#tuto_112_c1_c1
+Was nützt es, gute Häuser bereitzustellen ?--113
+
+#tuto_113_1
+Slums bieten keine Boni, während Häuser die Gesundheit und Lebensqualität ihrer Bewohner verbessern. Die Lebensqualität erhöht die Intelligenz, während die Gesundheit die Krankheit verringert, was die Zahl der Menschen, die während jeder Generation sterben, reduziert. 
+
+#tuto_113_2
+Die Verbesserung dieser beiden Werte wird das Glück und das Wachstum deiner Bevölkerung erhöhen und dir mehr Aktivposten geben, die du in Gebäuden oder Armeen beschäftigen kannst.
+
+#tuto_113_c1
+Gut zu wissen!--114
+
+#tuto_114_1
+Ihre nächste Aufgabe ist es, Ihre Startressourcen zu nutzen, um mit dem Bau Ihrer ersten richtigen Hütten zu beginnen. Nach ihrer Fertigstellung werden die Slums mit dem Einzug der Bevölkerung in die neuen Häuser allmählich verschwinden. 
+
+#tuto_114_2
+Du kannst diesen Prozess auch beschleunigen, indem du die Slums manuell zerstörst. Wenn du mehr zerstörst, als Platz zur Verfügung steht, werden neue einfach an anderer Stelle wieder auftauchen, so dass du keine Bevölkerung verlieren kannst!
+
+#tuto_114_c1
+Sehr gut. --115
+
+#tuto_115_1
+Dies ist das Zerstörungswerkzeug. Es ist das, was Sie verwenden, um die Zerstörung von Infrastrukturen, klarem Gelände oder Gebäuden anzuordnen. Wenn du mit dem rechten Mausklick darauf klickst, kannst du filtern, was du zerstören willst.
+
+#tuto_115_2
+Wenn Sie den Rückbau eines Gebäudes in Auftrag geben, werden Sie etwa die Hälfte seiner Ausgangsmaterialien zurückerhalten.
+
+#tuto_115_c1
+Gut!--116
+
+#tuto_116_1
+Vervollständigen Sie nun Ihre aktuelle Aufgabe, indem Sie mindestens 10 Hütten für Ihre Bevölkerung bauen.
+
+#tuto_117_1
+Gut! Als Belohnung siedelten sich neue Familien in Ihrem Gebiet an, was uns beim nächsten Schritt helfen wird: der Erstellung Ihrer ersten Expedition zur Jagd und Erkundung.
+
+#tuto_117_c1
+Warum ist das ?--131
+
+#tuto_131_1_1
+Als Jäger und Sammler verlassen Sie sich derzeit nur auf Ihre natürlichen Nahrungsquellen, die für Ihren Stamm schnell unzureichend werden können. Sie müssen die Gebiete um Ihr Dorf herum erkunden und Herden jagen, um die zusätzliche Nahrung zu erhalten, die Sie benötigen, um das Wachstum Ihres Stammes zu unterstützen.
+
+#tuto_131_c1_c1
+Was sind Herden ?--118
+
+#tuto_118_1
+Herden sind Gruppen von tierischen Einheiten. Sie sind endlich und keine permanente Ressource: Sie können nicht vom Gebäude des Jägers ausgenutzt werden. 
+
+#tuto_118_2
+Als "Einheiten" sind sie auf der Weltkarte sichtbar und können ohne Siedlung gejagt werden.
+
+#tuto_118_c1
+Wie jage ich sie, dann ?--119
+
+#tuto_119_1
+Um sie zu jagen, muss man eine Expeditionsgruppe bilden.
+
+#tuto_119_2
+Während eine Miliz nur ein Stapel von Waffen ist, die Ihre Bevölkerung im Falle eines Angriffs benutzen kann, ist eine reguläre "Armee" eine Gruppe von tatsächlichen Einheiten, die aus Ihrer Bevölkerung entfernt und dauerhaft mobilisiert werden. Eine Armee kann in andere Gebiete ziehen und Aktionen wie die Jagd durchführen.
+
+#tuto_119_c1
+Verstanden, also was soll ich tun ?--120
+
+#tuto_120_1
+Erstelle nun eine neue Formation der "Armee" und rekrutiere 10 Krieger in ihr. 
+
+#tuto_120_2
+Beachten Sie diesmal, dass sie aus Ihrer derzeitigen Bevölkerung entfernt werden, da es sich nicht um eine "Miliz" handelt, so dass Sie nie alle Ihre Aktivposten in einer Armee rekrutieren wollen, da sie alle ihre Produktionsgebäude von ihren Arbeitern leeren würde.
+
+#tuto_121_1_1
+Wählen Sie Ihre neue Formation aus, indem Sie auf ihr Lager klicken oder auf ihre Schaltfläche auf der Registerkarte Formationen klicken.
+
+#tuto_122_1
+Klicken Sie im Menü der ausgewählten Formation auf die Schaltfläche "+", um zusätzliche Truppen zu Ihrer bereits vorhandenen Armee hinzuzufügen.
+
+#tuto_123_1
+Armeen können Waren transportieren und verfügen über ein eigenes Inventar, dessen Kapazität von den Einheiten in ihnen abhängt. Träger sind nicht kämpfende Einheiten, die einfach viel Inventar für Ihre Formation zur Verfügung stellen.
+
+#tuto_123_2
+Du musst mindestens 3 von ihnen rekrutieren.
+
+#tuto_124_1
+Sie können das Inventar Ihrer Formation einsehen, indem Sie auf die Registerkarte Inventar in ihrem Menü klicken.
+
+#tuto_124_2
+Dort kannst du die aktuelle Bestandskapazität sehen, und du kannst Ressourcen aus deiner Formation in dein Territorium laden oder entladen.
+
+#tuto_124_c1
+Verstanden!--125
+
+#tuto_125_1
+Nun, da Ihre erste Expedition bereit ist, gehen Sie zurück zur Ansicht der Weltkarte, um andere Gebiete zu erkunden.
+
+#tuto_126_1
+Auf der Weltkartenansicht sind alle deine Formationen sichtbar und du kannst sie auswählen und ihnen Befehle geben. Milizen" werden ebenfalls erscheinen, können aber nicht bewegt werden, da sie an ihr Territorium gebunden sind!
+
+#tuto_126_2
+Sie können Ressourcen auch direkt auf der Weltkarte rekrutieren, auflösen, laden und entladen.
+
+#tuto_126_c1
+Ok!--127
+
+#tuto_127_1
+Hüten Sie sich jetzt! Nur die Kacheln neben deinem Stamm sind sichtbar, während der Rest verborgen bleibt, bis du ihn zum ersten Mal erkundest. Aber wenn du zum ersten Mal neue Kacheln entdeckst, könnte deine Gruppe von Entdeckern ein "Entdeckungsereignis" auslösen.
+
+#tuto_127_c1
+Ich habe es. --132
+
+#tuto_132_1
+Diese Ereignisse können gefährlich sein, können aber auch lohnenswert sein und dir neue Ressourcen und Einheiten geben. Um eine Chance auf eine erfolgreiche Erkundung zu haben, sollten Sie dies immer mit einer Gruppe von 10 oder mehr Porcos tun. Sobald ein Gebiet einmal erforscht wurde, kannst du dich dann sicher durch sie bewegen, da es kein neues Erkundungsereignis auslöst.
+
+#tuto_132_c1
+Gut zu wissen!--128
+
+#tuto_128_1
+Versuchen Sie nun, eine "Herde" zu finden: eine Gruppe von Tiereinheiten, und erkunden Sie neue Kacheln, wenn nötig. Wählen Sie die Herdenbildung aus, sobald Sie eine gefunden haben.
+
+#tuto_129_1
+Das ist eine "Herde". Du kannst sehen, wie viele Tiere es hat, und du kannst auf sein Inventar klicken, um seine Beute zu sehen: die Gesamtmenge an Fleisch und Leder, die du nach dem Töten erholen kannst.
+
+#tuto_129_2
+Wenn Sie Ihre Formation von Kriegern ausgewählt haben, können Sie mit einem rechten Mausklick auf die Kachel des Territoriums, in dem sich die Herde befindet, klicken, und die Aktion "Jagd" wird verfügbar sein.
+
+#tuto_129_c1
+Was passiert als nächstes ?--130
+
+#tuto_130_130_1
+Wenn du die Jagdaktion bestätigst, wird sie einen "Kampf" zwischen deinen Kriegern und den Tieren der Herde auslösen. Sie können auch die Jagd beobachten, indem Sie in das Gebiet gehen.
+
+#tuto_130_2
+Wenn deine Krieger erfolgreich sind, werden einige oder alle Beutetiere in das Inventar deiner Formation übertragen, die du dann zurückbringen und in dein Territorium entladen kannst, um zusätzliche Nahrung für das Wachstum deines Stammes zu liefern!
+
+#tuto_130_c1
+Ausgezeichnet!--69
+
+#tuto_300_1
+Herzlichen Glückwunsch! Es sieht so aus, als hätten Sie das Wissen über die Landwirtschaft zum ersten Mal erschlossen!
+
+#tuto_300_c1
+In der Tat. --301
+
+#tuto_300_c2
+Nein, ich brauche deine Hilfe nicht, danke!--998
+
+#tuto_301_1
+Die Landwirtschaft erlaubt es dir nun, mit deinen Sammellagern Felder zu bauen. Felder sind keine Gebäude: Sie sind "Anhänge".
+
+#tuto_301_2
+Ein Anbau wird gebaut und mit dem Gebäude verbunden, das ihn besitzt. Es bietet ihm zusätzliche Produktionsquellen, Vertrieb oder sogar Boni wie die Steigerung seiner Effizienz.
+
+#tuto_301_c1
+Sehr gut. 302.
+
+#tuto_302_1
+Felder sind ein Produktionsanhang zu Ihren Sammellagern. Dank ihnen kannst du jetzt neue Sammellager errichten, unabhängig von der Präsenz nutzbarer natürlicher Ressourcen, da du dich mit Feldern selbstständig machen kannst!
+
+#tuto_302_2_2
+Um Felder zu erstellen, wählen Sie eines Ihrer Sammelcamps aus, um das Gebäude-Menü zu öffnen.
+
+#tuto_303_1
+Die verfügbaren Anhänge für ein Gebäude erscheinen am unteren Rand des Gebäudemenüs. Klicken Sie auf die neue Schaltfläche Feld, um Felder für dieses Sammelcamp zu platzieren.
+
+#tuto_304_1
+Felder kostenintensive Hoes zu erstellen sowie eine Ressourceneinheit vom Kulturtyp (als Saatgut). Einmal platziert, sind sie dauerhaft und jedes Feld fügt dem Gebäude, an das sie angeschlossen sind, eine neue "Produktionsquelle" hinzu.
+
+#tuto_304_2
+Die Bodenfruchtbarkeit beeinflusst die Produktivität der Felder: Versuchen Sie, sie auf die fruchtbarsten Böden zu legen (Grundwasser ist noch nicht wirksam).
+
+#tuto_304_c1
+Verstanden!--305
+
+#tuto_305_1
+Jeder Bereich erfordert, dass Arbeitskräfte aus seinem Gebäude genutzt werden. Wenn die Arbeitskräfte des Sammellagers bereits zu 100% genutzt werden, ist es sinnlos, neue Felder hinzuzufügen, bis einige verfügbar sind. Das kann passieren, nachdem das Gebäude modernisiert oder Richtlinien geändert wurden, die sich auf die Effizienz des Gebäudes auswirken.
+
+#tuto_305_c1
+Gut zu wissen. 306.
+
+#tuto_306_1
+Die Landwirtschaft erschließt auch eine neue Art von Werkzeugen, die zur Herstellung von Feldern benötigt werden: Hacken. Um sie herzustellen, können Sie auf einen Ihrer Werkzeugmacher klicken und dessen Produktion von Hämmern auf Hacken umstellen!
+
+#tuto_306_c1
+Ok!--307
+
+#tuto_307_1
+Das war's für den Moment, genießt die Landwirtschaft!
+
+#tuto_307_c1
+Danke, Herr Scharfsinniges Schwein.--998
+
+#tuto_400_1
+Es sieht so aus, als ob Sie zum ersten Mal das Wissen über "Barter" entdecken würden! 
+
+#tuto_400_2
+Dies ermöglicht es Ihnen, die Wirtschaftspolitik des "fairen Austauschs" zu ermöglichen. Es ist ein Meilenstein Übergang für Ihre Gesellschaft, der es erfordert, ein paar neue Dinge zu erklären.....
+
+#tuto_400_c1
+Weiter....--401
+
+#tuto_401_1
+Indem Sie "fairen Austausch" ermöglichen, werden Sie von einer Geschenkökonomie zu einer Tauschökonomie übergehen, in der Menschen ihre Waren nicht mehr frei miteinander teilen und gleichzeitig spätere Rückzahlungen erwarten.
+
+#tuto_401_c1
+Na und? 402.
+
+#tuto_402_1
+Dann haben die Menschen sofort Immobilien und Handelsgüter von gleichem Wert. Ihre Bevölkerung wird ein Einkommen haben, das von ihren Aktivitäten abhängt, und sie wird auch in der Lage sein, ihr Vermögen über 1 zu erhöhen.
+
+#tuto_402_c1
+Ok--403
+
+#tuto_403_1
+Noch wichtiger ist, dass Ihre Mitarbeiter in einer Geschenkbranche automatisch auf alle verfügbaren Ressourcen zugreifen können, die sie benötigen, aber das wird nicht mehr der Fall sein, sobald Sie "fairen Austausch" aktivieren.
+
+#tuto_403_2
+Damit die Menschen auf eine Ressource zugreifen können, muss sie zuerst verteilt werden und sie müssen sie kaufen.
+
+#tuto_403_c1
+Wie kann ich das tun? -404
+
+#tuto_403_c2
+Sehr gut. Was dann?--405
+
+#tuto_404_1
+Es gibt 2 Möglichkeiten, dies zu tun. Das erste ist mit einem neuen Gebäude, dem Kaufmann, der nur den Vertrieb übernimmt. Es wird eine bestimmte Ressource aus den Beständen des Gebiets "verbrauchen" und der Bevölkerung zum Kauf zur Verfügung stellen.
+
+#tuto_404_2
+Die Händler behalten einen Teil der Verkaufseinnahmen, während der Rest an die ursprünglichen Produzenten der Ressource geht.
+
+#tuto_404_c1
+Was ist die andere Richtung? 405.
+
+#tuto_405_1
+Alle Produktionsgebäude haben auch Zugang zu einem neuartigen Anbau: Marktständen. Wie andere Anhänge, wie z.B. Felder für landwirtschaftliche Betriebe, sind sie über die Speisekarte des Produktionsgebäudes verfügbar. 
+
+#tuto_405_2
+Diese Anhänge verbrauchen einen Teil der Arbeitskräfte des Gebäudes, stellen aber die gesamte Produktion des Gebäudes den Menschen zum Kauf zur Verfügung. 
+
+#tuto_405_c1
+Worin besteht also der Unterschied zwischen den beiden Methoden? 406
+
+#tuto_406_1
+Marktstände sind kostenlos, verbrauchen Arbeitskräfte und können keine Ressourcen aus Beständen verteilen. Sie verkaufen nur die aktuellen Produktionen ihres Gebäudes.
+
+#tuto_406_2
+Händler verkaufen alle verfügbaren Ressourcen - produziert oder gelagert -, aber sie benötigen einen Arbeiter und sind nicht frei zu bauen. Außerdem behalten sie einen Teil aller Verkäufe für sich selbst und reduzieren damit das Einkommen der Produzenten.
+
+#tuto_406_c1
+Sehr gut. Was jetzt?--407
+
+#tuto_407_1
+Sobald "fairer Austausch" ermöglicht wird, hat Ihre Bevölkerung keinen Zugang mehr zu Ressourcen - einschließlich Lebensmitteln -, die nicht von Händlern oder Marktständen "verteilt" werden. 
+
+#tuto_407_2
+Es wird dringend sein, dass Sie damit beginnen, Ihren Leuten wieder Lebensmittel (und dann andere Ressourcen wie Keramik usw.) zur Verfügung zu stellen, indem Sie Händler bauen oder mit Ihren Produktionsgebäuden Marktstände aufbauen.
+
+#tuto_407_c1
+Ok!--408
+
+#tuto_407_c2
+Warte..... Wie kann ich das noch einmal machen? -404
+
+#tuto_408_1
+Jetzt, dank des Tauschhandels, werden Ihre Arbeiter viel effizienter und Ihre Gesellschaft stabiler und konfliktärmer, so dass Sie eine größere Gemeinschaft mit weniger Risiken für die Instabilität führen können. 
+
+#tuto_408_2
+Sie werden auch kontrollieren können, ob und wie viel Sie die einzelnen produzierten Ressourcen je nach Ihren Bedürfnissen verteilen wollen, was Sie in einer Geschenkbranche nicht tun können!
+
+#tuto_408_c1
+Gut zu wissen. 409.
+
+#tuto_409_1
+Fairer Tausch, der eine primitive Form der Währung ermöglicht, müssen Sie jetzt auch den Kassenbestand Ihrer Regierung verwalten, der für alle Dienstleistungen weltweit für die Gemeinschaft verantwortlich ist, wie z.B. die Instandhaltung von Gemeinschaftsgebäuden, den Palisaden des Dorfes oder Armeen. Diese Dienstleistungen erfordern auch Zahlungen, wenn Sie nicht in einer Geschenkbranche sind!
+
+#tuto_409_c1
+Wie finanziere ich das alles? --410
+
+#tuto_410_1
+In diesen primitiven Zeiten ist die größte Einnahmequelle, die Sie erhalten können, die eigene persönliche Geldmittel Ihres Anführers, indem Sie sie ein und dasselbe machen. 
+
+#tuto_410_2
+Mit Hilfe der Richtlinie "Privilegien" können Sie den Prozentsatz des Vermögens des Territoriums definieren, der Ihrem Anführer von Rechts wegen zugesprochen wird. Dies wird langsam sein persönliches Vermögen erhöhen, das Sie im Territoriumsmenü überwachen können, indem Sie die Bevölkerungsklasse "Leader" auswählen.
+
+#tuto_410_c1
+Ok....--411
+
+#tuto_411_1
+Dann können Sie mit der Richtlinie "Führung" festlegen, wie viel von seinem persönlichen Vermögen Sie den Ausgaben des Staates zuweisen möchten! 
+
+#tuto_411_2
+So wird beispielsweise ein Leader mit einem Vermögen von 20 Personen, der zu 50% beiträgt, ein Treasury-Einkommen von +10 generieren.
+
+#tuto_411_c1
+Wie sonst kann ich Einnahmen aus dem Treasury generieren? --412
+
+#tuto_412_1
+Dies ist wahrscheinlich Ihre Haupteinnahmequelle in diesen frühen Jahren. Außerdem werden Ihre Leute auch gerne zu den Ausgaben für die Gemeinschaft mit bis zu 20% ihres eigenen Einkommens beitragen, aber es ist wahrscheinlich, dass sie anfangs marginal bleiben.
+
+#tuto_412_2
+Sobald Sie eine angemessene Besteuerung entwickelt haben, können Sie diesen Prozentsatz selbst ändern!
+
+#tuto_412_c1
+Sehr gut. --413
+
+#tuto_413_1
+Das ist alles für den Moment. Viel Glück bei diesem schwierigen Übergang!
+
+#tuto_413_c1
+Danke, Herr Scharfsinniges Schwein.--997
+
