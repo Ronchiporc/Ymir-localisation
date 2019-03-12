@@ -1,0 +1,179 @@
+#agrim_goldo_1
+Jednorazowa płatność
+
+#agrim_goldo_2
+Zapłać [x] Monet
+
+#agrim_goldo_3
+W momencie podpisania umowy przekazuje Monety. Od [x] do [y].
+
+#agrim_goldr_1
+Transfer Monet
+
+#agrim_goldr_2
+Ciągły transfer [x] Monet z dochodu.
+
+#agrim_goldr_3
+[x] stale transferuje Monety do [y]. Tak długo, jak umowa jest aktywna.
+
+#agrim_goldtax_1
+Opodatkowanie
+
+#agrim_goldtax_2
+Przekazuje [x]% dochodu Monet.
+
+#agrim_goldtax_3
+[x] przekazuje % całości swojego dochodu do [y].
+
+#agrim_admtax_1
+Transfer siły państwa
+
+#agrim_admtax_2
+Przekazuje [x]% siły państwa
+
+#agrim_admtax_3
+[x] przekazuje % swojej siły państwa do [y].
+
+#agrim_trad_1
+Umowa handlowa
+
+#agrim_trad_2
+Umożliwia handel
+
+#agrim_trad_3
+Daje [y] dostęp do wszystkich szlaków handlowych i ofert [x].
+
+#agrim_pass_1
+Prawo przemarszu
+
+#agrim_pass_2
+Nadaje prawo przemarszu
+
+#agrim_pass_3
+Zezwala jednostkom [y] na poruszanie się po terytorium [x].
+
+#agrim_embrg_1
+Embargo wobec...
+
+#agrim_embrg_2
+Nakłada embargo na naród [x]
+
+#agrim_embrg_3
+Zabrania handlu z określonym państwem.
+
+#agrim_vassal_1
+Dołącz do Narodu
+
+#agrim_vassal_2
+Dołączenie do [x]
+
+#agrim_vassal_3
+[x] dołączy do Narodu [y].
+
+#agrim_war_1
+Wypowiedz wojnę...
+
+#agrim_war_2
+Wypowiedz wojnę [x]
+
+#agrim_war_3
+Wypowiedz wojnę określonemu państwu.
+
+#agrim_peace_1
+Traktat pokojowy
+
+#agrim_peace_2
+Traktat pokojowy
+
+#agrim_peace_3
+Zabrania działań wojennych między sygnatariuszami traktatu.
+
+#agrim_ceasefr_1
+Zawieszenie broni
+
+#agrim_ceasefr_2
+Zawieszenie broni
+
+#agrim_ceasefr_3
+Kończy wojnę pomiędzy sygnatariuszami traktatu.
+
+#agrim_tradrt_1
+Szlak handlowy
+
+#agrim_tradrt_2
+Szlak handlowy
+
+#agrim_tradrt_3
+Tworzy szlak handlowy związany umową
+
+#agrim_givreg_1
+Przekaż region
+
+#agrim_givreg_2
+Przekazuje region '[x]' 
+
+#agrim_givreg_3
+Przekaż region w posiadanie [y].
+
+#agrim_gividea_1
+Przekaż ideę
+
+#agrim_gividea_2
+Przekazuje ideę- [x]
+
+#agrim_gividea_3
+[y] otrzyma od [x] ideę, jakiej jeszcze nie posiada.
+
+#treaty_powcost
+Siła państwa potrzebna do utrzymania traktatu
+
+#treaty_coinpen
+Kara w Monetach
+
+#treaty_coinpen_c1
+% całkowitego przychodu (PKB) przekazywany jednorazowo jako kara, jeśli [x] złamie postanowienia traktatu
+
+#treaty_coinpen_c2
+do [x].
+
+#treaty_gdp
+[x]% całkowitego przychodu (PKB)
+
+#treaty_honor
+Poręczenie honorem
+
+#treaty_honor_c1
+Poręczenie tego traktatu honorem o wartości [x].
+
+#treaty_honor_c2
+Taka wartość honoru zostanie utracona, jeśli [x] złamie postanowienia traktatu.
+
+#treaty_warbound
+Obwarowanie wojną
+
+#treaty_warbound_c1
+Określa, czy [x] automatycznie wypowie wojnę
+
+#treaty_warbound_c2
+jeśli [x] złamie postanowienia tego traktatu.
+
+#treaty_closes
+Klauzula za złamanie traktatu
+
+#diplo_npass
+Wewnątrznarodowe prawo przemarszu
+
+#diplo_npass_dscr_1
+Zezwala wszystkim członkom Narodu na wzajemne poruszanie się po swoim terytorium.
+
+#diplo_ntrade
+Wewnątrznarodowa umowa handlowa
+
+#diplo_ntrade_dscr_1
+Wszyscy członkowie Narodu automatycznie otrzymują wzajemne prawa handlowe.
+
+#diplo_ndef
+Wewnątrznarodowy pakt obronny
+
+#diplo_ndef_dscr_1
+Każda deklaracja wojny przeciwko członkowi Narodu skutkować będzie automatyczną deklaracją wojny wobec agresora przez wszystkich członków Narodu. Klauzule za złamanie traktatu są po stronie agresora. 
