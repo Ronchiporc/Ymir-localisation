@@ -1,4 +1,5 @@
-﻿#b_menu_tutorial
+﻿
+#b_menu_tutorial
 TUTORIAL
 
 #b_menu_newgame
@@ -8,12 +9,12 @@ NEUES SPIEL
 SPIEL LADEN
 
 #b_menu_join
-JOIN GAME
+MEHRSPIELER
 
 #b_menu_editor
 EDITOR
 
-#b_menu_optionen
+#b_menu_options
 EINSTELLUNGEN
 
 #b_menu_quit
@@ -51,9 +52,6 @@ Derzeit verbunden mit [x] ping: [y]
 
 #ui_connctstat_2
 Verlustrate: [x]% ( gesendet: [y] fehlgeschlagen: [z])
-
-#ui_connct_stable #ui_connct_stable
-Deine Verbindung mit dem Server ist stabil.
 
 #ui_connct_unstbl
 Achtung! Deine Verbindung mit dem Server ist instabil!
@@ -202,9 +200,6 @@ Sprache
 #bc_menuop_lang
 Wählen Sie Ihre Sprache
 
-#menuop_k_k_up
-Kamera hochfahren
-
 #menuop_k_le
 Kamera links
 
@@ -216,9 +211,6 @@ Kamera aus
 
 #menuop_keyset
 Klicken und drücken Sie eine Tastaturtaste, um sie an diese Aktion zu binden.
-
-#menuop_togtutut
-Tutorials umschalten
 
 #menuop_togtut_c1
 Aktiviert das Haupttutorial und alle Hilfepopups, wenn Sie zum ersten Mal etwas tun.
@@ -243,9 +235,6 @@ KLANG
 
 #b_menuop_game
 SPIEL
-
-#ui_menuop_op_optionen
-EINSTELLUNGEN
 
 #joingame_yourgames
 Deine Spiele
@@ -282,9 +271,6 @@ JOIN GAME
 
 #servlst_name
 Servername
-
-#servlst_name_name_c1
-Der benutzerdefinierte Name des Spiels des Servers
 
 #servlst_creat
 Schöpfer
@@ -357,12 +343,6 @@ Max. Spieler:
 
 #b_newgame_start
 STARTSPIEL
-
-#ui_newgame_newgame_newgame
-NEUES SPIEL
-
-#ui_newgame_world #ui_newgame_world
-WELTWEIT
 
 #b_newgame_wprocedural
 Verfahrenstechnisch
@@ -571,15 +551,6 @@ Dies ist ein "Wertvoller Anfang": Einmal verwendet, kannst du nicht mehr von ein
 #newchar_st_prlck
 Dieser "Wertvolle Start" ist gesperrt, weil Sie von einem anderen weniger als vor [x] gelaicht haben ( [y] übrig).
 
-#newchar_st_pt_pt
-Primitive Stämme
-
-#newchar_st_pt_pt_c1
-Beginnen Sie bei Null, indem Sie die Kontrolle über einen primitiven Stamm übernehmen.
-
-#newchar_st_pt_pt_c2
-Es ist die Standard- und Standardmethode, um ein Spiel am Anfang zu starten.
-
 #newchar_st_suc
 Nachfolge
 
@@ -606,9 +577,6 @@ Werden Sie der neue Anführer eines Gebietes, das zuvor in die Anarchie gefallen
 
 #newchar_st_ar_c2
 (ein Gebiet, das rebellierte oder seinen früheren Führer verlor: erwarte das Unerwartete!)
-
-#newchar_clim_clim_c
-Wählen Sie Klimazonen aus, in denen Sie potenziell laichen möchten.
 
 #newchar_cold
 Kalt
@@ -685,9 +653,6 @@ Klicken Sie hier, um zum aktuell ausgewählten Gebiet zu gelangen.
 #ui_gen_toworld
 Klicken Sie hier, um zur Weltkarte zu gelangen.
 
-#ui_gen_tonovis #ui_gen_tonovis
-Du kannst nicht in dieses Gebiet gehen, weil du keine Sicht darauf hast.
-
 #ui_gen_score
 Punktzahl des Charakters
 
@@ -696,54 +661,6 @@ Siegpunkte
 
 #ui_gen_vpts2
 Du brauchst insgesamt [x], um dieses Spiel zu gewinnen.
-
-#ui_gen_regmen_ui_gen_regmen
-Gebietsmenü
-
-#ui_bdgdginf_cons
-Baukosten
-
-#ui_bdgdginf_bldrs
-erfordert Bauherren
-
-#ui_bdgdginf_cost
-Materialkosten:
-
-#ui_bdgdginf_emplement
-beschäftigt
-
-#b_bdgdginf_hold
-Haushalt
-
-#bc_bdgdginf_hhold
-Haushaltskapazität dieser Wohnung
-
-#bc_bdgdginf_h
-Gesundheitsbonus für die Bewohner dieser Wohnung
-
-#bc_bdgdginf_lq
-Lebensqualitätsbonus für die Bewohner dieser Wohnung
-
-#bc_bdgdginf_eff
-Effizienz multipliziert die Arbeitskräfte jedes einzelnen Mitarbeiters des Gebäudes.
-
-#b_bdgdginf_wealth
-maximale Vermögensproduktion
-
-#bc_bdgdginf_wealth
-Die maximale Menge an Vermögen, die dieses Gebäude theoretisch generieren kann, wenn es mit allen Mitarbeitern besetzt ist, ist in voller Produktion.
-
-#b_bdgdginf_scap
-Kapazität
-
-#bc_bdgdginf_scap
-Speicherkapazität in Ressourceneinheiten
-
-#b_bdgdginf_stype
-Dosenbestand
-
-#b_bdgdginf_mcap
-Vertriebskapazität
 
 #ui_place_form0
 Lager der neuen Formation
@@ -762,9 +679,6 @@ Gelände
 
 #b_erase_inf
 Infrastrukturen
-
-#b_erase_bdgdg
-Gebäude
 
 #b_erase_ptf
 Plattformen
@@ -889,9 +803,6 @@ Wiederherstellen
 #ui_menubdg_prod
 PRODUKTION
 
-#ui_menubdg_distribution
-HANDEL
-
 #ui_menubdg_addan
 einen Marktstand hinzufügen
 
@@ -907,14 +818,8 @@ Dieses Gebäude kann keine Marktstände schaffen, weil es nichts herstellen kann
 #ui_menubdg_anx
 Anhänge
 
-#bc_menubdg_explpl.
-ausgenutzt
-
 #bc_menubdg_nsource
 natürliche Quellen von
-
-#ui_annex_addd
-Anhang hinzufügen
 
 #ui_annex_txt1
 fügt eine neue Produktionsquelle hinzu
@@ -991,14 +896,8 @@ Exportgewinne: [x]
 #regeco_wastab_c5
 Staatliche Ressourcenverkäufe: [x]
 
-#regeco_wst_admin_admin
-Lokale Verwaltung
-
 #regeco_wst_admin_c1
 Verschwendung durch eine schwache oder negative lokale Verwaltung.
-
-#regeco_wst_st_stpwrr
-Die Korruption des Staates
 
 #regeco_wst_stpwr_c1
 Korruption von Staatsbeamten wegen einer schwachen oder negativen Staatsmacht.
@@ -1015,17 +914,11 @@ Dienstleistungen zur Abfallreduzierung
 #regeco_wst_srvc_c1
 Reduzierung der Verschwendung durch aktive Dienstleistungen wie z.B. Steuererhebung.
 
-#regeco_upkeeping
-Stadterhaltung
-
 #regeco_upkeep_c1
 Einige Gebäude oder Infrastrukturen erfordern Wartungskosten, die von Ihnen (der Regierung) getragen werden müssen.
 
 #regeco_salaries
 Staatliche Gehälter
-
-#regeco_gehälter_c1
-Die Gesamtkosten aller staatlichen Gehälter, die auf dem Territorium gezahlt werden.
 
 #regeco_up_bdg
 Gebäudeunterhalt
@@ -1047,9 +940,6 @@ Der Endbestand aller ein- und ausgeführten Warenausgaben und -einkommen.
 
 #regeco_ii
 Importierte Waren lokaler Vertrieb
-
-#regeco_ii_ii_c1
-Einnahmen aus allen importierten Waren, die im Gebiet verkauft werden (zu ihrem lokalen Preis).
 
 #regeco_ic
 Importierte Wareneinkaufskosten
@@ -1165,9 +1055,6 @@ Diplomatie
 #bc_gen_news
 Chroniken
 
-#bc_gen_coin_coin
-Treasury
-
 #bc_gen_cult
 Kultur
 
@@ -1176,9 +1063,6 @@ Fraktion
 
 #bc_gen_ev
 Events
-
-#bc_gen_honoror
-Ehre
 
 #sc_menubdg_getmax
 get max
@@ -1216,9 +1100,6 @@ Wählen Sie aus, wie Ressourcen in diesem Lagergebäude akzeptiert werden sollen
 #b_menubdg_allempty
 alles leeren
 
-#b_menubdg_alldestrestr
-alle zerstören
-
 #bc_menubdg_move
 sich[Akk] bewegen
 
@@ -1231,29 +1112,11 @@ Regierung von
 #ui_gov_actpol
 AKTIVE MAßNAHMEN
 
-#ui_gov_coins_ui_gov_coins
-Staatsmünzen
-
 #ui_gov_ecobalance
 aktueller Haushaltssaldo
 
-#ui_gov_legit_legit
-aktuelle Legitimität der Regierung
-
-#ui_gov_power_ui_gov_power
-aktuelle Zustandsenergie
-
 #ui_gov_pdgreform
 Sie haben eine anstehende Reform, die nicht umgesetzt wird. Sind Sie sicher, dass Sie dieses Menü schließen und diese Reform ablehnen möchten (politische Änderungen werden nicht übernommen)?
-
-#ui_gov_gdp_gdp
-BIP
-
-#ui_gov_gdp_gdp_c1
-Das aktuelle Bruttoinlandsprodukt aller Ihrer Gebiete.
-
-#ui_gov_gdp_gdp_c2
-Es wird berechnet, indem die Bruttoeinkommen, die in allen Ihren Gebieten über 10 Produktionszyklen erwirtschaftet werden, addiert werden.
 
 #bc_selpolicy
 Liste der verfügbaren neuen Richtlinien
@@ -1261,14 +1124,8 @@ Liste der verfügbaren neuen Richtlinien
 #ui_gov_nopol
 keine neuen Richtlinien verfügbar!
 
-#ui_civ_repl.
-ersetzt [x']''.
-
 #ui_civ_req
 erfordert ' [x]'.
-
-#ui_civ_on_on
-HINZUFÜGEN BEI DER ÜBERARBEITUNG
 
 #ui_civ_on_c
 Klicken Sie hier, um diese neue Politik in die Reform aufzunehmen.
@@ -1278,12 +1135,6 @@ WIEDERHOLUNG DER REFORM
 
 #ui_civ_off_c
 Klicken Sie hier, um den Widerruf dieser Politik in die Reform aufzunehmen.
-
-#ui_civ_cnclcl
-VON DER REFORM ABBRECHEN
-
-#ui_civ_cncl_cncl_c
-Klicken Sie hier, um diese ausstehende Änderung aus Ihrer Reform zu entfernen.
 
 #ui_civ_warn
 (Beachten Sie, dass Sie die Reform anwenden müssen, bevor diese Änderungen tatsächlich in Kraft treten).
@@ -1330,9 +1181,6 @@ Budgetsaldo
 #ui_eco_dscr
 Die Schatzkammer ist die Gesamtmenge der Münzen, die Ihre Regierung besitzt. Die Wirtschaftspolitik definiert, wie die Wirtschaft Ihrer Gesellschaft derzeit organisiert ist.
 
-#ui_eco_notrsr_dscr_dscr
-Diese Gesellschaft arbeitet derzeit ohne jegliche Form von Währung und ihre Menschen teilen einfach alles in der Gemeinschaft: Die Regierung hat weder eine Staatskasse noch Einkommen oder Explans.
-
 #ui_eco_lead
 Persönliches Vermögen des Anführers
 
@@ -1345,14 +1193,8 @@ Steuern Einkommen und Ertrag
 #ui_eco_tax_c1
 Summe aller Steuereinnahmen aus allen Ihren Gebieten.
 
-#ui_eco_contribute
-Freiwillige Beiträge
-
 #ui_eco_contrib_c1
 In einer Gesellschaft ohne organisierte Steuern stammen die Einkommen nur aus dem freiwilligen Beitrag der Menschen für die Gemeinschaft (20% ihres Einkommens).
-
-#ui_eco_wast_de
-Abfall
 
 #ui_eco_wast_c1
 Steuereinnahmen, die durch Verschwendung in Ihren Gebieten verloren gehen. Abfall ist das Ergebnis einer niedrigen Gebietsverwaltung.
@@ -1375,9 +1217,6 @@ Wartung der Einheiten
 #ui_eco_units_c1
 Totale Aufrechterhaltung aller Einheiten in allen deinen Formationen.
 
-#ui_eco_salar #ui_eco_salar
-Löhne
-
 #ui_eco_salar_c1
 Gesamtausgaben für Staatslöhne.
 
@@ -1390,17 +1229,8 @@ Münzen, die von anderen Staaten über Ihre derzeit aktiven Verträge gesendet o
 #ui_eco_civc
 Bürgererhaltung
 
-#ui_eco_civcc_c1
-Gesamtkosten für den Erhalt aller unserer derzeit aktiven Bürger.
-
-#ui_eco_projects
-Laufende Projekte
-
 #ui_eco_proj_c1
 Gesamtkosten aller laufenden Projekte.
-
-#ui_eco_nat_ui_eco_nat
-Nation
 
 #ui_eco_nat_c1
 Steuern von Untergebenen: [x]
@@ -1447,38 +1277,17 @@ EXPORT
 #ui_price_base
 Mindestpreis: [x]
 
-#ui_preis_basis_c1
-Dies ist der Mindestpreis, der für diese Ressource möglich ist, unabhängig von den anderen Faktoren.
-
 #ui_price_base1
 Produktionskosten ( [x]%)
-
-#ui_price_base1_c1_c1
-Die Kosten der lokalen Produktion für diese Ressource basieren auf den Kosten der benötigten Materialien.
 
 #ui_price_base2
 Einfuhrkosten ( [x]%)
 
-#ui_preis_basis2_c1
-Die Kosten für den Import dieser Ressource aus den aktuellen Handelsrouten.
-
 #ui_price_base3
 Gewinnmarge
 
-#ui_preis_basis3_c1
-Sicherstellung von Mindestgewinnen für die Produzenten von +20% der Produktionskosten.
-
-#ui_preis_basis3_c2
-Erhöhung auf +30% der Produktionskosten, wenn die Ressourcen über Händler verteilt werden, da deren Kürzung auch von den Produzenten berücksichtigt werden muss.
-
 #ui_price_work
 Basispreis
-
-#ui_preis_arbeit_c1
-Preis basierend auf dem Arbeitsaufwand für die Herstellung dieser Ressource.
-
-#ui_preis_arbeit_c2
-Arbeitsaufwand pro Ressourceneinheit: [x]
 
 #ui_price_mkt
 Marktstudie: [x]
@@ -1488,9 +1297,6 @@ Untersuchung der aktuellen Märkte für diese Ressource, um ihren idealen Preis 
 
 #ui_price_mkt1
 Öffentlicher Markt ( [x]%)
-
-#ui_price_mkt1_c1_c1
-Die öffentliche Studie basiert auf der Kaufkraft aller Bevölkerungsschichten, die diese Ressource nutzen, und der Menge, die auf dem öffentlichen Markt verteilt wird. Dies ist der ideale Preis, zu dem die Gewinne für die Händler, die diese Ressource verkaufen, optimal wären.
 
 #ui_price_mkt2
 Branchenmarkt ( [x]%)
@@ -1519,59 +1325,20 @@ Nachfrage: [x] Einheiten
 #ui_price_arb
 Preisarbitrage
 
-#ui_preis_arb_c1
-Preisarbitrage kann auftreten, wenn es große Preisunterschiede zwischen diesem Gebiet und den nahegelegenen Gebieten gibt (Ihre oder ausländische, mit denen Sie Handelsbeziehungen unterhalten).
-
-#ui_preis_arb_c2
-Der Durchschnittspreis in diesem Bereich der Welt liegt bei [x] Münzen.
-
-#ui_preis_arb_c3
-Mit einer Preisdifferenz von [x]% hat der Weltmarktpreis einen Einfluss von [y]% auf den lokalen Preis, was zu einem Arbitrageeffekt von [z] auf den Endpreis führt.
-
-#ui_preis_arb_c4
-Keine Preisarbitrage: Keine nahegelegenen Gebiete nutzen derzeit diese Ressource.
-
-#ui_mres_stststk
-Staatseigentum
-
-#ui_mres_stststk_c1
-Ressourcen, die du direkt selbst als Staat besitzt, im Gegensatz zu dem Rest davon, der privat deiner Bevölkerung gehört. Neue Ressourcen beginnen zunächst im Besitz der jeweiligen Produzenten.
-
-#ui_mres_stststk_c2
-Sie müssen nicht die Ressourcen kaufen, die Sie bereits besitzen, wenn Sie sie nutzen, und Sie verdienen auch Einnahmen zurück, wenn sie von Dritten wie Branchen oder Händlern genutzt werden.
- 
-#ui_mres_stststk_c3
-Du besitzt derzeit [x] der [y] [z], die derzeit in diesem Gebiet gelagert sind.
-
-#ui_mres_stres_stres
-Staatliche Ressourcen
-
 #ui_mres_stres_c1
 Wenn sie zu einer staatlichen Ressource erklärt werden, wird die gesamte Produktion dieser Ressource automatisch vom Staat gekauft, während sie produziert wird.
 
 #ui_mres_stres_c2
 Eine nützliche Option für strategische Ressourcen, die ausschließlich vom Staat genutzt werden, wie Waffen oder Werkzeuge, um sicherzustellen, dass seine Produzenten ein regelmäßiges Einkommen für ihre Arbeit erhalten.
- 
-#ui_mres_stmntnn
-Eigentum behalten
 
 #ui_mres_stmntn_c1
 Die Menge der Ressourcen in den Beständen, um das direkte Eigentum an. 
 
 #ui_mres_stmntn_c2
 Wenn der angegebene Betrag unterschritten wird, werden neue Ressourcen, die in das Lager gehen, automatisch vom Staat gekauft, bis der erforderliche Betrag erreicht ist.
- 
-#ui_mres_zugriff
-BEVÖLKERUNGSZUGANG
 
-#uic_mres_ access
+#uic_mres_access
 Prozentsatz der Zufriedenheit der Bevölkerung mit ihrem Bedarf an dieser Ressource
-
-#ui_mres_dist_need_needed
-Idealerweise benötigt
-
-#uic_mres_dist_need_needed
-Theoretischer Betrag, der für einen 100%igen Zugang benötigt wird, unabhängig von Preis und Erschwinglichkeit durch die Bevölkerung.
 
 #ui_mres_dist_dem
 Nachfrage
@@ -1579,47 +1346,17 @@ Nachfrage
 #uic_mres_dist_dem
 Betrag, der von den Porcos, die ihn sich zum aktuellen Preis leisten können, tatsächlich an Händler verlangt wird.
 
-#ui_mres_ist_dist_avail
-Versorgung
-
-#uic_mres_ist_dist_avail
-Aktuell auf dem Markt ausgeschütteter Betrag
-
-#ui_mres_dist_sold_dist_sold
-Verkauft
-
-#uic_mres_dist_sold_dist_solded
-Verkaufte Menge an die Bevölkerung
-
-#ui_bdgeff_bdgdg
-Gebäude
-
 #ui_bdgeff_state
 Zustand
 
 #ui_bdgeff_plac
 Platzierung
 
-#ui_bdgeff_profit_de
-Unrentabilität ( [x]%)
-
 #ui_mres_indaccess
 BRANCHENZUGANG
 
 #uic_mres_indaccess
 Zugang der Industrie zu dieser Ressource als Material
-
-#ui_mres_indneededed
-Nachfrage
-
-#uic_mres_indneededed
-Menge dieser Ressource, die von den Branchen benötigt wird.
-
-#ui_mres_indsolded
-Verkauft
-
-#uic_mres_indsolded
-Menge dieser Ressource, die tatsächlich verteilt und an Industrien verkauft wird, die sie benötigen.
 
 #ui_mres_prodcost
 Produktionskosten
@@ -1639,9 +1376,6 @@ Die Gesamtkosten, die (vom Staat) für den Betrag bezahlt werden, der über Hand
 #bc_menubdg_rsell
 Wählen Sie eine Ressource aus, die Sie mit diesem Händler verkaufen möchten.
 
-#bc_menubdg_lmtdd
-Begrenzter Vertrieb
-
 #bc_menubdg_lmtd_c1
 Klicken Sie hier, um die eingeschränkte Distribution für diesen Händler umzuschalten. Ermöglicht es Ihnen, die Menge der auf dem öffentlichen Markt verteilten Ressourcen zu kontrollieren.
 
@@ -1656,9 +1390,6 @@ Priorität bei der Besetzung von Arbeitsplätzen in diesem Gebäude.
 
 #storpol
 Speicherrichtlinie
-
-#storpol_alles
-alle Lager
 
 #storpol_c_all1
 Die Bevorratung dieser Ressource ist auf jedem verfügbaren Speicherplatz erlaubt. 
@@ -1702,17 +1433,11 @@ Setzen Sie die Aufrechterhaltung des Eigentums an mindestens [x] [y].
 #storownr_disab
 x] ist keine staatliche Ressource mehr (kein automatischer Einkauf der Produktion). 
 
-#regeco_effect
-Auswirkungen: Beeinflusst die Staatskasse Ihrer Regierung positiv oder negativ. 
-
 #regeco_1
 Der Haushaltssaldo Ihres Gebiets ist das Ergebnis aller Einnahmen und Ausgaben, die für dieses Gebiet spezifisch sind, wie Steuern, Gehälter und Unterhaltskosten.
 
 #regeco_2
 Das Budget kann auch durch Verschwendung negativ beeinflusst werden. Es handelt sich um Einkommensverluste durch Steuerhinterziehung, schlechtes Management, Korruption und Schwarzwirtschaft.
-
-#regadmin_effecte
-Effekte: erhöht die Haushaltseinnahmen (-abfall)
 
 #regadmin_1
 Die Verwaltung repräsentiert die Managementkapazität Ihrer Regierung in diesem Gebiet.
@@ -1728,9 +1453,6 @@ Konflikt stellt die Ebene der zufälligen Konflikte zwischen den Menschen des Te
 
 #regconf_2
 Aktive staatliche Staatsbürger und Dienstleistungen im Gebiet wie Justiz können dazu beitragen, diese zu reduzieren.
-
-#regloy_effect
-Effekte: Verhindert die Rebellion der Bevölkerung
 
 #regloy_1
 Loyalität repräsentiert die globale Loyalität des Volkes des Territoriums gegenüber Ihnen: der Zentralregierung, die dieses Territorium kontrolliert.
@@ -1758,9 +1480,6 @@ Die Übertragung dieses Territoriums zwischen den Nationalstaatenmitgliedern erz
 
 #regcltr_notintgr_c1
 Die Kultur dieses Gebietes hat die Nation [x] noch nicht integriert. Es wird in [y] sein. 
-
-#reggrwth_effth_eff
-Effekte: Bestimmt die Entwicklung Ihrer Population.
 
 #reggrwth_1
 Das Wachstum stellt die aktuelle demografische Entwicklung Ihrer Bevölkerung in diesem Gebiet dar. 
@@ -2092,9 +1811,6 @@ Es scheint, dass es keine existierenden Spiele zum Laden gibt!
 #loadgame_none2
 Du musst ein neues Spiel erstellen.
 
-#loadgame_crtnew new
-NEUES SPIEL ERSTELLEN
-
 #loadgame_rename
 umbenennen
 
@@ -2167,9 +1883,6 @@ Führungsüberlegenheit
 #legit_wealth_c
 Unsere Führungsüberlegenheit liegt derzeit bei [x]. Sie wird durch den Reichtum der Bevölkerungsklasse des Führers erhöht.
 
-#legit_religatur
-Religiosität der Menschen
-
 #legit_relig_c
 [noch nicht implementiert]
 
@@ -2209,14 +1922,8 @@ Der Faktor [x] hat derzeit keinen Einfluss auf unsere Legitimität.
 #statepow_dscr
 Staatsmacht ist die Fähigkeit Ihres Staates, Dinge zu verwalten. Machtpolitiken definieren, wie die politische Macht im Staat organisiert ist, indem sie staatliche Macht erzeugen und verschiedene Arten von Legitimitäten betreffen. Die Staatsmacht erhöht die Loyalität der Territorien.
 
-#statepow_tot_tot
-Gesamtstaatliche Macht
-
 #statepow_civ
 Stromrichtlinien
-
-#statepow_civ_civ_c1
-Die gesamte Zustandsenergie, die durch die aktuell aktiven Stromrichtlinien erzeugt wird.
 
 #statepow_upk
 Richtlinienpflege
@@ -2473,9 +2180,6 @@ Widerstandsbewegung
 #resist_dscr
 In diesem Bereich ist eine Widerstandsbewegung vorhanden. Dies kann jederzeit und unabhängig von der aktuellen Loyalität des Territoriums zu einem Partisanenaufstand führen!
 
-#resist_loyal #resist_loyal
-Loyalität: [x]
-
 #resist_loyal_c1
 Diese Widerstandsbewegung ist loyal zu [x].
 
@@ -2590,9 +2294,6 @@ Regionale Gebiete
 #admin_ter_c1
 Die Verwaltungskosten aller zusätzlichen Gebiete, die zu dieser Region gehören.
 
-#admin_ter_ter_c2
-Anzahl der annektierten Gebiete: [x]
-
 #cultr_state
 Staatskultur
 
@@ -2616,12 +2317,6 @@ Sows-Variation
 
 #growth_piglets
 Ferkel Variation
-
-#Wachstum_Altschweine
-Oldpigs Variation
-
-#growth_mnewew
-männliche Ferkel im Erwachsenenalter
 
 #growth_msick
 Krankheit
@@ -2740,9 +2435,6 @@ Neue Formation
 #b_newform_c1
 Klicken Sie hier, um eine neue Formation von Einheiten zu erstellen.
 
-#regctrl_b_h_h
-Gehäuse
-
 #regctrl_b_p
 Produktion
 
@@ -2777,10 +2469,10 @@ Es ist dir nicht erlaubt, Armeen in diesem Gebiet zu rekrutieren.
 Verstärkung der Truppe
 
 #ui_recruit_dsbd
-Auflösen von Einheiten
+Auflösen
 
 #ui_recruit_trsfr
-Transfereinheiten
+Transfer
 
 #ui_recruit_support_1
 Militärische Unterstützung dieses Gebietes
@@ -2792,10 +2484,10 @@ Maximale Unterstützung: [x] Einheiten.
 Derzeit unterstützend: [x] Einheiten.
 
 #ui_recruit_pop_1
-Gesamte aktive Bevölkerung: (x) Porcos.
+Gesamte aktive Bevölkerung: [x] Porcos.
 
 #ui_recruit_pop_2
-Arbeitslos: (x) Porcos.
+Arbeitslos: [x] Porcos.
 
 #ui_recruit_resist
 Du kannst keine neuen Einheiten in einem Gebiet mit Widerstand rekrutieren.
@@ -2815,9 +2507,6 @@ Kann nicht rekrutiert werden: Unterstützungslimit erreicht und Überziehung ist
 #ui_recruit_noup
 (Milizenunterhalt ist niedriger, da er nicht das Gehalt eines Soldaten beinhaltet)
 
-#ui_recruit_nopopop
-( keine Bevölkerung mobilisiert, weil es eine lokale Miliz ist)
-
 #ui_recruit_cost_1
 Kosten für die Rekrutierung einer Einheit.
 
@@ -2836,9 +2525,6 @@ Gesamte Rekrutierungskosten
 #ui_recruit_nopay
 Du hast nicht genug Geld, um diese neuen Einheiten zu rekrutieren!
 
-#ui_recruit_max_pop_dependent
-Mehr Bevölkerung nötig!
-
 #ui_recruit_max_ts
 Die maximale Größe dieser Truppe beträgt [x] Einheiten.
 
@@ -2856,12 +2542,6 @@ Nahkampf-Einheiten
 
 #ui_recruit_arc
 Bereichseinheiten
-
-#ui_recruit_cavit_de
-montierte Einheiten
-
-#ui_recruit_full #ui_recruit_full
-Diese Formation ist voll!
 
 #ui_recruit_totpop
 Die Gesamtbevölkerung, die für diese Einheit im Gebiet verfügbar ist: [x] 
@@ -2884,9 +2564,6 @@ Diese Aktion kostet [x] Aktionspunkte für die Formation (beachten Sie jedoch, d
 #ui_statunit_t
 Zähigkeit
 
-#ui_statunit_t_dscr_dscr
-Zähigkeit, wenn die Fähigkeit des Geräts, Schäden beim Aufprall standzuhalten, die Wahrscheinlichkeit, tatsächlich verletzt zu werden, bestimmt.
-
 #ui_statunit_a
 Rüstung
 
@@ -2895,9 +2572,6 @@ Rüstung gibt die Chance, feindliche Treffer abzuwehren.
 
 #ui_statunit_m
 Bewegung
-
-#ui_statunit_m_dscr_dscr
-Die Bewegungsgeschwindigkeit der Einheit. Beeinflusst auch die Bewegungsgeschwindigkeit der Formation in der Weltkarte (die langsamste Einheit definiert die Geschwindigkeit der Weltkarte).
 
 #ui_statunit_mass
 Masse
@@ -2914,32 +2588,17 @@ Im Nahkampf hängt die Fähigkeit, Feinde zu treffen und ihren Angriffen auszuwe
 #ui_statunit_md
 Nahkampfschaden
 
-#ui_statunit_md_dscr_dscr
-Betrag des Schadens, der dem Feind beim Treffer zugefügt wird.
-
 #ui_statunit_rch
 Reichweite
-
-#ui_statunit_rch_dscr_dscr
-Im Nahkampf gibt eine höhere Reichweite als die des Gegners einen Trefferbonus. Reichweite gibt auch einen Bonus, um im Nahkampf gegen Einheiten mit höherer Masse zu treffen. 
 
 #ui_statunit_rs
 Fernkenntnisse
 
-#ui_statunit_rs_dscr_dscr
-Die Fähigkeit, Feinde im Fernkampf zu treffen.
-
 #ui_statunit_rd
 Beschädigung der Reichweite
 
-#ui_statunit_rd_dscr_dscr
-Betrag des Schadens, der dem Feind beim Treffer zugefügt wird.
-
 #ui_statunit_rg
 Bereich
-
-#ui_statunit_rg_dscr_dscr
-Bei Entfernungseinheiten die maximale Entfernung (in Geländekacheln), mit der sie Feinde bekämpfen können.
 
 #ui_statunit_p
 Plünderung
@@ -2949,12 +2608,6 @@ Die Plünderungsfähigkeit der Einheit. Verbessert die Geschwindigkeit und Effiz
 
 #ui_statunit_c
 Tragfähigkeit
-
-#ui_statunit_c_dscr_dscr
-Die Menge an Ressourcen, die diese Einheit tragen kann. Die Bestandskapazität der Formation ist die Summe der Tragfähigkeit aller ihrer Einheiten.
-
-#ui_troop_verstärken_de
-Verstärken
 
 #ui_troop_disband
 Auflösen
@@ -2976,9 +2629,6 @@ neue Truppe
 
 #ui_formtrans_unavail
 (nicht verfügbar)
-
-#ui_foinv_verbieten_sollte
-Du darfst nicht auf Ressourcen dieses Gebietes zugreifen.
 
 #ui_foinv_cant
 Du kannst keine Ressourcen aus einem Gebiet nehmen, das du nicht kontrollierst!
@@ -3019,9 +2669,6 @@ Wo sollen die Ressourcen entladen werden?
 #ui_foinv_target
 Die Speicher des Territoriums
 
-#ui_reg_build_tertool_build_tertool
-Geländewerkzeuge
-
 #ui_reg_build_tertool_c
 Änderung der Geländehöhen
 
@@ -3040,20 +2687,8 @@ Abbrechen und schließen: Rechtsklick
 #ui_tertool_4
 Arbeit bestätigen und schließen: Leertaste
 
-#ui_tertool_addd
-Hinzufügen
-
 #ui_tertool_dig
 Graben
-
-#ui_tertool_balance
-Ungleichgewicht
-
-#ui_tertool_cost_cost
-prognostizierte Kosten in den Tools zur Erfüllung dieser Aufgabe
-
-#ui_tertool_penal_tool
-Ungleichgewicht Kostenstrafe
 
 #ui_tertool_dscr
 Dies zeigt nur eine Vorschau der Änderungen. Wenn Sie diese Aufgabe validieren, werden die geänderten Kacheln markiert und im Laufe der Zeit entsprechend dieser Vorschau bearbeitet, was auch Werkzeugressourcen in Anspruch nimmt.
@@ -3063,9 +2698,6 @@ Dieser Fliese fehlt es an Unterstützung, um diese Höhe zu erreichen!
 
 #ui_tertool_warn2
 Einige Fliesen haben keine Unterstützung, um die gewünschte Höhe zu erreichen!
-
-#ui_reg_build_plattforms
-Plattformen
 
 #ui_reg_build_plat_c
 Plattformen bauen
@@ -3085,9 +2717,6 @@ Abbrechen und schließen: Rechtsklick
 #ui_plattool_4
 Arbeit bestätigen und schließen: Leertaste
 
-#ui_plattool_kosten
-prognostizierte Kosten für den Aufbau dieser Plattformen
-
 #ui_plattool_dscr
 Dies zeigt nur eine Vorschau der Änderungen. Wenn Sie diese Aufgabe validieren, werden die modifizierten Kacheln markiert und die Plattformen werden im Laufe der Zeit entsprechend dieser Vorschau erstellt, was auch Ressourcen in Anspruch nimmt.
 
@@ -3096,9 +2725,6 @@ Du kannst dieses [x] nicht hier platzieren.
 
 #ui_builderr_res
 Du vermisst [x] von [y], um dieses [z] zu bauen.
-
-#ui_builderr_coin_coin
-Du hast nicht genug Münzen, um dieses [x] zu bauen.
 
 #ui_builderr_ptf
 Dieses Gebäude kann nur auf Plattformen aufgestellt werden.
@@ -3151,9 +2777,6 @@ Entwickle die Verteidigungsstrategie deiner Formationen in diesem Gebiet, im Fal
 #ui_dpltool_formtog
 (klicken Sie hier, um die Bereitstellung dieser Formation umzuschalten)
 
-#ui_dpltool_done_done
-GESCHEHEN
-
 #ui_dpltool_addz
 Füge eine neue Verteidigungszone hinzu
 
@@ -3163,35 +2786,11 @@ Pitch-Schlacht
 #ui_dpltool_matt_dscr
 Die Truppe wird sich neu einsetzen, um jeder eingehenden Bedrohung zu begegnen und sofort in einer Pitch-Battle-Manier zu kämpfen. Die aktuelle Einsatzposition der Truppe hat daher in diesem Modus keine Bedeutung.
 
-#ui_dpltool_mdefdef
-Eingeschränktes Engagement
-
-#ui_dpltool_mdef_dscr_dscr
-Die Truppe greift jeden Feind an, der innerhalb des angegebenen Bereichs von seiner ursprünglichen Einsatzposition aus eintritt. Die Truppe wird sich in jeder für sie notwendigen Weise bewegen.
-
-#ui_dpltool_mzon_ui_dpltool_mzon
-Verteidigungszone
-
-#ui_dpltool_mzon_dscr_dscr
-Die Truppe bleibt in der gewählten Verteidigungszone und verhindert, dass Feinde in sie eindringen. Die Truppe bewegt sich innerhalb der Zone, um sich jedem eingehenden Feind zu stellen. Entfernungseinheiten greifen jeden Feind in Reichweite vom Rand der Zone aus an.
-
-#ui_dpltool_miststand
-Standfläche
-
 #ui_dpltool_mstand_dscr
 Die Truppe behält diese Position, egal was passiert, und greift nur bei unmittelbarem Kontakt an. Wenn es sich um eine Entfernungseinheit handelt, feuert sie von dieser Position aus jedes verfügbare Ziel ab.
 
 #ui_dpltool_mbdg
 Verteidigungsgebäude
-
-#ui_dpltool_mbdg_dscr_dscr
-Dies ist ein defensives Gebäude, das nur Feinde in Reichweite angreifen darf.
-
-#ui_dpltool_mult_mult
-Mehrere
-
-#ui_dpltool_mult_dscr_mult_dscr
-Die ausgewählten Truppen befinden sich derzeit in verschiedenen Modi. Wählen Sie einen aus, um den gleichen Modus auf alle ausgewählten Truppen anzuwenden.
 
 #ui_dpltool_multsel
 Mehrfachauswahl ( [x] Truppen)
@@ -3204,9 +2803,6 @@ Du musst mindestens eine Verteidigungszone platzieren, bevor du ihr Truppen zuwe
 
 #ui_dpltool_maxdefz
 Du hast die maximale Anzahl von Verteidigungszonen erreicht.
-
-#ui_dpltool_delzon_ui_dpltool_delzon
-Diese Zone löschen
 
 #bc_menuform_disb
 Bildung auflösen
@@ -3235,9 +2831,6 @@ Schreiben senden
 #ui_wregown_war
 den Krieg erklären
 
-#ui_confwar_title #ui_confwar_title
-ERKLÄREN DES KRIEGES
-
 #ui_confwar
 Bist du sicher, dass du den Krieg erklären willst?
 
@@ -3264,39 +2857,6 @@ Liebe Grüße, ich möchte die Bedingungen unseres derzeitigen Vertrags neu verh
 
 #contact_reply
 Auf Nachricht antworten
-
-#behandelt_aus
-Verfügbare Angebote:
-
-#behandeltes_dem
-Verfügbare Anforderungen:
-
-#behandeltes_conf
-WARNUNG! Dieser Vertrag steht im Widerspruch zu einigen Ihrer anderen Verträge!
-
-#behandeltes_conf_c1
-Ein oder mehrere Begriffe in diesem Vertrag stehen im Widerspruch zu Verpflichtungen, die Sie in anderen Verträgen eingegangen sind. Die Unterzeichnung dieses Vertrages bedeutet die Verletzung der widersprüchlichen Verträge und wird von Ihrer Seite Vertragsbruchstrafen auslösen.
-
-#behandeltes_conf_c2
-Konflikte mit:
-
-#behandelte_dur
-Vertragsdauer
-
-#behandelt_dur_c1
-nach Ablauf dieser Frist endet der Vertrag.
-
-#behandeltes_dur_c2
-(einige Vertragsbestimmungen sind dauerhaft und bleiben auch nach Ablauf der Vertragslaufzeit aktiv, können dann aber ohne Strafe gekündigt werden).
-
-#behandelt_neu
-NEUER VERTRAG
-
-#behandelte_Personen
-Bleibt auch nach Ablauf des Vertrages wirksam, kann aber ohne Unterbrechung des Vertrages gekündigt werden.
-
-#behandelte_installationen
-Einmalig angewendet, bei der Unterzeichnung des Vertrages.
 
 #treaterm_coins
 Münzen
@@ -3327,12 +2887,6 @@ Senden Sie einen Vorschlag für eine Neuverhandlung. Wenn die andere Partei dem 
 
 #ui_treat_termsent
 Bitte um Zustimmung zur Kündigung dieses Vertrages, der der anderen Partei zugesandt wurde!
-
-#b_trtccancelofr
-Angebot stornieren
-
-#b_trtccancelofr_c1
-Ihr Vertragsvorschlag wird aufgehoben und die andere Partei wird ihn nicht mehr akzeptieren können.
 
 #ui_treat_cancld
 Ihr Vertragsvorschlag wurde gestrichen.
@@ -3367,12 +2921,6 @@ Keine anzuzeigenden Ereignisse
 #menuevt_new
 Neue Veranstaltungen
 
-#menuevt_alles
-Alle Veranstaltungen
-
-#menuevt_diplplplpl
-Diplomatisch
-
 #menuevt_mil
 Militär
 
@@ -3400,32 +2948,17 @@ Belohnungen
 #menuevt_prgrs
 aktuell
 
-#menuevt_compp
-abgeschlossen!
-
 #menuevt_incomp
 unvollständig
 
-#menuevt_trt_no_no
-Ablehnen
-
 #menuevt_trt_reneg
 Gegenangebot
-
-#menuevt_trt_trt_yes
-Zustimmen
 
 #ui_evt_goto
 IN DIE REGION GEHEN
 
 #ui_form_nb
 Anzahl der Einheiten in dieser Formation.
-
-#ui_form_threat_threat
-Militärische Stärke dieser Formation.
-
-#ui_form_threat_threat
-Militärische Stärke dieser Formation.
 
 #ui_form_AP_c1
 Aktionspunkte: [x]/100 ( [y] [z])
@@ -3438,9 +2971,6 @@ Diese Punkte, die für Aktionen wie Bewegungen oder Angriffe erforderlich sind, 
 
 #ui_form_AP_enc
 lagert
-
-#ui_form_AP_hom_hom
-zu Hause
 
 #ui_form_AP_cit
 in der Stadt
@@ -3477,12 +3007,6 @@ Die Bewegungskosten dieses Gebiets werden verwendet, um die Kosten der Aktionspu
 
 #ui_tile_movcost_d2
 - Diplomatische Haltung [y]: [x]
-
-#ui_tile_movcost_ntrtr
-netural
-
-#ui_tile_movcost_own_own
-eigenes Territorium
 
 #ui_tile_movcost_frd
 freundliches Gebiet
@@ -3537,18 +3061,6 @@ Aufrechterhaltung dieser Formation
 
 #ui_form_upkp2
 (geringerer Unterhalt für Milizen: nur Ausrüstung)
-
-#ui_conf_sure_sure
-Bist du sicher?
-
-#ui_conf_renonce #ui_conf_renonce
-WARNUNG: Du wirst dieses Gebiet nicht mehr kontrollieren: Wenn du es allein lässt, wird es in die Anarchie fallen.
-
-#ui_conf_abandon #ui_conf_abandon
-Das Gebiet wird geräumt. Die gesamte Bevölkerung wird in eine von mehreren Formationen versetzt, die alle Ressourcen, die sie mit sich führen können, mitnehmen.
-
-#ui_conf_capital_ui_conf_capital
-Willst du dieses Gebiet wirklich zu deiner neuen Hauptstadt machen? 
 
 #b_renonce
 Verzicht auf die Kontrolle über dieses Gebiet
@@ -3619,9 +3131,6 @@ festes Engagement
 #b_actv_trt_engov
 Engagement über
 
-#b_actv_trt_de
-engagiert für
-
 #b_actv_trt_pend1
 ausstehend: Warten auf Ihre Antwort......
 
@@ -3661,29 +3170,14 @@ Anzahl der Mitarbeiter, die der Produktion zugeordnet sind.
 #ui_bdg_nbdstb
 Anzahl der Arbeiter, die mit dem Verkauf der produzierten Waren dieses Gebäudes beauftragt sind.
 
-#ui_bdg_nbrbrsrch
-Anzahl der Mitarbeiter, die mit aktuellen Forschungsprojekten beschäftigt sind.
-
 #ui_bdg_nbrsrch2
  [x] [y] aus [z] in diesem Gebiet sind derzeit Forschungsprojekten zugeordnet.
-
-#ui_bdg_ef_ef_dscr
-Aktuelle Effizienz der Arbeiter, die sich auf die Gesamtbelegschaft des Gebäudes auswirkt.
-
-#ui_bdg_wf_dscr_dscr
-Gesamtbetrag der Arbeiten, die dieses Gebäude derzeit ausführen kann.
 
 #ui_bdg_wf_dscr2
  [x] Produktion von Arbeitskräften * [y] Effizienz = [z] der Gesamtbelegschaft
 
-#ui_bdg_wl_dscr_dscr
-Wie viel dieses Gebäude zum Reichtum des gesamten Territoriums beiträgt.
-
 #ui_bdg_wl_dscr2
  [x] der produzierenden Arbeitskräfte * [y] = [z] des zusätzlichen Vermögens
-
-#ui_bdg_wu_dscr_dscr
-Wie viel von den verfügbaren Arbeitskräften wird derzeit genutzt und produziert.
 
 #ui_bdg_wu_dscr2
 Wenn sie unter 100% liegt, bedeutet das, dass die Arbeiter nicht voll ausgelastet sind.
@@ -3696,9 +3190,6 @@ Kann durch die Aufwertung des Gebäudes erhöht werden, freigeschaltet durch Tec
 
 #ui_bdg_ef2_dscr
 Gesamte Wirkung des Staates auf die Effizienz dieses Gebäudes.
-
-#ui_bdg_ef2_dscr2_dscr2
-Viele staatliche Politiken beeinflussen die Effizienz von Gebäuden.
 
 #ui_bdg_ef3_dscr
 Die Platzierungswirkung des Gebäudes auf seine Effizienz.
@@ -3714,9 +3205,6 @@ PRODUKTIONSDETAILS
 
 #ui_bdg_pdet_1
 direkt verkauft
-
-#ui_bdg_pdet_1_c_c
- [x]% der Produktion wird direkt von den Arbeitern dieses Gebäudes auf den Markt gebracht.
 
 #ui_bdg_pdet_s
  [x]% davon ( [y]) werden erfolgreich zu einem Preis von [z] pro Einheit verkauft (unverkaufte Aktien gehen verloren).
@@ -3736,9 +3224,6 @@ verkauft an Produzenten
 #ui_bdg_pdet_4
 exportiert
 
-#ui_bdg_pdet_4_c_c
-x]% der Produktion wird in ausländische Märkte exportiert.
-
 #ui_bdg_pdet_5
 Staatsverkäufe
 
@@ -3749,49 +3234,28 @@ Die Einnahmen aus dem Verkauf an den Staat (Sie) werden gepuffert und langsam an
 Aus dem Autokauf: [x] Münzen ( [y] Rohstoffe).
 
 #ui_bdg_pdet_5_c3
-Aus früheren Einkäufen: (x) Münzen.
+Aus früheren Einkäufen: [x] Münzen.
 
 #ui_bdg_pdet_6
 Produktionskosten
 
-#ui_bdg_pdet_6_c_c
-Ausgaben für den Kauf der für die Produktion benötigten Materialien.
-
 #ui_bdg_pdet_7
 Gesamteinnahmen
-
-#ui_bdg_pdet_7_c_c
-Das gesamte Bruttoeinkommen (vor Steuern) für diese Produktion.
 
 #ui_bdgbudget_1
 Verkauf
 
-#ui_bdgbudget_1_c_c
-Gesamtrohertrag aus allen Verkäufen des Gebäudes.
-
 #ui_bdgbudget_2
 Produktionskosten
-
-#ui_bdgbudget_2_c_c
-Die Kosten für alle für die Produktion benötigten Materialien, falls vorhanden.
 
 #ui_bdgbudget_3
 Steuern
 
-#ui_bdgbudget_3_c_c
-Einkommensbetrag, der vom Staat besteuert wird (Sie). Dies ist das tatsächliche Einkommen, das die Aktivität dieses Gebäudes für Sie generiert.
-
 #ui_bdgbudget_4
 Arbeitseinkommen
 
-#ui_bdgbudget_4_c_c
-Das Nettoeinkommen blieb nach allen Kosten und Steuern übrig, die auf alle in diesem Gebäude beschäftigten Arbeiter aufgeteilt wurden.
-
 #ui_bdgbudget_5
 Produktionsanteil
-
-#ui_bdgbudget_5_c_c
-Der Anteil des Umsatzes, der auf die Produzenten der Ressourcen zurückgeht: Händler bezahlen sie nur in Abhängigkeit vom Umsatz und unverkaufte Bestände werden nicht bezahlt.
 
 #ui_bdgind_nbprd1
 Die aktuelle Anzahl der Produktionen, abhängig von der Arbeitskraft der Gebäude und der erforderlichen Materialverfügbarkeit.
@@ -3817,23 +3281,8 @@ Stellen Sie ein, dass Sie [x] als Material verwenden, um [y] zu produzieren. Der
 #ui_bdgind_mat2
 Automatische Verwendung von [x] als Material zur Herstellung von [y]. Der Bedarf an diesem Material ist bei [z]% gedeckt. 
 
-#ui_bdgdgind_recip
-Es braucht [x] von [y] für jede produzierte Einheit von [z].
-
-#ui_bdgind_bdgind_byprod
-Produziert [x] [y] als Nebenprodukte.
-
-#ui_bdgdgcstr_title
-Im Bauwesen.....
-
-#ui_bdgdgcstr_self_self
-Selbstkonstruierend
-
 #ui_bdgcstr_self_c
 Einige einfache Gebäude können ohne professionelle Bauherren gebaut werden und werden auch ohne sie selbst gebaut.
-
-#ui_bdgdgcstr_bdrs
-Bauherren
 
 #ui_bdgcstr_bdrs_c
 Der Umfang der Bauarbeiten, die dieses Gebäude derzeit von professionellen Bauherren erhält.
@@ -3931,9 +3380,6 @@ Steuer
 #ui_regres_tax_c
 Besteuerung eines Prozentsatzes des Gesamtwertes aller Waren jeder Handelsroute, die von dieser Stadt betrieben wird.
 
-#ui_regres_pndngng
-Unsere Angebote
-
 #ui_regres_prod
 Produktion
 
@@ -4000,9 +3446,6 @@ Es kann die Stadt sein, die die Handelsroute öffnet, oder jede andere Stadt in 
 #ui_troute_opdscr3
 Die Kosten der Ladung sind exponentiell für den Handel routeӳ Entfernung. Die Wahl einer Stadt eines Drittanbieters, die sich in der Mitte Ihrer Handelsroute befindet, als Betreiber wird die Frachtkosten erheblich senken. 
 
-#ui_troute_volute
-Frachtvolumen
-
 #ui_troute_cargorq
 CARGO ERFORDERLICH
 
@@ -4021,9 +3464,6 @@ Dieser Faktor hängt von der längsten der beiden Entfernungen zwischen dem Betr
 #ui_troute_distf_c2
 längste Entfernung vom Bediener
 
-#ui_troute_opetax #ui_troute_opetax
-BEDIENER-STEUER
-
 #ui_troute_opetax_c1
 Ein Handelsroutenbetreiber kann auch einen Prozentsatz des Wertes aller Waren besteuern, die durch sein Gebiet reisen.
 
@@ -4033,9 +3473,6 @@ Ladung verfügbar
 #ui_troute_maxava_c1
 Der Umfang des Frachtdienstes, der derzeit im Betreiber verfügbar ist.
 
-#ui_troute_editieren
-Bearbeitung der bestehenden Handelsroute.....
-
 #ui_troute_apl1
 Offene Handelsroute
 
@@ -4044,9 +3481,6 @@ Anwenden
 
 #ui_troute_cgcost_c1
 Gesamtkosten der Ladung, die dieses Gebiet als Betreiber der Handelsroute nutzt.
-
-#ui_troute_totcost_totcost
-GESAMTKOSTEN DER HANDELSROUTE
 
 #ui_troute_totcost_c1
 Die Gesamtkosten für die Aufrechterhaltung dieser Handelsroute.
@@ -4084,9 +3518,6 @@ Die Handelsroute kann nicht geöffnet werden, da der ausgewählte Betreiber nich
 #ui_troute_close
 Diese Handelsroute schließen
 
-#menu_nfrmrm_title
-Eine neue Formation erstellen......
-
 #menu_nfrm_fname
 Name der Formation
 
@@ -4095,9 +3526,6 @@ Wählen Sie eine Art der Formation aus
 
 #menu_nfrm_type1
 Armee
-
-#menu_nfrm_t1_dscr1_dscr1
-Eine Armee besteht aus permanent mobilisierten Einheiten, die den Unterhalt kosten.
 
 #menu_nfrm_t1_dscr2
 Sie benötigen ständige Unterstützung von zu Hause aus, um alternde Porcos zu ersetzen, und die Rekrutierung neuer Einheiten entfernt Porcos aus dem Gebiet.
@@ -4111,9 +3539,6 @@ Miliz
 #menu_nfrm_t2_dscr1
 Eine Miliz besteht aus der Bevölkerung des Territoriums selbst und mobilisiert sich nur zur Verteidigung des Territoriums, wenn es angegriffen wird.
 
-#menu_nfrm_t2_dscr2_dscr2
-Milizen donӴ monopolisieren Porcos dauerhaft, so dass sie einen Job behalten können und der Unterhalt niedriger ist, da die Soldaten kein Gehalt verlangen.
-
 #menu_nfrm_t2_dscr3
 Allerdings kann die Miliz nicht in andere Gebiete ziehen und verringert die staatliche Autorität.
 
@@ -4126,17 +3551,8 @@ Eine nationale Armee ist einer regulären Armee ähnlich, außer dass sie auch v
 #menu_nfrm_t3_2
 Nationale Armeen geben auch ihren Autoritätsbonus an alle Regionen der Nation, auch wenn sie sich im Besitz eines anderen Charakters befinden.
 
-#menu_nfrm_t3_3_3
-Beachten Sie, dass Sie eine reguläre Armee nach Belieben in eine nationale umwandeln können und umgekehrt.
-
 #menu_trbuy_title
 Ressourceneinkauf.....
-
-#menu_trbuy_buy_buy_buy
-KAUFEN
-
-#menu_trbuy_cost_cost
-Anschaffungskosten
 
 #menu_trbuy_bght
 Ich habe [x] von [y] für [z] Münzen gekauft!
@@ -4159,9 +3575,6 @@ Dieses Upgrade erfordert eine professionelle Konstruktion und Sie haben keine Ba
 #menu_tch_curknw
 Aktuelles Wissen
 
-#menu_tch_curuse_curuse
-Wissensnutzung
-
 #menu_tch_curuse_c1
 Ihre Gesellschaft verfügt derzeit über [x] Wissen und eine Kapazität zur Speicherung von [y].
 
@@ -4174,23 +3587,14 @@ Kultur
 #menu_tch_str_cult1
 Kultur bietet Ihnen Wissensspeicherkapazität, proportional zu Ihrer Gesamtkultur.
 
-#menu_tch_str_l_lbr
-Bibliotheken
-
 #menu_tch_str_lbr1
 Jedes in Betrieb befindliche Bibliotheksgebäude erhöht Ihre Speicherkapazität für Wissen.
 
 #menu_tch_prjcts
 Projekte
 
-#menu_tch_prj_cur_cur
-Laufende Projekte
-
 #menu_tch_prj_avail
 Verfügbare Projekte
-
-#menu_tch_prj_dndnd
-Abgelehnte Projekte
 
 #menu_tch_prj_rwd
 Projektbelohnungen:
@@ -4222,14 +3626,8 @@ Benötigt [x] [y] von [z]
 #menu_prj_start
 PROJEKT STARTEN
 
-#menu_prj_diff_diff
-Schwierigkeitsgrad
-
 #menu_prj_work
 Forschung
-
-#menu_prj_rschrsrs
-Forscher
 
 #menu_prj_rwk
 Arbeit
@@ -4270,9 +3668,6 @@ Weisen Sie dem Projekt Forscher zu, um es starten zu können!
 #menu_prj_pgrss
 Dieses Projekt ist zu [x]% abgeschlossen.
 
-#menu_prj_addnewrr
-Klicken Sie hier, um neue Forscher dem Projekt zuzuordnen.
-
 #menu_prj_br_c1
  [x] Forscher von [y] sind derzeit diesem Projekt zugeordnet und produzieren [z] Forschungspunkte, um es abzuschließen.
 
@@ -4294,9 +3689,6 @@ Forscher hinzufügen.....
 #menu_rschr_type
 Bevölkerungsforschung für dieses Projekt
 
-#menu_rschr_frm_frm
-Von
-
 #menu_rschr_time
 Geschätzte Zeit bis zur Fertigstellung dieses Projekts
 
@@ -4308,9 +3700,6 @@ Nach Abschluss des Projekts hat dieses derzeit [x]% Chancen, erfolgreich zu sein
 
 #menu_rschr_odds_c2
 100 +Forscher Effizienz [x] -Schwierigkeit [y] = [z]% Erfolgsquote
-
-#menu_rschr_alles
-Alle Bevölkerungsgruppen
 
 #menu_rschr_noav
 Derzeit ist in dieser Stadt kein [x] verfügbar!
@@ -4327,17 +3716,11 @@ Ihnen fehlen die benötigten Materialien, um dieses Projekt zu starten!
 #ui_tech_alw
 Ermöglicht.....
 
-#ui_tech_bdgdg
-Neues Gebäude
-
 #ui_tech_res
 Neue Ressource
 
 #ui_tech_ter
 Neuer Gebietsstatus
-
-#ui_tech_unit_unit
-Neue Einheit
 
 #ui_tech_pol
 Neue Richtlinie
@@ -4384,14 +3767,8 @@ Zählen Sie aus dem gesamten Reichtum, der in allen Ihren Gebieten produziert wi
 #menu_scr_c
 Kultur
 
-#menu_scr_c_c_c_c
-Punktzahl aus Ihrer Gesamtkultur (Staatskultur).
-
 #menu_scr_k
 Kenntnisse
-
-#menu_scr_k_c_c
-Score aus deinen gesamten Kenntnissen.
 
 #menu_scr_p
 Militär
@@ -4402,17 +3779,8 @@ Tore von deiner gesamten militärischen Macht. Nicht enthalten sind Milizen.
 #menu_scr_v
 Untergebene
 
-#menu_scr_v_c_c
-Punktzahl von Ihren Untergebenen: Sie erhalten einen kleinen Teil der Punktzahl aller Ihrer direkten Untergebenen.
-
-#menu_scr_totot
-Punktzahl
-
 #menu_scr_tot_c
 Du hast eine persönliche Punktzahl.
-
-#menu_scr_scr_vpscr
-Aus Par-Score
 
 #menu_scr_vpscr_c1
 Der Parscore ist Ihr Wert über dem Referenzwert von [y]pts. Du bekommst 1 Siegpunkt für jeden [x]Punkt der Par-Punkte.
@@ -4462,9 +3830,6 @@ Deine Nation
 #menu_nscr_rank
 Der Rang deiner Nation
 
-#menu_nscr_scr_scr
-Die Gesamtpunktzahl Ihrer Nation
-
 #menu_nscr_vp
 Die gesamten Siegpunkte deiner Nation
 
@@ -4486,9 +3851,6 @@ Siegpunkte
 #majmess_reglost
 Du hast die Kontrolle über das Gebiet verloren!
 
-#b_buildprevbdgdg
-Veraltete Version: [x]
-
 #b_admitdft
 ADMIT DEFEAT
 
@@ -4500,9 +3862,6 @@ Der Kampf ist vorbei!
 
 #ui_terinf_fert
 Fruchtbarkeit
-
-#ui_terinf_grndww
-Grundwasser
 
 #btl_objtv_neut
 neutral
@@ -4528,20 +3887,8 @@ unterstützender Angriff
 #btl_objtv_hunt
 Jagd
 
-#btl_rslt_ dead
+#btl_rslt_dead
 gestorben
-
-#btl_rslt_deft_deft
-besiegt
-
-#btl_rslt_slt_vict
-siegreich
-
-#btl_rslt_neutrale
-war neutral
-
-#btlrslt_neutrale
-NEUTRAL
 
 #btlrslt_att
 ATTACKER
@@ -4741,15 +4088,6 @@ Nachfolge
 #facttl_rplcm_c1
 Wie die Abfolge dieses Charakters verwaltet wird, wenn er inaktiv wird.
 
-#frplcmcm_e1
-Wahl (direkt)
-
-#frplcm_e1_c1_c1
-Ein Nachfolger wird nur von den direkten Untergebenen dieses Ranges gewählt.
-
-#frplcmcm_e2
-Wahl (alle)
-
 #frplcm_e2_c1
 Ein Nachfolger wird von allen Untergebenen dieses Ranges gewählt.
 
@@ -4846,12 +4184,6 @@ INAKTIV
 #facmmb_inact_c1
 Dieser Charakter war eine Weile nicht mehr online und gilt nun als inaktiv. Er ist berechtigt, innerhalb der Nation die Nachfolge anzutreten.
 
-#facmmb_pwrlsss
-POWERLESS
-
-#facmmb_pwrlsss_c1
-Dieser Charakter kontrolliert keine Territorien und ist machtlos.
-
 #facmmb_dead
 TOT
 
@@ -4924,9 +4256,6 @@ Vertreibung [x] aus der Nation
 #facxpl_txt
 Als Vorgesetzter von [x] erlaubt dir dein Rang, diesen Charakter aus der Nation zu vertreiben. Beachten Sie, dass alle seine Untergebenen, falls vorhanden, unter diesem Charakter bleiben und somit auch die Nation verlassen. 
 
-#facxpl_xpl_xpl
-Ausstoßen!
-
 #facrplc_title
 Ersetzen von [x].....
 
@@ -4947,12 +4276,6 @@ Wählen Sie einen neuen Eigentümer für dieses Gebiet aus.
 
 #facdsmtl_err
 (kann nicht demontiert werden)
-
-#facdsmtl_err_err_c1
-Dieses Gebiet wurde vor kurzem integriert und ist nicht lange genug Teil Ihrer Nation, um über die Funktion "Zerlegen" übertragen zu werden.
-
-#facdsmtl_err_err_c2
-Zeit, bis dieses Gebiet abgebaut werden kann: [x].
 
 #facquit_title
 Bist du sicher?
@@ -4996,9 +4319,6 @@ Abstimmung über den Nachfolger von [x]
 #uivote_mode
 Abstimmungsmodus
 
-#uivote_mod_high_high
-Höchste Stimmen
-
 #uivote_mod_high_c1
 Der Vorschlag mit den meisten Stimmen gewinnt einfach die Stimme. Die Abstimmung ist abgeschlossen, sobald alle gültigen Wähler ihre Stimme abgegeben haben.
 
@@ -5010,12 +4330,6 @@ ausstehend.....
 
 #uivote_st_o
 vorbei
-
-#uivote_resultate
-Abstimmungsergebnis
-
-#uivote_res_res_und
-unentschieden
 
 #uivote_cast
 Abgesandte Stimmen
@@ -5068,9 +4382,6 @@ kann Ressourcen nicht kontrollieren
 #regstatprop_trade
 kann den Handel nicht kontrollieren
 
-#regstatprop_bdgdgup
-Gebäudeunterhalt [x]
-
 #regstatprop_loyal
 Loyalität [x]
 
@@ -5118,9 +4429,6 @@ kann nicht evakuiert werden
 
 #regstatprop_rencd
 kann nicht aufgegeben werden
-
-#regstatprop_trsfrr
-kann nicht übertragen werden
 
 #regstatprop_spawn
 ist ein Spieler Spawn
@@ -5296,9 +4604,6 @@ Tot
 #charstate_4
 Machtlos
 
-#err_inaxsbdgdg
-Dieses Gebäude ist derzeit nicht zugänglich!
-
 #formact_none
 Bewegen
 
@@ -5353,9 +4658,6 @@ Wählen Sie die gewünschte Heimatregion für diese Formation aus.
 #formhome_sel_c2
 ( Die Formation muss in der gewünschten Stadt positioniert werden, um in ihr umbasieren zu können).
 
-#menu_mission_selbst
-Aktion
-
 #menu_mission_sel_c1
 Wählen Sie die Aktion aus, die in diesem Gebiet durchgeführt werden soll.
 
@@ -5370,12 +4672,6 @@ Nation ' [x]''.
 
 #ui_reginf_vsb
 Sichtbarkeit 
-
-#chat_r_r_hall
-Großer Saal
-
-#chat_r_r_ass
-Montage
 
 #chat_r_councl
 Rat
@@ -5495,10 +4791,10 @@ BIP dieses Gebiets
 Ein Wirtschaftsindikator, der die Summe aller in diesem Gebiet generierten Einkommen (Staat oder Bevölkerung) über einen Zeitraum von 10 Wirtschaftszyklen ist.
 
 #regmenu_growth_1
-Aktuelle demografische Entwicklung: (x) Porcos (y).
+Aktuelle demografische Entwicklung: [x] Porcos (y).
 
 #regmenu_growth_2
-Aktive Bevölkerung: (x) (y)
+Aktive Bevölkerung: [x] (y)
 
 #regmenu_vitals_1
 Die Grundbedürfnisse der Bevölkerung sind derzeit zu [x]% gedeckt.
@@ -5559,3 +4855,721 @@ Höhen
 
 #displyr_fortif
 Befestigungen
+
+#ui_connct_stable
+Deine Verbindung mit dem Server ist stabil.
+
+#menuop_k_up
+Kamera hochfahren
+
+#menuop_togtut
+Tutorials umschalten
+
+#ui_menuop_options
+EINSTELLUNGEN
+
+#servlst_name_c1
+Der benutzerdefinierte Name des Spiels des Servers
+
+#ui_newgame_newgame
+NEUES SPIEL
+
+#ui_newgame_world
+WELTWEIT
+
+#newchar_st_pt
+Primitive Stämme
+
+#newchar_st_pt_c1
+Beginnen Sie bei Null, indem Sie die Kontrolle über einen primitiven Stamm übernehmen.
+
+#newchar_st_pt_c2
+Es ist die Standard- und Standardmethode, um ein Spiel am Anfang zu starten.
+
+#newchar_clim_c
+Wählen Sie Klimazonen aus, in denen Sie potenziell laichen möchten.
+
+#ui_gen_tonovis
+Du kannst nicht in dieses Gebiet gehen, weil du keine Sicht darauf hast.
+
+#ui_gen_regmen
+Gebietsmenü
+
+#ui_bdginf_cons
+Baukosten
+
+#ui_bdginf_bldrs
+erfordert Bauherren
+
+#ui_bdginf_cost
+Materialkosten:
+
+#ui_bdginf_empl
+beschäftigt
+
+#b_bdginf_hhold
+Haushalt
+
+#bc_bdginf_hhold
+Haushaltskapazität dieser Wohnung
+
+#bc_bdginf_h
+Gesundheitsbonus für die Bewohner dieser Wohnung
+
+#bc_bdginf_lq
+Lebensqualitätsbonus für die Bewohner dieser Wohnung
+
+#bc_bdginf_eff
+Effizienz multipliziert die Arbeitskräfte jedes einzelnen Mitarbeiters des Gebäudes.
+
+#b_bdginf_wealth
+maximale Vermögensproduktion
+
+#bc_bdginf_wealth
+Die maximale Menge an Vermögen, die dieses Gebäude theoretisch generieren kann, wenn es mit allen Mitarbeitern besetzt ist, ist in voller Produktion.
+
+#b_bdginf_scap
+Kapazität
+
+#bc_bdginf_scap
+Speicherkapazität in Ressourceneinheiten
+
+#b_bdginf_stype
+Dosenbestand
+
+#b_bdginf_mcap
+Vertriebskapazität
+
+#b_erase_bdg
+Gebäude
+
+#ui_menubdg_distrib
+HANDEL
+
+#ui_annex_add
+Anhang hinzufügen
+
+#regeco_wst_admin
+Lokale Verwaltung
+
+#regeco_wst_stpwr
+Die Korruption des Staates
+
+#regeco_upkeep
+Stadterhaltung
+
+#regeco_salaries_c1
+Die Gesamtkosten aller staatlichen Gehälter, die auf dem Territorium gezahlt werden.
+
+#regeco_ii_c1
+Einnahmen aus allen importierten Waren, die im Gebiet verkauft werden (zu ihrem lokalen Preis).
+
+#bc_gen_coin
+Treasury
+
+#bc_gen_honor
+Ehre
+
+#b_menubdg_alldestr
+alle zerstören
+
+#ui_gov_coins
+Staatsmünzen
+
+#ui_gov_legit
+aktuelle Legitimität der Regierung
+
+#ui_gov_power
+aktuelle Zustandsenergie
+
+#ui_gov_gdp
+BIP
+
+#ui_gov_gdp_c1
+Das aktuelle Bruttoinlandsprodukt aller Ihrer Gebiete.
+
+#ui_gov_gdp_c2
+Es wird berechnet, indem die Bruttoeinkommen, die in allen Ihren Gebieten über 10 Produktionszyklen erwirtschaftet werden, addiert werden.
+
+#ui_civ_on
+HINZUFÜGEN BEI DER ÜBERARBEITUNG
+
+#ui_civ_cncl
+VON DER REFORM ABBRECHEN
+
+#ui_civ_cncl_c
+Klicken Sie hier, um diese ausstehende Änderung aus Ihrer Reform zu entfernen.
+
+#ui_eco_notrsr_dscr
+Diese Gesellschaft arbeitet derzeit ohne jegliche Form von Währung und ihre Menschen teilen einfach alles in der Gemeinschaft: Die Regierung hat weder eine Staatskasse noch Einkommen oder Explans.
+
+#ui_eco_contrib
+Freiwillige Beiträge
+
+#ui_eco_wast
+Abfall
+
+#ui_eco_salar
+Löhne
+
+#ui_eco_civc_c1
+Gesamtkosten für den Erhalt aller unserer derzeit aktiven Bürger.
+
+#ui_eco_proj
+Laufende Projekte
+
+#ui_eco_nat
+Nation
+
+#ui_price_base_c1
+Dies ist der Mindestpreis, der für diese Ressource möglich ist, unabhängig von den anderen Faktoren.
+
+#ui_price_base1_c1
+Die Kosten der lokalen Produktion für diese Ressource basieren auf den Kosten der benötigten Materialien.
+
+#ui_price_base2_c1
+Die Kosten für den Import dieser Ressource aus den aktuellen Handelsrouten.
+
+#ui_price_base3_c1
+Sicherstellung von Mindestgewinnen für die Produzenten von +20% der Produktionskosten.
+
+#ui_price_base3_c2
+Erhöhung auf +30% der Produktionskosten, wenn die Ressourcen über Händler verteilt werden, da deren Kürzung auch von den Produzenten berücksichtigt werden muss.
+
+#ui_price_work_c1
+Preis basierend auf dem Arbeitsaufwand für die Herstellung dieser Ressource.
+
+#ui_price_work_c2
+Arbeitsaufwand pro Ressourceneinheit: [x]
+
+#ui_price_mkt1_c1
+Die öffentliche Studie basiert auf der Kaufkraft aller Bevölkerungsschichten, die diese Ressource nutzen, und der Menge, die auf dem öffentlichen Markt verteilt wird. Dies ist der ideale Preis, zu dem die Gewinne für die Händler, die diese Ressource verkaufen, optimal wären.
+
+#ui_price_sd_c31
+(Lieferung unterstützt durch staatliche Beschaffung!)
+
+#ui_price_sd_c4
+[x]% eines Preises vor Angebot/Nachfrage von[y]-Münzen =[z]
+
+#ui_price_sd_c41
+(Effekt begrenzt durch minimalen Preis von[x] Münzen!)
+
+#ui_price_arb_c1
+Preisarbitrage kann auftreten, wenn es große Preisunterschiede zwischen diesem Gebiet und den nahegelegenen Gebieten gibt (Ihre oder ausländische, mit denen Sie Handelsbeziehungen unterhalten).
+
+#ui_price_arb_c5
+Lokaler Preis vor Arbitrage: [x] Münzen.
+
+#ui_price_arb_c2
+Durchschnittspreis in diesem Bereich der Welt: [x] Münzen.
+
+#ui_price_arb_c3
+Mit einer Preisdifferenz von[x]% hat der Weltmarktpreis einen Einfluss von[y]% auf den lokalen Preis, was zu einem Arbitrageeffekt von[z] auf den Endpreis führt.
+
+#ui_price_arb_c4
+Keine Preisarbitrage: Keine nahegelegenen Gebiete nutzen derzeit diese Ressource.
+
+#ui_mres_ststk
+Staatseigentum
+
+#ui_mres_ststk_c1
+Ressourcen, die du direkt selbst als Staat besitzt, im Gegensatz zu dem Rest davon, der privat deiner Bevölkerung gehört. Neue Ressourcen beginnen zunächst im Besitz der jeweiligen Produzenten.
+
+#ui_mres_ststk_c2
+Sie müssen nicht die Ressourcen kaufen, die Sie bereits besitzen, wenn Sie sie nutzen, und Sie verdienen auch Einnahmen zurück, wenn sie von Dritten wie Branchen oder Händlern genutzt werden.
+
+#ui_mres_ststk_c3
+Du besitzt derzeit[x] der[y][z], die derzeit in diesem Gebiet gelagert sind.
+
+#ui_mres_stres
+Staatliche Ressourcen
+
+#ui_mres_stmntn
+Eigentum behalten
+
+#ui_mres_access
+BEVÖLKERUNGSZUGANG
+
+#ui_mres_dist_need
+Idealerweise benötigt
+
+#uic_mres_dist_need
+Theoretischer Betrag, der für einen 100%igen Zugang benötigt wird, unabhängig von Preis und Erschwinglichkeit durch die Bevölkerung.
+
+#ui_mres_dist_avail
+Versorgung
+
+#uic_mres_dist_avail
+Aktuell auf dem Markt ausgeschütteter Betrag
+
+#ui_mres_dist_sold
+Verkauft
+
+#uic_mres_dist_sold
+Verkaufte Menge an die Bevölkerung
+
+#ui_bdgeff_bdg
+Gebäude
+
+#ui_bdgeff_profit
+Unrentabilität ([x]%)
+
+#ui_mres_indneed
+Nachfrage
+
+#uic_mres_indneed
+Menge dieser Ressource, die von den Branchen benötigt wird.
+
+#ui_mres_indsold
+Verkauft
+
+#uic_mres_indsold
+Menge dieser Ressource, die tatsächlich verteilt und an Industrien verkauft wird, die sie benötigen.
+
+#bc_menubdg_lmtd
+Begrenzter Vertrieb
+
+#storpol_all
+alle Lager
+
+#regeco_eff
+Auswirkungen: Beeinflusst die Staatskasse Ihrer Regierung positiv oder negativ. 
+
+#regadmin_eff
+Effekte: erhöht die Haushaltseinnahmen (-abfall)
+
+#regloy_eff
+Effekte: Verhindert die Rebellion der Bevölkerung
+
+#reggrwth_eff
+Effekte: Bestimmt die Entwicklung Ihrer Population.
+
+#loadgame_crtnew
+NEUES SPIEL ERSTELLEN
+
+#legit_relig
+Religiosität der Menschen
+
+#statepow_tot
+Gesamtstaatliche Macht
+
+#statepow_civ_c1
+Die gesamte Zustandsenergie, die durch die aktuell aktiven Stromrichtlinien erzeugt wird.
+
+#resist_loyal
+Loyalität: [x]
+
+#admin_ter_c2
+Anzahl der annektierten Gebiete: [x]
+
+#growth_oldpigs
+Altschweine Variation
+
+#growth_mnew
+männliche Ferkel im Erwachsenenalter
+
+#regctrl_b_h
+Gehäuse
+
+#ui_recruit_nopop
+( keine Bevölkerung mobilisiert, weil es eine lokale Miliz ist)
+
+#ui_recruit_max_pop
+Mehr Bevölkerung nötig!
+
+#ui_recruit_cav
+montierte Einheiten
+
+#ui_recruit_full
+Diese Formation ist voll!
+
+#ui_statunit_t_dscr
+Zähigkeit, wenn die Fähigkeit des Geräts, Schäden beim Aufprall standzuhalten, die Wahrscheinlichkeit, tatsächlich verletzt zu werden, bestimmt.
+
+#ui_statunit_m_dscr
+Die Bewegungsgeschwindigkeit der Einheit. Beeinflusst auch die Bewegungsgeschwindigkeit der Formation in der Weltkarte (die langsamste Einheit definiert die Geschwindigkeit der Weltkarte).
+
+#ui_statunit_md_dscr
+Betrag des Schadens, der dem Feind beim Treffer zugefügt wird.
+
+#ui_statunit_rch_dscr
+Im Nahkampf gibt eine höhere Reichweite als die des Gegners einen Trefferbonus. Reichweite gibt auch einen Bonus, um im Nahkampf gegen Einheiten mit höherer Masse zu treffen. 
+
+#ui_statunit_rs_dscr
+Die Fähigkeit, Feinde im Fernkampf zu treffen.
+
+#ui_statunit_rd_dscr
+Betrag des Schadens, der dem Feind beim Treffer zugefügt wird.
+
+#ui_statunit_rg_dscr
+Bei Entfernungseinheiten die maximale Entfernung (in Geländekacheln), mit der sie Feinde bekämpfen können.
+
+#ui_statunit_c_dscr
+Die Menge an Ressourcen, die diese Einheit tragen kann. Die Bestandskapazität der Formation ist die Summe der Tragfähigkeit aller ihrer Einheiten.
+
+#ui_troop_reinforce
+Verstärken
+
+#ui_foinv_forbid
+Du darfst nicht auf Ressourcen dieses Gebietes zugreifen.
+
+#ui_reg_build_tertool
+Geländewerkzeuge
+
+#ui_tertool_add
+Hinzufügen
+
+#ui_tertool_bal
+Ungleichgewicht
+
+#ui_tertool_cost
+prognostizierte Kosten in den Tools zur Erfüllung dieser Aufgabe
+
+#ui_tertool_penal
+Ungleichgewicht Kostenstrafe
+
+#ui_reg_build_plat
+Plattformen
+
+#ui_plattool_cost
+prognostizierte Kosten für den Aufbau dieser Plattformen
+
+#ui_builderr_coin
+Du hast nicht genug Münzen, um dieses[x] zu bauen.
+
+#ui_dpltool_done
+ERLEDIGT
+
+#ui_dpltool_mdef
+Eingeschränktes Engagement
+
+#ui_dpltool_mdef_dscr
+Die Truppe greift jeden Feind an, der innerhalb des angegebenen Bereichs von seiner ursprünglichen Einsatzposition aus eintritt. Die Truppe wird sich in jeder für sie notwendigen Weise bewegen.
+
+#ui_dpltool_mzon
+Verteidigungszone
+
+#ui_dpltool_mzon_dscr
+Die Truppe bleibt in der gewählten Verteidigungszone und verhindert, dass Feinde in sie eindringen. Die Truppe bewegt sich innerhalb der Zone, um sich jedem eingehenden Feind zu stellen. Entfernungseinheiten greifen jeden Feind in Reichweite vom Rand der Zone aus an.
+
+#ui_dpltool_mstand
+Standfläche
+
+#ui_dpltool_mbdg_dscr
+Dies ist ein defensives Gebäude, das nur Feinde in Reichweite angreifen darf.
+
+#ui_dpltool_mult
+Mehrere
+
+#ui_dpltool_mult_dscr
+Die ausgewählten Truppen befinden sich derzeit in verschiedenen Modi. Wählen Sie einen aus, um den gleichen Modus auf alle ausgewählten Truppen anzuwenden.
+
+#ui_dpltool_delzon
+Diese Zone löschen
+
+#ui_confwar_title
+ERKLÄREN DES KRIEGES
+
+#treated_off
+Verfügbare Angebote:
+
+#treated_dem
+Verfügbare Anforderungen:
+
+#treated_conf
+WARNUNG! Dieser Vertrag steht im Widerspruch zu einigen Ihrer anderen Verträge!
+
+#treated_conf_c1
+Ein oder mehrere Begriffe in diesem Vertrag stehen im Widerspruch zu Verpflichtungen, die Sie in anderen Verträgen eingegangen sind. Die Unterzeichnung dieses Vertrages bedeutet die Verletzung der widersprüchlichen Verträge und wird von Ihrer Seite Vertragsbruchstrafen auslösen.
+
+#treated_conf_c2
+Konflikte mit:
+
+#treated_dur
+Vertragsdauer
+
+#treated_dur_c1
+nach Ablauf dieser Frist endet der Vertrag.
+
+#treated_dur_c2
+(einige Vertragsbestimmungen sind dauerhaft und bleiben auch nach Ablauf der Vertragslaufzeit aktiv, können dann aber ohne Strafe gekündigt werden).
+
+#treated_new
+NEUER VERTRAG
+
+#treated_pers
+Bleibt auch nach Ablauf des Vertrages wirksam, kann aber ohne Unterbrechung des Vertrages gekündigt werden.
+
+#treated_inst
+Einmalig angewendet, bei der Unterzeichnung des Vertrages.
+
+#b_trtcancelofr
+Angebot stornieren
+
+#b_trtcancelofr_c1
+Ihr Vertragsvorschlag wird aufgehoben und die andere Partei wird ihn nicht mehr akzeptieren können.
+
+#menuevt_all
+Alle Veranstaltungen
+
+#menuevt_dipl
+Diplomatisch
+
+#menuevt_comp
+abgeschlossen!
+
+#menuevt_trt_no
+Ablehnen
+
+#menuevt_trt_yes
+Zustimmen
+
+#ui_form_threat
+Militärische Stärke dieser Formation.
+
+#ui_form_threat
+Militärische Stärke dieser Formation.
+
+#ui_form_AP_hom
+zu Hause
+
+#ui_tile_movcost_ntr
+netural
+
+#ui_tile_movcost_own
+eigenes Territorium
+
+#ui_conf_sure
+Bist du sicher?
+
+#ui_conf_renonce
+WARNUNG: Du wirst dieses Gebiet nicht mehr kontrollieren: Wenn du es allein lässt, wird es in die Anarchie fallen.
+
+#ui_conf_abandon
+Das Gebiet wird geräumt. Die gesamte Bevölkerung wird in eine von mehreren Formationen versetzt, die alle Ressourcen, die sie mit sich führen können, mitnehmen.
+
+#ui_conf_capital
+Willst du dieses Gebiet wirklich zu deiner neuen Hauptstadt machen? 
+
+#b_actv_trt_eng
+engagiert für
+
+#ui_bdg_nbrsrch
+Anzahl der Mitarbeiter, die mit aktuellen Forschungsprojekten beschäftigt sind.
+
+#ui_bdg_ef_dscr
+Aktuelle Effizienz der Arbeiter, die sich auf die Gesamtbelegschaft des Gebäudes auswirkt.
+
+#ui_bdg_wf_dscr
+Gesamtbetrag der Arbeiten, die dieses Gebäude derzeit ausführen kann.
+
+#ui_bdg_wl_dscr
+Wie viel dieses Gebäude zum Reichtum des gesamten Territoriums beiträgt.
+
+#ui_bdg_wu_dscr
+Wie viel von den verfügbaren Arbeitskräften wird derzeit genutzt und produziert.
+
+#ui_bdg_ef2_dscr2
+Viele staatliche Politiken beeinflussen die Effizienz von Gebäuden.
+
+#ui_bdg_pdet_1_c
+[x]% der Produktion wird direkt von den Arbeitern dieses Gebäudes auf den Markt gebracht.
+
+#ui_bdg_pdet_4_c
+x]% der Produktion wird in ausländische Märkte exportiert.
+
+#ui_bdg_pdet_6_c
+Ausgaben für den Kauf der für die Produktion benötigten Materialien.
+
+#ui_bdg_pdet_7_c
+Das gesamte Bruttoeinkommen (vor Steuern) für diese Produktion.
+
+#ui_bdgbudget_1_c
+Gesamtrohertrag aus allen Verkäufen des Gebäudes.
+
+#ui_bdgbudget_2_c
+Die Kosten für alle für die Produktion benötigten Materialien, falls vorhanden.
+
+#ui_bdgbudget_3_c
+Einkommensbetrag, der vom Staat besteuert wird (Sie). Dies ist das tatsächliche Einkommen, das die Aktivität dieses Gebäudes für Sie generiert.
+
+#ui_bdgbudget_4_c
+Das Nettoeinkommen blieb nach allen Kosten und Steuern übrig, die auf alle in diesem Gebäude beschäftigten Arbeiter aufgeteilt wurden.
+
+#ui_bdgbudget_5_c
+Der Anteil des Umsatzes, der auf die Produzenten der Ressourcen zurückgeht: Händler bezahlen sie nur in Abhängigkeit vom Umsatz und unverkaufte Bestände werden nicht bezahlt.
+
+#ui_bdgind_recip
+Es braucht[x] von[y] für jede produzierte Einheit von[z].
+
+#ui_bdgind_byprod
+Produziert[x][y] als Nebenprodukte.
+
+#ui_bdgcstr_title
+Im Aufbau.....
+
+#ui_bdgcstr_self
+Selbstkonstruierend
+
+#ui_bdgcstr_bdrs
+Bauherren
+
+#ui_regres_pndng
+Unsere Angebote
+
+#ui_troute_vol
+Frachtvolumen
+
+#ui_troute_opetax
+BETRIEBSSTEUERUNG
+
+#ui_troute_edit
+Bearbeitung der bestehenden Handelsroute.....
+
+#ui_troute_totcost
+GESAMTKOSTEN DER HANDELSROUTE
+
+#menu_nfrm_title
+Eine neue Formation erstellen......
+
+#menu_nfrm_t1_dscr1
+Eine Armee besteht aus permanent mobilisierten Einheiten, die den Unterhalt kosten.
+
+#menu_nfrm_t2_dscr2
+Milizen donӴ monopolisieren Porcos dauerhaft, so dass sie einen Job behalten können und der Unterhalt niedriger ist, da die Soldaten kein Gehalt verlangen.
+
+#menu_nfrm_t3_3
+Beachten Sie, dass Sie eine reguläre Armee nach Belieben in eine nationale umwandeln können und umgekehrt.
+
+#menu_trbuy_buy
+KAUFEN
+
+#menu_trbuy_cost
+Anschaffungskosten
+
+#menu_tch_curuse
+Wissensnutzung
+
+#menu_tch_str_lbr
+Bibliotheken
+
+#menu_tch_prj_cur
+Laufende Projekte
+
+#menu_tch_prj_dnd
+Abgelehnte Projekte
+
+#menu_prj_diff
+Schwierigkeitsgrad
+
+#menu_prj_rschrs
+Forscher
+
+#menu_prj_addnewr
+Klicken Sie hier, um neue Forscher dem Projekt zuzuordnen.
+
+#menu_rschr_frm
+Von
+
+#menu_rschr_all
+Alle Bevölkerungsgruppen
+
+#ui_tech_bdg
+Neues Gebäude
+
+#ui_tech_unit
+Neue Einheit
+
+#menu_scr_c_c
+Punktzahl aus Ihrer Gesamtkultur (Staatskultur).
+
+#menu_scr_k_c
+Score aus deinen gesamten Kenntnissen.
+
+#menu_scr_v_c
+Punktzahl von Ihren Untergebenen: Sie erhalten einen kleinen Teil der Punktzahl aller Ihrer direkten Untergebenen.
+
+#menu_scr_tot
+Punktzahl
+
+#menu_scr_vpscr
+Aus Par-Score
+
+#menu_nscr_scr
+Die Gesamtpunktzahl Ihrer Nation
+
+#b_buildprevbdg
+Veraltete Version: [x]
+
+#ui_terinf_grndw
+Grundwasser
+
+#btl_rslt_deft
+besiegt
+
+#btl_rslt_vict
+siegreich
+
+#btl_rslt_neutr
+war neutral
+
+#btlrslt_neutr
+NEUTRAL
+
+#frplcm_e1
+Wahl (direkt)
+
+#frplcm_e1_c1
+Ein Nachfolger wird nur von den direkten Untergebenen dieses Ranges gewählt.
+
+#frplcm_e2
+Wahl (alle)
+
+#facmmb_pwrlss
+KRAFTLOSE
+
+#facmmb_pwrlss_c1
+Dieser Charakter kontrolliert keine Territorien und ist machtlos.
+
+#facxpl_xpl
+Ausstoßen!
+
+#facdsmtl_err_c1
+Dieses Gebiet wurde vor kurzem integriert und ist nicht lange genug Teil Ihrer Nation, um über die Funktion "Zerlegen" übertragen zu werden.
+
+#facdsmtl_err_c2
+Zeit, bis dieses Gebiet abgebaut werden kann:[x].
+
+#uivote_mod_high
+Höchste Stimmen
+
+#uivote_result
+Abstimmungsergebnis
+
+#uivote_res_und
+unentschieden
+
+#regstatprop_bdgup
+Gebäudeunterhalt[x]
+
+#regstatprop_trsfr
+kann nicht übertragen werden
+
+#err_inaxsbdg
+Dieses Gebäude ist derzeit nicht zugänglich!
+
+#menu_mission_sel
+Aktion
+
+#chat_r_hall
+Großer Saal
+
+#chat_r_ass
+Montage
+
+#bc_menubdg_expl
+ausgenutzt
+
+#ui_civ_repl
+ersetzt '[x]'.
+

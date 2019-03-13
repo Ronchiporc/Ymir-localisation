@@ -1,6 +1,4 @@
-﻿#u_alle
-Einheiten
-
+﻿
 #u_porco
 Porco
 
@@ -18,9 +16,6 @@ Krieger
 
 #u_axepig
 Axtporco
-
-#u_Schwertschwein
-Schwertporco
 
 #u_swordboar
 Schwertporco
@@ -103,9 +98,6 @@ Brecher
 #u_megaphant
 Megaphant
 
-#u_Killer-Kaninchen
-Kein gewöhnliches Kaninchen
-
 #u_porkoderthal1
 Porkoderthal
 
@@ -114,9 +106,6 @@ Pferd
 
 #u_elephant
 Elefant
-
-#u_Mammut
-Mammut
 
 #u_dog
 Hund
@@ -144,9 +133,6 @@ Kamel
 
 #u_goat
 Ziege
-
-#u_Huhn
-Huhn
 
 #u_llama
 Lama
@@ -189,3 +175,19 @@ Manbearpig
 
 #u_rockthrower
 Felswerfer
+
+#u_all
+units
+
+#u_swordpig
+Swordpig
+
+#u_killerrabbit
+No ordinary rabbit
+
+#u_mammoth
+Mammoth
+
+#u_chicken
+Chicken
+

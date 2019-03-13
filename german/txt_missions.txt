@@ -1,8 +1,6 @@
-﻿#msn1
+﻿
+#msn1
 Anlegen einer ersten Abrechnung
-
-#msn1_1_1
-Seid gegrüßt, [x].
 
 #msn1_2
 Nachdem du seit Anbeginn der Zeit als Nomade gelebt hast, von der Jagd und dem Sammeln, ist dein primitiver Stamm endlich über ein Gebiet gestolpert, das es wert schien, auf ihre nomadischen Wege zu verzichten. Die Zeit ist gekommen, sich niederzulassen und etwas Bedeutendes aufzubauen, um dem Test der Zeit zu widerstehen, und sie haben dich ausgewählt, um sie zu führen.
@@ -22,17 +20,11 @@ Wasser für den Stamm
 #msn2_1
 Unser neu angesiedelter Stamm braucht jetzt dringend frisches Wasser, um zu überleben!
 
-#msn2_2_2
-Wir müssen einen Ort schaffen, an dem die Menschen des Stammes leicht Zugang haben und frisches Wasser bekommen. Kein Grund zur Sorge: Die Menschen des Stammes werden es selbst benutzen, um das Wasser zu holen, das sie brauchen.
-
 #msn2_3
 Allerdings müssen wir aufpassen: Während einer für unseren kleinen Stamm vorerst ausreicht, können diese Orte nur eine begrenzte Anzahl von Menschen aufnehmen, bis neue benötigt werden!
 
 #msn2_o_1
 Bauen Sie einen Wasserkollektor am Ufer einer beliebigen Süßwasserquelle.
-
-#msn2_o_o_2
-Wählen Sie in den Registerkarten des Gebäudes den Wasserkollektor aus und suchen Sie einen geeigneten Platz, um ihn am Ufer von Süßwasserfliesen zu platzieren. Dieses Gebäude benötigt nichts und wird automatisch etwas Wasser produzieren und an die Bevölkerung verteilen, um ihren Lebensbedarf an Wasser zu decken.
 
 #msn3
 Jagd
@@ -60,9 +52,6 @@ Wir müssen ein Sammellager in der Nähe jeder verfügbaren Quelle von wilden es
 
 #msn4_o_1
 Baue ein Sammellager, um essbare Pflanzen zu nutzen und mehr Nahrung zu produzieren.
-
-#msn4_o_o_2
-Wählen Sie in Ihrem neu besiedelten Gebiet, in den Gebäuderegisterkarten, das Sammellager aus und scannen Sie das Gelände. Der hervorgehobene Bereich um das Gebäude herum ist sein Bereich. Nutzbare Kacheln erscheinen in grün. Sucht nach essbaren Pflanzen und stellt das Sammellager in Reichweite, damit es sie ernten und Nahrung produzieren kann.
 
 #msn5
 Werkzeuge
@@ -142,12 +131,6 @@ Jetzt, da wir Sedentarität haben, können wir unsere ersten festen Wohnungen ba
 #msn_houses_2
 Eine angemessene Unterbringung bietet den darin lebenden Haushalten Boni in Bezug auf Lebensqualität und Gesundheit, die dazu beitragen werden, unsere Gesamtbevölkerung zu vergrößern, indem sie die Krankheit reduzieren und ihren Willen zur Aufnahme von Ferkeln erhöhen. Sobald leere Wohnungen zur Verfügung stehen, wird die Bevölkerung die provisorischen Zelte, in denen sie sich derzeit aufhalten, automatisch verlassen, um in ihre neuen Wohnungen zu ziehen. Aber wenn die Bevölkerung wächst und nicht genügend Häuser zur Verfügung stehen, werden die zusätzlichen Familien gezwungen sein, wieder in provisorische Wohnungen zu ziehen, und Slums werden in Ihrer Stadt entstehen, bis Sie das Problem lösen. Slums bieten keine Lebensqualität und verringern die Gesundheit der Bewohner, was das Wachstum der Bevölkerung verringert.
 
-#msn_houses_o_o_1
-Bauen Sie Ihre ersten Häuser
-
-#msn_houses_o_o_2
-Wählen Sie auf der Registerkarte Gebäude das rustikale Hausgebäude aus und platzieren Sie mindestens 10 von ihnen.
-
 #msn_frstform
 Erste Entdecker
 
@@ -174,12 +157,6 @@ Um unsere wachsende Gesellschaft weiter zu entwickeln, müssen wir von der Gesch
 
 #msn_barter_2
 Der Übergang zu einer Tauschwirtschaft ist eine bedeutende Veränderung. Sie müssen nun ein Treasury-Guthaben verwalten und die Ressourcen sind nicht mehr frei verwendbar: Sie müssen von der Bevölkerung gekauft werden, die es besitzt. Verbrauchsgüter wie Lebensmittel werden nicht mehr automatisch verteilt und stehen der Bevölkerung direkt zur Verfügung: Sie müssen nun über Händler oder Marktstände (ein Gebäudeanhang) verteilt werden.
-
-#msn_barter_o_o_1
-Übergang von der Geschenkindustrie zur Tauschwirtschaft
-
-#msn_barter_o_o_2
-Verabschieden Sie die Richtlinie "Fairer Austausch", in der Registerkarte "Wirtschaft" des Regierungsmenüs.
 
 #vmsn_title
 Siegesmission: Sei die Erste, die sie erfüllt, um Siegespunkte zu sammeln!
@@ -216,12 +193,6 @@ Wir vertrauen auf Gold
 
 #vmsn_trsr_1
 Zur Ehre unseres Volkes sollten wir den größten Schatz an Goldbarren, der jemals gesammelt wurde, sammeln: Gold ist das, was uns Wohlstand und Zukunftssicherheit bringen wird!
-
-#vmsn_trsrsr_o
-Seien Sie der erste Spieler, der die erforderliche Menge an Goldbarren in einem Gebiet kumuliert.
-
-#vmsn_frstbdgdg
-Erster Bauherr
 
 #vmsn_frstbdg_1
 Zur Ehre unseres Volkes sollten wir die Ersten sein, die den Bau dieser Gebäude abschließen!
@@ -300,3 +271,34 @@ Zur Ehre unseres Volkes sollten wir unsere Überlegenheit unter Beweis stellen, 
 
 #vmsn_cltr_o
 Seien Sie der Erste, der die erforderliche Menge an staatlicher Kultur erreicht, mit allen Ihren Territorien zusammen.
+
+#msn1_1
+Seid gegrüßt, [x].
+
+#msn2_2
+Wir müssen einen Ort schaffen, an dem die Menschen des Stammes leicht Zugang haben und frisches Wasser bekommen. Kein Grund zur Sorge: Die Menschen des Stammes werden es selbst benutzen, um das Wasser zu holen, das sie brauchen.
+
+#msn2_o_2
+Wählen Sie in den Registerkarten des Gebäudes den Wasserkollektor aus und suchen Sie einen geeigneten Platz, um ihn am Ufer von Süßwasserfliesen zu platzieren. Dieses Gebäude benötigt nichts und wird automatisch etwas Wasser produzieren und an die Bevölkerung verteilen, um ihren Lebensbedarf an Wasser zu decken.
+
+#msn4_o_2
+Wählen Sie in Ihrem neu besiedelten Gebiet, in den Gebäuderegisterkarten, das Sammellager aus und scannen Sie das Gelände. Der hervorgehobene Bereich um das Gebäude herum ist sein Bereich. Nutzbare Kacheln erscheinen in grün. Sucht nach essbaren Pflanzen und stellt das Sammellager in Reichweite, damit es sie ernten und Nahrung produzieren kann.
+
+#msn_houses_o_1
+Bauen Sie Ihre ersten Häuser
+
+#msn_houses_o_2
+Wählen Sie auf der Registerkarte Gebäude das rustikale Hausgebäude aus und platzieren Sie mindestens 10 von ihnen.
+
+#msn_barter_o_1
+Übergang von der Geschenkindustrie zur Tauschwirtschaft
+
+#msn_barter_o_2
+Verabschieden Sie die Richtlinie "Fairer Austausch", in der Registerkarte "Wirtschaft" des Regierungsmenüs.
+
+#vmsn_trsr_o
+Seien Sie der erste Spieler, der die erforderliche Menge an Goldbarren in einem Gebiet kumuliert.
+
+#vmsn_frstbdg
+Erster Bauherr
+

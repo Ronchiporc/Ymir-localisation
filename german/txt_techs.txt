@@ -1,4 +1,5 @@
-﻿#tech_ptry
+﻿
+#tech_ptry
 Töpferei
 
 #tech_ptry_dscr_1
@@ -12,12 +13,6 @@ Sedentismus
 
 #tech_sedent_dscr_1
 Die Praxis, daürhaft an einem Ort zu leben. 
-
-#tech_prprprt
-Eigentum
-
-#tech_prprprt_dscr_1
-Das Konzept, dass Dinge und Wohnungen nicht mehr vom ganzen Stamm geteilt werden, sondern nur noch von einem bestimmten Porco genutzt werden können.
 
 #tech_eldcncl
 ältestenrat
@@ -139,14 +134,8 @@ Ausbildung
 #tech_educ_dscr_1
 Der Prozess der Erleichterung des Lernens und der Vermittlung von Wissen, Traditionen, Fähigkeiten, Werten, überzeugungen und Gewohnheiten.
 
-#tech_diagnostics
-Diagnose
-
 #tech_diagnos_dscr_1
 Der Prozess der Bestimmung, welche Krankheit oder welcher Zustand die Symptome und Anzeichen einer Person erklärt. 
-
-#tech_academy
-Akademien
 
 #tech_academ_dscr_1
 Institutionen des Hochschulwesens und der Forschung.
@@ -229,9 +218,6 @@ Hauskatze
 #tech_domcat_dscr_1
 tech_domcat_dscr_1
 
-#tech_warehouse
-Lagerhäuser
-
 #tech_warehous_dscr_1
 tech_warehous_dscr_1
 
@@ -265,9 +251,6 @@ Bäder
 #tech_baths_dscr_1
 tech_baths_dscr_1
 
-#tech_mudbdgdg
-Lehmgebäude
-
 #tech_mudbdg_dscr_1
 tech_mudbdg_dscr_1
 
@@ -276,9 +259,6 @@ Lehmziegel
 
 #tech_mudbrick_dscr_1
 Wie man Boden zu Vollziegeln verarbeitet und verwendet, um den Bau aus billigen Materialien zu erleichtern.
-
-#tech_stonebdgdg
-Steinbau
 
 #tech_stonebdg_dscr_1
 tech_stonebdg_dscr_1
@@ -295,9 +275,6 @@ Gewinnung von Steinen und Erden
 #tech_quarr_dscr_1
 tech_quarr_dscr_1
 
-#tech_quarrhvv
-Schwerer Abbau
-
 #tech_quarrhv_dscr_1
 tech_quarrhv_dscr_1
 
@@ -306,9 +283,6 @@ Bauherren
 
 #tech_builders_dscr_1
 tech_builders_dscr_1
-
-#tech_contract
-Konstruktionsvorbereitung
 
 #tech_constrct_dscr_1
 tech_constrct_dscr_1
@@ -343,14 +317,8 @@ Kragsteinbogen
 #tech_corbarch_dscr_1
 tech_corbarch_dscr_1
 
-#tech_archbdgdg
-Bogengebäude
-
 #tech_archbdg_dscr_1
 tech_archbdg_dscr_1
-
-#tech_domebdgdg
-Kuppelbau
 
 #tech_domebdg_dscr_1
 tech_domebdg_dscr_1
@@ -375,9 +343,6 @@ tech_pulley_dscr_1
 
 #tech_trdwheelcr
 Laufradkran
-
-#tech_trdwheelcr_dscr_dscr_1
-tech_trdwheelcr_dscr_dscr_1
 
 #tech_concrete
 Beton
@@ -451,9 +416,6 @@ Schmieden
 #tech_forg_dscr_1
 tech_forg_dscr_1
 
-#tech_stahl
-Stahl
-
 #tech_steel_dscr_1
 tech_stahl_dscr_1
 
@@ -507,9 +469,6 @@ Wie kann die Belüftung von Stollen verbessert und gesteuert werden, um tiefere 
 
 #tech_coke
 Koks
-
-#tech_coke_dscr_dscr_1
-Wie man Steinkohle zu Koks verarbeitet, einem neuen Brennstoff, der dann anstelle von Holzkohle verwendet werden kann.
 
 #tech_agrcultr
 Landwirtschaft
@@ -573,9 +532,6 @@ Die Handhabung und Verwaltung der Tiere ist auf dem Pferderücken viel einfacher
 
 #tech_manure
 Gülle-Düngung
-
-#tech_dünger_dscr_1
-Es stellt sich heraus, dass das Legen von Gülle auf den Boden die Pflanzen schneller und größer werden lässt, wer hätte das gedacht?
 
 #tech_horsebckrid
 Reiten auf dem Rücken eines Pferdes
@@ -648,12 +604,6 @@ Webmaschine
 
 #tech_loom6_dscr_1
 tech_loom6_dscr_1
-
-#tech_teppich
-Teppichherstellung
-
-#tech_teppich_dscr_1
-tech_teppich_dscr_1
 
 #tech_cloth
 Bekleidung
@@ -781,14 +731,8 @@ Olivenöl
 #tech_oliveoil_dscr_1
 Olivenöl ist ein flüssiges Fett aus Oliven, das als Kochzutat, aber auch als Medizin und zur Hautpflege verwendet wird.
 
-#tech_beamprßs
-Trägerpresse
-
 #tech_beamprss_dscr_1
 Die Balkenpresse ermöglicht es, den Saft aus Früchten effizienter zu gewinnen als durch Hand- oder Fußqütschung, wobei das Prinzip des Hebels mit einem großen horizontalen Balken auf einer erhöhten Plattform, die ein flaches Becken enthält, in dem die Früchte platziert werden, verwendet wird.
-
-#tech_furnitritr
-Möbelherstellung
 
 #tech_furnitr_dscr_1
 Wie man feine Möbelstücke für den Wohnbereich aus Holz und Metall herstellt.
@@ -889,9 +833,6 @@ Schwerer Schild
 #tech_hvshield_dscr_1
 tech_hvshield_dscr_1
 
-#tech_stlshldld
-Stahlschild
-
 #tech_stlshld_dscr_1
 tech_stlshld_dscr_1
 
@@ -946,14 +887,8 @@ tech_platearm_dscr_1
 #tech_lhelmet
 Helm
 
-#tech_lhelm_dscr_1
-tech_lhelm_dscr_1
-
 #tech_hvhelmet
 Schwerer Helm
-
-#tech_hvhelm_dscr_1
-tech_hvhelm_dscr_1
 
 #tech_ptrwhl
 Töpferscheibe
@@ -985,9 +920,6 @@ Obsidiane Waffen
 #tech_obsidn_dscr_1
 Die Kunst, tödliche Waffen aus Holz und Obsidian (Vulkanglas) herzustellen, die schärfer sind als alle anderen Arten von Feürsteinwaffen. Obsidian kann schärfer sein als Stahl, aber als Glas ist er auch spröde und kann nur in die gewünschten Formen geformt werden.
 
-#tech_beastwrr
-Elitekrieger
-
 #tech_beastwr_dscr_1
 Elitetruppen von Kriegern, die vom Geist wilder Tiere inspiriert sind.
 
@@ -1008,4 +940,76 @@ Würstchen
 
 #tech_sausg_dscr_1
 Würstchen sind eine Möglichkeit, frisches Fleisch zu verarbeiten, was eine längere Haltbarkeit ermöglicht.
+
+#tech_prprt
+Eigentum
+
+#tech_prprt_dscr_1
+Das Konzept, dass Dinge und Wohnungen nicht mehr vom ganzen Stamm geteilt werden, sondern nur noch von einem bestimmten Porco genutzt werden können.
+
+#tech_diagnos
+Diagnose
+
+#tech_academ
+Akademien
+
+#tech_mudbdg
+Schlammbau
+
+#tech_stonebdg
+Steinbau
+
+#tech_quarrhv
+Schwerer Abbau
+
+#tech_constrct
+Konstruktionsvorbereitung
+
+#tech_domebdg
+Kuppelbau
+
+#tech_domebdg
+Kuppelbau
+
+#tech_trdwheelcr_dscr_1
+tech_trdwheelcr_dscr_1
+
+#tech_steel
+Stahl
+
+#tech_coke_dscr_1
+Wie man Steinkohle zu Koks verarbeitet, einem neuen Brennstoff, der dann anstelle von Holzkohle verwendet werden kann.
+
+#tech_manure_dscr_1
+Es stellt sich heraus, dass das Legen von Gülle auf den Boden die Pflanzen schneller und größer werden lässt, wer hätte das gedacht?
+
+#tech_carpet
+Teppichherstellung
+
+#tech_stlshld
+tech_stlshld
+
+#tech_lhelmet_dscr_1
+tech_lhelmet_dscr_1
+
+#tech_hvhelmet_dscr_1
+tech_hvhelmet_dscr_1
+
+#tech_beastwr
+Elitekrieger
+
+#tech_warehous
+Lagerhäuser
+
+#tech_archbdg
+Bogengebäude
+
+#tech_carpet_dscr_1
+tech_carpet_dscr_1
+
+#tech_beamprss
+Trägerpresse
+
+#tech_furnitr
+Möbelherstellung
 

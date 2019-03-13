@@ -1,4 +1,5 @@
-﻿#cond_nbreg
+﻿
+#cond_nbreg
 Besitze [x] oder mehr Territorien
 
 #cond_prodsupto
@@ -6,9 +7,6 @@ Produzieren Sie mindestens [x] von [y] im Territorium.
 
 #cond_incrfoodprod
 Steigern Sie Ihre Nahrungsmittelproduktion um mindestens [x].
-
-#cond_ownbdgdg
-Haben Sie [x] [y] in dem Gebiet.
 
 #cond_ownbdg_class
 Haben Sie [x] Gebäude der Klasse [y] auf dem Territorium.
@@ -175,12 +173,6 @@ Bestände an [y]-Ressourcen, die unter [x] liegen.
 #cond_prdgrp_sup
 Bestände an [y]-Ressourcen, die höher sind als [x].
 
-#cond_prdgrgrpprd_inf
-Produktion von [y] Ressourcen, die unter [x] liegen.
-
-#cond_prdgrgrpprd_sup
-Produktion von [y]-Ressourcen, die den [x] überlegen sind.
-
 #cond_resneed_inf
 Eine unbefriedigte Nachfrage von [y] von weniger als [x].
 
@@ -207,9 +199,6 @@ Haushaltssaldo des Staates unter [x]
 
 #cond_growth_inf
  [y] Wachstum unterdurchschnittlich gegenüber [x]
-
-#cond_growth_sup_sup
- [y] Wachstum besser als [x]
 
 #cond_reglvl_inf
 Gebietsebene niedriger als [x]
@@ -250,12 +239,6 @@ Schatzkammer auf [x] Münzen gesetzt
 #effect_loyalev
 Zustandsereignis: [x] Gebietsloyalität
 
-#effect_trigprojects
-Entsperrt das Projekt: [x]
-
-#effect_rejprojj
-Lehnt das Projekt ab: [x]
-
 #effect_givtech
 Freischaltet die Technologie: [x]
 
@@ -289,9 +272,6 @@ Zeigt die Karte des Territoriums bis zu [x] Kacheln um die Formation herum an.
 #effect_formlst
 Die Formation ist verloren.
 
-#effect_canceldedebt
-Streichen Sie Ihre Schulden.
-
 #effect_givunit
 Der Formation schließt sich [y] [x] an.
 
@@ -300,9 +280,6 @@ Erhalten Sie [x] von landwirtschaftlichen Lebensmitteln
 
 #effect_spawnunit
  [x] [z] [y] [y] wird angezeigt.
-
-#effect_modhonoror
-Ehre [x]
 
 #effect_modAP
 Aktionspunkte [x]
@@ -322,9 +299,6 @@ Erhalten Sie eine neü Idee: [x]
 #effect_givreg
 übernehmen Sie die Kontrolle über das Gebiet.
 
-#effect_fac_rplc_rplc
-Mit diesem Charakter tauschst du die Position in der Hierarchie der Nation.
-
 #effect_fac_trigvt
 Löst eine Abstimmung von Untergebenen aus, um einen Nachfolger für die Position dieses Charakters in der Nation zu wählen.
 
@@ -333,9 +307,6 @@ Konvertiert [x]% der besetzten Ressourcen in allen Gebieten in staatliches Eigen
 
 #event_diplomes
 Nachricht von [x]
-
-#event_treaty treaty
-Vertragsvorschlag von [x]
 
 #event_dwar_att
 Wir haben dem [x] den Krieg erklärt.
@@ -478,9 +449,6 @@ Wir starten einen Angriff auf [x] mit[p2] Soldaten, um einzudringen und die Kont
 #event_Ab_invad_2
 Um erfolgreich zu sein, müssen wir alle Feinde und Verteidiger des Territoriums eliminieren. Sie verteidigen es mit[p3] Soldaten.
 
-#event_Abr_invad_event_Abr_invad
-Invasion von [x]
-
 #event_Abr_invad_1
 Wir starteten einen Angriff auf [x] mit[p2] Soldaten, um in das Gebiet einzudringen und die Kontrolle zu übernehmen.
 
@@ -550,9 +518,6 @@ Wir starten eine Razzia auf [x], um ihr Territorium mit[p2] Soldaten zu plünder
 #event_Ab_raid_2
 Unsere Truppen werden versuchen, Ressourcen und Gebäude zu plündern, bevor sie das Gebiet mit ihrer Beute verlassen.
 
-#event_Abr_raid_event_Abr_raid
-überfall auf [x]
-
 #event_Abr_raid_1
 Wir haben [x] überfallen, um ihr Territorium mit[p2] Soldaten zu plündern.
 
@@ -577,17 +542,11 @@ Verteidigung von [x] gegen einen Angriff von [y]
 #event_Dbr_raid_2
 Sie schafften es,[p3] Ressourcen und[p4] Münzen zu plündern. 
 
-#event_Ab_sacke
-Sackleinen [x]
-
 #event_Ab_sack_1
 Wir starten einen Angriff auf [x], um das Gebiet mit[p2] Soldaten zu plündern.
 
 #event_Ab_sack_2
 Unsere Truppen werden versuchen, alle Feinde und Verteidigungen des Territoriums zu eliminieren, bevor sie alles plündern, was sie können, und mit ihrer Beute verschwinden.
-
-#event_Abr_sack_veranstaltung
-Sackung von [x]
 
 #event_Abr_sack_1
 Wir starteten einen Angriff auf [x], um ihr Territorium mit[p2] Soldaten zu plündern.
@@ -603,9 +562,6 @@ versucht zu entlassen.
 
 #event_Db_sack_2
 Sie werden versuchen, alle unsere Truppen und Verteidigungen zu eliminieren, bevor sie alles plündern, was sie können, und mit der Beute verschwinden.
-
-#event_Dbr_sack_event
-Verteidigung von [x] gegen eine Entlassung von [y]
 
 #event_Dbr_sack_1
  [y] startete einen Angriff auf [x], um unser Gebiet mit[p2] Soldaten zu plündern.
@@ -625,12 +581,6 @@ Als Verbündeter nehmen unsere[p2]-Truppen an der Schlacht teil und helfen bei d
 #event_Dbr_assist
 Unterstützt [y] bei der Verteidigung von [x]
 
-#event_Dbrass_assist_1
- [y] wurde in [x] angegriffen. 
-
-#event_Dbrass_assist_2
-Als Verbündeter nahmen unsere[p2] Truppen an der Schlacht teil, um bei der Verteidigung gegen[p3] Feinde zu helfen.
-
 #event_Ab_assist
 Unterstützung von [y] bei dem Angriff von [x].
 
@@ -639,15 +589,6 @@ Unterstützung von [y] bei dem Angriff von [x].
 
 #event_Ab_assist_2
 Als Verbündeter von [y] nehmen unsere Truppen an der Schlacht teil und unterstützen seine Armeen.
-
-#event_Abrush_assist
-Unterstützt [y] bei dem Angriff von [x].
-
-#event_Abrass_assist_1
-(y) hat angegriffen (y). 
-
-#event_Abrass_assist_2
-Als Verbündeter von [y] nahmen unsere Truppen an der Schlacht teil und assistierten seine Armeen.
 
 #event_hunt
 Jagd[p2][p3][p3]
@@ -676,7 +617,7 @@ Wir sind derzeit mit[p1]-Münzen in unserem Schatzamt verschuldet. Verschuldet z
 #event_debt_2
 Wir müssen unser gesamtes Staatseinkommen wieder in den grünen Bereich bringen, sonst geraten wir in ernsthafte Schwierigkeiten. Wenn die Situation verzweifelt ist, können wir auch eine Entscheidung in letzter Instanz treffen, unsere Schulden zu erlassen, aber das wird zu großen Unruhen in unserem Staat führen.
 
-#event_c_cancel debt
+#event_c_canceldebt
 Schuldenerlass
 
 #event_confcdebt
@@ -688,13 +629,13 @@ Sind Sie sicher, dass Sie unsere Schulden für ungültig erklären wollen?
 #event_confcdebt_2
 Mit einer Verschuldung von[p1] Münzen und einem BIP von[p2] macht unsere Verschuldung derzeit[p3] % unseres BIP aus: Wenn wir sie annullieren, werden wir in allen unseren Gebieten eine geschätzte Strafe von[p4] Loyalität erleiden und Sie werden etwa[p5] an Ehre verlieren!
 
-#event_cancel debt
+#event_canceldebt
 Schuldenerlass!
 
-#event_cancel debt_1
+#event_canceldebt_1
 Wir haben die drastische Maßnahme ergriffen, unsere Schulden von[p1]-Münzen für ungültig und ungültig zu erklären und angekündigt, dass wir nicht zurückzahlen würden, was wir schuldig sind.
 
-#event_cancel debt_2
+#event_canceldebt_2
 In allen unseren Städten sind die Gläubiger unserer Schulden revoltiert, dass sie nie bezahlt werden, was wir ihnen geschuldet haben. Viele Menschen haben alles verloren und werden dadurch ruiniert. Die Wirtschaft ist destabilisiert und in großen Turbulenzen, ganz zu schweigen von dem Verlust des Vertraüns der Bevölkerung in ihre Regierung. 
 
 #event_canceldebt_3
@@ -745,12 +686,6 @@ Vertrag mit [y] unterzeichnet
 #event_trt_acc_1
 Unser Vertrag mit [x] von [y] wurde von uns beiden genehmigt und unterzeichnet und ist nun in Kraft getreten!
 
-#event_trt_rt_rngoc
- [y] schlägt eine Neuverhandlung des Vertrages vor.
-
-#event_trt_rt_rngoc_1
- [x] von [y] schlägt die folgende Renogierung eines Vertrags vor, den wir derzeit mit ihnen haben. Wenn wir diesen neün Bedingungen zustimmen, wird der Vertrag aktualisiert.
-
 #event_trt_asktrm
  [y] bittet darum, einen Vertrag zu kündigen.
 
@@ -759,9 +694,6 @@ Unser Vertrag mit [x] von [y] wurde von uns beiden genehmigt und unterzeichnet u
 
 #event_trt_brk1
 hat einen Vertrag gebrochen!
-
-#event_trt_brk1_1_1
-hat illegal den Vertrag von ' [y]' gebrochen, den sie mit uns hatten!
 
 #event_trt_brk1_2
 Gemäß den Vertragsbruchbedingungen haben wir[p1] Münzen als Entschädigung erhalten und sie haben[p2] an Ehre verloren.
@@ -772,26 +704,17 @@ Wir haben einen Vertrag mit [x] gebrochen!
 #event_trt_brk2_1
 Wir haben illegal den Vertrag von ' [y]' verletzt, den wir mit [x] hatten.
 
-#event_trt_brk2_2_2
-Gemäß den Vertragsbruchbedingungen haben wir als Strafe[p1] Münzen bezahlt und[p2] an Ehre verloren.
-
 #event_trt_brkw1
 Wir haben ihnen als Vergeltung den Krieg erklärt, und jeder andere Vertrag mit ihnen hat einen Vertrag.
 
 #event_trt_brkw2
 Sie haben uns als Vergeltung den Krieg erklärt.
 
-#event_brb_raid_event_brb_raid
-Ankommende barbarische Raider!
-
 #event_brb_raid_1
 Unsere Späher berichten, dass eine Gruppe von etwa[p1] barbarischen Raidern das nahegelegene Gebiet von [x] verlassen hat und sich auf den Weg macht.
 
 #event_brb_raid_2
 Sie könnten bald hier sein und versuchen, unsere Lager schnell zu durchsuchen. Wir müssen unsere Verteidigung vorbereiten! 
-
-#event_brb_sack_event_brb_sack
-Ankommendes barbarisches Kriegsband!
 
 #event_brb_sack_1
 Unsere Späher berichten, dass ein barbarischer Kriegsverband von etwa[p1] Pocros das nahegelegene Gebiet von [x] verlassen hat und uns entgegenkommt.
@@ -825,96 +748,6 @@ Das Volk von [x] verteidigt die Stadt!
 
 #event_popdefrise_1
 Die Bewohner der Stadt [x] greifen selbst zu den Waffen, um die Stadt gegen die Angreifer zu verteidigen. (p1) Die Porcos nehmen an der Schlacht teil!
-
-#event_forelle_w1
-Warnung vor Handelsrouten: keine Handelsrechte!
-
-#event_forelle_w1_1_1
-Da wir keine Handelsrechte mehr mit der Stadt [y] haben, wird unsere Handelsroute zwischen dieser Stadt und [x] bald geschlossen, wenn wir dieses Problem nicht schnell lösen. 
-
-#event_forelle_w1_2
-Dies kann passieren, wenn die Stadt einen neün Eigentümer hat, mit dem wir keine Handelsrechte ausgehandelt haben, oder wenn diese Rechte widerrufen wurden.
-
-#event_forelle_b1
-Handelsroute unterbrochen!
-
-#event_forelle_b1_1_1
-Da wir keine Handelsrechte mehr mit der Stadt [y] hatten, wurde unsere Handelsroute zwischen dieser Stadt und [x] geschlossen. 
-
-#event_forelle_b1_2_2
-Dies geschah, weil die Stadt einen neün Eigentümer bekam, mit dem wir keine Handelsrechte ausgehandelt haben, oder weil die Handelsrechte widerrufen wurden.
-
-#event_forelle_w2
-Handelsroutenwarnung: Fehlende Ladung!
-
-#event_forelle_w2_1
-Auf unserer Handelsroute mit [x], die von [y] betrieben wird, fehlt[p2] die Ladung, um ordnungsgemäß betrieben zu werden. Der Handelsweg wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell.
-
-#event_forelle_w2_2_2
-Der Frachtdienst ermöglicht es, die Waren kontinuierlich auf einer Handelsroute zu befördern und einen konstanten Transfer von Ressourcen aufrechtzürhalten. Jede Route, abhängig von der Entfernung und dem Volumen der gehandelten Waren, erfordert eine bestimmte Menge an Ladung.  
-
-#event_forelle_w2_3
-Dieser Betreiber produziert jedoch nicht mehr genügend des benötigten Frachtdienstes, um diese Handelsroute ordnungsgemäß zu betreiben: Um dieses Problem zu beheben, muss es seinen verfügbaren Dienst erweitern oder wir müssen zu einem neün, anderen Betreiber wechseln, der die erforderliche Fracht bereitstellen kann ([p3]).
-
-#event_forelle_b2
-Handelsroute unterbrochen!
-
-#event_forelle_b2_1
-Unsere Handelsroute mit [x] wurde geschlossen, weil der Betreiber [y] nicht in der Lage war, die erforderliche Ladung ([p3]) für ihre Wartung bereitzustellen (fehlte[p2]).
-
-#event_trout_b2_2_2_2
-Der Frachtdienst ermöglicht es, die Waren kontinuierlich auf einer Handelsroute zu befördern und einen konstanten Transfer von Ressourcen aufrechtzürhalten. Jede Route, abhängig von der Entfernung und dem Volumen der gehandelten Waren, erfordert eine bestimmte Menge an Ladung.  
-
-#event_forelle_b2_3
-Dieser Betreiber produziert jedoch nicht mehr genügend des benötigten Frachtdienstes, um diese Handelsroute ordnungsgemäß zu betreiben: Um dieses Problem zu beheben, muss es seinen verfügbaren Dienst erweitern oder wir müssen zu einem neün, anderen Betreiber wechseln, der die erforderliche Fracht bereitstellen kann ([p3]).
-
-#event_forelle_w3
-Handelsroutenwarnung: Uns fehlen Waren!
-
-#event_forelle_w3_1
-Unser Handelsweg, der[p2][p3] nach [x] von [y] exportiert, hat nicht die erforderliche Ware und wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell!
-
-#event_forelle_w3_2
-Dies geschieht, weil wir nicht mehr genug[p3] in [x] produzieren und unsere Bestände aufgebraucht sind. 
-
-#event_forelle_b3
-Handelsroute unterbrochen!
-
-#event_forelle_b3_1
-Unsere Handelsroute, die[p2][p3] nach [x] von [y] exportiert, wurde geschlossen, weil wir die benötigten Waren nicht mehr liefern konnten.
-
-#event_forelle_b3_2
-Dies geschah, weil wir nicht genug[p3] in [x] produzierten und unsere Bestände knapp wurden. 
-
-#event_forelle_w4
-Handelsroutenwarnung: Dem Exporteur fehlen Waren!
-
-#event_forelle_w4_1
-Unser Handelsweg, der[p2][p3] von [y] nach [x] importiert, hat nicht die erforderlichen Waren und könnte bald schließen, es sei denn, der Exporteur behebt dieses Problem schnell!
-
-#event_forelle_w4_2
-Dies geschieht, weil ihre Produktion von[p3] in [y] unzureichend ist und ihre Bestände knapp wurden.
-
-#event_forelle_b4
-Handelsroute unterbrochen!
-
-#event_forelle_b4_1
-Unsere Handelsroute, die[p2][p3] von [x] nach [y] importiert, wurde geschlossen, weil sie die benötigten Waren nicht mehr liefern konnte.
-
-#event_forelle_b4_2
-Dies geschah, weil ihre Produktion von[p3] in [x] unzureichend war und ihre Bestände knapp geworden waren.
-
-#event_forelle_c1
- [x] hat eine Handelsroute gesperrt!
-
-#event_forelle_c1_1_1
-Die Stadt [x] hat ihre Handelsroute von[p2][p3] mit unserer Stadt [y] geschlossen.
-
-#event_forelle_c2
-Eine unserer Handelsrouten wurde von ihrem Betreiber gesperrt!
-
-#event_forelle_c2_1
-Die Stadt [x] hat beschlossen, den Betrieb unserer Handelsroute[p2][p3] mit unserer Stadt [y] einzustellen. Dies führte dazu, dass die Handelsroute geschlossen wurde.
 
 #event_cdog
 Ein Jäger zähmte einige wilde Hunde in [x]!
@@ -963,9 +796,6 @@ Jäger haben in [x] einige Wildpferde gefangen!
 
 #event_chorse_1
 Die Jäger von [x] hatten Glück und haben es geschafft, einige Wildpferde zu fangen. Sie haben die aufgewühlten Tiere in einem kleinen Paddock eingesperrt, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
-
-#event_accamel
-Jäger fingen einige wilde Kamele in [x]!
 
 #event_ccamel_1
 Die Jäger von [x] hatten Glück und haben es geschafft, einige wilde Kamele zu fangen. Sie haben die hartnäckig dumm aussehenden Tiere in ein kleines Fahrerlager gesperrt, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
@@ -1132,9 +962,6 @@ Siegesmission abgeschlossen!
 #ev_vp_complet_1
 Wir haben die Siegesmission " [y]" vor allen anderen abgeschlossen und ihren Lohn verdient, indem wir jedem bewiesen haben, dass wir ein glorreiches Volk sind!
 
-#ev_vp_fail_fail
-hat eine Siegesmission erfüllt!
-
 #ev_vp_fail_1
 Das Volk von [x] hat die Siegesmission " [y]" vor uns abgeschlossen!
 
@@ -1219,26 +1046,8 @@ Sobald ein Nachfolger gewählt ist, wird seine Position sofort mit [x] getauscht
 #ev_votesucc_rslt
 [p2] wurde gewählt [x].
 
-#ev_vootesucc_rslt_rslt_1
-[p2] wurde gewählt [x], als Nachfolger von[p1]. 
-
-#ev_vootesucc_rslt_rslt_2
-[p2] gewann die Wahl mit[p3] Stimmen von[p4] abgegebenen Stimmen.
-
-#ev_vootesucc_won_won
-Du wurdest gewählt [x]!
-
-#ev_votesucc_won_won_1
-Herzlichen Glückwunsch! Du wurdest [y] in Folge von[p1] gewählt. 
-
-#ev_vootesucc_won_won_2
-Du hast die Wahl mit[p3] Stimmen zu deinen Gunsten aus[p4] abgegebenen Stimmen gewonnen.
-
 #ev_xplrch_vrywl
 "Sehr gut."
-
-#ev_xplrch_shame_shame
-"Es ist eine Schande."
 
 #ev_xplrch_exlnt
 " Ausgezeichnet!"
@@ -1252,12 +1061,6 @@ Du hast die Wahl mit[p3] Stimmen zu deinen Gunsten aus[p4] abgegebenen Stimmen g
 #ev_xplrch_nvrmnd
 "Nein. Vergiss es."
 
-#ev_xplrch_leave_leave
-Geht.
-
-#ev_xplrr_bdts
-Banditen überfielen unsere Formation ' [x]'!
-
 #ev_xplr_bdts_1
 Während unsere Formation ' [x]' von[p2] Porcos durch die Wildnis reiste, passierten sie irgendwann einen kleinen schmalen Pass, der zwischen zwei Hügeln verschachtelt war. Die Sonne war hoch und die Porcos waren es leid, die lange Reise und das Tragen all der Güter, die die Truppe mit sich trug, zu unternehmen.
 
@@ -1269,9 +1072,6 @@ Kein Wunder, dass eine kleine Gruppe von etwa 20 überfallenen Banditen plötzli
 
 #ev_xplr_bdts_c2
 Gib ihnen, was sie wollen.
-
-#ev_xplrr_abvil
-"x" fand ein verlassenes Dorf.
 
 #ev_xplr_abvil_1
 Während der Erkundung der Länder stolperte unsere Gruppe ' [x]' über die überreste eines abgetrennten primitiven Dorfes aus einigen Hütten. Vorsichtig begannen die Porcos, diese überreste zu inspizieren und kamen zu dem Schluss, dass derjenige, der dort wohnte, längst weg ist. "Sie scheinen hier viele Dinge aufgegeben zu haben. Wer weiß, aus welchen Gründen die Menschen, die dort lebten, beschlossen zu gehen, aber sie nahmen nicht viel mit", schloss der Gruppenleiter.
@@ -1285,9 +1085,6 @@ Obwohl viele Dinge mit der Zeit verdorben oder verfallen sind, scheinen einige i
 #ev_xplr_abvil_c2
 "Nein, lassen wir die Dinge so, wie sie sind, wir haben keine Zeit dafür."
 
-#ev_xplrr_birds
-Furchtlose Vögel
-
 #ev_xplr_birds_1
 ' [x]' lagerten in einem Wald nach einem langen Tag des Wanderns in diesen unbekannten Ländern. Es wurde Nacht, und alle Porcos versammelten sich am Lagerfeür. Das heißt, sie hörten ein Geräusch in einem nahegelegenen Busch, aus dem ein Haufen dumm aussehender fetter Vögel hervorging, die ihnen unbekannt waren. Die Tiere schienen ihre Anwesenheit nicht zu bemerken, indem sie auf dem Waldboden herumhackten, als wären sie allein auf Erden.
 
@@ -1300,26 +1097,17 @@ Furchtlose Vögel
 #ev_xplr_hsttrib_1
 Schlechte Nachrichten! Während ' [x]' durch neü unbekannte Länder ging, befanden sie sich plötzlich inmitten einer Gruppe von halbdutzend feindlichen Einheimischen. Sie kamen aus dem Nichts..... Wir sind wahrscheinlich zu nahe an ihr Territorium herangetreten, oder vielleicht mögen sie einfach unsere Schnauzen nicht. Bevor die Porcos überhaupt merken konnten, was geschah, griffen die primitiven Krieger bereits an.....
 
-#ev_xplr_thirst_thirst
-Unvergessliche Wüste
-
 #ev_xplr_thirst_1
 Unsere Formation [x']' wanderte zu weit in unbekannten Trockengebieten. Tagelang konnten sie keine Qülle für frisches Wasser finden. Die Porcos suchten verzweifelt nach Wasser, aber es war keine leichte Aufgabe in diesen desertierten fremden Ländern. Als sie eine schlammartige Pfütze fanden, um ihren Aufstieg zu beenden, waren viele von ihnen an die Geier und die unnachgiebige Sonne dieser Länder verloren gegangen.
 
 #ev_xplr_thirst_2
 Vielleicht hätten wir es vermeiden sollen, uns in einem so feindlichen Gebiet zu weit zu wagen.  
 
-#ev_xplrr_lstjngl
-Verloren im Dschungel
-
 #ev_xplr_lstjngl_1
 Die Porcos von ' [x]' hatten sich tagelang in diesem blutigen Dschungel gewundert, von der Hitze geplagt und verloren. Es daürte nicht lange, bis aus der einen Gruppe 2 Gruppen wurden..... "Hey Mr. Jenkins, ich schwöre, ich habe diesen verdammten Baum schon vor 2 Tagen gesehen", sagte Porkypigs. "Gemeinsam, vielleicht finden wir bald den Rest der Gruppe! Lasst uns weiter aufwachen!". Aber das haben sie nie getan. Sie fanden jedoch ein handgroßes Nest aus Fleisch, als Herr Jenkins beschloss, dass es ein guter Zeitpunkt sei, ein verdächtiges Loch in einen Baum mit einem Stock zu stoßen, um etwas zu essen zu finden.
 
 #ev_xplr_lstjngl_c1
 "Verdammter Mr. Jenkins!" 
-
-#ev_xplrr_strvtrib
-Der hungernde Stamm
 
 #ev_xplr_strvtrib_1
 Die Porcos von ' [x]' hatten eine kleine Gruppe von Menschen entdeckt, die sich von ihnen entfernt hatten und auf der Seite eines Hügels gingen. Am nächsten Tag, am Morgen, wurde die gleiche Gruppe wieder gesichtet, diesmal näher, und die Porcos beschlossen, sie zu treffen: Es war eine kleine Gruppe von ein paar Familien mit Ferkeln und Saün, und sie schienen keine Bedrohung zu sein.
@@ -1335,9 +1123,6 @@ Wir boten ihnen einige unserer Vorräte an, und erst am zweiten Tag tauschten si
 
 #ev_xplr_strvtrib_c2
 Wir können uns nicht um diese Leute kümmern. Lassen Sie uns ihnen viel Glück wünschen und weitermachen. 
-
-#ev_xplrr_snakes
-Schlangen in einer Ebene
 
 #ev_xplr_snakes_1
 Unsere Formation [ x']' überqürte langsam eine scheinbar endlose Ebene, die mit hohem, dichtem Gras bedeckt war, die Höhe eines Porcos, als einer von ihnen einen starken Schmerz an seinen Füßen spürte: Er war von einer bunten Schlange gebissen worden, die schnell im Gras verschwand. Für den armen Bastard konnten wir nichts tun: In wenigen Minuten hatte sich sein Bein verdoppelt und er erlitt einen grausamen Tod.
@@ -1357,32 +1142,14 @@ Unsere Formation [x']' wurde von den Einheimischen in einem kleinen Dorf gut ang
 #ev_xplr_map_2
 "Schnüffeln hier ist der beste Späher des Dorfes", sagte ihr Chef. "Er kennt alle Besonderheiten dieses Landes. Wenn du willst, kann dir Sniffingwind zeigen, wie man in dem Gebiet reist, er war noch nie in Schwierigkeiten. Er wird dir sagen, welche Bereiche du meiden musst, welche Orte gefährlich sind und wo du gehen musst. In der Zwischenzeit kannst du gerne in unserem kleinen Dorf übernachten!" Sollten wir noch ein wenig länger bleiben und ihre Hilfe annehmen?
 
-#ev_xplrrr_snglost
-Explorer verloren!
-
 #ev_xplr_snglost_1
 Es ist sehr gefährlich, allein durch diese unbekannten Länder zu reisen. Leider verschwand unser Entdecker und wurde nie wieder erwähnt. 
 
 #ev_xplr_snglost_2
 Wer weiß, was mit ihm passiert ist..... Vielleicht sollten wir beim nächsten Mal eine größere Expedition in Betracht ziehen, um unsere Erfolgsaussichten zu erhöhen.
 
-#ev_xplrr_grplost_grplost
-Entdecker verloren!
-
-#ev_xplrr_grplost_1
-Es ist sehr gefährlich, diese unbekannten Länder in einer kleinen Gruppe zu bereisen. Leider verschwand unser Entdecker und man hörte nie wieder von ihm. 
-
-#ev_xplrr_grplost_2
-Wer weiß, was mit ihnen passiert ist..... Vielleicht sollten wir beim nächsten Mal eine größere Expedition in Betracht ziehen, um unsere Erfolgsaussichten zu erhöhen.
-
-#ev_xplrr_storm
-Schiffe verloren in einem schrecklichen Sturm!
-
 #ev_xplr_storm_1
 Das Meer ist gefährlich und launisch. Bevor jemand Zeit hatte zu reagieren, verwandelte sich eine ruhige Brise in einen schrecklichen Sturm mit Wellen, die höher als Hügel waren und einem dunkleren Himmel als die Nacht. Unser Schiff war diesem Sturm leider nicht gewachsen. Die Porcos kämpften tapfer, aber Schweine und Schiffe wurden alle bis zum nächsten Morgen vom Meer eingefordert. Ich fürchte, wir haben die ganze Expedition verloren.
-
-#ev_xplrr_rwave
-Schurkenwelle!
 
 #ev_xplr_rwave_1
 Das Meer ist gefährlich und tückisch. Es war ein sonniger Tag, das Meer schien ruhig zu sein und die Brise war schön. Die Porcos waren entspannt, wollten aber wieder an Land sein. Aber plötzlich drückte sich ein Schwein zusammen und zeigte auf den Horizont auf Steürbord. Alle sahen entsetzt aus, was wie eine unwahrscheinliche Wasserwand aussah, die in Richtung Schiff kam. Bevor jemand etwas tun konnte, wurde das winzige Schiff getroffen und gekentert. 
@@ -1405,17 +1172,11 @@ Es war eine schreckliche Nacht, an die sich alle Porcos für immer erinnern werd
 #ev_xplr_invlstsea_1
 Ein ungelernter Segler befestigte nicht richtig eine Kiste mit Zubehör, die das Schiff trug, und während einer turbulenten Nacht mit starken Winden fiel die Kiste ins Meer und wir verloren ihren Inhalt!
 
-#ev_xplrr_sngseal
-Gefährliches Meer
-
 #ev_xplr_sngseal_1
 Das Meer ist kein Ort für einsame Segler. Es ist unversöhnlich und unbarmherzig: Unsere wenigen Reisenden verschwanden und wurden nie wieder erwähnt.
 
 #ev_xplr_sngseal_2
 Wer weiß, was mit ihnen passiert ist..... Vielleicht sollten wir beim nächsten Mal eine größere Expedition in Betracht ziehen, wenn wir eine Chance haben wollen!
-
-#ev_xplrr_wiseold
-Das weise alte Schwein
 
 #ev_xplr_wiseold_1
 Als unsere Expedition ' [x]' auf dem Weg in ein neüs unerforschtes Gebiet war, kreuzte sich unser Weg mit einer Gruppe von Porcos in Lumpen. Trotz ihres bescheidenen Aussehens wirkten sie alle gut ausgebildet, voller Sicherheit und Entschlossenheit. Ihr Anführer, ein ehrwürdiges altes Schwein mit einem zottigen Bart, der auf die Knie fällt, präsentierte sich als Philosoph. Er hatte viele Jahre lang durch die Welt gewandert und sich bei jedem, der zuhören wollte, zu seinem Gedanken bekannt.
@@ -1425,9 +1186,6 @@ Wir beschlossen, uns für einen Moment zu ihnen zu setzen, und das weise alte Sc
 
 #ev_xplr_wiseold_3
 Er flehte stundenlang und fesselte das gesamte Publikum. Seine Worte waren subtil und seine Argumentation logisch. Er war sogar so überzeugend, dass viele von uns beschlossen, all ihren Besitz aufzugeben, um ihm zu folgen.
-
-#ev_xplrr_cptsow
-Gefangene Saün
 
 #ev_xplr_cptsow_1
 Ein Späher der Expedition ' [x]' berichtete gerade von der Anwesenheit einer Gruppe von Kriegern in der Gegend. Nach dem Aussehen ihres Lagers zu urteilen, ist ihre Anwesenheit im Gebiet nur vorübergehend. 
@@ -1441,17 +1199,11 @@ Kämpfe gegen die Entführer, um die Saün zu befreien.
 #ev_xplr_cptsow_c2
 Lass dich nicht einmischen.
 
-#ev_xplrr_slprats
-Verdammte Ratten!
-
 #ev_xplr_slprats_1
 Unsere Expedition, ' [x]', war gezwungen, sich in der ersten felsigen Höhle zu verstecken, die wir finden konnten, als ein Gewitter plötzlich ausbrach. Regen bis auf die Haut getränkt, haben wir uns alle versammelt und versucht, uns trotz des ohrenbetäubenden Lärms des Sturms auszuruhen.
 
 #ev_xplr_slprats_2
 Am Morgen hörte der Regen endlich auf und die Ruhe kehrte zurück. Im Halbschlaf hörten wir Quietschen aus unseren Lebensmittelbehältern. Wir merkten bald, dass wir von Ratten umgeben waren. Die bösartigen Nagetiere hatten den Lärm ausgenutzt, um die ganze Nacht über unsere Vorräte zu genießen. 
-
-#ev_xplrr_jnglsnek
-Dschungelnatter
 
 #ev_xplr_jnglsnek_1
 Während ' [x]' in den dichten Regenwald vordrangen, wurde einer unserer Entdecker von einer tiefschwarzen Schlange gebissen. Das kriechende Reptil verschwand dann sofort hinter einem Busch. Nach ein paar Stunden beklagten sich die verletzten Porcos darüber, dass sie sich schwindelig fühlten und verschwommen sahen. Er starb schließlich in der Nacht, unfähig zu atmen. 
@@ -1474,9 +1226,6 @@ Auf ihrer Reise durch das Land stieß sie auf ein kleines Stück fruchtbaren Lan
 #ev_xplr_natrprov_2
 Manchmal ist die Natur großzügig und sorgt dafür. Die Porcos hielten einige Stunden lang an und feierten mit diesem unerwarteten Geschenk und nahmen den Rest mit.
 
-#ev_xplrr_elegsow
-Die elegante Sau
-
 #ev_xplr_elegsow_1
 Während ihrer Reise durch ein unerforschtes Gebiet traf die Expedition von ' [x]' auf eine Prozession unter der Leitung einer eleganten Sau, die beqüm auf einer Sänfte sitzt. Die beiden Gruppen beschlossen, vorübergehend zusammenzureisen, um den gegenseitigen Schutz zu genießen. 
 
@@ -1485,9 +1234,6 @@ Die Porcos im Gefolge sprachen kaum ein Wort. Im Gegensatz zu den anderen Mitgli
 
 #ev_xplr_elegsow_3
 Einige von ihnen konnten es nicht mehr ertragen und beschlossen, in der Nacht zu fliehen. In den nächsten Tagen wanderten sie ziellos umher und kämpften gegen den Mangel an Drogen. Nach einer langen und harten Entwöhnung erholten sie sich schließlich. Nur noch wenige Porcos der ehemaligen Expeditionsparty sind vorhanden. Alle anderen wurden von der extrem süchtig machenden Zubereitung der Hexe verzaubert. 
-
-#ev_xplrr_mahout
-Die Mahouts
 
 #ev_xplr_mahout_1
 Während ihrer Wanderungen in unerforschten Gebieten hielten die Porcos von ' [x]' in einem kleinen Weiler mit friedlichen Mahouts. Die Einheimischen besaßen ein paar gesunde Elefanten. Die Zähmung dieser großen Kreaturen ist ein langer und mühsamer Prozess, und manchmal übernehmen ihre wilden Instinkte wieder die Kontrolle. 
@@ -1504,17 +1250,11 @@ Registrieren Sie sie.
 #ev_xplr_mahout_c2
 Ablehnen und gehen.
 
-#ev_xplrr_luckstrk
-Glückstreffer
-
 #ev_xplr_luckstrk_1
 Unsere Entdecker ' [x]' bestiegen die steilen Hänge eines neu entdeckten Gebietes, als sie begannen, zu spüren, wie sich der Boden unter ihren Füßen bewegte.  Das Stück Land, auf dem die Gruppe stand, löste sich scharf ab und verursachte einen massiven Erdrutsch. 
 
 #ev_xplr_luckstrk_2
 Viele unserer Porcos wurden verletzt, aber zum Glück haben alle überlebt. Als sie wieder auf die Beine kamen, bemerkten sie schon von weitem einen glänzenden Vorsprung.  Als sie sich ihm näherten, entdeckten sie eine riesige Erzlagerstätte, die durch den Erdrutsch freigelegt worden war. 
-
-#ev_xplrr_ruinorph
-Die überlebenden der Waisenkinder
 
 #ev_xplr_ruinorph_1
 Unsere Entdecker ' [x]' hatten eine große Rauchwolke am Horizont entdeckt, die sich erhob und den Himmel seines dunklen Fells bedeckte. Unsere Porcos näherten sich vorsichtig dem Ort, von dem aus das Feür ausging, und entdeckten schwelende Ruinen, gefüllt mit dem Gestank des Todes: Leblose Körper, die überall auf dem Boden lagen, ohne Wertgegenstände. Selbst das Vieh war nicht verschont geblieben. 
@@ -1530,9 +1270,6 @@ Adoptiere die verwaisten Ferkel.
 
 #ev_xplr_ruinorph_c2
 Geht.
-
-#ev_xplrr_sick
-Kranke Entdecker
 
 #ev_xplr_sick_1
 Viele Porcos in der Expedition ' [x]' haben sich mit Fieber infiziert. Die Krankheit scheint nicht zu heilen und wurde sogar Tag für Tag schlimmer. Die kranken Porcos sind von Halluzinationen und Wahnvorstellungen heimgesucht. Sie schwitzen stark und können mit dem Rest der Expeditionsgruppe nicht mehr laufen. 
@@ -1561,9 +1298,6 @@ Füttere die schiffbrüchigen Porcos und melde sie in der Gruppe an.
 #ev_xplr_shpwrk_c2
 Plündern Sie das Schiffswrack und seine überlebenden.
 
-#ev_xplrr_drnkfl
-Der betrunkene Narr
-
 #ev_xplr_drnkfl_1
 Unsere Expedition ' [x]' stieß auf einen kleinen nomadischen Stamm. Die Mitglieder dieses Stammes waren sehr freundlich und einladend. Noch nie hatten unsere Entdecker so freundliche Kerle getroffen. 
 
@@ -1579,9 +1313,6 @@ Lassen Sie die Nomaden Ihren Porco ausführen und gehen Sie.
 #ev_xplr_drnkfl_c2
 Kämpfe gegen die Nomaden und befreie deinen betrunkenen Narren.
 
-#ev_xplrr_mourn
-Der traürnde Stamm
-
 #ev_xplr_mourn_1
 Unsere Entdecker von ' [x]' erkundeten neü Länder, als sie auf ein Dutzend traürnder Porcos trafen, die eine Sau und ein Ferkel begruben. Nach einer ergreifenden Beerdigung sagten sie unseren Porcos, dass sie früher zu einer viel größeren Gruppe gehörten, die durch mehrere Banditenangriffe und Epidemien langsam dezimiert worden war. Sie hatten jetzt keine Vorräte mehr und hatten alle Hoffnung auf Erlösung verloren.
 
@@ -1591,9 +1322,6 @@ Bieten Sie ihnen an, an Ihrer Expedition teilzunehmen.
 #ev_xplr_mourn_c2
 Greif sie an und nimm ihre restlichen Vorräte.
 
-#ev_xplrr_amazn
-Amazonen!
-
 #ev_xplr_amazn_1
 Bei der Erkundung eines dichten tropischen Waldes hörten unsere Porcos ' [x]' eine bezaubernde Melodie. Als sie sich dem Ort näherten, von dem aus die Musik kam, entdeckten sie eine prächtige Sau, die am Rande eines Teiches saß und ihre Finger zwischen den Saiten einer Holzharfe schob. Die Entdecker waren von so viel Schönheit fasziniert und senkten ihre Wachen.
 
@@ -1602,9 +1330,6 @@ Nachdem sie ihr Lied beendet hatte, stand die Sau vorsichtig auf, packte einen k
 
 #ev_xplr_amazn_c1
 "Ich dachte, die Amazonen wären eine Legende.... Verteidigt euch!"
-
-#ev_xplrr_egg
-Das neugierige Schwein
 
 #ev_xplr_egg_1
 Unsere Entdecker von ' [x]' stolperten über ein verlassenes Nest mit ein paar großen Eiern: genug, um ein saftiges Omelett herzustellen. Ein neugieriges Schwein beschloss, sein Ei zu behalten und beraubte sich damit der leckeren Mahlzeit. Tagsüber trug er es herum, und nachts schlief er neben ihm. Das ging Dutzende von Tagen so weiter, dass er von seinen Begleitern verspottet wurde. 
@@ -1627,9 +1352,6 @@ Halten Sie das Kalb als Haustierelefant.
 #ev_xplr_orphel_c2
 "Sieht so aus, als ob frisches Fleisch wieder auf der Speisekarte steht, Jungs!"
 
-#ev_xplrr_tribrem
-Die überreste des Stammes
-
 #ev_xplr_tribrem_1
 Unsere Entdecker von ' [x]' stolperten über die überreste einer unglücklichen kleinen Gruppe von Nomaden. So wie es aussieht, waren sie vor langer Zeit gestorben, unter Umständen, die die Gruppe nicht herausfinden konnte. Ihr ganzes Hab und Gut schien neben ihnen noch intakt zu sein.
 
@@ -1638,9 +1360,6 @@ Fangen Sie ihre überreste ab, um das zu finden, was wir können.
 
 #ev_xplr_tribrem_c2
 Gib ihnen eine ordentliche Bestattung.
-
-#ev_xplrr_wolfcubs
-Verlassene Jungen
 
 #ev_xplr_wolfcubs_1
 Unsere Entdecker von ' [x]' wurden von einem heftigen Sturm überrascht und flüchteten in eine kleine Höhle unter einer nahegelegenen Klippe, um sie abzuwarten. Während sie damit beschäftigt waren, darin ihr Lager aufzuschlagen, hörten sie seltsame Rufgeräusche. 
@@ -1660,26 +1379,14 @@ Suddently kam ein schreckliches Knurren von vorne und stoppte die Gruppe. "Wölf
 #ev_xplr_bears
 Bären!
 
-#ev_xplr_bären_1
-Unsere Entdecker von ' [x]' hatten ein Lager in unbekannten Ländern für die Nacht aufgeschlagen, als sie im Morgengraün zu ungewöhnlichem Aufruhr aufwachten. Entsetzt sahen sie eine Gruppe von 3 riesigen Bären, die durch ihr Inventar und ihre Vorräte plünderten, die neben dem Lager lagen.
-
-#ev_xplr_bären_2
-Einer der Porcos, der in der Nähe der Bären schlief, erschrak über diese Erkenntnis und machte einen Zug, der die unglückliche Folge hatte, die Aufmerksamkeit eines der Tiere auf sich zu ziehen. Das Tier, wütend und hungrig, rannte zu dem armen Bastard und entschied, dass es Zeit für ein Frühstück mit Speck war.
-
 #ev_xplr_bears_c1
 Jeder tut so, als würde er schlafen. Arme alte Jenkins.....
 
 #ev_xplr_bears_c2
 "Sterbt, ihr hässlichen, fetten Bestien!"
 
-#ev_xplrr_civlost
-Verteidigungslose Entdecker verloren!
-
 #ev_xplr_civlost_1
 Die Entsendung wehrloser Zivilisten zur Erkundung unbekannter fremder Länder ist eine riskante und gefährliche Entscheidung. Unsere Entdecker ' [x]' verschwanden und wurden nie wieder gehört: wer weiß, welches böse Schicksal ihnen zugedacht wurde......
-
-#ev_xplrr_blizzard
-Visüller Schneesturm
 
 #ev_xplr_blizzard_1
 Ein visüller Schneesturm verbarg unsere Expedition von ' [x]' für viele Tage. Viele von ihnen schafften es nicht, während die überlebenden alle verbliebenen Vorräte an Lebensmitteln verzehrten. In diesen trostlosen Ländern gibt es nichts zu essen!
@@ -1690,17 +1397,11 @@ Verdammtes Eisloch!
 #ev_xplr_icehole_1
 Diese Ländereien sind tückisch. Auf dem Weg durch ein schwieriges Gelände fielen einige Porcos unserer Ausgaben ' [x]' in den Tod, als das Eis unter ihnen brach und ein tiefes Senkloch enthüllte.
 
-#ev_xplrr_avlch
-Lawine!
-
 #ev_xplr_avlch_1
 Da unsere Gruppe in einem schwierigen Gelände unterwegs war, nahm eine plötzliche Lawine die Hälfte unserer Leute und Vorräte ein! Was machen wir überhaupt dort?!
 
 #ev_xplr_freez1
 Gletschernacht
-
-#ev_xplr_freez1_1_1
-Das Reisen bei so einem Gletscherwetter erfordert ständige Versorgung, einschließlich Holz, um die Feür im Lager nachts am Leben zu erhalten. Gut, dass unsere Expedition von ' [x]' noch etwas Holz hatte, um eine besonders glaziale Nacht zu überstehen.
 
 #ev_xplr_freez2
 Gletschernacht
@@ -1710,9 +1411,6 @@ Nach einer besonders eisigen Nacht, in der man sich nicht warm halten konnte, sc
 
 #ev_xplr_polfood1
 Eisige Wüste
-
-#ev_xplr_polfood1_1_1
-Reisen in eiskalten, feindlichen, kargen Ländern erfordern ständige Versorgung, einschließlich Nahrung, da es in dieser eisigen Wüste oft absolut nichts zu essen gibt. Gut, dass unsere Expedition von ' [x]' noch etwas Nahrung hatte, um einen anderen Tag zu überleben.
 
 #ev_xplr_polfood2
 Eisige Wüste
@@ -1747,18 +1445,6 @@ Nach vielen Jahren langsamer Entwicklung und stiller Führung durch gehorsame Ad
 #ev_spwn_clny_2
 Du bist der erste Herrscher einer Kolonie geworden, die zuvor von einem anderen Spieler gegründet wurde. Diese Region entwickelt sich daher jetzt und wird zu einer eigenen politischen Einheit, die von Ihnen regiert wird. Sie beginnen jedoch als Mitglied einer bestehenden Nation und standardmäßig unter der Schirmherrschaft des ursprünglichen Gründers der Kolonie: der [y]. Als neür Zweig seiner Kultur beginnt man auch mit dem Wissen der Gründer. Als Ex-Kolonie, seien Sie gewarnt, dass Sie auch mit einem Vertrag beginnen, der Sie an seine Nation bindet, was bedeutet, dass Sie es nicht verlassen können, ohne es zu brechen und Strafen oder sogar Krieg zu erleiden. Aber das kann auch eine gute Sache sein: Du fängst nicht allein an und kannst Schutz und Hilfe von deinen Vorgesetzten in der Nation suchen, um deine Entwicklung zu unterstützen. Es ist wahrscheinlich eine kluge Idee, damit zu beginnen, sich an Ihren Vorgesetzten und Gründer zu wenden, um ihn zu begrüßen und freundschaftliche Beziehungen aufzubaün. Dann wer weiß, vielleicht wird es eines Tages Zeit für [x] sein, seine Unabhängigkeit zu beanspruchen!
 
-#ev_clnyevlvlv
-Eine Kolonie hat sich entwickelt!
-
-#ev_clnyevlvlv_1
-Gute Nachrichten! Eine unserer Kolonien, [x], hat ihren ersten richtigen Herrscher gefunden: [p1]. Sie haben ihre eigene neü Regierung gegründet und sind nun als die[p2] bekannt. 
-
-#ev_clnyevlvlv_2
-Sie haben unsere große Nation als einen unserer Untergebenen integriert und den Kolonialvertrag, der sie an uns bindet und einer Steür von 5% ihres Einkommens zustimmt, zusätzlich zu den Pflichten ihres neün Titels in der Nation formal ratifiziert. 
-
-#ev_clnyevlvlv_3
-Als Versicherung werden wir die Kontrolle über ihre Staatskasse von über 50% ihres BIP behalten, falls sie sich jemals entscheiden, dieses Abkommen illegal zu brechen!
-
 #ev_form_ovrdrft
 Die Heimat von ' [y]' hat eine unzureichende Bevölkerung!
 
@@ -1774,9 +1460,6 @@ Die Soldaten in unseren Armeen desertieren wegen deiner negativen Legitimität! 
 #ev_form_ovrdrft_2
 Vielleicht sollten wir eine Verkleinerung in Betracht ziehen, um die überziehung der Bevölkerung in [x] zu reduzieren, oder wir könnten diese Formation in ein anderes Gebiet verlagern, das sie besser unterstützen könnte. Wenn wir nicht handeln, wird diese Formation langsam zerfallen!
 
-#ev_xplrr_brkleg
-Gebrochenes Bein
-
 #ev_xplr_brkleg_1
 Einer unserer Entdecker hat es geschafft, sich beim Gehen auf schwierigem Gelände das Bein in einem Fehltritt zu brechen, und verlangsamt nun die gesamte Gruppe. Was sollen wir tun?
 
@@ -1786,20 +1469,11 @@ Warte, bis er sich erholt hat.
 #ev_xplr_brkleg_c2
 Verlasst ihn, es gibt keinen Platz für die Schwachen!
 
-#ev_xplrr_drnriv
-Ertrinken im Fluss
-
 #ev_xplr_drnriv_1
 Während der überqürung eines Flusses fiel einer unserer Entdecker ins Wasser. Das arme Schwein wusste nicht, wie man schwimmt, und die Strömungen trugen ihn weg, bevor ihm jemand helfen konnte.
 
-#ev_xplrr_cliff
-Ungeschickter Porco
-
 #ev_xplr_cliff_1
 Während unsere Entdecker am Rande einer hohen Klippe entlang gingen, stolperte ein ungeschickter Porco und fiel in den Tod.
-
-#ev_xplrr_slowed
-Anspruchsvolles Gelände
 
 #ev_xplr_slowed_1
 Diese unbekannten Länder erwiesen sich als besonders schwierig zu durchqüren: Unsere Entdecker verloren sich mehrfach und verloren viel Zeit und es daürte viel länger als erwartet, bis sie ihr Ziel erreichten.
@@ -1816,21 +1490,348 @@ hat einen Gebietsanspruch verloren!
 #ev_claimloss_1
 Aufgrund ihrer unzureichenden lokalen Verwaltung ([p1]) hat die Stadt [x] einen ihrer Gebietsansprüche verloren, da sie es sich nicht mehr leisten konnte, sie zu erhalten.
 
-#ev_hat_einen_Subjugus
-Ihr habt [x] unterworfen!
-
 #ev_has_subjug_1
 Du hast den Zustand von [x] unterworfen, der von [y] regiert wird, der jetzt dein Vasall ist. 
 
 #ev_has_subjug_2
  [x] wird Ihnen nun Tribut zollen, indem er Münzen und Staatsmacht zollt, und er ist als Ihr Untergebener in Ihre Nation eingetreten. Im Gegenzug wurden alle besetzten Gebiete auf [x] zurückgeführt. 
 
-#ev_wurde_subjugiert_.
-Du wurdest von [x] unterworfen!
+#cond_ownbdg
+Haben Sie[x][y] in dem Gebiet.
 
-#ev_war_subjug_1
-Du wurdest unterjocht unter dem Staat [x], der von [y] regiert wird, der jetzt dein Logenherr ist. 
+#cond_prdgrpprd_inf
+Produktion von[y] Ressourcen, die unter[x] liegen.
 
-#ev_war_subjug_2
-Ihr müsst jetzt Tribut an Münzen und Staatsmacht zahlen, und er ist der Nation [x] als Untergebener von [y] beigetreten. Im Gegenzug wurden alle besetzten Gebiete an Sie zurückgegeben. 
+#cond_prdgrpprd_sup
+Produktion von[y]-Ressourcen, die den[x] überlegen sind.
+
+#cond_growth_sup
+[y] Wachstum besser als[x]
+
+#effect_trigproj
+Entsperrt das Projekt: [x]
+
+#effect_rejproj
+Lehnt das Projekt ab: [x]
+
+#effect_canceldebt
+Streichen Sie Ihre Schulden.
+
+#effect_modhonor
+Ehre [x]
+
+#effect_fac_rplc
+Mit diesem Charakter tauschst du die Position in der Hierarchie der Nation.
+
+#event_treaty
+Vertragsvorschlag von[x]
+
+#event_Abr_invad
+Invasion von[x]
+
+#event_Abr_raid
+Überfall auf[x]
+
+#event_Ab_sack
+Sackleinen[x]
+
+#event_Abr_sack
+Sackung von[x]
+
+#event_Dbr_sack
+Verteidigung von[x] gegen eine Entlassung von[y]
+
+#event_Dbr_assist_1
+[y] wurde in[x] angegriffen. 
+
+#event_Dbr_assist_2
+Als Verbündeter nahmen unsere[p2] Truppen an der Schlacht teil, um bei der Verteidigung gegen[p3] Feinde zu helfen.
+
+#event_Abr_assist
+Unterstützt[y] bei dem Angriff von[x].
+
+#event_Abr_assist_1
+(y) hat angegriffen (y). 
+
+#event_Abr_assist_2
+Als Verbündeter von[y] nahmen unsere Truppen an der Schlacht teil und assistierten seine Armeen.
+
+#event_trt_rngoc
+[y] schlägt eine Neuverhandlung des Vertrages vor.
+
+#event_trt_rngoc_1
+[x] von[y] schlägt die folgende Renogierung eines Vertrags vor, den wir derzeit mit ihnen haben. Wenn wir diesen neuen Bedingungen zustimmen, wird der Vertrag aktualisiert.
+
+#event_trt_brk1_1
+hat illegal den Vertrag von '[y]' gebrochen, den sie mit uns hatten!
+
+#event_trt_brk2_2
+Gemäß den Vertragsbruchbedingungen haben wir als Strafe[p1] Münzen bezahlt und[p2] an Ehre verloren.
+
+#event_brb_raid
+Ankommende barbarische Raider!
+
+#event_brb_sack
+Ankommendes barbarisches Kriegsband!
+
+#event_trout_w1
+Warnung vor Handelsrouten: keine Handelsrechte!
+
+#event_trout_w1_1
+Da wir keine Handelsrechte mehr mit der Stadt[y] haben, wird unsere Handelsroute zwischen dieser Stadt und[x] bald geschlossen, wenn wir dieses Problem nicht schnell lösen. 
+
+#event_trout_w1_2
+Dies kann passieren, wenn die Stadt einen neuen Eigentümer hat, mit dem wir keine Handelsrechte ausgehandelt haben, oder wenn diese Rechte widerrufen wurden.
+
+#event_trout_b1
+Handelsroute unterbrochen!
+
+#event_trout_b1_1
+Da wir keine Handelsrechte mehr mit der Stadt[y] hatten, wurde unsere Handelsroute zwischen dieser Stadt und[x] geschlossen. 
+
+#event_trout_b1_2
+Dies geschah, weil die Stadt einen neuen Eigentümer bekam, mit dem wir keine Handelsrechte ausgehandelt haben, oder weil die Handelsrechte widerrufen wurden.
+
+#event_trout_w2
+Handelsroutenwarnung: Fehlende Ladung!
+
+#event_trout_w2_1
+Auf unserer Handelsroute mit[x], die von[y] betrieben wird, fehlt[p2] die Ladung, um ordnungsgemäß betrieben zu werden. Der Handelsweg wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell.
+
+#event_trout_w2_2
+Der Frachtdienst ermöglicht es, die Waren kontinuierlich auf einer Handelsroute zu befördern und einen konstanten Transfer von Ressourcen aufrechtzuerhalten. Jede Route, abhängig von der Entfernung und dem Volumen der gehandelten Waren, erfordert eine bestimmte Menge an Ladung.  
+
+#event_trout_w2_3
+Dieser Betreiber produziert jedoch nicht mehr genügend des benötigten Frachtdienstes, um diese Handelsroute ordnungsgemäß zu betreiben: Um dieses Problem zu beheben, muss es seinen verfügbaren Dienst erweitern oder wir müssen zu einem neuen, anderen Betreiber wechseln, der die erforderliche Fracht bereitstellen kann ([p3]).
+
+#event_trout_b2
+Handelsroute unterbrochen!
+
+#event_trout_b2_1
+Unsere Handelsroute mit[x] wurde geschlossen, weil der Betreiber[y] nicht in der Lage war, die erforderliche Ladung ([p3]) für ihre Wartung bereitzustellen (fehlte[p2]).
+
+#event_trout_b2_2
+Der Frachtdienst ermöglicht es, die Waren kontinuierlich auf einer Handelsroute zu befördern und einen konstanten Transfer von Ressourcen aufrechtzuerhalten. Jede Route, abhängig von der Entfernung und dem Volumen der gehandelten Waren, erfordert eine bestimmte Menge an Ladung.  
+
+#event_trout_b2_3
+Dieser Betreiber produziert jedoch nicht mehr genügend des benötigten Frachtdienstes, um diese Handelsroute ordnungsgemäß zu betreiben: Um dieses Problem zu beheben, muss es seinen verfügbaren Dienst erweitern oder wir müssen zu einem neuen, anderen Betreiber wechseln, der die erforderliche Fracht bereitstellen kann ([p3]).
+
+#event_trout_w3
+Handelsroutenwarnung: Uns fehlen Waren!
+
+#event_trout_w3_1
+Unser Handelsweg, der[p2][p3] nach[x] von[y] exportiert, hat nicht die erforderliche Ware und wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell!
+
+#event_trout_w3_2
+Dies geschieht, weil wir nicht mehr genug[p3] in[x] produzieren und unsere Bestände aufgebraucht sind. 
+
+#event_trout_b3
+Handelsroute unterbrochen!
+
+#event_trout_b3_1
+Unsere Handelsroute, die[p2][p3] nach[x] von[y] exportiert, wurde geschlossen, weil wir die benötigten Waren nicht mehr liefern konnten.
+
+#event_trout_b3_2
+Dies geschah, weil wir nicht genug[p3] in[x] produzierten und unsere Bestände knapp wurden. 
+
+#event_trout_w4
+Handelsroutenwarnung: Dem Exporteur fehlen Waren!
+
+#event_trout_w4_2
+Dies geschieht, weil ihre Produktion von[p3] in[y] unzureichend ist und ihre Bestände knapp wurden.
+
+#event_trout_b4
+Handelsroute unterbrochen!
+
+#event_trout_b4_1
+Unsere Handelsroute, die[p2][p3] von[x] nach[y] importiert, wurde geschlossen, weil sie die benötigten Waren nicht mehr liefern konnte.
+
+#event_trout_b4_2
+Dies geschah, weil ihre Produktion von[p3] in[x] unzureichend war und ihre Bestände knapp geworden waren.
+
+#event_trout_c1
+[x] hat eine Handelsroute gesperrt!
+
+#event_trout_c1_1
+Die Stadt[x] hat ihre Handelsroute von[p2][p3] mit unserer Stadt[y] geschlossen.
+
+#event_trout_c2
+Eine unserer Handelsrouten wurde von ihrem Betreiber gesperrt!
+
+#event_trout_c2_1
+Die Stadt[x] hat beschlossen, den Betrieb unserer Handelsroute[p2][p3] mit unserer Stadt[y] einzustellen. Dies führte dazu, dass die Handelsroute geschlossen wurde.
+
+#event_ccamel
+Jäger fingen einige wilde Kamele in[x]!
+
+#ev_vp_fail
+hat eine Siegesmission erfüllt!
+
+#ev_votesucc_rslt_1
+[p2] wurde gewählt[x], als Nachfolger von[p1]. 
+
+#ev_votesucc_rslt_2
+[p2] gewann die Wahl mit[p3] Stimmen von[p4] abgegebenen Stimmen.
+
+#ev_votesucc_won
+Du wurdest gewählt[x]!
+
+#ev_votesucc_won_1
+Herzlichen Glückwunsch! Du wurdest[y] in Folge von[p1] gewählt. 
+
+#ev_votesucc_won_2
+Du hast die Wahl mit[p3] Stimmen zu deinen Gunsten aus[p4] abgegebenen Stimmen gewonnen.
+
+#ev_xplrch_shame
+"Es ist eine Schande."
+
+#ev_xplrch_leave
+Geht.
+
+#ev_xplr_bdts
+Banditen überfielen unsere Formation '[x]'!
+
+#ev_xplr_abvil
+"x" fand ein verlassenes Dorf.
+
+#ev_xplr_birds
+Furchtlose Vögel
+
+#ev_xplr_thirst
+Unvergessliche Wüste
+
+#ev_xplr_lstjngl
+Verloren im Dschungel
+
+#ev_xplr_strvtrib
+Der hungernde Stamm
+
+#ev_xplr_snakes
+Schlangen in einer Ebene
+
+#ev_xplr_snglost
+Explorer verloren!
+
+#ev_xplr_grplost
+Entdecker verloren!
+
+#ev_xplr_grplost_1
+Es ist sehr gefährlich, diese unbekannten Länder in einer kleinen Gruppe zu bereisen. Leider verschwand unser Entdecker und man hörte nie wieder von ihm. 
+
+#ev_xplr_grplost_2
+Wer weiß, was mit ihnen passiert ist..... Vielleicht sollten wir beim nächsten Mal eine größere Expedition in Betracht ziehen, um unsere Erfolgsaussichten zu erhöhen.
+
+#ev_xplr_storm
+Schiffe verloren in einem schrecklichen Sturm!
+
+#ev_xplr_rwave
+Schurkenwelle!
+
+#ev_xplr_sngseal
+Gefährliches Meer
+
+#ev_xplr_wiseold
+Das weise alte Schwein
+
+#ev_xplr_cptsow
+Gefangene Sauen
+
+#ev_xplr_slprats
+Verdammte Ratten!
+
+#ev_xplr_jnglsnek
+Dschungelnatter
+
+#ev_xplr_elegsow
+Die elegante Sau
+
+#ev_xplr_mahout
+Die Mahouts
+
+#ev_xplr_luckstrk
+Glückstreffer
+
+#ev_xplr_ruinorph
+Die Überlebenden der Waisenkinder
+
+#ev_xplr_sick
+Kranke Entdecker
+
+#ev_xplr_drnkfl
+Der betrunkene Narr
+
+#ev_xplr_mourn
+Der trauernde Stamm
+
+#ev_xplr_amazn
+Amazonen!
+
+#ev_xplr_egg
+Das neugierige Schwein
+
+#ev_xplr_tribrem
+Die Überreste des Stammes
+
+#ev_xplr_wolfcubs
+Verlassene Jungen
+
+#ev_xplr_bears_1
+Unsere Entdecker von '[x]' hatten ein Lager in unbekannten Ländern für die Nacht aufgeschlagen, als sie im Morgengrauen zu ungewöhnlichem Aufruhr aufwachten. Entsetzt sahen sie eine Gruppe von 3 riesigen Bären, die durch ihr Inventar und ihre Vorräte plünderten, die neben dem Lager lagen.
+
+#ev_xplr_bears_2
+Einer der Porcos, der in der Nähe der Bären schlief, erschrak über diese Erkenntnis und machte einen Zug, der die unglückliche Folge hatte, die Aufmerksamkeit eines der Tiere auf sich zu ziehen. Das Tier, wütend und hungrig, rannte zu dem armen Bastard und entschied, dass es Zeit für ein Frühstück mit Speck war.
+
+#ev_xplr_civlost
+Verteidigungslose Entdecker verloren!
+
+#ev_xplr_blizzard
+Visueller Schneesturm
+
+#ev_xplr_avlch
+Lawine!
+
+#ev_xplr_freez1_1
+Das Reisen bei so einem Gletscherwetter erfordert ständige Versorgung, einschließlich Holz, um die Feuer im Lager nachts am Leben zu erhalten. Gut, dass unsere Expedition von '[x]' noch etwas Holz hatte, um eine besonders glaziale Nacht zu überstehen.
+
+#ev_xplr_polfood1_1
+Reisen in eiskalten, feindlichen, kargen Ländern erfordern ständige Versorgung, einschließlich Nahrung, da es in dieser eisigen Wüste oft absolut nichts zu essen gibt. Gut, dass unsere Expedition von '[x]' noch etwas Nahrung hatte, um einen anderen Tag zu überleben.
+
+#ev_clnyevlv
+Eine Kolonie hat sich entwickelt!
+
+#ev_clnyevlv_1
+Gute Nachrichten! Eine unserer Kolonien,[x], hat ihren ersten richtigen Herrscher gefunden: [p1]. Sie haben ihre eigene neue Regierung gegründet und sind nun als die[p2] bekannt. 
+
+#ev_clnyevlv_2
+Sie haben unsere große Nation als einen unserer Untergebenen integriert und den Kolonialvertrag, der sie an uns bindet und einer Steuer von 5% ihres Einkommens zustimmt, zusätzlich zu den Pflichten ihres neuen Titels in der Nation formal ratifiziert. 
+
+#ev_clnyevlv_3
+Als Versicherung werden wir die Kontrolle über ihre Staatskasse von über 50% ihres BIP behalten, falls sie sich jemals entscheiden, dieses Abkommen illegal zu brechen!
+
+#ev_xplr_brkleg
+Gebrochenes Bein
+
+#ev_xplr_drnriv
+Ertrinken im Fluss
+
+#ev_xplr_cliff
+Ungeschickter Porco
+
+#ev_xplr_slowed
+Anspruchsvolles Gelände
+
+#ev_has_subjug
+Ihr habt[x] unterworfen!
+
+#ev_been_subjug_1
+Du wurdest unterjocht unter dem Staat[x], der von[y] regiert wird, der jetzt dein Logenherr ist. 
+
+#ev_been_subjug_2
+Ihr müsst jetzt Tribut an Münzen und Staatsmacht zahlen, und er ist der Nation[x] als Untergebener von[y] beigetreten. Im Gegenzug wurden alle besetzten Gebiete an Sie zurückgegeben. 
+
+#event_trout_w4_1
+Unser Handelsweg, der[p2][p3] von[y] nach[x] importiert, hat nicht die erforderlichen Waren und könnte bald schließen, es sei denn, der Exporteur behebt dieses Problem schnell!
+
+#ev_been_subjug
+Du wurdest von[x] unterworfen.
 

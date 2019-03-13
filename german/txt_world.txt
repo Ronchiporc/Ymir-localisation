@@ -1,4 +1,5 @@
-﻿#clim_sea
+﻿
+#clim_sea
 Meer
 
 #clim_pol
@@ -46,8 +47,9 @@ See
 #water_river
 Fluss
 
-#Wasser_Sumpf
-Sumpf
-
 #veget_forest
 Wald
+
+#water_swamp
+Swamp
+

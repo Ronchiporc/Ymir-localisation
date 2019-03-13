@@ -1,4 +1,5 @@
-﻿#civ_gifteco_n
+﻿
+#civ_gifteco_n
 Geschenkökonomie
 
 #civ_gifteco_dscr
@@ -103,9 +104,6 @@ Finanzielle Belastungen für die Steuerzahler durch den Staat.
 #civ_seizem_n
 Materialien erfassen
 
-#civ_seizem_dscr_dscr
-Beschlagnahme von Baumaterialien aus der Bevölkerung, anstatt für sie zu bezahlen. Ein Überschuss davon könnte Ihrer Wirtschaft schaden.
-
 #civ_statepriv_n
 Privilegien
 
@@ -151,5 +149,9 @@ Eine staatliche Beihilfe, die jeder Säulengang einer bestimmten Gruppe von Arbe
 #civ_paidrsrch_n
 Bezahlte Forscher
 
-#civ_paidrsrch_dscr_dscr
+#civ_seizem_dscr
+Beschlagnahme von Baumaterialien aus der Bevölkerung, anstatt für sie zu bezahlen. Ein Überschuss davon könnte Ihrer Wirtschaft schaden.
+
+#civ_paidrsrch_dscr
 Projektforscher werden vom Staat proportional zu ihrem aktuellen Vermögen bezahlt und reduzieren nicht mehr die Arbeitskräfte in den Gebäuden, in denen sie arbeiten.
+

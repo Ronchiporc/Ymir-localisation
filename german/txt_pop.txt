@@ -1,4 +1,5 @@
-﻿#pop_inactive
+﻿
+#pop_inactive
 Inaktiv
 
 #pop_hunter
@@ -15,9 +16,6 @@ Holzfäller
 
 #pop_miner
 Bergleute
-
-#pop_metalled
-Metallurgen
 
 #pop_blacksm
 Schmiede
@@ -72,3 +70,7 @@ Säue
 
 #pop_old
 Altschweine
+
+#pop_metal
+Metallbauer
+

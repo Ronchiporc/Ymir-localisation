@@ -1,4 +1,5 @@
-﻿#g_ok
+﻿
+#g_ok
 ok
 
 #g_Ok
@@ -15,9 +16,6 @@ ja
 
 #g_YES
 JA
-
-#g_Nein
-Nein
 
 #g_no
 nein
@@ -37,9 +35,6 @@ Mittel
 #g_high
 Hoch
 
-#g_von
-von
-
 #g_free
 kostenlos
 
@@ -51,9 +46,6 @@ Kosten
 
 #g_coins
 Münzen
-
-#g_upkeeping
-Aufrechterhaltung
 
 #g_Upkeep
 Pflege und Wartung
@@ -70,23 +62,11 @@ Verwaltungskosten
 #g_Lifequal
 Lebensqualität
 
-#g_Gesundheit
-Gesundheit
-
-#g_Effizienz
-Effizienz
-
 #g_EFFICIENCY
 EFFIZIENZ
 
 #g_resunit
 Ressourceneinheit
-
-#g_Wiederholungen
-Ressourceneinheiten
-
-#g_Haushalte
-Haushalte
 
 #g_cancel
 abbrechen
@@ -96,9 +76,6 @@ Abbrechen
 
 #g_empty
 leer
-
-#g_Belegschaft
-Belegschaft
 
 #g_WORKFORCE
 ARBEITSKRAFT
@@ -121,35 +98,17 @@ Keine
 #g_none
 keine
 
-#g_Alle
-Alle
-
-#g_alle
-alle
-
 #g_distribute
 verteilen
 
 #g_produce
 produzieren
 
-#g_Produktion
-Produktion
-
-#g_notwendig
-benötigt
-
-#g_oder
-oder
-
 #g_status
 Status
 
 #g_city
 Stadt
-
-#g_Kapital
-Kapital
 
 #g_territory
 Territorium
@@ -163,15 +122,6 @@ Anspruch
 #g_owner
 Besitzer
 
-#g_Saläre
-Löhne
-
-#g_Steuern
-Steuern
-
-#g_Abfall
-Abfall
-
 #g_Economy
 Wirtschaft
 
@@ -180,12 +130,6 @@ WIRTSCHAFT
 
 #g_currency
 Währung
-
-#g_loyalität
-Loyalität
-
-#g_Loyalität
-Loyalität
 
 #g_conflict
 Konflikt
@@ -196,18 +140,6 @@ Konflikt
 #g_state_culture
 Staatskultur
 
-#g_lokale_kultur
-lokale Kultur
-
-#g_Wachstum
-Wachstum
-
-#g_Beschäftigung
-Beschäftigung
-
-#g_Vital_Notwendigkeit_der_Bedürfnisse
-Lebensnotwendige Bedürfnisse
-
 #g_vital_needs
 lebenswichtige Bedürfnisse
 
@@ -216,12 +148,6 @@ Fraktion
 
 #g_Faction
 Fraktion
-
-#g_Kultur
-Kultur
-
-#g_Kenntnisse
-Kenntnisse
 
 #g_Nation
 Nation
@@ -235,17 +161,11 @@ Regierung
 #g_Society
 Gesellschaft
 
-#g_Diplomatie
-Diplomatie
-
 #g_Power
 Leistung
 
 #g_POWER
 LEISTUNG
-
-#g_Legitimität
-Legitimität
 
 #g_LEGITIMACY
 LEGITIMITÄT
@@ -268,17 +188,11 @@ hinzufügen
 #g_Add
 Hinzufügen
 
-#g_enable
-ermöglicht
-
 #g_Disable
 Deaktivieren
 
 #g_disables
 deaktiviert
-
-#g_preis
-Preis
 
 #g_PRICE
 PREIS
@@ -289,26 +203,14 @@ Server
 #g_server
 Server
 
-#g_steigert_sich_zu
-vergrößernd
-
-#g_absteigend_zu
-abnehmend auf
-
 #g_stable
 stabil
-
-#g_Administration
-Verwaltung
 
 #g_Porco
 Porco
 
 #g_Porcos
 Schweinchen
-
-#g_Laden
-Laden
 
 #g_Unload
 Entladen
@@ -318,9 +220,6 @@ Zerstören
 
 #g_From
 Von
-
-#g_von
-von
 
 #g_multiple
 mehrfach
@@ -349,15 +248,6 @@ Rebellen
 #g_automatic
 automatisch
 
-#g_noresultate
-kein Ergebnis
-
-#g_Fertilität
-Fruchtbarkeit
-
-#g_Grundwasser
-Grundwasser
-
 #g_Any
 Irgendwelche
 
@@ -376,15 +266,6 @@ Stunden
 #g_days
 Tage
 
-#g_Struktur
-Struktur
-
-#g_struktur
-Struktur
-
-#g_Solidität
-Solidität
-
 #g_solidity
 Solidität
 
@@ -400,38 +281,17 @@ zufällig
 #g_agree
 zustimmen
 
-#g_abweisen
-ablehnen
-
-#g_warnung
-WARNUNG!
-
 #g_areyousure
 Bist du sicher?
 
 #g_Gaia
 Gaia
 
-#g_Primitive
-Primitive
-
 #g_Rebels
 Rebellen
 
-#g_Partner
-Partisanen
-
-#g_Barbaren
-Barbaren
-
-#g_Freie_Städte
-Freie Städte
-
 #g_facnameprep
 von
-
-#g_facrk1_1_1
-Hoher Häuptling
 
 #g_facrk1_2
 Häuptlingstum
@@ -439,14 +299,8 @@ Häuptlingstum
 #g_facrk2_1
 Häuptling
 
-#g_facrk2_2_2
-Häuptlingstum
-
 #g_prmtv_trb
 Primitiver Stamm
-
-#g_trb_von
-Stamm der [x]
 
 #g_colonialtrty
 Kolonialvertrag
@@ -475,18 +329,6 @@ Außenposten
 #g_city
 Stadt
 
-#g_Kapital
-Kapital
-
-#g_und
-und
-
-#g_Betrag
-Betrag
-
-#g_beträge
-Betrag
-
 #g_Enabled
 Aktiviert
 
@@ -499,14 +341,8 @@ Deaktiviert
 #g_disabled
 deaktiviert
 
-#g_pro_Tag
-pro Tag
-
 #g_ev_days
 alle [x] Tage
-
-#g_pro_Stunde
-pro Stunde
 
 #g_ev_hours
 alle [x] Stunden
@@ -523,5 +359,171 @@ pro Sekunde
 #g_ev_seconds
 alle [x] Sekunden
 
-#g_mit
+#g_No
+Nein
+
+#g_of
+von
+
+#g_upkeep
+Aufrechterhaltung
+
+#g_Health
+Gesundheit
+
+#g_efficiency
+Effizienz
+
+#g_resunits
+Ressourceneinheiten
+
+#g_Households
+Haushalte
+
+#g_workforce
+Belegschaft
+
+#g_All
+Alle
+
+#g_all
+alle
+
+#g_production
+Produktion
+
+#g_needed
+benötigt
+
+#g_or
+oder
+
+#g_capital
+Kapital
+
+#g_Salaries
+Löhne
+
+#g_Taxes
+Steuern
+
+#g_Waste
+Abfall
+
+#g_loyalty
+Loyalität
+
+#g_Loyalty
+Loyalität
+
+#g_local_culture
+lokale Kultur
+
+#g_Growth
+Wachstum
+
+#g_Employment
+Beschäftigung
+
+#g_Vital_needs
+Lebensnotwendige Bedürfnisse
+
+#g_Culture
+Kultur
+
+#g_Knowledges
+Kenntnisse
+
+#g_Diplomacy
+Diplomatie
+
+#g_Legitimacy
+Legitimität
+
+#g_enables
+ermöglicht
+
+#g_price
+Preis
+
+#g_increasing_to
+vergrößernd
+
+#g_decreasing_to
+abnehmend auf
+
+#g_Administation
+Verwaltung
+
+#g_Load
+Laden
+
+#g_from
+von
+
+#g_noresult
+kein Ergebnis
+
+#g_Fertility
+Fruchtbarkeit
+
+#g_Groundwater
+Grundwasser
+
+#g_Structure
+Struktur
+
+#g_structure
+Struktur
+
+#g_Solidity
+Solidität
+
+#g_refuse
+ablehnen
+
+#g_warning
+WARNUNG!
+
+#g_Primitives
+Primitive
+
+#g_Partisans
+Partisanen
+
+#g_Barbarians
+Barbaren
+
+#g_Free_cities
+Freie Städte
+
+#g_facrk1_1
+Hoher Häuptling
+
+#g_facrk2_2
+Häuptlingstum
+
+#g_trb_of
+Stamm der[x]
+
+#g_capital
+Kapital
+
+#g_and
+und
+
+#g_Amount
+Betrag
+
+#g_amount
+Betrag
+
+#g_per_day
+pro Tag
+
+#g_per_hour
+pro Stunde
+
+#g_with
 mit
+

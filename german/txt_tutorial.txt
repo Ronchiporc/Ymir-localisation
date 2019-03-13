@@ -1,4 +1,5 @@
-﻿#tuto_launch_1
+﻿
+#tuto_launch_1
 Willkommen bei Ymir! Es sieht so aus, als ob es das erste Mal ist, dass du dieses Spiel startest. 
 
 #tuto_launch_2
@@ -52,14 +53,8 @@ Erzähl mir mehr!--1
 #tuto_0_c2
 Ich wollte das Tutorial machen, aber jetzt, da ich dein hässliches Gesicht sehe, würde ich es lieber überspringen.--82
 
-#tuto_1_1_1
-Du befindest dich derzeit auf der Weltkarte. Jede Kachel ist ein Territorium, das du erkunden und kolonisieren kannst. 
-
 #tuto_1_2
 Zu Beginn ist der größte Teil der Karte unerforscht, außer den wenigen Gebieten um deinen Stamm herum.
-
-#tuto_1_c1_c1
-Sehr gut.... also was jetzt ?--2--1
 
 #tuto_2_1
 Das ist ein Missionsevent. Manchmal bekommst du Missionen, die du erledigen kannst, um Belohnungen freizuschalten. Hier ist deine erste Aufgabe einfach, deinen Stamm in deinem ersten Gebiet anzusiedeln.
@@ -106,23 +101,11 @@ Deine nächste Mission ist es nun, deinem Stamm frisches Wasser zu liefern.
 #tuto_9_c1
 Ich bin begeistert von der Komplexität dieser Missionen, machen wir weiter!--10
 
-#tuto_10_10_1
-Um sich zu ernähren, brauchen deine Porcos Nahrung und Wasser, sonst sterben sie schnell. Sie trugen ein wenig Essen, aber kein Wasser, mit sich herum: Das erste, was zu tun ist, ist eine Wassergewinnung einzurichten.
-
 #tuto_10_c1
 Wie mache ich das ?--11--8
 
-#tuto_11_1_1
-Dies ist die Gebäude Registerkarte des Gebiets, wo du alle deine derzeit verfügbaren Gebäude sehen und deren Bau in diesem Gebiet bestellen kannst.
-
 #tuto_11_2
 Wählen Sie auf der ersten Registerkarte "Wohnen" das Gebäude "Wassersammler" aus. 
-
-#tuto_12_12_1
-Dieses Gebäude ist kostenlos und erfordert keine Arbeiter: Es stellt einfach einen Platz an der Küste dar, der geräumt und geebnet wurde, um deinen Porcos einen einfachen Zugang zu frischem Wasser zu ermöglichen: Sie erhalten es, wie sie es brauchen. Versuche, es neben Wasserkacheln zu platzieren: Es muss eine an das Wasser angrenzende Kante haben, um zu funktionieren.
-
-#tuto_13_13_1
-Jetzt, da der Wasserbedarf deiner Porcos gedeckt ist, brauchen sie nachhaltige Nahrungsquellen, da ihre Bestände bald erschöpft sein werden. 
 
 #tuto_13_c1
 Essen bitte!--14--10
@@ -184,32 +167,17 @@ Diese Schaltfläche öffnet ein wichtiges Menü: das "Territory menu".
 #tuto_20_2
 Es zeigt alles, was Sie über das Gebiet, in dem Sie sich befinden, wissen müssen, damit Sie seine Situation überprüfen und seine Probleme diagnostizieren können. Klicken Sie hier, um es zu öffnen.
 
-#tuto_21_1_1
-In diesem Menü sind viele Informationen zusammengefasst. Die obere Hälfte ist eine globale Zusammenfassung des Gebiets mit allen wichtigen Statistiken in einem einzigen Bereich.
-
-#tuto_21_2_2
-Die untere Hälfte des Menüs ist eine Reihe von Registerkarten, die Ihnen jeweils detailliertere Informationen über einen bestimmten Gebietsstatus geben: Wirtschaft, Wachstum, Verwaltung....
-
 #tuto_21_c1
 Ok!--22
 
 #tuto_22_1
 Dies ist der wichtige Teil, nach dem man jetzt suchen muss: die globalen lebenswichtigen Bedürfnisse der Bevölkerung, die ich bereits erwähnt habe. 
 
-#tuto_22_2_2
-Es muss mehr oder weniger über 70% bleiben: Das bedeutet, dass die meisten Menschen in deinem Stamm genügend Nahrung und Wasser haben, um nicht zu verhungern. Es ist ein wichtiger Wert, den Sie immer überwachen müssen.
-
 #tuto_22_c1
 Sehr gut. --23--15-15
 
 #tuto_23_1
 Direkt darunter befindet sich das Wachstum des Territoriums: die aktuelle Variation Ihrer Bevölkerung. Dies ist es, was Sie am meisten im frühen Spiel suchen werden.
-
-#tuto_23_23_2
-Positives Wachstum bedeutet, dass Ihre Bevölkerung wächst und Sie neue aktive Porcos erhalten, die Sie in Gebäuden einsetzen können. 
-
-#tuto_23_3_3
-Satisfied Vital Needs ist unerlässlich, um ein positives Wachstum aufrechtzuerhalten, aber es ist nicht der einzige Faktor, der es beeinflusst.
 
 #tuto_23_c1
 Ich habe es verstanden. --26--16-16
@@ -286,14 +254,8 @@ Sehr gut! Jetzt können Sie den Werkzeugmacher erstellen.
 #tuto_30_2
 Im Gegensatz zu Naturproduzenten können Industrien überall platziert werden, da sie keine natürlichen Ressourcen nutzen: Sie kombinieren bestehende.
 
-#tuto_31_1_1
-Großartig, du produzierst jetzt deine ersten Hämmer!
-
 #tuto_31_2
 Hämmer sind Ihre erste Art von Werkzeug. Später werden Sie neue Werkzeuge freischalten, die auch von vielen Konstruktionen benötigt werden.
-
-#tuto_31_3_3
-Im Gegensatz zu Ressourcen wie Lebensmitteln werden Werkzeuge von der Bevölkerung nicht konsumiert, um ihre Bedürfnisse zu befriedigen: Sie werden nur von Spielern verwendet.
 
 #tuto_31_c1
 Ok.--32--21
@@ -451,9 +413,6 @@ Du kannst jede Truppe auswählen und mit dem richtigen Klick dort einsetzen, wo 
 #tuto_50_c1
 Erzähl mir mehr. --51--35
 
-#tuto_51_1_1
-Du kannst den Verhaltensmodus jeder Truppe einstellen. Standardmäßig werden sie sich bewegen, um jeden ankommenden Feind zu bekämpfen.
-
 #tuto_51_2
 Wenn eine Truppe ausgewählt ist, kannst du die Dropdown-Schaltfläche unten links anklicken, um andere Modi auszuwählen, die das Verhalten dieser Truppe im Kampf beeinflussen.
 
@@ -538,14 +497,8 @@ Später, mit neuen Kenntnissen, werden Sie neue Richtlinien freischalten, die es
 #tuto_60_2
 Öffnen Sie nun die Registerkarte "Wissen", um auf Ihre Projekte zuzugreifen.
 
-#tuto_61_1_1
-Diese Spalte zeigt alle Kenntnisse, die deine Gesellschaft derzeit hat. Es ist vorerst leer.
-
 #tuto_61_2
 Es zeigt auch Ihre Wissenskapazität und die aktuelle Nutzung an. Jedes neue Wissen kostet je nach Komplexität einige Punkte. Wenn Ihre Kapazität voll ausgelastet ist, werden Sie nicht in der Lage sein, neue Kenntnisse zu erwerben.
-
-#tuto_61_c1_c1
-Ok. --63--43--43
 
 #tuto_61_c2
 Wie erhalte ich Wissenskapazität ?--62
@@ -706,12 +659,6 @@ Tiere werden sich wehren, also seid vorsichtig! Sobald die Jagd vorbei ist und w
 #tuto_80_c1
 Ausgezeichnet.--74
 
-#tuto_81_1_1
-Das kannst du nicht. Siegespunkt-Missionen, wie andere Missionen oder andere Ereignisse, werden dir zufällig passieren.
-
-#tuto_81_c1_c1
-In Ordnung. 72. 50.
-
 #tuto_82_1
 Bist du sicher? Dieses Tutorial kann Ihnen helfen.....
 
@@ -772,21 +719,6 @@ Du bist kein wirklich guter Anführer für dein Volk.
 #tuto_90_c1
 Du bist kein wirklich guter Tutorial-Assistent.--91
 
-#tuto_91_1_1
-Du bist gemein.
-
-#tuto_91_c1_c1
-Wirst du mich jetzt in Ruhe lassen ?--92
-
-#tuto_92_92_1
-Gut. Viel Spaß mit diesem beschissenen Spiel: Seine Benutzeroberflächen und Menüs sind so schlecht, dass du es sowieso nie selbst herausfinden wirst. Ich bin zu alt für diesen Scheiß.....
-
-#tuto_92_92_c1
-Ja, FEIN! Ich brauche dich nicht!--999
-
-#tuto_92_92_c2
-Warte was ?--93
-
 #tuto_93_1
 Nein, es ist zu spät. Ha! Ich wette, du wirst nicht einmal finden, wie du deinen Stamm besiedeln kannst, die Knöpfe wurden visuell versteckt..... Auf Wiedersehen..... Ferkel!
 
@@ -829,20 +761,11 @@ Du bluffst. 99.
 #tuto_98_c2
 Wir sind nicht einmal im Winter. Bären halten nur im Winter Winterschlaf. --104
 
-#tuto_99_99_1
-Ich habe eine Armee von Bären! Ich kann sie alle rufen und deinen frechen Stamm von dieser Welt tilgen!
-
-#tuto_99_99_c1
-Nein, tust du nicht. Du bist nur ein lahmer Tutorial-Assistent, der versucht, lustig zu sein. --100
-
 #tuto_100_1
 Wie kannst du es wagen!
 
 #tuto_100_c1
 Du existierst nicht einmal. Du bist nur ein Skript von pseudo-interaktiven, vorgefertigten Zeilen hier, nur zu meiner persönlichen Unterhaltung. --101
-
-#tuto_101_1_1
-Du lügst!
 
 #tuto_101_c1
 Ich kann dich jederzeit loswerden, indem ich einfach die.ini-Datei dieses Spiels bearbeite.-102
@@ -852,9 +775,6 @@ Nein, das kannst du nicht! Du wirst in diesem Spiel ohne mich verloren sein. Du 
 
 #tuto_102_c1
 Ja, das kann ich, und das werde ich. Sofort. --103--51
-
-#tuto_102_c2_c2
-Ja, das könnte ich. Aber ich bin ein großzügiger Gott. Ich werde dich mit deiner Absicht weitermachen lassen. --1
 
 #tuto_103_1
 Nicht bevor ich meine Armee von Bären hervorbringe und deine mickrige Ausrede eines Stammes vernichte. Der Fänger!
@@ -913,23 +833,11 @@ Ich bin der Bärenmeister. Wenn du nicht ins Reine kommst, werde ich meine Armee
 #tuto_109_c1
 Das werde ich nicht!--110--51
 
-#tuto_110_110_1
-Du hast gebraten! Dafür verdienst du eine unerträgliche Strafe! Es ist an der Zeit, dass meine Bären deinen frechen Stamm zerfleischen!
-
 #tuto_110_c1
 Ich kann das nicht glauben...--999
 
-#tuto_111_1_1
-Warten wir nun, bis das Projekt abgeschlossen ist.....
-
-#tuto_112_112_1
-Da! Du kannst jetzt deine erste solide Wohnung bauen: eine primitive rustikale Hütte. 
-
 #tuto_112_2
 Derzeit lebt dein Stamm in Slums. Slums sind 1 Kachelwohnungen, die automatisch laichen, wenn keine richtige Unterkunft zur Verfügung steht. Sie werden auch automatisch verschwinden, wenn leere Häuser verfügbar sind, da die Bewohner in sie umziehen.
-
-#tuto_112_c1_c1
-Was nützt es, gute Häuser bereitzustellen ?--113
 
 #tuto_113_1
 Slums bieten keine Boni, während Häuser die Gesundheit und Lebensqualität ihrer Bewohner verbessern. Die Lebensqualität erhöht die Intelligenz, während die Gesundheit die Krankheit verringert, was die Zahl der Menschen, die während jeder Generation sterben, reduziert. 
@@ -967,12 +875,6 @@ Gut! Als Belohnung siedelten sich neue Familien in Ihrem Gebiet an, was uns beim
 #tuto_117_c1
 Warum ist das ?--131
 
-#tuto_131_1_1
-Als Jäger und Sammler verlassen Sie sich derzeit nur auf Ihre natürlichen Nahrungsquellen, die für Ihren Stamm schnell unzureichend werden können. Sie müssen die Gebiete um Ihr Dorf herum erkunden und Herden jagen, um die zusätzliche Nahrung zu erhalten, die Sie benötigen, um das Wachstum Ihres Stammes zu unterstützen.
-
-#tuto_131_c1_c1
-Was sind Herden ?--118
-
 #tuto_118_1
 Herden sind Gruppen von tierischen Einheiten. Sie sind endlich und keine permanente Ressource: Sie können nicht vom Gebäude des Jägers ausgenutzt werden. 
 
@@ -996,9 +898,6 @@ Erstelle nun eine neue Formation der "Armee" und rekrutiere 10 Krieger in ihr.
 
 #tuto_120_2
 Beachten Sie diesmal, dass sie aus Ihrer derzeitigen Bevölkerung entfernt werden, da es sich nicht um eine "Miliz" handelt, so dass Sie nie alle Ihre Aktivposten in einer Armee rekrutieren wollen, da sie alle ihre Produktionsgebäude von ihren Arbeitern leeren würde.
-
-#tuto_121_1_1
-Wählen Sie Ihre neue Formation aus, indem Sie auf ihr Lager klicken oder auf ihre Schaltfläche auf der Registerkarte Formationen klicken.
 
 #tuto_122_1
 Klicken Sie im Menü der ausgewählten Formation auf die Schaltfläche "+", um zusätzliche Truppen zu Ihrer bereits vorhandenen Armee hinzuzufügen.
@@ -1054,9 +953,6 @@ Wenn Sie Ihre Formation von Kriegern ausgewählt haben, können Sie mit einem re
 #tuto_129_c1
 Was passiert als nächstes ?--130
 
-#tuto_130_130_1
-Wenn du die Jagdaktion bestätigst, wird sie einen "Kampf" zwischen deinen Kriegern und den Tieren der Herde auslösen. Sie können auch die Jagd beobachten, indem Sie in das Gebiet gehen.
-
 #tuto_130_2
 Wenn deine Krieger erfolgreich sind, werden einige oder alle Beutetiere in das Inventar deiner Formation übertragen, die du dann zurückbringen und in dein Territorium entladen kannst, um zusätzliche Nahrung für das Wachstum deines Stammes zu liefern!
 
@@ -1083,9 +979,6 @@ Sehr gut. 302.
 
 #tuto_302_1
 Felder sind ein Produktionsanhang zu Ihren Sammellagern. Dank ihnen kannst du jetzt neue Sammellager errichten, unabhängig von der Präsenz nutzbarer natürlicher Ressourcen, da du dich mit Feldern selbstständig machen kannst!
-
-#tuto_302_2_2
-Um Felder zu erstellen, wählen Sie eines Ihrer Sammelcamps aus, um das Gebäude-Menü zu öffnen.
 
 #tuto_303_1
 Die verfügbaren Anhänge für ein Gebäude erscheinen am unteren Rand des Gebäudemenüs. Klicken Sie auf die neue Schaltfläche Feld, um Felder für dieses Sammelcamp zu platzieren.
@@ -1236,4 +1129,112 @@ Das ist alles für den Moment. Viel Glück bei diesem schwierigen Übergang!
 
 #tuto_413_c1
 Danke, Herr Scharfsinniges Schwein.--997
+
+#tuto_1_1
+Du befindest dich derzeit auf der Weltkarte. Jede Kachel ist ein Territorium, das du erkunden und kolonisieren kannst. 
+
+#tuto_1_c1
+Sehr gut.... also was jetzt ?--2--1
+
+#tuto_10_1
+Um sich zu ernähren, brauchen Ihre Porcos Nahrung und Wasser, sonst sterben sie schnell. Sie trugen ein wenig Essen, aber kein Wasser mit sich herum: Das erste, was zu tun ist, ist, eine Wassersammelstelle am Ufer und eine Frischwasserstation einzurichten.
+
+#tuto_11_1
+Dies ist die Registerkarte Gebäude des Gebiets, wo Sie alle Ihre derzeit verfügbaren Gebäude sehen und deren Bau in diesem Gebiet bestellen können.
+
+#tuto_12_1
+Dieses Gebäude ist kostenlos und erfordert keine Arbeiter: Es stellt einfach einen Platz an der Küste dar, der geräumt und geebnet wurde, um Ihren Porcos einen einfachen Zugang zu frischem Wasser zu ermöglichen: Sie erhalten es selbst, wie sie es brauchen. Versuchen Sie, es neben Wasserkacheln zu platzieren: Es muss eine an das Wasser angrenzende Kante haben, um zu funktionieren.
+
+#tuto_13_1
+Jetzt, da der Wasserbedarf Ihrer Porcos gedeckt ist, brauchen sie nachhaltige Nahrungsquellen, da ihre Bestände bald erschöpft sein werden. 
+
+#tuto_21_1
+In diesem Menü sind viele Informationen zusammengefasst. Die obere Hälfte ist eine globale Zusammenfassung des Gebiets mit allen wichtigen Statistiken in einem einzigen Bereich.
+
+#tuto_21_2
+Die untere Hälfte des Menüs ist eine Reihe von Registerkarten, die Ihnen jeweils detailliertere Informationen über einen bestimmten Gebietsstatus geben: Wirtschaft, Wachstum, Verwaltung....
+
+#tuto_22_2
+Es muss mehr oder weniger über 70% bleiben: Das bedeutet, dass die meisten Menschen in deinem Stamm genügend Nahrung und Wasser haben, um nicht zu verhungern. Es ist ein wichtiger Wert, den Sie immer überwachen müssen.
+
+#tuto_23_3
+Satisfied Vital Needs ist unerlässlich, um ein positives Wachstum aufrechtzuerhalten, aber es ist nicht der einzige Faktor, der es beeinflusst.
+
+#tuto_31_1
+Großartig, du produzierst jetzt deine ersten Hämmer!
+
+#tuto_31_3
+Im Gegensatz zu Ressourcen wie Lebensmitteln werden Werkzeuge von der Bevölkerung nicht konsumiert, um ihre Bedürfnisse zu befriedigen: Sie werden nur von Spielern verwendet.
+
+#tuto_51_1
+Du kannst den Verhaltensmodus jeder Truppe einstellen. Standardmäßig werden sie sich bewegen, um jeden ankommenden Feind zu bekämpfen.
+
+#tuto_61_1
+Diese Spalte zeigt alle Kenntnisse, die deine Gesellschaft derzeit hat. Es ist vorerst leer.
+
+#tuto_61_c1
+Ok. --63--43--43
+
+#tuto_81_1
+Das kannst du nicht. Siegespunkt-Missionen, wie andere Missionen oder andere Ereignisse, werden dir zufällig passieren.
+
+#tuto_81_c1
+In Ordnung. 72. 50.
+
+#tuto_91_1
+Du bist gemein.
+
+#tuto_91_c1
+Wirst du mich jetzt in Ruhe lassen ?--92
+
+#tuto_92_1
+Gut. Viel Spaß mit diesem beschissenen Spiel: Seine Benutzeroberflächen und Menüs sind so schlecht, dass du es sowieso nie selbst herausfinden wirst. Ich bin zu alt für diesen Scheiß.....
+
+#tuto_92_c1
+Ja, FEIN! Ich brauche dich nicht!--999
+
+#tuto_92_c2
+Warte was ?--93
+
+#tuto_99_1
+Ich habe eine Armee von Bären! Ich kann sie alle rufen und deinen frechen Stamm von dieser Welt tilgen!
+
+#tuto_99_c1
+Nein, tust du nicht. Du bist nur ein lahmer Tutorial-Assistent, der versucht, lustig zu sein. --100
+
+#tuto_101_1
+Du lügst!
+
+#tuto_102_c2
+Ja, das könnte ich. Aber ich bin ein großzügiger Gott. Ich werde dich mit deiner Absicht weitermachen lassen. --1
+
+#tuto_110_1
+Du hast gebraten! Dafür verdienst du eine unerträgliche Strafe! Es ist an der Zeit, dass meine Bären deinen frechen Stamm zerfleischen!
+
+#tuto_111_1
+Warten wir nun, bis das Projekt abgeschlossen ist.....
+
+#tuto_112_1
+Da! Du kannst jetzt deine erste solide Wohnung bauen: eine primitive rustikale Hütte. 
+
+#tuto_112_c1
+Was nützt es, gute Häuser bereitzustellen ?--113
+
+#tuto_131_1
+Als Jäger und Sammler verlassen Sie sich derzeit nur auf Ihre natürlichen Nahrungsquellen, die für Ihren Stamm schnell unzureichend werden können. Sie müssen die Gebiete um Ihr Dorf herum erkunden und Herden jagen, um die zusätzliche Nahrung zu erhalten, die Sie benötigen, um das Wachstum Ihres Stammes zu unterstützen.
+
+#tuto_131_c1
+Was sind Herden ?--118
+
+#tuto_121_1
+Wählen Sie Ihre neue Formation aus, indem Sie auf ihr Lager klicken oder auf ihre Schaltfläche auf der Registerkarte Formationen klicken.
+
+#tuto_130_1
+Wenn du die Jagdaktion bestätigst, wird sie einen "Kampf" zwischen deinen Kriegern und den Tieren der Herde auslösen. Sie können auch die Jagd beobachten, indem Sie in das Gebiet gehen.
+
+#tuto_302_2
+Um Felder zu erstellen, wählen Sie eines Ihrer Sammelcamps aus, um das Gebäude-Menü zu öffnen.
+
+#tuto_23_2
+Positives Wachstum bedeutet, dass Ihre Bevölkerung wächst und Sie neue aktive Porcos erhalten, die Sie in Gebäuden einsetzen können. 
 
