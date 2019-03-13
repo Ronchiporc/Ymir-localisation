@@ -1050,7 +1050,7 @@ Le peuple de [x] a complété une mission de victoire "[y]" avant nous!
 Des guerriers veulent se joindrent à nous!
 
 #ev_joinwriors_1
-Un groupe de 10 guerriers ont erré dans les terres pendant plusieurs lunesavant d'arriver dans notre tribus. Ils sont amicaux et souhaitent se joindre à nous: ils nous offrent leur aide pour chasser et explorer le monde si nous les accueillons parmi nous.
+Un groupe de 10 guerriers ont erré dans les terres pendant plusieurs lunes avant d'arriver dans notre tribus. Ils sont amicaux et souhaitent se joindre à nous: ils nous offrent leur aide pour chasser et explorer le monde si nous les accueillons parmi nous.
 
 #ev_joinwriors_c1
 "Oui, accueillons-les!"
@@ -1137,7 +1137,7 @@ Une fois qu'un successeur est élu, sa position sera immédiatement échangée a
 Vous avez été élu [x]!
 
 #ev_votesucc_won_1
-Toutes nos félicitations! Vous avez été élu (e) successeur de [p1].
+Toutes nos félicitations! Vous avez été élu(e) successeur de [p1].
 
 #ev_votesucc_won_2
 Vous avez gagné l'élection avec [p3] votes en votre faveur sur [p4] votes exprimés.
@@ -1254,7 +1254,7 @@ Notre formation '[x] traversait lentement une plaine apparemment sans fin couver
 Cela, malheureusement, était juste un début car au moment où le groupe a réussi à échapper à la plaine, deux autres avaient été mordus et ont subit le même sort. Cette plaine était infestée littéralement de serpents visqueux.
 
 #ev_xplr_snakes_c1
-"Je l'ai eu avec ces serpents de merde!"
+"J'ai été morrdu par ces serpents de merde!"
 
 #ev_xplr_map
 La tribu amicale offre '[x]' une carte du territoire.
@@ -1293,7 +1293,7 @@ La mer est dangereuse et de mauvaise humeur. Avant que quelqu'un ait eu le temps
 Vague mesquine!
 
 #ev_xplr_rwave_1
-La mer est dangereuse et traîtresse. C'était une journée ensoleillée, la mer semblait calme et la brise était agréable. Les porcos étaient détendus, mais désireux d'être de retour sur terre. Mais soudainement, un porco hurla, pointant à l'horizon sur tribord. Tout le monde regarda avec terreur ce qui ressemblait à un improbable mur d'eau qui se dirigeait vers le navire. Avant que n'importe qui puisse faire n'importe quoi, le petit bateau a été frappé et chaviré.
+La mer est dangereuse et traîtresse. C'était une journée ensoleillée, la mer semblait calme et la brise était agréable. Les porcos étaient détendus, mais désireux d'être de retour sur terre. Mais soudainement, un porco hurla, pointant à l'horizon sur tribord. Tout le monde regarda avec terreur ce qui ressemblait à un improbable mur d'eau qui se dirigeait vers le navire. Avant que quiconque puisse envisager de faire quelque chose, le petit bateau a été frappé et chaviré.
 
 #ev_xplr_rwave_2
 Il n'y avait rien qu'ils auraient pu faire contre un événement aussi perfide et imprévisible: ils n'avaient aucune chance. Les navires et les porcos ont été traînés au fond de la mer, pour ne plus jamais être revus.
@@ -1317,7 +1317,7 @@ Un marin non qualifié n'a pas correctement attaché une caisse de fournitures q
 Mer dangereuse
 
 #ev_xplr_sngseal_1
-La mer n'est pas un endroit pour un porco seul, et c'est impardonnable et impitoyable. Notre explorateur solitaire a disparu et n'a plus jamais été revu.
+La mer n'est pas un endroit pour un porco seul, elle est impardonnable et impitoyable. Notre explorateur solitaire a disparu et n'a plus jamais été revu.
 
 #ev_xplr_sngseal_2
 Qui sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, si nous voulons avoir une chance!
@@ -1332,10 +1332,10 @@ Alors que notre expédition «[x]» se dirigeait vers un nouveau territoire inex
 Nous avons décidé de nous asseoir avec eux un moment et le vieux porco sage a commencé à présenter sa doctrine: Il a soutenu que le bonheur ne pouvait pas être atteint en satisfaisant les désirs conventionnels comme la richesse, la puissance, la renommée ou les plaisirs de la chair. Selon son école de pensée, seule une vie simple et libre de toutes possessions pourrait vraiment remplir nos âmes.
 
 #ev_xplr_wiseold_3
-Il a plaidé pendant des heures, captivant tout le public. Ses mots étaient subtils et son raisonnement logique. Il était même si persuasif que beaucoup d'entre nous décidèrent d'abandonner tous leurs biens pour le suivre.
+Il a parlé pendant des heures, captivant tout le public. Ses mots étaient subtils et son raisonnement logique. Il était même si persuasif que beaucoup d'entre nous décidèrent d'abandonner tous leurs biens pour le suivre.
 
 #ev_xplr_cptsow
-porcasses captives
+Porcasses captives
 
 #ev_xplr_cptsow_1
 Un éclaireur de l'expédition [x] vient de signaler la présence d'une bande de guerriers dans la région. A en juger par l'apparition de leur camp, leur présence sur le territoire n'est que temporaire.
@@ -1830,7 +1830,7 @@ Vous avez soumis l'état de [x], dirigé par [y], qui est maintenant votre vassa
 Vous avez été soumis par [x]!
 
 #ev_been_subjug_1
-Vous avez été soumis à l'état de [x], dirigé par [y], qui est maintenant votre seigneur.
+Vous avez été soumis par l'état de [x], dirigé par [y], qui est maintenant votre seigneur.
 
 #ev_been_subjug_2
 Vous allez maintenant devoir payer des tributs de pièces de monnaie et du pouvoir d'État, Vous avez rejoint la nation de [x] en tant que subordonné de [y]. En échange, tous les territoires occupés vous ont été rétrocédés.
