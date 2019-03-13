@@ -1,290 +1,290 @@
 ﻿#cond_nbreg
-Besitze[x] oder mehr Territorien
+Besitze [x] oder mehr Territorien
 
 #cond_prodsupto
-Produzieren Sie mindestens[x] von [y] im Territorium.
+Produzieren Sie mindestens [x] von [y] im Territorium.
 
 #cond_incrfoodprod
-Steigern Sie Ihre Nahrungsmittelproduktion um mindestens[x].
+Steigern Sie Ihre Nahrungsmittelproduktion um mindestens [x].
 
 #cond_ownbdgdg
-Haben Sie[x] [y] in dem Gebiet.
+Haben Sie [x] [y] in dem Gebiet.
 
 #cond_ownbdg_class
-Haben Sie[x] Gebäude der Klasse [y] auf dem Territorium.
+Haben Sie [x] Gebäude der Klasse [y] auf dem Territorium.
 
 #cond_cmplted_ev
-Abgeschlossene Veranstaltung[x]
+Abgeschlossene Veranstaltung [x]
 
 #cond_loyal_inf
-Territoriale Loyalität ist geringer als[x].
+Territoriale Loyalität ist geringer als [x].
 
 #cond_loyal_sup
-Territoriale Loyalität besser als[x]
+Territoriale Loyalität besser als [x]
 
 #cond_pow_inf
-Staatsmacht unterlegen[x]
+Staatsmacht unterlegen [x]
 
 #cond_pow_sup
-Staatsmacht überlegen[x]
+Staatsmacht überlegen [x]
 
 #cond_legit_inf
-Staatliche Legitimität geringer als[x]
+Staatliche Legitimität geringer als [x]
 
 #cond_legit_sup
-Staatliche Legitimität höher als[x]
+Staatliche Legitimität höher als [x]
 
 #cond_coins_inf
-Landeswährung niedriger als[x]
+Landeswährung niedriger als [x]
 
 #cond_coins_sup
-Landeswährung höher als[x]
+Landeswährung höher als [x]
 
 #cond_notech
-Haben Sie nicht die Kenntnisse von '[x]''.
+Haben Sie nicht die Kenntnisse von ' [x]''.
 
 #cond_hastech
-Haben Sie das Wissen über '[x]''.
+Haben Sie das Wissen über ' [x]''.
 
 #cond_popnb_inf
- [y] unterlegen gegenüber[x]
+ [y] unterlegen gegenüber [x]
 
 #cond_popnb_sup
 (y) besser als (x)
 
 #cond_intel_inf
-Intelligenz unterlegen gegenüber[x]
+Intelligenz unterlegen gegenüber [x]
 
 #cond_intel_sup
 Intelligenz, die besser ist als die von x.
 
 #cond_lifeq_inf
- [y] die Lebensqualität ist schlechter als bei[x].
+ [y] die Lebensqualität ist schlechter als bei [x].
 
 #cond_lifeq_sup
- [y] Lebensqualität besser als[x]
+ [y] Lebensqualität besser als [x]
 
 #cond_health_inf
- [y] Gesundheit unterlegen gegenüber[x]
+ [y] Gesundheit unterlegen gegenüber [x]
 
 #cond_health_sup
- [y] Gesundheit ist besser als[x]
+ [y] Gesundheit ist besser als [x]
 
 #cond_regcltr_sup
-Territoriale Kultur, die der[x] überlegen ist.
+Territoriale Kultur, die der [x] überlegen ist.
 
 #cond_cltr_inf
-Gesamtkultur niedriger als[x]
+Gesamtkultur niedriger als [x]
 
 #cond_cltr_sup
-Gesamtkultur besser als[x]
+Gesamtkultur besser als [x]
 
 #cond_conflict_inf
-Bevölkerungskonflikt geringer als[x]
+Bevölkerungskonflikt geringer als [x]
 
 #cond_conflict_sup
-Bevölkerungskonflikt höher als[x]
+Bevölkerungskonflikt höher als [x]
 
 #cond_cons_sup
-Verbrauch von[x] höher als [y]
+Verbrauch von [x] höher als [y]
 
 #cond_natres
-Haben Sie eine natürliche Ressource von[x].
+Haben Sie eine natürliche Ressource von [x].
 
 #cond_resaxs_inf
- [y] Zugriff unter[x]%.
+ [y] Zugriff unter [x]%.
 
 #cond_resaxs_sup
- [y] Zugriff höher als[x]%
+ [y] Zugriff höher als [x]%
 
 #cond_needaxs_inf
- [z] [y] Zugriff unter[x]%.
+ [z] [y] Zugriff unter [x]%.
 
 #cond_needaxs_sup
- [z] [y] Zugriff höher als[x]%
+ [z] [y] Zugriff höher als [x]%
 
 #cond_resstk_inf
- [y] Aktien unter dem Niveau von[x]
+ [y] Aktien unter dem Niveau von [x]
 
 #cond_resstk_sup
- [y] Aktien, die höher als[x] sind.
+ [y] Aktien, die höher als [x] sind.
 
 #cond_agrprd_inf
-Die landwirtschaftliche Produktion ist niedriger als[x].
+Die landwirtschaftliche Produktion ist niedriger als [x].
 
 #cond_agrprd_sup
-Landwirtschaftliche Produktion besser als[x]
+Landwirtschaftliche Produktion besser als [x]
 
 #cond_natagri
 Natürliche Qüllen für Gemüse und Pflanzen haben
 
 #cond_militia_inf
-Miliz unterlegen von[x] [y]
+Miliz unterlegen von [x] [y]
 
 #cond_militia_sup
-Die Miliz ist der[x] [y] überlegen.
+Die Miliz ist der [x] [y] überlegen.
 
 #cond_army_inf
-Armee unterlegen gegenüber[x] [y] [y]
+Armee unterlegen gegenüber [x] [y] [y]
 
 #cond_army_sup
-Armee überlegen gegenüber[x] [y] [y]
+Armee überlegen gegenüber [x] [y] [y]
 
 #cond_natmetal
 Natürliche Metallqüllen haben
 
 #cond_GDP_inf
-BIP niedriger als[x]
+BIP niedriger als [x]
 
 #cond_GDP_sup
-BIP höher als[x]
+BIP höher als [x]
 
 #cond_wlth_inf
-Reichtum unter[x]
+Reichtum unter [x]
 
 #cond_wlth_sup
-Reichtum ist besser als[x]
+Reichtum ist besser als [x]
 
 #cond_vitn_inf
-Lebensnotwendige Bedürfnisse von [y] minderwertig gegenüber[x]
+Lebensnotwendige Bedürfnisse von [y] minderwertig gegenüber [x]
 
 #cond_vitn_sup
-Lebensnotwendige Bedürfnisse von [y] überlegen gegenüber[x]
+Lebensnotwendige Bedürfnisse von [y] überlegen gegenüber [x]
 
 #cond_bdgcat_inf
-Weniger als[x] [y] Gebäude haben
+Weniger als [x] [y] Gebäude haben
 
 #cond_bdgcat_sup
-Mehr als[x] [y] Gebäude haben.
+Mehr als [x] [y] Gebäude haben.
 
 #cond_rescat_inf
- [y] Aktien niedriger als[x]
+ [y] Aktien niedriger als [x]
 
 #cond_rescat_sup
- [y] Aktie besser als[x]
+ [y] Aktie besser als [x]
 
 #cond_rescatprd_inf
- [y] Produktion unterdurchschnittlich zu[x]
+ [y] Produktion unterdurchschnittlich zu [x]
 
 #cond_rescatprd_sup
- [y] Produktion besser als[x]
+ [y] Produktion besser als [x]
 
 #cond_prdgrp_inf
-Bestände an [y]-Ressourcen, die unter[x] liegen.
+Bestände an [y]-Ressourcen, die unter [x] liegen.
 
 #cond_prdgrp_sup
-Bestände an [y]-Ressourcen, die höher sind als[x].
+Bestände an [y]-Ressourcen, die höher sind als [x].
 
 #cond_prdgrgrpprd_inf
-Produktion von [y] Ressourcen, die unter[x] liegen.
+Produktion von [y] Ressourcen, die unter [x] liegen.
 
 #cond_prdgrgrpprd_sup
-Produktion von [y]-Ressourcen, die den[x] überlegen sind.
+Produktion von [y]-Ressourcen, die den [x] überlegen sind.
 
 #cond_resneed_inf
-Eine unbefriedigte Nachfrage von [y] von weniger als[x].
+Eine unbefriedigte Nachfrage von [y] von weniger als [x].
 
 #cond_resneed_sup
-Eine unbefriedigte Nachfrage von [y] höher als[x].
+Eine unbefriedigte Nachfrage von [y] höher als [x].
 
 #cond_civic
-Haben Sie die bürgerliche '[x]' aktiviert?
+Haben Sie die bürgerliche ' [x]' aktiviert?
 
 #cond_civeff
-Haben Sie den zivilisatorischen Effekt: '[x]''.
+Haben Sie den zivilisatorischen Effekt: ' [x]''.
 
 #cond_militpow_inf
-Die gesamte militärische Macht ist niedriger als[x].
+Die gesamte militärische Macht ist niedriger als [x].
 
 #cond_militpow_sup
-Die gesamte militärische Macht ist höher als[x].
+Die gesamte militärische Macht ist höher als [x].
 
 #cond_ecobal_inf
-Haushaltssaldo des Staates unter[x]
+Haushaltssaldo des Staates unter [x]
 
 #cond_ecobal_sup
-öffentlicher Haushaltssaldo höher als[x]
+öffentlicher Haushaltssaldo höher als [x]
 
 #cond_growth_inf
- [y] Wachstum unterdurchschnittlich gegenüber[x]
+ [y] Wachstum unterdurchschnittlich gegenüber [x]
 
 #cond_growth_sup_sup
- [y] Wachstum besser als[x]
+ [y] Wachstum besser als [x]
 
 #cond_reglvl_inf
-Gebietsebene niedriger als[x]
+Gebietsebene niedriger als [x]
 
 #cond_reglvl_sup
-Gebietsebene höher als[x]
+Gebietsebene höher als [x]
 
 #cond_speed_inf
-char Geschwindigkeit niedriger als[x]
+char Geschwindigkeit niedriger als [x]
 
 #cond_speed_sup
-char Geschwindigkeit höher als[x]
+char Geschwindigkeit höher als [x]
 
 #cond_has_res
-Zugriff auf[x] haben
+Zugriff auf [x] haben
 
 #effect_givres
-Empfangen Sie [y][x]
+Empfangen Sie [y] [x]
 
 #effect_takeres
-Verlieren Sie [y][x]
+Verlieren Sie [y] [x]
 
 #effect_globgivres
-Empfangen Sie [y][x]
+Empfangen Sie [y] [x]
 
 #effect_givfood
-Erhalten Sie[x] von Nahrung
+Erhalten Sie [x] von Nahrung
 
 #effect_trigev
 Löst ein Ereignis aus
 
 #effect_givcoin
-Erhalten Sie[x] Münzen
+Erhalten Sie [x] Münzen
 
 #effect_setcoin
-Schatzkammer auf[x] Münzen gesetzt
+Schatzkammer auf [x] Münzen gesetzt
 
 #effect_loyalev
-Zustandsereignis:[x] Gebietsloyalität
+Zustandsereignis: [x] Gebietsloyalität
 
 #effect_trigprojects
-Entsperrt das Projekt:[x]
+Entsperrt das Projekt: [x]
 
 #effect_rejprojj
-Lehnt das Projekt ab:[x]
+Lehnt das Projekt ab: [x]
 
 #effect_givtech
-Freischaltet die Technologie:[x]
+Freischaltet die Technologie: [x]
 
 #effect_bandits
-Die Formation wird sofort von[x] Banditen angegriffen.
+Die Formation wird sofort von [x] Banditen angegriffen.
 
 #effect_invloss
-Verlieren Sie[x]% des Inventars der Formation.
+Verlieren Sie [x]% des Inventars der Formation.
 
 #effect_invcatloss
-Verlieren Sie[x]% des [y]-Inventars der Formation.
+Verlieren Sie [x]% des [y]-Inventars der Formation.
 
 #effect_givloot
-Du erhältst[x] Beute.
+Du erhältst [x] Beute.
 
 #effect_hostribe
-Die Formation wird sofort von[x] Primitiven angegriffen.
+Die Formation wird sofort von [x] Primitiven angegriffen.
 
 #effect_unitloss
-[x]% der Porcos der Formation gehen verloren.
+ [x]% der Porcos der Formation gehen verloren.
 
 #effect_nbdeath
-Verliere[x] zufällige Einheit in der Formation.
+Verliere [x] zufällige Einheit in der Formation.
 
 #effect_joinbfmly
-Die Formation wird von[x] Familien begleitet.
+Die Formation wird von [x] Familien begleitet.
 
 #effect_xplrmap
-Zeigt die Karte des Territoriums bis zu[x] Kacheln um die Formation herum an.
+Zeigt die Karte des Territoriums bis zu [x] Kacheln um die Formation herum an.
 
 #effect_formlst
 Die Formation ist verloren.
@@ -293,31 +293,31 @@ Die Formation ist verloren.
 Streichen Sie Ihre Schulden.
 
 #effect_givunit
-Der Formation schließt sich [y][x] an.
+Der Formation schließt sich [y] [x] an.
 
 #effect_agrifood
-Erhalten Sie[x] von landwirtschaftlichen Lebensmitteln
+Erhalten Sie [x] von landwirtschaftlichen Lebensmitteln
 
 #effect_spawnunit
-[x] [z] [y] [y] wird angezeigt.
+ [x] [z] [y] [y] wird angezeigt.
 
 #effect_modhonoror
-Ehre[x]
+Ehre [x]
 
 #effect_modAP
-Aktionspunkte[x]
+Aktionspunkte [x]
 
 #effect_giveVP
-Auszeichnungen[x] Siegespunkte.
+Auszeichnungen [x] Siegespunkte.
 
 #effect_immigr
-[x] Familien kommen in das Gebiet.
+ [x] Familien kommen in das Gebiet.
 
 #effect_emigr
 Familien verlassen das Gebiet.
 
 #effect_gividea
-Erhalten Sie eine neü Idee:[x]
+Erhalten Sie eine neü Idee: [x]
 
 #effect_givreg
 übernehmen Sie die Kontrolle über das Gebiet.
@@ -329,25 +329,25 @@ Mit diesem Charakter tauschst du die Position in der Hierarchie der Nation.
 Löst eine Abstimmung von Untergebenen aus, um einen Nachfolger für die Position dieses Charakters in der Nation zu wählen.
 
 #effect_res_convstate
-Konvertiert[x]% der besetzten Ressourcen in allen Gebieten in staatliches Eigentum.
+Konvertiert [x]% der besetzten Ressourcen in allen Gebieten in staatliches Eigentum.
 
 #event_diplomes
-Nachricht von[x]
+Nachricht von [x]
 
 #event_treaty treaty
-Vertragsvorschlag von[x]
+Vertragsvorschlag von [x]
 
 #event_dwar_att
-Wir haben dem[x] den Krieg erklärt.
+Wir haben dem [x] den Krieg erklärt.
 
 #event_dwar_att_1
-Mylord, wir haben[x] von [y] den Krieg erklärt und befinden uns nun im Krieg mit diesen schwachen Ferkeln.
+Mylord, wir haben [x] von [y] den Krieg erklärt und befinden uns nun im Krieg mit diesen schwachen Ferkeln.
 
 #event_dwar_def
 hat uns den Krieg erklärt!
 
 #event_dwar_def_1
-Mylord,[x] von [y] hat uns den Krieg erklärt.
+Mylord, [x] von [y] hat uns den Krieg erklärt.
 
 #event_dwar_def_2
 Wir befinden uns jetzt im Krieg mit diesen dreckigen Schweinen.
@@ -356,7 +356,7 @@ Wir befinden uns jetzt im Krieg mit diesen dreckigen Schweinen.
 Unser Land befindet sich derzeit im Krieg!
 
 #event_misscomp
-Mission abgeschlossen:[x]
+Mission abgeschlossen: [x]
 
 #event_misscomp_1
 Wir haben diese Mission erfüllt und ihre Belohnungen erhalten.
@@ -365,34 +365,34 @@ Wir haben diese Mission erfüllt und ihre Belohnungen erhalten.
 Das Spiel ist aus!
 
 #event_gameovr_1
-Das Spiel ist beendet und sein Gewinner ist die Nation '[x]', die als erste[p1] Siegpunkte erreicht hat und eine Gesamtpunktzahl von[p2] hat.
+Das Spiel ist beendet und sein Gewinner ist die Nation ' [x]', die als erste[p1] Siegpunkte erreicht hat und eine Gesamtpunktzahl von[p2] hat.
 
 #event_gameovr_2
 Beachten Sie, dass das Spiel fortgesetzt werden kann und Sie weiterspielen können, aber die Ergebnisse und Ränge werden nicht mehr aktualisiert und es wird keine weiteren Siegesmissionen geben.
 
 #event_rsk_upris
-Rebellionsrisiko in[x]
+Rebellionsrisiko in [x]
 
 #event_rsk_upris_1
-Die Loyalität von[x] ist sehr gering und es besteht ein hohes Risiko einer drohenden Rebellion der Bevölkerung! Wir müssen etwas dagegen unternehmen.....
+Die Loyalität von [x] ist sehr gering und es besteht ein hohes Risiko einer drohenden Rebellion der Bevölkerung! Wir müssen etwas dagegen unternehmen.....
 
 #event_rsk_upris_2
 Die Loyalität wird durch Faktoren wie: Menge der lokalen Kultur, starke lokale Garnison, Fehlen von Staatstruppen, niedrige Staatsmacht oder Legitimität, Anzahl der Städte und Entfernung der Hauptstadt reduziert. Du kannst die Rangliste öffnen, um deine Endnote zu sehen.
 
 #event_revolt
-Volksaufstand in[x]!
+Volksaufstand in [x]!
 
 #event_revolt_1
-Die Bevölkerung von[x] revoltiert gegen uns und Rebellen versuchen, die Kontrolle über die Stadt zu übernehmen! Wenn sie erfolgreich sind, werden wir die Kontrolle über dieses Gebiet verlieren!
+Die Bevölkerung von [x] revoltiert gegen uns und Rebellen versuchen, die Kontrolle über die Stadt zu übernehmen! Wenn sie erfolgreich sind, werden wir die Kontrolle über dieses Gebiet verlieren!
 
 #event_revolt_2
 [p2]% der Bevölkerung nehmen Waffen und rebellieren, einschließlich[p3] Soldaten der örtlichen Garnison, die zu den Rebellen übergelaufen sind. Unsere[p5] loyalistischen Soldaten stehen insgesamt vor[p4] Rebellen.
 
 #event_br_revolt
-Revolte in[x] vereitelt
+Revolte in [x] vereitelt
 
 #event_br_revolt_1
-Die Bevölkerung von[x] hat sich wegen geringer Loyalität gegen Ihre Regierung aufgelehnt, und Rebellen haben erfolglos versucht, die Kontrolle über die Stadt zu übernehmen.
+Die Bevölkerung von [x] hat sich wegen geringer Loyalität gegen Ihre Regierung aufgelehnt, und Rebellen haben erfolglos versucht, die Kontrolle über die Stadt zu übernehmen.
 
 #event_br_revolt_2
 [p2]% der Bevölkerung nahmen Waffen und rebellierten, einschließlich[p4] Soldaten der örtlichen Garnison, die zu den Rebellen übergelaufen waren. Loyalistische Soldaten sahen sich insgesamt[p3] Rebellen gegenüber.
@@ -401,52 +401,52 @@ Die Bevölkerung von[x] hat sich wegen geringer Loyalität gegen Ihre Regierung 
 wurde an Rebellen verloren!
 
 #event_br_lstrevolt_1
-Die Bevölkerung von[x] revoltierte gegen uns und Rebellen gelang es, die Kontrolle über die Stadt zu übernehmen. Die Kontrolle über eine unserer Städte an Rebellen zu verlieren, hat Ihrer Herrschaft Schande bereitet. Diese Niederlage wird deine Legitimität als Führer für eine Weile untergraben: Du hast 25 Ehre verloren.
+Die Bevölkerung von [x] revoltierte gegen uns und Rebellen gelang es, die Kontrolle über die Stadt zu übernehmen. Die Kontrolle über eine unserer Städte an Rebellen zu verlieren, hat Ihrer Herrschaft Schande bereitet. Diese Niederlage wird deine Legitimität als Führer für eine Weile untergraben: Du hast 25 Ehre verloren.
 
 #event_br_lstrevolt_2
 [p2]% der Bevölkerung nahmen Waffen und rebellierten, einschließlich[p4] Soldaten der örtlichen Garnison, die zu den Rebellen übergelaufen waren. Loyalistische Soldaten sahen sich insgesamt[p3] Rebellen gegenüber.
 
 #event_partis
-Partisanenaufstand in[x]!
+Partisanenaufstand in [x]!
 
 #event_partis_1
-Es gibt eine aktive Widerstandsbewegung in[x], und Partisanen, die den [y] loyal sind, haben gerade einen Angriff gestartet, um zu versuchen, die Kontrolle über die Stadt zu übernehmen. Wenn sie erfolgreich sind, werden wir die Kontrolle über dieses Gebiet und die Ehre verlieren!
+Es gibt eine aktive Widerstandsbewegung in [x], und Partisanen, die den [y] loyal sind, haben gerade einen Angriff gestartet, um zu versuchen, die Kontrolle über die Stadt zu übernehmen. Wenn sie erfolgreich sind, werden wir die Kontrolle über dieses Gebiet und die Ehre verlieren!
 
 #event_partis_2
 [p2]% der Bevölkerung nehmen Waffen und rebellieren, einschließlich[p3] Soldaten der örtlichen Garnison, die zu den Rebellen übergelaufen sind. Unsere[p5] loyalistischen Soldaten stehen insgesamt vor[p4] Rebellen.
 
 #event_br_partis
-Partisanen in[x] besiegt
+Partisanen in [x] besiegt
 
 #event_br_partis_1
-Gute Nachrichten! Es gab einen Versuch der Widerstandsbewegung in[x] loyal zu den [y], die Kontrolle über die Stadt zurückzürobern, aber ihr Aufstand wurde besiegt und die Widerstandsbewegung wurde durch diese Niederlage geschwächt!
+Gute Nachrichten! Es gab einen Versuch der Widerstandsbewegung in [x] loyal zu den [y], die Kontrolle über die Stadt zurückzürobern, aber ihr Aufstand wurde besiegt und die Widerstandsbewegung wurde durch diese Niederlage geschwächt!
 
 #event_br_partis_2
 [p2]% der Bevölkerung nahmen Waffen und rebellierten, einschließlich[p4] Soldaten der örtlichen Garnison, die zu den Rebellen übergelaufen waren. Loyalistische Soldaten sahen sich insgesamt[p3] Rebellen gegenüber.
 
 #event_br_lstpartis
-[x] ging an Partisanen verloren!
+ [x] ging an Partisanen verloren!
 
 #event_br_lstpartis_1
-Schreckliche Nachrichten: Die dem [y] treü Widerstandsbewegung von[x] hat einen Aufstand gestartet und Partisanen haben es geschafft, die Kontrolle über die Stadt zu übernehmen. Die Niederlage gegen eine Widerstandsbewegung hat deiner Herrschaft Schande bereitet. Diese Niederlage wird deine Legitimität als Anführer für eine Weile untergraben: Du hast die Ehre verloren[p7].
+Schreckliche Nachrichten: Die dem [y] treü Widerstandsbewegung von [x] hat einen Aufstand gestartet und Partisanen haben es geschafft, die Kontrolle über die Stadt zu übernehmen. Die Niederlage gegen eine Widerstandsbewegung hat deiner Herrschaft Schande bereitet. Diese Niederlage wird deine Legitimität als Anführer für eine Weile untergraben: Du hast die Ehre verloren[p7].
 
 #event_br_lstpartis_2
 [p2]% der Bevölkerung nahmen Waffen und rebellierten, einschließlich[p4] Soldaten der örtlichen Garnison, die zu den Rebellen übergelaufen waren. Loyalistische Soldaten sahen sich insgesamt[p3] Rebellen gegenüber.
 
 #event_Ab_pitch
-Angriff auf[x] von [y]
+Angriff auf [x] von [y]
 
 #event_Ab_pitch_1
-Wir greifen die feindliche Armee von '[x]' von [y] in einen Pitchkampf mit[p2] Soldaten ein.
+Wir greifen die feindliche Armee von ' [x]' von [y] in einen Pitchkampf mit[p2] Soldaten ein.
 
 #event_Ab_pitch_2
 Sie stehen uns mit[p3] Soldaten gegenüber.
 
 #event_Abr_pitch
-Angegriffen[x] von [y]
+Angegriffen [x] von [y]
 
 #event_Abr_pitch_1
-Wir haben die feindliche Armee von '[x]' von [y] in einen Pitchkampf mit[p2] Soldaten verwickelt.
+Wir haben die feindliche Armee von ' [x]' von [y] in einen Pitchkampf mit[p2] Soldaten verwickelt.
 
 #event_Abr_pitch_2
 Sie standen uns mit[p3] Soldaten gegenüber.
@@ -455,7 +455,7 @@ Sie standen uns mit[p3] Soldaten gegenüber.
 werden von [y] angegriffen.
 
 #event_Db_pitch_1
-'[x]' werden von einer Armee von [y] in einen Pitchkampf verwickelt.
+' [x]' werden von einer Armee von [y] in einen Pitchkampf verwickelt.
 
 #event_Db_pitch_2
 Unsere[p2] Soldaten stehen feindlichen Soldaten gegenüber.
@@ -464,25 +464,25 @@ Unsere[p2] Soldaten stehen feindlichen Soldaten gegenüber.
 wurden von einer Armee angegriffen.
 
 #event_Dbr_pitch_1
-'[x]' wurde von einer Armee von [y] in einen Pitchkampf verwickelt.
+' [x]' wurde von einer Armee von [y] in einen Pitchkampf verwickelt.
 
 #event_Dbr_pitch_2
 Unsere[p3] Soldaten standen feindlichen Soldaten gegenüber.
 
 #event_Ab_invad
-Invasion[x]
+Invasion [x]
 
 #event_Ab_invad_1
-Wir starten einen Angriff auf[x] mit[p2] Soldaten, um einzudringen und die Kontrolle über das Territorium zu übernehmen.
+Wir starten einen Angriff auf [x] mit[p2] Soldaten, um einzudringen und die Kontrolle über das Territorium zu übernehmen.
 
 #event_Ab_invad_2
 Um erfolgreich zu sein, müssen wir alle Feinde und Verteidiger des Territoriums eliminieren. Sie verteidigen es mit[p3] Soldaten.
 
 #event_Abr_invad_event_Abr_invad
-Invasion von[x]
+Invasion von [x]
 
 #event_Abr_invad_1
-Wir starteten einen Angriff auf[x] mit[p2] Soldaten, um in das Gebiet einzudringen und die Kontrolle zu übernehmen.
+Wir starteten einen Angriff auf [x] mit[p2] Soldaten, um in das Gebiet einzudringen und die Kontrolle zu übernehmen.
 
 #event_Abr_invad_2
 Sie verteidigten es mit[p3] Soldaten.
@@ -491,106 +491,106 @@ Sie verteidigten es mit[p3] Soldaten.
 versucht einzudringen.
 
 #event_Db_invad_1
- [y] hat einen Angriff auf[x] mit[p3] Soldaten gestartet, um zu versuchen, in unser Gebiet einzudringen und die Kontrolle zu übernehmen.
+ [y] hat einen Angriff auf [x] mit[p3] Soldaten gestartet, um zu versuchen, in unser Gebiet einzudringen und die Kontrolle zu übernehmen.
 
 #event_Db_invad_2
 Wir müssen ihre Invasion abwehren, oder wir verlieren die Kontrolle über das Gebiet! Wir haben[p2] Soldaten, die es verteidigen.
 
 #event_Dbr_invad
-Verteidigung von[x] gegen eine Invasion von [y]
+Verteidigung von [x] gegen eine Invasion von [y]
 
 #event_Dbr_invad_1
- [y] startete einen Angriff auf[x] mit[p3] Soldaten, um zu versuchen, in unser Gebiet einzudringen und die Kontrolle zu übernehmen.
+ [y] startete einen Angriff auf [x] mit[p3] Soldaten, um zu versuchen, in unser Gebiet einzudringen und die Kontrolle zu übernehmen.
 
 #event_Dbr_invad_2
 Wir haben es mit[p2] Soldaten verteidigt.
 
 #event_Ab_elim
-Angriff[x]
+Angriff [x]
 
 #event_Ab_elim_1
-Wir starten einen Angriff auf[x] mit[p2] Soldaten, um alle feindlichen Kräfte im Gebiet zu eliminieren.
+Wir starten einen Angriff auf [x] mit[p2] Soldaten, um alle feindlichen Kräfte im Gebiet zu eliminieren.
 
 #event_Ab_elim_2
 Um erfolgreich zu sein, müssen wir alle Feinde und Verteidiger des Territoriums eliminieren. Unsere Truppen werden vorrangig alle feindlichen Truppen in Präsenz bringen. Auf dem Weg dorthin kann es zu einer kleinen Plünderung kommen, wenn sich die Gelegenheit ergibt. Sie werden das Gebiet verlassen, sobald sie fertig sind. Sie verteidigen es mit[p3] Soldaten.
 
 #event_Abr_elim
-Angriff von[x]
+Angriff von [x]
 
 #event_Abr_elim_1
-Wir starteten einen Angriff auf[x] mit[p2] Soldaten, um alle Feinde im Gebiet zu eliminieren.
+Wir starteten einen Angriff auf [x] mit[p2] Soldaten, um alle Feinde im Gebiet zu eliminieren.
 
 #event_Abr_elim_2
 Sie verteidigten es mit[p3] Soldaten.
 
 #event_Db_elim
- [y] greift an[x]
+ [y] greift an [x]
 
 #event_Db_elim_1
- [y] hat einen Angriff auf[x] mit[p3] Soldaten gestartet, um alle unsere Streitkräfte im Gebiet zu eliminieren.
+ [y] hat einen Angriff auf [x] mit[p3] Soldaten gestartet, um alle unsere Streitkräfte im Gebiet zu eliminieren.
 
 #event_Db_elim_2
 Sie versuchen nicht, das Territorium zu plündern, zu plündern, zu plündern oder einzudringen, sondern nur, unsere Streitkräfte zu bekämpfen und zu eliminieren. Wenn sie erfolgreich sind, werden sie sich dann aus dem Gebiet zurückziehen. Wir haben[p2] Soldaten, die es verteidigen.
 
 #event_Dbr_elim
-Verteidigung von[x] gegen einen Angriff von [y]
+Verteidigung von [x] gegen einen Angriff von [y]
 
 #event_Dbr_elim_1
- [y] startete einen Angriff auf[x] mit[p3] Soldaten, um zu versuchen, alle unsere Streitkräfte im Gebiet zu eliminieren.
+ [y] startete einen Angriff auf [x] mit[p3] Soldaten, um zu versuchen, alle unsere Streitkräfte im Gebiet zu eliminieren.
 
 #event_Dbr_elim_2
 Wir haben es mit[p2] Soldaten verteidigt.
 
 #event_Ab_raid
-Raiding[x]
+Raiding [x]
 
 #event_Ab_raid_1
-Wir starten eine Razzia auf[x], um ihr Territorium mit[p2] Soldaten zu plündern.
+Wir starten eine Razzia auf [x], um ihr Territorium mit[p2] Soldaten zu plündern.
 
 #event_Ab_raid_2
 Unsere Truppen werden versuchen, Ressourcen und Gebäude zu plündern, bevor sie das Gebiet mit ihrer Beute verlassen.
 
 #event_Abr_raid_event_Abr_raid
-überfall auf[x]
+überfall auf [x]
 
 #event_Abr_raid_1
-Wir haben[x] überfallen, um ihr Territorium mit[p2] Soldaten zu plündern.
+Wir haben [x] überfallen, um ihr Territorium mit[p2] Soldaten zu plündern.
 
 #event_Abr_raid_2
 Unsere Truppen schafften es,[p3] Ressourcen und[p4] Münzen zu plündern. 
 
 #event_Db_raid
- [y] überfällt[x]
+ [y] überfällt [x]
 
 #event_Db_raid_1
- [y] hat eine Razzia auf[x] mit[p2] Soldaten gestartet.
+ [y] hat eine Razzia auf [x] mit[p2] Soldaten gestartet.
 
 #event_Db_raid_2
 Wir müssen sie aufhalten, bevor sie unsere Ressourcen und Gebäude erreichen und plündern und das Gebiet mit ihrer Beute verlassen!
 
 #event_Dbr_raid
-Verteidigung von[x] gegen einen Angriff von [y]
+Verteidigung von [x] gegen einen Angriff von [y]
 
 #event_Dbr_raid_1
- [y] überfiel[x], um unser Gebiet mit[p2] Soldaten zu plündern.
+ [y] überfiel [x], um unser Gebiet mit[p2] Soldaten zu plündern.
 
 #event_Dbr_raid_2
 Sie schafften es,[p3] Ressourcen und[p4] Münzen zu plündern. 
 
 #event_Ab_sacke
-Sackleinen[x]
+Sackleinen [x]
 
 #event_Ab_sack_1
-Wir starten einen Angriff auf[x], um das Gebiet mit[p2] Soldaten zu plündern.
+Wir starten einen Angriff auf [x], um das Gebiet mit[p2] Soldaten zu plündern.
 
 #event_Ab_sack_2
 Unsere Truppen werden versuchen, alle Feinde und Verteidigungen des Territoriums zu eliminieren, bevor sie alles plündern, was sie können, und mit ihrer Beute verschwinden.
 
 #event_Abr_sack_veranstaltung
-Sackung von[x]
+Sackung von [x]
 
 #event_Abr_sack_1
-Wir starteten einen Angriff auf[x], um ihr Territorium mit[p2] Soldaten zu plündern.
+Wir starteten einen Angriff auf [x], um ihr Territorium mit[p2] Soldaten zu plündern.
 
 #event_Abr_sack_2
 Unsere Truppen schafften es,[p3] Ressourcen und[p4] Münzen zu plündern. 
@@ -599,40 +599,40 @@ Unsere Truppen schafften es,[p3] Ressourcen und[p4] Münzen zu plündern.
 versucht zu entlassen.
 
 #event_Db_sack_1
- [y] hat einen Angriff auf[x] gestartet, um das Gebiet mit[p2] Soldaten zu plündern.
+ [y] hat einen Angriff auf [x] gestartet, um das Gebiet mit[p2] Soldaten zu plündern.
 
 #event_Db_sack_2
 Sie werden versuchen, alle unsere Truppen und Verteidigungen zu eliminieren, bevor sie alles plündern, was sie können, und mit der Beute verschwinden.
 
 #event_Dbr_sack_event
-Verteidigung von[x] gegen eine Entlassung von [y]
+Verteidigung von [x] gegen eine Entlassung von [y]
 
 #event_Dbr_sack_1
- [y] startete einen Angriff auf[x], um unser Gebiet mit[p2] Soldaten zu plündern.
+ [y] startete einen Angriff auf [x], um unser Gebiet mit[p2] Soldaten zu plündern.
 
 #event_Dbr_sack_2
 Sie schafften es,[p3] Ressourcen und[p4] Münzen zu plündern. 
 
 #event_Db_assist
-Unterstützung von [y] bei der Verteidigung von[x]
+Unterstützung von [y] bei der Verteidigung von [x]
 
 #event_Db_assist_1
- [y] wird in[x] angegriffen. 
+ [y] wird in [x] angegriffen. 
 
 #event_Db_assist_2
 Als Verbündeter nehmen unsere[p2]-Truppen an der Schlacht teil und helfen bei der Verteidigung gegen[p3]-Feinde.
 
 #event_Dbr_assist
-Unterstützt [y] bei der Verteidigung von[x]
+Unterstützt [y] bei der Verteidigung von [x]
 
 #event_Dbrass_assist_1
- [y] wurde in[x] angegriffen. 
+ [y] wurde in [x] angegriffen. 
 
 #event_Dbrass_assist_2
 Als Verbündeter nahmen unsere[p2] Truppen an der Schlacht teil, um bei der Verteidigung gegen[p3] Feinde zu helfen.
 
 #event_Ab_assist
-Unterstützung von [y] bei dem Angriff von[x].
+Unterstützung von [y] bei dem Angriff von [x].
 
 #event_Ab_assist_1
  [y] greift [y] an. 
@@ -641,7 +641,7 @@ Unterstützung von [y] bei dem Angriff von[x].
 Als Verbündeter von [y] nehmen unsere Truppen an der Schlacht teil und unterstützen seine Armeen.
 
 #event_Abrush_assist
-Unterstützt [y] bei dem Angriff von[x].
+Unterstützt [y] bei dem Angriff von [x].
 
 #event_Abrass_assist_1
 (y) hat angegriffen (y). 
@@ -722,40 +722,40 @@ Legitimitätsrichtlinien definieren, welche Ansprüche Sie geltend machen, um Ih
 Gestohlenes Gebiet
 
 #event_tribwarn_1
-Vorsicht! Durch die Gründung unserer neüsten Siedlung[x] haben wir das Land eines primitiven Stammes erobert, der dort seit Generationen lebt. Sicher, dieses Gebiet sah attraktiv aus, aber wir werden schließlich die Folgen dieser Aktion bezahlen, denn die Einheimischen werden unsere Anwesenheit nicht für immer tolerieren.
+Vorsicht! Durch die Gründung unserer neüsten Siedlung [x] haben wir das Land eines primitiven Stammes erobert, der dort seit Generationen lebt. Sicher, dieses Gebiet sah attraktiv aus, aber wir werden schließlich die Folgen dieser Aktion bezahlen, denn die Einheimischen werden unsere Anwesenheit nicht für immer tolerieren.
 
 #event_tribwarn_2
 Im Moment haben sie nur zugesehen, wie wir aus der Ferne unser Lager aufgeschlagen haben, aber sie kennen diese Länder besser als jeder andere und verschwinden jedes Mal, wenn wir versuchen, uns ihnen zu nähern. Ich fürchte, wir werden nicht in der Lage sein, mit ihnen fertig zu werden, bevor sie sich entscheiden, ärger zu machen..... Wir sollten uns auf einen möglichen überraschungsangriff durch sie vorbereiten. Sie könnten Waffen und Krieger vorbereiten, um uns in diesem Moment aus ihrem Land zu vertreiben! Oder vielleicht ist dieses Land doch nicht die Mühe wert und wir könnten einfach zusammenpacken und sie in Ruhe lassen?
 
 #event_tribreb
-Primitiver Stamm, der sich in[x] auflehnt!
+Primitiver Stamm, der sich in [x] auflehnt!
 
 #event_tribreb_1
-Die Einheimischen, die in unserem Gebiet von[x] leben, sind verärgert darüber, dass sie das haben, was sie für ihr von uns besetztes Gebiet halten. Sie haben die Waffen genommen und beschlossen, verräterisch anzugreifen!
+Die Einheimischen, die in unserem Gebiet von [x] leben, sind verärgert darüber, dass sie das haben, was sie für ihr von uns besetztes Gebiet halten. Sie haben die Waffen genommen und beschlossen, verräterisch anzugreifen!
 
 #event_trt_ref
  [y] hat unseren Vertragsvorschlag abgelehnt.
 
 #event_trt_ref_1
-Ein Abgesandter von [y] hat uns mitgeteilt, dass unser faires und großzügiges Vertragsangebot von[x] abgelehnt wurde.
+Ein Abgesandter von [y] hat uns mitgeteilt, dass unser faires und großzügiges Vertragsangebot von [x] abgelehnt wurde.
 
 #event_trt_acc
 Vertrag mit [y] unterzeichnet
 
 #event_trt_acc_1
-Unser Vertrag mit[x] von [y] wurde von uns beiden genehmigt und unterzeichnet und ist nun in Kraft getreten!
+Unser Vertrag mit [x] von [y] wurde von uns beiden genehmigt und unterzeichnet und ist nun in Kraft getreten!
 
 #event_trt_rt_rngoc
  [y] schlägt eine Neuverhandlung des Vertrages vor.
 
 #event_trt_rt_rngoc_1
-[x] von [y] schlägt die folgende Renogierung eines Vertrags vor, den wir derzeit mit ihnen haben. Wenn wir diesen neün Bedingungen zustimmen, wird der Vertrag aktualisiert.
+ [x] von [y] schlägt die folgende Renogierung eines Vertrags vor, den wir derzeit mit ihnen haben. Wenn wir diesen neün Bedingungen zustimmen, wird der Vertrag aktualisiert.
 
 #event_trt_asktrm
  [y] bittet darum, einen Vertrag zu kündigen.
 
 #event_trt_asktrm_1
-[x] von [y] fordert die einvernehmliche Beendigung eines Vertrages, den wir mit seinem Volk haben. Wenn wir diesem Antrag zustimmen, wird der Vertrag sofort gekündigt, ohne dass es zu einem Vertragsbruch kommt, und seine Bedingungen verlieren ihre Gültigkeit. Wenn wir ablehnen, wird nichts passieren und der Vertrag bleibt aktiv, es sei denn, sie beschließen, ihn illegal zu brechen (in diesem Fall gilt ihr Bruchschluss).
+ [x] von [y] fordert die einvernehmliche Beendigung eines Vertrages, den wir mit seinem Volk haben. Wenn wir diesem Antrag zustimmen, wird der Vertrag sofort gekündigt, ohne dass es zu einem Vertragsbruch kommt, und seine Bedingungen verlieren ihre Gültigkeit. Wenn wir ablehnen, wird nichts passieren und der Vertrag bleibt aktiv, es sei denn, sie beschließen, ihn illegal zu brechen (in diesem Fall gilt ihr Bruchschluss).
 
 #event_trt_brk1
 hat einen Vertrag gebrochen!
@@ -767,10 +767,10 @@ hat illegal den Vertrag von ' [y]' gebrochen, den sie mit uns hatten!
 Gemäß den Vertragsbruchbedingungen haben wir[p1] Münzen als Entschädigung erhalten und sie haben[p2] an Ehre verloren.
 
 #event_trt_brk2
-Wir haben einen Vertrag mit[x] gebrochen!
+Wir haben einen Vertrag mit [x] gebrochen!
 
 #event_trt_brk2_1
-Wir haben illegal den Vertrag von ' [y]' verletzt, den wir mit[x] hatten.
+Wir haben illegal den Vertrag von ' [y]' verletzt, den wir mit [x] hatten.
 
 #event_trt_brk2_2_2
 Gemäß den Vertragsbruchbedingungen haben wir als Strafe[p1] Münzen bezahlt und[p2] an Ehre verloren.
@@ -785,7 +785,7 @@ Sie haben uns als Vergeltung den Krieg erklärt.
 Ankommende barbarische Raider!
 
 #event_brb_raid_1
-Unsere Späher berichten, dass eine Gruppe von etwa[p1] barbarischen Raidern das nahegelegene Gebiet von[x] verlassen hat und sich auf den Weg macht.
+Unsere Späher berichten, dass eine Gruppe von etwa[p1] barbarischen Raidern das nahegelegene Gebiet von [x] verlassen hat und sich auf den Weg macht.
 
 #event_brb_raid_2
 Sie könnten bald hier sein und versuchen, unsere Lager schnell zu durchsuchen. Wir müssen unsere Verteidigung vorbereiten! 
@@ -794,7 +794,7 @@ Sie könnten bald hier sein und versuchen, unsere Lager schnell zu durchsuchen. 
 Ankommendes barbarisches Kriegsband!
 
 #event_brb_sack_1
-Unsere Späher berichten, dass ein barbarischer Kriegsverband von etwa[p1] Pocros das nahegelegene Gebiet von[x] verlassen hat und uns entgegenkommt.
+Unsere Späher berichten, dass ein barbarischer Kriegsverband von etwa[p1] Pocros das nahegelegene Gebiet von [x] verlassen hat und uns entgegenkommt.
 
 #event_brb_sack_2
 Sie könnten bald hier sein und werden angreifen, um alle unsere Verteidigungsanlagen zu überwinden, die das ganze Gebiet plündern! Wir müssen unsere Verteidigung vorbereiten! 
@@ -803,7 +803,7 @@ Sie könnten bald hier sein und werden angreifen, um alle unsere Verteidigungsan
 Ankommende barbarische Eindringlinge!
 
 #event_brb_inv_1
-Unsere Späher berichten, dass eine Armee von Barbaren mit etwa[p1] Pocros das nahe gelegene Territorium von[x] verlassen hat und uns entgegenkommt.
+Unsere Späher berichten, dass eine Armee von Barbaren mit etwa[p1] Pocros das nahe gelegene Territorium von [x] verlassen hat und uns entgegenkommt.
 
 #event_brb_inv_2
 Sie könnten bald hier sein und sie scheinen nicht nur zu kommen, um zu plündern, sondern um in unser Land einzudringen! Wir müssen unsere Verteidigung vorbereiten! 
@@ -812,25 +812,25 @@ Sie könnten bald hier sein und sie scheinen nicht nur zu kommen, um zu plünder
 Ein vernichtender Sieg!
 
 #event_crsh_vict_1
-Unsere Formation <<<[x]>> hat dank unserer überwältigenden überzahl eine kleine Truppe von [y] Feinden völlig vernichtet und eliminiert. 
+Unsere Formation <<< [x]>> hat dank unserer überwältigenden überzahl eine kleine Truppe von [y] Feinden völlig vernichtet und eliminiert. 
 
 #event_crsh_dfeat
 Eine vernichtende Niederlage!
 
 #event_crsh_dfeat_1
-Graü Nachrichten: Unsere Formation <<<[x]>> wurde vom [y]-Feinde völlig zerstört und eliminiert, mit überwältigender überzahl. Niemand überlebte, um die Geschichte überhaupt zu erzählen.
+Graü Nachrichten: Unsere Formation <<< [x]>> wurde vom [y]-Feinde völlig zerstört und eliminiert, mit überwältigender überzahl. Niemand überlebte, um die Geschichte überhaupt zu erzählen.
 
 #event_popdefrise
-Das Volk von[x] verteidigt die Stadt!
+Das Volk von [x] verteidigt die Stadt!
 
 #event_popdefrise_1
-Die Bewohner der Stadt[x] greifen selbst zu den Waffen, um die Stadt gegen die Angreifer zu verteidigen. (p1) Die Porcos nehmen an der Schlacht teil!
+Die Bewohner der Stadt [x] greifen selbst zu den Waffen, um die Stadt gegen die Angreifer zu verteidigen. (p1) Die Porcos nehmen an der Schlacht teil!
 
 #event_forelle_w1
 Warnung vor Handelsrouten: keine Handelsrechte!
 
 #event_forelle_w1_1_1
-Da wir keine Handelsrechte mehr mit der Stadt [y] haben, wird unsere Handelsroute zwischen dieser Stadt und[x] bald geschlossen, wenn wir dieses Problem nicht schnell lösen. 
+Da wir keine Handelsrechte mehr mit der Stadt [y] haben, wird unsere Handelsroute zwischen dieser Stadt und [x] bald geschlossen, wenn wir dieses Problem nicht schnell lösen. 
 
 #event_forelle_w1_2
 Dies kann passieren, wenn die Stadt einen neün Eigentümer hat, mit dem wir keine Handelsrechte ausgehandelt haben, oder wenn diese Rechte widerrufen wurden.
@@ -839,7 +839,7 @@ Dies kann passieren, wenn die Stadt einen neün Eigentümer hat, mit dem wir kei
 Handelsroute unterbrochen!
 
 #event_forelle_b1_1_1
-Da wir keine Handelsrechte mehr mit der Stadt [y] hatten, wurde unsere Handelsroute zwischen dieser Stadt und[x] geschlossen. 
+Da wir keine Handelsrechte mehr mit der Stadt [y] hatten, wurde unsere Handelsroute zwischen dieser Stadt und [x] geschlossen. 
 
 #event_forelle_b1_2_2
 Dies geschah, weil die Stadt einen neün Eigentümer bekam, mit dem wir keine Handelsrechte ausgehandelt haben, oder weil die Handelsrechte widerrufen wurden.
@@ -848,7 +848,7 @@ Dies geschah, weil die Stadt einen neün Eigentümer bekam, mit dem wir keine Ha
 Handelsroutenwarnung: Fehlende Ladung!
 
 #event_forelle_w2_1
-Auf unserer Handelsroute mit[x], die von [y] betrieben wird, fehlt[p2] die Ladung, um ordnungsgemäß betrieben zu werden. Der Handelsweg wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell.
+Auf unserer Handelsroute mit [x], die von [y] betrieben wird, fehlt[p2] die Ladung, um ordnungsgemäß betrieben zu werden. Der Handelsweg wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell.
 
 #event_forelle_w2_2_2
 Der Frachtdienst ermöglicht es, die Waren kontinuierlich auf einer Handelsroute zu befördern und einen konstanten Transfer von Ressourcen aufrechtzürhalten. Jede Route, abhängig von der Entfernung und dem Volumen der gehandelten Waren, erfordert eine bestimmte Menge an Ladung.  
@@ -860,7 +860,7 @@ Dieser Betreiber produziert jedoch nicht mehr genügend des benötigten Frachtdi
 Handelsroute unterbrochen!
 
 #event_forelle_b2_1
-Unsere Handelsroute mit[x] wurde geschlossen, weil der Betreiber [y] nicht in der Lage war, die erforderliche Ladung ([p3]) für ihre Wartung bereitzustellen (fehlte[p2]).
+Unsere Handelsroute mit [x] wurde geschlossen, weil der Betreiber [y] nicht in der Lage war, die erforderliche Ladung ([p3]) für ihre Wartung bereitzustellen (fehlte[p2]).
 
 #event_trout_b2_2_2_2
 Der Frachtdienst ermöglicht es, die Waren kontinuierlich auf einer Handelsroute zu befördern und einen konstanten Transfer von Ressourcen aufrechtzürhalten. Jede Route, abhängig von der Entfernung und dem Volumen der gehandelten Waren, erfordert eine bestimmte Menge an Ladung.  
@@ -872,25 +872,25 @@ Dieser Betreiber produziert jedoch nicht mehr genügend des benötigten Frachtdi
 Handelsroutenwarnung: Uns fehlen Waren!
 
 #event_forelle_w3_1
-Unser Handelsweg, der[p2][p3] nach[x] von [y] exportiert, hat nicht die erforderliche Ware und wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell!
+Unser Handelsweg, der[p2][p3] nach [x] von [y] exportiert, hat nicht die erforderliche Ware und wird bald geschlossen, es sei denn, wir beheben dieses Problem schnell!
 
 #event_forelle_w3_2
-Dies geschieht, weil wir nicht mehr genug[p3] in[x] produzieren und unsere Bestände aufgebraucht sind. 
+Dies geschieht, weil wir nicht mehr genug[p3] in [x] produzieren und unsere Bestände aufgebraucht sind. 
 
 #event_forelle_b3
 Handelsroute unterbrochen!
 
 #event_forelle_b3_1
-Unsere Handelsroute, die[p2][p3] nach[x] von [y] exportiert, wurde geschlossen, weil wir die benötigten Waren nicht mehr liefern konnten.
+Unsere Handelsroute, die[p2][p3] nach [x] von [y] exportiert, wurde geschlossen, weil wir die benötigten Waren nicht mehr liefern konnten.
 
 #event_forelle_b3_2
-Dies geschah, weil wir nicht genug[p3] in[x] produzierten und unsere Bestände knapp wurden. 
+Dies geschah, weil wir nicht genug[p3] in [x] produzierten und unsere Bestände knapp wurden. 
 
 #event_forelle_w4
 Handelsroutenwarnung: Dem Exporteur fehlen Waren!
 
 #event_forelle_w4_1
-Unser Handelsweg, der[p2][p3] von [y] nach[x] importiert, hat nicht die erforderlichen Waren und könnte bald schließen, es sei denn, der Exporteur behebt dieses Problem schnell!
+Unser Handelsweg, der[p2][p3] von [y] nach [x] importiert, hat nicht die erforderlichen Waren und könnte bald schließen, es sei denn, der Exporteur behebt dieses Problem schnell!
 
 #event_forelle_w4_2
 Dies geschieht, weil ihre Produktion von[p3] in [y] unzureichend ist und ihre Bestände knapp wurden.
@@ -899,82 +899,82 @@ Dies geschieht, weil ihre Produktion von[p3] in [y] unzureichend ist und ihre Be
 Handelsroute unterbrochen!
 
 #event_forelle_b4_1
-Unsere Handelsroute, die[p2][p3] von[x] nach [y] importiert, wurde geschlossen, weil sie die benötigten Waren nicht mehr liefern konnte.
+Unsere Handelsroute, die[p2][p3] von [x] nach [y] importiert, wurde geschlossen, weil sie die benötigten Waren nicht mehr liefern konnte.
 
 #event_forelle_b4_2
-Dies geschah, weil ihre Produktion von[p3] in[x] unzureichend war und ihre Bestände knapp geworden waren.
+Dies geschah, weil ihre Produktion von[p3] in [x] unzureichend war und ihre Bestände knapp geworden waren.
 
 #event_forelle_c1
-[x] hat eine Handelsroute gesperrt!
+ [x] hat eine Handelsroute gesperrt!
 
 #event_forelle_c1_1_1
-Die Stadt[x] hat ihre Handelsroute von[p2][p3] mit unserer Stadt [y] geschlossen.
+Die Stadt [x] hat ihre Handelsroute von[p2][p3] mit unserer Stadt [y] geschlossen.
 
 #event_forelle_c2
 Eine unserer Handelsrouten wurde von ihrem Betreiber gesperrt!
 
 #event_forelle_c2_1
-Die Stadt[x] hat beschlossen, den Betrieb unserer Handelsroute[p2][p3] mit unserer Stadt [y] einzustellen. Dies führte dazu, dass die Handelsroute geschlossen wurde.
+Die Stadt [x] hat beschlossen, den Betrieb unserer Handelsroute[p2][p3] mit unserer Stadt [y] einzustellen. Dies führte dazu, dass die Handelsroute geschlossen wurde.
 
 #event_cdog
-Ein Jäger zähmte einige wilde Hunde in[x]!
+Ein Jäger zähmte einige wilde Hunde in [x]!
 
 #event_cdog_1
-Einige wilde Hunde sind in letzter Zeit durch das Dorf[x] gelaufen. Die Tiere wirkten freundlich und ein Jäger schaffte es, einige von ihnen zu zähmen: Er legte sie in ein geschlossenes Fahrerlager, um sie in der Nähe zu halten. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
+Einige wilde Hunde sind in letzter Zeit durch das Dorf [x] gelaufen. Die Tiere wirkten freundlich und ein Jäger schaffte es, einige von ihnen zu zähmen: Er legte sie in ein geschlossenes Fahrerlager, um sie in der Nähe zu halten. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
 
 #event_csheep
-Wir haben einige wilde Schafe in[x] gezähmt!
+Wir haben einige wilde Schafe in [x] gezähmt!
 
 #event_csheep_1
-Einige wilde Schafe sind in letzter Zeit durch das Dorf[x] gewandert. Diese Tiere wirken freundlich, und ein Dorfbewohner schaffte es, sie in einem kleinen geschlossenen Fahrerlager anzuziehen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben! Sie sind auch ziemlich flauschig.
+Einige wilde Schafe sind in letzter Zeit durch das Dorf [x] gewandert. Diese Tiere wirken freundlich, und ein Dorfbewohner schaffte es, sie in einem kleinen geschlossenen Fahrerlager anzuziehen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben! Sie sind auch ziemlich flauschig.
 
 #event_cgoat
-Wir haben einige wilde Ziegen in[x] gezähmt!
+Wir haben einige wilde Ziegen in [x] gezähmt!
 
 #event_cgoat_1
-Einige wilde Ziegen wandern in letzter Zeit durch das Dorf[x]. Diese Tiere wirken freundlich, und ein Dorfbewohner schaffte es, sie in einem kleinen geschlossenen Fahrerlager anzuziehen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
+Einige wilde Ziegen wandern in letzter Zeit durch das Dorf [x]. Diese Tiere wirken freundlich, und ein Dorfbewohner schaffte es, sie in einem kleinen geschlossenen Fahrerlager anzuziehen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
 
 #event_crabbit
-Jäger haben in[x] einige Wildkaninchen gefangen!
+Jäger haben in [x] einige Wildkaninchen gefangen!
 
 #event_crabbit_1
-Die Jäger von[x] hatten Glück und haben es geschafft, einige Kaninchen lebendig zu fangen und in Käfige zu sperren, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
+Die Jäger von [x] hatten Glück und haben es geschafft, einige Kaninchen lebendig zu fangen und in Käfige zu sperren, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
 
 #event_cchick
-Jäger haben in[x] ein wildes Huhn gefangen!
+Jäger haben in [x] ein wildes Huhn gefangen!
 
 #event_cchick_1
-Die Jäger von[x] hatten Glück und haben es geschafft, einige Hühner lebendig zu fangen und in Käfige zu sperren, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
+Die Jäger von [x] hatten Glück und haben es geschafft, einige Hühner lebendig zu fangen und in Käfige zu sperren, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
 
 #event_ccow
-Wir haben einige wilde Kühe in[x] gezähmt!
+Wir haben einige wilde Kühe in [x] gezähmt!
 
 #event_ccow_1
-Einige wilde Kühe wandern in letzter Zeit durch das Dorf[x]. Diese Tiere schienen passiv zu sein, und ein Dorfbewohner schaffte es, sie zu einem kleinen geschlossenen Fahrerlager zu führen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
+Einige wilde Kühe wandern in letzter Zeit durch das Dorf [x]. Diese Tiere schienen passiv zu sein, und ein Dorfbewohner schaffte es, sie zu einem kleinen geschlossenen Fahrerlager zu führen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
 
 #event_cbuff
-Wir haben einige wilde Büffel in[x] gezähmt!
+Wir haben einige wilde Büffel in [x] gezähmt!
 
 #event_cbuff_1
-Einige wilde Büffel wandern in letzter Zeit durch das Dorf[x]. Diese Tiere wirken freundlich, und ein Dorfbewohner schaffte es, sie in einem kleinen geschlossenen Fahrerlager anzuziehen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
+Einige wilde Büffel wandern in letzter Zeit durch das Dorf [x]. Diese Tiere wirken freundlich, und ein Dorfbewohner schaffte es, sie in einem kleinen geschlossenen Fahrerlager anzuziehen, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
 
 #event_chorse
-Jäger haben in[x] einige Wildpferde gefangen!
+Jäger haben in [x] einige Wildpferde gefangen!
 
 #event_chorse_1
-Die Jäger von[x] hatten Glück und haben es geschafft, einige Wildpferde zu fangen. Sie haben die aufgewühlten Tiere in einem kleinen Paddock eingesperrt, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
+Die Jäger von [x] hatten Glück und haben es geschafft, einige Wildpferde zu fangen. Sie haben die aufgewühlten Tiere in einem kleinen Paddock eingesperrt, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
 
 #event_accamel
-Jäger fingen einige wilde Kamele in[x]!
+Jäger fingen einige wilde Kamele in [x]!
 
 #event_ccamel_1
-Die Jäger von[x] hatten Glück und haben es geschafft, einige wilde Kamele zu fangen. Sie haben die hartnäckig dumm aussehenden Tiere in ein kleines Fahrerlager gesperrt, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
+Die Jäger von [x] hatten Glück und haben es geschafft, einige wilde Kamele zu fangen. Sie haben die hartnäckig dumm aussehenden Tiere in ein kleines Fahrerlager gesperrt, um sie zu halten, falls wir frisches Fleisch brauchen! Es ist immer gut, Nahrungsvorräte zu haben.
 
 #event_cllama
-Wir haben einige wilde Lamas in[x] gezähmt!
+Wir haben einige wilde Lamas in [x] gezähmt!
 
 #event_cllama_1
-Einige wilde Lamas sind in letzter Zeit durch das Dorf[x] gewandert. Diese Tiere schienen sehr freundlich - bis hin zu einem hartnäckigen spuckenden Lama - und ein Dorfbewohner schob sie in ein kleines geschlossenes Fahrerlager, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
+Einige wilde Lamas sind in letzter Zeit durch das Dorf [x] gewandert. Diese Tiere schienen sehr freundlich - bis hin zu einem hartnäckigen spuckenden Lama - und ein Dorfbewohner schob sie in ein kleines geschlossenes Fahrerlager, um sicherzustellen, dass sie nicht gehen. Wir sollten sie so lange behalten, bis wir frisches Fleisch brauchen, denn es ist immer gut, Vorräte zu haben!
 
 #event_projsuc
 Unser Projekt [x']' wurde erfolgreich abgeschlossen!
@@ -986,49 +986,49 @@ Unser Projekt [ x']' ist erfolgreich abgeschlossen und wir haben uns seine Beloh
 Unser Projekt [x']' ist gescheitert!
 
 #event_projfail_1
-Unser Projekt von '[x]' mit[p2]% Erfolgsaussichten ist abgeschlossen, aber leider hat es seine Erwartungen nicht erfüllt und wir haben nicht die erwarteten Ergebnisse erzielt. Ich fürchte, wir müssen wieder von vorne anfangen und hoffen auf bessere Ergebnisse.....
+Unser Projekt von ' [x]' mit[p2]% Erfolgsaussichten ist abgeschlossen, aber leider hat es seine Erwartungen nicht erfüllt und wir haben nicht die erwarteten Ergebnisse erzielt. Ich fürchte, wir müssen wieder von vorne anfangen und hoffen auf bessere Ergebnisse.....
 
 #event_projfail_2
 Ein Projekt kann scheitern, wenn seine Schwierigkeit höher ist als die durchschnittliche Intelligenz der ihm zugewiesenen Forscher. Wir sollten versuchen, bessere Forscher einzusetzen, um unsere Erfolgschancen beim nächsten Mal zu erhöhen!
 
 #event_herd
-Herde von[p2] in der Nähe von[x] gesichtet!
+Herde von[p2] in der Nähe von [x] gesichtet!
 
 #event_herd_1
-Die Späher des Stammes haben ein bewegendes Geräusch von etwa[p1][p2] in der Nähe unserer Siedlung[x], in einem Gebiet von [y], entdeckt.
+Die Späher des Stammes haben ein bewegendes Geräusch von etwa[p1][p2] in der Nähe unserer Siedlung [x], in einem Gebiet von [y], entdeckt.
 
 #event_herd_2
 Wir könnten einige unserer besten Porcos schicken, um sie zu jagen: das würde uns mit frischem Fleisch und Leder für den Stamm versorgen!
 
 #event_form_animesc
-sind der überwachung unseres '[x]' entkommen!
+sind der überwachung unseres ' [x]' entkommen!
 
 #event_form_animesc_1
-[p2][p3] sind der überwachung unserer Formation '[x]' entkommen, die sie bewacht hat, und sind nun verloren.
+[p2][p3] sind der überwachung unserer Formation ' [x]' entkommen, die sie bewacht hat, und sind nun verloren.
 
 #event_form_animesc_2
 Tiere können entkommen, wenn sie im Verhältnis zu ihren Hütern zu zahlreich sind oder einfach zu lange im Inventar einer Formation gehalten werden. Um sicherzustellen, dass dies nicht noch einmal passiert, sollten wir vielleicht erwägen, sie in geeigneten Paddocks zu parken oder kleinere Zahlen zu tragen, damit sie weniger wahrscheinlich der Aufsicht durch die ihnen zugewiesenen Halter entgehen.
 
 #event_rcvidea
-Wir haben eine neü Idee von[x] erhalten!
+Wir haben eine neü Idee von [x] erhalten!
 
 #event_rcvidea_1
-Gute Nachrichten: Die Leute von[x] haben uns ihr Wissen über[p1] gezeigt und uns die Grundzüge dessen, was es ist und wie es funktioniert, erklärt.
+Gute Nachrichten: Die Leute von [x] haben uns ihr Wissen über[p1] gezeigt und uns die Grundzüge dessen, was es ist und wie es funktioniert, erklärt.
 
 #event_rcvidea_2
 Basierend auf dem, was sie uns gezeigt haben, haben wir nun ein neüs Projekt freigeschaltet: '[p2]', das wir versuchen können, uns selbst zu vervollständigen, um auch das Wissen von[p1] zu beherrschen!
 
 #event_trtov
-Unser Vertrag '[x]' mit [y] ist nun beendet.
+Unser Vertrag ' [x]' mit [y] ist nun beendet.
 
 #event_trtov_1
-Der Vertrag '[x]', den wir mit [y] hatten, hat das Ende seiner vereinbarten Laufzeit erreicht und ist nun obsolet! 
+Der Vertrag ' [x]', den wir mit [y] hatten, hat das Ende seiner vereinbarten Laufzeit erreicht und ist nun obsolet! 
 
 #ev_migtrib
-Stamm der hungrigen Nomaden in[x]
+Stamm der hungrigen Nomaden in [x]
 
 #ev_migtrib_1
-Angezogen von unserem Wohlstand ist ein primitiver Stamm hungriger Nomaden in[x] angekommen. Sie wandern seit langem durch das Land, leiden unter Hunger und sind daran interessiert, sich unserer Gemeinschaft anzuschließen. Sie tragen wenig mit sich herum und haben außer ihren Mitarbeitern nicht viel zu bieten.
+Angezogen von unserem Wohlstand ist ein primitiver Stamm hungriger Nomaden in [x] angekommen. Sie wandern seit langem durch das Land, leiden unter Hunger und sind daran interessiert, sich unserer Gemeinschaft anzuschließen. Sie tragen wenig mit sich herum und haben außer ihren Mitarbeitern nicht viel zu bieten.
 
 #ev_migtrib_2
 Sollen wir sie in unserem Stamm willkommen heißen?
@@ -1040,16 +1040,16 @@ Sollen wir sie in unserem Stamm willkommen heißen?
 "Nein! Wir können uns keine zusätzlichen Münder zum Füttern leisten."
 
 #ev_stormwood
-Stürmische Nacht in[x]
+Stürmische Nacht in [x]
 
 #ev_stormwood_1
-Ein heftiger Sturm tobte die ganze Nacht in[x], mit starken Winden. Glücklicherweise wurde niemandem geschadet und das Dorf erlitt keinen Schaden.
+Ein heftiger Sturm tobte die ganze Nacht in [x], mit starken Winden. Glücklicherweise wurde niemandem geschadet und das Dorf erlitt keinen Schaden.
 
 #ev_stormwood_2
 Am Morgen bemerkten die Dorfbewohner jedoch, dass in der Nähe ein paar hohe alte Bäume umgefallen waren, so dass es eine einfache und kostenlose Holzversorgung war! 
 
 #ev_luckgath
-Glücklicher Sammler in[x]
+Glücklicher Sammler in [x]
 
 #ev_luckgath_1
 Einer unserer Sammler hatte Glück und stolperte über einen bisher unentdeckten Fleck mit essbaren Pflanzen, der in der Vegetation versteckt war und den niemand zuvor bemerkt hatte! Das ist eine gute Ernte für den Tag!
@@ -1058,25 +1058,25 @@ Einer unserer Sammler hatte Glück und stolperte über einen bisher unentdeckten
 Die nagende Frau
 
 #ev_nagwif_1
-Ein Porco des Dorfes[x], verärgert über die ständigen Nörgeleien seiner Sau, beschloss, sich auf einen einsamen Rückzug in der Wildnis zur Jagd zu begeben, und so verschwand er für mehrere Tage. 
+Ein Porco des Dorfes [x], verärgert über die ständigen Nörgeleien seiner Sau, beschloss, sich auf einen einsamen Rückzug in der Wildnis zur Jagd zu begeben, und so verschwand er für mehrere Tage. 
 
 #ev_nagwif_2
 Viele befürchteten, dass er nie wieder zurückkehren würde. Aber am 5. Tag kam er zurück und trug die Beute einer sehr erfolgreichen Jagd mit sich herum. Er wurde vom ganzen Stamm angefeürt. Seine Frau war jedoch nicht erfreut und ging mit ihren Ferkeln, um im Stamm ihrer Mutter auf der anderen Seite des Tals zu leben.
 
 #ev_regwolf
-Hungrige Wölfe in[x]!
+Hungrige Wölfe in [x]!
 
 #ev_regwolf_1
-Ein Rudel hungriger Wölfe ist im Gebiet von[x] angekommen, wahrscheinlich angezogen von unseren Nahrungsmitteln! In der Nacht weckten sie den ganzen Stamm mit ihren erschreckenden Heulern auf, die immer näher kamen. Im Morgengraün wurden ihre dunklen Silhoütten um das Dorf herum entdeckt.
+Ein Rudel hungriger Wölfe ist im Gebiet von [x] angekommen, wahrscheinlich angezogen von unseren Nahrungsmitteln! In der Nacht weckten sie den ganzen Stamm mit ihren erschreckenden Heulern auf, die immer näher kamen. Im Morgengraün wurden ihre dunklen Silhoütten um das Dorf herum entdeckt.
 
 #ev_regwolf_2
 Alle Krieger eilten zu ihren Waffen und versammelten sich, bereit, das ankommende Wolfsrudel zu bekämpfen und die Menschen und Bestände des Dorfes zu schützen!
 
 #ev_regbear
-Böse Bären in[x]
+Böse Bären in [x]
 
 #ev_regbear_1
-Eine kleine Gruppe von Bären kam auf Wanderung durch das Gebiet von[x]. In der Nacht betraten sie das Dorf und begannen, durch unsere Nahrungsvorräte und Vorräte zu wüten.
+Eine kleine Gruppe von Bären kam auf Wanderung durch das Gebiet von [x]. In der Nacht betraten sie das Dorf und begannen, durch unsere Nahrungsvorräte und Vorräte zu wüten.
 
 #ev_regbear_c1
 "Jeder tut einfach so, als ob er schläft...."
@@ -1085,10 +1085,10 @@ Eine kleine Gruppe von Bären kam auf Wanderung durch das Gebiet von[x]. In der 
 Zeit, gegen ein paar Bären zu kämpfen!
 
 #ev_asylm
-Asylsuchende in[x]
+Asylsuchende in [x]
 
 #ev_asylm_1
-Eine Gruppe von Nomaden kam in unser Gebiet von[x]. Sie erzählten ihre Geschichte, wie sie nach einem Konflikt zwischen ihnen von einem anderen benachbarten Stamm von ihrem Land vertrieben wurden.
+Eine Gruppe von Nomaden kam in unser Gebiet von [x]. Sie erzählten ihre Geschichte, wie sie nach einem Konflikt zwischen ihnen von einem anderen benachbarten Stamm von ihrem Land vertrieben wurden.
 
 #ev_asylm_2
 In einer Nacht angegriffen, verloren sie den größten Teil ihres Volkes und flohen aus ihrer Heimat, aber erst als es einem ihrer besten Krieger gelang, den Häuptling des feindlichen Stammes zu töten. Seitdem hat sein Sohn geschworen, sie aus Rache zu jagen, egal wohin sie gehen, und sie sind seit vielen Wochen auf der Flucht. 
@@ -1106,7 +1106,7 @@ Fangen Sie diese Flüchtlinge und bieten Sie sie der Justiz ihrer Verfolger für
 Der sachkundige Reisende
 
 #ev_knowtrav_1
-Eines Tages kam ein altes Schwein in unserem Dorf[x] an, seine Füße müde von den vielen Reisen, die er unternommen hatte. Er war ein einsamer Einsiedler, der seit vielen Jahren allein lebt und reist. 
+Eines Tages kam ein altes Schwein in unserem Dorf [x] an, seine Füße müde von den vielen Reisen, die er unternommen hatte. Er war ein einsamer Einsiedler, der seit vielen Jahren allein lebt und reist. 
 
 #ev_knowtrav_2
 Er erzählte die Geschichte des alten Volkes, zu dem er gehörte, das vor langer Zeit an einer mysteriösen Krankheit starb, von der er sich als einziger auf wundersame Weise erholte und aus seinem Land floh. Er erzählte auch Geschichten darüber, wie seine Leute früher gelebt haben: unglaubliche Geschichten über Dinge, die sie getan haben, die niemand hier je hatte. Es gab viel von seinen Lehren zu lernen, da er von einem verfeinerten und mysteriösen Volk zu kommen schien. 
@@ -1121,10 +1121,10 @@ Hört zu, was dieser Reisende zu lehren hat, auch wenn es ihn verärgert.
 Verbannt das alte Schwein des Dorfes für seine Lügen.
 
 #ev_frndgift
-Geschenk der Freundschaft in[x]
+Geschenk der Freundschaft in [x]
 
 #ev_frndgift_1
-Eine Gruppe von Nomadenreisenden durchqürte unser kleines Dorf[x]. Sie blieben für ein paar Tage, erzählten Geschichten und freundeten sich mit einigen unserer Einheimischen an. Erfreut von unserer Gastfreundschaft schenkten sie uns einige ihrer Sachen als Zeichen der Freundschaft, bevor sie sich von uns verabschiedeten und ihre Reise fortsetzten.
+Eine Gruppe von Nomadenreisenden durchqürte unser kleines Dorf [x]. Sie blieben für ein paar Tage, erzählten Geschichten und freundeten sich mit einigen unserer Einheimischen an. Erfreut von unserer Gastfreundschaft schenkten sie uns einige ihrer Sachen als Zeichen der Freundschaft, bevor sie sich von uns verabschiedeten und ihre Reise fortsetzten.
 
 #ev_vp_complet
 Siegesmission abgeschlossen!
@@ -1136,7 +1136,7 @@ Wir haben die Siegesmission " [y]" vor allen anderen abgeschlossen und ihren Loh
 hat eine Siegesmission erfüllt!
 
 #ev_vp_fail_1
-Das Volk von[x] hat die Siegesmission " [y]" vor uns abgeschlossen!
+Das Volk von [x] hat die Siegesmission " [y]" vor uns abgeschlossen!
 
 #ev_joinwriors
 Krieger wollen sich uns anschließen!
@@ -1160,28 +1160,28 @@ Einer der erfahrensten Handwerker des Stammes fand Steine von ungewöhnlicher So
 Geschwindigkeitsschub!
 
 #ev_spdboost_1
-Als neu geschaffener Charakter erhältst du für einen dynamischen Start einen temporären x[x] SPEED BOOST während deiner ersten [y] Spielminuten!
+Als neu geschaffener Charakter erhältst du für einen dynamischen Start einen temporären x [x] SPEED BOOST während deiner ersten [y] Spielminuten!
 
 #ev_spdboost_2
 Dieser Bonus, solange er aktiv bleibt, verändert die folgenden Werte deines Charakters:
 
 #ev_spdboost_3
-- Die Produktion und der Verbrauch von Ressourcen in Ihren Gebieten geschieht schneller, da der Produktionszyklus um[x] verkürzt wird.
+- Die Produktion und der Verbrauch von Ressourcen in Ihren Gebieten geschieht schneller, da der Produktionszyklus um [x] verkürzt wird.
 
 #ev_spdboost_4
-- Das Bevölkerungswachstum entwickelt sich schneller, da die Daür einer normalen Generation um[x] reduziert wird.
+- Das Bevölkerungswachstum entwickelt sich schneller, da die Daür einer normalen Generation um [x] reduziert wird.
 
 #ev_spdboost_5
-- Die Forschungsgeschwindigkeit wird um[x] erhöht.
+- Die Forschungsgeschwindigkeit wird um [x] erhöht.
 
 #ev_spdboost_6
-- Die Baugeschwindigkeit wird um[x] erhöht.
+- Die Baugeschwindigkeit wird um [x] erhöht.
 
 #ev_rebljoin
 (x) rebellierte und möchte sich uns anschließen.
 
 #ev_rebljoin_1
-Gute Nachrichten: Die Stadt[x] rebellierte gegen ihre Opressoren von [y]. Die Stadt ist endlich frei und die Bevölkerung, die sich kulturell an uns gebunden fühlt, möchte nun wieder in unsere herrliche Nation eintreten! 
+Gute Nachrichten: Die Stadt [x] rebellierte gegen ihre Opressoren von [y]. Die Stadt ist endlich frei und die Bevölkerung, die sich kulturell an uns gebunden fühlt, möchte nun wieder in unsere herrliche Nation eintreten! 
 
 #ev_rebljoin_2
 Wenn wir akzeptieren, werden wir das Eigentum und die Kontrolle über dieses Gebiet wiedererlangen. Wenn wir uns weigern, bleiben sie von Rebellen regiert.
@@ -1196,7 +1196,7 @@ Ablehnen
 Heirdom
 
 #ev_heirprop_1
-[x] ist jetzt inaktiv und seine Position ist für die Nachfolge bereit. Er hat dich zu seinem Erben ernannt, und du kannst daher sofort seinen Platz innerhalb der Nation einnehmen.
+ [x] ist jetzt inaktiv und seine Position ist für die Nachfolge bereit. Er hat dich zu seinem Erben ernannt, und du kannst daher sofort seinen Platz innerhalb der Nation einnehmen.
 
 #ev_heirprop_2
 Wenn Sie zustimmen, werden Ihre Positionen sofort getauscht: Sie werden seinen Rang und seine Untergebenen erben, während er Ihren erbt und zu Ihrem eigenen Untergebenen wird. Abhängig von den Privilegien Ihres neün Titels können Sie ihn dann möglicherweise ganz aus der Nation entfernen, seine Territorien demontieren oder die Hierarchie neu organisieren, um Ihre früheren Untergebenen wiederzürlangen oder ihn weiter nach unten zu bringen.
@@ -1211,22 +1211,22 @@ Ablehnen
 Zeit zum Abstimmen!
 
 #ev_votesucc_1
-[x], Ihr Vorgesetzter, ist jetzt inaktiv und seine Position ist bereit für die Nachfolge. Es ist an der Zeit abzustimmen, um zu bestimmen, wer unter seinen Untergebenen ausgewählt wird, um ihn zu ersetzen.
+ [x], Ihr Vorgesetzter, ist jetzt inaktiv und seine Position ist bereit für die Nachfolge. Es ist an der Zeit abzustimmen, um zu bestimmen, wer unter seinen Untergebenen ausgewählt wird, um ihn zu ersetzen.
 
 #ev_votesucc_2
-Sobald ein Nachfolger gewählt ist, wird seine Position sofort mit[x] getauscht und er erbt seinen Rang und seine Untergebenen. Der Vorgänger wird standardmäßig automatisch auf die bisherige Position des neu gewählten Nachfolgers verschoben, wo er dann als Untergebener weiter geführt werden kann (demontiert, ausgeschlossen, ersetzt....).
+Sobald ein Nachfolger gewählt ist, wird seine Position sofort mit [x] getauscht und er erbt seinen Rang und seine Untergebenen. Der Vorgänger wird standardmäßig automatisch auf die bisherige Position des neu gewählten Nachfolgers verschoben, wo er dann als Untergebener weiter geführt werden kann (demontiert, ausgeschlossen, ersetzt....).
 
 #ev_votesucc_rslt
-[p2] wurde gewählt[x].
+[p2] wurde gewählt [x].
 
 #ev_vootesucc_rslt_rslt_1
-[p2] wurde gewählt[x], als Nachfolger von[p1]. 
+[p2] wurde gewählt [x], als Nachfolger von[p1]. 
 
 #ev_vootesucc_rslt_rslt_2
 [p2] gewann die Wahl mit[p3] Stimmen von[p4] abgegebenen Stimmen.
 
 #ev_vootesucc_won_won
-Du wurdest gewählt[x]!
+Du wurdest gewählt [x]!
 
 #ev_votesucc_won_won_1
 Herzlichen Glückwunsch! Du wurdest [y] in Folge von[p1] gewählt. 
@@ -1256,10 +1256,10 @@ Du hast die Wahl mit[p3] Stimmen zu deinen Gunsten aus[p4] abgegebenen Stimmen g
 Geht.
 
 #ev_xplrr_bdts
-Banditen überfielen unsere Formation '[x]'!
+Banditen überfielen unsere Formation ' [x]'!
 
 #ev_xplr_bdts_1
-Während unsere Formation '[x]' von[p2] Porcos durch die Wildnis reiste, passierten sie irgendwann einen kleinen schmalen Pass, der zwischen zwei Hügeln verschachtelt war. Die Sonne war hoch und die Porcos waren es leid, die lange Reise und das Tragen all der Güter, die die Truppe mit sich trug, zu unternehmen.
+Während unsere Formation ' [x]' von[p2] Porcos durch die Wildnis reiste, passierten sie irgendwann einen kleinen schmalen Pass, der zwischen zwei Hügeln verschachtelt war. Die Sonne war hoch und die Porcos waren es leid, die lange Reise und das Tragen all der Güter, die die Truppe mit sich trug, zu unternehmen.
 
 #ev_xplr_bdts_2
 Kein Wunder, dass eine kleine Gruppe von etwa 20 überfallenen Banditen plötzlich auf beiden Seiten auftauchte und unsere Truppen umgab. Ihr Anführer rückte vorwärts und stellte eine einfache Forderung: "Gib uns allen deine Beute oder sei Speck!". Was sollen wir tun?
@@ -1274,7 +1274,7 @@ Gib ihnen, was sie wollen.
 "x" fand ein verlassenes Dorf.
 
 #ev_xplr_abvil_1
-Während der Erkundung der Länder stolperte unsere Gruppe '[x]' über die überreste eines abgetrennten primitiven Dorfes aus einigen Hütten. Vorsichtig begannen die Porcos, diese überreste zu inspizieren und kamen zu dem Schluss, dass derjenige, der dort wohnte, längst weg ist. "Sie scheinen hier viele Dinge aufgegeben zu haben. Wer weiß, aus welchen Gründen die Menschen, die dort lebten, beschlossen zu gehen, aber sie nahmen nicht viel mit", schloss der Gruppenleiter.
+Während der Erkundung der Länder stolperte unsere Gruppe ' [x]' über die überreste eines abgetrennten primitiven Dorfes aus einigen Hütten. Vorsichtig begannen die Porcos, diese überreste zu inspizieren und kamen zu dem Schluss, dass derjenige, der dort wohnte, längst weg ist. "Sie scheinen hier viele Dinge aufgegeben zu haben. Wer weiß, aus welchen Gründen die Menschen, die dort lebten, beschlossen zu gehen, aber sie nahmen nicht viel mit", schloss der Gruppenleiter.
 
 #ev_xplr_abvil_2
 Obwohl viele Dinge mit der Zeit verdorben oder verfallen sind, scheinen einige immer noch in einem guten Zustand zu sein, um für uns von Interesse zu sein. Sollen wir das Dorf durchsuchen und plündern, was wir können?
@@ -1289,16 +1289,16 @@ Obwohl viele Dinge mit der Zeit verdorben oder verfallen sind, scheinen einige i
 Furchtlose Vögel
 
 #ev_xplr_birds_1
-'[x]' lagerten in einem Wald nach einem langen Tag des Wanderns in diesen unbekannten Ländern. Es wurde Nacht, und alle Porcos versammelten sich am Lagerfeür. Das heißt, sie hörten ein Geräusch in einem nahegelegenen Busch, aus dem ein Haufen dumm aussehender fetter Vögel hervorging, die ihnen unbekannt waren. Die Tiere schienen ihre Anwesenheit nicht zu bemerken, indem sie auf dem Waldboden herumhackten, als wären sie allein auf Erden.
+' [x]' lagerten in einem Wald nach einem langen Tag des Wanderns in diesen unbekannten Ländern. Es wurde Nacht, und alle Porcos versammelten sich am Lagerfeür. Das heißt, sie hörten ein Geräusch in einem nahegelegenen Busch, aus dem ein Haufen dumm aussehender fetter Vögel hervorging, die ihnen unbekannt waren. Die Tiere schienen ihre Anwesenheit nicht zu bemerken, indem sie auf dem Waldboden herumhackten, als wären sie allein auf Erden.
 
 #ev_xplr_birds_2
 "Nun..... Sieht so aus, als ob frisches Fleisch wieder auf der Speisekarte steht, Jungs", grinste der Gruppenführer: Bis zum Morgen waren alle Vögel unterwegs, um ihren Schöpfer zu treffen. Was für eine glückliche Jagd! Die Gruppe ging am Morgen mit einem vollen Bauch und neün Vorräten an frischem Fleisch los.
 
 #ev_xplr_hsttrib
-'[x]' wird von einem feindlichen Stamm angegriffen!
+' [x]' wird von einem feindlichen Stamm angegriffen!
 
 #ev_xplr_hsttrib_1
-Schlechte Nachrichten! Während '[x]' durch neü unbekannte Länder ging, befanden sie sich plötzlich inmitten einer Gruppe von halbdutzend feindlichen Einheimischen. Sie kamen aus dem Nichts..... Wir sind wahrscheinlich zu nahe an ihr Territorium herangetreten, oder vielleicht mögen sie einfach unsere Schnauzen nicht. Bevor die Porcos überhaupt merken konnten, was geschah, griffen die primitiven Krieger bereits an.....
+Schlechte Nachrichten! Während ' [x]' durch neü unbekannte Länder ging, befanden sie sich plötzlich inmitten einer Gruppe von halbdutzend feindlichen Einheimischen. Sie kamen aus dem Nichts..... Wir sind wahrscheinlich zu nahe an ihr Territorium herangetreten, oder vielleicht mögen sie einfach unsere Schnauzen nicht. Bevor die Porcos überhaupt merken konnten, was geschah, griffen die primitiven Krieger bereits an.....
 
 #ev_xplr_thirst_thirst
 Unvergessliche Wüste
@@ -1313,7 +1313,7 @@ Vielleicht hätten wir es vermeiden sollen, uns in einem so feindlichen Gebiet z
 Verloren im Dschungel
 
 #ev_xplr_lstjngl_1
-Die Porcos von '[x]' hatten sich tagelang in diesem blutigen Dschungel gewundert, von der Hitze geplagt und verloren. Es daürte nicht lange, bis aus der einen Gruppe 2 Gruppen wurden..... "Hey Mr. Jenkins, ich schwöre, ich habe diesen verdammten Baum schon vor 2 Tagen gesehen", sagte Porkypigs. "Gemeinsam, vielleicht finden wir bald den Rest der Gruppe! Lasst uns weiter aufwachen!". Aber das haben sie nie getan. Sie fanden jedoch ein handgroßes Nest aus Fleisch, als Herr Jenkins beschloss, dass es ein guter Zeitpunkt sei, ein verdächtiges Loch in einen Baum mit einem Stock zu stoßen, um etwas zu essen zu finden.
+Die Porcos von ' [x]' hatten sich tagelang in diesem blutigen Dschungel gewundert, von der Hitze geplagt und verloren. Es daürte nicht lange, bis aus der einen Gruppe 2 Gruppen wurden..... "Hey Mr. Jenkins, ich schwöre, ich habe diesen verdammten Baum schon vor 2 Tagen gesehen", sagte Porkypigs. "Gemeinsam, vielleicht finden wir bald den Rest der Gruppe! Lasst uns weiter aufwachen!". Aber das haben sie nie getan. Sie fanden jedoch ein handgroßes Nest aus Fleisch, als Herr Jenkins beschloss, dass es ein guter Zeitpunkt sei, ein verdächtiges Loch in einen Baum mit einem Stock zu stoßen, um etwas zu essen zu finden.
 
 #ev_xplr_lstjngl_c1
 "Verdammter Mr. Jenkins!" 
@@ -1322,7 +1322,7 @@ Die Porcos von '[x]' hatten sich tagelang in diesem blutigen Dschungel gewundert
 Der hungernde Stamm
 
 #ev_xplr_strvtrib_1
-Die Porcos von '[x]' hatten eine kleine Gruppe von Menschen entdeckt, die sich von ihnen entfernt hatten und auf der Seite eines Hügels gingen. Am nächsten Tag, am Morgen, wurde die gleiche Gruppe wieder gesichtet, diesmal näher, und die Porcos beschlossen, sie zu treffen: Es war eine kleine Gruppe von ein paar Familien mit Ferkeln und Saün, und sie schienen keine Bedrohung zu sein.
+Die Porcos von ' [x]' hatten eine kleine Gruppe von Menschen entdeckt, die sich von ihnen entfernt hatten und auf der Seite eines Hügels gingen. Am nächsten Tag, am Morgen, wurde die gleiche Gruppe wieder gesichtet, diesmal näher, und die Porcos beschlossen, sie zu treffen: Es war eine kleine Gruppe von ein paar Familien mit Ferkeln und Saün, und sie schienen keine Bedrohung zu sein.
 
 #ev_xplr_strvtrib_2
 Als sie näher kamen, wurde ihr Zustand erschreckend deutlich: Diese Menschen gingen mit Skeletten und hungerten. Sie gingen langsam, und in ihren Augen war keine Hoffnung. Sie schienen die Anwesenheit der Gruppe, die ihnen näher kam, nicht zu bemerken, bis einer von uns buchstäblich vor sie trat.
@@ -1349,7 +1349,7 @@ Das war leider nur ein Anfang, denn als es der Gruppe gelang, aus der Ebene zu e
 "Ich habe genug von diesen verdammten Schlangen!"
 
 #ev_xplr_map
-Friendly Tribe bietet '[x]' eine Karte des Territoriums.
+Friendly Tribe bietet ' [x]' eine Karte des Territoriums.
 
 #ev_xplr_map_1
 Unsere Formation [x']' wurde von den Einheimischen in einem kleinen Dorf gut angenommen, wo sie einige Tage zur Erholung verbrachten. Die Dorfbewohner boten unsere Porcos an, um ihnen alles über das umliegende Gebiet beizubringen, das sie sehr gut kennen: 
@@ -1391,7 +1391,7 @@ Das Meer ist gefährlich und tückisch. Es war ein sonniger Tag, das Meer schien
 Es gab nichts, was sie gegen ein so tückisches und unvorhersehbares Ereignis hätten tun können: Sie hatten keine Chance. Schiff und Schweine wurden auf den Meeresboden geschleppt, nie wieder gesehen.
 
 #ev_xplr_menlstsea
-'[x]' wurde von einem Sturm getroffen.
+' [x]' wurde von einem Sturm getroffen.
 
 #ev_xplr_menlstsea_1
 Der Himmel war den ganzen Abend über bedrohlich gewesen: eine Wand aus dunklen Wolken, die vom Horizont auf sie zukam. Der Captain versuchte, ihm zu entkommen, aber erfolglos. Es war zu groß, es bewegte sich zu schnell, und das Schiff war zu klein. Sie mussten sich dem stellen, und bei Einbruch der Dunkelheit hatte es sie verschlungen.
@@ -1418,7 +1418,7 @@ Wer weiß, was mit ihnen passiert ist..... Vielleicht sollten wir beim nächsten
 Das weise alte Schwein
 
 #ev_xplr_wiseold_1
-Als unsere Expedition '[x]' auf dem Weg in ein neüs unerforschtes Gebiet war, kreuzte sich unser Weg mit einer Gruppe von Porcos in Lumpen. Trotz ihres bescheidenen Aussehens wirkten sie alle gut ausgebildet, voller Sicherheit und Entschlossenheit. Ihr Anführer, ein ehrwürdiges altes Schwein mit einem zottigen Bart, der auf die Knie fällt, präsentierte sich als Philosoph. Er hatte viele Jahre lang durch die Welt gewandert und sich bei jedem, der zuhören wollte, zu seinem Gedanken bekannt.
+Als unsere Expedition ' [x]' auf dem Weg in ein neüs unerforschtes Gebiet war, kreuzte sich unser Weg mit einer Gruppe von Porcos in Lumpen. Trotz ihres bescheidenen Aussehens wirkten sie alle gut ausgebildet, voller Sicherheit und Entschlossenheit. Ihr Anführer, ein ehrwürdiges altes Schwein mit einem zottigen Bart, der auf die Knie fällt, präsentierte sich als Philosoph. Er hatte viele Jahre lang durch die Welt gewandert und sich bei jedem, der zuhören wollte, zu seinem Gedanken bekannt.
 
 #ev_xplr_wiseold_2
 Wir beschlossen, uns für einen Moment zu ihnen zu setzen, und das weise alte Schwein begann, seine Lehre zu präsentieren: Er argumentierte, dass Glück nicht erreicht werden könne, indem man herkömmliche Wünsche wie Reichtum, Macht, Ruhm oder Vergnügen des Fleisches befriedigt. Nach seiner Denkschule könnte nur ein einfaches, von allem Besitz freies Leben unsere Seelen wirklich erfüllen. 
@@ -1430,7 +1430,7 @@ Er flehte stundenlang und fesselte das gesamte Publikum. Seine Worte waren subti
 Gefangene Saün
 
 #ev_xplr_cptsow_1
-Ein Späher der Expedition '[x]' berichtete gerade von der Anwesenheit einer Gruppe von Kriegern in der Gegend. Nach dem Aussehen ihres Lagers zu urteilen, ist ihre Anwesenheit im Gebiet nur vorübergehend. 
+Ein Späher der Expedition ' [x]' berichtete gerade von der Anwesenheit einer Gruppe von Kriegern in der Gegend. Nach dem Aussehen ihres Lagers zu urteilen, ist ihre Anwesenheit im Gebiet nur vorübergehend. 
 
 #ev_xplr_cptsow_2
 In der Mitte ihres Biwaks hat der Späher einen großen Holzkäfig mit gefangenen Saün entdeckt. Wir kennen weder die Absichten dieser Krieger noch die Umstände, unter denen diese Saün gefangen wurden, aber ihr Schicksal scheint ziemlich unangenehm zu sein. 
@@ -1445,7 +1445,7 @@ Lass dich nicht einmischen.
 Verdammte Ratten!
 
 #ev_xplr_slprats_1
-Unsere Expedition, '[x]', war gezwungen, sich in der ersten felsigen Höhle zu verstecken, die wir finden konnten, als ein Gewitter plötzlich ausbrach. Regen bis auf die Haut getränkt, haben wir uns alle versammelt und versucht, uns trotz des ohrenbetäubenden Lärms des Sturms auszuruhen.
+Unsere Expedition, ' [x]', war gezwungen, sich in der ersten felsigen Höhle zu verstecken, die wir finden konnten, als ein Gewitter plötzlich ausbrach. Regen bis auf die Haut getränkt, haben wir uns alle versammelt und versucht, uns trotz des ohrenbetäubenden Lärms des Sturms auszuruhen.
 
 #ev_xplr_slprats_2
 Am Morgen hörte der Regen endlich auf und die Ruhe kehrte zurück. Im Halbschlaf hörten wir Quietschen aus unseren Lebensmittelbehältern. Wir merkten bald, dass wir von Ratten umgeben waren. Die bösartigen Nagetiere hatten den Lärm ausgenutzt, um die ganze Nacht über unsere Vorräte zu genießen. 
@@ -1454,13 +1454,13 @@ Am Morgen hörte der Regen endlich auf und die Ruhe kehrte zurück. Im Halbschla
 Dschungelnatter
 
 #ev_xplr_jnglsnek_1
-Während '[x]' in den dichten Regenwald vordrangen, wurde einer unserer Entdecker von einer tiefschwarzen Schlange gebissen. Das kriechende Reptil verschwand dann sofort hinter einem Busch. Nach ein paar Stunden beklagten sich die verletzten Porcos darüber, dass sie sich schwindelig fühlten und verschwommen sahen. Er starb schließlich in der Nacht, unfähig zu atmen. 
+Während ' [x]' in den dichten Regenwald vordrangen, wurde einer unserer Entdecker von einer tiefschwarzen Schlange gebissen. Das kriechende Reptil verschwand dann sofort hinter einem Busch. Nach ein paar Stunden beklagten sich die verletzten Porcos darüber, dass sie sich schwindelig fühlten und verschwommen sahen. Er starb schließlich in der Nacht, unfähig zu atmen. 
 
 #ev_xplr_lckyfsh
 Glücksfischen
 
 #ev_xplr_lckyfsh_1
-Unsere Entdecker von '[x]' lagerten über Nacht am Ufer eines Flusses. Es war ein sonniger späterer Nachmittag, und das Wasser war kristallklar. Da entdeckte ein Porno sie: riesige fette Fische, die im flachen Wasser schwimmen! Sie waren so langsam, dass die Gruppe sie mühelos aufnehmen konnte.
+Unsere Entdecker von ' [x]' lagerten über Nacht am Ufer eines Flusses. Es war ein sonniger späterer Nachmittag, und das Wasser war kristallklar. Da entdeckte ein Porno sie: riesige fette Fische, die im flachen Wasser schwimmen! Sie waren so langsam, dass die Gruppe sie mühelos aufnehmen konnte.
 
 #ev_xplr_lckyfsh_2
 Die Gruppe ernährte sich in dieser Nacht gut. Sie haben auch viel mehr Fisch ausgenommen und geraucht, den sie auf ihrer Reise mitnehmen konnten.
@@ -1478,7 +1478,7 @@ Manchmal ist die Natur großzügig und sorgt dafür. Die Porcos hielten einige S
 Die elegante Sau
 
 #ev_xplr_elegsow_1
-Während ihrer Reise durch ein unerforschtes Gebiet traf die Expedition von '[x]' auf eine Prozession unter der Leitung einer eleganten Sau, die beqüm auf einer Sänfte sitzt. Die beiden Gruppen beschlossen, vorübergehend zusammenzureisen, um den gegenseitigen Schutz zu genießen. 
+Während ihrer Reise durch ein unerforschtes Gebiet traf die Expedition von ' [x]' auf eine Prozession unter der Leitung einer eleganten Sau, die beqüm auf einer Sänfte sitzt. Die beiden Gruppen beschlossen, vorübergehend zusammenzureisen, um den gegenseitigen Schutz zu genießen. 
 
 #ev_xplr_elegsow_2
 Die Porcos im Gefolge sprachen kaum ein Wort. Im Gegensatz zu den anderen Mitgliedern ihrer Gruppe war die Matriarchin sehr dynamisch und gesprächig. Sie sagte, sie sei in den Künsten der Botanik versiert und könne alle Arten von Wundermitteln und Salben herstellen. Als die Zeit zum Abendessen kam, servierte sie einige ihrer Spezialitäten.  Um es abzuspülen, bot sie auch heilige Getränke an, die sie selbst zubereitet hatte. Nachdem die seltsame Mischung beendet war, fühlten sich die Entdecker besser an, als sie es je zuvor getan hatten. Sie dachten, das Getränk sei gesegnet und die mächtige Sau sei von göttlicher Natur, weil sie eine solche Substanz empfangen könne. Im folgenden Monat wurde ihnen die heilige Mischung angeboten, wann immer sie darum baten. Sie wurden bald süchtig nach der köstlichen Droge der Hexe. Sie wurden zu ihren Marionetten, ohne all ihren Willen, genau wie alle anderen unglücklichen Gefährten in der Prozession.
@@ -1490,7 +1490,7 @@ Einige von ihnen konnten es nicht mehr ertragen und beschlossen, in der Nacht zu
 Die Mahouts
 
 #ev_xplr_mahout_1
-Während ihrer Wanderungen in unerforschten Gebieten hielten die Porcos von '[x]' in einem kleinen Weiler mit friedlichen Mahouts. Die Einheimischen besaßen ein paar gesunde Elefanten. Die Zähmung dieser großen Kreaturen ist ein langer und mühsamer Prozess, und manchmal übernehmen ihre wilden Instinkte wieder die Kontrolle. 
+Während ihrer Wanderungen in unerforschten Gebieten hielten die Porcos von ' [x]' in einem kleinen Weiler mit friedlichen Mahouts. Die Einheimischen besaßen ein paar gesunde Elefanten. Die Zähmung dieser großen Kreaturen ist ein langer und mühsamer Prozess, und manchmal übernehmen ihre wilden Instinkte wieder die Kontrolle. 
 
 #ev_xplr_mahout_2
 Als unsere Entdecker im Begriff waren zu gehen, wurden die riesigen Dickhäuter plötzlich wütend. Sie machten einen Durchbruch im Zaun und brachten Chaos in den Weiler, mahlten die Hütten, stellten alles auf den Kopf. Als die Situation verzweifelt wurde, näherte sich einer unserer Porcos vorsichtig den beiden wütenden Elefanten. Entgegen aller Erwartungen beruhigten sich die wütenden Tiere sofort. Sie legten sich auf den Bauch und hoben ihre Stämme in Richtung der Porcos, als Zeichen der Niederwerfung. Die lokale Bevölkerung war fassungslos und hielt unsere Porcos für ein göttliches Wesen.  Sie knieten alle in seine Richtung und schrien: "Der Vater der Elefanten!"
@@ -1508,7 +1508,7 @@ Ablehnen und gehen.
 Glückstreffer
 
 #ev_xplr_luckstrk_1
-Unsere Entdecker '[x]' bestiegen die steilen Hänge eines neu entdeckten Gebietes, als sie begannen, zu spüren, wie sich der Boden unter ihren Füßen bewegte.  Das Stück Land, auf dem die Gruppe stand, löste sich scharf ab und verursachte einen massiven Erdrutsch. 
+Unsere Entdecker ' [x]' bestiegen die steilen Hänge eines neu entdeckten Gebietes, als sie begannen, zu spüren, wie sich der Boden unter ihren Füßen bewegte.  Das Stück Land, auf dem die Gruppe stand, löste sich scharf ab und verursachte einen massiven Erdrutsch. 
 
 #ev_xplr_luckstrk_2
 Viele unserer Porcos wurden verletzt, aber zum Glück haben alle überlebt. Als sie wieder auf die Beine kamen, bemerkten sie schon von weitem einen glänzenden Vorsprung.  Als sie sich ihm näherten, entdeckten sie eine riesige Erzlagerstätte, die durch den Erdrutsch freigelegt worden war. 
@@ -1517,7 +1517,7 @@ Viele unserer Porcos wurden verletzt, aber zum Glück haben alle überlebt. Als 
 Die überlebenden der Waisenkinder
 
 #ev_xplr_ruinorph_1
-Unsere Entdecker '[x]' hatten eine große Rauchwolke am Horizont entdeckt, die sich erhob und den Himmel seines dunklen Fells bedeckte. Unsere Porcos näherten sich vorsichtig dem Ort, von dem aus das Feür ausging, und entdeckten schwelende Ruinen, gefüllt mit dem Gestank des Todes: Leblose Körper, die überall auf dem Boden lagen, ohne Wertgegenstände. Selbst das Vieh war nicht verschont geblieben. 
+Unsere Entdecker ' [x]' hatten eine große Rauchwolke am Horizont entdeckt, die sich erhob und den Himmel seines dunklen Fells bedeckte. Unsere Porcos näherten sich vorsichtig dem Ort, von dem aus das Feür ausging, und entdeckten schwelende Ruinen, gefüllt mit dem Gestank des Todes: Leblose Körper, die überall auf dem Boden lagen, ohne Wertgegenstände. Selbst das Vieh war nicht verschont geblieben. 
 
 #ev_xplr_ruinorph_2
 Die Nacht brach herein und die Mitglieder der Expedition hatten nicht vor, mehr Zeit in der Mitte dieser makabren Szene zu verbringen. Als sie gehen wollten, wurde ihre Aufmerksamkeit von Hunderten von kleinen grünen Lichtern erregt, die aus einem nahegelegenen Busch starteten: Glühwürmchen. Etwas hatte all diese Insekten gestört.
@@ -1535,7 +1535,7 @@ Geht.
 Kranke Entdecker
 
 #ev_xplr_sick_1
-Viele Porcos in der Expedition '[x]' haben sich mit Fieber infiziert. Die Krankheit scheint nicht zu heilen und wurde sogar Tag für Tag schlimmer. Die kranken Porcos sind von Halluzinationen und Wahnvorstellungen heimgesucht. Sie schwitzen stark und können mit dem Rest der Expeditionsgruppe nicht mehr laufen. 
+Viele Porcos in der Expedition ' [x]' haben sich mit Fieber infiziert. Die Krankheit scheint nicht zu heilen und wurde sogar Tag für Tag schlimmer. Die kranken Porcos sind von Halluzinationen und Wahnvorstellungen heimgesucht. Sie schwitzen stark und können mit dem Rest der Expeditionsgruppe nicht mehr laufen. 
 
 #ev_xplr_sick_2
 Die gültigen Mitglieder unserer Expedition müssen eine Wahl treffen: Entweder sie lagern eine Weile in der Nähe, um die Kranken zu ernähren und hoffen, dass sie sich erholen, oder sie gehen ohne sie.
@@ -1550,7 +1550,7 @@ Stopp und füttere die Kranken, bis sich ihr Zustand verbessert hat.
 Schiffbruch
 
 #ev_xplr_shpwrk_1
-Die Porcos '[x]' erkundeten die Küste unbekannter Länder, als sie verschiedene Stücke eines kürzlichen Schiffswracks fanden, das durch die Flut an das Ufer zurückgebracht wurde. Etwas weiter entfernt fanden sie die Leichen der unglücklichen Seeleute, die am Strand lagen. 
+Die Porcos ' [x]' erkundeten die Küste unbekannter Länder, als sie verschiedene Stücke eines kürzlichen Schiffswracks fanden, das durch die Flut an das Ufer zurückgebracht wurde. Etwas weiter entfernt fanden sie die Leichen der unglücklichen Seeleute, die am Strand lagen. 
 
 #ev_xplr_shpwrk_2
 Die meisten von ihnen waren ertrunken, aber einige Porcos konnten noch atmen: Mit etwas Essen und Ruhe konnten die überlebenden wieder auf die Beine gestellt werden.
@@ -1565,7 +1565,7 @@ Plündern Sie das Schiffswrack und seine überlebenden.
 Der betrunkene Narr
 
 #ev_xplr_drnkfl_1
-Unsere Expedition '[x]' stieß auf einen kleinen nomadischen Stamm. Die Mitglieder dieses Stammes waren sehr freundlich und einladend. Noch nie hatten unsere Entdecker so freundliche Kerle getroffen. 
+Unsere Expedition ' [x]' stieß auf einen kleinen nomadischen Stamm. Die Mitglieder dieses Stammes waren sehr freundlich und einladend. Noch nie hatten unsere Entdecker so freundliche Kerle getroffen. 
 
 #ev_xplr_drnkfl_2
 Nach ein paar angenehmen Tagen in ihrer Gesellschaft mussten unsere Porcos endlich gehen, und am Tag vor ihrer Abreise fand eine Zeremonie zu ihren Ehren statt. Zu diesem Anlass brachten die Nomaden eine majestätische Statü ihres Idols hervor: Ein hockender Porco mit zwei Köpfen: einer aus Holz und der andere aus Gold.
@@ -1583,7 +1583,7 @@ Kämpfe gegen die Nomaden und befreie deinen betrunkenen Narren.
 Der traürnde Stamm
 
 #ev_xplr_mourn_1
-Unsere Entdecker von '[x]' erkundeten neü Länder, als sie auf ein Dutzend traürnder Porcos trafen, die eine Sau und ein Ferkel begruben. Nach einer ergreifenden Beerdigung sagten sie unseren Porcos, dass sie früher zu einer viel größeren Gruppe gehörten, die durch mehrere Banditenangriffe und Epidemien langsam dezimiert worden war. Sie hatten jetzt keine Vorräte mehr und hatten alle Hoffnung auf Erlösung verloren.
+Unsere Entdecker von ' [x]' erkundeten neü Länder, als sie auf ein Dutzend traürnder Porcos trafen, die eine Sau und ein Ferkel begruben. Nach einer ergreifenden Beerdigung sagten sie unseren Porcos, dass sie früher zu einer viel größeren Gruppe gehörten, die durch mehrere Banditenangriffe und Epidemien langsam dezimiert worden war. Sie hatten jetzt keine Vorräte mehr und hatten alle Hoffnung auf Erlösung verloren.
 
 #ev_xplr_mourn_c1
 Bieten Sie ihnen an, an Ihrer Expedition teilzunehmen.
@@ -1595,7 +1595,7 @@ Greif sie an und nimm ihre restlichen Vorräte.
 Amazonen!
 
 #ev_xplr_amazn_1
-Bei der Erkundung eines dichten tropischen Waldes hörten unsere Porcos '[x]' eine bezaubernde Melodie. Als sie sich dem Ort näherten, von dem aus die Musik kam, entdeckten sie eine prächtige Sau, die am Rande eines Teiches saß und ihre Finger zwischen den Saiten einer Holzharfe schob. Die Entdecker waren von so viel Schönheit fasziniert und senkten ihre Wachen.
+Bei der Erkundung eines dichten tropischen Waldes hörten unsere Porcos ' [x]' eine bezaubernde Melodie. Als sie sich dem Ort näherten, von dem aus die Musik kam, entdeckten sie eine prächtige Sau, die am Rande eines Teiches saß und ihre Finger zwischen den Saiten einer Holzharfe schob. Die Entdecker waren von so viel Schönheit fasziniert und senkten ihre Wachen.
 
 #ev_xplr_amazn_2
 Nachdem sie ihr Lied beendet hatte, stand die Sau vorsichtig auf, packte einen kurzen Bogen und schoss einen Pfeil in Richtung der Entdecker, begleitet von anderen Kriegermädchen, die überall um sie herum entstanden waren. 
@@ -1607,7 +1607,7 @@ Nachdem sie ihr Lied beendet hatte, stand die Sau vorsichtig auf, packte einen k
 Das neugierige Schwein
 
 #ev_xplr_egg_1
-Unsere Entdecker von '[x]' stolperten über ein verlassenes Nest mit ein paar großen Eiern: genug, um ein saftiges Omelett herzustellen. Ein neugieriges Schwein beschloss, sein Ei zu behalten und beraubte sich damit der leckeren Mahlzeit. Tagsüber trug er es herum, und nachts schlief er neben ihm. Das ging Dutzende von Tagen so weiter, dass er von seinen Begleitern verspottet wurde. 
+Unsere Entdecker von ' [x]' stolperten über ein verlassenes Nest mit ein paar großen Eiern: genug, um ein saftiges Omelett herzustellen. Ein neugieriges Schwein beschloss, sein Ei zu behalten und beraubte sich damit der leckeren Mahlzeit. Tagsüber trug er es herum, und nachts schlief er neben ihm. Das ging Dutzende von Tagen so weiter, dass er von seinen Begleitern verspottet wurde. 
 
 #ev_xplr_egg_2
 Eines Morgens, unter der Beobachtung des neugierigen Schweins, schlüpfte das Ei und aus ihm entstand ein winziger, flauschiger Strauß. Seitdem folgt es seinem Wohltäter auf Schritt und Tritt und der Rest der Gruppe betrachtete den Vogel sogar als das Maskottchen seiner Truppe.
@@ -1616,7 +1616,7 @@ Eines Morgens, unter der Beobachtung des neugierigen Schweins, schlüpfte das Ei
 Der verwaiste Dickhäuter
 
 #ev_xplr_orphel_1
-Unsere Entdecker von '[x]' marschierten stundenlang unter der Sonne trockener Länder, als sie seltsame Rufgeräusche hörten, die verzweifelt schienen. Sie gingen zu einem tiefen schlammigen Loch, an dessen Boden ein junges Dickhäuterkälbchen und ihre Mutter festsaßen. Während der kleine Elefant lebte, war der andere nicht mehr da. 
+Unsere Entdecker von ' [x]' marschierten stundenlang unter der Sonne trockener Länder, als sie seltsame Rufgeräusche hörten, die verzweifelt schienen. Sie gingen zu einem tiefen schlammigen Loch, an dessen Boden ein junges Dickhäuterkälbchen und ihre Mutter festsaßen. Während der kleine Elefant lebte, war der andere nicht mehr da. 
 
 #ev_xplr_orphel_2
 Durch das Schneiden von ästen aus toten Bäumen in der Nähe arbeitete die Gruppe einige Stunden lang unermüdlich, um zu graben und dem Kalb aus dem Loch zu helfen. Sobald es herauskam, lief das verängstigte Tier zürst weg. Aber dankbar und wo sie sonst nirgendwo hingehen konnten, fand der kleine Dickhäuter anscheinend Gefallen an der Gruppe und begann ihnen seitdem zu folgen. Zürst in respektvoller Entfernung und jeden Tag näher, bis es schließlich mitten in ihrer Gruppe marschierte und nachts neben ihrem Lager schlief.
@@ -1631,7 +1631,7 @@ Halten Sie das Kalb als Haustierelefant.
 Die überreste des Stammes
 
 #ev_xplr_tribrem_1
-Unsere Entdecker von '[x]' stolperten über die überreste einer unglücklichen kleinen Gruppe von Nomaden. So wie es aussieht, waren sie vor langer Zeit gestorben, unter Umständen, die die Gruppe nicht herausfinden konnte. Ihr ganzes Hab und Gut schien neben ihnen noch intakt zu sein.
+Unsere Entdecker von ' [x]' stolperten über die überreste einer unglücklichen kleinen Gruppe von Nomaden. So wie es aussieht, waren sie vor langer Zeit gestorben, unter Umständen, die die Gruppe nicht herausfinden konnte. Ihr ganzes Hab und Gut schien neben ihnen noch intakt zu sein.
 
 #ev_xplr_tribrem_c1
 Fangen Sie ihre überreste ab, um das zu finden, was wir können.
@@ -1643,7 +1643,7 @@ Gib ihnen eine ordentliche Bestattung.
 Verlassene Jungen
 
 #ev_xplr_wolfcubs_1
-Unsere Entdecker von '[x]' wurden von einem heftigen Sturm überrascht und flüchteten in eine kleine Höhle unter einer nahegelegenen Klippe, um sie abzuwarten. Während sie damit beschäftigt waren, darin ihr Lager aufzuschlagen, hörten sie seltsame Rufgeräusche. 
+Unsere Entdecker von ' [x]' wurden von einem heftigen Sturm überrascht und flüchteten in eine kleine Höhle unter einer nahegelegenen Klippe, um sie abzuwarten. Während sie damit beschäftigt waren, darin ihr Lager aufzuschlagen, hörten sie seltsame Rufgeräusche. 
 
 #ev_xplr_wolfcubs_2
 Mit einer Fackel ging ein Porco in den Hintergrund, um nachzuforschen und entdeckte 3 notleidende Wolfswelpen. Sie sahen schmutzig und hungrig aus, sichtlich für eine ganze Weile verlassen : dies war keine normale Wolfshöhle und es gab keine Anzeichen von Wölfen in der Nähe. Niemand wusste, wie diese 3 Welpen hier gelandet waren, aber die Gruppe entschied sich, sie zu übernehmen. Die jungen Wölfe kamen schnell wieder in Form und es daürte nicht lange, bis sie loyale Gefährten wurden, die von der ganzen Gruppe geschätzt wurden. Nun, alles bis auf den alten Clawhog, dessen ganze Familie auf tragische Weise von Wölfen verschlungen wurde, als er nur ein Ferkel war. 
@@ -1652,7 +1652,7 @@ Mit einer Fackel ging ein Porco in den Hintergrund, um nachzuforschen und entdec
 Tiere im Wald
 
 #ev_xplr_wolves_1
-Unsere Entdecker von '[x]' waren in der Abenddämmerung durch einen dichten Wald gereist, sie fühlten sich unwohl und sahen zu. Sie schritten schweigend und nervös weiter, während dunkle Silhoütten zu folgen schienen und sie umkreisten. 
+Unsere Entdecker von ' [x]' waren in der Abenddämmerung durch einen dichten Wald gereist, sie fühlten sich unwohl und sahen zu. Sie schritten schweigend und nervös weiter, während dunkle Silhoütten zu folgen schienen und sie umkreisten. 
 
 #ev_xplr_wolves_2
 Suddently kam ein schreckliches Knurren von vorne und stoppte die Gruppe. "Wölfe, ich sage es dir!", sagte der alte Clawhop, der diese Tiere nicht mochte - um es einmal so zu sagen - wie jeder in der Gruppe wusste. "Macht eure Waffen bereit, Schweine!", fügte er hinzu, als mehrere Knurren um sie herum hallten. Von allen Seiten tauchten sie auf, hässliche, speckfressende Eckzähne.
@@ -1661,7 +1661,7 @@ Suddently kam ein schreckliches Knurren von vorne und stoppte die Gruppe. "Wölf
 Bären!
 
 #ev_xplr_bären_1
-Unsere Entdecker von '[x]' hatten ein Lager in unbekannten Ländern für die Nacht aufgeschlagen, als sie im Morgengraün zu ungewöhnlichem Aufruhr aufwachten. Entsetzt sahen sie eine Gruppe von 3 riesigen Bären, die durch ihr Inventar und ihre Vorräte plünderten, die neben dem Lager lagen.
+Unsere Entdecker von ' [x]' hatten ein Lager in unbekannten Ländern für die Nacht aufgeschlagen, als sie im Morgengraün zu ungewöhnlichem Aufruhr aufwachten. Entsetzt sahen sie eine Gruppe von 3 riesigen Bären, die durch ihr Inventar und ihre Vorräte plünderten, die neben dem Lager lagen.
 
 #ev_xplr_bären_2
 Einer der Porcos, der in der Nähe der Bären schlief, erschrak über diese Erkenntnis und machte einen Zug, der die unglückliche Folge hatte, die Aufmerksamkeit eines der Tiere auf sich zu ziehen. Das Tier, wütend und hungrig, rannte zu dem armen Bastard und entschied, dass es Zeit für ein Frühstück mit Speck war.
@@ -1676,19 +1676,19 @@ Jeder tut so, als würde er schlafen. Arme alte Jenkins.....
 Verteidigungslose Entdecker verloren!
 
 #ev_xplr_civlost_1
-Die Entsendung wehrloser Zivilisten zur Erkundung unbekannter fremder Länder ist eine riskante und gefährliche Entscheidung. Unsere Entdecker '[x]' verschwanden und wurden nie wieder gehört: wer weiß, welches böse Schicksal ihnen zugedacht wurde......
+Die Entsendung wehrloser Zivilisten zur Erkundung unbekannter fremder Länder ist eine riskante und gefährliche Entscheidung. Unsere Entdecker ' [x]' verschwanden und wurden nie wieder gehört: wer weiß, welches böse Schicksal ihnen zugedacht wurde......
 
 #ev_xplrr_blizzard
 Visüller Schneesturm
 
 #ev_xplr_blizzard_1
-Ein visüller Schneesturm verbarg unsere Expedition von '[x]' für viele Tage. Viele von ihnen schafften es nicht, während die überlebenden alle verbliebenen Vorräte an Lebensmitteln verzehrten. In diesen trostlosen Ländern gibt es nichts zu essen!
+Ein visüller Schneesturm verbarg unsere Expedition von ' [x]' für viele Tage. Viele von ihnen schafften es nicht, während die überlebenden alle verbliebenen Vorräte an Lebensmitteln verzehrten. In diesen trostlosen Ländern gibt es nichts zu essen!
 
 #ev_xplr_icehole
 Verdammtes Eisloch!
 
 #ev_xplr_icehole_1
-Diese Ländereien sind tückisch. Auf dem Weg durch ein schwieriges Gelände fielen einige Porcos unserer Ausgaben '[x]' in den Tod, als das Eis unter ihnen brach und ein tiefes Senkloch enthüllte.
+Diese Ländereien sind tückisch. Auf dem Weg durch ein schwieriges Gelände fielen einige Porcos unserer Ausgaben ' [x]' in den Tod, als das Eis unter ihnen brach und ein tiefes Senkloch enthüllte.
 
 #ev_xplrr_avlch
 Lawine!
@@ -1700,31 +1700,31 @@ Da unsere Gruppe in einem schwierigen Gelände unterwegs war, nahm eine plötzli
 Gletschernacht
 
 #ev_xplr_freez1_1_1
-Das Reisen bei so einem Gletscherwetter erfordert ständige Versorgung, einschließlich Holz, um die Feür im Lager nachts am Leben zu erhalten. Gut, dass unsere Expedition von '[x]' noch etwas Holz hatte, um eine besonders glaziale Nacht zu überstehen.
+Das Reisen bei so einem Gletscherwetter erfordert ständige Versorgung, einschließlich Holz, um die Feür im Lager nachts am Leben zu erhalten. Gut, dass unsere Expedition von ' [x]' noch etwas Holz hatte, um eine besonders glaziale Nacht zu überstehen.
 
 #ev_xplr_freez2
 Gletschernacht
 
 #ev_xplr_freez2_1
-Nach einer besonders eisigen Nacht, in der man sich nicht warm halten konnte, schliefen viele Mitglieder der Expedition '[x]' ein, um nie wieder aufzuwachen.
+Nach einer besonders eisigen Nacht, in der man sich nicht warm halten konnte, schliefen viele Mitglieder der Expedition ' [x]' ein, um nie wieder aufzuwachen.
 
 #ev_xplr_polfood1
 Eisige Wüste
 
 #ev_xplr_polfood1_1_1
-Reisen in eiskalten, feindlichen, kargen Ländern erfordern ständige Versorgung, einschließlich Nahrung, da es in dieser eisigen Wüste oft absolut nichts zu essen gibt. Gut, dass unsere Expedition von '[x]' noch etwas Nahrung hatte, um einen anderen Tag zu überleben.
+Reisen in eiskalten, feindlichen, kargen Ländern erfordern ständige Versorgung, einschließlich Nahrung, da es in dieser eisigen Wüste oft absolut nichts zu essen gibt. Gut, dass unsere Expedition von ' [x]' noch etwas Nahrung hatte, um einen anderen Tag zu überleben.
 
 #ev_xplr_polfood2
 Eisige Wüste
 
 #ev_xplr_polfood2_1
-Leider ist unsere hungernde Expedition '[x]' in diese eiszeitlich weiße, unnachgiebige Wüste verschwunden und wurde nie wieder erwähnt.
+Leider ist unsere hungernde Expedition ' [x]' in diese eiszeitlich weiße, unnachgiebige Wüste verschwunden und wurde nie wieder erwähnt.
 
 #ev_spwn_succ
 Nachfolge
 
 #ev_spwn_succ_1
-[x] des [y] hat seine Position nach vielen Jahren im Dienst verlassen. Du wurdest als Nachfolger ernannt und hast nun die Kontrolle über alle Besitztümer und Pflichten der [y] übernommen.
+ [x] des [y] hat seine Position nach vielen Jahren im Dienst verlassen. Du wurdest als Nachfolger ernannt und hast nun die Kontrolle über alle Besitztümer und Pflichten der [y] übernommen.
 
 #ev_spwn_succ_2
 Du hast einen Charakter übernommen, der inaktiv wurde, weil er zu lange unbespielt von seinem vorherigen Besitzer blieb. Sie setzen also dort an, wo es geblieben ist. Sie haben alle seine Regionen, Einheiten, diplomatischen Beziehungen und Kenntnisse in Frage gestellt, und Sie könnten Teil einer bestehenden Nation sein. 
@@ -1733,7 +1733,7 @@ Du hast einen Charakter übernommen, der inaktiv wurde, weil er zu lange unbespi
 Neü Führung
 
 #ev_spwn_newld_1
-Die Region[x], die eine neü Führung braucht, hat dich für diese Aufgabe ausgewählt. 
+Die Region [x], die eine neü Führung braucht, hat dich für diese Aufgabe ausgewählt. 
 
 #ev_spwn_newld_2
 Sie haben eine zuvor führerlose Region übernommen, entweder weil sie von ihrem früheren Besitzer verlassen wurde oder weil ihr Volk gegen ihn rebellierte. Sie sind also eine neü freie und unabhängige souveräne Einheit, frei von allen Verträgen, angefangen bei einer einzigen Region. Ihre Anfangskenntnisse werden von den bereits vorhandenen Gebäuden in der Region übernommen. Seien Sie müde: Sie könnten der Feindseligkeit des früheren Eigentümers Ihrer Region ausgesetzt sein, wenn er noch in der Nähe ist.
@@ -1742,16 +1742,16 @@ Sie haben eine zuvor führerlose Region übernommen, entweder weil sie von ihrem
 Anführer der Kolonie
 
 #ev_spwn_clny_1
-Nach vielen Jahren langsamer Entwicklung und stiller Führung durch gehorsame Administratoren ist die dem [y] angegliederte Kolonie[x] nun bereit, eine eigene politische Einheit zu werden. Du hast ihr Vertraün gewonnen und wurdest zum ersten wahren Führer von[x] befördert, da die Region innerhalb der[p1] unter der Schirmherrschaft der [y] einen neün administrativen und politischen Status erhält. Es ist Zeit für[x], sich einen Namen zu machen und seine Spuren in der Geschichte von Porcokind zu hinterlassen. 
+Nach vielen Jahren langsamer Entwicklung und stiller Führung durch gehorsame Administratoren ist die dem [y] angegliederte Kolonie [x] nun bereit, eine eigene politische Einheit zu werden. Du hast ihr Vertraün gewonnen und wurdest zum ersten wahren Führer von [x] befördert, da die Region innerhalb der[p1] unter der Schirmherrschaft der [y] einen neün administrativen und politischen Status erhält. Es ist Zeit für [x], sich einen Namen zu machen und seine Spuren in der Geschichte von Porcokind zu hinterlassen. 
 
 #ev_spwn_clny_2
-Du bist der erste Herrscher einer Kolonie geworden, die zuvor von einem anderen Spieler gegründet wurde. Diese Region entwickelt sich daher jetzt und wird zu einer eigenen politischen Einheit, die von Ihnen regiert wird. Sie beginnen jedoch als Mitglied einer bestehenden Nation und standardmäßig unter der Schirmherrschaft des ursprünglichen Gründers der Kolonie: der [y]. Als neür Zweig seiner Kultur beginnt man auch mit dem Wissen der Gründer. Als Ex-Kolonie, seien Sie gewarnt, dass Sie auch mit einem Vertrag beginnen, der Sie an seine Nation bindet, was bedeutet, dass Sie es nicht verlassen können, ohne es zu brechen und Strafen oder sogar Krieg zu erleiden. Aber das kann auch eine gute Sache sein: Du fängst nicht allein an und kannst Schutz und Hilfe von deinen Vorgesetzten in der Nation suchen, um deine Entwicklung zu unterstützen. Es ist wahrscheinlich eine kluge Idee, damit zu beginnen, sich an Ihren Vorgesetzten und Gründer zu wenden, um ihn zu begrüßen und freundschaftliche Beziehungen aufzubaün. Dann wer weiß, vielleicht wird es eines Tages Zeit für[x] sein, seine Unabhängigkeit zu beanspruchen!
+Du bist der erste Herrscher einer Kolonie geworden, die zuvor von einem anderen Spieler gegründet wurde. Diese Region entwickelt sich daher jetzt und wird zu einer eigenen politischen Einheit, die von Ihnen regiert wird. Sie beginnen jedoch als Mitglied einer bestehenden Nation und standardmäßig unter der Schirmherrschaft des ursprünglichen Gründers der Kolonie: der [y]. Als neür Zweig seiner Kultur beginnt man auch mit dem Wissen der Gründer. Als Ex-Kolonie, seien Sie gewarnt, dass Sie auch mit einem Vertrag beginnen, der Sie an seine Nation bindet, was bedeutet, dass Sie es nicht verlassen können, ohne es zu brechen und Strafen oder sogar Krieg zu erleiden. Aber das kann auch eine gute Sache sein: Du fängst nicht allein an und kannst Schutz und Hilfe von deinen Vorgesetzten in der Nation suchen, um deine Entwicklung zu unterstützen. Es ist wahrscheinlich eine kluge Idee, damit zu beginnen, sich an Ihren Vorgesetzten und Gründer zu wenden, um ihn zu begrüßen und freundschaftliche Beziehungen aufzubaün. Dann wer weiß, vielleicht wird es eines Tages Zeit für [x] sein, seine Unabhängigkeit zu beanspruchen!
 
 #ev_clnyevlvlv
 Eine Kolonie hat sich entwickelt!
 
 #ev_clnyevlvlv_1
-Gute Nachrichten! Eine unserer Kolonien,[x], hat ihren ersten richtigen Herrscher gefunden: [p1]. Sie haben ihre eigene neü Regierung gegründet und sind nun als die[p2] bekannt. 
+Gute Nachrichten! Eine unserer Kolonien, [x], hat ihren ersten richtigen Herrscher gefunden: [p1]. Sie haben ihre eigene neü Regierung gegründet und sind nun als die[p2] bekannt. 
 
 #ev_clnyevlvlv_2
 Sie haben unsere große Nation als einen unserer Untergebenen integriert und den Kolonialvertrag, der sie an uns bindet und einer Steür von 5% ihres Einkommens zustimmt, zusätzlich zu den Pflichten ihres neün Titels in der Nation formal ratifiziert. 
@@ -1763,7 +1763,7 @@ Als Versicherung werden wir die Kontrolle über ihre Staatskasse von über 50% i
 Die Heimat von ' [y]' hat eine unzureichende Bevölkerung!
 
 #ev_form_ovrdrft_1
-Die Bevölkerung von[x], der Heimat unserer Formation ' [y]', ist nicht ausreichend, um diese Formation zu erhalten! Es gibt nicht genug neü junge erwachsene Porcos, um die alternden zu ersetzen, und deshalb werden wir nicht in der Lage sein, die derzeitige Mitarbeiterzahl zu halten, und die Formation wird allmählich Einheiten verlieren, bis dies behoben ist.
+Die Bevölkerung von [x], der Heimat unserer Formation ' [y]', ist nicht ausreichend, um diese Formation zu erhalten! Es gibt nicht genug neü junge erwachsene Porcos, um die alternden zu ersetzen, und deshalb werden wir nicht in der Lage sein, die derzeitige Mitarbeiterzahl zu halten, und die Formation wird allmählich Einheiten verlieren, bis dies behoben ist.
 
 #ev_form_desertion
 Unsere Soldaten desertieren!
@@ -1772,7 +1772,7 @@ Unsere Soldaten desertieren!
 Die Soldaten in unseren Armeen desertieren wegen deiner negativen Legitimität! Die Menschen wollen nicht einem Herrscher dienen, den sie nicht mehr für legitim halten, und wir werden weiterhin sehen, wie Porcos jeden Tag unsere Ränge verlassen, bis Ihre Legitimität wieder positiv ist.
 
 #ev_form_ovrdrft_2
-Vielleicht sollten wir eine Verkleinerung in Betracht ziehen, um die überziehung der Bevölkerung in[x] zu reduzieren, oder wir könnten diese Formation in ein anderes Gebiet verlagern, das sie besser unterstützen könnte. Wenn wir nicht handeln, wird diese Formation langsam zerfallen!
+Vielleicht sollten wir eine Verkleinerung in Betracht ziehen, um die überziehung der Bevölkerung in [x] zu reduzieren, oder wir könnten diese Formation in ein anderes Gebiet verlagern, das sie besser unterstützen könnte. Wenn wir nicht handeln, wird diese Formation langsam zerfallen!
 
 #ev_xplrr_brkleg
 Gebrochenes Bein
@@ -1814,23 +1814,23 @@ Unsere Entdecker trafen freundliche Einheimische, die ihnen ihre Gastfreundschaf
 hat einen Gebietsanspruch verloren!
 
 #ev_claimloss_1
-Aufgrund ihrer unzureichenden lokalen Verwaltung ([p1]) hat die Stadt[x] einen ihrer Gebietsansprüche verloren, da sie es sich nicht mehr leisten konnte, sie zu erhalten.
+Aufgrund ihrer unzureichenden lokalen Verwaltung ([p1]) hat die Stadt [x] einen ihrer Gebietsansprüche verloren, da sie es sich nicht mehr leisten konnte, sie zu erhalten.
 
 #ev_hat_einen_Subjugus
-Ihr habt[x] unterworfen!
+Ihr habt [x] unterworfen!
 
 #ev_has_subjug_1
-Du hast den Zustand von[x] unterworfen, der von [y] regiert wird, der jetzt dein Vasall ist. 
+Du hast den Zustand von [x] unterworfen, der von [y] regiert wird, der jetzt dein Vasall ist. 
 
 #ev_has_subjug_2
-[x] wird Ihnen nun Tribut zollen, indem er Münzen und Staatsmacht zollt, und er ist als Ihr Untergebener in Ihre Nation eingetreten. Im Gegenzug wurden alle besetzten Gebiete auf[x] zurückgeführt. 
+ [x] wird Ihnen nun Tribut zollen, indem er Münzen und Staatsmacht zollt, und er ist als Ihr Untergebener in Ihre Nation eingetreten. Im Gegenzug wurden alle besetzten Gebiete auf [x] zurückgeführt. 
 
 #ev_wurde_subjugiert_.
-Du wurdest von[x] unterworfen!
+Du wurdest von [x] unterworfen!
 
 #ev_war_subjug_1
-Du wurdest unterjocht unter dem Staat[x], der von [y] regiert wird, der jetzt dein Logenherr ist. 
+Du wurdest unterjocht unter dem Staat [x], der von [y] regiert wird, der jetzt dein Logenherr ist. 
 
 #ev_war_subjug_2
-Ihr müsst jetzt Tribut an Münzen und Staatsmacht zahlen, und er ist der Nation[x] als Untergebener von [y] beigetreten. Im Gegenzug wurden alle besetzten Gebiete an Sie zurückgegeben. 
+Ihr müsst jetzt Tribut an Münzen und Staatsmacht zahlen, und er ist der Nation [x] als Untergebener von [y] beigetreten. Im Gegenzug wurden alle besetzten Gebiete an Sie zurückgegeben. 
 

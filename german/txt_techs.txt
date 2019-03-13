@@ -67,7 +67,7 @@ Besteürung
 #tech_tax_dscr_1
 Ein besseres Steürsystem, das eine effizientere Erhebung ermöglicht.
 
-#tech_gesetze
+#tech_laws
 Gesetzbuch
 
 #tech_laws_dscr_1
@@ -181,7 +181,7 @@ Geometrie
 #tech_geometry_dscr_1
 Ein Zweig der Mathematik, der sich mit Fragen der Form, Größe, relativen Position von Figuren und den Eigenschaften des Raumes beschäftigt.
 
-#tech_metrologie
+#tech_metrolog
 Messtechnik
 
 #tech_metrolog_dscr_1
@@ -259,14 +259,14 @@ Fließendes Wasser
 #tech_runwat_dscr_1
 tech_runwat_dscr_1
 
-#tech_bäder
+#tech_baths
 Bäder
 
-#tech_bäder_dscr_1
-tech_bäder_dscr_1
+#tech_baths_dscr_1
+tech_baths_dscr_1
 
 #tech_mudbdgdg
-Schlammbau
+Lehmgebäude
 
 #tech_mudbdg_dscr_1
 tech_mudbdg_dscr_1
@@ -322,8 +322,8 @@ tech_sledge_dscr_1
 #tech_masonry
 Maürwerk
 
-#tech_maürwerk_dscr_1
-technisches_Maürwerk_dscr_1
+#tech_masonry_dscr_1
+tech_masonry_dscr_1
 
 #tech_constrplan
 Bauplanung
@@ -392,7 +392,7 @@ Metallurgie
 tech_metalrgy_dscr_1
 
 #tech_smelt
-Verhüttung
+Schmelze
 
 #tech_smelt_dscr_1
 tech_smelt_dscr_1
@@ -404,7 +404,7 @@ Metallguss
 tech_metcast_dscr_1
 
 #tech_bronze
-Bronzebearbeitung
+Bronzevearbeitung
 
 #tech_bronze_dscr_1
 tech_bronze_dscr_1
@@ -416,7 +416,7 @@ Bloomery
 tech_bloomry_dscr_1
 
 #tech_iron
-Eisenbearbeitung
+Eisenvearbeitung
 
 #tech_iron_dscr_1
 tech_iron_dscr_1
@@ -503,13 +503,13 @@ tech_grndmining_dscr_1
 Lüftungsschächte
 
 #tech_ventshaft_dscr_1
-Wie kann die Belüftung von Stollen verbessert und gesteürt werden, um tiefere und produktivere Minen zu ermöglichen?
+Wie kann die Belüftung von Stollen verbessert und gesteuert werden, um tiefere und produktivere Minen zu ermöglichen?
 
 #tech_coke
 Koks
 
 #tech_coke_dscr_dscr_1
-Wie man Steinkohle zu Koks verarbeitet, einem neün Brennstoff, der dann anstelle von Holzkohle verwendet werden kann.
+Wie man Steinkohle zu Koks verarbeitet, einem neuen Brennstoff, der dann anstelle von Holzkohle verwendet werden kann.
 
 #tech_agrcultr
 Landwirtschaft
@@ -529,10 +529,10 @@ Leidenschaftlich
 #tech_ard_dscr_1
 Ein landwirtschaftliches Werkzeug, das aus einem einfachen Dorn besteht, der durch den Boden gezogen und von Zugtieren gezogen wird, was die Vorbereitung der Felder viel schneller und einfacher macht.
 
-#tech_pflug
+#tech_plough
 Pflug
 
-#tech_pflug_dscr_1
+#tech_plough_dscr_1
 Ein großes landwirtschaftliches Werkzeug mit einer oder mehreren Klingen, die in einem Rahmen befestigt sind, über den Boden gezogen, um ihn umzudrehen und Furchen zu schneiden, um die Saatgutaussaat vorzubereiten, was die Fruchtbarkeit und Homogenität der Felder erhöht.
 
 #tech_domdog
@@ -601,10 +601,10 @@ Papier
 #tech_paper_dscr_1
 tech_paper_dscr_1
 
-#tech_holzkohle
+#tech_charcoal
 Holzkohle
 
-#tech_holzkohle_dscr_1
+#tech_charcoal_dscr_1
 Wie man Holzkohle aus Holz durch langsame Pyrolyse gewinnt: die Erwärmung von Holz ohne Saürstoff. Holzkohle kann dann als Brennstoff eingesetzt werden, der effizienter ist als Holz, da sie viel mehr Wärme produziert! 
 
 #tech_kiln
@@ -613,10 +613,10 @@ Ofen
 #tech_kiln_dscr_1
 Ein Ofen ist eine wärmeisolierte Kammer, die Temperaturen erzeugt, die ausreichen, um einen Prozess abzuschließen, wie z.B. Härten, Trocknen oder chemische Veränderungen.
 
-#tech_weben
+#tech_weaving
 Weben
 
-#tech_weben_dscr_1
+#tech_weaving_dscr_1
 Wir können jetzt seltsame Häute aus einem einzigen Faden aus Pflanzen herstellen!
 
 #tech_loom2
@@ -662,22 +662,22 @@ Bekleidung
 Das Konzept, Kleidung zu tragen, anstatt nackt herumzulaufen.
 
 #tech_tanning
-Bräunen
+Gerben
 
 #tech_tanning_dscr_1
 Sie müssen keine faulen, toten Tierhäute mehr tragen. Durch das Enthaaren, Trocknen und Räuchern der Häute können wir richtiges Leder herstellen. Sie hält länger, ist flexibler und weniger stinkend für zarte Schnauzen.
 
 #tech_urunhair
-Urin unhaarig
+Nutzung von Urin
 
 #tech_urunhair_dscr_1
 Wer könnte schon Urin gebrauchen: Das tagelange Einweichen der Felle darin erleichtert den mühsamen Prozess der Enthaarung und verbessert die Lederproduktion.
 
 #tech_vegettan
-Pflanzliche Bräunung
+Pflanzliche Gerbung
 
 #tech_vegettan_dscr_1
-öko-Schweine freün sich über die Gemüsebräune, die umweltfreundliche Evolution der Bräune, ist jetzt erhältlich. Kein ekelhaftes Gehirn und Rauch mehr: Tannine, die von Baumrinden stammen, machen Leder flexibler, langlebiger und wasserabweisender!
+öko-Schweine freuen sich über die pflanzliche Gerbung, die umweltfreundliche Evolution des Gerbens, ist jetzt erhältlich. Kein ekelhaftes Gehirn und Rauch mehr: Tannine, die von Baumrinden stammen, machen Leder flexibler, langlebiger und wasserabweisender!
 
 #tech_sprfish
 Speerfischen
@@ -709,11 +709,11 @@ Gärung
 #tech_ferment_dscr_1
 tech_ferment_dscr_1
 
-#tech_biere
+#tech_beer
 Bier
 
-#tech_Bier_dscr_1
-tech_bier_dscr_1
+#tech_beer_dscr_1
+tech_beer_dscr_1
 
 #tech_cuves
 Cuves
@@ -793,10 +793,10 @@ Möbelherstellung
 #tech_furnitr_dscr_1
 Wie man feine Möbelstücke für den Wohnbereich aus Holz und Metall herstellt.
 
-#tech_glü
+#tech_glue
 Kleber
 
-#tech_glü_dscr_1
+#tech_glue_dscr_1
 Eine Klebesubstanz, die aus gekochten tierischen Materialien hergestellt wird und für die Holzbearbeitung und die Herstellung von Möbeln verwendet wird.
 
 #tech_verneer

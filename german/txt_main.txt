@@ -25,25 +25,25 @@ nein
 #g_NO
 NEIN
 
-#g_Anwendung
+#g_Apply
 Anwenden
 
 #g_low
-niedrig
+Niedrig
 
 #g_medium
-Medium
+Mittel
 
 #g_high
-hoch
+Hoch
 
 #g_von
 von
 
-#g_frei
+#g_free
 kostenlos
 
-#g_Kostenlos
+#g_Free
 Kostenlos
 
 #g_cost
@@ -55,7 +55,7 @@ Münzen
 #g_upkeeping
 Aufrechterhaltung
 
-#g_Unterhaltskosten
+#g_Upkeep
 Pflege und Wartung
 
 #g_admin
@@ -64,7 +64,7 @@ Verwaltung
 #g_Admin
 Verwaltung
 
-#g_Administrationskosten
+#g_Admincost
 Verwaltungskosten
 
 #g_Lifequal
@@ -446,7 +446,7 @@ Häuptlingstum
 Primitiver Stamm
 
 #g_trb_von
-Stamm der[x]
+Stamm der [x]
 
 #g_colonialtrty
 Kolonialvertrag
@@ -503,25 +503,25 @@ deaktiviert
 pro Tag
 
 #g_ev_days
-alle[x] Tage
+alle [x] Tage
 
 #g_pro_Stunde
 pro Stunde
 
 #g_ev_hours
-alle[x] Stunden
+alle [x] Stunden
 
 #g_per_minut
 pro Minute
 
 #g_ev_minuts
-alle[x] Minuten
+alle [x] Minuten
 
 #g_per_second
 pro Sekunde
 
 #g_ev_seconds
-alle[x] Sekunden
+alle [x] Sekunden
 
 #g_mit
 mit

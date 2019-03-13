@@ -1,4 +1,4 @@
-﻿#r_alle
+﻿#r_all
 Alle Ressourcen
 
 #rcat_prod
@@ -43,52 +43,52 @@ Metalle
 #rprdg_tool
 Werkzeuge
 
-#r_Hämmer
+#r_hammers
 Hämmer
 
 #r_axes
 Achsen
 
-#r_Schaufeln
+#r_shovels
 Schaufeln
 
-#r_sägen
+#r_saws
 Sägen
 
-#r_spitzhacken
+#r_pickaxes
 Pickel
 
-#r_Schuhe
+#r_hoes
 Hacken
 
-#r_Pflüge
+#r_ploughs
 Pflüge
 
-#r_Holz
+#r_wood
 Holz
 
 #r_planks
 Bretter
 
-#r_schlamm
-Schlamm
+#r_mud
+Lehm
 
-#r_Lehmziegel
+#r_mudbricks
 Lehmziegel
 
-#r_Bausteine
+#r_bricks
 Ziegel
 
 #r_ashes
 Asche
 
-#r_Gips
+#r_plaster
 Gips
 
 #r_cement
 Zement
 
-#r_holzkohle
+#r_charcoal
 Holzkohle
 
 #r_flints
@@ -103,16 +103,16 @@ Steinblöcke
 #r_slate
 Schiefer
 
-#r_Kalkstein
+#r_limestone
 Kalkstein
 
 #r_granit
 Granit
 
-#r_sandstein
+#r_sandstone
 Sandstein
 
-#r_Marmor
+#r_marble
 Marmor
 
 #r_orecopper
@@ -121,7 +121,7 @@ Kupfererz
 #r_oretin
 Zinnerz
 
-#r_oreisen
+#r_oreiron
 Eisenerz
 
 #r_oresilver
@@ -130,13 +130,13 @@ Silbererz
 #r_oregold
 Golderz
 
-#r_Kohle
+#r_coal
 Kohle
 
 #r_coke
 Koks
 
-#r_Kupfer
+#r_copper
 Kupfer
 
 #r_tin
@@ -145,10 +145,10 @@ Zinn
 #r_bronze
 Bronze
 
-#r_Eisen
+#r_iron
 Eisen
 
-#r_Stahl
+#r_steel
 Stahl
 
 #r_silver
@@ -157,10 +157,10 @@ Silber
 #r_gold
 Gold
 
-#r_Leder
+#r_leather
 Leder
 
-#r_Baumwolle
+#r_cotton
 Baumwolle
 
 #r_flax
@@ -172,16 +172,16 @@ Wolle
 #r_textile
 Textil
 
-#r_Tuch
+#r_cloth
 Tuch
 
-#r_Ledertuch
+#r_leathercloth
 Ledertuch
 
-#r_hasen
+#r_rabbits
 Kaninchen
 
-#r_Hirsch
+#r_deer
 Hirsch
 
 #r_dogs
@@ -196,7 +196,7 @@ Büffel
 #r_ostriches
 Strauße
 
-#r_Pferde
+#r_horses
 Pferde
 
 #r_camels
@@ -205,13 +205,13 @@ Kamele
 #r_elephants
 Elefanten
 
-#r_Mammuts
+#r_mammoths
 Mammuts
 
-#r_Schafe
+#r_sheeps
 Schafe
 
-#r_Hühner
+#r_chickens
 Hühner
 
 #r_caipibaras
@@ -223,10 +223,10 @@ Lamas
 #r_fish
 Fische
 
-#r_Fleisch
+#r_meat
 Fleisch
 
-#r_Weizen
+#r_wheat
 Weizen
 
 #r_corn
@@ -238,10 +238,10 @@ Mehl
 #r_Brot
 Brot
 
-#r_Kartoffeln
+#r_potatoes
 Kartoffeln
 
-#r_Karotten
+#r_carrots
 Karotten
 
 #r_tomatoes
@@ -256,34 +256,34 @@ Bananen
 #r_apples
 Äpfel
 
-#r_bohnen
+#r_beans
 Bohnen
 
 #r_figs
 Feigen
 
-#r_r_rice
+#r_rice
 Reis
 
-#r_Kichererbsen
+#r_chickpeas
 Kichererbsen
 
-#r_Öl
+#r_oil
 Olivenöl
 
-#r_trüffeln
+#r_truffles
 Trüffel
 
 #r_javelins
 Speere
 
-#r_bögen
+#r_bows
 Bögen
 
 #r_longbows
 Langbögen
 
-#r_Armbrüste
+#r_crossbows
 Armbrüste
 
 #r_arquebuses
@@ -304,37 +304,37 @@ Langschwerter
 #r_battleaxes
 Kampfaxten
 
-#r_Warhammer
-Wrhammers
+#r_warhammers
+Schlaghammer
 
 #r_halberds
 Hellebarden
 
-#r_schild_holz
+#r_shield_wood
 Holzschilde
 
-#r_schild_bronze #r_schild_bronze
+#r_shield_bronze
 Metallschilde
 
 #r_shield_heavy
 Schwere Schilde
 
-#r_Schutzschild_Stahl
+#r_shield_steel
 Stahlschilde
 
-#r_Helmlicht
+#r_helmetlight
 Leichte Helme
 
 #r_helmetheavy
 Schwere Helme
 
 #r_heaumes
-Heaumes
+Topfhelm
 
-#r_panzergepolstert
+#r_armorpadded
 Gepolsterte Rüstungen
 
-#r_Rüstungsbrigand
+#r_armorbrigand
 Räuber
 
 #r_cuirass
@@ -352,31 +352,31 @@ Kettenmails
 #r_amorplate
 Plattenpanzer
 
-#r_Töpferei
+#r_pottery
 Töpferei
 
-#r_möbel
+#r_furniture
 Möbel
 
-#r_Drogen
+#r_rugs
 Teppiche
 
-#r_Gerste
+#r_barley
 Gerste
 
-#r_Bier
+#r_beer
 Bier
 
-#r_Trauben
+#r_grapes
 Trauben
 
-#r_Wein
+#r_wine
 Wein
 
 #r_apples
 Äpfel
 
-#r_Apfelwein
+#r_cider
 Apfelwein
 
 #r_sugarcane
@@ -385,22 +385,22 @@ Zuckerrohr
 #r_rum
 Rum
 
-#r_Ziegen
+#r_goats
 Ziegen
 
 #r_papyrus
 Papyrus
 
-#r_Papier
+#r_paper
 Papier
 
 #r_olives
 Oliven
 
-#r_Gebäude
+#r_building
 Gebäude
 
-#r_Pläne
+#r_plans
 Pläne
 
 #r_taxcollect
@@ -418,16 +418,16 @@ Theater
 #r_doctor
 Arzt
 
-#r_Gerechtigkeit
-Gerechtigkeit
+#r_justice
+Justiz
 
 #r_cargo
 Fracht
 
-#r_Ton
+#r_clay
 Ton
 
-#r_Wasser
+#r_water
 Wasser
 
 #r_trading
@@ -439,7 +439,7 @@ Schule
 #r_wash
 Wäscherei
 
-#r_Bäder
+#r_baths
 Bäder
 
 #r_scribe
@@ -466,7 +466,7 @@ Topillis
 #r_macana
 Macanas
 
-#r_bibliothek
+#r_library
 Bibliothek
 
 #r_dates

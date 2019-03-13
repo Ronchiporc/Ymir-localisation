@@ -32,7 +32,7 @@ Lagert Ressourcen.
 Verteilung
 
 #bdg_merch_dscr
-Vertriebspartner erhalten Ressourcen aus jedem produzierenden Gebäude oder Lager und stellen sie der Bevölkerung zur Verfügung. Sie können hohe Mengen an Ressourcen verteilen, aber die Händler behalten einen Teil der Verkaufseinnahmen für sich selbst, was die Kosten für den Produzenten reduziert.
+Vertriebspartner erhalten Ressourcen aus jedem produzierenden Gebäude oder Lager und stellen sie der Bevölkerung zur Verfügung. Du kannst hohe Mengen an Ressourcen verteilen, aber die Händler behalten einen Teil der Verkaufseinnahmen für sich selbst, was die Kosten für den Produzenten reduziert.
 
 #bdg_roads_n
 Straßen
@@ -74,13 +74,13 @@ Anhänge sind Gebäude, die zu einem anderen gehören und ihm zusätzliche Produ
 Plattformen
 
 #bdg_pltf_dscr
-Plattformen sind eine pigmentierte Ziegelerhöhung, über die Sie bauen können. Verteidigungsstrukturen wie Türme und Zinnen können nur über Plattformen gebaut werden. Sie sind kostspielig und langsam zu bauen.
+Plattformen sind eine pigmentierte Ziegelerhöhung, über denen du bauen kannst. Verteidigungsstrukturen wie Türme und Zinnen können nur über Plattformen gebaut werden. Sie sind kostspielig und langsam zu bauen.
 
 #bdg_stairs_n
 Treppe
 
 #bdg_stairs_dscr
-Ermöglicht es Ebern, auf Kacheln mit unterschiedlicher Höhe zuzugreifen. Stellen Sie sie gegen Plattformen oder Klippen, um Zugang zu erhalten. 
+Ermöglicht es Ebern, auf Kacheln mit unterschiedlicher Höhe zuzugreifen. Stelle sie gegen Plattformen oder Klippen, um Zugang zu erhalten. 
 
 #bdg_gates_n
 Tor
@@ -443,7 +443,7 @@ Der Boden ist als Lagerfläche gekennzeichnet. Es ist kostenlos, aber unbewacht 
 Lager
 
 #txt_warehouse_dscr
-Lagerhäuser können alle Arten von Ausgangsmaterialien lagern. Sie sind geardet und können viel mehr Ressourcen speichern als Bodenlager.
+Lagerhäuser können alle Arten von Ausgangsmaterialien lagern. Sie sind ausgekleidet und können viel mehr Ressourcen speichern als Bodenlager.
 
 #txt_weapmk_n
 Waffenschmied

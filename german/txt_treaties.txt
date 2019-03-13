@@ -2,37 +2,37 @@
 Einzigartige Zahlung
 
 #agrim_goldo_2
-Bezahlt[x] Münzen
+Bezahlt [x] Münzen
 
 #agrim_goldo_3
-Einmalzahlung von[x] nach [y], bei Vertragsunterzeichnung.
+Einmalzahlung von [x] nach [y], bei Vertragsunterzeichnung.
 
 #agrim_goldr_1
 Münztransfer
 
 #agrim_goldr_2
-Kontinuierlicher Transfer von[x]-Münzen aus dem Einkommen
+Kontinuierlicher Transfer von [x]-Münzen aus dem Einkommen
 
 #agrim_goldr_3
-[x] überweist kontinuierlich Münzen an [y], solange der Vertrag aktiv bleibt.
+ [x] überweist kontinuierlich Münzen an [y], solange der Vertrag aktiv bleibt.
 
 #agrim_goldtax_1
 Münzensteuer
 
 #agrim_goldtax_2
-Gibt[x]% des Münzeinkommens.
+Gibt [x]% des Münzeinkommens.
 
 #agrim_goldtax_3
-[x] überträgt einen Prozentsatz seines gesamten Münzeinkommens an [y].
+ [x] überträgt einen Prozentsatz seines gesamten Münzeinkommens an [y].
 
 #agrim_admtax_1
 Leistungsübertragung
 
 #agrim_admtax_2
-Transfers[x]% der Staatsmacht
+Transfers [x]% der Staatsmacht
 
 #agrim_admtax_3
-[x] überträgt ein Prozent seiner Staatsmacht an [y].
+ [x] überträgt ein Prozent seiner Staatsmacht an [y].
 
 #agrim_trad_1
 Handelsabkommen
@@ -41,7 +41,7 @@ Handelsabkommen
 Ermöglicht den Handel
 
 #agrim_trad_3
-Gewährt [y] Zugriff auf alle Handelsangebote und Handelsrouten von[x] aus.
+Gewährt [y] Zugriff auf alle Handelsangebote und Handelsrouten von [x] aus.
 
 #agrim_pass_1
 Durchfahrtsrecht
@@ -50,13 +50,13 @@ Durchfahrtsrecht
 Gibt das Recht auf Durchgang
 
 #agrim_pass_3
-Ermöglicht es Einheiten von [y], sich in den Gebieten von[x] zu bewegen.
+Ermöglicht es Einheiten von [y], sich in den Gebieten von [x] zu bewegen.
 
 #agrim_embrg_1
 Embargo gegen.....
 
 #agrim_embrg_2
-Embargo von gegen[x]
+Embargo von gegen [x]
 
 #agrim_embrg_3
 Verbietet den Handel mit einem bestimmten Staat.
@@ -65,16 +65,16 @@ Verbietet den Handel mit einem bestimmten Staat.
 Beitritt zur Nation
 
 #agrim_vassal_2
-Beitritt zum[x]
+Beitritt zum [x]
 
 #agrim_vassal_3
-[x] wird sich der Nation von [y] anschließen.
+ [x] wird sich der Nation von [y] anschließen.
 
 #agrim_war_1
 Den Krieg erklären, um.....
 
 #agrim_war_2
-Kriegserklärung an[x]
+Kriegserklärung an [x]
 
 #agrim_war_3
 Deklarieren Sie den Krieg in einen anderen angegebenen Zustand.
@@ -110,7 +110,7 @@ Einrichtung einer vertraglich gebundenen Handelsroute
 Region angeben
 
 #agrim_givreg_2
-Gibt den Bereich von '[x]' an. 
+Gibt den Bereich von ' [x]' an. 
 
 #agrim_givreg_3
 Übertragen Sie das Eigentum an einer Region auf [y].
@@ -119,10 +119,10 @@ Gibt den Bereich von '[x]' an.
 Geben Sie eine Idee
 
 #agrim_gividea_2
-Gib eine Idee für[x]
+Gib eine Idee für [x]
 
 #agrim_gividea_3
- [y] wird von[x] eine neue Idee für Erkenntnisse erhalten, die er noch nicht hat.
+ [y] wird von [x] eine neue Idee für Erkenntnisse erhalten, die er noch nicht hat.
 
 #treaty_powcost
 Staatliche Energiekosten für die Aufrechterhaltung dieses Vertrags
@@ -131,31 +131,31 @@ Staatliche Energiekosten für die Aufrechterhaltung dieses Vertrags
 Münzstrafe
 
 #treaty_coinpen_c1
-% des BIP als Strafe übertragen, wenn[x] gegen diesen Vertrag verstößt,
+% des BIP als Strafe übertragen, wenn [x] gegen diesen Vertrag verstößt,
 
 #treaty_coinpen_c2
-zu[x].
+zu [x].
 
 #treaty_gdp
-[x]% des BIP
+ [x]% des BIP
 
 #treaty_honor
 Ehrenengagement
 
 #treaty_honor_c1
-Umfang der Verpflichtung von[x], diesen Vertrag einzuhalten.
+Umfang der Verpflichtung von [x], diesen Vertrag einzuhalten.
 
 #treaty_honor_c2
-Verhältnismäßige Ehre geht verloren, wenn[x] sie bricht.
+Verhältnismäßige Ehre geht verloren, wenn [x] sie bricht.
 
 #treaty_warbound
 Kriegsgefangen
 
 #treaty_warbound_c1
-Ob[x] oder nicht, wird automatisch den Krieg erklären.
+Ob [x] oder nicht, wird automatisch den Krieg erklären.
 
 #treaty_warbound_c2
-wenn[x] diesen Vertrag bricht.
+wenn [x] diesen Vertrag bricht.
 
 #treaty_closes
 Das Brechen schließt

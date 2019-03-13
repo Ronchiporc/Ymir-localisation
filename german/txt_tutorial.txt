@@ -2,46 +2,46 @@
 Willkommen bei Ymir! Es sieht so aus, als ob es das erste Mal ist, dass du dieses Spiel startest. 
 
 #tuto_launch_2
-Dies ist ein komplexes Spiel: Wenn Sie damit noch nicht vertraut sind, wird dringend empfohlen, zunächst das Einsteiger-Tutorial in einem Solospiel abzuschließen, um die Grundlagen zu erlernen. Howerver, wenn Sie das Spiel bereits kennen, können Sie wählen, ob Sie alle Tutorials sofort deaktivieren möchten.
+Dies ist ein komplexes Spiel: Wenn du damit noch nicht vertraut bist, wird dringend empfohlen, zunächst das Einsteiger-Tutorial in einem Solospiel abzuschließen, um die Grundlagen zu erlernen. Wenn du allerdings das Spiel bereits kennst, kannst du wählen, ob du alle Tutorials sofort deaktivieren möchtest.
 
 #tuto_create_1
-Hier richten Sie ein und starten ein neues Spiel. Es gibt 2 Hauptspielarten: Dauerhaft und Echtzeit. Wenn du alleine oder mit ein paar Freunden spielst, überlasse es am besten der "Echtzeit".
+Hier richtest und startest du ein neues Spiel. Es gibt 2 Hauptspielarten: Dauerhaft und Echtzeit. Wenn du alleine oder mit ein paar Freunden spielst, überlasse es am besten bei "Echtzeit".
 
 #tuto_lnchgame_1
-Du startest dein erstes eigenes Spiel! Dies ist ein Client-Server-Spiel: Selbst wenn du alleine spielst, wird das Starten eines neuen Spiels automatisch einen separaten Server starten und dich automatisch mit ihm verbinden. Damit andere an diesem Spiel teilnehmen können, MÜSSEN Sie sicherstellen, dass der von Ihrem Server verwendete Port korrekt weitergeleitet wird (14804 standardmäßig). Wenn der Autostart des Servers fehlschlägt, müssen Sie den Server manuell aus dem Spielordner mit server.bat starten und sich dann mit "join game" mit ihm verbinden.
+Du startest dein erstes eigenes Spiel! Dies ist ein Client-Server-Spiel: Selbst wenn du alleine spielst, wird das Starten eines neuen Spiels automatisch einen separaten Server starten und dich automatisch mit ihm verbinden. Damit andere an diesem Spiel teilnehmen können, MUSST du sicherstellen, dass der von deinem Server verwendete Port korrekt weitergeleitet wird (14804 standardmäßig). Wenn der Autostart des Servers fehlschlägt, musst du den Server manuell aus dem Spielordner mit der "server.bat" starten und dich dann mit "Spiel betreten" mit ihm verbinden.
 
 #tuto_char_1
-Hier kannst du deinen Charakter erstellen. Du kannst es entwerfen und benennen, ebenso wie den Namen und die Flagge deiner Regierung. 
+Hier kannst du deinen Charakter erstellen. Du kannst ihn entwerfen und benennen, ebenso wie den Namen und die Flagge deiner Regierung. 
 
 #tuto_char_2
 Du musst aus einer Liste verschiedener Starttypen wählen, wobei der Standard für ein neues Spiel der "primitive Stamm" ist.
 
 #tuto_char_3
-Im Mehrspieler-Modus kannst du auch den Namen des Charakters eines Freundes angeben, der so nah wie möglich an ihn heranwächst, aber dafür brauchst du auch seinen'Einladungscode'.
+Im Mehrspieler-Modus kannst du auch den Namen des Charakters eines Freundes angeben, damit du so nah wie möglich bei ihm spawnst, aber dafür brauchst du auch seinen 'Einladungscode'.
 
 #tuto_char_4
-Seien Sie vorsichtig: Sobald Sie einen Charakter erstellt haben - besonders in hartnäckigen Multiplayer-Spielen - dürfen Sie nicht sofort einen neuen erstellen, wenn Sie es vermasseln! Du musst bis zu mehreren Tagen warten, bevor du es im selben Spiel noch einmal versuchen darfst. 
+Sei vorsichtig: Sobald du einen Charakter erstellt hast - besonders in anhaltenden Multiplayer-Spielen - darfst du nicht sofort einen neuen erstellen, wenn du es vermasselt hast! Du musst bis zu mehreren Tagen warten, bevor du es im selben Spiel noch einmal versuchen darfst. 
 
 #tuto_warnjoin_1
-Du hast das Starttutorial noch nicht abgeschlossen: Es wird dringend empfohlen, dies zu tun, bevor man versucht, an einem dauerhaften Multiplayer-Spiel teilzunehmen.
+Du hast das Starttutorial noch nicht abgeschlossen: Es wird dringend empfohlen dies zu tun bevor man versucht, an einem dauerhaften Multiplayer-Spiel teilzunehmen.
 
 #tuto_warnjoin_2
-Persistente Multiplayer-Spiele sind unnachgiebig! Die Startbedingungen können viel komplexer sein, und wenn du scheiterst, darfst du einen neuen Charakter nicht sofort neu starten, da das Wiederbeleben durch eine Abkühlphase von bis zu mehreren Tagen begrenzt ist. Lernen Sie zuerst die Grundlagen, damit Sie nicht sofort Fehler machen und Ihre Chance verlieren!
+Anhaltende bzw. Persistente Multiplayer-Spiele sind unnachgiebig! Die Startbedingungen können viel komplexer sein und wenn du scheiterst, darfst du einen neuen Charakter nicht sofort neu erstellen, da das Wiederbeleben durch eine Abkühlphase von bis zu mehreren Tagen begrenzt ist. Lerne zuerst die Grundlagen, damit du nicht sofort Fehler machst und deine Chance verlierst!
 
 #tuto_join_1
-Hier können Sie an bestehenden Spielen teilnehmen. 
+Hier kannst du an bestehenden Spielen teilnehmen. 
 
 #tuto_join_2
-Wenn du wieder an deinem eigenen lokalen Spiel teilnehmen musst, gehe zu "Direct IP" und verbinde dich mit dem Port 14804 von "localhost". 
+Wenn du wieder an deinem eigenen lokalen Spiel teilnehmen musst, gehe zu "Direkte IP" und verbinde dich mit dem Port 14804 von "localhost". 
 
 #tuto_join_3
-Wenn Sie an Multiplayer-Spielen teilnehmen möchten, haben Sie die Wahl zwischen persistenten (24/7-Spiele, die in den letzten Monaten stattgefunden haben) und Echtzeitspielen (schnellere Spiele, um mit Freunden zu spielen).
+Wenn du an Multiplayer-Spielen teilnehmen möchtst, hast du die Wahl zwischen persistenten/ anhaltenden (24/7-Spiele, die in den letzten Monaten stattgefunden haben) und Echtzeitspielen (schnellere Spiele, um mit Freunden zu spielen).
 
 #tuto_persist_1
 Du hast an deinem ersten dauerhaften Multiplayer-Spiel teilgenommen! In diesem Spielmodus geht es VIEL langsamer als im Echtzeitmodus, und sei vorsichtig: Hier ist kein Platz für Fehler! Du musst mit dem Start fertig werden, den du bekommen hast, und zweite Chancen sind teuer, da du Tage warten musst, bevor du es mit einem neuen Charakter erneut versuchen kannst, wenn du diesen verlierst.
 
 #tuto_0_1
-Grüße Newpig! Ich bin Sagacious Pig, dein Tutorial-Assistent. 
+Grüße dich, Neuling! Ich bin Sagacious Pig, dein Tutorial-Assistent. 
 
 #tuto_0_2
 Ich bin hier, um dich durch die ersten Schritte des Spiels zu führen und zu erklären, wie die Dinge funktionieren.
@@ -50,7 +50,7 @@ Ich bin hier, um dich durch die ersten Schritte des Spiels zu führen und zu erk
 Erzähl mir mehr!--1
 
 #tuto_0_c2
-Ich wollte das Tutorial machen, aber jetzt, da ich dein hässliches Gesicht sehe, würde ich es lieber überspringen. --82
+Ich wollte das Tutorial machen, aber jetzt, da ich dein hässliches Gesicht sehe, würde ich es lieber überspringen.--82
 
 #tuto_1_1_1
 Du befindest dich derzeit auf der Weltkarte. Jede Kachel ist ein Territorium, das du erkunden und kolonisieren kannst. 
@@ -65,37 +65,37 @@ Sehr gut.... also was jetzt ?--2--1
 Das ist ein Missionsevent. Manchmal bekommst du Missionen, die du erledigen kannst, um Belohnungen freizuschalten. Hier ist deine erste Aufgabe einfach, deinen Stamm in deinem ersten Gebiet anzusiedeln.
 
 #tuto_2_c1
-Ja.... ja... ja.... ja.... Lasst uns also anfangen!--3--2--2
+Ja... ja... Lasst uns also anfangen!--3--2
 
 #tuto_3_1
-Ereignisse werden als Flaggen oben auf dem Bildschirm angezeigt und Sie können sie auch alle ansehen, indem Sie auf diese Schaltfläche neben den Flaggen klicken.
+Ereignisse werden als Flaggen oben auf dem Bildschirm angezeigt und du kannst sie auch alle ansehen, indem du auf diese Schaltfläche neben den Flaggen klickst.
 
 #tuto_3_c1
-Danke, Herr Schwein, sollen wir weitermachen? --4--4--3
+Danke, Herr Sagacious, sollen wir weitermachen?--4--3
 
 #tuto_4_1
-Sie beginnen mit einer einzigen Gruppe von Einheiten (einer "Formation"), die der primitive Stamm der Nomaden ist, den Sie derzeit kontrollieren.  Klicken Sie darauf, um es auszuwählen.
+Du beginnst mit einer einzigen Gruppe von Einheiten (einer "Formation"), die dem primitiven Stamm der Nomaden angehört, den du derzeit kontrollierst.  Klicke darauf, um sie auszuwählen.
 
 #tuto_5_1
 Unten links befindet sich das Formationsmenü deiner Formation. Es zeigt Details wie die Liste der Einheiten in dieser Formation und deren Inventar. 
 
 #tuto_5_2
-Dein Stamm zeltet derzeit in einem Gebiet mit den richtigen Ressourcen, um das Spiel zu starten. Dies sollte ein sicherer Ort sein, um Ihre erste Siedlung zu gründen: Klicken Sie in ihrem Gründungsmenü auf die Schaltfläche "Bestellungen".
+Dein Stamm zeltet derzeit in einem Gebiet mit den richtigen Ressourcen, um das Spiel zu starten. Dies sollte ein sicherer Ort sein, um deine erste Siedlung zu gründen: Klicke in ihrem Gründungsmenü auf die Schaltfläche "Aufträge".
 
 #tuto_6_1
-Wählen Sie die Mission "Siedlung", lassen Sie alle Optionen standardmäßig stehen und bestätigen Sie, um Ihrem gesamten Stamm zu befehlen, sich in diesem Gebiet niederzulassen. Seine Einheiten und sein Inventar werden in dem Gebiet entladen, das nun unter Ihrer Kontrolle steht, und die Formation selbst wird verschwinden.
+Wähle die Mission "Siedlung" aus, lasse alle Optionen standardmäßig so stehen und bestätige diese, um deinem gesamten Stamm zu befehlen, sich in diesem Gebiet niederzulassen. Deine Einheiten und deren Inventar werden in dem Gebiet entladen, das nun unter deiner Kontrolle steht, und die Formation selbst wird verschwinden.
 
 #tuto_7_1
-Der Gebietsauswahlschalter zeigt den Namen des aktuell ausgewählten Gebiets an. Auf der linken Seite befindet sich ein runder Knopf, mit dem du in das Gebiet gehen kannst.
+Der Gebietswähler zeigt den Namen des aktuell ausgewählten Gebiets an. Auf der linken Seite befindet sich ein runder Knopf, mit dem du in das Gebiet gehen kannst.
 
 #tuto_7_2
-Wenn Ihr neu besiedeltes Gebiet ausgewählt ist, klicken Sie auf diese Schaltfläche, um in Ihr Gebiet zu gelangen.
+Wenn dein neu besiedeltes Gebiet ausgewählt ist, klicke auf diese Schaltfläche, um in dein Gebiet zu gelangen.
 
 #tuto_8_1
-Dies ist das Gebiet, das Sie besiedelt haben und nun kontrollieren. In der Mitte befindet sich das Lager, das dein Stamm mit Zelten und all seinen Ressourcen eingerichtet hat, die jetzt auf den Boden entladen werden.
+Dies ist das Gebiet, das du besiedelt hast und nun kontrollierst. In der Mitte befindet sich das Lager, das dein Stamm mit Zelten und all seinen Ressourcen eingerichtet hat, die jetzt auf den Boden entladen werden.
 
 #tuto_8_c1
-Sehr gut. 9, 7, 7.
+Sehr gut.--9--7
 
 #tuto_9_1
 Du hast jetzt deine erste Mission abgeschlossen und die Belohnungen freigeschaltet.
@@ -107,22 +107,22 @@ Deine nächste Mission ist es nun, deinem Stamm frisches Wasser zu liefern.
 Ich bin begeistert von der Komplexität dieser Missionen, machen wir weiter!--10
 
 #tuto_10_10_1
-Um sich zu ernähren, brauchen Ihre Porcos Nahrung und Wasser, sonst sterben sie schnell. Sie trugen ein wenig Essen, aber kein Wasser mit sich herum: Das erste, was zu tun ist, ist, eine Wassersammelstelle am Ufer und eine Frischwasserstation einzurichten.
+Um sich zu ernähren, brauchen deine Porcos Nahrung und Wasser, sonst sterben sie schnell. Sie trugen ein wenig Essen, aber kein Wasser, mit sich herum: Das erste, was zu tun ist, ist eine Wassergewinnung einzurichten.
 
 #tuto_10_c1
 Wie mache ich das ?--11--8
 
 #tuto_11_1_1
-Dies ist die Registerkarte Gebäude des Gebiets, wo Sie alle Ihre derzeit verfügbaren Gebäude sehen und deren Bau in diesem Gebiet bestellen können.
+Dies ist die Gebäude Registerkarte des Gebiets, wo du alle deine derzeit verfügbaren Gebäude sehen und deren Bau in diesem Gebiet bestellen kannst.
 
 #tuto_11_2
-Wählen Sie auf der ersten Registerkarte "Wohnen" das Gebäude "Wasserkollektor" aus. 
+Wählen Sie auf der ersten Registerkarte "Wohnen" das Gebäude "Wassersammler" aus. 
 
 #tuto_12_12_1
-Dieses Gebäude ist kostenlos und erfordert keine Arbeiter: Es stellt einfach einen Platz an der Küste dar, der geräumt und geebnet wurde, um Ihren Porcos einen einfachen Zugang zu frischem Wasser zu ermöglichen: Sie erhalten es selbst, wie sie es brauchen. Versuchen Sie, es neben Wasserkacheln zu platzieren: Es muss eine an das Wasser angrenzende Kante haben, um zu funktionieren.
+Dieses Gebäude ist kostenlos und erfordert keine Arbeiter: Es stellt einfach einen Platz an der Küste dar, der geräumt und geebnet wurde, um deinen Porcos einen einfachen Zugang zu frischem Wasser zu ermöglichen: Sie erhalten es, wie sie es brauchen. Versuche, es neben Wasserkacheln zu platzieren: Es muss eine an das Wasser angrenzende Kante haben, um zu funktionieren.
 
 #tuto_13_13_1
-Jetzt, da der Wasserbedarf Ihrer Porcos gedeckt ist, brauchen sie nachhaltige Nahrungsquellen, da ihre Bestände bald erschöpft sein werden. 
+Jetzt, da der Wasserbedarf deiner Porcos gedeckt ist, brauchen sie nachhaltige Nahrungsquellen, da ihre Bestände bald erschöpft sein werden. 
 
 #tuto_13_c1
 Essen bitte!--14--10
@@ -1217,13 +1217,13 @@ Ok....--411
 Dann können Sie mit der Richtlinie "Führung" festlegen, wie viel von seinem persönlichen Vermögen Sie den Ausgaben des Staates zuweisen möchten! 
 
 #tuto_411_2
-So wird beispielsweise ein Leader mit einem Vermögen von 20 Personen, der zu 50% beiträgt, ein Treasury-Einkommen von +10 generieren.
+So wird beispielsweise ein Leader mit einem Vermögen von 20 Personen, der zu 50% beiträgt, ein Schatzkammer-Einkommen von +10 generieren.
 
 #tuto_411_c1
-Wie sonst kann ich Einnahmen aus dem Treasury generieren? --412
+Wie sonst kann ich Einnahmen aus der Schatzkammer generieren?--412
 
 #tuto_412_1
-Dies ist wahrscheinlich Ihre Haupteinnahmequelle in diesen frühen Jahren. Außerdem werden Ihre Leute auch gerne zu den Ausgaben für die Gemeinschaft mit bis zu 20% ihres eigenen Einkommens beitragen, aber es ist wahrscheinlich, dass sie anfangs marginal bleiben.
+Dies ist wahrscheinlich deine Haupteinnahmequelle in diesen frühen Jahren. Außerdem werden deine Leute auch gerne zu den Ausgaben für die Gemeinschaft mit bis zu 20% ihres eigenen Einkommens beitragen, aber es ist wahrscheinlich, dass sie anfangs geringfügig bleiben.
 
 #tuto_412_2
 Sobald Sie eine angemessene Besteuerung entwickelt haben, können Sie diesen Prozentsatz selbst ändern!
