@@ -1,464 +1,464 @@
 #r_all
-All resources
+Todos os recursos
 
 #rcat_prod
-Products
+Produtos
 
 #rcat_food
-Foods
+Alimentos
 
 #rcat_weapon
-Weapons
+Armas
 
 #rcat_animal
-Animals
+Animais
 
 #rcat_slave
-Slaves
+Escravos
 
 #rcat_service
-Services
+Serviços
 
 #rcat_drink
-Drinks
+Bebidas
 
 #rprdg_cltv
-cultivated
+cultivado
 
 #rprdg_animal
-animals
+animais
 
 #rprdg_weapon
-weapons
+armas
 
 #rprdg_mine
-mined
+minerados
 
 #rprdg_quarry
-quarry
+pedreira
 
 #rprdg_smelt
-metals
+metais
 
 #rprdg_tool
-tools
+ferramentas
 
 #r_hammers
-Hammers
+Martelos
 
 #r_axes
-Axes
+Machados
 
 #r_shovels
-Shovels
+Pás
 
 #r_saws
-Saws
+Serras
 
 #r_pickaxes
-Pickaxes
+Picaretas
 
 #r_hoes
-Hoes
+Exadas
 
 #r_ploughs
-Ploughs
+Arados
 
 #r_wood
-Wood
+Madeira
 
 #r_planks
-Planks
+Tábuas
 
 #r_mud
-Mud
+Barro
 
 #r_mudbricks
-Mudbricks
+Tijolos de barro
 
 #r_bricks
-Bricks
+Tijolos
 
 #r_ashes
-Ashes
+Cinzas
 
 #r_plaster
-Plaster
+Gesso
 
 #r_cement
-Cement
+Cimento
 
 #r_charcoal
-Charcoal
+Carvão Vegetal
 
 #r_flints
-Flints
+Sílex
 
 #r_stone
-Stone
+Pedra
 
 #r_stoneblocs
-Stoneblocs
+Blocos de Pedra
 
 #r_slate
-Slate
+Ardósia
 
 #r_limestone
-Limestone
+Pedra de Cal
 
 #r_granit
-Granit
+Granito
 
 #r_sandstone
-Sandstone
+Arenito
 
 #r_marble
-Marble
+Mármore
 
 #r_orecopper
-Copper ore
+Minério de cobre
 
 #r_oretin
-Tin ore
+Minério de Estanho
 
 #r_oreiron
-Iron ore
+Minério de Ferro
 
 #r_oresilver
-Silver ore
+Minério de Prata
 
 #r_oregold
-Gold ore
+Minério de Ouro
 
 #r_coal
-Coal
+Carvão
 
 #r_coke
-Coke
+Coque
 
 #r_copper
-Copper
+Cobre
 
 #r_tin
-Tin
+Estanho
 
 #r_bronze
 Bronze
 
 #r_iron
-Iron
+Ferro
 
 #r_steel
-Steel
+Aço
 
 #r_silver
-Silver
+Prata
 
 #r_gold
-Gold
+Ouro
 
 #r_leather
-Leather
+Couro
 
 #r_cotton
-Cotton
+Algodão
 
 #r_flax
-Flax
+Linho
 
 #r_wool
-Wool
+Lã
 
 #r_textile
-Textile
+Têxtil
 
 #r_cloth
-Cloth
+Tecido
 
 #r_leathercloth
-Leathercloth
+Tecido de Couro
 
 #r_rabbits
-Rabbits
+Coelhos
 
 #r_deer
-Deer
+Cervo
 
 #r_dogs
-Dogs
+Cachorros
 
 #r_cows
-Cows
+Vacas
 
 #r_buffalos
-Buffalos
+Búfalos
 
 #r_ostriches
-Ostriches
+Avestruzes
 
 #r_horses
-Horses
+Cavalos
 
 #r_camels
-Camels
+Camelos
 
 #r_elephants
-Elephants
+Elefantes
 
 #r_mammoths
-Mammoths
+Mamutes
 
 #r_sheeps
-Sheeps
+Ovelhas
 
 #r_chickens
-Chickens
+Galinhas
 
 #r_caipibaras
-Caipibaras
+Capivaras
 
 #r_llamas
-Llamas
+Lhamas
 
 #r_fish
-Fish
+Peixe
 
 #r_meat
-Meat
+Carne
 
 #r_wheat
-Wheat
+Trigo
 
 #r_corn
-Corn
+Milho
 
 #r_flour
-Flour
+Farinha
 
 #r_bread
-Bread
+Pão
 
 #r_potatoes
-Potatoes
+Batatas
 
 #r_carrots
-Carrots
+Cenouras
 
 #r_tomatoes
-Tomatoes
+Tomates
 
 #r_lettuce
-Lettuce
+Alface
 
 #r_bananas
 Bananas
 
 #r_apples
-Apples
+Maçãs
 
 #r_beans
-Beans
+Feijões
 
 #r_figs
-Figs
+Figos
 
 #r_rice
-Rice
+Arroz
 
 #r_chickpeas
-Chickpeas
+Grão de bico
 
 #r_oil
-Olive oil
+Azeite de Oliva
 
 #r_truffles
-Truffles
+Trufas
 
 #r_javelins
-Javelins
+Dardos
 
 #r_bows
-Bows
+Arcos
 
 #r_longbows
-Longbows
+Arcos Longos
 
 #r_crossbows
-Crossbows
+Bestas
 
 #r_arquebuses
 Arquebuses
 
 #r_muskets
-Muskets
+Mosquetes
 
 #r_spears
-Spears
+Lanças
 
 #r_shortswords
-Shortswords
+Espadas
 
 #r_longswords
-Longswords
+Espadas Longas
 
 #r_battleaxes
-Battleaxes
+Machados de Guerra
 
 #r_warhammers
-Wrhammers
+Martelos de Guerra
 
 #r_halberds
-Halberds
+Alabardas
 
 #r_shield_wood
-Wooden shields
+Escudos de madeira
 
 #r_shield_bronze
-Metal shields
+Escudos de metal
 
 #r_shield_heavy
-Heavy shields
+Escudos pesados
 
 #r_shield_steel
-Steel shields
+Escudos de aço
 
 #r_helmetlight
-Light helmets
+Elmos leves
 
 #r_helmetheavy
-Heavy helmets
+Elmos pesados
 
 #r_heaumes
 Heaumes
 
 #r_armorpadded
-Padded armors
+Gambeson
 
 #r_armorbrigand
-Brigandines
+Brigantina
 
 #r_cuirass
-Cuirasses
+Couraças
 
 #r_armorscale
-Scale armors
+Armaduras de escamas
 
 #r_amorlaminar
-Laminar armors
+Armaduras segmentada
 
 #r_amorchain
-Chainmails
+Cotas de Malha
 
 #r_amorplate
-Plate armors
+Armaduras de Placas
 
 #r_pottery
-Pottery
+Cerâmica
 
 #r_furniture
-Furniture
+Mobília
 
 #r_rugs
-Rugs
+Tapetes
 
 #r_barley
-Barley
+Cevada
 
 #r_beer
-Beer
+Cerveja
 
 #r_grapes
-Grapes
+Uvas
 
 #r_wine
-Wine
+Vinho
 
 #r_apples
-Apples
+Maçãs
 
 #r_cider
-Cider
+Cidra
 
 #r_sugarcane
-Sugarcane
+Cana-de-açúcar
 
 #r_rum
 Rum
 
 #r_goats
-Goats
+Cabras
 
 #r_papyrus
-Papyrus
+Papiro
 
 #r_paper
-Paper
+Papel
 
 #r_olives
-Olives
+Olivas
 
 #r_building
-Building
+Construção
 
 #r_plans
-Plans
+Planos
 
 #r_taxcollect
-Tax collection
+Arrecadação de impostos
 
 #r_cmnty
-Community
+Comunidade
 
 #r_tavern
-Tavern
+Taverna
 
 #r_theater
-Theater
+Teatro
 
 #r_doctor
-Doctor
+Médicos
 
 #r_justice
-Justice
+Justiça
 
 #r_cargo
-Cargo
+Carga
 
 #r_clay
-Clay
+Argila
 
 #r_water
-Water
+Água
 
 #r_trading
-Trading
+Comércio
 
 #r_school
-School
+Escola
 
 #r_wash
-Laundry
+Lavanderia
 
 #r_baths
-Baths
+Banhos
 
 #r_scribe
-Scribe
+Escriba
 
 #r_academ
 Academia
 
 #r_guard
-Guarding
+Proteção
 
 #r_bear
-Bears
+Ursos
 
 #r_wolf
-Wolves
+Lobos
 
 #r_obsidian
-Obsidian
+Obsidiana
 
 #r_topilli
 Topillis
@@ -467,7 +467,7 @@ Topillis
 Macanas
 
 #r_library
-Library
+Biblioteca
 
 #r_dates
-Dates
+Tâmaras
