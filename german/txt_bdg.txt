@@ -1,0 +1,779 @@
+﻿#bdg_hous_n
+Unterkunft
+
+#bdg_hous_dscr
+Unterbringung der Bevölkerung, Verbesserung ihrer Gesundheit und Lebensqualität.
+
+#bdg_prod_n
+Produktionsgebäude
+
+#bdg_prod_dscr
+Nutzt Geländekacheln, um Rohmaterial zu produzieren.
+
+#bdg_ind_n_n
+Industriegebäude
+
+#bdg_ind_dscr
+Produziert Waren aus vorhandenen Ressourcen.
+
+#bdg_srv_n
+Service
+
+#bdg_srv_dscr
+Produziert eine Dienstleistung (eine nichtmaterielle Ressource, die nicht gelagert werden kann).
+
+#bdg_stor_n
+Aufbewahrung
+
+#bdg_stor_dscr
+Lagert Ressourcen.
+
+#bdg_merch_n
+Verteilung
+
+#bdg_merch_dscr
+Vertriebspartner erhalten Ressourcen aus jedem produzierenden Gebäude oder Lager und stellen sie der Bevölkerung zur Verfügung. Sie können hohe Mengen an Ressourcen verteilen, aber die Händler behalten einen Teil der Verkaufseinnahmen für sich selbst, was die Kosten für den Produzenten reduziert.
+
+#bdg_roads_n
+Straßen
+
+#bdg_roads_dscr
+Verbessert die Bewegung der Einheiten auf diesem Kachel und gewährt Boni für verbundene Gebäude.
+
+#bdg_walls_n
+Wände
+
+#bdg_walls_dscr
+Defensive Struktur, die verhindert, dass alle Einheiten passieren.
+
+#bdg_deco_n
+Dekorativ
+
+#bdg_deco_dscr
+Rein kosmetische Elemente, um das Aussehen Ihrer Stadt zu verbessern.
+
+#bdg_towers_n
+Wehrtürme
+
+#bdg_towers_dscr
+In den Verteidigungstürmen sind Soldaten unabhängig von Garnisonen und Formationen beschäftigt. Sie können nur auf Plattformen gebaut werden. Sie bieten Feuerunterstützung bei Kämpfen.
+
+#bdg_battlem_n
+Zinnen
+
+#bdg_battlem_dscr
+Zinnen können nur auf Plattformen gebaut werden. Sie bieten einen Kampfbonus für Einheiten, die während der Kämpfe auf der Plattform stehen.
+
+#bdg_annex_n
+Anhang
+
+#bdg_annex_dscr
+Anhänge sind Gebäude, die zu einem anderen gehören und ihm zusätzliche Produktionsquellen oder Vertriebskapazitäten bieten.
+
+#bdg_pltf_n
+Plattformen
+
+#bdg_pltf_dscr
+Plattformen sind eine pigmentierte Ziegelerhöhung, über die Sie bauen können. Verteidigungsstrukturen wie Türme und Zinnen können nur über Plattformen gebaut werden. Sie sind kostspielig und langsam zu bauen.
+
+#bdg_stairs_n
+Treppe
+
+#bdg_stairs_dscr
+Ermöglicht es Ebern, auf Kacheln mit unterschiedlicher Höhe zuzugreifen. Stellen Sie sie gegen Plattformen oder Klippen, um Zugang zu erhalten. 
+
+#bdg_gates_n
+Tor
+
+#bdg_gates_dscr
+Tore blockieren feindliche Truppen während der Schlacht. Muss angrenzend an eine Plattform im Brückenmodus platziert werden.
+
+#bdg_all
+Alle Gebäude
+
+#txt_cider_n
+Apfelweinmühle
+
+#txt_cider_dscr
+Produziert Apfelwein aus Äpfeln. Apfelwein ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Alkoholen deckt.
+
+#txt_brewery_n
+Brauerei
+
+#txt_brewery_dscr
+Produziert Bier aus Gerste. Bier ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Alkoholen deckt.
+
+#txt_claycamp_n
+Tongewinnung
+
+#txt_claycamp_dscr
+Kann Tonplatten für die Herstellung von Ton nutzen. Muss in einer Reihe von Tonablagerungen platziert werden.
+
+#txt_claypit_n
+Lehmgrube
+
+#txt_claypit_dscr
+Direkt auf Tonplatten legen. Erhöht die Tonproduktion dieser Kacheln.
+
+#txt_clothmk_n
+Tuchmacher
+
+#txt_clothmk_dscr
+Produziert Kleidung aus Textil. Tuch ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Kleidung deckt. 
+
+#txt_gather_n
+Sammellager
+
+#txt_gather_dscr
+Kann wilde landwirtschaftliche Ressourcen nutzen. Muss in den Bereich der Ressourcen gestellt werden. 
+
+#txt_farm_n
+Bauernhof
+
+#txt_farm_dscr
+Kann Felder schaffen, um eine Vielzahl von landwirtschaftlichen Ressourcen zu produzieren. Kann auch natürlich vorhandene in Reichweite nutzen.
+
+#txt_fisher_n
+Fischerschwein
+
+#txt_fisher_dscr
+Kann Wildfische zur Herstellung von frischem Fisch nutzen. Muss am Ufer in Reichweite eines Wildfischplatzes aufgestellt werden.
+
+#txt_grnry_n
+Getreidespeicher
+
+#txt_grnry_dscr
+Kann Nahrungsressourcen speichern.
+
+#txt_hslum_n
+Slum
+
+#txt_hslum_dscr
+Slums, die nichts kosten und automatisch entstehen, wenn die Eber keine freie Wohnung finden können. Sie bieten eine geringe Lebensqualität und keine Gesundheit. 
+
+#txt_hrustc_n
+Haus
+
+#txt_hrustc_dscr
+Rustikale Wohnungen, die eine niedrige Lebensqualität und Gesundheitsboni bieten.
+
+#txt_hconf_n
+Großes Haus
+
+#txt_hconf_dscr
+Bequeme Wohnungen, die eine hohe Lebensqualität und Gesundheitsboni bieten.
+
+#txt_hapt_n
+Appartement
+
+#txt_hapt_dscr
+Mehrstöckige Gebäude, die Wohnungen für mehrere Haushalte bereitstellen.
+
+#txt_hunter_n
+Jäger
+
+#txt_hunter_dscr
+Kann Wildtiere zur Herstellung von frischem Fleisch und Leder nutzen. Muss in Reichweite eines Wildtierplatzes platziert werden.
+
+#txt_flint_n
+Feuerstein-Sammler
+
+#txt_flint_dscr
+Erzeugt Feuersteine aus Kieselsteinen. Feuersteine können dann von den Werkzeugmachern zur Herstellung von Steinwerkzeugen verwendet werden.
+
+#txt_platf1_n
+Holzplattform
+
+#txt_platf1_dscr
+Eine preiswerte Plattform mit geringem Widerstand. Nützlich, um billige Verteidigungen und Brücken zu bauen.
+
+#txt_platf2_n
+Steinplattform
+
+#txt_platf2_dscr
+Eine solide Plattform, die nützlich ist, um widerstandsfähige Wände herzustellen.
+
+#txt_dstrplatf_n
+Plattformen zerstören
+
+#txt_dstrplatf_dscr
+Ordnet die Zerstörung ausgewählter Plattformen an.
+
+#txt_tow1_n
+Wachturm
+
+#txt_tow1_dscr
+Ein billiger, aber schwacher Verteidigungsturm aus lederbezogenem Holz. Feuert Pfeile.
+
+#txt_tow2_n
+Holzturm
+
+#txt_tow2_dscr
+Ein Verteidigungsturm aus dicken Holzbalken. Feuert Pfeile.
+
+#txt_tow3_n
+Steinturm
+
+#txt_tow3_dscr
+Steintürme sind viel widerstandsfähiger als ihre hölzernen Gegenstücke. Feuert Pfeile.
+
+#txt_tow4_n
+Schwerer Turm
+
+#txt_tow4_dscr
+Dieser Turm ist aus massiven Steinblöcken gebaut, um den Widerstand gegen feindliche Artillerie zu erhöhen. Feuert Pfeile.
+
+#txt_batlm1_n
+Zinnen aus Holz
+
+#txt_batlm1_dscr
+Grobe hölzerne Zinnen, die eine grundlegende Deckung vom Feindesfeuer bis hin zu Einheiten bieten, die während der Kämpfe auf der Plattform stehen.
+
+#txt_batlm2_n
+Steinzinnen
+
+#txt_batlm2_dscr
+Steinzinnen bieten Schutz vor feindlichem Feuer und Einheiten, die während der Kämpfe auf der Plattform stehen.
+
+#txt_batlm3_n
+Maschinengeschliffene Steinmauern
+
+#txt_batlm3_dscr
+Schwere Zinnen aus massiven Steinblöcken mit Machikolationen, die eine ausgezeichnete Abdeckung vom feindlichen Feuer bis hin zu Einheiten bieten, die während der Schlachten auf der Plattform stehen.
+
+#txt_batlm4_n
+Bretterzaun
+
+#txt_batlm4_dscr
+Ausgezeichnete Deckung, aber schwächer als Steinzinnen.
+
+#txt_market_n
+Marktstand
+
+#txt_market_dscr
+Marktstände verteilen die Produktion des Gebäudes, zu dem der Stand gehört, an die Bevölkerung. Das generierte Einkommen geht vollständig an die Produzenten, aber es nimmt einen Arbeiter aus der Produktion, um den Stand zu verwalten.
+
+#txt_field_n
+Feld
+
+#txt_field_dscr
+Die Felder sind nur durch den Bauernhof bearbeitbar, zu dem sie gehören. Sie produzieren eine breite Palette von landwirtschaftlichen Produkten.
+
+#txt_road1_n
+Schotterstraße
+
+#txt_road1_dscr
+Eine einfache Straße und frei zu bauen.
+
+#txt_road2_n
+Holzstraße
+
+#txt_road2_dscr
+Eine Straße mit Holzstücken, die mit Schmutz bedeckt sind, um den Schlamm bei Regenwetter zu begrenzen.
+
+#txt_road3_n
+Kopfsteinpflasterstraße
+
+#txt_road3_dscr
+Eine Straße, die mit rohen Kopfsteinpflastern gepflastert ist.
+
+#txt_road4_n
+Steinstraße
+
+#txt_road4_dscr
+Eine teure Straße aus großen Steinblöcken.
+
+#txt_road5_n
+Gepflasterte Straße
+
+#txt_road5_dscr
+Eine Straße aus kleinen Steinblöcken, die künstlerisch gestaltet sind.
+
+#txt_road6_n
+Mosaikplatz
+
+#txt_road6_dscr
+Ein ausgefallener Boden aus bunten kleinen Fliesen aus Stein, Glas und anderen Materialien.
+
+#txt_road7_n
+Marmorplatz
+
+#txt_road7_dscr
+Ein ausgefallener Boden aus glänzenden Marmorblocks.
+
+#txt_road8_n
+Kalksteinstraße
+
+#txt_road8_dscr
+Eine teure Straße aus großen weißen Kalksteinblöcken.
+
+#txt_road9_n
+Sandsteinstraße
+
+#txt_road9_dscr
+Eine teure Straße aus großen Sandsteinblöcken.
+
+#txt_fence1_n
+Holzzaun
+
+#txt_fence1_dscr
+Rustikale Zäune aus Holz.
+
+#txt_fence2_n
+Zaun
+
+#txt_fence2_dscr
+Dekorative Zäune, die Gärten und Alleen würdig sind.
+
+#txt_fence3_n
+Steinzaun
+
+#txt_fence3_dscr
+Rustikale Zäune aus Stein.
+
+#txt_garden1_n
+Blumengärten
+
+#txt_garden1_dscr
+Dekorative Gärten mit Blumen.
+
+#txt_garden2_n
+Baumgärten
+
+#txt_garden2_dscr
+Dekorative Gärten mit Bäumen.
+
+#txt_grass_n
+Rasen
+
+#txt_grass_dscr
+Eine mit sorgfältig gepflegtem Gras bedeckte Bodenfläche für ästhetische und Freizeitzwecke.
+
+#txt_blumenbeet_n
+Blumenbeet
+
+#txt_flowerbed_dscr
+Ein schlichter Blumenpatch zur Dekoration.
+
+#txt_woodc_n
+Holzfäller
+
+#txt_woodc_dscr
+Holzfäller können die meisten verfügbaren Bäume im Sortiment zur Holzproduktion nutzen.
+
+#txt_merchant_n
+Kaufmann
+
+#txt_merchant_dscr
+Spezialisierte Distributoren, die der Bevölkerung eine wählbare Ressource zur Verfügung stellen.
+
+#txt_mine_n
+Bergbaulager
+
+#txt_mine_dscr
+Kann Geländekacheln mit speziellen Lagerstätten nutzen, um ein breites Spektrum an Rohstoffen zu produzieren, insbesondere durch die Nutzung der Anhänge, sofern vorhanden.
+
+#txt_mineshaft_n
+Bergwerkschacht
+
+#txt_mineshaft_dscr
+Wesentlicher Anhang des Minenlagers. Mining-Schächte erhöhen die Produktion des Minenlagers, dem sie angehören. Muss über Fliesen mit gültigen Einzahlungen gebaut werden.
+
+#txt_paddock_n
+Paddock
+
+#txt_paddock_dscr
+Paddocks ermöglichen die Lagerung von Viehbeständen.
+
+#txt_elephantpen_n
+Elefantenfederhalter
+
+#txt_elephantpen_dscr
+Elefantenställe ermöglichen die Lagerung einzelner großer Tiere wie Elefanten.
+
+#txt_potter_n
+Töpfer
+
+#txt_potter_dscr
+Töpfer veredeln Ton zu Keramik. Keramik ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Einrichtungsgegenständen deckt.
+
+#txt_stonecut_n
+Steinmetzlager
+
+#txt_stonecut_dscr
+Kann Felskacheln in Reichweite nutzen, um Rohstein zu produzieren oder Steinbruchanhänge zu bauen, um Steinblöcke oder spezialisierte Blöcke über Kacheln mit gültigem Gesteinstyp herzustellen.
+
+#txt_quarry_n
+Steinbruch
+
+#txt_quarry_dscr
+Steinbrüche sind ein wesentlicher Bestandteil des Steinmetzhandwerks und können Steinblöcke oder spezielle Blöcke über speziellen Gesteinsarten herstellen.
+
+#txt_sawmill_n
+Sägewerk
+
+#txt_sawmill_dscr
+Das Sägewerk veredelt Rohholz zu Holzbohlen, einem Material, das für den Bau vieler Gebäude benötigt wird.
+
+#txt_tannery_n
+Gerberei
+
+#txt_tannery_dscr
+Gerbereien veredeln Leder zu Ledergewebe, einer verteilbaren Ressource, die den Bedarf der Bevölkerung an Kleidung deckt.
+
+#txt_toolmk_n
+Werkzeugmacher
+
+#txt_toolmk_dscr
+Werkzeugmacher stellen verschiedene Arten von Werkzeugen her. Werkzeuge werden für viele Dinge verwendet, insbesondere als Baumaterial.
+
+#txt_items_n
+Items
+
+#txt_items_dscr
+Diese Ressourcen werden auf dem Boden liegen gelassen und verfallen mit der Zeit, es sei denn, sie werden schnell in einem geeigneten Lagerraum gelagert!
+
+#txt_storegrnd_n_n
+Bodenlagerung
+
+#txt_storegrnd_dscr
+Der Boden ist als Lagerfläche gekennzeichnet. Es ist kostenlos, aber unbewacht und hat keine hohe Speicherkapazität pro Kachel.
+
+#txt_warehouse_n
+Lager
+
+#txt_warehouse_dscr
+Lagerhäuser können alle Arten von Ausgangsmaterialien lagern. Sie sind geardet und können viel mehr Ressourcen speichern als Bodenlager.
+
+#txt_weapmk_n
+Waffenschmied
+
+#txt_weapmk_dscr
+Waffenschmiede können eine breite Palette von Waffen und Rüstungen herstellen, die zur Ausrüstung und Rekrutierung von Truppen verwendet werden.
+
+#txt_weaver_n
+Weberin
+
+#txt_weaver_dscr
+Die Weberin veredelt verschiedene Rohstoffe (Baumwolle, Flachs, Wolle...) zu Textilien. Das Textil kann dann für verschiedene Dinge wie die Stoffherstellung verwendet werden.
+
+#txt_stairs1_n
+Holztreppe
+
+#txt_stairs1_dscr
+Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen. 
+
+#txt_stairs2_n
+Steintreppe
+
+#txt_stairs2_dscr
+Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen. 
+
+#txt_gate1_n
+Holztor
+
+#txt_gate1_dscr
+Ein billiges Holztor.
+
+#txt_gate2_n
+Starkes Tor
+
+#txt_gate2_dscr
+Ein starkes Tor aus Holz, das von Bronze gehalten wird. 
+
+#txt_gate3_n
+Verstärktes Tor
+
+#txt_gate3_dscr
+Ein massives, mit Eisen verstärktes Tor.
+
+#txt_cattle_n
+Viehzucht
+
+#txt_cattle_dscr
+Die Rinderfarmen ermöglichen es Ihnen, Weiden zu schaffen, die Rinder produzieren.
+
+#txt_pastr_n
+Weide
+
+#txt_pastr_dscr
+Ein geschlossenes Gebiet, in dem Rinder sich ernähren und vermehren können.
+
+#txt_pastrw_n
+Wollweide
+
+#txt_pastrw_dscr
+Weiden von wolleproduzierenden Tieren, die regelmäßig geschoren werden, um ihre Wolle zu sammeln.
+
+#txt_builder_n
+Bauherren
+
+#txt_builder_dscr
+Viele Gebäude können nur von professionellen Teams von Bauherren gebaut werden.
+
+#txt_metcher_n
+Metzger
+
+#txt_metcher_dscr
+Schlachtung von lebenden Rindern zur Herstellung von frischem Fleisch.
+
+#txt_well_n
+Nun
+
+#txt_well_dscr
+Entzieht dem Boden Wasser.
+
+#txt_watercol_n
+Wasserkollektor
+
+#txt_watercol_dscr_dscr
+Ein Punkt, an dem Menschen frisches Wasser aus Flüssen oder Seen sammeln können.
+
+#txt_landock_n
+Landdocks
+
+#txt_landock_dscr
+Docks für Landkarawanen, die Waren durch die Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind.
+
+#txt_dock_n
+Docks
+
+#txt_dock_dscr
+Docks für Handelsschiffe, die Waren durch Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind. 
+
+#txt_theater_n
+Theater
+
+#txt_theater_dscr
+Bietet den Porcos Unterhaltung.
+
+#txt_badhs_n
+Öffentliche Bäder
+
+#txt_baths_dscr
+Ein Ort der Begegnung und Entspannung, der auch für mehr Gesundheit sorgt.
+
+#txt_tavern_n
+Taverne
+
+#txt_tavern_dscr
+Ein Ort der geselligen Runde zum Trinken und Feiern.
+
+#txt_forum_n
+Forum
+
+#txt_forum_dscr
+Ein Ort der Begegnung, an dem Fragen der Gemeinschaft diskutiert werden.
+
+#txt_furnmkr_n
+Möbelhersteller
+
+#txt_furnmkr_dscr_dscr
+Produziert Möbel, eine verteilbare Ressource, die den Bedarf der Bevölkerung an Mobiliar deckt.
+
+#txt_carpetmkr_n_n
+Teppichhersteller
+
+#txt_carpetmkr_dscr_dscr
+Produziert Teppiche, eine verteilbare Ressource, die den Bedarf der Bevölkerung an Einrichtungsgegenständen deckt.
+
+#txt_mudcamp_n
+Bodenbergmann
+
+#txt_mudcamp_dscr
+Ein einfaches Lager, in dem die Arbeiter nutzbare Bodenarten wie Schlamm, Torf oder Asche sammeln und sammeln.
+
+#txt_brickwk_n
+Ziegelwerk
+
+#txt_brickwk_dscr
+Produziert Ziegel, ein Grundbaustoff.
+
+#txt_kiln_n_n
+Ofen
+
+#txt_kiln_dscr
+Produziert verschiedene Baumaterialien.
+
+#txt_fundry_n
+Gießerei
+
+#txt_fundry_dscr
+Veredelt metallische Erze zu Barren.
+
+#txt_steel_n
+Stahlwerk
+
+#txt_steel_dscr1
+Produziert Stahl durch Aufkohlen von Roheisen durch Schmieden.
+
+#txt_steel_dscr2
+Produziert Stahl durch Entkohlung von Gusseisen durch Schmelzen.
+
+#txt_charcl_n
+Holzkohleklammern
+
+#txt_charcl_dscr
+Verkohlt Holz zu Holzkohle.
+
+#txt_archtct_n
+Architekt
+
+#txt_archtct_dscr
+Erstellt die Dienstpläne, die für wichtige Denkmäler erforderlich sind.
+
+#txt_windwheel_n
+Windrad
+
+#txt_windwheel_dscr
+Stellt dem Gebäude mechanische Energie zur Verfügung und verbessert seine Effizienz.
+
+#txt_waterwheel_n
+Wasserrad
+
+#txt_waterwheel_dscr
+Stellt dem Gebäude mechanische Energie zur Verfügung und verbessert seine Effizienz.
+
+#txt_wash_n
+Waschküche
+
+#txt_wash_dscr
+Ein Ort, an dem die Menschen ihre Wäsche waschen können.
+
+#txt_taxcol_n
+Steuereintreiber
+
+#txt_taxcol_dscr_dscr
+Reduziert die Verschwendung, indem sichergestellt wird, dass die Bevölkerung ihre Steuern korrekt bezahlt.
+
+#txt_scrib_n
+Schreiber
+
+#txt_scrib_dscr
+Schreiber im Dienste des Staates helfen, den Überblick über administrative Angelegenheiten zu behalten.
+
+#txt_eldcounc_n
+Ältestenrat
+
+#txt_eldcounc_dscr
+Ein Ältestenrat zur Lösung von Konflikten in der Stadt.
+
+#txt_magistrt_n
+Magistrat
+
+#txt_magistrt_dscr
+Reduziert Konflikte in der Bevölkerung.
+
+#txt_school_n
+Schule
+
+#txt_school_dscr
+Die Schule erhöht die Intelligenz der Bevölkerung.
+
+#txt_weingut_n
+Weinkeller
+
+#txt_weingut_dscr
+Erzeugt Wein aus Trauben.
+
+#txt_oilpress_n
+Olivenpresse
+
+#txt_oilpress_dscr
+Produziert Olivenöl aus Oliven.
+
+#txt_bakery_n
+Bäckerei
+
+#txt_bakery_dscr
+Macht Brot aus Mehl.
+
+#txt_mill_n
+Fräsen
+
+#txt_mill_dscr
+Zerkleinert Getreide zur Herstellung von Mehl, das leichter zu lagern ist und zur Herstellung von Brot verwendet wird.
+
+#txt_libr_n
+Bibliothek
+
+#txt_libr_dscr
+Speichert Wissen.
+
+#txt_eldrcncl_ncl_n
+Stammesrat
+
+#txt_eldrcncl_dscr_dscr
+Ein Rat von Familienführern, der versucht, Konflikte zwischen den Stämmen zu lösen und eine frühe Rechtsform bietet.
+
+#txt_magistr_n
+Magistrat
+
+#txt_magistr_dscr
+Ein Dienstleistungsgebäude, das den Gerechtigkeitsservice für die Bevölkerung bereitstellt und Konflikte reduziert.
+
+#txt_paper_n
+Papierfabrik
+
+#txt_paper_dscr
+Produziert Papier
+
+#txt_rum_n
+Rumery
+
+#txt_rum_dscr
+Eine Destillerie, die Rum aus Zuckerrohr herstellt.
+
+#txt_trmarket_n
+Markt
+
+#txt_trmarket_dscr
+Ermöglicht die Erstellung von Handelsangeboten für den Warenaustausch mit anderen Gebieten.
+
+#txt_academ_n
+Akademien
+
+#txt_acedem_dscr
+Weise und sachkundige Schweine, die Naturwissenschaften und Kunst studieren, um Bildung und Kultur zu fördern und zu Forschungsprojekten beizutragen.
+
+#txt_doctor_n
+Arzt
+
+#txt_doctor_dscr
+Erhöht die Gesundheit der Bevölkerung.
+
+#txt_ftower1
+Primitiver Turm
+
+#txt_ftower1_dscr
+Ein primitiver Verteidigungsturm aus Holz. Feuert Speere ab.
+
+#txt_wall1_n
+Palissade
+
+#txt_wall1_dscr
+Eine einfache Verteidigungsmauer aus Holz.
+
+#txt_wall2_n
+Lehmziegelwand
+
+#txt_wall2_dscr
+Eine einfache Verteidigungsmauer aus Lehmziegeln, schwächer, aber billiger in der Instandhaltung als eine Palisade.
+
+#txt_wall3_n
+Kopfsteinpflasterwand
+
+#txt_wall3_dscr
+Eine einfache Verteidigungsmauer aus Kopfsteinpflaster, die mit rohem Mauerwerk zusammengehalten wird.
+
+#txt_wall4_n
+Ziegelwand
+
+#txt_wall4_dscr
+Eine einfache Verteidigungsmauer aus gebrannten Ziegeln, stärker als Lehmziegel.
+
+#txt_wall5_n
+Steinblöcke Wand
+
+#txt_wall5_dscr
+Eine massive Verteidigungsmauer aus Steinblöcken.
