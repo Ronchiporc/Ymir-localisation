@@ -3,13 +3,13 @@
 Besitze [x] oder mehr Territorien
 
 #cond_prodsupto
-Produzieren Sie mindestens [x] von [y] im Territorium.
+Produziere mindestens [x] von [y] im Territorium.
 
 #cond_incrfoodprod
-Steigern Sie Ihre Nahrungsmittelproduktion um mindestens [x].
+Steiger Deine Nahrungsmittelproduktion um mindestens [x].
 
 #cond_ownbdg_class
-Haben Sie [x] Gebäude der Klasse [y] auf dem Territorium.
+Habe [x] Gebäude der Klasse [y] auf dem Territorium.
 
 #cond_cmplted_ev
 Abgeschlossene Veranstaltung [x]
@@ -39,10 +39,10 @@ Landeswährung niedriger als [x]
 Landeswährung höher als [x]
 
 #cond_notech
-Haben Sie nicht die Kenntnisse von '[x]''.
+Habe nicht die Kenntnisse von '[x]''.
 
 #cond_hastech
-Haben Sie das Wissen über '[x]''.
+Habe das Wissen über '[x]''.
 
 #cond_popnb_inf
  [y] unterlegen gegenüber [x]
@@ -87,7 +87,7 @@ Bevölkerungskonflikt höher als [x]
 Verbrauch von [x] höher als [y]
 
 #cond_natres
-Haben Sie eine natürliche Ressource von [x].
+Habe eine natürliche Ressource von [x].
 
 #cond_resaxs_inf
  [y] Zugriff unter [x]%.
@@ -180,10 +180,10 @@ Eine unbefriedigte Nachfrage von [y] von weniger als [x].
 Eine unbefriedigte Nachfrage von [y] höher als [x].
 
 #cond_civic
-Haben Sie die bürgerliche '[x]' aktiviert?
+Habe die bürgerliche '[x]' aktiviert?
 
 #cond_civeff
-Haben Sie den zivilisatorischen Effekt: '[x]''.
+Habe den zivilisatorischen Effekt: '[x]''.
 
 #cond_militpow_inf
 Die gesamte militärische Macht ist niedriger als [x].
@@ -216,22 +216,22 @@ char Geschwindigkeit höher als [x]
 Zugriff auf [x] haben
 
 #effect_givres
-Empfangen Sie [y] [x]
+Empfange [y] [x]
 
 #effect_takeres
-Verlieren Sie [y] [x]
+Verliere [y] [x]
 
 #effect_globgivres
-Empfangen Sie [y] [x]
+Empfange [y] [x]
 
 #effect_givfood
-Erhalten Sie [x] von Nahrung
+Erhalte [x] von Nahrung
 
 #effect_trigev
 Löst ein Ereignis aus
 
 #effect_givcoin
-Erhalten Sie [x] Münzen
+Erhalte [x] Münzen
 
 #effect_setcoin
 Schatzkammer auf [x] Münzen gesetzt
@@ -246,10 +246,10 @@ Freischaltet die Technologie: [x]
 Die Formation wird sofort von [x] Banditen angegriffen.
 
 #effect_invloss
-Verlieren Sie [x]% des Inventars der Formation.
+Verliere [x]% des Inventars der Formation.
 
 #effect_invcatloss
-Verlieren Sie [x]% des [y]-Inventars der Formation.
+Verliere [x]% des [y]-Inventars der Formation.
 
 #effect_givloot
 Du erhältst [x] Beute.
@@ -276,7 +276,7 @@ Die Formation ist verloren.
 Der Formation schließt sich [y] [x] an.
 
 #effect_agrifood
-Erhalten Sie [x] von landwirtschaftlichen Lebensmitteln
+Erhalte [x] von landwirtschaftlichen Lebensmitteln
 
 #effect_spawnunit
  [x] [z] [y] [y] wird angezeigt.
@@ -294,10 +294,10 @@ Auszeichnungen [x] Siegespunkte.
 Familien verlassen das Gebiet.
 
 #effect_gividea
-Erhalten Sie eine neü Idee: [x]
+Erhalte eine neü Idee: [x]
 
 #effect_givreg
-übernehmen Sie die Kontrolle über das Gebiet.
+übernimm die Kontrolle über das Gebiet.
 
 #effect_fac_trigvt
 Löst eine Abstimmung von Untergebenen aus, um einen Nachfolger für die Position dieses Charakters in der Nation zu wählen.
@@ -339,7 +339,7 @@ Das Spiel ist aus!
 Das Spiel ist beendet und sein Gewinner ist die Nation '[x]', die als erste[p1] Siegpunkte erreicht hat und eine Gesamtpunktzahl von[p2] hat.
 
 #event_gameovr_2
-Beachte, dass das Spiel fortgesetzt werden kann und Sie weiterspielen können, aber die Ergebnisse und Ränge werden nicht mehr aktualisiert und es wird keine weiteren Siegesmissionen geben.
+Beachte, dass das Spiel fortgesetzt werden kann und du weiterspielen kannst, aber die Ergebnisse und Ränge werden nicht mehr aktualisiert und es wird keine weiteren Siegesmissionen geben.
 
 #event_rsk_upris
 Rebellionsrisiko in [x]
@@ -363,7 +363,7 @@ Die Bevölkerung von [x] revoltiert gegen uns und Rebellen versuchen, die Kontro
 Revolte in [x] vereitelt
 
 #event_br_revolt_1
-Die Bevölkerung von [x] hat sich wegen geringer Loyalität gegen Ihre Regierung aufgelehnt, und Rebellen haben erfolglos versucht, die Kontrolle über die Stadt zu übernehmen.
+Die Bevölkerung von [x] hat sich wegen geringer Loyalität gegen Deine Regierung aufgelehnt, und Rebellen haben erfolglos versucht, die Kontrolle über die Stadt zu übernehmen.
 
 #event_br_revolt_2
 [p2]% der Bevölkerung nahmen Waffen und rebellierten, einschließlich[p4] Soldaten der örtlichen Garnison, die zu den Rebellen übergelaufen waren. Loyalistische Soldaten sahen sich insgesamt[p3] Rebellen gegenüber.
@@ -411,7 +411,7 @@ Angriff auf [x] von [y]
 Wir greifen die feindliche Armee von '[x]' von [y] in einen Pitchkampf mit[p2] Soldaten ein.
 
 #event_Ab_pitch_2
-Sie stehen uns mit[p3] Soldaten gegenüber.
+Sie stehen uns mit [p3] Soldaten gegenüber.
 
 #event_Abr_pitch
 Angegriffen [x] von [y]
@@ -447,7 +447,7 @@ Invasion [x]
 Wir starten einen Angriff auf [x] mit[p2] Soldaten, um einzudringen und die Kontrolle über das Territorium zu übernehmen.
 
 #event_Ab_invad_2
-Um erfolgreich zu sein, müssen wir alle Feinde und Verteidiger des Territoriums eliminieren. Sie verteidigen es mit[p3] Soldaten.
+Um erfolgreich zu sein, müssen wir alle Feinde und Verteidiger des Territoriums eliminieren. Sie verteidigen es mit [p3] Soldaten.
 
 #event_Abr_invad_1
 Wir starteten einen Angriff auf [x] mit[p2] Soldaten, um in das Gebiet einzudringen und die Kontrolle zu übernehmen.
@@ -480,7 +480,7 @@ Angriff [x]
 Wir starten einen Angriff auf [x] mit[p2] Soldaten, um alle feindlichen Kräfte im Gebiet zu eliminieren.
 
 #event_Ab_elim_2
-Um erfolgreich zu sein, müssen wir alle Feinde und Verteidiger des Territoriums eliminieren. Unsere Truppen werden vorrangig alle feindlichen Truppen in Präsenz bringen. Auf dem Weg dorthin kann es zu einer kleinen Plünderung kommen, wenn sich die Gelegenheit ergibt. Sie werden das Gebiet verlassen, sobald sie fertig sind. Sie verteidigen es mit[p3] Soldaten.
+Um erfolgreich zu sein, müssen wir alle Feinde und Verteidiger des Territoriums eliminieren. Unsere Truppen werden vorrangig alle feindlichen Truppen in Präsenz bringen. Auf dem Weg dorthin kann es zu einer kleinen Plünderung kommen, wenn sich die Gelegenheit ergibt. Sie werden das Gebiet verlassen, sobald sie fertig sind. Sie verteidigen es mit [p3] Soldaten.
 
 #event_Abr_elim
 Angriff von [x]
@@ -489,7 +489,7 @@ Angriff von [x]
 Wir starteten einen Angriff auf [x] mit[p2] Soldaten, um alle Feinde im Gebiet zu eliminieren.
 
 #event_Abr_elim_2
-Sie verteidigten es mit[p3] Soldaten.
+Sie verteidigten es mit [p3] Soldaten.
 
 #event_Db_elim
  [y] greift an [x]
@@ -498,7 +498,7 @@ Sie verteidigten es mit[p3] Soldaten.
  [y] hat einen Angriff auf [x] mit[p3] Soldaten gestartet, um alle unsere Streitkräfte im Gebiet zu eliminieren.
 
 #event_Db_elim_2
-Sie versuchen nicht, das Territorium zu plündern, zu plündern, zu plündern oder einzudringen, sondern nur, unsere Streitkräfte zu bekämpfen und zu eliminieren. Wenn sie erfolgreich sind, werden sie sich dann aus dem Gebiet zurückziehen. Wir haben[p2] Soldaten, die es verteidigen.
+Sie versuchen nicht, das Territorium zu brandschatzen, zu plündern oder einzudringen, sondern nur, unsere Streitkräfte zu bekämpfen und zu eliminieren. Wenn sie erfolgreich sind, werden sie sich dann aus dem Gebiet zurückziehen. Wir haben [p2] Soldaten, die es verteidigen.
 
 #event_Dbr_elim
 Verteidigung von [x] gegen einen Angriff von [y]
@@ -621,13 +621,13 @@ Wir müssen unser gesamtes Staatseinkommen wieder in den grünen Bereich bringen
 Schuldenerlass
 
 #event_confcdebt
-Bestätigen Sie den Schuldenerlass?
+Bestätigst du den Schuldenerlass?
 
 #event_confcdebt_1
-Bist du sicher, dass Sie unsere Schulden für ungültig erklären wollen? 
+Bist du sicher, dass du unsere Schulden für ungültig erklären willst? 
 
 #event_confcdebt_2
-Mit einer Verschuldung von[p1] Münzen und einem BIP von[p2] macht unsere Verschuldung derzeit[p3] % unseres BIP aus: Wenn wir sie annullieren, werden wir in allen unseren Gebieten eine geschätzte Strafe von[p4] Loyalität erleiden und Sie werden etwa[p5] an Ehre verlieren!
+Mit einer Verschuldung von[p1] Münzen und einem BIP von[p2] macht unsere Verschuldung derzeit[p3] % unseres BIP aus: Wenn wir sie annullieren, werden wir in allen unseren Gebieten eine geschätzte Strafe von[p4] Loyalität erleiden und du wirst etwa [p5] an Ehre verlieren!
 
 #event_canceldebt
 Schuldenerlass!
@@ -657,7 +657,7 @@ Negative Legitimität!
 Legitimität ist, wie sehr das Volk das Recht der Autoritätsansprüche deines Staates anerkennt. Ohne sie sind wir nicht nur einem zunehmenden Risiko von Volksaufständen ausgesetzt, sondern unsere Armeen könnten sich auch gegen uns wenden, um unsere illegitime Regierung zu stürzen!
 
 #event_lowlegit_2
-Legitimitätsrichtlinien definieren, welche Ansprüche Sie geltend machen, um Ihr Recht als Führer dieses Staates geltend zu machen. Diese Ansprüche definieren die Bedeutung all der verschiedenen Legitimitätsfaktoren. Um unsere Situation zu verbessern, könnten wir entweder daran arbeiten, die aktüllen Faktoren zu verbessern, oder unsere Legitimitätsansprüche reformieren, um uns auf nützlichere zu verlassen.
+Legitimitätsrichtlinien definieren, welche Ansprüche du geltend machst, um dein Recht als Führer dieses Staates geltend zu machen. Diese Ansprüche definieren die Bedeutung all der verschiedenen Legitimitätsfaktoren. Um unsere Situation zu verbessern, könnten wir entweder daran arbeiten, die aktüllen Faktoren zu verbessern, oder unsere Legitimitätsansprüche reformieren, um uns auf nützlichere zu verlassen.
 
 #event_tribwarn
 Gestohlenes Gebiet
@@ -666,7 +666,7 @@ Gestohlenes Gebiet
 Vorsicht! Durch die Gründung unserer neüsten Siedlung [x] haben wir das Land eines primitiven Stammes erobert, der dort seit Generationen lebt. Sicher, dieses Gebiet sah attraktiv aus, aber wir werden schließlich die Folgen dieser Aktion bezahlen, denn die Einheimischen werden unsere Anwesenheit nicht für immer tolerieren.
 
 #event_tribwarn_2
-Im Moment haben sie nur zugesehen, wie wir aus der Ferne unser Lager aufgeschlagen haben, aber sie kennen diese Länder besser als jeder andere und verschwinden jedes Mal, wenn wir versuchen, uns ihnen zu nähern. Ich fürchte, wir werden nicht in der Lage sein, mit ihnen fertig zu werden, bevor sie sich entscheiden, ärger zu machen..... Wir sollten uns auf einen möglichen überraschungsangriff durch sie vorbereiten. Sie könnten Waffen und Krieger vorbereiten, um uns in diesem Moment aus ihrem Land zu vertreiben! Oder vielleicht ist dieses Land doch nicht die Mühe wert und wir könnten einfach zusammenpacken und sie in Ruhe lassen?
+Im Moment haben sie nur zugesehen, wie wir aus der Ferne unser Lager aufgeschlagen haben, aber sie kennen diese Länder besser als jeder andere und verschwinden jedes Mal, wenn wir versuchen, uns ihnen zu nähern. Ich fürchte, wir werden nicht in der Lage sein, mit ihnen fertig zu werden, bevor sie sich entscheiden, ärger zu machen..... Wir sollten uns auf einen möglichen überraschungsangriff durch sie vorbereiten. du könntest Waffen und Krieger vorbereiten, um uns in diesem Moment aus ihrem Land zu vertreiben! Oder vielleicht ist dieses Land doch nicht die Mühe wert und wir könnten einfach zusammenpacken und sie in Ruhe lassen?
 
 #event_tribreb
 Primitiver Stamm, der sich in [x] auflehnt!
@@ -714,13 +714,13 @@ Du hast uns als Vergeltung den Krieg erklärt.
 Unsere Späher berichten, dass eine Gruppe von etwa[p1] barbarischen Raidern das nahegelegene Gebiet von [x] verlassen hat und sich auf den Weg macht.
 
 #event_brb_raid_2
-Sie könnten bald hier sein und versuchen, unsere Lager schnell zu durchsuchen. Wir müssen unsere Verteidigung vorbereiten! 
+du könntest bald hier sein und versuchen, unsere Lager schnell zu durchsuchen. Wir müssen unsere Verteidigung vorbereiten! 
 
 #event_brb_sack_1
 Unsere Späher berichten, dass ein barbarischer Kriegsverband von etwa[p1] Pocros das nahegelegene Gebiet von [x] verlassen hat und uns entgegenkommt.
 
 #event_brb_sack_2
-Sie könnten bald hier sein und werden angreifen, um alle unsere Verteidigungsanlagen zu überwinden, die das ganze Gebiet plündern! Wir müssen unsere Verteidigung vorbereiten! 
+du könntest bald hier sein und werden angreifen, um alle unsere Verteidigungsanlagen zu überwinden, die das ganze Gebiet plündern! Wir müssen unsere Verteidigung vorbereiten! 
 
 #event_brb_inv
 Ankommende barbarische Eindringlinge!
@@ -729,7 +729,7 @@ Ankommende barbarische Eindringlinge!
 Unsere Späher berichten, dass eine Armee von Barbaren mit etwa[p1] Pocros das nahe gelegene Territorium von [x] verlassen hat und uns entgegenkommt.
 
 #event_brb_inv_2
-Sie könnten bald hier sein und sie scheinen nicht nur zu kommen, um zu plündern, sondern um in unser Land einzudringen! Wir müssen unsere Verteidigung vorbereiten! 
+du könntest bald hier sein und sie scheinen nicht nur zu kommen, um zu plündern, sondern um in unser Land einzudringen! Wir müssen unsere Verteidigung vorbereiten! 
 
 #event_crsh_vict
 Ein vernichtender Sieg!
@@ -924,13 +924,13 @@ Eine Gruppe von Nomaden kam in unser Gebiet von [x]. Sie erzählten ihre Geschic
 In einer Nacht angegriffen, verloren sie den größten Teil ihres Volkes und flohen aus ihrer Heimat, aber erst als es einem ihrer besten Krieger gelang, den Häuptling des feindlichen Stammes zu töten. Seitdem hat sein Sohn geschworen, sie aus Rache zu jagen, egal wohin sie gehen, und sie sind seit vielen Wochen auf der Flucht. 
 
 #ev_asylm_3
-Ihre Verfolger sind nicht weit entfernt, und dein Stamm ist jetzt ihre einzige Hoffnung. Sie betteln um Asyl und Sicherheit und bieten an, ihre Loyalität gegenüber unserem Volk zu bekunden, wenn wir akzeptieren, sie zu schützen. Wenn wir das tun, müssen wir ihre Verfolger bekämpfen! 
+Deine Verfolger sind nicht weit entfernt, und dein Stamm ist jetzt ihre einzige Hoffnung. Sie betteln um Asyl und Sicherheit und bieten an, ihre Loyalität gegenüber unserem Volk zu bekunden, wenn wir akzeptieren, sie zu schützen. Wenn wir das tun, müssen wir ihre Verfolger bekämpfen! 
 
 #ev_asylm_c1
 Biete ihnen Asyl und kämpfe gegen ihre Verfolger.
 
 #ev_asylm_c2
-Fangen Sie diese Flüchtlinge und bieten Sie sie der Justiz ihrer Verfolger für eine Belohnung an.
+Fange diese Flüchtlinge und biete sie der Justiz ihrer Verfolger für eine Belohnung an.
 
 #ev_knowtrav
 Der sachkundige Reisende
@@ -1026,7 +1026,7 @@ Heirdom
  [x] ist jetzt inaktiv und seine Position ist für die Nachfolge bereit. Er hat dich zu seinem Erben ernannt, und du kannst daher sofort seinen Platz innerhalb der Nation einnehmen.
 
 #ev_heirprop_2
-Wenn Sie zustimmen, werden Ihre Positionen sofort getauscht: Sie werden seinen Rang und seine Untergebenen erben, während er deinen erbt und zu deinem eigenen Untergebenen wird. Abhängig von den Privilegien deines neün Titels können Sie ihn dann möglicherweise ganz aus der Nation entfernen, seine Territorien demontieren oder die Hierarchie neu organisieren, um Ihre früheren Untergebenen wiederzürlangen oder ihn weiter nach unten zu bringen.
+Wenn du zustimmst, werden deine Positionen sofort getauscht: Du wirst seinen Rang und seine Untergebenen erben, während er deinen erbt und zu deinem eigenen Untergebenen wird. Abhängig von den Privilegien deines neuen Titels kannst du ihn dann möglicherweise ganz aus der Nation entfernen, seine Territorien demontieren oder die Hierarchie neu organisieren, um Deine früheren Untergebenen wiederzürlangen oder ihn weiter nach unten zu bringen.
 
 #ev_heirprop_c1
 Akzeptieren
@@ -1038,7 +1038,7 @@ Ablehnen
 Zeit zum Abstimmen!
 
 #ev_votesucc_1
- [x], Ihr Vorgesetzter, ist jetzt inaktiv und seine Position ist bereit für die Nachfolge. Es ist an der Zeit abzustimmen, um zu bestimmen, wer unter seinen Untergebenen ausgewählt wird, um ihn zu ersetzen.
+ [x], dein Vorgesetzter, ist jetzt inaktiv und seine Position ist bereit für die Nachfolge. Es ist an der Zeit abzustimmen, um zu bestimmen, wer unter seinen Untergebenen ausgewählt wird, um ihn zu ersetzen.
 
 #ev_votesucc_2
 Sobald ein Nachfolger gewählt ist, wird seine Position sofort mit [x] getauscht und er erbt seinen Rang und seine Untergebenen. Der Vorgänger wird standardmäßig automatisch auf die bisherige Position des neu gewählten Nachfolgers verschoben, wo er dann als Untergebener weiter geführt werden kann (demontiert, ausgeschlossen, ersetzt....).
@@ -1065,7 +1065,7 @@ Sobald ein Nachfolger gewählt ist, wird seine Position sofort mit [x] getauscht
 Während unsere Formation '[x]' von[p2] Porcos durch die Wildnis reiste, passierten sie irgendwann einen kleinen schmalen Pass, der zwischen zwei Hügeln verschachtelt war. Die Sonne war hoch und die Porcos waren es leid, die lange Reise und das Tragen all der Güter, die die Truppe mit sich trug, zu unternehmen.
 
 #ev_xplr_bdts_2
-Kein Wunder, dass eine kleine Gruppe von etwa 20 überfallenen Banditen plötzlich auf beiden Seiten auftauchte und unsere Truppen umgab. Ihr Anführer rückte vorwärts und stellte eine einfache Forderung: "Gib uns allen deine Beute oder sei Speck!". Was sollen wir tun?
+Kein Wunder, dass eine kleine Gruppe von etwa 20 überfallenen Banditen plötzlich auf beiden Seiten auftauchte und unsere Truppen umgab. dein Anführer rückte vorwärts und stellte eine einfache Forderung: "Gib uns allen deine Beute oder sei Speck!". Was sollen wir tun?
 
 #ev_xplr_bdts_c1
 "Wir haben keine Angst vor Pigbanditen!"
@@ -1080,7 +1080,7 @@ Während der Erkundung der Länder stolperte unsere Gruppe '[x]' über die über
 Obwohl viele Dinge mit der Zeit verdorben oder verfallen sind, scheinen einige immer noch in einem guten Zustand zu sein, um für uns von Interesse zu sein. Sollen wir das Dorf durchsuchen und plündern, was wir können?
 
 #ev_xplr_abvil_c1
-"Ja, durchsuchen Sie das verlassene Dorf und lassen Sie uns nehmen, was wir können!"
+"Ja, durchsuche das verlassene Dorf und lass uns nehmen, was wir können!"
 
 #ev_xplr_abvil_c2
 "Nein, lassen wir die Dinge so, wie sie sind, wir haben keine Zeit dafür."
@@ -1122,7 +1122,7 @@ Wir boten ihnen einige unserer Vorräte an, und erst am zweiten Tag tauschten si
 "Schließ dich uns an, wir werden dir ein neüs Zuhause anbieten!"
 
 #ev_xplr_strvtrib_c2
-Wir können uns nicht um diese Leute kümmern. Lassen Sie uns ihnen viel Glück wünschen und weitermachen. 
+Wir können uns nicht um diese Leute kümmern. Lasse uns ihnen viel Glück wünschen und weitermachen. 
 
 #ev_xplr_snakes_1
 Unsere Formation [ x']' überqürte langsam eine scheinbar endlose Ebene, die mit hohem, dichtem Gras bedeckt war, die Höhe eines Porcos, als einer von ihnen einen starken Schmerz an seinen Füßen spürte: Er war von einer bunten Schlange gebissen worden, die schnell im Gras verschwand. Für den armen Bastard konnten wir nichts tun: In wenigen Minuten hatte sich sein Bein verdoppelt und er erlitt einen grausamen Tod.
@@ -1179,7 +1179,7 @@ Das Meer ist kein Ort für einsame Segler. Es ist unversöhnlich und unbarmherzi
 Wer weiß, was mit ihnen passiert ist..... Vielleicht sollten wir beim nächsten Mal eine größere Expedition in Betracht ziehen, wenn wir eine Chance haben wollen!
 
 #ev_xplr_wiseold_1
-Als unsere Expedition '[x]' auf dem Weg in ein neüs unerforschtes Gebiet war, kreuzte sich unser Weg mit einer Gruppe von Porcos in Lumpen. Trotz ihres bescheidenen Aussehens wirkten sie alle gut ausgebildet, voller Sicherheit und Entschlossenheit. Ihr Anführer, ein ehrwürdiges altes Schwein mit einem zottigen Bart, der auf die Knie fällt, präsentierte sich als Philosoph. Er hatte viele Jahre lang durch die Welt gewandert und sich bei jedem, der zuhören wollte, zu seinem Gedanken bekannt.
+Als unsere Expedition '[x]' auf dem Weg in ein neüs unerforschtes Gebiet war, kreuzte sich unser Weg mit einer Gruppe von Porcos in Lumpen. Trotz ihres bescheidenen Aussehens wirkten sie alle gut ausgebildet, voller Sicherheit und Entschlossenheit. dein Anführer, ein ehrwürdiges altes Schwein mit einem zottigen Bart, der auf die Knie fällt, präsentierte sich als Philosoph. Er hatte viele Jahre lang durch die Welt gewandert und sich bei jedem, der zuhören wollte, zu seinem Gedanken bekannt.
 
 #ev_xplr_wiseold_2
 Wir beschlossen, uns für einen Moment zu ihnen zu setzen, und das weise alte Schwein begann, seine Lehre zu präsentieren: Er argumentierte, dass Glück nicht erreicht werden könne, indem man herkömmliche Wünsche wie Reichtum, Macht, Ruhm oder Vergnügen des Fleisches befriedigt. Nach seiner Denkschule könnte nur ein einfaches, von allem Besitz freies Leben unsere Seelen wirklich erfüllen. 
@@ -1245,7 +1245,7 @@ Als unsere Entdecker im Begriff waren zu gehen, wurden die riesigen Dickhäuter 
 Danach schienen die Mahouts unsere Porcos anzubeten und wollten sich uns mit ihrer Herde anschließen.
 
 #ev_xplr_mahout_c1
-Registrieren Sie sie.
+Registriere sie.
 
 #ev_xplr_mahout_c2
 Ablehnen und gehen.
@@ -1296,7 +1296,7 @@ Die meisten von ihnen waren ertrunken, aber einige Porcos konnten noch atmen: Mi
 Füttere die schiffbrüchigen Porcos und melde sie in der Gruppe an.
 
 #ev_xplr_shpwrk_c2
-Plündern Sie das Schiffswrack und seine überlebenden.
+Plündere das Schiffswrack und seine überlebenden.
 
 #ev_xplr_drnkfl_1
 Unsere Expedition '[x]' stieß auf einen kleinen nomadischen Stamm. Die Mitglieder dieses Stammes waren sehr freundlich und einladend. Noch nie hatten unsere Entdecker so freundliche Kerle getroffen. 
@@ -1308,7 +1308,7 @@ Nach ein paar angenehmen Tagen in ihrer Gesellschaft mussten unsere Porcos endli
 Während der Feierlichkeiten enthauptete einer unserer Porcos, ermutigt durch Alkohol, den goldenen Kopf der Statü. Dies löste beim Stamm große Empörung aus, und der Dieb wurde sofort angeheftet und für dieses große Sakrileg zum Tode verurteilt.
 
 #ev_xplr_drnkfl_c1
-Lassen Sie die Nomaden deinen Porco ausführen und gehen Sie.
+Lassen Sie die Nomaden Ihren Porco hinrichten und gehe.
 
 #ev_xplr_drnkfl_c2
 Kämpfe gegen die Nomaden und befreie deinen betrunkenen Narren.
@@ -1317,7 +1317,7 @@ Kämpfe gegen die Nomaden und befreie deinen betrunkenen Narren.
 Unsere Entdecker von '[x]' erkundeten neü Länder, als sie auf ein Dutzend traürnder Porcos trafen, die eine Sau und ein Ferkel begruben. Nach einer ergreifenden Beerdigung sagten sie unseren Porcos, dass sie früher zu einer viel größeren Gruppe gehörten, die durch mehrere Banditenangriffe und Epidemien langsam dezimiert worden war. Sie hatten jetzt keine Vorräte mehr und hatten alle Hoffnung auf Erlösung verloren.
 
 #ev_xplr_mourn_c1
-Bieten Sie ihnen an, an deiner Expedition teilzunehmen.
+Biete ihnen an, an deiner Expedition teilzunehmen.
 
 #ev_xplr_mourn_c2
 Greif sie an und nimm ihre restlichen Vorräte.
@@ -1353,10 +1353,10 @@ Halte das Kalb als Haustierelefant.
 "Sieht so aus, als ob frisches Fleisch wieder auf der Speisekarte steht, Jungs!"
 
 #ev_xplr_tribrem_1
-Unsere Entdecker von '[x]' stolperten über die überreste einer unglücklichen kleinen Gruppe von Nomaden. So wie es aussieht, waren sie vor langer Zeit gestorben, unter Umständen, die die Gruppe nicht herausfinden konnte. Ihr ganzes Hab und Gut schien neben ihnen noch intakt zu sein.
+Unsere Entdecker von '[x]' stolperten über die überreste einer unglücklichen kleinen Gruppe von Nomaden. So wie es aussieht, waren sie vor langer Zeit gestorben, unter Umständen, die die Gruppe nicht herausfinden konnte. dein ganzes Hab und Gut schien neben ihnen noch intakt zu sein.
 
 #ev_xplr_tribrem_c1
-Fangen Sie ihre überreste ab, um das zu finden, was wir können.
+Fange ihre überreste ab, um das zu finden, was wir können.
 
 #ev_xplr_tribrem_c2
 Gib ihnen eine ordentliche Bestattung.
@@ -1425,7 +1425,7 @@ Nachfolge
  [x] des [y] hat seine Position nach vielen Jahren im Dienst verlassen. Du wurdest als Nachfolger ernannt und hast nun die Kontrolle über alle Besitztümer und Pflichten der [y] übernommen.
 
 #ev_spwn_succ_2
-Du hast einen Charakter übernommen, der inaktiv wurde, weil er zu lange unbespielt von seinem vorherigen Besitzer blieb. Sie setzen also dort an, wo es geblieben ist. Du hast alle seine Regionen, Einheiten, diplomatischen Beziehungen und Kenntnisse in Frage gestellt, und Sie könnten Teil einer bestehenden Nation sein. 
+Du hast einen Charakter übernommen, der inaktiv wurde, weil er zu lange unbespielt von seinem vorherigen Besitzer blieb. Sie setzen also dort an, wo es geblieben ist. Du hast alle seine Regionen, Einheiten, diplomatischen Beziehungen und Kenntnisse in Frage gestellt, und du könntest Teil einer bestehenden Nation sein. 
 
 #ev_spwn_newld
 Neü Führung
@@ -1434,7 +1434,7 @@ Neü Führung
 Die Region [x], die eine neü Führung braucht, hat dich für diese Aufgabe ausgewählt. 
 
 #ev_spwn_newld_2
-Du hast eine zuvor führerlose Region übernommen, entweder weil sie von ihrem früheren Besitzer verlassen wurde oder weil ihr Volk gegen ihn rebellierte. Du bist also eine neü freie und unabhängige souveräne Einheit, frei von allen Verträgen, angefangen bei einer einzigen Region. Ihre Anfangskenntnisse werden von den bereits vorhandenen Gebäuden in der Region übernommen. Sei müde: Sie könnten der Feindseligkeit des früheren Eigentümers deiner Region ausgesetzt sein, wenn er noch in der Nähe ist.
+Du hast eine zuvor führerlose Region übernommen, entweder weil sie von ihrem früheren Besitzer verlassen wurde oder weil ihr Volk gegen ihn rebellierte. Du bist also eine neü freie und unabhängige souveräne Einheit, frei von allen Verträgen, angefangen bei einer einzigen Region. Deine Anfangskenntnisse werden von den bereits vorhandenen Gebäuden in der Region übernommen. Sei müde: du könntest der Feindseligkeit des früheren Eigentümers deiner Region ausgesetzt sein, wenn er noch in der Nähe ist.
 
 #ev_spwn_clny
 Anführer der Kolonie
@@ -1443,7 +1443,7 @@ Anführer der Kolonie
 Nach vielen Jahren langsamer Entwicklung und stiller Führung durch gehorsame Administratoren ist die dem [y] angegliederte Kolonie [x] nun bereit, eine eigene politische Einheit zu werden. Du hast ihr Vertraün gewonnen und wurdest zum ersten wahren Führer von [x] befördert, da die Region innerhalb der[p1] unter der Schirmherrschaft der [y] einen neün administrativen und politischen Status erhält. Es ist Zeit für [x], sich einen Namen zu machen und seine Spuren in der Geschichte von Porcokind zu hinterlassen. 
 
 #ev_spwn_clny_2
-Du bist der erste Herrscher einer Kolonie geworden, die zuvor von einem anderen Spieler gegründet wurde. Diese Region entwickelt sich daher jetzt und wird zu einer eigenen politischen Einheit, die von Ihnen regiert wird. Sie beginnen jedoch als Mitglied einer bestehenden Nation und standardmäßig unter der Schirmherrschaft des ursprünglichen Gründers der Kolonie: der [y]. Als neür Zweig seiner Kultur beginnt man auch mit dem Wissen der Gründer. Als Ex-Kolonie, seien Sie gewarnt, dass Sie auch mit einem Vertrag beginnen, der Sie an seine Nation bindet, was bedeutet, dass Sie es nicht verlassen können, ohne es zu brechen und Strafen oder sogar Krieg zu erleiden. Aber das kann auch eine gute Sache sein: Du fängst nicht allein an und kannst Schutz und Hilfe von deinen Vorgesetzten in der Nation suchen, um deine Entwicklung zu unterstützen. Es ist wahrscheinlich eine kluge Idee, damit zu beginnen, sich an deinen Vorgesetzten und Gründer zu wenden, um ihn zu begrüßen und freundschaftliche Beziehungen aufzubaün. Dann wer weiß, vielleicht wird es eines Tages Zeit für [x] sein, seine Unabhängigkeit zu beanspruchen!
+Du bist der erste Herrscher einer Kolonie geworden, die zuvor von einem anderen Spieler gegründet wurde. Diese Region entwickelt sich daher jetzt und wird zu einer eigenen politischen Einheit, die von Ihnen regiert wird. Sie beginnen jedoch als Mitglied einer bestehenden Nation und standardmäßig unter der Schirmherrschaft des ursprünglichen Gründers der Kolonie: der [y]. Als neür Zweig seiner Kultur beginnt man auch mit dem Wissen der Gründer. Als Ex-Kolonie, sei gewarnt, dass du auch mit einem Vertrag beginnst, der dich an seine Nation bindet, was bedeutet, dass du diese nicht verlassen kannst, ohne es zu brechen und Strafen oder sogar Krieg zu erleiden. Aber das kann auch eine gute Sache sein: Du fängst nicht allein an und kannst Schutz und Hilfe von deinen Vorgesetzten in der Nation suchen, um deine Entwicklung zu unterstützen. Es ist wahrscheinlich eine kluge Idee, damit zu beginnen, sich an deinen Vorgesetzten und Gründer zu wenden, um ihn zu begrüßen und freundschaftliche Beziehungen aufzubaün. Dann wer weiß, vielleicht wird es eines Tages Zeit für [x] sein, seine Unabhängigkeit zu beanspruchen!
 
 #ev_form_ovrdrft
 Die Heimat von ' [y]' hat eine unzureichende Bevölkerung!
@@ -1455,7 +1455,7 @@ Die Bevölkerung von [x], der Heimat unserer Formation ' [y]', ist nicht ausreic
 Unsere Soldaten desertieren!
 
 #ev_form_desertion_1
-Die Soldaten in unseren Armeen desertieren wegen deiner negativen Legitimität! Die Menschen wollen nicht einem Herrscher dienen, den sie nicht mehr für legitim halten, und wir werden weiterhin sehen, wie Porcos jeden Tag unsere Ränge verlassen, bis Ihre Legitimität wieder positiv ist.
+Die Soldaten in unseren Armeen desertieren wegen deiner negativen Legitimität! Die Menschen wollen nicht einem Herrscher dienen, den sie nicht mehr für legitim halten, und wir werden weiterhin sehen, wie Porcos jeden Tag unsere Ränge verlassen, bis Deine Legitimität wieder positiv ist.
 
 #ev_form_ovrdrft_2
 Vielleicht sollten wir eine Verkleinerung in Betracht ziehen, um die überziehung der Bevölkerung in [x] zu reduzieren, oder wir könnten diese Formation in ein anderes Gebiet verlagern, das sie besser unterstützen könnte. Wenn wir nicht handeln, wird diese Formation langsam zerfallen!
@@ -1494,10 +1494,10 @@ Aufgrund ihrer unzureichenden lokalen Verwaltung ([p1]) hat die Stadt [x] einen 
 Du hast den Zustand von [x] unterworfen, der von [y] regiert wird, der jetzt dein Vasall ist. 
 
 #ev_has_subjug_2
- [x] wird Ihnen nun Tribut zollen, indem er Münzen und Staatsmacht zollt, und er ist als Ihr Untergebener in Ihre Nation eingetreten. Im Gegenzug wurden alle besetzten Gebiete auf [x] zurückgeführt. 
+ [x] wird Ihnen nun Tribut zollen, indem er Münzen und Staatsmacht zollt, und er ist als dein Untergebener in Deine Nation eingetreten. Im Gegenzug wurden alle besetzten Gebiete auf [x] zurückgeführt. 
 
 #cond_ownbdg
-Haben Sie [x] [y] in dem Gebiet.
+Habe [x] [y] in dem Gebiet.
 
 #cond_prdgrpprd_inf
 Produktion von [y] Ressourcen, die unter [x] liegen.
@@ -1515,7 +1515,7 @@ Entsperrt das Projekt: [x]
 Lehnt das Projekt ab: [x]
 
 #effect_canceldebt
-Streichen Sie Ihre Schulden.
+Streiche deine Schulden.
 
 #effect_modhonor
 Ehre [x]
@@ -1821,13 +1821,13 @@ Ungeschickter Porco
 Anspruchsvolles Gelände
 
 #ev_has_subjug
-Ihr habt [x] unterworfen!
+dein habt [x] unterworfen!
 
 #ev_been_subjug_1
 Du wurdest unterjocht unter dem Staat [x], der von [y] regiert wird, der jetzt dein Logenherr ist. 
 
 #ev_been_subjug_2
-Ihr müsst jetzt Tribut an Münzen und Staatsmacht zahlen, und er ist der Nation [x] als Untergebener von [y] beigetreten. Im Gegenzug wurden alle besetzten Gebiete an Sie zurückgegeben. 
+dein müsst jetzt Tribut an Münzen und Staatsmacht zahlen, und er ist der Nation [x] als Untergebener von [y] beigetreten. Im Gegenzug wurden alle besetzten Gebiete an dich zurückgegeben. 
 
 #event_trout_w4_1
 Unser Handelsweg, der[p2][p3] von [y] nach [x] importiert, hat nicht die erforderlichen Waren und könnte bald schließen, es sei denn, der Exporteur behebt dieses Problem schnell!
