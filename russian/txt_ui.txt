@@ -4064,7 +4064,7 @@ engagement over
 Территория
 
 #facttl_titl
-Титут персонажа
+Титул персонажа
 
 #facttl_titl_c1
 Титул, присваиваемый персонажам этого ранга.
@@ -4166,67 +4166,66 @@ engagement over
 Добавить новый ранг
 
 #fachier_addnew_c1
-Click to create a new rank
+Щелкните, чтобы создать новый ранг
 
 #fachier_remrk
-Remove this rank
+Удалить этот ранг
 
 #fachier_remrk_c1
-Click to delete the currently selected rank
+Щелкните, чтобы удалить выбранный ранг
 
 #fachier_remrk_err1
-You cannot remove this rank because its currently used by one or more members!
+Вы не можете удалить этот ранг, так как он используется одним или более членами нации!
 
 #facnewrk_title
-Adding a new rank...
+Добавление нового ранга...
 
 #facmmb_ter
-Regions
+Регионы
 
 #facmmb_dismant
-Dismantle
+Расформировать
 
 #facmmb_dismant_c1
-Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
+Так как этот характер неактивен, ваш титул позволяет вам расформировать его территории и разделить их между вашими вассалами и вами. 
 
 #facmmb_prom
-Promote
+Повысить
 
 #facmmb_prom_c1
-Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+Ваш титул позволяет вам изменить иерархическую позицию этого персонажа: повысить или понизить.
 
 #facmmb_xpl
-Expel
+Изгнать
 
 #facmmb_xpl_c1
-Your title allows you to expell this character from the Nation.
+Ваш титул позволяет вам изгнать этого персонажа из Нации.
 
 #facmmb_quit
-Quit
+Выйти
 
 #facmmb_quit_c1
-Leave this Nation and regain your sovereignty. 
+Покинуть эту Нацию и восстановить свою независимость.
 
 #facmmb_quit_c2
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+ВНИМАНИЕ: если вы связаны с этой нацией договорами, вы будете подвергнуты штрафным санкциям!
 
 #facmmb_actv
 АКТИВЕН
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+Этот персонаж все еще активно играет и подходит для наследования.
 
 #facmmb_inact
 НЕАКТИВЕН
 
 #facmmb_inact_c1
-This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
+Этот персонаж не был в онлайне какое-то время и теперь считается неактивным. Он подходит для наследования внутри Нации.
 
 #facmmb_pwrlss
 БЕССИЛЕН
 
 #facmmb_pwrlss_c1
-
 Этот персонаж не контролирует ни одной территории.
 
 #facmmb_dead
@@ -4284,7 +4283,7 @@ This character hasn't been online for a while and is now considered inactive. He
 Положение [x]
 
 #facprom_txt
-Вы можете изменять иерархическую позицию [x] внутри Нации, изменяя его ранг или переподчиняя его другому сюзерену (только среди ваших собственных вассалов). Учитвыайте, что персонаж сохранит всех своих подчиненных в любом случае. Ранги подчиненных могут автоматически подстраиваться, если возникает необходимость, чтобы сохранить относительную иерархию.
+Вы можете изменять иерархическую позицию [x] внутри Нации, изменяя его ранг или переподчиняя его другому сюзерену (только среди ваших собственных вассалов). Учитывайте, что персонаж сохранит всех своих подчиненных в любом случае. Ранги подчиненных могут автоматически подстраиваться, если возникает необходимость, чтобы сохранить относительную иерархию.
 
 #facprom_supr
 Установить сюзерена
@@ -4305,29 +4304,28 @@ This character hasn't been online for a while and is now considered inactive. He
 Замена [x]...
 
 #facrplc_txt
-
-As a superior of [x] and because this character is now inactive, your rank allows you to nominate a successor of lower rank that will take over its position within the Nation. The successor will swap its position and subordinates with the ones of the replaced character. The chosen successor cannot be of higher rank than the replaced character.
+Как сюзерен [x] и по причине неактивности этого персонажа, ваш ранг позволяет вам номинировать наследника низшего ранга на это место в Нации. Наследник поменяется своим положением подчиненными с замещаемым персонажем. Выбираемый наследником персонаж не может быть выше рангом чем замещаемый.
 
 #facrplc_none
 Не доступно!
 
 #facdsmtl_title
-Dismantling territories
+Упразднение территорий
 
 #facdsmtl_text
-Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
+Так как [x] теперь неактивен, ваш ранг позволяет вам упразднить эти территории и передодчинить их другим членам Нации.
 
 #facquit_title
-Are you sure?
+Вы уверены?
 
 #facquit_txt
-By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+Оставляя эту Нацию, вы восстановите полную независимость и станете главой новой Нации. Все ваши текущие подчиненные останутся с вами и также присоединятся к новой Нации. Но знайте, что если вас связывают с этой Нацией договоры, выход из нее вызовет штрафные санкции, наложению на вас штрафов или даже объявление войны.
 
 #facfalg_title
-Editing Nation flag
+Редактирование Национального флага
 
 #menugov_setnam
-Government name
+Имя правительства
 
 #menugov_setnam_c1
 Задайте базовое имя вашего правительства (затем будет скомбинировано с названием Нации).
@@ -4405,13 +4403,13 @@ Government name
 Территория является частью региона и управляется администрацией главного города.
 
 #regstatus_colony_1
-A colony is an autonomous territory attached to your government. You cannot directly control it but it costs no maintenance while generating a small tax incomes. It can be used as a starting position for new players. They take control of the colony and start directly in your nation as your subordinates.
+Колония - это автономная территория, связанная с вашим правительством. Вы не может напрямую управлять ей, но она не требует содержания и генерирует небольшую прибыль. Она может быть использована как стартовая позиция новыми игроками. Они возьмут колонию под контроль и начнут прямо в вашей нации в качестве прямых подчиненных.
 
 #regstatus_city_1
-The city is the head each region. It has its own local administration which also manages all the territories of the region. Every city costs state power to maintain.
+Каждый город - это центр одного региона. У него своя локальная администрация, которая управляет всеми территориями региона. Каждый город требует Власти для поддержания.
 
 #regstatus_capital_1
-The capital is where your state's government is located and where the leader resides. Unlike regular cities, it costs no state power. Some government buildings are unique to the capital. The distance from the capital can affect various things such as the administration of other cities or the maintenance of subordinates in the nation.
+Столица - это место, где располагается правительство страны и ее лидер. В отличие от обычных городов, она не требует власти для поддержки. Некоторые государственные здания можно строить только в столице. Удаленность от столицы может влиять на различные вещи, такие как администрация других городов или содержание подчиненных в нации.
 
 #regstatus_title
 Статус территории
