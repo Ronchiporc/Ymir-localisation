@@ -1,0 +1,179 @@
+#agrim_goldo_1
+Pagamento único
+
+#agrim_goldo_2
+Pagar [x] moedas
+
+#agrim_goldo_3
+Pagamento singular em moedas de [x] para [y], na assinatura do tratado.
+
+#agrim_goldr_1
+Transferir moedas
+
+#agrim_goldr_2
+Continuamente transferir [x] moedas da receita
+
+#agrim_goldr_3
+[x] continuadamente transfere moedas para [y], enquanto o tratado estiver ativo.
+
+#agrim_goldtax_1
+Imposto em moedas
+
+#agrim_goldtax_2
+Dá [x]% da receita em moedas
+
+#agrim_goldtax_3
+[x] transfere uma % de sua receita total em moedas para [y].
+
+#agrim_admtax_1
+Transferência de poder
+
+#agrim_admtax_2
+Transfere [x]% de poder do Estado.
+
+#agrim_admtax_3
+[x] tranfere uma % de se poder do Estado para [y].
+
+#agrim_trad_1
+Acordo Comercial
+
+#agrim_trad_2
+Permite o comércio
+
+#agrim_trad_3
+Dá [y] accesso a todas as ofertas de comércio e rotas de comércio a partir de [x].
+
+#agrim_pass_1
+Direito de passagem
+
+#agrim_pass_2
+Dá direito à passagem
+
+#agrim_pass_3
+Permite unidades de [y] transitar pelos territórios de [x].
+
+#agrim_embrg_1
+Embargo contra...
+
+#agrim_embrg_2
+Embargo contra [x]
+
+#agrim_embrg_3
+Proibe o comércio com um Estado específico.
+
+#agrim_vassal_1
+Afiliar-se à nação
+
+#agrim_vassal_2
+Afiliá-se à [x]
+
+#agrim_vassal_3
+[x] ira afiliar-se à nação de [y].
+
+#agrim_war_1
+Declarar guerra a ...
+
+#agrim_war_2
+Declarar guerra a [x]
+
+#agrim_war_3
+Declara guerra a outro Estado específico.
+
+#agrim_peace_1
+Tratado de paz
+
+#agrim_peace_2
+Tratado de paz
+
+#agrim_peace_3
+Proibe guerra entre os membros do tratado.
+
+#agrim_ceasefr_1
+Armistício
+
+#agrim_ceasefr_2
+Armistício
+
+#agrim_ceasefr_3
+Encerra a guerra entre os membros do tratado.
+
+#agrim_tradrt_1
+Rota Comercial
+
+#agrim_tradrt_2
+Rota Comercial
+
+#agrim_tradrt_3
+Instala uma rota comercial assegurada pelo tratado.
+
+#agrim_givreg_1
+Ceder Região
+
+#agrim_givreg_2
+Ceder Região '[x]'
+
+#agrim_givreg_3
+Transfere a soberania de uma região para [y].
+
+#agrim_gividea_1
+Oferecer ideia
+
+#agrim_gividea_2
+Oferece ideia [x]
+
+#agrim_gividea_3
+[y] irá receber de [x] uma nova ideia para conhecimentos que ainda não possui.
+
+#treaty_powcost
+Custo de poder de Estado para manter este tratado
+
+#treaty_coinpen
+Penalidade em moedas
+
+#treaty_coinpen_c1
+% do PIB irá ser transferido como penalidade, se [x] quebrar este tratado,
+
+#treaty_coinpen_c2
+para [x].
+
+#treaty_gdp
+[x]% do PIB
+
+#treaty_honor
+Comprometimento em honra
+
+#treaty_honor_c1
+Level do comprometimento de [x] em respeitar este tratado.
+
+#treaty_honor_c2
+Honra proporcional é perdida se [x] quebrá-lo.
+
+#treaty_warbound
+Sujeito a guerra
+
+#treaty_warbound_c1
+Se [x] irá automaticamente declarar guerra
+
+#treaty_warbound_c2
+se [x] quebrar esse tratado.
+
+#treaty_closes
+Quebramento de encerramento
+
+#diplo_npass
+Direito de passagem nacional
+
+#diplo_npass_dscr_1
+Todos os membros da Nação podem transitar pelo território dos demais.
+
+#diplo_ntrade
+Acordo Comercial Nacional
+
+#diplo_ntrade_dscr_1
+Todos os membros da Nação ganham automaticamente direitos comerciais entre si.
+
+#diplo_ndef
+Pacto defensivo Nacional
+
+#diplo_ndef_dscr_1
+Qualquer declaração de guerra feita a um membro da Nação irá provocar automaticamente declarações de guerra para com o resto de membros da nação, com o quebramento de tratados às custas do agressor. 

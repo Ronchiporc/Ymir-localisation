@@ -111,10 +111,10 @@ FX
 Включить декоративные юниты, такие как декоративные животные
 
 #b_menuop_animveget
-Animated vegetation
+Анимированная растительность
 
 #bc_menuop_animveget
-Enable or disable animated vegetation in the territory view
+Включить анимированную растительность на экране территории
 
 #b_menuop_grain
 Зернистость видео
@@ -678,7 +678,7 @@ Steam - имя хоста сервера
 Убыточно
 
 #ui_menubdg_deficit2
-Это здание в настоящее время невыгодно для своих рабочих, они работают в убыток. Его эффективность будет сильно снижена, и Порко избежат работы здесь.
+Это здание в настоящее время невыгодно для своих рабочих, они работают в убыток. Его эффективность будет сильно снижена, и Порко избегнут работы здесь.
 
 #ui_menubdg_destr1
 Разрушено
@@ -1797,7 +1797,7 @@ IP-адрес сервера
 Долг уменьшает государственную власть, и у нас в настоящее время есть долг [х] монет.
 
 #statepow_hon
-Безчестие
+Бесчестье
 
 #statepow_hon_c1
 Никто не хочет служить бесчестному вождю! Отрицательная честь уменьшает государственную власть (текущая честь: [x]).
@@ -1812,7 +1812,7 @@ IP-адрес сервера
 Передача государственной власти
 
 #statepow_powtr_c1
-Государственная власть передается в или из других правительств из-за действующих действующих договоров.
+Государственная власть передается в или из других правительств из-за действующих договоров.
 
 #statepow_civmnt
 Обслуживание гражданских политик
@@ -1824,19 +1824,19 @@ IP-адрес сервера
 Нация
 
 #statepow_nation_c1
-Государственная власть передана от подданых: [x]
+Государственная власть передана от подданных: [x]
 
 #statepow_nation_c2
 Государственная власть передана начальнику: [x]
 
 #statepow_nation_c3
-Количество прямых подданых: [x]
+Количество прямых подданных: [x]
 
 #statepow_nation_c4
-Расстояние прямых подданых: [x]
+Расстояние прямых подданных: [x]
 
 #statepow_nation_c5
-Количество подданых: [x]
+Количество подданных: [x]
 
 #statepow_forms
 Поддержание формаций
@@ -2298,214 +2298,214 @@ IP-адрес сервера
 Передать
 
 #ui_recruit_AP
-This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
+Это действие потребует [x] Очков Действия формирования (однако, действие будет выполнено даже если отряд достигнет 0 ОД)
 
 #ui_statunit_t
-Toughness
+Стойкость
 
 #ui_statunit_t_dscr
-Toughness if the capacity of the unit to withstand damage when hit, determining it's chances to be actually wounded.
+Стойкость - это способность юнита выдерживать урон при ударе, определяющая его шансы на ранение.
 
 #ui_statunit_a
-Armor
+Броня
 
 #ui_statunit_a_dscr
-Armor gives chances to deflect enemy hits.
+Броня дает шанс отразить вражеский удар.
 
 #ui_statunit_m
-Movement
+Подвижность
 
 #ui_statunit_m_dscr
-The movement speed of the unit. Also affects the movement speed of the formation in the worldmap (slowest unit defines worldmap speed).
+Скорость движения юнита. Также влияет на скорость движения отряда на глобальной карте (самый медленный юнит определяет общую скорость).
 
 #ui_statunit_mass
-Mass
+Масса
 
 #ui_statunit_mass_dscr
-The mass of the unit combined with it's speed gives a damage bonus when charging.
+Масса юнита вместе с его скоростью дает бонус к урону при атаке с наскока.
 
 #ui_statunit_ms
-Melee skill
+Ближний бой
 
 #ui_statunit_ms_dscr
-In melee, the ability to hit enemies and dodge their attacks depends on the difference of melee skill between the 2 opponents.
+В ближнем бою умение поразить врага и не быть пораженным самому зависит от разницы в подготовке к рукопашной между оппонентами. 
 
 #ui_statunit_md
-Melee damage
+Урон в ближнем бою
 
 #ui_statunit_md_dscr
-Amount of damage inflicted to the enemy when hit.
+Количество урона, наносимое врагу при ударе.
 
 #ui_statunit_rch
-Reach
+Длина оружия
 
 #ui_statunit_rch_dscr
-In melee, a higher reach than the opponent's gives a bonus to hit. Reach also gives a bonus to hit in melee against units of higher mass. 
+В ближнем бою оружие с большей длиной дает бонус к шансу удара. Также, она дает бонус в рукопашной против юнитов большей массы. 
 
 #ui_statunit_rs
-Ranged skill
+Дальний бой
 
 #ui_statunit_rs_dscr
-The ability to hit enemies in ranged combat.
+Умение поражать врагов на расстоянии.
 
 #ui_statunit_rd
-Range damage
+Урон в дальнем бою
 
 #ui_statunit_rd_dscr
-Amount of damage inflicted to the enemy when hit.
+Количество урона, наносимое врагу при попадании.
 
 #ui_statunit_rg
-Range
+Дальность
 
 #ui_statunit_rg_dscr
-For range units, the maximum distance (in terrain tiles) at which they can engage ennemies.
+Для юнитов дальнего боя, максимальная дистанция (в тайлах), на которой они могут открыть огонь.
 
 #ui_statunit_p
-Pillage
+Грабеж.
 
 #ui_statunit_p_dscr
-The pillage ability of the unit. Improves the speed and efficiency of pillaging ennemy buildings.
+Способность юнита к грабежу. Улучшает скорость и эффективность грабежа вражеских зданий.
 
 #ui_statunit_c
-Carrying capacity
+Грузоподъемность
 
 #ui_statunit_c_dscr
-The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units' carrying capacity.
+Количество ресурсов, которое юнит может унести. Вместимость инвентаря отряда представляет сумму грузоподъемностей всех его юнитов.
 
 #ui_troop_reinforce
-Reinforce
+Пополнить
 
 #ui_troop_disband
-Disband
+Распустить
 
 #ui_troop_transfer
-Transfer
+Перевести
 
 #ui_trptrans_c
-Choose a destination troop
+Выбрать подразделение для перевода
 
 #ui_formtrans_c
-Choose a destination formation
+Выбрать формирование для перевода
 
 #ui_formtrans_samform
-same formation
+То же формирование
 
 #ui_formtrans_newtr
-new troop
+Новое подразделение
 
 #ui_formtrans_unavail
-[unavailable]
+[недоступно]
 
 #ui_foinv_cant
-You can't take resources from a territory you do not control!
+Вы не можете брать ресурсы с территории, которая вам не принадлежит!
 
 #ui_foinv_empreg
-You can't load resources from an empty territory!
+Вы не можете загружать ресурсы с пустой территории!
 
 #ui_foinv_load
-Loading resources into formation's inventory
+Загрузка ресурсов в инвентарь отряда
 
 #ui_foinv_unload
-Unloading resources from formation's inventory
+Выгрузка ресурсов из инвентаря отряда
 
 #ui_foinv_destr
-Destroy resrouces from formation's inventory
+Уничтожить ресурсы в из инвентаря отряда
 
 #ui_foinv_choose
-Choose resource
+Выбрать ресурс
 
 #ui_foinv_cost_c1
-Cost of purchasing these resources.
+Стоимость приобретения этих ресурсов.
 
 #ui_foinv_cost_c2
-To load resources into a formation, the state has to take ownership of them and purchase them at their local price from their owners (except for already state-owned stocks).
+Чтобы передать ресурсы отряду, государство должно приобрести их по местной цене у владельцев (кроме ресурсов, уже принадлежащих государству).
 
 #ui_foinv_cost_c3
-State-owned stocks: [x]
+Госрезерв: [x]
 
 #ui_foinv_cost_c4
-Purchasing [x] resources at local price of [y] coins.
+Заказ [x] ресурсов по местной цене в [y] монет.
 
 #ui_foinv_loadfrm
-Where to load ressources from
+Где загрузиться ресурсами
 
 #ui_foinv_unlodto
-Where to unload ressources
+Где разгрузить ресурсы
 
 #ui_foinv_target
-Territory's storages
+Запасы территории
 
 #ui_reg_build_tertool
-terrain tools
+терраформинг
 
 #ui_reg_build_tertool_c
-modify terrain heights
+изменить высоту тайлов
 
 #ui_tertool
-TERRAIN HEIGHT TOOL
+ТЕРРАФОРМИНГ
 
 #ui_tertool_1
-Increase height: ctrl + mouse wheel up
+Увеличить высоту: Ctrl + колесо мыши вверх
 
 #ui_tertool_2
-Decrease height: ctrl + mouse wheel down
+Уменьшить высоту: Ctrl + колесо мыши вниз
 
 #ui_tertool_3
-Cancel and close : right-click
+Отменить и закрыть: ПКМ
 
 #ui_tertool_4
-Confirm work and close: space bar
+Подтвердить и закрыть: Пробел
 
 #ui_tertool_add
-Adding
+Добавление
 
 #ui_tertool_dig
-Digging
+Рытье
 
 #ui_tertool_bal
-Imbalance
+Неравенство
 
 #ui_tertool_cost
-predicted cost in tools to complete this task
+сколько может понадобиться инструментов для этого задания
 
 #ui_tertool_penal
 Imbalance cost penalty
 
 #ui_tertool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and will be worked over time to match this preview, also consuming tool resources in the process.
+Показан только план изменений. Если вы подтвердите это задание, тайлы будут отмечены для работ и будут постепенно изменяться, потребляя инструменты, пока не придут в соответствие с планом.
 
 #ui_tertool_warn1
-This tile lacks support to reach this height!
+Тайлу не достает поддержки, чтобы достичь этой высоты!
 
 #ui_tertool_warn2
-Some tiles lack support to reach the desired height!
+Некоторым тайлам не хватает поддержки, чтобы достичь требуемой высоты!
 
 #ui_reg_build_plat
-Platforms
+Платформы
 
 #ui_reg_build_plat_c
-build platforms
+построить платформы
 
 #ui_plattool
-PLATFORM TOOL
+ПЛАТФОРМЫ
 
 #ui_plattool_1
-Set platform height: ctrl + mouse wheel
+Установить высоту платформы: Ctrl + колесо мыши
 
 #ui_plattool_2
-Bridge mode: hold shift
+Режим моста: удерживайте Shift
 
 #ui_plattool_3
-Cancel and close : right-click
+Отменить и закрыть: ПКМ
 
 #ui_plattool_4
-Confirm work and close: space bar
+Подтвердить и закрыть: Пробел
 
 #ui_plattool_cost
-predicted cost to build these platforms
+Оценка стоимости работ
 
 #ui_plattool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and platforms will be built over time to match this preview, also consuming resources in the process.
+Показан только план изменений. Если вы подтвердите это задание, тайлы будут отмечены для работ и платформы будут постепенно строиться, потребляя инструменты, пока не придут в соответствие с планом.
 
 #ui_builderr_ter
 Вы не можете построить [x] здесь.
@@ -2514,1198 +2514,1197 @@ This only shows a preview of the modifications. If you validate this task, the m
 Вам не хватает [x] [y] для постройки этого [z].
 
 #ui_builderr_coin
-You do not have enough coins to build this [x].
+Вам не хватает монет, чтобы построить [x].
 
 #ui_builderr_ptf
-This building can only be placed on platforms.
+Это здание можно разместить только на платформе.
 
 #ui_builderr_onres
-This building can only be placed over a resource it can exploit.
+Это здание можно разместить только на подходящем месторождении.
 
 #ui_builderr_shore
-Needs to be placed on a shore of a minimum depth of [x].
+Должно располагаться на берегу с минимальной глубиной прибрежных вод [x].
 
 #ui_builderr_dist
-This building need to be at least [x] tiles away of any other building of the same type.
+Это здание должно быть по меньшей мере в [x]  тайлах от других таких же зданий.
 
 #ui_builderr_stairs
-Stairs can only be placed next to a tile of higher elevation.
+Лестница может быть размещена только рядом с более высоким тайлом.
 
 #ui_builderr_gate
-Gates can only be placed next to a high enough bridge-type platform.
+Ворота можно разместить только рядом с достаточно высоким мостом.
 
 #ui_builderr_water
-This building cannot be placed on water.
+Нельзя возвести строение на воде.
 
 #ui_builderr_mustw
-This building must be placed on water of at least [x] of depth.
+Это здание должно размещаться на воде глубиной минимум [x].
 
 #ui_builderr_adjcnt
-Must be placed adjascent to it's owner.
+Должно располагаться рядом с владельцем.
 
 #ui_builderr_bldrs
-This building requires professional construction and you do not have any builders.
+Возведение этого здания требует профессионального мастерства, а у вас нет строителей.
 
 #ui_builderr_inaxss
-You cannot place this here because this area is currently inaccessible!
+Вы не можете ничего разместить здесь, так как область в данный момент недоступна!
 
 #ui_builderr_noprd
-There is nothing to exploitable by this building here.
+Этому зданию здесь нечего добывать.
 
 #ui_builderr_maxan
-This building cannot have more than [x] [y].
+Это здание не может иметь больше чем [x] [y].
 
 #ui_dpltool_needreg
-You need to be in the territory view to customize troop deployments!
+Вы должны быть в режиме отображения территории, чтобы управлять развертыванием войск!
 
 #ui_dpltool
-STRATEGIC TOOL
+СТРАТЕГИЯ
 
 #ui_dpltool_dscr
-Design the defensive strategy of your formations in this territory, in case of battle.
+Задайте оборонную стратегию своим отрядам на этой территории на случай битвы.
 
 #ui_dpltool_formtog
-(click to toggle deployment of this formation)
+(щелкните, чтобы изменить развертывание этого отряда)
 
 #ui_dpltool_done
-DONE
+ЗАВЕРШИТЬ
 
 #ui_dpltool_addz
-Add a new defensive zone
+Добавить охраняемую зону
 
 #ui_dpltool_matt
-Pitch battle
+Полевое сражение
 
 #ui_dpltool_matt_dscr
-The troop will redeploy to face any incoming threat and engage immediately in a pitch battle manner. The current deployment position of the troop has therefore no importance in this mode.
+Это подразделение будет встречать любую угрозу лицом к лицу и контратаковать в открытом поле. Место размещения подразделения не имеет принципиального значения в этом режиме.
 
 #ui_dpltool_mdef
-Restricted engagement
+Ограничение на атаку
 
 #ui_dpltool_mdef_dscr
-The troop will engage any ennemy entering within the specified range from it's original deployment position. The troop will move in any way necessary to do so.
+Подразделение нападет на врага, когда тот приблизится на заданное расстояние от его первоначальной позиции. Подразделение будет перемещаться в любом направлении. 
 
 #ui_dpltool_mzon
-Defensive zone
+Охраняемая зона
 
 #ui_dpltool_mzon_dscr
-The troop remains in the selected defensive zone and prevents ennemies from entering it. The troop will move within the zone to face any incoming ennemy. Range units will engage any ennemy in range from the edge of the zone.
+Подразделение останется в заданной охраняемой зоне и не допустит проникновение в нее врагов. Оно будет перемещаться внутри зоны, встречая надвигающегося врага. Юниты дальнего боя атакуют любого врага в пределах дальности стрельбы от края зоны.
 
 #ui_dpltool_mstand
-Stand ground
+Держать позицию.
 
 #ui_dpltool_mstand_dscr
-The troop will keep this position no matter what and only engage if there's immediate contact. If it's a range unit, it will fire any available target from this position.
+Подразделение будет удерживать позицию не смотря ни на что и атакует только при непосредственном контакте. Юнит дальнего боя будет обстреливать любую доступную цель.
 
 #ui_dpltool_mult
-Multiple
+Различные построения
 
 #ui_dpltool_mult_dscr
-The selected troops are currently in different modes. Select one to apply the same mode to all the selected troops.
+Выбранные войска находятся в разных режимах. Выберите одно подразделение, чтобы применить такой же режим ко всем остальным.
 
 #ui_dpltool_multsel
-multiple selection ([x] troops)
+множественное выделение ([x] подразделений)
 
 #ui_dpltool_curmode
-set strategy of the selected troops
+задать стратегию выбранных войск
 
 #ui_dpltool_needdefz
-You need to place at least one defensive zone before you can assign troops to it.
+Вы должны расположить хотя бы одну охраняемую зону прежде чем приписать к ней войска.
 
 #ui_dpltool_maxdefz
-You've reached the maximum number of defensive zones.
+Вы достигли максимального количества охраняемых зон.
 
 #ui_dpltool_delzon
-Delete this zone
+Удалить эту зону
 
 #bc_menuform_disb
-Disband formation
+Распустить формирование
 
 #bc_menuform_movc
-Move camp position
+Переместить лагерь
 
 #bc_menuform_disb_1
-Are you sure you want to disband this formation ?
+Вы уверены, что хотите распустить отряд?
 
 #bc_menuform_disb_2
-If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
+Если вы распустите этот отряд в одной из своих территорий, весь инвентарь и снаряжение войск будет выгружено на этой территории. Все юниты примкнут к населению (если они не ополченцы).
 
 #bc_menuform_disb_3
-You cannot disband in territories you do not control!
+Вы не можете распускать отряд на территориях, которые не контролируете!
 
 #menuform_pwr
-This formation type costs [x] State Power to maintain.
+Формирование этого типа требует [x] единиц Власти чтобы функционировать.
 
 #menuform_disb_err1
-You cannot disband this formation here!
+Вы не можете распустить это формирование здесь!
 
 #ui_wregown_smes
-send message
+послать сообщение
 
 #ui_wregown_war
-declare war
+объявить войну
 
 #ui_confwar_title
-DECLARING WAR
+ОБЪЯВЛЕНИЕ ВОЙНЫ
 
 #ui_confwar
-Are you sure you want to declar war ?
+Вы уверены, что хотите объявить войну?
 
 #contact_sending
-Sending message to [x] of [y]...
+Посылка сообщения для [x] из [y]...
 
 #contact_messto
-Messaging [x] of [y]
+Переписка с [x] из [y]
 
 #contact_pptreat
-Propose treaty
+Предложить договор
 
 #contact_pptreat_c
-Joins a treaty proposition to this message
+Присоединяет предложение о договоре к этому сообщению
 
 #contact_messfrom
-Message from [x]
+Сообщение от [x]
 
 #contact_greet
-Greetings,
+Приветствую,
 
 #contact_renegoc
-Greetings, I wish to renegociate the terms of our current treaty and here is my offer.
+Приветствую, имею честь предложить новые условия для действующего между нами договора.
 
 #contact_reply
-Reply to message
+Ответить на сообщение
 
 #treated_off
-Available offers:
+Доступные предложения:
 
 #treated_dem
-Available demands:
+Доступные требования:
 
 #treated_dur
-treaty duration
+срок действия договора
 
 #treated_dur_c1
-after this duration, the treaty will end
+по окончании срока действия договор утратит силу
 
 #treated_dur_c2
-(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
+(некоторые пункты договора не имеют срока действия и останутся активными, когда договор утратит силу, но могут быть отменены без каких-либо последствий)
 
 #treated_new
-NEW TREATY
+НОВЫЙ ДОГОВОР
 
 #treated_pers
-Remains effective even after treaty's duration but it can then be cancelled without breaking closes
+Остается действующим даже после завершения действия договора, но затем может быть отменен без наложения штрафа.
 
 #treated_inst
-Applied once, at the treaty's signature
+Выполняется один раз, при подписании договора
 
 #treaterm_coins
-Coins
+Монеты
 
 #treaterm_noidea
-No knowledges to share!
+Нет знаний для обмена!
 
 #treaterm_noreg
-No territories valid to transfer!
+Нет территорий для передачи!
 
 #b_endtreaty
-Break treaty!
+Разорвать договор!
 
 #b_endtreaty_c1
-The treaty will instantly be terminated. Breaking closes on your side will apply.
+Договор будет моментально разорван! Вы будете подвергнуты штрафным санкциям.
 
 #b_endagreed
-Ask termination
+Запрос на отмену
 
 #b_endagreed_c1
-Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
+Предложить другой стороне расторгнуть соглашение по обоюдному согласию. В случае успеха штрафные санкции не последуют.
 
 #b_renegoc
-Renegociate
+Переподписать
 
 #b_renegoc_c1
-Send a renegociation proposal. If agreed by the other party, the current treaty will be updated.
+Предложить переподписать договор. Если другая сторона согласится, текущие условия будут обновлены.
 
 #ui_treat_termsent
-Request to agree to terminate this treaty sent to the other party!
+Запрос о расторжении договора отослан другой стороне!
 
 #ui_treat_eng1
-You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
+В данные момент вы связаны условиями этого договора! Если вы все равно решите его расторгнуть, к вам будут применены штрафные санкции. Вы заплатите [x] монет ([y]% вашего ВВП) и потеряете [z] Чести.
 
 #ui_treat_eng2
-This will not trigger war with [x].
+Это не развяжет войну с [x].
 
 #ui_treat_eng3
-This will trigger war with [x].
+Это развяжет войну с [x].
 
 #ui_treat_end
-You are not engaged by this treaty and can choose to end it without penalty. All it's terms will cease to apply for both members. Are you sure you want to proceed ?
+Вы не связаны условиями этого договора и можете разорвать это соглашение без штрафа. Все его условия прекратят действовать для обеих сторон. Вы уверены, что хотите продолжить?
 
 #menuevt_title
-EVENTS
+СОБЫТИЯ
 
 #menuevt_trpow
-% of state power transfered
+% Власти передано
 
 #menuevt_tax
-% of coins income transfered
+% Монет передано
 
 #menuevt_invalid
-invalid input!
+неверный ввод!
 
 #menuevt_empty
-No events to display
+Нечего сообщить
 
 #menuevt_new
-New events
+Новые события
 
 #menuevt_all
-All events
+Все события
 
 #menuevt_dipl
-Diplomatic
+Дипломатия
 
 #menuevt_mil
-Military
+Война
 
 #menuevt_state
-State
+Государство
 
 #menuevt_nation
-Nation
+Нация
 
 #menuevt_miss
-Missions
+Миссии
 
 #menuevt_ideas
-Ideas
+Идеи
 
 #menuevt_trade
-Trading
+Торговля
 
 #menuevt_objv
-Objectives
+Задания
 
 #menuevt_rewd
-Rewards
+Награды
 
 #menuevt_prgrs
-current
+текущее
 
 #menuevt_comp
-completed!
+завершено!
 
 #menuevt_incomp
-incomplete
+не завершено
 
 #menuevt_trt_no
-Refuse treaty
+Отвергнуть условия договора
 
 #menuevt_trt_reneg
-Propose a counter-offer
+Выдвинуть встречное предложение
 
 #menuevt_trt_yes
-Agree to treaty
+Согласиться на договор
 
 #ui_evt_goto
-GO TO REGION
+В РЕГИОН
 
 #ui_form_nb
-Number of units in this formation.
+Количество подразделений в отряде.
 
 #ui_form_threat
-Military strenght of this formation.
+Сила отряда.
 
 #ui_form_threat
-Military strenght of this formation.
+Сила отряда.
 
 #ui_form_AP_c1
-Action Points: [x]/100   ([y] [z])
+Очки Действия: [x]/100   ([y] [z])
 
 #ui_form_AP_c2
-Required to perform actions such as movements or attacks, these points are regained over time by encamping or by returning to their home region. Below 50 the formation is forced to encamp and cannot perform new actions.
+Требуются для выполнения действий, таких как движение или нападение. Эти очки восстанавливаются с течением времени за счет отдыха в лагере или возвращения в домашний регион. Если у отряда меньше 50 ОД, отряд вынужден разбить лагерь и не может выполнять новых действий.
 
 #ui_form_AP_d1
-- Recovery[y]: [x]
+- Восстановление[y]: [x]
 
 #ui_form_AP_enc
-encamped
+разбит лагерь
 
 #ui_form_AP_hom
-at home
-
+дома
 #ui_form_AP_cit
-in city
+в городе
 
 #ui_form_AP_d2
-- Territory[y]: [x]
+- территория[y]: [x]
 
 #ui_form_AP_enm
-enemy
+враг
 
 #ui_form_AP_d3
-- Home distance ([y]%): [x]
+- Расстояние до дома ([y]%): [x]
 
 #ui_form_movcost
-Basic Action Points cost for moving one territory tile for this formation. This base cost is then combined with other contextual factors to determine the final cost of a movement. 
+Базовая стоимость ОД для перемещения на один тайл для этого отряда. Эта базовая стоимость затем совмещается с другими контекстуальными факторами, чтобы определить финальную стоимость движения.
 
 #ui_form_movcost_d1
-- Base cost: [x]
+- Базовая стоимость: [x]
 
 #ui_form_movcost_d2
-- Units movement speed: [x]
+- Скорость движения юнитов: [x]
 
 #ui_form_movcost_d3
-- Mounted units only ([y]%): [x]
+- Только всадники ([y]%): [x]
 
 #ui_form_movcost_d4
-- Army size ([y]%): [x]
+- Размер армии ([y]%): [x]
 
 #ui_tile_movcost
-The movement cost of this territory is used to determine the Action Points cost of units moving through it.
+Стоимость передвижения по этой территории используется для подсчета стоимости (в ОД) перемещения по этой территории.
 
 #ui_tile_movcost_d1
-- Terrain cost[y]: [x]
+- Стоимость земли [y]: [x]
 
 #ui_tile_movcost_d2
-- Diplomatic stance [y]: [x]
+- Дипломатическая позиция [y]: [x]
 
 #ui_tile_movcost_ntr
-netural
+нейтральная
 
 #ui_tile_movcost_own
-own territory
+своя территория
 
 #ui_tile_movcost_frd
-friendly territory
+дружественная территория
 
 #ui_tile_movcost_enm
-enemy territory
+вражеская территория
 
 #ui_tile_movcost_set
-is settled
+заселено
 
 #ui_form_mltreq
-Requires [x] Porcos in the territory.
+Требует [x] Свинов на территории.
 
 #ui_form_mltmiss
-Not enough population to fully pig-up this militia!
+Не достаточно населения для наполнения этого ополчения!
 
 #ui_form_diplo_p1
-This formation is peaceful towards us. 
+Этот отряд мирно настроен по отношению к нам.
 
 #ui_form_diplo_p2
-We can safely camp or pass through their territory.
+Мы может безбоязненно вставать лагерем или проходить по их территории.
 
 #ui_form_diplo_h1
-This formation is hostile towards us! 
+Этот отряд враждебен к нам!
 
 #ui_form_diplo_h2
-If this formation meets any of our units in a same territory or if we try to pass through their current location, it will trigger a battle.
+Если этот отряд пересечется с нашими войсками на одной территории или если мы попробуем пройти через их текущее местоположение, начнется битва.
 
 #ui_form_sprt
-home
+дом
 
 #ui_form_sprt_c1
-The home city supporting these units: Porcos grow old and need to be replaced by new ones coming from the home city.
+Родной город поддерживает этих юнитов: Свины стареют и должны быть заменены новыми, прибывающими из домашнего города.
 
 #ui_form_sprt_c2
-This formation currently requires [x] porcos per generation from it's home to be maintained.
+Это формирование на данный момент требует [x] свинов в каждом поколении своего родного города для пополнения.
 
 #ui_form_sethome
-Set current territory as home
+Назначить текущую территорию как домашнюю.
 
 #ui_form_invhom_1
-You cannot set empty territories as a home: it needs to be a territory you own.
+Вы не можете назначать домашними пустые территории: это должна быть ваша собственная территория.
 
 #ui_form_invhom_2
-You cannot set foreign territories as a home: it needs to be a territory you own.
+Вы не можете назначать домашними чужие территории: это должна быть ваша собственная территория.
 
 #ui_form_upkp
-Upkeep of this formation
+Стоимость содержания отряда
 
 #ui_form_upkp1
-(equipment + soldier's salary)
+(снаряжение + жалование)
 
 #ui_form_upkp2
-(lower upkeep for militias: equiment only)
+(содержание дешевле для ополчения: только снаряжение)
 
 #ui_conf_sure
-Are you sure?
+Вы уверены?
 
 #ui_conf_renonce
-WARNING: You will no longer control this territory: left on it's own, this territory will fall into anarchy.
+ОСТОРОЖНО: Вы больше не будете контролировать эту территорию: оставленная без присмотра она погрузится в анархию.
 
 #ui_conf_abandon
-The territory will be cleared. All it's population will be transfered in one of more formations, taking all the resources they can carry with them.
+Территория будет покинута. Все население переместится в один или более отрядов, забрав все ресурсы, которые сможет унести.
 
 #ui_conf_capital
-Do you really want to set this territory as your new capital ? 
+Вы действительно хотите сделать эту территорию своей новой столицей?
 
 #b_renonce
-Renounce control of this territory
+Отказаться от этой территории
 
 #err_reg_rnnc1
-This territory cannot be renounced while there is a battle taking place in it.
+От этой территории нельзя отказаться, пока на ней разворачивается сражение.
 
 #err_reg_rnnc2
-This territory cannot be renounced while it has an active resistance movement.
+От этой территории нельзя отказаться, пока на ней есть активное движение сопротивления.
 
 #b_abandon
-Evacuate this territory
+Эвакуировать территорию
 
 #err_reg_abdn1
-This territory cannot be evacutated while there is a battle taking place in it.
+Эта территория не может быть эвакуирована пока на ней разворачивается сражение.
 
 #err_reg_abdn2
-This territory cannot be evacutated because it's loyalty is too low.
+Эта территория не может быть эвакуирована, так как ее лояльность слишком низкая.
 
 #err_reg_abdn3
-This territory cannot be evacutated while it has an active resistance movement.
+Эта территория не может эвакуирована, пока на ней есть активное движение сопротивления.
 
 #b_regclaim
-Claim territory
+Претендовать на территорию
 
 #b_regunclaim_1
-Unclaim territory
+Отказаться от территории
 
 #b_regunclaim_2
-WARNING: You will lose 2 of Honor!
+ОСТОРОЖНО: Вы потеряете 2 очка Чести!
 
 #regclaim_title
-Claiming territory...
+Притязание на территорию...
 
 #regclaim_txt
-You can claim this territory and attach it to one of your territories. This will cost Administration from the territory's main city.
+Вы можете претендовать на эту территорию и присоединить ее к одной из своих территорий. Это будет стоить Администрацию из вашего столичного города.
 
 #regclaim_par
-Parent territory
+Родительская территория.
 
 #regclaim_err1
-You cannot claim this territory because its currently occupied by foreign units!
+Вы не можете претендовать на эту территорию, так как в данный момент она занята иностранными юнитами!
 
 #regclaim_err2
-Insufficient Administration! You cannot claim any new territories with this region.
+Недостаточно Администрации! Вы не можете претендовать на новые территории с этим регионом.
 
 #regclaim_err3
-Colonies cannot claim new territories!
+Колонии не могут претендовать на территории!
 
 #regclaim_acst
-Administration cost
+Стоимость Администрации
 
 #regclaim_acst_c1
-Maintaining this claim will cost [x] of Administration from the parent territory.
+Поддержка этого притязания будет стоить [x] Администрации для родительской территории.
 
 #b_movcapit
-Set this territory as capital
+Назначить эту территорию столицей
 
 #b_actv_trt_perm
-permanent engagement
+бессрочное действие
 
 #b_actv_trt_engov
 engagement over
 
 #b_actv_trt_eng
-engaged for
+действует на
 
 #b_actv_trt_m1
-You
+Вы
 
 #b_actv_trt_m2
-Other
+Противоположная сторона
 
 #b_actv_trt_cancel
-cancel treaty
+отменить договор
 
 #ui_wrldmov_er1
-This formation is already in the territory.
+Этот отряд уже на территории.
 
 #ui_wrldmov_er2
-You cannot move here.
+Здесь не пройти.
 
 #ui_wrldmov_er3
-This formation is currently immmobilized and cannot move!
+Отряд обездвижен!
 
 #ui_wrldmov_er4
-You cannot move here because you have no right of passage with the owner of this territory!
+Вы не можете здесь перемещаться, так как у вас нет права прохода по территории владельца!
 
 #ui_wrldmov_er5
-This formation cannot break camp until it has at least 50 Action Points.
+Этот отряд не может разбить лагерь, пока не накопит хотя бы 50 ОД.
 
 #formimob_er1
-You cannot give any orders to this formation because its currently immobilized!
+Вы не можете отдавать иные приказы отряду, т.к. он обездвижен!
 
 #ui_bdg_nbprod
-Number of workers that are assigned to production.
+Количество работников занятых на производстве.
 
 #ui_bdg_nbdstb
-Number of workers assigned to selling the produced goods of this building.
+Количество работников занятых в продаже произведенных этим зданием товаров.
 
 #ui_bdg_nbrsrch
-Number of workers busy with current research projects.
+Количество работников, занятых в текущих исследовательских проектах.
 
 #ui_bdg_nbrsrch2
-[x] [y] out of [z] in this territory are currently assigned to research projects.
+[x] [y] из [z] на этой территории в данный момент заняты в исследовательских проектах.
 
 #ui_bdg_ef_dscr
-Current efficiency of workers, affecting the total workforce of the building.
+Текущая эффективность работников, влияющая на производительность здания.
 
 #ui_bdg_wf_dscr
-Total amount of work that this building can currently get done.
+Общее выработка, которую может обеспечить это производство.
 
 #ui_bdg_wf_dscr2
-[x] producing workers * [y] efficiency = [z] of total workforce
+[x] активных работников * [y] эффективность = [z] общая выработка
 
 #ui_bdg_wl_dscr
-How much this building contributes to the total territory's wealth.
+Какой вклад это здание делает в общее богатство территории.
 
 #ui_bdg_wl_dscr2
-[x] of producing workforce * [y] = [z] of additionnal wealth
+[x] эффективной выработки * [y] = [z] добавленной стоимости
 
 #ui_bdg_wu_dscr
-How much of the available workforce is currently being used and busy producing.
+Какая часть доступной рабочей силы используется для производства.
 
 #ui_bdg_wu_dscr2
-If below 100%, it means the workers are not working at their full capacity.
+Если меньше 100%, это значит, что работники трудятся не в полную силу.
 
 #ui_bdg_ef1_dscr
-The base efficiency of the building itself.
+Базовая эффективность самого здания.
 
 #ui_bdg_ef1_dscr2
-Can be increased by upgrading the building, unlocked by technologies.
+Может быть улучшена за счет улучшения здания, открывается технологиями.
 
 #ui_bdg_ef2_dscr
-Total effect of the state on this building's efficiency.
+Общий влияние государства на эффективность здания.
 
 #ui_bdg_ef2_dscr2
-Many state policies affect the efficiency of buildings.
+Множество политик влияет на эффективность зданий.
 
 #ui_bdg_ef3_dscr
-The building's placement effect on it's efficiency.
+Влияние расположения здания на его эффективность.
 
 #ui_bdg_ef3_dscr2
-Road connection and proximity of certain other buildings can affect it's efficieny [not implemented yet].
+Соединение дорогами и близость некоторых зданий может влиять на его эффективность [пока не реализовано].
 
 #ui_bdg_ef4_dscr
-If unprofitable for its workers, efficiency of the building is progressively reduced.
+Эффективность производства последовательно уменьшается, если оно невыгодно его работникам.
 
 #ui_bdg_proddet
-PRODUCTION DETAILS
+ПОДРОБНОСТИ ПРОИЗВОДСТВА
 
 #ui_bdg_pdet_1
-sold directly
+прямые продажи
 
 #ui_bdg_pdet_1_c
-[x]% of the production is put on the market directly by the workers of this building.
+[x]% продукции напрямую направляется на рынок работниками.
 
 #ui_bdg_pdet_s
-[x]% of it ([y]) is successfuly sold at a price of [z] per unit (unsold stocks are lost).
+[x]% от ([y]) успешно продается по цене [z] за штуку (не проданные запасы теряются).
 
 #ui_bdg_pdet_2
-sold via traders
+продажа через посредников
 
 #ui_bdg_pdet_2_c
-[x]% of the production is put on the market via traders who keep a share of the benefits.
+[x]% продукции поступает на рынок через торговцев, оставляющих себе часть прибыли.
 
 #ui_bdg_pdet_3
-sold to producers
+продажи для переработки
 
 #ui_bdg_pdet_3_c
-[x]% of the production is sold to other industries or services.
+[x]% продукции закупают другие производства и службы.
 
 #ui_bdg_pdet_4
-exported
+экспортируется
 
 #ui_bdg_pdet_4_c
-[x]% of the production is exported to foreign markets
+[x]% продукции экспортируется на иностранные рынки.
 
 #ui_bdg_pdet_5
-state sales
+гос-закупки
 
 #ui_bdg_pdet_5_c1
-Incomes from sales to the state (you) are buffered and slowly transfered back to the workers, generating income for a longer time.
+Доходы от продажи государству (вам) накапливаются и медленно передаются работникам, генерируя доход на долгом промежутке времени.
 
 #ui_bdg_pdet_5_c2
-From auto-purchases: [x] coins ([y] resources).
+От авто-закупок: [x] монет ([y] ресурсов).
 
 #ui_bdg_pdet_5_c3
-From past purchases: [x] coins.
+От прошлых закупок: [x] монет.
 
 #ui_bdg_pdet_6
-production cost
+стоимость производства
 
 #ui_bdg_pdet_6_c
-Expenses to buy required materials for the production.
+Стоимость сырья.
 
 #ui_bdg_pdet_7
-total income
+общий доход
 
 #ui_bdg_pdet_7_c
-The total gross income (before taxes) for this production.
+Общий валовой доход (без вычета налогов) для этого производства.
 
 #ui_bdgbudget_1
 продажи
 
 #ui_bdgbudget_1_c
-Total raw income from all sales made by the building.
+Общий доход со всех продаж продукции этого здания.
 
 #ui_bdgbudget_2
 цена производства
 
 #ui_bdgbudget_2_c
-The cost of all required materials for production, if any.
+Стоимость сырья, если требуется.
 
 #ui_bdgbudget_3
 налоги
 
 #ui_bdgbudget_3_c
-Amount of income taxed by the state (you). This is the actual income this building's activity generates for you.
+Размер налога взимаемого государством (вами). Это доход, генерируемый зданием для вас.
 
 #ui_bdgbudget_4
 доход работника
 
 #ui_bdgbudget_4_c
-The net income left after all costs and taxes, shared between all the workers employed by this building.
+Чистая прибыль после вычета налогов и стоимости сырья, разделяемая между всеми работниками.
 
 #ui_bdgbudget_5
 доля производителя
 
 #ui_bdgbudget_5_c
-The share of the sales that goes back to the producers of the resources: merchants only pay them depending on the sales and unsold stocks are not paid.
+Доля от продаж, уходящая производителю ресурсов: торговцы платят им в зависимости от продаж и не распроданные товары не оплачиваются.
 
 #ui_bdgind_nbprd1
-The current number of productions, depending on the buidlings's workforce and required materials availablity.
+Текущий размер производства, зависящий от количества работников в здании и доступности сырья.
 
 #ui_bdgind_nbprd2
-Each production generates [x] units of [y] and require [z] of workforce. 
+Каждое производство создает [x] единиц [y] и требует [z] работников. 
 
 #ui_bdgind_prcnt1
-The current production rate, depending of all the required material's availabilities.
+Текущий темп производства, зависящий от доступности всех требуемых материалов.
 
 #ui_bdgind_prcnt2
-[x]% of the total workforce of [y] is working = [z] of productive workforce.
+[x]% от производственных сил в [y] выполняющих работу = [z] эффективная рабочая сила.
 
 #ui_bdgind_curprod
-Currently producing [x] units of [y] [z].
+В данный момент производит [x] единиц [y] [z].
 
 #ui_bdgind_curcons
-Currently consumming [x] units of [y] [z] for this production.
+В данный момент потребляет [x] единиц [y] [z] для производства.
 
 #ui_bdgind_mat1
-Set to use [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+Назначить [x] сырьем для производства [y]. Потребность в этом материале удовлетворена на [z]%. 
 
 #ui_bdgind_mat2
-Automatically using [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+Автоматически использовать [x] в качестве материала для производства [y]. Потребность в этом материале удовлетворена на [z]%. 
 
 #ui_bdgind_recip
-It takes [x] of [y] for every unit of [z] produced.
+Для производства единицы [z] требуется [x] [y].
 
 #ui_bdgind_byprod
-Producing [x] [y] as byproducts.
+Производит [x] [y] как побочный продукт.
 
 #ui_bdgcstr_title
-In construction...
+Идет строительство...
 
 #ui_bdgcstr_self
-Self-constructing
+Строится своими силами
 
 #ui_bdgcstr_self_c
-Some simple buildings can be built without professional builders, and will self construct even without any.
+Некоторые простые здания не требуют для постройки профессиональных строителей.
 
 #ui_bdgcstr_bdrs
-Builders
+Строители
 
 #ui_bdgcstr_bdrs_c
-The amount of construction work this building is currently getting from from professional builders.
+Количество рабочей силы, здание получает от профессиональных строителей.
 
 #ui_regres_inv
-Inventory
+Инвентарь
 
 #ui_regres_inv_c
-Listing all the resources and services of this territory.
+Список всех ресурсов и услуг на этой территории.
 
 #ui_regres_mtrd
-Market trades
+Рыночная торговля
 
 #ui_regres_mtrd_c
-To buy and sell stocks of resources
+Купить и продать партии ресурсов
 
 #ui_regres_trt
-Trade routes
+Торговые пути
 
 #ui_regres_trt_c
-To transfer a constant flux of resources between territories.
+Постоянный поток ресурсов между территориями.
 
 #ui_regres_addrt
-New trade route
+Новый торговый маршрут
 
 #ui_regres_buysell
-Buy and sell
+Купить и продать
 
 #ui_regres_totimp
-Importations
+Импорт
 
 #ui_regres_totimp_c1
-Imported goods are bought by you at their trade route price and are then sold in the territory at their local price.
+Импортируемые товары приобретаются вами по цене, установленной для этого торгового пути, и затем продаются на территории по местной цене.
 
 #ui_regres_totimp_c2
-Purchasing cost from the trade route:
+Стоимость покупки на торгового пути:
 
 #ui_regres_totimp_c3
-Local sales:
+Местные продажи:
 
 #ui_regres_totimp_c4
-Purchased cargo:
+Заказанные грузоперевозки:
 
 #ui_regres_totexp
-Exportations
+Экспорт
 
 #ui_regres_totexp_c1
-Exported goods are bought by you at their local price from the producers of this territory and are then sold at their trade route price to the importer.
+Экспортируемые товары закупаются вами по местной цене у производителей и на этой территории и продаются по цене торгового пути импортеру.
 
 #ui_regres_totexp_c2
-Purchasing cost from local producers:
+Цена покупки у местных производителей:
 
 #ui_regres_totexp_c3
-Income from trade route sales:
+Доход от торговли по торговому пути:
 
 #ui_regres_totexp_c4
-Sold cargo:
+Проданные грузоперевозки:
 
 #ui_regres_addofr
-Add offer
+Добавить предложение
 
 #ui_regres_trsf
-TRANSFER
+ПЕРЕВОЗКА
 
 #ui_regres_imp
-IMPORT
+ИМПОРТ
 
 #ui_regres_exp
-EXPORT
+ЭКСПОРТ
 
 #ui_regres_buy
-BUY
+КУПИТЬ
 
 #ui_regres_sell
-SELL
+ПРОДАТЬ
 
 #ui_regres_imps
-Current importations
+Текущий импорт
 
 #ui_regres_exps
-Current exportations
+Текущий экспорт
 
 #ui_regres_oper
-Operated trade routes
+Действующие торговые пути
 
 #ui_regres_makeav
-available to trade network
+доступно для торговой сети
 
 #ui_regres_makeav_c
-If enabled, the cargo service of this territory will also be available for rent to everyone in your trading network.
+При включении, служба грузоперевозок этой территории будет также доступна для всех в вашей торговой сети.
 
 #ui_regres_tax
-tax
+налог
 
 #ui_regres_tax_c
-Taxing a percentage of the total value of all goods of every trade route operated by this city.
+Взимание налога с итоговой стоимости всех товаров всех торговых путей проходящих через этот город.
 
 #ui_regres_pndng
-Our offers
+Наши предложения
 
 #ui_regres_prod
-Production
+Производство
 
 #ui_regres_bal
-In stock
+На складах
 
 #ui_regres_lprc
-Local price
+Местная цена
 
 #ui_regres_atprc
-at price
+по цене
 
 #ui_regres_noinp
-[type a resource name]
+[введите имя ресурса]
 
 #ui_newofr_noprod
-You cannot export this resource because you do not have any production or stocks of it.
+Вы не можете использовать этот ресурс, так как у вас нет его производства или запасов.
 
 #ui_newofr_notrd
-Not enough trading service to create this offer!
+Не достаточно возможностей грузоперевозок, чтобы создать это предложение!
 
 #ui_newofr_sent
-New trade route offer sent!
+Послано новое предложение торгового пути !
 
 #ui_regres_pndng2
-Our current trade-route offers:
+Наши текущие предложения торгового пути:
 
 #ui_regres_off1
-Available offers in our trading network:
+Доступные в нашей торговой сети предложения:
 
 #ui_regres_off2
-Competing offers in our trading network:
+Конкурирующие предложения в нашей торговой сети:
 
 #ui_regres_cancel
-Cancel trade offer
+Отменить торговое предложение
 
 #button_trtimp_c1
-You are currently importing [x] of [y] from [z] into this territory for a total of [v] coins.
+Сейчас в импортируете [x] [y] из [z] на эту территорию на общую сумму [v] монет.
 
 #button_trtexp_c1
-You are currently exporting [x] of [y] to [z] for a total of [v] coins.
+Сейчас вы экспортируете [x] [y] в [z] на общую сумму [v] монет.
 
 #button_trtcargo
-Requiring [x] of Cargo, operated by [y]. 
+Требует [x] грузоперевозок, управляется из [y]. 
 
 #ui_ofrcanceled
-Trade offer canceled!
+Торговое предложение отменено!
 
 #ui_troute_opnw
-Opening new trade route...
+Открытие нового торгового пути...
 
 #ui_troute_optr
-Trade route operator
+Оператор торгового пути
 
 #ui_troute_dscr
-A trade route transfers a constant flux of resources between cities. It requires a cargo service to operate. 
+По торговому пути между городами непрерывно перемещаются ресурсы. Для работы ему требуется услуга грузоперевозок. 
 
 #ui_troute_opdscr1
-The trade route operator is the city dealing with the transportation of the goods.
+Оператор торгового пути - это город, обеспечивающий транспортировку по нему товаров.
 
 #ui_troute_opdscr2
-It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
+Это может быть город открывающий торговый путь или любой другой внутри вашей торговой сети, предоставляющий услугу грузоперевозок. 
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+Стоимость грузоперевозок экспоненциально зависит длине торгового пути. Выбор города, расположенного в середине вашего торгового пути, в качестве оператора сильно уменьшит стоимость грузоперевозки.
 
 #ui_troute_vol
-Cargo volume
+Объем грузоперевозок
 
 #ui_troute_cargorq
-CARGO REQUIRED
+ТРЕБУЕТСЯ ГРУЗОПЕРЕВОЗОК
 
 #ui_troute_cargorq_c1
-The amount of cargo service needed to operate this trade route.
+Объем услуг грузоперевозок, требуемый для работы этого торгового пути.
 
 #ui_troute_cargorq_c2
-distance factor * cargo volume
+фактор дистанции * объем грузов
 
 #ui_troute_distf
-Distance factor
+Фактор дистанции
 
 #ui_troute_distf_c1
-This factor depends of the longest of the 2 distances between the operator and each one of the trade route's destinations. 
+Этот фактор зависит от большего расстояния между оператором и 2 концами торгового пути.
 
 #ui_troute_distf_c2
-longest distance from operator
+Наибольшее расстояние от оператора
 
 #ui_troute_opetax
-OPERATOR TAX
+ПОШЛИНА ОПЕРАТОРА
 
 #ui_troute_opetax_c1
-A trade route operator may also tax a percentage of the value of all goods transiting through their territory.
+Оператор торгового пути может взимать пошлину в виде процента стоимости всех товаров проходящих по их территории.
 
 #ui_troute_maxava
-Cargo available
+Доступно грузоперевозок
 
 #ui_troute_maxava_c1
-The amount of cargo service currently available in the operator.
+Количество грузоперевозок доступное у оператора.
 
 #ui_troute_edit
-Editing existing trade route...
+Изменение существующего торгового пути...
 
 #ui_troute_apl1
-Open trade route
+Открыть торговый путь
 
 #ui_troute_apl2
-Apply
+Применить
 
 #ui_troute_cgcost_c1
-Total cost of cargo using this territory as the trade route operator.
+Общая стоимость грузоперевозок предоставляемых этой территорией как оператором.
 
 #ui_troute_totcost
-TOTAL TRADE ROUTE COST
+ОБЩАЯ СТОИМОСТЬ ТОРГОВОГО ПУТИ
 
 #ui_troute_totcost_c1
-The total cost of maintaining this trade route.
+Общая стоимость поддержки этого торгового пути.
 
 #ui_troute_bdgtdscr1
-The state pays and owns the entirety of the imported goods from the exporting city, regardless of their later use.
+Государство покупает и владеет всеми импортируемыми товарами, не зависимо от их дальнейшего использования. 
 
 #ui_troute_bdgtdscr2
-All the later incomes made locally from the selling of these goods are then entirely for the state.
+Все последующие доходы, полученные на месте от продажи этих товаров, полностью принадлежат государству.
 
 #ui_troute_bgc
-goods cost
+Стоимость покупки товаров в городе-импортере.
 
 #ui_troute_bgc_c1
-The cost of purchasing goods to the exporting city.
+Стоимость покупки товаров в городе-экспортере.
 
 #ui_troute_bcc
-cargo cost
+стоимость грузоперевозок
 
 #ui_troute_bcc_c1
-The cost of the cargo service purchased to the trade route operator.
+Стоимость услуги грузоперевозок, закупаемой у оператора торгового пути.
 
 #ui_troute_bt
-operator tax
+пошлина оператора
 
 #ui_troute_bt_c1
-The amount paid to the operator taxing goods transiting through their city.
+Сумма, передаваемая оператору провозящему товары через свой город.
 
 #ui_troute_open
-Opened a new trade route!
+Открыт новый торговый путь!
 
 #ui_troute_err1
-Cannot open trade route because the selected operator cannot provide the required cargo service!
+Нельзя открыть торговый путь, так как выбранный оператор не может предоставить требуемого объема грузоперевозок!
 
 #ui_troute_close
-Close this trade route
+Закрыть этот торговый путь
 
 #menu_nfrm_title
-Creating a new formation...
+Создание нового отряда...
 
 #menu_nfrm_fname
-Formation's name
+Имя отряда
 
 #menu_nfrm_chtp
-Select a type of formation
+Выберите тип отряда
 
 #menu_nfrm_type1
-Army
+Армия
 
 #menu_nfrm_t1_dscr1
-An army is composed by permanently mobilized units, costing upkeep.
+Армия состоит из постоянно мобилизованных юнитов и требует оплаты. 
 
 #menu_nfrm_t1_dscr2
-They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+Им требуется постоянное пополнение из дома, а набор новых свинов забирает их с домашней территории.
 
 #menu_nfrm_t1_dscr3
-Armies can move into other territories and their presence increases state authority.
+Армии могут перемещаться между территориями, увеличивая на них государственную власть.
 
 #menu_nfrm_type2
-Militia
+Ополчение
 
 #menu_nfrm_t2_dscr1
-A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+Ополчение состоит из жителей территории, мобилизуясь только, чтобы защитить территорию во время нападения.
 
 #menu_nfrm_t2_dscr2
-Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Ополчение не мобилизует свинов на постоянной основе, позволяя им сохранять работу. Стоимость его содержания ниже, так как ополченцы не получают зарплату.
 
 #menu_nfrm_t2_dscr3
-However , the militia cannot move to other territory s and decreases the state authority.
+Однако, ополчение не может перемещаться на другие территории и снижает государственную власть.
 
 #menu_nfrm_type3
-National army
+Национальная армия
 
 #menu_nfrm_t3_1
-A national army is similar to a regular army except that its also controllable by any of your superiors in your Nation's hierarchy, allowing you to delegate its control in case of national wars and operations.
+Национальная армия похожа на обычную армию, за исключением того, что ей могут управлять любые из ваших сюзеренов в национальной иерархии, позволяя вам делегировать контроль над ней в случае национальных войн и операций.
 
 #menu_nfrm_t3_2
-National armies also give their authority bonus to all regions of the Nation, even if its owned by a different character.
+Национальные армии дают бонус к государственной власти всем регионам Нации, даже если они принадлежат другому персонажу.
 
 #menu_nfrm_t3_3
-Note that you can convert a regular army into a National one at will and vice-versa.
+Вы можете переводить обычную армию в Национальную и наоборот когда захотите.
 
 #menu_trbuy_title
-Buying resource...
+Покупка ресурса...
 
 #menu_trbuy_buy
-BUY
+КУПИТЬ
 
 #menu_trbuy_cost
-Purchase cost
+Стоимость закупок
 
 #menu_trbuy_bght
-Bought [x] of [y] for [z] coins!
+Закуплено [x] единиц [y] за [z] монет!
 
 #ui_evidea_yes
-<<Yes, let's see what they need for this project!>>
+<<Да, давайте узнаем, что они хотят за этот проект!>>
 
 #ui_evidea_no
-<<This is a waste of time.>>
+<<Мы только время теряем.>>
 
 #menu_bdg_up_err1
-You're missing [x] of [y] to upgrade this building to [z].
+Вам не хватает [x] [y] для улучшения этого здания до [z].
 
 #menu_bdg_up_err2
-You do not have enough coins to upgrade this building to [x].
+У вас нет достаточно монет для улучшения этого здания до [x].
 
 #menu_bdg_up_err3
-This upgrade requires professionnal construction and you do not have any builders!
+Это улучшение требует профессиональных строителей, а у вас их нет!
 
 #menu_tch_curknw
-Current knowledges
+Имеющиеся знания
 
 #menu_tch_curuse
-Knowledge use
+Использование знаний
 
 #menu_tch_curuse_c1
-Your societe currently has [x] of knowledges, and a capacity to store [y].
+У вашего общества сейчас есть [x] знаний, и способность хранить [y].
 
 #menu_tch_curuse_c2
-You will lose knowledges if your storage capacity gets lower than your current knowledges.
+Вы потеряете знания, если объем, доступный для хранения, становится меньше объема имеющихся знаний.
 
 #menu_tch_str_cult
-Culture
+Культура
 
 #menu_tch_str_cult1
-Culture gives you knowledge storage capacity, proportionally to your total culture.
+Культура дает вам способность хранить знания, пропорциональную вашей культуре.
 
 #menu_tch_str_lbr
-Libraries
+Библиотеки
 
 #menu_tch_str_lbr1
-Each library building in service increases your knowledge storage capacity.
+Каждое здание библиотеки увеличивает вашу способность хранить знания.
 
 #menu_tch_prjcts
-Projects
+Проекты
 
 #menu_tch_prj_cur
-Current Projects
+Текущие Проекты
 
 #menu_tch_prj_avail
-Available Projects
+Доступные Проекты
 
 #menu_tch_prj_dnd
-Rejected Projects
+Отвергнутые Проекты
 
 #menu_tch_prj_rwd
-Project rewards:
+Награды проекта:
 
 #menu_prj_inpgr
-In progress...
+В процессе...
 
 #menu_prj_new
-New project...
+Новый проект...
 
 #menu_prj_req
-Starting requirements:
+Требования для запуска:
 
 #menu_prj_reqkn
-You need [x] free space of knowledges to launch this project.
+Вам нужно [x] свободного знания, чтобы запустить этот проект.
 
 #menu_prj_rcoin1
-Project base cost: [x] coins
+Базовая стоимость проекта: [x] монет
 
 #menu_prj_rcoin2
-Required  materials cost: [x] coins
+Стоимость расходных материалов: [x] монет
 
 #menu_prj_rmat1
-Needs [x] [y] from [z]
+Требует [x] [y] из [z]
 
 #menu_prj_rmat2
-(click to select a different territory)
+(щелкните, чтобы выбрать другую территорию)
 
 #menu_prj_start
-START PROJECT
+НАЧАТЬ ПРОЕКТ
 
 #menu_prj_diff
-Difficulty
+Сложность
 
 #menu_prj_work
-Research
+Изучить
 
 #menu_prj_rschrs
-Researchers
+Исследователи
 
 #menu_prj_rwk
-Work
+Работа
 
 #menu_prj_rwk_c1
-All the assigned researchers currently generate [x] research points [y].
+Все назначенные исследователи сейчас генерируют [x] очков исследования [y].
 
 #menu_prj_rwk_c2
-* from [x] main researchers: [y] research points.
+* от [x] главных исследователей: [y] очков исследования.
 
 #menu_prj_rwk_c3
-* from [x] extra researchers: [y] research points.
+* от [x] дополнительных исследователей: [y] очков исследования.
 
 #menu_prj_nb1
-This project ideally requires up to [x] researchers.
+Проект в идеале требует до [x] исследователей.
 
 #menu_prj_nb2
-While you can assign extra researchers beyond this number, their contributions to the project are greatly reduced.
+Хотя вы и можете назначить дополнительных исследователей свыше этого числа, их вклад в проект будет сильно снижен.
 
 #menu_prj_rtyp
-This project requires [x] as researchers.
+Этот проект требует [x] в качестве исследователей.
 
 #menu_prj_bdgt_r
-Researchers
+Исследователи
 
 #menu_prj_bdgt_p
-Project
+Проект
 
 #menu_prj_bdgt
-Budget
+Бюджет
 
 #menu_prj_bdgt_c1
-The total maintenance cost for this project, to be paid continuously until the project is completed.
+Общая стоимость обеспечения проекта, регулярно выплачиваемая, пока проект не будет завершен.
 
 #menu_prj_norsch
-Assign researchers to the project to be able to start it!
+Назначьте в проект исследователей, чтобы начать его!
 
 #menu_prj_pgrss
-This project is [x]% completed
+Этот проект завершен на [x]%
 
 #menu_prj_addnewr
-click to assign new researchers to the project
+щелкните, чтобы назначить новых исследователей
 
 #menu_prj_br_c1
-[x] researchers from [y] are currently assigned to this project and produce [z] research points to complete it.
+[x] исследователей из [y] в данный момент назначены в проект и производят [z] очков исследования, чтобы его завершить.
 
 #menu_prj_br_c2
-( click to edit the number of assigned researchers from this territory )
+( щелкните, чтобы изменить количество назначенных из этой территории исследователей )
 
 #menu_prj_none1
-You don't have any projects available!
+У вас нет доступных проектов!
 
 #menu_prj_none2
-Projects are unlocked by "Ideas": events that are triggered by your population. Improving the intelligence and life quality of your population is generally a good way to increase odds of getting new ideas.
+Проекты открываются "Идеями": событиями, провоцируемыми вашим населением. Увеличение интеллекта и качества жизни вашего населения обычно представляет собой хороший способ увеличить шанс получения новых идей.
 
 #menu_prj_none3
-Projects then require researchers and time as well as materials and buget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
+Проекты затем требуют исследователей и время, а также материалы и деньги. В случае успешного завершения, она дают вам награды, такие как открытие нового "Знаниния".
 
 #menu_rschr_title
-Adding researchers...
+Добавление исследователей...
 
 #menu_rschr_type
-Researching population for this project
+Население исследователей для этого проекта
 
 #menu_rschr_frm
-From
+Из
 
 #menu_rschr_time
-Estimated time to complete this project
+Прогнозируемое время выполнения проекта
 
 #menu_rschr_odds
-success
+успех
 
 #menu_rschr_odds_c1
-Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will need to be restarted from scratch.
+По завершении, этот проект на данный момент имеет [x]% шансов на успех. В случае неудачи, проект нужно будет начать заново.
 
 #menu_rschr_odds_c2
-100 +researchers efficiency [x] -difficulty [y] = [z]% success odds
+100 +эффективности исследователей [x] -сложность [y] = [z]% шансы на успех
 
 #menu_rschr_all
-All population
+Все население
 
 #menu_rschr_noav
-No [x] currently available in this city!
+В этом городе сейчас не достать [x]!
 
 #prj_strt_err1
-You need to assign researchers before starting this project!
+Вы должны назначить исследователей, прежде чем начать проект!
 
 #prj_strt_err2
-You are missing coins to start this project!
+Вам хватает моент, чтобы начать этот проект!
 
 #prj_strt_err3
-You are missing required materials to start this project!
+Вам не хватает материалов, чтобы начать этот проект!
 
 #ui_tech_alw
-Allows...
+Позволяет...
 
 #ui_tech_bdg
 Новое строение
@@ -3726,838 +3725,838 @@ Allows...
 Забыть знание
 
 #ui_tech_cantfgt
-You cannot forget this knowledge because it is currently required by other more recent ones such as: '[x]'.
+Вы не можете забыть это знание, так как на данный момент оно нужно для более новых, таких как: '[x]'.
 
 #ui_techfrgt_1
 Забыть это знание ?
 
 #ui_techfrgt_2
-Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all it's current effects. You will need to complete it's project again in order to recover it if you need to.
+Осторожно! Это действие не может быть отменено. Знание будет немедленно удалено и потеряете все его текущие эффекты. Вам понадобится вновь завершить проект, чтобы восстановить его, если понадобится.
 
 #pop_all
-total population
+общее население
 
 #fstate_inact
-Idle
+Неподвижен
 
 #fstate_encamp
-Encamped
+На привале
 
 #fstate_mov
-Moving
+Движется
 
 #fstate_fight
-In combat
+Сражается
 
 #fstate_immo
-Immobilized
+Обездвижен
 
 #menu_scr_w
-Wealth
+Богатство
 
 #menu_scr_w_c
-Score from the total wealth produced in all your territories.
+Счет общего богатства, производимого на всех ваших территориях.
 
 #menu_scr_c
-Culture
+Культура
 
 #menu_scr_c_c
-Score from your total culture (state culture).
+Счет вашей культуры (государственной культуры).
 
 #menu_scr_k
-Knowledges
+Знания
 
 #menu_scr_k_c
-Score from your total knowledges.
+Счет ваших знаний.
 
 #menu_scr_p
-Military
+Военная сила
 
 #menu_scr_p_c
-Score from your total military power. Does not include Militias.
+Счет вашей военной силы. Не включает ополчение.
 
 #menu_scr_v
-Subordinates
+Подчиненные
 
 #menu_scr_v_c
-Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
+Счет ваших подчиненных: вы получаете небольшую часть очков всех ваших прямых подчиненных.
 
 #menu_scr_tot
-Score
+Счет
 
 #menu_scr_tot_c
-You personnal score.
+Ваш персональный счет.
 
 #menu_scr_vpscr
-From Par score
+Номинальный счет
 
 #menu_scr_vpscr_c1
-Par score is your score above the reference score of [y]pts. You get 1 Victory point for every [x]pts of Par score.
+Номинальный счет - это ваш счет, превышающий базовый счет в [y] очков. Вы получаете 1 Победное очко за каждые [x] очков Номинального счета.
 
 #menu_scr_vpscr_c2
-The average score and the cost of each victory points are dynamic and based on all player's scores.
+Средний счет и стоимость каждого Победного очка динамично изменяются и зависят от счетов всех игроков.
 
 #menu_scr_vpmiss
-Missions
+Миссии
 
 #menu_scr_vpmiss_c
-Victory points you earned by completing Victory point missions.
+Победные очки, которые вы завоевываете, выполняя миссии.
 
 #menu_scr_vp
-Victory points
+Победные очки
 
 #menu_scr_vp_c
-You personnal victory points.
+Выши персональные победные очки.
 
 #menu_scr_avg
-Reference Score
+Базовый счет
 
 #menu_scr_avg_c1
-Used to determine your Par Score. It's value is based on all player's scores. 
+Используется для определения вашего Номинального счета. Его значение зависит от счетов всех игроков.
 
 #menu_scr_avg_c2
-Having a personnal score above it grants victory points.
+Если ваш персональный счет выше базового, вы получаете победные очки.
 
 #menu_scr_vpcost
-Victory point cost
+Стоимость победных очков
 
 #menu_scr_vpcost_c
-The amount of points you need above the reference score to be granted each Victory point.
+Количество очков, на которое должен быть превышен базовый счет, чтобы вы получили одно Победное очко.
 
 #menu_scr_frna
-for Nation
+для Нации
 
 #menu_scr_frnas_c
-How much points you are currently contributing to your Nation's score. The lower in the ranks, the less you contribute.
+Сколько очков вы вносите в счет вашей Нации. Чем ниже вы в ранке, тем меньше ваш вклад.
 
 #menu_scr_frnavp_c
-How much victory points you are currently contributing to your Nation's Victory Points. The lower in the ranks, the less you contribute.
+Сколько победных очков вы приносите вашей Нации. Чем ниже вы в ранге, тем меньше ваш вклад.
 
 #menu_nscr_name
-Your nation
+Ваша нация
 
 #menu_nscr_rank
-Your nation's rank
+Ваш ранг в нации
 
 #menu_nscr_scr
-Your nation's total score
+Общий счет вашей нации
 
 #menu_nscr_vp
-Your nation's total Victory points
+Победные очки вашей нации
 
 #menu_scr_govnam
-Your personnal government's name
+Название вашего собственного правительства
 
 #menu_scr_t1
-Rank
+Ранг
 
 #menu_scr_t2
-Nation
+Нация
 
 #menu_scr_t3
-Score
+Счет
 
 #menu_scr_t4
-Victory points
+Победные очки
 
 #majmess_reglost
-You have lost control of the territory!
+Вы потеряли контроль над территорией!
 
 #b_buildprevbdg
-Obsolete version: [x]
+Устаревшая версия: [x]
 
 #b_admitdft
-ADMIT DEFEAT
+СДАТЬСЯ
 
 #ui_admitdft
-You have admitted your defeat!
+Вы признали поражение!
 
 #ui_battleover
-Battle is over!
+Битва закончена!
 
 #ui_terinf_fert
-Fertility
+Плодородие
 
 #ui_terinf_grndw
-Groundwater
+Грунтовые воды
 
 #btl_objtv_neut
-neutral
+нейтрально
 
 #btl_objtv_raid
-raiding territory
+грабеж территории
 
 #btl_objtv_sack
-sacking territory
+разорение территории
 
 #btl_objtv_inv
-invading
+вторжение
 
 #btl_objtv_def
-defending
+защита
 
 #btl_objtv_defa
-assisting defense
+помощь в защите
 
 #btl_objtv_atta
-assisting attack
+помощь в нападении
 
 #btl_objtv_hunt
-hunting
+охота
 
 #btl_rslt_dead
-died
+гибель
 
 #btl_rslt_deft
-defeated
+поражение
 
 #btl_rslt_vict
-victorious
+победа
 
 #btl_rslt_neutr
-was neutral
+было нейтрально
 
 #btlrslt_neutr
-NEUTRAL
+НЕЙТРАЛЬНЫЕ
 
 #btlrslt_att
-ATTACKERS
+НАПАДЮЩИЕ
 
 #btlrslt_def
-DEFENDERS
+ЗАЩИЩАЮЩИЕСЯ
 
 #btlrslt_loot
-BATTLE LOOT
+ВОЕННЫЕ ТРОФЕИ
 
 #btlrslt_unit
-units
+юниты
 
 #btlrslt_loss
-losses
+потери
 
 #btlrslt_kill
-kills
+убийства
 
 #btlrslt_totloot
-total loot
+общая добыча
 
 #rcvloot_reg
-We received loot in [x]:
+Мы получили добычу в [x]:
 
 #rcvloot_form
-Our formation received loot:
+Наш отряд получил добычу:
 
 #gamelob_genav
-Generate avatar
+Создать случайный аватар
 
 #gamelob_face
-Face
+Морда
 
 #gamelob_eyes
-Eyes
+Глаза
 
 #gamelob_snout
-Snout
+Рыло
 
 #gamelob_mouth
-Mouth
+Пасть
 
 #gamelob_nam
-Character's name
+Имя персонажа
 
 #gamelob_randnam
-Generate a random name
+Создать случайное имя
 
 #gamelob_nat
-Nation's name
+Название Нации
 
 #gamelob_randnat
-Generate a random nation's name
+Создать случайное название нации
 
 #gamelob_status
-character status
+статус персонажа
 
 #gamelob_status_c1
-A character becomes "inactive" if offline for too long. It then becomes available for succession: any new player joining the game can spawn as its sucessor and takeover all its posessions.
+Персонаж становится "неактивным", если слишком долго не заходил в игру. Затем он становится доступным для наследования: любой игрок, присоединяющийся к игре может войти как наследник и завладеть всеми его владениями.
 
 #gamelob_status_c2
-The amount of time before a character becomes inactive depends on its total playtime and on the game's settings.
+Промежуток времени, после которого персонаж становится неактивным, зависит от его общего времени в игре и от игровых настроек.
 
 #gamelob_status_c3
-Max offline time currently allowed for this character: [x]
+Максимальное время в оффлайне сейчас разрешенное для этого персонажа: [x]
 
 #gamelob_ACTV
-ACTIVE
+АКТИВЕН
 
 #gamelob_INACTV
-INACTIVE
+НЕАКТИВЕН
 
 #gamelob_lstlog
-last login
+последний вход
 
 #gamelob_lstlogt
-[x] ago
+[x] назад
 
 #gamelob_lstlog_c
-last login for this character: [x]
+последний логин для этого персонажа: [x]
 
 #gamelob_creat
-created
+создан
 
 #gamelob_creat_c
-Date when this character was created (GMT).
+Дата, когда этот персонаж создан (GMT).
 
 #gamelob_plt
-total playtime
+общее время в игре
 
 #gamelob_plt_c
-The total amount of time spent online playing this character.
+Общее время, проведенное в игре за этого персонажа.
 
 #gamelob_maxchar
-Max characters
+Макс. персонажей
 
 #gamelob_maxchar_c
-The maximum number of characters per player allowed on this server is [x].
+Максимальное количество персонажей на игрока, разрешенное на этом сервере составляет [x].
 
 #gamelob_spcloff
-Spawn cool off
+Ожидание спавна
 
 #gamelob_spcloff_c1
-The minimum time before you are allowed to respawn on this server.
+Минимальное время, через которое вы можете вновь заспавниться на этом сервере.
 
 #gamelob_spcloff_c2
-You have spawned [x] times in this game. The more times you respawn, the longer the cool-off (base cool-off in this game is of [y]).
+В этой игре вы спавнились [x] раз. Чем больше раз вы респавнитесь, тем дольше ожидание спавна (базовое ожидание в этой игре составляет [y]).
 
 #gamelob_spcloff_c3
-Last spawn: [x] ago
+Последний спавн: [x] назад
 
 #gamelob_spcloffw
-([x] remaining)
+([x] осталось)
 
 #gamelob_maxoff
-Max offline time
+Макс. время в оффлайне
 
 #gamelob_maxoff_c1
-The maximum amount of time a character can get to be offline before turning 'inactive' on this server.
+Максимальное время, которое персонаж может провести в оффлайне, до того как стать "неактивным" на этом сервере.
 
 #gamelob_maxoff_c2
-WARNING: this limit is lower for recently created characters!
+ВНИМАНИЕ: этот лимит ниже для недавно созданных персонажей!
 
 #gamelob_err1
-You currently have the maximum number of characters allowed on this game!
+В данный момент у вас максимально разрешенное для этой игры число персонажей!
 
 #gamelob_err2
-You must wait [x] before being allowed to create a new character in this game!
+Вы должны подождать [x], прежде чем сможете создать нового персонажа в этой игре!
 
 #gamelob_abnd
-Abandon
+Бросить
 
 #gamelob_abnd_c1
-Click to abandon this character and all its possessions.
+Щелкните, чтобы бросить этого персонажа и все его владения.
 
 #gamelob_abndwrn
-Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
+Вы уверены, что хотите оставить этого характера? Это действие невозможно отменить и вы навсегда потеряете контроль над персонажем и всеми его владениями! Персонаж будет удален из вашего списка. Он моментально будет переведен в разряд "неактивных" и может стать доступным для наследования.
 
 #facrank_title
-Title
+Титул
 
 #facrank_ter
-Territory
+Территория
 
 #facttl_titl
-Character's title
+Титул персонажа
 
 #facttl_titl_c1
-The title given to characters of this rank.
+Титул, присваиваемый персонажам этого ранга.
 
 #facttl_trtry
-Territory's title
+Титул территории
 
 #facttl_trtry_c1
-The name given to the territories associated with characters of this rank.
+Название, присваиваемое территориям, связанным с персонажами этого ранга.
 
 #facttl_lvl
-Rank level
+Уровень ранга
 
 #facttl_lvl_c1
-Rank level represents the hierarchic position within the nation.
+Уровень ранга представляет иерархическую позицию внутри нации.
 
 #facttl_tax
-Income tax
+Подоходный налог
 
 #facttl_tax_c1
-% of raw income paid as a tax to the superior of this rank.
+% от дохода, взимаемый в качестве налога сюзереном этого ранга.
 
 #facttl_pow
-Power transfer
+Передача Власти
 
 #facttl_pow_c1
-% of state power transfered to the superior of this rank.
+% Власти передается сюзерену этого ранга.
 
 #facttl_vote
-Can vote 
+Может голосовать 
 
 #facttl_vote_c1
-Wether this rank can participate in voting processes or not.
+Может ли этот ранг принимать участие в голосовании.
 
 #facttl_rcrut
-Can recruit
+Может ли принимать
 
 #facttl_rcrut_c1
-Wether this rank is allowed to recruit new members into the Nation or not.
+Может ли этот ранг принимать новых членов в Нацию.
 
 #facttl_prom
-Can promote
+Может продвигать
 
 #facttl_prom_c1
-Wether this rank is allowed to manage ranks of its subordinates or not (promoting and unpromoting).
+Может ли этот ранг управлять рангами подчиненных (повышение и понижение).
 
 #facttl_rplcm
-Succession
+Наследование
 
 #facttl_rplcm_c1
-How the succession of this character is managed if he becomes inactive.
+Как проводится наследование этому персонажу, если он становится неактивным.
 
 #frplcm_e1
-Election (direct)
+Прямые выборы
 
 #frplcm_e1_c1
-A sucessor is elected by the direct subordinates of this rank only.
+Наследник выбирается только прямыми подчиненными этого ранга.
 
 #frplcm_e2
-Election (all)
+Всеобщие выборы
 
 #frplcm_e2_c1
-A sucessor is elected by all the subordinates of this rank.
+Наследник выбирается всеми подчиненными этого ранга.
 
 #frplcm_heir
-Chosen heir
+Назначенный наследник
 
 #frplcm_heir_c1
-The rank holder himself chooses its heir that can take over if he becomes inactive.
+Владелец ранга сам назначает наследника, занимающий его место, когда он становится неактивным.
 
 #frplcm_nom
-Nominated
+Назначение
 
 #frplcm_nom_c1
-A sucessor is appointed by the superior of this rank.
+Наследник назначается сюзереном этого ранга.
 
 #facttl_xpl
-Can expell
+Может изгонять
 
 #facttl_xpl_c1
-If this rank is allowed to expell its subordinates from the Nation.
+Может ли этот ранг изгонять подчиненных из Нации.
 
 #facttl_mngter
-Can dismantle
+Может разделять
 
 #facttl_mngter_c1
-If this rank is allowed to directly redistribute territories of inactive subordinates to other Nation members.
+Этому рангу позволено напрямую передавать территории неактивных подчиненных другим членам Нации.
 
 #facttl_sub1
-Direct subordinates
+Прямые подчиненные
 
 #facttl_sub2
-All subordinates
+Все подчиненные
 
 #fachier_hier
-Hierarchy
+Иерархия
 
 #fachier_addnew
-Add new rank
+Добавить новый ранг
 
 #fachier_addnew_c1
-Click to create a new rank
+Щелкните, чтобы создать новый ранг
 
 #fachier_remrk
-Remove this rank
+Удалить этот ранг
 
 #fachier_remrk_c1
-Click to delete the currently selected rank
+Щелкните, чтобы удалить выбранный ранг
 
 #fachier_remrk_err1
-You cannot remove this rank because its currently used by one or more members!
+Вы не можете удалить этот ранг, так как он используется одним или более членами нации!
 
 #facnewrk_title
-Adding a new rank...
+Добавление нового ранга...
 
 #facmmb_ter
-Regions
+Регионы
 
 #facmmb_dismant
-Dismantle
+Расформировать
 
 #facmmb_dismant_c1
-Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
+Так как этот характер неактивен, ваш титул позволяет вам расформировать его территории и разделить их между вашими вассалами и вами. 
 
 #facmmb_prom
-Promote
+Повысить
 
 #facmmb_prom_c1
-Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+Ваш титул позволяет вам изменить иерархическую позицию этого персонажа: повысить или понизить.
 
 #facmmb_xpl
-Expel
+Изгнать
 
 #facmmb_xpl_c1
-Your title allows you to expell this character from the Nation.
+Ваш титул позволяет вам изгнать этого персонажа из Нации.
 
 #facmmb_quit
-Quit
+Выйти
 
 #facmmb_quit_c1
-Leave this Nation and regain your sovereignty. 
+Покинуть эту Нацию и восстановить свою независимость.
 
 #facmmb_quit_c2
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+ВНИМАНИЕ: если вы связаны с этой нацией договорами, вы будете подвергнуты штрафным санкциям!
 
 #facmmb_actv
-ACTIVE
+АКТИВЕН
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+Этот персонаж все еще активно играет и подходит для наследования.
 
 #facmmb_inact
-INACTIVE
+НЕАКТИВЕН
 
 #facmmb_inact_c1
-This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
+Этот персонаж не был в онлайне какое-то время и теперь считается неактивным. Он подходит для наследования внутри Нации.
 
 #facmmb_pwrlss
-POWERLESS
+БЕССИЛЕН
 
 #facmmb_pwrlss_c1
-This character controls not territories and is powerless.
+Этот персонаж не контролирует ни одной территории.
 
 #facmmb_dead
-DEAD
+МЕРТВ
 
 #facmmb_dead_c1
-This character is dead: it controls no territories and was abandonned by its player.
+Этот персонаж мертв: он не контролирует территорий и был покинут своим игроком.
 
 #facmmb_rplc
-Replace
+Заменить
 
 #facmmb_rplc_c1
-This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
+Этот персонаж неактивен и его титул позволяет вам, как его сюзерену, выбрать замену среди своих вассалов.
 
 #facmmb_tax
-Taxes
+Налоги
 
 #facmmb_tax_c1
-Nation taxes are received from direct subordinates and also paid to the superior. Tax rates are defined by their respective ranks.
+Национальные налоги поступают от прямых подчиненных и платятся сюзерену. Уровень налогов определяется рангом.
 
 #facmmb_tax_r
-Taxes from subordinates: [x]
+Налоги от подчиненных: [x]
 
 #facmmb_tax_p
-Paid to superior: [x]
+Отдано сюзерену: [x]
 
 #facmmb_pwr
-Power transfers
+Передача Власти
 
 #facmmb_pwr_c1
-State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
+Власть можно получать от прямых подчиненных и передавать сюзерену. Величины определяются рангом.
 
 #facmmb_mng
-Maintenance
+Поддержка
 
 #facmmb_mng_c1
-State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
+Использование Власти на поддержку Нации. Увеличивается с ростом прямых подчиненных.
 
 #facmmb_mrshl
-Army Marshal
+Фельдмаршал
 
 #facmmb_mrshl_c1
-Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
+Фельдмаршал может контролировать все Национальные армии, не зависимо, принадлежат они подчиненным или нет. Назначается национальным лидером.
 
 #facmmb_heir
-Heir
+Наследник
 
 #facmmb_heir_c1
-The designated heir can directly succeed to this character if he becomes inactive.
+Назначенный наследником напрямую занимает место этого персонажа, если он становится неактивным.
 
 #facmmb_heir_c2
-Note that if the designated heir refuses or is unavailable, succession will default to election by direct subordinates.
+Учтите, что если наследник отказывается или недоступен, по умолчанию наследование решается через прямые выборы.
 
 #facprom_title
-Position of [x]
+Положение [x]
 
 #facprom_txt
-You can change the hierarchic position of [x] within this Nation by changing his rank or moving him under a different superior (only your amongst your own subordinates). Note that the character will retain all its subordinates with the same relative hierarchy under him no matter the modified position. Ranks of the subordinates might be automatically adjusted if need be, in order to retain their relative hierarchy. 
+Вы можете изменять иерархическую позицию [x] внутри Нации, изменяя его ранг или переподчиняя его другому сюзерену (только среди ваших собственных вассалов). Учитывайте, что персонаж сохранит всех своих подчиненных в любом случае. Ранги подчиненных могут автоматически подстраиваться, если возникает необходимость, чтобы сохранить относительную иерархию.
 
 #facprom_supr
-Set superior
+Установить сюзерена
 
 #facprom_rk
-Set rank
+Установить ранг
 
 #facxpl_title
-Expel [x] from the Nation
+Изгнать [x] из Нации
 
 #facxpl_txt
-As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
+Как сюзерен у [x], вы можете изгнать этого персонажа из Нации. Учитывайте, что все его вассалы, при наличии, тоже покинут Нацию.
 
 #facxpl_xpl
-Expel!
+Изгнать!
 
 #facrplc_title
-Replacing [x]...
+Замена [x]...
 
 #facrplc_txt
-As a superior of [x] and because this character is now inactive, your rank allows you to nominate a successor of lower rank that will take over its position within the Nation. The successor will swap its position and subordinates with the ones of the replaced character. The chosen successor cannot be of higher rank than the replaced character.
+Как сюзерен [x] и по причине неактивности этого персонажа, ваш ранг позволяет вам номинировать наследника низшего ранга на это место в Нации. Наследник поменяется своим положением подчиненными с замещаемым персонажем. Выбираемый наследником персонаж не может быть выше рангом чем замещаемый.
 
 #facrplc_none
-None available!
+Не доступно!
 
 #facdsmtl_title
-Dismantling territories
+Упразднение территорий
 
 #facdsmtl_text
-Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
+Так как [x] теперь неактивен, ваш ранг позволяет вам упразднить эти территории и передодчинить их другим членам Нации.
 
 #facquit_title
-Are you sure?
+Вы уверены?
 
 #facquit_txt
-By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+Оставляя эту Нацию, вы восстановите полную независимость и станете главой новой Нации. Все ваши текущие подчиненные останутся с вами и также присоединятся к новой Нации. Но знайте, что если вас связывают с этой Нацией договоры, выход из нее вызовет штрафные санкции, наложению на вас штрафов или даже объявление войны.
 
 #facfalg_title
-Editing Nation flag
+Редактирование Национального флага
 
 #menugov_setnam
-Government name
+Имя правительства
 
 #menugov_setnam_c1
-Set the core name of your government (then combined with your Nation title).
+Задайте базовое имя вашего правительства (затем будет скомбинировано с названием Нации).
 
 #regnam_unclaimed
-Unclaimed territory
+Ничейная территория
 
 #regnam_regof
-Region of [x]
+Регион [x]
 
 #regnam_claimby
-Claimed by [x]
+Претензия от [x]
 
 #uiworld_ownr
-Ownership
+Владение
 
 #uiworld_nownr
-No owner
+Нет владельца
 
 #uiworld_settl_1
-You can settle this territory by giving a formation the mission 'Settle' with this region as a target.
+Вы можете поселиться на этой территории, дав отряду команду "Заселить".
 
 #uiworld_settl_2
-For this mission type to be available, the formation must contain at least one civilian unit.
+Чтобы это действие было доступно, в формировании должен быть хотя бы один гражданский.
 
 #facvote_name
-Voting for the successor of [x]
+Голосование за наследника [x]
 
 #uivote_mode
-Voting mode
+Режим голосования
 
 #uivote_mod_high
-Highest votes
+Больше голосов
 
 #uivote_mod_high_c1
-The proposition with the most votes simply wins the vote. The vote is completed once all the valid voters have cast their vote.
+Кандидат с наибольшим числом голосов выигрывает голосование. Голосование завершается, когда все, обладающие правом голоса сделают выбор.
 
 #uivote_status
-Vote status
+Статус голосования
 
 #uivote_st_p
-pending...
+ожидание...
 
 #uivote_st_o
-over
+завершено
 
 #uivote_result
-Vote result
+Результат голосования
 
 #uivote_res_und
-undecided
+колеблется
 
 #uivote_cast
-Votes cast
+Отданные голоса
 
 #uivote_yrvt
-YOUR VOTE
+ВАШ ГОЛОС!
 
 #uivote_txt1
-You have not cast your vote yet. Select one of the possible choices below and vote. Warning: your vote is final and cannot be modified once validated!
+Вы еще не отдали свой голос. Выберите одного из кандидатов внизу. Внимание: ваш голос нельзя будет отозвать, после того как он будет засчитан!
 
 #uivote_txt2
-You have already cast your vote. It is final and you cannot edit it anymore. The result will be announced once the voting process is completed.
+Вы уже отдали свой голос. Это навсегда и вы уже ничего не можете изменить. Результаты будут оглашены, как только закончится процесс голосования.
 
 #uivote_choice
-choice
+выбор
 
 #uivote_sendvt
-CAST VOTE!
+ОТДАТЬ ГОЛОС!
 
 #regstatus_claim_1
-An empty territory can be claimed by your state and included in your official frontiers.
+Ваше государство может претендовать на пустую территорию и включить в свои границы.
 
 #regstatus_trtry_1
-A territory is part of a region and is managed by the region's main city administration.
+Территория является частью региона и управляется администрацией главного города.
 
 #regstatus_colony_1
-A colony is an autonomous territory attached to your government. You cannot directly control it but it costs no maintenance while generating a small tax incomes. It can be used as a starting position for new players. They take control of the colony and start directly in your nation as your subordinates.
+Колония - это автономная территория, связанная с вашим правительством. Вы не может напрямую управлять ей, но она не требует содержания и генерирует небольшую прибыль. Она может быть использована как стартовая позиция новыми игроками. Они возьмут колонию под контроль и начнут прямо в вашей нации в качестве прямых подчиненных.
 
 #regstatus_city_1
-The city is the head each region. It has its own local administration which also manages all the territories of the region. Every city costs state power to maintain.
+Каждый город - это центр одного региона. У него своя локальная администрация, которая управляет всеми территориями региона. Каждый город требует Власти для поддержания.
 
 #regstatus_capital_1
-The capital is where your state's government is located and where the leader resides. Unlike regular cities, it costs no state power. Some government buildings are unique to the capital. The distance from the capital can affect various things such as the administration of other cities or the maintenance of subordinates in the nation.
+Столица - это место, где располагается правительство страны и ее лидер. В отличие от обычных городов, она не требует власти для поддержки. Некоторые государственные здания можно строить только в столице. Удаленность от столицы может влиять на различные вещи, такие как администрация других городов или содержание подчиненных в нации.
 
 #regstatus_title
-Territory status
+Статус территории
 
 #regstatus_txt
-Modifying the administrative status of this territory...
+Изменение административного статуса территории...
 
 #regstatus_setnew
-Set new status to
+Установить новый статус
 
 #regstatus_setcap_1
-You can only have one capital city: your current capital will lose its status and become a regular city. Note that moving your capital may affect adminstration and culture in your other cities as well as you state power and finances.
+У вас может быть только одна столица: ваша текущая столица потеряет свой статус и станет обычным городом. Учитывайте, что перемещение вашей столицы повлияет на администрацию и культуру в ваших прочих городах, а также вашу власть и финансы.
 
 #regstatus_setcit_1
-This territory will form a new region and will cost additionnal State power. You will then be able to attach other territories to this city as part of that region. 
+Эта территория сформирует новый регион будет стоить дополнительной власти. После этого вы сможете присоединять другие территории к этому городу как часть этого региона.
 
 #regstatus_setcol_1
-WANRING: This is irreversible. You will lose direct control of this territory. Region gets a stable administration, loyalty and culture. No maintenance cost and no state power cost. Generates 5% income tax. If a player spawns in it, he starts in your nation with a colonial treaty of 5% income tax. 
+ВНИМАНИЕ: Это необратимо. Вы потеряете прямой контроль над территорией. Регион получает стабильную администрацию, лояльность и культуру. Деньги за обслуживание и Власть не потребляются. Генерирует 5% доход с налогов. Если игрок спавнится здесь, он начинает в вашей нации с колониальным договором на 5% подоходный налог.
 
 #regstatus_setcol_2
-To make a colony the territory needs at least 150 of population and at least 65% of vital needs.
+Чтобы сделать территорию колонией не ней должно быть не менее 150 жителей и больше 65% базовых потребностей на ней должно быть удовлетворено.
 
 #setcolony_err1
-The territory needs at least 150 of population to be made a colony!
+На территории должно быть по крайней мере 150 жителей, чтобы ее можно было сделать колонией!
 
 #setcolony_err2
-The territory needs at least 65% of vital needs to be made a colony!
+Территории нужно по меньшей мере 65% удовлетворенности базовых потребностей, чтобы стать колонией!
 
 #setcolony_err3
-The territory has too much resistance to be made a colony!
+На территории слишком много сопротивления, чтобы сделать ее колонией!
 
 #regstatus_err1
-You cannot change the status of your capital city!
+Вы не можете изменить статус вашей столицы!
 
 #voxclss_wall
-Walls
+Стены
 
 #voxclss_wind
-Windows
+Окна
 
 #voxclss_door
-Doors
+Двери
 
 #voxclss_pilr
-Pillars
+Колонны
 
 #voxclss_beam
-Beams
+Балки
 
 #voxclss_flr
-Floors
+Перекрытия
 
 #voxclss_cube
-Cubes
+Кубы
 
 #treaty_endwar
-Armistice
+Перемирие
 
 #treaty_peace
-Peace treaty
+Мирный договор
 
 #treaty_nation
-Treaty of unification
+Договор об унификации
 
 #treaty_vassal
-Vassality treaty
+Договор о вассалитете
 
 #treaty_trade
-Trading agreement
+Торговое соглашение
 
 #treaty_trtry
-Territorial transfer
+Передача территорий
 
 #treaty_tech
-Knowledges transfer
+Передача знаний
 
 #treaty_pass
-Treaty of passage
+Договор о проходе
 
 #treaty_deflt
-Treaty
+Договор
 
 #ui_colchos
-click to select a color
+щелкните, чтобы выбрать цвет
 
 #ui_icchos
-click to select an icon
+щелкните, чтобы выбрать символ
 
 #ui_fhierchy
-click to view this nation's hierarchy
+щелкните, чтобы увидеть иерархию нации
 
 #resist_abandon_1
-You cannot abandon buildings in a resistant city!
+вы не можете забросить здания в сопротивляющемся городе!
 
 #resist_demol_1
-You cannot demolish more than 3 buildings at a time in a resistant city!
+Вы не можете одновременно сносить более 3 зданий в сопротивляющемся городе!
 
 #resist_demol_2
-You cannot demolish infrastructures in a resistant city!
+Вы не можете уничтожать инфраструктуру в сопротивляющемся городе!
 
 #treaterr_1
-You do not have enough coins in your treasury to honor this treaty!
+У вас нет достаточно монет в сокровищнице, чтобы подписать этот договор!
 
 #treaterr_2
-You do not have enough income in your treasury to honor this treaty!
+У вас нет достаточного дохода, чтобы подписать этот договор!
 
 #servfull
-Maximum number of active characters currently reached! Try again later.
+Максимально возможное количество персонажей достигнуто! Попробуйте еще раз позже.
 
 #menu_frmtyp_title
-Changing this formation's type...
+Изменение типа отряда...
 
 #menu_frmtyp_err1
-You cannot convert to a militia outside your own cities!
+Вы не можете сделать отряд ополчением вне своего города!
 
 #menu_frmtyp_err2
-You cannot convert formations in resistant cities.
+Вы не можете менять статус отряда в сопротивляющихся городах.
 
 #formact_sack_1
-Warning: this action will cost you 15 of honnor, if successful!
+Внимание: это действие будет стоить вам 15 очков чести в случае успеха!
 
 #formact_sack_2
-The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
+Задача будет состоять в том, чтобы сначала уничтожить защитников территории. В случае успеха, они начнут методично грабить столько ресурсов, сколько смогут, и сжигать здания и убивать местных жителей, стараясь нанести максимальный ущерб. В конце отряд покинет регион.
 
 #formact_sack_3
-This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honnor.
+Это действие дает гораздо больше ресурсов, чем простой грабеж, но наносит больший ущерб. В отличие от грабежа, сначала требуется установить полный контроль над территорией, уничтожив всех ее защитников. Снижает вашу честь.
 
 #wkprio_0
-Avoided
+Избегается
 
 #wkprio_1
-Low
+Низкий
 
 #wkprio_2
-Regular
+Обычный
 
 #wkprio_3
-High
+Высокий
 
 #wkprio_4
-Critical
+Критичный
 
 #recyclmat
-We have recovered
+Мы восстановились
 
 #recyclbdg
-We have recovered [x] from the demolition of a [y].
+Мы восстановили [x] после уничтожения [y].
 
 #charstate_1
 Неактивный
@@ -4569,10 +4568,10 @@ We have recovered [x] from the demolition of a [y].
 Мертвые
 
 #charstate_4
-Powerless
+Нет энергии
 
 #err_inaxsbdg
-This building is currently inaccessible!
+Это здание в данный момент недоступно!
 
 #formact_none
 Двигаться
@@ -4602,37 +4601,37 @@ This building is currently inaccessible!
 Сражаться
 
 #formhome_title
-Changing this formation's home...
+Смена базы формирования...
 
 #formhome_dscr_1
-A formation's home region is the city they are attached to. The home provides renewal of aging soldiers and has to support the armies attached to it. It also defines the culture of the formation's units. 
+Домашний регион отряда - это город, к которому он привязан. База обеспечивает замену стареющих солдат и должна поддерживать присоединенные к ней армии. Она также определяет культуру состоящих в отряде юнитов.
 
 #formhome_dscr_2
-Formations will decay if they are attached to a home that doesn't have enough population to support them. 
+Отряд распадется, если будет присоединен к базе, не имеющей достаточного для его поддержки населения.
 
 #formhome_dscr_3
-WARNING: changing the home region will deplete all its Action Points and will trigger auto-encampment. 
+ОСТОРОЖНО: изменение домашнего региона исчерпает все ОД отряда и отряд разобьет лагерь.
 
 #formhome_sel_c1
-Select the desired home region for this formation.
+Выберите желаемый домашний регион для этого отряда.
 
 #formhome_sel_c2
-( The formation needs to be positionned in the desired city to be able to rebase in it )
+(Формированию требуется располагаться в целевом городе, чтобы перебазироваться туда)
 
 #b_trtcancelofr
 Отменить предложение
 
 #b_trtcancelofr_c1
-Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+Ваше предложение будет отменено и противоложная сторона больше не сможет его принять.
 
 #ui_treat_cancld
-Your treaty proposal was cancelled.
+Ваше предложение было отменено.
 
 #b_actv_trt_pend1
-pending: waiting for your reply...
+ожидание: требуется ваш ответ...
 
 #b_actv_trt_pend2
-pending: waiting for other's response...
+ожидание: требуется ответ противоположной стороны...
 
 #chat_pm
 Написать [x]
@@ -4641,7 +4640,7 @@ pending: waiting for other's response...
 Нация '[x]'
 
 #chat_emptytxt
-[type your message here]
+[введите сообщение]
 
 #ui_reginf_vsb
 Видимость 
@@ -4668,827 +4667,900 @@ pending: waiting for other's response...
 Опубликовать
 
 #char_chrons
-View all chronicles from this character
+Показать все хроники персонажа
 
 #chron_sent
 Новая хроника опубликована!
 
 #chron_react
-React to this news
+Отреагировать на эти новости
 
 #chron_reactup_1
 Это интересно!
 
 #chron_reactup_2
-This news will be relayed by your cultural network and will propagate to your contacts.
+Эти новости будут переданы в вашу культурную сеть и распространяться среди ваших контактов.
 
 #chron_reactdw_1
-I don't care about this.
+Это мне не интересно.
 
 #chron_reactdw_2
-This news will not be relayed by you.
+Вы не будете делиться этими новостями.
 
 #chron_expand
 дальше
 
 #chron_expand_c1
-click to read the rest of this chronicle
+щелкните, чтобы продолжить чтение этой хроники
 
 #chron_past_up
-You found this interesting.
+Вам было интересно.
 
 #chron_past_down
-You didn't find this interesting.
+Вы не считаете это интересным.
 
 #chron_none
 Вы еще не получили новостей из внешнего мира!
 
 #joingame_persist_dscr_1
-Persistant games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
+Постоянная игра - это основной режим Ymir: медленные игровые партии, которые могут продолжаться месяцами на серверах, работающих круглосуточно, 7 дней в неделю.
 
 #joingame_persist_dscr_2
-To garantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). Only gameplay is law.
+Чтобы гарантировать надежные и справедливые правила для всех игроков, сервера, перечисленные здесь, все следуют строгим стандартизированным правилам "постоянного режима". Изменение настроек сервера запрещено: нет модов, нет особых правил, а хосты серверов лишены власти (банить и модерировать игроков). В роли закона выступает только геймплей.
 
 #joingame_realtime_dscr_1
-Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
+Игры в реально времени - это официальный игровой режим для более быстрых игровых партий, разыгрываемых во многих сессиях с друзьями или в малых группа игроков.
 
 #joingame_custom
-Custom games
+Пользовательские игры
 
 #joingame_custom_dscr_1
-Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
+Пользовательские игры - это управляемые сообщество игровые партии без внедренной стандартизации. Настройка сервера разрешена. Таким образом, изначальный игровой баланс может меняться и ваш игровой опыт на этих серверах не может быть гарантирован.
 
 #joingame_custom_dscr_2
-WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
+ОСТОРОЖНО: Учтите, что в отличие от серверов официальных игровых режимов, на этих серверах могут присутствовать особые правила, а средства модерации быть доступны хостам. Это подразумевает способность изгонять игроков с сервера по своему усмотрению.
 
 #servlst_admn
-Admin tools
+Средства администрирования
 
 #servlst_admn_c1
-Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
+Включены ли средства администрирования на этом сервере. Если да, хост может банить игроков по своему усмотрению.
 
 #servlst_preset
-Game preset
+Параметры игры
 
 #servlst_preset_c1
-Game balance preset used on this custom server.
+Параметры игрового баланса, используемые для пользовательского сервера.
 
 #b_reform_loyal
-Reform effect: -[x] loyalty in all territories
+Эффект реформы: -[x] лояльности на всех территориях
 
 #b_reform_loyal_c1
-Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] loyalty in all of your territories.
+Предупреждение! Ваша вступающая в силу реформа приведет к моментальному и одноразовому штрафу в [x] лояльности во всех ваших территориях.
 
 #facdsmtl_c1
-Select a new owner for this territory.
+Выберите нового владельца этой территории.
 
 #facdsmtl_err
-[cannot dismantle]
+[невозможно ликвидировать]
 
 #facdsmtl_err_c1
-This territory was integrated recently and hasn't been part of your Nation long enough to be transfered via the 'dismantle' function.
+Эта территория была интегрирована недавно. Она не была частью вашей Нации достаточно долго, чтобы ее можно передать с помощью функции "ликвидировать".
 
 #facdsmtl_err_c2
-Time before this territory can be dismantled: [x].
+Время до того, как эта территория может быть ликвидирована: [x].
 
 #formact_claim
-Claim territory
+Выдвинуть претензии на территорию
 
 #formact_reclaim
-Reclaim territory
+Повторно претендовать на территорию
 
 #formact_unclaim
-Unclaim territory
+Отказаться от претензий
 
 #menu_mission_sel
-Action
+Действие
 
 #menu_mission_sel_c1
-Select the action to perform in this territory.
+Выберите, какое действие хотите выполнить на этой территории.
 
 #b_menu_discord_1
-Ymir official Discord
+Официальная страница Ymir на Discord
 
 #b_menu_discord_2
-Join the Ymir community!
+Присоединяйтесь к сообществу!
 
 #b_menu_porcopedia_1
 Porcopedia
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+Официальная вики игры
 
 #b_menu_trell_1
-Ymir on Trello
+Ymir на Trello
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+Следите за разработкой игры и голосуйте за запланированные фишки
 
 #mainmenu_maxim
-maximize
+увеличить
 
 #mainmenu_minim
-minimize
+уменьшить
 
 #dsclmr_title
-DISCLAIMER
+ДИСКЛАЙМЕР
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- Эта игра разрабатывается одним человеком: разработка идет медленно.
 
 #dsclmr_2
-- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+- Эта игра скорее всего навсегда останется в процессе разработки и никогда не достигнет качества, стабильности и оптимизации, характерных для законченного продукта.
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- Возможность играть соло присутствует, но в основном игра затачивается под многопользовательскую игру.
 
 #b_menuop_autovsize
-Automatic viewport definition
+Автоматическое разрешение окна игры
 
 #b_menuop_autovsize_c1
-Viewport definition will remain at 1:1 with your display resolution.
+Разрешение окна игры останется 1:1 с разрешение вашего монитора.
 
 #b_menuop_vsize
-Viewport definition
+Разрешение окна игры
 
 #b_menuop_vsize_c1
-Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+Разрешение игровой графики в соотношении с разрешением вашего монитора: 100% значит соотношение 1:1 между экраном и отображаемой графикой.
 
 #b_menuop_vsize_c2
-Lowering this ratio greatly increases performances.
+Уменьшение этого соотношения сильно улучшает производительность.
 
 #b_menuop_autoui
-Automatic UI size
+Автоматический размер интерфейса
 
 #b_menuop_autoui_c1
-UI size will automatically adapt to your display resolution.
+Интерфейс будет автоматически подстраиваться к разрешению вашего монитора.
 
 #b_menuop_uisize
-UI size
+Размер интерфейса
 
 #b_menuop_uisize_c1
-Changes the size of the UI layer. 
+Изменяет размер слоя интерфейса. 
 
 #b_menuop_uisize_c2
-Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+Полезен для обеспечения удобства чтения интерфейса, в зависимости от размера и разрешения вашего монитора.
 
 #gmtyp_solo
-Solo
+Соло
 
 #gmtyp_solo_dscr1
-Solo games can only be played alone.
+В режиме соло можно играть только в одиночку.
 
 #gmtyp_solo_dscr2
-Game speed overall is the fastest.
+Наивысшая общая скорость игры.
 
 #gmtyp_solo_dscr3
-This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+Предназначен для изучения основ игры перед переходом к многопользовательскому режиму, или для игроков, которые просто хотят отстраиваться в мире и спокойствии.
 
 #ui_bdginf_bldrs
-requires builders
+требует строителей
 
 #bc_erase_c2
-(right click for options)
+(щелкните ПКМ  для опций)
 
 #regeco_tax_inc_c2
-Tax revenue: [x]% of [y] = [z] coins.
+Доход от налогов: [x]% от [y] = [z] монет.
 
 #regeco_tax_share
--[x]% from territorial status
+-[x]% от статуса территории
 
 #regeco_tax_share_c1
-The current status of this territory grants you [x]% of all the generated tax incomes.
+Текущий статус территории дает вам [x]% от всех налоговых поступлений.
 
 #regeco_wasted_c1
-Amount of income lost from waste.
+Часть доходов потерянная из-за растрат.
 
 #regeco_wastab_c1
-The total income subject to waste.
+Общий доход подверженный растратам.
 
 #regeco_wastab_c2
-Tax incomes: [x]
+Налоговые поступления: [x]
 
 #regeco_wastab_c3
-Importations profits: [x]
+Прибыль от импорта: [x]
 
 #regeco_wastab_c4
-Exportations profits: [x]
+Прибыль от экспорта: [x]
 
 #regeco_wastab_c5
-State resource sales: [x]
+Продажи государственного ресурса: [x]
 
 #bc_gen_speed
-set overall game speed to x[x]
+установить общую скорость игры x[x]
 
 #ui_eco_tradbal_c4
-Exportations: +[x] sales -[y] purchases
+Экспорт: +[x] продажи -[y] закупки
 
 #ui_eco_tradbal_c5
-Cargo: +[x] sales -[y] purchases
+Грузоперевозки: +[x] продажи -[y] закупки
 
 #ui_price_base3_c2
-Increased to +30% of the production cost if the resources is distributed via merchants, as their cut also needs to be taken into account by the producers.
+Увеличена до +30% стоимости производства, если ресурсы распространяются торговцами, так как производители должны учитывать и их долю.
 
 #ui_price_arb
-Price arbitrage
+Арбитраж цен
 
 #ui_price_arb_c1
-Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
+Арбитраж цен может начать действовать, когда существует большая разница в ценах между вашей территорией и соседними регионами (вашими или иностранными, с которыми у вас идет торговля).
 
 #ui_price_arb_c2
-The average price in this area of the world is of [x] coins.
+Средняя цена в этой области мира составляет [x] монет.
 
 #ui_price_arb_c3
-With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
+При наличии разницы в [x]%, мировая цена оказывает влияние силой [y]% на местную цену, приводя к эффекту арбитража в [z] на финальную цену.
 
 #ui_price_arb_c4
-No price arbitrage: no nearby territories are currently using this resource.
+Нет арбитража цен: ни одна близлежащая территория не использует этот ресурс.
 
 #bc_menubdg_lmtd
-Limited distribution
+Ограниченное распределение
 
 #bc_menubdg_lmtd_c1
-Click to toggle limited distribution for this merchant. Allows you to control the amount of the resource distributed to the public market.
+Щелкните, чтобы включить ограниченное распределение для этого торговца. Позволяет вам контролировать количество ресурса, распределяемого по этому рынку.
 
 #regcltr_intgr
-Cultural integration of the nation
+Культурная интеграция нации
 
 #regcltr_intgr_c1
-This territory's culture has fully integrated the nation of [x], as its been part of it for a long time.
+Культура этой территории полностью интегрировалась в нацию [x], так как она являлась ее частью на протяжении долгого времени.
 
 #regcltr_intgr_c2
-Transfering this territory between nation members generates 50% less resistance.
+Передача этой территории от одного члена нации к другому создает на 50% меньше сопротивления.
 
 #regcltr_notintgr_c1
-This territory's culture hasn't integrated the nation of [x] yet. It will be in [y]. 
+Культура территории еще не интегрировалась в нацию [x]. Это произойдет через [y]. 
 
 #poph_base
-Base health
+Базовое здоровье
 
 #poph_base_c1
-The default health for this population class.
+Здоровье по умолчанию для данного класса населения.
 
 #poph_ter
-Terrain effect
+Эффект земли
 
 #poph_ter_c1
-Climate [y] modifyer: [x]
+Климатический [y] модификатор: [x]
 
 #poph_ter_c2
-Is a swamp: [x]
+Болото: [x]
 
 #poph_housing
-Housing effect
+Эффект жилья
 
 #poph_housing_c1
-Each lodging provides a health bonus to its residents.
+Каждое жилье дает бонус к здоровью жителей.
 
 #poph_housing_c2
-This is the average housing health bonus of logdings occupied by this population class.
+Это средний бонус к здоровью от жилья, занимаемого этим классом населения.
 
 #poph_totpop
-Total population
+Общее население
 
 #poph_totpop_c1
-Overall population in the territory decreases health.
+Чем больше население территории, тем ниже здоровье.
 
 #poph_foodqual
-Food quality of [x]
+Качество пищи [x]
 
 #poph_foodqual_c1
-Higher food quality increases health.
+Чем выше качество пищи тем выше здоровье.
 
 #poph_foodqual_c2
-Current food quality access: [x]
+Текущий доступ к еде: [x]
 
 #poph_serv
-Health services
+Медицинские услуги
 
 #poph_serv_c1
-Some services (such as doctors) provide a health bonus to those who have access to it.
+Некоторые здания (например доктор) дают бонус к здоровью имеющим к ним доступ.
 
 #poph_vitals
--[x]% from missing vital needs
+-[x]% из-за неудовлетворенных базовых потребностей
 
 #poph_vitals_c1
-Missing vital needs affects overall health proportionnally.
+Неудовлетворенные базовые потребности пропорционально влияют на общее здоровье.
 
 #poplq_vitals
-Vital needs
+Базовые потребности
 
 #poplq_vitals_c1
-Life quality gained by the satisfaction and quality of vital needs.
+Качество жизни от факта и качества удовлетворения базовых потребностей.
 
 #poplq_vitals_c2
-Vital needs are satisfied at [x]%.
+Базовые потребности удовлетворены на [x]%.
 
 #poplq_house
-Housing quality
+Качества жилья
 
 #poplq_house_c1
-Life quality gained by the average housing quality of lodgings occupied by this population.
+Качество жизни от среднего уровня жилья, занимаемого населением.
 
 #poplq_house_c2
-Average quality of lodgings: [x].
+Среднее качество жилья: [x].
 
 #poplq_house_c3
-(requires satisfaction of vital needs)
+(требует удовлетворения базовых потребностей)
 
 #poplq_2nd
-Secondary needs
+Вторичные потребности
 
 #poplq_2nd_c1
-Life quality gained by the satisfaction and quality of secondary needs.
+Качество жизни от факта и качества удовлетворения вторичных потребностей.
 
 #poplq_2nd_c2
-(requires satisfaction of vital needs)
+(требует удовлетворения базовых потребностей)
 
 #poplq_3rd
-Teritiary needs
+Третичные потребности
 
 #poplq_3rd_c1
-Life quality gained by the satisfaction and quality of tertiary needs.
+Качество жизни от факта и качества удовлетворения третичный потребностей.
 
 #poplq_3rd_c2
-(requires satisfaction of secondary needs)
+(требует удовлетворения вторичных потребностей)
 
 #poplq_4th
-Quaternary needs
+Потребности 4 уровня
 
 #poplq_4th_c1
-Life quality gained by the satisfaction and quality of quaternary needs.
+Качество жизни от факта и качества удовлетворения потребностей 4 уровня.
 
 #poplq_4th_c2
-(requires satisfaction of tertiary needs)
+(требует удовлетворения третичных потребностей)
 
 #popint_base
-Base intelligence
+Базовый интеллект
 
 #popint_base_c1
-The default intelligence level of this species.
+Уровень интеллекта этого вида по умолчанию.
 
 #popint_serv
-Education services
+Образование
 
 #popint_serv_c1
-Intelligence gained from access to education services such as schools.
+Интеллект полученный через доступ к образовательным услугам, таким как школы.
 
 #popint_lq
-Life quality
+Качество жизни
 
 #popint_lq_c1
-Intelligence gained from current Life Quality.
+Интеллект от текущего уровня жизни
 
 #popint_lq_c2
-Each point of Life Quality provides +0.75 of Intelligence.
+Каждое очко Качества Жизни дает +0.75 к Интеллекту.
 
 #popint_kn
-Total knowledges
+Общий объем знаний
 
 #popint_kn_c1
-The total of your current knowledges increases overall intelligence. 
+Общий объем знаний увеличивает общий интеллект.
 
 #popint_cult
-Territory's culture
+Культура территории
 
 #popint_cult_c1
-The total culture in this territory increases the overall intelligence of its population.
+Общая культура территории увеличивает интеллект населения.
 
 #cltrstat_prod
-Population
+Население
 
 #cltrstat_prod_c1
-Amount of state culture currently generated in the territory by its population.
+Количество государственной культуры, генерируемой в данный момент население территории.
 
 #cltrstat_pop
-Raw culture production
+Общее количество культуры
 
 #cltrstat_pop_c1
-Amount of raw culture produced by the population.
+Общее количество культуры, производимой населением.
 
 #cltrstat_pop_c2
-[x] porcos of [y] intelligence are currently producing [z] of culture.
+[x] свинов с [y] интеллекта в данный момент производят [z] культуры.
 
 #cltrstat_local
--[x]% of local culture
+-[x]% местной культуры
 
 #cltrstat_local_c1
-[x]% of the culture produced by the population is local.
+[x]% культуры, производимой населением, это местная культура.
 
 #cltrstat_local_c2
-- local culture from capital distance: +[x]%
+- местная культура от удаленности от столицы: +[x]%
 
 #cltrstat_local_c3
-- local culture from territorial status: +[x]%
+- местная культура от территориального статуса: +[x]%
 
 #cltrstat_serv
-Services
-
+Услуги
 #cltrstat_serv_c1
-Amount of state culure produced by the activity of cultural buildings and their services.
+Количество государственной культуры производимой культурными строениями и их услугами.
 
 #cltrstat_decay
-Decay
+Упадок
 
 #cltrstat_decay_c1
-Amount of state culure lost by decay.
+Количество государственной культуры, потерянной из-за упадка.
 
 #cltrstat_dovrs
-Maximum stored capacity
+Предельно допустимый объем культуры
 
 #cltrstat_dovrs_c1
-Decay caused if the current maximum capacity of stored culture is reached in this territory.
+Упадок начинается, если текущий предельно допустимый объем культуры достигнут на этой территории.
 
 #cltrstat_dovrs_c2
-This capacity increases the more population resides in the territory.
+Этот объем увеличивается с ростом населения территории.
 
 #cltrstat_dinf
-Cultural influence
+Культурное влияние
 
 #cltrstat_dinf_c1
-Decay due to state culture losing influence compared to other cultures present in this territory.
+Упадок из-за потери влияния государственной культурой в пользу других, присутствующих на территории.
 
 #cltrstat_dinf_c2
-This territory produces [x] of state culture, out of a total production of [y] culture, resulting in a target cultural influence of [z]% in this territory.
+Эта территория производит [x] государственной культуры, из общего производства [y]. В результате целевое культурное влияние на этой территории составит [z]%.
 
 #cltrstat_dinf_c3
-Current state culture influence is [x]%.
+Текущее влияние государственной культуры [x]%.
 
 #cltrstat_stock
-Culture stock capacity
+Объем накопленной культуры
 
 #cltrstat_stock_c1
-This territory currently has [x] of culture stored out of a maximum of [y].
+Эта территория на данный момент имеет [x] накопленной культуры из возможного максимума [y].
 
 #cltrstat_stock_c2
-Overall culture in this territory is increasing.
+Общая культура территории увеличивается
 
 #cltrstat_stock_c3
-Overall culture in this territory is decreasing because it is above its current maximum!
+Общая культура территории уменьшается так как он превышает текущий максимум!
 
 #cltrstat_ststock
-State culture
+Государственная культура
 
 #cltrstat_ststock_c1
-[x]% of this territory's culture is state culture.
+[x]% культуры этой территории является государственной.
 
 #cltrstat_ststock_c2
-It has [x] points of state culture in stock.
+На ней накоплено [x] очков государственной культуры.
 
 #popstat_wbase_c1
-every porco naturally makes wealth on it's own
+каждый свин в общем случае добывает богатство самостоятельно
 
 #popstat_winhrt_c1
-inherits its wealth and resources access from the average of all actives
+наследует свои богатство и доступ к ресурсам от среднего значения всех активных свинов
 
 #statepow_powtr_c2
-- sent from active treaties: [x]
+- отдано по действующим договорам: [x]
 
 #statepow_powtr_c3
-- received from active treaties: [x]
+- получено по действующим договорам: [x]
 
 #conf_gpop_c1
-Amount of conflict generated by the current population in the territory.
+Размер конфликта, генерируемого населением этой территории.
 
 #conf_territ
-[x]% from territorial status
+[x]% от территориального статуса
 
 #conf_territ_c1
-The current territorial status can modify the base conflict generated by the population.
+Текущий территориальный статус может изменять базовый конфликт, созданный населением.
 
 #loyal_status
-from territorial status
+от территориального статуса
 
 #loyal_status_c1
-Territorial status can affect loyalty positively or negatively. More authonomous statuses tend to increase loyalty.
+Территориальный статус может влиять на лояльность положительно и отрицательно. Более автономные статусы обычно увеличивают лояльность.
 
 #loyal_decr
-Warning: even though loyalty is currently good, it is decreasing towards dangerous levels and this territory will soon be at risk of a popular uprising.
+Внимание: хотя сейчас лояльности в порядке, она уменьшается в сторону опасных уровней и эта территория скоро подвергнется риску восстания.
 
 #loyal_risk
-Warning: this territory is currently at risk of a popular uprising!
+Внимание: эта территория в данный момент подвержена риску восстания!
 
 #loyal_good
-This territory is currently not at risk of a popular uprising.
+Этой территории в данный момент не грозит восстание.
 
 #loyal_resist_1
-Warning: A resistance movement of [x] points is present in this territory!
+Внимание: движение сопротивления силой в [x] присутствует на этой территории!
 
 #loyal_resist_2
-You are at risk of a Partisans uprising (can happen regardless of the population's loyalty).
+Вы подвержены риску восстания Партизан (может произойти не зависимо от лояльности населения).
 
 #loyal_resist_inc
-The resistance movement is currently growing by +[x] [y].
+Движение сопротивления сейчас растет на +[x] [y].
 
 #loyal_resist_decr
-The resistance movement is currently decaying by -[x] [y].
+Движение сопротивления сейчас снижается на -[x] [y].
 
 #admin_dist_c3
-[x]% from territorial status distance modificator of [y]%
+[x]% от модификатора удаленности территориального статуса, равного [y]%
 
 #b_newform
-New formation
+Новое формирование
 
 #b_newform_c1
-click to create a new formation of units
+кликните чтобы создать новый отряд
 
 #regctrl_b_h
-Housing
+Жилплощадь
 
 #regctrl_b_p
-Production
+Производство
 
 #regctrl_b_c
-Cultural
+Культура
 
 #regctrl_b_m
-Military
+Вооруженные силы
 
 #regctrl_b_g
-Government
+Правительство
 
 #regctrl_b_i
-Infrastructures
+Инфраструктура
 
 #ui_recruit_new
-Creating a new troop
+Создание нового отряда
 
 #ui_recruit_err1
-The status of this territory doesn't allow you to recruit armies in it.
+Статус этой территории не позволяет вам набирать здесь армии.
 
 #ui_recruit_err2
-You are not allowed to recruit militias in this territory.
+Вы не имеете права набирать ополчение на этой территории.
 
 #ui_recruit_err3
-You are not allowed to recruit armies in this territory.
+Вы не можете нанимать армии на этой территории.
 
 #ui_recruit_rnfrc
-Reinforcing troop
+Пополнение отряда
 
 #ui_recruit_support_1
-Military support of this territory
+Военная поддержка этой территории
 
 #ui_recruit_support_2
-Max support:[x] units. 
+Макс. поддерживает:[x] юнитов. 
 
 #ui_recruit_support_3
-Currently supporting: [x] units.
+Сейчас на обеспечении: [x] юнитов.
 
 #ui_recruit_pop_1
-Total active population: [x] porcos.
+Общее активное население: [x] свинов.
 
 #ui_recruit_pop_2
-Jobless: [x] porcos.
+Безработные: [x] свинов.
 
 #ui_recruit_ovrdrft
-Cannot recruit: support limit reached and overdraft is not allowed in this territory.
+Нельзя набрать: достигнут лимит поддержки и его превышение не разрешено на этой территории.
 
 #ui_foinv_forbid
-You're not allowed to access resources of this territory.
+Вы не имеете права на доступ ресурсам этой территории.
 
 #ui_dpltool_mbdg
-Defensive building
+Оборонительное сооружение
 
 #ui_dpltool_mbdg_dscr
-This is a defensive building that may only engage enemies in range.
+Это оборонительное сооружение может обстреливать врагов.
 
 #treated_conf
-WARNING! This treaty is in conflict with some of your other treaties!
+ОСТОРОЖНО! Это соглашение противоречит уже имеющимся!
 
 #treated_conf_c1
-On or more terms in this treaty is in conflict with engagements you made in other treaties. Signing this treaty means violating the conflicting treaties and will trigger breaking penalties on your side.
+Одно или несколько условий этого договора противоречит обязательствам по другим вашими соглашениям. Подписав этот договор, вы нарушите противоречащие соглашения и подвергнетесь штрафным санкциям.
 
 #treated_conf_c2
-Conflicts with:
+Конфликты с:
 
 #err_reg_rnnc3
-The current status of this territory doesn't allow you to renounce to its control.
+Текущий статус этой территории не позволяет вам отказаться от нее.
 
 #err_reg_abdn4
-The current status of this territory doesn't allow you to order its evacuation.
+Текущий статус этой территории не позволяет вам эвакуировать ее.
 
 #ui_tech_ter
-New territorial status
+Новый территориальный статус
 
 #facprom_auto
-Automatic rank
+Автоматический ранг
 
 #regstatus_occup_1
-Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
+Чужие земли под контролем военной силы. Не является непосредственной частью государства и не подпадают под государственное администрирование. Статус нестабильности и дезорганизованности.
 
 #regstatus_outpost_1
-Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+Финансово зависимая, не администрируемая и автономная территория. Полезен в качестве малого лагеря для добычи стратегических ресурсов.
 
 #regstatprop
-Territorial status special properties
+Особые свойства территориального статуса
 
 #regstatprop_build
-cannot build
+невозможно построить
 
 #regstatprop_res
-cannot control resources
+невозможно управлять ресурсами
 
 #regstatprop_trade
-cannot control trade
+невозможно управлять торговлей
 
 #regstatprop_bdgup
-buildings upkeep [x]
+содержание зданий [x]
 
 #regstatprop_loyal
-loyalty [x]
+лояльность [x]
 
 #regstatprop_cultr
-state culture [x]%
+государственная культура [x]%
 
 #regstatprop_conf
-population conflict [x]%
+демографический конфликт [x]%
 
 #regstatprop_rsrch
-can't do projects
+невозможно вести проекты
 
 #regstatprop_milit
-cannot recruit militia
+невозможно собрать ополчение
 
 #regstatprop_army
-cannot recruit army
+невозможно нанять армию
 
 #regstatprop_dist
-administration distance penalty [x]%
+штраф администрации за дальность [x]%
 
 #regstatprop_nodist
-no administration distance penalty
+нет штрафа администрации за дальность
 
 #regstatprop_inc
-[x]% of tax incomes
+[x]% от налоговых поступлений
 
 #regstatprop_noinc
-no tax incomes
+нет налоговых поступлений
 
 #regstatprop_exp
-[x]% of expenses
+[x]% затрат
 
 #regstatprop_noexp
-no expenses
+нет затрат
 
 #regstatprop_resist
-resistance growth [x]
+рост сопротивления [x]
 
 #regstatprop_claim
-cannot own sub-territories
+нельзя владеть суб-территориями
 
 #regstatprop_evac
-cannot be evacuated
+невозможно эвакуировать
 
 #regstatprop_rencd
-cannot be renounced
+невозможно отказаться
 
 #regstatprop_trsfr
-cannot be transfered
+невозможно передать
 
 #regstatprop_spawn
-is a player spawn
+спавн игрока
 
 #regstatprop_pnlty
-[x] loyalty event on changing
+[x] изменение лояльности при изменении
 
 #regstatprop_overdrft
-cannot overdraft
+невозможно превысить
 
 #regstatus_penalty
-WARNING: changing current status will trigger an immediate loyalty event of [x]!
+ОСТОРОЖНО: изменение текущего статуса спровоцирует изменение лояльности в [x]!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+ОСТОРОЖНО: претензия на эти территорию спровоцирует моментальный штраф в [x] сопротивления и [y] лояльности!
 
 #antl_name
-Annex tool
+Пристройки
 
 #antl_dscr
-Allows you to reorganise annexes by changing their owning buildings.
+Позволяет вам переподчинить пристройки.
 
 #antl_close
-CLOSE
+ЗАКРЫТЬ
 
 #antl_1
-Relink: hold left click and drag.
+Переподчинить: держать ЛКМ и перетаскивать.
 
 #antl_2
-Add/remove from select with ctrl+left-click.
+Добавить/удалить из выделения: ctrl+ЛКМ.
 
 #antl_3
-Clear selection: right-click.
+Очистить выделение: ПКМ.
 
 #regmenu_status_c1
-Current territorial status: '[x]' (click to change)
+Текущий статус территории: "[x]" (щелкните для изменения)
 
 #regmenu_powcost
-This territorial status currently costs you [x] of State Power to maintain.
+Поддержка этого территориального статуса стоит вам [x] Власти.
 
 #regmenu_jobs
-Jobs
+Работы
 
 #regmenu_jobs_c1
-All available jobs are filled!
+Все доступные работы заполнены!
 
 #regmenu_jobs_c2
-[x]% of available jobs are missing workers ([y]).
+[x]% доступным работам не достает рабочих ([y]).
 
 #regmenu_actives
-Employed
+Трудоустроены
 
 #regmenu_actv_c1
-All actives are currently employed!
+Все активное население трудоустроено!
 
 #regmenu_actv_c2
-[x]% of actives are jobless ([y]).
+[x]% активного населения безработные ([y]).
 
 #regmenu_inc
-Budget balance of this territory
+Баланс бюджета территории
 
 #regmenu_inc_dscr
-It is the result of all state incomes and expenses, such as taxes, trade balance, salaries and maintenance costs.
+Сумма всех доходов и расходов государства, таких как налоги, торговый баланс, зарплаты и стоимость обслуживания.
 
 #regmenu_admin
-Administration balance of this territory
+Баланс Администрации этой территории
 
 #regmenu_admin_dscr
-A badly administered territory generates more waste and corruption, reducing all sources of incomes.
+Плохо администрируемая территория генерирует больше растрат и коррупции, снижая доходы.
 
 #regmenu_wealth
-Total wealth of this territory
+Общее богатство территории
 
 #regmenu_wealth_dscr
-Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+Богатство - это объективная мера всех эффективных работ проводимых на этой территории, не зависимо от их рыночной стоимости в монетах.
 
 #regmenu_gdp
-GDP of this territory
+ВВП этой территории
 
 #regmenu_gdp_dscr
-An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+Экономический показатель, представляющий собой сумму всех доходов на этой территории (государства или населения) за период 10 экономических циклов.
 
 #regmenu_growth_1
-Current demographic evolution: [x] Porcos [y].
+Изменение численности населения: [x] Свинов [y].
 
 #regmenu_growth_2
-Active population: [x] [y]
+Активное население: [x] [y]
 
 #regmenu_vitals_1
-Vital needs of the population are currently [x]% satisfied.
+Базовые потребности населения в данный момент удовлетворены на [x]%.
 
 #regmenu_vitals_2
-Low vital needs reduce birth rate and increases mortality.
+Рождаемость снижается, а смертность растет, если базовые потребности не удовлетворены.
 
 #subjug_title
-Subjugate
+Покорить
 
 #subjug_can
-You can automatically subjugate [x].
+Вы можете автоматически покорить [x].
 
 #subjug_dscr
-This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+Это закончить войну межу вами и [x]. Это государство будет интегрировано в вашу нацию в качестве вассала. По договору о капитуляции вам будет передаваться Власть и часть налогов. Все оккупированные вашей нацией территории будут автоматически возвращены [x].
 
 #subjug_cant
-You cannot subjugate [x] yet.
+Вы пока что не можете покорить [x].
 
 #subjug_cant_dscr
-A character that has lost control of all its territories in a war can be automatically subjugated, provided that you are occupying at least one its territories. Subjugation will force his capitulation and make him your vassal, integrating him into your nation.
+Персонаж, потерявший контроль на всеми своими территориями в войне, может быть автоматически покорен, если вы оккупируете хотя бы одну из его территорий. Покорение приведет к его капитуляции и сделает его вашим вассалом. Он будет интегрирован в вашу нацию.
 
 #subjug_cant_why
-To subjugate this character you need to take control of:
+Чтобы поработить этого персонажа, вы должны получить контроль над:
 
 #subjug_apply
-Subjugate!
+Поработить!
 
 #info_cltrtrsfr
-[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+[x] жителей перемещено из [y] в [z], принеся с собой [v] культуры из их родного города в [z].
 
 #info_supportlmt
-This territory cannot support more units and does not allow overdraft!
+Эта территория не может больше превышать лимит войск и содержать больше юнитов!
 
 #displyr_c1
-click to select a display layer.
+щелкните, чтобы выбрать отображаемый слой.
 
 #displyr_c2
-currently displayed:
+сейчас отображается:
 
 #button_togh_c1
-toggle heights display
+включить режим высот
 
 #button_togh_c2
-heights: 
+высоты: 
 
 #displyr_normal
-Normal view
+Нормальный вид
 
 #displyr_fertil
-Fertility
+Плодородие
 
 #displyr_gwater
-Groundwater
+Грунтовые воды
 
 #displyr_height
-Heights
+Высоты
 
 #displyr_fortif
-Fortifications
+Укрепления
 
+#menuop_k_up
+Камера вверх
+
+#menuop_k_le
+Камера влево
+
+#menuop_k_ri
+Камера вправо
+
+#menuop_k_dw
+Камера вниз
+
+#menuop_keyset
+щелкните и нажмите кнопку, чтобы связать ее с этим действием
+
+#menuop_togtut
+Обучение
+
+#menuop_togtut_c1
+Включить основное обучение и все всплывающие подсказки для первого прохождения.
+
+#menuop_resetut
+Сбросить все
+
+#menuop_resetut_c1
+Сбросить все руководства.
+
+#menuop_resetutd
+Все руководства сброшены.
+
+#resist_title
+Движение сопротивления
+
+#resist_dscr
+На территории присутствует движение сопротивления. Это может привести к партизанскому восстанию в любой момент и независимо от лояльности территории!
+
+#resist_loyal
+Лояльность: [x]
+
+#resist_loyal_c1
+Это движение сопротивления сохраняет верность [x].
+
+#resist_loyal_c2
+Если Партизаны сумеют освободить территорию, они автоматически предложат присоединиться к этому государству.
+
+#resist_max
+Максимальное сопротивление: [x]
+
+#resist_max_c1
+Максимальное количество очков сопротивления, которое эта территория может иметь. Сопротивление ограничено размером населения территории.
+
+#resist_hloss
+Наказание за поражение: [x] Честь
+
+#resist_hloss_c1
+Количество чести, которое будет потеряно в качестве наказания, если Партизаны смогут освободить эту территорию.
+
+#resist_tot_c1
+Движение сопротивления на данный момент имеет [x] очков из возможного максимума [y].
+
+#resist_tot_c2
+Чем больше очков, тем сильнее на этой территории сопротивление, тем больше населения вовлечено и тем больше Партизан появится в случае восстания.
+
+#ui_price_sd_c31
+(запас обеспечен гос-закупками!)
+
+#ui_price_sd_c4
+[x]% цены до предложения/спроса из [y] монет = [z]
+
+#ui_price_sd_c41
+(эффект ограничен минимальной ценой в [x] монет!)
+
+#ui_price_arb_c5
+Местная цена до арбитража: [x] монет.

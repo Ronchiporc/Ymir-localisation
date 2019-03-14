@@ -1,0 +1,384 @@
+#civfx_inc_n
+receita da população
+
+#civfx_inc_dscr
+desbloqueia riqueza dinâmica da população
+
+#civfx_price_n
+preços dinâmicos
+
+#civfx_price_dscr
+recursos e objetos de valor tem preços dinâmicos baseados na oferta e na demanda da população
+
+#civfx_autodist_n
+distribuição automática
+
+#civfx_autodist_dscr
+todos os recursos são automaticamente disponibilizados para toda a população e não há necessidade de distribuidores
+
+#civfx_bdgeff_n
+eficiência dos locais de trabalho
+
+#civfx_bdgeff_dscr
+modifica a eficiência dos locais de trabalho
+
+#civfx_conflict_n
+conflito
+
+#civfx_conflict_dscr
+modifica o conflito entre a população
+
+#civfx_stress_n
+estresse na população
+
+#civfx_stress_dscr
+modifica o estresse da população
+
+#civfx_paidmat_n
+materiais pagos
+
+#civfx_paidmat_dscr
+o Estado tem que pagar pelos materiais que consome pelo preço corrente de mercado
+
+#civfx_seizem_n
+confiscar materiais
+
+#civfx_seizem_dscr
+quando materiais pagos está ativo, todos ou uma fração dos materiais são confiscados de graça ao invés de pagos pelo Estado.
+
+#civfx_seizem_set
+percentual de confisco
+
+#civfx_seizem_setd
+estabelece a porcentagem do preço em materiais que será confiscada
+
+#civfx_territ_n
+territórios provinciais
+
+#civfx_territ_dscr
+cidades podem anexar outros territórios como suas províncias
+
+#civfx_inctax_n
+imposto de renda
+
+#civfx_inctax_dscr
+um imposto aplicado a todas as receitas da população no território 
+
+#civfx_inctax_set
+porcentagem do imposto de renda
+
+#civfx_inctax_setd
+estabelece a porcentagem da renda que será taxada
+
+#civfx_saltax_n
+imposto sobre consumo
+
+#civfx_saltax_dscr
+imposto aplicado em todas as vendas no território (um IVA simplificado)
+
+#civfx_saltax_set
+porcentagem do imposto sobre consumo
+
+#civfx_saltax_setd
+estabelece a porcentagem da venda que será taxada
+
+#civfx_leadwlth_n
+Privilégios dos líderes
+
+#civfx_leadwlth_dscr
+Líderes ganham uma porção da riqueza do território como privilégio
+
+#civfx_leadwlth_set
+Privilégio do Líder
+
+#civfx_leadwlth_setd
+a porcentagem da riqueza do território dada como privilégio para o líder
+
+#civfx_leadsal_n
+Líderes Assalariados
+
+#civfx_leadsal_dscr
+Líderes ganham um salário pago pelo Estado
+
+#civfx_leadsal_set
+Salário dos líderes
+
+#civfx_leadsal_setd
+o valor do salário em moedas
+
+#civfx_nobwlth_n
+Privilégios da Nobreza
+
+#civfx_nobwlth_dscr
+Nobres ganham uma porção da riqueza do território como privilégio
+
+#civfx_nobwlth_set
+Privilégio da Nobreza
+
+#civfx_nobwlth_setd
+a porcentagem da riqueza do território dada como privilégio para a nobreza
+
+#civfx_nobsal_n
+Nobreza Assalariada
+
+#civfx_nobsal_dscr
+Nobres ganham um salário pago pelo Estado
+
+#civfx_nobsal_set
+Salário Nobre
+
+#civfx_nobsal_setd
+o valor do salário em moedas
+
+#civfx_offwlth_n
+Privilégios do funcionalismo público
+
+#civfx_offwlth_dscr
+Funcionários públicos ganham uma porção da riqueza do território como privilégio
+
+#civfx_offwlth_set
+Privilégio do funcionalismo público
+
+#civfx_offwlth_setd
+a porcentagem da riqueza do território dada como privilégio para os trabalhadores do Estado
+
+#civfx_offsal_n
+Funcionalismo público assalariado
+
+#civfx_offsal_dscr
+Funcionários do Estado ganham um salário pago pelo Estado
+
+#civfx_offsal_set
+Salário do funcionalismo público
+
+#civfx_offsal_setd
+o valor do salário em moedas
+
+#civfx_capadmin_n
+administração da capital
+
+#civfx_capadmin_dscr
+modifica a administração da capital
+
+#civfx_cityadmin_n
+administração urbana
+
+#civfx_cityadmin_dscr
+modifica a administração de cada cidade
+
+#civfx_regadmin_n
+administração territorial
+
+#civfx_regadmin_dscr
+modifica a administração de cada território
+
+#civfx_caplead_n
+líderes da capital
+
+#civfx_caplead_dscr
+líderes na capital
+
+#civfx_capnob_n
+nobres da capital
+
+#civfx_capnob_dscr
+nobres na capital
+
+#civfx_citlead_n
+líderes citadinos
+
+#civfx_citlead_dscr
+líderes por cidades
+
+#civfx_citnob_n
+nobreza citadina
+
+#civfx_citnob_dscr
+nobres por cidades
+
+#civfx_reglead_n
+líderes locais
+
+#civfx_reglead_dscr
+líderes por território
+
+#civfx_regnob_n
+nobreza local
+
+#civfx_regnob_dscr
+nobres por território
+
+#civfx_goldstck_n
+riqueza dos metais preciosos
+
+#civfx_goldstck_dscr
+aumenta a riqueza de todos os territórios para cada unidade de metais preciosos (ouro e prata) estocados
+
+#civfx_modhap_n
+felicidade da população
+
+#civfx_modhap_dscr
+modifica a felicidade da população
+
+#civfx_happy_n
+felicidade da população
+
+#civfx_happy_dscr
+modifica a felicidade da população
+
+#civfx_enmerch_n
+mercadores
+
+#civfx_enmerch_dscr
+permite o uso de mercadores para vender recursos para a população
+
+#civfx_entrout_n
+Rotas Comerciais
+
+#civfx_entrout_dscr
+permite a criação de rotas comerciais permanente entre territórios
+
+#civfx_legitprt_n
+protetor do povo
+
+#civfx_legitprt_dscr
+modifica o fator do poder militar para calcular a legitimidade
+
+#civfx_legitw_n
+superioridade do líder
+
+#civfx_legitw_dscr
+modifica o fator da superioridade do líder para calcular a legitimidade
+
+#civfx_legitr_n
+religiosidade do povo
+
+#civfx_legitr_dscr
+modifica o fator da religiosidade do povo para calcular a legitimidade
+
+#civfx_legitp_n
+poder do parlamentoparliament's power
+
+#civfx_legitp_dscr
+modifica o fator do parlamento para calcular a legitimidade
+
+#civfx_legitsen_n
+poder do Senado
+
+#civfx_legitsen_dscr
+modifica o fator do Senado para calcular a legitimidade
+
+#civfx_legitm_n
+poder ministerial
+
+#civfx_legitm_dscr
+modifica o fator do Ministério para calcular a legitimidade
+
+#civfx_legitap_n
+aprovação popular
+
+#civfx_legitap_dscr
+modifica o fator da aprovação popular para calcular a legitimidade
+
+#civfx_wlegitprt_n
+importância do poder militar
+
+#civfx_wlegitprt_dscr
+o quão o poder militar afeta a legitimidade
+
+#civfx_wlegitw_n
+importância da superioridade do líder
+
+#civfx_wlegitw_dscr
+o quão a superioridade do líder afeta a legitimidade
+
+#civfx_wlegitr_n
+importância da religiosidade
+
+#civfx_wlegitr_dscr
+o quão a religiosidade do povo afeta a legitimidade
+
+#civfx_wlegitp_n
+importância do parlamento
+
+#civfx_wlegitp_dscr
+o quão o poder do parlamento afeta a legitimidade
+
+#civfx_wlegitsen_n
+importância do senado
+
+#civfx_wlegitsen_dscr
+o quão o poder do senado afeta a legitimidade.
+
+#civfx_wlegitm_n
+importância dos ministérios
+
+#civfx_wlegitm_dscr
+o quão o poder dos ministros afeta a legitimidade.
+
+#civfx_wlegitap_n
+importância da aprovação popular
+
+#civfx_wlegitap_dscr
+o quão a aprovação popular afeta a legitimidade.
+
+#civfx_statepow_n
+poder do Estado
+
+#civfx_statepow_dscr
+modifica a quantidade de poder do Estado
+
+#civfx_foodcons_n
+consumo de alimentos
+
+#civfx_foodcons_dscr
+afeta a quantidade de alimentos necessária para satisfazer as necessidades dos porcos por comida
+
+#civfx_coin_n
+tesouro do Estado
+
+#civfx_coin_dscr
+Habilita o Estado em ganhar e gastar dinheiro.
+
+#civfx_agrisav_n
+estocar sementes
+
+#civfx_agrisav_dscr
+25% de toda produção agrícola vai direto para os celeiros
+
+#civfx_subv_n
+subvenção
+
+#civfx_subv_dscr
+uma ajuda governamental dada para cada trabalhador de uma classe social específica, para aumentar sua renda
+
+#civfx_subv_set1
+Subvenção
+
+#civfx_subv_set1d
+A classe social que recebe essa subvenção
+
+#civfx_subv_set2
+Moedas
+
+#civfx_subv_set2d
+O valor da subvenção. Cada trabalhador receberá essa quantidade de moedas, adicionadas em sua respectiva receita.
+
+#civfx_paidrsrch_n
+pesquisadores pagos
+
+#civfx_paidrsrch_dscr
+pesquisadores são pagos e não reduzem mais a força de trabalho nos seus respectivos locais de trabalho.
+
+#civfx_ldcntrb_n
+Contribuição pessoal do Líder
+
+#civfx_ldcntrb_dscr
+O líder pode contribuir para as finanças do governo com sua própria riqueza (reduzindo a sua própria).
+
+#civfx_ldcntrb_set
+Contribuição (%)
+
+#civfx_ldcntrb_setd
+Porcentagem da riqueza do líder doada para as finanças governamentais. Atente que isso irá reduzir a riqueza do Líder proporcionalmente.
+

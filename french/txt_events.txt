@@ -132,7 +132,7 @@ Armée inférieure à [x] [y]
 Armée supérieure à [x] [y]
 
 #cond_natmetal
-Avoir des sources naturelles de métal
+Avoir des gisements naturelles de métal
 
 #cond_GDP_inf
 PIB inférieur à [x]
@@ -471,16 +471,16 @@ Nos troupes tenteront de piller les ressources et les bâtiments avant de quitte
 Raid de [x]
 
 #event_Abr_raid_1
-Nous avons attaqué [x] pour piller leur territoire avec des soldats [p2].
+Nous avons attaqué [x] avec [p2] soldats pour piller leur territoire.
 
 #event_Abr_raid_2
-Nos troupes ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+Nos troupes ont réussi à piller [p3] des ressources et [p4] pièces de monnaie.
 
 #event_Db_raid
 [y] attaque [x]
 
 #event_Db_raid_1
-[y] a lancé un raid sur [x] avec des soldats [p2].
+[y] a lancé un raid sur [x] avec [p2] soldats.
 
 #event_Db_raid_2
 Nous devons les arrêter avant qu'ils n'atteignent et pillent nos ressources et bâtiments et quittent le territoire avec leur butin!
@@ -489,16 +489,16 @@ Nous devons les arrêter avant qu'ils n'atteignent et pillent nos ressources et 
 Défense de [x] contre un raid de [y]
 
 #event_Dbr_raid_1
-[y] a attaqué [x] pour piller notre territoire avec [p2] des soldats.
+[y] a attaqué [x] pour piller notre territoire avec [p2] soldats.
 
 #event_Dbr_raid_2
-Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+Ils ont réussi à piller [p3] des ressources et [p4] pièces de monnaie.
 
 #event_Ab_sack
-Mise à sac [x]
+Mise à sac de [x]
 
 #event_Ab_sack_1
-Nous lançons un assaut sur [x] pour saccager le territoire avec des soldats [p2].
+Nous lançons un assaut sur [x] pour saccager le territoire avec [p2] soldats .
 
 #event_Ab_sack_2
 Nos troupes tenteront d'éliminer tous les ennemis et les défenses du territoire avant de piller tout ce qu'elles peuvent et partir avec leur butin.
@@ -525,22 +525,22 @@ Ils vont essayer d'éliminer toutes nos troupes et nos défenses avant de piller
 Défense de [x] contre un limogeage de [y]
 
 #event_Dbr_sack_1
-[y] a lancé un assaut sur [x] pour saccager notre territoire avec [p2] des soldats.
+[y] a lancé un assaut sur [x] pour saccager notre territoire avec [p2] soldats.
 
 #event_Dbr_sack_2
-Ils ont réussi à piller [p3] des ressources et des [p4] pièces de monnaie.
+Ils ont réussi à piller [p3] des ressources et [p4] pièces de monnaie.
 
 #event_Db_assist
 Aider [y] à défendre [x]
 
 #event_Db_assist_1
-[y] est attaqué dans [x].
+[y] est attaqué à [x].
 
 #event_Db_assist_2
-En tant qu'allié, nos troupes [p2] participent à la bataille et aident à se défendre contre [p3] ennemis.
+En tant qu'allié, nos [p2] troupes participent à la bataille et aident à défendre contre [p3] ennemis.
 
 #event_Dbr_assist
-Aidé [en] pour défendre [x]
+Aidé [y] pour défendre [x]
 
 #event_Dbr_assist_1
 [y] a été attaqué dans [x].
@@ -591,7 +591,7 @@ Endetté!
 Nous sommes actuellement endettés de [p1] pièces de monnaie dans notre trésor. Le fait de s'endetter réduit notre pouvoir d'État et affecte la loyauté de nos villes et de nos armées.
 
 #event_debt_2
-Nous devons remettre le solde de notre revenu public dans le vert ou nous aurons de sérieux problèmes. Si la situation est désespérée, nous pouvons également prendre une décision de dernier recours d'annuler notre dette, mais cela va générer de grands troubles dans notre état.
+Nous devons remettre notre revenu dans le vert ou nous aurons de sérieux problèmes. Si la situation est désespérée, nous pouvons également prendre une décision de dernier recours d'annuler notre dette, mais cela va générer de grands troubles dans notre état.
 
 #event_c_canceldebt
 Annuler la dette
@@ -630,7 +630,7 @@ Le pouvoir de l'État peut être amélioré en: possédant moins de villes, n'ay
 Légitimité négative!
 
 #event_lowlegit_1
-La légitimité est de savoir combien les gens reconnaissent le droit des revendications de l'état à l'autorité. Sans cela, non seulement nous sommes confrontés à un risque croissant de soulèvements populaires, mais nos armées pourraient aussi se retourner contre nous pour renverser notre gouvernement illégitime!
+La légitimité est la reconnaissance du peuple à votre droit de revendications de l'état par l'autorité. Sans cela, non seulement nous sommes confrontés à un risque croissant de soulèvements populaires, mais nos armées pourraient aussi se retourner contre nous pour renverser notre gouvernement illégitime!
 
 #event_lowlegit_2
 Les politiques de légitimité définissent les revendications que vous faites pour affirmer votre droit en tant que dirigeant de cet État. Ces revendications définissent l'importance de tous les différents facteurs de légitimité. Pour améliorer notre situation, nous pourrions soit travailler à améliorer les facteurs actuels, soit réformer nos prétentions à la légitimité en nous appuyant sur des facteurs plus bénéfiques.
@@ -639,22 +639,22 @@ Les politiques de légitimité définissent les revendications que vous faites p
 Territoire volé
 
 #event_tribwarn_1
-Il faut se méfier! En créant notre nouvelle colonie de [x], nous avons usurpé les terres d'une tribu primitive qui vit là depuis des générations. Bien sûr, ce territoire semblait attrayant, mais nous finirons par payer les conséquences de cette action car les autochtones ne toléreront pas notre présence pour toujours.
+Il faut se méfier! En créant notre nouvelle colonie [x], nous avons usurpé les terres d'une tribu primitive qui vit là depuis des générations. Bien sûr, ce territoire semblait attrayant, mais nous finirons par payer les conséquences de cette action car les autochtones ne toléreront pas notre présence pour toujours.
 
 #event_tribwarn_2
-Pour l'instant, ils nous ont seulement regardé fixer le camp de loin, mais ils connaissent mieux ces terres que quiconque et disparaissent à chaque fois que nous essayons de les approcher. Je crains que nous ne soyons pas capables de "traiter avec eux" avant qu'ils ne choisissent de causer des problèmes ... Nous devrions nous préparer à une attaque surprise possible par eux. Ils pourraient préparer des armes et des guerriers pour nous chasser de leurs terres en ce moment même! Ou peut-être que cette terre ne vaut pas la peine après tout et que nous pourrions simplement faire nos bagages et les laisser être?
+Pour l'instant, ils nous ont seulement regardé fixer le camp de loin, mais ils connaissent mieux ces terres que quiconque et disparaissent à chaque fois que nous essayons de les approcher. Je crains que nous ne soyons pas capables de "traiter avec eux" avant qu'ils ne choisissent de causer des problèmes ... Nous devrions nous préparer à une attaque surprise possible par eux. Ils pourraient préparer des armes et des guerriers pour nous chasser de leurs terres en ce moment même! Ou peut-être que cette terre ne vaut pas la peine après tout et que nous pourrions simplement faire nos bagages et les laisser tranquille?
 
 #event_tribreb
-Une tribu primitive qui se moque de [x]!
+Une tribu primitive se soulève à [x]!
 
 #event_tribreb_1
-Les indigènes vivant sur notre territoire de [x] sont devenus mécontents d'avoir ce qu'ils ressentent comme étant leur territoire occupé par nous. Ils ont pris les armes et ont décidé d'attaquer traîtreusement!
+Les indigènes vivant sur notre territoire de [x] sont devenus mécontents que nous occupions leur territoire. Ils ont pris les armes et ont décidé d'attaquerpar surprise!
 
 #event_trt_ref
 [y] a refusé notre proposition de traité
 
 #event_trt_ref_1
-Un émissaire de [y] nous a informés que notre offre de traité juste et généreuse a été déclinée de [x].
+Un émissaire de [y] nous a informés que notre offre de traité juste et généreuse a été déclinée par [x].
 
 #event_trt_acc
 Traité avec [y] signé
@@ -678,7 +678,7 @@ Notre traité avec [x] de [y] a été approuvé et signé par nous deux et est m
 [x] a brisé un traité!
 
 #event_trt_brk1_1
-[x] a brisé illégalement le traité de '[y]' qu'ils avaient avec nous!
+[x] a brisé le traité de '[y]' qu'ils avaient avec nous!
 
 #event_trt_brk1_2
 Selon les termes de rupture du traité, nous avons reçu [p1] pièces de monnaie en compensation et ils ont perdu [p2] d'honneur.
@@ -687,85 +687,85 @@ Selon les termes de rupture du traité, nous avons reçu [p1] pièces de monnaie
 Nous avons rompu un traité avec [x]!
 
 #event_trt_brk2_1
-Nous avons illégalement brisé le traité de '[y]' que nous avons eu avec [x].
+Nous avons brisé le traité de '[y]' que nous avons eu avec [x].
 
 #event_trt_brk2_2
 Selon les termes de rupture du traité, comme pénalité, nous avons payé [p1] pièces de monnaie et perdu [p2] de l'honneur.
 
 #event_trt_brkw1
-Nous leur avons déclaré la guerre en représailles, et tout autre traité avec eux a
+Nous leur avons déclaré la guerre en représailles, et tout autre traité avec eux a été rompu.
 
 #event_trt_brkw2
 Ils nous ont déclaré la guerre en représailles.
 
 #event_brb_raid
-Pillards barbares entrants!
+Pillards barbares en approche!
 
 #event_brb_raid_1
-Nos éclaireurs rapportent qu'un groupe de pilleurs [p1] barbares ont quitté le territoire voisin de [x] et arrivent sur notre chemin.
+Nos éclaireurs rapportent qu'un groupe de  [p1] pilleurs barbares ont quitté le territoire voisin de [x] et arrivent sur nous.
 
 #event_brb_raid_2
-Ils pourraient être ici bientôt et tenter de faire rapidement des raids dans nos entrepôts. Nous devons préparer nos défenses!
+Ils pourraient bientôt être ici et tenter de faire des raids rapides dans nos entrepôts. Nous devons préparer nos défenses!
 
 #event_brb_sack
-Groupe de guerre barbare entrant!
+Groupe de guerre barbare en approche!
 
 #event_brb_sack_1
 Nos éclaireurs rapportent qu'une bande de barbares d'environ [p1] pocros a quitté le territoire voisin de [x] et arrive sur notre route.
 
 #event_brb_sack_2
-Ils pourraient être ici bientôt et attaqueront pour vaincre toutes nos défenses avant de saccager tout le territoire! Nous devons préparer nos défenses!
+Ils pourraient bientôt être ici et ils attaqueront pour vaincre toutes nos défenses avant de saccager tout le territoire! Nous devons préparer nos défenses!
 
 #event_brb_inv
-Envahisseurs barbares entrants!
+Envahisseurs barbares en approche!
 
 #event_brb_inv_1
-Nos éclaireurs rapportent qu'une armée de barbares d'environ [p1] pocros a quitté le territoire voisin de [x] et nous arrive.
+Nos éclaireurs rapportent qu'une armée de barbares d'environ [p1] pocros a quitté le territoire voisin de [x] et nous arrive dessus.
 
 #event_brb_inv_2
-Ils pourraient être ici bientôt et ils ne semblent pas venir juste pour piller, mais pour envahir nos terres! Nous devons préparer nos défenses!
+Ils pourraient bientôt être ici et ils ne semblent pas venir juste pour piller, mais pour envahir nos terres! Nous devons préparer nos défenses!
 
 #event_crsh_vict
 Victoire écrasante!
 
 #event_crsh_vict_1
-Notre formation << [x] >> a complètement écrasé et éliminé une petite troupe d'ennemis, grâce à nos nombres supérieurs écrasants.
+Notre formation << [x] >> a complètement écrasé et éliminé une petite troupe d'ennemis, grâce à notre supériorité numérique écrasante.
 
 #event_crsh_dfeat
 Une défaite écrasante!
 
 #event_crsh_dfeat_1
-Nouvelles graves: notre formation << [x] >> a été complètement écrasée et éliminée par l'ennemi [y], avec des nombres supérieurs accablants. Personne n'a survécu pour même raconter l'histoire.
+Nouvelles graves: notre formation << [x] >> a été complètement écrasée et éliminée par l'ennemi [y], avec leur supériorité numérique accablants. Personne n'a survécu pour raconter l'histoire.
 
 #event_popdefrise
-Les gens de [x] défendent la ville!
+Le peuple de [x] défend la ville!
 
 #event_popdefrise_1
 Les habitants de la ville de [x] prennent les armes par eux-mêmes pour aider à défendre la ville contre les assaillants. [p1] porcos se joignent à la bataille!
 
 #event_trout_w1
-Avertissement d'itinéraire commercial: pas de droits de négociation!
+Avertissement d'itinéraire commercial: pas de droits de commerce!
 
 #event_trout_w1_1
-Parce que nous n'avons plus de droits de négociation avec la ville de [y], notre route commerciale entre cette ville et [x] se fermera bientôt, à moins que nous ne réglions ce problème rapidement.
+Parce que nous n'avons plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] se fermera bientôt, à moins que nous ne réglions ce problème rapidement.
 
 #event_trout_w1_2
-Cela peut arriver si la ville a un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de négociation, ou si ces droits ont été révoqués.
+Cela peut arriver si la ville a un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de commerce, ou si ces droits ont été révoqués.
 
 #event_trout_b1
-Route commerciale cassée!
+Route commerciale interrompue!
 
 #event_trout_b1_1
-Parce que nous n'avions plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] était fermée.
+Parce que nous n'avions plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] a été fermée.
 
 #event_trout_b1_2
-Cela s'est produit parce que la ville a eu un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de négociation ou si les droits de négociation ont été révoqués.
+Cela s'est produit parce que la ville a eu un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de commerce ou parce que les droits de commerce ont été révoqués.
 
 #event_trout_w2
 Avertissement d'itinéraire commercial: cargaison manquante!
 
 #event_trout_w2_1
-Notre route commerciale avec [x] exploité par [y] manque [p2] de la cargaison à exploiter correctement. La route commerciale se fermera bientôt à moins que nous réglions ce problème rapidement.
+Notre route commerciale avec [x] exploité par [y] manque de [p2] cargaison pour être exploitée correctement. La route commerciale se fermera bientôt à moins que nous réglions ce problème rapidement.
 
 #event_trout_w2_2
 Le service de fret est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
@@ -792,7 +792,7 @@ Avertissement d'itinéraire commercial: il nous manque des marchandises!
 Notre route commerciale exportant [p2] [p3] à [x] de [y] manque des biens requis et fermera bientôt si nous ne résolvons pas ce problème rapidement!
 
 #event_trout_w3_2
-Cela arrive parce que nous ne produisons plus assez [p3] en [x] et que nos stocks sont épuisés.
+Cela arrive parce que nous ne produisons plus assez de [p3] en [x] et que nos stocks sont épuisés.
 
 #event_trout_b3
 Route commerciale interrompue!
@@ -834,61 +834,61 @@ Une de nos routes commerciales a été fermée par son opérateur!
 La ville de [x] a décidé d'arrêter d'exploiter notre route commerciale de [p2] [p3] avec notre ville de [y]. Cela a entraîné la fermeture de la route commerciale.
 
 #event_cdog
-Un chasseur a apprivoisé quelques chiens sauvages dans [x]!
+Un chasseur a apprivoisé quelques chiens sauvages à [x]!
 
 #event_cdog_1
 Certains chiens sauvages ont erré autour du village de [x] ces derniers temps. Les animaux semblaient amicaux et un chasseur parvint à apprivoiser certains d'entre eux: il les mit dans un enclos fermé pour les garder. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_csheep
-Nous avons apprivoisé quelques moutons sauvages dans [x]!
+Nous avons apprivoisé quelques moutons sauvages à [x]!
 
 #event_csheep_1
 Certains moutons sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture! Ils sont aussi assez moelleux.
 
 #event_cgoat
-Nous avons apprivoisé des chèvres sauvages dans [x]!
+Nous avons apprivoisé des chèvres sauvages à [x]!
 
 #event_cgoat_1
 Certaines chèvres sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_crabbit
-Les chasseurs ont capturé quelques lapins sauvages dans [x]!
+Les chasseurs ont capturé quelques lapins sauvages à [x]!
 
 #event_crabbit_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des lapins vivants et les ont mis dans des cages pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_cchick
-Les chasseurs ont attrapé du poulet sauvage dans [x]!
+Les chasseurs ont attrapé du poulet sauvage à [x]!
 
 #event_cchick_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des poulets vivants et les ont mis dans des cages pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_ccow
-Nous avons apprivoisé des vaches sauvages dans [x]!
+Nous avons apprivoisé des vaches sauvages à [x]!
 
 #event_ccow_1
 Certaines vaches sauvages ont erré autour du village de [x] ces derniers temps. Ces animaux semblaient passifs, et un villageois a réussi à les diriger vers un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_cbuff
-Nous avons apprivoisé quelques buffles sauvages dans [x]!
+Nous avons apprivoisé quelques buffles sauvages à [x]!
 
 #event_cbuff_1
 Certains buffles sauvages ont erré autour du village de [x] dernièrement. Ces animaux semblent sympathiques, et un villageois a réussi à les attirer dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
 
 #event_chorse
-Les chasseurs ont capturé des chevaux sauvages dans [x]!
+Les chasseurs ont capturé des chevaux sauvages à [x]!
 
 #event_chorse_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des chevaux sauvages. Ils ont enfermé les animaux agités dans un petit enclos pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_ccamel
-Les chasseurs ont capturé quelques chameaux sauvages dans [x]!
+Les chasseurs ont capturé quelques chameaux sauvages à [x]!
 
 #event_ccamel_1
 Les chasseurs de [x] ont eu de la chance et ont réussi à capturer des chameaux sauvages. Ils ont enfermé les animaux stupides et obstinés dans un petit enclos pour les garder, au cas où nous aurions besoin de viande fraîche! C'est toujours bon d'avoir des stocks alimentaires.
 
 #event_cllama
-Nous avons apprivoisé quelques lamas sauvages dans [x]!
+Nous avons apprivoisé quelques lamas sauvages à [x]!
 
 #event_cllama_1
 Certains lamas sauvages ont erré autour du village de [x] ces derniers temps. Ces animaux semblaient plutôt sympathiques - à la mesure d'un lama crachant obstiné - et un villageois a réussi à les pousser dans un petit enclos fermé pour s'assurer qu'ils ne partent pas. Nous devrions les garder jusqu'à ce que nous ayons besoin de viande fraîche, c'est toujours bon d'avoir des stocks de nourriture!
@@ -948,31 +948,31 @@ Devrions-nous les accueillir dans notre tribu?
 "Non, nous ne pouvons pas nous permettre des bouches supplémentaires à nourrir."
 
 #ev_stormwood
-Nuit orageuse dans [x]
+Nuit orageuse à [x]
 
 #ev_stormwood_1
-Une violente tempête a fait rage toute la nuit en [x], avec de forts vents. Heureusement, Noone a été blessé et le village n'a subi aucun dommage.
+Une violente tempête a fait rage toute la nuit à [x], avec de forts vents. Heureusement, personne a été blessé et le village n'a subi aucun dommage.
 
 #ev_stormwood_2
 Cependant, le matin, les villageois ont remarqué que quelques grands arbres étaient tombés à proximité, ce qui en faisait une source de bois facile et gratuite!
 
 #ev_luckgath
-Lucky gatherer dans [x]
+Lucky gatherer à [x]
 
 #ev_luckgath_1
 Un de nos cueilleurs a eu de la chance et a trébuché sur une parcelle de plantes comestibles jusque-là inconnue cachée dans la végétation que personne n'avait remarquée auparavant! C'est une bonne récolte pour la journée!
 
 #ev_nagwif
-La femme harcelante
+La harceleuse
 
 #ev_nagwif_1
-Un porco du village de [x], exaspéré par les harcèlements incessants de sa porcasse, décida de partir en retraite dans le désert pour chasser et ainsi disparut pendant plusieurs jours.
+Un porco du village de [x], exaspéré par les harcèlements incessants de sa porcasse, décida de partir en retraite dans le désert pour chasser et disparut pendant plusieurs jours.
 
 #ev_nagwif_2
 Beaucoup craignaient qu'il ne revienne jamais. Mais le 5ème jour, il revint, emportant avec lui les dépouilles de ce qui s'était avéré être une chasse très réussie. Il a été acclamé par toute la tribu. Sa femme, cependant, n'était pas contente et partit avec ses porcelets pour vivre dans la tribu de sa mère, de l'autre côté de la vallée.
 
 #ev_regwolf
-Loups affamés dans [x]!
+Loups affamés à [x]!
 
 #ev_regwolf_1
 Une meute de loups affamés est arrivée sur le territoire de [x], probablement attirée par nos stocks alimentaires! Pendant la nuit, ils ont réveillé toute la tribu avec leurs hurlements effrayants qui se rapprochaient de plus en plus. A l'aube, leurs silhouettes sombres ont été repérées autour du village.
@@ -981,10 +981,10 @@ Une meute de loups affamés est arrivée sur le territoire de [x], probablement 
 Tous les guerriers se sont précipités vers leurs armes et se sont rassemblés, prêts à combattre la meute de loups et à protéger le peuple et les stocks du village!
 
 #ev_regbear
-Mauvais ours dans [x]
+Mauvais ours à [x]
 
 #ev_regbear_1
-Un petit groupe d'ours est venu errer sur le territoire de [x]. Pendant la nuit, ils sont entrés dans le village et ont commencé à se déchaîner à travers nos réserves alimentaires et nos provisions.
+Un petit groupe d'ours est venu errer sur le territoire de [x]. Pendant la nuit, ils sont entrés dans le village et ont commencé à se déchaîner dans nos réserves alimentaires et nos provisions.
 
 #ev_regbear_c1
 "Tout le monde, fais semblant de dormir ..."
@@ -1050,7 +1050,7 @@ Le peuple de [x] a complété une mission de victoire "[y]" avant nous!
 Des guerriers veulent se joindrent à nous!
 
 #ev_joinwriors_1
-Un groupe de 10 guerriers ont erré dans les terres pendant plusieurs lunesavant d'arriver dans notre tribus. Ils sont amicaux et souhaitent se joindre à nous: ils nous offrent leur aide pour chasser et explorer le monde si nous les accueillons parmi nous.
+Un groupe de 10 guerriers ont erré dans les terres pendant plusieurs lunes avant d'arriver dans notre tribus. Ils sont amicaux et souhaitent se joindre à nous: ils nous offrent leur aide pour chasser et explorer le monde si nous les accueillons parmi nous.
 
 #ev_joinwriors_c1
 "Oui, accueillons-les!"
@@ -1137,7 +1137,7 @@ Une fois qu'un successeur est élu, sa position sera immédiatement échangée a
 Vous avez été élu [x]!
 
 #ev_votesucc_won_1
-Toutes nos félicitations! Vous avez été élu (e) successeur de [p1].
+Toutes nos félicitations! Vous avez été élu(e) successeur de [p1].
 
 #ev_votesucc_won_2
 Vous avez gagné l'élection avec [p3] votes en votre faveur sur [p4] votes exprimés.
@@ -1254,7 +1254,7 @@ Notre formation '[x] traversait lentement une plaine apparemment sans fin couver
 Cela, malheureusement, était juste un début car au moment où le groupe a réussi à échapper à la plaine, deux autres avaient été mordus et ont subit le même sort. Cette plaine était infestée littéralement de serpents visqueux.
 
 #ev_xplr_snakes_c1
-"Je l'ai eu avec ces serpents de merde!"
+"J'ai été morrdu par ces serpents de merde!"
 
 #ev_xplr_map
 La tribu amicale offre '[x]' une carte du territoire.
@@ -1293,7 +1293,7 @@ La mer est dangereuse et de mauvaise humeur. Avant que quelqu'un ait eu le temps
 Vague mesquine!
 
 #ev_xplr_rwave_1
-La mer est dangereuse et traîtresse. C'était une journée ensoleillée, la mer semblait calme et la brise était agréable. Les porcos étaient détendus, mais désireux d'être de retour sur terre. Mais soudainement, un porco hurla, pointant à l'horizon sur tribord. Tout le monde regarda avec terreur ce qui ressemblait à un improbable mur d'eau qui se dirigeait vers le navire. Avant que n'importe qui puisse faire n'importe quoi, le petit bateau a été frappé et chaviré.
+La mer est dangereuse et traîtresse. C'était une journée ensoleillée, la mer semblait calme et la brise était agréable. Les porcos étaient détendus, mais désireux d'être de retour sur terre. Mais soudainement, un porco hurla, pointant à l'horizon sur tribord. Tout le monde regarda avec terreur ce qui ressemblait à un improbable mur d'eau qui se dirigeait vers le navire. Avant que quiconque puisse envisager de faire quelque chose, le petit bateau a été frappé et chaviré.
 
 #ev_xplr_rwave_2
 Il n'y avait rien qu'ils auraient pu faire contre un événement aussi perfide et imprévisible: ils n'avaient aucune chance. Les navires et les porcos ont été traînés au fond de la mer, pour ne plus jamais être revus.
@@ -1317,7 +1317,7 @@ Un marin non qualifié n'a pas correctement attaché une caisse de fournitures q
 Mer dangereuse
 
 #ev_xplr_sngseal_1
-La mer n'est pas un endroit pour un porco seul, et c'est impardonnable et impitoyable. Notre explorateur solitaire a disparu et n'a plus jamais été revu.
+La mer n'est pas un endroit pour un porco seul, elle est impardonnable et impitoyable. Notre explorateur solitaire a disparu et n'a plus jamais été revu.
 
 #ev_xplr_sngseal_2
 Qui sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, si nous voulons avoir une chance!
@@ -1332,10 +1332,10 @@ Alors que notre expédition «[x]» se dirigeait vers un nouveau territoire inex
 Nous avons décidé de nous asseoir avec eux un moment et le vieux porco sage a commencé à présenter sa doctrine: Il a soutenu que le bonheur ne pouvait pas être atteint en satisfaisant les désirs conventionnels comme la richesse, la puissance, la renommée ou les plaisirs de la chair. Selon son école de pensée, seule une vie simple et libre de toutes possessions pourrait vraiment remplir nos âmes.
 
 #ev_xplr_wiseold_3
-Il a plaidé pendant des heures, captivant tout le public. Ses mots étaient subtils et son raisonnement logique. Il était même si persuasif que beaucoup d'entre nous décidèrent d'abandonner tous leurs biens pour le suivre.
+Il a parlé pendant des heures, captivant tout le public. Ses mots étaient subtils et son raisonnement logique. Il était même si persuasif que beaucoup d'entre nous décidèrent d'abandonner tous leurs biens pour le suivre.
 
 #ev_xplr_cptsow
-porcasses captives
+Porcasses captives
 
 #ev_xplr_cptsow_1
 Un éclaireur de l'expédition [x] vient de signaler la présence d'une bande de guerriers dans la région. A en juger par l'apparition de leur camp, leur présence sur le territoire n'est que temporaire.
@@ -1830,7 +1830,7 @@ Vous avez soumis l'état de [x], dirigé par [y], qui est maintenant votre vassa
 Vous avez été soumis par [x]!
 
 #ev_been_subjug_1
-Vous avez été soumis à l'état de [x], dirigé par [y], qui est maintenant votre seigneur.
+Vous avez été soumis par l'état de [x], dirigé par [y], qui est maintenant votre seigneur.
 
 #ev_been_subjug_2
 Vous allez maintenant devoir payer des tributs de pièces de monnaie et du pouvoir d'État, Vous avez rejoint la nation de [x] en tant que subordonné de [y]. En échange, tous les territoires occupés vous ont été rétrocédés.

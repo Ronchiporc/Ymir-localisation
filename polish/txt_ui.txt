@@ -1,185 +1,185 @@
-ï»¿#b_menu_tutorial
-TUTORIAL
+#b_menu_tutorial
+SAMOUCZEK
 
 #b_menu_newgame
-NEW GAME
+NOWA GRA
 
 #b_menu_load
-LOAD GAME
+WCZYTAJ GRE
 
 #b_menu_join
-JOIN GAME
+DOLACZ DO GRY
 
 #b_menu_editor
-EDITOR
+EDYTOR
 
 #b_menu_options
-SETTINGS
+USTAWIENIA
 
 #b_menu_quit
-QUIT
+WYJDZ
 
 #b_menu_resume
-RESUME
+WZNÓW
 
 #b_menu_tomain
-TO MAIN MENU
+MENU GLÓWNE
 
 #b_menu_discord_1
-Ymir official Discord
+Oficjalny kanal Discord
 
 #b_menu_discord_2
-Join the Ymir community!
+Dolacz do spolecznosci Ymir!
 
 #b_menu_porcopedia_1
-Porcopedia
+Wieprzopedia
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+Oficjalna encyklopedia gry
 
 #b_menu_trell_1
-Ymir on Trello
+Ymir na Trello
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+Sledz rozwoj gry i glosuj na planowane rozwiazania
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+Czy naprawde chcesz wyjsc i wrocic do Menu Glownego?
 
 #ui_connctstat_1
-Currently connected to [x]  ping: [y]
+Obecnie polaczono z [x]  ping: [y]
 
 #ui_connctstat_2
 Loss rate: [x]% ( sent:[y]  failed:[z] )
 
 #ui_connct_stable
-Your connection with the server is stable.
+Twoje polaczenie z serwerem jest stabilne.
 
 #ui_connct_unstbl
-Warning! Your connection with the server is unstable!
+Uwaga! Twoje polaczenie z serwerem jest niestabilne!
 
 #mainmenu_mute
-click to mute/unmute the whole game
+Kliknij by wyciszyc/wznowic dzwiek w grze
 
 #mainmenu_fullscrn
 click to switch between windowed and fullscreen modes
 
 #mainmenu_quit
-click to quit the game
+Kliknij by wyjsc z gry
 
 #mainmenu_maxim
-maximize
+maksymalizuj
 
 #mainmenu_minim
-minimize
+minimalizuj
 
 #dsclmr_title
 DISCLAIMER
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- Ta gra jest projektem jednoosobowym: jej rozwój jest powolny.
 
 #dsclmr_2
-- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+- Mozliwe, ze ta gra pozostanie na zawsze eksperymentalna, w fazie rozwoju i nigdy nie osiagnie jakosci i optymalizacji ukonczonego produktu.
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- Gra w pojedynke jest mozliwa, lecz glownym przeznaczeniem gry jest rozgrywka wieloosobowa.
 
 #b_menuop_fullscreen
-Fullscreen
+Pelny ekran
 
 #bc_menuop_fullscreen
-enable fullscreen
+Wlacz tryb pelnoekranowy
 
 #b_menuop_autores
-Automatic resolution
+Rozdzielczosc automatyczna
 
 #bc_menuop_autores
-automatically adapt resolution to the display in fullscreen
+Automatycznie dopasuj rozdzielczosc do monitora w trybie pelnoekranowym
 
 #b_menuop_res
-Display resolution
+Wyswietl rozdzielczosc
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+Wybierz rozdzielczosc dla trybu pelnoekranowego
 
 #b_menuop_terrain
-Terrain
+Teren
 
 #b_menuop_low
-low
+niskie
 
 #b_menuop_medium
-medium
+srednie
 
 #b_menuop_high
-high
+wysokie
 
 #b_menuop_bdgs
-Buidings
+Budynki
 
 #b_menuop_units
-Units
+Jednostki
 
 #b_menuop_fx
 FX
 
 #b_menuop_shaders
-Shaders
+Shadery
 
 #b_menuop_worldmap
-Worldmap
+Mapa swiata
 
 #b_menuop_logic
-Logic
+Logika
 
 #b_menuop_cosveg
-Cosmetic vegetation
+Kosmetyczna wegetacja
 
 #bc_menuop_cosveg
-Enable cosmetic grass and bushes
+Wlacz kosmetyczna trawe i krzaki
 
 #b_menuop_cosunits
-Cosmetic units 
+Ozdobne jednostki 
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+Wlacz kosmetyczne jednostki. Np. ozdobne zwierzeta
 
 #b_menuop_animveget
-Animated vegetation
+Animowana wegetacja
 
 #bc_menuop_animveget
-Enable or disable animated vegetation in the territory view
+Wlacz lub wylacz animowana wegetacje w widoku terytorium
 
 #b_menuop_grain
-Video grain
+Ziarno obrazu
 
 #bc_menuop_grain
-Enable or disable this post-processing effect
+Wlacz lub wylacz ten efekt post-processingu
 
 #b_menuop_autovsize
-Automatic viewport definition
+Automatyczne okreslenie okna roboczego
 
 #b_menuop_autovsize_c1
-Viewport definition will remain at 1:1 with your display resolution.
+Okreslanie okna roboczego pozostanie w stosunku 1:1 z rozdzielczoscia obrazu.
 
 #b_menuop_vsize
-Viewport definition
+Okreslenie okna roboczego
 
 #b_menuop_vsize_c1
 Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
 
 #b_menuop_vsize_c2
-Lowering this ratio greatly increases performances.
+Obnizenie tego wskaznika znaczaco podnosi wydajnosc.
 
 #b_menuop_autoui
-Automatic UI size
+Automatyczny rozmiar interfejsu
 
 #b_menuop_autoui_c1
 UI size will automatically adapt to your display resolution.
 
 #b_menuop_uisize
-UI size
+Rozmiar interfejsu
 
 #b_menuop_uisize_c1
 Changes the size of the UI layer. 
@@ -188,19 +188,19 @@ Changes the size of the UI layer.
 Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
 
 #b_menuop_mvol
-Music volume
+Glosnosc muzyki
 
 #b_menuop_ambvol
-Ambiant volume
+Glosnosc tla
 
 #b_menuop_uivol
-UI volume
+Glosnosc interfejsu
 
 #b_menuop_lang
-Language
+Jezyk
 
 #bc_menuop_lang
-Choose your language
+Wybierz jezyk
 
 #menuop_k_up
 Camera up
@@ -1516,26 +1516,14 @@ Supply: [x] units
 #ui_price_sd_c3
 Demand: [x] units
 
-#ui_price_sd_c31
-(supply backed by state purchasing!)
-
-#ui_price_sd_c4
-[x]% of a price before supply/demand of [y] coins = [z]
-
-#ui_price_sd_c41
-(effect limited by minimal price of [x] coins!)
-
 #ui_price_arb
 Price arbitrage
 
 #ui_price_arb_c1
 Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
 
-#ui_price_arb_c5
-Local price before arbitrage: [x] coins.
-
 #ui_price_arb_c2
-Average price in this area of the world: [x] coins.
+The average price in this area of the world is of [x] coins.
 
 #ui_price_arb_c3
 With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
@@ -2478,39 +2466,6 @@ The resistance movement is currently growing by +[x] [y].
 
 #loyal_resist_decr
 The resistance movement is currently decaying by -[x] [y].
-
-#resist_title
-Resistance movement
-
-#resist_dscr
-A resistance movement is present in this territory. This might result in a partisans uprising at any time and regardless of the territory's current loyalty!
-
-#resist_loyal
-Loyalty: [x]
-
-#resist_loyal_c1
-This resistance movement is loyal to [x].
-
-#resist_loyal_c2
-If Partisans manage to free this territory, they will automatically offer to rejoin this state.
-
-#resist_max
-Maximum resistance: [x]
-
-#resist_max_c1
-The maximum resistance points this territory can have. Resistance is limited by the total population of the territory.
-
-#resist_hloss
-Defeat penalty: [x] Honnor
-
-#resist_hloss_c1
-The amount of honor that will be lost as a penalty if Partisans manage to free this territory. 
-
-#resist_tot_c1
-The resistance movement currently has [x] points out of a potential maximum of [y] points.
-
-#resist_tot_c2
-The more points, the stronger the resistance is in this territory and the more population are involved in the resistance, which means potentially more Partisans if an uprising do happens.
 
 #admin_capacit
 production
@@ -5147,7 +5102,7 @@ cannot overdraft
 WARNING: changing current status will trigger an immediate loyalty event of [x]!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will increase the honor penalty to [z] in case of defeat against partistans, and will trigger an immediate penalty of [x] resistance and [y] loyalty!
+WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
 
 #regstatus_title
 Territory status
