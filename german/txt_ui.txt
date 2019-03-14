@@ -105,13 +105,13 @@ Wähle die gewünschte Bildschirmauflösung.
 Gelände
 
 #b_menuop_low
-niedrig
+Niedrig
 
 #b_menuop_medium
-Medium
+Mittel
 
 #b_menuop_high
-hoch
+Hoch
 
 #b_menuop_bdgs
 Gebäude
@@ -174,7 +174,7 @@ Die Senkung dieses Verhältnisses erhöht die Leistung erheblich.
 Automatische UI-Größe
 
 #b_menuop_autoui_c1
-Die Größe der Benutzeroberfläche wird automatisch an Ihre Bildschirmauflösung angepasst.
+Die Größe der Benutzeroberfläche wird automatisch an Deine Bildschirmauflösung angepasst.
 
 #b_menuop_uisize
 Größe der Benutzeroberfläche
@@ -198,7 +198,7 @@ UI-Volumen
 Sprache
 
 #bc_menuop_lang
-Wähle Ihre Sprache
+Wähle Deine Sprache
 
 #menuop_k_le
 Kamera links
@@ -345,7 +345,7 @@ Max. Spieler:
 STARTSPIEL
 
 #b_newgame_wprocedural
-Verfahrenstechnisch
+Prozedural
 
 #b_newgame_wcustom
 Benutzerdefiniert
@@ -606,7 +606,7 @@ Einladungscode: [x]
 Bitte gib einen Namen für deinen neuen Charakter an.
 
 #charcreate_err2
-Bitte gib einen Namen für Ihre Regierung an.
+Bitte gib einen Namen für Deine Regierung an.
 
 #charcreate_err3
 Es gibt keinen gültigen Startpunkt, der deinen Einstellungen entspricht.
@@ -1158,19 +1158,19 @@ anstehende Reformwirkung
 REFORM ANWENDEN
 
 #bc_applyreform
-Klicke hier, um Ihre Reform einzureichen und alle Ihre anstehenden Änderungen an den Richtlinien wirksam zu machen.
+Klicke hier, um Deine Reform einzureichen und alle Deine anstehenden Änderungen an den Richtlinien wirksam zu machen.
 
 #b_reform_cflct
 Reform-Effekt: +Konflikt in allen Gebieten
 
 #b_reform_cflct_c1
-Achtung! Wegen seines Inhalts wird Ihre anstehende Reform eine sofortige einmalige Strafe von [x] des Konflikts in allen deinen Gebieten verursachen.
+Achtung! Wegen seines Inhalts wird Deine anstehende Reform eine sofortige einmalige Strafe von [x] des Konflikts in allen deinen Gebieten verursachen.
 
 #b_reform_loyal
 Reformeffekt: - [x] Loyalität in allen Gebieten
 
 #b_reform_loyal_c1
-Achtung! Wegen seines Inhalts wird Ihre anstehende Reform eine sofortige einmalige Strafe von [x] Loyalität in allen deinen Gebieten verursachen.
+Achtung! Wegen seines Inhalts wird Deine anstehende Reform eine sofortige einmalige Strafe von [x] Loyalität in allen deinen Gebieten verursachen.
 
 #ui_eco_title
 SCHATZKAMMER
@@ -1179,7 +1179,7 @@ SCHATZKAMMER
 Budgetsaldo
 
 #ui_eco_dscr
-Die Schatzkammer ist die Gesamtmenge der Münzen, die Ihre Regierung besitzt. Die Wirtschaftspolitik definiert, wie die Wirtschaft deiner Gesellschaft derzeit organisiert ist.
+Die Schatzkammer ist die Gesamtmenge der Münzen, die Deine Regierung besitzt. Die Wirtschaftspolitik definiert, wie die Wirtschaft deiner Gesellschaft derzeit organisiert ist.
 
 #ui_eco_lead
 Persönliches Vermögen des Anführers
@@ -1224,7 +1224,7 @@ Gesamtausgaben für Staatslöhne.
 Verträge
 
 #ui_eco_trt_c1
-Münzen, die von anderen Staaten über Ihre derzeit aktiven Verträge gesendet oder empfangen werden.
+Münzen, die von anderen Staaten über Deine derzeit aktiven Verträge gesendet oder empfangen werden.
 
 #ui_eco_civc
 Bürgererhaltung
@@ -1242,7 +1242,7 @@ Steuern für deinen hierarchischen Vorgesetzten: [x]
 Handelsbilanz
 
 #ui_eco_tradbal_c1
-Die Handelsbilanz über alle Ihre Gebiete hinweg von allen deinen aktuellen Handelsrouten.
+Die Handelsbilanz über alle Deine Gebiete hinweg von allen deinen aktuellen Handelsrouten.
 
 #ui_eco_tradbal_c2
 Staatliche Ressourcen: + [x] Verkäufe - [y] Käufe
@@ -1860,7 +1860,7 @@ Privilegien
 Reichtum, der direkt als Privileg der Sozialpolitik gewährt wird.
 
 #legit_dscr
-Legitimität ist, wie sehr das Volk das Recht auf die Autoritätsansprüche deines Staates anerkennt, die durch Ihre aktiven Legitimitätsrichtlinien definiert sind. Diese beeinflussen den positiven oder negativen Einfluss aller verschiedenen Legitimitätsfaktoren.
+Legitimität ist, wie sehr das Volk das Recht auf die Autoritätsansprüche deines Staates anerkennt, die durch Deine aktiven Legitimitätsrichtlinien definiert sind. Diese beeinflussen den positiven oder negativen Einfluss aller verschiedenen Legitimitätsfaktoren.
 
 #legit_tot
 Vollständige Legitimität
@@ -1935,7 +1935,7 @@ Die gesamte staatliche Energie, die von allen derzeit aktiven Politiken verbrauc
 Territorien
 
 #statepow_nbcit_c1
-Summe der Kosten der Staatsmacht für alle Ihre kontrollierten Gebiete (die Kosten können je nach Status der einzelnen Gebiete variieren). 
+Summe der Kosten der Staatsmacht für alle Deine kontrollierten Gebiete (die Kosten können je nach Status der einzelnen Gebiete variieren). 
 
 #statepow_debt
 Schulden
@@ -2889,7 +2889,7 @@ Sende einen Vorschlag für eine Neuverhandlung. Wenn die andere Partei dem zusti
 Bitte um Zustimmung zur Kündigung dieses Vertrages, der der anderen Partei zugesandt wurde!
 
 #ui_treat_cancld
-Ihr Vertragsvorschlag wurde gestrichen.
+dein Vertragsvorschlag wurde gestrichen.
 
 #ui_treat_eng1
 Du bist derzeit an diesem Vertrag beteiligt! Wenn du dich entscheidest, es sowieso zu beenden, gelten deine Vertragsstrafenklauseln. Du zahlst [x] Münzen ( [y]% deines BIP) und verlierst [z] Ehre.
@@ -3102,7 +3102,7 @@ WARNUNG: Durch den freiwilligen Widerruf dieser Forderung verlierst 2 der Ehre!
 Territorium beanspruchen.....
 
 #regclaim_txt
-Du kannst dieses Gebiet beanspruchen und es mit einer deiner Regionen verbinden. Dies wird die Verwaltung in die Hauptstadt der Region kosten. Wenn Ihre Stadt die Verwaltung verliert, verlierst automatisch Ihre Ansprüche (beachte, dass nicht beanspruchte Gebiete mit einer kleinen Ehrenstrafe belegt sind).
+Du kannst dieses Gebiet beanspruchen und es mit einer deiner Regionen verbinden. Dies wird die Verwaltung in die Hauptstadt der Region kosten. Wenn Deine Stadt die Verwaltung verliert, verlierst automatisch Deine Ansprüche (beachte, dass nicht beanspruchte Gebiete mit einer kleinen Ehrenstrafe belegt sind).
 
 #regclaim_par
 Mutterland
@@ -3132,7 +3132,7 @@ festes Engagement
 Engagement über
 
 #b_actv_trt_pend1
-ausstehend: Warten auf Ihre Antwort......
+ausstehend: Warten auf Deine Antwort......
 
 #b_actv_trt_pend2
 ausstehend: Warten auf die Antwort des anderen.....
@@ -3588,7 +3588,7 @@ Kultur
 Kultur bietet Ihnen Wissensspeicherkapazität, proportional zu deiner Gesamtkultur.
 
 #menu_tch_str_lbr1
-Jedes in Betrieb befindliche Bibliotheksgebäude erhöht Ihre Speicherkapazität für Wissen.
+Jedes in Betrieb befindliche Bibliotheksgebäude erhöht Deine Speicherkapazität für Wissen.
 
 #menu_tch_prjcts
 Projekte
@@ -4350,7 +4350,7 @@ Wahl
 GEGENE ABSTIMMUNG!
 
 #regstatus_claim_1
-Ein leeres Gebiet kann von deinem Staat beansprucht und in Ihre offiziellen Grenzen aufgenommen werden.
+Ein leeres Gebiet kann von deinem Staat beansprucht und in Deine offiziellen Grenzen aufgenommen werden.
 
 #regstatus_trtry_1
 Ein Gebiet ist Teil einer Region und wird von der wichtigsten Stadtverwaltung der Region verwaltet.
@@ -4701,7 +4701,7 @@ Auf diese Nachricht reagieren
 Das ist interessant!
 
 #chron_reactup_2
-Diese Nachrichten werden von deinem kulturellen Netzwerk weitergeleitet und an Ihre Kontakte weitergegeben.
+Diese Nachrichten werden von deinem kulturellen Netzwerk weitergeleitet und an Deine Kontakte weitergegeben.
 
 #chron_reactdw_1
 Das ist mir egal.
@@ -4809,7 +4809,7 @@ Subjugieren
 Du kannst [x] automatisch unterwerfen.
 
 #subjug_dscr
-Dies wird den Krieg zwischen dir und [x] beenden. Dieser Staat wird in Ihre Nation als Ihr Vasall integriert, mit einem Kapitulationsvertrag, der Ihnen Staatsmacht und Steuereinnahmen überträgt. Alle Gebiete, die derzeit von den Streitkräften deiner Nation besetzt sind, werden automatisch auf [x] zurückgesetzt.
+Dies wird den Krieg zwischen dir und [x] beenden. Dieser Staat wird in Deine Nation als dein Vasall integriert, mit einem Kapitulationsvertrag, der Ihnen Staatsmacht und Steuereinnahmen überträgt. Alle Gebiete, die derzeit von den Streitkräften deiner Nation besetzt sind, werden automatisch auf [x] zurückgesetzt.
 
 #subjug_cant
 Du kannst [x] noch nicht unterwerfen.
@@ -5307,7 +5307,7 @@ Einmalig angewendet, bei der Unterzeichnung des Vertrages.
 Angebot stornieren
 
 #b_trtcancelofr_c1
-Ihr Vertragsvorschlag wird aufgehoben und die andere Partei wird ihn nicht mehr akzeptieren können.
+dein Vertragsvorschlag wird aufgehoben und die andere Partei wird ihn nicht mehr akzeptieren können.
 
 #menuevt_all
 Alle Veranstaltungen
