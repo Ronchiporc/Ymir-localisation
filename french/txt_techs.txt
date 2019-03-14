@@ -6,7 +6,7 @@ Poterie
 La poterie est l'art de fabriquer des céramiques en pots ou poteries.
 
 #tech_ptry_dscr_2
-Il est fait en formant un corps d'argile dans des objets de la forme requise et en les chauffant à des températures élevées dans un four qui enlève toute l'eau de l'argile, la durcissant de façon permanente et définissant sa forme. Les pots hermétiques permettent une meilleure conservation des aliments.
+Il est fait en formant un morceau d'argile dans des objets de la forme requise et en les chauffant à des températures élevées dans un four qui enlève toute l'eau de l'argile, la durcissant de façon permanente et définissant sa forme. Les pots hermétiques permettent une meilleure conservation des aliments.
 
 #tech_sedent
 Sédentarité
@@ -48,13 +48,13 @@ Un groupe de Porcos exclusivement dédié à gérer et contrôler la communauté
 Gardes
 
 #tech_guard_dscr_1
-Les gardes renforcent l'autorité du gouvernement en patrouillant les villes et en protégeant le gouvernement et ses fonctionnaires.
+Les gardes renforcent l'autorité du gouvernement en patrouillant dans les villes et en protégeant le gouvernement et ses fonctionnaires.
 
 #tech_tribut
 Tribut
 
 #tech_tribut_dscr_1
-Le gouvernement est plein de cacaos qui consacrent tout leur temps à gérer les choses: ils n'ont pas le temps pour un travail paysan humble! Mais bien sûr, ils ont encore besoin de manger, et ont de belles choses brillantes. Il est donc naturel que tous les autres donnent une part de leur travail à «la communauté» pour le bien commun de tous.
+Le gouvernement est plein de Porcos qui consacrent tout leur temps à gérer les choses: ils n'ont pas le temps pour un travail de paysan humble! Mais bien sûr, ils ont encore besoin de manger, et d'avoir de belles choses brillantes. Il est donc naturel que tous les autres donnent une part de leur travail à «la communauté» pour le bien commun de tous.
 
 #tech_transac
 Suivi des transactions
@@ -78,7 +78,7 @@ Nous avons maintenant un ensemble de règles universelles pour définir ce qui e
 Troc
 
 #tech_barter_dscr_1
-Les gens vont maintenant échanger des produits de valeur équivalente au lieu de «donner» des services tout en s'attendant à des remboursements ultérieurs. Cela réduit les conflits entre les grandes communautés qui ne peuvent pas se suivre les unes les autres.
+Les gens vont maintenant échanger des produits de valeur équivalente au lieu de «donner» des services tout en s'attendant à des remboursements ultérieurs. Cela réduit les conflits entre les grandes communautés qui ne peuvent pas savoir ce que font les unes les autres.
 
 #tech_currcy
 Devise
@@ -132,7 +132,7 @@ Ecrire sur des objets, des actions et des idées avec des signes d'image.
 Écriture phonétique
 
 #tech_phonetic_dscr_1
-Ecrire avec un nombre limité de signes, un alphabet, représentant des sons parlés au lieu de choses.
+Ecrire avec un nombre limité de signes, un alphabet, représentant des sons habituellement parlés.
 
 #tech_educ
 Éducation
@@ -144,7 +144,7 @@ Le processus de faciliter l'apprentissage et la transmission des connaissances, 
 Diagnostique
 
 #tech_diagnos_dscr_1
-Le processus de détermination de la maladie ou de l'état explique les symptômes et les signes d'une personne.
+Le processus de détermination de la maladie ou de l'état explique les symptômes d'une personne.
 
 #tech_academ
 Académie
@@ -558,7 +558,7 @@ Après avoir appris comment prendre soin des animaux capturés, nous savons main
 Doméstication
 
 #tech_animhusb_dscr_1
-Il semble que par l'élevage sélectif des animaux avec les comportements et les traits désirés, nous pouvons les changer et faire de nouveaux animaux qui produisent plus et qui sont plus amicaux avec nous, bien différents de ceux originaux originaux. Nous les avons domestiqués!
+Il semble que par l'élevage sélectif des animaux avec les comportements et les traits désirés, nous pouvons les changer et faire de nouveaux animaux qui produisent plus et qui sont plus amicaux avec nous, bien différents de ceux à l'origine. Nous les avons domestiqués!
 
 #tech_rotgraz
 Pâturage en rotation
@@ -576,13 +576,13 @@ La manipulation et la gestion du bétail est beaucoup plus facile et efficace à
 Fertilisation par fumier
 
 #tech_manure_dscr_1
-Il s'avère que mettre du fumier au sol fait pousser les plantes plus vite et plus gros, qui aurait pu le deviner?
+Il s'avère que mettre du fumier au sol fait pousser les plantes plus vite et plus efficacement, qui aurait pu le deviner?
 
 #tech_horsebckrid
 Équitation
 
 #tech_horsebckrid_dscr_1
-Nous avons dressé et domestiqué des animaux afin de pouvoir les monter directement sur leur dos!
+Nous avons dressé et domestiqué des animaux afin de pouvoir monter directement sur leur dos!
 
 #tech_soilcol
 Collecteurs de fumier
