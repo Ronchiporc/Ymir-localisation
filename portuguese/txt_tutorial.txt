@@ -1,65 +1,65 @@
 #tuto_launch_1
-Výtej v Ymiru! Vypadáto že tohle je tvé první spuštění této hry na tomto PC.
+Welcome to Ymir! It looks like it's the first time you're launching this game. 
 
 #tuto_launch_2
-Jedná se o složitou hru: pokud ještě nejste s ní obeznámeni, doporučuji začít tím, že dokončíte tutoriál začátečníka v sólové hře, abyste se naučil základy. Ale, pokud už znáte hru, můžete v tuto chvíli zakázat všechny výukové programy. PS: Čeština není plně dokončena takže přepokládejte že hra obsahuje pasáže v angličtině!
+This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
 
 #tuto_create_1
-Zde nastavíte a zahájíte novou hru. Existují 2 hlavní herní režimy: trvalé a reálné. Pokud hrajete sami nebo s několika přáteli, je na to nejlepší, když to necháte "v reálném čase"(reálném režimu).
+This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
 
 #tuto_lnchgame_1
-Začínáte svou první vlastní hru! Jedná se o hru klient-server: i když hrajete sólo, začne nová hra automaticky spuštěním odděleného serveru a automaticky se k němu připojíte. Aby se ostatní mohli připojit k této hře, musíte si zkontrolovat, že port používaný serverem (standardně 14804) máte povolený. Pokud dojde k selhání automatického spuštění serveru, budete muset server z adresáře hry ručně spustit pomocí server.bat a poté se k němu připojit pomocí funkce "připojit do hry".
+You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
 
 #tuto_char_1
-Zde vytváříte svou postavu. Můžete ji navrhnout a pojmenovat, stejně také název a vlajku vaší vlády.
+This is where you create your character. You can design and name it, as well as your government's name and flag. 
 
 #tuto_char_2
-Musíte vybrat mezi seznamem různých typů startu, výchozí pro novou hru je "primitivní kmen".
+You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
 
 #tuto_char_3
-Ve hře pro více hráčů můžete také specifikovat jméno přítele, aby ste se ocitl co nejblíže k němu, ale k tomu budete potřebovat také jeho "Invite code".
+In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
 
 #tuto_char_4
-Buďte opatrní: jakmile vytvoříte postavu - zvláště v trvalých hrách pro více hráčů - nemáte právo znovu ihned vytvořit novou, když to pokazíte! Budete muset počkat až několik dní, než budete moci v téže hře znovu začít.
+Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
 
 #tuto_warnjoin_1
-Nedokončili jste ještě počáteční tutoriál: Doporučuje se to předtím, než se pokusíte připojit jakoukoliv trvalou hru pro více hráčů.
+You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multiplayer game.
 
 #tuto_warnjoin_2
-Trvalé hry pro více hráčů jsou neodpouštějící! Počáteční podmínky mohou být mnohem složitější a pokud selžete, nebudete mít možnost okamžitě restartovat novou postavu, neboť respawning je omezen doubou čekáni až na několik dní. Naučte se základy nejprve, abyste to ihned nepokazili a tím neztratili vaši šanci!
+Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
 
 #tuto_join_1
-Tady se můžeš připojit do již existující hry.
+This is where you join existing games. 
 
 #tuto_join_2
-Pokud chceš se připojit do své lokální hry, běž do "Direct IP" a připoj se na "localhost" a port 14804.
+If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
 
 #tuto_join_3
-Chcete-li se připojit k hrám pro více hráčů, máte na výběr mezi Trvalými hrami (24/7 hry v posledních měsících) a hrami v reálném čase (rychlejší hry s přáteli)
+If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
 
 #tuto_persist_1
-Připojili jste se k vaší první trvalé hře pro více hráčů! V tomto režimu hry se věci odehrávají mnohem pomaleji než v režimu v reálném čase a buďte opatrní: zde není žádný prostor pro chyby! Musíte se vypořádat s jakýmkoli počátkem, který jste dostali, a druhé šance jsou drahé, protože budete muset počkat dny, než budete moci znovu vyzkoušet novou postavu, pokudbyste ji ztratili.
+You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
 
 #tuto_0_1
-Zdravím čuníku! Jmenuji se Vševědoucí Prasečák tvůj asistent vyuky.
+Greetings newpig! I am Sagacious Pig your tutorial assistant. 
 
 #tuto_0_2
-Jsem zde, abych tě vedl prvními kroky hry a vysvětlil, jak to tady funguje.
+I'm here to guide you through the first steps of the game and explain how things work.
 
 #tuto_0_c1
-Povězmi více!--1
+Tell me more!--1
 
 #tuto_0_c2
-Chtěl jsem dělat tutoriál ,ale teď když vidím tvůj odporný obličej tak bych ho raději přeskočil.--82
+I wanted to do the tutorial but now that i see your ugly face i'd rather skip it.--82
 
 #tuto_1_1
-Momentálně jste na mapě světa. Každé políčko je "území", které můžete prozkoumat a kolonizovat.
+You are currently in the world map. Each tile is a 'territory' you can explore and colonize. 
 
 #tuto_1_2
-Na začátku je většina mapy neprobádaná, kromě několika málo oblastí kolem vašeho kmene(území).
+At the start, most of the map is unexplored except the few territories around your tribe.
 
 #tuto_1_c1
-Dobrá... co teď ?--2--1
+Very well... so what now ?--2--1
 
 #tuto_2_1
 This is a mission event. You will sometimes get missions you can complete to unlock rewards. Here, your first task is simply to settle your tribe in your first territory.
@@ -131,7 +131,7 @@ Food please!--14--10
 There is 2 kinds of natural sources of foods : edible plants and spots of wild animals. The first one can be exploited by the Farm building and the latter by the Hunter.
 
 #tuto_14_2
-Farmy a lovci jsou budovy, které využívají přírodní zdroje. Musí být umístěny v blízkosti platných zdrojů. Teď začněte tím, že se pokusíte umístit lovce.
+Farms and Hunters are buildings that exploit natural resources. They need to be placed near valid resources. Now, start by trying to place a hunter.
 
 #tuto_15_1
 When you are placing a building that exploits natural resources, an area of tiles appears highlighted around it: it's the production range of the building.  

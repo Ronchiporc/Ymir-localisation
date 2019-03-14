@@ -1,0 +1,779 @@
+#bdg_hous_n
+domostwo
+
+#bdg_hous_dscr
+Zapewnia dach nad głową, poprawiając zdrowie i jakość życia mieszkańców.
+
+#bdg_prod_n
+budynek produkcyjny
+
+#bdg_prod_dscr
+Zapewnia wydobycie surowców ze środowiska.
+
+#bdg_ind_n
+budynek przemysłowy
+
+#bdg_ind_dscr
+Pozwala na wytwarzanie dóbr z pozyskanych surowców.
+
+#bdg_srv_n
+usługi
+
+#bdg_srv_dscr
+Zapewnia usługi (niematerialny zasób, który nie może zostać zmagazynowany).
+
+#bdg_stor_n
+skład
+
+#bdg_stor_dscr
+Pozwala na magazynowanie zasobów.
+
+#bdg_merch_n
+dystrybucja
+
+#bdg_merch_dscr
+Dostarczyciele pobierają zasoby z budynków produkcyjnych lub składów i doręczają je ludności. Mogą dostarczać duże ilości zasobów, lecz handlarze zatrzymują część zysków dla siebie, zmniejszając korzyść wytwórcy.
+
+#bdg_roads_n
+droga
+
+#bdg_roads_dscr
+Zwiększaja prędkość ruchu jednostek i zapewnia dodatkowe korzyści połączonym budynkom.
+
+#bdg_walls_n
+mury
+
+#bdg_walls_dscr
+Struktura obronna, która blokuje przejście jednostkom.
+
+#bdg_deco_n
+ozdoby
+
+#bdg_deco_dscr
+Elementy kosmetyczne, poprawiające wygląd Twojego miasta.
+
+#bdg_towers_n
+wieże obronne
+
+#bdg_towers_dscr
+Wieże obronne zaciągają jednostki wojskowe niezależnie od garnizonów i formacji. Mogą zostać wzniesione jedynie na platformach. Podczas bitew zapewniają wsparcie ogniowe.
+
+#bdg_battlem_n
+blanki
+
+#bdg_battlem_dscr
+Blanki zapewniają jednostkom znajdującym się na platformie bonus podczas walki. Mogą zostać wzniesione jedynie na platformach.
+
+#bdg_annex_n
+Rozszerzenie
+
+#bdg_annex_dscr
+Rozszerzenia to struktury i obiekty, które są de facto częścią innej budowli i zapewniają jej źródła produkcji lub zdolności dystrybucyjne.
+
+#bdg_pltf_n
+platformy
+
+#bdg_pltf_dscr
+Platformy są podwyższeniem terenu, na którym można wznosić inne budowle. Struktury obronne, jak wieże i blanki, mogą zostać wzniesione wyłącznie na platformach. Budowa platform jest czasochłonna i kosztowna.
+
+#bdg_stairs_n
+schody
+
+#bdg_stairs_dscr
+Umożliwiają świniakom dostęp na teren o różnej wysokości. Umieść je przy platformie, by świniaki mogły się tam dostać. 
+
+#bdg_gates_n
+brama
+
+#bdg_gates_dscr
+Bramy blokują dostęp jednostkom nieprzyjaciela podczas bitew. Jeśli umieszczane przy platformie, platforma powinna być wzniesiona w trybie mostu.
+
+#bdg_all
+wszystkie budowle
+
+#txt_cider_n
+Cydrownia
+
+#txt_cider_dscr
+W niej wytwarzany jest z jabłek cydr. Cydr może być dystrybuowany wśród populacji, by zaspokoić jej zapotrzebowanie na alkohol.
+
+#txt_brewery_n
+Browar
+
+#txt_brewery_dscr
+W nim wytwarzane jest piwo z jęczmienia. Piwo może być dystrybuowane wśród populacji, by zaspokoić jej zapotrzebowanie na alkohol.
+
+#txt_claycamp_n
+Obóz zbieraczy gliny
+
+#txt_claycamp_dscr
+Umożliwia pozyskiwanie gliny z otoczenia. Musi być umiejscowiony w zasięgu złóż gliny.
+
+#txt_claypit_n
+Wyrobisko gliny
+
+#txt_claypit_dscr
+Umiejscowione bezpośrednio nad złożami gliny, podnosi efektywność wydobycia.
+
+#txt_clothmk_n
+Krawiec
+
+#txt_clothmk_dscr
+Wytwarza ubrania z tekstyliów. Ubrania mogą być dystrybuowane wśród populacji, by zaspokoić jej zapotrzebowanie na odzienie. 
+
+#txt_gather_n
+Obóz zbieraczy
+
+#txt_gather_dscr
+Umożliwia pozyskiwanie dziko występującej żywności. Musi być umiejscowiony w zasięgu odpowiednich zasobów. 
+
+#txt_farm_n
+Farma
+
+#txt_farm_dscr
+Pozwala na tworzenie pól, umożliwiając produkcję różnych produktów rolnych. Umożliwia również pozyskiwanie dziko występującej żywności, jeśli jest umiejscowiona w zasięgu jej występowania.
+
+#txt_fisher_n
+Chata rybaka
+
+#txt_fisher_dscr
+Can exploit wild fishes to produce fresh fish. Musi być umiejscowiona na brzegu, w zasięgu występowania ryb.
+
+#txt_grnry_n
+Spichlerz
+
+#txt_grnry_dscr
+W nim przechowywana jest żywność.
+
+#txt_hslum_n
+Slums
+
+#txt_hslum_dscr
+Slumsy pozbawione są kosztów budowy. Pojawią się automatycznie, kiedy świniaki nie zdołają znaleźć dostępnego dachu nad głową. Zapewniają niską jakość życia i brak bonusu zdrowotności. 
+
+#txt_hrustc_n
+Dom
+
+#txt_hrustc_dscr
+Wiejskie chaty, które zapewniają niską jakość życia and i niski bonus zdrowotności.
+
+#txt_hconf_n
+Przestronny dom
+
+#txt_hconf_dscr
+Komfortowe domostwa, które zapewniają wysoką jakość życia i wysoki bonus zdrowotności.
+
+#txt_hapt_n
+Apartament
+
+#txt_hapt_dscr
+Wielopoziomowe budynki, które zapewniają schronienie dla kilku rodzin.
+
+#txt_hunter_n
+Chata łowcy
+
+#txt_hunter_dscr
+Pozwala pozyskiwać świeże mięso i skóry z dzikiej zwierzyny. Musi być umiejscowiona w zasięgu występowania dzikiej zwierzyny.
+
+#txt_flint_n
+Obóz zbieraczy krzemieni
+
+#txt_flint_dscr
+Pozwala na pozyskiwanie krzemienia z obszarów żwirowych. Krzemień może zostać wykorzystany przez wytwórców narzędzi, by wytworzyć kamienne narzędzia.
+
+#txt_platf1_n
+Drewniana platforma
+
+#txt_platf1_dscr
+Niedroga platforma o niskiej wytrzymałości. Użyteczna w konstruowaniu podstawowych fortyfikacji i mostów.
+
+#txt_platf2_n
+Kamienna platforma
+
+#txt_platf2_dscr
+Solidna platforma, która pozwala na budowę wytrzymałych murów.
+
+#txt_dstrplatf_n
+Zniszcz platformy
+
+#txt_dstrplatf_dscr
+Nakazuje rozbiórkę wybranych platform.
+
+#txt_tow1_n
+Strażnica
+
+#txt_tow1_dscr
+Niedroga, lecz słaba wieża, wykonana z drewna pokrytego skórą. Zapewnia ostrzał.
+
+#txt_tow2_n
+Drewniana wieża
+
+#txt_tow2_dscr
+Wieża obronna wykonana z solidnych, drewnianych bali. Zapewnia ostrzał.
+
+#txt_tow3_n
+Kamienna wieża
+
+#txt_tow3_dscr
+Kamienna wieża jest zdecydowanie bardziej wytrzymała, niż jej odpowienik wykonany z drewna. Zapewnia ostrzał.
+
+#txt_tow4_n
+Wieża z kamiennych bloków
+
+#txt_tow4_dscr
+Ta wieża zbudowana jest z solidnych kamiennych bloków, co zwiększa jej odporność na ostrzał artylerii nieprzyjaciela. Zapewnia ostrzał.
+
+#txt_batlm1_n
+Drewniane blanki
+
+#txt_batlm1_dscr
+Toporne blanki wykonane z drewna. Podczas bitew zapewniają podstawową ochronę przed ostrzałem nieprzyjaciela jednostkom znajdującym się na platformie.
+
+#txt_batlm2_n
+Kamienne blanki
+
+#txt_batlm2_dscr
+Kamienne blanki. Podczas bitew zapewniają ochronę przed ostrzałem nieprzyjaciela jednostkom znajdującym się na platformie.
+
+#txt_batlm3_n
+Kamienne blanki z machikułami
+
+#txt_batlm3_dscr
+Wytrzymałe blanki wykonane z solidnych, kamiennych bloków. Wzmocnione machikułami, podczas bitew zapewniają doskonałą ochronę przed ostrzałem nieprzyjaciela jednostkom znajdującym się na platformie..
+
+#txt_batlm4_n
+Hurdycja
+
+#txt_batlm4_dscr
+Podczas bitew zapewnia dobrą ochronę przed ostrzałem nieprzyjaciela. Kamienne blanki zapewniają jednakże lepszą ochronę.
+
+#txt_market_n
+Stragan
+
+#txt_market_dscr
+Stragany umożliwiają dystrybucję dóbr wytwarzanych w budynku nadrzędnym. Generowany przychód trafia w całości do wytwórcy, lecz jeden z pracowników budynku musi zająć się obsługą straganu.
+
+#txt_field_n
+Pole uprawne
+
+#txt_field_dscr
+Na polach uprawia się szeroką gammę roślin. Na danym polu uprawnym pracować mogą jedynie rolnicy zatrudnieni w budynku nadrzędnym.
+
+#txt_road1_n
+Droga z ubitej ziemi
+
+#txt_road1_dscr
+Podstawowa droga, której budowa nic nie kosztuje.
+
+#txt_road2_n
+Droga z desek
+
+#txt_road2_dscr
+Deski osadzone w ubitej ziemi poprawiają komfort podróży.
+
+#txt_road3_n
+Droga z kamieni
+
+#txt_road3_dscr
+Droga wykonana z kamieni o nieregularnych kształtach. Poprawia komfort podróży.
+
+#txt_road4_n
+Droga z kamiennych bloków
+
+#txt_road4_dscr
+Kosztowna, solidna droga wykonana ze sporych rozmiarów kamiennych bloków. Poprawia komfort podróży.
+
+#txt_road5_n
+Brukowana droga
+
+#txt_road5_dscr
+Droga wykonana ze starannie ułożonej kostki brukowej. Poprawia komfort podróży.
+
+#txt_road6_n
+Mozaikowy plac
+
+#txt_road6_dscr
+Wymyślne podłoże wykonane z małych, kolorowych elementów szkła, kamieni i innych materiałów.
+
+#txt_road7_n
+Marmurowy plac
+
+#txt_road7_dscr
+Wymyślne podłoże wykonane z wypolerowanych bloków marmuru.
+
+#txt_road8_n
+Droga z wapieni
+
+#txt_road8_dscr
+Kosztowna droga wykonana ze sporych rozmiarów wapiennych bloków. Poprawia komfort poróży.
+
+#txt_road9_n
+Droga z piaskowca
+
+#txt_road9_dscr
+Kosztowna droga wykonana ze sporych rozmiarów bloków piaskowca. Poprawia komfort podróży.
+
+#txt_fence1_n
+Drewniany płot
+
+#txt_fence1_dscr
+Prosty, wiejski płot wykonany z drewna.
+
+#txt_fence2_n
+Ozdobny płot
+
+#txt_fence2_dscr
+Ozdobny płot wart ogrodów i alej.
+
+#txt_fence3_n
+Kamienny płot
+
+#txt_fence3_dscr
+Wiejski płot wykonany z kamieni.
+
+#txt_garden1_n
+Ogród kwiatowy
+
+#txt_garden1_dscr
+Ozdobny ogród pełen kwiatów.
+
+#txt_garden2_n
+Ogród drzewny
+
+#txt_garden2_dscr
+Ozdobny ogród z drzewami.
+
+#txt_grass_n
+Trawnik
+
+#txt_grass_dscr
+Obszar porośnięty starannie zadbaną trawą, służący celom estetycznym i rekreacyjnym.
+
+#txt_flowerbed_n
+Kwietnik
+
+#txt_flowerbed_dscr
+Prosta grządka kwiatów służąca dekoracji.
+
+#txt_woodc_n
+Chata drwala
+
+#txt_woodc_dscr
+Chata drwala pozwala na pozyskiwanie drewna ze źródeł znajdujących się w jej zasięgu.
+
+#txt_merchant_n
+Kupiec
+
+#txt_merchant_dscr
+Wyspecjalizowany dystrybutor, który udostępnia ludności jeden wskazany produkt.
+
+#txt_mine_n
+Obóz górniczy
+
+#txt_mine_dscr
+Umożliwia eksploatację pobliskich złóż w celu pozyskiwania szerokiego zakresu surowców. W szczególności poprzez wydobycie prowadzone w rozszerzeniach tego budynku, jeśli są one dostępne.
+
+#txt_mineshaft_n
+Szyb górniczy
+
+#txt_mineshaft_dscr
+Istotne rozszerzenie obozu górniczego. Szyby górnicze zwiększają produkcję nadrzędnego obozu górniczego. Musi zostać wzniesiony na obszarze występowania odpowiedniego złoża.
+
+#txt_paddock_n
+Paddock
+
+#txt_paddock_dscr
+Padok umożliwia wypas zwierząt.
+
+#txt_elephantpen_n
+Zagroda dla słonia
+
+#txt_elephantpen_dscr
+Zagrody dla słonia umożliwiają wypas pojedynczych zwierząt sporych rozmiarów takich, jak słonie.
+
+#txt_potter_n
+Garncarz
+
+#txt_potter_dscr
+Garncarze wytwarzają naczynia z gliny. Naczynia mogą być dystrybuowane wśród ludności, by zaspokoić jej zapotrzebowanie na wyposażenie.
+
+#txt_stonecut_n
+Obóz kamieniarzy
+
+#txt_stonecut_dscr
+Umożliwia eksploatację pobliskich złóż kamienia w celu pozyskania surowego kamienia. Pozwala również na budowę kamieniołomów jako rozszerzeń, gdzie wydobywa się bloki określonego materiału.
+
+#txt_quarry_n
+Kamieniołom
+
+#txt_quarry_dscr
+Istotne rozszerzenie obozu kamieniarzy. Kamieniołomy pozwalają na wydobycie bloków kamienia lub innego materiału, na którego złożu zostały wzniesione.
+
+#txt_sawmill_n
+Tartak
+
+#txt_sawmill_dscr
+W tartaku przetwarza się surowe drewno na deski, które są niezbędnym materiałem w budowie wielu budynków.
+
+#txt_tannery_n
+Garbarnia
+
+#txt_tannery_dscr
+W garbarni przetwarza się skórę na skórzane odzienia. Skórzane odzienia mogą być dystrybuowane wśród populacji, by zaspokoić jej zapotrzebowanie na odzież.
+
+#txt_toolmk_n
+Wytwórca narzędzi
+
+#txt_toolmk_dscr
+Warsztat, w którym wytwarza się różnego rodzaju narzędzia. Narzędzia są szeroko wykorzystywane, w szczególnośći na budowach.
+
+#txt_items_n
+Przedmioty
+
+#txt_items_dscr
+Te przedmioty zostały porzucone na ziemi i szybko zniszczeją, o ile ktoś ich nie zmagazynuje!
+
+#txt_storegrnd_n
+Skład na ziemi
+
+#txt_storegrnd_dscr
+Obszar wyznaczony jako skład. Jego konstrukcja nic nie kosztuje, lecz jest niestrzeżony i nie posiada wysokiej pojemności.
+
+#txt_warehouse_n
+Magazyn
+
+#txt_warehouse_dscr
+Magazyny pozwalają na składowanie wszystkich rodzajów podstawowych materiałów. Są strzeżone, a pojemnością znacznie przewyższają składy na ziemi.
+
+#txt_weapmk_n
+Wytwórca uzbrojenia
+
+#txt_weapmk_dscr
+Warsztat, w którym wytwarza się szeroki zakres broni i pancerzy. Wykorzystuje się je, by wytrenować i wyposażyć jednostki.
+
+#txt_weaver_n
+Tkalnia
+
+#txt_weaver_dscr
+Tutaj tkacz przetwarza odpowiednie surowce (bawełna, len, wełna...) na tekstylia. Tekstylia mogą zostać wykorzystane na różne sposoby, na przykład w krawiectwie.
+
+#txt_stairs1_n
+Drewniane schody
+
+#txt_stairs1_dscr
+Schody, które mogą zostać umieszczone przy murach i wzniesieniach, by umożliwić dostęp do nich. 
+
+#txt_stairs2_n
+Kamienne schody
+
+#txt_stairs2_dscr
+Schody, które mogą zostać umieszczone przy murach i wzniesieniach, by umożliwić dostęp do nich. 
+
+#txt_gate1_n
+Drewniana brama
+
+#txt_gate1_dscr
+Niedroga, drewniana brama.
+
+#txt_gate2_n
+Solidna brama
+
+#txt_gate2_dscr
+Solidna brama, wykonana z drewna wzmocnionego elementami z brązu. 
+
+#txt_gate3_n
+Wzmocniona brama
+
+#txt_gate3_dscr
+Solidna brama, wykonana z drewna wzmocnionego elementami z żelaza.
+
+#txt_cattle_n
+Ferma bydła
+
+#txt_cattle_dscr
+Ferma bydła umożliwia tworzenie pastwisk, gdzie bydło może się rozmnażać.
+
+#txt_pastr_n
+Pastwisko
+
+#txt_pastr_dscr
+Wyznaczony obszar, gdzie bydło może się paść i rozmnażać.
+
+#txt_pastrw_n
+Pastwisko dla zwierząt na wełnę
+
+#txt_pastrw_dscr
+Pastwisko przeznaczone dla zwierząt, z których pozyskuje się wełnę. Tutaj są one regularnie strzyżone.
+
+#txt_builder_n
+Chata budowniczych
+
+#txt_builder_dscr
+Profesjonalne zespoły budowniczych są niezbędne na niektórych budowach.
+
+#txt_butcher_n
+Rzeźnik
+
+#txt_butcher_dscr
+Zabija bydło i wytwarza świeże mięso.
+
+#txt_well_n
+Studnia
+
+#txt_well_dscr
+Pozwala pozyskiwać wodę z gruntu.
+
+#txt_watercol_n
+Obóz zbieraczy wody
+
+#txt_watercol_dscr
+Umożliwia pozyskiwanie świeżej wody pitnej z rzek i jezior.
+
+#txt_landock_n
+Karawanseraj
+
+#txt_landock_dscr
+Miejsce odpoczynku i zaopatrzenia dla karawan przewożących towary. Wymagane do obsługi szlaków handlowych.
+
+#txt_dock_n
+Doki
+
+#txt_dock_dscr
+Doki dla okrętów handlowych. Wymagane do obsługi szlaków handlowych. 
+
+#txt_theater_n
+Teatr
+
+#txt_theater_dscr
+Zapewnia świniakom rozrywkę.
+
+#txt_baths_n
+Łaźnie publiczne
+
+#txt_baths_dscr
+Miejsce zgromadzeń i relaksu, które pozytywnie wpływa na zdrowotność świniaków.
+
+#txt_tavern_n
+Tawerna
+
+#txt_tavern_dscr
+Miejsce spotkań. Tutaj świniaki piją trunki i bawią się.
+
+#txt_forum_n
+Forum
+
+#txt_forum_dscr
+Miejsce zgromadzeń, gdzie świniaki dyskutują nad istotnymi kwestiami.
+
+#txt_furnmkr_n
+Warsztat stolarski
+
+#txt_furnmkr_dscr
+Tutaj wytwarzane są meble. Meble mogą być dystrybuowane wśród ludności, by zaspokoić jej zapotrzebowanie na wyposażenie.
+
+#txt_carpetmkr_n
+Wytwórca dywanów
+
+#txt_carpetmkr_dscr
+Tutaj wytwarzane są dywany. Dywany mogą być dystrybuowane wśród ludności, by zaspokoić jej zapotrzebowanie na wyposażenie.
+
+#txt_mudcamp_n
+Obóz zbieraczy gleby
+
+#txt_mudcamp_dscr
+Prosty obóz, którego pracownicy pozyskują z gruntu materiały takie, jak na przykład błoto, torf, czy popioły. Surowce muszą znajdować się w zasięgu budynku.
+
+#txt_brickwk_n
+Cegielnia
+
+#txt_brickwk_dscr
+Tutaj wytwarzane są cegły, podstawowy materiał budowlany.
+
+#txt_kiln_n
+Piec do wypalania
+
+#txt_kiln_dscr
+Tutaj wytwarzane są różne materiały budowlane.
+
+#txt_fundry_n
+Odlewnia
+
+#txt_fundry_dscr
+Tutaj ruda przetapiana jest na sztaby.
+
+#txt_steel_n
+Huta żelaza
+
+#txt_steel_dscr1
+Tutaj poprzez nawęglanie kutego żelaza wytwarzana jest stal.
+
+#txt_steel_dscr2
+Poprzez dekarbonizację żeliwa wytwarzana jest tutaj stal.
+
+#txt_charcl_n
+Mielerz
+
+#txt_charcl_dscr
+Stos drewna przysypany ziemią. Tutaj wypala się węgiel drzewny.
+
+#txt_archtct_n
+Architekt
+
+#txt_archtct_dscr
+Architekt zapewnia usługi planowania. Planowanie jest niezbędne przy budowie istotnych monumentów.
+
+#txt_windwheel_n
+Wiatrak
+
+#txt_windwheel_dscr
+Zapewnia siłę mechaniczną budynkowi, z którym jest zespolony, poprawiając jego wydajność.
+
+#txt_waterwheel_n
+Młyn wodny
+
+#txt_waterwheel_dscr
+Zapewnia siłę mechaniczną budynkowi, z którym jest zespolony, poprawiając jego wydajność.
+
+#txt_wash_n
+Pralnia
+
+#txt_wash_dscr
+Tutaj świniaki mogą wyprać swoje pranie.
+
+#txt_taxcol_n
+Poborca podatków
+
+#txt_taxcol_dscr
+Zapewnia prawidłową ściągalność podatków wśród ludności.
+
+#txt_scrib_n
+Skryba
+
+#txt_scrib_dscr
+Skrybowie pomagają śledźić na bieżąco kwestie administracyjne państwa.
+
+#txt_eldcounc_n
+Rada Starszyzny
+
+#txt_eldcounc_dscr
+Rada Starszyzny rozwiązuje sporne kwestie w społeczności, obniżając poziom skonfliktowania.
+
+#txt_magistrt_n
+Magistrat
+
+#txt_magistrt_dscr
+Sędzia, który dzięki swoim sprawiedliwym wyrokom obniża poziom skonfliktowania w społeczności.
+
+#txt_school_n
+Szkoła
+
+#txt_school_dscr
+Szkoła podnosi wskaźnik inteligencji populacji.
+
+#txt_winery_n
+Winnica
+
+#txt_winery_dscr
+Tutaj z winogron wytwarza się wino.
+
+#txt_oilpress_n
+Tłocznia oliwy
+
+#txt_oilpress_dscr
+Tutaj z oliwek wytwarza się oliwę.
+
+#txt_bakery_n
+Piekarnia
+
+#txt_bakery_dscr
+Tutaj piekarz piecze z mąki chleb.
+
+#txt_mill_n
+Młyn
+
+#txt_mill_dscr
+Tutaj ziarna mielone są na mąkę, z której piecze się chleb.
+
+#txt_libr_n
+Biblioteka
+
+#txt_libr_dscr
+Księgozbiory biblioteki pozwalają na przechowywanie pokładów wiedzy.
+
+#txt_eldrcncl_n
+Rada plemienna
+
+#txt_eldrcncl_dscr
+Rada przywódców plemiennych, która zapewnia wczesną formę prawa. Usiłuje ona rozwiązywać spory wśród ludności, co obniża poziom skonfliktowania w społeczności.
+
+#txt_magistr_n
+Magistrat
+
+#txt_magistr_dscr
+Sędzia, który dzięki swoim sprawiedliwym wyrokom obniża poziom skonfliktowania w społeczności.
+
+#txt_paper_n
+Papiernia
+
+#txt_paper_dscr
+Tutaj wytwarzany jest papier.
+
+#txt_rum_n
+Rumiarnia
+
+#txt_rum_dscr
+Destylarnia, w której z trzciny cukrowej wytwarza się rum.
+
+#txt_trmarket_n
+Rynek
+
+#txt_trmarket_dscr
+Pozwala na tworzenie ofert handlowych. Umożliwia wymianę handlową.
+
+#txt_academ_n
+Akademia
+
+#txt_acedem_dscr
+Mądre świniaki, które tutaj studiują nauki i sztuki piękne, przyczyniają się do rozwoju kultury i poziomu wykształcenia społeczeństwa, korzystnie wpływając na ilość punktów badań.
+
+#txt_doctor_n
+Lekarz
+
+#txt_doctor_dscr
+Poprawia wskaźnik zdrowia ludności.
+
+#txt_ftower1
+Prymitywna wieża
+
+#txt_ftower1_dscr
+Prymitywna wieża obronna zbudowana z drewna. Obrońcy miotają z niej oszczepy.
+
+#txt_wall1_n
+Palisada
+
+#txt_wall1_dscr
+Prosty mur obronny wzniesiony z drewnianych bali.
+
+#txt_wall2_n
+Mur z cegły suszonej
+
+#txt_wall2_dscr
+Prosty mur obronny wzniesiony z cegieł suszonych. Mniej wytrzymały niż palisada, choć tańszy w utrzymaniu.
+
+#txt_wall3_n
+Kamienny mur
+
+#txt_wall3_dscr
+Prosty mur obronny wzniesiony z kamieni zespolonych prymitywnym murarstwem.
+
+#txt_wall4_n
+Ceglany mur
+
+#txt_wall4_dscr
+Prosty mur obronny wzniesiony z wypalanych cegieł, bardziej wytrzymałych, niż cegły suszone.
+
+#txt_wall5_n
+Mur z kamiennych bloków
+
+#txt_wall5_dscr
+Solidny mur wzniesiony ze sporych rozmiarów kamiennych bloków.

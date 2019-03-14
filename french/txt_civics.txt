@@ -32,19 +32,19 @@ Une monnaie représentant une réclamation sur une marchandise au lieu d'être u
 Société tribale
 
 #civ_bandsociety_dscr
-La forme la plus simple de la société, avec une organisation lâche et un leadership informel.
+La forme la plus simple de la société, avec une faible organisation et un leadership informel.
 
 #civ_leadership_n
 Leadership
 
 #civ_leadership_dscr
-Un leader reconnu pour les gouverner tous.
+Un dirigeant reconnu pour les gouverner tous.
 
 #civ_localchief_n
 Autorités locales
 
 #civ_localchief_dscr
-Les chefs de territoire locaux dirigent leur territoire unique et portent les ordres du pouvoir central.
+Le dirigeant de territoire locaux dirigent uniquement leur territoire et portent les ordres du pouvoir central.
 
 #civ_governors_n
 Gouverneurs
@@ -77,7 +77,7 @@ Chef divin
 "Je dirige parce que je suis un dieu."
 
 #civ_divinerep_n
-Représentant Divine
+Représentant divin
 
 #civ_divinerep_dscr
 "Je règle parce que je suis choisi par les dieux."
@@ -110,7 +110,7 @@ Saisir les matériaux de construction de la population au lieu de les payer. Un 
 Privilèges
 
 #civ_statepriv_dscr
-Privilèges pour la direction de votre gouvernement, en leur accordant un pourcentage de la richesse du territoire de droit.
+Privilèges pour le dirigeant de votre gouvernement, en lui accordant un pourcentage de la richesse du territoire de droit.
 
 #civ_statesal_n
 Travailleurs d'état

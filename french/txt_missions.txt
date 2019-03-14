@@ -69,16 +69,16 @@ Dans votre territoire nouvellement établi, dans les onglets du bâtiment, séle
 Outils
 
 #msn5_1
-Nous portions seulement quelques tabourets de pierre avec nous. Ceux-ci sont nécessaires pour à peu près tout et bientôt nous aurons besoin de nouveaux si nous voulons continuer à développer la tribu!
+Nous portions seulement quelques sac de silex avec nous. Ceux-ci sont nécessaires pour à peu près tout et bientôt nous aurons besoin de nouveaux si nous voulons continuer à développer la tribu!
 
 #msn5_2
-Nous devrions assigner quelques cosses à la lourde tâche de recueillir des pierres à silex des terres graveleuses autour d'ici tandis que d'autres peuvent habilement utiliser les pierres à feu pour fabriquer de nouveaux outils en pierre.
+Nous devrions assigner quelques Porcos à la lourde tâche de recueillir des silex dans les terres graveleuses autour d'ici tandis que d'autres peuvent habilement utiliser les silex pour fabriquer de nouveaux outils en pierre.
 
 #msn5_o_1
 Construire un fabricant d'outils et un collecteur de silex pour lancer une production de marteaux.
 
 #msn5_o_2
-Les marteaux sont le premier type d'outils. Contrairement aux aliments, la population elle-même ne consomme pas ou n'en a pas besoin, mais ils sont tenus de construire beaucoup de choses.
+Les marteaux sont le premier type d'outils. Contrairement aux aliments, la population elle-même n'en consomme pas et n'en a pas besoin, mais ils sont utilisés de construire beaucoup de choses.
 
 #msn6
 Bois
@@ -102,16 +102,16 @@ Défendre la tribu
 Il pourrait y avoir des barbares hostiles et d'autres tribus hostiles. Nous devons être prêts à nous défendre!
 
 #msn7_2
-Rockthrowers sont des cosses simplement armés de gros rochers à jeter à l'ennemi. Ils sont la première unité de gamme disponible. Ils sont lents et ont une portée très courte, ce qui les rend plutôt inutiles pour autre chose que défendre derrière les murs et les portes.
+Les lanceurs de pierres sont des cosses simplement armés de gros rochers à jeter à l'ennemi. Ils sont la première unité de gamme disponible. Ils sont lents et ont une portée très courte, ce qui les rend plutôt inutiles pour autre chose que défendre derrière les murs et les portes.
 
 #msn7_3
-Nous devrions créer un petit fort en bois et ensuite recruter une milice de rockthrowers. Déployez-les à l'intérieur du fort en mode «stand ground» en utilisant «l'outil stratégique». De cette façon, ils y resteront pendant les batailles et n'essaieront pas de se déplacer pour engager l'ennemi. Si les guerriers ennemis attaquent et tentent de percer le fort, les lanceurs de pierres pourront les attaquer de l'autre côté, ce qui vous donnera un avantage défensif. Vous pouvez également ajouter des guerriers au cas où les attaquants parviendraient à percer, car les rockthroughs seront mauvais en mêlée.
+Nous devrions créer un petit fort en bois et ensuite recruter une milice de lanceur de pierres. Déployez-les à l'intérieur du fort en mode «maintenir la position» en utilisant «l'outil stratégique». De cette façon, ils y resteront pendant les batailles et n'essaieront pas de se déplacer pour engager l'ennemi. Si les guerriers ennemis attaquent et tentent de percer le fort, les lanceurs de pierres pourront les attaquer de l'autre côté, ce qui vous donnera un avantage défensif. Vous pouvez également ajouter des guerriers au cas où les attaquants parviendraient à percer, car les lanceurs de pierres seront mauvais en mêlée.
 
 #msn7_o_1
 Créer une milice pour défendre la tribu.
 
 #msn7_o_2
-Allez dans l'onglet militaire de votre territoire et créez une nouvelle formation de type «milice». Placez leur campement et recrutez des 'rockthrowers' dedans. Utilisez l'outil stratégique pour les déployer et réglez leur comportement sur "stand sol", idéalement à l'intérieur d'un petit fort de palissades en bois.
+Allez dans l'onglet militaire de votre territoire et créez une nouvelle formation de type «milice». Placez leur campement et recrutez des 'lanceurs de pierres' dedans. Utilisez l'outil stratégique pour les déployer et réglez leur comportement sur "maintenir la position", idéalement à l'intérieur d'un petit fort de palissades en bois.
 
 #msn8
 Nouvelles idées et connaissances
@@ -156,7 +156,7 @@ Premiers explorateurs
 Maintenant que notre population est en croissance, nous devrions penser à former un groupe pour aller explorer notre environnement. Pour cela, nous devrions rassembler un groupe d'au moins 10 guerriers de la tribu et les préparer à quitter le village!
 
 #msn_frstform_2
-Contrairement à la «milice», les troupes recrutées dans une armée régulière sont en fait retirées de votre population et deviennent membres permanents de la formation. Si dissous, ils retourneront à la population du territoire. Contrairement à la milice, une armée peut se déplacer vers d'autres territoires, explorer la carte et effectuer des actions comme des attaques, la chasse ou transporter des ressources dans son inventaire.
+Contrairement à la «milice», les troupes recrutées dans une armée régulière sont en fait retirées de votre population et deviennent membres permanents de la formation. Si dissous, ils retourneront à la population du territoire. Une armée peut se déplacer vers d'autres territoires, explorer la carte et effectuer des actions comme des attaques, la chasse ou transporter des ressources dans son inventaire.
 
 #msn_frstform_3
 Chaque formation a un territoire «d'origine» qui est par défaut l'endroit où elle a été créée. Le territoire d'origine est le territoire qui «supporte» la formation, représentant le fait que ses unités devront être remplacées à mesure qu'elles vieillissent et que le temps passe. Chaque territoire peut prendre en charge gratuitement un certain nombre de troupes avant d'avoir un impact négatif sur sa démographie, et vous pouvez vérifier cette valeur dans le menu Territoire.

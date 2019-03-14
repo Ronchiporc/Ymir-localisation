@@ -33,13 +33,13 @@ Stocke des ressources.
 marchand
 
 #bdg_merch_dscr
-Les marchands proviennent des ressources produites ou stockées disponibles à la consommation pour la population.
+Les marchands fournissent des ressources produites ou stockées disponibles à la consommation pour la population.
 
 #bdg_roads_n
 route
 
 #bdg_roads_dscr
-Amélioré les déplacements des unités et des bonus offerts aux batiments connectés.
+Améliore les déplacements des unités et offre des bonus aux batiments connectés.
 
 #bdg_walls_n
 murs
@@ -51,7 +51,7 @@ Structures défensives qui empêchent les unités de passer.
 décoration
 
 #bdg_deco_dscr
-Éléments sans cosmétiques améliorant l'esthétique de la ville.
+Éléments cosmétiques améliorant l'esthétique de la ville.
 
 #bdg_towers_n
 tours défensives
@@ -81,7 +81,7 @@ Les plates-formes sont une élévation de tuile de porc que vous pouvez construi
 escaliers
 
 #bdg_stairs_dscr
-Permet aux porcs d'accéder aux cases avec une hauteur différente. Placer contre des plates-formes ou des falaises pour donner accès.
+Permet aux porcos d'accéder aux cases avec une hauteur différente. Placer contre des plates-formes ou des falaises pour en donner l'accès.
 
 #bdg_gates_n
 porte
@@ -96,13 +96,13 @@ Tous les bâtiments
 Cidrerie
 
 #txt_cider_dscr
-Produire du cidre à partir de pommes. Le cidre est une ressource distribuable qui répond aux besoins de la population en alcools.
+Produit du cidre à partir de pommes. Le cidre est une ressource distribuable qui répond aux besoins de la population en alcools.
 
 #txt_brewery_n
 Brasserie
 
 #txt_brewery_dscr
-Produire de la bière à partir d'orge. La bière est une ressource distribuable qui répond aux besoins de la population en alcools.
+Produit de la bière à partir d'orge. La bière est une ressource distribuable qui répond aux besoins de la population en alcools.
 
 #txt_claycamp_n
 Exploitation d'argile
@@ -120,25 +120,25 @@ Placez directement sur les cases d'argile. Augmente la production d'argile de ce
 Couturier
 
 #txt_clothmk_dscr
-Produit des vêtements de textile. Le tissu est une ressource distribuable qui satisfait les besoins de la population en vêtements.
+Produit des vêtements en textile. Le vêtement en textile est une ressource distribuable qui satisfait les besoins de la population en vêtements.
 
 #txt_gather_n
 Camp de cueilleurs
 
 #txt_gather_dscr
-Peut exploiter les ressources agricoles sauvages. Doit être placé dans la gamme des ressources.
+Peut exploiter les ressources agricoles sauvages. Doit être placé dans à portée des ressources.
 
 #txt_farm_n
 Ferme
 
 #txt_farm_dscr
-Peut créer des champs pour produire une variété de ressources agricoles. Peut également exploiter naturellement ceux présents dans la gamme.
+Peut créer des champs pour produire une variété de ressources agricoles. Peut également exploiter naturellement celles présentes à portée.
 
 #txt_fisher_n
 Pêcheur
 
 #txt_fisher_dscr
-Peut exploiter les poissons sauvages pour produire du poisson frais. Doit être placé sur la rive à portée d'un spot de poissons sauvages.
+Peut exploiter les poissons sauvages pour produire du poisson frais. Doit être placé sur la rive à portée d'un banc de poissons sauvages.
 
 #txt_grnry_n
 Grenier
@@ -174,10 +174,10 @@ Bâtiments à plusieurs étages qui fournissent un logement pour plusieurs foyer
 Chasseur
 
 #txt_hunter_dscr
-Peut exploiter les animaux sauvages pour produire de la viande et du cuir frais. Doit être placé à portée d'une tache d'animaux sauvages.
+Peut exploiter les animaux sauvages pour produire de la viande et du cuir frais. Doit être placé à portée d'un groupe d'animaux sauvages.
 
 #txt_flint_n
-Collecteur de cailloux
+Collecteur de gravier
 
 #txt_flint_dscr
 Produit des silex à partir des cases de gravier. Les silex peuvent ensuite être utilisés par les fabricants d'outils pour fabriquer des outils en pierre. Peut également exploiter l'obsidienne.
@@ -216,7 +216,7 @@ Une tour de défense faite de poutres en bois épais.
 Tour de pierre
 
 #txt_tow3_dscr
-Les tours de pierre sont beaucoup plus résistantes que leurs homologues en bois. 
+Les tours de pierre sont beaucoup plus résistantes que leurs celles en bois. 
 
 #txt_tow4_n
 Tour maçonnée
@@ -258,7 +258,7 @@ L'étals de marché distribue à la population une des productions du bâtiment 
 Champ
 
 #txt_field_dscr
-Les champs ne sont exploitables que par la ferme à laquelle ils appartiennent. Ils produisent une large gamme de produits agricoles.
+Les champs ne sont exploitables que par la ferme à laquelle ils appartiennent. Ils produisent une large variété de produits agricoles.
 
 #txt_road1_n
 Chemin de terre
@@ -354,7 +354,7 @@ Une plate-bande de fleurs pour la décoration.
 Bûcheron
 
 #txt_woodc_dscr
-Les bûcherons peuvent exploiter la plupart des arbres disponibles dans la gamme pour produire du bois.
+Les bûcherons peuvent exploiter la plupart des arbres disponibles à portée pour produire du bois.
 
 #txt_merchant_n
 Marchand
@@ -366,7 +366,7 @@ Distributeurs spécialisés qui vendent une ressource à la population.
 Camp minier
 
 #txt_mine_dscr
-Peut exploiter des cases de terrain avec des dépôts spéciaux pour produire une large gamme de matières premières, notamment grâce à l'exploitation de ses annexes lorsqu'elles sont disponibles.
+Peut exploiter des cases de terrain avec des dépôts spéciaux pour produire une large variété de matières premières, notamment grâce à l'exploitation de ses annexes lorsqu'elles sont disponibles.
 
 #txt_mineshaft_n
 Puits minier
@@ -408,13 +408,13 @@ La scierie raffine le bois brut en planches de bois, matériau nécessaire à la
 Tannerie
 
 #txt_tannery_dscr
-Les tanneries affinent le cuir en tissu de cuir, une ressource distribuable qui comble les besoins de la population en vêtements.
+Les tanneries affinent le cuir en veston, une ressource distribuable qui comble les besoins de la population en vêtements.
 
 #txt_toolmk_n
 Outilleur
 
 #txt_toolmk_dscr
-Les fabricants d'outils produisent différents types d'outils. Les outils sont utilisés pour beaucoup de choses, en particulier comme matériau de construction.
+Les fabricants d'outils produisent différents types d'outils. Les outils sont utilisés pour beaucoup de choses, en particulier comme matériaux de construction.
 
 #txt_items_n
 Ressources
@@ -582,13 +582,13 @@ Utilisé pour produire différents matériaux de construction.
 Fonderie
 
 #txt_fundry_dscr
-Affine les minerais métalliques en lingots.
+Transforme les minerais en lingots.
 
 #txt_steel_n
 Aciérie
 
 #txt_steel_dscr1
-Produit de l'acier par carburation du fer forgé par la forge.
+Produit de l'acier par carburation du fer forgé à la forge.
 
 #txt_steel_dscr2
 Produit de l'acier par décarburation de la fonte en la fondant.
@@ -627,7 +627,7 @@ Un endroit où les gens peuvent venir laver leur linge.
 Collecteur de taxes
 
 #txt_taxcol_dscr
-Réduit les déchets en s'assurant que la population paie correctement ses impôts.
+Réduit le gaspillage en s'assurant que la population paie correctement ses impôts.
 
 #txt_scrib_n
 Scribe
@@ -675,7 +675,7 @@ Fait du pain à partir de farine.
 Moulin
 
 #txt_mill_dscr
-Broye les céréales pour produire de la farine, plus facile à stocker et à utiliser pour faire du pain.
+Broie les céréales pour produire de la farine, plus facile à stocker et à utiliser pour faire du pain.
 
 #txt_libr_n
 Bibliothèque
