@@ -1,28 +1,28 @@
-This is a game meant to be complex and hard.
-Any similarities with another species would be purely fortuitous and unintentionnal.
-The economy is never stable. Things are always fluctuating, and that's because it is the result of a dynamic simulation where lots of things continuously influence each other. Do not worry if you cannot get everything to stay still.
-If a porco's income represent 3% of the region's total incomes, his wealth will be 3% of the region's total wealth.
-The income of a social class is shared equitably between all the porcos belonging to that class. The individual income of a porco is therefore an average value based on his social class total income.
-The market study of rare resources will tend to match the wealth of your richest classes while abundant ones will tend to match the wealth of the commoners.
-A porco with a wealth of 2 will be able to fully satisfy his needs of any resource costing 2 coins or less.
-If a resource costs 4 coins, a porco with a wealth of 1 can only satisfy 25% of his need for that resource.
-The wealth of a porco defines his purchasing power, like the resources he can afford to buy to satisfy his needs.
-Wealth is the unit of objective value. It's defined by time spent by a Porco working on anything, regardless of the subjective value (coin prices) his society gives to what he does. 
-Wealth, as a reference universal unit of value, is the same across all regions and players.
-Each Porco spending time working on something produces Wealth proportionnaly to the amount of work done.
-A Porco working in a building with twice the efficiency of another one will produce twice the amount of work in a day, and therefore twice the Wealth.
-The type or price of goods have no effect on Wealth. These things are relative to societies while wealth is an objective universal unit representing time spent working on anything.
-If one Porco earns 10 coins out of 1000 circulating (sum of incomes in the region) but then things change and there's suddenly 2000 circulating, it's like he lost half of what his coins are really worth and he lost half of the region wealth he used to have out if his 10 coins.
-Currencies represent a right to a share of real value, and do not necessarly have value by themselves. In Ymir that "real objective value" is the unit of "Wealth" represented by currencies called "Coins". 
-If the total region wealth was one pie, each coin would give a Porco the right to a slice of it. The size of the slice would depend on how many other coins are circulating (sum of all incomes in the region) .
-A region's sum of all incomes represents the total amount of coins circulating and therefore the ojective value (wealth) each coin represents.
-In ymir, to simplify and avoid the complication of relative currencies, the amount of coins in circulation is set automatically as the sum of all incomes. Therefore the actual value (Wealth) of each coin also fluctuates automatically depending on the total amount of incomes.
-You can still access the resources from a storage building with no workers, but it cannot receive any new ones.
-Any resource distributed and made available to the population (whether its by merchants, producers or anything else) are lost whether they're actually sold or not.
-The price of a resource will always be at least one coin above its production cost to ensure minimum benefits to its producers.
-If an industry produces something highly valued, the producers of its required materials will covet that industry's income and rise the price of their materials.
-Each project has an optimal number of researchers. Beyond that, any extra researchers will only add a minor contribution to the project.
-In a project, each researcher contributes 'research points' based on their intelligence.
-Be careful: assigning researchers to a project reduces the productivity of all buildings employing the same population class.
-You cannot directly control when and what ideas your people will have. Each idea comes with its own hidden conditions.
-In the building tab, you can still choose to build the previous now obsolete version of a building by right-clicking on the building's button.
+Esse jogo foi feito para ser complexo e difícil.
+Quaisquer similaridades para com outra espécie são puramente fortuitas e não intencionais.
+A economia nunca é estável. Tudo está sempre flutuando, e isso é resultado de uma simulação dinâmica, onde muitas coisas influenciam outras, reciprocamente. Não se preocupe se você não conseguir tornar tudo imóvel e invariável.
+Se a renda de um porco representa 3% da renda total de sua região, sua riqueza será 3% da riqueza total da região.
+A renda de uma classe social é dividida igualmente entre todos os porcos pertencentes a mesma. A receita individual de um porco é, portanto, um valor médio baseado na renda total de sua classe social.
+O preço de mercado de recursos raros tenderão a corresponder à riqueza de suas classes mais abastadas, enquanto produtos abundantes tenderão a corresponder a riqueza dos comuns.
+Um porco com 2 de riqueza poderá satisfazer totalmente suas necesssidades de qualquer recursos custando 2 moedas ou menos.
+Se um recurso custa 4 moedas, um porco com a riqueza de 1 pode satisfazer apenas 25% de suas necessidades por tal recurso.
+A riqueza de um porco define seu poder de compra, como os recursos que ele consegue comprar para satisfazer suas necessidades.
+Riqueza é a unidade de valor objetiva. Ela é definida pelo tempo gasto por um Porco trabalhando em qualquer coisa, independentemente do valor subjetivo (preço em moedas) que sua sociedade dá ao que faz.
+A rizqueza, como uma unidade universal de referência de valor, é igual em todas as regiões e para todos os jogadores.
+Cada Porco gastando tempo trabalhando em algo produz Riqueza proporcionalmente à quantidade de trabalho feito.
+Um Porco trabalhando em um lugar de trabalho com o dobro de eficiência em relação a outro irá produzir o dobro de trabalho por dia, e, por isso, o dobro de riqueza.
+O tipo ou preço dos produtos não tem efeito na Riqueza. Aqueles são relativos à sociedade, enquanto riqueza é uma unidade objetiva universal que representa o tempo gasto trabalhando em qualquer coisa.
+Se um Porco ganha 10 moedas de 1000 circulando (soma de renda da região) mas então as coisas mudam e de repente há 2000 circulando, é como se ele tivesse perdido metade do real valor de suas moedas, e metade do percentual da riqueza total da região que tinha a partir de suas 10 moedas.
+O dinheiro representa o direito de uma parte do valor real, e não possuem necessariamente valor ele mesmo. Em Ymir "o valor objetivo real" é a unidade de "Riqueza", representada pelo dinheiro na unidade de "Moedas".
+Se a soma da riqueza total de uma região fosse uma torta, cada moeda daria a um Porco o direito de um pedado da comida. O tamanho do pedaço dependeria de quantas moedas estão circulando (a soma de toda a renda da região).
+A soma de toda a renda de uma região representa o total de moedas circulando e, com isso, o valor objetivo (riqueza) que cada moeda representa.
+Em Ymir, para simplificar e evitar a complicação de moedas correntes relativas, a quantidade de moedas em circulação é automaticamente a soma de todas as rendas. Assim, o valor próprio (Riqueza) de cada moeda também flutua autmaticamente, ao sabor da quantidade total de receitas.
+Você pode acessar os recursos de locais de estocagem sem trabalhadores, mas os locais não poderão receber nenhum novo recurso.
+Qualquer recurso distribuido e disponibilizado para a população (seja pelos mercadores, produtores ou outros) são perdidos, sendo vendidos ou não.
+O preço de um recurso será sempre, no mínimo, uma moeda acima de seu custo de produção, para garantir um lucro mínimo para seus produtores.
+Se uma industria produz algo muito valorizado, os produtores dos materiais de base irão cobiçar a receita de tal indústria e aumentar o preço de seus insumos.
+Cada projeto possui um número otimizado de pesquisadores. Além desse número, qualquer pesquisador extra irá adicionar uma reduzida contribuição para o projeto.
+Em um projeto, cada pesquisador contribui "pontos de pesquisa" baseados em suas respectivas inteligências.
+Tome cuidado: atribuir pesquisadores para um projeto reduz a produtividade de todos os locais de trabalhos que empregam a classe social nomeada.
+Você não pode controlar diretamente quando e quais ideias seu povo irá ter. Cada ideia possui condições e gatilhos secretos.
+Na aba de construções, você escolher construir a versão obsoleta de um prédio cliclando com o botão direito no ícone da construção.
