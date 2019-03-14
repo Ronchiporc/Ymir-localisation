@@ -14,7 +14,7 @@ Münztransfer
 Kontinuierlicher Transfer von [x]-Münzen aus dem Einkommen
 
 #agrim_goldr_3
-[x] überweist kontinuierlich Münzen an [y], solange der Vertrag aktiv bleibt.
+ [x] überweist kontinuierlich Münzen an [y], solange der Vertrag aktiv bleibt.
 
 #agrim_goldtax_1
 Münzensteuer
@@ -23,7 +23,7 @@ Münzensteuer
 Gibt [x]% des Münzeinkommens.
 
 #agrim_goldtax_3
-[x] überträgt einen Prozentsatz seines gesamten Münzeinkommens an [y].
+ [x] überträgt einen Prozentsatz seines gesamten Münzeinkommens an [y].
 
 #agrim_admtax_1
 Leistungsübertragung
@@ -32,7 +32,7 @@ Leistungsübertragung
 Überträgt [x]% der Staatsmacht
 
 #agrim_admtax_3
-[x] überträgt ein Prozent seiner Staatsmacht an [y].
+ [x] überträgt ein Prozent seiner Staatsmacht an [y].
 
 #agrim_trad_1
 Handelsabkommen
@@ -68,7 +68,7 @@ Beitritt zur Nation
 Beitritt zur [x]
 
 #agrim_vassal_3
-[x] wird sich der Nation von [y] anschließen.
+ [x] wird sich der Nation von [y] anschließen.
 
 #agrim_war_1
 Den Krieg erklären, um...
@@ -122,7 +122,7 @@ Gebe eine Idee
 Gib eine Idee für [x]
 
 #agrim_gividea_3
-[y] wird von [x] eine neue Idee für Erkenntnisse erhalten, die er noch nicht hat.
+ [y] wird von [x] eine neue Idee für Erkenntnisse erhalten, die er noch nicht hat.
 
 #treaty_powcost
 Staatliche Kosten für die Aufrechterhaltung dieses Vertrags
@@ -137,7 +137,7 @@ Münzstrafe
 zu [x].
 
 #treaty_gdp
-[x]% des BIP
+ [x]% des BIP
 
 #treaty_honor
 Ehrenengagement

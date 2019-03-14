@@ -30,7 +30,7 @@ ZUM HAUPTMENÜ
 Ymir offizieller Discord Server
 
 #b_menu_discord_2
-Werden Sie Mitglied der Ymir-Community!
+Werde Mitglied der Ymir-Community!
 
 #b_menu_porcopedia_1
 Porcopedia
@@ -42,10 +42,10 @@ Das offizielle Online-Wiki des Spiels
 Ymir auf Trello
 
 #b_menu_trell_2
-Verfolgen Sie die Entwicklung des Spiels und stimmen Sie für die geplanten Features.
+Verfolge die Entwicklung des Spiels und stimme für die geplanten Features.
 
 #ui_tomainvalid
-Möchten Sie wirklich gehen und zum Hauptmenü zurückkehren?
+Möchtest du wirklich das Spiel verlassen und zum Hauptmenü zurückkehren?
 
 #ui_connctstat_1
 Derzeit verbunden mit [x] ping: [y]
@@ -57,13 +57,13 @@ Verlustrate: [x]% ( gesendet: [y] fehlgeschlagen: [z])
 Achtung! Deine Verbindung mit dem Server ist instabil!
 
 #mainmenu_mute
-Klicken Sie hier, um das gesamte Spiel stummzuschalten/umzuschalten.
+Klicke hier, um das gesamte Spiel stummzuschalten/umzuschalten.
 
 #mainmenu_fullscrn
-Klicken Sie hier, um zwischen Fenster- und Vollbildmodus zu wechseln.
+Klicke hier, um zwischen Fenster- und Vollbildmodus zu wechseln.
 
 #mainmenu_quit
-Klicken Sie hier, um das Spiel zu beenden.
+Klicke hier, um das Spiel zu beenden.
 
 #mainmenu_maxim
 maximieren
@@ -93,13 +93,13 @@ Vollbild aktivieren
 Automatische Auflösung
 
 #bc_menuop_autores
-automatische Anpassung der Auflösung an die Anzeige im Vollbildmodus
+Automatische Anpassung der Auflösung im Vollbildmodus
 
 #b_menuop_res
 Anzeigeauflösung
 
 #bc_menuop_res
-Wählen Sie die gewünschte Bildschirmauflösung im Vollbildmodus.
+Wähle die gewünschte Bildschirmauflösung.
 
 #b_menuop_terrain
 Gelände
@@ -135,13 +135,13 @@ Logik
 Kosmetische Vegetation
 
 #bc_menuop_cosveg
-Aktivieren Sie kosmetische Gräser und Sträucher.
+Aktiviere kosmetische Gräser und Sträucher.
 
 #b_menuop_cosunits
 Kosmetikgeräte 
 
 #bc_menuop_cosunits
-Aktivieren Sie Kosmetikeinheiten wie Ziertiere.
+Aktiviere Kosmetikeinheiten wie Ziertiere.
 
 #b_menuop_animveget
 Animierte Vegetation
@@ -156,16 +156,16 @@ Videokörnung
 Aktivieren oder Deaktivieren dieses Nachbearbeitungseffekts
 
 #b_menuop_autovsize
-Automatische Definition des Ansichtsfensters
+Automatische Anpassung
 
 #b_menuop_autovsize_c1
-Die Ansichtsfensterdefinition bleibt 1:1 mit Ihrer Bildschirmauflösung erhalten.
+Die Ansichtsfensterdefinition bleibt 1:1 mit deiner Bildschirmauflösung erhalten.
 
 #b_menuop_vsize
 Ansichtsfenster-Definition
 
 #b_menuop_vsize_c1
-Definition der Spielgrafiken in Abhängigkeit von Ihrer Bildschirmauflösung: 100% bedeutet 1:1 Verhältnis zwischen Bildschirm und gerenderter Grafik.
+Definition der Spielgrafiken in Abhängigkeit von deiner Bildschirmauflösung: 100% bedeutet 1:1 Verhältnis zwischen Bildschirm und gerenderter Grafik.
 
 #b_menuop_vsize_c2
 Die Senkung dieses Verhältnisses erhöht die Leistung erheblich.
@@ -183,7 +183,7 @@ Größe der Benutzeroberfläche
 Ändert die Größe der Oberflächenschicht. 
 
 #b_menuop_uisize_c2
-Nützlich, um zu verhindern, dass die Benutzeroberfläche je nach Größe und Displaydefinition Ihres Geräts unangenehm zu lesen ist.
+Nützlich, um zu verhindern, dass die Benutzeroberfläche je nach Größe und Displaydefinition deines Geräts unangenehm zu lesen ist.
 
 #b_menuop_mvol
 Musiklautstärke
@@ -198,7 +198,7 @@ UI-Volumen
 Sprache
 
 #bc_menuop_lang
-Wählen Sie Ihre Sprache
+Wähle Ihre Sprache
 
 #menuop_k_le
 Kamera links
@@ -210,16 +210,16 @@ Kamera rechts
 Kamera aus
 
 #menuop_keyset
-Klicken und drücken Sie eine Tastaturtaste, um sie an diese Aktion zu binden.
+Klicke und drücke eine Taste, um sie an diese Aktion zu binden.
 
 #menuop_togtut_c1
-Aktiviert das Haupttutorial und alle Hilfepopups, wenn Sie zum ersten Mal etwas tun.
+Aktiviert das Haupttutorial und alle Hilfepopups, wenn du zum ersten Mal spielst.
 
 #menuop_resetut
 Alle zurücksetzen
 
 #menuop_resetut_c1
-Setzen Sie alle Tutorials auf Null zurück.
+Setze alle Tutorials auf Null zurück.
 
 #menuop_resetutd
 Alle Tutorials wurden zurückgesetzt.
@@ -231,7 +231,7 @@ Anwenden
 ANZEIGE
 
 #b_menuop_sound
-KLANG
+SOUND
 
 #b_menuop_game
 SPIEL
@@ -258,10 +258,10 @@ Echtzeitspiele sind ein offizieller Spielmodus von Ymir für schnellere Spiele, 
 Benutzerdefinierte Spiele
 
 #joingame_custom_dscr_1
-Benutzerdefinierte Spiele sind von der Community gehostete Spiele ohne erzwungene Standardisierung, bei denen eine Serveranpassung erlaubt ist. Die beabsichtigte Spielbalance kann daher beeinträchtigt werden und die Zuverlässigkeit Ihres Spielerlebnisses kann auf diesen Servern nicht garantiert werden.
+Benutzerdefinierte Spiele sind von der Community gehostete Spiele ohne erzwungene Standardisierung, bei denen eine Serveranpassung erlaubt ist. Die beabsichtigte Spielbalance kann daher beeinträchtigt werden und die Zuverlässigkeit deines Spielerlebnisses kann auf diesen Servern nicht garantiert werden.
 
 #joingame_custom_dscr_2
-WARNUNG: Bitte beachten Sie, dass es im Gegensatz zu offiziellen Spielmodus-Servern möglicherweise serverspezifische Regeln gibt und dass Server-Moderationswerkzeuge für die Server-Hosts freigeschaltet sind. Dazu gehört auch die Befugnis, Spieler nach eigenem Ermessen von ihren Servern auszuschließen.
+WARNUNG: Bitte beachte, dass es im Gegensatz zu offiziellen Spielmodus-Servern möglicherweise serverspezifische Regeln gibt und dass Server-Moderationswerkzeuge für die Server-Hosts freigeschaltet sind. Dazu gehört auch die Befugnis, Spieler nach eigenem Ermessen von ihren Servern auszuschließen.
 
 #joingame_direct
 Direkte IP
@@ -336,7 +336,7 @@ privat
 Passwort:
 
 #bc_newgame_password
-Legen Sie ein Passwort fest, das Sie für die Teilnahme an diesem Spiel benötigen.
+Lege ein Passwort fest, das für die Teilnahme an diesem Spiel benötigt wird.
 
 #b_newgame_maxplayers
 Max. Spieler:
@@ -360,10 +360,10 @@ Server schließt nicht automatisch
 Server schließen, wenn leer
 
 #newgame_serv_leave
-Server schließen, wenn Sie die Verbindung trennen
+Server schließen, wenn du die Verbindung trennst.
 
 #newgame_samname
-Ein gespeichertes Spiel ' [x]' existiert bereits in den lokalen Dateien! Was willst du tun?
+Ein gespeichertes Spiel '[x]' existiert bereits in den lokalen Dateien! Was willst du tun?
 
 #newgame_overw
 Überschreiben
@@ -375,7 +375,7 @@ Autorename
 keine verfügbar
 
 #newgame_invmap
-Es scheint, dass es keine benutzerdefinierte Karte gibt. Bitte wählen Sie einen Verfahrenstyp der Karte aus.
+Es scheint, dass es keine benutzerdefinierte Karte gibt. Bitte wähle einen Verfahrenstyp der Karte aus.
 
 #mapsize
 Kartengröße
@@ -441,10 +441,10 @@ Warme und feuchte Meereswelten mit vielen tropischen Inseln.
 Benutzerdefinierte Einstellungen
 
 #custmap_sel
-Wählen Sie eine Weltkarte aus
+Wähle eine Weltkarte aus
 
 #custmap_sel_c
-Wählen Sie eine benutzerdefinierte Karte aus
+Wähle eine benutzerdefinierte Karte aus
 
 #custmap_dscr
 Benutzerdefinierte Welten sind Karten, die manuell mit dem Editor erstellt werden, anstatt prozedural generiert zu werden.
@@ -462,7 +462,7 @@ Spiele, die als offiziell gekennzeichnet sind, verwenden standardisierte, nicht 
 Spieltyp
 
 #gmtyp_offtype_c
-Wählen Sie eine Spielvoreinstellung aus
+Wähle eine Spielvoreinstellung aus
 
 #gmtyp_solo
 Solo
@@ -474,7 +474,7 @@ Solospiele können nur allein gespielt werden.
 Die Spielgeschwindigkeit ist insgesamt die schnellste.
 
 #gmtyp_solo_dscr3
-Dies ist gedacht, um die Grundlagen des Spiels zu erlernen, bevor Sie an richtigen Multiplayer-Spielen teilnehmen, oder für Spieler, die einfach nur in Frieden bauen wollen.
+Dies ist gedacht, um die Grundlagen des Spiels zu erlernen, bevor man an richtigen Multiplayer-Spielen teilnimmt, oder für Spieler, die einfach nur in Frieden bauen wollen.
 
 #gmtyp_rtime
 Echtzeit
@@ -513,7 +513,7 @@ Trennen der Verbindung
 Zurück zum Hauptmenü
 
 #gamelob_usechar
-Spielen Sie mit diesem Charakter
+Spiele mit diesem Charakter
 
 #gamelob_newchar
 Neu
@@ -537,7 +537,7 @@ Verfügbare Starts entsprechen diesen Einstellungen
 charaktervolle Brut......
 
 #newchar_closeto_c
-Sie werden so nah wie möglich an den ausgewählten Charakter heranrücken, während Sie die oben genannten Bedingungen erfüllen.
+Du wirst so nah wie möglich an den ausgewählten Charakter gespawnt, solange die oben genannten Bedingungen erfüllst.
 
 #newchar_starttyp
 Starttypen
@@ -549,13 +549,13 @@ Klimazonen
 Dies ist ein "Wertvoller Anfang": Einmal verwendet, kannst du nicht mehr von einem anderen "Wertvollen Spawn" für [x] zurückkehren, unabhängig von deiner Spawn-Abkühlung.
 
 #newchar_st_prlck
-Dieser "Wertvolle Start" ist gesperrt, weil Sie von einem anderen weniger als vor [x] gelaicht haben ( [y] übrig).
+Dieser "Wertvolle Start" ist gesperrt, weil du bei einem anderen weniger als vor [x] gespawned bist ([y] übrig).
 
 #newchar_st_suc
 Nachfolge
 
 #newchar_st_suc_c1
-Werden Sie zum neuen Herrscher einer bereits bestehenden Regierung, die einen Nachfolger braucht.
+Werde zum neuen Herrscher einer bereits bestehenden Regierung, die einen Nachfolger braucht.
 
 #newchar_st_suc_c2
 Du bekommst die Kontrolle über einen inaktiven Charakter und erbst all seinen Besitz.
@@ -573,7 +573,7 @@ Werde der neue Anführer einer Kolonie, die von einem anderen Spieler gegründet
 Neuer Leiter
 
 #newchar_st_ar_c1
-Werden Sie der neue Anführer eines Gebietes, das zuvor in die Anarchie gefallen war.
+Werde der neue Anführer eines Gebietes, das zuvor in die Anarchie gefallen war.
 
 #newchar_st_ar_c2
 (ein Gebiet, das rebellierte oder seinen früheren Führer verlor: erwarte das Unerwartete!)
@@ -591,13 +591,13 @@ Trocken
 Tropisch
 
 #newchar_prspwn_warn
-WARNUNG: Sie haben einen oder mehrere "Wertvolle Startarten" ausgewählt. Diese können nicht für [x] wiederverwendet werden, unabhängig von der Abkühlphase des Spawn in diesem Spiel. Vermassel es nicht!
+WARNUNG: Du hast einen oder mehrere "Wertvolle Startarten" ausgewählt. Diese können nicht für [x] wiederverwendet werden, unabhängig von der Abkühlphase des Spawns in diesem Spiel. Vermassel es nicht!
 
 #newchar_nofind
 Es konnte keine Einheit oder kein Gebiet für diesen Charakter gefunden werden!
 
 #findchar_bc
-Klicken Sie hier, um nach einem bestehenden Charakter in diesem Spiel zu suchen.
+Klicke hier, um nach einem bestehenden Charakter in diesem Spiel zu suchen.
 
 #char_invcode
 Einladungscode: [x]
@@ -606,10 +606,10 @@ Einladungscode: [x]
 Bitte gib einen Namen für deinen neuen Charakter an.
 
 #charcreate_err2
-Bitte geben Sie einen Namen für Ihre Regierung an.
+Bitte gib einen Namen für Ihre Regierung an.
 
 #charcreate_err3
-Es gibt keinen gültigen Startpunkt, der Ihren Einstellungen entspricht.
+Es gibt keinen gültigen Startpunkt, der deinen Einstellungen entspricht.
 
 #charcreate_err4
 Bitte gib einen Einladungscode an, um deine Charaktererstellung abzuschließen!
@@ -624,7 +624,7 @@ Ungültiger Einladungscode!
 Einladungscode für [x]
 
 #invtcd_txt
-Du versuchst, in der Nähe eines Charakters namens ' [x]' zu spawnen. Um sicherzustellen, dass Sie dies in Absprache mit dem Besitzer tun, müssen Sie nun den gültigen "invite code" angeben, der diesem Charakter entspricht und nur dem Spieler bekannt ist, der ihn kontrolliert. Wenn du einem Freund beitrittst, bitte ihn, dir diesen Code zu geben, der im Avatar-Ingame seines Charakters angezeigt wird.
+Du versuchst, in der Nähe eines Charakters namens '[x]' zu spawnen. Um sicherzustellen, dass du dies in Absprache mit dem Besitzer tust, musst du nun den gültigen "invite code" angeben, der diesem Charakter entspricht und nur dem Spieler bekannt ist, der ihn kontrolliert. Wenn du einem Freund beitrittst, bitte ihn, dir diesen Code zu geben, der im Avatar seines Charakters angezeigt wird.
 
 #findchar_srch
 Suche nach Charakter......
@@ -636,7 +636,7 @@ Ergebnisse
 recherchieren.....
 
 #findchar_instr
-Geben Sie den vollständigen Namen eines Charakters oder einen Teil seines Namens ein und drücken Sie die Eingabetaste, um gültige Übereinstimmungen zu sehen.
+Gib den vollständigen Namen eines Charakters oder einen Teil seines Namens ein und drücke die Eingabetaste, um gültige Übereinstimmungen zu sehen.
 
 #findchar_nores
 kein Ergebnis zu dieser Suche
@@ -645,13 +645,13 @@ kein Ergebnis zu dieser Suche
 TUTORIAL
 
 #tuto_ask_1
-Seid gegrüßt, Newpig! Ist dies das erste Mal, dass Sie Ymir spielen und möchten Sie den Tutorial-Modus aktivieren?
+Seid gegrüßt, Newpig! Ist dies das erste Mal, dass du Ymir spielst und möchtest den Tutorial-Modus aktivieren?
 
 #ui_gen_toreg
-Klicken Sie hier, um zum aktuell ausgewählten Gebiet zu gelangen.
+Klicke hier, um zum aktuell ausgewählten Gebiet zu gelangen.
 
 #ui_gen_toworld
-Klicken Sie hier, um zur Weltkarte zu gelangen.
+Klicke hier, um zur Weltkarte zu gelangen.
 
 #ui_gen_score
 Punktzahl des Charakters
@@ -705,7 +705,7 @@ Verlassen
 Schlafmodus
 
 #ui_menubdg_sleep2
-Im Schlafmodus: Alle Funktionalitäten werden gestoppt, bis Sie sie wieder aktivieren. Das Gebäude verschlechtert sich nicht mit der Zeit (Wartung).
+Im Schlafmodus: Alle Funktionalitäten werden gestoppt, bis du sie wieder aktivierst. Das Gebäude verschlechtert sich nicht mit der Zeit (Wartung).
 
 #ui_menubdg_build1
 In Bau befindlich
@@ -969,7 +969,7 @@ Staatliche Ressourcen, die an Bevölkerung oder Industrie verkauft werden.
 Einkäufe staatlicher Ressourcen
 
 #regeco_esr_c1
-Insgesamt bezahlte Auto-Kauf-Ressourcen für den Staat (Sie).
+Insgesamt bezahlte Auto-Kauf-Ressourcen für den Staat.
 
 #bc_menureg_cur1
 Währung, die in diesem Gebiet verwendet wird:
@@ -1095,7 +1095,7 @@ eingeschränkt
 erlauben
 
 #bc_menubdg_perm
-Wählen Sie aus, wie Ressourcen in diesem Lagergebäude akzeptiert werden sollen.
+Wähle aus, wie Ressourcen in diesem Lagergebäude akzeptiert werden sollen.
 
 #b_menubdg_allempty
 alles leeren
@@ -1116,7 +1116,7 @@ AKTIVE MAßNAHMEN
 aktueller Haushaltssaldo
 
 #ui_gov_pdgreform
-Sie haben eine anstehende Reform, die nicht umgesetzt wird. Sind Sie sicher, dass Sie dieses Menü schließen und diese Reform ablehnen möchten (politische Änderungen werden nicht übernommen)?
+Du hast eine anstehende Reform, die nicht umgesetzt wird. Bist du sicher, dass du dieses Menü schließen und diese Reform ablehnen möchtest (politische Änderungen werden nicht übernommen)?
 
 #bc_selpolicy
 Liste der verfügbaren neuen Richtlinien
@@ -1125,19 +1125,19 @@ Liste der verfügbaren neuen Richtlinien
 keine neuen Richtlinien verfügbar!
 
 #ui_civ_req
-erfordert ' [x]'.
+erfordert '[x]'.
 
 #ui_civ_on_c
-Klicken Sie hier, um diese neue Politik in die Reform aufzunehmen.
+Klicke hier, um diese neue Politik in die Reform aufzunehmen.
 
 #ui_civ_off
 WIEDERHOLUNG DER REFORM
 
 #ui_civ_off_c
-Klicken Sie hier, um den Widerruf dieser Politik in die Reform aufzunehmen.
+Klicke hier, um den Widerruf dieser Politik in die Reform aufzunehmen.
 
 #ui_civ_warn
-(Beachten Sie, dass Sie die Reform anwenden müssen, bevor diese Änderungen tatsächlich in Kraft treten).
+(Beachte, dass du die Reform anwenden musst, bevor diese Änderungen tatsächlich in Kraft treten).
 
 #ui_defaultciv
 Standardrichtlinie
@@ -1158,19 +1158,19 @@ anstehende Reformwirkung
 REFORM ANWENDEN
 
 #bc_applyreform
-Klicken Sie hier, um Ihre Reform einzureichen und alle Ihre anstehenden Änderungen an den Richtlinien wirksam zu machen.
+Klicke hier, um Ihre Reform einzureichen und alle Ihre anstehenden Änderungen an den Richtlinien wirksam zu machen.
 
 #b_reform_cflct
 Reform-Effekt: +Konflikt in allen Gebieten
 
 #b_reform_cflct_c1
-Achtung! Wegen seines Inhalts wird Ihre anstehende Reform eine sofortige einmalige Strafe von [x] des Konflikts in allen Ihren Gebieten verursachen.
+Achtung! Wegen seines Inhalts wird Ihre anstehende Reform eine sofortige einmalige Strafe von [x] des Konflikts in allen deinen Gebieten verursachen.
 
 #b_reform_loyal
 Reformeffekt: - [x] Loyalität in allen Gebieten
 
 #b_reform_loyal_c1
-Achtung! Wegen seines Inhalts wird Ihre anstehende Reform eine sofortige einmalige Strafe von [x] Loyalität in allen Ihren Gebieten verursachen.
+Achtung! Wegen seines Inhalts wird Ihre anstehende Reform eine sofortige einmalige Strafe von [x] Loyalität in allen deinen Gebieten verursachen.
 
 #ui_eco_title
 SCHATZKAMMER
@@ -1179,7 +1179,7 @@ SCHATZKAMMER
 Budgetsaldo
 
 #ui_eco_dscr
-Die Schatzkammer ist die Gesamtmenge der Münzen, die Ihre Regierung besitzt. Die Wirtschaftspolitik definiert, wie die Wirtschaft Ihrer Gesellschaft derzeit organisiert ist.
+Die Schatzkammer ist die Gesamtmenge der Münzen, die Ihre Regierung besitzt. Die Wirtschaftspolitik definiert, wie die Wirtschaft deiner Gesellschaft derzeit organisiert ist.
 
 #ui_eco_lead
 Persönliches Vermögen des Anführers
@@ -1191,25 +1191,25 @@ Der Führer ordnet derzeit [x]% seines persönlichen Gesamtvermögens von [y] de
 Steuern Einkommen und Ertrag
 
 #ui_eco_tax_c1
-Summe aller Steuereinnahmen aus allen Ihren Gebieten.
+Summe aller Steuereinnahmen aus allen deinen Gebieten.
 
 #ui_eco_contrib_c1
 In einer Gesellschaft ohne organisierte Steuern stammen die Einkommen nur aus dem freiwilligen Beitrag der Menschen für die Gemeinschaft (20% ihres Einkommens).
 
 #ui_eco_wast_c1
-Steuereinnahmen, die durch Verschwendung in Ihren Gebieten verloren gehen. Abfall ist das Ergebnis einer niedrigen Gebietsverwaltung.
+Steuereinnahmen, die durch Verschwendung in deinen Gebieten verloren gehen. Abfall ist das Ergebnis einer niedrigen Gebietsverwaltung.
 
 #ui_eco_bdgs
 Gebäudeunterhalt
 
 #ui_eco_bdgs_c1
-Totale Instandhaltung aller Gebäude in allen Ihren Gebieten.
+Totale Instandhaltung aller Gebäude in allen deinen Gebieten.
 
 #ui_eco_infr
 Aufrechterhaltung der Infrastrukturen
 
 #ui_eco_infr_c1
-Gesamtkosten für die Wartung aller Infrastrukturen aller Ihrer Gebiete wie Mauern oder Straßen.
+Gesamtkosten für die Wartung aller Infrastrukturen aller deiner Gebiete wie Mauern oder Straßen.
 
 #ui_eco_units
 Wartung der Einheiten
@@ -1236,13 +1236,13 @@ Gesamtkosten aller laufenden Projekte.
 Steuern von Untergebenen: [x]
 
 #ui_eco_nat_c2
-Steuern für Ihren hierarchischen Vorgesetzten: [x]
+Steuern für deinen hierarchischen Vorgesetzten: [x]
 
 #ui_eco_tradbal
 Handelsbilanz
 
 #ui_eco_tradbal_c1
-Die Handelsbilanz über alle Ihre Gebiete hinweg von allen Ihren aktuellen Handelsrouten.
+Die Handelsbilanz über alle Ihre Gebiete hinweg von allen deinen aktuellen Handelsrouten.
 
 #ui_eco_tradbal_c2
 Staatliche Ressourcen: + [x] Verkäufe - [y] Käufe
@@ -1374,13 +1374,13 @@ Einfuhrkosten
 Die Gesamtkosten, die (vom Staat) für den Betrag bezahlt werden, der über Handelsrouten importiert wird.
 
 #bc_menubdg_rsell
-Wählen Sie eine Ressource aus, die Sie mit diesem Händler verkaufen möchten.
+Wähle eine Ressource aus, die du mit diesem Händler verkaufen möchtest.
 
 #bc_menubdg_lmtd_c1
-Klicken Sie hier, um die eingeschränkte Distribution für diesen Händler umzuschalten. Ermöglicht es Ihnen, die Menge der auf dem öffentlichen Markt verteilten Ressourcen zu kontrollieren.
+Klicke hier, um die eingeschränkte Distribution für diesen Händler umzuschalten. Ermöglicht es Ihnen, die Menge der auf dem öffentlichen Markt verteilten Ressourcen zu kontrollieren.
 
 #ui_menubdg_hire
-Stellen Sie einen ein
+Stelle einen ein
 
 #ui_menubdg_fire
 Feuer eins
@@ -1422,10 +1422,10 @@ Bestand pflegen
 Wenn der aktuelle Bestand unter dem gewünschten Wert liegt, werden 25% der Produktion reserviert und gesperrt, um den Bestand zu erhöhen. 
 
 #stormntn_set
-Stellen Sie die Bestandsführung auf mindestens [x] [y] ein. 
+Stelle die Bestandsführung auf mindestens [x] [y] ein. 
 
 #storownr_set
-Setzen Sie die Aufrechterhaltung des Eigentums an mindestens [x] [y]. 
+Setze die Aufrechterhaltung des Eigentums an mindestens [x] [y]. 
 
 #storownr_enab
  [x] ist nun eine staatliche Ressource (die gesamte Produktion wird von Ihnen automatisch gekauft). 
@@ -1434,13 +1434,13 @@ Setzen Sie die Aufrechterhaltung des Eigentums an mindestens [x] [y].
 x] ist keine staatliche Ressource mehr (kein automatischer Einkauf der Produktion). 
 
 #regeco_1
-Der Haushaltssaldo Ihres Gebiets ist das Ergebnis aller Einnahmen und Ausgaben, die für dieses Gebiet spezifisch sind, wie Steuern, Gehälter und Unterhaltskosten.
+Der Haushaltssaldo deines Gebiets ist das Ergebnis aller Einnahmen und Ausgaben, die für dieses Gebiet spezifisch sind, wie Steuern, Gehälter und Unterhaltskosten.
 
 #regeco_2
 Das Budget kann auch durch Verschwendung negativ beeinflusst werden. Es handelt sich um Einkommensverluste durch Steuerhinterziehung, schlechtes Management, Korruption und Schwarzwirtschaft.
 
 #regadmin_1
-Die Verwaltung repräsentiert die Managementkapazität Ihrer Regierung in diesem Gebiet.
+Die Verwaltung repräsentiert die Managementkapazität deiner Regierung in diesem Gebiet.
 
 #regadmin_2
 Je mehr Einwohner und Entfernung von der Hauptstadt, desto schwieriger ist es, das Gebiet zu verwalten. Aber es kann auch durch aktive Politiken und Dienstleistungen im Gebiet verbessert werden, wie z.B. die Unterstützung von Schreiber bei der Verwaltung des Gebietes.
@@ -1461,13 +1461,13 @@ Loyalität repräsentiert die globale Loyalität des Volkes des Territoriums geg
 Sie wird von vielen Faktoren beeinflusst, wie z.B. der Kultur des Volkes, der Konfliktstärke im Territorium, aktiven Politiken, vergangenen Ereignissen oder der Autorität der Regierung im Territorium. Wenn die Loyalität zu niedrig wird (unter 30%), besteht ein hohes Risiko eines globalen Volksaufstands, der zum Verlust der Kontrolle über das Territorium führen kann.
 
 #regcltr_eff
-Effekte: trägt zu Ihrer Gesamtkultur bei, beeinflusst die Loyalität, erhöht die Intelligenz der Bevölkerung.
+Effekte: trägt zu deiner Gesamtkultur bei, beeinflusst die Loyalität, erhöht die Intelligenz der Bevölkerung.
 
 #regcltr_1
 Kultur repräsentiert das gesamte Wissen, die Bräuche und das Verhalten der Menschen in diesem Gebiet.
 
 #regcltr_2
-Eine Gesamtkultur, die auf der Bevölkerungszahl basiert, kann dann zwischen verschiedenen Arten von Kulturen geteilt werden. "Staatskultur" repräsentiert deine Kultur. "Die "Lokale Kultur" steht für Bräuche und Verhaltensweisen, die spezifisch für dieses Gebiet sind und sich von Ihrer Hauptkultur unterscheiden, die unter allen Ihren Völkern geteilt wird. Es können auch andere fremde Kulturen vorhanden sein.
+Eine Gesamtkultur, die auf der Bevölkerungszahl basiert, kann dann zwischen verschiedenen Arten von Kulturen geteilt werden. "Staatskultur" repräsentiert deine Kultur. "Die "Lokale Kultur" steht für Bräuche und Verhaltensweisen, die spezifisch für dieses Gebiet sind und sich von deiner Hauptkultur unterscheiden, die unter allen deinen Völkern geteilt wird. Es können auch andere fremde Kulturen vorhanden sein.
 
 #regcltr_intgr
 Kulturelle Integration der Nation
@@ -1482,7 +1482,7 @@ Die Übertragung dieses Territoriums zwischen den Nationalstaatenmitgliedern erz
 Die Kultur dieses Gebietes hat die Nation [x] noch nicht integriert. Es wird in [y] sein. 
 
 #reggrwth_1
-Das Wachstum stellt die aktuelle demografische Entwicklung Ihrer Bevölkerung in diesem Gebiet dar. 
+Das Wachstum stellt die aktuelle demografische Entwicklung deiner Bevölkerung in diesem Gebiet dar. 
 
 #reggrwth_2
 Das Wachstum hängt stark vom "Zuchtwillen" der Menschen ab, der bestimmt, wie viele Paare in der nächsten Generation Kinder bekommen werden.
@@ -1659,7 +1659,7 @@ Jeder Punkt der Lebensqualität bietet +0,75 Intelligenz.
 Umfassende Kenntnisse
 
 #popint_kn_c1
-Die Summe Ihrer aktuellen Kenntnisse erhöht die allgemeine Intelligenz. 
+Die Summe deiner aktuellen Kenntnisse erhöht die allgemeine Intelligenz. 
 
 #popint_cult
 Die Kultur des Territoriums
@@ -1797,7 +1797,7 @@ Staatskultur
 Es hat [x] Punkte der Staatskultur auf Lager.
 
 #loadgame_select
-Wählen Sie ein lokal gespeichertes Spiel zum Laden aus.
+Wähle ein lokal gespeichertes Spiel zum Laden aus.
 
 #loadgame_localsav
 ( Lokale Speicher befinden sich in \AppData\Local\Ymir\saves)
@@ -1827,7 +1827,7 @@ Spiel umbenennen
 Name kopieren
 
 #loadgame_deleting
-Sind Sie sicher, dass Sie dieses gespeicherte Spiel löschen möchten?
+Bist du sicher, dass du dieses gespeicherte Spiel löschen möchtest?
 
 #joingame_serv
 Server-IP
@@ -1860,7 +1860,7 @@ Privilegien
 Reichtum, der direkt als Privileg der Sozialpolitik gewährt wird.
 
 #legit_dscr
-Legitimität ist, wie sehr das Volk das Recht auf die Autoritätsansprüche Ihres Staates anerkennt, die durch Ihre aktiven Legitimitätsrichtlinien definiert sind. Diese beeinflussen den positiven oder negativen Einfluss aller verschiedenen Legitimitätsfaktoren.
+Legitimität ist, wie sehr das Volk das Recht auf die Autoritätsansprüche deines Staates anerkennt, die durch Ihre aktiven Legitimitätsrichtlinien definiert sind. Diese beeinflussen den positiven oder negativen Einfluss aller verschiedenen Legitimitätsfaktoren.
 
 #legit_tot
 Vollständige Legitimität
@@ -1920,7 +1920,7 @@ Der Faktor [x] hat derzeit einen negativen Einfluss auf unsere Legitimität. ( [
 Der Faktor [x] hat derzeit keinen Einfluss auf unsere Legitimität.
 
 #statepow_dscr
-Staatsmacht ist die Fähigkeit Ihres Staates, Dinge zu verwalten. Machtpolitiken definieren, wie die politische Macht im Staat organisiert ist, indem sie staatliche Macht erzeugen und verschiedene Arten von Legitimitäten betreffen. Die Staatsmacht erhöht die Loyalität der Territorien.
+Staatsmacht ist die Fähigkeit deines Staates, Dinge zu verwalten. Machtpolitiken definieren, wie die politische Macht im Staat organisiert ist, indem sie staatliche Macht erzeugen und verschiedene Arten von Legitimitäten betreffen. Die Staatsmacht erhöht die Loyalität der Territorien.
 
 #statepow_civ
 Stromrichtlinien
@@ -2127,7 +2127,7 @@ Je mehr Einwohner es gibt, desto weniger Autorität gibt es. Die Gesamtzahl der 
 Konflikt
 
 #loyal_conf_c1
-Territorialkonflikte reduzieren die Autorität Ihrer Regierung in diesem Gebiet, da sie Instabilität erzeugen.
+Territorialkonflikte reduzieren die Autorität deiner Regierung in diesem Gebiet, da sie Instabilität erzeugen.
 
 #loyal_events
 Ereignisse
@@ -2166,7 +2166,7 @@ Dieses Gebiet ist derzeit nicht von einem Volksaufstand bedroht.
 Warnung: Eine Widerstandsbewegung von [x] Punkten ist in diesem Gebiet vorhanden!
 
 #loyal_resist_2
-Sie sind von einem Partisanenaufstand bedroht (kann unabhängig von der Loyalität der Bevölkerung geschehen).
+Du bist von einem Partisanenaufstand bedroht (kann unabhängig von der Loyalität der Bevölkerung geschehen).
 
 #loyal_resist_inc
 Die Widerstandsbewegung wächst derzeit um + [x] [y].
@@ -2193,7 +2193,7 @@ Maximaler Widerstand: [x]
 Die maximalen Widerstandspunkte, die dieses Gebiet haben kann. Der Widerstand wird durch die Gesamtbevölkerung des Territoriums begrenzt.
 
 #resist_hloss
-Besiegen Sie die Strafe: [x] Honnor
+Niederlagen Strafe: [x] Ehre
 
 #resist_hloss_c1
 Die Menge an Ehre, die als Strafe verloren geht, wenn es Partisanen gelingt, dieses Gebiet zu befreien. 
@@ -2265,13 +2265,13 @@ Anzahl der Regionen
 - [x]% der Verwaltung pro Nicht-Kapitalregion
 
 #admin_nbcit_c2
-Anzahl der zusätzlichen Regionen unter Ihrer Kontrolle: [x]
+Anzahl der zusätzlichen Regionen unter deiner Kontrolle: [x]
 
 #admin_dist
  [x]% aus der Entfernung des Kapitals
 
 #admin_dist_c1
-Die Kapitaldistanz kostet Sie [x]% der gesamten produzierten Verwaltung von [y].
+Die Kapitaldistanz kostet dich [x]% der gesamten produzierten Verwaltung von [y].
 
 #admin_dist_c2
  [x]% aus der Entfernung von [y] Gebieten mit der Hauptstadt
@@ -2427,13 +2427,13 @@ eine neue Truppe rekrutieren
 Strategisches Werkzeug
 
 #bc_dplmode
-Gehen Sie in den Bereitstellungsmodus, wo Sie die Bereitstellungspositionen und -befehle aller Ihrer Truppen verwalten können.
+Gehe in den Einsatzmodus, wo du die Bereitstellungspositionen und -befehle aller deiner Truppen verwalten kannst.
 
 #b_newform
 Neue Formation
 
 #b_newform_c1
-Klicken Sie hier, um eine neue Formation von Einheiten zu erstellen.
+Klicke hier, um eine neue Formation von Einheiten zu erstellen.
 
 #regctrl_b_p
 Produktion
@@ -2559,7 +2559,7 @@ Auflösen
 Transfer
 
 #ui_recruit_AP
-Diese Aktion kostet [x] Aktionspunkte für die Formation (beachten Sie jedoch, dass Sie fortfahren dürfen, auch wenn die Formation 0 AP erreicht).
+Diese Aktion kostet [x] Aktionspunkte für die Formation (beachte jedoch, dass du fortfahren darfst, auch wenn die Formation 0 AP erreicht).
 
 #ui_statunit_t
 Zähigkeit
@@ -2616,10 +2616,10 @@ Auflösen
 Transfer
 
 #ui_trptrans_c
-Wählen Sie eine Zieltruppe aus
+Wähle eine Zieltruppe aus
 
 #ui_formtrans_c
-Wählen Sie eine Zielformation aus
+Wähle eine Zielformation aus
 
 #ui_formtrans_samform
 gleiche Formation
@@ -2691,7 +2691,7 @@ Arbeit bestätigen und schließen: Leertaste
 Graben
 
 #ui_tertool_dscr
-Dies zeigt nur eine Vorschau der Änderungen. Wenn Sie diese Aufgabe validieren, werden die geänderten Kacheln markiert und im Laufe der Zeit entsprechend dieser Vorschau bearbeitet, was auch Werkzeugressourcen in Anspruch nimmt.
+Dies zeigt nur eine Vorschau der Änderungen. Wenn du diese Änderung aktivierst, werden die geänderten Kacheln markiert und im Laufe der Zeit entsprechend dieser Vorschau bearbeitet, was auch Hardwareressourcen in Anspruch nimmt.
 
 #ui_tertool_warn1
 Dieser Fliese fehlt es an Unterstützung, um diese Höhe zu erreichen!
@@ -2718,7 +2718,7 @@ Abbrechen und schließen: Rechtsklick
 Arbeit bestätigen und schließen: Leertaste
 
 #ui_plattool_dscr
-Dies zeigt nur eine Vorschau der Änderungen. Wenn Sie diese Aufgabe validieren, werden die modifizierten Kacheln markiert und die Plattformen werden im Laufe der Zeit entsprechend dieser Vorschau erstellt, was auch Ressourcen in Anspruch nimmt.
+Dies zeigt nur eine Vorschau der Änderungen. Wenn du diese Änderung aktivierst, werden die modifizierten Kacheln markiert und die Plattformen werden im Laufe der Zeit entsprechend dieser Vorschau erstellt, was auch Ressourcen in Anspruch nimmt.
 
 #ui_builderr_ter
 Du kannst dieses [x] nicht hier platzieren.
@@ -2754,10 +2754,10 @@ Dieses Gebäude muss auf Wasser von mindestens [x] Tiefe platziert werden.
 Muss in der Nähe des Besitzers platziert werden.
 
 #ui_builderr_bldrs
-Dieses Gebäude erfordert eine professionelle Konstruktion und Sie haben keine Bauherren.
+Dieses Gebäude erfordert eine professionelle Konstruktion und Du hast keine Bauherren.
 
 #ui_builderr_inaxss
-Sie können dies nicht hier platzieren, da dieser Bereich derzeit nicht zugänglich ist!
+Du kannst dies nicht hier platzieren, da dieser Bereich derzeit nicht zugänglich ist!
 
 #ui_builderr_noprd
 Es gibt nichts, was dieses Gebäude hier ausbeuten könnte.
@@ -2775,7 +2775,7 @@ STRATEGISCHES TOOL
 Entwickle die Verteidigungsstrategie deiner Formationen in diesem Gebiet, im Falle eines Kampfes.
 
 #ui_dpltool_formtog
-(klicken Sie hier, um die Bereitstellung dieser Formation umzuschalten)
+(klicke hier, um die Bereitstellung dieser Formation umzuschalten)
 
 #ui_dpltool_addz
 Füge eine neue Verteidigungszone hinzu
@@ -2811,10 +2811,10 @@ Bildung auflösen
 Lagerposition verschieben
 
 #bc_menuform_disb_1
-Sind Sie sicher, dass Sie diese Formation auflösen wollen?
+Bist du sicher, dass du diese Formation auflösen willst?
 
 #bc_menuform_disb_2
-Wenn Sie diese Formation in einem Ihrer kontrollierten Gebiete auflösen, werden das gesamte Inventar und die Ausrüstung der Truppen in diesem Gebiet entladen. Alle Einheiten werden ihre Bevölkerung integrieren (wenn nicht lokal).
+Wenn du diese Formation in einem deiner kontrollierten Gebiete auflöst, werden das gesamte Inventar und die Ausrüstung der Truppen in diesem Gebiet entladen. Alle Einheiten werden deiner Bevölkerung integriert.
 
 #bc_menuform_disb_3
 Du kannst dich nicht in Gebieten auflösen, die du nicht kontrollierst!
@@ -2871,19 +2871,19 @@ Keine Gebiete, die für die Übertragung gültig sind!
 Brecht den Vertrag!
 
 #b_endtreaty_c1
-Der Vertrag wird sofort gekündigt. Die Unterbrechung schließt auf Ihrer Seite.
+Der Vertrag wird sofort gekündigt. Die Unterbrechung schließt auf deiner Seite.
 
 #b_endagreed
 Kündigung anfordern
 
 #b_endagreed_c1
-Bitten Sie die Gegenpartei um eine vereinbarte Kündigung. Wenn akzeptiert, gilt keine Unterbrechung.
+Bitte die Gegenpartei um eine vereinbarte Kündigung. Wenn sie akzeptiert wird, gilt keine Unterbrechung.
 
 #b_renegoc
 Neuverhandlung
 
 #b_renegoc_c1
-Senden Sie einen Vorschlag für eine Neuverhandlung. Wenn die andere Partei dem zustimmt, wird der aktuelle Vertrag aktualisiert.
+Sende einen Vorschlag für eine Neuverhandlung. Wenn die andere Partei dem zustimmt, wird der aktuelle Vertrag aktualisiert.
 
 #ui_treat_termsent
 Bitte um Zustimmung zur Kündigung dieses Vertrages, der der anderen Partei zugesandt wurde!
@@ -2892,7 +2892,7 @@ Bitte um Zustimmung zur Kündigung dieses Vertrages, der der anderen Partei zuge
 Ihr Vertragsvorschlag wurde gestrichen.
 
 #ui_treat_eng1
-Du bist derzeit an diesem Vertrag beteiligt! Wenn du dich entscheidest, es sowieso zu beenden, gelten deine Vertragsstrafenklauseln. Sie zahlen [x] Münzen ( [y]% Ihres BIP) und verlieren [z] Ehre.
+Du bist derzeit an diesem Vertrag beteiligt! Wenn du dich entscheidest, es sowieso zu beenden, gelten deine Vertragsstrafenklauseln. Du zahlst [x] Münzen ( [y]% deines BIP) und verlierst [z] Ehre.
 
 #ui_treat_eng2
 Dies wird keinen Krieg mit [x] auslösen.
@@ -2901,7 +2901,7 @@ Dies wird keinen Krieg mit [x] auslösen.
 Dies wird einen Krieg mit [x] auslösen.
 
 #ui_treat_end
-Sie sind nicht an diesem Vertrag beteiligt und können ihn ohne Strafe beenden. Alle seine Bedingungen gelten nicht mehr für beide Mitglieder. Sind Sie sicher, dass Sie fortfahren wollen?
+Du bist nicht an diesem Vertrag beteiligt und können ihn ohne Strafe beenden. Alle seine Bedingungen gelten nicht mehr für beide Mitglieder. Bist du sicher, dass du fortfahren willst?
 
 #menuevt_title
 VERANSTALTUNGEN
@@ -3075,7 +3075,7 @@ Auf dieses Gebiet kann nicht verzichtet werden, solange es eine aktive Widerstan
 Der aktuelle Status dieses Gebiets erlaubt es dir nicht, auf seine Kontrolle zu verzichten.
 
 #b_abandon
-Evakuieren Sie dieses Gebiet.
+Evakuiere dieses Gebiet.
 
 #err_reg_abdn1
 Dieses Gebiet kann nicht evakuiert werden, solange dort eine Schlacht stattfindet.
@@ -3096,13 +3096,13 @@ Anspruchsgebiet
 Du kannst dieses Gebiet nicht beanspruchen: es wird frei von jeglichem Eigentum.
 
 #b_regunclaim_2
-WARNUNG: Durch den freiwilligen Widerruf dieser Forderung verlieren Sie 2 der Ehre!
+WARNUNG: Durch den freiwilligen Widerruf dieser Forderung verlierst 2 der Ehre!
 
 #regclaim_title
 Territorium beanspruchen.....
 
 #regclaim_txt
-Du kannst dieses Gebiet beanspruchen und es mit einer deiner Regionen verbinden. Dies wird die Verwaltung in die Hauptstadt der Region kosten. Wenn Ihre Stadt die Verwaltung verliert, verlieren Sie automatisch Ihre Ansprüche (beachten Sie, dass nicht beanspruchte Gebiete mit einer kleinen Ehrenstrafe belegt sind).
+Du kannst dieses Gebiet beanspruchen und es mit einer deiner Regionen verbinden. Dies wird die Verwaltung in die Hauptstadt der Region kosten. Wenn Ihre Stadt die Verwaltung verliert, verlierst automatisch Ihre Ansprüche (beachte, dass nicht beanspruchte Gebiete mit einer kleinen Ehrenstrafe belegt sind).
 
 #regclaim_par
 Mutterland
@@ -3228,7 +3228,7 @@ exportiert
 Staatsverkäufe
 
 #ui_bdg_pdet_5_c1
-Die Einnahmen aus dem Verkauf an den Staat (Sie) werden gepuffert und langsam an die Arbeiter zurückgegeben, was zu einem längeren Einkommen führt.
+Die Einnahmen aus dem Verkauf an den Staat werden gepuffert und langsam an die Arbeiter zurückgegeben, was zu einem längeren Einkommen führt.
 
 #ui_bdg_pdet_5_c2
 Aus dem Autokauf: [x] Münzen ( [y] Rohstoffe).
@@ -3276,7 +3276,7 @@ Produziert derzeit [x] Einheiten von [y] [z].
 Derzeit verbraucht [x] Einheiten von [y] [z] für diese Produktion.
 
 #ui_bdgind_mat1
-Stellen Sie ein, dass Sie [x] als Material verwenden, um [y] zu produzieren. Der Bedarf an diesem Material ist bei [z]% gedeckt. 
+Stelle ein, dass du [x] als Material verwendest, um [y] zu produzieren. Der Bedarf an diesem Material ist bei [z]% gedeckt. 
 
 #ui_bdgind_mat2
 Automatische Verwendung von [x] als Material zur Herstellung von [y]. Der Bedarf an diesem Material ist bei [z]% gedeckt. 
@@ -3372,7 +3372,7 @@ Betreute Handelsrouten
 verfügbar für das Handelsnetz
 
 #ui_regres_makeav_c
-Wenn diese Option aktiviert ist, kann der Frachtdienst dieses Gebiets auch von jedem in Ihrem Handelsnetzwerk gemietet werden.
+Wenn diese Option aktiviert ist, kann der Frachtdienst dieses Gebiets auch von jedem in deinem Handelsnetzwerk gemietet werden.
 
 #ui_regres_tax
 Steuer
@@ -3393,10 +3393,10 @@ Lokaler Preis
 zum Preis
 
 #ui_regres_noinp
-[Geben Sie einen Ressourcennamen ein]
+[Gib einen Ressourcennamen ein]
 
 #ui_newofr_noprod
-Sie können diese Ressource nicht exportieren, da Sie keine Produktion oder Bestände davon haben.
+Du kannst diese Ressource nicht exportieren, da du keine Produktion oder Bestände davon hast.
 
 #ui_newofr_notrd
 Nicht genug Trading-Service, um dieses Angebot zu erstellen!
@@ -3420,7 +3420,7 @@ Handelsangebot stornieren
 Du importierst derzeit [x] von [y] von [z] in dieses Gebiet für insgesamt[v] Münzen.
 
 #button_trtexp_c1
-Sie exportieren derzeit [x] von [y] nach [z] für insgesamt[v] Münzen.
+du exportierst derzeit [x] von [y] nach [z] für insgesamt[v] Münzen.
 
 #button_trtcargo
 Erfordert [x] von Ladung, die von [y] betrieben wird. 
@@ -3441,10 +3441,10 @@ Eine Handelsroute überträgt einen ständigen Ressourcenfluss zwischen den Stä
 Der Handelsroutenbetreiber ist die Stadt, die sich mit dem Transport der Waren beschäftigt.
 
 #ui_troute_opdscr2
-Es kann die Stadt sein, die die Handelsroute öffnet, oder jede andere Stadt in Ihrem Handelsnetzwerk, die einen Frachtdienst zur Verfügung gestellt hat. 
+Es kann die Stadt sein, die die Handelsroute öffnet, oder jede andere Stadt in deinem Handelsnetzwerk, die einen Frachtdienst zur Verfügung gestellt hat. 
 
 #ui_troute_opdscr3
-Die Kosten der Ladung sind exponentiell für den Handel routeӳ Entfernung. Die Wahl einer Stadt eines Drittanbieters, die sich in der Mitte Ihrer Handelsroute befindet, als Betreiber wird die Frachtkosten erheblich senken. 
+Die Kosten der Ladung sind exponentiell für den Handel routeӳ Entfernung. Die Wahl einer Stadt eines Drittanbieters, die sich in der Mitte deiner Handelsroute befindet, als Betreiber wird die Frachtkosten erheblich senken. 
 
 #ui_troute_cargorq
 CARGO ERFORDERLICH
@@ -3522,13 +3522,13 @@ Diese Handelsroute schließen
 Name der Formation
 
 #menu_nfrm_chtp
-Wählen Sie eine Art der Formation aus
+Wähle eine Art der Formation aus
 
 #menu_nfrm_type1
 Armee
 
 #menu_nfrm_t1_dscr2
-Sie benötigen ständige Unterstützung von zu Hause aus, um alternde Porcos zu ersetzen, und die Rekrutierung neuer Einheiten entfernt Porcos aus dem Gebiet.
+du benötigst ständige Unterstützung von zu Hause aus, um alternde Porcos zu ersetzen, und die Rekrutierung neuer Einheiten entfernt Porcos aus dem Gebiet.
 
 #menu_nfrm_t1_dscr3
 Armeen können in andere Gebiete ziehen und ihre Präsenz erhöht die staatliche Autorität.
@@ -3546,7 +3546,7 @@ Allerdings kann die Miliz nicht in andere Gebiete ziehen und verringert die staa
 Nationale Armee
 
 #menu_nfrm_t3_1
-Eine nationale Armee ist einer regulären Armee ähnlich, außer dass sie auch von einem Ihrer Vorgesetzten in der Hierarchie Ihrer Nation kontrolliert werden kann, so dass Sie ihre Kontrolle im Falle von nationalen Kriegen und Operationen delegieren können.
+Eine nationale Armee ist einer regulären Armee ähnlich, außer dass sie auch von einem deinen Vorgesetzten in der Hierarchie deiner Nation kontrolliert werden kann, so dass sie ihre Kontrolle im Falle von nationalen Kriegen und Operationen delegieren können.
 
 #menu_nfrm_t3_2
 Nationale Armeen geben auch ihren Autoritätsbonus an alle Regionen der Nation, auch wenn sie sich im Besitz eines anderen Charakters befinden.
@@ -3570,22 +3570,22 @@ Du vermisst [x] von [y], um dieses Gebäude auf [z] aufzurüsten.
 Du hast nicht genug Münzen, um dieses Gebäude auf [x] aufzurüsten.
 
 #menu_bdg_up_err3
-Dieses Upgrade erfordert eine professionelle Konstruktion und Sie haben keine Bauherren!
+Dieses Upgrade erfordert eine professionelle Konstruktion und Du hast keine Bauherren!
 
 #menu_tch_curknw
 Aktuelles Wissen
 
 #menu_tch_curuse_c1
-Ihre Gesellschaft verfügt derzeit über [x] Wissen und eine Kapazität zur Speicherung von [y].
+Deine Gesellschaft verfügt derzeit über [x] Wissen und eine Kapazität zur Speicherung von [y].
 
 #menu_tch_curuse_c2
-Sie verlieren Wissen, wenn Ihre Speicherkapazität geringer wird als Ihre aktuellen Kenntnisse.
+Du verlierst Wissen, wenn deine Speicherkapazität geringer wird als deine aktuellen Kenntnisse.
 
 #menu_tch_str_cult
 Kultur
 
 #menu_tch_str_cult1
-Kultur bietet Ihnen Wissensspeicherkapazität, proportional zu Ihrer Gesamtkultur.
+Kultur bietet Ihnen Wissensspeicherkapazität, proportional zu deiner Gesamtkultur.
 
 #menu_tch_str_lbr1
 Jedes in Betrieb befindliche Bibliotheksgebäude erhöht Ihre Speicherkapazität für Wissen.
@@ -3609,7 +3609,7 @@ Neues Projekt.....
 Startvoraussetzungen:
 
 #menu_prj_reqkn
-Sie benötigen [x] freien Platz für Wissen, um dieses Projekt zu starten.
+du benötigst [x] freien Platz für Wissen, um dieses Projekt zu starten.
 
 #menu_prj_rcoin1
 Projektbasiskosten: x] Münzen
@@ -3621,7 +3621,7 @@ Erforderliche Materialkosten: x] Münzen
 Benötigt [x] [y] von [z]
 
 #menu_prj_rmat2
-(klicken Sie hier, um ein anderes Gebiet auszuwählen)
+(klicke hier, um ein anderes Gebiet auszuwählen)
 
 #menu_prj_start
 PROJEKT STARTEN
@@ -3645,7 +3645,7 @@ Alle eingesetzten Forscher generieren derzeit [x] Forschungspunkte [y].
 Dieses Projekt erfordert idealerweise bis zu [x] Forscher.
 
 #menu_prj_nb2
-Sie können zwar weitere Forscher über diese Zahl hinaus zuweisen, aber ihre Beiträge zum Projekt sind stark reduziert.
+Du kannst zwar weitere Forscher über diese Zahl hinaus zuweisen, aber ihre Beiträge zum Projekt sind stark reduziert.
 
 #menu_prj_rtyp
 Dieses Projekt erfordert [x] als Forscher.
@@ -3663,7 +3663,7 @@ Budget
 Die gesamten Wartungskosten für dieses Projekt, die bis zum Abschluss des Projekts kontinuierlich zu zahlen sind.
 
 #menu_prj_norsch
-Weisen Sie dem Projekt Forscher zu, um es starten zu können!
+Weise dem Projekt Forscher zu, um es starten zu können!
 
 #menu_prj_pgrss
 Dieses Projekt ist zu [x]% abgeschlossen.
@@ -3672,13 +3672,13 @@ Dieses Projekt ist zu [x]% abgeschlossen.
  [x] Forscher von [y] sind derzeit diesem Projekt zugeordnet und produzieren [z] Forschungspunkte, um es abzuschließen.
 
 #menu_prj_br_c2
-(klicken Sie hier, um die Anzahl der zugewiesenen Forscher aus diesem Gebiet zu bearbeiten)
+(klicke hier, um die Anzahl der zugewiesenen Forscher aus diesem Gebiet zu bearbeiten)
 
 #menu_prj_none1
 Du hast keine Projekte zur Verfügung!
 
 #menu_prj_none2
-Projekte werden durch "Ideen" freigeschaltet: Ereignisse, die von Ihrer Bevölkerung ausgelöst werden. Die Verbesserung der Intelligenz und Lebensqualität Ihrer Bevölkerung ist im Allgemeinen ein guter Weg, um die Chancen auf neue Ideen zu erhöhen.
+Projekte werden durch "Ideen" freigeschaltet: Ereignisse, die von deiner Bevölkerung ausgelöst werden. Die Verbesserung der Intelligenz und Lebensqualität deiner Bevölkerung ist im Allgemeinen ein guter Weg, um die Chancen auf neue Ideen zu erhöhen.
 
 #menu_prj_none3
 Projekte erfordern dann Forscher und Zeit sowie Material und Buget. Nach ihrer Fertigstellung geben sie, wenn sie erfolgreich sind, Belohnungen wie die Freischaltung eines neuen "Wissens".
@@ -3705,7 +3705,7 @@ Nach Abschluss des Projekts hat dieses derzeit [x]% Chancen, erfolgreich zu sein
 Derzeit ist in dieser Stadt kein [x] verfügbar!
 
 #prj_strt_err1
-Sie müssen vor Beginn dieses Projekts Forscher zuweisen!
+Du musst vor Beginn dieses Projekts Forscher zuweisen!
 
 #prj_strt_err2
 Dir fehlen Münzen, um dieses Projekt zu starten!
@@ -3729,16 +3729,16 @@ Neue Richtlinie
 mit......
 
 #ui_tech_forget
-Vergessen Sie dieses Wissen
+Vergesse dieses Wissen
 
 #ui_tech_cantfgt
-Man kann dieses Wissen nicht vergessen, weil es derzeit von anderen neueren benötigt wird, wie z.B.: ' [x]'.
+Man kann dieses Wissen nicht vergessen, weil es derzeit von anderen neueren benötigt wird, wie z.B.: '[x]'.
 
 #ui_techfrgt_1
 Vergiss dieses Wissen?
 
 #ui_techfrgt_2
-Achtung!  Diese Aktion kann nicht rückgängig gemacht werden. Das Wissen wird sofort entfernt und Sie verlieren alle seine aktuellen Effekte. Du musst sein Projekt erneut abschließen, um es wiederherzustellen, wenn du es brauchst.
+Achtung!  Diese Aktion kann nicht rückgängig gemacht werden. Das Wissen wird sofort entfernt und du verlierst alle seine aktuellen Effekte. Du musst das Projekt erneut abschließen, um es wiederherzustellen, wenn du es brauchst.
 
 #pop_all
 Gesamtpopulation
@@ -3762,7 +3762,7 @@ Immobilisiert
 Reichtum
 
 #menu_scr_w_c
-Zählen Sie aus dem gesamten Reichtum, der in allen Ihren Gebieten produziert wird.
+Punkte aus dem gesamten Vermögen, das in allen deinen Gebieten produziert wird.
 
 #menu_scr_c
 Kultur
@@ -3783,7 +3783,7 @@ Untergebene
 Du hast eine persönliche Punktzahl.
 
 #menu_scr_vpscr_c1
-Der Parscore ist Ihr Wert über dem Referenzwert von [y]pts. Du bekommst 1 Siegpunkt für jeden [x]Punkt der Par-Punkte.
+Der Parscore ist dein Wert über dem Referenzwert von [y] Punkten. Du bekommst 1 Siegpunkt für jeden [x] Punkten der Par-Punkte.
 
 #menu_scr_vpscr_c2
 Die durchschnittliche Punktzahl und die Kosten für jeden Siegpunkt sind dynamisch und basieren auf allen Spielergebnissen der Spieler.
@@ -3804,7 +3804,7 @@ Du hast persönliche Siegpunkte.
 Referenzwert
 
 #menu_scr_avg_c1
-Wird verwendet, um Ihren Par-Score zu bestimmen. Sein Wert basiert auf allen Spielergebnissen des Spielers. 
+Wird verwendet, um deinen Par-Score zu bestimmen. Sein Wert basiert auf allen Spielergebnissen des Spielers. 
 
 #menu_scr_avg_c2
 Eine persönliche Punktzahl über ihr zu haben, gewährt Siegpunkte.
@@ -3813,16 +3813,16 @@ Eine persönliche Punktzahl über ihr zu haben, gewährt Siegpunkte.
 Siegespunktkosten
 
 #menu_scr_vpcost_c
-Die Anzahl der Punkte, die Sie benötigen, um jeden Siegpunkt zu erhalten, liegt über der Referenzbewertung.
+Die Anzahl der Punkte, die du benötigst, um jeden Siegpunkt zu erhalten, liegt über der Referenzbewertung.
 
 #menu_scr_frna
 für die Nation
 
 #menu_scr_frnas_c
-Wie viele Punkte Sie derzeit für die Punktzahl Ihres Landes beitragen. Je niedriger in den Rängen, desto geringer ist dein Beitrag.
+Wie viele Punkte du derzeit für die Punktzahl deines Landes beiträgst. Je niedriger in den Rängen, desto geringer ist dein Beitrag.
 
 #menu_scr_frnavp_c
-Wie viele Siegpunkte Sie derzeit zu den Siegpunkten Ihrer Nation beitragen. Je niedriger in den Rängen, desto geringer ist dein Beitrag.
+Wie viele Siegpunkte du derzeit zu den Siegpunkten deiner Nation beiträgst. Je niedriger in den Rängen, desto geringer ist dein Beitrag.
 
 #menu_nscr_name
 Deine Nation
@@ -3834,7 +3834,7 @@ Der Rang deiner Nation
 Die gesamten Siegpunkte deiner Nation
 
 #menu_scr_govnam
-Der Name Ihrer persönlichen Regierung
+Der Name deiner persönlichen Regierung
 
 #menu_scr_t1
 Rang
@@ -3942,7 +3942,7 @@ Erzeugen eines zufälligen Namens
 Name des Landes
 
 #gamelob_randnat
-Generieren Sie den Namen einer beliebigen Nation.
+Generiere den Namen einer beliebigen Nation.
 
 #gamelob_status
 Zeichenstatus
@@ -3981,7 +3981,7 @@ Datum, an dem dieses Zeichen erstellt wurde (GMT).
 Gesamtspielzeit
 
 #gamelob_plt_c
-Die gesamte Zeit, die Sie online verbracht haben, um diesen Charakter zu spielen.
+Die gesamte Zeit, die du online warst, um diesen Charakter zu spielen.
 
 #gamelob_maxchar
 Max. Zeichen
@@ -3993,7 +3993,7 @@ Die maximale Anzahl der auf diesem Server erlaubten Zeichen pro Spieler beträgt
 Laichabkühlung
 
 #gamelob_spcloff_c1
-Die Mindestzeit, bevor Sie auf diesem Server wiederbelebt werden dürfen.
+Die Mindestzeit, bevor du auf diesem Server wieder spielen darfst.
 
 #gamelob_spcloff_c2
 Du hast in diesem Spiel [x] mal gelaicht. Je öfter du auftauchst, desto länger ist die Abkühlung (Basisabkühlung in diesem Spiel ist von [y]).
@@ -4023,10 +4023,10 @@ Du musst [x] warten, bevor du einen neuen Charakter in diesem Spiel erstellen da
 Verlassen
 
 #gamelob_abnd_c1
-Klicken Sie hier, um diesen Charakter und all seine Besitztümer aufzugeben.
+Klicke hier, um diesen Charakter und all seine Besitztümer aufzugeben.
 
 #gamelob_abndwrn
-Bist du sicher, dass du diesen Charakter aufgeben willst? Das kann nicht rückgängig gemacht werden und du wirst die Kontrolle über diesen Charakter und seinen gesamten Besitz endgültig verlieren! Der Charakter wird aus deiner Liste entfernt. Sie wird sofort als "inaktiv" gesetzt und steht möglicherweise für die Nachfolge zur Verfügung.
+Bist du sicher, dass du diesen Charakter aufgeben willst? Das kann nicht rückgängig gemacht werden und du wirst die Kontrolle über diesen Charakter und seinen gesamten Besitz endgültig verlieren! Der Charakter wird aus deiner Liste entfernt. Du wirst sofort als "inaktiv" gesetzt und stehst möglicherweise für die Nachfolge zur Verfügung.
 
 #facrank_title
 Titel
@@ -4128,13 +4128,13 @@ Hierarchie
 Neuen Rang hinzufügen
 
 #fachier_addnew_c1
-Klicken Sie hier, um einen neuen Rang zu erstellen.
+Klicke hier, um einen neuen Rang zu erstellen.
 
 #fachier_remrk
 Diesen Rang entfernen
 
 #fachier_remrk_c1
-Klicken Sie hier, um den aktuell ausgewählten Rang zu löschen.
+Klicke hier, um den aktuell ausgewählten Rang zu löschen.
 
 #fachier_remrk_err1
 Du kannst diesen Rang nicht entfernen, weil er derzeit von einem oder mehreren Mitgliedern verwendet wird!
@@ -4233,13 +4233,13 @@ Erbe
 Der designierte Erbe kann diesem Charakter direkt folgen, wenn er inaktiv wird.
 
 #facmmb_heir_c2
-Beachten Sie, dass, wenn der benannte Erbe sich weigert oder nicht verfügbar ist, die Nachfolge die Wahl durch direkte Untergebene versäumt.
+Beachte, dass, wenn der benannte Erbe sich weigert oder nicht verfügbar ist, die Nachfolge die Wahl durch direkte Untergebene versäumt.
 
 #facprom_title
 Position von [x]
 
 #facprom_txt
-Du kannst die hierarchische Position von [x] innerhalb dieser Nation ändern, indem du seinen Rang änderst oder ihn unter einen anderen Vorgesetzten (nur unter deinen eigenen Untergebenen) stellst. Beachten Sie, dass der Charakter alle seine Untergebenen mit der gleichen relativen Hierarchie unter sich behält, unabhängig von der geänderten Position. Die Ränge der Untergebenen können bei Bedarf automatisch angepasst werden, um ihre relative Hierarchie zu erhalten. 
+Du kannst die hierarchische Position von [x] innerhalb dieser Nation ändern, indem du seinen Rang änderst oder ihn unter einen anderen Vorgesetzten (nur unter deinen eigenen Untergebenen) stellst. Beachte, dass der Charakter alle seine Untergebenen mit der gleichen relativen Hierarchie unter sich behält, unabhängig von der geänderten Position. Die Ränge der Untergebenen können bei Bedarf automatisch angepasst werden, um ihre relative Hierarchie zu erhalten. 
 
 #facprom_auto
 Automatischer Rang
@@ -4254,7 +4254,7 @@ Rang einstellen
 Vertreibung [x] aus der Nation
 
 #facxpl_txt
-Als Vorgesetzter von [x] erlaubt dir dein Rang, diesen Charakter aus der Nation zu vertreiben. Beachten Sie, dass alle seine Untergebenen, falls vorhanden, unter diesem Charakter bleiben und somit auch die Nation verlassen. 
+Als Vorgesetzter von [x] erlaubt dir dein Rang, diesen Charakter aus der Nation zu vertreiben. Beachte, dass alle seine Untergebenen, falls vorhanden, unter diesem Charakter bleiben und somit auch die Nation verlassen. 
 
 #facrplc_title
 Ersetzen von [x].....
@@ -4272,7 +4272,7 @@ Demontage von Gebieten
 Da [x] jetzt inaktiv ist, erlaubt dir dein Rang, seine Territorien zu demontieren und sie anderen Mitgliedern der Nation zuzuweisen.
 
 #facdsmtl_c1
-Wählen Sie einen neuen Eigentümer für dieses Gebiet aus.
+Wähle einen neuen Eigentümer für dieses Gebiet aus.
 
 #facdsmtl_err
 (kann nicht demontiert werden)
@@ -4281,7 +4281,7 @@ Wählen Sie einen neuen Eigentümer für dieses Gebiet aus.
 Bist du sicher?
 
 #facquit_txt
-Wenn Sie diese Nation verlassen, werden Sie Ihre volle Souveränität als Oberhaupt einer neuen unabhängigen Nation wiedererlangen. Alle deine derzeitigen Untergebenen werden unter dir bleiben und deshalb auch der neuen Nation beitreten. Seien Sie jedoch gewarnt, dass, wenn Sie an diese Nation durch Verträge gebunden sind, das Verlassen dieser Nation die Unterbrechung auslöst, die auf Ihrer Seite schließt und Sie möglichen Strafen oder sogar Krieg aussetzt.
+Wenn du diese Nation verlässt, wirst du volle Souveränität als Oberhaupt einer neuen unabhängigen Nation erhalten. Alle deine derzeitigen Untergebenen werden unter dir bleiben und deshalb auch der neuen Nation beitreten. Sei jedoch gewarnt, dass, wenn du an diese Nation durch Verträge gebunden bist, das Verlassen dieser Nation die Unterbrechung auslöst, die auf deiner Seite geschlossen wird und du mögliche Strafen oder sogar Krieg erzwingst.
 
 #facfalg_title
 Länderkennzeichen bearbeiten
@@ -4290,7 +4290,7 @@ Länderkennzeichen bearbeiten
 Name der Regierung
 
 #menugov_setnam_c1
-Legen Sie den Kernnamen Ihrer Regierung fest (dann kombiniert mit Ihrem Nationaltitel).
+Lege den Namen deiner Regierung fest (dann kombiniert mit deinem Nationaltitel).
 
 #regnam_unclaimed
 Nicht beanspruchtes Gebiet
@@ -4338,7 +4338,7 @@ Abgesandte Stimmen
 DEINE STIMME
 
 #uivote_txt1
-Du hast noch nicht abgestimmt. Wählen Sie eine der folgenden Möglichkeiten und stimmen Sie ab. Achtung: Ihre Stimme ist endgültig und kann nach der Validierung nicht mehr geändert werden!
+Du hast noch nicht abgestimmt. Wähle eine der folgenden Möglichkeiten und stimme ab. Achtung: Deine Stimme ist endgültig und kann nach der Validierung nicht mehr geändert werden!
 
 #uivote_txt2
 Du hast bereits deine Stimme abgegeben. Es ist endgültig und du kannst es nicht mehr bearbeiten. Das Ergebnis wird nach Abschluss des Abstimmungsprozesses bekannt gegeben.
@@ -4350,7 +4350,7 @@ Wahl
 GEGENE ABSTIMMUNG!
 
 #regstatus_claim_1
-Ein leeres Gebiet kann von Ihrem Staat beansprucht und in Ihre offiziellen Grenzen aufgenommen werden.
+Ein leeres Gebiet kann von deinem Staat beansprucht und in Ihre offiziellen Grenzen aufgenommen werden.
 
 #regstatus_trtry_1
 Ein Gebiet ist Teil einer Region und wird von der wichtigsten Stadtverwaltung der Region verwaltet.
@@ -4365,7 +4365,7 @@ Fremde Länder, die mit militärischer Gewalt unter Kontrolle gehalten werden. N
 Finanziell abhängiges, nicht verwaltetes und autonomes Gebiet. Nützlich für kleine entfernte Lager, um strategische Ressourcen zu nutzen.
 
 #regstatus_city_1
-Regionales Zentrum Ihres Staates, vollständig integriert und von Ihrer Regierung verwaltet.
+Regionales Zentrum deines Staates, vollständig integriert und von deiner Regierung verwaltet.
 
 #regstatus_capital_1
 Sitz der Regierung, wo der Führer seinen Wohnsitz hat.
@@ -4455,13 +4455,13 @@ Gebietsstatus
 Neuen Status setzen auf
 
 #regstatus_setcap_1
-Sie können nur eine Hauptstadt haben: Ihre derzeitige Hauptstadt verliert ihren Status und wird eine normale Stadt. Beachten Sie, dass der Umzug Ihres Kapitals die Verwaltung und Kultur in Ihren anderen Städten sowie die staatliche Macht und die Finanzen beeinflussen kann.
+Du kannst nur eine Hauptstadt haben: Deine derzeitige Hauptstadt verliert ihren Status und wird eine normale Stadt. Beachte, dass der Umzug deines Kapitals die Verwaltung und Kultur in deinen anderen Städten sowie die staatliche Macht und die Finanzen beeinflussen kann.
 
 #regstatus_setcit_1
 Dieses Gebiet wird eine neue Region bilden und zusätzliche staatliche Macht kosten. Du kannst dann andere Gebiete an diese Stadt als Teil dieser Region anhängen. 
 
 #regstatus_setcol_1
-WANRING: Das ist unumkehrbar. Du wirst die direkte Kontrolle über dieses Gebiet verlieren. Die Region erhält eine stabile Verwaltung, Loyalität und Kultur. Keine Wartungskosten und keine staatlichen Stromkosten. Erzeugt 5% Einkommenssteuer. Wenn ein Spieler darin laicht, beginnt er in Ihrer Nation mit einem Kolonialvertrag von 5% Einkommensteuer. 
+WANRING: Das ist unumkehrbar. Du wirst die direkte Kontrolle über dieses Gebiet verlieren. Die Region erhält eine stabile Verwaltung, Loyalität und Kultur. Keine Wartungskosten und keine staatlichen Stromkosten. Erzeugt 5% Einkommenssteuer. Wenn ein Spieler darin laicht, beginnt er in deiner Nation mit einem Kolonialvertrag von 5% Einkommensteuer. 
 
 #regstatus_setcol_2
 Um eine Kolonie zu bilden, benötigt das Gebiet mindestens 150 Einwohner und mindestens 65 % der Grundbedürfnisse.
@@ -4527,13 +4527,13 @@ Durchführungsvertrag
 Vertrag
 
 #ui_colchos
-Klicken Sie hier, um eine Farbe auszuwählen.
+Klicke hier, um eine Farbe auszuwählen.
 
 #ui_icchos
-Klicken Sie hier, um ein Symbol auszuwählen.
+Klicke hier, um ein Symbol auszuwählen.
 
 #ui_fhierchy
-Klicken Sie hier, um die Hierarchie dieser Nation anzuzeigen.
+Klicke hier, um die Hierarchie dieser Nation anzuzeigen.
 
 #resist_abandon_1
 Du kannst keine Gebäude in einer widerstandsfähigen Stadt aufgeben!
@@ -4551,7 +4551,7 @@ Du hast nicht genug Münzen in deiner Schatzkammer, um diesen Vertrag zu ehren!
 Du hast nicht genug Einkommen in deiner Schatzkammer, um diesen Vertrag zu ehren!
 
 #servfull
-Maximale Anzahl der aktiven Zeichen, die derzeit erreicht werden! Versuchen Sie es später noch einmal.
+Maximale Anzahl der aktiven Zeichen, die derzeit erreicht werden! Versuche es später noch einmal.
 
 #menu_frmtyp_title
 Ändern des Typs dieser Formation.....
@@ -4563,13 +4563,13 @@ Du kannst nicht zu einer Miliz außerhalb deiner eigenen Städte konvertieren!
 Du kannst keine Formationen in widerstandsfähigen Städten konvertieren.
 
 #formact_sack_1
-Achtung: Diese Aktion kostet Sie bei Erfolg 15 Euro von honnor!
+Achtung: Diese Aktion kostet dich bei Erfolg 15 Ehre!
 
 #formact_sack_2
 Ziel ist es, zunächst alle Verteidigungsanlagen des Territoriums zu beseitigen. Wenn dies gelingt, werden sie dann methodisch so viele Ressourcen wie möglich plündern, aber der Stadt großen Schaden zufügen, indem sie Gebäude niederbrennen und ihre Bewohner abschlachten. Sobald die Formation fertig ist, wird sie die Region verlassen.
 
 #formact_sack_3
-Diese Aktion bietet viel mehr Ressourcen als ein einfacher Überfall, während sie gleichzeitig größeren Schaden anrichtet, aber im Gegensatz zu einem Überfall bedeutet sie, die volle Kontrolle über das Territorium zu übernehmen, indem sie zuerst alle seine Verteidigungsanlagen eliminiert und dich Honnor kostet.
+Diese Aktion bietet viel mehr Ressourcen als ein einfacher Überfall, während sie gleichzeitig größeren Schaden anrichtet, aber im Gegensatz zu einem Überfall bedeutet sie, die volle Kontrolle über das Territorium zu übernehmen, indem sie zuerst alle seine Verteidigungsanlagen eliminiert und dich Ehre kostet.
 
 #wkprio_0
 Vermeidet
@@ -4650,25 +4650,25 @@ Die Heimatregion einer Formation ist die Stadt, der sie angehört. Das Heim biet
 Formationen werden verfallen, wenn sie an ein Haus gebunden sind, das nicht genügend Bevölkerung hat, um sie zu versorgen. 
 
 #formhome_dscr_3
-WARNUNG: Wenn Sie die Heimatregion ändern, werden alle ihre Aktionspunkte aufgebraucht und die automatische Encampment ausgelöst. 
+WARNUNG: Wenn du die Heimatregion änderst, werden alle deine Aktionspunkte aufgebraucht und das automatische Einlagern ausgelöst. 
 
 #formhome_sel_c1
-Wählen Sie die gewünschte Heimatregion für diese Formation aus.
+Wähle die gewünschte Heimatregion für diese Formation aus.
 
 #formhome_sel_c2
-( Die Formation muss in der gewünschten Stadt positioniert werden, um in ihr umbasieren zu können).
+(Die Formation muss in der gewünschten Stadt positioniert werden, um sie darin umzusiedeln).
 
 #menu_mission_sel_c1
-Wählen Sie die Aktion aus, die in diesem Gebiet durchgeführt werden soll.
+Wähle die Aktion aus, die in diesem Gebiet durchgeführt werden soll.
 
 #chat_pm
 Nachricht [x]
 
 #chat_faction
-Nation ' [x]''.
+Nation '[x]'.
 
 #chat_emptytxt
-[Geben Sie hier Ihre Nachricht ein]
+[Gib hier deine Nachricht ein]
 
 #ui_reginf_vsb
 Sichtbarkeit 
@@ -4701,7 +4701,7 @@ Auf diese Nachricht reagieren
 Das ist interessant!
 
 #chron_reactup_2
-Diese Nachrichten werden von Ihrem kulturellen Netzwerk weitergeleitet und an Ihre Kontakte weitergegeben.
+Diese Nachrichten werden von deinem kulturellen Netzwerk weitergeleitet und an Ihre Kontakte weitergegeben.
 
 #chron_reactdw_1
 Das ist mir egal.
@@ -4713,7 +4713,7 @@ Diese Nachricht wird von dir nicht weitergeleitet.
 mehr erfahren
 
 #chron_expand_c1
-Klicken Sie hier, um den Rest dieser Chronik zu lesen.
+Klicke hier, um den Rest dieser Chronik zu lesen.
 
 #chron_past_up
 Du hast das interessant gefunden.
@@ -4728,13 +4728,13 @@ Du wurdest noch nicht von Nachrichten aus der Außenwelt erreicht!
 Anhang Tool
 
 #antl_dscr
-Ermöglicht es Ihnen, Anhänge zu reorganisieren, indem Sie ihre eigenen Gebäude ändern.
+Ermöglicht es Ihnen, Anhänge zu reorganisieren, indem du deine eigenen Gebäude änderst.
 
 #antl_close
 SCHLIEßEN
 
 #antl_1
-Relink: Halten Sie die linke Maustaste gedrückt und ziehen Sie sie.
+Relink: Halte die linke Maustaste gedrückt und ziehe sie.
 
 #antl_2
 Hinzufügen/Entfernen von Auswahl mit Strg+Linksklick.
@@ -4743,10 +4743,10 @@ Hinzufügen/Entfernen von Auswahl mit Strg+Linksklick.
 Auswahl aufheben: Rechtsklick.
 
 #regmenu_status_c1
-Aktueller Gebietsstatus: ' [x]' (zum Ändern anklicken)
+Aktueller Gebietsstatus: '[x]' (zum Ändern anklicken)
 
 #regmenu_powcost
-Dieser territoriale Status kostet Sie derzeit [x] der Staatsgewalt, um ihn aufrechtzuerhalten.
+Dieser territoriale Status kostet dich derzeit [x] der Staatsgewalt, um ihn aufrechtzuerhalten.
 
 #regmenu_jobs
 Jobs
@@ -4830,7 +4830,7 @@ Unterwerft euch!
 Dieses Gebiet kann nicht mehr Einheiten unterstützen und erlaubt keine Überziehung!
 
 #displyr_c1
-Klicken Sie hier, um eine Anzeigeebene auszuwählen.
+Klicke hier, um eine Anzeigeebene auszuwählen.
 
 #displyr_c2
 die derzeit angezeigt wird:
@@ -4881,13 +4881,13 @@ WELTWEIT
 Primitive Stämme
 
 #newchar_st_pt_c1
-Beginnen Sie bei Null, indem Sie die Kontrolle über einen primitiven Stamm übernehmen.
+Beginne bei Null, indem du die Kontrolle über einen primitiven Stamm übernimmst.
 
 #newchar_st_pt_c2
-Es ist die Standard- und Standardmethode, um ein Spiel am Anfang zu starten.
+Es ist die voreingestellte und übliche Art, ein Spiel am Anfang zu starten.
 
 #newchar_clim_c
-Wählen Sie Klimazonen aus, in denen Sie potenziell laichen möchten.
+Wähle Klimazonen aus, in denen du potenziell spawnen möchten.
 
 #ui_gen_tonovis
 Du kannst nicht in dieses Gebiet gehen, weil du keine Sicht darauf hast.
@@ -4986,10 +4986,10 @@ aktuelle Zustandsenergie
 BIP
 
 #ui_gov_gdp_c1
-Das aktuelle Bruttoinlandsprodukt aller Ihrer Gebiete.
+Das aktuelle Bruttoinlandsprodukt aller Gebiete.
 
 #ui_gov_gdp_c2
-Es wird berechnet, indem die Bruttoeinkommen, die in allen Ihren Gebieten über 10 Produktionszyklen erwirtschaftet werden, addiert werden.
+Es wird berechnet, indem die Bruttoeinkommen, die in allen deinen Gebieten über 10 Produktionszyklen erwirtschaftet werden, addiert werden.
 
 #ui_civ_on
 HINZUFÜGEN BEI DER ÜBERARBEITUNG
@@ -4998,7 +4998,7 @@ HINZUFÜGEN BEI DER ÜBERARBEITUNG
 VON DER REFORM ABBRECHEN
 
 #ui_civ_cncl_c
-Klicken Sie hier, um diese ausstehende Änderung aus Ihrer Reform zu entfernen.
+Klicke hier, um diese ausstehende Änderung aus deiner Reform zu entfernen.
 
 #ui_eco_notrsr_dscr
 Diese Gesellschaft arbeitet derzeit ohne jegliche Form von Währung und ihre Menschen teilen einfach alles in der Gemeinschaft: Die Regierung hat weder eine Staatskasse noch Einkommen oder Explans.
@@ -5049,22 +5049,22 @@ Die öffentliche Studie basiert auf der Kaufkraft aller Bevölkerungsschichten, 
 (Lieferung unterstützt durch staatliche Beschaffung!)
 
 #ui_price_sd_c4
-[x]% eines Preises vor Angebot/Nachfrage von[y]-Münzen =[z]
+ [x]% eines Preises vor Angebot/Nachfrage von [y]-Münzen = [z]
 
 #ui_price_sd_c41
-(Effekt begrenzt durch minimalen Preis von[x] Münzen!)
+(Effekt begrenzt durch minimalen Preis von [x] Münzen!)
 
 #ui_price_arb_c1
-Preisarbitrage kann auftreten, wenn es große Preisunterschiede zwischen diesem Gebiet und den nahegelegenen Gebieten gibt (Ihre oder ausländische, mit denen Sie Handelsbeziehungen unterhalten).
+Ein Preisschwankungen kann auftreten, wenn es große Preisunterschiede zwischen diesem Gebiet und den nahe gelegenen Gebieten gibt ( deine oder ausländische, mit denen du Handelsbeziehungen hast).
 
 #ui_price_arb_c5
-Lokaler Preis vor Arbitrage: [x] Münzen.
+Lokaler Preis vor Kursunterschied: [x] Münzen.
 
 #ui_price_arb_c2
 Durchschnittspreis in diesem Bereich der Welt: [x] Münzen.
 
 #ui_price_arb_c3
-Mit einer Preisdifferenz von[x]% hat der Weltmarktpreis einen Einfluss von[y]% auf den lokalen Preis, was zu einem Arbitrageeffekt von[z] auf den Endpreis führt.
+Mit einer Preisdifferenz von [x]% hat der Weltmarktpreis einen Einfluss von [y]% auf den lokalen Preis, was zu einem Arbitrageeffekt von [z] auf den Endpreis führt.
 
 #ui_price_arb_c4
 Keine Preisarbitrage: Keine nahegelegenen Gebiete nutzen derzeit diese Ressource.
@@ -5076,10 +5076,10 @@ Staatseigentum
 Ressourcen, die du direkt selbst als Staat besitzt, im Gegensatz zu dem Rest davon, der privat deiner Bevölkerung gehört. Neue Ressourcen beginnen zunächst im Besitz der jeweiligen Produzenten.
 
 #ui_mres_ststk_c2
-Sie müssen nicht die Ressourcen kaufen, die Sie bereits besitzen, wenn Sie sie nutzen, und Sie verdienen auch Einnahmen zurück, wenn sie von Dritten wie Branchen oder Händlern genutzt werden.
+Du musst nicht die Ressourcen kaufen, die du bereits besitzt, wenn du sie verwendest, und du verdienst auch Einnahmen aus der Nutzung durch Dritte wie Branchen oder Händler.
 
 #ui_mres_ststk_c3
-Du besitzt derzeit[x] der[y][z], die derzeit in diesem Gebiet gelagert sind.
+Du besitzt derzeit [x] der [y] [z], die derzeit in diesem Gebiet gelagert sind.
 
 #ui_mres_stres
 Staatliche Ressourcen
@@ -5112,7 +5112,7 @@ Verkaufte Menge an die Bevölkerung
 Gebäude
 
 #ui_bdgeff_profit
-Unrentabilität ([x]%)
+Unrentabilität ( [x]%)
 
 #ui_mres_indneed
 Nachfrage
@@ -5133,7 +5133,7 @@ Begrenzter Vertrieb
 alle Lager
 
 #regeco_eff
-Auswirkungen: Beeinflusst die Staatskasse Ihrer Regierung positiv oder negativ. 
+Auswirkungen: Beeinflusst die Staatskasse deiner Regierung positiv oder negativ. 
 
 #regadmin_eff
 Effekte: erhöht die Haushaltseinnahmen (-abfall)
@@ -5142,7 +5142,7 @@ Effekte: erhöht die Haushaltseinnahmen (-abfall)
 Effekte: Verhindert die Rebellion der Bevölkerung
 
 #reggrwth_eff
-Effekte: Bestimmt die Entwicklung Ihrer Population.
+Effekte: Bestimmt die Entwicklung deiner Population.
 
 #loadgame_crtnew
 NEUES SPIEL ERSTELLEN
@@ -5235,7 +5235,7 @@ Plattformen
 prognostizierte Kosten für den Aufbau dieser Plattformen
 
 #ui_builderr_coin
-Du hast nicht genug Münzen, um dieses[x] zu bauen.
+Du hast nicht genug Münzen, um dieses [x] zu bauen.
 
 #ui_dpltool_done
 ERLEDIGT
@@ -5262,7 +5262,7 @@ Dies ist ein defensives Gebäude, das nur Feinde in Reichweite angreifen darf.
 Mehrere
 
 #ui_dpltool_mult_dscr
-Die ausgewählten Truppen befinden sich derzeit in verschiedenen Modi. Wählen Sie einen aus, um den gleichen Modus auf alle ausgewählten Truppen anzuwenden.
+Die ausgewählten Truppen befinden sich derzeit in verschiedenen Modi. Wähle einen aus, um den gleichen Modus auf alle ausgewählten Truppen anzuwenden.
 
 #ui_dpltool_delzon
 Diese Zone löschen
@@ -5277,10 +5277,10 @@ Verfügbare Angebote:
 Verfügbare Anforderungen:
 
 #treated_conf
-WARNUNG! Dieser Vertrag steht im Widerspruch zu einigen Ihrer anderen Verträge!
+WARNUNG! Dieser Vertrag steht im Widerspruch zu einigen deiner anderen Verträge!
 
 #treated_conf_c1
-Ein oder mehrere Begriffe in diesem Vertrag stehen im Widerspruch zu Verpflichtungen, die Sie in anderen Verträgen eingegangen sind. Die Unterzeichnung dieses Vertrages bedeutet die Verletzung der widersprüchlichen Verträge und wird von Ihrer Seite Vertragsbruchstrafen auslösen.
+Ein oder mehrere Begriffe in diesem Vertrag stehen im Widerspruch zu Verpflichtungen, die du in anderen Verträgen eingegangen bist. Die Unterzeichnung dieses Vertrages bedeutet die Verletzung der widersprüchlichen Verträge und wird von deiner Seite Vertragsbruchstrafen auslösen.
 
 #treated_conf_c2
 Konflikte mit:
@@ -5373,7 +5373,7 @@ Wie viel von den verfügbaren Arbeitskräften wird derzeit genutzt und produzier
 Viele staatliche Politiken beeinflussen die Effizienz von Gebäuden.
 
 #ui_bdg_pdet_1_c
-[x]% der Produktion wird direkt von den Arbeitern dieses Gebäudes auf den Markt gebracht.
+ [x]% der Produktion wird direkt von den Arbeitern dieses Gebäudes auf den Markt gebracht.
 
 #ui_bdg_pdet_4_c
 x]% der Produktion wird in ausländische Märkte exportiert.
@@ -5391,7 +5391,7 @@ Gesamtrohertrag aus allen Verkäufen des Gebäudes.
 Die Kosten für alle für die Produktion benötigten Materialien, falls vorhanden.
 
 #ui_bdgbudget_3_c
-Einkommensbetrag, der vom Staat besteuert wird (Sie). Dies ist das tatsächliche Einkommen, das die Aktivität dieses Gebäudes für Sie generiert.
+Einkommensbetrag, der vom Staat besteuert wird. Dies ist das tatsächliche Einkommen, das die Aktivität dieses Gebäudes für dich generiert.
 
 #ui_bdgbudget_4_c
 Das Nettoeinkommen blieb nach allen Kosten und Steuern übrig, die auf alle in diesem Gebäude beschäftigten Arbeiter aufgeteilt wurden.
@@ -5400,10 +5400,10 @@ Das Nettoeinkommen blieb nach allen Kosten und Steuern übrig, die auf alle in d
 Der Anteil des Umsatzes, der auf die Produzenten der Ressourcen zurückgeht: Händler bezahlen sie nur in Abhängigkeit vom Umsatz und unverkaufte Bestände werden nicht bezahlt.
 
 #ui_bdgind_recip
-Es braucht[x] von[y] für jede produzierte Einheit von[z].
+Es braucht [x] von [y] für jede produzierte Einheit von [z].
 
 #ui_bdgind_byprod
-Produziert[x][y] als Nebenprodukte.
+Produziert [x] [y] als Nebenprodukte.
 
 #ui_bdgcstr_title
 Im Aufbau.....
@@ -5436,10 +5436,10 @@ Eine neue Formation erstellen......
 Eine Armee besteht aus permanent mobilisierten Einheiten, die den Unterhalt kosten.
 
 #menu_nfrm_t2_dscr2
-Milizen donӴ monopolisieren Porcos dauerhaft, so dass sie einen Job behalten können und der Unterhalt niedriger ist, da die Soldaten kein Gehalt verlangen.
+Milizen blockieren nicht dauerhaft die Porcos, so dass sie einen Job behalten können und der Unterhalt niedriger ist, da die Soldaten kein Gehalt verlangen.
 
 #menu_nfrm_t3_3
-Beachten Sie, dass Sie eine reguläre Armee nach Belieben in eine nationale umwandeln können und umgekehrt.
+Beachte, dass du eine reguläre Armee nach Belieben in eine nationale umwandeln kannst und umgekehrt.
 
 #menu_trbuy_buy
 KAUFEN
@@ -5466,7 +5466,7 @@ Schwierigkeitsgrad
 Forscher
 
 #menu_prj_addnewr
-Klicken Sie hier, um neue Forscher dem Projekt zuzuordnen.
+Klicke hier, um neue Forscher dem Projekt zuzuordnen.
 
 #menu_rschr_frm
 Von
@@ -5481,13 +5481,13 @@ Neues Gebäude
 Neue Einheit
 
 #menu_scr_c_c
-Punktzahl aus Ihrer Gesamtkultur (Staatskultur).
+Punktzahl aus deiner Gesamtkultur (Staatskultur).
 
 #menu_scr_k_c
 Score aus deinen gesamten Kenntnissen.
 
 #menu_scr_v_c
-Punktzahl von Ihren Untergebenen: Sie erhalten einen kleinen Teil der Punktzahl aller Ihrer direkten Untergebenen.
+Punktzahl von deinen Untergebenen: Du erhältst einen kleinen Teil der Punktzahl aller deiner direkten Untergebenen.
 
 #menu_scr_tot
 Punktzahl
@@ -5496,7 +5496,7 @@ Punktzahl
 Aus Par-Score
 
 #menu_nscr_scr
-Die Gesamtpunktzahl Ihrer Nation
+Die Gesamtpunktzahl deiner Nation
 
 #b_buildprevbdg
 Veraltete Version: [x]
@@ -5535,10 +5535,10 @@ Dieser Charakter kontrolliert keine Territorien und ist machtlos.
 Ausstoßen!
 
 #facdsmtl_err_c1
-Dieses Gebiet wurde vor kurzem integriert und ist nicht lange genug Teil Ihrer Nation, um über die Funktion "Zerlegen" übertragen zu werden.
+Dieses Gebiet wurde vor kurzem integriert und ist nicht lange genug Teil deiner Nation, um über die Funktion "Zerlegen" übertragen zu werden.
 
 #facdsmtl_err_c2
-Zeit, bis dieses Gebiet abgebaut werden kann:[x].
+Zeit, bis dieses Gebiet abgebaut werden kann: [x].
 
 #uivote_mod_high
 Höchste Stimmen
@@ -5550,7 +5550,7 @@ Abstimmungsergebnis
 unentschieden
 
 #regstatprop_bdgup
-Gebäudeunterhalt[x]
+Gebäudeunterhalt [x]
 
 #regstatprop_trsfr
 kann nicht übertragen werden
