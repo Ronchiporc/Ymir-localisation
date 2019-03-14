@@ -27,10 +27,10 @@ POKRAČOVAT
 DO MAIN MENU
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+Opravdu chcete odejít a vrátit se do hlavního menu?
 
 #ui_connctstat_1
-Currently connected to [x]  ping: [y]
+Práve připojen na [x]  ping: [y]
 
 #ui_connctstat_2
 Loss rate: [x]% ( sent:[y]  failed:[z] )
@@ -258,7 +258,7 @@ zavřete server, když je prázdný
 zavřete server při odpojení
 
 #newgame_samname
-A saved game '[x]' already exists in the local files! What do you want to do?
+Uložená hra '[x]' již existuje v místních souborech! Co by si rád udělal?
 
 #newgame_overw
 Přepsat
@@ -348,22 +348,22 @@ Custom worlds are maps manually created with the editor instead of beeing proced
 HERNÍ NASTVENÍ
 
 #gmtyp_off
-Official
+Oficiální
 
 #gmtyp_off_dscr
-Games labelled as official are using standardized non-customizable settings to provide a reliable experience.
+Hry označené jako oficiální používají standardizovaná nastavení, která nelze přizpůsobit, a poskytují tak spolehlivý zážitek. 
 
 #gmtyp_offtype
-Game type
+Herní typ
 
 #gmtyp_offtype_c
-Select a game preset
+Vyberte si druh přednastavenné hry
 
 #gmtyp_rtime
-Real-time
+Reálný čas
 
 #gmtyp_rtime_dscr1
-Real-time games are meant to be played directly with every player ingame at all times, saving and reloading the game later on to continue the game if necessary.
+Hry v reálném čase jsou určeny k tomu, aby se hrály přímo s každým hráčem v herně po celou dobu, ukládají a znovu načítají hru později, aby se v případě potřeby pokračovalo ve hře.
 
 #gmtyp_rtime_dscr2
 Resource production, population growth and unit movements are fast.
@@ -372,10 +372,10 @@ Resource production, population growth and unit movements are fast.
 This is meant for smaller private games such as playing locally with a group of friends via direct IP.
 
 #gmtyp_prsist
-Persistent
+Trvalá hra
 
 #gmtyp_prsist_dscr1
-Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently ingame.
+Trvalé hry jsou vyvážené, aby měly server běžící 24/7 , kde akce mohou trvat několik hodin a hráči nejsou zamýšlení, aby byli neustále přítomni ve hře.
 
 #gmtyp_prsist_dscr2
 Resource production, population growth and unit movements are slow.
@@ -540,7 +540,7 @@ no result matching this search
 TUTORIÁL
 
 #tuto_ask_1
-Greetings, newpig! Is this the first time you play Ymir and do you wish to enable the tutorial mode ?
+Zdravím, nové prase! Je to poprvé, co hrajete Ymir a chcete povolit režim výuky?
 
 #ui_gen_toreg
 Kliknutím přejdete na aktuálně vybrané území
@@ -549,13 +549,13 @@ Kliknutím přejdete na aktuálně vybrané území
 Kliknutím přejdete na mapu světa
 
 #ui_gen_tonovis
-You cannot go to this territory because you have no visibility of it.
+Na toto území nemůžete jít, protože na něj nevidíte.
 
 #ui_gen_score
 Score postavy
 
 #ui_gen_vpts
-Victory points
+Vítězné body
 
 #ui_gen_vpts2
 You need a total of [x] to win this game.
@@ -564,13 +564,13 @@ You need a total of [x] to win this game.
 Territory menu
 
 #ui_bdginf_cons
-construction cost
+cena postavení
 
 #ui_bdginf_cost
-materials cost:
+cena materiálů:
 
 #ui_bdginf_empl
-employs
+zaměstnává
 
 #b_bdginf_hhold
 domácnost
@@ -2904,16 +2904,16 @@ This formation is hostile towards us!
 If this formation meets any of our units in a same territory or if we try to pass through their current location, it will trigger a battle.
 
 #ui_form_sprt
-home
+domov
 
 #ui_form_sprt_c1
-The home city supporting these units: Porcos grow old and need to be replaced by new ones coming from the home city.
+Domovské město zásobujující formaci: Vepři stárnou a musí být nahrazeny novými, kteří přicházejí z domovského města.
 
 #ui_form_sprt_c2
-This formation currently requires [x] porcos per generation from it's home to be maintained.
+Tato formace v současné době vyžaduje [x] vepřů na jednu generaci ze svého domova.
 
 #ui_form_sethome
-Set current territory as home
+Nastavit aktuální území jako domov.
 
 #ui_form_invhom_1
 You cannot set empty territories as a home: it needs to be a territory you own.
@@ -2922,13 +2922,13 @@ You cannot set empty territories as a home: it needs to be a territory you own.
 You cannot set foreign territories as a home: it needs to be a territory you own.
 
 #ui_form_upkp
-Upkeep of this formation
+Údržba této formace
 
 #ui_form_upkp1
-(equipment + soldier's salary)
+(výzbroj + plat vojáků)
 
 #ui_form_upkp2
-(lower upkeep for militias: equiment only)
+(nižší údržba za milice: pouze výzbroj)
 
 #ui_conf_sure
 Jseš si jist?
@@ -2940,7 +2940,7 @@ WARNING: You will no longer control this territory: left on it's own, this terri
 The territory will be cleared. All it's population will be transfered in one of more formations, taking all the resources they can carry with them.
 
 #ui_conf_capital
-Do you really want to set this territory as your new capital ? 
+Opravdu si chceš zvolit toto území jako svoje nové hlavní město?
 
 #b_renonce
 Renounce control of this territory
@@ -3012,10 +3012,10 @@ engaged for
 Ty
 
 #b_actv_trt_m2
-Other
+Ostatní
 
 #b_actv_trt_cancel
-cancel treaty
+zrušit dohodu
 
 #ui_wrldmov_er1
 This formation is already in the territory.
@@ -3090,10 +3090,10 @@ Road connection and proximity of certain other buildings can affect it's efficie
 If unprofitable for its workers, efficiency of the building is progressively reduced.
 
 #ui_bdg_proddet
-PRODUCTION DETAILS
+DETAILY PRODUKCE
 
 #ui_bdg_pdet_1
-sold directly
+přímý prodej
 
 #ui_bdg_pdet_1_c
 [x]% of the production is put on the market directly by the workers of this building.
@@ -4848,7 +4848,7 @@ This is meant to learn the basics of the game before joining proper multiplayer 
 requires builders
 
 #bc_erase_c2
-(right click for options)
+(pravým klikni pro možnosti)
 
 #regeco_tax_inc_c2
 Tax revenue: [x]% of [y] = [z] coins.
@@ -4860,22 +4860,22 @@ Tax revenue: [x]% of [y] = [z] coins.
 The current status of this territory grants you [x]% of all the generated tax incomes.
 
 #regeco_wasted_c1
-Amount of income lost from waste.
+Částka ztráty příjmu z korupce(waste).
 
 #regeco_wastab_c1
-The total income subject to waste.
+Celkový příjem podléhající korupci(waste).
 
 #regeco_wastab_c2
-Tax incomes: [x]
+Příjem z daní: [x]
 
 #regeco_wastab_c3
-Importations profits: [x]
+Zisk z dovozu: [x]
 
 #regeco_wastab_c4
-Exportations profits: [x]
+Zisk z exportu: [x]
 
 #regeco_wastab_c5
-State resource sales: [x]
+Prodeje státních prostředků: [x]
 
 #bc_gen_speed
 set overall game speed to x[x]
@@ -4890,10 +4890,10 @@ Cargo: +[x] sales -[y] purchases
 Increased to +30% of the production cost if the resources is distributed via merchants, as their cut also needs to be taken into account by the producers.
 
 #ui_price_arb
-Price arbitrage
+Cenová arbitráž
 
 #ui_price_arb_c1
-Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
+Cenové arbitráže se mohou stát, když mezi tímto územím a blízkými regiony (s vaší nebo zahraničními obchodními vztahy) existují velké rozdíly v cenách.
 
 #ui_price_arb_c2
 The average price in this area of the world is of [x] coins.
@@ -4953,64 +4953,64 @@ Total population
 Overall population in the territory decreases health.
 
 #poph_foodqual
-Food quality of [x]
+Kvalita potavin [x]
 
 #poph_foodqual_c1
-Higher food quality increases health.
+Vyšší kvalita potravin zvyšuje zdraví.
 
 #poph_foodqual_c2
-Current food quality access: [x]
+Aktuální přístup k potravinám: [x]
 
 #poph_serv
-Health services
+Zdravotní služby
 
 #poph_serv_c1
-Some services (such as doctors) provide a health bonus to those who have access to it.
+Některé služby (například lékaři) poskytují zdravotní bonus těm, kteří mají k nim přístup.
 
 #poph_vitals
--[x]% from missing vital needs
+-[x]% z nedostatku životních potřeb
 
 #poph_vitals_c1
 Missing vital needs affects overall health proportionnally.
 
 #poplq_vitals
-Vital needs
+Životní potřeby
 
 #poplq_vitals_c1
-Life quality gained by the satisfaction and quality of vital needs.
+Životní úroveň získaná uspokojeností a kvalitou životně důležitých potřeb.
 
 #poplq_vitals_c2
-Vital needs are satisfied at [x]%.
+Životní potřeby jsou uspokojeny na [x]%.
 
 #poplq_house
-Housing quality
+Kvalita ubytování
 
 #poplq_house_c1
-Life quality gained by the average housing quality of lodgings occupied by this population.
+Životní úroveň získaná z průměrnné Kvality ubytování ubytovacích zařízení obsazených touto populací.
 
 #poplq_house_c2
-Average quality of lodgings: [x].
+Průměrná kvalita ubytování: [x].
 
 #poplq_house_c3
-(requires satisfaction of vital needs)
+(vyžaduje prvně, uspokojení životních potřeb!)
 
 #poplq_2nd
-Secondary needs
+Vedlejší potřeby
 
 #poplq_2nd_c1
-Life quality gained by the satisfaction and quality of secondary needs.
+Životní úroveň získaná spokojeností a kvalitou sekundárních potřeb.
 
 #poplq_2nd_c2
-(requires satisfaction of vital needs)
+(vyžaduje prvně, uspokojení životních potřeb!)
 
 #poplq_3rd
-Teritiary needs
+Potřeby území
 
 #poplq_3rd_c1
-Life quality gained by the satisfaction and quality of tertiary needs.
+Životní úroveň získaná uspokojením a kvalitou života na území.
 
 #poplq_3rd_c2
-(requires satisfaction of secondary needs)
+(vyžaduje uspokojení vedlejších potřeb)
 
 #poplq_4th
 Quaternary needs
@@ -5022,25 +5022,25 @@ Life quality gained by the satisfaction and quality of quaternary needs.
 (requires satisfaction of tertiary needs)
 
 #popint_base
-Base intelligence
+Základní inteligence
 
 #popint_base_c1
-The default intelligence level of this species.
+Výchozí úroveň inteligence tohoto druhu.
 
 #popint_serv
-Education services
+Vzdělávací služby
 
 #popint_serv_c1
-Intelligence gained from access to education services such as schools.
+Inteligence získaná z přístupu k vzdělávacím službám, jako jsou školy.
 
 #popint_lq
-Life quality
+Životní úroveň
 
 #popint_lq_c1
-Intelligence gained from current Life Quality.
+Inteligence získanná z Životní úrovně.
 
 #popint_lq_c2
-Each point of Life Quality provides +0.75 of Intelligence.
+Každý bod Životní úrovně poskytuje +0,75 inteligence.
 
 #popint_kn
 Total knowledges
@@ -5055,16 +5055,16 @@ Territory's culture
 The total culture in this territory increases the overall intelligence of its population.
 
 #cltrstat_prod
-Population
+Obyvatelstvo
 
 #cltrstat_prod_c1
-Amount of state culture currently generated in the territory by its population.
+Výše státní kultury, které v současnosti na území vzniká jeho obyvatelstvem.
 
 #cltrstat_pop
-Raw culture production
+Surová produkce kultury
 
 #cltrstat_pop_c1
-Amount of raw culture produced by the population.
+Množství surové kultury produkované obyvatelstvem.
 
 #cltrstat_pop_c2
 [x] porcos of [y] intelligence are currently producing [z] of culture.
@@ -5082,10 +5082,10 @@ Amount of raw culture produced by the population.
 - local culture from territorial status: +[x]%
 
 #cltrstat_serv
-Services
+Služby
 
 #cltrstat_serv_c1
-Amount of state culure produced by the activity of cultural buildings and their services.
+Výše státní kultury způsobené aktivitou kulturních budov a jejich služeb.
 
 #cltrstat_decay
 Decay
@@ -5187,28 +5187,28 @@ The resistance movement is currently decaying by -[x] [y].
 [x]% from territorial status distance modificator of [y]%
 
 #b_newform
-New formation
+Nová formace
 
 #b_newform_c1
-click to create a new formation of units
+klikněte pro vytvoření nové formace jednotek
 
 #regctrl_b_h
-Housing
+Bytové hospodářství
 
 #regctrl_b_p
-Production
+Produkce
 
 #regctrl_b_c
-Cultural
+Kultura
 
 #regctrl_b_m
-Military
+Vojenství
 
 #regctrl_b_g
-Government
+Vláda
 
 #regctrl_b_i
-Infrastructures
+Infrastruktury
 
 #ui_recruit_new
 Creating a new troop
@@ -5238,7 +5238,7 @@ Currently supporting: [x] units.
 Total active population: [x] porcos.
 
 #ui_recruit_pop_2
-Jobless: [x] porcos.
+Nezaměstaní: [x] vepřů.
 
 #ui_recruit_ovrdrft
 Cannot recruit: support limit reached and overdraft is not allowed in this territory.
@@ -5247,19 +5247,19 @@ Cannot recruit: support limit reached and overdraft is not allowed in this terri
 You're not allowed to access resources of this territory.
 
 #ui_dpltool_mbdg
-Defensive building
+Obranná budova
 
 #ui_dpltool_mbdg_dscr
-This is a defensive building that may only engage enemies in range.
+Jedná se o defenzivní budovu, která se může zabývat pouze nepřáteli v jejím dosahu.
 
 #treated_conf
-WARNING! This treaty is in conflict with some of your other treaties!
+UPOZONĚNÍ! Tato smlouva je v rozporu s některými z vašich dalších smluv!
 
 #treated_conf_c1
 On or more terms in this treaty is in conflict with engagements you made in other treaties. Signing this treaty means violating the conflicting treaties and will trigger breaking penalties on your side.
 
 #treated_conf_c2
-Conflicts with:
+Konflikty s:
 
 #err_reg_rnnc3
 The current status of this territory doesn't allow you to renounce to its control.
@@ -5295,7 +5295,7 @@ cannot control trade
 buildings upkeep [x]
 
 #regstatprop_loyal
-loyalty [x]
+loajalita [x]
 
 #regstatprop_cultr
 state culture [x]%
@@ -5331,7 +5331,7 @@ no tax incomes
 no expenses
 
 #regstatprop_resist
-resistance growth [x]
+růst rebélie [x]
 
 #regstatprop_claim
 cannot own sub-territories
@@ -5385,7 +5385,7 @@ Current territorial status: '[x]' (click to change)
 This territorial status currently costs you [x] of State Power to maintain.
 
 #regmenu_jobs
-Jobs
+Zaměstnání
 
 #regmenu_jobs_c1
 All available jobs are filled!
@@ -5421,7 +5421,7 @@ Total wealth of this territory
 Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
 
 #regmenu_gdp
-GDP of this territory
+HDP území
 
 #regmenu_gdp_dscr
 An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
@@ -5439,85 +5439,131 @@ Vital needs of the population are currently [x]% satisfied.
 Low vital needs reduce birth rate and increases mortality.
 
 #subjug_title
-Subjugate
+Podmanit
 
 #subjug_can
-You can automatically subjugate [x].
+Můžete automaticky podmanit [x].
 
 #subjug_dscr
-This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+Tohle ukončí válku mezi tebou a [x]. Tento stát bude jako váš vazal integrován do vašeho národa, s kapitulační smlouvou, která vám přinese státní moc a daňový příjem. Všechna území, která jsou nyní obsazena silami vašeho národa, budou automaticky vrácena zpět [x].
 
 #subjug_cant
-You cannot subjugate [x] yet.
+Stále nemůžeš podmanit [x].
 
 #subjug_cant_dscr
-A character that has lost control of all its territories in a war can be automatically subjugated, provided that you are occupying at least one its territories. Subjugation will force his capitulation and make him your vassal, integrating him into your nation.
+Postava, která ztratila kontrolu nad všemi svými územími ve válce, může být automaticky podřízena za předpokladu, že zajmete nejméně jedno území. Jeho podmanění přinutí ho ke kapitulaci a učiní z něho vaším vazalem, integrujíc ho do vašeho národa.
 
 #subjug_cant_why
-To subjugate this character you need to take control of:
+K podmanění tohoto hráče potřebuješ získat kontrolu nad:
 
 #subjug_apply
-Subjugate!
+Podrobit!
 
 #info_cltrtrsfr
 [x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
 
 #info_supportlmt
-This territory cannot support more units and does not allow overdraft!
+Toto území nemůže podporovat více jednotek a neumožňuje přečerpání limitu!
 
 #displyr_c1
-click to select a display layer.
+klepnutím vyberte vrstvu zobrazení.
 
 #displyr_c2
-currently displayed:
+právě zobrazeno:
 
 #button_togh_c1
 toggle heights display
 
 #button_togh_c2
-heights: 
+výška: 
 
 #displyr_normal
 Normal view
 
 #displyr_fertil
-Fertility
+Úrodnost
 
 #displyr_gwater
-Groundwater
+Podzemní voda
 
 #displyr_height
-Heights
+Výšiny
 
 #displyr_fortif
-Fortifications
+Opevnění
 
 #menuop_k_up
-Camera up
+Kamera nahoru
 
 #menuop_k_le
-Camera left
+Kamera doleva
 
 #menuop_k_ri
-Camera right
+Kamera doprava
 
 #menuop_k_dw
-Camera down
+Kamera dolů
 
 #menuop_keyset
-click and press a keyboard key to bind it to this action
+klepněte na tlačítko a stiskněte klávesu klávesnice, abyste jej mohli vázat na tuto akci
 
 #menuop_togtut
-Toggle tutorials
+Přepněte výukové programy
 
 #menuop_togtut_c1
-Enables the main tutorial and all the help popups when doing things for the first time.
+Povolí hlavní tutoriál a všechna vyskakovací okna nápovědy, když děláte věci poprvé.
 
 #menuop_resetut
-Reset all
+Resetovat vše
 
 #menuop_resetut_c1
-Reset all tutorials to zero.
+Resetovat všechny výukové programy na nulu.
 
 #menuop_resetutd
-All tutorials reseted.
+Všechny výukové programy byly resetovány.
+
+#ui_price_sd_c31
+(supply backed by state purchasing!)
+
+#ui_price_sd_c4
+[x]% of a price before supply/demand of [y] coins = [z]
+
+#ui_price_sd_c41
+(effect limited by minimal price of [x] coins!)
+
+#ui_price_arb_c5
+Local price before arbitrage: [x] coins.
+
+#resist_title
+Resistance movement
+
+#resist_dscr
+A resistance movement is present in this territory. This might result in a partisans uprising at any time and regardless of the territory's current loyalty!
+
+#resist_loyal
+Loajalita: [x]
+
+#resist_loyal_c1
+This resistance movement is loyal to [x].
+
+#resist_loyal_c2
+If Partisans manage to free this territory, they will automatically offer to rejoin this state.
+
+#resist_max
+Maximum odporu: [x]
+
+#resist_max_c1
+Maximální odporové body tohoto území. Odpor je omezen celkovou populací území.
+
+#resist_hloss
+Trest za porážku: [x] Česti
+
+#resist_hloss_c1
+The amount of honor that will be lost as a penalty if Partisans manage to free this territory. 
+
+#resist_tot_c1
+The resistance movement currently has [x] points out of a potential maximum of [y] points.
+
+#resist_tot_c2
+The more points, the stronger the resistance is in this territory and the more population are involved in the resistance, which means potentially more Partisans if an uprising do happens.
+
