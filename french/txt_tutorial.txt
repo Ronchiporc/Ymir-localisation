@@ -6,7 +6,7 @@ Bienvenue dans Ymir! Il semblerait que se soit la première fois que vous lancez
 C'est un jeu complexe: si vous n'êtes pas encore familié du jeu, il est fortement conseillé de commencer en complétant le tutoriel en solo pour en apprendre les bases. Cependant si vous connaissez déja le jeu, vous pouvez choisir de désactiver tous les tutoriels dès a présent.
 
 #tuto_create_1
-C'est ici que l'ont configure et lance une nouvelle partie. Il ya 2 modes de jeu principaux: persistant et temps-réel. Si vous jouez seul ou avec quelques amis, il est préférable de laisser 'temps-réel' par défault.
+C'est ici que l'ont configure et lance une nouvelle partie. Il ya 3 modes de jeu principaux: persistant, temps-réel et solo. Si vous jouez seul pour découvrir le jeu, la partie solo est la plus adaptée. Mais en étant seul ou avec quelques amis, vous pouvez laisser 'temps-réel' par défault.
 
 #tuto_char_1
 C'est ici que l'ont crée son personnage. Vous pouvez le nommer et choisir son apparence, ainsi qu'un nom de gouvernement et un drapeau.
@@ -15,7 +15,7 @@ C'est ici que l'ont crée son personnage. Vous pouvez le nommer et choisir son a
 Vous devez choisir parmis une liste de différent types de départs, celui par défaut pour une nouvelle partie étant la "tribu primitive".
 
 #tuto_char_3
-En multijoueur, vous pouvez également spécifier le nom du personnage d'un ami pour apparaitre au plus proche de lui (mais pour cela il vous faudra également le code d'invitation du perosnnage rejoint).
+En multijoueur, vous pouvez également spécifier le nom du personnage d'un ami pour apparaitre au plus proche de lui (mais pour cela il vous faudra également le code d'invitation du personnage rejoint).
 
 #tuto_char_4
 Attention: lorsque vous créez un personnage -surtout en multijoueur persistant- vous n'êtes pas authorisé à en recréer un nouveau immédiatement si vous abandonnez! Il vous faudra attendre un certain temps (jusqu'a plusieurs jours) avant de pouvoir respawner dans la meme partie.
@@ -312,7 +312,7 @@ Chaque bouton vous montre un type de ressource actuellement stocké ou produit s
 Maintenant, cliquez sur l'un de ces boutons pour ouvrir son menu de ressources.
 
 #tuto_34_1
-Le menu Ressource vous donne tous les détails sur une ressource spécifique: production, consommation par population ou industries, prix ...
+Le menu Ressource vous donne tous les détails sur une ressource spécifique: production, consommation par la population ou industries, prix ...
 
 #tuto_34_c1
 Ok .--35--24
@@ -330,7 +330,7 @@ J'ai compris .--38--25
 Que se passe-t-il quand il n'y a pas de place pour ranger les affaires? --36
 
 #tuto_35_c3
-Qu'est-ce que le mode "uniquement en mode restreint"? --37
+Qu'est-ce que le mode "restreint uniquement"? --37
 
 #tuto_36_1
 S'il n'y a pas de place disponible, les ressources seront placées directement sur le sol où elles se désintégreront et seront éventuellement perdues à moins d'être rapidement stockées correctement.
@@ -342,13 +342,13 @@ Les ressources supplémentaires sur le terrain seront automatiquement déplacée
 J'ai compris .--38--25
 
 #tuto_36_c2
-Qu'est-ce que le mode "mode restreint uniquement"? --37
+Qu'est-ce que le mode "restreint uniquement"? --37
 
 #tuto_37_1
 Lorsque vous cliquez sur un bâtiment de stockage, vous pouvez le définir sur "restricted" et contrôler les ressources qui y sont autorisées.
 
 #tuto_37_2
-Si vous définissez ensuite une stratégie de stockage de ressources sur "only in restricted" dans ce menu, elle sera uniquement autorisée dans les stockages en mode "restricted" ET qui ont été définis pour autoriser cette ressource spécifique. S'il n'y a pas de place, les ressources sont détruites.
+Si vous définissez ensuite une stratégie de stockage de ressources sur "uniquement restreint" dans ce menu, elle sera uniquement autorisée dans les stockages en mode "restricted" ET qui ont été définis pour autoriser cette ressource spécifique. S'il n'y a pas de place, les ressources sont détruites.
 
 #tuto_37_c1
 J'ai compris .--38--25
@@ -363,7 +363,7 @@ Le second est l'option «Maintien du stock»: elle vous permet de vous assurer q
 Bon à savoir! --39--26
 
 #tuto_39_1
-Pour l'instant votre seul espace de stockage disponible est le "Ground storage": un stockage gratuit mais inefficace des ressources de base. C'est juste marqué pour le stockage des choses.
+Pour l'instant votre seul espace de stockage disponible est le "stockage au sol": un stockage gratuit mais inefficace des ressources de base. C'est juste marqué pour le stockage des choses.
 
 #tuto_39_2
 Plus tard, vous débloquerez des bâtiments de stockage appropriés qui peuvent stocker beaucoup plus sur une plus petite surface.
@@ -471,7 +471,7 @@ Une fois la zone créée, vous pouvez y déployer des troupes et les placer dans
 J'ai compris .--53--37
 
 #tuto_53_1
-Les Rockthrowers ne sont utiles qu'en défense derrière les murs: je vous conseille de créer un petit fort de palissades et de les déployer ensuite en mode «stand ground». Cela vous protégera au moins contre les tentatives d'invasion.
+Les Rockthrowers ne sont utiles qu'en défense derrière les murs: je vous conseille de créer un petit fort de palissades et de les déployer ensuite en mode «tenir la position». Cela vous protégera au moins contre les tentatives d'invasion.
 
 #tuto_53_2
 Une fois que vous êtes satisfait de vos modifications, assurez-vous de fermer et de sauvegarder vos modifications en cliquant ici.
@@ -483,7 +483,7 @@ Vous avez maintenant fini d'organiser vos défenses de base.
 En plus des événements potentiels ou des conflits avec d'autres joueurs, les camps «barbares» des PNJ proches sont susceptibles de générer régulièrement des bandes de guerre qui tenteront de faire du raid, du sac, ou même d'envahir vos territoires.
 
 #tuto_54_3
-Il ne faudra pas longtemps avant qu'ils ne vous remarquent et envoient leurs premiers raiders, alors mieux vaut être prêt!
+Il ne faudra pas longtemps avant qu'ils ne vous remarquent et envoient leurs premiers pilleurs, alors mieux vaut être prêt!
 
 #tuto_54_c1
 Bon à savoir ...--55--39
@@ -549,7 +549,7 @@ Il montre également votre capacité de connaissances et votre utilisation actue
 Ok .--63--43
 
 #tuto_61_c2
-Comment puis-je obtenir la capacité de connaissance? --62
+Comment puis-je augmenter la capacité de connaissance? --62
 
 #tuto_62_1
 Votre capacité est augmentée par votre culture totale. Au début, votre culture sera principalement produite par votre population totale, donc plus vous avez de population, plus vous avez de connaissances.
@@ -675,7 +675,7 @@ Oui, je pourrais apparaître de temps en temps lorsque vous débloquez de nouvel
 Ok! --74
 
 #tuto_77_1
-Vous devrez créer une nouvelle 'Formation' (votre expédition d'exploration) et y recruter des unités, puis la déplacer de la vue de la carte du monde.
+Vous devrez créer une nouvelle 'Formation' (votre expédition d'exploration) et y recruter des unités, puis la déplacer sur la vue de la carte du monde.
 
 #tuto_77_2
 Mais fais attention! C'est dangereux, car chaque fois que vous explorez de nouveaux territoires, vous pouvez déclencher des «événements d'exploration»: ils ont beaucoup à gagner, mais aussi beaucoup à perdre.
@@ -750,7 +750,7 @@ Ours ? Qu'est-ce que cela a à voir avec quoi que ce soit? --87
 Ce sera, si vous ne continuez pas avec mon tutoriel.
 
 #tuto_87_c1
-Vous êtes un assistant de tutorat d'invocation d'ours? --88
+Vous êtes un assistant de tutoriel d'invocation d'ours? --88
 
 #tuto_87_c2
 Je ne vois pas d'ours. Où sont-ils? --98
@@ -762,7 +762,7 @@ Oui.
 Et que feront vos ours si je ne suis pas votre tutoriel? --89
 
 #tuto_89_1
-Mes ours sont formés pour faire beaucoup de choses, y compris dévorer les entrailles de vos tribus.
+Mes ours sont formés pour faire beaucoup de choses, y compris dévorer les entrailles de votre tribu.
 
 #tuto_89_c1
 Je m'en fous, je peux obtenir une autre tribu .--90
@@ -771,7 +771,7 @@ Je m'en fous, je peux obtenir une autre tribu .--90
 Vous n'êtes pas un très bon leader pour votre peuple.
 
 #tuto_90_c1
-Vous n'êtes pas un très bon assistant de tutorat .--91
+Vous n'êtes pas un très bon assistant de tutoriel .--91
 
 #tuto_91_1
 Tu es méchant.
@@ -783,7 +783,7 @@ Voulez-vous me laisser seul maintenant? --92
 Bien. Amusez-vous avec ce jeu de merde: Ses interfaces et menus sont si mauvais que vous ne le saurez jamais de toute façon. Je suis trop vieux pour cette merde ...
 
 #tuto_92_c1
-Oui, FINE! Je n'ai pas besoin de toi! --999
+Oui, D'ACCORD! Je n'ai pas besoin de toi! --999
 
 #tuto_92_c2
 Attends quoi? --93
@@ -807,16 +807,16 @@ Je suis désolé .--95
 Je suis désolé, qui?
 
 #tuto_95_c1
-Je suis désolé, monsieur Sageporc .--96
+Je suis désolé, Sageporc .--96
 
 #tuto_96_1
-C'est MISTER monsieur Sagacious cochon à vous.
+C'est monsieur Sageporc à vous.
 
 #tuto_96_c1
 Je suis désolé, monsieur monsieur Sageporc. Pouvons-nous y revenir maintenant? --97
 
 #tuto_97_1
-Hmmmph ... Ça va faire, cochon ... ça va faire. Tu ferais mieux d'écouter et de bien cette fois-ci!
+Hmmmph ... Ça va le faire, Porco ... ça va le faire. Vous feriez mieux d'écouter et bien cette fois!
 
 #tuto_97_c1
 J'écoute .--1
@@ -837,19 +837,19 @@ J'ai une armée d'ours! Je peux les appeler tous et essuyer votre tribu insolent
 Non, vous ne le faites pas. Vous êtes juste un assistant tutoriel boiteux essayant d'être drôle .--100
 
 #tuto_100_1
-Comment oses-tu!
+Comment osez vous!
 
 #tuto_100_c1
-Tu n'existes même pas. Tu es juste un script de lignes pré-écrites pseudo-interactives ici seulement pour mon divertissement personnel .--101
+Vous n'existez même pas. vous êtes juste un script de lignes pré-écrites pseudo-interactives ici seulement pour mon divertissement personnel .--101
 
 #tuto_101_1
-Tu ment!
+Vous mentez!
 
 #tuto_101_c1
 Je peux me débarrasser de vous à tout moment en éditant simplement le fichier .ini de ce jeu.-102
 
 #tuto_102_1
-Non tu ne peux pas! Vous serez perdu dans ce jeu sans moi. Tu as besoin de moi.
+Non vous ne pouvez pas! Vous serez perdu dans ce jeu sans moi. Vous avez besoin de moi.
 
 #tuto_102_c1
 Oui je peux, et je le ferai. En ce moment .--103--51
@@ -864,7 +864,7 @@ Pas avant d'engendrer mon armée d'Ours et d'exterminer votre chère excuse d'un
 Comment ... Quel genre de tutoriel monstre est-ce? --999
 
 #tuto_104_1
-Oh parce que tu es un expert en ours!
+Oh parce que Vous êtes un expert en ours!
 
 #tuto_104_c1
 Oui je suis, en fait .--105
@@ -894,10 +894,10 @@ Oui .--999
 Non, j'ai gagné, mais je vais livrer votre tutoriel .--1
 
 #tuto_107_1
-Faux! Toi, petit cochon! Maintenant faites attention et souffrez mon tutoriel interminable!
+Faux! Toi, petit Porco! Maintenant faites attention et souffrez de mon tutoriel interminable!
 
 #tuto_107_c1
-Damnit ... --1
+Mince ... --1
 
 #tuto_108_1
 Vous l'avez googlé, n'est-ce pas?
@@ -906,16 +906,16 @@ Vous l'avez googlé, n'est-ce pas?
 Non .--109
 
 #tuto_109_1
-Tu l'as fait. Je sais cela. Admettez-le, ou faites face à des conséquences irréversibles!
+Tu l'as fait. Je sais cela. Admet-le, ou fais face à des conséquences irréversibles!
 
 #tuto_109_2
-Je suis le Bearmaster. Si vous ne venez pas nettoyer, je convoquerai mon armée d'ours vindicatifs et vous exterminerai ainsi que votre chétive tribu! Ensuite, plus de tutoriel pour vous, porcelet MISTER! Vous serez seul dans ce jeu cruel et impitoyable avec ses interfaces et menus intuitifs et contre-intuitifs. Alors détrompez-vous, avant de faire quelque chose d'idiot pour me défier. C'est ta dernière chance!
+Je suis le Maître des ours. Si vous ne venez pas nettoyer, je convoquerai mon armée d'ours vindicatifs et t'exterminerai ainsi que votre chétive tribu! Ensuite, plus de tutoriel pour vous, MONSIEUR porcelet! Vous serez seul dans ce jeu cruel et impitoyable avec ses interfaces et menus confus et contre-intuitifs. Alors détrompez vous, avant de faire quelque chose d'idiot pour me défier. C'est votredernière chance!
 
 #tuto_109_c1
-Je ne vais pas! --110--51
+Je ne viens pas! --110--51
 
 #tuto_110_1
-Tu as triché! Pour cela, vous méritez une punition insupportable! Il est temps pour mes ours de maul votre insolente tribu!
+Vous avez triché! Pour cela, vous méritez une punition insupportable! Il est temps pour mes ours de manger votre insolente tribu!
 
 #tuto_110_c1
 Je ne peux pas croire ça ... --999
@@ -1236,5 +1236,5 @@ Très bien.--413
 C'est tout pour le moment. Bonne chance dans cette transition difficile!
 
 #tuto_413_c1
-Merci, Monsieur Porc.-- 997
+Merci, Monsieur Sagaceporc.-- 997
 
