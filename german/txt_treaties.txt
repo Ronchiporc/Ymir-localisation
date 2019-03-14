@@ -5,7 +5,7 @@ Einzigartige Zahlung
 Bezahlt [x] Münzen
 
 #agrim_goldo_3
-Einmalzahlung von [x] nach [y], bei Vertragsunterzeichnung.
+Einmalzahlung von [x] nach [y] bei Vertragsunterzeichnung.
 
 #agrim_goldr_1
 Münztransfer
@@ -14,7 +14,7 @@ Münztransfer
 Kontinuierlicher Transfer von [x]-Münzen aus dem Einkommen
 
 #agrim_goldr_3
- [x] überweist kontinuierlich Münzen an [y], solange der Vertrag aktiv bleibt.
+[x] überweist kontinuierlich Münzen an [y], solange der Vertrag aktiv bleibt.
 
 #agrim_goldtax_1
 Münzensteuer
@@ -23,16 +23,16 @@ Münzensteuer
 Gibt [x]% des Münzeinkommens.
 
 #agrim_goldtax_3
- [x] überträgt einen Prozentsatz seines gesamten Münzeinkommens an [y].
+[x] überträgt einen Prozentsatz seines gesamten Münzeinkommens an [y].
 
 #agrim_admtax_1
 Leistungsübertragung
 
 #agrim_admtax_2
-Transfers [x]% der Staatsmacht
+Überträgt [x]% der Staatsmacht
 
 #agrim_admtax_3
- [x] überträgt ein Prozent seiner Staatsmacht an [y].
+[x] überträgt ein Prozent seiner Staatsmacht an [y].
 
 #agrim_trad_1
 Handelsabkommen
@@ -53,10 +53,10 @@ Gibt das Recht auf Durchgang
 Ermöglicht es Einheiten von [y], sich in den Gebieten von [x] zu bewegen.
 
 #agrim_embrg_1
-Embargo gegen.....
+Embargo gegen...
 
 #agrim_embrg_2
-Embargo von gegen [x]
+Embargo gegen [x]
 
 #agrim_embrg_3
 Verbietet den Handel mit einem bestimmten Staat.
@@ -65,19 +65,19 @@ Verbietet den Handel mit einem bestimmten Staat.
 Beitritt zur Nation
 
 #agrim_vassal_2
-Beitritt zum [x]
+Beitritt zur [x]
 
 #agrim_vassal_3
- [x] wird sich der Nation von [y] anschließen.
+[x] wird sich der Nation von [y] anschließen.
 
 #agrim_war_1
-Den Krieg erklären, um.....
+Den Krieg erklären, um...
 
 #agrim_war_2
 Kriegserklärung an [x]
 
 #agrim_war_3
-Deklarieren Sie den Krieg in einen anderen angegebenen Zustand.
+Erkläre den Krieg in einen anderen angegebenen Zustand.
 
 #agrim_peace_1
 Friedensvertrag
@@ -107,25 +107,25 @@ Handelsroute
 Einrichtung einer vertraglich gebundenen Handelsroute
 
 #agrim_givreg_1
-Region angeben
+Region abgeben
 
 #agrim_givreg_2
-Gibt den Bereich von ' [x]' an. 
+Gibt den Bereich von '[x]' ab. 
 
 #agrim_givreg_3
-Übertragen Sie das Eigentum an einer Region auf [y].
+Übertrage das Eigentumsrecht an einer Region auf [y].
 
 #agrim_gividea_1
-Geben Sie eine Idee
+Gebe eine Idee
 
 #agrim_gividea_2
 Gib eine Idee für [x]
 
 #agrim_gividea_3
- [y] wird von [x] eine neue Idee für Erkenntnisse erhalten, die er noch nicht hat.
+[y] wird von [x] eine neue Idee für Erkenntnisse erhalten, die er noch nicht hat.
 
 #treaty_powcost
-Staatliche Energiekosten für die Aufrechterhaltung dieses Vertrags
+Staatliche Kosten für die Aufrechterhaltung dieses Vertrags
 
 #treaty_coinpen
 Münzstrafe
@@ -137,7 +137,7 @@ Münzstrafe
 zu [x].
 
 #treaty_gdp
- [x]% des BIP
+[x]% des BIP
 
 #treaty_honor
 Ehrenengagement
@@ -149,7 +149,7 @@ Umfang der Verpflichtung von [x], diesen Vertrag einzuhalten.
 Verhältnismäßige Ehre geht verloren, wenn [x] sie bricht.
 
 #treaty_warbound
-Kriegsgefangen
+Kriegsgebunden
 
 #treaty_warbound_c1
 Ob [x] oder nicht, wird automatisch den Krieg erklären.
@@ -158,7 +158,7 @@ Ob [x] oder nicht, wird automatisch den Krieg erklären.
 wenn [x] diesen Vertrag bricht.
 
 #treaty_closes
-Das Brechen schließt
+Das Brechen wird beendet
 
 #diplo_npass
 Nationales Durchfahrtsrecht

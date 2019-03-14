@@ -210,10 +210,10 @@ stabil
 Porco
 
 #g_Porcos
-Schweinchen
+Porcos
 
 #g_Unload
-Entladen
+Abladen
 
 #g_Destroy
 Zerstören
@@ -234,7 +234,7 @@ IM KRIEG
 NEUTRAL
 
 #g_AT_PEACE
-AM FRIEDEN
+IM FRIEDEN
 
 #g_year
 Jahr
@@ -252,7 +252,7 @@ automatisch
 Irgendwelche
 
 #g_any
-irgendeine
+irgendwelche
 
 #g_seconds
 Sekunden
@@ -267,13 +267,13 @@ Stunden
 Tage
 
 #g_solidity
-Solidität
+Stabilität
 
 #g_Cover
-Abdeckung
+Deckung
 
 #g_cover
-Abdeckung
+Deckung
 
 #g_random
 zufällig
@@ -294,10 +294,10 @@ Rebellen
 von
 
 #g_facrk1_2
-Häuptlingstum
+Stammesfürstentum
 
 #g_facrk2_1
-Häuptling
+Stammesführer
 
 #g_prmtv_trb
 Primitiver Stamm
@@ -438,10 +438,10 @@ Kenntnisse
 Diplomatie
 
 #g_Legitimacy
-Legitimität
+Rechtmäßigkeit
 
 #g_enables
-ermöglicht
+aktiviert
 
 #g_price
 Preis
@@ -477,7 +477,7 @@ Struktur
 Struktur
 
 #g_Solidity
-Solidität
+Stabilität
 
 #g_refuse
 ablehnen
@@ -501,10 +501,10 @@ Freie Städte
 Hoher Häuptling
 
 #g_facrk2_2
-Häuptlingstum
+Stammesfürstentum
 
 #g_trb_of
-Stamm der[x]
+Stamm der [x]
 
 #g_capital
 Kapital
