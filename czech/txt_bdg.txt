@@ -81,7 +81,7 @@ Platformy jsou převýšené dlaždice přes které můžete stavět. Obranné s
 schody
 
 #bdg_stairs_dscr
-Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
+Umožňuje prasatům přístup k povrchům v rozdílných výškách. Umístěte proti plošinám nebo útesům, abyste získali přístup.
 
 #bdg_gates_n
 brána
@@ -120,13 +120,13 @@ Musí být položen na plochu s jílem. Zvýší produkci jílu na těchto ploch
 Textilní výrobce
 
 #txt_clothmk_dscr
-Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
+Vyrábí oděv z textilu. Oblečení je distribuovatelný zdroj, který uspokojuje potřeby obyvatelstva pro oděvy.
 
 #txt_gather_n
 Sběrači
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources.
+Umožňuje využívat divoké zemědělské zdroje. Musí být umístěny v dosahu zdrojů.
 
 #txt_farm_n
 Farma
@@ -174,115 +174,115 @@ Několika úrovňové obydlí které poskytuje ubytování pro několik rodin.
 Lovec
 
 #txt_hunter_dscr
-Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
+Umožňuje využívat divoká zvířata k produkci čerstvého masa a kůže. Musí být umístěna v dosahu místa výskytu divokě zvěře.
 
 #txt_flint_n
-Flint collector
+Zběrač pazourků
 
 #txt_flint_dscr
-Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
+Vyrábí pazourky ze štěrkového terénu. Pazourky pak mohou používat výrobci nástrojů k řemeslným kamenným nástrojům.
 
 #txt_platf1_n
 Dřevěnná platforma
 
 #txt_platf1_dscr
-A cheap low resistance platform. Usefull to make cheap defenses and bridges.
+Levná platforma s odolností. Užitečné, pro levné obrany a mosty.
 
 #txt_platf2_n
 Kamenná platforma
 
 #txt_platf2_dscr
-A solid platform usefull to make resistent walls.
+Pevná platforma užitečná k vytvoření odolných stěn.
 
 #txt_dstrplatf_n
 Znič platformu
 
 #txt_dstrplatf_dscr
-Orders destruction of selected platforms.
+Rozkáže zničení zvolenné platformy.
 
 #txt_tow1_n
 Rozhledna
 
 #txt_tow1_dscr
-A cheap but weak defensive tower made of leather covered wood. Fire arrows.
+Levná, ale slabá obranná věž z dřeva potažená kůží. Využívá ohňivé šipy.
 
 #txt_tow2_n
 Dřevěnná věž
 
 #txt_tow2_dscr
-A defensive tower made of thick wooden beams. Fire arrows.
+Obranná vež postavena z tuhého dřeva. Využívá ohňivé šipy.
 
 #txt_tow3_n
 Kamenná věž
 
 #txt_tow3_dscr
-Stone towers are much more resistent than their wooden counterparts. Fire arrows.
+Kamenné věže jsou mnohem odolnější než jejich dřevěné protějšky. Využívá ohňivé šipy.
 
 #txt_tow4_n
 Velká věž
 
 #txt_tow4_dscr
-This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
+Tato věž je postavena z pevných kamenných bloků pro zvýšení odolnosti proti nepřátelskému dělostřelectvu. Využívá ohňivé šipy.
 
 #txt_batlm1_n
 Dřevěnné cimbuří
 
 #txt_batlm1_dscr
-Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
+Surové dřevěné cimbuří, které poskytuje základní kryt od nepřátelské palby k jednotkám stojícím na plošině během bitev.
 
 #txt_batlm2_n
 Kamenné cimbuří
 
 #txt_batlm2_dscr
-Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
+Kamenné cimbuří poskytující krytí od nepřátelské palby k jednotkám stojícím na platformě během bitev.
 
 #txt_batlm3_n
-Machicolated stone battlements
+Obrobené kamenné cimbuří
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+Těžké cimbuří z masivních kamenných bloků s podsebitím, které poskytují vynikající krytí před nepřátelskou palbou k jednotkám stojícím na platformě během bitev.
 
 #txt_batlm4_n
 Ohrada
 
 #txt_batlm4_dscr
-Excellent cover but weaker than stone battlements.
+Úžasné krytí ,ale slabší než kamenné cimbuří.
 
 #txt_market_n
 Tržní stojan
 
 #txt_market_dscr
-Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
+Tržní stánky dodávají obyvatelstvu výrobu budovy, budovy které to náleží. Generované příjmy jdou výrobci, ale za účelem řízení stánku je potřeba jednoho pracovníka což snižue konečnou produkci danné budovy.
 
 #txt_field_n
 Pole
 
 #txt_field_dscr
-Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
+Pole jsou funkční pouze na farmě, do které patří. Vyrábí širokou škálu zemědělských produktů.
 
 #txt_road1_n
 Hliněnná cesta
 
 #txt_road1_dscr
-A basic road and free to build road.
+Základní typ cety ,který je zdrama.
 
 #txt_road2_n
 Dřevěnná cesta
 
 #txt_road2_dscr
-A road with pieces of wood encrusted in dirt to limit mud on rainy weather.
+Cesta s kousky dřeva ,zarytá do země k omezení bahna za deštivého počasí.
 
 #txt_road3_n
 Štěrkovanná cesta
 
 #txt_road3_dscr
-A road paved with crude cobblestones.
+Cesta vydlážděna z neopracovanných dlažebních kamennů.
 
 #txt_road4_n
 Kamenná cesta
 
 #txt_road4_dscr
-An expensive road made of large stone blocs
+Drahá cesta, jež je vytvořena z velkých kamenných bloků.
 
 #txt_road5_n
 Dlážděnná cesta
@@ -360,25 +360,25 @@ A plain patch of flowers for decoration.
 Dřevorubec
 
 #txt_woodc_dscr
-Woodcutters can exploit most of the available trees in range to produce wood.
+Dřevorubci mohou využít většinu dostupných stromů v dosahu k produkci dřeva.
 
 #txt_merchant_n
 Obchodník
 
 #txt_merchant_dscr
-Specialized distributors who make one selectable resource available to the population.
+Specializovaní distributoři, kteří zpřístupní jeden volitelný zdroj obyvatelstvu.
 
 #txt_mine_n
 Težební tábor
 
 #txt_mine_dscr
-Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
+Využívá části terénu se speciálními ložisky pro výrobu širokého spektra surovin, zejména prostřednictvím využití rozšíření, jsou-li k dispozici.
 
 #txt_mineshaft_n
 Důl
 
 #txt_mineshaft_dscr
-Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
+Základní rozšíření těžebního tábora. Těžební šachty zvyšují produkci těžebního tábora, do kterého patří. Musí být postavena nad plochami s platnými ložisky.
 
 #txt_paddock_n
 Výběh(ohrada)
@@ -486,19 +486,19 @@ A solid gate reinforced with iron.
 Dobytčí farma
 
 #txt_cattle_dscr
-The cattle farms allows you to create pastures that produce cattle.
+Farmy pro dobytek vám umožňují vytvářet pastviny, které produkují dobytek.
 
 #txt_pastr_n
 Pastvina
 
 #txt_pastr_dscr
-An enclosed area of land where cattle can feed and breed.
+Uzavřená oblast půdy, kde se může živit dobytek a reprodukovat.
 
 #txt_pastrw_n
 Vlněná pastvina
 
 #txt_pastrw_dscr
-Pastures of wool producing animals, regularly sheared to collect their wool.
+Pastviny zvířat produkujících vlnu, pravidelně stříhané, pro zběr vlny.
 
 #txt_builder_n
 Stavitelé
@@ -558,7 +558,7 @@ Místo určené společenská setkání k pití a večírkům.
 Forum
 
 #txt_forum_dscr
-A place of social gathering to discuss matters of the community.
+Místo společenského setkání k diskusi o záležitostech komunity.
 
 #txt_furnmkr_n
 Výrobce nábydku
@@ -756,26 +756,25 @@ Hliněnná zeď
 Jednoduchá branná zeď vyrobena z hliněných cihel.
 
 #txt_stairs2_n
-Stone stairs
+Kamenné schody
 
 #txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Schody, které lze umístit proti útesům nebo stěnám do jakékoli výšky pro umožnění průchodu.
 
 #txt_wall3_n
 Dlažbová zeď
 
 #txt_wall3_dscr
-A simple defensive wall made of cobble stone held together with crude masonry.
+Jednoduchá obranná zeď z dlažebního kamene držená pospolu se zdivem.
 
 #txt_wall4_n
-Brick wall
+Cihlová zeĎ
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks, stronger than mudbricks.
+Jednoduchá obranná zeď udělanná z cihel, silnější než ta z hliněnných cihel
 
 #txt_wall5_n
-Stoneblocs wall
+Kamenná zeď
 
 #txt_wall5_dscr
-A solid defensive wall made of stone blocs.
-
+Pevná obranná stěna z kamenných bloků.
