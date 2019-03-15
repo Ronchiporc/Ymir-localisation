@@ -1,6 +1,6 @@
 ﻿Dies ist ein Spiel, das dazu bestimmt ist, komplex und hart zu sein.
 Ähnlichkeiten mit anderen Arten wären rein zufällig und unbeabsichtigt.
-Die Wirtschaft ist nie stabil. Die Dinge schwanken immer, und das liegt daran, dass sie das Ergebnis einer dynamischen Simulation sind, bei der sich viele Dinge kontinuierlich gegenseitig beeinflussen. Mache dir keine Sorgen, wenn du sie nicht stabil halten kannst.
+Die Wirtschaft ist nie stabil. Die Dinge schwanken immer und das liegt daran, dass sie das Ergebnis einer dynamischen Simulation sind, bei der sich viele Dinge kontinuierlich gegenseitig beeinflussen. Mache dir keine Sorgen, wenn du sie nicht stabil halten kannst.
 Wenn das Einkommen eines Porcos 3% des Gesamteinkommens der Region ausmacht, wird sein Vermögen 3% des Gesamtvermögens der Region betragen.
 Das Einkommen einer sozialen Klasse wird gerecht auf alle Porcos aufgeteilt, die zu dieser Klasse gehören. Das individuelle Einkommen eines Porcos ist daher ein Durchschnittswert, der auf dem Gesamteinkommen seiner sozialen Schicht basiert.
 Die Marktstudie über seltene Ressourcen wird dazu neigen, den Reichtum deiner reichsten Klassen abzugleichen, während reiche Klassen dazu neigen, den Reichtum der einfachen Leute abzugleichen.
@@ -12,8 +12,8 @@ Der Reichtum als universelle Bezugsgröße ist in allen Regionen und Akteuren gl
 Jeder Porco, der Zeit damit verbringt, an etwas zu arbeiten, produziert Vermögen proportional zum Umfang der geleisteten Arbeit.
 Ein Porco, der in einem Gebäude mit der doppelten Effizienz eines anderen arbeitet, produziert doppelt so viel Arbeit an einem Tag und damit doppelt so viel Vermögen.
 Die Art oder der Preis der Waren haben keinen Einfluss auf den Reichtum. Diese Dinge stehen im Verhältnis zu den Gesellschaften, während der Reichtum eine objektive universelle Einheit ist, die die Zeit darstellt, die mit der Arbeit an allem verbracht wird.
-Wenn ein Porco 10 von 1000 Münzen verdient (Summe der Einkommen in der Region), aber dann ändern sich die Dinge und es zirkuliert plötzlich 2000, ist es, als hätte er die Hälfte dessen verloren, was seine Münzen wirklich wert sind, und er hat die Hälfte des Reichtums der Region verloren, den er früher hatte, wenn seine 10 Münzen.
-Währungen stellen ein Recht auf einen Anteil am realen Wert dar und haben nicht unbedingt einen eigenen Wert. In Ymir ist dieser "reale objektive Wert" die Einheit des "Reichtums", die durch die Währungen "Coins" repräsentiert wird. 
+Wenn ein Porco 10 von 1000 Münzen verdient (Summe der Einkommen in der Region), aber dann ändern sich die Verhältnisse und es zirkulieren plötzlich 2000, ist es, als hätte er die Hälfte dessen verloren, was seine Münzen wirklich wert sind, und er hat die Hälfte des Reichtums der Region verloren, den er früher hatte, wenn er seine 10 Münzen ausgegeben hätte.
+Währungen stellen ein Recht auf einen Anteil am realen Wert dar und haben nicht unbedingt einen eigenen Wert. In Ymir ist dieser "reale objektive Wert" die Einheit des "Reichtums", die durch die Währungen "Münzen" repräsentiert wird. 
 Wenn der gesamte Reichtum der Region ein Kuchen wäre, würde jede Münze einem Porco das Recht auf ein Stück davon geben. Die Größe der Scheibe hängt davon ab, wie viele andere Münzen im Umlauf sind (Summe aller Einkommen in der Region).
 Die Summe aller Einnahmen einer Region stellt die Gesamtmenge der im Umlauf befindlichen Münzen und damit den objektiven Wert (Reichtum) jeder Münze dar.
 Um die Komplikation der relativen Währungen zu vereinfachen und zu vermeiden, wird in ymir die Anzahl der im Umlauf befindlichen Münzen automatisch als Summe aller Einnahmen festgelegt. Daher schwankt auch der Ist-Wert (Reichtum) jeder Münze automatisch in Abhängigkeit von der Gesamtmenge der Einnahmen.
