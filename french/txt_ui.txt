@@ -252,7 +252,7 @@ Une sauvegarde '[x]' existe déjà! Que voulez-vous faire?
 Écraser
 
 #newgame_renam
-Auto-renommer
+Renommer-auto
 
 #newgame_nomap
 aucun disponible
@@ -327,7 +327,7 @@ Sélectionnez une carte du monde
 Sélectionnez une carte personnalisée
 
 #custmap_dscr
-Les cartes custom sont des cartes créées manuellement avec l'éditeur au lieu d'être générées de manière procédurale.
+Les cartes personnalisées sont des cartes créées manuellement avec l'éditeur au lieu d'être générées de manière procédurale.
 
 #newgame_gamset
 PARAMÈTRES DE JEU
@@ -531,7 +531,7 @@ Bonus de santé pour les résidents de ce logement
 Bonus de qualité de vie pour les résidents de ce logement
 
 #bc_bdginf_eff
-L'efficacité augmente la force de travail de chaqun des travailleurs de ce bâtiment.
+L'efficacité augmente la force de travail de chacun des travailleurs de ce bâtiment.
 
 #b_bdginf_wealth
 production de richesse maximale
@@ -687,7 +687,7 @@ ajouter un stand de marché
 Ce bâtiment peut créer des stands sur le marché où les travailleurs vendront directement leurs produits au public, mais cela réduit la production de main-d'œuvre.
 
 #ui_menubdg_dtrb2
-Ce bâtiment ne peut pas créer des stands de maket parce qu'il ne peut pas produire quelque chose vendable au public.
+Ce bâtiment ne peut pas créer des stands de marché parce qu'il ne peut pas produire quelque chose vendable au public.
 
 #ui_menubdg_anx
 Annexes
@@ -984,7 +984,7 @@ REVOQUE DANS LA RÉFORME
 cliquez pour ajouter la révocation de cette politique à la réforme
 
 #ui_civ_cncl
-ANNULER DE LA REFORME
+ANNULER LA REFORME
 
 #ui_civ_cncl_c
 cliquez pour supprimer cette modification en attente de votre réforme
@@ -1023,13 +1023,13 @@ Solde budgétaire
 Le trésor est le montant total des monnaies détenues par votre gouvernement. Les politiques économiques définissent comment l'économie de votre société est actuellement organisée.
 
 #ui_eco_notrsr_dscr
-Cette société fonctionne actuellement sans aucune forme de monnaie et ses gens partagent tout simplement dans la communauté: le gouvernement n'a pas de trésorerie ni de revenus ou d'explications.
+Cette société fonctionne actuellement sans aucune forme de monnaie et ses gens partagent tout dans la communauté: le gouvernement n'a pas de trésorerie ni de revenus.
 
 #ui_eco_lead
 Contributions du dirigeant
 
 #ui_eco_lead_c1
-Le dirigean attribue actuellement [x]% de sa richesse personnelle totale aux finances publiques.
+Le dirigeant attribue actuellement [x]% de sa richesse personnelle totale aux finances publiques.
 
 #ui_eco_tax
 Impôts
@@ -1164,7 +1164,7 @@ placement
 ACCÈS DES INDUSTRIES
 
 #uic_mres_indaccess
-Industries accès à cette ressource comme un matériau
+Les industries ont accès à cette ressource comme un matériau
 
 #ui_mres_indneed
 Demande
@@ -1272,10 +1272,10 @@ L'éducation civique active et les services dans le territoire comme la justice 
 Effets: empêche la rébellion de la population
 
 #regloy_1
-La loyauté représente la loyauté mondiale des peuples du territoire envers vous: le gouvernement central qui contrôle ce territoire.
+La loyauté représente la loyauté du peuples d'un territoire envers vous: le gouvernement central qui contrôle ce territoire.
 
 #regloy_2
-Il est affecté par de nombreux facteurs tels que la culture du peuple, le niveau de conflit sur le territoire, les politiques actives, les événements passés ou l'autorité du gouvernement sur le territoire. Si la loyauté devient trop faible (inférieure à 30%), il y aura un risque élevé de soulèvement populaire mondial qui peut conduire à perdre le contrôle du territoire.
+Elle est affectée par de nombreux facteurs tels que la culture du peuple, le niveau de conflit sur le territoire, les politiques actives, les événements passés ou l'autorité du gouvernement sur le territoire. Si la loyauté devient trop faible (inférieure à 30%), il y aura un risque élevé de soulèvement populaire dans le territoire qui peut conduire à en perdre le contrôle.
 
 #regcltr_eff
 Effets: contribue à votre culture globale, affecte la loyauté, augmente l'intelligence de la population
@@ -1323,7 +1323,7 @@ SANTÉ
 La santé détermine la durée de vie et la résistance aux maladies.
 
 #popstat_health_c2
-Il améliore la croissance de la population.
+Elle améliore la croissance de la population.
 
 #popstat_lifequal
 QUALITÉ DE VIE
@@ -1332,7 +1332,7 @@ QUALITÉ DE VIE
 La qualité de vie est un score qui mesure à quel point la vie du porco est bonne et confortable.
 
 #popstat_lifequal_c2
-Il affecte beaucoup d'autres choses telles que l'intelligence, le bonheur ou la croissance.
+Elle affecte beaucoup d'autres choses telles que l'intelligence, le bonheur ou la croissance.
 
 #popstat_intel
 INTELLIGENCE
@@ -2028,7 +2028,7 @@ En mêlée, la capacité de toucher les ennemis et d'esquiver leurs attaques dé
 Dégâts de mélée
 
 #ui_statunit_md_dscr
-Amount of damage inflicted to the enemy when hit.
+Quantité de dégâts infligés à l'ennemi lorsqu'il est touché.
 
 #ui_statunit_rch
 Portée de mélée
@@ -2175,10 +2175,10 @@ Définir la hauteur de la plate-forme: ctrl + molette de la souris
 Mode pont: maintenir maj
 
 #ui_plattool_3
-Cancel and close : clic-droit
+Annuler et fermer : clic-droit
 
 #ui_plattool_4
-Confirm work and close: barre d'espace
+Confirmer le travail et fermer: barre d'espace
 
 #ui_plattool_cost
 coût prévu pour construire ces plates-formes
@@ -2205,10 +2205,10 @@ Ce bâtiment ne peut être placé que sur une ressource qu'il peut exploiter.
 Doit être placé sur une rive d'une profondeur minimale de [x].
 
 #ui_builderr_dist
-Ce bâtiment doit être au moins [x] cases de tout autre bâtiment du même type.
+Ce bâtiment doit être à au moins [x] cases de tout autre bâtiment du même type.
 
 #ui_builderr_stairs
-Les escaliers doivent être placés adjacent à une case plus élevée.
+Les escaliers doivent être adjacents à une case plus élevée.
 
 #ui_builderr_gate
 Les portes ne peuvent être placées que près d'une plateforme de type pont suffisamment élevée.
@@ -2913,10 +2913,10 @@ Nouvelle offre de route commerciale envoyée!
 Notre itinéraire commercial actuel offre:
 
 #ui_regres_off1
-Offres disponibles dans notre réseau de trading:
+Offres disponibles dans notre réseau de commerce:
 
 #ui_regres_off2
-Offres concurrentes dans notre réseau de trading:
+Offres concurrentes dans notre réseau de commerce:
 
 #ui_regres_cancel
 Annuler l'offre commerciale
@@ -3087,13 +3087,13 @@ Acheté [x] de [y] pour [z] monnaies!
 << C'est une perte de temps >>
 
 #menu_bdg_up_err1
-Il vous manque [x] de [y] pour mettre à jour ce bâtiment vers [z].
+Il vous manque [x] de [y] pour améliorer ce bâtiment vers [z].
 
 #menu_bdg_up_err2
-Vous n'avez pas assez de monnaies pour mettre à jour ce bâtiment à [x].
+Vous n'avez pas assez de monnaies pour améliorer ce bâtiment à [x].
 
 #menu_bdg_up_err3
-Cette mise à niveau nécessite un constructeur professionnel et vous n'en avez aucun !
+Cette amélioration nécessite un constructeur professionnel et vous n'en avez aucun !
 
 #menu_tch_curknw
 Connaissances actuelles
@@ -3102,7 +3102,7 @@ Connaissances actuelles
 Capacité
 
 #menu_tch_curuse_c1
-Votre société a actuellement [x] de connaissances, et une capacité à stocker [y].
+Votre société a actuellement [x] de connaissances, et une capacité de stockage de [y].
 
 #menu_tch_curuse_c2
 Vous perdrez des connaissances si votre capacité de stockage est inférieure à vos connaissances actuelles.
@@ -3654,7 +3654,7 @@ Ce rang est autorisé à recruter de nouveaux membres dans la nation ou non.
 Peut promouvoir
 
 #facttl_prom_c1
-Ce rang est autorisé à gérer les rangs de ses subordonnés ou non (promotion et promotion).
+Ce rang est autorisé à gérer les rangs de ses subordonnés ou non (promotion et rétrogradation).
 
 #facttl_rplcm
 Succession
@@ -4473,7 +4473,7 @@ Demande: [x] unités
 (offre soutenue par l'Etat)
 
 #ui_price_sd_c4
-[x]% du prix pré offre/demand de [y] monnaies = [z]
+[x]% du prix pré offre/demande de [y] monnaies = [z]
 
 #ui_price_sd_c41
 (effet limité par le prix minimal de [x]!)
