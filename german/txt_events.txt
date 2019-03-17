@@ -336,7 +336,7 @@ Wir haben diese Mission erfüllt und ihre Belohnungen erhalten.
 Das Spiel ist aus!
 
 #event_gameovr_1
-Das Spiel ist beendet und sein Gewinner ist die Nation '[x]', die als erste[p1] Siegpunkte erreicht hat und eine Gesamtpunktzahl von [p2] hat.
+Das Spiel ist beendet und sein Gewinner ist die Nation '[x]', die als erste [p1] Siegpunkte erreicht hat und eine Gesamtpunktzahl von [p2] hat.
 
 #event_gameovr_2
 Beachte, dass das Spiel fortgesetzt werden kann und du weiterspielen kannst, aber die Ergebnisse und Ränge werden nicht mehr aktualisiert und es wird keine weiteren Siegesmissionen geben.
@@ -591,19 +591,19 @@ Unterstützung von [y] bei dem Angriff von [x].
 Als Verbündeter von [y] nehmen unsere Truppen an der Schlacht teil und unterstützen seine Armeen.
 
 #event_hunt
-Jagd[p2][p3][p3]
+Jagd [p2] [p3]
 
 #event_hunt_1
-Wir starten eine Jagd gegen[p2][p3][p3]!
+Wir starten eine Jagd gegen [p2] [p3]!
 
 #event_hunt_2
 Unsere Jäger werden versuchen, so viele dieser Tiere wie möglich zu töten, um ihr Inventar zu füllen.
 
 #event_huntr
-Jagd[p2][p3][p3]
+Jagd [p2] [p3]
 
 #event_huntr_1
-Unsere Jäger starteten eine Jagd gegen[p2][p3][p3].
+Unsere Jäger starteten eine Jagd gegen [p2] [p3].
 
 #event_huntr_2
 Sie versuchten, so viele dieser Tiere wie möglich zu töten, um ihr Inventar zu füllen.
@@ -612,7 +612,7 @@ Sie versuchten, so viele dieser Tiere wie möglich zu töten, um ihr Inventar zu
 Verschuldet!
 
 #event_debt_1
-Wir sind derzeit mit[p1]-Münzen in unserem Schatzamt verschuldet. Verschuldet zu sein, reduziert unsere Staatsmacht und beeinträchtigt die Loyalität unserer Städte und Armeen.
+Wir sind derzeit mit [p1]-Münzen in unserem Schatzamt verschuldet. Verschuldet zu sein, reduziert unsere Staatsmacht und beeinträchtigt die Loyalität unserer Städte und Armeen.
 
 #event_debt_2
 Wir müssen unser gesamtes Staatseinkommen wieder in den grünen Bereich bringen, sonst geraten wir in ernsthafte Schwierigkeiten. Wenn die Situation verzweifelt ist, können wir auch eine Entscheidung in letzter Instanz treffen, unsere Schulden zu erlassen, aber das wird zu großen Unruhen in unserem Staat führen.
@@ -627,13 +627,13 @@ Bestätigst du den Schuldenerlass?
 Bist du sicher, dass du unsere Schulden für ungültig erklären willst? 
 
 #event_confcdebt_2
-Mit einer Verschuldung von[p1] Münzen und einem BIP von [p2] macht unsere Verschuldung derzeit[p3] % unseres BIP aus: Wenn wir sie annullieren, werden wir in allen unseren Gebieten eine geschätzte Strafe von [p4] Loyalität erleiden und du wirst etwa [p5] an Ehre verlieren!
+Mit einer Verschuldung von [p1] Münzen und einem BIP von [p2] macht unsere Verschuldung derzeit [p3]% unseres BIP aus: Wenn wir sie annullieren, werden wir in allen unseren Gebieten eine geschätzte Strafe von [p4] Loyalität erleiden und du wirst etwa [p5] an Ehre verlieren!
 
 #event_canceldebt
 Schuldenerlass!
 
 #event_canceldebt_1
-Wir haben die drastische Maßnahme ergriffen, unsere Schulden von[p1]-Münzen für ungültig und ungültig zu erklären und angekündigt, dass wir nicht zurückzahlen würden, was wir schuldig sind.
+Wir haben die drastische Maßnahme ergriffen, unsere Schulden von [p1]-Münzen für ungültig und ungültig zu erklären und angekündigt, dass wir nicht zurückzahlen würden, was wir schuldig sind.
 
 #event_canceldebt_2
 In allen unseren Städten sind die Gläubiger unserer Schulden revoltiert, dass sie nie bezahlt werden, was wir ihnen geschuldet haben. Viele Menschen haben alles verloren und werden dadurch ruiniert. Die Wirtschaft ist destabilisiert und in großen Turbulenzen, ganz zu schweigen von dem Verlust des Vertrauens der Bevölkerung in ihre Regierung. 
@@ -696,7 +696,7 @@ Unser Vertrag mit [x] von [y] wurde von uns beiden genehmigt und unterzeichnet u
 hat einen Vertrag gebrochen!
 
 #event_trt_brk1_2
-Gemäß den Vertragsbruchbedingungen haben wir[p1] Münzen als Entschädigung erhalten und sie haben [p2] an Ehre verloren.
+Gemäß den Vertragsbruchbedingungen haben wir [p1] Münzen als Entschädigung erhalten und sie haben [p2] an Ehre verloren.
 
 #event_trt_brk2
 Wir haben einen Vertrag mit [x] gebrochen!
@@ -711,13 +711,13 @@ Wir haben ihnen als Vergeltung den Krieg erklärt, und jeder andere Vertrag mit 
 Du hast uns als Vergeltung den Krieg erklärt.
 
 #event_brb_raid_1
-Unsere Späher berichten, dass eine Gruppe von etwa[p1] barbarischen Raidern das nahegelegene Gebiet von [x] verlassen hat und sich auf den Weg macht.
+Unsere Späher berichten, dass eine Gruppe von etwa [p1] barbarischen Raidern das nahegelegene Gebiet von [x] verlassen hat und sich auf den Weg macht.
 
 #event_brb_raid_2
 du könntest bald hier sein und versuchen, unsere Lager schnell zu durchsuchen. Wir müssen unsere Verteidigung vorbereiten! 
 
 #event_brb_sack_1
-Unsere Späher berichten, dass ein barbarischer Kriegsverband von etwa[p1] Pocros das nahegelegene Gebiet von [x] verlassen hat und uns entgegenkommt.
+Unsere Späher berichten, dass ein barbarischer Kriegsverband von etwa [p1] Pocros das nahegelegene Gebiet von [x] verlassen hat und uns entgegenkommt.
 
 #event_brb_sack_2
 du könntest bald hier sein und werden angreifen, um alle unsere Verteidigungsanlagen zu überwinden, die das ganze Gebiet plündern! Wir müssen unsere Verteidigung vorbereiten! 
@@ -726,7 +726,7 @@ du könntest bald hier sein und werden angreifen, um alle unsere Verteidigungsan
 Ankommende barbarische Eindringlinge!
 
 #event_brb_inv_1
-Unsere Späher berichten, dass eine Armee von Barbaren mit etwa[p1] Pocros das nahe gelegene Territorium von [x] verlassen hat und uns entgegenkommt.
+Unsere Späher berichten, dass eine Armee von Barbaren mit etwa [p1] Pocros das nahe gelegene Territorium von [x] verlassen hat und uns entgegenkommt.
 
 #event_brb_inv_2
 du könntest bald hier sein und sie scheinen nicht nur zu kommen, um zu plündern, sondern um in unser Land einzudringen! Wir müssen unsere Verteidigung vorbereiten! 
@@ -825,7 +825,7 @@ Ein Projekt kann scheitern, wenn seine Schwierigkeit höher ist als die durchsch
 Herde von [p2] in der Nähe von [x] gesichtet!
 
 #event_herd_1
-Die Späher des Stammes haben ein bewegendes Geräusch von etwa[p1][p2] in der Nähe unserer Siedlung [x], in einem Gebiet von [y], entdeckt.
+Die Späher des Stammes haben ein bewegendes Geräusch von etwa [p1][p2] in der Nähe unserer Siedlung [x], in einem Gebiet von [y], entdeckt.
 
 #event_herd_2
 Wir könnten einige unserer besten Porcos schicken, um sie zu jagen: das würde uns mit frischem Fleisch und Leder für den Stamm versorgen!
@@ -843,10 +843,10 @@ Tiere können entkommen, wenn sie im Verhältnis zu ihren Hütern zu zahlreich s
 Wir haben eine neü Idee von [x] erhalten!
 
 #event_rcvidea_1
-Gute Nachrichten: Die Leute von [x] haben uns ihr Wissen über[p1] gezeigt und uns die Grundzüge dessen, was es ist und wie es funktioniert, erklärt.
+Gute Nachrichten: Die Leute von [x] haben uns ihr Wissen über [p1] gezeigt und uns die Grundzüge dessen, was es ist und wie es funktioniert, erklärt.
 
 #event_rcvidea_2
-Basierend auf dem, was sie uns gezeigt haben, haben wir nun ein neüs Projekt freigeschaltet: '[p2]', das wir versuchen können, uns selbst zu vervollständigen, um auch das Wissen von[p1] zu beherrschen!
+Basierend auf dem, was sie uns gezeigt haben, haben wir nun ein neüs Projekt freigeschaltet: '[p2]', das wir versuchen können, uns selbst zu vervollständigen, um auch das Wissen von [p1] zu beherrschen!
 
 #event_trtov
 Unser Vertrag '[x]' mit [y] ist nun beendet.
@@ -1440,7 +1440,7 @@ Du hast eine zuvor führerlose Region übernommen, entweder weil sie von ihrem f
 Anführer der Kolonie
 
 #ev_spwn_clny_1
-Nach vielen Jahren langsamer Entwicklung und stiller Führung durch gehorsame Administratoren ist die dem [y] angegliederte Kolonie [x] nun bereit, eine eigene politische Einheit zu werden. Du hast ihr Vertrauen gewonnen und wurdest zum ersten wahren Führer von [x] befördert, da die Region innerhalb der[p1] unter der Schirmherrschaft der [y] einen neün administrativen und politischen Status erhält. Es ist Zeit für [x], sich einen Namen zu machen und seine Spuren in der Geschichte von Porcokind zu hinterlassen. 
+Nach vielen Jahren langsamer Entwicklung und stiller Führung durch gehorsame Administratoren ist die dem [y] angegliederte Kolonie [x] nun bereit, eine eigene politische Einheit zu werden. Du hast ihr Vertrauen gewonnen und wurdest zum ersten wahren Führer von [x] befördert, da die Region innerhalb der [p1] unter der Schirmherrschaft der [y] einen neün administrativen und politischen Status erhält. Es ist Zeit für [x], sich einen Namen zu machen und seine Spuren in der Geschichte von Porcokind zu hinterlassen. 
 
 #ev_spwn_clny_2
 Du bist der erste Herrscher einer Kolonie geworden, die zuvor von einem anderen Spieler gegründet wurde. Diese Region entwickelt sich daher jetzt und wird zu einer eigenen politischen Einheit, die von Ihnen regiert wird. Sie beginnen jedoch als Mitglied einer bestehenden Nation und standardmäßig unter der Schirmherrschaft des ursprünglichen Gründers der Kolonie: der [y]. Als neür Zweig seiner Kultur beginnt man auch mit dem Wissen der Gründer. Als Ex-Kolonie, sei gewarnt, dass du auch mit einem Vertrag beginnst, der dich an seine Nation bindet, was bedeutet, dass du diese nicht verlassen kannst, ohne es zu brechen und Strafen oder sogar Krieg zu erleiden. Aber das kann auch eine gute Sache sein: Du fängst nicht allein an und kannst Schutz und Hilfe von deinen Vorgesetzten in der Nation suchen, um deine Entwicklung zu unterstützen. Es ist wahrscheinlich eine kluge Idee, damit zu beginnen, sich an deinen Vorgesetzten und Gründer zu wenden, um ihn zu begrüßen und freundschaftliche Beziehungen aufzubauen. Dann wer weiß, vielleicht wird es eines Tages Zeit für [x] sein, seine Unabhängigkeit zu beanspruchen!
@@ -1488,7 +1488,7 @@ Unsere Entdecker trafen freundliche Einheimische, die ihnen ihre Gastfreundschaf
 hat einen Gebietsanspruch verloren!
 
 #ev_claimloss_1
-Aufgrund ihrer unzureichenden lokalen Verwaltung ([p1]) hat die Stadt [x] einen ihrer Gebietsansprüche verloren, da sie es sich nicht mehr leisten konnte, sie zu erhalten.
+Aufgrund ihrer unzureichenden lokalen Verwaltung ( [p1]) hat die Stadt [x] einen ihrer Gebietsansprüche verloren, da sie es sich nicht mehr leisten konnte, sie zu erhalten.
 
 #ev_has_subjug_1
 Du hast den Zustand von [x] unterworfen, der von [y] regiert wird, der jetzt dein Vasall ist. 
@@ -1566,7 +1566,7 @@ Als Verbündeter von [y] nahmen unsere Truppen an der Schlacht teil und assistie
 hat illegal den Vertrag von ' [y]' gebrochen, den sie mit uns hatten!
 
 #event_trt_brk2_2
-Gemäß den Vertragsbruchbedingungen haben wir als Strafe[p1] Münzen bezahlt und [p2] an Ehre verloren.
+Gemäß den Vertragsbruchbedingungen haben wir als Strafe [p1] Münzen bezahlt und [p2] an Ehre verloren.
 
 #event_brb_raid
 Ankommende barbarische Raider!
@@ -1668,7 +1668,7 @@ Jäger fingen einige wilde Kamele in [x]!
 hat eine Siegesmission erfüllt!
 
 #ev_votesucc_rslt_1
- [p2] wurde gewählt [x], als Nachfolger von[p1]. 
+ [p2] wurde gewählt [x], als Nachfolger von [p1]. 
 
 #ev_votesucc_rslt_2
  [p2] gewann die Wahl mit[p3] Stimmen von [p4] abgegebenen Stimmen.
@@ -1677,7 +1677,7 @@ hat eine Siegesmission erfüllt!
 Du wurdest gewählt [x]!
 
 #ev_votesucc_won_1
-Herzlichen Glückwunsch! Du wurdest [y] in Folge von[p1] gewählt. 
+Herzlichen Glückwunsch! Du wurdest [y] in Folge von [p1] gewählt. 
 
 #ev_votesucc_won_2
 Du hast die Wahl mit[p3] Stimmen zu deinen Gunsten aus [p4] abgegebenen Stimmen gewonnen.
