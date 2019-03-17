@@ -546,7 +546,7 @@ Starttypen
 Klimazonen
 
 #newchar_st_precious
-Dies ist ein "Wertvoller Anfang": Einmal verwendet, kannst du nicht mehr von einem anderen "Wertvollen Spawn" für [x] zurückkehren, unabhängig von deiner Spawn-Abkühlung.
+Dies ist ein "Wertvoller Anfang": Einmal verwendet, kannst du nicht mehr von einem anderen "Wertvollen Spawn" für [x] zurückkehren, unabhängig von deiner Spawn-Abklingzeit.
 
 #newchar_st_prlck
 Dieser "Wertvolle Start" ist gesperrt, weil du bei einem anderen weniger als vor [x] gespawned bist ([y] übrig).
@@ -3984,10 +3984,10 @@ Gesamtspielzeit
 Die gesamte Zeit, die du online warst, um diesen Charakter zu spielen.
 
 #gamelob_maxchar
-Max. Zeichen
+Max. Charakter
 
 #gamelob_maxchar_c
-Die maximale Anzahl der auf diesem Server erlaubten Zeichen pro Spieler beträgt [x].
+Die maximale Anzahl der auf diesem Server erlaubten Charakter pro Spieler beträgt [x].
 
 #gamelob_spcloff
 Spawn-Abklingzeit
@@ -3996,7 +3996,7 @@ Spawn-Abklingzeit
 Die Mindestzeit, bevor du auf diesem Server wieder spielen darfst.
 
 #gamelob_spcloff_c2
-Du hast in diesem Spiel [x] mal gespawnt. Je öfter du auftauchst, desto länger ist die Abkühlung (Basisabkühlung in diesem Spiel ist von [y]).
+Du hast in diesem Spiel [x] mal gespawnt. Je öfter du auftauchst, desto länger ist die Abklingzeit (Basis-Abklingzeit in diesem Spiel ist von [y]).
 
 #gamelob_spcloff_c3
 Letzte Brut: [x] vor
