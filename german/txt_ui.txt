@@ -3996,7 +3996,7 @@ Spawn-Abklingzeit
 Die Mindestzeit, bevor du auf diesem Server wieder spielen darfst.
 
 #gamelob_spcloff_c2
-Du hast in diesem Spiel [x] mal gespawnt. Je öfter du auftauchst, desto länger ist die Abklingzeit (Basis-Abklingzeit in diesem Spiel ist von [y]).
+Du bist in diesem Spiel [x] mal gespawnt. Je öfter du spawnst, desto länger ist die Abklingzeit (Basis-Abklingzeit in diesem Spiel ist von [y]).
 
 #gamelob_spcloff_c3
 Letzte Brut: [x] vor
