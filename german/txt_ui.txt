@@ -3990,13 +3990,13 @@ Max. Zeichen
 Die maximale Anzahl der auf diesem Server erlaubten Zeichen pro Spieler beträgt [x].
 
 #gamelob_spcloff
-Laichabkühlung
+Spawn-Abklingzeit
 
 #gamelob_spcloff_c1
 Die Mindestzeit, bevor du auf diesem Server wieder spielen darfst.
 
 #gamelob_spcloff_c2
-Du hast in diesem Spiel [x] mal gelaicht. Je öfter du auftauchst, desto länger ist die Abkühlung (Basisabkühlung in diesem Spiel ist von [y]).
+Du hast in diesem Spiel [x] mal gespawnt. Je öfter du auftauchst, desto länger ist die Abkühlung (Basisabkühlung in diesem Spiel ist von [y]).
 
 #gamelob_spcloff_c3
 Letzte Brut: [x] vor
@@ -4461,7 +4461,7 @@ Du kannst nur eine Hauptstadt haben: Deine derzeitige Hauptstadt verliert ihren 
 Dieses Gebiet wird eine neue Region bilden und zusätzliche staatliche Macht kosten. Du kannst dann andere Gebiete an diese Stadt als Teil dieser Region anhängen. 
 
 #regstatus_setcol_1
-WANRING: Das ist unumkehrbar. Du wirst die direkte Kontrolle über dieses Gebiet verlieren. Die Region erhält eine stabile Verwaltung, Loyalität und Kultur. Keine Wartungskosten und keine staatlichen Stromkosten. Erzeugt 5% Einkommenssteuer. Wenn ein Spieler darin laicht, beginnt er in deiner Nation mit einem Kolonialvertrag von 5% Einkommensteuer. 
+WANRING: Das ist unumkehrbar. Du wirst die direkte Kontrolle über dieses Gebiet verlieren. Die Region erhält eine stabile Verwaltung, Loyalität und Kultur. Keine Wartungskosten und keine staatlichen Stromkosten. Erzeugt 5% Einkommenssteuer. Wenn ein Spieler darin spawnt, beginnt er in deiner Nation mit einem Kolonialvertrag von 5% Einkommensteuer. 
 
 #regstatus_setcol_2
 Um eine Kolonie zu bilden, benötigt das Gebiet mindestens 150 Einwohner und mindestens 65 % der Grundbedürfnisse.
