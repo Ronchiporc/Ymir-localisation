@@ -3954,7 +3954,7 @@ Ein Charakter wird "inaktiv", wenn er zu lange offline ist. Es steht dann für d
 Wie lange es dauert, bis ein Charakter inaktiv wird, hängt von seiner gesamten Spielzeit und den Einstellungen des Spiels ab.
 
 #gamelob_status_c3
-Maximale Offline-Zeit, die derzeit für dieses Zeichen zulässig ist: [x]
+Maximale Offline-Zeit, die derzeit für diesen Charakter zulässig ist: [x]
 
 #gamelob_ACTV
 AKTIV
@@ -3975,7 +3975,7 @@ letzter Login für diesen Charakter: [x]
 erstellt
 
 #gamelob_creat_c
-Datum, an dem dieses Zeichen erstellt wurde (GMT).
+Datum, an dem dieser Charakter erstellt wurde (GMT).
 
 #gamelob_plt
 Gesamtspielzeit
