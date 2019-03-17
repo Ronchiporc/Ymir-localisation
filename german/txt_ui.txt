@@ -2724,7 +2724,7 @@ Dies zeigt nur eine Vorschau der Änderungen. Wenn du diese Änderung aktivierst
 Du kannst dieses [x] nicht hier platzieren.
 
 #ui_builderr_res
-Du vermisst [x] von [y], um dieses [z] zu bauen.
+Du benötigst [x] weitere(s) [y], um dieses [z] zu bauen.
 
 #ui_builderr_ptf
 Dieses Gebäude kann nur auf Plattformen aufgestellt werden.
@@ -3555,7 +3555,7 @@ Nationale Armeen geben auch ihren Autoritätsbonus an alle Regionen der Nation, 
 Ressourceneinkauf.....
 
 #menu_trbuy_bght
-Ich habe [x] von [y] für [z] Münzen gekauft!
+Ich habe [x] [y] für [z] Münzen gekauft!
 
 #ui_evidea_yes
 <<<Ja, mal sehen, was sie für dieses Projekt brauchen!>>
@@ -3564,7 +3564,7 @@ Ich habe [x] von [y] für [z] Münzen gekauft!
 <<Das ist Zeitverschwendung.
 
 #menu_bdg_up_err1
-Du vermisst [x] von [y], um dieses Gebäude auf [z] aufzurüsten.
+Du benötigst [x] weitere(s) [y], um dieses Gebäude auf [z] aufzurüsten.
 
 #menu_bdg_up_err2
 Du hast nicht genug Münzen, um dieses Gebäude auf [x] aufzurüsten.
