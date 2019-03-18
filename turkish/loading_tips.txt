@@ -4,8 +4,8 @@ Ekonomi hiç bir zaman stabil değildir. Her şey çalkantıda olabilir. Bu, her
 Eğer bir porco'nun geliri, bölgedeki bütün herkesin toplam gelirinin %3'ünü ifade ediyor ise, onun serveti bölgenin toplam servetinin %3'ü olacaktır.
 Sosyal bir sınıfın geliri, aynı sınıfta yer alan bütün porcolara eşit şekilde paylaştırılır. Bu nedenle bir porconun kişisel geliri, o porconun bulunduğu sosyal sınıfın toplam gelirinin ortalamasıdır.
 The market study of rare resources will tend to match the wealth of your richest classes while abundant ones will tend to match the wealth of the commoners.
-A porco with a wealth of 2 will be able to fully satisfy his needs of any resource costing 2 coins or less.
-If a resource costs 4 coins, a porco with a wealth of 1 can only satisfy 25% of his need for that resource.
+Serveti 2 olan bir porco, fiyatı 2 altın veya az olan herhangi bir kaynak için ihtiyaçlarını tamamen karşılayabilir.
+Eğer bir kaynağın fiyatı 4 altın ise; serveti 1 olan bir porco, o kaynak için ihtiyacının sadece %25'ini karşılayabilir.
 The wealth of a porco defines his purchasing power which determines the resources he can afford to buy to satisfy his needs.
 Wealth is a unit of objective value. It's defined by the time spent by a Porco working on anything, regardless of the subjective value (coin price) his society gives to what he does. 
 Wealth, as a universal reference unit of value, is the same across all regions and players.
@@ -22,7 +22,7 @@ Any resource distributed and made available to the population (whether through i
 The price of a resource will always be at least one coin above its production cost to ensure minimum benefits to its producers.
 If an industry produces something highly valued, the producers of the materials that industry requires will covet that industry's income and raise the price of their materials accordingly.
 Each project has an optimal number of researchers. Beyond that, any extra researchers will only add a minor contribution to the project.
-In a project, each researcher contributes 'research points' based on their intelligence.
+Bir projede, her bir araştırmacı domuz, zeka seviyelerine bağlı olarak belirli bir miktarda "araştırma puanı" sağlar.
 Be careful: assigning researchers to a project reduces the productivity of all buildings employing the same population class.
 You cannot directly control what ideas your people will have nor can you directly control when they will have them. Each idea comes with its own hidden conditions.
 In the building tab, you can choose to build the previous, now obsolete, version of a building by right-clicking on the building's button.
