@@ -14,13 +14,13 @@ Exploits terrain tiles to produce raw resources.
 industrial building
 
 #bdg_ind_dscr
-Produces goods out of existing resources.
+Produces goods from existing resources.
 
 #bdg_srv_n
 service
 
 #bdg_srv_dscr
-Produces a service (a non-material resources that cannot be stored).
+Produces a service (a non-material resource that cannot be stored).
 
 #bdg_stor_n
 storage
@@ -32,13 +32,13 @@ Stocks resources.
 distribution
 
 #bdg_merch_dscr
-Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sales incomes for themselves, reducing the producer's.
+Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sale's income for themselves, reducing the producer's income in the process.
 
 #bdg_roads_n
 roads
 
 #bdg_roads_dscr
-Improves unit movement on this tile and provides bonuses to connected buildings.
+Improves unit movement on this tile and provides bonuses to connected buildings. [Currently only decorative]
 
 #bdg_walls_n
 walls
@@ -62,7 +62,7 @@ Defensive towers employ soldiers independently of garrisons and formations. They
 battlements
 
 #bdg_battlem_dscr
-Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during batlles.
+Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during battles.
 
 #bdg_annex_n
 annex
@@ -80,13 +80,13 @@ Platforms are a pigmade tile elevation you can build over. Defensive structures 
 stairs
 
 #bdg_stairs_dscr
-Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
+Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. Press Spacebar to change the direction.
 
 #bdg_gates_n
 gate
 
 #bdg_gates_dscr
-Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
+Gates block hostile troops during battles. Needs to be placed adjacent to a platform in 'bridge' mode.
 
 #bdg_all
 All buildings
@@ -95,13 +95,13 @@ All buildings
 Cider mill
 
 #txt_cider_dscr
-Produce cider from apples. Cider is a distributable resource than satisfies the population needs for alcohols.
+Produces cider from apples. Cider is a distributable resource than satisfies the population's need for alcohols.
 
 #txt_brewery_n
 Brewery
 
 #txt_brewery_dscr
-Produce beer from barley. Beer is a distributable resource than satisfies the population needs for alcohols.
+Produces beer from barley. Beer is a distributable resource that satisfies the population's need for alcohols.
 
 #txt_claycamp_n
 Clay exploitation
@@ -116,10 +116,10 @@ Clay pit
 Place directly over clay tiles. Increases clay production of these tiles.
 
 #txt_clothmk_n
-Clothmaker
+Clothesmaker
 
 #txt_clothmk_dscr
-Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
+Produces clothes from textiles. Clothes are a distributable resource that satisfies the population's need for clothing. 
 
 #txt_gather_n
 Gathering camp
@@ -137,7 +137,7 @@ Can create fields to produce a variety of agricultural resources. Can also explo
 Fisherpig
 
 #txt_fisher_dscr
-Can exploit wild fishes to produce fresh fish. Needs to be placed on the shore in range of a wild fishes spot.
+Can exploit wild fishing spots to produce fresh fish. Needs to be placed on the shore in range of a wild fishing spot.
 
 #txt_grnry_n
 Granary
@@ -149,7 +149,7 @@ Can store food resources.
 Slum
 
 #txt_hslum_dscr
-Slums that cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life quality and no health. 
+Slums cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life Quality and no health. 
 
 #txt_hrustc_n
 House
@@ -179,61 +179,61 @@ Can exploit wild animals to produce fresh meat and leather. Needs to be placed i
 Flint collector
 
 #txt_flint_dscr
-Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
+Produces flint out of gravel terrain tiles. Flint can then be used by tool-makers to craft stone tools.
 
 #txt_platf1_n
 Wooden platform
 
 #txt_platf1_dscr
-A cheap low resistance platform. Usefull to make cheap defenses and bridges.
+A cheap low resistance platform. Used to make cheap defenses and bridges.
 
 #txt_platf2_n
 Stone platform
 
 #txt_platf2_dscr
-A solid platform usefull to make resistent walls.
+A solid platform used to make sturdy walls.
 
 #txt_dstrplatf_n
 Destroy platforms
 
 #txt_dstrplatf_dscr
-Orders destruction of selected platforms.
+Orders the destruction of selected platforms.
 
 #txt_tow1_n
 Watchtower
 
 #txt_tow1_dscr
-A cheap but weak defensive tower made of leather covered wood. Fire arrows.
+A cheap but weak defensive tower made of leather covered wood. Fires arrows.
 
 #txt_tow2_n
 Wooden tower
 
 #txt_tow2_dscr
-A defensive tower made of thick wooden beams. Fire arrows.
+A defensive tower made of thick wooden beams. Fires arrows.
 
 #txt_tow3_n
 Stone tower
 
 #txt_tow3_dscr
-Stone towers are much more resistent than their wooden counterparts. Fire arrows.
+Stone towers are much sturdier than their wooden counterparts. Fires arrows.
 
 #txt_tow4_n
 Heavy tower
 
 #txt_tow4_dscr
-This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
+This tower is built out of solid stone blocks to increase resistance to enemy artillery. Fires arrows.
 
 #txt_batlm1_n
 Wooden battlements
 
 #txt_batlm1_dscr
-Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
+Crude wooden battlements providing basic cover from enemy fire to units standing on the platform during battles.
 
 #txt_batlm2_n
 Stone battlements
 
 #txt_batlm2_dscr
-Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
+Stone battlements providing cover from enemy fire to units on standing on the platform during battles.
 
 #txt_batlm3_n
 Machicolated stone battlements
@@ -251,7 +251,7 @@ Excellent cover but weaker than stone battlements.
 Market stand
 
 #txt_market_dscr
-Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
+Market stands distribute to the population the production of the building the stand belongs to. The income generated goes entirely to the producers but it takes one worker off production in order to manage the stand.
 
 #txt_field_n
 Field
@@ -263,13 +263,13 @@ Fields are workable only by the farm they belong to. They produce a wide range o
 Dirt road
 
 #txt_road1_dscr
-A basic road and free to build road.
+A basic road that is free to build.
 
 #txt_road2_n
 Wooden road
 
 #txt_road2_dscr
-A road with pieces of wood encrusted in dirt to limit mud on rainy weather.
+A road with pieces of wood embedded in dirt to limit mud during rainy weather.
 
 #txt_road3_n
 Cobblestone road
@@ -281,37 +281,37 @@ A road paved with crude cobblestones.
 Stone road
 
 #txt_road4_dscr
-An expensive road made of large stone blocs
+An expensive road made of large stone blocks
 
 #txt_road5_n
 Paved road
 
 #txt_road5_dscr
-A road made of small stone blocs composed artistically.
+A road made of small stone blocks composed artistically.
 
 #txt_road6_n
 Mosaic plaza
 
 #txt_road6_dscr
-A fancy floor made of colofull small tiles of stone, glass and other materials.
+A fancy floor made of small, colourful tiles of stone, glass and other materials.
 
 #txt_road7_n
 Marble plaza
 
 #txt_road7_dscr
-A fancy floor made of shiny marble blocs
+A fancy floor made of shiny marble blocks
 
 #txt_road8_n
 Limestone road
 
 #txt_road8_dscr
-An expensive road made of large white limestone blocs
+An expensive road made of large, white limestone blocks
 
 #txt_road9_n
 Sandstone road
 
 #txt_road9_dscr
-An expensive road made of large sandstone blocs
+An expensive road made of large sandstone blocks
 
 #txt_fence1_n
 Wooden fence
@@ -389,37 +389,37 @@ Paddocks allow the storage of livestock resources.
 Elephant pen
 
 #txt_elephantpen_dscr
-Elephant pens allow the storage of single large animals such as Elephants.
+Elephant pens allow the storage of a single large animal such as Elephants.
 
 #txt_potter_n
 Potter
 
 #txt_potter_dscr
-Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
+Potters refine clay into pottery. Pottery is a distributable resource filling the population's need for Furnishings.
 
 #txt_stonecut_n
 Stonecutter camp
 
 #txt_stonecut_dscr
-Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
+Can exploit rock tiles in range to produce crude stone. Quarry annexes produce stone blocks or specialized blocks over tiles of a valid rock type.
 
 #txt_quarry_n
 Quarry
 
 #txt_quarry_dscr
-Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
+Essential annex of the Stonecutter, quarries can produce stone blocks or specialized blocks over special rock types.
 
 #txt_sawmill_n
 Sawmill
 
 #txt_sawmill_dscr
-The sawmill refines crude wood into wood planks, a material required to build many buildings.
+The sawmill refines crude wood into wooden planks, a material required to build many buildings.
 
 #txt_tannery_n
 Tannery
 
 #txt_tannery_dscr
-Tanneries refine leather into leather cloth, a distributable resource filling the population needs in clothing.
+Tanneries refine leather into leather clothes, a distributable resource filling the population's need for clothing.
 
 #txt_toolmk_n
 Tool-maker
@@ -437,49 +437,49 @@ These resources are abandonned on the floor and will decay with time unless they
 Ground storage
 
 #txt_storegrnd_dscr
-Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
+Ground marked as a storage area. It's free, but unguarded and doesn't have a high storage capacity per tile.
 
 #txt_warehouse_n
 Warehouse
 
 #txt_warehouse_dscr
-Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
+Warehouses can store all types of basic materials. They are guarded and can store a larger number of resources than ground storages.
 
 #txt_weapmk_n
 Weapon-maker
 
 #txt_weapmk_dscr
-Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
+Weapon-makers can produce a wide range of weapons and armors which are used to equip and recruit troops.
 
 #txt_weaver_n
 Weaver
 
 #txt_weaver_dscr
-The weaver refines different raw materials (cotton,flax,wool...) into textile. Textile can then be used for various things like clothmaking.
+The weaver refines different raw materials (cotton, flax, wool...) into textiles. Textiles can then be used for various things like clothesmaking.
 
 #txt_stairs1_n
 Wooden stairs
 
 #txt_stairs1_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Stairs that can be placed against cliffs or walls of any height to allow for passage. Press Spacebar to change their direction.
 
 #txt_stairs2_n
 Stone stairs
 
 #txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Stairs that can be placed against cliffs or walls of any height to allow for passage.  Press Spacebar to change their direction.
 
 #txt_gate1_n
 Wooden gate
 
 #txt_gate1_dscr
-A cheap wooden gate.
+A cheap, wooden gate.
 
 #txt_gate2_n
 Strong gate
 
 #txt_gate2_dscr
-A strong gate made of wood held tohether by bronze. 
+A strong gate made of wood held together by bronze. 
 
 #txt_gate3_n
 Reinforced gate
@@ -491,7 +491,7 @@ A solid gate reinforced with iron.
 Cattle farm
 
 #txt_cattle_dscr
-The cattle farms allows you to create pastures that produce cattle.
+The cattle farm allows you to create pastures that produce cattle.
 
 #txt_pastr_n
 Pasture
@@ -503,7 +503,7 @@ An enclosed area of land where cattle can feed and breed.
 Wool Pasture
 
 #txt_pastrw_dscr
-Pastures of wool producing animals, regularly sheared to collect their wool.
+Pastures of wool-producing animals, regularly sheared to collect their wool.
 
 #txt_builder_n
 Builders
@@ -527,19 +527,19 @@ Extracts water from the ground.
 Water collector
 
 #txt_watercol_dscr
-A point where people can collect fresh water from rivers or lakes.
+A place where people can collect fresh water from rivers or lakes.
 
 #txt_landock_n
-Land docks
+Caravanserai
 
 #txt_landock_dscr
-Docks for land caravans, carrying goods across territories and required to operate trade routes.
+A resting place for land caravans carrying goods across territories. Produces a small amount of Cargo which is required to operate trade routes.
 
 #txt_dock_n
 Docks
 
 #txt_dock_dscr
-Docks for trade ships, carrying goods across territories and required to operate trade routes. 
+Docks for trade ships carrying goods across territories. Produces a large amounr of Cargo which is required to operate trade routes.
 
 #txt_theater_n
 Theater
@@ -551,7 +551,7 @@ Provides entertainement to the Porcos.
 Public baths
 
 #txt_baths_dscr
-A place of social gathering and relaxation which also provides better health.
+A place of social gathering and relaxation which also improves health.
 
 #txt_tavern_n
 Tavern
@@ -563,19 +563,19 @@ A place of social gathering to drink and party.
 Forum
 
 #txt_forum_dscr
-A place of social gathering to discuss matters of the community.
+A place of social gathering to discuss matters concerning the community.
 
 #txt_furnmkr_n
 Furniture maker
 
 #txt_furnmkr_dscr
-Produces furniture, a distributable resource filling the population needs in Furnishings.
+Produces furniture, a distributable resource filling the population's need for Furnishings.
 
 #txt_carpetmkr_n
 Carpet maker
 
 #txt_carpetmkr_dscr
-Produces rugs, a distributable resource filling the population needs in Furnishings.
+Produces rugs, a distributable resource filling the population's need for Furnishings.
 
 #txt_mudcamp_n
 Soil miner
@@ -593,7 +593,7 @@ Produces bricks, a basic construction material.
 Kiln
 
 #txt_kiln_dscr
-Produces different construction materials.
+Produces fuels like charcoal and coke and building materials like plaster.
 
 #txt_fundry_n
 Foundry
@@ -605,7 +605,7 @@ Refines metallic ores into ingots.
 Steel mill
 
 #txt_steel_dscr1
-Produces steel by carburization of wrough iron through smithing.
+Produces steel by carburization of wrought iron through smithing.
 
 #txt_steel_dscr2
 Produces steel by decarburization of cast iron by melting it.
@@ -644,13 +644,13 @@ A place where people can come wash their laundry.
 Tax collector
 
 #txt_taxcol_dscr
-Reduces waste by ensuring population pays correctly their taxes.
+Reduces waste by ensuring population pays their taxes correctly.
 
 #txt_scrib_n
 Scribe
 
 #txt_scrib_dscr
-Scribes at the service of the state help keep track of administrative matters.
+Scribes in the service of the state help keep track of administrative matters.
 
 #txt_eldcounc_n
 Elder's council
@@ -668,19 +668,19 @@ Reduces conflict in the population.
 School
 
 #txt_school_dscr
-School increases intelligence of the population.
+Schools increase the intelligence of the population.
 
 #txt_winery_n
 Wine cellar
 
 #txt_winery_dscr
-Produces wine out of grapes.
+Produces wine from grapes.
 
 #txt_oilpress_n
 Olives press
 
 #txt_oilpress_dscr
-Produces olive oil out of olives.
+Produces olive oil from olives.
 
 #txt_bakery_n
 Bakery
@@ -692,25 +692,25 @@ Makes bread from flour.
 Mill
 
 #txt_mill_dscr
-Crushes cereals to produce flour, easier to stock and used to make bread.
+Crushes cereals to produce flour which is easier to stock and is used to make bread.
 
 #txt_libr_n
 Library
 
 #txt_libr_dscr
-Stores knowledges.
+Stores knowledge.
 
 #txt_eldrcncl_n
 Tribal council
 
 #txt_eldrcncl_dscr
-A council of family leaders that attempts to solve conflicts amongst the tribe and provides an early form of law.
+A council of family leaders that attempts to solve conflicts amongst the tribe members and provides an early form of law.
 
 #txt_magistr_n
 Magistrate
 
 #txt_magistr_dscr
-A service building that provides the Justice service to population, reducing conflict.
+A service building that provides the Justice service to the population, reducing conflict.
 
 #txt_paper_n
 Paper mill
@@ -722,25 +722,25 @@ Produces paper
 Rumery
 
 #txt_rum_dscr
-A distilery that produces rum out of sugarcane.
+A distilery that produces rum from sugarcane.
 
 #txt_trmarket_n
 Market
 
 #txt_trmarket_dscr
-Allows to create trade offers to exchange goods with other territories.
+Allows the creation of bulk trade offers to exchange goods with other territories.
 
 #txt_academ_n
 Academia
 
 #txt_acedem_dscr
-Wise and knowledgable pigs who study science and arts increasing education and culture and contribute to research projects.
+Wise and knowledgable pigs who study the arts and sciences increase education and culture and contribute to research projects.
 
 #txt_doctor_n
 Doctor
 
 #txt_doctor_dscr
-Increases health of the population.
+Increases the health of the population.
 
 #txt_ftower1
 Primitive tower
@@ -752,28 +752,28 @@ A primitive defensive tower made of wood. Fires javelins.
 Palissade
 
 #txt_wall1_dscr
-A simple defensive wall made of timbers.
+A simple defensive wall made of timber.
 
 #txt_wall2_n
 Mudbrick wall
 
 #txt_wall2_dscr
-A simple defensive wall made of mudbricks, weaker but cheaper to maintain than a palissade.
+A simple defensive wall made of mudbricks and is weaker but cheaper to maintain than a palissade.
 
 #txt_wall3_n
 Cobblestone wall
 
 #txt_wall3_dscr
-A simple defensive wall made of cobble stone held together with crude masonry.
+A simple defensive wall made of cobblestone held together with crude masonry.
 
 #txt_wall4_n
 Brick wall
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks, stronger than mudbricks.
+A simple defensive wall made of fired bricks. Stronger than mudbricks.
 
 #txt_wall5_n
-Stoneblocs wall
+Stoneblocks wall
 
 #txt_wall5_dscr
-A solid defensive wall made of stone blocs.
+A solid defensive wall made of stone blocks.
