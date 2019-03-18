@@ -2,133 +2,133 @@
 population incomes
 
 #civfx_inc_dscr
-unlocks dynamic population wealth
+Unlocks dynamic population wealth
 
 #civfx_price_n
 dynamic prices
 
 #civfx_price_dscr
-resources and valuables have dynamic prices based on supply and demand of the population
+Resources and valuables have dynamic prices based on the supply and demand of the population
 
 #civfx_autodist_n
 automatic distribution
 
 #civfx_autodist_dscr
-all resources are automatically available to all the population and there is no need for distributors
+All resources are automatically available to the entire population and there is no need for distributors
 
 #civfx_bdgeff_n
 building efficiency
 
 #civfx_bdgeff_dscr
-modifies the efficiency of buildings
+Modifies the efficiency of buildings
 
 #civfx_conflict_n
 population conflict
 
 #civfx_conflict_dscr
-modifies conflict of population
+Modifies conflict of population
 
 #civfx_stress_n
 population stress
 
 #civfx_stress_dscr
-modifies stress of population
+Modifies the stress of the population
 
 #civfx_paidmat_n
 paid materials
 
 #civfx_paidmat_dscr
-the state has to pay for materials it consumes at their current market price
+The state has to pay for materials it consumes at their current market price
 
 #civfx_seizem_n
 seized materials
 
 #civfx_seizem_dscr
-when paid materials is active, all or a fraction of materials is seized for free instead of beeing paid by the state.
+When paid materials is active, all or a fraction of materials is seized for free instead of being paid for by the state.
 
 #civfx_seizem_set
-seized percent
+seized percentage
 
 #civfx_seizem_setd
-set the percent of material's prices you wish to seize
+Sets the percentage of a material's price you wish to seize
 
 #civfx_territ_n
 province territories
 
 #civfx_territ_dscr
-cities can annex other territories as their province
+Cities can annex other territories as their province
 
 #civfx_inctax_n
 income tax
 
 #civfx_inctax_dscr
-a tax applied to all the incomes of the population in the territory 
+A tax applied to all the incomes of the population in the territory 
 
 #civfx_inctax_set
 income tax percent
 
 #civfx_inctax_setd
-set the percent of income that is to be taxed
+Sets the percentage of income that is to be taxed
 
 #civfx_saltax_n
 sales tax
 
 #civfx_saltax_dscr
-a tax applied to all sales in the territory (simplified VAT tax)
+A tax applied to all sales in the territory (simplified VAT tax)
 
 #civfx_saltax_set
-sales tax percent
+sales tax percentage
 
 #civfx_saltax_setd
-set the percent of sales that is to be taxed
+Sets the percentage of sales that are to be taxed
 
 #civfx_leadwlth_n
-Leaders privileges
+Leader's privileges
 
 #civfx_leadwlth_dscr
 Leaders get a portion of the territory wealth as a privilege
 
 #civfx_leadwlth_set
-Leaders privilege
+Leader's privilege
 
 #civfx_leadwlth_setd
-the percentage of territory wealth given as privilege to the leaders
+The percentage of territory wealth given as a privilege to the leader
 
 #civfx_leadsal_n
-Leaders salary
+Leader's salary
 
 #civfx_leadsal_dscr
-Leaders get a salary paid by the state
+Leaders get a salary that is paid by the state
 
 #civfx_leadsal_set
-Leaders salary
+Leader's salary
 
 #civfx_leadsal_setd
-amount of the salary in coins
+Amount of the salary in coins
 
 #civfx_nobwlth_n
-Nobles privileges
+Noble privileges
 
 #civfx_nobwlth_dscr
 Nobles get a portion of the territory wealth as a privilege
 
 #civfx_nobwlth_set
-Nobles privilege
+Noble privilege
 
 #civfx_nobwlth_setd
-the percentage of territory wealth given as privilege to the nobles
+The percentage of the territory wealth given as a privilege to the nobles
 
 #civfx_nobsal_n
-Nobles salary
+Noble's salary
 
 #civfx_nobsal_dscr
-Nobles get a salary paid by the state
+Nobles get a salary that is paid by the state
 
 #civfx_nobsal_set
-Nobles salary
+Noble's salary
 
 #civfx_nobsal_setd
-amount of the salary in coins
+Amount of the salary in coins
 
 #civfx_offwlth_n
 State workers privileges
@@ -140,37 +140,37 @@ State workers get a portion of the territory wealth as a privilege
 State workers privilege
 
 #civfx_offwlth_setd
-the percentage of territory wealth given as privilege to the State workers
+the percentage of territory wealth given as a privilege to the State workers
 
 #civfx_offsal_n
 State workers salary
 
 #civfx_offsal_dscr
-State workers get a salary paid by the state
+State workers get a salary that is paid by the state
 
 #civfx_offsal_set
 State workers salary
 
 #civfx_offsal_setd
-amount of the salary in coins
+Amount of the salary in coins
 
 #civfx_capadmin_n
 capital administration
 
 #civfx_capadmin_dscr
-modifies administration of the capital
+Modifies administration in the capital
 
 #civfx_cityadmin_n
 city administration
 
 #civfx_cityadmin_dscr
-modifies administration of every city
+Modifies administration in every city
 
 #civfx_regadmin_n
 territory adimnistration
 
 #civfx_regadmin_dscr
-modifies administration of every territory
+Modifies administration in every territory
 
 #civfx_caplead_n
 capital leaders
@@ -209,148 +209,148 @@ local nobles
 nobles per territory
 
 #civfx_goldstck_n
-wealth from precious metals
+Wealth from precious metals
 
 #civfx_goldstck_dscr
-increases wealth of all territories for each unit of precious metals (gold and silver) in storages
+increases the wealth of all territories for each unit of precious metals (gold and silver) in storages
 
 #civfx_modhap_n
-population happyness
+population happiness
 
 #civfx_modhap_dscr
-modifies happyness of population
+Modifies happiness of population
 
 #civfx_happy_n
-population happyness
+population happiness
 
 #civfx_happy_dscr
-modifies happyness of population
+modifies happiness of population
 
 #civfx_enmerch_n
 merchants
 
 #civfx_enmerch_dscr
-allows the use of merchants who can sell resources to the population
+Allows the use of merchants who can sell resources to the population
 
 #civfx_entrout_n
 trade routes
 
 #civfx_entrout_dscr
-allows to create permanent trade routes between territories
+Allows the creation of permanent trade routes between territories
 
 #civfx_legitprt_n
 protector of the people
 
 #civfx_legitprt_dscr
-modifies legitimacy factor of military strenght
+Modifies the effect of the military's strength on legitimacy
 
 #civfx_legitw_n
 leader superiority
 
 #civfx_legitw_dscr
-modifies legitimacy factor of leader's superiority
+Modifies the effect of the leader's superiority on legitimacy
 
 #civfx_legitr_n
 people's religiosity
 
 #civfx_legitr_dscr
-modifies legitimacy factor of people's religiosity
+Modifies the effect of the people's religiosity on legitimacy
 
 #civfx_legitp_n
-parliament's power
+parliament power
 
 #civfx_legitp_dscr
-modifies legitimacy factor of the parliament
+Modifies the parliament's effect on legitimacy
 
 #civfx_legitsen_n
-senate's power
+senate power
 
 #civfx_legitsen_dscr
-modifies legitimacy factor of the senate
+modifies the senate's effect on legitimacy
 
 #civfx_legitm_n
-ministry's power
+ministry power
 
 #civfx_legitm_dscr
-modifies legitimacy factor of the ministry
+modifies the ministry's effect on legitimacy
 
 #civfx_legitap_n
 people's approval
 
 #civfx_legitap_dscr
-modifies legitimacy factor of people's approval
+modifies the effect of the people's approval on legitimacy
 
 #civfx_wlegitprt_n
-importance of military strenght
+importance of military strength
 
 #civfx_wlegitprt_dscr
-how much military strenght affects legitimacy
+How much military strength affects legitimacy
 
 #civfx_wlegitw_n
-importance of leader's superiority
+importance of the leader's superiority
 
 #civfx_wlegitw_dscr
-how much leader's superiority affects legitimacy
+How much the leader's superiority affects legitimacy
 
 #civfx_wlegitr_n
 importance of religiosity
 
 #civfx_wlegitr_dscr
-how much people's religiosity affects legitimacy
+How much people's religiosity affects legitimacy
 
 #civfx_wlegitp_n
 importance of the parliament
 
 #civfx_wlegitp_dscr
-how much the parliament's power affects legitimacy
+How much the parliament's power affects legitimacy
 
 #civfx_wlegitsen_n
 importance of the senate
 
 #civfx_wlegitsen_dscr
-how much the senate's power affects legitimacy.
+How much the senate's power affects legitimacy.
 
 #civfx_wlegitm_n
 importance of the ministry
 
 #civfx_wlegitm_dscr
-how much the ministry's power affects legitimacy.
+How much the ministry's power affects legitimacy.
 
 #civfx_wlegitap_n
 importance of people's approval
 
 #civfx_wlegitap_dscr
-how much people's approval affects legitimacy.
+How much people's approval affects legitimacy.
 
 #civfx_statepow_n
 state power
 
 #civfx_statepow_dscr
-modifies the amount of state power
+Modifies the amount of state power
 
 #civfx_foodcons_n
 food consumption
 
 #civfx_foodcons_dscr
-affects the amount of food required by porcos to satisfy their need for food
+Affects the amount of food required by porcos to satisfy their need for food
 
 #civfx_coin_n
 state treasury
 
 #civfx_coin_dscr
-enables the state earning and spending money.
+Enables the state earning and spending money.
 
 #civfx_agrisav_n
 stocking seeds
 
 #civfx_agrisav_dscr
-25% of all agricultural food production going directly into granaries
+25% of all agricultural food production goes directly into granaries
 
 #civfx_subv_n
 subvention
 
 #civfx_subv_dscr
-a government aid given to each worker of a specified social class, to increase their income
+A government aid given to each worker of a specified social class, to increase their income
 
 #civfx_subv_set1
 Subvention
@@ -362,23 +362,23 @@ The social class that receives this subvention
 Coins
 
 #civfx_subv_set2d
-The amount of the subvention. Each worker of this class will receive this amount of coins, added to their income.
+The amount of the subvention. Each worker of this class will receive this number of coins added to their income.
 
 #civfx_paidrsrch_n
 paid researchers
 
 #civfx_paidrsrch_dscr
-researchers get paid and no longer reduce the workforce of the buildings where they work.
+Researchers get paid and no longer reduce the workforce of the buildings where they work.
 
 #civfx_ldcntrb_n
 Leader's personnal contribution
 
 #civfx_ldcntrb_dscr
-The leader can contribute to the government's finances with his own wealth (reduces his wealth).
+The leader can contribute to the government's finances with his own wealth (this reduces his wealth).
 
 #civfx_ldcntrb_set
-Contribution %
+Contribution percentage
 
 #civfx_ldcntrb_setd
-Percentage of the leader's wealth used for the government's finances. Note that this will reduce the Leader's wealth proportionnally.
+The percentage of the leader's wealth contributed to the government's finances. Note that this will reduce the Leader's wealth proportionnally.
 
