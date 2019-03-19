@@ -113,7 +113,7 @@ Bölge Ver
 "[x]" bölgesini verme. 
 
 #agrim_givreg_3
-Transfer ownership of a region to [y]. Bölgenin sahipliğini [y]'ye ver.
+Bölgenin sahipliğini [y]'ye ver.
 
 #agrim_gividea_1
 Fikir Ver
@@ -149,7 +149,7 @@ Saygı
 Eğer [x] antlaşmayı bozar ise, antlaşmaya duyduğu saygı ile oranlı olarak onur kaybeder.
 
 #treaty_warbound
-Savaş'a Bağlı
+Savaş Bağı
 
 #treaty_warbound_c1
 Karşı devlet antlaşmayı bozar ise
@@ -161,19 +161,19 @@ Karşı devlet antlaşmayı bozar ise
 Breaking closes
 
 #diplo_npass
-National right of passage
+Ulusal Geçiş Hakkı
 
 #diplo_npass_dscr_1
-All members of the Nation can move through each other's territory.
+Ulusun bütün üyeleri birbirlerinin bölgelerinden geçebilir.
 
 #diplo_ntrade
-National trade agreement
+Ulusal Ticaret Antlaşması
 
 #diplo_ntrade_dscr_1
-All members of the Nation get automatic trading rights with each other.
+Ulusun bütün üyeleri otomatikman diğer ulus üyeleri ile ticaret hakkına sahiptir.
 
 #diplo_ndef
-National defensive pact
+Ulusal Savunma Paktı
 
 #diplo_ndef_dscr_1
 Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
