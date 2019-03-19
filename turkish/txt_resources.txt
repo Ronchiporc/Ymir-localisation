@@ -1,464 +1,464 @@
 #r_all
-All resources
+Bütün Kaynaklar
 
 #rcat_prod
-Products
+Ürün
 
 #rcat_food
-Foods
+Yiyecek
 
 #rcat_weapon
-Weapons
+Silah
 
 #rcat_animal
-Animals
+Hayvan
 
 #rcat_slave
-Slaves
+Köle
 
 #rcat_service
-Services
+Servis
 
 #rcat_drink
-Drinks
+İçecek
 
 #rprdg_cltv
-cultivated
+İşlenmiş Ürünler
 
 #rprdg_animal
-animals
+Hayvan
 
 #rprdg_weapon
-weapons
+Silah
 
 #rprdg_mine
-mined
+Maden
 
 #rprdg_quarry
 quarry
 
 #rprdg_smelt
-metals
+Metal
 
 #rprdg_tool
-tools
+Alet
 
 #r_hammers
-Hammers
+Çekiç
 
 #r_axes
-Axes
+Baltalar
 
 #r_shovels
-Shovels
+Kürekler
 
 #r_saws
-Saws
+Testereler
 
 #r_pickaxes
-Pickaxes
+Kazmalar
 
 #r_hoes
-Hoes
+Çapalar
 
 #r_ploughs
 Ploughs
 
 #r_wood
-Wood
+Odun
 
 #r_planks
-Planks
+Tahta
 
 #r_mud
-Mud
+Çamur
 
 #r_mudbricks
-Mudbricks
+Kerpiç
 
 #r_bricks
-Bricks
+Tuğlalar
 
 #r_ashes
-Ashes
+Küller
 
 #r_plaster
-Plaster
+Alçı
 
 #r_cement
-Cement
+Çimento
 
 #r_charcoal
-Charcoal
+Odun Kömürü
 
 #r_flints
-Flints
+Çakmaktaşı
 
 #r_stone
-Stone
+Taş
 
 #r_stoneblocs
-Stoneblocs
+Taş Blocklar
 
 #r_slate
-Slate
+Kayağantaş
 
 #r_limestone
-Limestone
+Kireçtaşı
 
 #r_granit
 Granit
 
 #r_sandstone
-Sandstone
+Kum Taşı
 
 #r_marble
-Marble
+Mermer
 
 #r_orecopper
-Copper ore
+Bakır Cevheri
 
 #r_oretin
-Tin ore
+Kalay Cevheri
 
 #r_oreiron
-Iron ore
+Demir Cevheri
 
 #r_oresilver
-Silver ore
+Gümüş Cevheri
 
 #r_oregold
-Gold ore
+Altın Cevheri
 
 #r_coal
-Coal
+Kömür
 
 #r_coke
 Coke
 
 #r_copper
-Copper
+Bakır
 
 #r_tin
-Tin
+Kalay
 
 #r_bronze
-Bronze
+Bronz
 
 #r_iron
-Iron
+Demir
 
 #r_steel
-Steel
+Çelik
 
 #r_silver
-Silver
+Gümüş
 
 #r_gold
-Gold
+Altın
 
 #r_leather
-Leather
+Deri
 
 #r_cotton
-Cotton
+Koton
 
 #r_flax
-Flax
+Keten
 
 #r_wool
-Wool
+Yün
 
 #r_textile
-Textile
+Tekstil
 
 #r_cloth
-Cloth
+Kumaş
 
 #r_leathercloth
-Leathercloth
+Deri Kıyafet
 
 #r_rabbits
-Rabbits
+Tavşan
 
 #r_deer
-Deer
+Geyik
 
 #r_dogs
-Dogs
+Köpek
 
 #r_cows
-Cows
+İnek
 
 #r_buffalos
-Buffalos
+Buffalo
 
 #r_ostriches
-Ostriches
+Devekuşu
 
 #r_horses
-Horses
+At
 
 #r_camels
-Camels
+Deve
 
 #r_elephants
-Elephants
+Fil
 
 #r_mammoths
-Mammoths
+Mamut
 
 #r_sheeps
-Sheeps
+Koyun
 
 #r_chickens
-Chickens
+Tavuk
 
 #r_caipibaras
-Caipibaras
+Caipibara
 
 #r_llamas
-Llamas
+Lama
 
 #r_fish
-Fish
+Balık
 
 #r_meat
-Meat
+Et
 
 #r_wheat
-Wheat
+Buğday
 
 #r_corn
-Corn
+Mısır
 
 #r_flour
-Flour
+Un
 
 #r_bread
-Bread
+Ekmek
 
 #r_potatoes
-Potatoes
+Patates
 
 #r_carrots
-Carrots
+Havuç
 
 #r_tomatoes
-Tomatoes
+Domates
 
 #r_lettuce
-Lettuce
+Marul
 
 #r_bananas
-Bananas
+Muz
 
 #r_apples
-Apples
+Elma
 
 #r_beans
-Beans
+Fasulye
 
 #r_figs
-Figs
+İncir
 
 #r_rice
-Rice
+Pirinç
 
 #r_chickpeas
-Chickpeas
+Nohut
 
 #r_oil
-Olive oil
+Zeytin Yağı
 
 #r_truffles
-Truffles
+Truffle
 
 #r_javelins
-Javelins
+Javelin
 
 #r_bows
-Bows
+Yay
 
 #r_longbows
-Longbows
+Uzun Yay
 
 #r_crossbows
-Crossbows
+Crossbow
 
 #r_arquebuses
-Arquebuses
+Eski Tip Tüfek
 
 #r_muskets
-Muskets
+Tüfek
 
 #r_spears
-Spears
+Mızrak
 
 #r_shortswords
-Shortswords
+Kısa Kılıç
 
 #r_longswords
-Longswords
+Uzun Kılıç
 
 #r_battleaxes
-Battleaxes
+Savaş Baltası
 
 #r_warhammers
-Wrhammers
+Savaş Çekici
 
 #r_halberds
-Halberds
+Kargı
 
 #r_shield_wood
-Wooden shields
+Tahta Kalkan
 
 #r_shield_bronze
-Metal shields
+Metal Kalkan
 
 #r_shield_heavy
-Heavy shields
+Ağır Kalkan
 
 #r_shield_steel
-Steel shields
+Çelik Kalkan
 
 #r_helmetlight
-Light helmets
+Hafif Kask
 
 #r_helmetheavy
-Heavy helmets
+Ağır Kask
 
 #r_heaumes
-Heaumes
+Miğfer
 
 #r_armorpadded
-Padded armors
+Yamalı Zırh
 
 #r_armorbrigand
-Brigandines
+Örgülü Zırh
 
 #r_cuirass
-Cuirasses
+Göğüs Zırhlı
 
 #r_armorscale
-Scale armors
+Zincir Zırh
 
 #r_amorlaminar
-Laminar armors
+Tabakalı Zırh
 
 #r_amorchain
-Chainmails
+Çelik Zincirli Zırh
 
 #r_amorplate
-Plate armors
+Plaka Zırh
 
 #r_pottery
-Pottery
+Çömlek
 
 #r_furniture
-Furniture
+Mobilya
 
 #r_rugs
-Rugs
+Kilim
 
 #r_barley
-Barley
+Arpa
 
 #r_beer
-Beer
+Bira
 
 #r_grapes
-Grapes
+Üzüm
 
 #r_wine
-Wine
+Şarap
 
 #r_apples
-Apples
+Elme
 
 #r_cider
-Cider
+Elma Şarabı
 
 #r_sugarcane
-Sugarcane
+Şekerkamışı
 
 #r_rum
 Rum
 
 #r_goats
-Goats
+Keçi
 
 #r_papyrus
-Papyrus
+Papirüs
 
 #r_paper
-Paper
+Kağıt
 
 #r_olives
-Olives
+Yağ
 
 #r_building
-Building
+Bina
 
 #r_plans
-Plans
+Plan
 
 #r_taxcollect
-Tax collection
+Vergi Toplama
 
 #r_cmnty
-Community
+Topluluk
 
 #r_tavern
-Tavern
+Meyhane
 
 #r_theater
-Theater
+Tiyatro
 
 #r_doctor
-Doctor
+Doktor
 
 #r_justice
-Justice
+Adalet
 
 #r_cargo
-Cargo
+Kargo
 
 #r_clay
-Clay
+Kil
 
 #r_water
-Water
+Su
 
 #r_trading
-Trading
+Ticaret
 
 #r_school
-School
+Okul
 
 #r_wash
-Laundry
+Çamaşırhane
 
 #r_baths
-Baths
+Kaplıca
 
 #r_scribe
-Scribe
+Yazar
 
 #r_academ
-Academia
+Akademi
 
 #r_guard
-Guarding
+Koruma
 
 #r_bear
-Bears
+Ayı
 
 #r_wolf
-Wolves
+Kurt
 
 #r_obsidian
-Obsidian
+Obsidyen
 
 #r_topilli
 Topillis
@@ -467,7 +467,7 @@ Topillis
 Macanas
 
 #r_library
-Library
+Kütüphane
 
 #r_dates
 Dates
