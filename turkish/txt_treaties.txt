@@ -1,161 +1,161 @@
 #agrim_goldo_1
-Unique payment
+Ödeme
 
 #agrim_goldo_2
-Pays [x] coins
+[x] altın öder.
 
 #agrim_goldo_3
-Single coin payment from [x] to [y], at treaty signature.
+[x]'ten [y]'ye antlaşma altında tek seferlik ödeme yapacak.
 
 #agrim_goldr_1
-Coins transfer
+Altın Transferi
 
 #agrim_goldr_2
-Continuous transfer of [x] coins from income
+Gelirin [x] altını devamlı olarak transfer edilecek.
 
 #agrim_goldr_3
-[x] continuously transfers coins to [y] for as long as the treaty remains active.
+Antlaşma aktif kaldığı sürece, [x] devamlı olarak [y]'ye altın transferi yapar.
 
 #agrim_goldtax_1
-Coins tax
+Vergi Kesme
 
 #agrim_goldtax_2
-Gives [x]% of coins income
+Gelirinin %[x]'ini verir.
 
 #agrim_goldtax_3
-[x] transfers a % of his total coins income to [y].
+[x], toplam altın gelirinin belirli bir yüzdesini [y]'ye transfer eder.
 
 #agrim_admtax_1
-Power transfer
+Güç Transferi
 
 #agrim_admtax_2
-Transfers [x]% of state power
+Devlet gücünün %[x]'ini transfer eder.
 
 #agrim_admtax_3
-[x] tranfers a % of his state power to [y].
+[x], devlet gücünün belirli bir yüzdesini [y]'ye transfer eder.
 
 #agrim_trad_1
-Trade agreement
+Ticaret Antlaşması
 
 #agrim_trad_2
-Allows trade
+Ticarete izin verir.
 
 #agrim_trad_3
-Gives [y] access to all trade offers and trade routes from [x].
+[y]'ye [x]'ten gelecek her ticaret antlaşmasına ve ticaret yollarına erişme izini verir.
 
 #agrim_pass_1
-Right of passage
+Geçiş Hakkı
 
 #agrim_pass_2
-Gives right of passage
+Sınırlardan geçme izinini verir.
 
 #agrim_pass_3
-Allows units of [y] to travel in the territories of [x].
+[y]'nin askerlerine [x]'in bölgelerinde geçiş hakkı verir.
 
 #agrim_embrg_1
-Embargo against...
+...'ya Karşı Ambargo
 
 #agrim_embrg_2
-Embargo of against [x]
+[x]'e karşı ambargo.
 
 #agrim_embrg_3
-Forbids trade with a specified state
+Belirli bir devlet ile ticareti yasaklar.
 
 #agrim_vassal_1
-Join nation
+Ulusa Katıl
 
 #agrim_vassal_2
-Joining the [x]
+[x] ulusuna katılır.
 
 #agrim_vassal_3
-[x] will join the nation of [y].
+[x], [y]'nin ulusuna katılacak.
 
 #agrim_war_1
-Declare war to...
+...'ya Savaş İlan Et
 
 #agrim_war_2
-Declaring war to [x]
+[x]'e savaş ilan ediliyor.
 
 #agrim_war_3
-Declare war to another specified state
+Belirli farklı bir devlete savaş ilan et
 
 #agrim_peace_1
-Peace treaty
+Barış Antlaşması
 
 #agrim_peace_2
-Peace treaty
+Barış Antlaşması
 
 #agrim_peace_3
-Forbids war between treaty members.
+Antlaşma üyeleri arasında savaşı yasaklar.
 
 #agrim_ceasefr_1
-Cease fire
+Ateşkes
 
 #agrim_ceasefr_2
-Cease fire
+Ateşkes
 
 #agrim_ceasefr_3
-Ends war between treaty members.
+Antlaşma üyeleri arasındaki savaşı sonlandırır.
 
 #agrim_tradrt_1
-Trade route
+Ticaret Yolu
 
 #agrim_tradrt_2
-Trade route
+Ticaret Yolu
 
 #agrim_tradrt_3
-Setup a treaty binded trade route
+Ticaret yolu için bir antlaşma imzala.
 
 #agrim_givreg_1
-Give region
+Bölge Ver
 
 #agrim_givreg_2
-Giving region of '[x]' 
+"[x]" bölgesini verme. 
 
 #agrim_givreg_3
-Transfer ownership of a region to [y].
+Transfer ownership of a region to [y]. Bölgenin sahipliğini [y]'ye ver.
 
 #agrim_gividea_1
-Give idea
+Fikir Ver
 
 #agrim_gividea_2
-Give idea for [x]
+[x] için fikir ver.
 
 #agrim_gividea_3
-[y] will receive from [x] a new idea for knowledges he doesnt have yet.
+[y], [x]'ten bilmediği yeni bir fikir edinecek.
 
 #treaty_powcost
-State power cost to maintain this treaty
+Bu antlaşmayı sürdürmek için gerekli devlet gücü
 
 #treaty_coinpen
-Coins penalty
+Altın Penaltısı
 
 #treaty_coinpen_c1
-% of GDP transfered as penalty if [x] breaks this treaty,
+[x] tarafından antlaşma bozulursa
 
 #treaty_coinpen_c2
-to [x].
+GDP'nin belirli bir yüzdesi antlaşmanın imzalandığı devlete transfer edilecek.
 
 #treaty_gdp
-[x]% of GDP
+%[x] GDP
 
 #treaty_honor
-Honor commitment
+Saygı
 
 #treaty_honor_c1
-Level of commitment of [x] to respect this treaty.
+[x]'in bu anlaşmaya duyduğu saygı.
 
 #treaty_honor_c2
-Proportionnal honor is lost if [x] breaks it.
+Eğer [x] antlaşmayı bozar ise, antlaşmaya duyduğu saygı ile oranlı olarak onur kaybeder.
 
 #treaty_warbound
-War bound
+Savaş'a Bağlı
 
 #treaty_warbound_c1
-Wether or not [x] will automatically declare war
+Karşı devlet antlaşmayı bozar ise
 
 #treaty_warbound_c2
-if [x] breaks this treaty.
+[x] otomatik olarak antlaşmanın yapıldığı devlete savaş açar.
 
 #treaty_closes
 Breaking closes
