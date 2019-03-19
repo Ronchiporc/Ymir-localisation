@@ -5571,3 +5571,9 @@ Heights
 
 #displyr_fortif
 Fortifications
+
+#warn_moveprim
+You're probably about to make a mistake...
+
+#warn_moveprim_1
+Starting the game by moving your whole primitive tribe is a VERY dangerous decision that can quickly lead to defeat or being stuck for a significant time. Unless you know exactly what you're doing, it is HIGHLY advised to settle on your starting region: you can always explore with a smaller party later on and then organize a safe migration to better lands.
