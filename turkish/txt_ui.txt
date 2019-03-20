@@ -1,257 +1,257 @@
 ﻿#b_menu_tutorial
-TUTORIAL
+Eğitici
 
 #b_menu_newgame
-NEW GAME
+YENİ OYUN
 
 #b_menu_load
-LOAD GAME
+KAYITLI OYUN
 
 #b_menu_join
-JOIN GAME
+ÇOK OYUNCULU
 
 #b_menu_editor
-EDITOR
+EDİTÖR
 
 #b_menu_options
-SETTINGS
+AYARLAR
 
 #b_menu_quit
-QUIT
+ÇIKIŞ
 
 #b_menu_resume
-RESUME
+Devam Et
 
 #b_menu_tomain
-TO MAIN MENU
+Ana Menüye Dön
 
 #b_menu_discord_1
-Ymir official Discord
+Ymir resmi Discord
 
 #b_menu_discord_2
-Join the Ymir community!
+Ymir topluluğuna katıl!
 
 #b_menu_porcopedia_1
-Porcopedia
+Porcopedia (wiki)
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+Oyunun resmi wiki sayfası
 
 #b_menu_trell_1
-Ymir on Trello
+Ymir Trello'da
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+Oyunun geliştirilme sürecini takip edin ve planlanmış yeniliklere oy verin.
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+Ana menüye dönmek istediğinizden emin misiniz?
 
 #ui_connctstat_1
-Currently connected to [x]  ping: [y]
+Şuanda [x]'e bağlı. Ping: [y]
 
 #ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z] )
+Kayıp oranı: [x]% ( gönderilen:[y]  hata:[z] )
 
 #ui_connct_stable
-Your connection with the server is stable.
+Sunucu ile olan bağlantınız stabil.
 
 #ui_connct_unstbl
-Warning! Your connection with the server is unstable!
+Uyarı! Sunucu ile olan bağlantınız stabil değil.
 
 #mainmenu_mute
-click to mute/unmute the whole game
+Bütün oyunun sesini açıp/kapatmak için tıklayınız
 
 #mainmenu_fullscrn
-click to switch between windowed and fullscreen modes
+Tam ekran ve pencere modu arasında değiştirmek için tıklayınız
 
 #mainmenu_quit
-click to quit the game
+Oyundan çıkmak için tıklayınız
 
 #mainmenu_maxim
-maximize
+Büyüt
 
 #mainmenu_minim
-minimize
+Küçült
 
 #dsclmr_title
-DISCLAIMER
+Dikkat
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- Bu oyun tek kişi tarafından geliştirilmektedir, ilerleyişi yavaş olacaktır.
 
 #dsclmr_2
-- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+- Bu oyun muhtemelen hep deneysel bir çalışma olarak kalacaktır ve hiç bir zaman bitmiş bir ürünün kalitesine, uygun stabilitesine ve optimizasyonuna ulaşamayacaktır.
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- Oyunu solo olarak oynayabilirsiniz fakat oyunun ana odağı çok oyunculu olmasıdır.
 
 #b_menuop_fullscreen
-Fullscreen
+Tam Ekran
 
 #bc_menuop_fullscreen
-enable fullscreen
+Tam ekranı aktif et
 
 #b_menuop_autores
-Automatic resolution
+Otomatik çözünürlük
 
 #bc_menuop_autores
-automatically adapt resolution to the display in fullscreen
+Otomatik olarak tam ekran için çözünürlüğü ayarla
 
 #b_menuop_res
-Display resolution
+Ekran Çözünürlüğü
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+İstediğiniz ekran çözünürlüğünü seçiniz
 
 #b_menuop_terrain
-Terrain
+Arazi
 
 #b_menuop_low
-low
+Düşük
 
 #b_menuop_medium
-medium
+Orta
 
 #b_menuop_high
-high
+Yüksek
 
 #b_menuop_bdgs
-Buidings
+Binalar
 
 #b_menuop_units
-Units
+Üniteler
 
 #b_menuop_fx
 FX
 
 #b_menuop_shaders
-Shaders
+Shaderlar
 
 #b_menuop_worldmap
-Worldmap
+Dünya Haritası
 
 #b_menuop_logic
-Logic
+Mantık
 
 #b_menuop_cosveg
-Cosmetic vegetation
+Dekor Bitki Örtüsü
 
 #bc_menuop_cosveg
-Enable cosmetic grass and bushes
+Kozmetik çalıları ve çimleri aç/kapat
 
 #b_menuop_cosunits
-Cosmetic units 
+Kozmetik Üniteler
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+Dekoratif hayvanlar gibi kozmetik üniteleri aç/kapat
 
 #b_menuop_animveget
-Animated vegetation
+Animasyonlu Bitki Örtüsü
 
 #bc_menuop_animveget
-Enable or disable animated vegetation in the territory view
+Bölge görünüşünde animasyonlu bitki örtüsünü aç/kapat
 
 #b_menuop_grain
-Video grain
+Ortam Efektleri
 
 #bc_menuop_grain
-Enable or disable this post-processing effect
+Ortam efektlerini aç/kapat
 
 #b_menuop_autovsize
-Automatic viewport definition
+Otomatik Viewport Tanımlama
 
 #b_menuop_autovsize_c1
-Viewport definition will remain at 1:1 with your display resolution.
+Viewport tanımı ekran çözünürlüğünüz ile 1:1 oranda kalacak.
 
 #b_menuop_vsize
-Viewport definition
+Viewport Çözünürlüğü
 
 #b_menuop_vsize_c1
-Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+Oyun grafiklerinin çözünürlüğü. %100 demek, ekran ile renderlanan grafikler 1:1 oranında gerçekleştirilecek.
 
 #b_menuop_vsize_c2
-Lowering this ratio greatly increases performances.
+Bu oranı azaltmak büyük ölçüde performansı arttırır.
 
 #b_menuop_autoui
-Automatic UI size
+Otomatik Arayüz Boyutu
 
 #b_menuop_autoui_c1
-UI size will automatically adapt to your display resolution.
+Arayüz, ekran çözünürlüğünüze uyacak şekilde otomatik olarak ayarlanır.
 
 #b_menuop_uisize
-UI size
+Arayüz Boyutu
 
 #b_menuop_uisize_c1
-Changes the size of the UI layer. 
+Arayüzün boyutunu ayarlar.
 
 #b_menuop_uisize_c2
-Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+Ekran çözünürlüğünüze bağlı olarak yazıları okurken rahatsız oluyorsanız kullanışlıdır.
 
 #b_menuop_mvol
-Music volume
+Müzik Sesi
 
 #b_menuop_ambvol
-Ambiant volume
+Ortam Sesi
 
 #b_menuop_uivol
-UI volume
+Arayüz Sesi
 
 #b_menuop_lang
-Language
+Dil
 
 #bc_menuop_lang
-Choose your language
+Dilinizi seçiniz
 
 #menuop_k_up
-Camera up
+Kamera Yukarıya
 
 #menuop_k_le
-Camera left
+Kamera Sola
 
 #menuop_k_ri
-Camera right
+Kamera Sağa
 
 #menuop_k_dw
-Camera down
+Kamera Aşağıya
 
 #menuop_keyset
-click and press a keyboard key to bind it to this action
+Bu aksiyona bir tuş atamak için tıklayıp bir tuşa basınız
 
 #menuop_togtut
-Toggle tutorials
+Eğitimi Aç/Kapat
 
 #menuop_togtut_c1
-Enables the main tutorial and all the help popups when doing things for the first time.
+Oyunu ilk kez oynuyorken eğiticiyi ve bütün yardım pop-uplarını aktif eder.
 
 #menuop_resetut
-Reset all
+Eğitimi Sıfırla
 
 #menuop_resetut_c1
-Reset all tutorials to zero.
+Eğitimi sıfırla
 
 #menuop_resetutd
-All tutorials reseted.
+Bütün eğitimler sıfırlandı.
 
 #b_menuop_apply
-Apply
+UYGULA
 
 #b_menuop_display
-DISPLAY
+EKRAN
 
 #b_menuop_sound
-SOUND
+SES
 
 #b_menuop_game
-GAME
+OYUN
 
 #ui_menuop_options
-SETTINGS
+AYARLAR
 
 #joingame_yourgames
-Your games
+Oyunlarınız
 
 #joingame_persist
-Persistent games
+Persistent Oyunlar
 
 #joingame_persist_dscr_1
 Persistant games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
@@ -260,13 +260,13 @@ Persistant games are the main game mode to experience Ymir: slow paced games tha
 To garantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). Only gameplay is law.
 
 #joingame_realtime
-Real-time games
+Gerçek Zamanlı Oyunlar
 
 #joingame_realtime_dscr_1
 Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
 
 #joingame_custom
-Custom games
+Özel Oyunlar
 
 #joingame_custom_dscr_1
 Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
@@ -275,43 +275,43 @@ Custom games are community hosted games with no enforced standardization, where 
 WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
 
 #joingame_direct
-Direct IP
+Direkt IP
 
 #joingame_connect
-JOIN GAME
+KATIL
 
 #servlst_name
-Server name
+Server Adı
 
 #servlst_name_c1
-The custom name of the server's game
+Server oyunun özel adı
 
 #servlst_creat
-Creator
+Yaratıcı
 
 #servlst_creat_c1
 The steam user name of the server host
 
 #servlst_players
-Players
+Oyuncular
 
 #servlst_players_c1
-The number of players currently online in this game
+Oyunda online olan oyuncu sayısı
 
 #servlst_online
 Online
 
 #servlst_actives_c1
-The number of active players in this game
+Serverde oynayan toplam oyuncu sayısı
 
 #servlst_dur
-Duration
+Süre
 
 #servlst_dur_c1
-The amount of time this game has been going on
+Oyunun devam ettiği süre
 
 #servlst_admn
-Admin tools
+Admin Araçları
 
 #servlst_admn_c1
 Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
@@ -323,73 +323,73 @@ Game preset
 Game balance preset used on this custom server.
 
 #servlst_ver
-server's version
+Server versiyonu
 
 #servlst_ver_c1
-The version of the game this server is currently running.
+Serverin çalıştırdığı oyun versiyonu.
 
 #servlst_ver_c2
-Warning! Your version ([x]) does not match with the one of this server ([y])!
+UYARI! Sizin versiyonunuz ([x]) serverin versiyonu ([y]) ile uyuşmamakta!
 
 #servlst_nogam
-Sorry: It looks like there is currently no games available!
+Hiç bir server bulunamadı.
 
 #b_newgame_name
-Game name:
+Oyun adı:
 
 #b_newgame_public
-public
+herkese açık
 
 #b_newgame_friends
-friends only
+sadece arkadaşlar
 
 #b_newgame_private
-private
+özel
 
 #b_newgame_password
-Password:
+Parola:
 
 #bc_newgame_password
-set a password requested to join this game
+Oyuna girmek için bir parola koyunuz
 
 #b_newgame_maxplayers
-Max players:
+Maksimum oyuncular:
 
 #b_newgame_start
-START GAME
+OYUNU BAŞLAT
 
 #ui_newgame_newgame
-NEW GAME
+YENI OYUN
 
 #ui_newgame_world
-WORLD
+DÜNYA
 
 #b_newgame_wprocedural
 Procedural
 
 #b_newgame_wcustom
-Custom
+Özel
 
 #newgame_serv_c
-server options
+Server ayarları
 
 #newgame_serv_run
-server doesnt close automatically
+Server kapanma ayarı
 
 #newgame_serv_empty
-close server when empty
+server boş olunca kapat
 
 #newgame_serv_leave
-close server when you disconnect
+sen serverden ayrılınca kapat
 
 #newgame_samname
 A saved game '[x]' already exists in the local files! What do you want to do?
 
 #newgame_overw
-Overwrite
+Üzerine yaz
 
 #newgame_renam
-Autorename
+Otomatik tekrar adlandırma
 
 #newgame_nomap
 none available
@@ -398,28 +398,28 @@ none available
 It seems there is'nt any custom map available. Please select a procedural type of map.
 
 #mapsize
-Map size
+Harita Boyutu
 
 #mapsize1
-Tiny
+Minik
 
 #mapsize2
-Small
+Küçük
 
 #mapsize3
-Regular
+Normal
 
 #mapsize4
-Large
+Büyük
 
 #mapsize5
-Huge
+Kocaman
 
 #mapsize6
-Giant
+Devasa
 
 #maptyp
-Map preset
+Harita
 
 #maptyp1
 Terra
@@ -470,10 +470,10 @@ Select a custom map
 Custom worlds are maps manually created with the editor instead of beeing procedurally generated.
 
 #newgame_gamset
-GAME SETTINGS
+OYUN AYARLARI
 
 #gmtyp_off
-Official
+Resmi
 
 #gmtyp_off_dscr
 Games labelled as official are using standardized non-customizable settings to provide a reliable experience.
@@ -4010,7 +4010,7 @@ The trade route operator is the city dealing with the transportation of the good
 It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+The cost of cargo is exponential to the trade routeӳ distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
 
 #ui_troute_vol
 Cargo volume
@@ -4124,7 +4124,7 @@ Militia
 A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
 
 #menu_nfrm_t2_dscr2
-Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Militias donӴ monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
 
 #menu_nfrm_t2_dscr3
 However , the militia cannot move to other territory s and decreases the state authority.
@@ -5571,3 +5571,9 @@ Heights
 
 #displyr_fortif
 Fortifications
+
+#warn_moveprim
+You're probably about to make a mistake...
+
+#warn_moveprim_1
+Starting the game by moving your whole primitive tribe is a VERY dangerous decision that can quickly lead to defeat or being stuck for a significant time. Unless you know exactly what you're doing, it is HIGHLY advised to settle on your starting region: you can always explore with a smaller party later on and then organize a safe migration to better lands.
