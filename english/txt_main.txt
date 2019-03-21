@@ -525,3 +525,24 @@ every [x] seconds
 
 #g_with
 with
+
+#g_second
+second
+
+#g_seconds
+seconds
+
+#g_hour
+hour
+
+#g_hours
+hours
+
+#g_day
+day
+
+#g_days
+days
+
+#g_never
+never
