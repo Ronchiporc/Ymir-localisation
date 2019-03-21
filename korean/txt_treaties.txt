@@ -1,179 +1,179 @@
-#agrim_goldo_1
+﻿#agrim_goldo_1
 Unique payment
 
 #agrim_goldo_2
-Pays [x] coins
+[x] 주화를 지급합니다
 
 #agrim_goldo_3
-Single coin payment from [x] to [y], at treaty signature.
+조약서명을 할 떄 [x] 로 부터 [y] 에게 한개의 주화가 지급되었습니다.
 
 #agrim_goldr_1
-Coins transfer
+주화 송금
 
 #agrim_goldr_2
 Continuous transfer of [x] coins from income
 
 #agrim_goldr_3
-[x] continuously transfers coins to [y] for as long as the treaty remains active.
+[x] 는 [y] 에게 조약이 유효한 동안 지속적으로 주화를 송금할 것 입니다.
 
 #agrim_goldtax_1
-Coins tax
+주화세
 
 #agrim_goldtax_2
-Gives [x]% of coins income
+주화 소득의 [x]% 를 준다.
 
 #agrim_goldtax_3
-[x] transfers a % of his total coins income to [y].
+[x] 가 [y] 에게 그의 총 주화 소득 중 1%를 이체하였습니다.
 
 #agrim_admtax_1
-Power transfer
+권력 전송
 
 #agrim_admtax_2
-Transfers [x]% of state power
+[x]% 의 국가권력을 이전하였습니다.
 
 #agrim_admtax_3
-[x] tranfers a % of his state power to [y].
+[x] 가 [y] 에게 그의 국가권력 중 1%를 이전하였습니다.
 
 #agrim_trad_1
-Trade agreement
+무역협정
 
 #agrim_trad_2
-Allows trade
+무역 허용
 
 #agrim_trad_3
-Gives [y] access to all trade offers and trade routes from [x].
+[y]에게 [x]에서의 모든 무역 제안 및 무역 경로에 대한 접근 권한을 부여한다.
 
 #agrim_pass_1
-Right of passage
+통행권
 
 #agrim_pass_2
-Gives right of passage
+통행권을 주다.
 
 #agrim_pass_3
-Allows units of [y] to travel in the territories of [x].
+[y]의 유닛이 [x]의 영토에서 이동할 수 있도록 허용한다.
 
 #agrim_embrg_1
-Embargo against...
+통상금지...
 
 #agrim_embrg_2
-Embargo of against [x]
+[x]에 통상금지령
 
 #agrim_embrg_3
-Forbids trade with a specified state
+지정된 지역과 통상 금지령을 내린다
 
 #agrim_vassal_1
-Join nation
+국가에 가입하기
 
 #agrim_vassal_2
-Joining the [x]
+[x] 에 가입한다
 
 #agrim_vassal_3
-[x] will join the nation of [y].
+[x] 가 [y]국에 가입합니다.
 
 #agrim_war_1
-Declare war to...
+...에게 전쟁을 선포
 
 #agrim_war_2
-Declaring war to [x]
+[x] 에게 전쟁을 선포합니다.
 
 #agrim_war_3
-Declare war to another specified state
+다른 특정 상대에게 전쟁을 선포합니다
 
 #agrim_peace_1
-Peace treaty
+평화협정
 
 #agrim_peace_2
-Peace treaty
+평화협정
 
 #agrim_peace_3
-Forbids war between treaty members.
+조약상대와 전쟁금지협약을 맺습니다
 
 #agrim_ceasefr_1
-Cease fire
+정전
 
 #agrim_ceasefr_2
-Cease fire
+정전
 
 #agrim_ceasefr_3
-Ends war between treaty members.
+조약 상대 간의 전쟁을 종식시킨다.
 
 #agrim_tradrt_1
-Trade route
+무역로
 
 #agrim_tradrt_2
-Trade route
+무역로
 
 #agrim_tradrt_3
-Setup a treaty binded trade route
+조약으로 맺은 교역로를 설정한다
 
 #agrim_givreg_1
-Give region
+지역 증여
 
 #agrim_givreg_2
-Giving region of '[x]' 
+'[x]'의 지역을 증여합니다. 
 
 #agrim_givreg_3
-Transfer ownership of a region to [y].
+지역의 소유권을 [y]로 이전한다.
 
 #agrim_gividea_1
-Give idea
+아이디어 제시
 
 #agrim_gividea_2
-Give idea for [x]
+[x]에 아이디어 제공
 
 #agrim_gividea_3
-[y] will receive from [x] a new idea for knowledges he doesnt have yet.
+[y]는 그가 아직 가지고 있지 않은 지식에 대한 새로운 아이디어를 [x]로부터 받을 것이다.
 
 #treaty_powcost
-State power cost to maintain this treaty
+이 조약의 유지를 위한 국가 권력 비용
 
 #treaty_coinpen
-Coins penalty
+주화 페널티
 
 #treaty_coinpen_c1
-% of GDP transfered as penalty if [x] breaks this treaty,
+만약 [x]가 이 조약을 어길 경우, GDP의 퍼센트가 벌금으로 이체됩니다.
 
 #treaty_coinpen_c2
-to [x].
+[x] 에게.
 
 #treaty_gdp
-[x]% of GDP
+[x]% 의 GDP
 
 #treaty_honor
-Honor commitment
+명예의 약속
 
 #treaty_honor_c1
-Level of commitment of [x] to respect this treaty.
+이 조약을 존중하는 상호간의 약속.
 
 #treaty_honor_c2
-Proportionnal honor is lost if [x] breaks it.
+[x]가 깨지면 비례의 명예가 상실된다.
 
 #treaty_warbound
 War bound
 
 #treaty_warbound_c1
-Wether or not [x] will automatically declare war
+[x]가 자동으로 전쟁을 선포함
 
 #treaty_warbound_c2
-if [x] breaks this treaty.
+[x]가 이 조약을 어기면
 
 #treaty_closes
-Breaking closes
+단절 끊기
 
 #diplo_npass
-National right of passage
+국가 통행권
 
 #diplo_npass_dscr_1
-All members of the Nation can move through each other's territory.
+국가의 모든 구성원들은 서로의 영역을 통과할 수 있다.
 
 #diplo_ntrade
-National trade agreement
+국가 무역 협정
 
 #diplo_ntrade_dscr_1
-All members of the Nation get automatic trading rights with each other.
+국가의 모든 회원들은 서로 무역권을 갖는다.
 
 #diplo_ndef
-National defensive pact
+국가 방위 조약
 
 #diplo_ndef_dscr_1
-Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
+어떤 국가 구성원에 대한 어떤 선전포고라도 국가의 다른 모든 구성원들로부터 자동적으로 선전포고를 촉발할 것이며

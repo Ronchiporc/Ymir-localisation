@@ -1,14 +1,14 @@
-#tuto_launch_1
-Welcome to Ymir! It looks like it's the first time you're launching this game. 
+﻿#tuto_launch_1
+Ymir 의 세계에 오신 것을 환영합니다! 당신은 게임을 처음 플레이하시는 것 같군요. 
 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+이 게임은 복잡합니다. 아직 게임에 익숙하지않으시다면, 기본적인 것을 배우기 위해 싱글플레이에서 초보자를 위한 튜토리얼을 완료할 것을 추천드립니다. 벌써 게임플레이 하는 법을 알고 계시다면, 지금 튜토리얼을 끄셔도 됩니다.
 
 #tuto_create_1
-This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+여기서 게임을 설정하고 게임을 시작합니다. 2가지의 게임모드가 있는 데, 영구모드와 리얼타임드가 있습니다. 만약 혼자 플레이하시거나 몇명의 친구와 게임한다면, 리얼타임모드로 하시면 됩니다.
 
 #tuto_lnchgame_1
-You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
+첫번째 게임을 시작하시고 계시군요! 클라이언트 서버 게임입니다. 혼자하시더라도, 분리된 서버가 자동으로 실행되고 자동으로 연결됩니다. 다른 플레이어가 접속할 수 있게 하시려면 14804로 포트포워딩을 꼭 하셔야합니다. 만약 자동으로 서버가 열리지않을 시, 게임폴더에서  server.bat 파일로 실행해주신 후 Join Game 을 통해 접속하시기바랍니다.
 
 #tuto_char_1
 This is where you create your character. You can design and name it, as well as your government's name and flag. 

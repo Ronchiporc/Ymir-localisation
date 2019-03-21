@@ -1,156 +1,156 @@
-#civ_gifteco_n
-Gift economy
+﻿#civ_gifteco_n
+선물 경제
 
 #civ_gifteco_dscr
-A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards.
+귀중품을 거래하거나 판매하지 않고, 즉석 또는 장래의 보상에 대해 명시적인 합의 없이 주는 교환 방식.
 
 #civ_fairxchang_n
-Fair exchange
+장물 교환
 
 #civ_fairxchang_dscr
-Immediate and reciprocal exchange of equivalent valuables.
+동등한 귀중품의 즉각적이고 상호적인 교환.
 
 #civ_currency_n
-Currency
+화폐
 
 #civ_currency_dscr
-Having a reference valuable to facilitate exchanges and used as a unit for value measurement. 
+교환을 용이하게 하고 가치 측정을 위한 단위로 사용할 수 있도록 귀중한 참조를 가지는 것.
 
 #civ_coinage_n
-Coinage
+주화
 
 #civ_coinage_dscr
-A state certified currency.
+국가 인증 통화
 
 #civ_repmoney_n
-Representative money
+대표금
 
 #civ_repmoney_dscr
-A currency representing a claim on a commodity instead of beeing a commodity in itself.
+상품 그 자체가 상품이 아닌 상품에 대한 청구권을 나타내는 통화.
 
 #civ_bandsociety_n
-Band society
+소규모 사회
 
 #civ_bandsociety_dscr
-The simplest form of society, with loose organization and informal leadership.
+느슨한 조직과 비공식적인 리더쉽을 가진 사회의 가장 단순한 형태.
 
 #civ_leadership_n
-Leadership
+리더쉽
 
 #civ_leadership_dscr
-One recognized leader to rule them all.
+한 명의 지도자가 그들 모두를 통치할 것 이다.
 
 #civ_localchief_n
-Local authorities
+지방 관헌
 
 #civ_localchief_dscr
-Local territorynal chiefs ruling their single territory and carrying the orders of the central power.
+지방 자치단체장들은 그들의 단일 영토를 통치하고 중앙 권력의 명령을 수반한다.
 
 #civ_governors_n
-Governors
+주지사
 
 #civ_governors_dscr
-Public officials with the power to govern provinces.
+지방을 다스릴 수 있는 권한을 가진 공무원.
 
 #civ_senate_n
-Senate
+상원 의원.
 
 #civ_senate_dscr
-An assembly of statespigs acting for the interests of the people.
+국민의 이익을 위해 행동하는 정치가들의 모임.
 
 #civ_prtctor_n
-Protector of the people
+인민 보호자
 
 #civ_prtctor_dscr
-"I rule because i am in charge of protecting the people."
+"나는 국민을 보호하는 역할을 하기 때문에 통치한다."
 
 #civ_superior_n
-Superior leader
+슈퍼리더
 
 #civ_superior_dscr
-"I rule because i am superior."
+"나는 내가 우월하기 때문에 통치한다."
 
 #civ_divine_n
-Divine leader
+신성 지도자
 
 #civ_divine_dscr
-"I rule because i am a god."
+"나는 신이기 때문에 통치한다."
 
 #civ_divinerep_n
-Divine representative
+신성한 대표자
 
 #civ_divinerep_dscr
-"I rule because i am chosen by the gods."
+"나는 신들에 의해 선택되었기에 통치한다."
 
 #civ_comgood_n
-Common good
+공익자
 
 #civ_comgood_dscr
-"I rule for the people."
+"나는 국민을 위해 통치한다."
 
 #civ_people_n
-People representative
+인민대표
 
 #civ_people_dscr
-"I rule in the name of the people."
+"국민의 이름으로 통치한다"
 
 #civ_tax_n
-Taxation
+세금징수
 
 #civ_tax_dscr
-Financial charges imposed upon taxpayers by the state.
+국가가 납세자에게 부과하는 재정부담금.
 
 #civ_seizem_n
-Seize materials
+자재 징수
 
 #civ_seizem_dscr
-Seize construction materials from the population instead of paying for them. Excess of this might harm your economy.
+건설 자재를 지불하는 대신 시민으로부터 징수하라. 과할시는 당신의 경제에 해가 될 수 있다.
 
 #civ_statepriv_n
-Privileges
+특권
 
 #civ_statepriv_dscr
-Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
+당신 정부의 지도력에 대한 특권, 그들에게 정당한 영토 재산의 일정 비율을 부여함.
 
 #civ_statesal_n
-State workers
+국가 근로자
 
 #civ_statesal_dscr
-State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
+국가 근로자들은 국가가 직접 고용하고 보수를 받으며 행정이나 학교 같은 다양한 공공 건물에서 근무한다.
 
 #civ_parl_n
-Parliament
+의회.
 
 #civ_parl_dscr
-An assembly of representatives of the people.
+인민 대표들의 모임.
 
 #civ_minist_n
-Ministry
+기구
 
 #civ_minist_dscr
-A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
+중요한 공직을 갖고, 서로 연계하여 정책에 대한 결정을 내리고 실행하는 정치인들의 모임.
 
 #civ_ration_n
-Food rationing
+식량배급
 
 #civ_ration_dscr
-The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improving everyone's access to foods.
+식량의 배급을 하면 돼지 한 마리당 식량이 줄어든다. 식량난의 시기에, 그것은 모든 사람들의 음식 접근성을 향상시키는데 도움이 된다.
 
 #civ_agrisav_n
-Seeds stocking
+씨앗 축적
 
 #civ_agrisav_dscr
-Prevent a portion of your agricultural food production from beeing directly distributed or consummed in order to save seeds to create new fields.
+새로운 밭을 만들기 위해 씨앗을 저장하기 위해 당신의 농식품 생산의 일부가 직접 유통되거나 소모되는 것을 막아라.
 
 #civ_subv_n
-Subvention
+지원금
 
 #civ_subv_dscr
-An aid paid by the state to every porco of a specific class of workers, increasing their income.
+국가가 특정 계층의 모든 근로자에게 지급하는 보조금은 그들의 소득을 증가시킨다.
 
 #civ_paidrsrch_n
-Paid researchers
+유급 연구원
 
 #civ_paidrsrch_dscr
-Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings where they work.
+프로젝트 연구자들은 현재 재산에 대한 국가 비례의 보수를 받으며 더 이상 그들이 일하는 건물의 노동력을 줄이지 않는다.
 

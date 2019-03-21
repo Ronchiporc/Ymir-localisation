@@ -1,191 +1,191 @@
-#cond_nbreg
-Own [x] or more territories
+﻿#cond_nbreg
+[x] 또는 그 이상의 영토
 
 #cond_prodsupto
-Produce at least [x] of [y] in territory
+최소 [x]의 [y]를 영토로 생산한다.
 
 #cond_incrfoodprod
-Increase your food production by at least [x]
+음식 생산량을 최소한 [x] 만큼 늘려라.
 
 #cond_ownbdg
-Have [x] [y] in the territory
+[x] [y]를 영토에서 소유하고 있습니다.
 
 #cond_ownbdg_class
-Have [x] buildings of the [y] class in the territory
+영토내 [y] 계급은  [x] 개수의 건물들을 가지고 있다.
 
 #cond_cmplted_ev
-Completed event [x]
+완료된 이벤트: [x]
 
 #cond_loyal_inf
-Territory loyalty inferior to [x]
+[x]보다 영토 충성도가 낮습니다.
 
 #cond_loyal_sup
-Territory loyalty superior to [x]
+[x]보다 영토 충성도가 높습니다.
 
 #cond_pow_inf
-State power inferior to [x]
+[x]보다 국가권력이 낮습니다.
 
 #cond_pow_sup
-State power superior to [x]
+[x]보다 국가권력이 높습니다.
 
 #cond_legit_inf
-State legitimacy inferior to [x]
+[x]보다 국가 정통성이 낮습니다.
 
 #cond_legit_sup
-State legitimacy superior to [x]
+[x]보다 국가 정통성이 높습니다.
 
 #cond_coins_inf
-State currency inferior to [x]
+[x]보다 국가화폐가 낮은 가치에 있습니다.
 
 #cond_coins_sup
-State currency superior to [x]
+[x]보다 국가화폐가 높은 가치에 있습니다.
 
 #cond_notech
-Do not have the knowledge of '[x]'
+'[x]' 에 대한 지식은 없습니다.
 
 #cond_hastech
-Have the knowledge of '[x]'
+'[x]' 에 대한 지식이 있습니다.
 
 #cond_popnb_inf
-[y] inferior to [x]
+[y]가 [x]보다 못하다.
 
 #cond_popnb_sup
-[y] superior to [x]
+[y]가 [x]보다 우월하다.
 
 #cond_intel_inf
-[y] intelligence inferior to [x]
+[y]의 지능이 [x]보다 못하다.
 
 #cond_intel_sup
-[y] intelligence superior to [x]
+[y]의 지능이 [x]보다 우월하다.
 
 #cond_lifeq_inf
-[y] life quality inferior to [x]
+[y]의 삶의 질이 [x]보다 못하다.
 
 #cond_lifeq_sup
-[y] life quality superior to [x]
+[y]의 삶의 질이 [x]보다 우월하다.
 
 #cond_health_inf
-[y] health inferior to [x]
+[y]의 체력이 [x]보다 못하다.
 
 #cond_health_sup
-[y] health superior to [x]
+[y]의 체력이 [x]보다 우월하다.
 
 #cond_regcltr_sup
-Territory culture superior to [x]
+[x]보다 우수한 영토문화
 
 #cond_cltr_inf
-Total Culture inferior to [x]
+[x]보다 열등한 영토문화
 
 #cond_cltr_sup
-Total Culture superior to [x]
+[x]보다 우수한 전체문화
 
 #cond_conflict_inf
-Population conflict inferior to [x]
+[x]보다 못한 인구 갈등
 
 #cond_conflict_sup
-Population conflict superior to [x]
+[x]보다 나은 인구 갈등
 
 #cond_cons_sup
-Consumption of [x] superior to [y]
+[y]보다 많은 [x]의 소비량
 
 #cond_natres
-Have natural resource of [x]
+천연자원 [x] 를 지니고 있다.
 
 #cond_resaxs_inf
-[y] access inferior to [x]%
+[y] 접속률이 [x]%보다 낮다.
 
 #cond_resaxs_sup
-[y] access superior to [x]%
+[y] 접속률이 [x]%보다 높다.
 
 #cond_needaxs_inf
-[z] [y] access inferior to [x]%
+[z] [y] 접속률이 [x]%보다 낮다.
 
 #cond_needaxs_sup
-[z] [y] access superior to [x]%
+[z] [y] 접속률이 [x]%보다 높다.
 
 #cond_resstk_inf
-[y] stocks inferior to [x]
+[y]보다 많은 [x]의 재고량
 
 #cond_resstk_sup
-[y] stocks superior to [x]
+[y]보다 적은 [x]의 재고량
 
 #cond_agrprd_inf
-Agricultural production inferior to [x]
+[x]보다 못한 농업생산
 
 #cond_agrprd_sup
-Agricultural production superior to [x]
+[x]보다 나은 농업생산
 
 #cond_natagri
-Have natural sources of vegetables and plants
+야채와 식물의 천연자원을 지니고 있습니다.
 
 #cond_militia_inf
-Militia inferior to [x] [y]
+[x] [y] 보다 열약한 민병대
 
 #cond_militia_sup
-Militia superior to [x] [y]
+[x] [y] 보다 우월한 민병대
 
 #cond_army_inf
-Army inferior to [x] [y]
+[x] [y] 보다 열약한 군대
 
 #cond_army_sup
-Army superior to [x] [y]
+[x] [y] 
 
 #cond_natmetal
-Have natural sources of metal
+금속의 천연자원을 지니고 있습니다.
 
 #cond_GDP_inf
-GDP inferior to [x]
+[x]보다 낮은 GDP
 
 #cond_GDP_sup
-GDP superior to [x]
+[x]보다 높은 GDP
 
 #cond_wlth_inf
-Wealth inferior to [x]
+[x]보다 못한 재산
 
 #cond_wlth_sup
-Wealth superior to [x]
+[x]보다 많은 재산
 
 #cond_vitn_inf
-Vital needs of [y] inferior to [x]
+[x]보다 낮은 [y]의 중요 욕구
 
 #cond_vitn_sup
-Vital needs of [y] superior to [x]
+[x]보다 높은 [y]의 중요 욕구
 
 #cond_bdgcat_inf
-Have less than [x] [y] buildings
+[x] [y] 건물보다 적게 있음
 
 #cond_bdgcat_sup
-Have more than [x] [y] buildings
+[x] [y] 건물보다 많게 있음
 
 #cond_rescat_inf
-[y] stock inferior to [x]
+[y]보다 적은 [x]의 재고량
 
 #cond_rescat_sup
-[y] stock superior to [x]
+[y]보다 많은 [x]의 재고량
 
 #cond_rescatprd_inf
-[y] production inferior to [x]
+[y]보다 열등한 [x]의 생산량
 
 #cond_rescatprd_sup
-[y] production superior to [x]
+[y]보다 우월한 [x]의 생산량
 
 #cond_prdgrp_inf
-Stocks of [y] resources inferior to [x]
+[y] 자원에 대한 재고량이 [x] 보다 적습니다.
 
 #cond_prdgrp_sup
-Stocks of [y] resources superior to [x]
+[y] 자원에 대한 재고량이 [x] 보다 많습니다.
 
 #cond_prdgrpprd_inf
-Production of [y] resources inferior to [x]
+[y] 생산량이 [x] 보다 적습니다.
 
 #cond_prdgrpprd_sup
-Production of [y] resources superior to [x]
+[y] 생산량이 [x] 보다 많습니다.
 
 #cond_resneed_inf
-An unsatisfied demand of [y] of less than [x]
+미충족된 [y] 수요가 [x] 보다 적습니다.
 
 #cond_resneed_sup
-An unsatisfied demand of [y] superior than [x]
+미충족된 [y] 수요가 [x] 보다 많습니다.
 
 #cond_civic
 Have the civic '[x]' enabled
@@ -194,1643 +194,1644 @@ Have the civic '[x]' enabled
 Have the civic effect: '[x]'
 
 #cond_militpow_inf
-Total military power inferior to [x]
+[x]보다 낮은 총 군사력
 
 #cond_militpow_sup
-Total military power superior to [x]
+[x]보다 높은 총 군사력
 
 #cond_ecobal_inf
-Government budget balance inferior to [x]
+[x]보다 못한 정부 예산수지
 
 #cond_ecobal_sup
-Government budget balance superior to [x]
+[x]보다 나은 정부 예산수지
 
 #cond_growth_inf
-[y] growth inferior to [x]
+[x]보다 낮은 [y] 의 성장
 
 #cond_growth_sup
-[y] growth superior to [x]
+[x]보다 높은 [y] 의 성장
 
 #cond_reglvl_inf
-territory level inferior to [x]
+[x]보다 낮은 영토 수준
 
 #cond_reglvl_sup
-territory level superior to [x]
+[x]보다 높은 영토 수준
 
 #cond_speed_inf
-char speed inferior to [x]
+[x]보다 낮은 캐릭터 이동속도 수준
 
 #cond_speed_sup
-char speed superior to [x]
+[x]보다 높은 캐릭터 이동속도 수준
 
 #cond_has_res
-Have access to [x]
+[x]에 액세스할수있음.
 
 #effect_givres
-Receive [y] [x] 
+받음 : [y] [x] 
 
 #effect_takeres
-Lose [y] [x]
+잃음: [y] [x]
 
 #effect_globgivres
-Receive [y] [x]
+받음: [y] [x]
 
 #effect_givfood
-Receive [x] of food
+[x] 음식을 받음
 
 #effect_trigev
-Triggers event
+이벤트 발동
 
 #effect_givcoin
-Recive [x] coins
+[x] 주화를 받음
 
 #effect_setcoin
-Treasury set to [x] coins
+국고가 [x] 주화로 재정
 
 #effect_loyalev
-State event: [x] territory loyalty
+국가이벤트: [x] 영토의 충성도
 
 #effect_trigproj
-Unlocks the project: [x]
+언락된 프로젝트: [x]
 
 #effect_rejproj
-Rejects the project: [x]
+거절된 프로젝트: [x]
 
 #effect_givtech
-Unlocks technology: [x]
+언락된 기술: [x]
 
 #effect_bandits
-The formation is immediately attacked by [x] bandits.
+부대가 [x] 도적에게 공격당했습니다.
 
 #effect_invloss
-Lose [x]% of the formation's inventory.
+[x]% 만큼 부대의 소지품이 손실되었습니다. .
 
 #effect_invcatloss
-Lose [x]% of the formation's [y] inventory.
+[x]% 만큼 부대의 소지품 [y] 가 손실되었습니다. .
 
 #effect_givloot
-You receive [x] of loot.
+[x] 전리품을 획득했습니다.
 
 #effect_hostribe
-The formation is immediately attacked by [x] primitives.
+부대가 [x] 원시부족에게 공격당했습니다.
 
 #effect_unitloss
-[x]% of the formation's porcos are lost.
+[x]% 만큼 부대 돼지들이 사망하였습니다. 
 
 #effect_nbdeath
-Lose [x] random unit in the formation.
+[x] 만큼 부대내 랜덤유닛이 사망하였습니다. 
 
 #effect_joinbfmly
-The formation is joined by [x] families.
+부대에 [x] 만큼 가족이 합류하였습니다.
 
 #effect_xplrmap
-Reveals the map of the territory up to [x] tiles around the formation.
+포메이션 주위의 [x] 타일까지 영토 지도를 밝힙니다.
 
 #effect_formlst
-The formation is lost.
+부대를 잃어버렸습니다.
 
 #effect_canceldebt
-Cancel your debt.
+빚을 탕감합니다.
 
 #effect_givunit
-The formation is joined by [y] [x].
+부대에 [x][y] 이 합류하였습니다.
 
 #effect_agrifood
-Receive [x] of agricultural food
+[x] 농산품을 획득했습니다.
 
 #effect_spawnunit
-[x] [z] [y] will appear.
+[x] [z] [y] 가 등장합니다.
 
 #effect_modhonor
-Honor [x]
+명예 [x]
 
 #effect_modAP
-Action Points [x]
+액션 포인트 [x]
 
 #effect_giveVP
-Awards [x] Victory Points.
+[x] 승리 점수를 받습니다.
 
 #effect_immigr
-[x] families arrive in the territory.
+[x] 가족이 영토내 도달합니다.
 
 #effect_emigr
-[x] families leave the territory.
+[x] 가족이 영토를 떠납니다.
+
 
 #effect_gividea
-Receive a new idea: [x]
+새로운 아이디어를 받았습니다: [x]
 
 #effect_givreg
-Gain control of the territory.
+영토 관할권을 얻습니다.
 
 #effect_fac_rplc
-You will swap position in the Nation's hierarchy with this character.
+당신은 국가의 지배계층을 이 캐릭터와 지위를 바꿉니다.
 
 #effect_fac_trigvt
-Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
+국가 내에서 이 캐릭터의 후임자를 선출하기 위해 부하들의 투표를 시작할 것이다.
 
 #effect_res_convstate
-Converts [x]% of the stocked resources in all territories to State owned.
+모든 영토에서 비축된 자원의 [x]%를 주 소유로 전환한다.
 
 #event_diplomes
-Message from [x]
+[x]에서 온 메시지
 
 #event_treaty
-Treaty proposal from [x]
+[x]로부터의 조약 제안
 
 #event_dwar_att
-We have declared war to [x]
+우리는 [x]에게 전쟁을 선포했다.
 
 #event_dwar_att_1
-My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
+주군, 우리는 [y]의 [x]에 전쟁을 선포하고, 지금 이 약한 새끼 돼지들과 전쟁을 벌이고 있습니다.
 
 #event_dwar_def
-[x] has declared war on us!
+[x]가 우리에게 전쟁을 선포했다!
 
 #event_dwar_def_1
-My lord, [x] of [y] has declared war on us.
+주군, [y]의 [x]가 우리에게 전쟁을 선포했습니다.
 
 #event_dwar_def_2
-We are now at war with these filthy hogs.
+우리는 지금 이 더러운 돼지들과 싸우고 있습니다.
 
 #event_war_state
-Our country is currently at war!
+우리나라는 지금 전쟁중입니다!
 
 #event_misscomp
-Mission completed: [x]
+미션완료: [x]
 
 #event_misscomp_1
-We have completed this mission and received its rewards.
+우리는 이 임무를 완수하여 보상을 받았다.
 
 #event_gameovr
-Game over!
+게임 오버!
 
 #event_gameovr_1
-The game is over and its winner is the nation of '[x]' , being the first to reach [p1] Victory points and with a total score of [p2].
+게임은 끝났고, 승자는 '[x]'의 국가로서, [p1] 승점 1위, 총점 [p2]를 기록했다.
 
 #event_gameovr_2
-Note that the game may go on and you can keep playing, but scores and ranks will no longer be updated and there will be no further victory missions.
+게임은 계속 진행되며 계속 할 수 있지만, 점수와 순위는 더 이상 업데이트되지 않으며 더 이상의 승리 임무는 없을 것이다.
 
 #event_rsk_upris
-Rebellion risk in [x]
+[x]의 반란 위험
 
 #event_rsk_upris_1
-The loyalty of [x] is very low and there is a high risk of imminent rebellion of its population! We need to do something about it...
+[x]의 충성도는 매우 낮고, 그 인구의 반란이 임박할 위험이 높다! 뭔가 조치를 취해야 합니다...
 
 #event_rsk_upris_2
-Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leaderboard to see your final score.
+충성도는 지역 문화의 양, 강력한 지방 수비대, 주군의 부재, 낮은 국가 권력 또는 정당성, 도시 수와 자본 거리 등과 같은 요인에 의해 감소된다. 최종 점수를 보기 위해 리더보드를 열 수 있다.
 
 #event_revolt
-Popular revolt in [x]!
+[x]의 민중 봉기!
 
 #event_revolt_1
-The population of [x] are revolting against us and rebels are trying to take control of the city! If they suceed, we will lose control of this territory!
+[x]의 인구는 우리에게 반란을 일으키고 있고 반군은 도시를 장악하려고 하고 있다! 만약 그들이 성공한다면, 우리는 이 영토에 대한 통제권을 잃게 될 것이다!
 
 #event_revolt_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]반군에게 귀순한 현지 수비대의 [p3]군인을 포함해 [p2]%의 인구가 무기를 들고 반란을 일으키고 있다. 우리의 [p5] 충성스러운 병사들은 총[p4] 반군에 맞서고 있다.
 
 #event_br_revolt
-Revolt thwarted in [x]
+[x]에서 좌절된 민중봉기
 
 #event_br_revolt_1
-The population of [x] revolted against your government because of low loyalty, and rebels unsucessfully tried to take control of the city.
+[x]의 인구는 낮은 충성도로 인해 당신 정부에 반란을 일으켰고, 반군들은 그 도시를 장악하려 했으나 성공하지 못했다.
 
 #event_br_revolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]반군에게 귀순한 현지 수비대의 [p4]병사를 포함, [p2]%의 인구가 무기를 들고 반란을 일으켰다. [p5] 충성스러운 병사들은 총[p3] 반군과 맞닥뜨렸다.
 
 #event_br_lstrevolt
-[x] was lost to rebels!
+[x]가 반군에게 패배하였습니다!
 
 #event_br_lstrevolt_1
-The population of [x] revolted against us and rebels managed to take control of the city. Losing control of one of our cities to rebels has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost 25 of honor.
+[x]의 인구가 우리에게 반란을 일으켰고 반군은 간신히 도시를 장악했다. 우리 도시 중 하나를 반란군에게 빼앗기는 것은 당신의 통치에 수치심을 가져왔다. 이번 패배는 지도자로서 당신의 정당성을 잠시 훼손할 것이다. 즉, 당신은 명예의 25를 잃었다.
 
 #event_br_lstrevolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]반군에게 귀순한 현지 수비대의 [p4]병사를 포함, [p2]% 의 인구가 무기를 들고 반란을 일으켰다. [p5] 충성스러운 병사들은 총[p3] 반군과 맞닥뜨렸다.
 
 #event_partis
-Partisans uprising in [x]!
+[x]의 빨치산 봉기!
 
 #event_partis_1
-There is an active Resistance movement in [x], and partistans loyal to the [y] have just launched an attack to try take control of the city. If they suceed, we will lose control of this territory and [p7] of honor!
+[x]에서 활발한 저항운동이 일어나고 있으며, [y]에 충성하는 파벌들이 이제 막 도시를 장악하기 위한 공격을 시작했다. 만약 그들이 성공한다면, 우리는 이 영토에 대한 통제권과 [p7]의 명예를 잃게 될 것이다!
 
 #event_partis_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]반군에게 귀순한 현지 수비대의 [p3]군인을 포함해 [p2]%의 인구가 무기를 들고 반란을 일으키고 있다. 우리의 [p5] 충성스러운 병사들은 총[p4] 반군에 맞서고 있다.
 
 #event_br_partis
-Partisans defeated in [x]
+[x]에서 패한 빨치산들
 
 #event_br_partis_1
-Good news! There was an attempt from the Resistance movement in [x] loyal to the [y] to retake control of the city, but their uprising was defeated and the resistance movement was weakened by this defeat!
+호재입니다! [x]에 충성하는 저항운동의 시도가 있었는데, 이 패배로 그들의 봉기가 패배하고 저항운동이 약화되었습니다!
 
 #event_br_partis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+반군에게 귀순한 현지 수비대의 [p4]병사를 포함, 인구의 [p2]%가 무기를 들고 반란을 일으켰다. [p5] 충성스러운 병사들은 총[p3] 반군과 맞닥뜨렸다.
 
 #event_br_lstpartis
-[x] was lost to partisans!
+[x]를 빨치산들에게 잃엇습니다!
 
 #event_br_lstpartis_1
-Terrible news: the Resistance movement of [x], loyal to the [y], has launched an uprising and partisans have managed to take control of the city. Losing to a Resistance movement has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost [p7] of honor.
+끔찍한 소식입니다: [y]에 충성하는 [x]의 저항운동이 봉기를 일으켰고, 당원들이 도시를 장악하는데 성공했다. 저항 운동에서 패배한 것은 당신의 통치에 수치심을 가져왔다. 이번 패배는 당분간 지도자로서의 정당성을 훼손할 것이다. 즉 명예가 떨어졌다.
 
 #event_br_lstpartis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+반군에게 귀순한 현지 수비대의 [p4]병사를 포함, 인구의 [p2]%가 무기를 들고 반란을 일으켰다. [p5] 충성스러운 병사들은 총[p3] 반군과 맞닥뜨렸다.
 
 #event_Ab_pitch
-Attacking [x] of [y]
+[y]에 [x] 를 공격
 
 #event_Ab_pitch_1
-We are engaging the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+우리는 [p2] 병사들과 [y]소속 '[x]' 적군을 맞닥뜨렸다.
 
 #event_Ab_pitch_2
-They are facing us with [p3] soldiers.
+그들은 [p3] 군사들과 우릴 맞닥뜨렸다.
 
 #event_Abr_pitch
-Attacked [x] of [y]
+[y]에 [x] 를 공격
 
 #event_Abr_pitch_1
-We engaged the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+우리는 [p2] 병사들과 [y]소속 '[x]' 적군을 맞닥뜨렸다.
 
 #event_Abr_pitch_2
-They faced us with [p3] soldiers.
+그들은 [p3] 군사들과 우릴 맞닥뜨렸다.
 
 #event_Db_pitch
-'[x]' are under attack by [y]
+'[x]'는 [y]의 공격을 받고 있다.
 
 #event_Db_pitch_1
-'[x]' are beeing engaged in pitch battle by an army of [y].
+'[x]'는 [y]의 군대와 전투에 임하고 있다.
 
 #event_Db_pitch_2
-Our [p2] soldiers are facing [p3] enemy soldiers.
+우리의 [p2] 병사들은 적군 병사들 [p3]와 대치하고 있다.
 
 #event_Dbr_pitch
-'[x]' were attacked by an army [y]
+'[x]'는 군대[y]의 공격을 받았다.
 
 #event_Dbr_pitch_1
-'[x]' was engaged in pitch battle by an army of [y].
+'[x]'는 [y]의 군대와 전투에 임하고 있다.
 
 #event_Dbr_pitch_2
-Our [p3] soldiers faced [p2] enemy soldiers.
+우리의 [p3] 병사들은 적군 병사들 [p2]와 대치하고 있다.
 
 #event_Ab_invad
-Invading [x]
+[x] 를 침략하기
 
 #event_Ab_invad_1
-We're launching an assault on [x] with [p2] soldiers to invade and take control of the territory.
+[p2] 병사와 함께 [x]에 대한 공격을 개시하여 영토를 침범, 장악하고 있다.
 
 #event_Ab_invad_2
-To suceed we must eliminate all the enemies and defenses of the territory. They're defending it with [p3] soldiers.
+성공하기 위해서는 영토의 모든 적과 방어를 제거해야 한다. 그들은 [p3]군인들과 함께 그것을 방어하고 있다.
 
 #event_Abr_invad
-Invasion of [x]
+[x] 를 침략
 
 #event_Abr_invad_1
-We launched an assault on [x] with [p2] soldiers to invade and take control of the territory.
+우리는 영토를 침범하고 장악하기 위해 [p2] 병사들과 함께 [x]에 대한 공격을 개시했다.
 
 #event_Abr_invad_2
-They defended it with [p3] soldiers.
+그들은 [p3]군인들로 방어했다.
 
 #event_Db_invad
-[y] is trying to invade [x]
+[y]가 [x]를 침략하려고 하고 있다.
 
 #event_Db_invad_1
-[y] has launched an assault on [x] with [p3] soldiers to try to invade and take control of our territory.
+[y]는 [p3] 병사와 함께 [x]에 대한 공격을 개시해, 우리 영토의 침략과 지배를 시도하고 있다.
 
 #event_Db_invad_2
-We must repel their invasion or we will lose control of the territory! We have [p2] soldiers defending it.
+우리는 그들의 침략을 물리쳐야 한다. 그렇지 않으면 우리는 그 영토에 대한 통제권을 잃게 될 것이다. 우리는 [p2] 군인들을 가지고 있다.
 
 #event_Dbr_invad
-Defense of [x] against an invasion from [y]
+[y]로부터의 침입에 대한 [x]의 방어
 
 #event_Dbr_invad_1
-[y] launched an assault on [x] with [p3] soldiers to try to invade and take control of our territory.
+[y]는 [p3] 병사와 함께 [x]에 대한 공격을 개시해 우리 영토를 침범하고 장악하려 했다.
 
 #event_Dbr_invad_2
-We defended it with [p2] soldiers.
+우리는 [p2] 군인들로 방어했다.
 
 #event_Ab_elim
-Attacking [x]
+[x] 를 공격
 
 #event_Ab_elim_1
-We're launching an assault on [x] with [p2] soldiers to eliminate all enemy forces in the territory.
+[p2] 장병들과 함께 [x]에 대한 공격을 개시하여 영토 내의 모든 적군을 제거하려 하고 있습니다.
 
 #event_Ab_elim_2
-To suceed we must eliminate all the enemies and defenses of the territory. Our troops will prioritize engaging all hostile forces in presence. Some minor pillage might occur on the way if the opportunity arises. They will leave the territory once done. They're defending it with [p3] soldiers.
+성공하기 위해서는 영토의 모든 적과 방어를 제거해야 한다. 우리 부대는 모든 적대 세력과의 교전을 우선시 할 것이다. 기회가 생긴다면 도중에 약간의 사소한 약탈이 일어날 수도 있다. 종료시 일단 그 지역을 떠날 것이다. 그들은 [p3] 군인들과 함께 지역을 방어하고 있다.
 
 #event_Abr_elim
-Attack of [x]
+[x] 를 공격
 
 #event_Abr_elim_1
-We launched an assault on [x] with [p2] soldiers to eliminate all ennemies in the territory.
+[p2] 장병들과 함께 [x]에 대한 공격을 개시하여 영토 내의 모든 적군을 제거하려 하고 있습니다.
 
 #event_Abr_elim_2
-They defended it with [p3] soldiers.
+그들은 [p3] 군인들로 방어했다.
 
 #event_Db_elim
-[y] is attacking [x]
+[y]의 [x] 공격
 
 #event_Db_elim_1
-[y] has launched an assault on [x] with [p3] soldiers to eliminate all our forces in the territory.
+[y] 는 [p2] 장병들과 함께 [x]에 대한 공격을 개시하여 영토 내의 모든 적군을 제거하려 하고 있습니다.
 
 #event_Db_elim_2
-They are not attempting to pillage, sack or invade the territory but simply to engage and eliminate our forces. If successful they will then retreat out of the territory. We have [p2] soldiers defending it.
+그들은 그 영토를 약탈하거나 자르고 침략하려고 하는 것이 아니라 단순히 우리 군대를 없애려고 하는 것이다. 만약 성공한다면 그들은 그 지역에서 물러날 것이다. 우리는 방어 할 [p2]의 군인들을 가지고 있다.
 
 #event_Dbr_elim
-Defense of [x] against an attack from [y]
+[y]의 공격에 대한 [x]의 방어
 
 #event_Dbr_elim_1
-[y] launched an assault on [x] with [p3] soldiers to try to eliminate all our forces in the territory.
+[y]는 [p3] 군사들로 [x]에 대한 공격을 가해 영토 내 우리 병력을 모두 제거하려 했다.
 
 #event_Dbr_elim_2
-We defended it with [p2] soldiers.
+우리는 [p2]군인들로 방어했다.
 
 #event_Ab_raid
-Raiding [x]
+[x] 레이드
 
 #event_Ab_raid_1
-We're launching a raid on [x] to pillage their territory with [p2] soldiers.
+우리는 [p2] 병사들과 함께 그들의 영토를 약탈하기 위해 [x]에 대한 급습을 개시한다.
 
 #event_Ab_raid_2
-Our troops will attempt to pillage resources and buildings before leaving the territory with their loot.
+아군은 자원과 건물을 약탈한 뒤 약탈을 시도할 것이다.
 
 #event_Abr_raid
-Raiding of [x]
+[x] 급습하기(레이드)
 
 #event_Abr_raid_1
-We raided [x] to pillage their territory with [p2] soldiers.
+우리는 [p2] 규모의 군인들과 함께 그들의 영토를 약탈하기 위해 [x] 를 급습했다.
 
 #event_Abr_raid_2
-Our troops managed to pillage [p3] resources and [p4] coins. 
+아군은 [p3]자원과 [p4]주화들을 용케 약탈했다.
 
 #event_Db_raid
-[y] is raiding [x]
+[y]가 [x]를 습격하고 있다.
 
 #event_Db_raid_1
-[y] has launched a raid on [x] with [p2] soldiers.
+[y]가 [p2] 병사들과 함께 [x]에 대한 급습에 나섰다.
 
 #event_Db_raid_2
-We have to stop them before they reach and pillage our resources and buildings and leave the territory with their loot!
+우리는 그들이 우리의 자원과 건물을 약탈하고, 그들의 약탈로 영토를 떠나기전 막아야 해!
 
 #event_Dbr_raid
-Defense of [x] against a raid from [y]
+[y]로부터의 급습에 대한 [x]의 방어
 
 #event_Dbr_raid_1
-[y] raided [x] to pillage our territory with [p2] soldiers.
+[y]는 [p2] 병사들과 함께 우리 영토를 약탈하기 위해 [x]를 급습했다.
 
 #event_Dbr_raid_2
-They managed to pillage [p3] resources and [p4] coins. 
+그들은 [p3]자원과 [p4]동전을 가까스로 약탈했다.
 
 #event_Ab_sack
-Sacking [x]
+[x] 약탈
 
 #event_Ab_sack_1
-We're launching an assault on [x] to sack the territory with [p2] soldiers.
+[x]에 [p2] 병사와 함께 영토를 약탈하는 공격을 개시한다.
 
 #event_Ab_sack_2
-Our troops will attempt to eliminate all the enemies and defenses of the territory before pillaging everything they can and leave with their loot.
+아군은 가능한 모든 것을 약탈하고 약탈해 가기 전에 영토의 모든 적과 방어를 제거하려 할 것이다.
 
 #event_Abr_sack
-Sacking of [x]
+[x] 약탈
 
 #event_Abr_sack_1
-We launched an assault on [x] to sack their territory with [p2] soldiers.
+우리는 그들의 영토를 [p2] 병사와 함께 약탈하기 위해 [x]에 대한 공격을 개시했다.
 
 #event_Abr_sack_2
-Our troops managed to pillage [p3] resources and [p4] coins. 
+아군은 [p3]자원과 [p4]주화들을 용케 약탈했다.
 
 #event_Db_sack
-[y] is trying to sack [x]
+[y]가 [x]를 약탈하려하고 있다.
 
 #event_Db_sack_1
-[y] has launched an assault on [x] to sack the territory with [p2] soldiers.
+[y]는 [x]에 [p2] 병사와 함께 약탈하려는 공격을 개시했다.
 
 #event_Db_sack_2
-They will attempt to eliminate all our troops and defenses before pillaging everything they can and leaving with the loot.
+그들은 그들이 할 수 있는 모든 것을 약탈하고 약탈을 떠나기 전에 모든 아군과 방어군을 제거하려고 시도할 것이다.
 
 #event_Dbr_sack
-Defense of [x] against a sacking from [y]
+[y]로부터의 약탈에 대한 [x]의 방어
 
 #event_Dbr_sack_1
-[y] launched an assault on [x] to sack our territory with [p2] soldiers.
+[y]는 [x]에 [p2] 병사와 함께 우리 영토를 악탈하려는 공격을 개시했다.
 
 #event_Dbr_sack_2
-They managed to pillage [p3] resources and [p4] coins. 
+그들은 [p3]자원과 [p4]주화들을 용케 약탈했다.
 
 #event_Db_assist
-Assisting [y] in defense of [x]
+[y]의 [x]의 방어원조 
 
 #event_Db_assist_1
-[y] is under attack in [x]. 
+[y]의 [x]는 공격당하고 있습니다. 
 
 #event_Db_assist_2
-As an ally, our [p2] troops are participating to the battle and assissting in its defense against [p3] enemies.
+동맹국으로서 우리의 [p2] 군인들은 전투에 참가해, [p3] 만큼의의 적에 대한 방어 태세를 취하고 있다.
 
 #event_Dbr_assist
-Assisted [y] in defense of [x]
+[y]의 [x]의 방어원조 
 
 #event_Dbr_assist_1
-[y] was attacked in [x]. 
+[y]의 [x]는 공격당했습니다. 
 
 #event_Dbr_assist_2
-As an ally, our [p2] troops participated to the battle to help in its defense against [p3] enemies.
+동맹국으로서 우리의 [p2] 군인들은 전투에 참가해, [p3] 만큼의의 적에 대한 방어 태세를 취하고 있다.
 
 #event_Ab_assist
-Assisting [y] in the attack of [x]
+[x]의 공격에서 [y]를 원조
 
 #event_Ab_assist_1
-[y] is attacking [y]. 
+[y]가 [y]를 공격하고 있다.
 
 #event_Ab_assist_2
-As an ally of [y], our troops are participating to the battle and assissting his armies.
+[y]의 동맹으로서 아군은 전투에 참가하여 그의 군대를 공격하고 있다.
 
 #event_Abr_assist
-Assisted [y] in the attack of [x]
+[x]의 공격에 [y] 지원
 
 #event_Abr_assist_1
-[y] attacked [y]. 
+[y]가 [y]를 공격했다.
 
 #event_Abr_assist_2
-As an ally of [y], our troops participated to the battle and assissted his armies.
+[y]의 동맹으로서, 아군은 전투에 참가하여 그의 군대를 공격했다.
 
 #event_hunt
-Hunting [p2] [p3]
+[p2] [p3] 사냥 
 
 #event_hunt_1
-We are launching a hunt against [p2] [p3]!
+우리는 [p2] [p3]에 사냥을 개시한다!
 
 #event_hunt_2
-Our hunters will attempt to kill as much of these animals as they can to fill their inventory.
+우리의 사냥꾼들은 재고를 채우기 위해 가능한 한 많은 동물들을 죽이려고 할 것이다.
 
 #event_huntr
-Hunting [p2] [p3]
+[p2] [p3] 사냥 
 
 #event_huntr_1
-Our hunters launched a hunt against [p2] [p3].
+우리는 [p2] [p3]에 사냥을 개시했다!
 
 #event_huntr_2
-They attempted to kill as much of these animals as they could to fill their inventory.
+우리의 사냥꾼들은 재고를 채우기 위해 가능한 한 많은 동물들을 죽이려고 할 것이다.
 
 #event_debt
-Indebted !
+채무 중 !
 
 #event_debt_1
-We are currently indebted of [p1] coins in our trasury. Beeing in debt reduces our State power and affects the loyalty of our cities and armies.
+우리는 현재 우리 국고에 [p1]개의 동전을 빚지고 있다. 채무상태에 있는 것은 우리의 국력을 떨어뜨리고 우리의 도시와 군대의 충성심에 영향을 미친다.
 
 #event_debt_2
-We need to put back our state income balance in the green or we'll get in serious trouble. If the situation is desperate, we can also take a last resort decision of cancelling our debt but this will generate great unrest in our state.
+우리는 우리의 주 수입 균형을 다시 흑자로 바꿔야 한다. 그렇지 않으면 우리는 심각한 곤경에 처하게 될 것이다. 상황이 절박하다면, 우리는 빚을 탕감하는 최후의 결정도 내릴 수 있지만 이것은 우리 주에 큰 불안을 야기할 것이다.
 
 #event_c_canceldebt
-Cancel the debt
+채무탕감
 
 #event_confcdebt
-Confirm canceling the debt?
+채무 탕감을 확정하시겠습니까?
 
 #event_confcdebt_1
-Are you sure you want to declare our debt nul and void ? 
+당신은 우리의 채무 무효를 선언하고 싶은 것이 확십니까?
 
 #event_confcdebt_2
-With a debt of [p1] coins and a GDP of [p2], our debt currently represents [p3]% of our GDP: if we cancel it, we will suffer an estimated penalty of [p4] loyalty in all our territories and you will lose about [p5] of honor!
+[p1] 동전의 부채와 [p2]의 GDP로, 우리의 부채는 현재 GDP의 [p3]%를 차지하는데, 만약 우리가 그것을 취소한다면, 우리는 모든 지역에서 [p4]의 충성도의 예상 불이익을 받게 되고, 당신은 약 [p5]의 명예를 잃게 될 것이다!
 
 #event_canceldebt
-Debt canceled!
+부채가 탕감되었습니다!
 
 #event_canceldebt_1
-We took the drastic measure of declaring our debt of [p1] coins nul and void, anouncing that we would not be paying back what we owed.
+우리는 빚진 것을 갚지 않을 것이라고 선언하면서, 빚을 무효로 선언하는 과감한 조치를 취했다.
 
 #event_canceldebt_2
-In all our cities, the creditors of our debt are revolted that they're never getting paid what we owed them. Many people lost everything and are ruined as a consequence. The economy is destabilized and in great turmoil, not to mention the loss of the people's trust in their government. 
+우리 모든 도시에서, 우리의 빚의 채권자들은 우리가 그들에게 진 빚을 결코 갚지 못한다고 반란을 일으킨다. 많은 사람들이 그 결과로 모든 것을 잃고 망한다. 경제가 불안정하고 큰 혼란에 빠져 있는데, 국민의 정부에 대한 신뢰 상실은 말할 것도 없다.
 
 #event_canceldebt_3
-As a consequence of canceling a debt of [p3]% our total GDP ([p2] coins), we are suffering a penalty of [p4] Loyalty in all our territories and you have lost [p5] of honor. This effect will slowly decay as people forget this event, but it will require time. In the meantime, we should prepare for the worse.
+총 GDP의 [p3]%의 부채를 탕감한 결과, 우리는 전 지역에서 [p4] 충성도의 불이익을 받고 있으며, 귀하는 명예[p5]를 잃었다. 이 효과는 사람들이 이 행사를 잊기 때문에 서서히 쇠퇴하겠지만, 시간이 필요할 것이다. 그 사이 우리는 더 나쁜 상황에 대비해야 한다.
 
 #event_lowpow
-Negative state power!
+악화된 국가 권력!
 
 #event_lowpow_1
-State power is the capacity of your state to manage things. Without it, we will be unable to pass reforms and the loyalty of our territories is negatively impacted which may lead to popular rebellions.
+국가권력은 당신의 주정부의 능력이다. 그것이 없다면, 우리는 개혁을 통과시킬 수 없을 것이고, 우리 영토의 충성심은 대중의 반란을 초래할 수도 있는 부정적인 영향을 받게 될 것이다.
 
 #event_lowpow_2
-State power can be improved by : owning less cities, having no debt, revoquing expensive policies.
+국가권력은 도시 소유가 적고, 빚이 없고, 고가의 정책을 폄훼함으로써 향상될 수 있다.
 
 #event_lowlegit
-Negative legitimacy!
+악화된 정당성!
 
 #event_lowlegit_1
-Legitimacy is how much the people recognizes the right of your state's claims to authority. Without it, not only do we face an increasing risk of popular uprisings, but our armies might also turn against us to overthrow our illegitimate government!
+정당성은 사람들이 얼마나 당신의 국가권위를 인정하느냐 하는 것이다. 그것이 없다면, 우리는 대중의 봉기에 대한 증가하는 위험에 직면할 뿐만 아니라, 우리의 군대가 불법적인 정부를 전복시키기 위해 우리에게 등을 돌릴 수도 있다!
 
 #event_lowlegit_2
-Legitimacy policies define what claims you make to assert your right as the leader of this State. These claims define the importance of all the different Legitimacy factors. To improve our situation, we could either work to improve the current factors, or reform our Legitimacy claims to rely on more beneficial ones.
+정당성 정책은 이 국가의 지도자로서 당신이 주장하는 바를 규정한다. 이 주장들은 모든 다른 법적 요인의 중요성을 규정한다. 우리의 상황을 개선하기 위해서, 우리는 현재의 요인들을 개선하기 위해 일하거나, 더 유익한 것에 의존한다고 주장하는 우리의 법정의 개혁을 할 수 있다.
 
 #event_tribwarn
-Stolen territory
+토지 강탈
 
 #event_tribwarn_1
-Beware! By creating our newest settlement of [x], we have usurped the lands of a primitive tribe that has been living there for generations. Sure, this territory looked appealing, but we will eventually pay the consequences of this action for the natives will not tolerate our presence forever.
+주의하라! 우리의 최근 정착지 [x]를 만들어냄으로써, 우리는 그곳에 여러 세대에 걸쳐 살고 있는 원시 부족의 땅을 탈취했다. 물론, 이 지역이 매력적으로 보였지만, 우리는 결국 토착민들이 우리의 존재를 영원히 용납하지 않을 것이기 때문에 이 행동의 결과를 지불할 것이다.
 
 #event_tribwarn_2
-For now, they only watched us set camp from afar but they know these lands better than anyone and disapear everytime we try to approach them. I'm afraid we won't be able to 'deal with them' before they choose to cause trouble... We should prepare for a possible surprise attack by them. They might be preparing weapons and warriors to chase us from their lands as we speak! Or maybe this land is not worth the trouble after all and we could just pack up and leave them be?
+현재로서는, 그들은 우리가 멀리서 캠프를 차리는 것을 지켜만 보았지만 그들은 누구보다 이 땅을 잘 알고 있고 우리가 그들에게 접근하려고 할 때마다 경멸한다. 그들이 말썽을 일으키기 전에 우리가 '그들과 거래'할 수 없을 것 같아. 우리는 혹시 있을지도 모를 그들의 기습 공격에 대비해야 한다. 그들은 우리가 말하는 동안 그들의 땅에서 우리를 쫓기 위해 무기와 전사들을 준비하고 있을지도 모른다! 아니면 이 땅은 결국 고생할 가치가 없는 땅일 수도 있고 우리가 짐을 싸서 그냥 내버려 둘 수도 있지 않을까?
 
 #event_tribreb
-Primitive tribe uprsiging in [x]!
+[x]에서 깨어나는 원시 부족!
 
 #event_tribreb_1
-The natives living in our territory of [x] have grown upset of having what they feel to be their territory occupied by us. They have taken arms and decided to treacherously attack!
+우리 영토인 [x]에 살고 있는 원주민들은 자신들이 자신들의 영토라고 느끼는 것을 우리가 점유하고 있는 것에 대해 화가 났다. 그들은 무기를 들고 위협적으로 공격하기로 결정했다!
 
 #event_trt_ref
-[y] has refused our treaty proposal
+[y]는 우리의 조약제안을 거부했다.
 
 #event_trt_ref_1
-An emissary of [y] has informed us that our fair and generous treaty offer has been declined by [x].
+[y]의 한 제국은 우리의 공정하고 관대한 조약 제의가 [x]까지 거절되었다고 우리에게 알려 왔다.
 
 #event_trt_acc
-Treaty with [y] signed
+[y]와의 조약
 
 #event_trt_acc_1
-Our treaty with [x] of [y] has been approved and signed by us both and is now effective!
+[y]의 [x]와의 조약은 양자간에 의해 승인되고 서명되어 이제 효력을 발휘한다!
 
 #event_trt_rngoc
-[y] is proposing a treaty renegociation
+[y] 는 조약의 무효화를 제안하고 있다.
 
 #event_trt_rngoc_1
-[x] of [y] is proposing the following renogication of a treaty we currently have with them. If we agree to these new terms, the treaty will be updated.
+[y]의 [x]는 우리가 현재 그들과 체결한 조약의 다음과 같은 개안을 제안하고 있다. 만약 우리가 이 새로운 조건에 동의한다면, 그 조약은 갱신될 것이다.
 
 #event_trt_asktrm
-[y] is asking to terminate a treaty
+[y]는 조약의 종결을 요구하고 있다.
 
 #event_trt_asktrm_1
-[x] of [y] is asking for the mutually agreed termination of a treaty we have with his people. If we agree to this request, the treaty will be terminated instantly without triggering any breaking closes and its terms will cease to be effective. If we refuse, nothing will happen and the treaty will remain active unless they decide to break it illegally (in which case their breaking closes apply).
+[y]의 [x]는 우리가 그의 국민들과 맺은 조약의 상호 합의 해제를 요구하고 있다. 만약 우리가 이 요청에 동의한다면, 그 조약은 어떠한 위반도 일으키지 않고 즉시 종료될 것이고 그 조항은 효력을 잃게 될 것이다. 우리가 거부하면 아무 일도 일어나지 않고 조약은 그들이 불법적으로 파기하기로 결정하지 않는 한(이 경우 파기 적용) 유요한 상태로 남을 것이다.
 
 #event_trt_brk1
-[x] has broken a treaty!
+[x]는 조약을 파기했다!
 
 #event_trt_brk1_1
-[x] has illegaly broken the treaty of '[y]' they had with us!
+[x] 기 우리와 맺었던 'y' 조약을 불법적으로 파기했다!
 
 #event_trt_brk1_2
-According to the treaty's breaking terms, we have received [p1] coins in compensation and they lost [p2] of honor.
+조약의 파기 조건에 따라, 우리는 보상금으로 [p1]개의 동전을 받았고, 그들은 명예[p2]를 잃었다.
 
 #event_trt_brk2
-We have broken a treaty with [x]!
+우리는 [x]와의 조약을 깼다!
 
 #event_trt_brk2_1
-We have illegaly broken the treaty of '[y]' we had with [x].
+우리는 [x]와 맺었던 'y'의 조약을 불법으로 파기했다.
 
 #event_trt_brk2_2
-According to the treaty's breaking terms, as a penalty we have paid [p1] coins and lost [p2] of honor.
+조약의 파기 조건에 따라 우리는 위약금으로 [p1]개의 동전을 지불하고 [p2]개의 명예를 잃었다.
 
 #event_trt_brkw1
-We have declared war to them in retaliation, and any other treaty with them has 
+우리는 그들에게 보복으로 전쟁을 선포했고, 그들과 맺은 어떤 다른 조약도 파기했다.
 
 #event_trt_brkw2
-They have declared war on us in retaliation.
+그들은 보복으로 우리에게 전쟁을 선포했다.
 
 #event_brb_raid
-Incoming barbarian raiders!
+처들어오는 야만인 습격자들!
 
 #event_brb_raid_1
-Our scouts report that a group of around [p1] barbarian raiders have left the nearby territory of [x] and are coming our way.
+우리 정찰대는 [p1]명의 야만인 사냥꾼들이 인근 지역인 [x]을 떠나 우리 쪽으로 오고 있다고 보고했다.
 
 #event_brb_raid_2
-They might be here soon and attempt to quickly raid our warehouses. We must get our defenses ready! 
+그들은 곧 여기에 와서 우리 창고를 재빨리 습격하려고 할지도 모른다. 우리는 우리의 방어 태세를 갖추어야 한다!
 
 #event_brb_sack
-Incoming barbarian warband!
+처들어오는 야만인 부대들!
 
 #event_brb_sack_1
-Our scouts report that a barbarian warband of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+우리 정찰대는 [p1] 만큼의 돼지 야만인 전투대가 인근 지역인 [x]를 떠나 우리 쪽으로 오고 있다고 보고했다.
 
 #event_brb_sack_2
-They might be here soon and will attack to overcome all our defenses beofre sacking the whole territory! We must get our defenses ready! 
+그들은 곧 이곳에 올지도 모르며 영토 전체를 공격하기 전에 우리의 모든 방어를 극복하기 위해 공격할 것이다. 우리는 우리의 방어 태세를 갖추어야 한다!
 
 #event_brb_inv
-Incoming barbarian invaders!
+처들어오는 야만인 침입자!
 
 #event_brb_inv_1
-Our scouts report that an army of barbarians of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+우리 정찰대는 [p1] 만큼의 돼지 야만인 전투대가 인근 지역인 [x]를 떠나 우리 쪽으로 오고 있다고 보고했다.
 
 #event_brb_inv_2
-They might be here soon and they dont seem to be coming just to pillage, but to invade our lands! We must get our defenses ready! 
+그들은 곧 여기에 올지도 모르고 단지 약탈하려고 온 것 같지 않고, 우리의 땅을 침략하려고 온 것 같아! 우리는 우리의 방어 태세를 갖추어야 한다!
 
 #event_crsh_vict
-Crushing victory!
+압승!
 
 #event_crsh_vict_1
-Our formation <<[x]>> has utterly crushed and eliminated a small troop of [y] enemies, thanks to our overwhelming superior numbers. 
+우리의 포메이션 <<[x]>>은 우리의 압도적인 우세한 수 덕분에 적은 수의 적군을 완전히 무너뜨리고 제거했다.
 
 #event_crsh_dfeat
-Crushing defeat!
+완패!
 
 #event_crsh_dfeat_1
-Grave news : our formation <<[x]>> has been utterly crushed and eliminated by the [y] enemy, with overwhelming superior numbers. Nobody survived to even tell the tale.
+중대한 소식: 우리의 포메이션 <<[x]>>은 적에 의해 압도적으로 우세한 숫자로 완전히 무너지고 제거되었다. 아무도 살아남아 그 전투에 대해 말할 수 없었다.
 
 #event_popdefrise
-The people of [x] is defending the city!
+[x]의 사람들이 도시를 방어하고 있다!
 
 #event_popdefrise_1
-The people of the city of [x] are taking arms by themselves to help defend the city against the attackers. [p1] porcos are joining the battle!
+[x]시 주민들은 공격자로부터 도시를 방어하는 것을 돕기 위해 스스로 무기를 들고 있다. [p1] 돼지들이 전투에 참가한다!
 
 #event_trout_w1
-Trade route warning: no trading rights!
+교역로 경고: 무역권한 없음!
 
 #event_trout_w1_1
-Because we no longer have trading rights with the city of [y], our trade route between this city and [x] will close soon unless we fix this issue quickly. 
+우리는 더 이상 [y]시와 무역권을 가지고 있지 않기 때문에, 이 문제를 빨리 해결하지 않으면 이 도시와 [x] 사이의 우리의 교역로가 곧 폐쇄될 것이다.
 
 #event_trout_w1_2
-This can happen if the city has a new owner with whom we havn't negociated trading rights, or if these rights have been revoked.
+이것은 우리가 거래권을 부정하지 않는 새로운 소유주를 가진 도시나 이러한 권리들이 취소된 경우에 일어날 수 있다.
 
 #event_trout_b1
-Trade route broken!
+교역료 폐쇄!
 
 #event_trout_b1_1
-Because we no longer had trading rights with the city of [y], our trade route between this city and [x] closed. 
+우리는 더 이상 [y]시와 무역권을 갖지 못했기 때문에, 이 도시와 [x] 사이의 우리의 교역로가 폐쇄되었다.
 
 #event_trout_b1_2
-This happened because the city got a new owner with whom we havn't negociated trading rights or if because the trading rights were revoked.
+이것은 그 도시가 우리가 거래권을 부정하지 않는 새로운 주인을 얻었기 때문이거나, 만약 그 거래권이 취소되었기 때문이다.
 
 #event_trout_w2
-Trade route warning: missing cargo!
+무역로 경고: 화물 분실!
 
 #event_trout_w2_1
-Our trade route with [x] operated by [y] is missing [p2] of cargo to be operated properly. The trade route will close soon unless we fix this issue quickly.
+[y]가 운영하는 우리의 [x] 교역로는 제대로 운용할 수 있는 화물의 [p2]가 분실되었다. 이 문제를 빨리 해결하지 않으면 교역로가 곧 폐쇄될 것이다.
 
 #event_trout_w2_2
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
+화물 서비스는 상품을 교역로를 따라 지속적으로 운송하고 자원의 지속적인 이전을 유지할 수 있게 해주는 것이다. 각 노선은, 거래한 상품의 거리와 부피에 따라, 일정량의 화물을 필요로 한다.
 
 #event_trout_w2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+그러나 이 사업자는 더 이상 이 교역로를 제대로 운영하기에 충분한 화물 서비스를 생산하지 못하고 있다. 이 문제를 해결하려면 가용 서비스를 늘리거나 필요한 화물을 제공할 수 있는 새로운 다른 사업자로 전환해야 한다([p3].
 
 #event_trout_b2
-Trade route broken!
+교역료 폐쇄!
 
 #event_trout_b2_1
-Our trade route with [x] closed because its operator [y] was unable to provide the required cargo ([p3]) to maintain it (was missing [p2]).
+우리의 [x]와의 교역로는 운영자[y]가 그것을 유지하기 위해 필요한 화물([p3])을 제공할 수 없었기 때문에 폐쇄되었다.([p2]가 분실됨)
 
 #event_trout_b2_2
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
+화물 서비스는 상품을 교역로를 따라 지속적으로 운송하고 자원의 지속적인 이전을 유지할 수 있게 해주는 것이다. 각 노선은, 거래한 상품의 거리와 부피에 따라, 일정량의 화물을 필요로 한다.
 
 #event_trout_b2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+그러나 이 사업자는 더 이상 이 교역로를 제대로 운영하기에 충분한 화물 서비스를 생산하지 못하고 있다. 이 문제를 해결하려면 가용 서비스를 늘리거나 필요한 화물을 제공할 수 있는 새로운 다른 사업자로 전환해야 한다([p3].
 
 #event_trout_w3
-Trade route warning: we are missing goods!
+무역로 경고:우리의 상품수출 물량이 부족한 상태입니다!
 
 #event_trout_w3_1
-Our trade route exporting [p2] [p3] to [x] from [y] is lacking the required goods and will close soon unless we fix this issue quickly!
+[y]에서 [p2][p3]에서 [x]로 수출하는 우리의 교역로는 필요한 상품이 부족하며, 이 문제를 빨리 해결하지 않으면 곧 폐쇄될 것이다!
 
 #event_trout_w3_2
-This is happening because we are no longer producing enough [p3] in [x] and our stocks have run out. 
+더 이상 [x]의 [p3]를 충분히 생산하지 못하고 있고, 재고가 바닥났기 때문에 이런 일이 벌어지고 있다.
 
 #event_trout_b3
-Trade route broken!
+교역료 폐쇄!
 
 #event_trout_b3_1
-Our trade route exporting [p2] [p3] to [x] from [y] closed because we could no longer provide the required goods.
+[y]에서 [p2] [p3]로 수출하는 우리의 무역로는 더 이상 필요한 물품을 공급할 수 없기 때문에 폐쇄되었다.
 
 #event_trout_b3_2
-This happened because we were not producing enough [p3] in [x] and our stocks had ran out. 
+[x]에서 [p3]를 충분히 생산하지 못하고 있고, 재고가 바닥났기 때문에 이런 일이 발생했다.
 
 #event_trout_w4
-Trade route warning: exporter is missing goods!
+무역로 경고: 수출업자가 상품을 분실했다!
 
 #event_trout_w4_1
-Our trade route importing [p2] [p3] from [y] to [x] is lacking the required goods and might close soon unless the exporter fix this issue quickly!
+[y]에서 [x]로 [p2][p3]를 수입하는 우리의 교역로는 필수품이 부족하고 수출업체가 이 문제를 빨리 해결하지 않으면 곧 폐쇄될지도 모른다.
 
 #event_trout_w4_2
-This is happening because their production of [p3] in [y] is insufficent and their stocks ran out.
+그들의 [y]에서의 [p3] 생산이 부족하고 재고가 바닥났기 때문에 이런 일이 일어나고 있다.
 
 #event_trout_b4
-Trade route broken!
+교역료 폐쇄!
 
 #event_trout_b4_1
-Our trade route importing [p2] [p3] from [x] to [y] closed because they could no longer provide the required goods.
+[p2] [p3]를 [x]에서 [y]로 수입하는 우리의 교역로는 그들이 더 이상 필요한 물품을 공급할 수 없었기 때문에 폐쇄되었다.
 
 #event_trout_b4_2
-This happened because their production of [p3] in [x] was insufficent and their stocks had ran out.
+그들의 [x]의 [p3] 생산량이 부족하고 재고가 바닥났기 때문에 이런 일이 일어났다.
 
 #event_trout_c1
-[x] closed a trade route!
+[x]가 교역로 폐쇄하였습니다!
 
 #event_trout_c1_1
-The city of [x] closed their trade route of [p2] [p3] with our city of [y].
+[x]시는 우리의 [y]시와 무역로[p2][p3]를 폐쇄했다.
 
 #event_trout_c2
-One of our trade routes was closed by its operator!
+우리의 교역로 중 하나가 그 사업자에 의해 폐쇄되었다!
 
 #event_trout_c2_1
-The city of [x] has decided to stop operating our trade route of [p2] [p3] with our city of [y]. This resulted in the trade route beeing closed.
+[x]시는 우리의 [p2] [p3] 교역로인 [y]와의 운행을 중단하기로 결정했다. 이로 인해 무역로가 폐쇄되었다.
 
 #event_cdog
-A hunter tamed some wild dogs in [x]!
+한 사냥꾼이 [x]에서 몇몇 야생 개들을 길들였다!
 
 #event_cdog_1
-Some wild dogs have been wandering around the village of [x] lately. The animals seemed friendly and one hunter managed to tame some of them: he put them in a closed paddock to keep them around. We should keep them until we need fresh meat, its always good to have food stocks!
+최근 몇몇 야생 개들이 [x] 마을을 떠돌고 있다. 그 동물들은 착해 보였고, 한 사냥꾼은 그들을 데리고 다니기 위해 그들을 방목장에 가두었다. 우리는 그것들을 신선한 고기가 필요할 때까지 보관해야 해, 항상 식료품을 가지고 있으면 좋은 거야!
 
 #event_csheep
-We have tamed some wild sheep in [x]!
+우리는 [x]에서 야생 양을 길들였다!
 
 #event_csheep_1
-Some wild sheep have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks! They are also quite fluffy.
+최근 [x] 마을을 떠돌고 있는 들양도 있다. 이 동물들은 착해 보여서, 한 마을 사람은 그들이 떠나지 않도록 하기 위해 작은 밀폐된 방목장에서 그들을 간신히 유인했다. 우리는 그것들을 신선한 고기가 필요할 때까지 보관해야 해, 항상 식료품을 가지고 있으면 좋은 거야! 그것들은 또한 꽤 보송보송하다.
 
 #event_cgoat
-We have tamed some wild goats in [x]!
+우리는 [x]에 야생 염소를 길들였다!
 
 #event_cgoat_1
-Some wild goats have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+최근 몇몇 야생 염소가 [x] 마을을 배회하고 있다. 이 동물들은 착해 보여서, 한 마을 사람은 그들이 떠나지 않도록 하기 위해 작은 밀폐된 방목장에서 그들을 간신히 유인했다. 우리는 그것들을 신선한 고기가 필요할 때까지 보관해야 해, 항상 식료품을 가지고 있으면 좋은 거야!
 
 #event_crabbit
-Hunters have captured some wild rabbits in [x]!
+사냥꾼들이 [x]에서 야생 토끼를 잡았다!
 
 #event_crabbit_1
-The hunters of [x] got lucky and have managed to capture some rabbits alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]의 사냥꾼들은 운이 좋아서 토끼 몇 마리를 산 채로 잡아다가, 우리가 신선한 고기가 필요할 때를 대비해 그들을 우리에 가두어 놓았어! 음식물을 가지는 것은 항상 좋다.
 
 #event_cchick
-Hunters have catched some wild chicken in [x]!
+사냥꾼들이 [x]에 야생 닭을 포획했다!
 
 #event_cchick_1
-The hunters of [x] got lucky and have managed to capture some chickens alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]의 사냥꾼들은 운이 좋아서 닭 몇 마리를 생포해서 우리가 신선한 고기가 필요할 때를 대비해서 닭을 우리에 가두었다. 음식물을 가지는 것은 항상 좋다.
 
 #event_ccow
-We have tamed some wild cows in [x]!
+우리는 몇 마리의 야생 소를 길들였다.We have tamed some wild cows in [x]!
 
 #event_ccow_1
-Some wild cows have been wandering around the village of [x] lately. These animals seemed passive, and one villager managed to direct them to a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+최근 몇몇 야생 소들이 [x] 마을을 배회하고 있다. 이 동물들은 배고파 보였고, 한 마을 주민은 그들이 떠나지 않도록 하기 위해 그들을 작은 밀폐된 방목장으로 안내했다. 우리는 그것들을 신선한 고기가 필요할 때까지 보관해야 해, 항상 식료품을 가지고 있으면 좋은 거야!
 
 #event_cbuff
-We have tamed some wild buffalos in [x]!
+우리는 야생 버팔로를 [x]에서 길들였다!
 
 #event_cbuff_1
-Some wild buffalos have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+최근 몇몇 야생 버팔로가 [x] 마을을 배회하고 있다. 이 동물들은 착해 보여서, 한 마을 사람은 그들이 떠나지 않도록 하기 위해 작은 밀폐된 방목장에서 그들을 간신히 유인했다. 우리는 그것들을 신선한 고기가 필요할 때까지 보관해야 해, 항상 식료품을 가지고 있으면 좋은 거야!
 
 #event_chorse
-Hunters captured some wild horses in [x]!
+사냥꾼들이 [x]에서 야생마를 잡았다!
 
 #event_chorse_1
-The hunters of [x] got lucky and have managed to capture some wild horses. They have locked the agitated animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]의 사냥꾼들은 운이 좋아서 겨우 야생마를 몇 마리 잡았다. 그들은 우리가 신선한 고기가 필요할 때를 대비해 동요하는 동물들을 작은 방목장에 가두었다. 음식물을 가지는 것은 항상 좋다.
 
 #event_ccamel
-Hunters captured some wild camels in [x]!
+사냥꾼들이 [x]에서 야생 낙타를 잡았다!
 
 #event_ccamel_1
-The hunters of [x] got lucky and have managed to capture some wild camels. They have locked the stubborn silly looking animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]의 사냥꾼들은 운이 좋아서 몇몇 야생 낙타를 간신히 잡았다. 그들은 우리가 신선한 고기가 필요할 때를 대비해 고집스럽게 생긴 동물들을 작은 방목장에 가두었다. 음식물을 가지는 것은 항상 좋다.
 
 #event_cllama
-We have tamed some wild llamas in [x]!
+우리는 [x]에서 야생 라마를 길들였다!
 
 #event_cllama_1
-Some wild llamas have been wandering around the village of [x] lately. These animals seemed quite friendly - to the extent of a stubborn spitting llama - and one villager managed to push them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+최근 몇몇 야생 라마가 [x] 마을을 떠돌고 있다. 이 동물들은 꽤 친근해 보였고 - 고집스럽게 침을 뱉는 라마의 정도까지 - 그리고 한 마을 사람은 그들이 떠나지 않도록 하기 위해 그들을 작은 밀폐된 방목장에 밀어넣었다. 우리는 그것들을 신선한 고기가 필요할 때까지 보관해야 해, 항상 식료품을 가지고 있으면 좋은 거야!
 
 #event_projsuc
-Our project '[x]' was successfully completed!
+우리의 프로젝트 '[x]'가 성공적으로 완성되었다!
 
 #event_projsuc_1
-Our project '[x]' has been successfully completed and we have earned its rewards!
+우리의 프로젝트 '[x]'가 성공적으로 완료되었고 우리는 보상을 받았다!
 
 #event_projfail
-Our Project '[x]' failed!
+우리 프로젝트 '[x]'가 실패했어!
 
 #event_projfail_1
-Our project of '[x]' with [p2]% chances of success has been completed, but unfortunately it failed to meet its expectations and we have not earned its expected rewards. I'm afraid we have to start again from scratch and hope for better results...
+[p2]%의 성공확률을 가진 '[x]' 프로젝트는 완료되었지만, 안타깝게도 기대에 미치지 못해, 기대한 보상을 얻지 못했다. 유감스럽게도 우리는 처음부터 다시 시작해야 하고 더 나은 결과를 기대해야 한다.
 
 #event_projfail_2
-A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We should try to assign better researchers to increase our chaces of success next time!
+프로젝트가 할당된 연구원들의 평균 지능보다 더 높은 난이도가 있으면 프로젝트가 실패할 수 있다. 우리는 다음 번에는 성공하기 위해 더 나은 연구원을 배정하도록 노력해야 한다!
 
 #event_herd
-Herd of [p2] spotted near [x]!
+[x] 근처에서 발견된 [p2]의 동물뗴!
 
 #event_herd_1
-The scouts of the tribe have spotted a moving heard of around [p1] [p2] near our settlement of [x],in a territory of [y].
+그 부족의 정찰병들은 우리의 정착지인 [x] 부근에 있는 [y] 부근에서 [p1] [p2] 의 움직이는 소리를 발견했다.
 
 #event_herd_2
-We could send some of our best Porcos to hunt them: that would provide us with fresh meat and leather for the tribe!
+우리는 최고의 돼지를 보내어 그들을 사냥할 수 있다. 그것은 우리에게 그 부족에게 신선한 고기와 가죽을 제공할 것이다.
 
 #event_form_animesc
-[p3] have escaped the surveillance of our '[x]'!
+[p3]가 우리의 'x'의 감시에서 벗어났다!
 
 #event_form_animesc_1
-[p2] [p3] have escaped from the surveillance of our formation '[x]' that was guarding them, and are now lost.
+[p2] [p3]이(가) 이들을 지키던 우리 포메이션 '[x]의 감시에서 벗어나 지금은 길을 잃고 있다.
 
 #event_form_animesc_2
-Animals may escape if they are too numerous relative to their keepers or simply kept for too long in a formation's inventory. To make sure this doesn't happen again, maybe we should consider parking them in proper paddocks or carrying smaller numbers so they are less likely to escape the supervision of their assigned keepers.
+동물들은 사육사들에 비해 너무 많거나 너무 오랫동안 포메이션의 재고에 보관되어 있으면 도망칠 수 있다. 이런 일이 다시는 일어나지 않도록 하기 위해서, 우리는 그들이 할당된 사육사들의 감독에서 벗어날 가능성이 더 적도록 적절한 패드에 주차하거나 더 작은 숫자들을 운반하는 것을 고려해야 할 것이다.
 
 #event_rcvidea
-We received a new idea from [x]!
+우리는 [x]로부터 새로운 아이디어를 받았다!
 
 #event_rcvidea_1
-Good news: the people of [x] have shown us their knowledge of [p1] and explained to us the rudiments of what it is and how it works.
+좋은 소식: [x]의 사람들은 우리에게 그들의 [p1]에 대한 지식을 보여주었고 그것이 무엇이고 어떻게 작동하는지 우리에게 설명해 주었다.
 
 #event_rcvidea_2
-Based on what they shown us, we have now unlocked a new project: '[p2]', which we can attempt to complete ourselves to master the knowledge of [p1] as well!
+그들이 우리에게 보여준 것을 바탕으로, 우리는 이제 새로운 프로젝트인 '[p2]를 열었고, 우리는 또한 우리 자신을 [p1]의 지식을 습득하기 위해 시도할 수 있다!
 
 #event_trtov
-Our treaty '[x]' with [y] is now over.
+우리의 [y]와의 조약은 이제 끝났다.
 
 #event_trtov_1
-The treaty '[x]' we had with [y] reached the end of its agreed duration and is now obsolete! 
+우리가 [y]와 맺은 조약 '[x]는 합의된 기간이 끝나서 이제 쓸모없게 되었다!
 
 #ev_migtrib
-Tribe of hungry nomads in [x]
+[x]에 배고픈 유목민 부족유입
 
 #ev_migtrib_1
-Attracted by our prosperity, a primitive tribe of hungry nomads has arrived in [x]. They have been wandering the lands for a long time, suffering from hunger, and they are interested in joining our community. They carry little with them and don't have much to offer besides their workforce.
+우리의 번영에 이끌려, 굶주린 유목민들의 원시 부족이 [x]에 도착했다. 이들은 굶주림에 시달리며 오랜 세월 땅을 떠돌며 우리 공동체에 동참하는 데 관심이 많다. 그들은 거의 가지고 다니지 않으며 그들의 노동력 외에 제공할 것이 많지 않다.
 
 #ev_migtrib_2
-Should we welcome them into our tribe ?
+우리는 그들을 우리 부족에 환영해야 할까?
 
 #ev_migtrib_c1
-"Yes, we need the extra workforce. Let them be welcomed amongst us."
+"그래, 우리는 추가 인력이 필요해. 우리 사이에 그들을 환영하게 하라"고 말했다.
 
 #ev_migtrib_c2
-"No! We can't afford extra mouths to feed."
+"아니! 우리는 먹여 살릴 여분의 입을 살 여유가 없어."
 
 #ev_stormwood
-Stormy night in [x]
+[x]의 폭풍우 치는 밤
 
 #ev_stormwood_1
-A violent storm raged all night in [x], with strong winds. Luckily, nooone was harmed and the village didn't sustain any damage.
+강풍을 동반한 강풍이 밤새도록 몰아쳤다. 다행히 아무도 피해를 입지 않았고 마을은 피해를 입지 않았다.
 
 #ev_stormwood_2
-In the morning however, the villagers noticed that a few tall old trees had fallen nearby, making it an easy free supply of wood! 
+하지만 아침, 마을 사람들은 키가 큰 몇 그루의 고목들이 근처에 쓰러진 것을 알아챘고, 이것은 나무를 쉽게 무료로 공급해 주었답니다!
 
 #ev_luckgath
-Lucky gatherer in [x]
+[x]의 행운의 수렵가
 
 #ev_luckgath_1
-One of our gatherers got lucky and stumbled upon a previously undiscovered patch of edible plants hidden in the vegetation that noone had previously noticed! That is one good harvest for the day!
+우리 수렵가 중 한 명이 운이 좋아서 이전에 아무도 눈치채지 못했던 초목에 숨겨져 있던 미지의 식용 식물들을 우연히 발견했답니다! 운수 좋은 날이야!
 
 #ev_nagwif
-The nagging wife
+바가지 긁는 아내
 
 #ev_nagwif_1
-One porco of the village of [x], exasperated by the constant naggings of his Sow, decided to go on a lonely retreat in the wilderness to hunt and thus he disapeared for several days. 
+암퇘지의 계속되는 잔소리에 화가 난 [x] 마을의 한 돼지 새끼는 사냥을 위해 황야로 외로운 퇴로를 가기로 결정했고, 그는 며칠 동안 실종됬다.
 
 #ev_nagwif_2
-Many feared he would never return. But on the 5th day he came back, carrying with him the spoils of what had turned out to be a greatly successful hunt. He was cheered by the whole tribe. His wife however was not pleased and left with her piglets to live at her mother's tribe on the other side of valley.
+많은 사람들은 그가 다시는 돌아오지 않을 것을 두려워했다. 그러나 닷새째 되던 날, 그는 큰 성공을 거둔 사냥으로 판명된 모든 것을 가지고 돌아왔다. 그는 온 부족의 환호를 받았다. 그러나 그의 아내는 달가워하지 않고, 그녀의 새끼 돼지를 데리고 계곡 반대편에 있는 어머니의 지파에 살게 되었다.
 
 #ev_regwolf
-Hungry wolves in [x]!
+[x]에 배고픈 늑대들 출몰!
 
 #ev_regwolf_1
-A pack of hungry wolves has arrived in the territory of [x], probably attracted by our food stocks! During the night, they woke up the whole tribe with their frightening howlings which which got closer and closer. At dawn, their dark silhouettes were spotted around the village.
+굶주린 늑대 떼가 [x] 지역에 도착했는데, 아마도 우리의 식량 비축에 끌렸을 것이다! 밤중에, 그들은 점점 가까워지는 그들의 무서운 울음소리로 온 부족을 깨웠다. 새벽에 마을 주변에는 그들의 어두운 실루엣이 눈에 띄었다.
 
 #ev_regwolf_2
-All the warriors rushed to their weapons and gathered, ready to fight off the incoming wolf pack and to protect the village's people and stocks!
+전사들은 모두 무기로 달려가 모여들어, 다가오는 늑대 무리를 물리치고, 마을의 사람들과 식량들을 보호할 준비를 했다!
 
 #ev_regbear
-Bad bears in [x]
+[x]에 나쁜 곰 등장!
 
 #ev_regbear_1
-A small group bears came wandering in the territory of [x]. During the night they entered the village and started to rampage through our food stocks and supplies.
+작은 무리의 곰들이 [x]의 영토를 떠돌며 왔다. 밤중에 그들은 마을에 들어가서 우리의 식량 비축과 물자를 마구 뒤지기 시작했다.
 
 #ev_regbear_c1
-"Everyone, just pretend to sleep..."
+"모두, 잠자는 척만 해..."
 
 #ev_regbear_c2
-Time to fight some bears!
+곰들과 싸울 시간이다!
 
 #ev_asylm
-Asylum seekers in [x]
+[x]의 망명 신청자
 
 #ev_asylm_1
-A group of nomads arrived in our territory of [x]. They told their story of how they were chased away of their lands by another neighboring tribe after a conflict between them.
+한 무리의 유목민들이 우리 영토인 [x]에 도착했다. 그들은 어떻게 그들 사이의 갈등 후에 다른 이웃 부족에 의해 그들의 땅에서 쫓겨났는지에 대한 이야기를 했다.
 
 #ev_asylm_2
-Attacked during one night, they lost most of their people and fled their homeland, but not before one of their best warriors managed to kill the chief of the enemy tribe. Since then, his son has vowed to hunt them down for revenge no matter where they go, and they have been on the run for many weeks. 
+하룻밤 사이에 공격당한 그들은 대부분의 국민을 잃고 고국을 떠났지만, 그들의 가장 훌륭한 전사들 중 하나가 적족의 수장을 가까스로 죽이기 전까진 아니었다. 이후 그의 아들은 그들이 어디로 가든지 복수를 위해 그들을 사냥하겠다고 다짐했고, 그들은 몇 주째 도주 중이다.
 
 #ev_asylm_3
-Their pursuers are not far behind, and your tribe is now their only hope. They beg for asylum and safety, offering to pledge their loyalty to our people if we accept to protect them. If we do, we will have to fight their pursuers! 
+그들의 추격자는 멀지 않고, 너희 부족은 이제 그들의 유일한 희망이다. 그들은 망명과 안전을 구걸하며, 우리가 그들을 보호하기 위해 받아들인다면 우리 국민에 대한 충성을 맹세할 것을 제의한다. 만약 우리가 그렇게 한다면, 우리는 그들의 추격자들과 싸워야 할 것이다!
 
 #ev_asylm_c1
-Offer them asylum and fight off their pursuers.
+그들에게 망명을 제안하고 그들의 추격자들을 물리쳐라.
 
 #ev_asylm_c2
-Capture these fugitives and offer them to justice of their pursuers for a reward.
+이 도망자들을 붙잡아, 그들을 뒤쫓는 자들의 재판에 넘겨 주고 보상을 받는다.
 
 #ev_knowtrav
-The knowledgable traveler
+현명한 여행자.
 
 #ev_knowtrav_1
-One day, an old pig arrived in our village of [x], his feet weary from the many travels he had made. He was a lonely hermit, living and travelling alone for many years now. 
+어느 날, 늙은 돼지가 우리 마을에 도착했는데, 그의 발은 그가 만든 많은 여행으로 피곤했다. 그는 수년 동안 혼자 살고 여행하며 외로운 은둔자였다.
 
 #ev_knowtrav_2
-He told the tale of the ancient people he belonged to, who perished a long time ago from a mysterious desease that he was the only one to miraculously recover from, fleeing away from his land. He also told stories of how his people used to live: incredible stories about things they did that noone here had ever though off. There was much to learn from his teachings as he seemed to come from a more refined a mysterious people. 
+그는 자신이 속해 있던 고대 사람들의 이야기를 들려주었는데, 그는 오래 전에 신비한 죽음으로부터 그의 땅에서 도망쳐 기적적으로 회복한 유일한 사람이라는 것을 알게 되었다. 그는 또한 그의 사람들이 어떻게 살았는지에 대한 이야기들을 들려주었다. 그들이 한 일들에 대한 믿을 수 없는 이야기들 말이다. 그의 가르침에서 배울 점이 많았다. 왜냐하면 그는 좀 더 신비한 사람들에서 온 것 같았기 때문이다.
 
 #ev_knowtrav_3
-But the wonder and influence he gained amongst the tribe started to upset its more dominant members who felt their position threatened... What should we do about it ?
+그러나 그가 부족내 민심에 얻은 놀라움과 영향력은 부족내 지배계층의 지위에 위협적이기 시작했다. 우리는 그것에 대해 어떻게 해야 할까?
 
 #ev_knowtrav_c1
-Listen to what this traveler has to teach even if it upsets them.
+이 여행자가 설령 그들을 화나게 해도 무엇을 가르쳐야 하는지 들어보라.
 
 #ev_knowtrav_c2
-Ban the oldpig of the village for his lies.
+늙은 돼지와 그의 거짓말은 버리자.
 
 #ev_frndgift
-Gift of friendship in [x]
+[x]의 친교 선물
 
 #ev_frndgift_1
-A group of nomad travellers passed through our small village of [x]. They stayed for a few days, sharing stories and befriending some of our locals. Pleased by our hospitality, they gifted us with some of their belongings as a token of friendship, before bidding us farewell and moving on with their journey.
+한 무리의 유목민들이 우리의 작은 마을인 [x]를 지나갔다. 그들은 며칠 동안 머물며 이야기를 나누고 우리 지역 주민들과 친구가 되었다. 우리의 환대에 힘입어, 그들은 우리에게 우정의 표시로 그들의 소지품 중 일부를 선물로 주었고, 우리에게 작별을 고하고 여행을 계속했다.
 
 #ev_vp_complet
-Victory mission completed!
+승리 임무 완료!
 
 #ev_vp_complet_1
-We have completed the victory mission "[y]" before anyone else and earned its reward, proving to everyone that we are a glorious people!
+우리는 누구보다 먼저 승리 임무 "y"를 완수하고 그 보상을 획득해, 모두에게 우리가 영광스러운 국민임을 증명했다!
 
 #ev_vp_fail
-[x] has completed a victory mission!
+[x]는 승리 임무를 완수했습니다!
 
 #ev_vp_fail_1
-The people of [x] have completed the victory mission "[y]" before us!
+[x]의 사람들은 우리보다 앞서 있는 승리 임무 "y"를 완수했다!
 
 #ev_joinwriors
-Warriors wish to join us!
+전사들이 우리에 합류 하기를 원한다!
 
 #ev_joinwriors_1
-A group of 10 warriors had been wandering the lands for many moons before arriving in our tribe. They are friendly and wish to join us: they offer to help us to hunt herds and explore the world if we welcome them among us.
+10명의 전사들이 우리 부족에 도착하기 전에 많은 달 동안 그 땅을 떠돌고 있었다. 그들은 친절하고 우리와 함께 하기를 원한다. 그들은 우리가 우리 가운데서 그들을 환영한다면 우리가 소를 사냥하고 세계를 탐험하는 것을 돕겠다고 제안한다.
 
 #ev_joinwriors_c1
-"Yes, let us welcome them!"
+"그래, 우리가 그들을 환영하자!"
 
 #ev_joinwriors_c2
-"No, we cannot support new people right now."
+"아니, 지금 당장은 새로운 사람들을 지원할 수 없다."
 
 #ev_exceptool
-Exceptionnal tools
+훌륭한 도구
 
 #ev_exceptool_1
-One of the tribe's most skilled craftspig found stones of unusual solidity and hardness and he managed to craft a few tools of exceptionnal quality out of it!
+그 부족의 가장 숙련된 기술 중 한 명이 특이한 견고함과 경도의 돌을 발견했고, 그는 그것에서 예외적인 품질의 몇 개의 도구를 만들어냈다!
 
 #ev_spdboost
-Speed boost!
+스피드 부스트!
 
 #ev_spdboost_1
-As a newly created character, to enjoy a dynamic start you are awarded a temporary x[x] SPEED BOOST during your first [y] minuts of playing!
+새롭게 창조된 캐릭터로서, 역동적인 시작을 즐기기 위해, 여러분은 첫 번째 미니 게임 동안 임시 x[x] SPEED BOOST를 받게 된다.
 
 #ev_spdboost_2
-This bonus, as long as it remains active, modifies the following stats of your character:
+이 보너스는, 그것이 활성화되어 있는 한, 당신의 캐릭터에 대한 다음과 같은 스탯을 수정한다.
 
 #ev_spdboost_3
-- Production and consumption of resources in your territories happens at a faster rate, as the production cycle is reduced by [x].
+-영토 내 자원의 생산과 소비는 생산 주기가 [x]만큼 줄어들기 때문에 더 빠른 속도로 발생한다.
 
 #ev_spdboost_4
-- Population growth evolves faster as the duration of a normal generation is reduced by [x].
+-인구 증가속도는 정상세대 지속시간이 [x]만큼 줄어들수록 더 빠르게 진화한다.
 
 #ev_spdboost_5
-- Research speed is increased by [x].
+-연구속도가 [x]만큼 높아진다.
 
 #ev_spdboost_6
-- Construction speed is increased by [x].
+-건설속도가 [x]만큼 높아진다.
 
 #ev_rebljoin
-[x] rebelled and wishes to join us.
+[x] 반기를 들고 우리와 함께 하기를 원한다.
 
 #ev_rebljoin_1
-Good news: the city of [x] rebelled against its opressors of [y]. The city is free at last and the popuation, feeling culturally attached to us, now wishes to rejoin our glorious nation! 
+좋은 소식: [x] 시는 폭군들을 상대로 반란을 일으켰다. 도시는 마침내 자유로워졌고 문화적으로 우리에게 애착을 느끼는 사람들은 이제 우리의 영광스러운 나라에 다시 합류하기를 바란다!
 
 #ev_rebljoin_2
-If we accept, we will regain ownership and control of this territory. If we refuse, they will remain ruled by rebels.
+만약 우리가를 받아들인다면, 우리는 이 영역의 소유와 통제권을 회복할 것이다. 만약 우리가 거부한다면 반군에 의해 통치되게 유지될 것입니다.
 
 #ev_rebljoin_c1
-Agree and annex the territory
+영토에 대한 합의 및 부속
 
 #ev_rebljoin_c2
-Refuse
+거절
 
 #ev_heirprop
-Heirdom
+상속권
 
 #ev_heirprop_1
-[x] is now inactive and his position is up for succession. He designated you as his heir, and you can therefore immediately take his place within the Nation.
+[x]는 현재 비활성화 되어있고 그의 직책은 승계 중이다. 그는 너를 그의 후계자로 지명했고, 그러므로 너는 즉시 국가 내에서 그의 자리를 차지할 수 있다.
 
 #ev_heirprop_2
-If you agree, your positions will be immediately swapped: you will inherit his rank and subordinates while he inherits yours, becoming your own subordinate. Depending on your new title's priviledges, you might then be able to remove him entirely from the Nation, dismantle his territories, or reorganize the hierarchy to recover your past subordinates or move him further down.
+네가 동의하면, 너의 직책은 즉시 바뀌게 될 것이다. 그가 너의 직위를 물려받는 동안 너는 그의 직위와 부하들을 물려받게 될 것이고, 너의 부하가 될 것이다. 당신의 새 직책의 사생활에 따라, 당신은 그를 국가로부터 완전히 제거하거나, 그의 영토를 해체하거나, 당신의 과거의 부하들을 회복시키거나 그를 더 아래로 옮길 수 있을 것이다.
 
 #ev_heirprop_c1
-Accept
+승인
 
 #ev_heirprop_c2
-Refuse
+거절
 
 #ev_votesucc
-Time to vote!
+투표할 시간입니다!
 
 #ev_votesucc_1
-[x], your superior, is now inactive and his position is up for succession. It's time to vote to designate who amongst his subordinates will be chosen to replace him.
+당신의 상관인 [x]는 비활성화 되었고 그의 직책은 승계할 수 있다. 그의 부하들 중에서 그를 대신할 사람을 지명할 때가 되었다.
 
 #ev_votesucc_2
-Once a successor is elected, his position will be immediately swapped with [x] and he will inherit his rank and subordinates. The predecessor, by default, is automatically moved to the newly elected successor's previous position where he can then be further managed as a subordinate (dismantled, expelled, replaced...).
+후임자가 선출되면 직급은 곧바로 [x]로 교체돼 직급과 부하직원을 이어받게 된다. 기본적으로 전임자는 새로 선출된 후임자의 이전 위치로 자동 이동되며, 그 다음 그는 부하직원으로 추가 관리될 수 있다.
 
 #ev_votesucc_rslt
-[p2] has been elected [x]
+[p2]가 선출되었다 [x]
 
 #ev_votesucc_rslt_1
-[p2] has been elected [x], succeeding to [p1]. 
+[p2]가 [x]로 선출되어, [p1]에 계승되고 있다.
 
 #ev_votesucc_rslt_2
-[p2] won the election with [p3] votes out of [p4] cast votes.
+[p2]는 [p4]표 가운데 [p3]표로 당선되었다.
 
 #ev_votesucc_won
-You have been elected [x]!
+[x]에 당선되었다!
 
 #ev_votesucc_won_1
-Congratulations! You have been elected [y] in succession of [p1]. 
+축하합니다! [p1]의 승계자로 [y]에 선출되었다.
 
 #ev_votesucc_won_2
-You won the election with [p3] votes in your favor out of [p4] cast votes.
+당신은 [p4]의 투표 중에서 [p3]표를 얻어 당선되었다.
 
 #ev_xplrch_vrywl
-"Very well."
+"매우 좋다."
 
 #ev_xplrch_shame
-"Its a shame."
+"유감일세."
 
 #ev_xplrch_exlnt
-"Excellent!"
+"훌륭해!"
 
 #ev_xplrch_notime
-"No, we have no time for this."
+"아니, 이럴 시간 없어."
 
 #ev_xplrch_proceed
-"Yes, proceed!"
+"좋아, 진행해!"
 
 #ev_xplrch_nvrmnd
-"No. Nevermind."
+"아니. 신경 쓰지 마."
 
 #ev_xplrch_leave
-Leave.
+떠나
 
 #ev_xplr_bdts
-Bandits ambushed our formation '[x]'!
+도적떼들이 우리 부대'[x]' 를 매복공격!
 
 #ev_xplr_bdts_1
-While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troup had with them.
+우리의 'p2' 만큼의 돼지부대[x]가 황무지를 누비고 있는 동안, 그것들은 어느 순간 두 언덕 사이에 있는 좁고 좁은 통로를 지나게 되었다. 태양이 높았고, 돼지들은 긴 여정과 수녀가 가지고 있는 모든 물건들을 나르는 것에 싫증이 났다.
 
 #ev_xplr_bdts_2
-Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on both sides, surrounding our troops. Their leader moved forwarded, and made a simple demand: "Give us all yerr loot or be bacon!". What should we do?
+놀랄 것도 없이, 매복한 20여 명의 작은 무리의 도적들이 아군을 에워싸고 양측에 갑자기 나타났다. 그들의 지도자는 앞으로 나아가서 간단한 요구를 했다: "우리에게 약탈을 하거나 베이컨이 되어라." 우리 어떻게 해야 되죠?
 
 #ev_xplr_bdts_c1
-"We ain't afraid of no Pigbandits!"
+"우리는 돼지도적떼 따윈 두려워하지 않아!"
 
 #ev_xplr_bdts_c2
-Give them what they want.
+원하는 것을 준다.
 
 #ev_xplr_abvil
-'[x]' found an abandonned village.
+버려진 마을을 찾았다
 
 #ev_xplr_abvil_1
-While exploring the lands, our group '[x]' stumbled upon the remains of an abonned primitive village of a few huts. Cautiously, the Porcos started to inspect these remains and came to the conclusion that whomever lived there are now long gone. "They seem to have abandonned many things here. Who knows for what reasons the people who lived there decided to leave, but they didnt take much with them!", concluded the group leader.
+땅을 탐사하던 중 우리 조 '[x]'는 움푹 파인 원시 마을의 잔해를 우연히 발견했다. 조심스레, 돼지들은 이 유적들을 조사하기 시작했고, 그곳에 살았던 사람들은 이제 사라진 지 오래라는 결론에 도달했다. "그들은 여기서 많은 것을 버린 것 같다. 그곳에 살던 사람들이 무슨 이유로 떠나기로 결정했는지 누가 알겠는가!"라고 단체장이 결론을 내렸다.
 
 #ev_xplr_abvil_2
-Although many things have spoiled or decayed with time, some still appear to be in good enough condition to be of interest to us. Should we search the village and scavenge what we can ?
+비록 많은 것들이 시간이 지남에 따라 썩거나 썩었지만, 어떤 것들은 여전히 우리에게 흥미로울 만큼 좋은 상태에 있는 것처럼 보인다. 우리가 할 수 있는 것을 찾아 마을을 샅샅이 뒤져야 할까?
 
 #ev_xplr_abvil_c1
-"Yes, search the abandonned village and let's take what we can!"
+"그래, 버려진 마을을 수색하고 우리가 할 수 있는 것을 가져가자!"
 
 #ev_xplr_abvil_c2
-"No, let's leave things as they are, we have no time for this."
+"아니, 이대로 내버려 두자, 이럴 시간이 없다."
 
 #ev_xplr_birds
-Fearless birds
+겁 없는 새들
 
 #ev_xplr_birds_1
-'[x]' were camping in a forest after a long day of walking in these unknown lands. Night was coming, and all the porcos were gathered around campfires. That's they heard a noise in a nearby bush, from which emerged a bunch of dumblooking fat birds unknown to them. The beasts seemed oblivious of their presence, picking on things on the forest floor as if they were alone on earth.
+'[x]'는 이 미지의 땅에서 긴 하루를 걷고 난 후 숲 속에서 캠핑을 하고 있었다. 밤이 다가오자, 모든 돼지들이 모닥불 주위로 모여들었다. 그것은 그들이 근처 덤불에서 소리를 들은 것인데, 그 곳에서 자신들에게 알려지지 않은 멍청해 보이는 살찐 새 떼가 나타났다. 짐승들은 마치 땅 위에 혼자 있는 것처럼 숲바닥의 물건을 집어삼키며 자신의 존재를 망각한 것 같았다.
 
 #ev_xplr_birds_2
-"Well... Looks like fresh meat's back on the menu, boys!", grinned the group's leader: by morning, all the birds had went to meet their maker. What a lucky hunt! The group, in the morning, left with a fullbelly and a new stocks of fresh meat.
+"글쎄... 얘들아, 신선한 고기가 다시 메뉴에 오른 것 같구나!"라고 웃으며 그룹의 지도자를 웃으면서 말했다. 아침이 되자 모든 새들이 그들의 제작자를 만나러 갔다. 정말 운이 좋군! 그 그룹은 아침에 포식후 신선한 육류 재고품을 가지고 떠났다.
 
 #ev_xplr_hsttrib
-'[x]' is attacked by an hostile tribe!
+'[x]'는 적대적인 부족의 공격을 받는다!
 
 #ev_xplr_hsttrib_1
-Bad news! While '[x]' was walking across new unknown lands, they suddenly found themselves surrounded by a group of a demi-dozen hostile natives. They came from nowhere... We probably stepped to close to their territory, or maybe they just don't like our snouts. Before the porcos could even realize what was happening, the primitive warriors was already attacking...
+나쁜 소식! '[x]'가 새로운 미지의 땅을 걷고 있을 때, 그들은 갑자기 자신들이 데미도젠의 적대적인 원주민들에 둘러싸여 있다는 것을 발견했다. 그들은 아무데서나 왔다... 우리는 아마도 그들의 영토에 가까이 다가갔거나, 아니면 그들이 우리의 코웃음을 싫어했을지도 모른다. 돼지들이 무슨 일이 일어나고 있는지 깨닫기도 전에, 원시 전사들은 이미 공격하고 있었다.
 
 #ev_xplr_thirst
-Unforgiving desert
+무자비한 사막
 
 #ev_xplr_thirst_1
-Our formation '[x]' wandered too far in unknown arid lands. For days, they could not find any source of fresh water. The porcos desperately searched for water, but it was no easy task in these desertic foreign lands. By the time they found a muddy puddle to quench their thrist, many of them had been lost to the vultures and the unforgiving sun of these lands.
+우리의 포메이션 '[x]'는 알려지지 않은 건조한 땅에서 너무 멀리 방황했다. 며칠 동안, 그들은 신선한 물의 어떤 원천도 찾을 수 없었다. 돼지들은 필사적으로 물을 찾았지만, 이 사막 같은 이국땅에서는 쉬운 일이 아니었다. 그들이 그들의 목욕을 누그러뜨릴 진흙 웅덩이를 발견했을 때, 그들 중 다수는 이 땅의 독수리와 용서할 수 없는 태양에 길을 잃었다.
 
 #ev_xplr_thirst_2
-Maybe we should have avoided venturing too far in such an hostile territory.  
+어쩌면 우리는 그렇게 적대적인 영토에서 너무 멀리 모험하는 것을 피했어야 했다.
 
 #ev_xplr_lstjngl
-Lost in the jungle
+정글에서 표류.
 
 #ev_xplr_lstjngl_1
-The porcos of '[x]' had been wondering in this bloody jungle for days, harassed by the heat and lost. It wasnt long before the one group turned into 2 groups... "Hey Mr Jenkins, I swear i already saw this damn tree 2 days ago!" said Porkypigs. "Common, maybe we'll find the rest of the group soon! Let's keep waking!". But they never did. However, they did find a nest of flesh eating flies the size of a hand when Mr Jenkins decided it was a good time to poke a suspicious hole in a tree with a stick in an attempt to find something to eat.
+'[x]'의 돼지들은 이 유혈 정글에서 며칠 동안 더위에 시달리다가 길을 잃었다. 얼마 지나지 않아 한 그룹이 두 그룹으로 바뀌었어... "이봐, 젠킨스씨, 난 이 빌어먹을 나무를 이틀 전에 이미 봤어!"라고 포키피그스가 말했다. "공통, 어쩌면 곧 나머지 그룹을 찾을지도 몰라! 계속 깨어 있자!"라고 말했다. 하지만 그들은 결코 하지 않았다. 하지만, 그들은 젠킨스 씨가 먹을 것을 찾기 위해 막대기로 나무에 의심스러운 구멍을 뚫을 때라고 결정했을 때, 살집이 손 크기의 파리를 먹는 것을 발견했다.
 
 #ev_xplr_lstjngl_c1
-"Bloody Mr Jenkins!" 
+"빌어먹을 젠킨스씨!" 
 
 #ev_xplr_strvtrib
-The starving tribe
+굶주린 부족
 
 #ev_xplr_strvtrib_1
-The porcos of '[x]' had spotted a small group of people away from them, walking on the side of a hill. The next day, in the morning, the same group was spotted again, this time closer, and the Porcos decided to go meet them: it was a small group of a few families, with piglets and sows, and they didnt seem to be of any threat.
+'[x]'의 돼지들은 언덕길을 걸으며 그들로부터 떨어진 작은 무리의 사람들을 발견했다. 다음날 아침, 같은 집단이 다시 발견되었고, 이번에는 더 가까이 갔고, 돼지들은 그들을 만나러 가기로 결정했다. 그것은 새끼 돼지들과 소들을 가진 작은 집단이었고, 그들은 어떤 위협도 받지 않는 것처럼 보였다.
 
 #ev_xplr_strvtrib_2
-When moving closer, their condition became horrifyingly clear: these people were walking skelettons, starving. They walked slowly, and in their eyes was no hope. They didn't seem to notice the presence of the group getting closer to them until one of us stepped litteraly in front of them.
+가까이 다가갔을 때, 그들의 상태는 끔찍할 정도로 분명해졌다. 이 사람들은 굶주린 채 걷어다니는 뼈다귀 였다. 그들은 천천히 걸었고, 그들의 눈에는 희망이 없었다. 그들은 우리 중 한 명이 그들 코앞까지 다가서기 전까지는 우리의 존재에 대해 눈치채지 못한 것 같았다.
 
 #ev_xplr_strvtrib_3
-We offered them some of our provisions, and it wasn't before the 2nd day that they finaly exchanged a few words with the group and told us their story. They used to be a bigger and prosperous tribe, living of hunting and gathering until they were chased away from their lands by a more powerful tribe. They had lost all their precious tools and weapons, and most of the strongest Porcos of their tribe had died fighting. Since then, the survivors had wandered the land unable to hunt, slowly starving.
+우리는 그들에게 몇 가지 조항을 제안했고, 이틀이 지나서야 그들은 마침내 그 그룹과 몇 마디를 주고받으며 그들의 이야기를 우리에게 들려주었다. 그들은 더 강력한 부족에 의해 그들의 땅에서 쫓겨날 때까지 사냥과 채집을 하며 더 크고 부유한 부족이었다. 그들은 그들의 귀중한 도구와 무기를 모두 잃었고, 그들 부족의 가장 강한 돼지는 대부분 싸워서 죽었다. 그 후 생존자들은 사냥을 할 수 없는 땅을 떠돌며 천천히 굶주리고 있었다.
 
 #ev_xplr_strvtrib_c1
-"Join us, we will offer you a new home!"
+"우리에게 합류해, 우리가 너에게 새로운 거처를 제공할 거야!"
 
 #ev_xplr_strvtrib_c2
-We can't take care of these people. Let's wish them good luck and move on. 
+우리는 이 사람들을 돌볼 수 없다. 그들에게 행운을 빌어주고 앞으로 나아가자.
 
 #ev_xplr_snakes
-Snakes in a plain
+평원의 뱀
 
 #ev_xplr_snakes_1
-Our formation '[x]' was slowly crossing a seemingly endless plain covered in tall thick grass the height of a porco when one of them felt a sharp pain on his feet: he had been bitten by a colorfull snake that quickly disapeared in the grass. There was nothing we could do for the poor bastard: in a few minuts his leg had doubled volume and he met a gruesome death.
+우리의 '[x]형식은 마치 끝이 없어 보이지 않는 평원을 높은 울창한 풀로 덮어서 천천히 건너가고 있었는데, 그들 중 한 명이 발에 날카로운 통증을 느꼈을 때였다. 그는 풀밭에서 재빨리 몸을 사린 채 창백한 뱀에게 물렸다. 그 불쌍한 개자식을 위해 우리가 할 수 있는 것은 아무것도 없었다. 몇 분만에 그의 다리는 두 배가 되었고 그는 무시무시한 죽음을 맞이했다.
 
 #ev_xplr_snakes_2
-That, unfortunately, was just a begining as by the time the group managed to escape the plain, 2 more had been bitten and followed the same fate. This plain was litterally infested with viscious snakes.
+불행하게도, 그것은 단지 시작에 불과했다. 그 그룹이 평원을 가까스로 탈출했을 때, 2명이 더 물려서 같은 운명을 따랐을 때였다. 이 평원에는 점성이 있는 뱀이 어질러져 있었다.
 
 #ev_xplr_snakes_c1
-"I've had it with these motherfuckin' snakes!"
+"이 빌어먹을 뱀들 때문에 질렸어!"
 
 #ev_xplr_map
-Friendly tribe offers '[x]' a map of the territory.
+친근한 부족의 '[x]의 영토 지도 제공.
 
 #ev_xplr_map_1
-Our formation '[x]' was well received by natives in a small village, where they spent a few days to rest. The villagers offered our porcos to teach them all about the surrounding territory that they know very well: 
+우리 부대 '[x]'는 며칠을 쉬면서 보낸 작은 마을에서 원주민들의 호응을 얻었다. 마을 사람들은 우리의 돼지에게 그들이 잘 알고 있는 주변 영토에 대해 가르치라고 제안했다.
 
 #ev_xplr_map_2
-"Sniffingwind here is the village's best scout" said their chief. "He knows all the ins and outs of these lands. If you wish, Sniffingwind can show you how to travel in the territory, he's never been in trouble. He'll tell you what areas to avoid, what places are dangerous, and where to pass. In the meantime you're welcome to stay in our small village!" Should we stay a little more and accept their help?
+"여기에 불어오는 바람이 이 마을의 최고의 스카우트다"라고 그들의 촌장은 말했다. "그는 이 땅의 내막을 다 알고 있다. 원한다면 스니핑윈드가 그 지역을 여행하는 법을 보여줄 수 있어, 그는 결코 곤경에 처한 적이 없어. 그는 너에게 피해야 할 지역, 위험한 곳, 어디를 지나가야 할 지 말해줄 것이다. 그동안 우리 작은 마을에 머물러도 돼!" 조금만 더 머물면서 그들의 도움을 받아들여야 할까?
 
 #ev_xplr_snglost
-Explorer lost!
+탐험가 실종!
 
 #ev_xplr_snglost_1
-It is very dangerous to travel these unknown lands alone. Sadly, our explorer disapeared and was never heard of again. 
+이 미지의 땅을 혼자 여행하는 것은 매우 위험하다. 슬프게도, 우리 탐험가는 망신을 당했고 다시는 듣지 못했다.
 
 #ev_xplr_snglost_2
-Who knows what happened to him... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
+그에게 무슨 일이 일어났는지 누가 알겠는가... 다음 번에는 더 큰 탐험대를 보내서 성공 가능성을 높이는 것을 고려해 봐야 할 것 같다.
 
 #ev_xplr_grplost
-Explorers lost!
+탐험가 실종!
 
 #ev_xplr_grplost_1
-It is very dangerous to travel these unknown lands in a small group. Sadly, our explorer disapeared and were never heard of again. 
+이 미지의 땅을 작은 그룹으로 나르는 것은 매우 위험하다. 슬프게도, 우리 탐험가는 망신을 당했고 다시는 그 소식을 듣지 못했다.
 
 #ev_xplr_grplost_2
-Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
+그들에게 무슨 일이 일어났는지 누가 알겠는가... 다음 번에는 더 큰 탐험대를 보내서 성공 가능성을 높이는 것을 고려해 봐야 할 것 같다.
 
 #ev_xplr_storm
-Ships lost in a terrible storm!
+끔찍한 폭풍으로 배가 침몰했어!
 
 #ev_xplr_storm_1
-The sea is dangerous and moody. Before anyone had time to react, a calm breeze turned into a terrifying storm with waves taller than hills and a sky darker than the night. Our ship, sadly, was no match for this storm. The porcos fought bravely, but pigs and ships were all claimed by the sea by the next morning. I'm afraid we've lost the whole expedition.
+바다는 위험하고 쌀쌀맞다. 누군가 반응하기도 전에, 잔잔한 바람은 언덕보다 높은 파도와 밤보다 어두운 하늘이 있는 무서운 폭풍으로 변했다. 슬프게도, 우리 배는 이 폭풍에 상대가 되지 않았다. 돼지들은 용감하게 싸웠지만, 돼지들과 배들은 모두 다음날 아침까지 바다에 의해 사라졌다. 우리가 그 탐험대를 다 잃었나 봐.
 
 #ev_xplr_rwave
-Rogue wave!
+말썽꾸러기 파도!
 
 #ev_xplr_rwave_1
-The sea is dangerous and treacherous. It was a sunny day, the sea appeared to be calm and the breeze was nice. The porcos were relaxed, though eager to be back on land. But suddenly, one pig squeeled, pointing at horizon on starboard. Everyone looked in terror at what looked like an improbable wall of water coming in the direction of the ship. Before anyone could do anything, the tiny ship was hit and capsized. 
+바다는 위험하고 위험하다. 화창한 날이었고, 바다는 잔잔한 듯 보였고, 산들바람은 돼지들은 육지로 돌아오기를 간절히 원했지만 느긋했다. 그런데 갑자기 돼지 한 마리가 우현 위의 수평선을 가리키며  꿀꿀거렸다. 모든 사람들은 배의 방향으로 다가오는 있을 것 같지 않은 벽처럼 보이는 것을 보고 공포에 떨었다. 누가 무엇을 할 수 있기도 전에, 그 작은 배는 부딪혀 전복되었다.
 
 #ev_xplr_rwave_2
-There was nothing they could have done against such a treacherous and unpredictible event: they did not stand a chance. Ship and pigs were dragged to tbe bottom of the sea, never to be seen again.
+그들은 그처럼 위험하고 예측할 수 없는 사건에 대해 아무것도 할 수 없었다. 그들은 기회를 잡지 못했다. 배와 돼지는 다시는 볼 수 없게 바다 밑바닥으로 끌려갔다.
 
 #ev_xplr_menlstsea
-'[x]' was hit by a storm.
+'[x]'가 폭풍우를 만났다.
 
 #ev_xplr_menlstsea_1
-The sky had been threatening all evening: a wall of dark clouds coming from the horizon towards them. The captain tried to escape it, but unsucessfuly. It was too big, it moved too fast, and the ship was too tiny. They had to face it, and by nightfall, it had engulfed them.
+하늘은 저녁 내내 으르렁거렸다. 수평선에서 검은 구름이 그들을 향해 날아오고 있었다. 선장은 그것을 피하려고 했지만, 성공하지 못했다. 그것은 너무 크고, 너무 빨리 움직였고, 배는 너무 작았다. 그들은 그것을 마주해야 했고, 해질 무렵에는 그것이 그들을 삼켜 버렸다.
 
 #ev_xplr_menlstsea_2
-It was a terrible night all the porcos will forever remember. Waves almost capsized the freil ship multiple times, but fortunately and against all odds, their loyal embarcation hanged on. Not everyone was there in the morning, and many porcos lost brothers that night. They will never mention it again, but all will remember forever the desperate calls for help of those who fell in the sea during the storm while they watched, helpless, as they drifted inexorably away from the ship.
+모든 돼지들이 영원히 기억할 끔찍한 밤이었다. 파도는 거의 여러 번 그 화물선을 전복시켰지만 다행히도 그들의 충성스러운 경계선이 걸려 있었다. 아침에는 모두가 거기에 있지 않았고, 그날 밤 많은 돼지들이 형제를 잃었다. 두 번 다시 언급하지는 않겠지만, 모두가 폭풍우 속에서 배를 타고 불우하게 떠내려가 무력하게 지켜보던 중 바다에 떨어진 사람들의 필사적인 구호를 영원히 기억할 것이다.
 
 #ev_xplr_invlstsea
-'[x]' lost supplies to the sea.
+'[x]'는 바다에 보급품을 잃어버렸다.
 
 #ev_xplr_invlstsea_1
-One unskilled sailor didnt properly attach a crate of supplies the ship was carrying and during a turbulent night with strong winds, the crate fell into the sea and we lost its contents!
+한 미숙한 선원이 배가 나르던 물자 상자를 제대로 부착하지 않았고 강풍으로 휘몰아치는 격동의 밤 중에 상자 하나가 바다로 떨어져 내용물을 잃어버렸답니다!
 
 #ev_xplr_sngseal
-Dangerous sea
+위험한 바다
 
 #ev_xplr_sngseal_1
-The sea is no place for lone navigators. It is unforgiving and unmercyful: our few travellers disapeared and were never heard of again.
+바다는 혼자 항해할 수 있는 곳이 아니다. 그것은 무자비하며 자애롭지않다. 우리의 몇 안 되는 여행자들은 사라졌고 다시는 소식을 듣지 못했다.
 
 #ev_xplr_sngseal_2
-Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, if we want to stand a chance!
+그들에게 무슨 일이 일어났는지 누가 알겠는가... 기회를 잡으려면 다음 번엔 더 큰 탐험대를 보내는 것을 고려해 봐야 할 것 같아!
 
 #ev_xplr_wiseold
-The Wise Oldpig
+현명한 늙은 돼지
 
 #ev_xplr_wiseold_1
-As our expedition '[x]' was heading to a new unexplored territory, a group of porcos in rags crossed our path. Despite their modest appearance, they all seemed well-educated, filled with assurance and determination. Their leader, a venerable oldpig wearing a shaggy beard falling to his knees, presented himself as a philosopher. He had been roaming the world for many years, professing his thought to anyone willing to listen.
+우리의 탐험 '[x]'가 새로운 미개척 지역으로 향할 때, 누더기를 입은 한 무리의 돼지 떼가 우리의 길을 건넜다. 수수한 외모에도 불구하고, 그들은 모두 잘 교육받은 것 같았고, 자신감과 결단력으로 가득 차 있었다. 그들의 지도자인 그는 무릎까지 내려온 텁수룩한 턱수염을 기른 존경할 만한 늙은이로서 자신을 철학자로 내세웠다. 그는 듣고자 하는 모든 사람에게 자신의 생각을 털어놓으며 여러 해 동안 세상을 떠돌아다녔다.
 
 #ev_xplr_wiseold_2
-We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldn�t be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
+우리는 잠시 그들과 함께 앉기로 결정했고 현명한 늙은 돼지는 그의 교리를 내세우기 시작했다: 그는 행복은 부, 권력, 명성 또는 육체의 즐거움과 같은 전통적인 욕구를 충족시켜서는 도달할 수 없다고 주장했다. 그의 사상에 따르면, 오직 모든 소유로부터 자유로운 단순한 삶만이 우리의 영혼을 진정으로 충족시킬 수 있었다.
 
 #ev_xplr_wiseold_3
-He pleaded for hours, captivating the whole audience. His words were subtle and his reasoning logical. He was even so persuasive that many of us decided to give up all their possessions to follow him.
+그는 몇 시간 동안 청중을 사로잡으며 애원했다. 그의 말은 미묘하고 논리적인 것이었다. 그는 심지어 너무 설득력이 있어서 많은 사람들이 그를 따라가기 위해 그들의 모든 재산을 포기하기로 결정했다.
 
 #ev_xplr_cptsow
-Captive sows
+억류된 암퇘지들
 
 #ev_xplr_cptsow_1
-A scout of the expedition '[x]' just reported the presence of a band of warriors in the area. Judging by the appearance of their camp, their presence in the territory is just temporary. 
+원정대 '[x]'의 한 정찰병이 그 지역에 전사들이 한 무리의 출몰했다고 방금 보고했다. 그들의 캠프의 등장으로 미루어 볼 때, 그 지역에 그들의 주둔은 일시적일 뿐이다.
 
 #ev_xplr_cptsow_2
-In the center of their bivouac, the scout has spotted a large wooden cage filled with captive sows. We do not know the intentions of these warriors, nor the circumstances in which these sows were caught, but their fate seem quite unpleasant. 
+그 정찰병은 그들의 야영지 중심에서 포획된 암퇘지들로 가득 찬 큰 나무 새장을 발견했다. 우리는 이들 전사의 의도와 이 암퇘지들이 잡힌 정황은 알 수 없지만 그들의 운명은 상당히 불쾌해 보인다.
 
 #ev_xplr_cptsow_c1
-Fight the captors to free the sows.
+포획자들과 싸워 아녀자들을 풀어 주어라.
 
 #ev_xplr_cptsow_c2
-Do not get involved.
+관여하지 마라.
 
 #ev_xplr_slprats
-Damn rats!
+빌어먹을 쥐들!
 
 #ev_xplr_slprats_1
-Our expedition, '[x]' was forced to take shelter in the first rocky cavity we could find as a thunderstorm suddenly broke out. Rain-soaked to the skin, we all clustered together and tried to rest despite the deafening noise of the tempest.
+우리의 탐험대 '[x]'는 갑자기 뇌우가 터지면서 우리가 발견할 수 있었던 최초의 암석 공동으로 피신해야만 했다. 비에 흠뻑 젖은 우리는 폭풍우의 귀청이 터질 것 같은 소음에도 불구하고 모두 함께 모여 쉬려고 애썼다.
 
 #ev_xplr_slprats_2
-In the morning, the rain finally stopped and calm returned. Half asleep, we heard squeaks coming from our food containers. We soon realized we were surrounded by rats. The malicious rodents had taken advantage of the noise to feast on our provisions all night. 
+아침에는 마침내 비가 그치고 고요함이 돌아왔다. 반쯤 잠이 들자, 우리는 음식 용기에서 삐걱거리는 소리를 들었다. 우리는 곧 우리가 쥐에 둘러싸여 있다는 것을 깨달았다. 못된 설치류들은 밤새 우리의 식량을 먹으려고 그 소음을 이용했다.
 
 #ev_xplr_jnglsnek
-Jungle snake
+정글뱀
 
 #ev_xplr_jnglsnek_1
-While '[x]' were making their way into the dense rainforest, one of our explorers was bitten by a jet-black snake. The creeping reptile then immediately vanished behind a bush. After a few hours, the injured porcos complained of feeling dizzy and having a blurred vision. He finally died in the night, unable to breathe. 
+'[x]'가 빽빽한 열대우림에 진입하는 동안, 우리 탐험가 중 한 명이 제트블랙 뱀에게 물렸다. 그리고 나서 그 삐걱거리는 파충류는 즉시 덤불 뒤로 사라졌다. 몇 시간 후, 다친 돼지들은 현기증이 나고 시력이 흐려진다고 불평했다. 그는 마침내 숨을 쉬지 못하고 밤에 죽었다.
 
 #ev_xplr_lckyfsh
-Lucky fishing
+행운의 낚시
 
 #ev_xplr_lckyfsh_1
-Our explorers of '[x]' were camping on the banks of a river for the night. It was a sunny late afternoon, and the water was crystal clear. That's when one porco spotted them: giant fat fishes swimming in the shallow waters! They were so slow the group could pick them up effortlessly.
+우리의 '[x] 탐험가들은 밤을 위해 강둑에서 야영을 하고 있었다. 오후 늦게 해가 쨍쨍하고, 물이 맑았다. 그 때 한 마리의 돼지가 그들을 발견했는데, 그것은 바로 얕은 물에서 헤엄치는 거대한 기름진 물고기들이다! 그들은 너무 느려서 무리하지 않고 그들을 태울 수 있었다.
 
 #ev_xplr_lckyfsh_2
-The group fed well that night. They also gutted and smoked a lot more fish to take with them on their journey.
+그 그룹은 그날 밤 음식을 잘 먹었다. 그들은 또한 여행 중에 가지고 갈 수 있는 더 많은 물고기들을 내장에 넣고 피웠다.
 
 #ev_xplr_natrprov
-Nature provides
+자연이 풍성함
 
 #ev_xplr_natrprov_1
-'[x]', while travelling across the land, stumbled upon a small patch of fertile land covered with lustrous plants filled with vegetables and fruits ready for the picking.
+'[x]'는 전국을 여행하던 중 채소와 과일을 따기 위해 준비된 윤기가 흐르는 식물로 뒤덮인 비옥한 땅의 작은 부분을 우연히 발견했다.
 
 #ev_xplr_natrprov_2
-Sometimes, the nature is generous and provides. The porcos stopped for a few hours and feasted with this unxpected gift and took the rest with them.
+때로는 자연이 너그럽고 베풀 때도 있다. 돼지들은 몇 시간 동안 멈춰 서서 이 예상치 못한 선물을 먹고 나머지는 그들과 함께 먹었다.
 
 #ev_xplr_elegsow
-The elegant sow
+우아한 아녀자
 
 #ev_xplr_elegsow_1
-During their journey through an unexplored territory, the expedition of '[x]' met a procession led by an elegant sow, comfortably seated on a palanquin. The two groups decided to travel together temporarily in order to benefit from mutual protection. 
+탐사되지 않은 영토를 여행하는 동안, '[x] 탐험대는 팔란퀸에 편안하게 앉아 우아한 아녀자가 이끄는 행렬을 만났다. 두 그룹은 상호 보호의 혜택을 받기 위해 일시적으로 함께 여행하기로 결정했다.
 
 #ev_xplr_elegsow_2
-The porcos in the cortege barely spoke a word. Unlike the other members of her group, the matriarch was very dynamic and talkative. She said she was versed in the arts of botany and could prepare all kinds of miraculous remedies and ointments. When the time came for dinner, she served some of her specialties.  In order to wash it down, she also offered holy drinks concocted by her. Upon finishing the strange mixture, the explorers felt better than they had ever felt before. They thought the drink was blessed and that the mighty sow was of divine nature for being able to conceive such a substance. The following month, they were offered the holy mixture whenever they asked for it. They soon became addicted to the delicious drug of the Hag. They became her puppets, drained of all their wills, just like all the other unfortunate fellows in the procession.
+코트의 돼지들은 겨우 한 마디를 말했다. 다른 그룹 멤버들과는 달리, 마트리치는 매우 역동적이고 수다스러웠다. 그녀는 식물학의 예술에 정통하고 모든 종류의 기적적인 치료와 연고를 준비할 수 있다고 말했다. 저녁 식사 때가 되자, 그녀는 그녀의 특산품 몇 가지를 대접했다. 그것을 씻기 위해, 그녀는 또한 그녀가 만든 성스러운 음료를 제공했다. 그 이상한 혼합물을 끝내자, 탐험가들은 이전에 느꼈던 것보다 더 기분이 좋아졌다. 그들은 그 음료가 축복받았다고 생각했고, 그 강력한 암퇘지는 그런 물질을 상상할 수 있었기 때문에 신성하다고 생각했다. 다음 달, 그들은 그것을 요구할 때마다 성스러운 혼합물을 제공받았다. 그들은 곧 악녀의 맛있는 약에 중독되었다. 그들은 행렬의 다른 불행한 사람들과 마찬가지로, 그들의 모든 의지에 물들어 그녀의 꼭두각시가 되었다.
 
 #ev_xplr_elegsow_3
-A few of them couldn�t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
+그들 중 몇 명은 더 이상 참지 못하고 밤중에 도망치기로 결심했다. 그 다음 날, 그들은 마약 부족에 허덕이며 목적 없이 방황했다. 길고 힘든 목욕을 한 후에 그들은 마침내 회복되었다. 옛 원정대의 돼지 몇 마리만 남아 있다. 다른 모든 사람들은 극도로 중독성이 강한 그 악녀의 혼합물에 현혹되었다.
 
 #ev_xplr_mahout
-The mahouts
+코끼리를 부리는 사람
 
 #ev_xplr_mahout_1
-During their peregrinations in unexplored lands, the porcos of  '[x]' halted in a small hamlet of peaceful mahouts. The locals owned a couple of healthy elephants. Taming these big creatures is a long and laborious process, and sometimes their wild instincts take control again. 
+미개척지에서 송골매질을 하는 동안 '[x]'의 돼지들은 평화로운 마호아웃의 작은 통에서 멈추었다. 그 지역 주민들은 건강한 코끼리 두 마리를 소유하고 있었다. 이 큰 생물들을 길들이는 것은 길고 힘든 과정이며, 때때로 그들의 거친 본능이 다시 지배한다.
 
 #ev_xplr_mahout_2
-As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the two furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted: �The father of elephants!�
+우리의 탐험가들이 막 떠나려 할 때, 그 거대한 파치알람들은 갑자기 미쳐버렸다. 그들은 울타리를 부수고, 햄릿에 난동을 부리며, 오두막을 갈고, 모든 것을 뒤집어 놓았다. 상황이 절박해지자, 우리의 돼지 한 마리가 격분한 두 마리의 코끼리에게 조심스럽게 다가갔다. 온갖 역경을 딛고 격분한 동물들은 즉시 잠잠해졌다. 그들은 엎드린 채, 보철의 징조로 코를 고슴도치 쪽으로 올렸다. 지역 주민들은 놀라서 우리의 돼지들이 신성한 존재라고 생각했다. 그들은 모두 그의 방향으로 무릎을 꿇고 소리쳤다. "코끼리의 아버지!"
 
 #ev_xplr_mahout_3
-After that, the mahouts seemed to worship our porcos and wished to join us with their herd.
+그 후, 코끼리를 부리는 사람들은 우리의 돼지들을 숭배하는 것처럼 보였고, 그들의 무리들과 함께 우리와 함께 하기를 원했다.
 
 #ev_xplr_mahout_c1
-Enroll them.
+그들을 받아 들여라.
 
 #ev_xplr_mahout_c2
-Refuse and leave.
+거절하고 떠나자
 
 #ev_xplr_luckstrk
-Lucky strike
+럭키 스트라이크
 
 #ev_xplr_luckstrk_1
-Our explorers '[x]' were ascending the steep slopes of a newly discovered territory when they started to feel the ground moving under their feet.  The piece of land on which the group was standing sharply broke away, causing a massive landslide. 
+우리의 탐험가 '[x]'는 발아래 땅이 움직이는 것을 느끼기 시작할 때 새로 발견된 영토의 가파른 경사면을 오르고 있었다. 그 일행이 서 있던 토지가 급격히 파괴되어 거대한 산사태를 일으켰다.
 
 #ev_xplr_luckstrk_2
-Many of our porcos were injured, but luckily all of them survived. As they got back on their feet, they noticed a shiny protuberance from afar.  As they approached it, they discovered an enormous deposit of ore, which had been laid bare by the landslide. 
+우리 집 돼지들 중 많은 수가 다쳤지만 다행히 모두 살아남았다. 그들이 다시 일어서자, 그들은 멀리서 빛나는 광석을 발견했다. 그들이 다가오자, 산사태에 의해 발가벗겨져 있던 광석의 엄청난 매장량을 발견했다.
 
 #ev_xplr_ruinorph
-The orphan survivors
+고아 생존자들
 
 #ev_xplr_ruinorph_1
-Our explorers '[x]' had spotted a large cloud of smoke on the horizon, rising and covering the sky of its dark coat. Our porcos cautiously approached the location from which the fire originated and discovered smoldering ruins, filled with the stench of death: lifeless bodies littered the ground all around, stripped of all valuables. Even the cattle had not been spared. 
+우리의 탐험가 '[x]'는 지평선에서 검은 외투의 하늘을 떠다니며 커다란 연기 구름을 발견했다. 우리의 돼지들은 화재의 발원지와 냄새나는 폐허를 발견했는데, 죽음의 악취로 가득 차 있었다. 생명이 없는 시체들이 모든 귀중품을 빼앗아 온 땅에 흩어져 있었다. 소도 살리지 않았었다.
 
 #ev_xplr_ruinorph_2
-Night was falling and the members of the expedition did not intend to spend more time in the middle of this macabre scene. As they were about to leave, their attention was caught by hundreds of small green lights taking off from a nearby bush: fireflies. Something had disrupted all these insects.
+밤이 깊어지자 원정대원들은 이 광란의 장면 속에서 더 많은 시간을 보낼 생각이 없었다. 그들이 막 떠나려 할 때, 그들의 주의는 근처 덤불에서 이륙하는 수백 개의 작은 녹색 불빛에 의해 포착되었다. 바로 반딧불이 그것이다. 뭔가가 이 모든 곤충들을 혼란스럽게 했다.
 
 #ev_xplr_ruinorph_3
-By searching more closely, our porcos found dozens of children hidden in the vegetation. They all looked very weak and desperate. They undoubtedly belonged to the village in ruins and their chances of survival seem very small if no help is given.
+좀 더 자세히 조사함으로써, 우리의 돼지들은 초목에 숨어있는 수십 명의 아이들을 발견했다. 그들은 모두 매우 약하고 필사적으로 보였다. 그들은 의심할 여지 없이 폐허가 된 마을에 속했고 만약 도움을 주지 않는다면 그들의 생존 가능성은 매우 희박해 보인다.
 
 #ev_xplr_ruinorph_c1
-Adopt the orphaned piglets.
+고아가 된 새끼 돼지를 입양하라.
 
 #ev_xplr_ruinorph_c2
-Leave.
+떠난다.
 
 #ev_xplr_sick
-Sick explorers
+병든 탐험가
 
 #ev_xplr_sick_1
-Many porcos in the expedition '[x]' have contracted a fever. The disease doesnt seem to heal and even got worse day after day. The sick porcos are struck by hallucinations and delusions. They sweat profusely and can no longer walk with the rest of the expedition party. 
+탐험대 '[x]'에 있는 많은 돼지들이 열병에 걸렸다. 병이 좀처럼 낫지 않고 나날이 악화되는 것 같다. 그 병든 돼지들은 환각과 망상에 사로잡힌다. 그들은 땀을 줄줄 흘리며 나머지 원정대와 함께 더 이상 걸을 수 없다.
 
 #ev_xplr_sick_2
-The valid members of our expedition have to make a choice: either set camp for a while in the vicinity to feed the sick and hope that they'll recover, or leave without them.
+우리 탐험대의 유효한 멤버들은 선택을 해야 한다: 아픈 사람들을 먹이기 위해 근처에 잠시 캠프를 차리고 그들이 회복되기를 바라거나 아니면 그들 없이 떠나는 것이다.
 
 #ev_xplr_sick_c1
-Stop and feed the sick until their condition improves. 
+병든 사람의 상태가 호전될 때까지 멈춰서 밥을 먹여라.
 
 #ev_xplr_sick_c2
-"These unfortunate Porcos are a burden. Let's keep moving!"
+"이런 불행한 돼지들은 부담거리야. 계속 움직이자!"
 
 #ev_xplr_shpwrk
-Shipwreck
+난파
 
 #ev_xplr_shpwrk_1
-The porcos '[x]' were exploring the coast of unknowned lands when they found various pieces of a recent ship wreck brought back on the shore by the tide. A little further away, they found the bodies of its unfortunate sailors lying down on the beach. 
+돼지 '[x]'는 최근 해안에 있는 여러 배의 잔해들을 발견했을 때 알려지지 않은 육지의 해안을 탐사하고 있었다. 조금만 더 가면, 그들은 해변에 누워 있는 불행한 선원들의 시신을 발견했다.
 
 #ev_xplr_shpwrk_2
-Most of them had drowned but some porcos could still breathe: with some food and rest, the survivors could be put back on their feet.
+그들 중 대부분은 익사했지만 몇몇 돼지들은 여전히 숨을 쉴 수 있었다. 약간의 음식과 휴식이 있으면, 생존자들은 다시 일어설 수 있었다.
 
 #ev_xplr_shpwrk_c1
-Feed the shipwrecked porcos and enroll them in the group.
+난파된 돼지에게 먹이를 주고 그룹에 받아드린다.
 
 #ev_xplr_shpwrk_c2
-Pillage the shipwreck and its survivors.
+난파선과 그 생존자들을 약탈하라.
 
 #ev_xplr_drnkfl
-The drunken fool
+취한 얼간이
 
 #ev_xplr_drnkfl_1
-Our expedition '[x]' encountered a small nomadic tribe. The members of this tribe were very kind and welcoming. Never had our explorers met such friendly fellows. 
+우리 탐험대의 '[x]'는 작은 유목민족과 마주쳤다 이 부족의 구성원들은 매우 친절하고 환영받았다. 우리의 탐험가들은 그렇게 친근한 친구들을 만난 적이 없다.
 
 #ev_xplr_drnkfl_2
-After a few pleasant days in their company, our porcos finally had to leave, and a ceremony was held in their honor the day before their departure. For the occasion, the nomads brought out a majestic statue of their idol: A squatting porco with two heads: one of wood and the other of gold.
+그들 회사에서 며칠 동안 즐거운 시간을 보낸 후, 우리 집 돼지들은 마침내 떠나야만 했고, 그들의 출발 전날을 기리는 의식이 거행되었다. 그 때에 유목민들은 그들의 우상인 목조 하나와 금으로 된 두 개의 머리를 가진 웅장한 도자기를 꺼냈다.
 
 #ev_xplr_drnkfl_3
-During the festivities, one of our porcos, emboldened by alcohol, beheaded the golden head of the statue. This sparked great outrage from the tribe and the thief was immediately attached and condemned to death for this great sacrilege.
+축제 기간 동안, 술로 대담해진 우리의 돼지 중 한 마리가 그 동상의 황금 머리를 참수했다. 이것은 부족으로부터 큰 분노를 일으켰고 그 도둑은 이 엄청난 신성모독으로 인해 즉시 사형선고를 받았다.
 
 #ev_xplr_drnkfl_c1
-Let the nomads execute your porco and leave.
+유목민들이 너의 돼지를 처형하고 떠나도록 해라.
 
 #ev_xplr_drnkfl_c2
-Fight the nomads and free your drunken fool.
+유목민들과 싸우고 술에 취한 네 바보를 풀어 주어라.
 
 #ev_xplr_mourn
-The mourning tribe
+상족
 
 #ev_xplr_mourn_1
-Our explorers of '[x]' were exploring new lands when they encountered a dozen of mourning porcos, burying a sow and a piglet. After a poignant funeral, they told our porcos that they formerly belonged to a much larger group that had been slowly decimated by multiple bandit attacks and epidemics. They were running out of supplies now and had lost all hope of salvation.
+우리의 '[x] 탐험가들은 새 땅을 탐험하고 있었는데, 그들은 암퇘지와 새끼 돼지를 매장하고 있는 수십 마리의 상갓집과 마주쳤다. 가슴 아픈 장례식이 끝난 후, 그들은 우리 돼지들에게 그들이 이전에는 여러 개의 도적 공격과 전염병으로 서서히 죽임을 당했던 훨씬 더 큰 그룹에 속했다고 말했다. 그들은 지금 물자가 부족해서 구원의 희망을 모두 잃었었다.
 
 #ev_xplr_mourn_c1
-Offer them to join your expedition.
+그들을 당신의 탐험대에 합류하라고 제안하라.
 
 #ev_xplr_mourn_c2
-Attack them and take their remaining supplies.
+그들을 공격하고 남은 물자를 가져가라.
 
 #ev_xplr_amazn
-Amazons!
+아마존들!
 
 #ev_xplr_amazn_1
-While exploring a dense tropical forest, our porcos '[x]' heard an enchanting melody. As they approached the location from which the music came from, they discovered a magnificent sow sitting at the edge of a pond, languorously sliding her fingers between the strings of a wooden harp. The explorers were captivated by so much beauty and lowered their guards.
+울창한 열대 우림을 탐험하던 중 우리 돼지탐험대 '[x]'는 매혹적인 멜로디를 들었다. 음악이 나오는 곳으로 다가갈 때, 그들은 연못 가장자리에 앉아 있는 웅장한 암퇘지지를 발견했고, 나무 하프의 줄 사이로 손가락을 나른하게 움직였다. 탐험가들은 그 많은 아름다움에 사로잡혀 경계를 낮췄다.
 
 #ev_xplr_amazn_2
-After finishing her song, the sow delicately stood up, grabbed a short bow and shot an arrow in the direction of the explorers, accompanied by other warrior maidens who had sprung everywhere around them. 
+노래를 마친 후 암퇘지는 섬세하게 일어서 짧은 활을 움켜쥐고 탐험가 쪽으로 화살을 쏘며 주위의 모든 곳에서 싹트게 된 다른 전사 여종들과 동행했다.
 
 #ev_xplr_amazn_c1
-�I thought the Amazons were a legend� Defend yourselves!�
+"아마존은 전설인 줄 알았는데... 방어태세를 갖춰라!"
 
 #ev_xplr_egg
-The curious hog
+호기심 많은 돼지
 
 #ev_xplr_egg_1
-Our explorers of '[x]' stumbled upon an abandonned nest containing a few large eggs: enough to make a juicy omelet. One curious hog decided to keep his egg , depriving himself of  the tasty meal. During days he carried it around, and he slept next to it at nights. This went on for dozens of days, attracting him mockery from his companions. 
+우리의 '[x]' 탐험가들은 몇 개의 큰 알이 들어있는 버려진 둥지를 우연히 발견했는데, 그것은 즙이 많은 오믈렛을 만들기에 충분했다. 한 호기심 많은 돼지는 맛있는 음식을 먹지 않고 자신의 계란을 유지하기로 결심했다. 며칠 동안 그는 그것을 들고 다녔고, 밤에는 그 옆에서 잤다. 이 일은 수십 일 동안 계속되어, 그의 동료들로부터 조롱거리가 되었다.
 
 #ev_xplr_egg_2
-One morning, under the curious hog's scrutiny, the egg hatched and from it emerged a tiny fluffy ostrich. Since then, its been following its benefactor everywhere he goes and the rest of the group even came to consider the bird as their troop's mascott.
+어느 날 아침, 호기심 많은 돼지의 조사 아래, 알이 부화하여 작은 솜털 타조가 나타났다. 그 이후로, 그것은 그가 가는 곳마다 그것의 후원자를 따라다녔고, 나머지 멤버들은 심지어 그 새를 그들 부대의 마스코트로 간주하기 위해 왔다.
 
 #ev_xplr_orphel
-The orphaned pachyderm
+고아가 된 후피 동물
 
 #ev_xplr_orphel_1
-Our explorers of '[x]' had been marching for hours under the sun of arid lands when they heard weird calling noises that seemed desperate. They walked to a deep muddy hole at the bottom of which was stuck a young pachyderm calf and her mother. While the little elephant was alive, the other was no longer. 
+우리의 '[x]' 탐험가들은 필사적으로 들리는 이상한 울음소리를 들었을 때 건조한 땅의 햇살 아래 몇 시간 동안 행진해 왔다. 그들은 어린 코끼리새끼와 그녀의 어미가 박혀있는 깊은 진흙 구덩이로 걸어갔다. 작은 코끼리가 살아 있는 동안, 다른 코끼리는 더 이상 살아있지 않았다.
 
 #ev_xplr_orphel_2
-By cutting branches from dead trees nearby, the group worked tiredlessly for a few hours to dig and help the calf out of the hole. As soon as it got out, the scared animal first ran away. But grateful and having nowhere else to go, the little pachyderm apparently took a liking of the group and started folowing them ever since. First at at a respectful distance, and everyday closer until it ended up marching right in the middle of their group and sleeping next to their camp at nights.
+인근 죽은 나무에서 나뭇가지를 꺾어놓음으로써 이들은 몇 시간 동안 지치지 않고 굴에서 코끼리를 파내고 도와야 했다. 나오자마자 겁에 질린 동물은 먼저 도망쳤다. 그러나 감사하게도 그리고 갈 곳이 없는 이 작은 코끼리새끼는 분명히 그 그룹을 좋아했고 그 이후로 그들을 따라오기 시작했다. 처음에는 공손한 거리에서, 그리고 그것이 결국 그들 그룹의 한가운데에서 행군하고 밤에는 그들의 캠프 옆에서 잠을 잘 때까지 매일 더 가까이 간다.
 
 #ev_xplr_orphel_c1
-Keep the calf as a pet elephant
+새끼를 애완 코끼리로 키운다
 
 #ev_xplr_orphel_c2
-"Looks like fresh meat's back on the menu boys!"
+"메뉴에 고기가 다시 올라온거같구먼 애들아!"
 
 #ev_xplr_tribrem
-Tribe's remains
+부족의 유골
 
 #ev_xplr_tribrem_1
-Our explorers of '[x]' stumbled upon the remains of an unfortunate small group of nomads. By the looks of it, they had died a long time ago in circumstances the group couldn't figure out. All their belongings appeared to be still intact next to them.
+우리의 '[x]' 탐험가들은 불행한 작은 유목민의 유해를 우연히 발견했다. 보아하니, 그들은 그 단체가 알아낼 수 없는 상황에서 오래 전에 죽었다. 그들의 모든 소지품들은 그들 옆에 그대로 있는 것처럼 보였다.
 
 #ev_xplr_tribrem_c1
-Scavenge their remains to recover what we can.
+우리가 할 수 있는 것을 되찾기 위해 그들의 유해를 샅샅이 뒤진다.
 
 #ev_xplr_tribrem_c2
-Give them a proper burrial.
+그들에게 적절한 장례식을 해주어라.
 
 #ev_xplr_wolfcubs
-Abandonned cubs
+버려진 새끼들
 
 #ev_xplr_wolfcubs_1
-Our explorers of '[x]' where caught by a violent storm and took refuge in a small cavern under a nearby cliff to wait it out. While they were busy setting camp in it, they heard strange calling noises. 
+우리의 탐험가들은 격렬한 폭풍에 휘말려 인근 절벽 아래의 작은 동굴로 피신하여 그것을 기다렸다. 그들은 그곳에서 캠프를 차리느라 바쁜 와중에 이상한 울음소리를 들었다.
 
 #ev_xplr_wolfcubs_2
-Grabbing a torch, one Porco went in the back to investigate and discovered 3 distressed wolf cubs. They looked dirty and hungry, visibly abandonned for quite a while : this was no regular wolf den and there was no sign of any wolves nearby. Noone knew how these 3 cubs ended up here, but the group decided to adopt them. The young wolves quickly got back in shape and it wasnt long until they became loyal companions apreciated by the whole group. Well, all except for the old Clawhog whose entire family was tragically devoured by wolves when he was just a piglet. 
+한 돼지가 횃불을 움켜쥐고 뒷좌석에 들어가 조사한 결과 3마리의 고통받는 늑대 새끼가 발견되었다. 그들은 더럽고 배고파 보였고, 눈에 띄게 한동안 버려져 있었다. 이것은 일반적인 늑대 소굴이 아니었고, 근처에 늑대들의 흔적은 없었다. 아무도 이 세 마리의 새끼들이 어떻게 여기에 오게 되었는지 몰랐지만, 그 그룹은 그들을 입양하기로 결정했다. 어린 늑대들은 재빨리 건강을 회복했고, 얼마 지나지 않아 그들은 온 무리에게 인정받지 못하는 충실한 친구가 되었다. 음, 그가 단지 새끼 돼지였을 때 모든 가족이 늑대들에게 비극적으로 굶주린 늙은 클로호그만 빼고 말이다.
 
 #ev_xplr_wolves
-Beasts in the forest
+숲 속의 야수
 
 #ev_xplr_wolves_1
-Our explorers of '[x]' where travelling through a dense forest when at dusk, they started to feel uneasy and watched. They kept progressing in silence, nervous, while dark silhouettes seemed to follow and encircle them. 
+해질녘에 울창한 숲을 여행하는 '[x]' 탐험가들은 불안감을 느끼기 시작했고 지켜보았다. 어두운 실루엣이 따라붙어 그들을 에워싸는 듯 하면서도, 그들은 침묵 속에서 계속 전진했다.
 
 #ev_xplr_wolves_2
-Suddently, a terrifying growl came from the front, stopping the group. "Wolves i tell ya!", said the old Clawhop who didn't like these beasts -to say the least- as everyone on the group knew. "Get yerr weapons ready, pigs!", he added as several growls echoed around them. From all sides they emerged, ugly bacon-eating canines.
+전선에서 무시무시한 으르렁거리는 소리가 들려와 일행을 저지했다. "내가 말해줄게!"라고 그 그룹의 모든 사람들이 알고 있는 것처럼 이 짐승들을 좋아하지 않는 늙은 클로스홉이 말했다. "돼지들아, 무기를 준비해라!"라고 그가 덧붙여 몇 마리의 으르렁거리는 소리가 그들 주변에서 울부짖었다. 사방에서 보기 흉한 베이컨을 먹는 개들이 나타났다.
 
 #ev_xplr_bears
-Bears!
+곰!
 
 #ev_xplr_bears_1
-Our explorers of '[x]' had setup camp in unknown lands for the night when, at dawn, they woke up to unusual rumpus. Horrified, they saw a group of 3 huge bears scavenging through their inventory and supplies lying next to the camp.
+우리의 '[x] 탐험가들은 새벽녘에 밤을 위해 미지의 땅에 설치 캠프를 차렸다. 새볔녁에 사람들이 겁에 질려 일어났을 떄, 그들은 세 마리의 거대한 곰 무리가 캠프 옆에 있는 그들의 재고와 공급품들을 뒤지고 있는 것을 보았다.
 
 #ev_xplr_bears_2
-One of the porcos sleeping close to where the bears were, startled by this realization, made a move which had the unfortunate consequence of calling the attention of one of the beasts. The animal, angry and hungry, ran up to the poor bastard and decided it was time for a bacon breakfast.
+곰들이 있는 곳 근처에서 잠을 자고 있는 돼지 중 한 마리가 이 깨달음에 놀란 나머지, 그 짐승들 중 한 마리의 주의를 환기시키는 불행한 결과를 가져온 행동을 했다. 화가 나고 배고픈 그 동물은 그 불쌍한 사생아에게 달려가 베이컨 아침식사를 할 시간이라고 결심했다.
 
 #ev_xplr_bears_c1
-Everyone pretends to sleep. Poor ol' Jenkins...
+모두들 자는 척한다. 불쌍한  젠킨스...
 
 #ev_xplr_bears_c2
-"Die you ugly fat beasts!"
+"이 못생긴 뚱뚱한 짐승들아 죽어라!"
 
 #ev_xplr_civlost
-Defenseless explorers lost!
+실종된 무방비상태의 탐험가들!
 
 #ev_xplr_civlost_1
-Sending defenseless civilians to explore unknown foreign lands is a risky and dangerous decision. Our explorers '[x]' disapeared and were never heard of again: who knows what ill fate was bestowed upon them...
+무방비 상태의 민간인을 파견하여 알려지지 않은 외국 땅을 탐사하는 것은 위험하고 위험한 결정이다. 우리의 탐험가 '[x]'는 멸시를 당했고 다시는 듣지 못했다. 그들에게 어떤 불운한 운명이 주어졌는지 누가 알겠는가...
 
 #ev_xplr_blizzard
-Viscious blizzard
+포악한 눈보라
 
 #ev_xplr_blizzard_1
-A viscious blizzard immobolized our expedition of '[x]' for many days. Many of them did not make it while the survivors consummed all the remaining food supplies. There is nothing to eat in these bleak lands!
+눈에 띄는 눈보라가 우리의 '[x]' 탐험을 여러 날 동안 방해했다. 생존자들이 남은 식자재를 모두 소진하는 동안 그들 중 많은 수가 성공하지 못했다. 이 황량한 땅에는 먹을 것이 없다!
 
 #ev_xplr_icehole
-Bloody ice-hole!
+빌어먹을 얼음구멍!
 
 #ev_xplr_icehole_1
-These lands are treacherous. While progressing on a difficult terrain, a few porcos of our expendition '[x]' fell to their death as ice broke under them, revealing a deep sink hole.
+이 땅들은 위태롭다. 어려운 지형을 나아가는 동안, 우리의 소모품 '[x]'의 몇 마리의 돼지들은 얼음이 깨지면서 죽었고, 깊은 싱크홀이 드러났다.
 
 #ev_xplr_avlch
-Avalanche!
+산사태!
 
 #ev_xplr_avlch_1
-As our group was travelling in a difficult terrain, a sudden avalanche took half of our people and supplies! What are we even doing there?!
+우리 그룹이 어려운 지형을 여행하고 있을 때, 갑자기 눈사태가 일어나 우리 인원과 물자의 반을 앗아갔답니다! 우리가 거기서 뭐 하는 거야?!
 
 #ev_xplr_freez1
-Glacial night
+빙상의 밤
 
 #ev_xplr_freez1_1
-Travelling in such a glacial weather requires constant supplies, including wood to keep fires alive in the camp during nights. Good thing our expedition of '[x]' still had some wood to survive a particularly glacial night.
+이런 빙하 속에서 여행을 하는 것은 밤에 캠프에서 불을 유지하기 위한 나무를 포함한 지속적인 공급을 필요로 한다. 우리의 '[x]' 탐험이 특히 추운 밤에도 살아남기 위한 목재가 남아 있어서 다행이었다.
 
 #ev_xplr_freez2
-Glacial night
+빙상의 밤
 
 #ev_xplr_freez2_1
-After a particularly glacial night, having nothing to keep themselves warm,  many of members of the '[x]' expedition fell asleep never to wake up again.
+몸을 따뜻하게 할 것이 아무것도 없는, 특히 추운 밤 후에, 많은 '[x]' 탐험대원들은 다시는 깨어나지 않으려고 잠이 들었다.
 
 #ev_xplr_polfood1
-Icy desert
+얼음 사막
 
 #ev_xplr_polfood1_1
-Travelling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
+몹시 추운 황무지에서 여행을 하는 것은 이 얼음 같은 사막에서는 먹을 것이 전혀 없기 때문에 음식을 포함한 지속적인 공급을 필요로 한다. 우리의 '[x]' 탐험대가 하루 더 생존할 식량이 남아 있어서 다행이었다.
 
 #ev_xplr_polfood2
-Icy desert
+얼음 사막
 
 #ev_xplr_polfood2_1
-Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disapeared into this glacial white unforgiving desert and where never heard of again.
+슬프게도, 이제 식량 공급에서 벗어나 이 끔찍한 땅에서 먹을 것을 찾을 수 없게 되었고, 우리의 굶주린 탐험대 '[x]'는 이 빙하처럼 하얀 용서받지 못하는 사막으로 사라졌고, 다시는 그 소식을 들을 수 없었다.
 
 #ev_spwn_succ
-Succession
+승계
 
 #ev_spwn_succ_1
-[x] of the [y] has left his position after many years of service. You have been named as successor and have now inherited control of all the possessions and duties of the [y].
+[y]의 [x]는 다년간의 근무 끝에 자리를 떴다. 당신은 후계자로 지명되었고 이제 [y]의 모든 소유와 의무에 대한 통제권을 물려받았다.
 
 #ev_spwn_succ_2
-You have taken over a character that became inactive for remaining unplayed for too long by its previous owner. You are therefore picking up where it was left. You inhertied all its regions, units, diplomatic relations and knowledges, and you might be part of an existing Nation. 
+당신은 이전 소유주에 의해 너무 오랫동안 연기되지 않은 채 남아 있는 것에 대해 비활동적이 된 캐릭터를 물려받았다. 그러므로 너는 그것이 남겨진 곳을 찾아가고 있다. 당신은 그것의 모든 지역, 부대, 외교 관계, 그리고 지식을 계승했고, 당신은 현존하는 국가의 일원이 될 수 있다.
 
 #ev_spwn_newld
-New leadership
+새로운 리더십
 
 #ev_spwn_newld_1
-The region of [x], in need of new leadership, has chosen you for the task. 
+새로운 리더쉽이 필요한 [x] 지역은 당신을 그 임무로 선택했다.
 
 #ev_spwn_newld_2
-You have taken over a previously leader-less region, either because it was abandonned by its previous owner or because its people rebelled against him. You are therefore a new free and independent sovereign entity free of all treaties, starting with a single region. Your starting knowledges are inherited from the pre-existing buildings in the region. Be weary: you might face the hostility of your region's previous owner if he's still around.
+이전 주인에 의해 버려졌거나, 백성들이 그에게 반기를 들었기 때문에, 이전에 지도자가 없는 지역을 점령한 것이다. 그러므로 당신은 단일 지역에서부터 모든 조약으로부터 자유로운 새로운 자유롭고 독립적인 독립체다. 당신의 시작 지식은 그 지역의 기존 건물에서 물려받은 것이다. 피곤하라: 만약 그가 아직 근처에 있다면 당신은 당신의 지역의 이전 소유주의 적개심에 직면할 수 있다.
 
 #ev_spwn_clny
-Leading the colony
+식민지 선도
 
 #ev_spwn_clny_1
-After many years of slow development and quiet leadership from obedient administrators, the colony of [x] attached to the [y] is now ready to become a political entity of its own. You have gained their trust and been promoted to become the first true leader of [x] as the region is awarded a new administrative and political status within the [p1], under the patronnage of the [y]. Its is time for [x] to make a name for itself and leave its mark in the history of Porcokind. 
+고분고분한 행정관료들로부터 수년간 느린 발전과 조용한 리더십으로 발전한 후, [y]에 부속된 [x]의 식민지는 이제 스스로의 정치적 실체가 될 준비가 되었다. 당신은 그들의 신뢰를 얻었고, 그 지역이 [p1] 내에서 [y]의 후원 하에 새로운 행정 및 정치적 지위를 부여받음에 따라 [x]의 첫 번째 진정한 지도자로 승격되었다. [x]가 스스로 이름을 날리고 돼지의 역사에 발자취를 남길 때다.
 
 #ev_spwn_clny_2
-You have become the first ruler of a colony previously founded by another player. This region is therefore now evolving and becoming its own political entity ruled by you. However you start as a member of an existing Nation, and by default under the patronnage of the colony's original founder: the [y]. As a new branch of his culture, you also start with all the knowledges of the founders. As an ex-colony, be warned that you also start with a treaty binding you to his Nation, meaning you wont be able to leave it without breaking it and suffering penalties or even war. But this can also be a good thing: you are not starting alone and can seek protection and help from your superiors in the Nation, helping your development. It is probably a wise idea to start by reaching out to your superior and founder to greet him and establish friendly relations. Then who knows, maybe one day it will be time for [x] to claim its independance!
+당신은 이전에 다른 선수가 세운 식민지의 첫 번째 통치자가 되었다. 그러므로 이 지역은 지금 진화하고 있고, 당신이 통치하는 자신의 정치적 실체가 되고 있다. 그러나 당신은 현존하는 국가의 일원으로 출발하며, 기본적으로 식민지의 원래 설립자, 즉 [y]의 후원 하에 출발한다. 그의 문화의 새로운 분야로서, 당신은 또한 창업자들의 모든 지식에서 출발한다. 전 집단으로서, 독자 분도 조국에 대한 구속력 있는 조약으로 시작한다는 것을 경고하십시오. 그것은 독자 분이 조약을 어기지 않고, 벌칙이나 심지어 전쟁을 겪지 않고는 그 조약을 떠날 수 없다는 것을 의미하기 때문입니다. 그러나 이것은 또한 좋은 일이 될 수 있다: 여러분은 혼자 시작하는 것이 아니라 국가의 윗사람들에게 보호와 도움을 구할 수 있고 여러분의 발전을 도울 수 있다. 윗사람과 창시자에게 손을 내밀어 인사를 하고 친분을 쌓는 것부터 시작하는 것이 아마 현명한 생각일 것이다. 그렇다면, 언젠가는 [x]가 그것의 독립성을 주장할 때가 올지 누가 알겠는가!
 
 #ev_clnyevlv
-A colony has evolved!
+식민지가 진화했다!
 
 #ev_clnyevlv_1
-Good news! One of our colonies, [x], has found its first proper ruler: [p1]. They have established their own new government and are now known as the [p2]. 
+좋은 소식이야! 우리의 식민지 중 하나인 [x]는 최초의 적절한 통치자를 찾았다:[p1]. 이들은 자체적으로 새 정부를 수립해 지금은 [p2]로 통한다.
 
 #ev_clnyevlv_2
-They have integrated our great nation as one of our subordinates and formally ratified the colonial treaty binding them to us and agreeing to a tax of 5% of their incomes in addition to the duties of their new title in the nation. 
+그들은 우리 대국을 우리 부하의 하나로 통합하고 식민지 조약을 정식으로 비준하여 우리에게 그들을 구속하고 그들의 수입의 5%의 세금에 동의했다.
 
 #ev_clnyevlv_3
-As insurance, we will maintain control of their treasury of over 50% of their GDP in case they ever decide to illegally break this agreement!
+보험으로서, 우리는 그들이 이 협정을 불법으로 파기할 경우에 대비해 그들의 GDP의 50% 이상을 그들의 재무부에 대한 통제를 유지할 것이다!
 
 #ev_form_ovrdrft
-Home of '[y]' has insufficient population!
+'[y]'의 고향은 인구가 부족하다!
 
 #ev_form_ovrdrft_1
-The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
+우리의 '[y]' 부대의 본거지인 [x]의 인구는 이 부대를 유지하기에는 불충분하다! 새로운 젊은 성인 돼지를 대체할 충분한 새로운 성인 돼지가 없으며 이로 인해 우리는 현재의 인원을 유지할 수 없게 되고 이것이 고쳐질 때까지 그 부대는 점차적으로 유닛을 잃게 될 것이다.
 
 #ev_form_desertion
-Our soldiers are deserting!
+우리 병사들은 떠나고 있어!
 
 #ev_form_desertion_1
-The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+우리 군대의 병사들은 너의 부정적인 정당성 때문에 떠나고 있어! 사람들은 더 이상 정하다고 생각하지 않는 통치자를 위해 봉사하기를 원하지 않으며, 우리는 당신의 정당성이 다시 긍정적이 될 때까지 매일 돼지가 우리의 대열을 떠나는 것을 볼 것이다.
 
 #ev_form_ovrdrft_2
-Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
+아마도 우리는 인구과잉을 줄이기 위해 인구과잉을 줄이는 것을 고려해야 할 것이다. 그렇지 않으면 우리는 그들을 더 잘 지원할 수 있는 다른 지역으로 이 전형을 재배치할 수 있을 것이다. 우리가 행동하지 않으면, 이 편성은 서서히 붕괴될 거야!
 
 #ev_xplr_brkleg
-Broken leg
+부러진 다리
 
 #ev_xplr_brkleg_1
-One of our explorers managed to break his leg in a misstep while walking on a portion of difficult terrain, and is now slowing down the whole group. What should we do ?
+우리 탐험가 중 한 명이 어려운 지형을 걷는 동안 잘못 걸었던 다리를 가까스로 부러뜨려 현재 전체 그룹의 속도를 늦추고 있다. 우리 어떻게 해야 되죠?
 
 #ev_xplr_brkleg_c1
-Wait for him to recover.
+그가 회복되기를 기다려라.
 
 #ev_xplr_brkleg_c2
-Abandon him, there is no place for the weak!
+그를 버려라, 약한 자를 위한 자리는 없다!
 
 #ev_xplr_drnriv
-River drowning
+강에서의 익사
 
 #ev_xplr_drnriv_1
-While crossing a river, one of our explorers fell in the water. The poor hog didn't knew how to swim and the currents carried him away before anyone could help him.
+강을 건너는 동안 우리 탐험가 중 한 명이 물 속에 빠졌다. 그 불쌍한 돼지는 수영을 할 줄 몰랐고 조류는 그를 누가 도울 수 있기도 전에 떠내려갔다.
 
 #ev_xplr_cliff
-Clumsy Porco
+어리숙한 돼지
 
 #ev_xplr_cliff_1
-While our explorers were walking along the edge of a tall cliff, one clumsy Porco tripped and fell to his death.
+우리의 탐험가들이 높은 절벽의 가장자리를 따라 걷고 있을 때, 한 어설픈 돼지가 걸려 넘어져 죽었다.
 
 #ev_xplr_slowed
-Challenging terrain
+험준한 지형
 
 #ev_xplr_slowed_1
-These unknown lands proved particularly challenging to cross: our explorers got lost multiple times and lost a lot of time and it took them much longer than expected to reach their destination.
+이 알려지지 않은 땅들은 건너기 위해 특히 힘들다는 것을 증명했다. 우리의 탐험가들은 여러 번 길을 잃었고 많은 시간을 잃었고 그들이 목적지에 도착하는데 예상보다 훨씬 더 오래 걸렸다.
 
 #ev_xplr_wellrest
-Hospitable natives
+친절한 원주민들
 
 #ev_xplr_wellrest_1
-Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
+우리의 탐험가들은 그들의 환대를 제공하는 친절한 원주민들을 만났다. 충분한 휴식과 풍부한 식사를 마친 후, 우리의 탐험대는 작별을 고하고 다시 활기를 띠게 되었다.
 
 #ev_claimloss
-[x] has lost a territorial claim!
+[x] 영토권을 잃어버렸다!
 
 #ev_claimloss_1
-Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
+지방행정(p1)이 불충분해 [x]시는 더 이상 유지할 여력이 없어 영유권 주장 중 하나를 잃었다.
 
 #ev_has_subjug
-You have subjugated [x]!
+[x]를 예속하셨습니다!
 
 #ev_has_subjug_1
-You have subjugated the state of [x], ruled by [y], who is now your vassal. 
+[y]가 통치하는 [x]의 상태를, 지금은 당신의 신하로 군림하고 있다.
 
 #ev_has_subjug_2
-[x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceeded to [x]. 
+[x]는 이제 당신에게 동전과 국가의 권력을 줄 것이며, 그는 당신의 부하로 당신의 국가에 합류했다. 그 대신, 점령한 모든 영토는 [x]로 환원되었다.
 
 #ev_been_subjug
-You have been subjugated by [x]!
+너는 [x]에 의해 예속되었다!
 
 #ev_been_subjug_1
-You have been subjugated the state of [x], ruled by [y], who is now your liedge lord. 
+[y]가 통치하는 [x]의 상태를 예속하였는데, 그는 이제 너의 가장 소중한 영주가 되었다.
 
 #ev_been_subjug_2
-You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
+당신은 이제 동전과 국력에 대한 조공을 지불해야 할 것이며, 그는 [y]의 부하로 [x]의 국가에 합류했다. 그 대신, 점령한 모든 영토가 당신에게 이전되었다.
 

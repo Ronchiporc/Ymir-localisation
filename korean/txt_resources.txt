@@ -1,473 +1,473 @@
-#r_all
-All resources
+﻿#r_all
+모든 자원
 
 #rcat_prod
-Products
+생산물
 
 #rcat_food
-Foods
+식량
 
 #rcat_weapon
-Weapons
+무기
 
 #rcat_animal
-Animals
+동물
 
 #rcat_slave
-Slaves
+노예
 
 #rcat_service
-Services
+서비스
 
 #rcat_drink
-Drinks
+음료
 
 #rprdg_cltv
-cultivated
+재배
 
 #rprdg_animal
-animals
+동물
 
 #rprdg_weapon
-weapons
+무기
 
 #rprdg_mine
-mined
+채굴됨
 
 #rprdg_quarry
-quarry
+채석장
 
 #rprdg_smelt
-metals
+금속
 
 #rprdg_tool
-tools
+도구
 
 #r_hammers
-Hammers
+망치
 
 #r_axes
-Axes
+도끼
 
 #r_shovels
-Shovels
+삽
 
 #r_saws
-Saws
+톱
 
 #r_pickaxes
-Pickaxes
+곡괭이
 
 #r_hoes
-Hoes
+괭이
 
 #r_ploughs
-Ploughs
+쟁기
 
 #r_wood
-Wood
+목재
 
 #r_planks
-Planks
+판자
 
 #r_mud
-Mud
+진흙
 
 #r_mudbricks
-Mudbricks
+진흙 벽돌
 
 #r_bricks
-Bricks
+벽돌
 
 #r_ashes
-Ashes
+재
 
 #r_plaster
-Plaster
+석고반죽
 
 #r_cement
-Cement
+시멘트
 
 #r_charcoal
-Charcoal
+목탄
 
 #r_flints
-Flints
+부시
 
 #r_stone
-Stone
+돌
 
 #r_stoneblocs
-Stoneblocs
+석재
 
 #r_slate
-Slate
+슬레이트
 
 #r_limestone
-Limestone
+석회암
 
 #r_granit
-Granit
+화강암
 
 #r_sandstone
-Sandstone
+사암
 
 #r_marble
-Marble
+대리석
 
 #r_orecopper
-Copper ore
+구리원석
 
 #r_oretin
-Tin ore
+주석원석
 
 #r_oreiron
-Iron ore
+철광석
 
 #r_oresilver
-Silver ore
+은광석
 
 #r_oregold
-Gold ore
+금광석
 
 #r_coal
-Coal
+석탄
 
 #r_coke
-Coke
+석탄연료
 
 #r_copper
-Copper
+구리
 
 #r_tin
-Tin
+주석
 
 #r_bronze
-Bronze
+청동
 
 #r_iron
-Iron
+철
 
 #r_steel
-Steel
+강철
 
 #r_silver
-Silver
+은
 
 #r_gold
-Gold
+금
 
 #r_leather
-Leather
+가죽
 
 #r_cotton
-Cotton
+목화
 
 #r_flax
-Flax
+아마
 
 #r_wool
-Wool
+양털
 
 #r_textile
-Textile
+직물
 
 #r_cloth
-Cloth
+옷
 
 #r_leathercloth
-Leathercloth
+가죽옷
 
 #r_rabbits
-Rabbits
+토끼
 
 #r_deer
-Deer
+사슴
 
 #r_dogs
-Dogs
+개
 
 #r_cows
-Cows
+소
 
 #r_buffalos
-Buffalos
+물소
 
 #r_ostriches
-Ostriches
+타조
 
 #r_horses
-Horses
+말
 
 #r_camels
-Camels
+낙타
 
 #r_elephants
-Elephants
+코끼리
 
 #r_mammoths
-Mammoths
+맘모스
 
 #r_sheeps
-Sheeps
+양
 
 #r_chickens
-Chickens
+닭
 
 #r_caipibaras
-Caipibaras
+카피바라
 
 #r_llamas
-Llamas
+라마
 
 #r_fish
-Fish
+물고기
 
 #r_meat
-Meat
+고기
 
 #r_wheat
-Wheat
+밀
 
 #r_corn
-Corn
+옥수수
 
 #r_flour
-Flour
+밀가루
 
 #r_bread
-Bread
+빵
 
 #r_potatoes
-Potatoes
+감자
 
 #r_carrots
-Carrots
+당근
 
 #r_tomatoes
-Tomatoes
+토마토
 
 #r_lettuce
-Lettuce
+양배추
 
 #r_bananas
-Bananas
+바나나
 
 #r_apples
-Apples
+사과
 
 #r_beans
-Beans
+콩
 
 #r_figs
-Figs
+무화과
 
 #r_rice
-Rice
+쌀
 
 #r_chickpeas
-Chickpeas
+병아리콩
 
 #r_oil
-Olive oil
+올리브유
 
 #r_truffles
-Truffles
+트러플버섯
 
 #r_javelins
-Javelins
+투창
 
 #r_bows
-Bows
+활
 
 #r_longbows
-Longbows
+롱보우
 
 #r_crossbows
-Crossbows
+석궁
 
 #r_arquebuses
-Arquebuses
+화승총
 
 #r_muskets
-Muskets
+머스킷총
 
 #r_spears
-Spears
+창
 
 #r_shortswords
-Shortswords
+단검
 
 #r_longswords
-Longswords
+장검
 
 #r_battleaxes
-Battleaxes
+배틀액스
 
 #r_warhammers
-Wrhammers
+워해머
 
 #r_halberds
-Halberds
+미늘창
 
 #r_shield_wood
-Wooden shields
+나무방패
 
 #r_shield_bronze
-Metal shields
+금속방패
 
 #r_shield_heavy
-Heavy shields
+헤비쉴드
 
 #r_shield_steel
-Steel shields
+철방패
 
 #r_helmetlight
-Light helmets
+경갑투구
 
 #r_helmetheavy
-Heavy helmets
+중갑투구
 
 #r_heaumes
-Heaumes
+대형투구
 
 #r_armorpadded
-Padded armors
+던댓 갑옷
 
 #r_armorbrigand
-Brigandines
+사슬갑옷
 
 #r_cuirass
-Cuirasses
+흉갑
 
 #r_armorscale
-Scale armors
+미늘갑옷
 
 #r_amorlaminar
-Laminar armors
+판갑
 
 #r_amorchain
-Chainmails
+쇄자갑
 
 #r_amorplate
-Plate armors
+판금갑
 
 #r_pottery
-Pottery
+도자기
 
 #r_furniture
-Furniture
+가구
 
 #r_rugs
-Rugs
+카펫
 
 #r_barley
-Barley
+보리
 
 #r_beer
-Beer
+맥주
 
 #r_grapes
-Grapes
+포도
 
 #r_wine
-Wine
+와인
 
 #r_apples
-Apples
+사과
 
 #r_cider
-Cider
+사과주
 
 #r_sugarcane
-Sugarcane
+사탕수수
 
 #r_rum
-Rum
+럼주
 
 #r_goats
-Goats
+염소
 
 #r_papyrus
-Papyrus
+파피루스
 
 #r_paper
-Paper
+종이
 
 #r_olives
-Olives
+올리브
 
 #r_building
-Building
+건물
 
 #r_plans
-Plans
+계획
 
 #r_taxcollect
-Tax collection
+세금징수
 
 #r_cmnty
-Community
+커뮤니티
 
 #r_tavern
-Tavern
+여관
 
 #r_theater
-Theater
+극장
 
 #r_doctor
-Doctor
+의사
 
 #r_justice
-Justice
+재판관
 
 #r_cargo
-Cargo
+저장소
 
 #r_clay
-Clay
+점토
 
 #r_water
-Water
+물
 
 #r_trading
-Trading
+거래
 
 #r_school
-School
+학교
 
 #r_wash
-Laundry
+빨래
 
 #r_baths
-Baths
+목욕
 
 #r_scribe
-Scribe
+서기
 
 #r_academ
-Academia
+학술원
 
 #r_guard
-Guarding
+경호
 
 #r_bear
-Bears
+곰
 
 #r_wolf
-Wolves
+늑대
 
 #r_obsidian
-Obsidian
+옵시디언
 
 #r_topilli
 Topillis
 
 #r_macana
-Macanas
+마카나
 
 #r_library
-Library
+도서관
 
 #r_dates
-Dates
+대추

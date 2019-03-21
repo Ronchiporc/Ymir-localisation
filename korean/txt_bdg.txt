@@ -1,779 +1,779 @@
-#bdg_hous_n
-housing
+﻿#bdg_hous_n
+주택
 
 #bdg_hous_dscr
-Accomodates population, improving their health and life quality.
+인구를 축적하여 건강과 삶의 질을 향상시킨다.
 
 #bdg_prod_n
-production building
+생산 건물
 
 #bdg_prod_dscr
-Exploits terrain tiles to produce raw resources.
+지형 타일을 점거시켜 원재료를 생산한다.
 
 #bdg_ind_n
-industrial building
+공업용 건물
 
 #bdg_ind_dscr
-Produces goods out of existing resources.
+기존 자원으로 상품을 생산한다.
 
 #bdg_srv_n
-service
+서비스
 
 #bdg_srv_dscr
-Produces a service (a non-material resources that cannot be stored).
+서비스(저장할 수 없는 비물질 자원)를 생산한다.
 
 #bdg_stor_n
-storage
+보관소
 
 #bdg_stor_dscr
-Stocks resources.
+자원을 저장한다.
 
 #bdg_merch_n
-distribution
+배급
 
 #bdg_merch_dscr
-Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sales incomes for themselves, reducing the producer's.
+유통업자들은 생산되는 건물이나 창고에서 자원을 얻고 그것을 인구에 이용 가능하도록 만든다.
 
 #bdg_roads_n
-roads
+도로
 
 #bdg_roads_dscr
-Improves unit movement on this tile and provides bonuses to connected buildings.
+이 유닛의 이동을 개선하고 연결된 건물에 보너스를 제공한다.
 
 #bdg_walls_n
-walls
+벽
 
 #bdg_walls_dscr
-Defensive structure that prevents all units from passing.
+모든 부대가 통과하지 못하게 하는 방어 구조.
 
 #bdg_deco_n
-decorative
+장식용
 
 #bdg_deco_dscr
-Purely cosmetic elements to improve the look of your city.
+당신의 도시의 외모를 향상시키기 위한 순수한 외적 요소들.
 
 #bdg_towers_n
-defensive towers
+방어탑
 
 #bdg_towers_dscr
-Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
+방어탑은 병사들이 거리와 포메이션과는 별개로 배치되어 있다. 그것들은 오직 플랫폼 위에서만 만들어질 수 있다. 그들은 전투 중에 화력을 지원한다.
 
 #bdg_battlem_n
-battlements
+흉벽
 
 #bdg_battlem_dscr
-Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during batlles.
+흉벽은 플랫폼에서만 구축될 수 있다. 플랫폼에 서 있는 부대들에게 전투 보너스를 제공한다.
 
 #bdg_annex_n
-annex
+별관
 
 #bdg_annex_dscr
-Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
+별관은 다른 건물에 속하는 건물로, 부가적인 생산원이나 유통능력을 제공한다.
 
 #bdg_pltf_n
-platforms
+플랫폼
 
 #bdg_pltf_dscr
-Platforms are a pigmade tile elevation you can build over. Defensive structures like towers and battlements can only be built over platforms. They are costly and slow to build.
+플랫폼은 당신이 지을 수 있는 인공 타일 높이 입니다. 타워나 전투와 같은 방어적인 구조물은 오직 플랫폼 위에만 건설될 수 있다. 그것들은 비용이 많이 들고 건축이 느리다.
 
 #bdg_stairs_n
-stairs
+계단
 
 #bdg_stairs_dscr
-Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
+돼지가 높이가 다른 타일에 접근할 수 있도록 한다. 접근할 수 있도록 플랫폼이나 절벽에 대어라. 
 
 #bdg_gates_n
-gate
+문
 
 #bdg_gates_dscr
-Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
+문은 전투 중에 적대적인 군대를 봉쇄한다. '브릿지' 모드의 플랫폼에 인접하게 배치되어야 한다.
 
 #bdg_all
-All buildings
+모든 건물
 
 #txt_cider_n
-Cider mill
+사과주 제분소
 
 #txt_cider_dscr
-Produce cider from apples. Cider is a distributable resource than satisfies the population needs for alcohols.
+사과에서 사과주를 만들어라. 사과주는 알코올에 대한 인구 요구를 충족시키는 분배 가능한 자원이다.
 
 #txt_brewery_n
-Brewery
+양조장
 
 #txt_brewery_dscr
-Produce beer from barley. Beer is a distributable resource than satisfies the population needs for alcohols.
+보리로 맥주를 생산한다. 맥주는 알코올에 대한 인구 요구를 충족시키는 분배 가능한 자원이다.
 
 #txt_claycamp_n
-Clay exploitation
+점토 개발
 
 #txt_claycamp_dscr
-Can exploit clay terrain tiles to produce clay. Needs to be placed in range of clay deposits.
+점토 지형을 이용하여 점토를 만들 수 있다. 점토 퇴적물의 범위에 두어야 한다.
 
 #txt_claypit_n
-Clay pit
+점토 채취장
 
 #txt_claypit_dscr
-Place directly over clay tiles. Increases clay production of these tiles.
+진흙 타일 위에 베치. 이 타일의 점토 생산량을 늘린다.
 
 #txt_clothmk_n
-Clothmaker
+옷 제조기
 
 #txt_clothmk_dscr
-Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
+섬유로 옷을 생산한다. 옷은 의류에 대한 인구 요구를 만족시키는 분배 가능한 자원이다
 
 #txt_gather_n
-Gathering camp
+수렵지
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+야생의 농업 자원을 이용할 수 있다. 자원 범위 내에 배치할 필요가 있다. 
 
 #txt_farm_n
-Farm
+농장
 
 #txt_farm_dscr
-Can create fields to produce a variety of agricultural resources. Can also exploit naturally present ones in range.
+다양한 농업 자원을 생산할 수 있는 밭을 만들 수 있다. 또한 자연적으로 현존하는 것들의 범위를 이용할 수 있다.
 
 #txt_fisher_n
-Fisherpig
+어부돼지
 
 #txt_fisher_dscr
-Can exploit wild fishes to produce fresh fish. Needs to be placed on the shore in range of a wild fishes spot.
+야생 물고기를 이용하여 신선한 생선을 생산할 수 있다. 야생 어장의 범위 내에서 해안가에 위치할 필요가 있다.
 
 #txt_grnry_n
-Granary
+곡창
 
 #txt_grnry_dscr
-Can store food resources.
+식료자원을 저장할 수 있음
 
 #txt_hslum_n
-Slum
+빈민가
 
 #txt_hslum_dscr
-Slums that cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life quality and no health. 
+아무 비용도 들지 않고 돼지들이 이용할 수 있는 집을 찾을 수 없을 때 자동으로 생겨나는 슬럼가들. 그들은 삶의 질이 낮고 건강하지 않다.
 
 #txt_hrustc_n
-House
+주택
 
 #txt_hrustc_dscr
-Rustic dwellings that provide low life quality and health bonuses.
+낮은 삶의 질과 건강 보너스를 제공하는 활기찬 주택들.
 
 #txt_hconf_n
-Large house
+대저택
 
 #txt_hconf_dscr
-Comfortable dwellings that provide high life quality and health bonuses.
+삶의 질과 건강 보너스를 제공하는 편안한 주택들.
 
 #txt_hapt_n
-Apartment
+아파트
 
 #txt_hapt_dscr
-Multistorey buildings that provide housing for multiple households.
+여러 가구를 위한 주택을 제공하는 다층 건물.
 
 #txt_hunter_n
-Hunter
+사냥꾼
 
 #txt_hunter_dscr
-Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
+야생동물을 이용하여 신선한 고기와 가죽을 생산할 수 있다. 야생 동물구역의 범위에 놓여야 한다.
 
 #txt_flint_n
-Flint collector
+부싯돌 채취장
 
 #txt_flint_dscr
-Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
+자갈로 만든 지형 타일에서 부싯돌을 생산한다. 그런 다음, 부싯돌은 도구 제작자가 석기 도구를 만드는 데 사용할 수 있다.
 
 #txt_platf1_n
-Wooden platform
+목제 플랫폼
 
 #txt_platf1_dscr
-A cheap low resistance platform. Usefull to make cheap defenses and bridges.
+저렴한 저방어 플랫폼. 값싼 방어와 다리를 만들기 위해 충분히 사용한다.
 
 #txt_platf2_n
-Stone platform
+석재 플랫폼
 
 #txt_platf2_dscr
-A solid platform usefull to make resistent walls.
+견고한 플랫폼은 유용한 방어벽을 만들 수 있다.
 
 #txt_dstrplatf_n
-Destroy platforms
+플랫폼 파괴
 
 #txt_dstrplatf_dscr
-Orders destruction of selected platforms.
+선택된 플랫폼의 파괴를 명령한다.
 
 #txt_tow1_n
-Watchtower
+망루
 
 #txt_tow1_dscr
-A cheap but weak defensive tower made of leather covered wood. Fire arrows.
+가죽으로 만든 싸지만 약한 방어용 탑. 화살을 쏨.
 
 #txt_tow2_n
-Wooden tower
+목탑
 
 #txt_tow2_dscr
-A defensive tower made of thick wooden beams. Fire arrows.
+두꺼운 나무 기둥으로 만든 방어용 탑. 화살을 쏨
 
 #txt_tow3_n
-Stone tower
+석재탑
 
 #txt_tow3_dscr
-Stone towers are much more resistent than their wooden counterparts. Fire arrows.
+돌탑은 나무로 만든 탑보다 훨씬 더 견고하다. 화살을 쏨
 
 #txt_tow4_n
-Heavy tower
+헤비 타워
 
 #txt_tow4_dscr
-This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
+이 탑은 견고한 석판으로 만들어 적의 포대에 대한 내성을 높였다. 화살을 쏨
 
 #txt_batlm1_n
-Wooden battlements
+목재 흉벽
 
 #txt_batlm1_dscr
-Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
+전투 중에 플랫폼에 서 있는 부대까지 적의 사격으로부터 기본적인 은폐를 제공하는 나무 흉벽.
 
 #txt_batlm2_n
-Stone battlements
+석재 흉벽
 
 #txt_batlm2_dscr
-Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
+적화에서 전투 중에 플랫폼에 서 있는 부대까지를 커버하는 돌 흉벽.
 
 #txt_batlm3_n
-Machicolated stone battlements
+마치콜라식 흉벽.
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+적화에서 전투 중에 플랫폼에 서 있는 유닛까지 뛰어난 덮개를 제공하는 기계로 만들어진 단단한 흉벽.
 
 #txt_batlm4_n
-Hoardings
+임시 울타리
 
 #txt_batlm4_dscr
-Excellent cover but weaker than stone battlements.
+덮개는 훌륭하지만 석재흉벽보다는 약하다.
 
 #txt_market_n
-Market stand
+시장 가판대
 
 #txt_market_dscr
-Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
+시장가판대는 가판대가가 속한 건물의 생산을 주민들에게 분배한다. 생산되는 수입은 생산자들에게는 직접적으로 전달되지만 가판대를 관리하기 위해서는 한 명의 근로자가 생산에서 손을 떼야 한다.
 
 #txt_field_n
-Field
+농지
 
 #txt_field_dscr
-Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
+농지는 그들이 속해 있는 농장에서만 사용할 수 있다. 그들은 광범위한 농산물을 생산한다.
 
 #txt_road1_n
-Dirt road
+흙길
 
 #txt_road1_dscr
-A basic road and free to build road.
+기본 도로로 자유로이 도로를 건설할 수 있다.
 
 #txt_road2_n
-Wooden road
+목제길
 
 #txt_road2_dscr
-A road with pieces of wood encrusted in dirt to limit mud on rainy weather.
+비 오는 날씨에 진흙을 제한하기 위해 흙으로 덮인 나무 조각이 있는 도로.
 
 #txt_road3_n
-Cobblestone road
+자갈길
 
 #txt_road3_dscr
-A road paved with crude cobblestones.
+조잡한 자갈로 포장된 도로.
 
 #txt_road4_n
-Stone road
+돌길
 
 #txt_road4_dscr
-An expensive road made of large stone blocs
+큰 돌덩이로 만든 비싼 길
 
 #txt_road5_n
-Paved road
+포장길
 
 #txt_road5_dscr
-A road made of small stone blocs composed artistically.
+작은 돌덩이로 만든 길이 예술적으로 구성되었다.
 
 #txt_road6_n
-Mosaic plaza
+모자이크 광장
 
 #txt_road6_dscr
-A fancy floor made of colofull small tiles of stone, glass and other materials.
+돌, 유리, 기타 재료의 화려한 작은 타일로 만들어진 화려한 바닥.
 
 #txt_road7_n
-Marble plaza
+대리석 광장
 
 #txt_road7_dscr
-A fancy floor made of shiny marble blocs
+반짝이는 대리석으로 만든 화려한 바닥
 
 #txt_road8_n
-Limestone road
+석회길
 
 #txt_road8_dscr
-An expensive road made of large white limestone blocs
+크고 하얀 석회암 덩어리로 만들어진 비싼 길
 
 #txt_road9_n
-Sandstone road
+사암길
 
 #txt_road9_dscr
-An expensive road made of large sandstone blocs
+큰 사암 덩어리로 만든 비싼 길
 
 #txt_fence1_n
-Wooden fence
+나무 울타리
 
 #txt_fence1_dscr
-Rustic fences made of wood.
+나무로 만든 견고한 울타리.
 
 #txt_fence2_n
-Fancy fence
+화려한 울타리
 
 #txt_fence2_dscr
-Decorative fences worthy of gardens and avenues.
+정원과 방수로 가치가 있는 장식용 울타리.
 
 #txt_fence3_n
-Stone fence
+돌 울타리
 
 #txt_fence3_dscr
-Rustic fences made of stone.
+돌로 만든 견고한 울타리.
 
 #txt_garden1_n
-Flower gardens
+꽃밭
 
 #txt_garden1_dscr
-Decorative gardens with flowers.
+꽃이 있는 장식 정원.
 
 #txt_garden2_n
-Tree gardens
+나무 정원
 
 #txt_garden2_dscr
-Decorative gardens with trees.
+나무가 있는 장식 정원.
 
 #txt_grass_n
-Lawn
+잔디
 
 #txt_grass_dscr
-An area of soil covered with carefully maintained grass for aesthetic and recreational purposes.
+심미적, 오락적 목적을 위해 세심하게 유지된 풀로 덮인 토양의 지역.
 
 #txt_flowerbed_n
-Flowerbed
+플라워베드
 
 #txt_flowerbed_dscr
-A plain patch of flowers for decoration.
+장식용 꽃 한 점.
 
 #txt_woodc_n
-Woodcutter
+나무꾼
 
 #txt_woodc_dscr
-Woodcutters can exploit most of the available trees in range to produce wood.
+나무꾼들은 사용 가능한 대부분의 나무들을 이용해서 나무를 생산할 수 있다.
 
 #txt_merchant_n
-Merchant
+상인
 
 #txt_merchant_dscr
-Specialized distributors who make one selectable resource available to the population.
+하나의 선택 가능한 자원을 모집단에 제공하는 전문 유통업자.
 
 #txt_mine_n
-Mining camp
+광산캠프
 
 #txt_mine_dscr
-Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
+특별한 퇴적물이 있는 지형 타일을 이용하여 광범위한 원자재를 생산할 수 있으며, 특히 사용 가능한 경우 부속문서의 이용을 통함.
 
 #txt_mineshaft_n
-Mining shaft
+갱도
 
 #txt_mineshaft_dscr
-Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
+광산캠프의 필수 별관. 갱도들은 그들이 속해 있는 광산촌의 생산을 증가시킨다. 퇴적물이 유효한 타일 위에 세워야 한다.
 
 #txt_paddock_n
-Paddock
+방목장
 
 #txt_paddock_dscr
-Paddocks allow the storage of livestock resources.
+가축 자원을 저장할 수 있게 해준다.
 
 #txt_elephantpen_n
-Elephant pen
+코끼리 울타리
 
 #txt_elephantpen_dscr
-Elephant pens allow the storage of single large animals such as Elephants.
+코끼리 같은 하나의 큰 동물을 저장할 수 있게 해준다.
 
 #txt_potter_n
-Potter
+도공
 
 #txt_potter_dscr
-Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
+도예는 점토를 다듬어 도자기를 만든다. 도자기는 가구의 인구 요구를 채우는 분배 가능한 자원이다.
 
 #txt_stonecut_n
-Stonecutter camp
+석수 야영지
 
 #txt_stonecut_dscr
-Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
+다양한 범위의 바위 타일을 이용하여 조석을 제작하거나 쿼리 별관을 만들어 유효한 바위 타입을 가진 타일 위에 석재나 특수 블록을 제작할 수 있다.
 
 #txt_quarry_n
-Quarry
+채석장
 
 #txt_quarry_dscr
-Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
+석재 절단기의 필수 부속품인 채석장은 특수한 암석 위에 석재 블록이나 특수 블록을 만들 수 있다.
 
 #txt_sawmill_n
-Sawmill
+제재소
 
 #txt_sawmill_dscr
-The sawmill refines crude wood into wood planks, a material required to build many buildings.
+이 톱은 조잡한 나무를 나무 판자로 정제하는데, 이것은 많은 건물을 짓는데 필요한 재료다.
 
 #txt_tannery_n
-Tannery
+무두질 공장
 
 #txt_tannery_dscr
-Tanneries refine leather into leather cloth, a distributable resource filling the population needs in clothing.
+가죽을 가죽 천으로 다듬는데, 이것은 의류에 있어서 인구의 요구를 채우는 분배 가능한 자원이다.
 
 #txt_toolmk_n
-Tool-maker
+공구 제작사
 
 #txt_toolmk_dscr
-Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
+도구 제작자는 다른 종류의 도구를 생산한다. 도구는 특히 건축 재료로 많이 쓰인다.
 
 #txt_items_n
-Items
+아이템
 
 #txt_items_dscr
-These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
+이 자원들은 바닥에 버려져 있고, 그것들이 적절한 창고에 빨리 저장되지 않는다면 시간이 흐르면서 썩을 것이다!
 
 #txt_storegrnd_n
-Ground storage
+지면 창고
 
 #txt_storegrnd_dscr
-Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
+보관 구역으로 표시된 땅. 자유롭지만 보호되지 않고 타일 한 개당 높은 저장용량을 가지고 있지 않다.
 
 #txt_warehouse_n
-Warehouse
+창고
 
 #txt_warehouse_dscr
-Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
+창고는 모든 종류의 기본 재료를 저장할 수 있다. 그들은 지면 창고보다 훨씬 더 많은 자원을 저장할 수 있다.
 
 #txt_weapmk_n
-Weapon-maker
+무기제조사
 
 #txt_weapmk_dscr
-Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
+무기제조업체들은 병력을 배치하고 모집하는 데 사용되는 광범위한 무기와 무기를 생산할 수 있다.
 
 #txt_weaver_n
-Weaver
+방직공
 
 #txt_weaver_dscr
-The weaver refines different raw materials (cotton,flax,wool...) into textile. Textile can then be used for various things like clothmaking.
+방직공은 다른 원재료들을 직물로 정제한다. 직물은 천을 만드는 것과 같은 다양한 용도로 사용될 수 있다.
 
 #txt_stairs1_n
-Wooden stairs
+목재계단
 
 #txt_stairs1_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+어떤 높이의 절벽이나 벽에 기대어 통행을 할 수 있는 계단. 
 
 #txt_stairs2_n
-Stone stairs
+돌계단
 
 #txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+어떤 높이의 절벽이나 벽에 기대어 통행을 할 수 있는 계단.
 
 #txt_gate1_n
-Wooden gate
+목조문
 
 #txt_gate1_dscr
-A cheap wooden gate.
+싸구려 나무문.
 
 #txt_gate2_n
-Strong gate
+강문
 
 #txt_gate2_dscr
-A strong gate made of wood held tohether by bronze. 
+나무로 만들어진 튼튼한 문은 청동으로 지탱되어 있다.
 
 #txt_gate3_n
-Reinforced gate
+철근 게이트
 
 #txt_gate3_dscr
-A solid gate reinforced with iron.
+철로 보강된 견고한 대문.
 
 #txt_cattle_n
-Cattle farm
+소 농장
 
 #txt_cattle_dscr
-The cattle farms allows you to create pastures that produce cattle.
+소 농장은 당신이 소를 생산하는 목장을 만들 수 있게 해준다.
 
 #txt_pastr_n
-Pasture
+목초지
 
 #txt_pastr_dscr
-An enclosed area of land where cattle can feed and breed.
+소가 먹이를 주고 새끼를 낳을 수 있는 밀폐된 땅.
 
 #txt_pastrw_n
-Wool Pasture
+양 목초지
 
 #txt_pastrw_dscr
-Pastures of wool producing animals, regularly sheared to collect their wool.
+동물을 생산하는 털의 목초지는 정기적으로 털을 모으기 위해 깎였다.
 
 #txt_builder_n
-Builders
+건축업자
 
 #txt_builder_dscr
-Many buildings can only be constructed by professional teams of builders.
+많은 건물들은 건축가의 전문 팀들에 의해서만 건설될 수 있다.
 
 #txt_butcher_n
-Butcher
+도살자
 
 #txt_butcher_dscr
-Slaughters live cattle to produce fresh meat.
+도축업자는 신선한 고기를 생산하기 위해 소를 산다.
 
 #txt_well_n
-Well
+우물
 
 #txt_well_dscr
-Extracts water from the ground.
+땅에서 물을 뽑아낸다.
 
 #txt_watercol_n
-Water collector
+물집수기
 
 #txt_watercol_dscr
-A point where people can collect fresh water from rivers or lakes.
+강이나 호수의 민물을 채취할 수 있는 지점.
 
 #txt_landock_n
-Land docks
+육지 부두
 
 #txt_landock_dscr
-Docks for land caravans, carrying goods across territories and required to operate trade routes.
+육지 운반용 부두, 영토를 가로질러 물건을 나르고 무역로를 운영하는데 필요한 부두.
 
 #txt_dock_n
-Docks
+부두
 
 #txt_dock_dscr
-Docks for trade ships, carrying goods across territories and required to operate trade routes. 
+무역선박의 부두, 영토를 가로질러 화물을 운반하고 무역항로를 운영해야 한다. 
 
 #txt_theater_n
-Theater
+극장
 
 #txt_theater_dscr
-Provides entertainement to the Porcos.
+돼지에게 즐거움을 제공한다.
 
 #txt_baths_n
-Public baths
+공중목욕탕
 
 #txt_baths_dscr
-A place of social gathering and relaxation which also provides better health.
+더 나은 건강을 제공하는 사교 모임과 휴식의 장소.
 
 #txt_tavern_n
-Tavern
+주점
 
 #txt_tavern_dscr
-A place of social gathering to drink and party.
+술자리도 하고 파티도 하는 곳.
 
 #txt_forum_n
-Forum
+포럼
 
 #txt_forum_dscr
-A place of social gathering to discuss matters of the community.
+공동체의 문제를 논의하기 위한 친목 모임의 장소
 
 #txt_furnmkr_n
-Furniture maker
+가구제조업자
 
 #txt_furnmkr_dscr
-Produces furniture, a distributable resource filling the population needs in Furnishings.
+가구 생산, 가구 내 인구 수요를 채우는 분배 가능한 자원임
 
 #txt_carpetmkr_n
-Carpet maker
+카펫메이커
 
 #txt_carpetmkr_dscr
-Produces rugs, a distributable resource filling the population needs in Furnishings.
+퍼니싱의 인구 요구를 채우는 분배 가능한 자원인 융단을 생산한다.
 
 #txt_mudcamp_n
-Soil miner
+흙 채취장
 
 #txt_mudcamp_dscr
-A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
+노동자들이 진흙이나 잿더미 같은 착취 가능한 토양을 모아 모으는 간단한 캠프.
 
 #txt_brickwk_n
-Brickworks
+벽돌공
 
 #txt_brickwk_dscr
-Produces bricks, a basic construction material.
+기본 건축 재료인 벽돌을 생산한다.
 
 #txt_kiln_n
-Kiln
+가마
 
 #txt_kiln_dscr
-Produces different construction materials.
+다른 건축 자재를 생산한다.
 
 #txt_fundry_n
-Foundry
+주조 공장
 
 #txt_fundry_dscr
-Refines metallic ores into ingots.
+금속 광석을 주괴로 정제한다.
 
 #txt_steel_n
-Steel mill
+제철소
 
 #txt_steel_dscr1
-Produces steel by carburization of wrough iron through smithing.
+스미싱을 통해 철을 탄화하여 강철을 생산한다.
 
 #txt_steel_dscr2
-Produces steel by decarburization of cast iron by melting it.
+주철을 녹여 분해하여 강철을 생산한다.
 
 #txt_charcl_n
-Charcoal clamps
+목탄 더미
 
 #txt_charcl_dscr
-Carbonizes wood into charcoal.
+나무를 탄산화하여 숯을 만든다.
 
 #txt_archtct_n
-Architect
+건축가
 
 #txt_archtct_dscr
-Produces the service Plans, required for important monuments.
+중요한 기념물에 필요한 서비스 플랜을 작성한다.
 
 #txt_windwheel_n
-Windwheel
+풍차
 
 #txt_windwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+건물에 기계적인 전력을 공급하여 그 효율성을 향상시킨다.
 
 #txt_waterwheel_n
-Waterwheel
+물레바퀴
 
 #txt_waterwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+건물에 기계적인 전력을 공급하여 그 효율성을 향상시킨다.
 
 #txt_wash_n
-Washhouse
+세탁장
 
 #txt_wash_dscr
-A place where people can come wash their laundry.
+사람들이 와서 빨래를 할 수 있는 곳.
 
 #txt_taxcol_n
-Tax collector
+세금징수자
 
 #txt_taxcol_dscr
-Reduces waste by ensuring population pays correctly their taxes.
+인구가 세금을 정확하게 납부하도록 하여 낭비를 줄인다.
 
 #txt_scrib_n
-Scribe
+서기
 
 #txt_scrib_dscr
-Scribes at the service of the state help keep track of administrative matters.
+국가에 봉사하는 사람들은 행정 문제를 추적하는 데 도움이 된다.
 
 #txt_eldcounc_n
-Elder's council
+장로회
 
 #txt_eldcounc_dscr
-A council of elders to solve conflicts in the city.
+도시의 갈등을 해결하기 위한 원로회의.
 
 #txt_magistrt_n
-Magistrate
+치안판사.
 
 #txt_magistrt_dscr
-Reduces conflict in the population.
+인구의 갈등을 감소시킨다.
 
 #txt_school_n
-School
+학교
 
 #txt_school_dscr
-School increases intelligence of the population.
+학교는 인구의 지능을 높인다.
 
 #txt_winery_n
-Wine cellar
+와인 저장고
 
 #txt_winery_dscr
-Produces wine out of grapes.
+포도로 포도주를 생산한다.
 
 #txt_oilpress_n
-Olives press
+올리브 압착기
 
 #txt_oilpress_dscr
-Produces olive oil out of olives.
+올리브에서 올리브유를 생산한다.
 
 #txt_bakery_n
-Bakery
+빵집
 
 #txt_bakery_dscr
-Makes bread from flour.
+밀가루로 빵을 만든다.
 
 #txt_mill_n
-Mill
+방앗간
 
 #txt_mill_dscr
-Crushes cereals to produce flour, easier to stock and used to make bread.
+곡물을 으깨어 밀가루를 만들고, 저장하기 쉽고, 빵을 만드는 데 사용된다.
 
 #txt_libr_n
-Library
+도서관
 
 #txt_libr_dscr
-Stores knowledges.
+지식을 저장한다
 
 #txt_eldrcncl_n
-Tribal council
+부족위원회
 
 #txt_eldrcncl_dscr
-A council of family leaders that attempts to solve conflicts amongst the tribe and provides an early form of law.
+부족간의 갈등을 해결하려고 시도하고 법의 초기 형태를 제공하는 가족 지도자 협의회.
 
 #txt_magistr_n
-Magistrate
+치안판사.
 
 #txt_magistr_dscr
-A service building that provides the Justice service to population, reducing conflict.
+인구에 재판 서비스를 제공하여 갈등을 줄이는 서비스 건물.
 
 #txt_paper_n
-Paper mill
+제지 공장
 
 #txt_paper_dscr
-Produces paper
+종이를 생산한다.
 
 #txt_rum_n
-Rumery
+럼 주조장
 
 #txt_rum_dscr
-A distilery that produces rum out of sugarcane.
+사탕수수에서 럼주를 생산하는 증류장.
 
 #txt_trmarket_n
-Market
+시장
 
 #txt_trmarket_dscr
-Allows to create trade offers to exchange goods with other territories.
+다른 영토와 상품을 교환하는 무역 제안을 만들 수 있다.
 
 #txt_academ_n
-Academia
+학계
 
 #txt_acedem_dscr
-Wise and knowledgable pigs who study science and arts increasing education and culture and contribute to research projects.
+과학과 예술을 공부하여 교육과 문화를 늘리고 연구 프로젝트에 기여하는 현명하고 박식한 돼지들.
 
 #txt_doctor_n
-Doctor
+박사
 
 #txt_doctor_dscr
-Increases health of the population.
+인구의 건강을 증진하다.
 
 #txt_ftower1
-Primitive tower
+원시탑
 
 #txt_ftower1_dscr
-A primitive defensive tower made of wood. Fires javelins.
+나무로 만들어진 원시 방어탑. 투창을 던짐
 
 #txt_wall1_n
-Palissade
+방책
 
 #txt_wall1_dscr
-A simple defensive wall made of timbers.
+목재들로 만들어진 단순한 방어벽.
 
 #txt_wall2_n
-Mudbrick wall
+진흙벽돌 벽
 
 #txt_wall2_dscr
-A simple defensive wall made of mudbricks, weaker but cheaper to maintain than a palissade.
+진흙 벽돌로 만들어진 단순한 방어벽으로, 팰리스타이드보다 약하지만 유지비가 저렴하다.
 
 #txt_wall3_n
-Cobblestone wall
+자갈벽
 
 #txt_wall3_dscr
-A simple defensive wall made of cobble stone held together with crude masonry.
+조잡한 석재와 함께 붙박이로 만든 단순한 방어벽.
 
 #txt_wall4_n
-Brick wall
+벽돌벽
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks, stronger than mudbricks.
+불타는 벽돌로 만들어진 단순한 방어벽으로, 진흙 벽돌보다 강하다.
 
 #txt_wall5_n
-Stoneblocs wall
+석재벽
 
 #txt_wall5_dscr
-A solid defensive wall made of stone blocs.
+돌덩이로 만든 견고한 방어벽.

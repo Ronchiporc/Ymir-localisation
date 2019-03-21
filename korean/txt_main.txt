@@ -47,37 +47,37 @@ free
 Free
 
 #g_cost
-cost
+비용
 
 #g_coins
-coins
+주화
 
 #g_upkeep
-upkeep
+유지비
 
 #g_Upkeep
-Upkeep
+유지비
 
 #g_admin
-administration
+행정력
 
 #g_Admin
-Administration
+행정력
 
 #g_Admincost
-Administration cost
+관리비
 
 #g_Lifequal
-Life quality
+삶의 질
 
 #g_Health
-Health
+체력
 
 #g_efficiency
-efficiency
+효율성
 
 #g_EFFICIENCY
-EFFICIENCY
+효율성
 
 #g_resunit
 resource unit
@@ -86,7 +86,7 @@ resource unit
 resource units
 
 #g_Households
-Households
+가정
 
 #g_cancel
 cancel
@@ -98,22 +98,22 @@ Cancel
 empty
 
 #g_workforce
-workforce
+노동력
 
 #g_WORKFORCE
-WORKFORCE
+노동력
 
 #g_wealth
-wealth
+부
 
 #g_WEALTH
-WEALTH
+부
 
 #g_usage
 usage
 
 #g_building
-building
+건물
 
 #g_None
 None
@@ -128,259 +128,259 @@ All
 all
 
 #g_distribute
-distribute
+배분
 
 #g_produce
-produce
+생산
 
 #g_production
-production
+생산력
 
 #g_needed
-needed
+필요도
 
 #g_or
 or
 
 #g_status
-status
+상황
 
 #g_city
-city
+도시
 
 #g_capital
-capital
+수도
 
 #g_territory
-territory
+영토
 
 #g_colony
-colony
+식민지
 
 #g_reg_claim
-claim
+선언하기
 
 #g_owner
-owner
+소유자
 
 #g_Salaries
-Wages
+임금
 
 #g_Taxes
-Taxes
+세금
 
 #g_Waste
 Waste
 
 #g_Economy
-Economy
+경제
 
 #g_ECONOMY
-ECONOMY
+경제
 
 #g_currency
-currency
+화폐
 
 #g_loyalty
-loyalty
+충성도
 
 #g_Loyalty
-Loyalty
+충성도
 
 #g_conflict
-conflict
+분쟁
 
 #g_Conflict
-Conflict
+분쟁
 
 #g_state_culture
-state culture
+주 문화
 
 #g_local_culture
-local culture
+지역 문화
 
 #g_Growth
-Growth
+성장력
 
 #g_Employment
-Employment
+고용
 
 #g_Vital_needs
-Vital needs
+욕구
 
 #g_vital_needs
-vital needs
+욕구
 
 #g_faction
-faction
+팀
 
 #g_Faction
-Faction
+팀
 
 #g_Culture
-Culture
+문화
 
 #g_Knowledges
-Knowledges
+지식
 
 #g_Nation
-Nation
+국가
 
 #g_Policies
-Policies
+정책
 
 #g_Government
-Government
+정부
 
 #g_Society
-Society
+사회
 
 #g_Diplomacy
-Diplomacy
+외교
 
 #g_Power
-Power
+권력
 
 #g_POWER
-POWER
+권력
 
 #g_Legitimacy
-Legitimacy
+정통성
 
 #g_LEGITIMACY
-LEGITIMACY
+정통성
 
 #g_state_power
-state power
+공권력
 
 #g_STATE_POWER
-STATE POWER
+공권력
 
 #g_Social
-Social
+사회
 
 #g_SOCIAL
-SOCIAL
+사회
 
 #g_add
-add
+추가
 
 #g_Add
-Add
+추가
 
 #g_enables
-enables
+허용
 
 #g_Disable
-Disable
+비허용
 
 #g_disables
-disables
+비허용
 
 #g_price
-price
+가격
 
 #g_PRICE
-PRICE
+가격
 
 #g_Server
-Server
+서버
 
 #g_server
-server
+서버
 
 #g_increasing_to
-increasing to
+늘리기
 
 #g_decreasing_to
-decreasing to
+줄이기
 
 #g_stable
-stable
+안정적입니다
 
 #g_Administation
-Administration
+관리
 
 #g_Porco
-Porco
+돼지
 
 #g_Porcos
-Porcos
+돼지들
 
 #g_Load
-Load
+승차
 
 #g_Unload
-Unload
+하차
 
 #g_Destroy
-Destroy
+파괴
 
 #g_From
-From
+부터
 
 #g_from
-from
+부터
 
 #g_multiple
-multiple
+배수
 
 #g_confirm
-confirm
+확인
 
 #g_AT_WAR
-AT WAR
+전쟁중
 
 #g_NEUTRAL
-NEUTRAL
+중립
 
 #g_AT_PEACE
-AT PEACE
+평화상태
 
 #g_year
-year
+년도
 
 #g_day
-day
+일수
 
 #g_Rebels
-Rebels
+반란군
 
 #g_automatic
-automatic
+자동
 
 #g_noresult
-no result
+결과없음
 
 #g_Fertility
-Fertility
+출산율
 
 #g_Groundwater
-Groundwater
+지하수
 
 #g_Any
-Any
+아무거나
 
 #g_any
-any
+아무거나
 
 #g_seconds
-seconds
+초
 
 #g_minuts
-minuts
+분
 
 #g_hours
-hours
+시간
 
 #g_days
-days
+일
 
 #g_Structure
-Structure
+건축물
 
 #g_structure
-structure
+건축물
 
 #g_Solidity
 Solidity
@@ -395,133 +395,133 @@ Cover
 cover
 
 #g_random
-random
+무작위
 
 #g_agree
-agree
+승인
 
 #g_refuse
-refuse
+거절
 
 #g_warning
-WARNING!
+경고!
 
 #g_areyousure
-Are you sure?
+확실합니까?
 
 #g_Gaia
-Gaia
+가이아지구
 
 #g_Primitives
-Primitives
+원시사회
 
 #g_Rebels
-Rebels
+반란군들
 
 #g_Partisans
-Partisans
+빨치산들
 
 #g_Barbarians
-Barbarians
+야만인들
 
 #g_Free_cities
-Free cities
+자유도시
 
 #g_facnameprep
 of
 
 #g_facrk1_1
-High Chief
+족장
 
 #g_facrk1_2
-Chiefdom
+족장
 
 #g_facrk2_1
-Chieftain
+족장
 
 #g_facrk2_2
-Chiefdom
+족장
 
 #g_prmtv_trb
-Primitive tribe
+원시부족
 
 #g_trb_of
-Tribe of [x]
+[x] 의 부족
 
 #g_colonialtrty
-Colonial treaty
+식민지 조약
 
 #g_capitultrty
-Capitulation treaty
+항복 조약
 
 #g_nocltr
-ancient culture
+고대 문화
 
 #g_claim
-claim
+선언하기
 
 #g_territory
-territory
+영토
 
 #g_colony
-colony
+식민지
 
 #g_occupiedterrit
-occupied territory
+점령지
 
 #g_outpost
-outpost
+전초기지
 
 #g_city
-city
+도시
 
 #g_capital
-capital
+수도
 
 #g_and
-and
+그리고
 
 #g_Amount
-Amount
+양
 
 #g_amount
-amount
+양
 
 #g_Enabled
-Enabled
+허용됨
 
 #g_enabled
-enabled
+허용됨
 
 #g_Disabled
-Disabled
+비허용됨
 
 #g_disabled
-disabled
+비허용됨
 
 #g_per_day
-per day
+일당
 
 #g_ev_days
-every [x] days
+매 [x] 일당
 
 #g_per_hour
-per hour
+시간당
 
 #g_ev_hours
-every [x] hours
+매 [x] 시간당
 
 #g_per_minut
-per minut
+매분마다
 
 #g_ev_minuts
-every [x] minuts
+매 [x] 분마다
 
 #g_per_second
-per second
+매초마다
 
 #g_ev_seconds
-every [x] seconds
+매 [x] 초마다
 
 #g_with
-with
+와

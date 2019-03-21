@@ -1,83 +1,82 @@
-#b_menu_tutorial
-TUTORIAL
+﻿#b_menu_tutorial
+튜토리얼
 
 #b_menu_newgame
-NEW GAME
+새게임
 
 #b_menu_load
-LOAD GAME
+불러오기
 
 #b_menu_join
-JOIN GAME
+게임참가
 
 #b_menu_editor
-EDITOR
+에디터
 
 #b_menu_options
-SETTINGS
+세팅
 
 #b_menu_quit
-QUIT
+종료
 
 #b_menu_resume
-RESUME
+게임재개
 
 #b_menu_tomain
-TO MAIN MENU
+메인메뉴
 
 #b_menu_discord_1
-Ymir official Discord
-
+Ymir 공식 디스코드
 #b_menu_discord_2
-Join the Ymir community!
+Ymir 커뮤니티에 참가하세요!
 
 #b_menu_porcopedia_1
-Porcopedia
+돼지위키!
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+공식 게임위키
 
 #b_menu_trell_1
-Ymir on Trello
+Ymir 트렐로
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+게임개발을 확인하시고 게임요소에 투표해보세요
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+정말 메인메뉴로 돌아가시겠습니까?
 
 #ui_connctstat_1
-Currently connected to [x]  ping: [y]
+[x] 에 접속 중. 핑: [y]
 
 #ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z] )
+손실율: [x]% ( 전송:[y]  실패:[z] )
 
 #ui_connct_stable
-Your connection with the server is stable.
+서버와의 접속은 안정적입니다.
 
 #ui_connct_unstbl
-Warning! Your connection with the server is unstable!
+경고! 서버와의 연결이 불안정합니다!
 
 #mainmenu_mute
-click to mute/unmute the whole game
+음소거
 
 #mainmenu_fullscrn
-click to switch between windowed and fullscreen modes
+창모드/전체모드
 
 #mainmenu_quit
-click to quit the game
+게임종료
 
 #mainmenu_maxim
-maximize
+최대화
 
 #mainmenu_minim
-minimize
+최소화
 
 #dsclmr_title
-DISCLAIMER
+공지
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- 이 게임은 일인개발입니다: 개발이 느립니다.
 
 #dsclmr_2
 - This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
@@ -86,64 +85,64 @@ DISCLAIMER
 - Playing solo is available, but the main focus of this game is multiplayer.
 
 #b_menuop_fullscreen
-Fullscreen
+풀스크린
 
 #bc_menuop_fullscreen
-enable fullscreen
+풀스크린 허용
 
 #b_menuop_autores
-Automatic resolution
+자동 해상도
 
 #bc_menuop_autores
 automatically adapt resolution to the display in fullscreen
 
 #b_menuop_res
-Display resolution
+해상도
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+풀스크린 시 해상도
 
 #b_menuop_terrain
-Terrain
+지형
 
 #b_menuop_low
-low
+낮음
 
 #b_menuop_medium
-medium
+중간
 
 #b_menuop_high
-high
+높음
 
 #b_menuop_bdgs
-Buidings
+건물
 
 #b_menuop_units
-Units
+유닛
 
 #b_menuop_fx
 FX
 
 #b_menuop_shaders
-Shaders
+쉐이더
 
 #b_menuop_worldmap
-Worldmap
+월드맵
 
 #b_menuop_logic
-Logic
+로직
 
 #b_menuop_cosveg
-Cosmetic vegetation
+조형 식물
 
 #bc_menuop_cosveg
-Enable cosmetic grass and bushes
+조형 식물들을 활성화합니다
 
 #b_menuop_cosunits
-Cosmetic units 
+조형 유닛들
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+조형 유닛들을 활성화합니다.
 
 #b_menuop_animveget
 Animated vegetation
@@ -455,70 +454,68 @@ Game type
 Select a game preset
 
 #gmtyp_solo
-Solo
+싱글플레이
 
 #gmtyp_solo_dscr1
-Solo games can only be played alone.
+싱글모드는 혼자 플레이하기 위함입니다.
 
 #gmtyp_solo_dscr2
-Game speed overall is the fastest.
+게임속도는 가장 빠릅니다.
 
 #gmtyp_solo_dscr3
-This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
-
+멀티플레이에 참가하기전 게임 기본기를 배우거나, 평화롭게 게임플레이 하기를 원하는 유저를 위한 모드입니다.
 #gmtyp_rtime
-Real-time
+리얼타임플레이
 
 #gmtyp_rtime_dscr1
-Real-time games are meant to be played directly with every player ingame at all times, saving and reloading the game later on to continue the game if necessary.
-
+실시간 게임모드는 항상 다른 플레이어와 접촉이 있으며, 나중에 게임을 종료하더라도 저장되고 다시 로드할 수 있습니다.
 #gmtyp_rtime_dscr2
-Resource production, population growth and unit movements are fast.
+자원의 생산과 인구 증가, 유닛이동속도가 빠릅니다.
 
 #gmtyp_rtime_dscr3
-This is meant for smaller private games such as playing locally with a group of friends via direct IP.
+직접 IP 연결을 통해 친구들이나 소규모 모임과 같은 게임플레이에 적합합니다.
 
 #gmtyp_prsist
-Persistent
+영구지속 플레이
 
 #gmtyp_prsist_dscr1
-Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently ingame.
+영구지속플레이 모드는 24시간 내내 서버가 운영되며 행동이 완료되는 데 몇시간 이상 필요하며, 유저가 게임내 접속하지않아도 자율적으로 돌아갑니다.
 
 #gmtyp_prsist_dscr2
-Resource production, population growth and unit movements are slow.
+자원의 생산과 인구 증가, 유닛이동속도가 느립니다.
 
 #gmtyp_prsist_dscr3
-This is meant for bigger public games and servers with higher numbers of players.
+대규모 공개게임에 적절합니다.
 
 #gmtyp_cstm
-Custom
+커스텀플레이
 
 #gmtyp_cstm_dscr
 Custom games allow you to define your own settings affecting the game-balance and speed.
 
 #gamelob_disco
-Disconnect
+접속끊기
 
 #gamelob_disco_c1
-Return to main menu
+메인메뉴로 돌아갑니다
 
 #gamelob_usechar
-Play using this character
+이 캐릭터를 사용하여 플레이합니다.
 
 #gamelob_newchar
-New
+새게임
 
 #gamelob_newchar_c1
-Create a new character on this game
+새 캐릭터를 만듭니다.
 
 #gamelob_play
-PLAY
+플레이
 
 #newchar_title
-New character
+새 캐릭터
 
 #newchar_startpref
-Starting preferences
+선호설정 시작하기
 
 #newchar_availspwn
 Available starts matching these settings
@@ -527,2377 +524,2370 @@ Available starts matching these settings
 spawn close to character...
 
 #newchar_closeto_c
-You will spawn as close as possible to the selected character, while matching the selected conditions above.
+선택한 조건에 가깝게 캐릭터를 만듭니다.
 
 #newchar_starttyp
-Start types
+시작 유형
 
 #newchar_clim
-Climates
-
+기후
 #newchar_st_precious
-This is a "Valuable start": once used you won't be able to respawn from another "Valuable spawn" for [x] regardless of your spawn cooloff.
+이것은 "중요한 시작" 입니다: 한번 사용 시 다른 "중요한 시작" 을 스폰 쿨타임이 [x] 초 남앗을떄 까지 다시 할 수 없습니다..
 
 #newchar_st_prlck
-This "Valuable start" is locked because you spawned from another one less than [x] ago ([y] remaining).
+"중요한 시작은" [x] 초전 이미 하였기 떄문에 지금 할 수 없습니다 ([y] 초 남음).
 
 #newchar_st_pt
-Primitive tribes
+원시민족
 
 #newchar_st_pt_c1
-Start from scratch by taking control of a primitive tribe.
+원시민족으로서 플레이합니다.
 
 #newchar_st_pt_c2
-It's the default and standard way to start a game at the begining.
+게임을 시작하는 데 가장 기본적 방법입니다.
 
 #newchar_st_suc
-Succession
+승계
 
 #newchar_st_suc_c1
-Become the new ruler an already existing government in need of a successor.
+후계자를 필요로하는 존재하는 정부에 새로운 통치자로서 시작합니다.
 
 #newchar_st_suc_c2
-You will gain control of an inactive character and inherit of all its possessions.
+비활성화된 캐릭터를 승계하여 플레이합니다.
 
 #newchar_st_col
-Colonies
+식민지
 
 #newchar_st_col_c1
-Become the new leader of a colony created by another player
+다른 유저가 만든 식민지에서 시작하세요.
 
 #newchar_st_col_c2
-(You will join an existing Nation)
+(이미 존재하는 국가의 일원으로 시작합니다)
 
 #newchar_st_ar
-New leader
+새로운 지도자
 
 #newchar_st_ar_c1
-Become the new leader of a territory previously fallen into anarchy
+무정부가 되버린 곳에 새로운 지도자로 시작하비다.
 
 #newchar_st_ar_c2
-(a territory that rebelled or lost his previous leader: expect the unexpected!)
+(반란군이나 리더를 잃어버린 곳에서 시작!)
 
 #newchar_clim_c
-Select climates where you'd wish to potentially spawn
+잠재적으로 시작하고 싶은 지역의 기후를 선택하십시오
 
 #newchar_cold
-Cold
+추움
 
 #newchar_temp
-Temperate
+기온
 
 #newchar_arid
-Arid
+건조
 
 #newchar_trop
-Tropical
+열대
 
 #newchar_prspwn_warn
-WARNING: you have selected one or more "Valuable start" types. These cannot be re-used for [x] regardless of your spawn cool-off period in this game. Do not mess it up!
+이것은 "중요한 시작" 입니다: 한번 사용 시 다른 "중요한 시작" 을 스폰 쿨타임이 [x] 초 남앗을떄 까지 다시 할 수 없습니다..
 
 #newchar_nofind
-Could not find any unit or territory for this character!
+이 캐릭터를 위한 어떤 유닛이나 영토를 찾을 수 없습니다!
 
 #findchar_bc
-click to search for an existing character in this game
+게임에 이미 존재하는 캐릭터를 찾으려면 클릭하세요
 
 #char_invcode
-Invite code: [x]
+초대코드: [x]
 
 #charcreate_err1
-Please provide a name for your new character.
+새로운 캐릭터에 이름을 부여하세요.
 
 #charcreate_err2
-Please provide a name for your government.
+당신의 정부에 이름을 부여하세요.
 
 #charcreate_err3
-There is no valid starting location matching your settings.
+당신의 세팅에 맞는 지역이 없습니다.
 
 #charcreate_err4
-Please provide an Invite code to complete your character creation!
+캐릭터생성을 위해 초대코드를 기입하세요!
 
 #charcreate_err5
-Invalid Invite code!
+불확실한 초대코드 입니다!
 
 #findchar_none
 [none]
 
 #invtcd_title
-Invite code for [x]
+[x] 를 위한 초대코드
 
 #invtcd_txt
-You are trying to spawn near a character called '[x]'. To ensure that you are doing so in agreement with its owner, you must now provide the valid "invite code" matching this character and known only by the player controlling it. If you are joining a friend, ask him to give you this code which is displayed on his character's avatar ingame.
-
+당신은 캐릭터 '[x]' 근처에서 시작하려고 합니다. 소유자와 동의하에 하고 있다는 전제하에, 이 캐릭터에 맞는 "초대코드"를 주어야합니다. 친구게임에 참가하고 있다면 그의 캐릭터아바타에 있는 코드를 물어보세요.
 #findchar_srch
-search for character...
+캐릭터 검색중...
 
 #findchar_reslt
-Results
+결과
 
 #findchar_wait
-researching...
+검색중...
 
 #findchar_instr
-type a character's full name or part of it's name and press enter to see valid matches
+캐릭터의 전체 이름 이나 부분적인 이름을 작성하고 존재하는지 여부를 확인합니다.
 
 #findchar_nores
-no result matching this search
+매칭결과 없음
 
 #tuto_ask
-TUTORIAL
+튜토리얼
 
 #tuto_ask_1
-Greetings, newpig! Is this the first time you play Ymir and do you wish to enable the tutorial mode ?
+안녕하세요 새로운 돼지님! 튜토리얼을 활성화하시겠습니까?
 
 #ui_gen_toreg
-Click to go to the currently selected territory
+현재 선택한 영토로 갑니다.
 
 #ui_gen_toworld
-Click to go to the worldmap
+월드맵으로 갑니다.
 
 #ui_gen_tonovis
-You cannot go to this territory because you have no visibility of it.
+시야가 확보되지 않았기 떄문에 해당 영토로 갈 수 없습니다
 
 #ui_gen_score
-Character's score
+캐릭터 점수
 
 #ui_gen_vpts
-Victory points
+승리 점수
 
 #ui_gen_vpts2
-You need a total of [x] to win this game.
+당신은 승리하기 위해 [x] 만큼 필요합니다.
 
 #ui_gen_regmen
-Territory menu
+영토 메뉴
 
 #ui_bdginf_cons
-construction cost
+건설 비용
 
 #ui_bdginf_bldrs
-requires builders
+필요한 건설자
 
 #ui_bdginf_cost
-materials cost:
+자원 비용:
 
 #ui_bdginf_empl
-employs
+고용하다
 
 #b_bdginf_hhold
-household
+가정
 
 #bc_bdginf_hhold
-households capacity of this dwelling
+해당 거주지의 가정 수용치
 
 #bc_bdginf_h
-Health bonus for this dwelling's residents
+현 거주지의 거주자의 체력 보너스
 
 #bc_bdginf_lq
-Life quality bonus for this dwelling's residents
+현 거주지의 거주자의 삶의 질 보너스
 
 #bc_bdginf_eff
-Efficiency multiplies the workforce of each worker of the building
+각 건물의 노동자의 노동 효율성 배수
 
 #b_bdginf_wealth
-max wealth production
+부의 생산 최대치
 
 #bc_bdginf_wealth
-The maximum amount of wealth this building can theoretically generate if it's full workforce is in full production
-
+해당 건물의 최대 노동력이 최대 생산가동시 이론적으로 생산가능한 부의 최대치
 #b_bdginf_scap
-capacity
+수용치
 
 #bc_bdginf_scap
-Storage capacity in resource units
+자원유닛 저장 수용치
 
 #b_bdginf_stype
-Can stock
+수용치
 
 #b_bdginf_mcap
-Distribution capacity
+배분 수용치
 
 #ui_place_form0
-New formation's camp
+새 분대의 캠프
 
 #ui_place_form1
-Relocating camp
+캠프 재배치
 
 #bc_erase
-Destruction tool
+파괴 도구
 
 #bc_erase_c2
-(right click for options)
+(옵션을 위해 오른쪽 클릭하세요)
 
 #b_erase_ter
-terrain
+지형
 
 #b_erase_inf
-infrastructures
+사회기초시설
 
 #b_erase_bdg
-buildings
+건물
 
 #b_erase_ptf
-platforms
+플랫폼
 
 #bc_menubdg_destroy
-Demolish building
+건물 해제
 
 #bc_menubdg_destroy2
-(tear down building and recover some of it's materials)
+(건물을 해제하고 잔여 자원을 획득합니다)
 
 #bc_menubdg_sleep
-Sleep
+중단
 
 #bc_menubdg_sleep2
-(building is disabled but still maintained)
+(비가동되지만 건물은 유지됩니다)
 
 #bc_menubdg_aband
-Abandon
+포기
 
 #bc_menubdg_aband2
-(building is disabled and decays with time)
+(건물이 비가동되며 시간에 따라 부식됩니다)
 
 #ui_menubdg_sleep1
-Sleep mode
+슬립모드
 
 #ui_menubdg_sleep2
-In sleep mode : all functionnalities are stopped until you activate it again. Building does not degrade with time (maintenance).
+슬립모드 : 재가동 전까지 모든 기능이 중단됩니다. Building does not degrade with time (maintenance).
 
 #ui_menubdg_build1
-Under contruction
+건설 중
 
 #ui_menubdg_build2
-This building is not finished and therefor not functional yet.
+건물은 건설 중에 있습니다.
 
 #ui_menubdg_fonct1
-Functional
+가동 중
 
 #ui_menubdg_fonct2
-This building is fully functional.
+이 건물은 가동 중에 있습니다.
 
 #ui_menubdg_morework1
-Missing workers
+노동자 부족
 
 #ui_menubdg_morework2
-This building needs more workers to be fully functional.
+건물이 완전 가동되기 위해 노동자를 더 필요로 합니다.
 
 #ui_menubdg_noworker1
-Empty
+비어있음
 
 #ui_menubdg_noworker2
-This building needs workers to be functional.
+가동되기 위해 노동자가 필요로 합니다.
 
 #ui_menubdg_deficit1
-Unprofitable
+수익성 없음
 
 #ui_menubdg_deficit2
-This building is currently unprofitable for its workers, operating at a loss. Its efficiency will be greatly affected and Porcos will avoid working here.
+해당 건물은 노동자에게 이익이 되지않고 손해를 보고 있습니다. 효율성은 돼지들에게 큰 영향을 미치며 이곳에서 노동하기를 기피할 것 입니다.
 
 #ui_menubdg_destr1
-Destroyed
+파괴됨
 
 #ui_menubdg_destr2
-This building needs to be rebuilt to be functional.
+해당 건물은 가동되기 위해 재건축되야합니다.
 
 #ui_menubdg_ruin1
-Abandonned
+버려짐
 
 #ui_menubdg_ruin2
-Abandonned and needs to be restored to be functional. No maintenance, and building degrades with time.
+버려진 상태이며 가동되기위해 복구해야합니다. 유지되지않으며 시간에 경과함에 따라 부식됩니다.
 
 #ui_menubdg_recycl1
-Demolishing
+파괴하기.
 
 #ui_menubdg_recycl2
-This building is beeing demolished. When the process is complete, it will be completely completely removed and some of it's materials will be recovered.
+이 건물은 철거되고 있으며 완료시 완전히 제거되고 일부 자재는 회수됩니다.
 
 #ui_menubdg_stckperm
-Stockage permissions :
+저장 허용여부 :
 
 #ui_menubdg_Usage
-Usage :
+사용 :
 
 #ui_menubdg_perslot
-per slot
+슬롯당
 
 #ui_menubdg_upto
-Upgrade to
+업그레이드:
 
 #ui_menubdg_upgrades
-Upgrades
+업그레이드
 
 #ui_menubdg_winc_1
-Income earned by each worker
+노동자당 수익성
 
 #ui_menubdg_winc_2
-Buidling activity: [x]
+활성화된 건물: [x]
 
 #ui_menubdg_winc_3
-State salary: [x]
+주 임금: [x]
 
 #ui_menubdg_winc_4
-Subventions: [x]
+정부 보조금: [x]
 
 #bc_menubdg_wake1
-Wake
+재가동
 
 #bc_menubdg_wake2
-(building becomes active again)
+(건물을 다시 활성화합니다)
 
 #bc_menubdg_rest1
-Restore
+복구
 
 #bc_menubdg_rest2
-(repair and restore functionnality of the building)
+(수리하고 건물의 기능을 복구합니다)
 
 #ui_upgbdg_upto
-Upgrade to
+업그레이드:
 
 #ui_upgbdg_rstr
-Restore
+복구
 
 #ui_menubdg_prod
-PRODUCTION
+생산
 
 #ui_menubdg_distrib
-TRADING
+거래
 
 #ui_menubdg_addan
-add a market stand
+시장 판매대 추가하기
 
 #ui_menubdg_addan2
-(reduces producing workforce)
+(생산 노동력 감소)
 
 #ui_menubdg_dtrb1
-This building can create market stands where workers will sell directly their products to the public, but it reduces it's producing workforce.
+이 건물은 노동자가 직접 대중에게 자신들의 상품을 판매할 수 있는 판매대를 설치할 수 있습니다. 그러나 노동력이 감소됩니다.
 
 #ui_menubdg_dtrb2
-This building cannot create maket stands because it cannot produce anything sellable to the public.
-
+이 건물은 대중에게 판매할 수 있는 상품이 없어 시장판매대를 건설할 수 없습니다
 #ui_menubdg_anx
-Annexes
+별관
 
 #bc_menubdg_expl
-exploited
+개발됨
 
 #bc_menubdg_nsource
-natural sources of
+천연자연:
 
 #ui_annex_add
-add annex
+별관 건설하기
 
 #ui_annex_txt1
-adds a new production source
+생산자원 추가하기
 
 #ui_annex_txt2
-directly distributes production
+직접 생산 분배하기
 
 #bc_annex_dstrb
-(selling [x])
+([x] 판매)
 
 #bc_annex_prod
-Provides additionnal production sources of [x].
+[x] 의 필요자원을 추가합니다.
 
 #bc_annex_eff
-Provides [x] of additionnal efficiency to the building.
+건물에 [x] 만큼 효율성을 추가합니다.
 
 #ui_annex_err1
-no resource available for production by this annex
+이 별관에서 이용가능한 자원이 없습니다
 
 #ui_annex_err2
-this building doesnt have any production valid for distribution
+해당 건물은 배분을 위한 생산이 없습니다.
 
 #bc_menubdg_selp
-select resource to produce
+생산하기 위해 자원 선택
 
 #bc_menubdg_nopran
-This building doesnt have any possible annexes.
-
+이 건물은 건설가능한 별관이 없습니다
 #regeco_taxes
-Taxe incomes
+세금 수입
 
 #regeco_taxes_c1
-Total perceived income from taxes in this territory.
+해당 영토에서 영수한 세금
 
 #regeco_tax_inc
-[x]% of income tax
+[x]% 의 소득세
 
 #regeco_tax_inc_c1
-Taxes all incomes made in this territory.
+해당영토에서 총 영수한 세금
 
 #regeco_tax_inc_c2
-Tax revenue: [x]% of [y] = [z] coins.
+세금 수입: [y] 의 [x]% = [z] 주화.
 
 #regeco_tax_share
--[x]% from territorial status
+-[x]% 만큼 영토상태에서 영수
 
 #regeco_tax_share_c1
-The current status of this territory grants you [x]% of all the generated tax incomes.
+영수된 모든 세금 중 해당 영토의 상태에서 [x]% 만큼 영수합니다..
 
 #regeco_waste
-Waste
+세금낭비
 
 #regeco_waste_c1
-The percentage of incomes lost because of waste and corruption in this territory.
+해당 영토에서 낭비와 부패로 인해 유실된 세금.
 
 #regeco_waste_c2
-With a waste rate of [x]%, we are currently losing [y] coins of tax income.
+해당 [x]% 의 세금낭비로 인해, [y] 주화 만큼 세금 수입이 손실되고있습니다.
 
 #regeco_wasted_c1
-Amount of income lost from waste.
+낭비로 인한 수입 손실양.
 
 #regeco_wastab_c1
-The total income subject to waste.
+낭비로 인한 총 수입손실.
 
 #regeco_wastab_c2
-Tax incomes: [x]
+세금 수입: [x]
 
 #regeco_wastab_c3
-Importations profits: [x]
+수익 이익: [x]
 
 #regeco_wastab_c4
-Exportations profits: [x]
+수출 이익: [x]
 
 #regeco_wastab_c5
-State resource sales: [x]
+주 자원 매출: [x]
 
 #regeco_wst_admin
-Local administration
+지역 관리
 
 #regeco_wst_admin_c1
-Waste caused by a weak or negative local administration.
+약하거나 부정적인 지방관리로 인한 낭비.
 
 #regeco_wst_stpwr
-State's corruption
+주의 부패
 
 #regeco_wst_stpwr_c1
-Corruption of state officials because of a weak or negative state power.
+약하거나 부정적인 권력때문에 발생한 주의 부패.
 
 #regeco_wst_pop
-Population's corruption
+인구의 부패
 
 #regeco_wst_pop_c1
-Corruption and waste from the total population in the region.
+지역내 총인구로 인한 부정과 부패.
 
 #regeco_wst_srvc
-Waste reduction services
+낭비 감소 서비스
 
 #regeco_wst_srvc_c1
-Waste reduction from active services such as Tax collection.
+세금 징수와 같은 서비스에 대한 낭비 감소.
 
 #regeco_upkeep
-City upkeep
+도시 유지비
 
 #regeco_upkeep_c1
-Some buildings or infrastructures require a maintenance cost to be paid by you (the governement).
+어떤 빌딩이나 기반시설은 유저로부터 유지비를 요구합니다.(정부)
 
 #regeco_salaries
-State salaries
+주 임금
 
 #regeco_salaries_c1
-The total cost of all state salaries paid in the territory.
+영토의 모든 도시로부터의 임금비용
 
 #regeco_up_bdg
-Buildings upkeep
+건물 유지비
 
 #regeco_up_bdg_c1
-Total maintenance cost of all state buildings in this territory (ex: official and militay buildings).
+영토 내 모든 도시 건물 유지비 (공관서나 군사기지등)
 
 #regeco_up_infr
-Infrastructures upkeep
+기반시설 유지비
 
 #regeco_up_infr_c1
-Total maintenance cost of all infrastructures in this territory (ex: walls or gardens that cost upkeep).
+영토 내 모든 도시 인프라의 총 유비지 (유지비가 드는 벽이나 정원등)
 
 #regeco_tradebal
-Trading balance
+거래잔고
 
 #regeco_tradebal_c1
-The final balance of all imported and exported goods expanses and incomes.
+모든 수출입 상품의 최종 잔액과 수입.
 
 #regeco_ii
-Imported goods local sales
+수입품 지역판매
 
 #regeco_ii_c1
-Revenues generated from all imported goods sold in the territory (at their local price).
+그 지역에서 판매되는 모든 수입품에서 발생하는 수익.
 
 #regeco_ic
-Imported goods purchasing cost
+수입상품구매원가
 
 #regeco_ic_c1
-Total cost paid for all the goods imported via trade routes to this territory (at their trade route price).
+무역로를 통해 이 지역으로 수입된 모든 상품에 대한 총비용(무역항로가격으로).
 
 #regeco_ei
-Exported goods sales
+수출상품판매
 
 #regeco_ei_c1
-Revenues of all the goods exported from this territory via trade routes (at their trade route price).
+이 지역에서 무역로를 통해 수출된 모든 상품의 수입(무역항로가격으로).
 
 #regeco_ec
-Exported goods purchasing cost
+수출상품구매원가
 
 #regeco_ec_c1
-Total cost paid for purchasing the exported goods to their local producers in this territory (at their local price).
+수출품을 이 지역의 현지 생산자가 구매하는데 드는 총비용(현지가격으로).
 
 #regeco_ers
-State-owned resources sales
+국유자원판매
 
 #regeco_ers_c1
-State-owned resources sold to population or industries.
+인구나 산업에게로의 국가 소유의 자원 판매
 
 #regeco_esr
-State-owned resources purchases
+국유자원매입
 
 #regeco_esr_c1
-Total paid auto-purchasing resources for the state (you).
+주(당신)의 총 유급 자동 구매 자원.
 
 #bc_menureg_cur1
-Currency beeing used in this territory:
+이 지역에서 사용되는 통화:
 
 #bc_menureg_cur2
-Irrelevant currency only used locally in this territory
+이 지역에서만 사용하는 관련 통화
 
 #b_menureg_coin
-coin value:
+화폐가치:
 
 #bc_menureg_coin1
-coins circulating for
+유통되는 동전의 가치
 
 #bc_menureg_coin2
-Value of 1 coin is approximatively
+1동전의 가치는
 
 #b_menureg_gdp
 GDP:
 
 #bc_menureg_gdp1
-Territorynal gross domestic product
+지역내총생산
 
 #bc_menureg_gdp2
-Sum of all the coin incomes in the territory
+그 지역의 모든 동전 수입의 합계
 
 #b_menureg_wlth
-territory wealth:
+영토의 재산:
 
 #bc_menureg_wlth
-Total wealth of the territory
+영토의 총 재산
 
 #ui_menureg_admin1
-Capacity
+수용치
 
 #ui_menureg_admin2
-State
+도시
 
 #ui_menureg_admin3
-Territory
+영토
 
 #bc_menureg_totpop
-Total population
+총인구
 
 #bc_menureg_totpop2
-Active population
+활동인구
 
 #bc_menureg_sprt1
-This territory is currently supporting [x] porcos in all it's formations.
+이 지역은 현재 [x] 부대를 유지지원하고 있습니다.
 
 #bc_menureg_sprt2
-It's demographics can support up to [x] porcos. Above that limit, the territory's growth is permanently impacted.
+인구통계학적으로 최대 [x]개의 부대를 지원할 수 있습니다. 그 한계 이상일 시 그 지역의 성장은 부정적 영향을 받습니다.
 
 #bc_menureg_lq1
-Average life quality
+평균 삶의 질
 
 #bc_menureg_int1
-Average intelligence
+평균 지능
 
 #b_menureg_hlth
-Health
+체력
 
 #bc_menureg_hlth
-Average population health
+평균 인구체력
 
 #ui_gen_m
 M
 
 #bc_gen_mainmenu
-open main menu
+메뉴 열기
 
 #bc_gen_speed
-set overall game speed to x[x]
+해당 [x] 만큼의 게임 속도
 
 #bc_gen_gameset
-current game settings
+현재 게임 설정
 
 #bc_gen_gov
-Government
+정부
 
 #bc_gen_chat
-Diplomacy
+외교
 
 #bc_gen_news
-Chronicles
+연대기
 
 #bc_gen_coin
-Treasury
+재무
 
 #bc_gen_cult
-Culture
+문화
 
 #bc_gen_fact
-Faction
+팩션
 
 #bc_gen_ev
-Events
+이벤트
 
 #bc_gen_honor
-Honor
+명예
 
 #sc_menubdg_getmax
-get max
+최대치
 
 #sc_menubdg_get
-get some
+부분 취득
 
 #sc_menubdg_empty
-empty some
+부분 비우기
 
 #sc_menubdg_emptyall
-empty all
+전부 비우기
 
 #sc_menubdg_destroy
-destroy some
+일부분 파괴
 
 #sc_menubdg_forbid
-forbid
+금지
 
 #sc_menubdg_auth
-authorize
+권한 부여
 
 #sc_menubdg_allowv
-allow everything
+모두 허용
 
 #sc_menubdg_restrict
-restricted
+제한
 
 #sc_menubdg_allow
-allow
+허용
 
 #bc_menubdg_perm
-Select how resources are accepted in this storage building
+이 저장소에서 어떻게 자원이 수용될 지 선택
 
 #b_menubdg_allempty
-empty all
+전부 비우기
 
 #b_menubdg_alldestr
-destroy all
+전부 부시기
 
 #bc_menubdg_move
-move
+이동
 
 #bc_menubdg_move2
-deconstruct this building and rebuild it elsewhere
+이 건물을 헐고 다른 곳에 다시 짓기.
 
 #ui_gov_name
-Government of
+다음 유저의 정부:
 
 #ui_gov_actpol
-ACTIVE POLICIES
+활성화된 정책
 
 #ui_gov_coins
-state coins
+도시 주화
 
 #ui_gov_ecobalance
-current budget balance
+경상예산수지
 
 #ui_gov_legit
-current legitimacy of the government
+현 정부의 정통성
 
 #ui_gov_power
-current state power
+현 국가권력
 
 #ui_gov_pdgreform
-You have a pending reform that is not applied. Are you sure you want to close this menu and discard this reform (policy changes will not be applied)?
+당신은 적용되지 않은 미결된 개혁이 있습니다. 이 메뉴를 닫고 이 개혁(정책 변경은 적용되지 않음)을 폐기하시겠습니까?
 
 #ui_gov_gdp
 GDP
 
 #ui_gov_gdp_c1
-The current Gross Domestic Product of all your territories.
+당신의 모든 영토의 현재 국내 총생산.
 
 #ui_gov_gdp_c2
-It's calculated by summing up the gross incomes generated in all your territories over 10 production cycles.
+당신의 모든 영토에서 발생한 총수입을 10번의 생산 주기에 걸쳐 합산하여 계산된 것 입니다.
 
 #bc_selpolicy
-list of available new policies
+이용 가능한 새 정책 목록
 
 #ui_gov_nopol
-no new policies available!
+이용가 능한 새로운 정책이 없습니다!
 
 #ui_civ_repl
-replaces '[x]'
+'[x]' 를 대체
 
 #ui_civ_req
-requires '[x]'
+'[x]' 가 필요합니다
 
 #ui_civ_on
-ADD IN REFORM
+개혁을 추가하기
 
 #ui_civ_on_c
-click to add this new policy to the reform
+이 새로운 정책을 개혁에 추가하기 위해 클릭하다.
 
 #ui_civ_off
-REVOQUE IN REFORM
+개혁을 취소하기
 
 #ui_civ_off_c
-click to add the revocation of this policy to the reform
+이 정책의 취소를 개혁에 추가하기 위해 클릭하기.
 
 #ui_civ_cncl
-CANCEL FROM REFORM
+개혁을 취소하기
 
 #ui_civ_cncl_c
-click to remove this pending modification from your reform
+당신의 개혁에서 이 미결된 수정을 없애기 위해 클릭하시오.
 
 #ui_civ_warn
-(note that you need to apply the reform before these changes actually take effect)
+(이러한 변화들이 실제로 효력을 발휘하기 전에 개혁을 적용할 필요가 있음에 유의하세요.)
 
 #ui_defaultciv
-default policy
+기본 정책
 
 #bc_defaultciv1
-default policies cannot be revoqued or passed manually.
+기본 정책은 취소되거나 수동으로 통과시킬 수 업습니다.
 
 #bc_defaultciv2
-they appear automatically when no other policy is active.
+그들은 다른 정책이 활성화되지 않아 있을 때 자동적으로 나타납니다.
 
 #ui_stateeffect
 STATE EFFECTS
 
 #bc_stateeffect
-pending reform effect
+대기 중인 개혁 효과
 
 #b_applyreform
-APPLY REFORM
+개혁 적용하기
 
 #bc_applyreform
-click to submit your reform and make all your pending changes on policies effective.
+당신의 개혁을 제출하고 정책에 대한 당신의 모든 미결된 변경들을 효과적이게 만드세요.
 
 #b_reform_cflct
-Reform effect: +[x] conflict in all territories
+개혁 효과: 모든 영토에서 분쟁 +[x] 
 
 #b_reform_cflct_c1
-Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] of conflict in all of your territories.
+주의! 당신의 선택한 개혁은 당신의 모든 영토에서 분쟁도에 즉각적으로 [x] 만큼의 패널티를 초래할 것입니다.
 
 #b_reform_loyal
-Reform effect: -[x] loyalty in all territories
+개혁효과: 모든 영토에서 -[x] 만큼의 충성도
 
 #b_reform_loyal_c1
-Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] loyalty in all of your territories.
+주의! 당신의 선택한 개혁은 당신의 모든 영토에서 충성도에 즉각적으로 [x] 만큼의 패널티를 초래할 것입니다.
 
 #ui_eco_title
-TREASURY
+국고
 
 #ui_eco_balance
-Budget balance
+예산수지
 
 #ui_eco_dscr
-The treasury is the total amount of coins your government owns. Economic policies define how the economy of your society is currently organized.
+국고는 당신의 정부가 가지고 있는 주화의 총액이다. 경제 정책은 현재 당신 사회의 경제가 어떻게 조직되고 있는지를 규정한다.
 
 #ui_eco_notrsr_dscr
-This society currently works without any form of currency and it's people simply share everything in community: the government has no treasury nor incomes or explanses.
+이 사회는 현재 어떠한 형태의 통화도 없이 활동하며 사람들은 지역사회에서 모든 것을 공유한다. 정부는 재정도 없고 수입도 없으며 지출도 없다.
 
 #ui_eco_lead
-Leader's personnal wealth
+지도자의 개인재산
 
 #ui_eco_lead_c1
-The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
+지도자는 현재 [y] 자신의 개인 총 재산의 [x]%를 정부 재정에 할당하고 있다.
 
 #ui_eco_tax
-Taxes incomes
+세금수입
 
 #ui_eco_tax_c1
-Sum of all the tax incomes from all your territories.
+당신의 모든 영토로부터의 모든 세금 수입의 합계.
 
 #ui_eco_contrib
-Voluntary contributions
+자발적 기여
 
 #ui_eco_contrib_c1
-In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (20% of their incomes).
+조직세가 없는 사회에서 소득은 사람들의 사회를 위한 자발적기여로 부터 나온다.(소득의 20%)
 
 #ui_eco_wast
-Waste
+낭비
 
 #ui_eco_wast_c1
-Tax incomes lost because of Waste in your territories. Waste is a result of low territory administration.
+당신 영토로부터의 낭비로 세금 수입이 줄었습니다. 낭비는 저효율 지방 행정으로 인하여 발생됩니다.
 
 #ui_eco_bdgs
-Buildings upkeep
+건물 유지비
 
 #ui_eco_bdgs_c1
-Total upkeep of all buildings in all your territories.
+당신의 모든 영토에 있는 모든 건물의 총유지.
 
 #ui_eco_infr
-Infrastructures upkeep
+기반시설 유지비
 
 #ui_eco_infr_c1
-Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
+벽이나 도로와 같은 모든 지역의 모든 기반시설을 유지하는 총비용.
 
 #ui_eco_units
-Units upkeep
+유닛 유지비
 
 #ui_eco_units_c1
-Total upkeep of all units in all your formations.
+당신의 모든 부대에 속한 모든 유닛의 총 유지비.
 
 #ui_eco_salar
-Wages
+임금
 
 #ui_eco_salar_c1
-Total spent on state wages.
+임금에 지출된 총비용.
 
 #ui_eco_trt
-Treaties
+조약
 
 #ui_eco_trt_c1
-Coins sent or received from other states through your currently active treaties.
+현재 활성화된 조약들을 통해 다른 주(도시)들로부터 송수신되는 주화들.
 
 #ui_eco_civc
-Civics maintenance
+시민 유지
 
 #ui_eco_civc_c1
-Total cost of maintaining all our currently active civics.
+현재 활동 중인 모든 시민의식을 유지하는 데 드는 총비용.
 
 #ui_eco_proj
-Current projects
+현재 프로젝트
 
 #ui_eco_proj_c1
-Total cost of all the projects currently in progress.
+현재 진행 중인 모든 프로젝트의 총비용.
 
 #ui_eco_nat
-Nation
+국가
 
 #ui_eco_nat_c1
-Taxes from subordinates: [x]
+부하들로부터의 세금: [x]
 
 #ui_eco_nat_c2
-Taxes for your hierarchic superior: [x]
+당신의 계층적 상관에 대한 세금: [x]
 
 #ui_eco_tradbal
-Trade balance
+무역수지
 
 #ui_eco_tradbal_c1
-The trade balance across all your territories from all your current trade routes.
+현재의 모든 무역 경로에서 당신의 모든 영토에 걸친 무역수지
 
 #ui_eco_tradbal_c2
-State resources: +[x] sales -[y] purchases
+주 자원: +[x] 매출 -[y] 구매
 
 #ui_eco_tradbal_c3
-Importations: +[x] sales -[y] purchases
+수입: +[x] 매출 -[y] 구매
 
 #ui_eco_tradbal_c4
-Exportations: +[x] sales -[y] purchases
+수출: +[x] 매출 -[y] 구매
 
 #ui_eco_tradbal_c5
-Cargo: +[x] sales -[y] purchases
-
+화물: +[x] 매출 -[y] 구매
 #ui_mres_storvar
-STORAGE VARIATION
+저장 변수
 
 #ui_mres_prod
-PRODUCTION
+생산
 
 #ui_mres_imp
-IMPORT
+수입
 
 #ui_mres_dist
-DISTRIBUTION
+배분
 
 #ui_mres_ind
-INDUSTRIES
+산업
 
 #ui_mres_exp
-EXPORT
+수출
 
 #ui_price_base
-Minimum price: [x]
+최소 가격: [x]
 
 #ui_price_base_c1
-This is the minimum price possible for this resource, regardless of the other factors.
+이것은 다른 요인에 관계없이 이 자원에 대해 가능한 최소 가격이다.
 
 #ui_price_base1
-Production cost ([x]%)
+생산비용 ([x]%)
 
 #ui_price_base1_c1
-The cost of local production for this resource based on the cost of required materials.
+이 자원에 대한 현지 생산품의 비용은 필수 자재 비용에 근거한다.
 
 #ui_price_base2
-Importation cost ([x]%)
+수입 비용 ([x]%)
 
 #ui_price_base2_c1
-The cost of importation of this resource from current trade routes.
+현재 교역로에서 이 자원을 수입하는 비용.
 
 #ui_price_base3
-Profit margin
+매출액 이윤
 
 #ui_price_base3_c1
-Ensuring minimum profits for the producers of +20% of the production cost.
+제작비의 +20%를 생산자에게 최저 이윤을 보장한다.
 
 #ui_price_base3_c2
-Increased to +30% of the production cost if the resources is distributed via merchants, as their cut also needs to be taken into account by the producers.
+자원을 상인을 통해 분배할 경우, 수수료까지 감안하여야 하기 떄문에 생산비의 +30%까지 증가시킨다.
 
 #ui_price_work
-Base price
+기준 가격
 
 #ui_price_work_c1
-Price based on the amount of work required to produce this resource.
+가격은 이 자원을 생산하는 데 필요한 작업량에 근거한다.
 
 #ui_price_work_c2
-Worforce required per resource unit: [x]
+자원 단위당 필요한 노동량: [x]
 
 #ui_price_mkt
-Market study:  [x]
+시장조사:  [x]
 
 #ui_price_mkt_c1
-Study of the current markets for this resource to determine its ideal price and ensure maximum profits for its producers and traders.
+이상적인 가격을 결정하고 생산자와 거래자에게 최대의 이익을 보장하기 위해 이 자원에 대한 현재 시장을 연구한다.
 
 #ui_price_mkt1
-Public market ([x]%)
+공공시장 ([x]%)
 
 #ui_price_mkt1_c1
-The public study is based on the purchasing power of all the population classes consumming this resource and the amount being distributed on the public market. This is the ideal price at which the profits would be optimal for the merchants selling this resource.
+공공연구는 이 자원을 소비하는 모든 인구 계층의 구매력과 공공 시장에 분배되는 양에 기초한다. 이 자원을 판매하는 상인들에게 이익이 최적일 수 있는 이상적인 가격이다.
 
 #ui_price_mkt2
-Industries market ([x]%)
+산업시장 ([x]%)
 
 #ui_price_mkt2_c1
-The industrial study is based on how much revenue is generated by industries using this resource as a material. A share of these revenues will be coveted and that determines the ideal price of this resource for industrial consumption.
+산업 연구는 이 자원을 재료로 사용하는 산업에서 얼마나 많은 수익을 창출하는가에 기초한다. 이 수익은 동경의 대상이 되어 산업 소비에 대한 이 자원의 이상적인 가격을 결정할 것이다.
 
 #ui_price_mkt3
-Exportations ([x]%)
+수출 ([x]%)
 
 #ui_price_mkt3_c1
-The average price of exportations and their share of the local market influences the price study proportionnally.
+수출품의 평균 가격과 국내 시장에서의 그들의 몫은 비례적으로 가격 연구에 영향을 미친다.
 
 #ui_price_sd
-Supply/demand: [x]%
+공급/수요: [x]%
 
 #ui_price_sd_c1
-The ratio of total supply with total demand influences the price both ways, resulting from the competition between traders or between buyers.
+총수요가 있는 총공급의 비율은 거래자간 또는 구매자간 경쟁으로 인해 양쪽의 가격에 영향을 미친다.
 
 #ui_price_sd_c2
-Supply: [x] units
+공급: [x] 단위
 
 #ui_price_sd_c3
-Demand: [x] units
+수요: [x] 단위
 
 #ui_price_arb
-Price arbitrage
+차익거래
 
 #ui_price_arb_c1
-Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
+차익거래는 이 영토와 인근 지역(당신과 무역 관계를 맺고 있는 외국 사람) 간에 큰 가격 차이가 있을 때 발생할 수 있다.
 
 #ui_price_arb_c2
-The average price in this area of the world is of [x] coins.
+이 지역의 평균 가격은 [x] 주화입니다.
 
 #ui_price_arb_c3
-With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
+[x]%의 가격차이로, 세계가격은 현지가격에 대해 [y]%의 영향을 미쳐 최종가격에 [z]의 차익거래 효과가 된다.
 
 #ui_price_arb_c4
-No price arbitrage: no nearby territories are currently using this resource.
+차익거래 없음: 어떤 인근 지역도 현재 이 자원을 사용하고 있지 않다.
 
 #ui_mres_ststk
-State owned
+국유
 
 #ui_mres_ststk_c1
-Resources you own directly yourself as the state, as opposed to the rest of it owned privately by your population. New resources start initially owned by their respective producers.
+시민에 의해 개인적으로 소유되는 자원들과 달리, 당신이 직접 소유한 자원들. 새로운 자원은 처음에는 각각의 생산자들이 소유하기 시작한다.
 
 #ui_mres_ststk_c2
-You do not have to buy the resources you already own when using them and you also earn back incomes if used by third parties such as industries or traders.
+당신은 그것을 사용할 때 당신이 이미 가지고 있는 자원을 살 필요가 없고 산업이나 무역업자와 같은 제3자가 사용한다면 당신은 또한 이익을 얻는다.
  
 #ui_mres_ststk_c3
-You currently own [x] of the [y] [z] currently stocked in this territory.
+당신은 현재 이 지역에 비축되어 있는 [y] [z]의 [x]를 소유하고 있다.
 
 #ui_mres_stres
-State resource
+국가 자원
 
 #ui_mres_stres_c1
-If declared a State Resource, the whole production of this resource will be automatically purchased by the state as they are produced.
+만일 국가 자원을 선포하면, 이 자원의 전체 생산은 생산되는 대로 국가가 자동으로 구매하게 된다.
 
 #ui_mres_stres_c2
-A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work.
+무기나 도구 등 국가가 독점적으로 사용하는 전략 자원에 유용한 옵션으로, 생산자가 작업에 대한 정기적인 수입을 얻을 수 있도록 한다.
  
 #ui_mres_stmntn
-Maintain ownership
+소유권 유지
 
 #ui_mres_stmntn_c1
-The amount of resources in stocks to maintain direct ownership of. 
+주식의 직접 소유권을 유지하기 위한 자원의 양
 
 #ui_mres_stmntn_c2
-If below the specified amount, new resources going into storage will be automatically purchased by the state until the required amount is reached.
+지정된 양보다 낮은 경우, 필요한 양에 도달할 때까지 주(州)에서 저장소로 들어가는 새로운 자원을 자동으로 구입하게 된다.
  
 #ui_mres_access
-POPULATION ACCESS
+인구 접근
 
 #uic_mres_access
-Population's satisfaction percentage of their need for this resource
+이 자원에 대한 인구 만족도의 비율
 
 #ui_mres_dist_need
-Ideally needed
+이상적 필요치
 
 #uic_mres_dist_need
-Theoric amount needed for a 100% access, regardless of price and affordability by the population
+인구에 의한 가격 및 경제성에 관계없이 100% 접속에 필요한 양
 
 #ui_mres_dist_dem
-Demand
+수요
 
 #uic_mres_dist_dem
-Amount actually demanded to merchants by porcos who can afford it at it's current price
+현재 가격으로 물건을 살 수 있는 사람이 실제로 상인에게 요구하는 금액
 
 #ui_mres_dist_avail
-Supply
+공급
 
 #uic_mres_dist_avail
-Amount currently distributed on the market
+현재 시중에 유통되는 금액
 
 #ui_mres_dist_sold
-Sold
+매출
 
 #uic_mres_dist_sold
-Amount sold to the population
+인구에 판매된 금액
 
 #ui_bdgeff_bdg
-building
+건물
 
 #ui_bdgeff_state
-state
+국가
 
 #ui_bdgeff_plac
-placement
+투자
 
 #ui_bdgeff_profit
-unprofitability ([x]%)
+무익함 ([x]%)
 
 #ui_mres_indaccess
-INDUSTRIES ACCESS
+산업 접근
 
 #uic_mres_indaccess
-Industries access to this resource as a material
+재료로서 이 자원에 대한 산업계의 접근
 
 #ui_mres_indneed
-Demand
+수요
 
 #uic_mres_indneed
-Amount of this resource required by industries
+업종별 소요 자원량
 
 #ui_mres_indsold
-Sold
+매출
 
 #uic_mres_indsold
-Amount of this resource actually distributed and sold to industries needing it
+실제로 배분되고 이것을 필요로 하는 산업에 판매된 자원의 양
 
 #ui_mres_prodcost
-Production cost
+생산비용
 
 #uic_mres_prodcost
-Average cost of buying required materials to produce one unit of this resource
+이 자원의 1단위를 생산하는 데 필요한 재료의 평균 구매비용
 
 #ui_menubdg_merchsup
-supply
+공급
 
 #ui_mres_costimp
-cost of imports
+수입원가
 
 #uic_mres_costimp
-The total cost paid (by the state) for the amount being imported through trade routes.
+무역로를 통해 수입되는 금액에 대해 국가가 지불한 총비용.
 
 #bc_menubdg_rsell
-select resource to sell with this merchant
+이 상인과 함께 팔 자원을 선정.
 
 #bc_menubdg_lmtd
-Limited distribution
+제한배분
 
 #bc_menubdg_lmtd_c1
-Click to toggle limited distribution for this merchant. Allows you to control the amount of the resource distributed to the public market.
+이 상인에 대한 제한된 배포를 전환하려면 클릭하십시오. 공공 시장에 분배되는 자원의 양을 제어할 수 있다.
 
 #ui_menubdg_hire
-Hire one
+한명 고용
 
 #ui_menubdg_fire
-Fire one
+한명 해고
 
 #ui_menubdg_wkprio
-Priority of filling jobs in this building.
+이 건물에 일차리 채우는 것을 우선으로 두기
 
 #storpol
-Storage policy
+저장정책
 
 #storpol_all
-all storages
+모든 창고
 
 #storpol_c_all1
-Stocking of this resource is allowed in any available storage. 
+이 자원의 비축은 이용 가능한 모든 창고에 허용된다.
 
 #storpol_c_all2
-Will even be stocked directly on ground if there is no available space.
+사용 가능한 공간이 없다면 지상에 직접 비축될 것이다.
 
 #storpol_restr
-only in restricted
+제한적으로만
 
 #storpol_c_restr1
-Only valid storages in restricted mode are allowed to stock this resource.
+제한된 모드의 보관만 이 자원을 비축할 수 있다.
 
 #storpol_c_restr2
-If none is available, the extra resources are destroyed.
+사용할 수 있는 것이 없으면 여분의 자원이 파괴된다.
 
 #storpol_none
-no stocking
+비축 금지
 
 #storpol_c_none1
-The stocking of this resource is disabled.
+이 자원의 비축은 금지되어있음.
 
 #storpol_c_none2
-All the extra resources are destroyed.
+여분의 자원은 모두 파괴된다.
 
 #stormntn
-Maintain stock
+재고유지
 
 #stormntn_c
-If the current stock is below the desired value, 25% of the production will be reserved and locked in order to increase the stock. 
+현재 재고가 원하는 값을 밑돌 경우 증산을 위해 생산량의 25%를 예약고정된다.
 
 #stormntn_set
-Set maintaining stock at minimum of [x] [y]. 
+최소 [x] [y]의 재고유지를 설정한다.
 
 #storownr_set
-Set maintaining ownership of minimum [x] [y]. 
+최소 [x] [y] 소유권 유지를 설정한다.
 
 #storownr_enab
-[x] is now a State Resource (all production auto-purchased by you). 
+[x]는 이제 국가 자원(당신이 모든 생산품을 자동 구매)이다.
 
 #storownr_disab
-[x] no longer is a State Resource (no auto-purchasing of production). 
+[x]는 더 이상 국가 자원이 아니다(생산 자동구매 금지).
 
 #regeco_eff
-Effects: affects your government's treasury positively or negatively 
+효과: 정부 재정에 긍정적 또는 부정적 영향을 미친다.
 
 #regeco_1
-The budget balance of your territory is the result of all incomes and expenses specific to this territory such as taxes, salaries and maintenance costs.
+당신의 영토의 예산수지는 세금, 봉급, 유지비용과 같은 이 지역에 특정한 모든 수입과 비용의 결과물이다.
 
 #regeco_2
-Budget can also be negatively affected by Waste. It represents incomes lost to tax fraud, bad management, corruption and 'black economy'.
+예산 또한 낭비에 의해 부정적인 영향을 받을 수 있다. 그것은 세금 사기, 나쁜 경영, 부패 그리고 '지하 경제'로 잃어버린 수입을 나타낸다.
 
 #regadmin_eff
-Effects: increases budget incomes (-waste)
+효과: 예산수입(-낭비) 증가
 
 #regadmin_1
-Administration represents your government's management capacity in this territory.
+관리는 이 지역에서 당신의 정부의 관리 능력을 나타낸다.
 
 #regadmin_2
-The more population and distance from the capital, the harder it is to manage the territory. But it can also be improved by active policies and services in the territory such as Scribes helping in the territory's administration.
+인구와 수도와의 거리가 많을수록 영토 관리가 더 어려워진다. 그러나 서기와 같은 영토 내의 적극적인 정책과 서비스를 통해 개선될 수 있다.
 
 #regconf_eff
-Effects: decreases growth (+murders), decreases loyalty (-authority)
+효과: 성장감소(+마더), 충성(-권한) 감소
 
 #regconf_1
-Conflict represents the level of random conflicts between the people of the territory.
+분쟁은 그 영토의 국민들 사이의 임의의 충돌의 정도를 나타낸다.
 
 #regconf_2
-Active government civics and services in the territory such as Justice can help reduce it.
+재판과 같은 영토에서 적극적인 정부 윤리와 서비스는 그것을 줄이는 데 도움을 줄 수 있다.
 
 #regloy_eff
-Effects: prevents population rebellion
+효과:반란을 방지함
 
 #regloy_1
-Loyalty represents the global loyalty of the territory's people to you: the central government controlling this territory.
+충성도는 당신에게 그 지역 주민들의 충성을 나타낸다: 중앙정부가 이 영토를 통제하는 것이다.
 
 #regloy_2
-It is affected by many factors such as the culture of the people, the level of conflict in the territory, active policies, past events or authority of the government in the territory. If Loyalty gets too low (below 30%), there will be a high risk of global popular uprising that can lead to losing the control of the territory.
+국민의 문화, 영토 내 갈등 수준, 적극적인 정책, 과거 사건이나 영토 내 정부의 권한 등 여러 요인에 의해 영향을 받는다. 충성도가 너무 낮아지면(30% 미만) 영토 통제력 상실로 이어질 수 있는 글로벌 민중봉기의 위험성이 커진다.
 
 #regcltr_eff
-Effects: contributes to your total culture, affects loyalty, increases population's intelligence
+효과: 당신의 전체 문화에 기여하고, 충성도에 영향을 주며, 인구의 지능을 높인다.
 
 #regcltr_1
-Culture represents the total knowledges, customs and behaviors of the people in this territory.
+문화는 이 영토에 사는 사람들의 전체적인 지식, 관습, 행동을 나타낸다.
 
 #regcltr_2
-A total culture based on the amount of population can then be shared between different types of cultures. "State culture" represents your culture. "Local culture" represents customs and behaviors specific to this territory and different from your main culture shared among all your people. Other foreign cultures might also be present.
+인구의 양에 기초한 전체 문화는 다른 유형의 문화 사이에서 공유될 수 있다. "국가 문화"는 당신의 문화를 대표한다. "지방 문화"는 이 영토에 특정한 관습과 행동을 나타내며, 모든 사람들이 공유하는 당신의 주요 문화와는 다르다. 다른 외국 문화도 존재할 수 있다.
 
 #regcltr_intgr
-Cultural integration of the nation
+국가의 문화 통합
 
 #regcltr_intgr_c1
-This territory's culture has fully integrated the nation of [x], as its been part of it for a long time.
+이 지역의 문화는 오랫동안 국가의 일부로서 [x]에 완전히 통합하였다.
 
 #regcltr_intgr_c2
-Transfering this territory between nation members generates 50% less resistance.
+이 영토를 국가 구성원 간에 이전하면 저항이 50% 감소한다.
 
 #regcltr_notintgr_c1
-This territory's culture hasn't integrated the nation of [x] yet. It will be in [y]. 
+이 지역의 문화는 아직 [x] 국가에 통합하지 못했다. 그것은 [y]에 있을 것이다.
 
 #reggrwth_eff
-Effects: determines the evolution of your population.
+효과: 당신의 인구의 진화를 결정한다.
 
 #reggrwth_1
-Growth represents the current demographic evolution of your population in this territory. 
+성장은 이 지역에서 당신의 인구의 현재 인구통계학적 진화를 나타낸다.
 
 #reggrwth_2
-Growth is greatly dependent on the "breeding will" of the people which determines how many couples will have children within the next generation.
+성장은 다음 세대 안에 얼마나 많은 부부가 아이를 낳을지를 결정하는 국민의 '육아 의지'에 크게 좌우된다.
 
 #popw_base
-Base wealth
+기본 부
 
 #popw_income
-Porco's income
+민간 수입
 
 #popw_priv
-Priviledges
+권한
 
 #popneed_sat
-NEEDS SATISFACTION
+욕구 충족
 
 #popstat_wealth
-WEALTH
+부
 
 #popstat_wealth_c1
-A porco's wealth defines it's purchasing power.
+사람의 재산은 그것이 구매력이라고 정의한다.
 
 #popstat_wealth_c2
-A porco can fully afford any valuable priced equally or bellow it's wealth level.
+사람은 어떠한 재산에 대해 동등하게 가격을 지불할 수 있고 재산 수준 이하로도 지불할 수 있음
 
 #popstat_health
-HEALTH
+체력
 
 #popstat_health_c1
-Health determines life span and resistance to deseases.
+건강은 수명을 결정하고 질병에 대한 저항력을 결정한다.
 
 #popstat_health_c2
-It improves population's growth.
+인구의 성장을 향상시킨다.
 
 #poph_base
-Base health
+기본 체력
 
 #poph_base_c1
-The default health for this population class.
+이 인구 계층의 기본 건강
 
 #poph_ter
-Terrain effect
+지형 효과
 
 #poph_ter_c1
-Climate [y] modifyer: [x]
+기후[y] 조정자: [x]
 
 #poph_ter_c2
-Is a swamp: [x]
+늪: [x]
 
 #poph_housing
-Housing effect
+주택효과
 
 #poph_housing_c1
-Each lodging provides a health bonus to its residents.
+주택마다 주민에게 건강 보너스를 지급한다.
 
 #poph_housing_c2
-This is the average housing health bonus of logdings occupied by this population class.
+이것은 이 인구 계층이 점유한 대수층의 평균 주택 건강 보너스다.
 
 #poph_totpop
-Total population
+총인구
 
 #poph_totpop_c1
-Overall population in the territory decreases health.
+그 지역의 전체 인구는 건강을 감소시킨다.
 
 #poph_foodqual
-Food quality of [x]
+[x]의 식품품질
 
 #poph_foodqual_c1
-Higher food quality increases health.
+음식의 질이 높아지면 건강도 높아진다.
 
 #poph_foodqual_c2
-Current food quality access: [x]
+현재 식품품질접근 : [x]
 
 #poph_serv
-Health services
+헬스 서비스
 
 #poph_serv_c1
-Some services (such as doctors) provide a health bonus to those who have access to it.
+일부 서비스(의사 등)는 그것에 접근할 수 있는 사람들에게 건강 보너스를 제공한다.
 
 #poph_vitals
--[x]% from missing vital needs
+중요 욕구 결여로 의해 -[x]% 
 
 #poph_vitals_c1
-Missing vital needs affects overall health proportionnally.
+필수요건의 결여는 전반적인 건강상태에 비례하여 영향을 미친다
 
 #popstat_lifequal
-LIFE QUALITY
+삶의 질
 
 #popstat_lifequal_c1
-The quality of life is a score measuring how good and comfortable the porco's life is.
+삶의 질은 한 사람의 삶이 얼마나 좋고 편안한지를 가늠하는 점수다.
 
 #popstat_lifequal_c2
-It affects many other things such as intelligence, happyness or growth.
+그것은 지능, 행복, 성장과 같은 다른 많은 것들에 영향을 미친다.
 
 #poplq_vitals
-Vital needs
+중요 욕구
 
 #poplq_vitals_c1
-Life quality gained by the satisfaction and quality of vital needs.
+삶의 질은 필수적인 욕구의 만족과 질에 의해 향상된다.
 
 #poplq_vitals_c2
-Vital needs are satisfied at [x]%.
+필수 욕구는 [x]%로 충족된다.
 
 #poplq_house
-Housing quality
+주택품질
 
 #poplq_house_c1
-Life quality gained by the average housing quality of lodgings occupied by this population.
+이 인구가 점유하고 있는 주택의 평균 주거품질에 의해 삶의 질이 향상되었다.
 
 #poplq_house_c2
-Average quality of lodgings: [x].
+주거의 평균 품질: [x]
 
 #poplq_house_c3
-(requires satisfaction of vital needs)
+(중요 욕구의 충족 필요)
 
 #poplq_2nd
-Secondary needs
+이차적 욕구
 
 #poplq_2nd_c1
-Life quality gained by the satisfaction and quality of secondary needs.
+2차적 욕구의 만족과 질에 의해 삶의 질이 향상된다.
 
 #poplq_2nd_c2
-(requires satisfaction of vital needs)
+(중요 욕구의 충족 필요)
 
 #poplq_3rd
-Teritiary needs
+삼차적 욕구
 
 #poplq_3rd_c1
-Life quality gained by the satisfaction and quality of tertiary needs.
+3차적 욕구의 만족과 질에 의해 삶의 질이 향상된다.
 
 #poplq_3rd_c2
-(requires satisfaction of secondary needs)
+(2차적중요 욕구의 충족 필요)
 
 #poplq_4th
-Quaternary needs
+사차적 욕구
 
 #poplq_4th_c1
-Life quality gained by the satisfaction and quality of quaternary needs.
+4차적 욕구의 만족과 질에 의해 삶의 질이 향상된다.
 
 #poplq_4th_c2
-(requires satisfaction of tertiary needs)
+(3차적중요 욕구의 충족 필요)
 
 #popstat_intel
-INTELLIGENCE
+지능
 
 #popstat_intel_c1
-Intelligence is one's ability to create algorythms measuring probabilities of Truth.
+지능은 진리의 확률을 측정할 수 있는 능력을 만드는 능력이다.
 
 #popstat_intel_c2
-Intelligent porcos will generate more ideas and culture, but tend to be unhappier and harder to control.
+지능적인 돼지들은 더 많은 아이디어와 문화를 만들어낼 것이지만, 더 불행하고 통제하기 어려운 경향이 있다.
 
 #popint_base
-Base intelligence
+기본 지능
 
 #popint_base_c1
-The default intelligence level of this species.
+이 종의 기본 지능 수준.
 
 #popint_serv
-Education services
+교육 서비스
 
 #popint_serv_c1
-Intelligence gained from access to education services such as schools.
+학교 등 교육 서비스에 대한 접근으로 습득지능 .
 
 #popint_lq
-Life quality
+삶의 질
 
 #popint_lq_c1
-Intelligence gained from current Life Quality.
+현재 삶의 질로 부터 얻은 지능
 
 #popint_lq_c2
-Each point of Life Quality provides +0.75 of Intelligence.
+삶의 질은 각각 +0.75의 지능을 제공한다.
 
 #popint_kn
-Total knowledges
+총 지식
 
 #popint_kn_c1
-The total of your current knowledges increases overall intelligence. 
+현재 알고 있는 지식의 총계는 전체적인 지능을 증가시킨다.
 
 #popint_cult
-Territory's culture
+영토의 문화
 
 #popint_cult_c1
-The total culture in this territory increases the overall intelligence of its population.
+이 지역의 전체 문화는 전체 인구의 지능을 높인다.
 
 #popneed_qual
-satisfaction quality
+만족의 질
 
 #popneed_access
-access
+접근
 
 #popneed_food
-foods
+음식
 
 #popneed_water
-water
+물
 
 #popneed_furnish
-furnishings
+가구
 
 #popneed_cloth
-clothing
+옷단장
 
 #popneed_alco
-alcohols
+술
 
 #popneed_entert
-entertainments
+유흥거리
 
 #popneed_lux
-luxury
+호화로움
 
 #popneed_pfood
-pleasure foods
+향락 음식
 
 #popneed_social
-social
+사회성
 
 #popneed_2
-secondary needs
+이차욕구
 
 #popneed_3
-tertiary needs
+삼차욕구
 
 #popneed_4
-quaternary needs
+사차욕구
 
 #popneed_unsat
-(-[x]% for unsatisfied needs of higher priority)
+(높은 우선순위 미충족도 으로 인한 -[x]% )
 
 #popneed_lq
-life quality bonus: +[x]
+삶의 질 보너스: +[x]
 
 #cltrstat_prod
-Population
+인구
 
 #cltrstat_prod_c1
-Amount of state culture currently generated in the territory by its population.
+현재 그 영토에서 그 인구에 의해 생성된 국가 문화의 양.
 
 #cltrstat_pop
-Raw culture production
+원시문화생산
 
 #cltrstat_pop_c1
-Amount of raw culture produced by the population.
+인구에 의해 생산된 원시 문화의 양.
 
 #cltrstat_pop_c2
-[x] porcos of [y] intelligence are currently producing [z] of culture.
+[y] 지능의 [x] 돼지는 현재 문화의 [z]를 생산하고 있다.
 
 #cltrstat_local
--[x]% of local culture
+-[x]%의 지역문화
 
 #cltrstat_local_c1
-[x]% of the culture produced by the population is local.
+[x] 만큼의 문화비중은 지방인구이다.
 
 #cltrstat_local_c2
-- local culture from capital distance: +[x]%
+-자본거리에서 본 지역문화 : +[x]%
 
 #cltrstat_local_c3
-- local culture from territorial status: +[x]%
+-영토지위로부터 지역문화 : +[x]%
 
 #cltrstat_serv
-Services
+서비스
 
 #cltrstat_serv_c1
-Amount of state culure produced by the activity of cultural buildings and their services.
+문화 건축물과 그 서비스의 활동에 의해 생산된 국가 정점의 양.
 
 #cltrstat_decay
-Decay
+쇠퇴
 
 #cltrstat_decay_c1
-Amount of state culure lost by decay.
+쇠퇴로 인해 상실된 국가의 문화양.
 
 #cltrstat_dovrs
-Maximum stored capacity
+최대 저장 용량
 
 #cltrstat_dovrs_c1
-Decay caused if the current maximum capacity of stored culture is reached in this territory.
+이 지역에서 현재 저장된 문화의 최대 수용량에 도달하는 경우 쇠퇴가 시작된다.
 
 #cltrstat_dovrs_c2
-This capacity increases the more population resides in the territory.
+이 능력은 그 지역에 더 많은 인구가 거주할 수 있도록 증가시킨다.
 
 #cltrstat_dinf
-Cultural influence
+문화적 영향
 
 #cltrstat_dinf_c1
-Decay due to state culture losing influence compared to other cultures present in this territory.
+이 영토에 존재하는 다른 문화에 비해 국가 문화가 영향력을 잃었기 때문에 쇠퇴한다.
 
 #cltrstat_dinf_c2
-This territory produces [x] of state culture, out of a total production of [y] culture, resulting in a target cultural influence of [z]% in this territory.
+이 지역은 [y] 문화의 전체 생산량 중 [x] 국가 문화의 [x]를 생산하여, 이 영토에서 [z]%의 목표 문화적 영향을 초래한다.
 
 #cltrstat_dinf_c3
-Current state culture influence is [x]%.
+현재의 국가 문화 영향력은 [x]%이다.
 
 #cltrstat_stock
-Culture stock capacity
+문화 수용력
 
 #cltrstat_stock_c1
-This territory currently has [x] of culture stored out of a maximum of [y].
+이 지역에는 현재 최대 [y] 중 [x]의 문화가 수용되어 있다.
 
 #cltrstat_stock_c2
-Overall culture in this territory is increasing.
+이 지역의 전반적인 문화가 증가하고 있다.
 
 #cltrstat_stock_c3
-Overall culture in this territory is decreasing because it is above its current maximum!
+이 지역의 전반적인 문화는 현재 최대치를 넘어서기 때문에 감소하고 있다!
 
 #cltrstat_ststock
-State culture
+국가 문화
 
 #cltrstat_ststock_c1
-[x]% of this territory's culture is state culture.
+이 지역영토 문화의 [x]% 만큼은 국가 문화다.
 
 #cltrstat_ststock_c2
-It has [x] points of state culture in stock.
+[x] 만큼의 국가 문화가 재고에 있습니다
 
 #loadgame_select
-Select a local saved game to load
+로드할 로컬 저장 게임 선택
 
 #loadgame_localsav
 ( Local saves are located in \AppData\Local\Ymir\saves )
 
 #loadgame_nofnd
-No games found!
+게임을 찾을 수 없습니다!
 
 #loadgame_none1
-It seems there is no existing games to load!
+로드할 게임이 없는 것 같습니다!
 
 #loadgame_none2
-You need to create a new game.
+새로운 게임을 만들어야 합니다.
 
 #loadgame_crtnew
-CREATE NEW GAME
+새게임 만들기
 
 #loadgame_rename
-rename
+이름 다시 짓기
 
 #loadgame_copy
-copy
+복사
 
 #loadgame_del
-delete
+삭제
 
 #loadgame_renaming
-Rename game
+게임 이름변경
 
 #loadgame_copying
-Copy name
+이름 복사
 
 #loadgame_deleting
-Are you sure you want to delete this saved game ?
+이 저장된 게임을 삭제하시겠습니까?
 
 #joingame_serv
-Server IP
+서버 IP
 
 #joingame_port
-Server port
+서버 포트
 
 #popstat_wbase
-base wealth
+기본 부
 
 #popstat_wbase_c1
-every porco naturally makes wealth on it's own
+모든 돼지는 자연히 스스로 부를 만든다.
 
 #popstat_winhrt_c1
-inherits its wealth and resources access from the average of all actives
+그 부와 자원의 접근을 모든 행위자의 평균으로부터 상속하다.
 
 #popstat_winc
-coins of income
+수입의 주화
 
 #popstat_winc_c1
-earning [x] coins out of [y] in total
+[y] 총액으로 [x] 주화를 버는 것
 
 #popstat_winc_c2
-awards [x]% of [y] territory wealth
+[y]영토 재산의 [x]%를 보상하다.
 
 #popstat_wpriv
-privileges
+특권을 부여하다
 
 #popstat_wpriv_c
-wealth given directly as privileges by social policies
+사회 정책에 의해 특권으로 직접 주어지는 재산.
 
 #legit_dscr
-Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
+합법성은 사람들이 당신의 적극적인 합법적 정책들에 의해 정의되는 권위에 대한 당신의 주의 청구권을 얼마나 많이 인지하는 가이다. 이것들은 모든 다른 합법성 요소들의 긍정적이거나 부정적인 영향력에 영향을 미친다.
 
 #legit_tot
-Total legitimacy
+완전 정통성
 
 #legit_honor
-Honor
+명예
 
 #legit_honor_c
-Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
+당신의 명예는 당신의 합법성에 직접적인 영향을 미친다. 아무도 불명예스러운 통치자 밑에서 봉사하고 싶어하지 않습니다!
 
 #legit_protect
-Military strenght
+군사력
 
 #legit_protect_c
-Our military strenght is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
+우리의 군사력은 현재 [x]이다. 그것은 전체 인구와 관련하여 더 많은 군대와 더 강력한 부대를 보유함으로써 증가되었다.
 
 #legit_wealth
-Leader superiority
+리더 우월성
 
 #legit_wealth_c
-Our leader superiority is currently of [x]. It's increased by the wealth of the leader's population class.
+우리의 리더 우위는 현재 [x]이다. 그것은 지도자의 인구 계급의 부에 의해 증가된다
 
 #legit_relig
-People religiosity
+사람들의 신앙심
 
 #legit_relig_c
 [not implemented yet]
 
 #legit_parl
-Parliament power
+의회권력
 
 #legit_parl_c
 [not implemented yet]
 
 #legit_senat
-Senate power
+상원권력
 
 #legit_senat_c
 [not implemented yet]
 
 #legit_approv
-People approval
+국민승인
 
 #legit_approv_c
 [not implemented yet]
 
 #legit_minist
-Ministry power
+부처권력
 
 #legit_minist_c
 [not implemented yet]
 
 #legit_inf_pos
-The [x] factor currently has a positive influence over our Legitimacy. ([y])
+[x] 요인은 현재 우리의 합법성에 긍정적인 영향을 끼치고 있다. ([y])
 
 #legit_inf_neg
 The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #legit_inf_neut
-The [x] factor currently has no influence over our legitimacy.
+[x] 요인은 현재 우리의 합법성에 부정적인 영향을 끼치고 있다. ([y])
 
 #statepow_dscr
-State power is the capacity of your state to manage things. Power policies define how the political power is organized in the state, generating State power and affecting different types of legitimacies. State power increases the loyalty of territories.
+국가권력은 당신의 주정부의 능력이다. 권력정책은 정치권이 국가권력을 창출하고 다른 유형의 정당성에 영향을 미치면서 국가에서 어떻게 조직되는지를 규정한다. 국가의 권력은 영토의 충성도를 높인다.
 
 #statepow_tot
-Total state power
+국가 총력
 
 #statepow_civ
-Power policies
+권력 정책
 
 #statepow_civ_c1
-The total State power generated by the currently active Power policies.
+현재 활성화된 권력 정책에 의해 생성된 총 권력 상태.
 
 #statepow_upk
-Policies maintenance
+정책유지
 
 #statepow_upk_c1
-The total State power consumed by all the currently active policies.
+현재 모든 활동적인 정책들이 소비하는 총 국가 권력.
 
 #statepow_nbcit
-Territories
+영토
 
 #statepow_nbcit_c1
-Sum of State Power cost of all your controlled territories (costs can vary depending of the status of each territory). 
+당신의 모든 통제된 지역의 총 권력 비용 (비용은 각 지역의 상태에 따라 달라질 수 있다.)
 
 #statepow_debt
-Debt
+부채
 
 #statepow_debt_c1
-Debt reduces State power and we currentlly have a debt of [x] coins.
+부채는 국가 권력을 감소시키고 우리는 현재 [x]개의 주화를 가지고 있다.
 
 #statepow_hon
-Dishonor
+불명예
 
 #statepow_hon_c1
-Noone wants to serve a dishonorable leader! Negative honor reduces State Power (current honor : [x] ).
+누구도 불명예스러운 지도자를 섬기고 싶어하지 않습니다! 네거티브 명예는 주(州)권력을 떨어뜨린다(현재의 명예 : [x]).
 
 #statepow_tmain
-Treaties maintenance
+조약 유지
 
 #statepow_tmain_c1
-All active treaties cost a certain amount of State Power to be maintained, depending on the nature of our terms in the treaties.
+모든 활성화된 조약은 조약에 있는 우리 조항의 성격에 따라 일정량의 국가 권력이 유지되는 데 비용이 든다.
 
 #statepow_powtr
-State Power transfers
+국가권력이전
 
 #statepow_powtr_c1
-State Power beeing transfered to or from other governments due to current active treaties.
+현재 활발하게 진행되고 있는 조약으로 인해 다른 정부로 이전되거나 다른 정부로부터 이전된 국가 권력이다.
 
 #statepow_powtr_c2
-- sent from active treaties: [x]
+- 활성화된 조약에서 보낸 것: [x]
 
 #statepow_powtr_c3
-- received from active treaties: [x]
+- 활성화된 조약으로부터 받은 것: [x]
 
 #statepow_civmnt
-Civics maintenance
+시민 유지
 
 #statepow_civmnt_c1
-The power cost to maintain all the currently active civics.
+현재 활동 중인 모든 시민 의식을 유지하는 데 드는 권력 비용.
 
 #statepow_nation
-Nation
+국가
 
 #statepow_nation_c1
-State power transfered from subordinates: [x]
+부하로부터 전수받은 국가권력: [x]
 
 #statepow_nation_c2
-State power transfered to superior: [x]
+상위권자로 넘어간 국가권력: [x]
 
 #statepow_nation_c3
-Number of direct subordinates: [x]
+직속 부하 인원: [x]
 
 #statepow_nation_c4
-Distance of direct subordinates: [x]
+직속 부하들의 거리 : [x]
 
 #statepow_nation_c5
-Number of total subordinates: [x]
+총 부하 인원: [x]
 
 #statepow_forms
-Maintenance of formations
+부대의 유지
 
 #statepow_forms_c1
-Each formation you own can cost some State Power to maintain.
+당신이 소유하는 각각의 형태는 유지하는데 약간의 국가권력이 들 수 있다.
 
 #conf_c1
-The current effective conflict of the territory
+현재 실효성 있는 영토 갈등
 
 #conf_var_c1
-The current conflict variation of the territory
+영토의 현재 분쟁 변동
 
 #conf_gpop
-Population
+인구
 
 #conf_gpop_c1
-Amount of conflict generated by the current population in the territory.
+현재 인구가 그 영토에서 발생시킨 분쟁의 양.
 
 #conf_gstate
-Policies
+정책
 
 #conf_gserv
-Services
+서비스
 
 #conf_pop
-Base conflict
+기본 분쟁
 
 #conf_pop_c1
-The total population in the territory naturally generates conflict.
+그 지역의 총인구는 자연히 갈등을 일으킨다.
 
 #conf_territ
-[x]% from territorial status
+[x]% 영토 상태서
 
 #conf_territ_c1
-The current territorial status can modify the base conflict generated by the population.
+현재의 영토 상태는 인구에 의해 발생되는 기본 갈등을 조정할 수 있다.
 
 #conf_state
-Policies ([x]%)
+정책 ([x]%)
 
 #conf_state_c1
-Current government policies can effect the base conflict from population.
+현재의 정부 정책은 국민들로부터의 기본 분쟁에 영향을 미칠 수 있다.
 
 #conf_serv
-Services ([x]%)
+서비스 ([x]%)
 
 #conf_serv_c1
-Services in the territory like Justice can reduce the final conflict level, depending on how well population has access to them.
+재판과 같은 영토에서의 서비스는 인구가 얼마나 잘 그들에게 접근하느냐에 따라 최종 갈등 수준을 줄일 수 있다.
 
 #loyal_c1
-The current loyalty of the territory
+현재 영토의 충성심
 
 #loyal_var_c1
-The current loyalty variation of the territory
+영토의 현재 충성도 변화
 
 #loyal_pop
-population
+인구
 
 #loyal_pop_c1
-How population factors affect the loyalty of the territory.
+인구 요인이 영토의 충성도에 미치는 영향
 
 #loyal_cult
-from cultural balance
+문화적 균형에서.
 
 #loyal_cult_c1
-The balance between state and local cultures can affect positively or negatively the loyalty of the territory.
+국가와 지역 문화의 균형은 영토의 충성도에 긍정적으로 또는 부정적으로 영향을 미칠 수 있다.
 
 #loyal_status
-from territorial status
+영토적 지위로부터.
 
 #loyal_status_c1
-Territorial status can affect loyalty positively or negatively. More authonomous statuses tend to increase loyalty.
+영토적 지위는 충성심에 긍정적으로 또는 부정적으로 영향을 미칠 수 있다. 더 권위적인 지위는 충성심을 증가시키는 경향이 있다.
 
 #loyal_state
-state
+국가
 
 #loyal_state_c1
-How global state factors affect the loyalty of the territory.
+전국적 국가 요인이 영토의 충성도에 어떤 영향을 미치는지.
 
 #loyal_legit
-from state legitimacy
+국가의 정통성으로부터.
 
 #loyal_legit_c1
-State legitimacy affects the loyalty of all territories.
+국가의 합법성은 모든 영토의 충성도에 영향을 미친다.
 
 #loyal_statepow
-from state power
+국가권력에서.
 
 #loyal_statepow_c1
-State power affects the loyalty of all territories.
+국가의 권력은 모든 영토의 충성도에 영향을 미친다.
 
 #loyal_hightax
-high taxes
+고액의 세금
 
 #loyal_hightax_c1
-High taxes upset people and reduces their loyalty to the state.
+높은 세금은 사람들을 화나게 하고 국가에 대한 그들의 충성심을 떨어뜨린다.
 
 #loyal_prvldg
-priviledges
+특권
 
 #loyal_prvldg_c1
-Priviledges upset the people and reduce their loyalty to the state.
+특권은 국민을 화나게 하고 국가에 대한 충성심을 떨어뜨린다.
 
 #loyal_autho
-authority
+권한
 
 #loyal_autho_c1
-How the different factors of authority affect the loyalty of the territory.
+권위의 다른 요소들이 영토의 충성도에 어떻게 영향을 미치는지.
 
 #loyal_statearmy
-state troops
+국군
 
 #loyal_statearmy_c1
-The presence of state troops increases the state's authority in the territory.
+국군이 주둔하면 그 영토에서 국가의 권위가 높아진다.
 
 #loyal_guard
-guards
+호위병
 
 #loyal_guard_c1
-The total produced guarding service increases the authority of the state.
+총생산된 호위병은 국가의 권위를 높인다.
 
 #loyal_garrison
-local garrison
+지역 수비대
 
 #loyal_garrison_c1
-Providing military equipment to the citizens of the territory to defend themselves also makes them more confident to defy the state's authority.
+영토의 시민들에게 스스로를 방어하기 위해 군사 장비를 제공하는 것 또한 그들이 국가의 권위에 저항할 수 있는 자신감을 갖게 한다.
 
 #loyal_poppow
-amount of population
+인구수
 
 #loyal_poppow_c1
-The more population there is, the less authority. The total amount of population reduces the territory's loyalty.
+인구가 많을수록 권위가 떨어진다. 인구의 총량이 그 지역의 충성도를 떨어뜨린다.
 
 #loyal_conf
-conflict
+분쟁
 
 #loyal_conf_c1
-Territory conflict reduces the authority of your government in this territory as it creates instability.
+영토 분쟁은 이 영토에서 불안정을 야기하기 때문에 당신의 정부의 권한을 감소시킨다.
 
 #loyal_events
-events
+이벤트
 
 #loyal_events_c1
-Some events can affect temporarly the loyalty of the territory.
+어떤 사건들은 그 지역의 충성심에 일시적으로 영향을 미칠 수 있다.
 
 #loyal_revolts
-recent revolts
+최근의 폭동.
 
 #loyal_revolts_c1
-Recent unrest and revolts temporarly increase loyalty of the territory
+최근의 소요와 폭동이 일시적으로 그 지역의 충성도를 높인다.
 
 #loyal_stateev
-recent state events
+최근의 국가 사건.
 
 #loyal_stateev_c1
-Recent state events temporarly affecting the loyalty of the territory
+최근의 국가 사건들은 그 지역의 충성도에 일시적으로 영향을 미친다.
 
 #loyal_resist
-resistance!
+반군!
 
 #loyal_resist_c1
-Loyalists to the previous owner of this territory ([x])
+이 땅의 이전 소유자에 대한 충성파([x])
 
 #loyal_decr
-Warning: even though loyalty is currently good, it is decreasing towards dangerous levels and this territory will soon be at risk of a popular uprising.
+경고: 비록 충성심이 현재 좋은 상태지만, 그것은 위험한 수준으로 떨어지고 있고 이 지역은 곧 민중 봉기의 위험에 처할 것이다.
 
 #loyal_risk
-Warning: this territory is currently at risk of a popular uprising!
+경고: 이 지역은 현재 민중 봉기의 위험에 처해 있다!
 
 #loyal_good
-This territory is currently not at risk of a popular uprising.
+이 지역은 현재 민중 봉기의 위험이 없다.
 
 #loyal_resist_1
-Warning: A resistance movement of [x] points is present in this territory!
+경고: 이 영토에는 [x] 포인트만큼의 저항 운동이 존재한다!
 
 #loyal_resist_2
-You are at risk of a Partisans uprising (can happen regardless of the population's loyalty).
+당신은 빨치산 봉기의 위험에 처해있다.
 
 #loyal_resist_inc
-The resistance movement is currently growing by +[x] [y].
+저항운동은 현재 +[x][y]만큼 성장하고 있다.
 
 #loyal_resist_decr
-The resistance movement is currently decaying by -[x] [y].
+저항운동은 현재 -[x][y]로 쇠퇴하고 있다.
 
 #admin_capacit
-production
+생산.
 
 #admin_capacit_c1
-Total administration available in this territory.
+이 영토에서 이용할 수 있는 행정의 총량.
 
 #admin_streg
-territorial policies
+영토 정책
 
 #admin_streg_c1
-Administration generated from active power policies affecting all territories.
+관리에서 재정된 활성화된 권력 정책은 모든 영토에 영향을 끼칩니다. 
 
 #admin_stcity
-city policies
+시의 정책
 
 #admin_stcity_c1
-Administration generated from active power policies affecting cities.
+관리에서 재정된 활성화된 권력 정책은 모든 도시에 영향을 끼칩니다. 
 
 #admin_stcap
-capital policies
+수도 정책
 
 #admin_stcap_c1
-Administration generated from active power policies affecting the capital.
+관리에서 재정된 활성화된 권력 정책은 수도에 영향을 끼칩니다. 
 
 #admin_scrib
-scribes
+서기
 
 #admin_scrib_c1
-Extra administration produced by Scribes.
+서기에 의해 생산되는 추가 행정력.
 
 #admin_reg
-local
+지방
 
 #admin_reg_c1
-Local factors affecting administration.
+관리에 영향을 미치는 지방 요인.
 
 #admin_pop
-population management
+인구 관리
 
 #admin_pop_c1
-Administration cost from the total population of this territory.
+이 영토의 총 인구로부터의 행정관리비.
 
 #admin_bdg
-buildings management
+건물 관리
 
 #admin_bdg_c1
-Total cost of buildings requiring administration in this territory.
+이 지역에서 관리가 필요한 건물의 총행정비용.
 
 #admin_glob
-global
+전국
 
 #admin_glob_c1
-Global factors affecting this territory's administration.
+이 영토의 행정부에 영향을 미치는 전국적인 요인들.
 
 #admin_nbcit
-number of regions
+지역수
 
 #admin_nbcit_c1
--[x]% of administration per non-capital region
+-비수도권당 [x]% 행정력
 
 #admin_nbcit_c2
-number of extra regions under your control: [x]
+사용자의 통제 하에 있는 추가 지역 수: [x]
 
 #admin_dist
-[x]% from distance of capital
+[x]% 만큼의 수도와의 거리
 
 #admin_dist_c1
-Capital distance is costing you [x]% of the total produced administration of [y]
+수도와의 거리는 [y]의 전체 행정력의 [x]%를 차지하게 한다.
 
 #admin_dist_c2
-[x]% from a distance of [y] territories with the capital
+수도와 [y]영토사이의 [x]% 만큼의 거리
 
 #admin_dist_c3
-[x]% from territorial status distance modificator of [y]%
+[x]%의 [y]%의 영토 상태 거리 수식자로 부터 [x]%
 
 #admin_claim
-Regional claims
+지역청구권
 
 #admin_claim_c1
-The management cost of all the territorial claims made by this region.
+이 지역에서 제기된 모든 영토 청구에 대한 관리 비용.
 
 #admin_claim_c2
-number of claims: [x]
+영토수: [x]
 
 #admin_ter
-Regional territories
+지역영토
 
 #admin_ter_c1
-The management cost of all the additionnal territories belonging to this region.
+이 지역에 속하는 모든 추가 영토의 관리 비용.
 
 #admin_ter_c2
-number of annexed territories: [x]
+부속 영토 수: [x]
 
 #cultr_state
-state culture
+국가 문화
 
 #cultr_local
-local culture
+지역 문화
 
 #cultr_pop
-culture from population
+주민에서 문화
 
 #cultr_srv
-culture from services
+서비에서 문화
 
 #eco_balance
-Balance
+잔고
 
 #growth_males
-Porcos variation
+돼지 다양성
 
 #growth_sows
-Sows variation
+암퇘지 다양성
 
 #growth_piglets
-Piglets variation
+새끼돼지 다양성
 
 #growth_oldpigs
-Oldpigs variation
+늙은 돼지 다양성
 
 #growth_mnew
-male piglets reaching adulthood
+어른이 되어가는 수컷 새끼들
 
 #growth_msick
-sickness
+질병
 
 #growth_mmurder
-murders
+살인
 
 #growth_mage
-aging porcos becoming oldpigs
+늙어가는 돼지가 늙은 돼지가 되다.
 
 #growth_munitsup
-aging in formations: [x] porcos in supported units (free support for [y])
+부대의 고령화: [x] 수의 돼지 (free support for [y])
 
 #growth_snew
-female piglets reaching adulthood
+성년이 되는 암컷 돼지.
 
 #growth_ssick
-sickness
+질병
 
 #growth_smurder
-murders
+살인
 
 #growth_sage
-aging sows becoming oldpigs
-
+늙어가는 암퇘지들이 늙은 돼지가 되다.
 #growth_pnew
-births
+출산
 
 #growth_psick
-sickness
+질병
 
 #growth_pmurder
-murders
+살인
 
 #growth_page
-reaching adulthood
+성년이 되다
 
 #growth_onew
-aging population becoming oldpigs
+고령화 인구가 늙은 돼지가 되고있다.
 
 #growth_osick
-sickness
+질병
 
 #growth_omurder
-murders
+살인
 
 #growth_odeath
-natural deaths
+자연사
 
 #breed_chance
-breeding rate
+출산율
 
 #breed_chance_dscr
-The predicetd percentage of sows that will have piglets during the next generation.
+다음 세대 동안 새끼 돼지를 낳을 암퇘지를의 비율.
 
 #breed_chance_c
-[x] sows will breed during the next generation
+[x] 만큼의 암퇘지는 다음 세대 동안 새끼 돼지를 낳을 것 입니다.
 
 #breed_base
-basic breeding rate
+기본 출산율
 
 #breed_intel
-intelligence influence
+지력
 
 #breed_totpop
-total population effect
+총인구효과
 
 #breed_piglets
-piglets per sow influence
+암퇘지 영향력당 새끼돼지
 
 #breed_smcity
-small city boost
+소도시의 부양책
 
 #breed_vit
-missing vital needs influence
+중요욕구의 부재.
 
 #breed_fertil
-fertility
+생식력
 
 #breed_fertil_c
-the average number of piglets per litter
+한 배당 평균 새끼 돼지 수
 
 #growth_genlen
-generation lenght
+세대 길이
 
 #growth_genlen_c1
-The amount of time a generation of Porcos lasts. 
+한 세대의 돼지가 지속되는 시간의 길이.
 
 #growth_genlen_c2
-Porcos live up to 5 generations: one as a piglet, 3 as adults and 1 as oldpigs. That makes their total lifespan last up to [x].
+돼지는 새끼 돼지로 한 마리, 어른으로 세 마리, 늙은 돼지로 한 마리까지 5대까지 산다. 그것은 그들의 전체 수명을 [x]까지 지속된다.
 
 #growth_pergen
-next generation prediction
+차세대 예측
 
 #growth_pergen_c
-predicted variation of the total population for the next generation
+다음 세대의 총인구의 예측
 
 #growth_c
-current variation rate of the total population
+총인구의 유동변동률
 
 #ui_growthdel
-Estimated for the next generation...
+다음 세대에 대한 추정치...
 
 #troop_recruit
-recruit a new troop
+신병을 모집
 
 #b_dplmode
-Strategic tool
+전략도구
 
 #bc_dplmode
-Go to deployment mode, where you can manage the deployment positions and orders of all your troops.
+모든 군대의 배치 위치와 명령을 관리할 수 있는 배치 모드로 가십시오.
 
 #b_newform
-New formation
+새 부대
 
 #b_newform_c1
-click to create a new formation of units
+클릭해서 새로운 유닛 생성
 
 #regctrl_b_h
-Housing
+주택
 
 #regctrl_b_p
-Production
+생산
 
 #regctrl_b_c
-Cultural
+문화
 
 #regctrl_b_m
-Military
+군대
 
 #regctrl_b_g
-Government
+정부
 
 #regctrl_b_i
-Infrastructures
+기반시설
 
 #forminv_add
-add resources
+자원 추가
 
 #ui_recruit_new
-Creating a new troop
+새 군인 생성
 
 #ui_recruit_err1
-The status of this territory doesn't allow you to recruit armies in it.
+이 영토의 지위로 그 지역에서 군대를 모집할 수 없다.
 
 #ui_recruit_err2
-You are not allowed to recruit militias in this territory.
+이 지역에서는 민병대를 모집할 수 없다.
 
 #ui_recruit_err3
-You are not allowed to recruit armies in this territory.
+이 지역에서는 군대를 모집할 수 없다.
 
 #ui_recruit_rnfrc
-Reinforcing troop
+보충대
 
 #ui_recruit_dsbd
-Disbanding units
+유닛 해제
 
 #ui_recruit_trsfr
-Transfering units
+유닛 이전
 
 #ui_recruit_support_1
-Military support of this territory
+이 영토의 군사 지원
 
 #ui_recruit_support_2
-Max support:[x] units. 
+최대 지원:[x] 유닛.
 
 #ui_recruit_support_3
-Currently supporting: [x] units.
+현재 지원: [x] 유닛.
 
 #ui_recruit_pop_1
-Total active population: [x] porcos.
+총활성인구: [x] 돼지
 
 #ui_recruit_pop_2
-Jobless: [x] porcos.
+무직: [x] 돼지.
 
 #ui_recruit_resist
-You cannot recruit new units in a territory with resistance.
+반군이 있는 지역에서는 새로운 부대를 모집할 수 없다.
 
 #ui_recruit_immo
-You cannot modify troops while this formation is immobilized.
+이 부대가 움직일 수 없는 동안에는 군대를 개편할 수 없다.
 
 #ui_recruit_nothm
-You cannot recruit new units outside this formation's home territory ([x]).
+이 부대의 본거지([x]) 이외에는 신규 부대를 모집할 수 없다.
 
 #ui_recruit_cant
-You cannot recruit or disband troops in territories you do not control.
+당신이 통제하지 않는 영토에서는 군대를 모집하거나 해산할 수 없다.
 
 #ui_recruit_ovrdrft
-Cannot recruit: support limit reached and overdraft is not allowed in this territory.
+모집할 수 없음: 지원 한도 도달 및 당좌대월 금지
 
 #ui_recruit_noup
-( militias upkeep is lower as it doesnt include a soldier's salary )
+(군인의 봉급이 포함되어 있지 않기 때문에 민병대의 유지가 더 낮다.)
 
 #ui_recruit_nopop
-( no population mobilized because it's a local militia )
+(지역 민병대라서 동원된 인구 없음)
 
 #ui_recruit_cost_1
-Cost to recruit one unit.
+1개 단원 모집 비용
 
 #ui_recruit_cost_2
-Includes a training cost plus the price of its equipment.
+훈련 비용과 장비 가격을 합산한다.
 
 #ui_recruit_cost_3
-- Cost of training: [x]
+-훈련비 : [x]
 
 #ui_recruit_cost_4
-- Cost of equipment: [x]
+- 장비원가 : [x]
 
 #ui_recruit_totcost
-Total recruitment cost
+총모집비
 
 #ui_recruit_nopay
-You do not have enough funds to recruit these new units!
+너는 이 새로운 유닛들을 모집할 충분한 자금이 없다
 
 #ui_recruit_max_pop
-More population needed!
+더 많은 인구가 필요하다!
 
 #ui_recruit_max_ts
-Maximum size of this troop is [x] units.
+이 부대의 최대 규모는 [x] 부대다.
 
 #ui_recruit_max_res
-[x] needed!
+[x] 필요!
 
 #ui_recruit_cost
-Cost per unit
+유닛당 비용.
 
 #ui_recruit_civ
-civilian units
+민간 부대
 
 #ui_recruit_inf
-melee units
+보병 유닛
 
 #ui_recruit_arc
-range units
+원거리 유닛
 
 #ui_recruit_cav
-mounted units
+기마 유닛
 
 #ui_recruit_full
-This formation is full!
+해당 부대는 수용인원이 꽉 찻습니다.
 
 #ui_recruit_totpop
-Total population available for this unit in the territory: [x] 
+이 부대가 해당 지역에서 사용할 수 있는 총 인구: [x]
 
 #ui_recruit_inact
-Currently inactives: [x]
+현재 비활성: [x]
 
 #ui_recruit_rcrt
-Recruit
+모병
 
 #ui_recruit_dsbd
-Disband
+해제
 
 #ui_recruit_trsfr
-Transfer
+이전
 
 #ui_recruit_AP
-This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
+이 액션은 부대의 [x] 액션 포인트를 소모합니다(그러나 포메이션이 0 AP에 도달하더라도 진행이 가능하다는 점에 유의한다.)
 
 #ui_statunit_t
-Toughness
+터프함
 
 #ui_statunit_t_dscr
-Toughness if the capacity of the unit to withstand damage when hit, determining it's chances to be actually wounded.
+타격 시 손상을 견디는 부대가 실제로 부상을 입을 가능성을 판단.
 
 #ui_statunit_a
-Armor
+갑옷
 
 #ui_statunit_a_dscr
-Armor gives chances to deflect enemy hits.
+갑옷은 적의 공격을 막을 기회를 준다.
 
 #ui_statunit_m
-Movement
+이동
 
 #ui_statunit_m_dscr
-The movement speed of the unit. Also affects the movement speed of the formation in the worldmap (slowest unit defines worldmap speed).
+부대의 이동 속도. 또한 월드맵(worldmap)에서 부대의 이동속도에도 영향을 미친다(최저 단위는 월드맵 속도를 정의한다.)
 
 #ui_statunit_mass
-Mass
+부대단위
 
 #ui_statunit_mass_dscr
-The mass of the unit combined with it's speed gives a damage bonus when charging.
+부대의 단위는 돌격시 속도와 결합되서 공격력 보너스를 줍니다.
 
 #ui_statunit_ms
-Melee skill
+보병 스킬
 
 #ui_statunit_ms_dscr
-In melee, the ability to hit enemies and dodge their attacks depends on the difference of melee skill between the 2 opponents.
+보병전에서, 적을 때리고 공격을 피하는 능력은 두 상대 사이의 보병전 기술의 차이에 달려 있다.
 
 #ui_statunit_md
-Melee damage
+밀리 데미지
 
 #ui_statunit_md_dscr
-Amount of damage inflicted to the enemy when hit.
+때렸을 때 적에게 가해진 피해액.
 
 #ui_statunit_rch
-Reach
+사거리
 
 #ui_statunit_rch_dscr
-In melee, a higher reach than the opponent's gives a bonus to hit. Reach also gives a bonus to hit in melee against units of higher mass. 
+보병전에서는 상대보다 높은 사거리가 데미지에 가산점을 준다. 또한 더 높은 부대의 단위에 대항하여 잘 때릴 수 있는 보너스를 준다.
 
 #ui_statunit_rs
-Ranged skill
+원거리 스킬
 
 #ui_statunit_rs_dscr
-The ability to hit enemies in ranged combat.
+원거리 전투에서 적을 타격하는 능력.
 
 #ui_statunit_rd
-Range damage
+원거리 데미지
 
 #ui_statunit_rd_dscr
-Amount of damage inflicted to the enemy when hit.
+때렸을 때 적에게 가해진 피해액.
 
 #ui_statunit_rg
-Range
+사거리
 
 #ui_statunit_rg_dscr
-For range units, the maximum distance (in terrain tiles) at which they can engage ennemies.
+원거리 유닛의 경우, 적과 교전할 수 있는 최대 거리(지형 타일에 따라 다름).
 
 #ui_statunit_p
-Pillage
+약탈
 
 #ui_statunit_p_dscr
-The pillage ability of the unit. Improves the speed and efficiency of pillaging ennemy buildings.
+그 부대의 약탈 능력. 적 건물을 약탈하는 속도와 효율성을 향상시킨다.
 
 #ui_statunit_c
-Carrying capacity
+적재량
 
 #ui_statunit_c_dscr
-The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units' carrying capacity.
+이 부대가 운반할 수 있는 자원의 양. 그 부대의 재고 능력은 그것의 모든 단위들의 운반능력의 합이다.
 
 #ui_troop_reinforce
-Reinforce
+보충병
 
 #ui_troop_disband
-Disband
+해제
 
 #ui_troop_transfer
-Transfer
+이전
 
 #ui_trptrans_c
 Choose a destination troop
@@ -2906,1153 +2896,1153 @@ Choose a destination troop
 Choose a destination formation
 
 #ui_formtrans_samform
-same formation
+동일한 부대
 
 #ui_formtrans_newtr
-new troop
+새로운 병사
 
 #ui_formtrans_unavail
-[unavailable]
+[이용할 수 없음]
 
 #ui_foinv_forbid
-You're not allowed to access resources of this territory.
+당신은 이 영토에 자원을 이용할 수 없습니다.
 
 #ui_foinv_cant
-You can't take resources from a territory you do not control!
+통제하지 않는 영역에서는 자원을 이용할 수 없다!
 
 #ui_foinv_empreg
-You can't load resources from an empty territory!
+빈 영토에서 자원을 적재할 수 없다!
 
 #ui_foinv_load
-Loading resources into formation's inventory
+부대의 인벤토리에 물품 적재
 
 #ui_foinv_unload
-Unloading resources from formation's inventory
+부대의 인벤토리로 부터 물품 하차
 
 #ui_foinv_destr
-Destroy resrouces from formation's inventory
+부대의 인벤토리에 물품 제거
 
 #ui_foinv_choose
-Choose resource
+자원선택
 
 #ui_foinv_cost_c1
-Cost of purchasing these resources.
+이 자원을 구매하는 데 드는 비용
 
 #ui_foinv_cost_c2
-To load resources into a formation, the state has to take ownership of them and purchase them at their local price from their owners (except for already state-owned stocks).
+자원을 부대에 싣기 위해서는 국가가 주인으로부터 현지 가격으로 구입해야 한다(이미 국유주는 제외).
 
 #ui_foinv_cost_c3
-State-owned stocks: [x]
+국유 물품: [x]
 
 #ui_foinv_cost_c4
-Purchasing [x] resources at local price of [y] = [z] coins + [v] from local waste.
+[x] 자원을 현지가격[y] 로 구매 = [z] 주화 + 지역 부패로 인한 추가 지불금 [v] .
 
 #ui_foinv_loadfrm
-Where to load ressources from
+어디서 부터 적재하실 건가요?
 
 #ui_foinv_unlodto
-Where to unload ressources
+어디에 하차하실건가요?
 
 #ui_foinv_target
-Territory's storages
+영토의 저장고
 
 #ui_reg_build_tertool
-terrain tools
+지형도구
 
 #ui_reg_build_tertool_c
-modify terrain heights
+지형 높이를 조정합니다
 
 #ui_tertool
-TERRAIN HEIGHT TOOL
+지형높이도구
 
 #ui_tertool_1
-Increase height: ctrl + mouse wheel up
+지형 높이기: 컨트롤 + 마우스 휠 업
 
 #ui_tertool_2
-Decrease height: ctrl + mouse wheel down
+지형 낮추기: 컨트롤 + 마우스 휠 다운
 
 #ui_tertool_3
-Cancel and close : right-click
+취소하고 종료 : 마우스 오른쪽 클릭
 
 #ui_tertool_4
-Confirm work and close: space bar
+일을 시작하고 종료: 스페이스바
 
 #ui_tertool_add
-Adding
+추가하기
 
 #ui_tertool_dig
-Digging
+파기
 
 #ui_tertool_bal
-Imbalance
+불균형
 
 #ui_tertool_cost
-predicted cost in tools to complete this task
+이 작업을 마치는 데 소요되는 예상비용
 
 #ui_tertool_penal
-Imbalance cost penalty
+불균형 비용 패널티
 
 #ui_tertool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and will be worked over time to match this preview, also consuming tool resources in the process.
+이것은 수정사항의 미리보기만을 보여준다. 이 작업의 유효성을 검사하면 수정된 타일이 표시되고 시간이 지남에 따라 이 미리 보기와 일치하도록 작업되며 프로세스에서 도구 리소스도 소모된다.
 
 #ui_tertool_warn1
-This tile lacks support to reach this height!
+이 타일은 해당 높이에 도달하기 위한 지지가 부족합니다!
 
 #ui_tertool_warn2
-Some tiles lack support to reach the desired height!
+특정 타일들이 목표 높이에 도달하기 위한 지지가 부족합니다!
 
 #ui_reg_build_plat
-Platforms
+플랫폼
 
 #ui_reg_build_plat_c
-build platforms
+플랫폼 건설
 
 #ui_plattool
-PLATFORM TOOL
+플랫폼 건설도구
 
 #ui_plattool_1
-Set platform height: ctrl + mouse wheel
+플랫폼 높이 설정: ctrl + 마우스 휠
 
 #ui_plattool_2
-Bridge mode: hold shift
+다리 모드: 시프트 고정
 
 #ui_plattool_3
-Cancel and close : right-click
+취소 후 닫기: 마우스 오른쪽 버튼 클릭
 
 #ui_plattool_4
-Confirm work and close: space bar
+작업 확인 및 닫기: 스페이스 바
 
 #ui_plattool_cost
-predicted cost to build these platforms
+플랫폼 구축 예상 비용
 
 #ui_plattool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and platforms will be built over time to match this preview, also consuming resources in the process.
+이것은 수정사항의 미리보기만을 보여준다. 이 작업의 유효성을 검사하면 수정된 타일이 표시되고 시간이 지남에 따라 이 미리 보기와 일치하도록 플랫폼이 구축되어 프로세스의 리소스도 소모된다.
 
 #ui_builderr_ter
-You cannot place this [x] here.
+[x]를 여기에 설치할 수 없습니다.
 
 #ui_builderr_res
-You're missing [x] of [y] to build this [z].
+[z]제작에 필요한 [y]의 [x]가 없습니다.
 
 #ui_builderr_coin
-You do not have enough coins to build this [x].
+당신은 이 [x]를 짓기에 충분한 주화가 없습니다.
 
 #ui_builderr_ptf
-This building can only be placed on platforms.
+이 건물은 플랫폼에만 설치할 수 있다.
 
 #ui_builderr_onres
-This building can only be placed over a resource it can exploit.
+이 건물은 이용할 수 있는 자원 위에만 배치될 수 있다.
 
 #ui_builderr_shore
-Needs to be placed on a shore of a minimum depth of [x].
+최소 깊이 [x]의 해안에 배치해야 한다.
 
 #ui_builderr_dist
-This building need to be at least [x] tiles away of any other building of the same type.
+이 건물은 적어도 같은 유형의 다른 건물로 부터 [x] 만큼 떨어져 있어야 합니다.
 
 #ui_builderr_stairs
-Stairs can only be placed next to a tile of higher elevation.
+계단은 더 높은 경사의 타일 옆에만 놓을 수 있다.
 
 #ui_builderr_gate
-Gates can only be placed next to a high enough bridge-type platform.
+게이트는 충분히 높은 교량형 플랫폼 옆에만 배치될 수 있다.
 
 #ui_builderr_water
-This building cannot be placed on water.
+이 건물은 물 위에 놓을 수 없다.
 
 #ui_builderr_mustw
-This building must be placed on water of at least [x] of depth.
+이 건물은 적어도 [x] 깊이의 물 위에 놓아야 한다.
 
 #ui_builderr_adjcnt
 Must be placed adjascent to it's owner.
 
 #ui_builderr_bldrs
-This building requires professional construction and you do not have any builders.
+이 건물은 전문적인 건축가 용역이 필요하며 당신은 필요한 건축가가 없습니다.
 
 #ui_builderr_inaxss
-You cannot place this here because this area is currently inaccessible!
+이 구역은 현재 접근할 수 없기 때문에 여기에 배치될 수 없습니다!
 
 #ui_builderr_noprd
-There is nothing to exploitable by this building here.
+여기 이 건물근처에 이용할 만한 것이 없다.
 
 #ui_builderr_maxan
-This building cannot have more than [x] [y].
+이 건물은 [x] [y] 이상의 것을 가질 수 없다.
 
 #ui_dpltool_needreg
-You need to be in the territory view to customize troop deployments!
+병력 배치를 설정하려면 영토 내부시점에 있어야 합니다!
 
 #ui_dpltool
-STRATEGIC TOOL
+전략 도구
 
 #ui_dpltool_dscr
-Design the defensive strategy of your formations in this territory, in case of battle.
+전투에 대비하여 이 지역에서 당신의 방어 전략을 설계하시오.
 
 #ui_dpltool_formtog
-(click to toggle deployment of this formation)
+(부대를 배치하려면 클릭하십시오.)
 
 #ui_dpltool_done
-DONE
+완료
 
 #ui_dpltool_addz
-Add a new defensive zone
+새로운 방어지역을 설정하십시오
 
 #ui_dpltool_matt
-Pitch battle
+난투전
 
 #ui_dpltool_matt_dscr
-The troop will redeploy to face any incoming threat and engage immediately in a pitch battle manner. The current deployment position of the troop has therefore no importance in this mode.
+그 부대는 들어오는 위협에 맞설 수 있도록 재배치될 것이고 즉시 난전을 벌일 것이다. 따라서 현재 부대의 배치 위치는 이 모드에서는 중요하지 않다.
 
 #ui_dpltool_mdef
-Restricted engagement
+제한된 교전
 
 #ui_dpltool_mdef_dscr
-The troop will engage any ennemy entering within the specified range from it's original deployment position. The troop will move in any way necessary to do so.
+그 부대는 원래 배치 위치에서 지정된 범위 내에 진입하는 적과 교전할 것이다. 군대는 그렇게 하기 위해 필요한 어떤 방법으로든 움직일 것이다.
 
 #ui_dpltool_mzon
-Defensive zone
+방어 구역
 
 #ui_dpltool_mzon_dscr
-The troop remains in the selected defensive zone and prevents ennemies from entering it. The troop will move within the zone to face any incoming ennemy. Range units will engage any ennemy in range from the edge of the zone.
+부대는 선택된 방어 구역에 남아 적군의 진입을 막는다. 그 부대는 다가오는 적과 맞서기 위해 그 지역 내로 이동할 것이다. 원거리 유닛은 사거리범위 내 있는 적과 교전한다.
 
 #ui_dpltool_mstand
-Stand ground
+고수
 
 #ui_dpltool_mstand_dscr
-The troop will keep this position no matter what and only engage if there's immediate contact. If it's a range unit, it will fire any available target from this position.
+그 부대는 무슨 일이 있어도 이 자리를 지키고 적이 접근시에만 교전할 것이다. 원거리 유닛이라면 이 위치에서 상대에게 사격할 것이다.
 
 #ui_dpltool_mbdg
-Defensive building
+방어용 건물
 
 #ui_dpltool_mbdg_dscr
-This is a defensive building that may only engage enemies in range.
+이 건물은 사정권에 있는 적들과만 교전할 수 있는 방어용 건물이다.
 
 #ui_dpltool_mult
-Multiple
+다수
 
 #ui_dpltool_mult_dscr
-The selected troops are currently in different modes. Select one to apply the same mode to all the selected troops.
+선발된 부대는 현재 다른 모드에 있다. 선택한 모든 부대에 동일한 모드를 적용하려면 하나를 선택하십시오.
 
 #ui_dpltool_multsel
-multiple selection ([x] troops)
+다수 클릭([x] 병력)
 
 #ui_dpltool_curmode
-set strategy of the selected troops
+선택한 병사에 전략을 선정합니다.
 
 #ui_dpltool_needdefz
-You need to place at least one defensive zone before you can assign troops to it.
+병력을 배치하기 전에 적어도 하나의 방어구역을 배치해야 한다.
 
 #ui_dpltool_maxdefz
-You've reached the maximum number of defensive zones.
+방어 구역 최대 수에 도달하셨습니다.
 
 #ui_dpltool_delzon
-Delete this zone
+이 영역 삭제
 
 #bc_menuform_disb
-Disband formation
+부대 해제
 
 #bc_menuform_movc
-Move camp position
+캠프 위치 이동
 
 #bc_menuform_disb_1
-Are you sure you want to disband this formation ?
+이 부대를 해체하시겠습니까?
 
 #bc_menuform_disb_2
-If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
+만약 당신이 이 부데를 당신의 통제된 영토 중 하나에서 해체한다면, 군대의 모든 재고와 장비들이 그 영토에 하역될 것이다. 모든 유닛은 그 지역의 인구에 통합될 것이다.
 
 #bc_menuform_disb_3
-You cannot disband in territories you do not control!
+통제하지 않는 영역에서는 해산할 수 없다!
 
 #menuform_pwr
-This formation type costs [x] State Power to maintain.
+이 부대 유형은 유지보수를 위해 [x] 주권력 비용이 든다.
 
 #menuform_disb_err1
-You cannot disband this formation here!
+여기서 이 부대를 해체할 수는 없다!
 
 #ui_wregown_smes
-send missive
+미사를 보내다
 
 #ui_wregown_war
-declare war
+선전포고를 하다
 
 #ui_confwar_title
-DECLARING WAR
+선전포고
 
 #ui_confwar
-Are you sure you want to declar war ?
+정말 전쟁을 선포하시겠습니까?
 
 #contact_sending
-Sending message to [x] of [y]...
+[y]의 [x]에 메시지를 보내는 중...
 
 #contact_messto
-Messaging [x] of [y]
+[y]에 [x]의 메시징
 
 #contact_pptreat
-Propose treaty
+조약 제안
 
 #contact_pptreat_c
-Joins a treaty proposition to this message
+이 메시지에 조약 제안 가입
 
 #contact_messfrom
-Message from [x]
+[x]의 메시지
 
 #contact_greet
-Greetings,
+안녕하시오,
 
 #contact_renegoc
-Greetings, I wish to renegociate the terms of our current treaty and here is my offer.
+안녕하십니까, 나는 우리의 현재 조약의 조건을 다시 언급하고 싶으며, 여기에 나의 제안이 있습니다.
 
 #contact_reply
-Reply to message
+메시지에 회신
 
 #treated_off
-Available offers:
+가능한 제안:
 
 #treated_dem
-Available demands:
+가능한 요구:
 
 #treated_conf
-WARNING! This treaty is in conflict with some of your other treaties!
+경고! 이 조약은 너의 다른 조약들과 상충된다!
 
 #treated_conf_c1
-On or more terms in this treaty is in conflict with engagements you made in other treaties. Signing this treaty means violating the conflicting treaties and will trigger breaking penalties on your side.
+이 조약에서 또는 그 이상의 조건은 당신이 다른 조약에서 한 약속과 상충된다. 이 조약에 서명하는 것은 상충하는 조약들을 위반하는 것을 의미하며, 당신측에서 벌칙을 위반하는 것을 촉발할 것이다.
 
 #treated_conf_c2
-Conflicts with:
+다음 항목과 충돌:
 
 #treated_dur
-treaty duration
+조약 기간
 
 #treated_dur_c1
-after this duration, the treaty will end
+이 기간이 지나면 조약은 종료될 것이다.
 
 #treated_dur_c2
-(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
+(일부 조약 조건은 영구적이며 조약 기간이 종료된 경우에도 계속 유효하지만 아무런 처벌 없이 취소할 수 있음)
 
 #treated_new
-NEW TREATY
+새로운 조약
 
 #treated_pers
-Remains effective even after treaty's duration but it can then be cancelled without breaking closes
+조약 기간 후에도 유효하지만 종료하지 않고 취소할 수 있다.
 
 #treated_inst
-Applied once, at the treaty's signature
+조약 서명에 한 번 적용
 
 #treaterm_coins
-Coins
+주화
 
 #treaterm_noidea
-No knowledges to share!
+공유할 지식은 없습니다!
 
 #treaterm_noreg
-No territories valid to transfer!
+양도할 수 있는 영토가 없다!
 
 #b_endtreaty
-Break treaty!
+조약 파기!
 
 #b_endtreaty_c1
-The treaty will instantly be terminated. Breaking closes on your side will apply.
+그 조약은 즉시 파기될 것이다. 네 쪽에서 파기 패널티가 적용될 것이다.
 
 #b_endagreed
-Ask termination
+조약파기 요청
 
 #b_endagreed_c1
-Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
+상대방에게 합의된 해지를 요청한다. 만약 받아들여진다면, 어떠한 패널티도 적용되지 않을 것이다.
 
 #b_renegoc
-Renegociate
+재조약
 
 #b_renegoc_c1
-Send a renegociation proposal. If agreed by the other party, the current treaty will be updated.
+재조약 제안서를 보내라. 상대방이 동의하면 현재의 조약이 갱신될 것이다.
 
 #ui_treat_termsent
-Request to agree to terminate this treaty sent to the other party!
+상대방에게 보내진 이 조약의 종결에 동의해 줄 것을 요청하라!
 
 #b_trtcancelofr
-Cancel offer
+제안 취소
 
 #b_trtcancelofr_c1
-Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+당신의 조약 제안은 취소될 것이고 상대방은 더 이상 그것을 받아들일 수 없을 것이다.
 
 #ui_treat_cancld
-Your treaty proposal was cancelled.
+너의 조약 제안이 취소되었다.
 
 #ui_treat_eng1
-You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
+당신은 현재 이 조약에 가입되어 있다! 끝내기로 선택한다면, 당신의 위약금 조항이 적용될 것이다. 당신은 [x]주화(당신의 총 GDP [y]%) 지불하고 명예를 잃게 될 것이다.
 
 #ui_treat_eng2
-This will not trigger war with [x].
+이것은 [x]와의 전쟁을 촉발시키지 않을 것이다.
 
 #ui_treat_eng3
-This will trigger war with [x].
+이것은 [x]와의 전쟁을 촉발시킬 것이다.
 
 #ui_treat_end
-You are not engaged by this treaty and can choose to end it without penalty. All it's terms will cease to apply for both members. Are you sure you want to proceed ?
+당신은 이 조약에 관여하지 않았고 처벌 없이 그 조약을 종결하는 것을 선택할 수 있다. 모든 조건이 양쪽 회원에게 적용되는 것을 멈출 것 입니다. 계속하시겠습니까?
 
 #menuevt_title
-EVENTS
+이벤트
 
 #menuevt_trpow
-% of state power transfered
+이전된 국가권력 % 
 
 #menuevt_tax
-% of coins income transfered
+이체된 주화 수입%
 
 #menuevt_invalid
-invalid input!
+잘못된 입력!
 
 #menuevt_empty
-No events to display
+표시할 이벤트 없음
 
 #menuevt_new
-New events
+새로운 이벤트
 
 #menuevt_all
-All events
+모든 이벤트
 
 #menuevt_dipl
-Diplomatic
+외교
 
 #menuevt_mil
-Military
+군사
 
 #menuevt_state
-State
+주
 
 #menuevt_nation
-Nation
+국가
 
 #menuevt_miss
-Missions
+미션
 
 #menuevt_ideas
-Ideas
+아이디어
 
 #menuevt_trade
-Trading
+거래
 
 #menuevt_objv
-Objectives
+목표
 
 #menuevt_rewd
-Rewards
+보상
 
 #menuevt_prgrs
-current
+현재
 
 #menuevt_comp
-completed!
+완료!
 
 #menuevt_incomp
-incomplete
+미완성의
 
 #menuevt_trt_no
-Refuse
+거절
 
 #menuevt_trt_reneg
-Counter-offer
+반대제안
 
 #menuevt_trt_yes
-Agree
+수락
 
 #ui_evt_goto
-GO TO REGION
+그 영토로 가기
 
 #ui_form_nb
-Number of units in this formation.
+이 부대의 유닛 수
 
 #ui_form_threat
-Military strenght of this formation.
+부대의 군사력
 
 #ui_form_threat
-Military strenght of this formation.
+부대의 군사력
 
 #ui_form_AP_c1
-Action Points: [x]/100   ([y] [z])
+액션포인트: [x]/100   ([y] [z])
 
 #ui_form_AP_c2
-Required to perform actions such as movements or attacks, these points are regained over time by encamping or by returning to their home region. Below 50 the formation is forced to encamp and cannot perform new actions.
+이동이나 공격 등의 행동을 실시하기 위해 필요하며, 포인트는 시간이 지남에 따라 캠프를 치거나 본거지로 되돌아감으로써 회복닙니다. 50 이하에서는 부대는 강제로 캠프를 치게 되며 새로운 동작을 수행할 수 없다. 
 
 #ui_form_AP_d1
-- Recovery[y]: [x]
+- 회복[y]: [x]
 
 #ui_form_AP_enc
-encamped
+캠프
 
 #ui_form_AP_hom
-at home
+고향
 
 #ui_form_AP_cit
-in city
+도시내
 
 #ui_form_AP_d2
-- Territory[y]: [x]
+- 영토[y]: [x]
 
 #ui_form_AP_enm
-enemy
+적
 
 #ui_form_AP_d3
-- Home distance ([y]%): [x]
+- 고향과의 거리 ([y]%): [x]
 
 #ui_form_movcost
-Basic Action Points cost for moving one territory tile for this formation. This base cost is then combined with other contextual factors to determine the final cost of a movement. 
+부대가 하나의 영역 타일을 이동하는 데 드는 액션포인트 비용이다. 기본 비용은 이동의 최종 비용을 결정하기 위해 다른 상황 요인들과 결합된다.
 
 #ui_form_movcost_d1
-- Base cost: [x]
+- 기본비용: [x]
 
 #ui_form_movcost_d2
-- Units movement speed: [x]
+- 유닛 이동 속도: [x]
 
 #ui_form_movcost_d3
-- Mounted units only ([y]%): [x]
+- 승마유닛 ([y]%): [x]
 
 #ui_form_movcost_d4
-- Army size ([y]%): [x]
+- 부대 크기([y]%): [x]
 
 #ui_tile_movcost
-The movement cost of this territory is used to determine the Action Points cost of units moving through it.
+이 영역의 이동 비용은 이 영역을 통과하는 유닛의 액션포인트 소모비용을 결정하는 데 사용된다.
 
 #ui_tile_movcost_d1
-- Terrain cost[y]: [x]
+- 지형 비용[y]: [x]
 
 #ui_tile_movcost_d2
-- Diplomatic stance [y]: [x]
+- 외교적 입장 [y]: [x]
 
 #ui_tile_movcost_ntr
-netural
+중립
 
 #ui_tile_movcost_own
-own territory
+영토 소유중
 
 #ui_tile_movcost_frd
-friendly territory
+우방영토
 
 #ui_tile_movcost_enm
-enemy territory
+적의 영토
 
 #ui_tile_movcost_set
-is settled
+정착지
 
 #ui_form_mltreq
-Requires [x] Porcos in the territory.
+이 영토 내 [x] 만큼의 돼지를 필요로 합니다.
 
 #ui_form_mltmiss
-Not enough population to fully pig-up this militia!
+이 민병대를 전부 소집하기에 인구가 충분하지 않아!
 
 #ui_form_diplo_p1
-This formation is peaceful towards us. 
+이 부대는 우리에게 평화적입니다.
 
 #ui_form_diplo_p2
-We can safely camp or pass through their territory.
+우리는 안전하게 캠프를 치거나 그들의 영역을 통과할 수 있다.
 
 #ui_form_diplo_h1
-This formation is hostile towards us! 
+이 부대는 우리에게 적대적이야!
 
 #ui_form_diplo_h2
-If this formation meets any of our units in a same territory or if we try to pass through their current location, it will trigger a battle.
+이 부대가 같은 영토에서 우리 부대 중 어느 하나라도 만나거나 우리가 그들의 현재 위치를 통과하려고 하면 전투를 촉발시킬 것이다.
 
 #ui_form_sprt
-home
+고향
 
 #ui_form_sprt_c1
-The home city supporting these units: Porcos grow old and need to be replaced by new ones coming from the home city.
+이 유닛을 지원하는 고향: 돼지는 늙을 것이며 고향에서부터 오는 새로운 보충병으로 대체될 것 이다.
 
 #ui_form_sprt_c2
-This formation currently requires [x] porcos per generation from it's home to be maintained.
+이 부대는 현재 유지되기 위해 고향으로부터 세대당 [x] 만큼의 돼지를 필요로 한다.
 
 #ui_form_sethome
-Set current territory as home
+현재 영역을 고향으로 설정
 
 #ui_form_invhom_1
-You cannot set empty territories as a home: it needs to be a territory you own.
+빈 영토를 고향으로 설정할 수는 없다. 그것은 당신이 소유한 영토가 되어야 한다.
 
 #ui_form_invhom_2
-You cannot set foreign territories as a home: it needs to be a territory you own.
+외국 영토를 하나의 고향으로 설정할 수는 없다. 그것은 당신이 소유한 영토가 되어야 한다.
 
 #ui_form_upkp
-Upkeep of this formation
+이 부대의 유지비
 
 #ui_form_upkp1
-(equipment + soldier's salary)
+(장비 + 군인 월급)
 
 #ui_form_upkp2
-(lower upkeep for militias: equiment only)
+(민병대는 유지비 적음 : 장비만 필요)
 
 #ui_conf_sure
-Are you sure?
+확실합니까?
 
 #ui_conf_renonce
-WARNING: You will no longer control this territory: left on it's own, this territory will fall into anarchy.
+경고: 당신은 더 이상 이 영역을 통제하지 못할 것이다. 이 영역은 스스로 남겨질 것이고, 이 영역은 무정부 상태에 빠질 것이다.
 
 #ui_conf_abandon
-The territory will be cleared. All it's population will be transfered in one of more formations, taking all the resources they can carry with them.
+영토는 비워질 것이다. 모든 인구는 부대 중 하나로 옮겨질 것이고, 그들이 가지고 다닐 수 있는 모든 자원을 가져갈 것이다.
 
 #ui_conf_capital
-Do you really want to set this territory as your new capital ? 
+정말로 이 지역을 당신의 새로운 수도로 설정하기를 원하십니까?
 
 #b_renonce
-Renounce control of this territory
+이 영역에 대한 통제 취소
 
 #err_reg_rnnc1
-This territory cannot be renounced while there is a battle taking place in it.
+이 영토는 전투가 벌어지는 동안 포기할 수 없다.
 
 #err_reg_rnnc2
-This territory cannot be renounced while it has an active resistance movement.
+이 지역은 저항운동이 활발할 때 포기할 수 없다.
 
 #err_reg_rnnc3
-The current status of this territory doesn't allow you to renounce to its control.
+이 영토의 현재 상황은 당신이 통제권을 포기하도록 허락하지 않는다.
 
 #b_abandon
-Evacuate this territory
+이 지역에서 대피.
 
 #err_reg_abdn1
-This territory cannot be evacutated while there is a battle taking place in it.
+이 지역은 전투가 벌어지고 있는 동안에는 피난할 수 없다.
 
 #err_reg_abdn2
-This territory cannot be evacutated because it's loyalty is too low.
+이 지역은 충성도가 너무 낮아서 대피할 수 없다.
 
 #err_reg_abdn3
-This territory cannot be evacutated while it has an active resistance movement.
+이 지역은 저항운동이 활발한 동안에는 피난할 수 없다.
 
 #err_reg_abdn4
-The current status of this territory doesn't allow you to order its evacuation.
+이 지역의 현재 상황은 당신이 대피 명령을 내리는 것을 허락하지 않는다.
 
 #b_regclaim
-Claim territory
+영토선언
 
 #b_regunclaim_1
-You can unclaim this territory: it will become free of any ownership.
+너는 이 영토권에 대해 취소할 수 있다. 해당 영토는 어떤 소유권으로부터도 자유로워질 것이다.
 
 #b_regunclaim_2
-WARNING: By willingly revoking this claim you will lose 2 of Honor!
+경고: 이 주장을 기꺼이 철회함으로써 당신은 명예 2을 잃게 될 것이다!
 
 #regclaim_title
-Claiming territory...
+영토를 주장하는 중...
 
 #regclaim_txt
-You can claim this territory and attach it to one of your regions. This will cost Administration to the region's main city. If your city runs out of Administration, you will automatically lose your claims (note that unclaiming territories comes with a small Honor penalty).
+이 영토를 주장하여 당신의 지역 중 하나에 붙일 수 있다. 이것은 그 지역의 주요 도시에 행정 비용을 지불해야 할 것이다. 만약 당신의 도시가 행정부를 고갈시킨다면, 당신은 자동적으로 당신의 청구권을 잃게 될 것이다.
 
 #regclaim_par
-Parent territory
+모영토
 
 #regclaim_err1
-You cannot claim this territory because its currently occupied by foreign units!
+이 영토는 현재 외국 부대가 차지하고 있기 때문에 당신은 이 영토를 주장할 수 없다!
 
 #regclaim_err2
-Insufficient Administration! You cannot claim any new territories with this region.
+행정력이 불충분합니다! 너는 이 지역에 어떤 새로운 영토도 소유할 수 없다.
 
 #regclaim_err3
-Colonies cannot claim new territories!
+식민지들은 새로운 영토를 주장할 수 없다!
 
 #regclaim_acst
-Administration cost
+행정 비용
 
 #regclaim_acst_c1
-Maintaining this claim will cost [x] of Administration from the parent territory.
+이 클레임을 유지하려면 모국으로부터 [x]의 행정 비용이 든다.
 
 #b_movcapit
-Set this territory as capital
+이 영역을 수도로 설정하십시오.
 
 #b_actv_trt_perm
-permanent engagement
+영구조약
 
 #b_actv_trt_engov
-engagement over
+조약종결
 
 #b_actv_trt_eng
 engaged for
 
 #b_actv_trt_pend1
-pending: waiting for your reply...
+대기: 당신의 답변을 기다리는 중...
 
 #b_actv_trt_pend2
-pending: waiting for other's response...
+대기: 다른 사람의 응답을 기다리는 중...
 
 #b_actv_trt_m1
-You
+당신
 
 #b_actv_trt_m2
-Other
+다른 사람
 
 #b_actv_trt_cancel
-cancel treaty
+조약 취소
 
 #ui_wrldmov_er1
-Insufficient Action Points to perform this action yet!
+이 작업을 수행할 수 있는 액션포인트 부족!
 
 #ui_wrldmov_er2
-You cannot move here.
+여기서 움직일 수 없다.
 
 #ui_wrldmov_er3
-This formation is currently immmobilized and cannot move!
+이 부대는 현재 움직일 수 없다!
 
 #ui_wrldmov_er4
-You cannot move here because you have no right of passage with the owner of this territory!
+이 영지주인과 통행권이 없기 때문에 이곳으로 이동할 수 없다!
 
 #ui_wrldmov_er5
-This formation cannot break camp until it has at least 50 Action Points.
+이 부대는 적어도 50만큼의 액션 포인트를 가질 때까지 야영을 해제할 수 없다.
 
 #formimob_er1
-You cannot give any orders to this formation because its currently immobilized!
+이 부대는 현재 움직일 수 없기 때문에 어떤 명령도 내릴 수 없다!
 
 #ui_bdg_nbprod
-Number of workers that are assigned to production.
+생산에 할당된 작업자 수입니다.
 
 #ui_bdg_nbdstb
-Number of workers assigned to selling the produced goods of this building.
+이 건물의 생산품 판매에 할당된 근로자 수입니다.
 
 #ui_bdg_nbrsrch
-Number of workers busy with current research projects.
+현재 연구 프로젝트에 종사 중인 근로자 수입니다.
 
 #ui_bdg_nbrsrch2
-[x] [y] out of [z] in this territory are currently assigned to research projects.
+이 영역의 [z] 중 [x][y]는 현재 연구 프로젝트에 배정되어 있다.
 
 #ui_bdg_ef_dscr
-Current efficiency of workers, affecting the total workforce of the building.
+건물의 전체 노동력에 영향을 미치는 현재 작업자의 효율성.
 
 #ui_bdg_wf_dscr
-Total amount of work that this building can currently get done.
+이 건물이 현재 할 수 있는 총 작업량.
 
 #ui_bdg_wf_dscr2
-[x] producing workers * [y] efficiency = [z] of total workforce
+[x] 직원 생산력 * [y] 효율성 = [z] 의 전체 노동력
 
 #ui_bdg_wl_dscr
-How much this building contributes to the total territory's wealth.
+이 건물의 전체 영토에 부 기여도.
 
 #ui_bdg_wl_dscr2
-[x] of producing workforce * [y] = [z] of additionnal wealth
+[x] 의 생산 노동력 * [y] = [z] 의 추가적 부
 
 #ui_bdg_wu_dscr
-How much of the available workforce is currently being used and busy producing.
+현재 사용 가능한 인력 중 얼마가 사용되고 있으며 생산에 투입되고 있는 지.
 
 #ui_bdg_wu_dscr2
-If below 100%, it means the workers are not working at their full capacity.
+100% 미만이면 노동자들이 그들의 최대 능력으로 일하고 있지 않다는 것을 의미한다.
 
 #ui_bdg_ef1_dscr
-The base efficiency of the building itself.
+건물 자체의 기본 효율성.
 
 #ui_bdg_ef1_dscr2
-Can be increased by upgrading the building, unlocked by technologies.
+새로운 기술들의 언락을 통한 건물 업그레이드에 의해 증가될 수 있다.
 
 #ui_bdg_ef2_dscr
-Total effect of the state on this building's efficiency.
+이 건물의 효율성에 대한 국가의 총 영향
 
 #ui_bdg_ef2_dscr2
-Many state policies affect the efficiency of buildings.
+많은 국가 정책은 건물의 효율성에 영향을 미친다.
 
 #ui_bdg_ef3_dscr
-The building's placement effect on it's efficiency.
+건물의 효율성에 대한 배치 효과
 
 #ui_bdg_ef3_dscr2
-Road connection and proximity of certain other buildings can affect it's efficieny [not implemented yet].
+도로 연결과 특정 다른 건물의 근접성은 그 효율성에 영향을 미칠 수 있다[아직 구현되지 않았다].
 
 #ui_bdg_ef4_dscr
-If unprofitable for its workers, efficiency of the building is progressively reduced.
+근로자들에게 이익이 되지 않으면 건물의 효율은 점차 감소한다.
 
 #ui_bdg_proddet
-PRODUCTION DETAILS
+생산품 세부 정보
 
 #ui_bdg_pdet_1
-sold directly
+직접 판매됨
 
 #ui_bdg_pdet_1_c
-[x]% of the production is put on the market directly by the workers of this building.
+생산량의 [x]%는 이 건물의 근로자들이 직접 시장에 내놓는다.
 
 #ui_bdg_pdet_s
-[x]% of it ([y]) is successfuly sold at a price of [z] per unit (unsold stocks are lost).
+([y])의 [x]%는 단위당 [z]의 가격에 성공적으로 판매됬다(미매도 물품은 손실됨).
 
 #ui_bdg_pdet_2
-sold via traders
+상인을 통해 판매됨.
 
 #ui_bdg_pdet_2_c
-[x]% of the production is put on the market via traders who keep a share of the benefits.
+[x]%의 생산은 이익의 몫을 나눠가지는 상인을 통해 시중에 유통된다.
 
 #ui_bdg_pdet_3
-sold to producers
+생산자에게 판매됨.
 
 #ui_bdg_pdet_3_c
-[x]% of the production is sold to other industries or services.
+[x]%의 생산은 다른 산업이나 서비스에 판매된다.
 
 #ui_bdg_pdet_4
-exported
+수출한
 
 #ui_bdg_pdet_4_c
-[x]% of the production is exported to foreign markets
+[x]%의 생산량은 해외시장에 수출됨
 
 #ui_bdg_pdet_5
-state sales
+국개 매입
 
 #ui_bdg_pdet_5_c1
-Incomes from sales to the state (you) are buffered and slowly transfered back to the workers, generating income for a longer time.
+판매에서 주(유저)로의 수익은 천천히 근로자에게 다시 전달되어 더 오랜 시간 소득을 창출한다.
 
 #ui_bdg_pdet_5_c2
-From auto-purchases: [x] coins ([y] resources).
+자동 구매 시: [x] 주화 ([y] 자원)
 
 #ui_bdg_pdet_5_c3
-From past purchases: [x] coins.
+과거 구매 : [x] 주화.
 
 #ui_bdg_pdet_6
-production cost
+생산비
 
 #ui_bdg_pdet_6_c
-Expenses to buy required materials for the production.
+생산에 필요한 재료를 구입하는 데 드는 비용.
 
 #ui_bdg_pdet_7
-total income
+총소득
 
 #ui_bdg_pdet_7_c
-The total gross income (before taxes) for this production.
+이 생산에 대한 총소득(세전).
 
 #ui_bdgbudget_1
-sales
+매출
 
 #ui_bdgbudget_1_c
-Total raw income from all sales made by the building.
+건물에서 판매한 모든 매출의 총 수입(비용정산하지않은 raw값).
 
 #ui_bdgbudget_2
-production cost
+생산비
 
 #ui_bdgbudget_2_c
-The cost of all required materials for production, if any.
+생산에 필요한 모든 재료의 비용(있는 경우).
 
 #ui_bdgbudget_3
-taxes
+세금
 
 #ui_bdgbudget_3_c
-Amount of income taxed by the state (you). This is the actual income this building's activity generates for you.
+주(귀하)에서 과세하는 소득의 양. 이 건물의 활동이 당신에게 주는 실제 수입.
 
 #ui_bdgbudget_4
-worker's income
+노동자의 수입
 
 #ui_bdgbudget_4_c
-The net income left after all costs and taxes, shared between all the workers employed by this building.
+이 건물에 고용된 모든 근로자들 간에 공유된 모든 비용과 세금 후에 남겨진 순이익.
 
 #ui_bdgbudget_5
-producer's share
+생산자 몫
 
 #ui_bdgbudget_5_c
-The share of the sales that goes back to the producers of the resources: merchants only pay them depending on the sales and unsold stocks are not paid.
+자원의 생산자에게 돌아가는 매출의 몫: 상인들은 판매에 대해서만 지불하고 미판매 재고는 지불하지않는다.
 
 #ui_bdgind_nbprd1
-The current number of productions, depending on the buidlings's workforce and required materials availablity.
+현재 생산물 수(건물 노동력 및 필요한 재료 가용성에 따라 다름)
 
 #ui_bdgind_nbprd2
-Each production generates [x] units of [y] and require [z] of workforce. 
+각 생산은 [x] 단위의 [y]를 생성하며 [z]의 인력이 필요하다.
 
 #ui_bdgind_prcnt1
-The current production rate, depending of all the required material's availabilities.
+모든 필수 재료의 가용성에 따라 현재 생산 속도
 
 #ui_bdgind_prcnt2
-[x]% of the total workforce of [y] is working = [z] of productive workforce.
+y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 
 #ui_bdgind_curprod
-Currently producing [x] units of [y] [z].
+현재 [y] [z]의 [x] 단위를 생산하고 있다.
 
 #ui_bdgind_curcons
-Currently consumming [x] units of [y] [z] for this production.
+현재 이 생산에 [y] [z]의 [x]단위를 소모하고 있다.
 
 #ui_bdgind_mat1
-Set to use [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+[x]를 [y]를 생산하기 위한 재료로 사용하려면 설정하십시오. 이 재료의 필요도는 [z]%에서 충족됩니다.
 
 #ui_bdgind_mat2
-Automatically using [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+[y]를 생산하기 위한 재료로서 자동으로 [x]를 사용한다. 이 재료의 필요도은 [z]%에 충족됩니다. 
 
 #ui_bdgind_recip
-It takes [x] of [y] for every unit of [z] produced.
+생산되는 [z]의 각 단위당 [y]의 [x]가 필요하다.
 
 #ui_bdgind_byprod
-Producing [x] [y] as byproducts.
+[x] [y]를 부산물로 생산.
 
 #ui_bdgcstr_title
-In construction...
+건설 중...
 
 #ui_bdgcstr_self
-Self-constructing
+스스로 건축 중
 
 #ui_bdgcstr_self_c
-Some simple buildings can be built without professional builders, and will self construct even without any.
+몇몇 간단한 건물들은 전문 건축업자들 없이도 지어질 수 있고, 심지어 어떤 건물은 아무도 없어도 저절로 지어질 것이다.
 
 #ui_bdgcstr_bdrs
-Builders
+건축업자
 
 #ui_bdgcstr_bdrs_c
-The amount of construction work this building is currently getting from from professional builders.
+이 건물이 현재 전문 건설업자로부터 받고 있는 용역의 양.
 
 #ui_regres_inv
-Inventory
+재고
 
 #ui_regres_inv_c
-Listing all the resources and services of this territory.
+이 영역의 모든 자원 및 서비스 목록.
 
 #ui_regres_mtrd
-Market trades
+시장거래
 
 #ui_regres_mtrd_c
-To buy and sell stocks of resources
+자원물품을 사고 팔기
 
 #ui_regres_trt
-Trade routes
+무역로
 
 #ui_regres_trt_c
-To transfer a constant flux of resources between territories.
+지역 간에 일정한 자원 흐름을 전달하기 위해서입니다.
 
 #ui_regres_addrt
-New trade route
+신무역로
 
 #ui_regres_buysell
 Buy and sell
 
 #ui_regres_totimp
-Importations
+수입
 
 #ui_regres_totimp_c1
-Imported goods are bought by you at their trade route price and are then sold in the territory at their local price.
+수입품은 교역로 가격에 당신이 구매한 후 그 지역에서의 현지 가격에 판매된다.
 
 #ui_regres_totimp_c2
-Purchasing cost from the trade route:
+거래 경로에서 구입 비용:
 
 #ui_regres_totimp_c3
-Local sales:
+현지 판매:
 
 #ui_regres_totimp_c4
-Purchased cargo:
+구입한 화물:
 
 #ui_regres_totexp
-Exportations
+수출
 
 #ui_regres_totexp_c1
-Exported goods are bought by you at their local price from the producers of this territory and are then sold at their trade route price to the importer.
+수출품은 귀하가 이 지역의 생산자로부터 현지 가격으로 구입하여 수입자에게 교역로 가격으로 판매한다.
 
 #ui_regres_totexp_c2
-Purchasing cost from local producers:
+지역 생산자로부터 구입 비용:
 
 #ui_regres_totexp_c3
-Income from trade route sales:
+교역로 판매 수익:
 
 #ui_regres_totexp_c4
-Sold cargo:
+판매 화물:
 
 #ui_regres_addofr
-Add offer
+제안 추가하기
 
 #ui_regres_trsf
-TRANSFER
+이송하다
 
 #ui_regres_imp
-IMPORT
+수입하다
 
 #ui_regres_exp
-EXPORT
+수출하다
 
 #ui_regres_buy
-BUY
+구매
 
 #ui_regres_sell
-SELL
+판매
 
 #ui_regres_imps
-Current importations
+현재 수입
 
 #ui_regres_exps
-Current exportations
+현재 수출
 
 #ui_regres_oper
-Operated trade routes
+운영중인 무역로
 
 #ui_regres_makeav
-available to trade network
+이용가능한 무역망
 
 #ui_regres_makeav_c
-If enabled, the cargo service of this territory will also be available for rent to everyone in your trading network.
+만약 활성화한다면, 이 지역의 화물 서비스도 당신의 무역망에 있는 모든 사람에게 빌려줄 수 있을 것이다.
 
 #ui_regres_tax
-tax
+세금
 
 #ui_regres_tax_c
-Taxing a percentage of the total value of all goods of every trade route operated by this city.
+이 도시에 의해 운영되는 모든 무역로의 모든 상품의 총 가치의 백분율에 세금을 부과한다.
 
 #ui_regres_pndng
-Our offers
+우리의 제안
 
 #ui_regres_prod
-Production
+상품
 
 #ui_regres_bal
-In stock
+재고중
 
 #ui_regres_lprc
-Local price
+현지가격
 
 #ui_regres_atprc
-at price
+의 값
 
 #ui_regres_noinp
-[type a resource name]
+[자원 이름을 기입하세요]
 
 #ui_newofr_noprod
-You cannot export this resource because you do not have any production or stocks of it.
+이 자원의 생산이나 재고가 없기 때문에 수출할 수 없다.
 
 #ui_newofr_notrd
-Not enough trading service to create this offer!
+거래 서비스가 부족하여 이 제안을 만들 수 없음!
 
 #ui_newofr_sent
-New trade route offer sent!
+새로운 교역로 제안을 발송함!
 
 #ui_regres_pndng2
-Our current trade-route offers:
+현재 우리의 무역로 제안:
 
 #ui_regres_off1
-Available offers in our trading network:
+우리의 무역망내 제안 가능한 것:
 
 #ui_regres_off2
-Competing offers in our trading network:
+우리의 거래 네트워크에서 경쟁 제안:
 
 #ui_regres_cancel
-Cancel trade offer
+거래 제안 취소
 
 #button_trtimp_c1
-You are currently importing [x] of [y] from [z] into this territory for a total of [v] coins.
+당신은 현재 총 [v] 주화만큼에 [y] [x]를 [z]에서 이 영역으로 수입하고 있다.
 
 #button_trtexp_c1
-You are currently exporting [x] of [y] to [z] for a total of [v] coins.
+당신은 현재 총 [v] 주화만큼에 [y] [x]를 [z]로 수출하고 있다.
 
 #button_trtcargo
-Requiring [x] of Cargo, operated by [y]. 
+[x] 카고 필요, [y]에 의해 운영됨.
 
 #ui_ofrcanceled
-Trade offer canceled!
+거래 제의 취소!
 
 #ui_troute_opnw
-Opening new trade route...
+새 무역로를 여는 중...
 
 #ui_troute_optr
-Trade route operator
+무역로운영자
 
 #ui_troute_dscr
-A trade route transfers a constant flux of resources between cities. It requires a cargo service to operate. 
+교역로는 도시들 사이에 일정한 자원의 흐름을 전달한다. 그것은 운항을 위해 화물 운송 서비스를 필요로 한다.
 
 #ui_troute_opdscr1
-The trade route operator is the city dealing with the transportation of the goods.
+무역로 운영자는 상품의 운송을 다루는 도시다.
 
 #ui_troute_opdscr2
-It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
+일부 화물 서비스를 이용할 수 있게 한 것은 당신의 무역 네트워크 내의 다른 도시나 무역 루트를 여는 도시일 수 있다.
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+화물의 가격은 무역로 거리에 따라 기하급수적이다. 당신의 교역로 중간에 위치한 제3의 도시를 운영자로 선택하면 그 도시의 화물 비용이 크게 절감될 것이다.
 
 #ui_troute_vol
-Cargo volume
+화물 물량
 
 #ui_troute_cargorq
-CARGO REQUIRED
+화물이 필요함
 
 #ui_troute_cargorq_c1
-The amount of cargo service needed to operate this trade route.
+이 무역로를 운영하는데 필요한 화물 서비스의 양
 
 #ui_troute_cargorq_c2
-distance factor * cargo volume
+거리 계수 * 화물량
 
 #ui_troute_distf
-Distance factor
+거리계수
 
 #ui_troute_distf_c1
-This factor depends of the longest of the 2 distances between the operator and each one of the trade route's destinations. 
+이 인자는 사업자와 각 무역로의 목적지 사이의 2거리 중 가장 긴 거리에 따라 달라진다.
 
 #ui_troute_distf_c2
-longest distance from operator
+운용자로부터 가장 긴 거리
 
 #ui_troute_opetax
-OPERATOR TAX
+운영자 징세
 
 #ui_troute_opetax_c1
-A trade route operator may also tax a percentage of the value of all goods transiting through their territory.
+무역로 운영자는 또한 그들의 영역을 통과하는 모든 상품의 가치의 백분율에 세금을 부과할 수 있다.
 
 #ui_troute_maxava
-Cargo available
+이용가능한 화물
 
 #ui_troute_maxava_c1
-The amount of cargo service currently available in the operator.
+운영자에서 현재 이용할 수 있는 화물 서비스의 양.
 
 #ui_troute_edit
-Editing existing trade route...
+기존 거래 경로를 편집하는 중...
 
 #ui_troute_apl1
-Open trade route
+무역로 개방
 
 #ui_troute_apl2
-Apply
+적용
 
 #ui_troute_cgcost_c1
-Total cost of cargo using this territory as the trade route operator.
+이 영역을 무역로 운영자로 사용하는 총 화물 비용.
 
 #ui_troute_totcost
-TOTAL TRADE ROUTE COST
+무역로 총비용
 
 #ui_troute_totcost_c1
-The total cost of maintaining this trade route.
+이 교역로를 유지하는 데 드는 총 비용.
 
 #ui_troute_bdgtdscr1
-The state pays and owns the entirety of the imported goods from the exporting city, regardless of their later use.
+국가는 나중에 사용하는 것에 관계없이 수출 도시로부터 수입된 물품의 전액을 지불하고 소유한다.
 
 #ui_troute_bdgtdscr2
-All the later incomes made locally from the selling of these goods are then entirely for the state.
+이 상품들의 판매로 현지에서 벌어들인 이후의 모든 수입은 전적으로 국가를 위한 것이다.
 
 #ui_troute_bgc
-goods cost
+상품비
 
 #ui_troute_bgc_c1
-The cost of purchasing goods to the exporting city.
+수출 도시로 물건을 구입하는 데 드는 비용.
 
 #ui_troute_bcc
-cargo cost
+화물비
 
 #ui_troute_bcc_c1
-The cost of the cargo service purchased to the trade route operator.
+무역로 운영자에게 구입한 화물 서비스 비용.
 
 #ui_troute_bt
-operator tax
+운영자세
 
 #ui_troute_bt_c1
-The amount paid to the operator taxing goods transiting through their city.
+자신의 도시를 통과하는 상품에 세금을 부과하는 사업자에게 지불된 금액.
 
 #ui_troute_open
-Opened a new trade route!
+새로운 무역로를 열었다!
 
 #ui_troute_err1
-Cannot open trade route because the selected operator cannot provide the required cargo service!
+선택한 운영자가 필요한 화물 서비스를 제공할 수 없기 때문에 거래 경로를 열 수 없음!
 
 #ui_troute_close
-Close this trade route
+이 거래 경로 닫기
 
 #menu_nfrm_title
-Creating a new formation...
+새로운 부대 만들기
 
 #menu_nfrm_fname
-Formation's name
+부대의 이름
 
 #menu_nfrm_chtp
-Select a type of formation
+부대의 유형을 고르시오
 
 #menu_nfrm_type1
-Army
+군대
 
 #menu_nfrm_t1_dscr1
-An army is composed by permanently mobilized units, costing upkeep.
+군대는 영구적 동원부대로 편성됫으며 이동가능하고 유지비가 든다.
 
 #menu_nfrm_t1_dscr2
-They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+늙은 돼지를 대체하기 위해서 가정에서의 지속적인 지원이 필요하며, 새로운 유닛을 모집하면 돼지는 영토에서 추출된다.
 
 #menu_nfrm_t1_dscr3
-Armies can move into other territories and their presence increases state authority.
+군인들은 다른 지역으로 이동할 수 있고 그들의 존재는 국가의 권위를 증가시킨다.
 
 #menu_nfrm_type2
-Militia
+민병대
 
 #menu_nfrm_t2_dscr1
-A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+민병대는 영토 자체의 인구에 의해 구성되며, 공격을 받았을 때만 영토를 방어하기 위해 동원된다.
 
 #menu_nfrm_t2_dscr2
-Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+민병대는 돼지들을 일시적으로만 동원하기 때문에 그들이 직업을 유지할 수 있게 하고, 민병대들은 봉급을 요구하지 않기 때문에 유지비가 더 낮다.
 
 #menu_nfrm_t2_dscr3
-However , the militia cannot move to other territory s and decreases the state authority.
+그러나 민병대는 다른 지역으로 이동할 수 없으며 국가 권한을 축소한다.
 
 #menu_nfrm_type3
 National army
