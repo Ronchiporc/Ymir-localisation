@@ -1,0 +1,50 @@
+[b]Ymir is a 4X multiplayer strategy game combined with a city builder where each player develops a civilization of Pigmen starting at the stone age. [/b]
+[i]The game is divided in 2 main interfaces : a worldmap view and a regional view. Each world tile matches a unique procedurally generated isometric zone that can be explored, settled and built on by players. In each one players can find random resources such as ores , animals or plants depending on the climate, relief and vegetation of the region. [/i]
+
+[img]{STEAM_APP_IMAGE}/extras/ymir_gif_1_small.gif[/img]
+
+[h2][b][u]Features[/u][/b][/h2]
+[list][*] Pigs with clothes. 
+[*] Multiplayer on local or persistent servers. 
+[*] Complex socio-economic simulator for a challenging city-building experience on its own. 
+[*] Technological evolution with hundreds to techs, from the stone age to post-iron age.
+[*] Fully procedural worlds where each region is random and unique. 
+[*] 7 biomes, each one with its own specific resources to encourage player-trading. 
+[*] Advanced diplomatic and economic tools to setup treaties ( right of passage, taxes, payments, trade agreements... ) and trade routes between players. 
+[*] Real-time battles.
+[*] WILL remain free of any pay-to-win . [/list]
+
+[img]{STEAM_APP_IMAGE}/extras/ymir_gif_3_small.gif[/img]
+
+[h2][b][u]Economy[/u][/b][/h2]
+[list][*] No direct control over population and economy: They breed, age, work and buy things according to the simulation. 
+[*] Population divided in social classes with specific incomes, purchasing power and revenues.
+[*] Dynamic resources prices based on supply/demand, rarity and production costs.
+[*] Even player consumed resources are taken into account: materials for buildings have to be bough at their market prices, generating incomes to the producers and affecting the economy.
+[*] A simulator instead of a set of independent game rules : all variables and actions influence each other in sometimes unpredictable ways that makes things frustratingly challenging. 
+[*] Producing too much of something can be as damaging as not enough making the logic of the game quite different from classic management games. ( ex: instead of having positive effects, distributing a new resource can actually destabilize your economy if you're not careful )[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/ymir_gif_2_small.gif[/img]
+
+[h2][b][u]Military[/u][/b][/h2]
+[list][*] Real-time battles are not instantiated and actually take place in your cities. 
+[*] Build and customize your fortifications with walls, bridges, gates, stairs, towers and battlements.
+[*] With the terrain tools, modify the terrain heights to take maximum advantage of natural defenses like cliffs and hill tops.
+[*] Water forces troops to embark and cross with slow vulnerable rafts: dig canals around your forts, secure your bridges or build a citadel on a river-island with fortified bridges. 
+[*] A Strategic-tool allows players to design their local defensive strategy in each one of their cities in case of attack: creating defensive zones, setting troops initial deployment positions and setting their behavior in battle.
+[*] Battles are not instantaneous and belligerents can send reinforcements while a battle is still in progress. 
+[*] Battles can include unlimited 'teams' at the same time, each one fighting according to its allegiances.
+[*] Battle troops during a battle are all AI controlled ( so that battles can happen independently of the player's presence ).
+[*] Dozens of unit types including mounted camels, elephants and armored mammoths.[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/ymir_gif_4_small.gif[/img]
+
+[h2][b][u]Main game modes[/u][/b][/h2]
+[list][*] Real-time mode : a 'classical' mode to be played alone or with a few friends, meant to be played with the permanent presence of all players and to be stopped/continued over several playing sessions.
+[*] Persistent mode : a more "MMO" mode where the game server is to be left running 24/7 at all times even when players are offline and where actions take much more time than in the real-time mode. Meant to be played with the maximum number of players on a day-to-day basis, with games lasting several weeks.[/list]
+
+[h2][b][u]IMPORTANT[/u][/b][/h2]
+[list][*]This game is a one-man project: development is slow.
+[*]This game is likely to forever remain an experimental work-in-progress and to never reach the quality, stability and optimization of a finished product: buy it only if you think it's worth it NOW, and not based on future expectations.
+[*]Playing solo is possible, but the main focus of this game is multiplayer.
+[*]The game is available in more languages than English, but localization is done by the community and might be partial and incomplete.[/list]
