@@ -4237,7 +4237,7 @@ Buy and sell
 100 + 연구 효율성[x] -어려움 [y] = [z]% 성공 확률
 
 #menu_rschr_all
-All population
+전체 인구
 
 #menu_rschr_noav
 현재 이 도시에서 이용 가능한 [x] 없음!
@@ -4858,631 +4858,631 @@ Maintenance
 [x]를 대체하는 중...
 
 #facrplc_txt
-As a superior of [x] and because this character is now inactive, your rank allows you to nominate a successor of lower rank that will take over its position within the Nation. The successor will swap its position and subordinates with the ones of the replaced character. The chosen successor cannot be of higher rank than the replaced character.
+[x]의 상급자로서, 국가에서 이 캐릭터를 추방할 수 있습니다. 그의 모든 부하들은, 만약 있다면, 그의 예하에 남아있을 것이고, 따라서 국가도 함계 떠날 것입니다.
 
 #facrplc_none
-None available!
+아무도 존재하지않습니다!
 
 #facdsmtl_title
-Dismantling territories
+영토를 해체합니다.
 
 #facdsmtl_text
-Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
+[x]가 현재 비활성 상태이기 때문에 당신의 직위는 해당 영역을 해체하고 국가의 다른 구성원에게 재분배할 수 있습니다.
 
 #facdsmtl_c1
-Select a new owner for this territory.
+이 영역에 대한 새 소유자를 선택합니다.
 
 #facdsmtl_err
-[cannot dismantle]
+[해체할 수 없습니다]
 
 #facdsmtl_err_c1
-This territory was integrated recently and hasn't been part of your Nation long enough to be transfered via the 'dismantle' function.
+이 영역은 최근에 통합되었으며 '해체' 기능을 통해 전환될 수 있을만큼 오랫동안 해당 국가의 일부가 아직 아닙니다.
 
 #facdsmtl_err_c2
-Time before this territory can be dismantled: [x].
+이 영역을 해체하기 위해 기다려야 하는 시간: [x].
 
 #facquit_title
-Are you sure?
+확실하십니까?
 
 #facquit_txt
-By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+이 국가를 떠나면 새로운 독립 국가의 수장으로서 완전한 주권을 되찾게 됩니다. 현재의 모든 부하들이 여러분 밑에 남아 있을 것이고 따라서 새로운 국가에도 합류할 것입니다. 하지만, 만약 여러분이 조약으로 이 나라에 묶여 있다면, 이 협정은 여러분을 벌칙이나 심지어 전쟁에 노출시키면서 조약 위반을 촉발시킬 것을 경고합니다.
 
 #facfalg_title
-Editing Nation flag
+국기를 편집합니다.
 
 #menugov_setnam
-Government name
+정부의 이름.
 
 #menugov_setnam_c1
-Set the core name of your government (then combined with your Nation title).
+당신 정부의 이름을 설정합니다(그런 다음 국가 제목과 결합).
 
 #regnam_unclaimed
-Unclaimed territory
+영토선언되지 않은 영역입니다.
 
 #regnam_regof
-Region of [x]
+[x]의 영역입니다.
 
 #regnam_claimby
-Claimed by [x]
+[x]에 영토선언 된 곳 입니다.
 
 #uiworld_ownr
-Ownership
+소유권
 
 #uiworld_nownr
-No owner
+소유자 없음
 
 #uiworld_settl_1
-You can settle this territory by giving a formation the mission 'Settle' with this region as a target.
+이 지역을 대상으로 부대에 '정착' 임무를 명령함으로써 이 영역에 정착할 수 있습니다.
 
 #uiworld_settl_2
-For this mission type to be available, the formation must contain at least one civilian unit.
+이 임무 유형을 사용할 수 있으려면 최소 한 개의 민간 유닛이 부대에 존재해야 합니다.
 
 #facvote_name
-Voting for the successor of [x]
+[x]의 승계자를 투표합니다.
 
 #uivote_mode
-Voting mode
+투표 모드.
 
 #uivote_mod_high
-Highest votes
+최고 득표.
 
 #uivote_mod_high_c1
-The proposition with the most votes simply wins the vote. The vote is completed once all the valid voters have cast their vote.
+가장 많은 표를 얻은 자가 투표에서 승리합니다. 투표자가 모두 투표하면 투표가 완료됩니다.
 
 #uivote_status
-Vote status
+투표 상태
 
 #uivote_st_p
-pending...
+대기중...
 
 #uivote_st_o
-over
+종료
 
 #uivote_result
-Vote result
+투표결과
 
 #uivote_res_und
-undecided
+미결
 
 #uivote_cast
-Votes cast
+투표자
 
 #uivote_yrvt
-YOUR VOTE
+당신의 투표
 
 #uivote_txt1
-You have not cast your vote yet. Select one of the possible choices below and vote. Warning: your vote is final and cannot be modified once validated!
+당신은 아직 투표를 하지 않았습니다. 아래에서 가능한 선택 중 하나를 선택하고 투표하세요. 경고: 투표는 최종적이며 유효성이 확인되면 수정할 수 없습니다!
 
 #uivote_txt2
-You have already cast your vote. It is final and you cannot edit it anymore. The result will be announced once the voting process is completed.
+당신은 이미 투표했습니다. 최종이므로 더 이상 수정할 수 없습니다. 투표 절차가 마무리되면 결과가 발표됩니다.
 
 #uivote_choice
-choice
+선택
 
 #uivote_sendvt
-CAST VOTE!
+투표하세요!
 
 #regstatus_claim_1
-An empty territory can be claimed by your state and included in your official frontiers.
+빈 영토는 주(州)에서 주장할 수 있으며 공식 국경지역에 포함될 수 있습니다.
 
 #regstatus_trtry_1
-A territory is part of a region and is managed by the region's main city administration.
+영토는 한 지역의 일부이며 그 지역의 주요 도시 행정부에 의해 관리된다.
 
 #regstatus_colony_1
-Autonomous territory attached to a state.
+주(州)에 붙어 있는 자치 구역입니다.
 
 #regstatus_occup_1
-Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
+외국 영토는 군사력에 의해 통제되고있습니다. 국가의 직접적인 일부도 아니고 정부 행정부에 통합되지도 않은, 이것은 불안정하고 무질서한 상태입니다.
 
 #regstatus_outpost_1
-Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+재정적으로 의존적이고, 관리되고 있지 않으며, 자치적인 영역입니다. 전략적인 자원을 이용하기 위해 만들어진 소규모 원격 캠프에 유용합니다.
 
 #regstatus_city_1
-Regional center of your state, fully integrated and administered by your government.
+여러분의 주(州)의 지역 중심지로, 여러분의 정부에 의해 완전히 통합되고 관리됩니다.
 
 #regstatus_capital_1
-Home of the government, where the leader resides.
+지도자가 거주하는 정부의 고향입니다.
 
 #regstatprop
-Territorial status special properties
+영역 상태 특수 재산입니다.
 
 #regstatprop_build
-cannot build
+건설할 수 없습니다.
 
 #regstatprop_res
-cannot control resources
+자원을 제어할 수 없습니다.
 
 #regstatprop_trade
-cannot control trade
+무역을 통제할 수 없습니다.
 
 #regstatprop_bdgup
-buildings upkeep [x]
+건물 유지비는 [x]입니다.
 
 #regstatprop_loyal
-loyalty [x]
+충성도 [x]
 
 #regstatprop_cultr
-state culture [x]%
+주 문화 [x]%
 
 #regstatprop_conf
-population conflict [x]%
+인구 분쟁 [x]%.
 
 #regstatprop_rsrch
-can't do projects
+프로젝트를 수행할 수 없습니다.
 
 #regstatprop_milit
-cannot recruit militia
+민병대를 모집할 수 없습니다.
 
 #regstatprop_army
-cannot recruit army
+군대를 모집할 수 없습니다.
 
 #regstatprop_dist
-administration distance penalty [x]%
+행정 거리 패널티 [x]%
 
 #regstatprop_nodist
-no administration distance penalty
+행정 거리 페널티가 없습니다.
 
 #regstatprop_inc
-[x]% of tax incomes
+[x]% 의 세수 소득입니다.
 
 #regstatprop_noinc
-no tax incomes
+세금 수입이 없습니다.
 
 #regstatprop_exp
-[x]% of expenses
+[x]%의 비용입니다.
 
 #regstatprop_noexp
-no expenses
+비용이 들지 않습니다.
 
 #regstatprop_resist
-resistance growth [x]
+저항세력 증가는 [x] 입니다.
 
 #regstatprop_claim
-cannot own sub-territories
+하위 영토를 소유할 수 없습니다.
 
 #regstatprop_evac
-cannot be evacuated
+대피할 수 없습니다.
 
 #regstatprop_rencd
-cannot be renounced
+포기할 수 없습니다.
 
 #regstatprop_trsfr
-cannot be transfered
+전송할 수 없습니다.
 
 #regstatprop_spawn
-is a player spawn
+플레이어 생성입니다
 
 #regstatprop_pnlty
-[x] loyalty event on changing
+[x] 충성도 변경 이벤트입니다.
 
 #regstatprop_overdrft
-cannot overdraft
+당좌대월할 수 없습니다.
 
 #regstatus_penalty
-WARNING: changing current status will trigger an immediate loyalty event of [x]!
+경고: 현재 상태를 변경하면 [x]의 즉각적인 로열티 이벤트가 트리거됩니다!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+경고: 이 점거된 영역에 소유권을 주장하면 즉시 [x] 저항 및 [y] 충성도가 발생하게 됩니다!
 
 #regstatus_title
-Territory status
+영토 상태
 
 #regstatus_txt
-Modifying the administrative status of this territory...
+이 영토의 행정 상태를 수정하는 중입니다...
 
 #regstatus_setnew
-Set new status to
+새 상태설정 :
 
 #regstatus_setcap_1
-You can only have one capital city: your current capital will lose its status and become a regular city. Note that moving your capital may affect adminstration and culture in your other cities as well as you state power and finances.
+여러분은 오직 하나의 수도만을 가질 수 있습니다: 여러분의 현재 수도는 그 지위를 잃고 일반 도시가 될 것입니다. 수도를 이전하는 것은 다른 도시의 행정과 문화뿐 아니라 권력 및 재정에도 영향을 미칠 수 있습니다.
 
 #regstatus_setcit_1
-This territory will form a new region and will cost additionnal State power. You will then be able to attach other territories to this city as part of that region. 
+이 영역은 새로운 영역을 형성할 것이며 추가 국가 권력을 소모할 것입니다. 그 뒤 이 도시에 다른 영토를 붙일 수 있습니다.
 
 #regstatus_setcol_1
-WANRING: This is irreversible. You will lose direct control of this territory. Region gets a stable administration, loyalty and culture. No maintenance cost and no state power cost. Generates 5% income tax. If a player spawns in it, he starts in your nation with a colonial treaty of 5% income tax. 
+WANRING: 이것은 되돌릴 수 없습니다. 이 지역을 직접 통제할 수 없게 됩니다. 지역은 안정적인 행정, 충성, 문화를 얻습니다. 유지 보수 비용도 국가 권력 비용도 없습니다. 5% 소득세를 생성합니다. 만약 유저가 그 곳에서 생성된다면, 그는 5%의 소득세라는 식민지 조약을 가지고 당신 나라에서 시작합니다.
 
 #regstatus_setcol_2
-To make a colony the territory needs at least 150 of population and at least 65% of vital needs.
+식민지를 만들기 위해서는 적어도 150명의 인구와 65%의 필수욕구가 필요합니다.
 
 #setcolony_err1
-The territory needs at least 150 of population to be made a colony!
+그 지역은 식민지가 되기 위해서는 적어도 150명의 인구가 필요합니다!
 
 #setcolony_err2
-The territory needs at least 65% of vital needs to be made a colony!
+그 지역은 식민지가 되기 위해서는 적어도 65% 의 필수욕구가 필요합니다!
 
 #setcolony_err3
-The territory has too much resistance to be made a colony!
+그 지역은 식민지가 되기에는 너무 많은 저항이 있습니다!
 
 #regstatus_err1
-You cannot change the status of your capital city!
+수도의 상태를 변경할 수 없습니다!
 
 #voxclss_wall
-Walls
+벽
 
 #voxclss_wind
-Windows
+창문
 
 #voxclss_door
-Doors
+문
 
 #voxclss_pilr
-Pillars
+기둥
 
 #voxclss_beam
-Beams
+기동
 
 #voxclss_flr
-Floors
+바닥
 
 #voxclss_cube
 Cubes
 
 #treaty_endwar
-Armistice
+휴전
 
 #treaty_peace
-Peace treaty
+평화조약
 
 #treaty_nation
-Treaty of unification
+통일 조약
 
 #treaty_vassal
-Vassality treaty
+봉신조약
 
 #treaty_trade
-Trading agreement
+무역 협정
 
 #treaty_trtry
-Territorial transfer
+영토 이전
 
 #treaty_tech
-Knowledges transfer
+지식 이전
 
 #treaty_pass
-Treaty of passage
+통행권 조약
 
 #treaty_deflt
-Treaty
+조약
 
 #ui_colchos
-click to select a color
+클릭해서 색을 선택합니다.
 
 #ui_icchos
-click to select an icon
+클릭해서 아이콘을 선택합니다.
 
 #ui_fhierchy
-click to view this nation's hierarchy
+이 국가의 계층을 보려면 클릭합니다.
 
 #resist_abandon_1
-You cannot abandon buildings in a resistant city!
+저항력이 강한 도시에서 건물을 버릴 수 없습니다!
 
 #resist_demol_1
-You cannot demolish more than 3 buildings at a time in a resistant city!
+저항력이 강한 도시에서는 한 번에 3개 이상의 건물을 철거할 수 없습니다!
 
 #resist_demol_2
-You cannot demolish infrastructures in a resistant city!
+저항력이 강한 도시에서는 인프라를 파괴할 수 없습니다!
 
 #treaterr_1
-You do not have enough coins in your treasury to honor this treaty!
+당신은 이 조약을 준수할 수 있을 만큼 충분한 주화가 국고에 없습니다!
 
 #treaterr_2
-You do not have enough income in your treasury to honor this treaty!
+당신은 이 조약을 준수하기에 충분한 수입이 없습니다!
 
 #servfull
-Maximum number of active characters currently reached! Try again later.
+현재 최대 활성화 가능한 캐릭터 수에 도달했습니다! 나중에 다시 시도하세요.
 
 #menu_frmtyp_title
-Changing this formation's type...
+이 부대의 유형을 변경합니다...
 
 #menu_frmtyp_err1
-You cannot convert to a militia outside your own cities!
+당신은 도시 밖에서 민병대로 개편할 수 없습니요!
 
 #menu_frmtyp_err2
-You cannot convert formations in resistant cities.
+저항적인 도시에서는 부대를 전환할 수 없습니다.
 
 #formact_sack_1
-Warning: this action will cost you 15 of honnor, if successful!
+경고: 이 조치는 성공한다면 15명의 명예가 소모할 것입니다!
 
 #formact_sack_2
-The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
+우선 영토의 모든 방어를 제거하는 것이 목표일 것입니다. 만약 성공한다면, 그들은 가능한 한 많은 자원을 약탈할 것이지만, 건물을 불태우고 주민들을 학살함으로써 도시에 큰 피해를 줄 것입니다. 일단 끝나면 부대는 지역을 떠나게 됩니다.
 
 #formact_sack_3
-This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honnor.
+이 조치는 더 큰 피해를 입히는 동시에 단순한 기습보다 훨씬 많은 자원을 제공하지만, 기습과는 달리, 모든 방어망을 먼저 제거함으로써 영토를 완전히 장악하는 것을 의미하며, 귀하가 명예비용을 부담해야 합니다.
 
 #wkprio_0
-Avoided
+회피하기
 
 #wkprio_1
-Low
+낮음
 
 #wkprio_2
-Regular
+보통
 
 #wkprio_3
-High
+높음
 
 #wkprio_4
-Critical
+중요함
 
 #recyclmat
-We have recovered
+우린 회복했다
 
 #recyclbdg
-We have recovered [x] from the demolition of a [y].
+우리는 [y]의 파괴로부터 [x]를 회복했습니다.
 
 #charstate_1
-Inactive
+비활성화
 
 #charstate_2
-Active
+활성화
 
 #charstate_3
-Dead
+사망
 
 #charstate_4
-Powerless
+무력함
 
 #err_inaxsbdg
-This building is currently inaccessible!
+이 건물은 현재 접근할 수 없습니다.
 
 #formact_none
-Move
+이동
 
 #formact_camp
-Encamp
+야영하기
 
 #formact_hunt
-Hunt
+사냥
 
 #formact_captr
-Capture
+포획하기
 
 #formact_settle
-Settle
+정착하기
 
 #formact_raid
-Raid
+습격
 
 #formact_sack
-Sack
+약탈
 
 #formact_invd
-Invade
+침략하기
 
 #formact_batl
-Battle
+전투
 
 #formact_claim
-Claim territory
+영토를 선언
 
 #formact_reclaim
-Reclaim territory
+영토를 재선언
 
 #formact_unclaim
-Unclaim territory
+영토를 포기합니다
 
 #formhome_title
-Changing this formation's home...
+이 부대의 고향을 바꾸고있습니다...
 
 #formhome_dscr_1
-A formation's home region is the city they are attached to. The home provides renewal of aging soldiers and has to support the armies attached to it. It also defines the culture of the formation's units. 
+이 부대의 본거지는 그들이 종속된 도시입니다. 그 고향은 노령화된 군인들을 보충병으로 갱신하고 거기에 부속된 군대를 지원합니다. 또한 부대 유닛의 문화를 정의합니다.
 
 #formhome_dscr_2
-Formations will decay if they are attached to a home that doesn't have enough population to support them. 
+인구가 부족해서 부대를 부양할 수 없는 영토에 소속되어 있다면 부대는 쇠퇴됩니다.
 
 #formhome_dscr_3
-WARNING: changing the home region will deplete all its Action Points and will trigger auto-encampment. 
+경고: 고향 지역을 변경하면 해당 액션 포인트는 모두 사라지며 자동 야영이 발동됩니다.
 
 #formhome_sel_c1
-Select the desired home region for this formation.
+이 부대에 원하는 고향 지역을 선택합니다.
 
 #formhome_sel_c2
 ( The formation needs to be positionned in the desired city to be able to rebase in it )
 
 #menu_mission_sel
-Action
+행동
 
 #menu_mission_sel_c1
-Select the action to perform in this territory.
+이 영역에서 수행할 작업을 선택합니다.
 
 #chat_pm
-Message [x]
+메시지 [x].
 
 #chat_faction
-Nation '[x]'
+국가 '[x]'
 
 #chat_emptytxt
-[type your message here]
+[여기에 메시지를 입력합니다]
 
 #ui_reginf_vsb
-Visibility 
+시야
 
 #chat_r_hall
-Great Hall
+대회당
 
 #chat_r_ass
-Assembly
+의회
 
 #chat_r_councl
-Council
+평의회
 
 #chron_tab1
-World news
+세계 뉴스
 
 #chron_tab2
-My chronicles
+나의 연대기
 
 #chron_new
-+ New chronicle
++ 새 연대기
 
 #chron_publish
-Publish
+공개
 
 #char_chrons
-View all chronicles from this character
+이 캐릭터의 모든 연대기를 봅니다.
 
 #chron_sent
-New chronicle published!
+새로운 연대기가 게재되었습니다!
 
 #chron_react
-React to this news
+이 소식에 응답하세요.
 
 #chron_reactup_1
-This is interesting!
+이것은 흥미롭군요!
 
 #chron_reactup_2
-This news will be relayed by your cultural network and will propagate to your contacts.
+이 뉴스는 문화 네트워크를 통해 전달되며 연락처로 전파됩니다.
 
 #chron_reactdw_1
-I don't care about this.
+이런 건 신경 안 써요.
 
 #chron_reactdw_2
-This news will not be relayed by you.
+이 소식은 당신이 전하지 않을 것입니다.
 
 #chron_expand
-read more
+더 읽기
 
 #chron_expand_c1
-click to read the rest of this chronicle
+클릭해서 이 연대기의 나머지 부분을 읽습니다.
 
 #chron_past_up
-You found this interesting.
+당신은 이것이 흥미롭다 생각합니다.
 
 #chron_past_down
-You didn't find this interesting.
+당신은 이것을 흥미롭게 여기지 않았어요.
 
 #chron_none
-You havn't been reached by any news from the outside world yet!
+당신은 아직 외부로부터 어떤 소식도 듣지 못했어요!
 
 #antl_name
-Annex tool
+별관 도구
 
 #antl_dscr
-Allows you to reorganise annexes by changing their owning buildings.
+소유 건물을 변경하여 별관을 재구성할 수 있습니다.
 
 #antl_close
-CLOSE
+닫기
 
 #antl_1
-Relink: hold left click and drag.
+다시 연결: 왼쪽 클릭을 누른 채로 끕니다.
 
 #antl_2
-Add/remove from select with ctrl+left-click.
+ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 
 #antl_3
-Clear selection: right-click.
+선택 항목 지우기: 마우스 오른쪽 버튼을 클릭합니다.
 
 #regmenu_status_c1
-Current territorial status: '[x]' (click to change)
+현재 영토 상태: '[x]'(변경하려면 클릭)입니다.
 
 #regmenu_powcost
-This territorial status currently costs you [x] of State Power to maintain.
+이 영토 상태는 현재 상태 유지를 위해 [x]의 국가 권한이 필요합니다.
 
 #regmenu_jobs
-Jobs
+일자리
 
 #regmenu_jobs_c1
-All available jobs are filled!
+모든 일자리가 채워졌습니다!
 
 #regmenu_jobs_c2
-[x]% of available jobs are missing workers ([y]).
+[x]%의 가용 일자리는 근로자가 없습니다([y]).
 
 #regmenu_actives
-Employed
+취직중
 
 #regmenu_actv_c1
-All actives are currently employed!
+모든 활동인구는 현재 고용되어 있습니다!
 
 #regmenu_actv_c2
-[x]% of actives are jobless ([y]).
+[x]% 의 활동인구는 무직입니다.([y])
 
 #regmenu_inc
-Budget balance of this territory
+이 영토의 예산 잔액입니다.
 
 #regmenu_inc_dscr
-It is the result of all state incomes and expenses, such as taxes, trade balance, salaries and maintenance costs.
+세금, 무역수지, 급여, 유지비 등 모든 국가 수입과 지출의 결과입니다.
 
 #regmenu_admin
-Administration balance of this territory
+이 영역의 행정력 잔액입니다.
 
 #regmenu_admin_dscr
-A badly administered territory generates more waste and corruption, reducing all sources of incomes.
+잘못 관리된 영토는 더 많은 낭비와 부패를 발생시켜 모든 수입원을 줄입니다.
 
 #regmenu_wealth
-Total wealth of this territory
+이 지역의 총 재산입니다.
 
 #regmenu_wealth_dscr
-Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+부는 주화의 시장가치와 무관하게 현재 이 지역에서 행해지고 있는 모든 생산적 작업의 객관적인 측정치입니다.
 
 #regmenu_gdp
-GDP of this territory
+이 지역의 GDP입니다.
 
 #regmenu_gdp_dscr
-An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+10개의 경제 주기에 걸쳐 이 영역(주 또는 인구)에서 발생한 모든 소득의 합계입니다.
 
 #regmenu_growth_1
-Current demographic evolution: [x] Porcos [y].
+현재의 인구통계학적 발전: [x] 돼지들 [y]입니다.
 
 #regmenu_growth_2
-Active population: [x] [y]
+활동인구: [x] [y]
 
 #regmenu_vitals_1
-Vital needs of the population are currently [x]% satisfied.
+인구는 현재 필수욕구 [x]%를 만족하고 있습니다.
 
 #regmenu_vitals_2
-Low vital needs reduce birth rate and increases mortality.
+낮은 필수욕구는 출산율을 낮추고 사망률을 증가시킵니다.
 
 #subjug_title
-Subjugate
+예속시키다
 
 #subjug_can
-You can automatically subjugate [x].
+[x]를 자동으로 예속할 수 있습니다.
 
 #subjug_dscr
-This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+이것으로 당신과 [x] 사이의 전쟁이 끝날 것입니다. 이 주(州)는 국가 권력과 세금 수입을 귀하에게 넘겨주는 항복 조약과 함께 당신의 신하로서 당신의 나라에 통합될 것입니다. 현재 귀국의 군대가 점령하고 있는 모든 영토는 자동으로 [x]로 환원됩니다.
 
 #subjug_cant
-You cannot subjugate [x] yet.
+아직 [x]를 예속할 수 없습니다.
 
 #subjug_cant_dscr
-A character that has lost control of all its territories in a war can be automatically subjugated, provided that you are occupying at least one its territories. Subjugation will force his capitulation and make him your vassal, integrating him into your nation.
+전쟁에서 모든 영토에 대한 통제권을 상실한 캐릭터는 사용자가 적어도 하나의 영토를 점유하고 있다면 자동으로 복속될 수 있습니다. 그가 굴복하면 당신의 신하가 되어 그를 당신의 나라로 통합시킬 것입니다.
 
 #subjug_cant_why
-To subjugate this character you need to take control of:
+이 문자를 종속시키려면 다음을 제어해야 합니다.
 
 #subjug_apply
-Subjugate!
+예속합니다!
 
 #info_cltrtrsfr
-[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+[x] 사람들은 [y]에서 [z]로 이주하여 고향에서 [v] 문화를 [z]로 이전하였습니다.
 
 #info_supportlmt
-This territory cannot support more units and does not allow overdraft!
+이 영역에서는 더 많은 유닛을 지원할 수 없으며 당좌대출을 허용하지 않습니다!
 
 #displyr_c1
-click to select a display layer.
+클릭해서 표시할 화면 계층을 선택합니다.
 
 #displyr_c2
-currently displayed:
+현재 표시:
 
 #button_togh_c1
-toggle heights display
+높이 표시로 전환합니다.
 
 #button_togh_c2
-heights: 
+높이:
 
 #displyr_normal
-Normal view
+일반 뷰
 
 #displyr_fertil
-Fertility
+비옥함
 
 #displyr_gwater
-Groundwater
+지하수
 
 #displyr_height
-Heights
+높이
 
 #displyr_fortif
-Fortifications
+요새화
