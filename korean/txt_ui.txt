@@ -4045,298 +4045,298 @@ Buy and sell
 그러나 민병대는 다른 지역으로 이동할 수 없으며 국가 권한을 축소한다.
 
 #menu_nfrm_type3
-National army
+국군
 
 #menu_nfrm_t3_1
-A national army is similar to a regular army except that its also controllable by any of your superiors in your Nation's hierarchy, allowing you to delegate its control in case of national wars and operations.
+국군은 당신의 국가의 위계질서에 있는 당신의 상급자에 의해 통제될 수 있다는 것을 제외하고는 일반 군대와 유사하며, 그것은 국가 전쟁과 작전이 있을 때 당신이 그 통제권을 위임할 수 있게 한다.
 
 #menu_nfrm_t3_2
-National armies also give their authority bonus to all regions of the Nation, even if its owned by a different character.
+국군은 또한 다른 성격의 소유일지라도 국가의 모든 지역에 그들의 권한 보너스를 준다.
 
 #menu_nfrm_t3_3
-Note that you can convert a regular army into a National one at will and vice-versa.
+정규군은 마음대로 국군으로 전환할 수 있고, 반대로도 자유롭게 변경할 수 있습니다.
 
 #menu_trbuy_title
-Buying resource...
+리소스를 구입하는 중...
 
 #menu_trbuy_buy
-BUY
+구매하기
 
 #menu_trbuy_cost
-Purchase cost
+비용을 지불하기
 
 #menu_trbuy_bght
-Bought [x] of [y] for [z] coins!
+동전 [z]에 [y] [x]개를 샀다!
 
 #ui_evidea_yes
-<<Yes, let's see what they need for this project!>>
+<<그래, 이 프로젝트에 무엇이 필요한지 보자!>>
 
 #ui_evidea_no
-<<This is a waste of time.>>
+<<이것은 시간낭비다.>>
 
 #menu_bdg_up_err1
-You're missing [x] of [y] to upgrade this building to [z].
+이 건물을 [z]로 업그레이드하려면 [y][x]개가 누락되어 있다.
 
 #menu_bdg_up_err2
-You do not have enough coins to upgrade this building to [x].
+이 건물을 [x]로 업그레이드할 만한 주화가 부족합니다.
 
 #menu_bdg_up_err3
-This upgrade requires professionnal construction and you do not have any builders!
+이 업그레이드에는 전문 건축이 필요하며 당신은 건설업자가 없다!
 
 #menu_tch_curknw
-Current knowledges
+현재 지식
 
 #menu_tch_curuse
-Knowledge use
+사용중인 지식
 
 #menu_tch_curuse_c1
-Your societe currently has [x] of knowledges, and a capacity to store [y].
+당신의 사회에는 현재 [x]개의 지식이 있고, [y] 만큼 수용할 수 있는 능력이 있다.
 
 #menu_tch_curuse_c2
-You will lose knowledges if your storage capacity gets lower than your current knowledges.
+수용 용량이 현재 지식보다 낮아지면 지식이 손실될 수 있습니다.
 
 #menu_tch_str_cult
-Culture
+문화
 
 #menu_tch_str_cult1
-Culture gives you knowledge storage capacity, proportionally to your total culture.
+문화는 당신의 전체 문화에 비례하여 지식 수용 능력을 제공한다.
 
 #menu_tch_str_lbr
-Libraries
+도서관
 
 #menu_tch_str_lbr1
-Each library building in service increases your knowledge storage capacity.
+활성화 중인 각 도서관 건물은 지식 수용 용량을 늘린다.
 
 #menu_tch_prjcts
-Projects
+프로젝트
 
 #menu_tch_prj_cur
-Current Projects
+현재 프로젝트
 
 #menu_tch_prj_avail
-Available Projects
+연구 가능한 프로젝트
 
 #menu_tch_prj_dnd
-Rejected Projects
+실패한 프로젝트
 
 #menu_tch_prj_rwd
-Project rewards:
+프로젝트 보상:
 
 #menu_prj_inpgr
-In progress...
+진행 중...
 
 #menu_prj_new
-New project...
+새로운 프로젝트...
 
 #menu_prj_req
-Starting requirements:
+연구에 필요한 것:
 
 #menu_prj_reqkn
-You need [x] free space of knowledges to launch this project.
+이 프로젝트를 시작하려면 [x]의 사용 가능한 지식 공간이 필요하다.
 
 #menu_prj_rcoin1
-Project base cost: [x] coins
+프로젝트 기본 비용: [x] 주화
 
 #menu_prj_rcoin2
-Required  materials cost: [x] coins
+필수재료비: [x] 주화
 
 #menu_prj_rmat1
-Needs [x] [y] from [z]
+[z]에서 [x] [y] 필요
 
 #menu_prj_rmat2
-(click to select a different territory)
+(다른 영역을 선택하려면 클릭하십시오.)
 
 #menu_prj_start
-START PROJECT
+프로젝트 시작하기
 
 #menu_prj_diff
-Difficulty
+난이도
 
 #menu_prj_work
-Research
+연구
 
 #menu_prj_rschrs
-Researchers
+연구자들
 
 #menu_prj_rwk
-Work
+일
 
 #menu_prj_rwk_c1
-All the assigned researchers currently generate [x] research points [y].
+할당된 모든 연구자는 현재 [x] 연구 포인트[y]를 생성한다.
 
 #menu_prj_rwk_c2
-* from [x] main researchers: [y] research points.
+* [x] 주요 연구자로부터 : [y] 연구 포인트
 
 #menu_prj_rwk_c3
-* from [x] extra researchers: [y] research points.
+* [x] 추가 연구자로 부터 : [y] 연구 포인트.
 
 #menu_prj_nb1
-This project ideally requires up to [x] researchers.
+이 프로젝트는 이상적으로 최대 [x]명의 연구자를 필요로 한다.
 
 #menu_prj_nb2
-While you can assign extra researchers beyond this number, their contributions to the project are greatly reduced.
+당신이 이 수를 넘어 추가 연구자를 배정할 수 있지만, 그들의 프로젝트에 대한 기여는 크게 감소한다.
 
 #menu_prj_rtyp
-This project requires [x] as researchers.
+이 프로젝트는 연구원으로서 [x]를 필요로 한다.
 
 #menu_prj_bdgt_r
-Researchers
+연구원들
 
 #menu_prj_bdgt_p
-Project
+프로젝트
 
 #menu_prj_bdgt
-Budget
+예산
 
 #menu_prj_bdgt_c1
-The total maintenance cost for this project, to be paid continuously until the project is completed.
+프로젝트가 완료될 때까지 지속적으로 지불해야 하는 이 프로젝트의 총 유지관리 비용.
 
 #menu_prj_norsch
-Assign researchers to the project to be able to start it!
+프로젝트를 시작할 수 있도록 연구자를 할당하십시오!
 
 #menu_prj_pgrss
-This project is [x]% completed
+이 프로젝트는 [x]% 완료됨
 
 #menu_prj_addnewr
-click to assign new researchers to the project
+프로젝트에 새 연구자를 할당하려면 클릭하십시오.
 
 #menu_prj_br_c1
-[x] researchers from [y] are currently assigned to this project and produce [z] research points to complete it.
+[y]소속 [x]의 연구자는 현재 이 프로젝트에 배정되어 있으며, [z]의 연구 포인트를 생산하여 완성하고 있다.
 
 #menu_prj_br_c2
-( click to edit the number of assigned researchers from this territory )
+(이 영역에서 할당된 연구원 수를 편집하려면 클릭)
 
 #menu_prj_none1
-You don't have any projects available!
+연구 가능한 프로젝트가 없습니다!
 
 #menu_prj_none2
-Projects are unlocked by "Ideas": events that are triggered by your population. Improving the intelligence and life quality of your population is generally a good way to increase odds of getting new ideas.
+프로젝트가 "아이디어"에 의해 잠금 해제됨: 당신의 인구수에 의해 발동되는 이벤트입니다. 인구의 지능과 삶의 질을 향상시키는 것은 일반적으로 새로운 아이디어를 얻을 확률을 증가시키는 좋은 방법입니다.
 
 #menu_prj_none3
-Projects then require researchers and time as well as materials and buget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
+프로젝트에는 연구자와 시간뿐만 아니라 재료와 예산도 필요합니다. 일단 성공적으로 완성되면, 그들은 새로운 "지식" 같은 보상을 줍니다.
 
 #menu_rschr_title
-Adding researchers...
+연구자를 추가하는 중입니다...
 
 #menu_rschr_type
-Researching population for this project
+이 연구를 위한 인구
 
 #menu_rschr_frm
-From
+부터
 
 #menu_rschr_time
-Estimated time to complete this project
+이 프로젝트 완료 예상 시간
 
 #menu_rschr_odds
-success
+성공확률
 
 #menu_rschr_odds_c1
-Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will need to be restarted from scratch.
+일단 이 프로젝트가 완료되면, 현재 [x]%의 성공 확률과 보상을 받을 수 있습니다. 실패하면 프로젝트를 처음부터 다시 시작해야 합니다.
 
 #menu_rschr_odds_c2
-100 +researchers efficiency [x] -difficulty [y] = [z]% success odds
+100 + 연구 효율성[x] -어려움 [y] = [z]% 성공 확률
 
 #menu_rschr_all
 All population
 
 #menu_rschr_noav
-No [x] currently available in this city!
+현재 이 도시에서 이용 가능한 [x] 없음!
 
 #prj_strt_err1
-You need to assign researchers before starting this project!
+이 프로젝트를 시작하기 전에 연구자를 할당해야 한다!
 
 #prj_strt_err2
-You are missing coins to start this project!
+이 프로젝트를 시작하기 위해 주화가 부족합니다!
 
 #prj_strt_err3
-You are missing required materials to start this project!
+이 프로젝트를 시작하는 데 필요한 재료가 없습니다!
 
 #ui_tech_alw
-Allows...
+이용 가능하게 됨...
 
 #ui_tech_bdg
-New building
+새 건물
 
 #ui_tech_res
-New resource
+새 자원
 
 #ui_tech_ter
-New territorial status
+새 영토 지위
 
 #ui_tech_unit
-New unit
+새 유닛
 
 #ui_tech_pol
-New policy
+새 정책
 
 #ui_tech_with
-with...
+~와...
 
 #ui_tech_forget
-Forget this knowledge
+이 지식을 잊습니다
 
 #ui_tech_cantfgt
-You cannot forget this knowledge because it is currently required by other more recent ones such as: '[x]'.
+이 지식은 현재 '[x]'와 같은 최신 지식으로 부터 필요로 하기 때문에 잊을 수 없습니다.
 
 #ui_techfrgt_1
-Forget this knowledge ?
+이 지식을 잊어버리겠습니까?
 
 #ui_techfrgt_2
-Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all it's current effects. You will need to complete it's project again in order to recover it if you need to.
+경고! 이 작업은 취소할 수 없습니다. 지식은 즉시 제거되고 현재 효과를 모두 잃게 됩니다. 필요할 경우 복구하려면 프로젝트를 다시 완료해야 합니다.
 
 #pop_all
-total population
+총 인구
 
 #fstate_inact
-Idle
+할 것 없음
 
 #fstate_encamp
-Encamped
+야영
 
 #fstate_mov
-Moving
+이동중
 
 #fstate_fight
-In combat
+전투중
 
 #fstate_immo
-Immobilized
+움직일 수 없음
 
 #menu_scr_w
-Wealth
+부
 
 #menu_scr_w_c
-Score from the total wealth produced in all your territories.
+당신의 모든 지역에서 생산되는 총 재산에서 점수를 얻는다.
 
 #menu_scr_c
-Culture
+문화
 
 #menu_scr_c_c
-Score from your total culture (state culture).
+당신의 전체 문화(국가 문화)에서 점수.
 
 #menu_scr_k
-Knowledges
+지식
 
 #menu_scr_k_c
-Score from your total knowledges.
+너의 총 지식에서 점수.
 
 #menu_scr_p
-Military
+군사
 
 #menu_scr_p_c
-Score from your total military power. Does not include Militias.
+당신의 총 군사력에서 점수를 얻습니다. 민병대는 포함되지 않습니다.
 
 #menu_scr_v
-Subordinates
+하급자
 
 #menu_scr_v_c
-Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
+부하 로부터의 점수 : 모든 직계 부하들로 부터 점수의 일정 부분을 받습니다.
 
 #menu_scr_tot
-Score
+점수
 
 #menu_scr_tot_c
-You personnal score.
+당신의 개인점수입니다.
 
 #menu_scr_vpscr
 From Par score
@@ -4345,517 +4345,517 @@ From Par score
 Par score is your score above the reference score of [y]pts. You get 1 Victory point for every [x]pts of Par score.
 
 #menu_scr_vpscr_c2
-The average score and the cost of each victory points are dynamic and based on all player's scores.
+각 우승 포인트의 평균 점수와 비용은 우동적이며 모든 유저의 점수를 기준으로 합니다.
 
 #menu_scr_vpmiss
-Missions
+미션
 
 #menu_scr_vpmiss_c
-Victory points you earned by completing Victory point missions.
+승점 임무를 완수함으로써 얻은 것 승리점수.
 
 #menu_scr_vp
-Victory points
+승점
 
 #menu_scr_vp_c
-You personnal victory points.
+당신의 승리 점수 입니다.
 
 #menu_scr_avg
-Reference Score
+상대 점수
 
 #menu_scr_avg_c1
-Used to determine your Par Score. It's value is based on all player's scores. 
+Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준으로 합니다.
 
 #menu_scr_avg_c2
-Having a personnal score above it grants victory points.
+개인 점수가 그보다 위에 있으면 승점이 부여됩니다.
 
 #menu_scr_vpcost
-Victory point cost
+승점 비용
 
 #menu_scr_vpcost_c
-The amount of points you need above the reference score to be granted each Victory point.
+각 승리 포인트를 획득하기 위해 기준 점수 보다 위에 필요한 점수 양.
 
 #menu_scr_frna
-for Nation
+국가 기여도
 
 #menu_scr_frnas_c
-How much points you are currently contributing to your Nation's score. The lower in the ranks, the less you contribute.
+현재 국가 점수에 기여하고 있는 점수. 계급이 낮을수록 기여가 적다.
 
 #menu_scr_frnavp_c
-How much victory points you are currently contributing to your Nation's Victory Points. The lower in the ranks, the less you contribute.
+현재 국가 점수에 기여하고 있는 점수. 계급이 낮을수록 기여가 적다.
 
 #menu_nscr_name
-Your nation
+당신의 국가
 
 #menu_nscr_rank
-Your nation's rank
+당신 국가의 순위
 
 #menu_nscr_scr
-Your nation's total score
+당신 국가의 총점수
 
 #menu_nscr_vp
-Your nation's total Victory points
+당신 국가의 총 승점
 
 #menu_scr_govnam
-Your personnal government's name
+당신 정부의 이름
 
 #menu_scr_t1
-Rank
+순위
 
 #menu_scr_t2
-Nation
+국가
 
 #menu_scr_t3
-Score
+점수
 
 #menu_scr_t4
-Victory points
+승점
 
 #majmess_reglost
-You have lost control of the territory!
+당신은 그 지역에 대한 통제력을 잃었습니다!
 
 #b_buildprevbdg
-Obsolete version: [x]
+구버전: [x]
 
 #b_admitdft
-ADMIT DEFEAT
+패배를 인정
 
 #ui_admitdft
-You have admitted your defeat!
+당신은 패배를 인정하셧습니다!
 
 #ui_battleover
-Battle is over!
+전투가 종료되었습니다!
 
 #ui_terinf_fert
-Fertility
+비옥함
 
 #ui_terinf_grndw
-Groundwater
+지하수
 
 #btl_objtv_neut
-neutral
+중립
 
 #btl_objtv_raid
-raiding territory
+영토 습격하기
 
 #btl_objtv_sack
-sacking territory
+영토 약탈하기
 
 #btl_objtv_inv
-invading
+침략하기
 
 #btl_objtv_def
-defending
+방어 중
 
 #btl_objtv_defa
-assisting defense
+방어 원조
 
 #btl_objtv_atta
-assisting attack
+공격 지원
 
 #btl_objtv_hunt
-hunting
+사냥
 
 #btl_rslt_dead
-died
+사망
 
 #btl_rslt_deft
-defeated
+패배
 
 #btl_rslt_vict
-victorious
+승리
 
 #btl_rslt_neutr
-was neutral
+중립이였음
 
 #btlrslt_neutr
-NEUTRAL
+중립
 
 #btlrslt_att
-ATTACKERS
+공격자
 
 #btlrslt_def
-DEFENDERS
+방어자
 
 #btlrslt_loot
-BATTLE LOOT
+전리품
 
 #btlrslt_unit
-units
+유닛
 
 #btlrslt_loss
-losses
+손실
 
 #btlrslt_kill
-kills
+사살
 
 #btlrslt_totloot
-total loot
+전체 습득
 
 #rcvloot_reg
-We received loot in [x]:
+[x]에서 전리품을 받았습니다.
 
 #rcvloot_form
-Our formation received loot:
+우리 부대는 전리품을 얻었습니다.
 
 #gamelob_genav
-Generate avatar
+아바타 생성
 
 #gamelob_face
-Face
+얼굴
 
 #gamelob_eyes
-Eyes
+눈
 
 #gamelob_snout
-Snout
+주둥이
 
 #gamelob_mouth
-Mouth
+입
 
 #gamelob_nam
-Character's name
+캐릭터의 이름
 
 #gamelob_randnam
-Generate a random name
+무작위로 이름 생성하기
 
 #gamelob_nat
-Nation's name
+국가 명칭
 
 #gamelob_randnat
-Generate a random nation's name
+무작위로 국가 명칭 생성
 
 #gamelob_status
-character status
+캐릭터 상태
 
 #gamelob_status_c1
-A character becomes "inactive" if offline for too long. It then becomes available for succession: any new player joining the game can spawn as its sucessor and takeover all its posessions.
+오프라인 상태가 너무 오래되면 캐릭터가 "비활성" 상태가 됩니다. 그런 다음 이 게임의 승계를 위해 사용할 수 있게 됩니다. 게임에 참여하는 모든 새 플레이어가 이 게임의 승계자로 태어날 수 있고 모든 포지션을 인수할 수 있습니다.
 
 #gamelob_status_c2
-The amount of time before a character becomes inactive depends on its total playtime and on the game's settings.
+게임플레이한 시간과 게임의 설정에 따라 비활성화 되는 데 걸리는 시간이 달려 있습니다.
 
 #gamelob_status_c3
-Max offline time currently allowed for this character: [x]
+이 캐릭터에 허용된 최대 오프라인 시간:[x].
 
 #gamelob_ACTV
-ACTIVE
+활성화
 
 #gamelob_INACTV
-INACTIVE
+비활성화
 
 #gamelob_lstlog
-last login
+마지막 로그인
 
 #gamelob_lstlogt
-[x] ago
+[x] 전
 
 #gamelob_lstlog_c
-last login for this character: [x]
+이 캐릭터가 로그인한 마지막 시간: [x]
 
 #gamelob_creat
-created
+생성됨
 
 #gamelob_creat_c
-Date when this character was created (GMT).
+이 캐릭터가 생성된 날 (GMT).
 
 #gamelob_plt
-total playtime
+총 플레이시간
 
 #gamelob_plt_c
-The total amount of time spent online playing this character.
+이 캐릭터로 플레이하는데 보낸 총 시간
 
 #gamelob_maxchar
-Max characters
+최대 캐릭터
 
 #gamelob_maxchar_c
-The maximum number of characters per player allowed on this server is [x].
+서버에서 허용된 유저당 최대 캐릭터 수는 [x] 입니다.
 
 #gamelob_spcloff
-Spawn cool off
+생성 쿨타임
 
 #gamelob_spcloff_c1
-The minimum time before you are allowed to respawn on this server.
+이 서버에서 다시 캐릭터를 생성할 수 있기 전까지 걸리는 최소 시간
 
 #gamelob_spcloff_c2
-You have spawned [x] times in this game. The more times you respawn, the longer the cool-off (base cool-off in this game is of [y]).
+당신은 현재 게임에서 [x] 번쨰 캐릭터를 생성하셨습니다. 캐릭터를 생성하실 수록, 생성 쿨타임 더 길어집니다 (이 게임의 기본 쿨타임은 [y] 입니다).
 
 #gamelob_spcloff_c3
-Last spawn: [x] ago
+마지막 캐릭터 생성: [x] ago
 
 #gamelob_spcloffw
-([x] remaining)
+([x] 남음)
 
 #gamelob_maxoff
-Max offline time
+최대 오프라인 가능 시간
 
 #gamelob_maxoff_c1
-The maximum amount of time a character can get to be offline before turning 'inactive' on this server.
+이 서버에서 '비활성'으로 전환되기 전에 캐릭터가 오프라인 할 수 있는 최대 시간입니다.
 
 #gamelob_maxoff_c2
-WARNING: this limit is lower for recently created characters!
+경고: 최근에 만든 캐릭터의 경우 이 제한이 더 낮습니다!
 
 #gamelob_err1
-You currently have the maximum number of characters allowed on this game!
+현 게임에서 허용되는 최대 캐릭터 수를 가지고 있습니다!
 
 #gamelob_err2
-You must wait [x] before being allowed to create a new character in this game!
+당신은 이 게임에 새로운 캐릭터를 생성하는 데에 [x] 만큼 기다려야 합니다!
 
 #gamelob_abnd
-Abandon
+버리기
 
 #gamelob_abnd_c1
-Click to abandon this character and all its possessions.
+이 캐릭터와 모든 소유물을 버리려면 클릭하십시오.
 
 #gamelob_abndwrn
-Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
+정말 이 캐릭터를 버리고 싶으신가요? 이 작업은 취소할 수 없으며 이 캐릭터와 모든 소유물에 대한 통제력을 완전히 잃게 됩니다! 해당 캐릭터는 목록에서 제거됩니다. 즉시 '비활성'으로 설정되고 다른 유저가 승계를 위해 사용할 수 있게 될 수 있습니다.
 
 #facrank_title
-Title
+타이틀
 
 #facrank_ter
-Territory
+영토
 
 #facttl_titl
-Character's title
+캐릭터의 명칭
 
 #facttl_titl_c1
-The title given to characters of this rank.
+이 계급의 캐릭터에게 부여된 명칭입니다.
 
 #facttl_trtry
-Territory's title
+영토의 명칭
 
 #facttl_trtry_c1
-The name given to the territories associated with characters of this rank.
+이 계급의 캐릭터와 연관된 영역에 주어진 이름.
 
 #facttl_lvl
-Rank level
+계급 수준
 
 #facttl_lvl_c1
-Rank level represents the hierarchic position within the nation.
+계급 수준은 국가 내의 계층적 위치를 나타낸다.
 
 #facttl_tax
-Income tax
+소득세
 
 #facttl_tax_c1
-% of raw income paid as a tax to the superior of this rank.
+이 계급의 상위층에게 세금으로 지불된 수입의 백분율.
 
 #facttl_pow
-Power transfer
+권력 이전
 
 #facttl_pow_c1
-% of state power transfered to the superior of this rank.
+이 계급의 상위층에게로 전달된 국가 권력의 백분율.
 
 #facttl_vote
-Can vote 
+투표 가능여부
 
 #facttl_vote_c1
-Wether this rank can participate in voting processes or not.
+이 계급이 투표 과정에 참여할 수 있는지 여부.
 
 #facttl_rcrut
-Can recruit
+모집 가능여부
 
 #facttl_rcrut_c1
-Wether this rank is allowed to recruit new members into the Nation or not.
+이 계급이 국가에 새로운 회원을 모집하는 것이 허용되는지 여부.
 
 #facttl_prom
-Can promote
+진급관리가능여부
 
 #facttl_prom_c1
-Wether this rank is allowed to manage ranks of its subordinates or not (promoting and unpromoting).
+이 계급이 부하들의 계급 관리를 허용하는지 여부.
 
 #facttl_rplcm
-Succession
+승계
 
 #facttl_rplcm_c1
-How the succession of this character is managed if he becomes inactive.
+이 캐릭터의 승계가 비활동적이 되면 어떻게 관리되는가.
 
 #frplcm_e1
-Election (direct)
+선거(직접)
 
 #frplcm_e1_c1
-A sucessor is elected by the direct subordinates of this rank only.
+승계자는 이 계급의 직계 부하에 의해서만 선출된다.
 
 #frplcm_e2
 Election (all)
 
 #frplcm_e2_c1
-A sucessor is elected by all the subordinates of this rank.
+이 계급의 모든 부하가 승계자를 선출한다.
 
 #frplcm_heir
-Chosen heir
+선택된 상속자
 
 #frplcm_heir_c1
-The rank holder himself chooses its heir that can take over if he becomes inactive.
+순위 보유자 자신이 비활동적이 되면 인수할 수 있는 후계자를 선택한다.
 
 #frplcm_nom
-Nominated
+지명됨
 
 #frplcm_nom_c1
-A sucessor is appointed by the superior of this rank.
+상위계급이 승계자를 임명한다.
 
 #facttl_xpl
-Can expell
+추방될 수 있음
 
 #facttl_xpl_c1
-If this rank is allowed to expell its subordinates from the Nation.
+계급이 국가로부터 부하들을 제명하는 것의 허용여부.
 
 #facttl_mngter
-Can dismantle
+해체 가능여부
 
 #facttl_mngter_c1
-If this rank is allowed to directly redistribute territories of inactive subordinates to other Nation members.
+이 직급에 따라 비활성화 된 부하직원의 영역을 다른 국가 구성원에게 직접 재배포할 수 있는지 여부.
 
 #facttl_sub1
-Direct subordinates
+직계 부하
 
 #facttl_sub2
-All subordinates
+모든 부하
 
 #fachier_hier
-Hierarchy
+지배체계
 
 #fachier_addnew
-Add new rank
+새로운 계급 추가
 
 #fachier_addnew_c1
-Click to create a new rank
+새 계급을 생성하려면 클릭하십시오.
 
 #fachier_remrk
-Remove this rank
+이 계급 제거
 
 #fachier_remrk_c1
-Click to delete the currently selected rank
+현재 선택된 계급을 삭제하려면 클릭하십시오.
 
 #fachier_remrk_err1
-You cannot remove this rank because its currently used by one or more members!
+현재 한 명 이상의 구성원이 사용하고 있기 때문에 이 순위를 제거할 수 없다!
 
 #facnewrk_title
-Adding a new rank...
+새로운 계급 추가 중...
 
 #facmmb_ter
-Regions
+지역
 
 #facmmb_dismant
-Dismantle
+해제
 
 #facmmb_dismant_c1
-Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
+이 캐릭터는 비활성화 됫기 때문에, 당신의 계급은 그 영역을 해체하고 당신의 부하나 당신 자신 이 그것들을 공유할 수 있게 할 수 있습니다.
 
 #facmmb_prom
-Promote
+승진
 
 #facmmb_prom_c1
-Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+당신의 계급은 계층순위를 관리할 수 있습니다: 승진 또는 강등.
 
 #facmmb_xpl
-Expel
+추방
 
 #facmmb_xpl_c1
-Your title allows you to expell this character from the Nation.
+당신의 계급은 당신이 국가로부터 해당 인물의 축출을 가능하게 합니다.
 
 #facmmb_quit
-Quit
+탈퇴
 
 #facmmb_quit_c1
-Leave this Nation and regain your sovereignty. 
+국가를 떠나 주권을 되찾습니다.
 
 #facmmb_quit_c2
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+경고: 만약 당신이 조약으로 이 나라에 묶여 있다면, 이것은 당신의 조약파기에 대한 불이익을 야기할 것입니다!
 
 #facmmb_actv
-ACTIVE
+활성화
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+이 캐릭터는 여전히 적극적으로 게임을 하고 있으며 해당 캐릭터를 승계할 수 없습니다.
 
 #facmmb_inact
-INACTIVE
+비활성화
 
 #facmmb_inact_c1
-This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
+이 캐릭터는 한동안 온라인 상태가 아니어서 현재 비활성 상태로 간주됩니다.  권력승계 자격이 있습니다.
 
 #facmmb_pwrlss
-POWERLESS
+무력함
 
 #facmmb_pwrlss_c1
-This character controls not territories and is powerless.
+이 캐릭터는 영토를 지배하지 않고 있으며 무력하다.
 
 #facmmb_dead
-DEAD
+사망
 
 #facmmb_dead_c1
-This character is dead: it controls no territories and was abandonned by its player.
+이 캐릭터는 죽었습니다. 어떤 영토도 지배하지 않고 있으며 플레이어에 의해 버려졌습니다.
 
 #facmmb_rplc
 Replace
 
 #facmmb_rplc_c1
-This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
+이 캐릭터는 비활동적이며, 제목이 상위로써, 그를 대신할 당신의 부하들 사이에서 후계자를 지명할 수 있게 해줍니다.
 
 #facmmb_tax
-Taxes
+세금
 
 #facmmb_tax_c1
-Nation taxes are received from direct subordinates and also paid to the superior. Tax rates are defined by their respective ranks.
+국세는 직계 부하직원으로부터 받고 상부에 대해서도 납부합니다. 세율은 각 등급별로 정해집니다.
 
 #facmmb_tax_r
-Taxes from subordinates: [x]
+부하로부터 징수한 세금 : [x]
 
 #facmmb_tax_p
-Paid to superior: [x]
+상사에게 지불한 세금: [x]
 
 #facmmb_pwr
-Power transfers
+권력 이전
 
 #facmmb_pwr_c1
-State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
+국가 권력은 직계 부하로부터 받아 상급자에게 양도할 수 있습니다. 비율은 각 등급에 따라 정의됩니다.
 
 #facmmb_mng
 Maintenance
 
 #facmmb_mng_c1
-State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
+국가의 유지를 위해 소모된 국가권력. 이 캐릭터에 대한 부하들의 수에 의해 전체적으로 증가합니다.
 
 #facmmb_mrshl
-Army Marshal
+국군 원수
 
 #facmmb_mrshl_c1
-Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
+국군 원수는 부하들의 것이든 아니든 간에 모든 국군을 통제할 수 있습니다. 국가 지도자에 의해 임명되었습니다.
 
 #facmmb_heir
-Heir
+상속자
 
 #facmmb_heir_c1
-The designated heir can directly succeed to this character if he becomes inactive.
+지정된 상속자는 비활성 상태에 있는 이 캐릭터를 직접 승계할 수 있습니다.
 
 #facmmb_heir_c2
-Note that if the designated heir refuses or is unavailable, succession will default to election by direct subordinates.
+지정된 상속인이 거부하거나 불가능할 경우 직계 하급자에 투표로 의한 승계로 이행됩니다.
 
 #facprom_title
-Position of [x]
+[x]의 지위입니다.
 
 #facprom_txt
-You can change the hierarchic position of [x] within this Nation by changing his rank or moving him under a different superior (only your amongst your own subordinates). Note that the character will retain all its subordinates with the same relative hierarchy under him no matter the modified position. Ranks of the subordinates might be automatically adjusted if need be, in order to retain their relative hierarchy. 
+직급을 변경하거나 다른 상관(자신의 부하들 사이에서만 해당)으로 이동함으로써 이 국가 내에서 [x]의 계층적 위치를 변경할 수 있습니다. 그 캐릭터는 수정된 위치에 상관없이 모든 부하들을 자기 밑에 같은 상대적인 계층으로 유지시킬 것입니다. 필요한 경우 상대적인 계층 구조를 유지하기 위해 하위 계층의 순위가 자동으로 조정될 수 있습니다.
 
 #facprom_auto
-Automatic rank
+자동 계급.
 
 #facprom_supr
-Set superior
+상급자 설정
 
 #facprom_rk
-Set rank
+계급 설정
 
 #facxpl_title
-Expel [x] from the Nation
+[x] 를 국가에서 추방합니다
 
 #facxpl_txt
-As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
+[x]의 상급자로서, 국가에서 이 캐릭터를 추방할 수 있습니다. 그의 모든 부하들은, 만약 있다면, 그의 예하에 남아있을 것이고, 따라서 국가도 함계 떠날 것입니다.
 
 #facxpl_xpl
-Expel!
+추방!
 
 #facrplc_title
-Replacing [x]...
+[x]를 대체하는 중...
 
 #facrplc_txt
 As a superior of [x] and because this character is now inactive, your rank allows you to nominate a successor of lower rank that will take over its position within the Nation. The successor will swap its position and subordinates with the ones of the replaced character. The chosen successor cannot be of higher rank than the replaced character.
