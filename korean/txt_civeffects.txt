@@ -1,384 +1,384 @@
 #civfx_inc_n
-population incomes
+주민들의 소득
 
 #civfx_inc_dscr
-unlocks dynamic population wealth
+국민들의 유동적인 부(재산)
 
 #civfx_price_n
-dynamic prices
+변동가격
 
 #civfx_price_dscr
-resources and valuables have dynamic prices based on supply and demand of the population
+자원과 귀중품은 주민들의 수요와 공급에 따라 유동적인 가격을 가집니다.
 
 #civfx_autodist_n
-automatic distribution
+자동 배급
 
 #civfx_autodist_dscr
-all resources are automatically available to all the population and there is no need for distributors
+모든 자원들을 모든 주민들이 자동으로 이용할 수 있음으로 배급자가 따로 필요하지 않습니다.
 
 #civfx_bdgeff_n
-building efficiency
+건물 효율성
 
 #civfx_bdgeff_dscr
-modifies the efficiency of buildings
+건물들의 효율성을 수정합니다.
 
 #civfx_conflict_n
-population conflict
+주민들의 분쟁
 
 #civfx_conflict_dscr
-modifies conflict of population
+주민들의 분쟁을 수정합니다.
 
 #civfx_stress_n
-population stress
+주민들의 긴장
 
 #civfx_stress_dscr
-modifies stress of population
+주민들의 긴장을 수정합니다.
 
 #civfx_paidmat_n
-paid materials
+지불할 자재들
 
 #civfx_paidmat_dscr
-the state has to pay for materials it consumes at their current market price
+국가는 소비하는 재료에 대해 현재 시장 가격으로 지불해야 합니다.
 
 #civfx_seizem_n
-seized materials
+차압될 자재들
 
 #civfx_seizem_dscr
-when paid materials is active, all or a fraction of materials is seized for free instead of beeing paid by the state.
+'지불할 자재들'이 활성화일때는 국가가 지불하는 대신 전체 또는 일부의 자재를 비용 없이 압수합니다.
 
 #civfx_seizem_set
-seized percent
+차압 비율
 
 #civfx_seizem_setd
-set the percent of material's prices you wish to seize
+차압될 자재 가격 비율을 설정합니다.
 
 #civfx_territ_n
-province territories
+지방 영토들
 
 #civfx_territ_dscr
-cities can annex other territories as their province
+도시들은 다른 지역들을 그들의 지방으로 합병할 수 있습니다.
 
 #civfx_inctax_n
-income tax
+소득세
 
 #civfx_inctax_dscr
-a tax applied to all the incomes of the population in the territory 
+그 지역의 모든 소득에 적용되는 세금입니다.
 
 #civfx_inctax_set
-income tax percent
+소득세율
 
 #civfx_inctax_setd
-set the percent of income that is to be taxed
+세금을 부과할 소득의 비율을 설정합니다.
 
 #civfx_saltax_n
-sales tax
+판매세
 
 #civfx_saltax_dscr
-a tax applied to all sales in the territory (simplified VAT tax)
+그 지역의 모든 판매에 적용되는 세금입니다. (간편화된 부가가치세)
 
 #civfx_saltax_set
-sales tax percent
+판매세율
 
 #civfx_saltax_setd
-set the percent of sales that is to be taxed
+과세 대상 매출의 비율을 설정합니다.
 
 #civfx_leadwlth_n
-Leaders privileges
+지도자들의 특권
 
 #civfx_leadwlth_dscr
-Leaders get a portion of the territory wealth as a privilege
+지도자들은 특권으로 영토 부(재산)의 일부를 받습니다.
 
 #civfx_leadwlth_set
-Leaders privilege
+지도자들의 특권
 
 #civfx_leadwlth_setd
-the percentage of territory wealth given as privilege to the leaders
+지도자들에게 특권으로 주어지는 지역 부(재산)의 비율입니다.
 
 #civfx_leadsal_n
-Leaders salary
+지도자들의 봉급
 
 #civfx_leadsal_dscr
-Leaders get a salary paid by the state
+지도자들은 국가에서 봉급을 받습니다.
 
 #civfx_leadsal_set
-Leaders salary
+지도자들의 봉급
 
 #civfx_leadsal_setd
-amount of the salary in coins
+동전 봉급량
 
 #civfx_nobwlth_n
-Nobles privileges
+귀족들의 특권
 
 #civfx_nobwlth_dscr
-Nobles get a portion of the territory wealth as a privilege
+귀족들은 특권으로 영토 부(재산)의 일부를 받습니다.
 
 #civfx_nobwlth_set
-Nobles privilege
+귀족들의 특권
 
 #civfx_nobwlth_setd
-the percentage of territory wealth given as privilege to the nobles
+귀족들에게 특권으로 주어지는 지역 부(재산)의 비율입니다.
 
 #civfx_nobsal_n
-Nobles salary
+귀족들의 봉급
 
 #civfx_nobsal_dscr
-Nobles get a salary paid by the state
+귀족들은 국가에서 봉급을 받습니다.
 
 #civfx_nobsal_set
-Nobles salary
+귀족들의 봉급
 
 #civfx_nobsal_setd
-amount of the salary in coins
+동전 봉급량
 
 #civfx_offwlth_n
-State workers privileges
+국가 노동자들의 특권
 
 #civfx_offwlth_dscr
-State workers get a portion of the territory wealth as a privilege
+국가 노동자들은 특권으로 영토 부(재산)의 일부를 받습니다.
 
 #civfx_offwlth_set
-State workers privilege
+국가 노동자들의 특권
 
 #civfx_offwlth_setd
-the percentage of territory wealth given as privilege to the State workers
+국가 노동자들에게 특권으로 주어지는 지역 부(재산)의 비율입니다.
 
 #civfx_offsal_n
-State workers salary
+국가 노동자들의 봉급
 
 #civfx_offsal_dscr
-State workers get a salary paid by the state
+국가 노동자들은 국가 정부로부터 봉급을 받습니다.
 
 #civfx_offsal_set
-State workers salary
+국가 노동자들의 봉급
 
 #civfx_offsal_setd
-amount of the salary in coins
+동전 봉급량
 
 #civfx_capadmin_n
-capital administration
+수도 행정
 
 #civfx_capadmin_dscr
-modifies administration of the capital
+모든 수도의 행정을 수정합니다.
 
 #civfx_cityadmin_n
-city administration
+도시 행정
 
 #civfx_cityadmin_dscr
-modifies administration of every city
+모든 도시의 행정을 수정합니다.
 
 #civfx_regadmin_n
-territory adimnistration
+지역 행정
 
 #civfx_regadmin_dscr
-modifies administration of every territory
+모든 지역의 행정을 수정합니다.
 
 #civfx_caplead_n
-capital leaders
+수도 지도자들
 
 #civfx_caplead_dscr
-leaders in capital
+수도내 지도자들
 
 #civfx_capnob_n
-capital nobles
+수도 귀족들
 
 #civfx_capnob_dscr
-nobles in capital
+수도내 귀족들
 
 #civfx_citlead_n
-city leaders
+도시 지도자들
 
 #civfx_citlead_dscr
-leaders per city
+도시별 지도자들
 
 #civfx_citnob_n
-city nobles
+도시 귀족들
 
 #civfx_citnob_dscr
-nobles per city
+도시별 귀족들
 
 #civfx_reglead_n
-local leaders
+지방 지도자들
 
 #civfx_reglead_dscr
-leaders per territory
+지역별 지도자들
 
 #civfx_regnob_n
-local nobles
+지방 귀족들
 
 #civfx_regnob_dscr
-nobles per territory
+지역별 귀족들
 
 #civfx_goldstck_n
-wealth from precious metals
+귀금속으로부터 얻는 부
 
 #civfx_goldstck_dscr
-increases wealth of all territories for each unit of precious metals (gold and silver) in storages
+저장소에 있는 귀금속(금 및 은)의 각 단위에 대해 모든 지역의 부(재산)을 증가시킵니다.
 
 #civfx_modhap_n
-population happyness
+주민들의 행복도
 
 #civfx_modhap_dscr
-modifies happyness of population
+주민들의 행복도를 수정합니다.
 
 #civfx_happy_n
-population happyness
+국민들의 행복도
 
 #civfx_happy_dscr
-modifies happyness of population
+국민들의 행복도를 수정합니다.
 
 #civfx_enmerch_n
-merchants
+상인들
 
 #civfx_enmerch_dscr
-allows the use of merchants who can sell resources to the population
+국민에게 자원들을 판매할 수 있는 상인들을 허용합니다.
 
 #civfx_entrout_n
-trade routes
+무역로
 
 #civfx_entrout_dscr
-allows to create permanent trade routes between territories
+지역 간에 영구적인 교역로 생성을 허용합니다.
 
 #civfx_legitprt_n
-protector of the people
+국민의 수호자
 
 #civfx_legitprt_dscr
-modifies legitimacy factor of military strenght
+군사력의 정당성 요소를 수정합니다.
 
 #civfx_legitw_n
-leader superiority
+지도자의 특권
 
 #civfx_legitw_dscr
-modifies legitimacy factor of leader's superiority
+지도자의 특권에 대한 정당성 요소를 수정합니다.
 
 #civfx_legitr_n
-people's religiosity
+국민의 신앙심
 
 #civfx_legitr_dscr
-modifies legitimacy factor of people's religiosity
+국민의 종교에 대한 정당성 요소를 수정합니다.
 
 #civfx_legitp_n
-parliament's power
+의회의 권력
 
 #civfx_legitp_dscr
-modifies legitimacy factor of the parliament
+의회의 정당성 요소를 수정합니다.
 
 #civfx_legitsen_n
-senate's power
+원로원의 권력
 
 #civfx_legitsen_dscr
-modifies legitimacy factor of the senate
+원로원의 정당성 요소를 수정합니다.
 
 #civfx_legitm_n
-ministry's power
+정부 부처의 권력
 
 #civfx_legitm_dscr
-modifies legitimacy factor of the ministry
+정부 부처의 정당성 요소를 수정합니다.
 
 #civfx_legitap_n
-people's approval
+국민의 승인
 
 #civfx_legitap_dscr
-modifies legitimacy factor of people's approval
+국민의 승인에 대한 정당성 요소를 수정합니다.
 
 #civfx_wlegitprt_n
-importance of military strenght
+군사력의 중요성
 
 #civfx_wlegitprt_dscr
-how much military strenght affects legitimacy
+군사력이 정당성에 영향을 미치는 정도입니다.
 
 #civfx_wlegitw_n
-importance of leader's superiority
+지도자의 특권에 대한 중요성
 
 #civfx_wlegitw_dscr
-how much leader's superiority affects legitimacy
+지도자의 특권이 정당성에 영향을 미치는 정도입니다.
 
 #civfx_wlegitr_n
-importance of religiosity
+종교의 중요성
 
 #civfx_wlegitr_dscr
-how much people's religiosity affects legitimacy
+국민들의 종교가 정당성에 영향을 미치는 정도입니다.
 
 #civfx_wlegitp_n
-importance of the parliament
+의회의 중요성
 
 #civfx_wlegitp_dscr
-how much the parliament's power affects legitimacy
+의회의 권력이 정당성에 영향을 미치는 정도입니다.
 
 #civfx_wlegitsen_n
-importance of the senate
+원로원의 중요성
 
 #civfx_wlegitsen_dscr
-how much the senate's power affects legitimacy.
+원로원의 권력이 정당성에 영향을 미치는 정도입니다.
 
 #civfx_wlegitm_n
-importance of the ministry
+정부부처의 중요성
 
 #civfx_wlegitm_dscr
-how much the ministry's power affects legitimacy.
+정부부처의 권력이 정당성에 영향을 미치는 정도입니다.
 
 #civfx_wlegitap_n
-importance of people's approval
+권위에 대한 국민의 승인
 
 #civfx_wlegitap_dscr
-how much people's approval affects legitimacy.
+국민이 정당성을 인정하는 정도입니다.
 
 #civfx_statepow_n
-state power
+국가 권력
 
 #civfx_statepow_dscr
-modifies the amount of state power
+국가 권력의 양을 수정합니다.
 
 #civfx_foodcons_n
-food consumption
+음식 소비
 
 #civfx_foodcons_dscr
-affects the amount of food required by porcos to satisfy their need for food
+돼지가 충족할만한 필요로 하는 음식 양에 영향을 줍니다.
 
 #civfx_coin_n
-state treasury
+국가 재정
 
 #civfx_coin_dscr
-enables the state earning and spending money.
+국가가 돈을 벌고 쓸 수 있게 합니다.
 
 #civfx_agrisav_n
-stocking seeds
+씨앗 저축
 
 #civfx_agrisav_dscr
-25% of all agricultural food production going directly into granaries
+전체 농산물 생산량의 25%가 곡창으로 바로 들어갑니다.
 
 #civfx_subv_n
-subvention
+보조금
 
 #civfx_subv_dscr
-a government aid given to each worker of a specified social class, to increase their income
+특정 사회 계층의 각 노동자에게 그들의 소득을 증가시키기 위해 주는 정부 지원금입니다.
 
 #civfx_subv_set1
-Subvention
+보조금
 
 #civfx_subv_set1d
-The social class that receives this subvention
+이 보조금을 받는 사회적 계층입니다.
 
 #civfx_subv_set2
-Coins
+동전
 
 #civfx_subv_set2d
-The amount of the subvention. Each worker of this class will receive this amount of coins, added to their income.
+보조금의 양입니다. 이 계층의 각 노동자는 소득에 더해서 이 정도의 동전을 받게 됩니다.
 
 #civfx_paidrsrch_n
-paid researchers
+유료 연구원들
 
 #civfx_paidrsrch_dscr
-researchers get paid and no longer reduce the workforce of the buildings where they work.
+연구원들은 돈을 받아서 그들이 일하는 건물의 노동력을 더 이상 줄이지 않습니다.
 
 #civfx_ldcntrb_n
-Leader's personnal contribution
+지도자의 개인적인 기여금
 
 #civfx_ldcntrb_dscr
-The leader can contribute to the government's finances with his own wealth (reduces his wealth).
+지도자는 자신의 재산의 일부를 정부 재정에 기여할 수 있습니다.(단, 그의 재산이 줄어듭니다.)
 
 #civfx_ldcntrb_set
-Contribution %
+기여율(%)
 
 #civfx_ldcntrb_setd
-Percentage of the leader's wealth used for the government's finances. Note that this will reduce the Leader's wealth proportionnally.
+정부 재정에 사용되는 지도자 재산의 백분율입니다. 이는 지도자의 재산이 그에 비례하여 감소합니다.
 
