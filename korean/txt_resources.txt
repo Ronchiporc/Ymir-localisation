@@ -1,11 +1,11 @@
-﻿#r_all
+#r_all
 모든 자원
 
 #rcat_prod
 생산물
 
 #rcat_food
-식량
+음식
 
 #rcat_weapon
 무기
@@ -17,13 +17,13 @@
 노예
 
 #rcat_service
-서비스
+공공서비스
 
 #rcat_drink
 음료
 
 #rprdg_cltv
-재배
+경작물
 
 #rprdg_animal
 동물
@@ -41,7 +41,7 @@
 금속
 
 #rprdg_tool
-도구
+공구
 
 #r_hammers
 망치
@@ -65,7 +65,7 @@
 쟁기
 
 #r_wood
-목재
+나무
 
 #r_planks
 판자
@@ -77,7 +77,7 @@
 진흙 벽돌
 
 #r_bricks
-벽돌
+구운 벽돌
 
 #r_ashes
 재
@@ -92,16 +92,16 @@
 목탄
 
 #r_flints
-부시
+부싯돌
 
 #r_stone
 돌
 
 #r_stoneblocs
-석재
+바위 덩어리
 
 #r_slate
-슬레이트
+점판암
 
 #r_limestone
 석회암
@@ -113,13 +113,13 @@
 사암
 
 #r_marble
-대리석
+대리암
 
 #r_orecopper
-구리원석
+구리광석
 
 #r_oretin
-주석원석
+주석광석
 
 #r_oreiron
 철광석
@@ -134,7 +134,7 @@
 석탄
 
 #r_coke
-석탄연료
+코크스
 
 #r_copper
 구리
@@ -167,7 +167,7 @@
 아마
 
 #r_wool
-양털
+양모
 
 #r_textile
 직물
@@ -221,7 +221,7 @@
 라마
 
 #r_fish
-물고기
+생선
 
 #r_meat
 고기
@@ -272,16 +272,16 @@
 올리브유
 
 #r_truffles
-트러플버섯
+송로버섯
 
 #r_javelins
 투창
 
 #r_bows
-활
+궁
 
 #r_longbows
-롱보우
+대궁
 
 #r_crossbows
 석궁
@@ -302,10 +302,10 @@
 장검
 
 #r_battleaxes
-배틀액스
+전투도끼
 
 #r_warhammers
-워해머
+전투망치
 
 #r_halberds
 미늘창
@@ -317,10 +317,10 @@
 금속방패
 
 #r_shield_heavy
-헤비쉴드
+중형방패
 
 #r_shield_steel
-철방패
+강철방패
 
 #r_helmetlight
 경갑투구
@@ -332,25 +332,25 @@
 대형투구
 
 #r_armorpadded
-던댓 갑옷
+덧댄갑옷
 
 #r_armorbrigand
-사슬갑옷
+두정갑옷
 
 #r_cuirass
-흉갑
+흉갑옷
 
 #r_armorscale
 미늘갑옷
 
 #r_amorlaminar
-판갑
+판갑옷
 
 #r_amorchain
-쇄자갑
+사슬갑옷
 
 #r_amorplate
-판금갑
+판금갑옷
 
 #r_pottery
 도자기
@@ -359,7 +359,7 @@
 가구
 
 #r_rugs
-카펫
+융단
 
 #r_barley
 보리
@@ -407,22 +407,22 @@
 세금징수
 
 #r_cmnty
-커뮤니티
+사교
 
 #r_tavern
-여관
+술자리
 
 #r_theater
-극장
+오락
 
 #r_doctor
-의사
+진료
 
 #r_justice
-재판관
+사법
 
 #r_cargo
-저장소
+화물
 
 #r_clay
 점토
@@ -434,10 +434,10 @@
 거래
 
 #r_school
-학교
+교육
 
 #r_wash
-빨래
+세탁
 
 #r_baths
 목욕
@@ -446,10 +446,10 @@
 서기
 
 #r_academ
-학술원
+학술
 
 #r_guard
-경호
+경비
 
 #r_bear
 곰
@@ -458,16 +458,16 @@
 늑대
 
 #r_obsidian
-옵시디언
+흑요석
 
 #r_topilli
-Topillis
+토필리(아즈텍창)
 
 #r_macana
-마카나
+마카나(아즈텍검)
 
 #r_library
 도서관
 
 #r_dates
-대추
+야자대추
