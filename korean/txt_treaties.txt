@@ -1,38 +1,38 @@
-﻿#agrim_goldo_1
-Unique payment
+#agrim_goldo_1
+지급
 
 #agrim_goldo_2
-[x] 주화를 지급합니다
+동전[x]개를 지급한다.
 
 #agrim_goldo_3
-조약서명을 할 떄 [x] 로 부터 [y] 에게 한개의 주화가 지급되었습니다.
+조약에 따라 [x]로부터 [y]에게 동전 1개를 지급한다.
 
 #agrim_goldr_1
-주화 송금
+동전 이체
 
 #agrim_goldr_2
-Continuous transfer of [x] coins from income
+소득에서 동전[x]개를 계속 이체합니다.
 
 #agrim_goldr_3
-[x] 는 [y] 에게 조약이 유효한 동안 지속적으로 주화를 송금할 것 입니다.
+[x]는 조약이 활성화되어 있는한, 동전들을 [y]에게 계속 양도한다.
 
 #agrim_goldtax_1
-주화세
+동전 세금
 
 #agrim_goldtax_2
-주화 소득의 [x]% 를 준다.
+동전 소득의 [x]%를 제공한다.
 
 #agrim_goldtax_3
-[x] 가 [y] 에게 그의 총 주화 소득 중 1%를 이체하였습니다.
+[x]는 [y]에게 그의 동전 총소득 중 일부(%)를 양도한다.
 
 #agrim_admtax_1
-권력 전송
+권력 이양
 
 #agrim_admtax_2
-[x]% 의 국가권력을 이전하였습니다.
+국가권력의 [x]%를 부여한다.
 
 #agrim_admtax_3
-[x] 가 [y] 에게 그의 국가권력 중 1%를 이전하였습니다.
+[x]는 [y]에게 그의 국가권력 중 일부(%)를 양도한다.
 
 #agrim_trad_1
 무역협정
@@ -47,133 +47,133 @@ Continuous transfer of [x] coins from income
 통행권
 
 #agrim_pass_2
-통행권을 주다.
+통행권을 부여합니다.
 
 #agrim_pass_3
 [y]의 유닛이 [x]의 영토에서 이동할 수 있도록 허용한다.
 
 #agrim_embrg_1
-통상금지...
+통상(무역)금지...
 
 #agrim_embrg_2
-[x]에 통상금지령
+[x]에 통상금지령을 선언한다.
 
 #agrim_embrg_3
-지정된 지역과 통상 금지령을 내린다
+지정된 곳에 무역 금지령 선언한다.
 
 #agrim_vassal_1
-국가에 가입하기
+국가 가입
 
 #agrim_vassal_2
-[x] 에 가입한다
+[x]에 가입합니다
 
 #agrim_vassal_3
-[x] 가 [y]국에 가입합니다.
+[x]는 [y]국에 가입한다.
 
 #agrim_war_1
 ...에게 전쟁을 선포
 
 #agrim_war_2
-[x] 에게 전쟁을 선포합니다.
+[x]에게 전쟁을 선포한다.
 
 #agrim_war_3
-다른 특정 상대에게 전쟁을 선포합니다
+다른 특정 상대에게 전쟁을 선포한다.
 
 #agrim_peace_1
 평화협정
 
 #agrim_peace_2
-평화협정
+평화조약을 체결한다.
 
 #agrim_peace_3
-조약상대와 전쟁금지협약을 맺습니다
+조약국가 간의 전쟁을 금지한다.
 
 #agrim_ceasefr_1
-정전
+정전 
 
 #agrim_ceasefr_2
-정전
+정전조약을 체결합니다.
 
 #agrim_ceasefr_3
-조약 상대 간의 전쟁을 종식시킨다.
+조약국가 간의 전쟁을 종식한다.
 
 #agrim_tradrt_1
 무역로
 
 #agrim_tradrt_2
-무역로
+무역로를 정한다.
 
 #agrim_tradrt_3
-조약으로 맺은 교역로를 설정한다
+조약에 따라 무역로를 지정한다.
 
 #agrim_givreg_1
 지역 증여
 
 #agrim_givreg_2
-'[x]'의 지역을 증여합니다. 
+'[x]'의 지역을 증여한다. 
 
 #agrim_givreg_3
-지역의 소유권을 [y]로 이전한다.
+지역의 소유권을 [y]로 양도한다.
 
 #agrim_gividea_1
-아이디어 제시
+지식 제공
 
 #agrim_gividea_2
-[x]에 아이디어 제공
+[x]지식을 제공한다.
 
 #agrim_gividea_3
-[y]는 그가 아직 가지고 있지 않은 지식에 대한 새로운 아이디어를 [x]로부터 받을 것이다.
+[y]는 아직 없는 지식에 대한 새로운 지식을 [x]로부터 제공 받는다.
 
 #treaty_powcost
 이 조약의 유지를 위한 국가 권력 비용
 
 #treaty_coinpen
-주화 페널티
+동전 위약금 
 
 #treaty_coinpen_c1
-만약 [x]가 이 조약을 어길 경우, GDP의 퍼센트가 벌금으로 이체됩니다.
+%의 GDP는 [x]가 이 조약을 어길 경우에 위약금으로 이체해야하며,
 
 #treaty_coinpen_c2
-[x] 에게.
+[x]는 위약금을 수령한다.
 
 #treaty_gdp
-[x]% 의 GDP
+GDP[x]%
 
 #treaty_honor
-명예의 약속
+명예조약
 
 #treaty_honor_c1
-이 조약을 존중하는 상호간의 약속.
+이 조약을 책무단계 [x]까지 준수합니다.
 
 #treaty_honor_c2
-[x]가 깨지면 비례의 명예가 상실된다.
+만약 [x]가 조약에 어길 경우에 보유한 명예에 비례하여 명예가 실추된다.
 
 #treaty_warbound
-War bound
+강화조약
 
 #treaty_warbound_c1
-[x]가 자동으로 전쟁을 선포함
+반드시 [x]가 자동으로 전쟁을 선포한다.
 
 #treaty_warbound_c2
-[x]가 이 조약을 어기면
+만약 [x]가 이 조약을 어기면
 
 #treaty_closes
-단절 끊기
+외교단절
 
 #diplo_npass
 국가 통행권
 
 #diplo_npass_dscr_1
-국가의 모든 구성원들은 서로의 영역을 통과할 수 있다.
+국가의 모든 구성원들은 서로의 영역을 통과할 수 있습니다.
 
 #diplo_ntrade
 국가 무역 협정
 
 #diplo_ntrade_dscr_1
-국가의 모든 회원들은 서로 무역권을 갖는다.
+국가의 모든 회원들은 서로 무역권을 갖습니다.
 
 #diplo_ndef
 국가 방위 조약
 
 #diplo_ndef_dscr_1
-어떤 국가 구성원에 대한 어떤 선전포고라도 국가의 다른 모든 구성원들로부터 자동적으로 선전포고를 촉발할 것이며
+어떤 국가 구성원에게 선전포고를 하는 것은 침략자에 해당됨으로, 해당 국가의 다른 모든 구성원들로부터 자동으로 선전포고를 당하게 됩니다.
