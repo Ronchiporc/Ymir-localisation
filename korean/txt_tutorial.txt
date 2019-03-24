@@ -1,308 +1,308 @@
-﻿#tuto_launch_1
-Ymir 의 세계에 오신 것을 환영합니다! 당신은 게임을 처음 플레이하시는 것 같군요. 
+#tuto_launch_1
+Ymir 의 세계에 오신 것을 환영합니다! 이 게임을 처음 플레이하시는 것 같군요. 
 
 #tuto_launch_2
 이 게임은 복잡합니다. 아직 게임에 익숙하지않으시다면, 기본적인 것을 배우기 위해 싱글플레이에서 초보자를 위한 튜토리얼을 완료할 것을 추천드립니다. 벌써 게임플레이 하는 법을 알고 계시다면, 지금 튜토리얼을 끄셔도 됩니다.
 
 #tuto_create_1
-여기서 게임을 설정하고 게임을 시작합니다. 2가지의 게임모드가 있는 데, 영구모드와 리얼타임드가 있습니다. 만약 혼자 플레이하시거나 몇명의 친구와 게임한다면, 리얼타임모드로 하시면 됩니다.
+여기서 게임을 설정하고 게임을 시작합니다. 2가지의 게임모드가 있는 데, 영구모드와 실시간모드가 있습니다. 만약 혼자하시거나 몇명의 친구와 게임한다면, 실시간 모드로 하시면 됩니다.
 
 #tuto_lnchgame_1
 첫번째 게임을 시작하시고 계시군요! 클라이언트 서버 게임입니다. 혼자하시더라도, 분리된 서버가 자동으로 실행되고 자동으로 연결됩니다. 다른 플레이어가 접속할 수 있게 하시려면 14804로 포트포워딩을 꼭 하셔야합니다. 만약 자동으로 서버가 열리지않을 시, 게임폴더에서  server.bat 파일로 실행해주신 후 Join Game 을 통해 접속하시기바랍니다.
 
 #tuto_char_1
-This is where you create your character. You can design and name it, as well as your government's name and flag. 
+여기가 바로 여러분의 캐릭터를 만드는 곳입니다. 여러분의 캐릭터를 디자인하고 이름까지 지을 수 있을뿐 아니라, 여러분의 정부의 이름과 깃발까지도 정할 수 있습니다.
 
 #tuto_char_2
-You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
+출발 유형 목록 중에서 선택해야 합니다. 새로운 게임의 기본유형은 "원시부족"입니다. 세계가 막 만들어졌을때에는 "원시부족" 밖에 달리 선택이 없습니다.
 
 #tuto_char_3
-In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
+멀티플레이에서는 친구 캐릭터에 가능한 한 가까이에서 시작하기 위해 그의 캐릭터 이름을 지정할 수 있습니다. 하지만 그러기 위해서는 그의 '초대 코드'도 필요합니다.
 
 #tuto_char_4
-Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
+주의: 만약 여러분이 일단 캐릭터를 만들어서 패배했거나 망쳤다면, 특히 '끈질긴 멀티플레이어 게임'에서는 바로 새로운 캐릭터를 다시 만들 수 없습니다! 여러분이 같은 게임에서 다시 시도하는 것에 허락되기까지 최대 수일의 기간을 기다려야 합니다. 
 
 #tuto_warnjoin_1
-You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multiplayer game.
+아직 시작 튜토리얼을 끝내지 못하셨습니다. '끈질긴 멀티플레이어 게임'에 참여하기 전에는 튜토리얼을 하는 것이 좋습니다.
 
 #tuto_warnjoin_2
-Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
+'끈질긴 멀티플레이 게임'은 어렵습니다! 시작 조건은 훨씬 더 복잡할 수 있으며, 실패하면 최대 수일동안 재시작이 제한됨으로 새 캐릭터를 만들어서 즉시 다시 시작할 수 없습니다. 바로 시도했다가 망치지 말고 기회를 놓치지 않도록 기초부터 배우세요!
 
 #tuto_join_1
-This is where you join existing games. 
+여기서 기존 게임에 참여하세요.
 
 #tuto_join_2
-If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
+여러분의 로컬 게임에 다시 참여하는 경우에는 "Direct IP"로 이동하여 "localhost"의 포트 14804에 연결하세요.
 
 #tuto_join_3
-If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
+만약 여러분이 멀티플레이 게임에 참가하고 싶다면 '끈질긴 게임'과 '실시간 게임'(좀 더 빠른 게임) 중에서 선택할 수 있습니다.
 
 #tuto_persist_1
-You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
+여러분은 처음으로 '끈질긴 멀티플레이 게임'을 시작하셨습니다! 이 게임 모드에서는 실시간 모드보다 동작이 느리니까  주의하세요. 이곳에서는 실수에 대한 여유를 주지 않습니다. 어떠한 출발이던간에 두번째 기회는 수일동안 기다려야 합니다.  
 
 #tuto_0_1
-Greetings newpig! I am Sagacious Pig your tutorial assistant. 
+새로운 돼지여, 반갑습니다! 나는 여러분의 튜토리얼을 보조할 현명한 돼지입니다.
 
 #tuto_0_2
-I'm here to guide you through the first steps of the game and explain how things work.
+나는 게임의 첫걸음를 안내해주고 일이 어떻게 돌아가는지 설명해주기 위해 여기에 왔습니다.
 
 #tuto_0_c1
-Tell me more!--1
+좀 더 알려줘!--1
 
 #tuto_0_c2
-I wanted to do the tutorial but now that i see your ugly face i'd rather skip it.--82
+나는 튜토리얼을 하고 싶었지만, 너의 못생긴 얼굴을 보니 차라리 건너뛰고 싶다.--82
 
 #tuto_1_1
-You are currently in the world map. Each tile is a 'territory' you can explore and colonize. 
+너는 현재 세계지도에 있습니다. 각각의 타일들은 여러분이 탐험하고 식민지화 할 수 있는 '지역'입니다.
 
 #tuto_1_2
-At the start, most of the map is unexplored except the few territories around your tribe.
+처음에 지도의 대부분은 여러분의 부족 주변의 몇 안 되는 지역을 제외하고는 미탐험구역입니다.
 
 #tuto_1_c1
-Very well... so what now ?--2--1
+좋아... 그래서 지금 뭐하면돼지?--2--1
 
 #tuto_2_1
-This is a mission event. You will sometimes get missions you can complete to unlock rewards. Here, your first task is simply to settle your tribe in your first territory.
+이건 임무 이벤트입니다. 여러분은 때때로 보상을 얻기위해 완수할 수 있는 임무를 얻게 될 것입니다. 여기서 여러분의 첫번째 임무는 여러분의 부족을 처음으로 지역에 정착시키는 단순한 것입니다.
 
 #tuto_2_c1
-Yes... yes... Let us begin then!--3--2
+알겠어... 알겠어... 그럼 시작합시다!--3--2
 
 #tuto_3_1
-Events will appear  as flags on top of the screen and you can also review them all by clicking this button next to the flags.
+이벤트는 화면 상단에는 깃발로 표시되며 깃발 옆에 있는 이 버튼을 클릭하여 모든 이벤트를 확인 할 수도 있습니다.
 
 #tuto_3_c1
-Thank you mister Pig, shall we continue ?--4--3
+고마워. 계속해봐.--4--3
 
 #tuto_4_1
-You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Clic on it to select it.
+여러분은 현재 지배하고 있는 유목민들의 원시 부족의 단일그룹 단위(부대)로 시작합니다. 선택하려면 클릭하세요.
 
 #tuto_5_1
-On the bottom left is the formation menu of your formation. It shows details such as the list of units in this formation and their inventory. 
+왼쪽 하단에는 부대의 메뉴가 있습니다. 그것은 이 부대를 구성하는 유닛의 목록과 그들이 가진 물품목록들과 같은 세부사항을 보여줍니다.
 
 #tuto_5_2
-Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, clic the 'orders' button.
+여러분의 부족은 현재 게임을 시작하기 위한 적절한 자원들을 가지고 어느 한 지역에서 야영을 하고 있습니다. 첫 번째 정착지는 안전한 장소가 되어야 합니다. 부대 메뉴에서 '명령' 버튼을 클릭하세요.
 
 #tuto_6_1
-Select the mission "Settle", leave all the options by default, and validate to order your whole tribe to settle in this territory. Its units and inventory will be unloaded in the territory which will now be under your control and the formation itself will disapear.
+"정착"을 선택하세요. 기본적으로 모든 옵션을 그대로 두시면, 여러분의 부족은 이 지역에 정착하라는 명령을 받게됩니다. 그 부대의 유닛들과 가진 물품들을 여러분의 통제하에 그 지역에 풀어놓고 정착하게되며, 그 부대는 저절로 사라지게 될 겁니다.
 
 #tuto_7_1
-The territory selector shows the name of your  currently selected territory. On it's left is a round button that allows you to go into the territory.
+지역 선택기에서는 현재 선택한 지역의 이름이 표시됩니다. 왼쪽에는 지역 안으로 들어갈 수 있는 둥근 버튼이 있습니다.
 
 #tuto_7_2
-With your newly settled territory selected, clic that button to go into your territory.
+새로 정착한 지역을 선택한 상태에서 해당 지역으로 이동하려면 해당 단추를 클릭하세요.
 
 #tuto_8_1
-This is the territory you have settled and now control. In the middle of it is the camp your tribe has set with tents and with all their resources now unloaded onto the ground.
+여기는 여러분이 정착하고 통제하는 영토입니다. 그 중앙에는 여러분의 부족들이 텐트를 치며 야영하고 있고, 모든 자원을 땅에 풀어놓았습니다.
 
 #tuto_8_c1
-Very well.--9--7
+좋아.--9--7
 
 #tuto_9_1
-You have now completed your first mission and unlocked it's rewards.
+여러분은 이제 첫 임무를 완수하였고 보상을 해제하였습니다.
 
 #tuto_9_2
-Your next mission is now to provide fresh water for your tribe.
+여러분의 다음 임무는 부족에게 신선한 물을 제공하는 것입니다.
 
 #tuto_9_c1
-I am thrilled by the complexity of these missions, lets get on with it!--10
+나는 복잡한 이 임무들에 매우 흥분된다네. 계속 진행해보시게!--10
 
 #tuto_10_1
-To sustain themselves, your porcos need food and water or they will quickly die. They were carrying a bit of food with them, but no water : the first urgent thing to do is to setup a water collection point on the shore a fresh water point.
+여러분의 돼지들은 그들 스스로 살아가기 위해서는 음식과 물이 필요합니다. 이것들이 없다면 그들은 빨리 죽을 것입니다. 우리는 약간의 음식을 가지고 다녔지만, 물만은 가지고 있지 않았습니다. 첫번째로 급한 일은 물가에 채수장을 설치하는 것입니다.
 
 #tuto_10_c1
-How do i do that ?--11--8
+내가 뭘 어떻게 해야하는데?--11--8
 
 #tuto_11_1
-This is the building tab of the territory, where you can see all your currently available buildings and order their construction in this territory.
+이것은 여러분이 현재 사용 가능한 모든 건물을 볼 수 있고 이 지역에서 건설을 명령할 수 있는 이 지역의 건물 탭입니다.
 
 #tuto_11_2
-In the first "housing" building tab, select the "Water collector" building. 
+첫 번째 "주택" 건물 탭에서 "채수기" 건물을 선택하세요. 
 
 #tuto_12_1
-This building is free and does not require any workers: it simply represents a spot on the shore cleared and levelled to allow your porcos easy access to fresh water: they will get it themselves as they need it. Try to place it next to tiles of water:  it needs to have one edge adjascent to water to work.
+이 건물은 무료이며 작업자가 필요하지 않습니다.  이것은 여러분의 돼지들이 신선한 물에 쉽게 접근할 수 있도록 하기 위해 물가의 한 지점을 나타낸 것입니다. 필요한 만큼 직접스스로 얻을 수 있을 거예요. 물 타일 옆에 놓으세요. 그것은 작동하기 위해서 물 가까이에 하나의 타일을 가질 필요가 있습니다.
 
 #tuto_13_1
-Now that your porcos need for water is satisifed, they need sustainable sources of food as their stocks will run out soon. 
+이제 여러분의 돼지들은 물에 대한 요구에 만족합니다. 그러나 음식은 곧 재고가 바닥날 것입니다. 그들은 지속 가능한 음식의 공급원이 필요합니다.
 
 #tuto_13_c1
-Food please!--14--10
+음식 좀!--14--10
 
 #tuto_14_1
-There is 2 kinds of natural sources of foods : edible plants and spots of wild animals. The first one can be exploited by the Farm building and the latter by the Hunter.
+음식에는 두 가지 종류의 자연 공급원이 있습니다. 식용 식물과 야생 동물의 지점들입니다. 첫 번째 것은 농업 건물이 이용할 수 있고, 후자는 수렵장에 의해 이용될 수 있습니다.
 
 #tuto_14_2
-Farms and Hunters are buildings that exploit natural resources. They need to be placed near valid resources. Now, start by trying to place a hunter.
+농장과 수렵장은 천연자원으로부터 자원을 얻는 건물입니다. 유효한 자원에 가깝게 배치해야 합니다. 자, 이제, 수렵장을 배치하는 것으로 시작하세요.
 
 #tuto_15_1
-When you are placing a building that exploits natural resources, an area of tiles appears highlighted around it: it's the production range of the building.  
+천연자원을 이용하는 건물을 배치할 때 타일 영역 주변으로 강조 표시됩니다. 이는 바로 건물의 생산 범위입니다.
 
 #tuto_15_2
-Grey and Red tiles means there's nothing exploitable: you need to look fot the tiles that are highlighted in GREEN, indicating a valid exploitable resource for the building.
+회색 및 빨간색 타일은 사용할 수 없음을 의미합니다. 녹색으로 강조 표시된 타일을 찾아 건물에 대한 유효한 이용 가능 자원를 나타냅니다.
 
 #tuto_15_3
-Scan the territory with the building selected to look for a valid spot to place it.
+선택한 건물에서 지역을 스캔하여 배치할 올바른 위치를 찾습니다.
 
 #tuto_15_c1
-How do i recognize exploitable animals ?--16
+이용할 수 있는 동물들을 어떻게 알아봅니까?--16
 
 #tuto_15_c2
-How do i recognize edible plants ?--18
+먹을 수 있는 식물들을 어떻게 알아봅니까?--18
 
 #tuto_16_1
-A natural spot of wild animals is a single tile that will appear green when placing a Hunter. It has a few visible animals walking wandering around it. One hunter is enough as it's only a single tile.
+야생동물의 자연지점은 수렵장을 배치할 때 초록색으로 보이는 단일 타일입니다. 그것은 주위를 어슬렁거리는 몇몇 눈에 보이는 동물들을 가지고 있습니다. 단일 타일에 불과하기 때문에 한 대의 수렵장만으로도 충분합니다.
 
 #tuto_16_c1
-Got it.--15
+알았어.--15
 
 #tuto_16_c2
-I see animals but the Hunter doesnt seem to be able to exploit them.--17
+어떤 동물들은 보이기는하지만 수렵장은 그들을 인식하지 못 하는 것 같은데?--17
 
 #tuto_17_1
-Sometimes animals are present in a territory as a 'herd'. Herds are depletable and temporary groups of animals and they cannot be hunted in a permanent and sustainable way through a Hunter building: you will need to manually hunt them with units. Ignore them for now.
+때때로 동물들은 한 영토에 '무리들'로 존재합니다. 가축들은 고갈될 수 있는 일시적인 동물 무리이며, 이들은 수렵장을 통해 영구적이고 지속가능한 방법으로 사냥될 수 없습니다. 여러분은 수동으로 그들을 사냥할 필요가 있습니다. 지금은 일단 무시하세요.
 
 #tuto_17_c1
-Very well...--15
+알겠어...--15
 
 #tuto_18_1
-Spots of edible plants are usually large patches of similar looking plants or trees. If the patch is large, you may place several Farms around it to fully exploit it.
+식용 식물의 지점은 보통 비슷하게 생긴 식물이나 나무의 큰 군락으로 보입니다. 군락이 큰 경우 이를 활용하기 위해 군락 주변에 여러 농장들을 배치할 수 있습니다.
 
 #tuto_18_c1
-Very well.--15
+좋아.--15
 
 #tuto_19_1
-You have now started satisfying the 2 urgent needs of your tribe of water and food. These 2 needs combined form something called the "Vital needs".
+여러분은 이제 물과 음식이라는 부족의 두 가지 긴급한 요구를 만족시키기 시작했습니다. 이 두 가지 욕구는 "생필품"이라고 불리는 것으로 결합한 것입니다.
 
 #tuto_19_2
-When the Vital needs are not fully satisfied, it means some of your Porcos are suffering from malnutrition and dying.
+생필품이 완전히 충족되지 않을 때에는, 여러분의 돼지들 중 일부가 영양실조에 걸려 죽어가고 있다는 것을 의미합니다.
 
 #tuto_19_c1
-Good to know.--20--13
+좋은 상식이야.--20--13
 
 #tuto_20_1
-This button opens an important menu: the "Territory menu". 
+이 버튼은 "영토 메뉴"라는 중요한 메뉴를 엽니다.
 
 #tuto_20_2
-It shows everything you need to know about the territory you are in, allowing you to check it's situation and to diagnose it's problems. Clic to open it.
+그것은 여러분이 있는 지역에 대해 알아야 할 모든 것을 보여주며, 여러분이 이 지역의 상황을 확인하고 문제를 진단할 수 있게 해줍니다. 클릭하여 열어봅니다.
 
 #tuto_21_1
-This menu has a lot of informations combined in it. The top half is a global summary of the territory with all it's important stats in a single space.
+이 메뉴에는 많은 정보가 조합되어 있습니다. 위쪽 절반은 한 공간에 모든 중요한 통계치가 있는 영역을 전체적으로 요약한 것입니다.
 
 #tuto_21_2
-The lower half of the menu is a set of tabs, each one giving you more in-depth details about a specific territory stat: economy, growth, administration...
+메뉴의 아래쪽 절반은 설정탭이며, 각 탭은 경제, 성장, 행정 등 특정 영역에 대한 자세한 정보를 제공합니다.
 
 #tuto_21_c1
-Ok!--22
+알겠어!--22
 
 #tuto_22_1
-This is the important part to look for now : the global vital needs of your populaiton that i mentionned earlier. 
+이것들은 제가 앞서 언급했던 주민들의 만국공통 필수품입니다.
 
 #tuto_22_2
-It needs to remains more or less above 70%: meaning most people in your tribe have enough food and water not to starve to death. It's an important value you will always have to monitor.
+이것은 70% 이상 유지되어야 합니다. 즉, 70%는 여러분 부족의 대부분의 사람들은 굶어죽지 않을 만큼의 충분한 음식과 물을 가지고 있다는 뜻입니다. 이것은 여러분이 항상 감시해야 할 중요한 가치입니다.
 
 #tuto_22_c1
-Very well.--23--15
+좋아.--23--15
 
 #tuto_23_1
-Just below it is the territory's Growth: the current variation of your population. This is what you will be looking for the most in early game.
+바로 아래는 영토의 성장입니다. 현재 주민들의 변화를 뜻하며, 이것이 당신이 초기에 가장 많이 신경 쓸 것입니다.
 
 #tuto_23_2
-Positive growth means your population is increasing and you will get new active Porcos you can employ in buildings. 
+긍정적인 성장은 여러분의 주민수가 증가하고 있다는 것을 의미하고 여러분은 빌딩에 고용할 수 있는 새로운 활동적인 돼지를 갖게 될 것입니다.
 
 #tuto_23_3
-Satisfied Vital Needs is essential to maintain a positive growth, but it's not the only factor influencing it.
+필수품을 만족시키는 것은 긍정적인 성장을 유지하기 위해 필수적이지만, 이것들만이 영향을 미치는 유일한 요소는 아닙니다.
 
 #tuto_23_c1
-Got it.--26--16
+알겠어.--26--16
 
 #tuto_23_c2
-What are the factors influencing Growth?--24
+성장에 영향을 미치는 다른 요인은 무엇인데?--24
 
 #tuto_23_c3
-How do I improve Growth?--25
+어떻게 하면 성장을 향상시킬 수 있을까?--25
 
 #tuto_24_1
-You can clic on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
+"성장" 탭을 클릭하여 주민들의 '전국 성장'에 대한 세부 정보에 접근 할 수 있습니다. 성장은 두 가지 주요 요인의 결과입니다. 그것들은 바로 "아이를 가지려는 의지"와 "생존"입니다.
 
 #tuto_24_2
-The will to have children is detailed in the right side column and is affected mostly by the Life Quality of the population.
+아이를 갖겠다는 의지는 오른쪽 칸에 자세히 나와 있고, 대부분 인구의 삶의 질에 영향을 받습니다.
 
 #tuto_24_3
-The survival of piglets into adulthood is affected mostly by the global Health of your population.
+성인이 된 아기돼지의 생존은 대부분 '전국 건강'과 여러분의 '주민수'에 영향을 받습니다.
 
 #tuto_24_c1
-Got it.--26--16
+알겠어.--26--16
 
 #tuto_24_c2
-So how do I improve it?--25
+그렇다면 어떻게 개선해야 하는데?--25
 
 #tuto_25_1
-First make sure your Vital Needs are satisfied. Then you will want to improve global Health and Life Quality as much as possible.
+먼저 필수품이 만족스러운지 확인합니다. 여러분은 가능한 전국의 건강과 삶의 질을 향상시키고 싶어 할 것입니다.
 
 #tuto_25_2
-Provide good dwellings for your population, diversified food and generally try to fill the maximum of your population's needs!
+여러분의 주민들을 위해 좋은 주거지를 제공하고, 다양한 음식을 제공하고, 일반적으로 여러분의 주민들이 필요로 하는 최대한의 양으로 채우려고 노력하세요.
 
 #tuto_25_c1
-Got it.--26--16
+알겠어.--26--16
 
 #tuto_26_1
-This is your current population. It's divided into groups of "Social Classes", each one represented by one button.
+이것이 당신의 현재 주민들의 수입니다. "사회적 계층"별로 그룹이 나뉘어 각각 버튼 하나로 표현됩니다.
 
 #tuto_26_2
-"Inactives" is the default class of currently jobless adult Porcos available to work in new buildings. Once a porco starts working in a building, he converts to the social class the building employs.
+"비활동"은 현재 새 건물에서 일할 수 있는 무직의 성인 돼지로서 기본 계층입니다. 일단 돼지가 건물에서 일하기 시작하면, 그는 그 건물이 고용하는 사회 계층으로 전환됩니다.
 
 #tuto_26_c1
-Understood. Now what ?--27
+이해했어, 그래서?--27
 
 #tuto_27_1
-Before building new production buildings, you will want to check that you have enough inactives to work in them.
+새 생산 건물을 짓기 전에 해당 건물에서 작업할 수 있는 비활동 돼지가 충분한지 확인해야 합니다.
 
 #tuto_27_2
-You should still have a decent amount of Inactive Porcos available: let's keep them busy and move on the next mission!
+여러분은 꽤 많은 비활성 돼지들을 이용할 수 있습니다. 그들에게 직업을 줘서 바쁘게 하고 다음 임무로 넘어갑시다!
 
 #tuto_27_c1
-I'm ready.--28--17
+난 준비됐어.--28--17
 
 #tuto_28_1
-Building things require resources and one of the most commonly required one at first is Hammers, made from Flints.
+건축에는 자원이 필요하며, 초기에는 가장 일반적으로 필요한 것 중 하나는 부싯돌로 만든 망치입니다.
 
 #tuto_28_2
-You must now produce your first Hammers as your stocks will soon run out as you build. 
+건설하면거 재고가 떨어질 것이기 때문에 여러분은 이제 첫 번째 망치들은 생산해야 합니다.
 
 #tuto_28_c1
-Ok.--29--18
+알겠어.--29--18
 
 #tuto_29_1
-Hammers will be your first 'industrial product': a resource that is crafted from other resources.
+망치는 여러분의 첫 번째 '산업 제품'이 될 것입니다. 다른 자원으로부터 만들어진 자원이기 때문입니다.
 
 #tuto_29_2
-Hammers require flints -a natural resource- which you can produce with the Flint collector.
+망치는 부싯돌 채취장으로 생산할 수 있는 천연 자원 부싯돌을 필요로 합니다.
 
 #tuto_29_3
-Start by building a Flint collector in a valid location, near any gravely looking ground tiles.
+먼저 부싯돌 채취장를 자갈들로 보이는 지면 타일 근처와 같은 올바른 위치에 설치해야 합니다.
 
 #tuto_30_1
-Very well! Now you can build the Tool maker.
+잘하셨습니다! 여러분은 이제 공구공방을 설치 할 수 있습니다.
 
 #tuto_30_2
-Unlike natural producers, industries can be placed anywhere for they do not exploit any natural resource: they combine existing ones.
+공구공방은 다른 자연산 생산자들과는 달리, 천연 자원을 이용하지 않기 때문에 어디에든 설치할 수 있습니다. 그들은 기존 자원들을 결합하는 것에 불과합니다.
 
 #tuto_31_1
-Great, you are now producing your first Hammers!
+잘하셨습니다, 이제 첫 망치를 만들고 있군요!
 
 #tuto_31_2
-Hammers are your first type of tool. Later, you will unlock new tools which will also be required by many constructions.
+망치는 여러분의 첫 번째 공구입니다. 나중에 많은 건축물에서 필요로 하는 새로운 공구의 잠금을 해제할 수 있습니다.
 
 #tuto_31_3
-Unlike resources like foods, tools are not consummed by the population to satisfy their needs: it's player-used only.
+음식과 같은 자원과 달리 공구들은 주민들이 그들의 욕구를 충족시키기 위해 소비하지는 않습니다. 그것은 단지 플레이어가 사용할 뿐입니다.
 
 #tuto_31_c1
-Ok.--32--21
+좋아.--32--21
 
 #tuto_32_1
-This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade,buy,sell ot transport resources between territories later on.
+이것은 여러분 영토의 자원 탭입니다. 생성된 자원과 현재 해당 영토의 저장소에 있는 모든 자원들을 나열합니다. 이곳은 또한 나중에 지역 간에 자원을 거래, 구매, 판매 또는 수송할 수 있는 탭입니다.
 
 #tuto_32_2
-Clic to open the tab.
+탭을 클릭하여 엽니다.
 
 #tuto_33_1
 Each button shows you one type of resource currently stored or produced in the territory. On each button you can see the amount stocked, a sign indicating it's current variation, and it's local price.
@@ -1208,7 +1208,7 @@ How do I fund all that?--410
 In these primitive times, the biggest source of income you can get is from your leader's own personnal funds by making them one and the same. 
 
 #tuto_410_2
-Using the "privileges" policy you can define the % of the territory's wealth awarded to your leader by right. This will slowly increase his personal wealth level which you can monitor in the territory menu by selecting the "Leader" population class.
+Using the "privileges" policy you can define the % of the territory's wealth awarded to your leader by right. This will slowly increase his personal wealth level which you can monitor in the '영토 메뉴' by selecting the "Leader" population class.
 
 #tuto_410_c1
 Ok...--411
