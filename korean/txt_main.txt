@@ -80,10 +80,10 @@ of
 효율성
 
 #g_resunit
-resource unit
+자원 단위
 
 #g_resunits
-resource units
+자원 단위
 
 #g_Households
 가정
@@ -488,16 +488,16 @@ of
 수량
 
 #g_Enabled
-허용됨
+유효
 
 #g_enabled
-허용됨
+유효
 
 #g_Disabled
-비허용됨
+무효
 
 #g_disabled
-비허용됨
+무효
 
 #g_per_day
 일당
