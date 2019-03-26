@@ -608,7 +608,7 @@ UI 소리
 (이전 지도자를 배반하거나 잃은 지역입니다. 예상치 못한 등장!)
 
 #newchar_clim_c
-시작하려는 위치의 기후를 선택합니다.
+시작을 하려는 기후를 선택합니다.
 
 #newchar_cold
 한랭
@@ -1568,7 +1568,7 @@ GDP
 소유권 유지
 
 #ui_mres_stmntn_c1
-주식의 직접 소유권을 유지하기 위한 자원의 양
+주식의 직접 소유권을 유지하기 위한 자원량
 
 #ui_mres_stmntn_c2
 지정된 양보다 낮은 경우, 필요한 양에 도달할 때까지 주(州)에서 저장소로 들어가는 새로운 자원을 자동으로 구입하게 됩니다.
@@ -1580,28 +1580,28 @@ GDP
 이 자원에 대한 인구 만족도의 비율
 
 #ui_mres_dist_need
-이상적 필요치
+이상적 필요량
 
 #uic_mres_dist_need
 인구에 의한 가격 및 경제성에 관계없이 100% 접속에 필요한 양
 
 #ui_mres_dist_dem
-수요
+수요량
 
 #uic_mres_dist_dem
-현재 가격으로 물건을 살 수 있는 사람이 실제로 상인에게 요구하는 금액
+현재 가격으로 물건을 살 수 있는 사람이 실제로 상인에게 요구하는 양
 
 #ui_mres_dist_avail
-공급
+공급량
 
 #uic_mres_dist_avail
-현재 시중에 유통되는 금액
+현재 시중에 유통되는 양
 
 #ui_mres_dist_sold
-매출
+판매량
 
 #uic_mres_dist_sold
-인구에 판매된 금액
+주민들에 판매된 양
 
 #ui_bdgeff_bdg
 건물
@@ -1616,22 +1616,22 @@ GDP
 무익함 ([x]%)
 
 #ui_mres_indaccess
-산업 접근
+산업 접근율
 
 #uic_mres_indaccess
-재료로서 이 자원에 대한 산업계의 접근
+재료로서 이 자원에 대한 산업계의 접근율
 
 #ui_mres_indneed
-수요
+수요량
 
 #uic_mres_indneed
 업종별 소요 자원량
 
 #ui_mres_indsold
-매출
+판매량
 
 #uic_mres_indsold
-실제로 배분되고 이것을 필요로 하는 산업에 판매된 자원의 양
+실제로 배분되고 이것을 필요로 하는 산업에 판매된 자원량
 
 #ui_mres_prodcost
 생산비용
@@ -1649,13 +1649,13 @@ GDP
 무역로를 통해 수입되는 금액에 대해 국가가 지불한 총비용.
 
 #bc_menubdg_rsell
-이 상인과 함께 팔 자원을 선정.
+이 상인이 판매할 자원.
 
 #bc_menubdg_lmtd
 제한배분
 
 #bc_menubdg_lmtd_c1
-이 상인에 대한 제한된 배포를 전환하려면 클릭하십시오. 공공 시장에 분배되는 자원의 양을 제어할 수 있습니다.
+이 상인에 대한 제한된 배포를 전환하려면 클릭하십시오. 공공 시장에 분배되는 자원량을 제어할 수 있습니다.
 
 #ui_menubdg_hire
 한명 고용
@@ -2696,19 +2696,19 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 기본 출산율
 
 #breed_intel
-지력
+지능
 
 #breed_totpop
 총인구효과
 
 #breed_piglets
-암퇘지 영향력당 새끼돼지
+암퇘지 영향력당 아기돼지
 
 #breed_smcity
 소도시의 부양책
 
 #breed_vit
-중요욕구의 부재.
+필수욕구의 부재.
 
 #breed_fertil
 생식력
@@ -2963,10 +2963,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 적재량
 
 #ui_statunit_c_dscr
-이 부대가 운반할 수 있는 자원의 양입니다. 그 부대의 재고 능력은 그것의 모든 단위들의 운반능력의 합입니다.
+이 부대가 운반할 수 있는 자원량입니다. 그 부대의 재고 능력은 그것의 모든 단위들의 운반능력의 합입니다.
 
 #ui_troop_reinforce
-지원군
+추가모집
 
 #ui_troop_disband
 해제
@@ -4982,13 +4982,13 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 당신 정부의 이름을 설정합니다(그런 다음 국가 제목과 결합).
 
 #regnam_unclaimed
-영토선언되지 않은 영역입니다.
+주인 없는 땅
 
 #regnam_regof
-[x]의 영역입니다.
+[x]의 땅
 
 #regnam_claimby
-[x]에 영토선언 된 곳 입니다.
+[x]의 소유지
 
 #uiworld_ownr
 소유권
