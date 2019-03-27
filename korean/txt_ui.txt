@@ -77,13 +77,13 @@ Ymir Trello
 공지
 
 #dsclmr_1
-- 이 게임은 1인 프로젝트입니다. 개발이 느립니다.
+- 이 게임은 1인 프로젝트입니다. 개발이 느립니다. 솔로플래이가 가능하지만, 이 게임은 멀티플레이에 맞춰졌습니다.
 
 #dsclmr_2
 - 이 게임은 진행 중인 실험적인 작업으로 영원히 남을 것이며, 완제품의 품질, 적절한 안정성 및 최적화에 도달하지 못할 가능성이 높습니다.
 
 #dsclmr_3
-- 솔로플래이가 가능하기만, 이 게임은 멀티플레이에 맞춰졌습니다.
+- 한글번역이 이루어졌으나, 게임내 검사가 되지 않았으며 일부 오역이 있을 수 있습니다. 발견시 디스코드의 한국채널에 오역 및 번역 문제들을 제보해주세요.
 
 #b_menuop_fullscreen
 전체화면
@@ -2261,7 +2261,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 모든 활성화된 조약은 조약에 있는 우리 조항의 성격에 따라 일정량의 국가 권력이 유지되는 데 비용이 듭니다.
 
 #statepow_powtr
-국가권력이전
+이전된 국가권력
 
 #statepow_powtr_c1
 현재 활발하게 진행되고 있는 조약으로 인해 다른 정부로 이전되거나 다른 정부로부터 이전된 국가 권력입니다.
@@ -2297,7 +2297,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 총 부하 인원: [x]
 
 #statepow_forms
-부대의 유지
+부대 유지
 
 #statepow_forms_c1
 당신이 소유하는 각각의 형태는 유지하는데 약간의 국가권력이 들 수 있습니다.

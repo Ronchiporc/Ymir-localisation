@@ -1,89 +1,89 @@
 #cond_nbreg
-[x]개 이상의 영토를 보유합니다.
+[x]개 이상의 영토를 보유
 
 #cond_prodsupto
-영토 내에 최소 [x]의 [y]를 생산합니다.
+영토 내에 최소 [x]의 [y]를 생산
 
 #cond_incrfoodprod
-음식 생산량을 최소[x]까지 늘립니다.
+음식 생산량을 최소[x]까지 늘리기
 
 #cond_ownbdg
-영토 내에 [x] [y]를 보유합니다.
+영토 내에 [x] [y]를 보유
 
 #cond_ownbdg_class
-영토 내에 [y]의 [x]건물들을 보유합니다.
+영토 내에 [y]의 [x]건물들을 보유
 
 #cond_cmplted_ev
-[x]이벤트 완료합니다.
+[x]이벤트 완료
 
 #cond_loyal_inf
-[x]보다 열등한 영토의 충성도
+최대[x]미만 영토의 충성도
 
 #cond_loyal_sup
-[x]보다 우수한 영토의 충성도
+최소[x]이상 영토의 충성도
 
 #cond_pow_inf
-[x]보다 열등한 국가권력
+최대[x]미만 국가권력
 
 #cond_pow_sup
-[x]보다 우수한 국가권력
+최소[x]이상 국가권력
 
 #cond_legit_inf
-[x]보다 열등한 국가 정당성
+최대[x]미만 국가 정당성
 
 #cond_legit_sup
-[x]보다 우수한 국가 정당성
+최소[x]이상 국가 정당성
 
 #cond_coins_inf
-[x]보다 열등한 국가화폐의 가치
+최대[x]미만 국가화폐의 가치
 
 #cond_coins_sup
-[x]보다 우수한 국가화폐의 가치
+최소[x]이상 국가화폐의 가치
 
 #cond_notech
-'[x]' 에 대한 지식은 없습니다.
+'[x]' 에 대한 지식을 버리기
 
 #cond_hastech
-'[x]' 에 대한 지식을 가지고 있습니다.
+'[x]' 에 대한 지식을 가지기
 
 #cond_popnb_inf
-[x]보다 열등한 [y]
+최대[x]미만 [y]
 
 #cond_popnb_sup
-[x]보다 우수한 [y]
+최소[x]이상 [y]
 
 #cond_intel_inf
-[x]보다 열등한 [y]의 지능
+최대[x]미만 [y]의 지능
 
 #cond_intel_sup
-[x]보다 우수한 [y]의 지능
+최소[x]이상 [y]의 지능
 
 #cond_lifeq_inf
-[x]보다 열등한 [y]의 삶의 질
+최대[x]미만 [y]의 삶의 질
 
 #cond_lifeq_sup
-[x]보다 우수한 [y]의 삶의 질
+최소[x]이상 [y]의 삶의 질
 
 #cond_health_inf
-[x]보다 열등한 [y]의 체력
+최대[x]미만 [y]의 체력
 
 #cond_health_sup
-[x]보다 우수한 [y]의 체력
+최소[x]이상 [y]의 체력
 
 #cond_regcltr_sup
-[x]보다 우수한 지방문화
+최소[x]이상 지방문화
 
 #cond_cltr_inf
-[x]보다 열등한 지방문화
+최대[x]미만 지방문화
 
 #cond_cltr_sup
-[x]보다 우수한 전체문화
+최소[x]이상 전체문화
 
 #cond_conflict_inf
-[x]보다 열등한 국민 갈등
+최대[x]미만 국민 갈등
 
 #cond_conflict_sup
-[x]보다 우수한 국민 갈등
+최소[x]이상 국민 갈등
 
 #cond_cons_sup
 [y]보다 우수한 [x]의 소비량
@@ -104,52 +104,52 @@
 [x]%보다 높은 [z][y]접근율
 
 #cond_resstk_inf
-[y]보다 열등한 [x]의 재고량
+최대[x]미만 [y]의 재고량
 
 #cond_resstk_sup
-[y]보다 우수한 [x]의 재고량
+최소[x]이상 [y]의 재고량
 
 #cond_agrprd_inf
-[x]보다 열등한 농업생산
+최대[x]미만 농업생산
 
 #cond_agrprd_sup
-[x]보다 우수한 농업생산
+최소[x]이상 농업생산
 
 #cond_natagri
 야채와 식물의 천연자원을 보유합니다.
 
 #cond_militia_inf
-[x] [y]보다 열악한 민병대
+최대 [x] [y]의 민병대 보유
 
 #cond_militia_sup
-[x] [y]보다 우월한 민병대
+최소 [x] [y]의 민병대 보유
 
 #cond_army_inf
-[x] [y]보다 열악한 군대
+최대 [x] [y]의 군대 보유
 
 #cond_army_sup
-[x] [y]보다 우월한 군대
+최소 [x] [y]의 군대 보유
 
 #cond_natmetal
-금속 천연자원을 보유합니다.
+금속 천연 자원 보유
 
 #cond_GDP_inf
-[x]보다 열등한 GDP
+최대[x]미만 GDP
 
 #cond_GDP_sup
-[x]보다 우수한 GDP
+최소[x]이상 GDP
 
 #cond_wlth_inf
-[x]보다 열등한 부(재산)
+최대[x]미만 부(재산)
 
 #cond_wlth_sup
-[x]보다 우수한 부(재산)
+최소[x]이상 부(재산)
 
 #cond_vitn_inf
-[x]보다 열등한 [y]의 필수 욕구
+최대[x]미만 [y]의 필수 욕구
 
 #cond_vitn_sup
-[x]보다 우수한 [y]의 필수 욕구
+최소[x]이상 [y]의 필수 욕구
 
 #cond_bdgcat_inf
 [x]보다 적은 [y]건물 보유
@@ -158,73 +158,73 @@
 [x]보다 많은 [y]건물 보유
 
 #cond_rescat_inf
-[x]보다 열등한 [y]재고량
+최대[x]미만 [y]재고량
 
 #cond_rescat_sup
-[x]보다 우수한 [y]재고량
+최소[x]이상 [y]재고량
 
 #cond_rescatprd_inf
-[x]보다 열등한 [y]재고량
+최대[x]미만 [y]생산량
 
 #cond_rescatprd_sup
-[x]보다 우수한 [y]재고량
+최소[x]이상 [y]생산량
 
 #cond_prdgrp_inf
-[x]보다 열등한 [y]재고량
+최대[x]미만 [y]재고량
 
 #cond_prdgrp_sup
-[x]보다 우수한 [y]재고량
+최소[x]이상 [y]재고량
 
 #cond_prdgrpprd_inf
-[x]보다 열등한 [y]생산량
+최대[x]미만 [y]자원의 생산량
 
 #cond_prdgrpprd_sup
-[x]보다 우수한 [y]생산량
+최소[x]이상 [y]자원의 생산량
 
 #cond_resneed_inf
-[x]보다 열등한 불충족된 [y]요구
+최대[x]미만 불충족된 [y]요구
 
 #cond_resneed_sup
-[x]보다 우수한 불충족된 [y]요구
+최소[x]이상 불충족된 [y]요구
 
 #cond_civic
-시민효과 '[x]' 활성화됩니다.
+시민효과 '[x]' 활성화
 
 #cond_civeff
-시민효과 '[x]' 보유합니다.
+시민효과 '[x]' 보유
 
 #cond_militpow_inf
-[x]보다 열등한 총군사력
+최대[x]미만 총군사력 보유
 
 #cond_militpow_sup
-[x]보다 우수한 총군사력
+최소[x]이상 총군사력 보유
 
 #cond_ecobal_inf
-[x]보다 열등한 정부 예산수지
+최대[x]미만 정부 예산수지 보유
 
 #cond_ecobal_sup
-[x]보다 우수한 정부 예산수지
+최소[x]이상 정부 예산수지 보유
 
 #cond_growth_inf
-[x]보다 열등한 [y]의 성장
+최대[x]미만 [y]의 성장
 
 #cond_growth_sup
-[x]보다 우수한 [y]의 성장
+최소[x]이상 [y]의 성장
 
 #cond_reglvl_inf
-[x]보다 열등한 영토 수준
+최대[x]미만 영토 수준
 
 #cond_reglvl_sup
-[x]보다 우수한 영토 수준
+최소[x]이상 영토 수준
 
 #cond_speed_inf
-[x]보다 열등한 char속도 수준
+최대[x]미만 char속도 수준
 
 #cond_speed_sup
-[x]보다 우수한 char속도 수준
+최소[x]이상 char속도 수준
 
 #cond_has_res
-[x]에 접근 권한 보유합니다.
+최소 [x]의 접근율
 
 #effect_givres
 보상: [y] [x]
@@ -1772,7 +1772,7 @@
 우리 군대의 병사들은 너의 부정적인 정당성 때문에 떠나고 있어! 사람들은 더 이상 정하다고 생각하지 않는 통치자를 위해 봉사하기를 원하지 않으며, 우리는 당신의 정당성이 다시 긍정적이 될 때까지 매일 돼지가 우리의 대열을 떠나는 것을 볼 것입니다.
 
 #ev_form_ovrdrft_2
-아마도 우리는 인구과잉을 줄이기 위해 인구과잉을 줄이는 것을 고려해야 할 것입니다. 그렇지 않으면 우리는 그들을 더 잘 지원할 수 있는 다른 지역으로 이 전형을 재배치할 수 있을 것입니다. 우리가 행동하지 않으면, 이 편성은 서서히 붕괴될 거야!
+아마도 주민수보다 많은 병사를 가진 부대를 줄여야 할 겁니다. 줄이지 않으려면 그들을 더 잘 지원할 수 있는 다른 지역으로 재배치해도 됩니다. 빨리 우리가 조치를 취하지 않으면, 이 부대는 서서히 붕괴될 겁니다!
 
 #ev_xplr_brkleg
 부러진 다리
