@@ -104,7 +104,7 @@
 지도자들의 임금
 
 #civfx_leadsal_setd
-동전 임금량
+임금량(원)
 
 #civfx_nobwlth_n
 귀족들의 특권
@@ -128,7 +128,7 @@
 귀족들의 임금
 
 #civfx_nobsal_setd
-동전 임금량
+임금량(원)
 
 #civfx_offwlth_n
 국가 노동자들의 특권
@@ -152,7 +152,7 @@
 국가 노동자들의 임금
 
 #civfx_offsal_setd
-동전 임금량
+임금량(원)
 
 #civfx_capadmin_n
 수도 행정
@@ -359,7 +359,7 @@
 이 보조금을 받는 사회적 계층입니다.
 
 #civfx_subv_set2
-동전
+보조금(원)
 
 #civfx_subv_set2d
 보조금의 양입니다. 이 계층의 각 노동자는 소득에 더해서 이 정도의 동전을 받게 됩니다.
