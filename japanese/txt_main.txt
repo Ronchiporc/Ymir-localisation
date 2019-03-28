@@ -26,7 +26,7 @@ no
 NO
 
 #g_Apply
-Apply
+適用
 
 #g_low
 低
@@ -59,13 +59,13 @@ Apply
 維持費
 
 #g_admin
-行政
+管理
 
 #g_Admin
-行政
+管理
 
 #g_Admincost
-行政維持費
+管理維持費
 
 #g_Lifequal
 生活品質
@@ -298,7 +298,7 @@ Society
 安定
 
 #g_Administation
-行政
+管理
 
 #g_Porco
 豚
@@ -502,25 +502,25 @@ and
 毎日
 
 #g_ev_days
-[x] 日間隔
+/[x] 日間隔
 
 #g_per_hour
 毎時間
 
 #g_ev_hours
-[x] 時間間隔
+/[x] 時間間隔
 
 #g_per_minut
 毎分
 
 #g_ev_minuts
-[x] 分間隔
+/[x] 分間隔
 
 #g_per_second
 毎秒
 
 #g_ev_seconds
-[x] 秒間隔
+/[x] 秒間隔
 
 #g_with
 with
