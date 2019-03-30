@@ -5424,19 +5424,19 @@ Wealth is an objective measurement of all productive work being currently done i
 HDP území
 
 #regmenu_gdp_dscr
-An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+Ekonomický ukazatel, který je součtem všech generovaných příjmů na tomto území (státu nebo obyvatelstva) za období 10 ekonomických cyklů.
 
 #regmenu_growth_1
 Current demographic evolution: [x] Porcos [y].
 
 #regmenu_growth_2
-Active population: [x] [y]
+Aktivní populace: [x] [y]
 
 #regmenu_vitals_1
-Vital needs of the population are currently [x]% satisfied.
+V současné době jsou životně důležité potřeby obyvatelstva uspokojeny na [x]%.
 
 #regmenu_vitals_2
-Low vital needs reduce birth rate and increases mortality.
+Nízké životní potřeby snižují porodnost a zvyšují úmrtnost.
 
 #subjug_title
 Podmanit
@@ -5472,7 +5472,7 @@ klepnutím vyberte vrstvu zobrazení.
 právě zobrazeno:
 
 #button_togh_c1
-toggle heights display
+zobrazení výškové mapy
 
 #button_togh_c2
 výška: 
@@ -5523,31 +5523,31 @@ Resetovat všechny výukové programy na nulu.
 Všechny výukové programy byly resetovány.
 
 #ui_price_sd_c31
-(supply backed by state purchasing!)
+(zásobování ze strany státu!)
 
 #ui_price_sd_c4
-[x]% of a price before supply/demand of [y] coins = [z]
+[x]% ceny před nabídkou/poptávkou [y] mincí = [z]
 
 #ui_price_sd_c41
-(effect limited by minimal price of [x] coins!)
+(efekt omezený minimální cenou [x] mincí!)
 
 #ui_price_arb_c5
-Local price before arbitrage: [x] coins.
+Místní cena před arbitráží: [x] mincí.
 
 #resist_title
-Resistance movement
+Odbojové hnutí
 
 #resist_dscr
-A resistance movement is present in this territory. This might result in a partisans uprising at any time and regardless of the territory's current loyalty!
+Na tomto území je hnutí odporu. To může mít za následek povstání partyzánů kdykoliv a bez ohledu na současnou loajalitu území!
 
 #resist_loyal
 Loajalita: [x]
 
 #resist_loyal_c1
-This resistance movement is loyal to [x].
+Toto hnutí odporu je loajální [x].
 
 #resist_loyal_c2
-If Partisans manage to free this territory, they will automatically offer to rejoin this state.
+Pokud se partyzánům podaří toto území osvobodit, automaticky nabídnou návrat do tohoto státu.
 
 #resist_max
 Maximum odporu: [x]
@@ -5559,11 +5559,16 @@ Maximální odporové body tohoto území. Odpor je omezen celkovou populací ú
 Trest za porážku: [x] Česti
 
 #resist_hloss_c1
-The amount of honor that will be lost as a penalty if Partisans manage to free this territory. 
+Výše cti, která bude ztracena jako trest, pokud se partyzánům podaří toto území osvobodit.
 
 #resist_tot_c1
-The resistance movement currently has [x] points out of a potential maximum of [y] points.
+Odbojové hnutí ma právě [x] bodů z potenciálního maxima [y] bodů.
 
 #resist_tot_c2
-The more points, the stronger the resistance is in this territory and the more population are involved in the resistance, which means potentially more Partisans if an uprising do happens.
+Čím více bodů, tím silnější je odpor na tomto území a tím více obyvatel je zapojeno do odporu, což znamená potenciálně více partyzánů, pokud nastane povstání.
 
+#warn_moveprim
+Asi se chystáte udělat chybu ...
+
+#warn_moveprim_1
+Začínat hru přesunutím celého primitivního kmene je velmi nebezpečné rozhodnutí, které může velmi rychle vést k porážce nebo k uvíznutí na významně velkou dobu. Pokud nevíte přesně, co děláte, je VYSOCE doporučeno usadit se na vašem počátečním regionu: později můžete s menší posádkou prozkoumat a poté zorganizovat bezpečnou migraci na lepší místo.
