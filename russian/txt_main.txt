@@ -492,38 +492,48 @@
 выкл.
 
 #g_capitultrty
-Capitulation treaty
+Договор о капитуляции
 
 #g_occupiedterrit
-occupied territory
+оккупированная территория
 
 #g_outpost
-outpost
+аванпост
 
 #g_per_day
-per day
+в день
 
 #g_ev_days
-every [x] days
+каждые [x] дней
 
 #g_per_hour
-per hour
+в час
 
 #g_ev_hours
-every [x] hours
+каждые [x] часов
 
 #g_per_minut
-per minut
+в минуту
 
 #g_ev_minuts
-every [x] minuts
+каждые [x] минут
 
 #g_per_second
-per second
+в секунду
 
 #g_ev_seconds
-every [x] seconds
+каждые [x] секунд
 
 #g_with
-with
+с
+
+#g_second
+секунда
+
+#g_hour
+час
+
+#g_never
+никогда
+
 

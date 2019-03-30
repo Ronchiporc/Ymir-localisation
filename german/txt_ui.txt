@@ -531,10 +531,10 @@ Neuer Charakter
 Startvorgaben
 
 #newchar_availspwn
-Verfügbare Starts entsprechen diesen Einstellungen
+Verfügbare Starts
 
 #newchar_closeto
-charaktervolle Brut......
+Spawn bei Charakter...
 
 #newchar_closeto_c
 Du wirst so nah wie möglich an den ausgewählten Charakter gespawnt, solange die oben genannten Bedingungen erfüllst.
@@ -5565,11 +5565,17 @@ Aktion
 Großer Saal
 
 #chat_r_ass
-Montage
+Aufbau
 
 #bc_menubdg_expl
 ausgenutzt
 
 #ui_civ_repl
 ersetzt '[x]'.
+
+#warn_moveprim
+Du bist wahrscheinlich dabei, einen Fehler zu machen.....
+
+#warn_moveprim_1
+Der Start des Spiels, indem du deinen gesamten primitiven Stamm bewegst, ist eine SEHR gefährliche Entscheidung, die schnell zu einer Niederlage oder einer längeren Zeit des Stillstands führen kann. Wenn du nicht genau weißt, was du tust, ist es HÖCHST empfehlenswert, dich auf eine Startregion festzulegen: Du kannst später immer mit einer kleineren Gruppe erkunden und dann eine sichere Migration in bessere Länder organisieren.
 

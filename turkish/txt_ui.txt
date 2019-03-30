@@ -1,4 +1,4 @@
-﻿#b_menu_tutorial
+#b_menu_tutorial
 Eğitici
 
 #b_menu_newgame
@@ -47,10 +47,10 @@ Oyunun geliştirilme sürecini takip edin ve planlanmış yeniliklere oy verin.
 Ana menüye dönmek istediğinizden emin misiniz?
 
 #ui_connctstat_1
-Şuanda [x]'e bağlı. Ping: [y]
+Şuanda [x] sunucusuna bağlısınız. Ping: [y]
 
 #ui_connctstat_2
-Kayıp oranı: [x]% ( gönderilen:[y]  hata:[z] )
+Kayıp oranı: [x]% (gönderilen:[y]  hata:[z])
 
 #ui_connct_stable
 Sunucu ile olan bağlantınız stabil.
