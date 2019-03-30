@@ -1,4 +1,4 @@
-﻿#g_ok
+#g_ok
 ok
 
 #g_Ok
@@ -29,28 +29,28 @@ NO
 Apply
 
 #g_low
-low
+낮음
 
 #g_medium
-medium
+중간
 
 #g_high
-high
+높음
 
 #g_of
 of
 
 #g_free
-free
+무료
 
 #g_Free
-Free
+무료
 
 #g_cost
 비용
 
 #g_coins
-주화
+원
 
 #g_upkeep
 유지비
@@ -59,10 +59,10 @@ Free
 유지비
 
 #g_admin
-행정력
+행정
 
 #g_Admin
-행정력
+행정
 
 #g_Admincost
 관리비
@@ -80,22 +80,22 @@ Free
 효율성
 
 #g_resunit
-resource unit
+자원 단위
 
 #g_resunits
-resource units
+자원 단위
 
 #g_Households
 가정
 
 #g_cancel
-cancel
+취소
 
 #g_Cancel
-Cancel
+취소
 
 #g_empty
-empty
+빈
 
 #g_workforce
 노동력
@@ -104,10 +104,10 @@ empty
 노동력
 
 #g_wealth
-부
+부(재산)
 
 #g_WEALTH
-부
+부(재산)
 
 #g_usage
 usage
@@ -122,10 +122,10 @@ None
 none
 
 #g_All
-All
+전부
 
 #g_all
-all
+전부
 
 #g_distribute
 배분
@@ -158,7 +158,7 @@ or
 식민지
 
 #g_reg_claim
-선언하기
+점유
 
 #g_owner
 소유자
@@ -170,7 +170,7 @@ or
 세금
 
 #g_Waste
-Waste
+낭비
 
 #g_Economy
 경제
@@ -188,16 +188,16 @@ Waste
 충성도
 
 #g_conflict
-분쟁
+갈등
 
 #g_Conflict
-분쟁
+갈등
 
 #g_state_culture
-주 문화
+국가 문화
 
 #g_local_culture
-지역 문화
+지방 문화
 
 #g_Growth
 성장력
@@ -206,16 +206,16 @@ Waste
 고용
 
 #g_Vital_needs
-욕구
+필수 욕구
 
 #g_vital_needs
-욕구
+필수 욕구
 
 #g_faction
-팀
+파벌
 
 #g_Faction
-팀
+파벌
 
 #g_Culture
 문화
@@ -245,16 +245,16 @@ Waste
 권력
 
 #g_Legitimacy
-정통성
+정당성
 
 #g_LEGITIMACY
-정통성
+정당성
 
 #g_state_power
-공권력
+국가권력
 
 #g_STATE_POWER
-공권력
+국가권력
 
 #g_Social
 사회
@@ -269,13 +269,13 @@ Waste
 추가
 
 #g_enables
-허용
+활성화 : 
 
 #g_Disable
-비허용
+비활성화 : 
 
 #g_disables
-비허용
+비활성화 : 
 
 #g_price
 가격
@@ -290,13 +290,13 @@ Waste
 서버
 
 #g_increasing_to
-늘리기
+증가
 
 #g_decreasing_to
-줄이기
+감소
 
 #g_stable
-안정적입니다
+안정적
 
 #g_Administation
 관리
@@ -308,40 +308,40 @@ Waste
 돼지들
 
 #g_Load
-승차
+적재
 
 #g_Unload
-하차
+하역
 
 #g_Destroy
 파괴
 
 #g_From
-부터
+From
 
 #g_from
-부터
+from
 
 #g_multiple
-배수
+multiple
 
 #g_confirm
 확인
 
 #g_AT_WAR
-전쟁중
+전쟁상태
 
 #g_NEUTRAL
-중립
+중립상태
 
 #g_AT_PEACE
 평화상태
 
 #g_year
-년도
+년
 
 #g_day
-일수
+일
 
 #g_Rebels
 반란군
@@ -350,10 +350,10 @@ Waste
 자동
 
 #g_noresult
-결과없음
+결과 없음
 
 #g_Fertility
-출산율
+비옥도
 
 #g_Groundwater
 지하수
@@ -383,16 +383,16 @@ Waste
 건축물
 
 #g_Solidity
-Solidity
+강도
 
 #g_solidity
-solidity
+강도
 
 #g_Cover
-Cover
+엄폐
 
 #g_cover
-cover
+엄폐
 
 #g_random
 무작위
@@ -410,7 +410,7 @@ cover
 확실합니까?
 
 #g_Gaia
-가이아지구
+가이아
 
 #g_Primitives
 원시사회
@@ -419,7 +419,7 @@ cover
 반란군들
 
 #g_Partisans
-빨치산들
+신봉자들
 
 #g_Barbarians
 야만인들
@@ -431,22 +431,22 @@ cover
 of
 
 #g_facrk1_1
-족장
+대족장
 
 #g_facrk1_2
 족장
 
 #g_facrk2_1
-족장
+조합장
 
 #g_facrk2_2
-족장
+조장
 
 #g_prmtv_trb
 원시부족
 
 #g_trb_of
-[x] 의 부족
+[x]족
 
 #g_colonialtrty
 식민지 조약
@@ -458,7 +458,7 @@ of
 고대 문화
 
 #g_claim
-선언하기
+점유
 
 #g_territory
 영토
@@ -482,46 +482,67 @@ of
 그리고
 
 #g_Amount
-양
+수량
 
 #g_amount
-양
+수량
 
 #g_Enabled
-허용됨
+유효
 
 #g_enabled
-허용됨
+유효
 
 #g_Disabled
-비허용됨
+무효
 
 #g_disabled
-비허용됨
+무효
 
 #g_per_day
 일당
 
 #g_ev_days
-매 [x] 일당
+매 [x]일당
 
 #g_per_hour
 시간당
 
 #g_ev_hours
-매 [x] 시간당
+매 [x]시간당
 
 #g_per_minut
 매분마다
 
 #g_ev_minuts
-매 [x] 분마다
+매 [x]분마다
 
 #g_per_second
 매초마다
 
 #g_ev_seconds
-매 [x] 초마다
+매 [x]초마다
 
 #g_with
-와
+with
+
+#g_second
+초
+
+#g_seconds
+초만큼
+
+#g_hour
+시간
+
+#g_hours
+시간만큼
+
+#g_day
+일
+
+#g_days
+일수만큼
+
+#g_never
+never

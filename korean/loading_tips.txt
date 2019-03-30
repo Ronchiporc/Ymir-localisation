@@ -1,28 +1,28 @@
-This is a game meant to be complex and hard.
-Any similarities with another species would be purely fortuitous and unintentionnal.
-The economy is never stable. Things are always fluctuating, and that's because it is the result of a dynamic simulation where lots of things continuously influence each other. Do not worry if you cannot get everything to stay still.
-If a porco's income represent 3% of the region's total incomes, his wealth will be 3% of the region's total wealth.
-The income of a social class is shared equitably between all the porcos belonging to that class. The individual income of a porco is therefore an average value based on his social class total income.
-The market study of rare resources will tend to match the wealth of your richest classes while abundant ones will tend to match the wealth of the commoners.
-A porco with a wealth of 2 will be able to fully satisfy his needs of any resource costing 2 coins or less.
-If a resource costs 4 coins, a porco with a wealth of 1 can only satisfy 25% of his need for that resource.
-The wealth of a porco defines his purchasing power, like the resources he can afford to buy to satisfy his needs.
-Wealth is the unit of objective value. It's defined by time spent by a Porco working on anything, regardless of the subjective value (coin prices) his society gives to what he does. 
-Wealth, as a reference universal unit of value, is the same across all regions and players.
-Each Porco spending time working on something produces Wealth proportionnaly to the amount of work done.
-A Porco working in a building with twice the efficiency of another one will produce twice the amount of work in a day, and therefore twice the Wealth.
-The type or price of goods have no effect on Wealth. These things are relative to societies while wealth is an objective universal unit representing time spent working on anything.
-If one Porco earns 10 coins out of 1000 circulating (sum of incomes in the region) but then things change and there's suddenly 2000 circulating, it's like he lost half of what his coins are really worth and he lost half of the region wealth he used to have out if his 10 coins.
-Currencies represent a right to a share of real value, and do not necessarly have value by themselves. In Ymir that "real objective value" is the unit of "Wealth" represented by currencies called "Coins". 
-If the total region wealth was one pie, each coin would give a Porco the right to a slice of it. The size of the slice would depend on how many other coins are circulating (sum of all incomes in the region) .
-A region's sum of all incomes represents the total amount of coins circulating and therefore the ojective value (wealth) each coin represents.
-In ymir, to simplify and avoid the complication of relative currencies, the amount of coins in circulation is set automatically as the sum of all incomes. Therefore the actual value (Wealth) of each coin also fluctuates automatically depending on the total amount of incomes.
-You can still access the resources from a storage building with no workers, but it cannot receive any new ones.
-Any resource distributed and made available to the population (whether its by merchants, producers or anything else) are lost whether they're actually sold or not.
-The price of a resource will always be at least one coin above its production cost to ensure minimum benefits to its producers.
-If an industry produces something highly valued, the producers of its required materials will covet that industry's income and rise the price of their materials.
-Each project has an optimal number of researchers. Beyond that, any extra researchers will only add a minor contribution to the project.
-In a project, each researcher contributes 'research points' based on their intelligence.
-Be careful: assigning researchers to a project reduces the productivity of all buildings employing the same population class.
-You cannot directly control when and what ideas your people will have. Each idea comes with its own hidden conditions.
-In the building tab, you can still choose to build the previous now obsolete version of a building by right-clicking on the building's button.
+이것은 복잡하고 어려운 게임입니다.
+다른 종과의 유사점은 의도치 않은 순전히 우연입니다.
+경제는 결코 안정되지 않고 항상 요동칩니다. 이것은 많은 것들이 서로에게 지속적으로 영향을 받는 동적 시뮬레이션의 결과입니다. 모든 것들이 멈추지 않는 것에는 걱정을 하지 마세요.
+돼지의 수입이 그 지역 전체 소득의 3%를 나타낸다면, 그의 부(재산)는 그 지역 전체 부의 3%가 될 것입니다.
+사회적 계층의 수입은 그 계층에 속하는 모든 돼지들에 균등하게 분배됩니다. 따라서 돼지의 개인소득은 해당 사회계층의 총소득에 근거한 평균치입니다.
+희귀한 자원에 대한 시장 연구는 여러분의 부유한 계층의 부와 일치하는 경향이 있습니다. 반면에 흔한 자원은 평민 계층의 평민의 부와 일치하는 경향이 있습니다.
+부(재산)가 2인 돼지는 동전 2개 이하인 자원으로 욕구를 충분히 충족시킬 수 있습니다.
+자원의 비용이 4개의 동전이라면, 1개의 부(재산)을 가진 돼지는 그 자원에 대한 욕구의 25%만 충족시킬 수 있습니다.
+돼지의 부(재산)은 그의 욕구를 충족시키기 위해 구매할 수 있는 자원을 결정하는 그의 구매력을 뜻합니다.
+부(재산)는 객관적인 가치의 단위입니다. 돼지 한 마리가 어떤 일을 하는 데 소비되는 시간으로 정의됩니다. 사회가 그의 작업으로 주는 주관적인 보상과는 상관없습니다. 
+부(재산)는, 보편적인 가치의 단위기준으로서, 모든 지역과 플레이어에서 동일합니다.
+어떠한 작업에 시간을 보내는 개별 돼지는 작업의 양에 비례하여 부를 생산합니다.
+하나의 돼지가 다른 하나의 돼지보다 두배의 효율을 가진 건물에서 작업을 하고 있다면, 그 돼지는 하루에 두 배로 생산할 것이고, 따라서 두 배의 부(재산)를 생산할 것입니다.
+물품의 종류나 가격은 모두 부(재산)에 영향을 주지 않습니다. 이런 것들은 사회와 관련하여 보편적인 부(재산)인 반면에 어떤 작업에든 소요된 시간만이 객관적 단위를 나타냅니다.
+만약 돼지 한 마리가 1000개의 순환 동전(그의 지역 내 총소득의 합)들 중에서 10개의 동전을 벌고있다가, 갑자기 상황이 변하여 2000개의 순환 동전이 생길 경우에, 그의 동전은 갑자기 반값으로 가치가 하락했으며, 지역 내 전체의 부(재산)의 1%가 0.5%로 바뀐것입니다.
+화폐는 실제 가치의 공유 권리를 나타내며, 그 자체만으로는 반드시 가치가 있는 것이 아닙니다. Ymir에서 "실제 객관적인 가치"는 "동전"이라고 하는 통화로 대표되는 "부(재산)"의 단위입니다.
+지역의 모든 재산이 하나의 파이라 하면, 동전마다 돼지에게 파이 한 조각에 대한 권리를 주는 것입니다. 조각의 크기는 얼마나 많은 다른 동전들이 순환하느냐에 따라 달라집니다.(지역 내 총 소득의 합)
+한 지역에서 순환되는 총 동전 수는 그 지역의 총소득의 합계입니다. 이것은 각 동전이 나타내는 객관적인 가치(부)로 정의됩니다.
+Ymir에서는 화폐의 상호 복잡성을 피하고 단순화되었습니다. 순환하는 동전의 양은 자동적으로 모든 수입의 합계로 정해집니다. 따라서 각 동전의 실제 가치(부)도 총소득량에 따라 자동적으로 변동됩니다.
+노동자가 없는 저장소에서 자원에 접근은 할 수 있지만 새 자원을 받을 수는 없습니다.
+주민들(상인, 생산자, 누구든간에)에게 사용 가능하고 배급되는 모든 자원은 실제 판매 여부와 상관없이 사라집니다.
+자원의 가격은 항상 생산자의 최소 이익을 보장하기 위해 생산 비용보다 최소 한 개 이상의 동전이 됩니다.
+만약 어떤 산업이 매우 가치있는 것을 생산한다면, 산업에서 요구하는 재료의 생산자들은 그 산업의 수입을 탐낼 것이며 그에 따라 재료 가격도 올릴 것입니다.
+각 연구과제에는 최적의 연구자 수가 있습니다. 그 외의 여분의 연구자들은 이 연구과제에 소극적인 기여만 할 것입니다.
+연구과제에서 각 연구자는 자신의 지능을 바탕으로 '연구 포인트'에 기여합니다.
+주의: 연구과제에 연구자를 할당하면 동일한 주민 계층을 사용하는 모든 건물의 생산성이 감소합니다.
+여러분은 주민들의 발상과 생각들을 직접 통제할 수 없습니다. 각각의 발상들은 숨겨진 조건을 가지고 있습니다. 
+건물 탭에서 건물 버튼을 오른쪽 클릭으로 이제 쓸모 없어지거나 이전 구식의 건물을 선택할 수 있습니다.
