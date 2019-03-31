@@ -1,5 +1,5 @@
 #g_ok
-ok
+알겠습니다
 
 #g_Ok
 Ok
@@ -8,7 +8,7 @@ Ok
 OK
 
 #g_Yes
-Yes
+예
 
 #g_yes
 yes
@@ -17,7 +17,7 @@ yes
 YES
 
 #g_No
-No
+아니오
 
 #g_no
 no
@@ -26,7 +26,7 @@ no
 NO
 
 #g_Apply
-Apply
+적용
 
 #g_low
 낮음
@@ -491,13 +491,13 @@ of
 유효
 
 #g_enabled
-유효
+적용됨
 
 #g_Disabled
 무효
 
 #g_disabled
-무효
+적용되지 않음
 
 #g_per_day
 일당
