@@ -2831,7 +2831,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 (지역 민병대라서 동원된 인구 없음)
 
 #ui_recruit_cost_1
-1개 단원 모집 비용
+개별 유닛 모집 비용
 
 #ui_recruit_cost_2
 훈련 비용과 장비 가격을 합산합니다.
@@ -2882,7 +2882,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 현재 비활성: [x]
 
 #ui_recruit_rcrt
-모병
+모집
 
 #ui_recruit_dsbd
 해제
@@ -4631,7 +4631,7 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 마지막 로그인
 
 #gamelob_lstlogt
-[x] 전에
+[x] 전
 
 #gamelob_lstlog_c
 이 캐릭터가 로그인한 마지막 시간: [x]
@@ -4751,7 +4751,7 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 세습
 
 #facttl_rplcm_c1
-이 계급이 비활동 되었을 때에 세습 방법.
+이 계급이 비활성 되었을 때에 세습 방법.
 
 #frplcm_e1
 선거(직접)
@@ -4787,7 +4787,7 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 해체 설정
 
 #facttl_mngter_c1
-다른 국가 구성원들에게 비활동적인 부하들의 영토를 직접 재분배를 어떻게할지에 대한 이 계급의 설정.
+다른 국가 구성원들에게 비활성인 부하들의 영토를 직접 재분배를 어떻게할지에 대한 이 계급의 설정.
 
 #facttl_sub1
 직계 부하
@@ -4874,7 +4874,7 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 재배치
 
 #facmmb_rplc_c1
-이 캐릭터는 비활동적이며, 여러분이 상관으로써, 그를 대신할 당신의 부하들 사이에서 후계자를 지명할 수 있게 해줍니다.
+이 캐릭터는 비활성 상태입니다. 여러분이 상관이라면, 그를 대신할 당신의 부하들 사이에서 후계자를 지명할 수 있습니다.
 
 #facmmb_tax
 세금
