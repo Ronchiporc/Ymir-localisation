@@ -242,7 +242,7 @@ Receive [x] of food
 Triggers event
 
 #effect_givcoin
-Recive [x] coins
+Receive [x] coins
 
 #effect_setcoin
 Treasury set to [x] coins
@@ -275,7 +275,7 @@ You receive [x] of loot.
 The formation is immediately attacked by [x] primitives.
 
 #effect_unitloss
-[x]% of the formation's porcos are lost.
+[x]% of the formation's Porcos are lost.
 
 #effect_nbdeath
 Lose [x] random unit in the formation.
@@ -377,25 +377,25 @@ Rebellion risk in [x]
 The loyalty of [x] is very low and there is a high risk of imminent rebellion of its population! We need to do something about it...
 
 #event_rsk_upris_2
-Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leaderboard to see your final score.
+Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leader board to see your final score.
 
 #event_revolt
 Popular revolt in [x]!
 
 #event_revolt_1
-The population of [x] are revolting against us and rebels are trying to take control of the city! If they suceed, we will lose control of this territory!
+The population of [x] are revolting against us and rebels are trying to take control of the city! If they succeed, we will lose control of this territory!
 
 #event_revolt_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]% of the population are taking arms and rebelling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
 
 #event_br_revolt
 Revolt thwarted in [x]
 
 #event_br_revolt_1
-The population of [x] revolted against your government because of low loyalty, and rebels unsucessfully tried to take control of the city.
+The population of [x] revolted against your government because of low loyalty, and rebels unsuccessfully tried to take control of the city.
 
 #event_br_revolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% of the population took arms and rebelled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
 
 #event_br_lstrevolt
 [x] was lost to rebels!
@@ -404,16 +404,16 @@ The population of [x] revolted against your government because of low loyalty, a
 The population of [x] revolted against us and rebels managed to take control of the city. Losing control of one of our cities to rebels has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost 25 of honor.
 
 #event_br_lstrevolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% of the population took arms and rebelled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
 
 #event_partis
 Partisans uprising in [x]!
 
 #event_partis_1
-There is an active Resistance movement in [x], and partistans loyal to the [y] have just launched an attack to try take control of the city. If they suceed, we will lose control of this territory and [p7] of honor!
+There is an active Resistance movement in [x], and partisans loyal to the [y] have just launched an attack to try take control of the city. If they succeed, we will lose control of this territory and [p7] of honor!
 
 #event_partis_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]% of the population are taking arms and rebelling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
 
 #event_br_partis
 Partisans defeated in [x]
@@ -422,7 +422,7 @@ Partisans defeated in [x]
 Good news! There was an attempt from the Resistance movement in [x] loyal to the [y] to retake control of the city, but their uprising was defeated and the resistance movement was weakened by this defeat!
 
 #event_br_partis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% of the population took arms and rebelled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
 
 #event_br_lstpartis
 [x] was lost to partisans!
@@ -431,7 +431,7 @@ Good news! There was an attempt from the Resistance movement in [x] loyal to the
 Terrible news: the Resistance movement of [x], loyal to the [y], has launched an uprising and partisans have managed to take control of the city. Losing to a Resistance movement has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost [p7] of honor.
 
 #event_br_lstpartis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% of the population took arms and rebelled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
 
 #event_Ab_pitch
 Attacking [x] of [y]
@@ -455,7 +455,7 @@ They faced us with [p3] soldiers.
 '[x]' are under attack by [y]
 
 #event_Db_pitch_1
-'[x]' are beeing engaged in pitch battle by an army of [y].
+'[x]' are being engaged in pitch battle by an army of [y].
 
 #event_Db_pitch_2
 Our [p2] soldiers are facing [p3] enemy soldiers.
@@ -476,7 +476,7 @@ Invading [x]
 We're launching an assault on [x] with [p2] soldiers to invade and take control of the territory.
 
 #event_Ab_invad_2
-To suceed we must eliminate all the enemies and defenses of the territory. They're defending it with [p3] soldiers.
+To succeed we must eliminate all the enemies and defenses of the territory. They're defending it with [p3] soldiers.
 
 #event_Abr_invad
 Invasion of [x]
@@ -512,13 +512,13 @@ Attacking [x]
 We're launching an assault on [x] with [p2] soldiers to eliminate all enemy forces in the territory.
 
 #event_Ab_elim_2
-To suceed we must eliminate all the enemies and defenses of the territory. Our troops will prioritize engaging all hostile forces in presence. Some minor pillage might occur on the way if the opportunity arises. They will leave the territory once done. They're defending it with [p3] soldiers.
+To succeed we must eliminate all the enemies and defenses of the territory. Our troops will prioritize engaging all hostile forces in presence. Some minor pillage might occur on the way if the opportunity arises. They will leave the territory once done. They're defending it with [p3] soldiers.
 
 #event_Abr_elim
 Attack of [x]
 
 #event_Abr_elim_1
-We launched an assault on [x] with [p2] soldiers to eliminate all ennemies in the territory.
+We launched an assault on [x] with [p2] soldiers to eliminate all enemies in the territory.
 
 #event_Abr_elim_2
 They defended it with [p3] soldiers.
@@ -620,7 +620,7 @@ Assisting [y] in defense of [x]
 [y] is under attack in [x]. 
 
 #event_Db_assist_2
-As an ally, our [p2] troops are participating to the battle and assissting in its defense against [p3] enemies.
+As an ally, our [p2] troops are participating to the battle and assisting in its defense against [p3] enemies.
 
 #event_Dbr_assist
 Assisted [y] in defense of [x]
@@ -638,7 +638,7 @@ Assisting [y] in the attack of [x]
 [y] is attacking [y]. 
 
 #event_Ab_assist_2
-As an ally of [y], our troops are participating to the battle and assissting his armies.
+As an ally of [y], our troops are participating to the battle and assisting his armies.
 
 #event_Abr_assist
 Assisted [y] in the attack of [x]
@@ -647,7 +647,7 @@ Assisted [y] in the attack of [x]
 [y] attacked [y]. 
 
 #event_Abr_assist_2
-As an ally of [y], our troops participated to the battle and assissted his armies.
+As an ally of [y], our troops participated to the battle and assisted his armies.
 
 #event_hunt
 Hunting [p2] [p3]
@@ -671,10 +671,10 @@ They attempted to kill as much of these animals as they could to fill their inve
 Indebted !
 
 #event_debt_1
-We are currently indebted of [p1] coins in our trasury. Beeing in debt reduces our State power and affects the loyalty of our cities and armies.
+We are currently indebted of [p1] coins in our treasury. Being in debt reduces our State power and affects the loyalty of our cities and armies.
 
 #event_debt_2
-We need to put back our state income balance in the green or we'll get in serious trouble. If the situation is desperate, we can also take a last resort decision of cancelling our debt but this will generate great unrest in our state.
+We need to put back our state income balance in the green or we'll get in serious trouble. If the situation is desperate, we can also take a last resort decision of canceling our debt but this will generate great unrest in our state.
 
 #event_c_canceldebt
 Cancel the debt
@@ -683,7 +683,7 @@ Cancel the debt
 Confirm canceling the debt?
 
 #event_confcdebt_1
-Are you sure you want to declare our debt nul and void ? 
+Are you sure you want to declare our debt null and void ? 
 
 #event_confcdebt_2
 With a debt of [p1] coins and a GDP of [p2], our debt currently represents [p3]% of our GDP: if we cancel it, we will suffer an estimated penalty of [p4] loyalty in all our territories and you will lose about [p5] of honor!
@@ -692,7 +692,7 @@ With a debt of [p1] coins and a GDP of [p2], our debt currently represents [p3]%
 Debt canceled!
 
 #event_canceldebt_1
-We took the drastic measure of declaring our debt of [p1] coins nul and void, anouncing that we would not be paying back what we owed.
+We took the drastic measure of declaring our debt of [p1] coins null and void, announcing that we would not be paying back what we owed.
 
 #event_canceldebt_2
 In all our cities, the creditors of our debt are revolted that they're never getting paid what we owed them. Many people lost everything and are ruined as a consequence. The economy is destabilized and in great turmoil, not to mention the loss of the people's trust in their government. 
@@ -707,7 +707,7 @@ Negative state power!
 State power is the capacity of your state to manage things. Without it, we will be unable to pass reforms and the loyalty of our territories is negatively impacted which may lead to popular rebellions.
 
 #event_lowpow_2
-State power can be improved by : owning less cities, having no debt, revoquing expensive policies.
+State power can be improved by : owning less cities, having no debt, revoking expensive policies.
 
 #event_lowlegit
 Negative legitimacy!
@@ -725,10 +725,10 @@ Stolen territory
 Beware! By creating our newest settlement of [x], we have usurped the lands of a primitive tribe that has been living there for generations. Sure, this territory looked appealing, but we will eventually pay the consequences of this action for the natives will not tolerate our presence forever.
 
 #event_tribwarn_2
-For now, they only watched us set camp from afar but they know these lands better than anyone and disapear everytime we try to approach them. I'm afraid we won't be able to 'deal with them' before they choose to cause trouble... We should prepare for a possible surprise attack by them. They might be preparing weapons and warriors to chase us from their lands as we speak! Or maybe this land is not worth the trouble after all and we could just pack up and leave them be?
+For now, they only watched us set camp from afar but they know these lands better than anyone and disappear every time we try to approach them. I'm afraid we won't be able to 'deal with them' before they choose to cause trouble... We should prepare for a possible surprise attack by them. They might be preparing weapons and warriors to chase us from their lands as we speak! Or maybe this land is not worth the trouble after all and we could just pack up and leave them be?
 
 #event_tribreb
-Primitive tribe uprsiging in [x]!
+Primitive tribe uprising in [x]!
 
 #event_tribreb_1
 The natives living in our territory of [x] have grown upset of having what they feel to be their territory occupied by us. They have taken arms and decided to treacherously attack!
@@ -746,10 +746,10 @@ Treaty with [y] signed
 Our treaty with [x] of [y] has been approved and signed by us both and is now effective!
 
 #event_trt_rngoc
-[y] is proposing a treaty renegociation
+[y] is proposing a treaty renegotiation
 
 #event_trt_rngoc_1
-[x] of [y] is proposing the following renogication of a treaty we currently have with them. If we agree to these new terms, the treaty will be updated.
+[x] of [y] is proposing the following renegotiation of a treaty we currently have with them. If we agree to these new terms, the treaty will be updated.
 
 #event_trt_asktrm
 [y] is asking to terminate a treaty
@@ -761,7 +761,7 @@ Our treaty with [x] of [y] has been approved and signed by us both and is now ef
 [x] has broken a treaty!
 
 #event_trt_brk1_1
-[x] has illegaly broken the treaty of '[y]' they had with us!
+[x] has illegally broken the treaty of '[y]' they had with us!
 
 #event_trt_brk1_2
 According to the treaty's breaking terms, we have received [p1] coins in compensation and they lost [p2] of honor.
@@ -770,7 +770,7 @@ According to the treaty's breaking terms, we have received [p1] coins in compens
 We have broken a treaty with [x]!
 
 #event_trt_brk2_1
-We have illegaly broken the treaty of '[y]' we had with [x].
+We have illegally broken the treaty of '[y]' we had with [x].
 
 #event_trt_brk2_2
 According to the treaty's breaking terms, as a penalty we have paid [p1] coins and lost [p2] of honor.
@@ -794,19 +794,19 @@ They might be here soon and attempt to quickly raid our warehouses. We must get 
 Incoming barbarian warband!
 
 #event_brb_sack_1
-Our scouts report that a barbarian warband of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+Our scouts report that a barbarian warband of around [p1] Pocros has left the nearby territory of [x] and are coming our way.
 
 #event_brb_sack_2
-They might be here soon and will attack to overcome all our defenses beofre sacking the whole territory! We must get our defenses ready! 
+They might be here soon and will attack to overcome all our defenses before sacking the whole territory! We must get our defenses ready! 
 
 #event_brb_inv
 Incoming barbarian invaders!
 
 #event_brb_inv_1
-Our scouts report that an army of barbarians of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+Our scouts report that an army of barbarians of around [p1] Pocros has left the nearby territory of [x] and are coming our way.
 
 #event_brb_inv_2
-They might be here soon and they dont seem to be coming just to pillage, but to invade our lands! We must get our defenses ready! 
+They might be here soon and they do not seem to be coming just to pillage, but to invade our lands! We must get our defenses ready! 
 
 #event_crsh_vict
 Crushing victory!
@@ -824,7 +824,7 @@ Grave news : our formation <<[x]>> has been utterly crushed and eliminated by th
 The people of [x] is defending the city!
 
 #event_popdefrise_1
-The people of the city of [x] are taking arms by themselves to help defend the city against the attackers. [p1] porcos are joining the battle!
+The people of the city of [x] are taking arms by themselves to help defend the city against the attackers. [p1] Porcos are joining the battle!
 
 #event_trout_w1
 Trade route warning: no trading rights!
@@ -833,7 +833,7 @@ Trade route warning: no trading rights!
 Because we no longer have trading rights with the city of [y], our trade route between this city and [x] will close soon unless we fix this issue quickly. 
 
 #event_trout_w1_2
-This can happen if the city has a new owner with whom we havn't negociated trading rights, or if these rights have been revoked.
+This can happen if the city has a new owner with whom we have not negotiated trading rights, or if these rights have been revoked.
 
 #event_trout_b1
 Trade route broken!
@@ -842,7 +842,7 @@ Trade route broken!
 Because we no longer had trading rights with the city of [y], our trade route between this city and [x] closed. 
 
 #event_trout_b1_2
-This happened because the city got a new owner with whom we havn't negociated trading rights or if because the trading rights were revoked.
+This happened because the city got a new owner with whom we have not negotiated trading rights or if because the trading rights were revoked.
 
 #event_trout_w2
 Trade route warning: missing cargo!
@@ -854,7 +854,7 @@ Our trade route with [x] operated by [y] is missing [p2] of cargo to be operated
 The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
 
 #event_trout_w2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+However, this operator no longer produces enough of the required cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
 
 #event_trout_b2
 Trade route broken!
@@ -866,7 +866,7 @@ Our trade route with [x] closed because its operator [y] was unable to provide t
 The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
 
 #event_trout_b2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+However, this operator no longer produces enough of the required cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
 
 #event_trout_w3
 Trade route warning: we are missing goods!
@@ -893,7 +893,7 @@ Trade route warning: exporter is missing goods!
 Our trade route importing [p2] [p3] from [y] to [x] is lacking the required goods and might close soon unless the exporter fix this issue quickly!
 
 #event_trout_w4_2
-This is happening because their production of [p3] in [y] is insufficent and their stocks ran out.
+This is happening because their production of [p3] in [y] is insufficient and their stocks ran out.
 
 #event_trout_b4
 Trade route broken!
@@ -902,7 +902,7 @@ Trade route broken!
 Our trade route importing [p2] [p3] from [x] to [y] closed because they could no longer provide the required goods.
 
 #event_trout_b4_2
-This happened because their production of [p3] in [x] was insufficent and their stocks had ran out.
+This happened because their production of [p3] in [x] was insufficient and their stocks had ran out.
 
 #event_trout_c1
 [x] closed a trade route!
@@ -914,7 +914,7 @@ The city of [x] closed their trade route of [p2] [p3] with our city of [y].
 One of our trade routes was closed by its operator!
 
 #event_trout_c2_1
-The city of [x] has decided to stop operating our trade route of [p2] [p3] with our city of [y]. This resulted in the trade route beeing closed.
+The city of [x] has decided to stop operating our trade route of [p2] [p3] with our city of [y]. This resulted in the trade route being closed.
 
 #event_cdog
 A hunter tamed some wild dogs in [x]!
@@ -926,13 +926,13 @@ Some wild dogs have been wandering around the village of [x] lately. The animals
 We have tamed some wild sheep in [x]!
 
 #event_csheep_1
-Some wild sheep have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks! They are also quite fluffy.
+Some wild sheep have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they do not leave. We should keep them until we need fresh meat, its always good to have food stocks! They are also quite fluffy.
 
 #event_cgoat
 We have tamed some wild goats in [x]!
 
 #event_cgoat_1
-Some wild goats have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Some wild goats have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they do not leave. We should keep them until we need fresh meat, its always good to have food stocks!
 
 #event_crabbit
 Hunters have captured some wild rabbits in [x]!
@@ -941,7 +941,7 @@ Hunters have captured some wild rabbits in [x]!
 The hunters of [x] got lucky and have managed to capture some rabbits alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
 
 #event_cchick
-Hunters have catched some wild chicken in [x]!
+Hunters have caught some wild chicken in [x]!
 
 #event_cchick_1
 The hunters of [x] got lucky and have managed to capture some chickens alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
@@ -950,13 +950,13 @@ The hunters of [x] got lucky and have managed to capture some chickens alive and
 We have tamed some wild cows in [x]!
 
 #event_ccow_1
-Some wild cows have been wandering around the village of [x] lately. These animals seemed passive, and one villager managed to direct them to a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Some wild cows have been wandering around the village of [x] lately. These animals seemed passive, and one villager managed to direct them to a small closed paddock to make sure they do not leave. We should keep them until we need fresh meat, its always good to have food stocks!
 
 #event_cbuff
-We have tamed some wild buffalos in [x]!
+We have tamed some wild buffaloes in [x]!
 
 #event_cbuff_1
-Some wild buffalos have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Some wild buffaloes have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they do not leave. We should keep them until we need fresh meat, its always good to have food stocks!
 
 #event_chorse
 Hunters captured some wild horses in [x]!
@@ -974,7 +974,7 @@ The hunters of [x] got lucky and have managed to capture some wild camels. They 
 We have tamed some wild llamas in [x]!
 
 #event_cllama_1
-Some wild llamas have been wandering around the village of [x] lately. These animals seemed quite friendly - to the extent of a stubborn spitting llama - and one villager managed to push them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+Some wild llamas have been wandering around the village of [x] lately. These animals seemed quite friendly - to the extent of a stubborn spitting llama - and one villager managed to push them in a small closed paddock to make sure they do not leave. We should keep them until we need fresh meat, its always good to have food stocks!
 
 #event_projsuc
 Our project '[x]' was successfully completed!
@@ -989,7 +989,7 @@ Our Project '[x]' failed!
 Our project of '[x]' with [p2]% chances of success has been completed, but unfortunately it failed to meet its expectations and we have not earned its expected rewards. I'm afraid we have to start again from scratch and hope for better results...
 
 #event_projfail_2
-A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We should try to assign better researchers to increase our chaces of success next time!
+A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We should try to assign better researchers to increase our chances of success next time!
 
 #event_herd
 Herd of [p2] spotted near [x]!
@@ -1043,7 +1043,7 @@ Should we welcome them into our tribe ?
 Stormy night in [x]
 
 #ev_stormwood_1
-A violent storm raged all night in [x], with strong winds. Luckily, nooone was harmed and the village didn't sustain any damage.
+A violent storm raged all night in [x], with strong winds. Luckily none were harmed and the village didn't sustain any damage.
 
 #ev_stormwood_2
 In the morning however, the villagers noticed that a few tall old trees had fallen nearby, making it an easy free supply of wood! 
@@ -1052,13 +1052,13 @@ In the morning however, the villagers noticed that a few tall old trees had fall
 Lucky gatherer in [x]
 
 #ev_luckgath_1
-One of our gatherers got lucky and stumbled upon a previously undiscovered patch of edible plants hidden in the vegetation that noone had previously noticed! That is one good harvest for the day!
+One of our gatherers got lucky and stumbled upon a previously undiscovered patch of edible plants hidden in the vegetation that none had previously noticed! That is one good harvest for the day!
 
 #ev_nagwif
 The nagging wife
 
 #ev_nagwif_1
-One porco of the village of [x], exasperated by the constant naggings of his Sow, decided to go on a lonely retreat in the wilderness to hunt and thus he disapeared for several days. 
+One Porco of the village of [x], exasperated by the constant nagging of his Sow, decided to go on a lonely retreat in the wilderness to hunt and thus he disappeared for several days. 
 
 #ev_nagwif_2
 Many feared he would never return. But on the 5th day he came back, carrying with him the spoils of what had turned out to be a greatly successful hunt. He was cheered by the whole tribe. His wife however was not pleased and left with her piglets to live at her mother's tribe on the other side of valley.
@@ -1067,7 +1067,7 @@ Many feared he would never return. But on the 5th day he came back, carrying wit
 Hungry wolves in [x]!
 
 #ev_regwolf_1
-A pack of hungry wolves has arrived in the territory of [x], probably attracted by our food stocks! During the night, they woke up the whole tribe with their frightening howlings which which got closer and closer. At dawn, their dark silhouettes were spotted around the village.
+A pack of hungry wolves has arrived in the territory of [x], probably attracted by our food stocks! During the night, they woke up the whole tribe with their frightening howling which which got closer and closer. At dawn, their dark silhouettes were spotted around the village.
 
 #ev_regwolf_2
 All the warriors rushed to their weapons and gathered, ready to fight off the incoming wolf pack and to protect the village's people and stocks!
@@ -1103,13 +1103,13 @@ Offer them asylum and fight off their pursuers.
 Capture these fugitives and offer them to justice of their pursuers for a reward.
 
 #ev_knowtrav
-The knowledgable traveler
+The knowledgeable traveler
 
 #ev_knowtrav_1
-One day, an old pig arrived in our village of [x], his feet weary from the many travels he had made. He was a lonely hermit, living and travelling alone for many years now. 
+One day, an old pig arrived in our village of [x], his feet weary from the many travels he had made. He was a lonely hermit, living and traveling alone for many years now. 
 
 #ev_knowtrav_2
-He told the tale of the ancient people he belonged to, who perished a long time ago from a mysterious desease that he was the only one to miraculously recover from, fleeing away from his land. He also told stories of how his people used to live: incredible stories about things they did that noone here had ever though off. There was much to learn from his teachings as he seemed to come from a more refined a mysterious people. 
+He told the tale of the ancient people he belonged to, who perished a long time ago from a mysterious disease that he was the only one to miraculously recover from, fleeing away from his land. He also told stories of how his people used to live: incredible stories about things they did that none here had ever though off. There was much to learn from his teachings as he seemed to come from a more refined a mysterious people. 
 
 #ev_knowtrav_3
 But the wonder and influence he gained amongst the tribe started to upset its more dominant members who felt their position threatened... What should we do about it ?
@@ -1124,7 +1124,7 @@ Ban the oldpig of the village for his lies.
 Gift of friendship in [x]
 
 #ev_frndgift_1
-A group of nomad travellers passed through our small village of [x]. They stayed for a few days, sharing stories and befriending some of our locals. Pleased by our hospitality, they gifted us with some of their belongings as a token of friendship, before bidding us farewell and moving on with their journey.
+A group of nomad travelers passed through our small village of [x]. They stayed for a few days, sharing stories and befriending some of our locals. Pleased by our hospitality, they gifted us with some of their belongings as a token of friendship, before bidding us farewell and moving on with their journey.
 
 #ev_vp_complet
 Victory mission completed!
@@ -1151,16 +1151,16 @@ A group of 10 warriors had been wandering the lands for many moons before arrivi
 "No, we cannot support new people right now."
 
 #ev_exceptool
-Exceptionnal tools
+Exceptional tools
 
 #ev_exceptool_1
-One of the tribe's most skilled craftspig found stones of unusual solidity and hardness and he managed to craft a few tools of exceptionnal quality out of it!
+One of the tribe's most skilled craftspig found stones of unusual solidity and hardness and he managed to craft a few tools of exceptional quality out of it!
 
 #ev_spdboost
 Speed boost!
 
 #ev_spdboost_1
-As a newly created character, to enjoy a dynamic start you are awarded a temporary x[x] SPEED BOOST during your first [y] minuts of playing!
+As a newly created character, to enjoy a dynamic start you are awarded a temporary x[x] SPEED BOOST during your first [y] minutes of playing!
 
 #ev_spdboost_2
 This bonus, as long as it remains active, modifies the following stats of your character:
@@ -1181,7 +1181,7 @@ This bonus, as long as it remains active, modifies the following stats of your c
 [x] rebelled and wishes to join us.
 
 #ev_rebljoin_1
-Good news: the city of [x] rebelled against its opressors of [y]. The city is free at last and the popuation, feeling culturally attached to us, now wishes to rejoin our glorious nation! 
+Good news: the city of [x] rebelled against its oppressors of [y]. The city is free at last and the population, feeling culturally attached to us, now wishes to rejoin our glorious nation! 
 
 #ev_rebljoin_2
 If we accept, we will regain ownership and control of this territory. If we refuse, they will remain ruled by rebels.
@@ -1199,7 +1199,7 @@ Heirdom
 [x] is now inactive and his position is up for succession. He designated you as his heir, and you can therefore immediately take his place within the Nation.
 
 #ev_heirprop_2
-If you agree, your positions will be immediately swapped: you will inherit his rank and subordinates while he inherits yours, becoming your own subordinate. Depending on your new title's priviledges, you might then be able to remove him entirely from the Nation, dismantle his territories, or reorganize the hierarchy to recover your past subordinates or move him further down.
+If you agree, your positions will be immediately swapped: you will inherit his rank and subordinates while he inherits yours, becoming your own subordinate. Depending on your new title's privileges, you might then be able to remove him entirely from the Nation, dismantle his territories, or reorganize the hierarchy to recover your past subordinates or move him further down.
 
 #ev_heirprop_c1
 Accept
@@ -1250,7 +1250,7 @@ You won the election with [p3] votes in your favor out of [p4] cast votes.
 "Yes, proceed!"
 
 #ev_xplrch_nvrmnd
-"No. Nevermind."
+"No. Never mind."
 
 #ev_xplrch_leave
 Leave.
@@ -1259,7 +1259,7 @@ Leave.
 Bandits ambushed our formation '[x]'!
 
 #ev_xplr_bdts_1
-While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troup had with them.
+While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troupe had with them.
 
 #ev_xplr_bdts_2
 Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on both sides, surrounding our troops. Their leader moved forwarded, and made a simple demand: "Give us all yerr loot or be bacon!". What should we do?
@@ -1271,16 +1271,16 @@ Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on b
 Give them what they want.
 
 #ev_xplr_abvil
-'[x]' found an abandonned village.
+'[x]' found an abandoned village.
 
 #ev_xplr_abvil_1
-While exploring the lands, our group '[x]' stumbled upon the remains of an abonned primitive village of a few huts. Cautiously, the Porcos started to inspect these remains and came to the conclusion that whomever lived there are now long gone. "They seem to have abandonned many things here. Who knows for what reasons the people who lived there decided to leave, but they didnt take much with them!", concluded the group leader.
+While exploring the lands, our group '[x]' stumbled upon the remains of an abandoned primitive village of a few huts. Cautiously, the Porcos started to inspect these remains and came to the conclusion that whomever lived there are now long gone. "They seem to have abandoned many things here. Who knows for what reasons the people who lived there decided to leave, but they did not take much with them!", concluded the group leader.
 
 #ev_xplr_abvil_2
 Although many things have spoiled or decayed with time, some still appear to be in good enough condition to be of interest to us. Should we search the village and scavenge what we can ?
 
 #ev_xplr_abvil_c1
-"Yes, search the abandonned village and let's take what we can!"
+"Yes, search the abandoned village and let's take what we can!"
 
 #ev_xplr_abvil_c2
 "No, let's leave things as they are, we have no time for this."
@@ -1289,22 +1289,22 @@ Although many things have spoiled or decayed with time, some still appear to be 
 Fearless birds
 
 #ev_xplr_birds_1
-'[x]' were camping in a forest after a long day of walking in these unknown lands. Night was coming, and all the porcos were gathered around campfires. That's they heard a noise in a nearby bush, from which emerged a bunch of dumblooking fat birds unknown to them. The beasts seemed oblivious of their presence, picking on things on the forest floor as if they were alone on earth.
+'[x]' were camping in a forest after a long day of walking in these unknown lands. Night was coming, and all the Porcos were gathered around campfires. That's they heard a noise in a nearby bush, from which emerged a bunch of dumb looking fat birds unknown to them. The beasts seemed oblivious of their presence, picking on things on the forest floor as if they were alone on earth.
 
 #ev_xplr_birds_2
-"Well... Looks like fresh meat's back on the menu, boys!", grinned the group's leader: by morning, all the birds had went to meet their maker. What a lucky hunt! The group, in the morning, left with a fullbelly and a new stocks of fresh meat.
+"Well... Looks like fresh meat's back on the menu, boys!", grinned the group's leader: by morning, all the birds had went to meet their maker. What a lucky hunt! The group, in the morning, left with a full belly and a new stocks of fresh meat.
 
 #ev_xplr_hsttrib
 '[x]' is attacked by an hostile tribe!
 
 #ev_xplr_hsttrib_1
-Bad news! While '[x]' was walking across new unknown lands, they suddenly found themselves surrounded by a group of a demi-dozen hostile natives. They came from nowhere... We probably stepped to close to their territory, or maybe they just don't like our snouts. Before the porcos could even realize what was happening, the primitive warriors was already attacking...
+Bad news! While '[x]' was walking across new unknown lands, they suddenly found themselves surrounded by a group of hostile natives. They came from nowhere... We probably stepped too close to their territory, or maybe they just don't like our snouts. Before the Porcos could even realize what was happening, the primitive warriors were already attacking...
 
 #ev_xplr_thirst
 Unforgiving desert
 
 #ev_xplr_thirst_1
-Our formation '[x]' wandered too far in unknown arid lands. For days, they could not find any source of fresh water. The porcos desperately searched for water, but it was no easy task in these desertic foreign lands. By the time they found a muddy puddle to quench their thrist, many of them had been lost to the vultures and the unforgiving sun of these lands.
+Our formation '[x]' wandered too far in unknown arid lands. For days, they could not find any source of fresh water. The Porcos desperately searched for water, but it was no easy task in these foreign, desert lands. By the time they found a muddy puddle to quench their thirst, many of them had been lost to the vultures and the unforgiving sun of these lands.
 
 #ev_xplr_thirst_2
 Maybe we should have avoided venturing too far in such an hostile territory.  
@@ -1313,22 +1313,22 @@ Maybe we should have avoided venturing too far in such an hostile territory.
 Lost in the jungle
 
 #ev_xplr_lstjngl_1
-The porcos of '[x]' had been wondering in this bloody jungle for days, harassed by the heat and lost. It wasnt long before the one group turned into 2 groups... "Hey Mr Jenkins, I swear i already saw this damn tree 2 days ago!" said Porkypigs. "Common, maybe we'll find the rest of the group soon! Let's keep waking!". But they never did. However, they did find a nest of flesh eating flies the size of a hand when Mr Jenkins decided it was a good time to poke a suspicious hole in a tree with a stick in an attempt to find something to eat.
+The Porcos of '[x]' had been wondering in this bloody jungle for days, harassed by the heat and lost. It was not long before the one group turned into 2 groups... "Hey Mr. Jenkins, I swear i already saw this damn tree 2 days ago!" said Porkypigs. "Common, maybe we'll find the rest of the group soon! Let's keep waking!". But they never did. However, they did find a nest of flesh eating flies the size of a hand when Mr. Jenkins decided it was a good time to poke a suspicious hole in a tree with a stick in an attempt to find something to eat.
 
 #ev_xplr_lstjngl_c1
-"Bloody Mr Jenkins!" 
+"Bloody Mr. Jenkins!" 
 
 #ev_xplr_strvtrib
 The starving tribe
 
 #ev_xplr_strvtrib_1
-The porcos of '[x]' had spotted a small group of people away from them, walking on the side of a hill. The next day, in the morning, the same group was spotted again, this time closer, and the Porcos decided to go meet them: it was a small group of a few families, with piglets and sows, and they didnt seem to be of any threat.
+The Porcos of '[x]' had spotted a small group of people away from them, walking on the side of a hill. The next day, in the morning, the same group was spotted again, this time closer, and the Porcos decided to go meet them: it was a small group of a few families, with piglets and sows, and they did not seem to be of any threat.
 
 #ev_xplr_strvtrib_2
-When moving closer, their condition became horrifyingly clear: these people were walking skelettons, starving. They walked slowly, and in their eyes was no hope. They didn't seem to notice the presence of the group getting closer to them until one of us stepped litteraly in front of them.
+When moving closer, their condition became horrifyingly clear: these people were walking skeletons, starving. They walked slowly, and in their eyes was no hope. They didn't seem to notice the presence of the group getting closer to them until one of us stepped literally in front of them.
 
 #ev_xplr_strvtrib_3
-We offered them some of our provisions, and it wasn't before the 2nd day that they finaly exchanged a few words with the group and told us their story. They used to be a bigger and prosperous tribe, living of hunting and gathering until they were chased away from their lands by a more powerful tribe. They had lost all their precious tools and weapons, and most of the strongest Porcos of their tribe had died fighting. Since then, the survivors had wandered the land unable to hunt, slowly starving.
+We offered them some of our provisions, and it wasn't before the 2nd day that they finally exchanged a few words with the group and told us their story. They used to be a bigger and prosperous tribe, living of hunting and gathering until they were chased away from their lands by a more powerful tribe. They had lost all their precious tools and weapons, and most of the strongest Porcos of their tribe had died fighting. Since then, the survivors had wandered the land unable to hunt, slowly starving.
 
 #ev_xplr_strvtrib_c1
 "Join us, we will offer you a new home!"
@@ -1340,19 +1340,19 @@ We can't take care of these people. Let's wish them good luck and move on.
 Snakes in a plain
 
 #ev_xplr_snakes_1
-Our formation '[x]' was slowly crossing a seemingly endless plain covered in tall thick grass the height of a porco when one of them felt a sharp pain on his feet: he had been bitten by a colorfull snake that quickly disapeared in the grass. There was nothing we could do for the poor bastard: in a few minuts his leg had doubled volume and he met a gruesome death.
+Our formation '[x]' was slowly crossing a seemingly endless plain covered in tall thick grass the height of a Porco when one of them felt a sharp pain on his feet: he had been bitten by a colorful snake that quickly disappeared in the grass. There was nothing we could do for the poor bastard: in a few minutes his leg had doubled volume and he met a gruesome death.
 
 #ev_xplr_snakes_2
-That, unfortunately, was just a begining as by the time the group managed to escape the plain, 2 more had been bitten and followed the same fate. This plain was litterally infested with viscious snakes.
+That, unfortunately, was just a beginning as by the time the group managed to escape the plain, 2 more had been bitten and followed the same fate. This plain was literally infested with vicious snakes.
 
 #ev_xplr_snakes_c1
-"I've had it with these motherfuckin' snakes!"
+"I've had it with these motherporkin' snakes!"
 
 #ev_xplr_map
 Friendly tribe offers '[x]' a map of the territory.
 
 #ev_xplr_map_1
-Our formation '[x]' was well received by natives in a small village, where they spent a few days to rest. The villagers offered our porcos to teach them all about the surrounding territory that they know very well: 
+Our formation '[x]' was well received by natives in a small village, where they spent a few days to rest. The villagers offered our Porcos to teach them all about the surrounding territory that they know very well: 
 
 #ev_xplr_map_2
 "Sniffingwind here is the village's best scout" said their chief. "He knows all the ins and outs of these lands. If you wish, Sniffingwind can show you how to travel in the territory, he's never been in trouble. He'll tell you what areas to avoid, what places are dangerous, and where to pass. In the meantime you're welcome to stay in our small village!" Should we stay a little more and accept their help?
@@ -1361,7 +1361,7 @@ Our formation '[x]' was well received by natives in a small village, where they 
 Explorer lost!
 
 #ev_xplr_snglost_1
-It is very dangerous to travel these unknown lands alone. Sadly, our explorer disapeared and was never heard of again. 
+It is very dangerous to travel these unknown lands alone. Sadly, our explorer disappeared and was never heard of again. 
 
 #ev_xplr_snglost_2
 Who knows what happened to him... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
@@ -1370,7 +1370,7 @@ Who knows what happened to him... Maybe we should consider sending a bigger expe
 Explorers lost!
 
 #ev_xplr_grplost_1
-It is very dangerous to travel these unknown lands in a small group. Sadly, our explorer disapeared and were never heard of again. 
+It is very dangerous to travel these unknown lands in a small group. Sadly, our explorer disappeared and were never heard of again. 
 
 #ev_xplr_grplost_2
 Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
@@ -1379,37 +1379,37 @@ Who knows what happened to them... Maybe we should consider sending a bigger exp
 Ships lost in a terrible storm!
 
 #ev_xplr_storm_1
-The sea is dangerous and moody. Before anyone had time to react, a calm breeze turned into a terrifying storm with waves taller than hills and a sky darker than the night. Our ship, sadly, was no match for this storm. The porcos fought bravely, but pigs and ships were all claimed by the sea by the next morning. I'm afraid we've lost the whole expedition.
+The sea is dangerous and moody. Before anyone had time to react, a calm breeze turned into a terrifying storm with waves taller than hills and a sky darker than the night. Our ship, sadly, was no match for this storm. The Porcos fought bravely, but pigs and ships were all claimed by the sea by the next morning. I'm afraid we've lost the whole expedition.
 
 #ev_xplr_rwave
 Rogue wave!
 
 #ev_xplr_rwave_1
-The sea is dangerous and treacherous. It was a sunny day, the sea appeared to be calm and the breeze was nice. The porcos were relaxed, though eager to be back on land. But suddenly, one pig squeeled, pointing at horizon on starboard. Everyone looked in terror at what looked like an improbable wall of water coming in the direction of the ship. Before anyone could do anything, the tiny ship was hit and capsized. 
+The sea is dangerous and treacherous. It was a sunny day, the sea appeared to be calm and the breeze was nice. The Porcos were relaxed, though eager to be back on land. But suddenly, one pig squealed, pointing at horizon on starboard. Everyone looked in terror at what looked like an improbable wall of water coming in the direction of the ship. Before anyone could do anything, the tiny ship was hit and capsized. 
 
 #ev_xplr_rwave_2
-There was nothing they could have done against such a treacherous and unpredictible event: they did not stand a chance. Ship and pigs were dragged to tbe bottom of the sea, never to be seen again.
+There was nothing they could have done against such a treacherous and unpredictable event: they did not stand a chance. Ship and pigs were dragged to the bottom of the sea, never to be seen again.
 
 #ev_xplr_menlstsea
 '[x]' was hit by a storm.
 
 #ev_xplr_menlstsea_1
-The sky had been threatening all evening: a wall of dark clouds coming from the horizon towards them. The captain tried to escape it, but unsucessfuly. It was too big, it moved too fast, and the ship was too tiny. They had to face it, and by nightfall, it had engulfed them.
+The sky had been threatening all evening: a wall of dark clouds coming from the horizon towards them. The captain tried to escape it, but unsuccessfully. It was too big, it moved too fast, and the ship was too tiny. They had to face it, and by nightfall, it had engulfed them.
 
 #ev_xplr_menlstsea_2
-It was a terrible night all the porcos will forever remember. Waves almost capsized the freil ship multiple times, but fortunately and against all odds, their loyal embarcation hanged on. Not everyone was there in the morning, and many porcos lost brothers that night. They will never mention it again, but all will remember forever the desperate calls for help of those who fell in the sea during the storm while they watched, helpless, as they drifted inexorably away from the ship.
+It was a terrible night all the Porcos will forever remember. Waves almost capsized the frail ship multiple times, but fortunately and against all odds, their loyal embarkation hanged on. Not everyone was there in the morning, and many Porcos lost brothers that night. They will never mention it again, but all will remember forever the desperate calls for help of those who fell in the sea during the storm while they watched, helpless, as they drifted inexorably away from the ship.
 
 #ev_xplr_invlstsea
 '[x]' lost supplies to the sea.
 
 #ev_xplr_invlstsea_1
-One unskilled sailor didnt properly attach a crate of supplies the ship was carrying and during a turbulent night with strong winds, the crate fell into the sea and we lost its contents!
+One unskilled sailor did not properly attach a crate of supplies the ship was carrying and during a turbulent night with strong winds, the crate fell into the sea and we lost its contents!
 
 #ev_xplr_sngseal
 Dangerous sea
 
 #ev_xplr_sngseal_1
-The sea is no place for lone navigators. It is unforgiving and unmercyful: our few travellers disapeared and were never heard of again.
+The sea is no place for lone navigators. It is unforgiving and unmerciful: our few travelers disappeared and were never heard of again.
 
 #ev_xplr_sngseal_2
 Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, if we want to stand a chance!
@@ -1418,7 +1418,7 @@ Who knows what happened to them... Maybe we should consider sending a bigger exp
 The Wise Oldpig
 
 #ev_xplr_wiseold_1
-As our expedition '[x]' was heading to a new unexplored territory, a group of porcos in rags crossed our path. Despite their modest appearance, they all seemed well-educated, filled with assurance and determination. Their leader, a venerable oldpig wearing a shaggy beard falling to his knees, presented himself as a philosopher. He had been roaming the world for many years, professing his thought to anyone willing to listen.
+As our expedition '[x]' was heading to a new unexplored territory, a group of Porcos in rags crossed our path. Despite their modest appearance, they all seemed well-educated, filled with assurance and determination. Their leader, a venerable oldpig wearing a shaggy beard falling to his knees, presented himself as a philosopher. He had been roaming the world for many years, professing his thought to anyone willing to listen.
 
 #ev_xplr_wiseold_2
 We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldn’t be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
@@ -1454,13 +1454,13 @@ In the morning, the rain finally stopped and calm returned. Half asleep, we hear
 Jungle snake
 
 #ev_xplr_jnglsnek_1
-While '[x]' were making their way into the dense rainforest, one of our explorers was bitten by a jet-black snake. The creeping reptile then immediately vanished behind a bush. After a few hours, the injured porcos complained of feeling dizzy and having a blurred vision. He finally died in the night, unable to breathe. 
+While '[x]' were making their way into the dense rain forest, one of our explorers was bitten by a jet-black snake. The creeping reptile then immediately vanished behind a bush. After a few hours, the injured Porcos complained of feeling dizzy and having a blurred vision. He finally died in the night, unable to breathe. 
 
 #ev_xplr_lckyfsh
 Lucky fishing
 
 #ev_xplr_lckyfsh_1
-Our explorers of '[x]' were camping on the banks of a river for the night. It was a sunny late afternoon, and the water was crystal clear. That's when one porco spotted them: giant fat fishes swimming in the shallow waters! They were so slow the group could pick them up effortlessly.
+Our explorers of '[x]' were camping on the banks of a river for the night. It was a sunny late afternoon, and the water was crystal clear. That's when one Porco spotted them. Giant fat fishes swimming in the shallow waters! They were so slow the group could pick them up effortlessly.
 
 #ev_xplr_lckyfsh_2
 The group fed well that night. They also gutted and smoked a lot more fish to take with them on their journey.
@@ -1469,10 +1469,10 @@ The group fed well that night. They also gutted and smoked a lot more fish to ta
 Nature provides
 
 #ev_xplr_natrprov_1
-'[x]', while travelling across the land, stumbled upon a small patch of fertile land covered with lustrous plants filled with vegetables and fruits ready for the picking.
+'[x]', while traveling across the land, stumbled upon a small patch of fertile land covered with lustrous plants filled with vegetables and fruits ready for the picking.
 
 #ev_xplr_natrprov_2
-Sometimes, the nature is generous and provides. The porcos stopped for a few hours and feasted with this unxpected gift and took the rest with them.
+Sometimes, the nature is generous and provides. The Porcos stopped for a few hours and feasted with this unexpected gift and took the rest with them.
 
 #ev_xplr_elegsow
 The elegant sow
@@ -1481,22 +1481,22 @@ The elegant sow
 During their journey through an unexplored territory, the expedition of '[x]' met a procession led by an elegant sow, comfortably seated on a palanquin. The two groups decided to travel together temporarily in order to benefit from mutual protection. 
 
 #ev_xplr_elegsow_2
-The porcos in the cortege barely spoke a word. Unlike the other members of her group, the matriarch was very dynamic and talkative. She said she was versed in the arts of botany and could prepare all kinds of miraculous remedies and ointments. When the time came for dinner, she served some of her specialties.  In order to wash it down, she also offered holy drinks concocted by her. Upon finishing the strange mixture, the explorers felt better than they had ever felt before. They thought the drink was blessed and that the mighty sow was of divine nature for being able to conceive such a substance. The following month, they were offered the holy mixture whenever they asked for it. They soon became addicted to the delicious drug of the Hag. They became her puppets, drained of all their wills, just like all the other unfortunate fellows in the procession.
+The Porcos in the cortège barely spoke a word. Unlike the other members of her group, the matriarch was very dynamic and talkative. She said she was versed in the arts of botany and could prepare all kinds of miraculous remedies and ointments. When the time came for dinner, she served some of her specialties.  In order to wash it down, she also offered holy drinks concocted by her. Upon finishing the strange mixture, the explorers felt better than they had ever felt before. They thought the drink was blessed and that the mighty sow was of divine nature for being able to conceive such a substance. The following month, they were offered the holy mixture whenever they asked for it. They soon became addicted to the delicious drug of the Hag. They became her puppets, drained of all their wills, just like all the other unfortunate fellows in the procession.
 
 #ev_xplr_elegsow_3
-A few of them couldn’t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
+A few of them couldn’t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few Porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
 
 #ev_xplr_mahout
 The mahouts
 
 #ev_xplr_mahout_1
-During their peregrinations in unexplored lands, the porcos of  '[x]' halted in a small hamlet of peaceful mahouts. The locals owned a couple of healthy elephants. Taming these big creatures is a long and laborious process, and sometimes their wild instincts take control again. 
+During their peregrinations in unexplored lands, the Porcos of  '[x]' halted in a small hamlet of peaceful mahouts. The locals owned a couple of healthy elephants. Taming these big creatures is a long and laborious process, and sometimes their wild instincts take control again. 
 
 #ev_xplr_mahout_2
-As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the two furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted: “The father of elephants!”
+As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our Porcos approached carefully the two furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the Porcos, in sign of prostration. The local population was stunned and thought our Porcos was a divine being.  They all knelt in his direction and shouted: “The father of elephants!”
 
 #ev_xplr_mahout_3
-After that, the mahouts seemed to worship our porcos and wished to join us with their herd.
+After that, the mahouts seemed to worship our Porcos and wished to join us with their herd.
 
 #ev_xplr_mahout_c1
 Enroll them.
@@ -1511,19 +1511,19 @@ Lucky strike
 Our explorers '[x]' were ascending the steep slopes of a newly discovered territory when they started to feel the ground moving under their feet.  The piece of land on which the group was standing sharply broke away, causing a massive landslide. 
 
 #ev_xplr_luckstrk_2
-Many of our porcos were injured, but luckily all of them survived. As they got back on their feet, they noticed a shiny protuberance from afar.  As they approached it, they discovered an enormous deposit of ore, which had been laid bare by the landslide. 
+Many of our Porcos were injured, but luckily all of them survived. As they got back on their feet, they noticed a shiny protuberance from afar.  As they approached it, they discovered an enormous deposit of ore, which had been laid bare by the landslide. 
 
 #ev_xplr_ruinorph
 The orphan survivors
 
 #ev_xplr_ruinorph_1
-Our explorers '[x]' had spotted a large cloud of smoke on the horizon, rising and covering the sky of its dark coat. Our porcos cautiously approached the location from which the fire originated and discovered smoldering ruins, filled with the stench of death: lifeless bodies littered the ground all around, stripped of all valuables. Even the cattle had not been spared. 
+Our explorers '[x]' had spotted a large cloud of smoke on the horizon, rising and covering the sky of its dark coat. Our Porcos cautiously approached the location from which the fire originated and discovered smoldering ruins, filled with the stench of death: lifeless bodies littered the ground all around, stripped of all valuables. Even the cattle had not been spared. 
 
 #ev_xplr_ruinorph_2
 Night was falling and the members of the expedition did not intend to spend more time in the middle of this macabre scene. As they were about to leave, their attention was caught by hundreds of small green lights taking off from a nearby bush: fireflies. Something had disrupted all these insects.
 
 #ev_xplr_ruinorph_3
-By searching more closely, our porcos found dozens of children hidden in the vegetation. They all looked very weak and desperate. They undoubtedly belonged to the village in ruins and their chances of survival seem very small if no help is given.
+By searching more closely, our Porcos found dozens of children hidden in the vegetation. They all looked very weak and desperate. They undoubtedly belonged to the village in ruins and their chances of survival seem very small if no help is given.
 
 #ev_xplr_ruinorph_c1
 Adopt the orphaned piglets.
@@ -1535,7 +1535,7 @@ Leave.
 Sick explorers
 
 #ev_xplr_sick_1
-Many porcos in the expedition '[x]' have contracted a fever. The disease doesnt seem to heal and even got worse day after day. The sick porcos are struck by hallucinations and delusions. They sweat profusely and can no longer walk with the rest of the expedition party. 
+Many Porcos in the expedition '[x]' have contracted a fever. The disease does not seem to heal and even got worse day after day. The sick Porcos are struck by hallucinations and delusions. They sweat profusely and can no longer walk with the rest of the expedition party. 
 
 #ev_xplr_sick_2
 The valid members of our expedition have to make a choice: either set camp for a while in the vicinity to feed the sick and hope that they'll recover, or leave without them.
@@ -1550,13 +1550,13 @@ Stop and feed the sick until their condition improves.
 Shipwreck
 
 #ev_xplr_shpwrk_1
-The porcos '[x]' were exploring the coast of unknowned lands when they found various pieces of a recent ship wreck brought back on the shore by the tide. A little further away, they found the bodies of its unfortunate sailors lying down on the beach. 
+The Porcos '[x]' were exploring the coast of unknown lands when they found various pieces of a recent ship wreck brought back on the shore by the tide. A little further away, they found the bodies of its unfortunate sailors lying down on the beach. 
 
 #ev_xplr_shpwrk_2
-Most of them had drowned but some porcos could still breathe: with some food and rest, the survivors could be put back on their feet.
+Most of them had drowned but some Porcos could still breathe: with some food and rest, the survivors could be put back on their feet.
 
 #ev_xplr_shpwrk_c1
-Feed the shipwrecked porcos and enroll them in the group.
+Feed the shipwrecked Porcos and enroll them in the group.
 
 #ev_xplr_shpwrk_c2
 Pillage the shipwreck and its survivors.
@@ -1568,13 +1568,13 @@ The drunken fool
 Our expedition '[x]' encountered a small nomadic tribe. The members of this tribe were very kind and welcoming. Never had our explorers met such friendly fellows. 
 
 #ev_xplr_drnkfl_2
-After a few pleasant days in their company, our porcos finally had to leave, and a ceremony was held in their honor the day before their departure. For the occasion, the nomads brought out a majestic statue of their idol: A squatting porco with two heads: one of wood and the other of gold.
+After a few pleasant days in their company, our Porcos finally had to leave, and a ceremony was held in their honor the day before their departure. For the occasion, the nomads brought out a majestic statue of their idol: A squatting Porco with two heads: one of wood and the other of gold.
 
 #ev_xplr_drnkfl_3
-During the festivities, one of our porcos, emboldened by alcohol, beheaded the golden head of the statue. This sparked great outrage from the tribe and the thief was immediately attached and condemned to death for this great sacrilege.
+During the festivities, one of our Porcos, emboldened by alcohol, beheaded the golden head of the statue. This sparked great outrage from the tribe and the thief was immediately attached and condemned to death for this great sacrilege.
 
 #ev_xplr_drnkfl_c1
-Let the nomads execute your porco and leave.
+Let the nomads execute your Porco and leave.
 
 #ev_xplr_drnkfl_c2
 Fight the nomads and free your drunken fool.
@@ -1583,7 +1583,7 @@ Fight the nomads and free your drunken fool.
 The mourning tribe
 
 #ev_xplr_mourn_1
-Our explorers of '[x]' were exploring new lands when they encountered a dozen of mourning porcos, burying a sow and a piglet. After a poignant funeral, they told our porcos that they formerly belonged to a much larger group that had been slowly decimated by multiple bandit attacks and epidemics. They were running out of supplies now and had lost all hope of salvation.
+Our explorers of '[x]' were exploring new lands when they encountered a dozen of mourning Porcos, burying a sow and a piglet. After a poignant funeral, they told our Porcos that they formerly belonged to a much larger group that had been slowly decimated by multiple bandit attacks and epidemics. They were running out of supplies now and had lost all hope of salvation.
 
 #ev_xplr_mourn_c1
 Offer them to join your expedition.
@@ -1595,7 +1595,7 @@ Attack them and take their remaining supplies.
 Amazons!
 
 #ev_xplr_amazn_1
-While exploring a dense tropical forest, our porcos '[x]' heard an enchanting melody. As they approached the location from which the music came from, they discovered a magnificent sow sitting at the edge of a pond, languorously sliding her fingers between the strings of a wooden harp. The explorers were captivated by so much beauty and lowered their guards.
+While exploring a dense tropical forest, our Porcos '[x]' heard an enchanting melody. As they approached the location from which the music came from, they discovered a magnificent sow sitting at the edge of a pond, languorously sliding her fingers between the strings of a wooden harp. The explorers were captivated by so much beauty and lowered their guards.
 
 #ev_xplr_amazn_2
 After finishing her song, the sow delicately stood up, grabbed a short bow and shot an arrow in the direction of the explorers, accompanied by other warrior maidens who had sprung everywhere around them. 
@@ -1607,10 +1607,10 @@ After finishing her song, the sow delicately stood up, grabbed a short bow and s
 The curious hog
 
 #ev_xplr_egg_1
-Our explorers of '[x]' stumbled upon an abandonned nest containing a few large eggs: enough to make a juicy omelet. One curious hog decided to keep his egg , depriving himself of  the tasty meal. During days he carried it around, and he slept next to it at nights. This went on for dozens of days, attracting him mockery from his companions. 
+Our explorers of '[x]' stumbled upon an abandoned nest containing a few large eggs: enough to make a juicy omelet. One curious hog decided to keep his egg , depriving himself of  the tasty meal. During days he carried it around, and he slept next to it at nights. This went on for dozens of days, attracting him mockery from his companions. 
 
 #ev_xplr_egg_2
-One morning, under the curious hog's scrutiny, the egg hatched and from it emerged a tiny fluffy ostrich. Since then, its been following its benefactor everywhere he goes and the rest of the group even came to consider the bird as their troop's mascott.
+One morning, under the curious hog's scrutiny, the egg hatched and from it emerged a tiny fluffy ostrich. Since then, its been following its benefactor everywhere he goes and the rest of the group even came to consider the bird as their troop's mascot.
 
 #ev_xplr_orphel
 The orphaned pachyderm
@@ -1619,7 +1619,7 @@ The orphaned pachyderm
 Our explorers of '[x]' had been marching for hours under the sun of arid lands when they heard weird calling noises that seemed desperate. They walked to a deep muddy hole at the bottom of which was stuck a young pachyderm calf and her mother. While the little elephant was alive, the other was no longer. 
 
 #ev_xplr_orphel_2
-By cutting branches from dead trees nearby, the group worked tiredlessly for a few hours to dig and help the calf out of the hole. As soon as it got out, the scared animal first ran away. But grateful and having nowhere else to go, the little pachyderm apparently took a liking of the group and started folowing them ever since. First at at a respectful distance, and everyday closer until it ended up marching right in the middle of their group and sleeping next to their camp at nights.
+By cutting branches from dead trees nearby, the group worked tirelessly for a few hours to dig and help the calf out of the hole. As soon as it got out, the scared animal first ran away. But grateful and having nowhere else to go, the little pachyderm apparently took a liking of the group and started following them ever since. First at at a respectful distance, and everyday closer until it ended up marching right in the middle of their group and sleeping next to their camp at nights.
 
 #ev_xplr_orphel_c1
 Keep the calf as a pet elephant
@@ -1637,25 +1637,25 @@ Our explorers of '[x]' stumbled upon the remains of an unfortunate small group o
 Scavenge their remains to recover what we can.
 
 #ev_xplr_tribrem_c2
-Give them a proper burrial.
+Give them a proper burial.
 
 #ev_xplr_wolfcubs
-Abandonned cubs
+Abandoned cubs
 
 #ev_xplr_wolfcubs_1
 Our explorers of '[x]' where caught by a violent storm and took refuge in a small cavern under a nearby cliff to wait it out. While they were busy setting camp in it, they heard strange calling noises. 
 
 #ev_xplr_wolfcubs_2
-Grabbing a torch, one Porco went in the back to investigate and discovered 3 distressed wolf cubs. They looked dirty and hungry, visibly abandonned for quite a while : this was no regular wolf den and there was no sign of any wolves nearby. Noone knew how these 3 cubs ended up here, but the group decided to adopt them. The young wolves quickly got back in shape and it wasnt long until they became loyal companions apreciated by the whole group. Well, all except for the old Clawhog whose entire family was tragically devoured by wolves when he was just a piglet. 
+Grabbing a torch, one Porco went in the back to investigate and discovered 3 distressed wolf cubs. They looked dirty and hungry, visibly abandoned for quite a while : this was no regular wolf den and there was no sign of any wolves nearby. None knew how these 3 cubs ended up here, but the group decided to adopt them. The young wolves quickly got back in shape and it was not long until they became loyal companions appreciated by the whole group. Well, all except for the old Clawhog whose entire family was tragically devoured by wolves when he was just a piglet. 
 
 #ev_xplr_wolves
 Beasts in the forest
 
 #ev_xplr_wolves_1
-Our explorers of '[x]' where travelling through a dense forest when at dusk, they started to feel uneasy and watched. They kept progressing in silence, nervous, while dark silhouettes seemed to follow and encircle them. 
+Our explorers of '[x]' where traveling through a dense forest when at dusk, they started to feel uneasy and watched. They kept progressing in silence, nervous, while dark silhouettes seemed to follow and encircle them. 
 
 #ev_xplr_wolves_2
-Suddently, a terrifying growl came from the front, stopping the group. "Wolves i tell ya!", said the old Clawhop who didn't like these beasts -to say the least- as everyone on the group knew. "Get yerr weapons ready, pigs!", he added as several growls echoed around them. From all sides they emerged, ugly bacon-eating canines.
+Suddenly, a terrifying growl came from the front, stopping the group. "Wolves i tell ya!", said the old Clawhop who didn't like these beasts -to say the least- as everyone on the group knew. "Get yerr weapons ready, pigs!", he added as several growls echoed around them. From all sides they emerged, ugly bacon-eating canines.
 
 #ev_xplr_bears
 Bears!
@@ -1664,7 +1664,7 @@ Bears!
 Our explorers of '[x]' had setup camp in unknown lands for the night when, at dawn, they woke up to unusual rumpus. Horrified, they saw a group of 3 huge bears scavenging through their inventory and supplies lying next to the camp.
 
 #ev_xplr_bears_2
-One of the porcos sleeping close to where the bears were, startled by this realization, made a move which had the unfortunate consequence of calling the attention of one of the beasts. The animal, angry and hungry, ran up to the poor bastard and decided it was time for a bacon breakfast.
+One of the Porcos sleeping close to where the bears were, startled by this realization, made a move which had the unfortunate consequence of calling the attention of one of the beasts. The animal, angry and hungry, ran up to the poor bastard and decided it was time for a bacon breakfast.
 
 #ev_xplr_bears_c1
 Everyone pretends to sleep. Poor ol' Jenkins...
@@ -1676,31 +1676,31 @@ Everyone pretends to sleep. Poor ol' Jenkins...
 Defenseless explorers lost!
 
 #ev_xplr_civlost_1
-Sending defenseless civilians to explore unknown foreign lands is a risky and dangerous decision. Our explorers '[x]' disapeared and were never heard of again: who knows what ill fate was bestowed upon them...
+Sending defenseless civilians to explore unknown foreign lands is a risky and dangerous decision. Our explorers '[x]' disappeared and were never heard of again: who knows what ill fate was bestowed upon them...
 
 #ev_xplr_blizzard
-Viscious blizzard
+Vicious blizzard
 
 #ev_xplr_blizzard_1
-A viscious blizzard immobolized our expedition of '[x]' for many days. Many of them did not make it while the survivors consummed all the remaining food supplies. There is nothing to eat in these bleak lands!
+A vicious blizzard immobilized our expedition of '[x]' for many days. Many of them did not make it while the survivors consumed all the remaining food supplies. There is nothing to eat in these bleak lands!
 
 #ev_xplr_icehole
 Bloody ice-hole!
 
 #ev_xplr_icehole_1
-These lands are treacherous. While progressing on a difficult terrain, a few porcos of our expendition '[x]' fell to their death as ice broke under them, revealing a deep sink hole.
+These lands are treacherous. While progressing on a difficult terrain, a few Porcos of our expedition '[x]' fell to their death as ice broke under them, revealing a deep sink hole.
 
 #ev_xplr_avlch
 Avalanche!
 
 #ev_xplr_avlch_1
-As our group was travelling in a difficult terrain, a sudden avalanche took half of our people and supplies! What are we even doing there?!
+As our group was traveling in a difficult terrain, a sudden avalanche took half of our people and supplies! What are we even doing there?!
 
 #ev_xplr_freez1
 Glacial night
 
 #ev_xplr_freez1_1
-Travelling in such a glacial weather requires constant supplies, including wood to keep fires alive in the camp during nights. Good thing our expedition of '[x]' still had some wood to survive a particularly glacial night.
+Traveling in such a glacial weather requires constant supplies, including wood to keep fires alive in the camp during nights. Good thing our expedition of '[x]' still had some wood to survive a particularly glacial night.
 
 #ev_xplr_freez2
 Glacial night
@@ -1712,13 +1712,13 @@ After a particularly glacial night, having nothing to keep themselves warm,  man
 Icy desert
 
 #ev_xplr_polfood1_1
-Travelling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
+Traveling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
 
 #ev_xplr_polfood2
 Icy desert
 
 #ev_xplr_polfood2_1
-Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disapeared into this glacial white unforgiving desert and where never heard of again.
+Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disappeared into this glacial white unforgiving desert and where never heard of again.
 
 #ev_spwn_succ
 Succession
@@ -1727,7 +1727,7 @@ Succession
 [x] of the [y] has left his position after many years of service. You have been named as successor and have now inherited control of all the possessions and duties of the [y].
 
 #ev_spwn_succ_2
-You have taken over a character that became inactive for remaining unplayed for too long by its previous owner. You are therefore picking up where it was left. You inhertied all its regions, units, diplomatic relations and knowledges, and you might be part of an existing Nation. 
+You have taken over a character that became inactive for remaining not played for too long by its previous owner. You are therefore picking up where it was left. You inherited all its regions, units, diplomatic relations and knowledges, and you might be part of an existing Nation. 
 
 #ev_spwn_newld
 New leadership
@@ -1736,16 +1736,16 @@ New leadership
 The region of [x], in need of new leadership, has chosen you for the task. 
 
 #ev_spwn_newld_2
-You have taken over a previously leader-less region, either because it was abandonned by its previous owner or because its people rebelled against him. You are therefore a new free and independent sovereign entity free of all treaties, starting with a single region. Your starting knowledges are inherited from the pre-existing buildings in the region. Be weary: you might face the hostility of your region's previous owner if he's still around.
+You have taken over a previously leader-less region, either because it was abandoned by its previous owner or because its people rebelled against him. You are therefore a new free and independent sovereign entity free of all treaties, starting with a single region. Your starting knowledges are inherited from the pre-existing buildings in the region. Be weary: you might face the hostility of your region's previous owner if he's still around.
 
 #ev_spwn_clny
 Leading the colony
 
 #ev_spwn_clny_1
-After many years of slow development and quiet leadership from obedient administrators, the colony of [x] attached to the [y] is now ready to become a political entity of its own. You have gained their trust and been promoted to become the first true leader of [x] as the region is awarded a new administrative and political status within the [p1], under the patronnage of the [y]. Its is time for [x] to make a name for itself and leave its mark in the history of Porcokind. 
+After many years of slow development and quiet leadership from obedient administrators, the colony of [x] attached to the [y] is now ready to become a political entity of its own. You have gained their trust and been promoted to become the first true leader of [x] as the region is awarded a new administrative and political status within the [p1], under the patronage of the [y]. Its is time for [x] to make a name for itself and leave its mark in the history of Porcokind. 
 
 #ev_spwn_clny_2
-You have become the first ruler of a colony previously founded by another player. This region is therefore now evolving and becoming its own political entity ruled by you. However you start as a member of an existing Nation, and by default under the patronnage of the colony's original founder: the [y]. As a new branch of his culture, you also start with all the knowledges of the founders. As an ex-colony, be warned that you also start with a treaty binding you to his Nation, meaning you wont be able to leave it without breaking it and suffering penalties or even war. But this can also be a good thing: you are not starting alone and can seek protection and help from your superiors in the Nation, helping your development. It is probably a wise idea to start by reaching out to your superior and founder to greet him and establish friendly relations. Then who knows, maybe one day it will be time for [x] to claim its independance!
+You have become the first ruler of a colony previously founded by another player. This region is therefore now evolving and becoming its own political entity ruled by you. However you start as a member of an existing Nation, and by default under the patronage of the colony's original founder: the [y]. As a new branch of his culture, you also start with all the knowledges of the founders. As an ex-colony, be warned that you also start with a treaty binding you to his Nation, meaning you wont be able to leave it without breaking it and suffering penalties or even war. But this can also be a good thing: you are not starting alone and can seek protection and help from your superiors in the Nation, helping your development. It is probably a wise idea to start by reaching out to your superior and founder to greet him and establish friendly relations. Then who knows, maybe one day it will be time for [x] to claim its independence!
 
 #ev_clnyevlv
 A colony has evolved!
@@ -1763,7 +1763,7 @@ As insurance, we will maintain control of their treasury of over 50% of their GD
 Home of '[y]' has insufficient population!
 
 #ev_form_ovrdrft_1
-The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
+The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult Porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
 
 #ev_form_desertion
 Our soldiers are deserting!
@@ -1808,7 +1808,7 @@ These unknown lands proved particularly challenging to cross: our explorers got 
 Hospitable natives
 
 #ev_xplr_wellrest_1
-Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
+Our explorers met friendly natives that offered them their hospitality. After a good rest and plentiful meals, our expedition bid them farewell and left reinvigorated.
 
 #ev_claimloss
 [x] has lost a territorial claim!
@@ -1823,14 +1823,14 @@ You have subjugated [x]!
 You have subjugated the state of [x], ruled by [y], who is now your vassal. 
 
 #ev_has_subjug_2
-[x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceeded to [x]. 
+[x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceded to [x]. 
 
 #ev_been_subjug
 You have been subjugated by [x]!
 
 #ev_been_subjug_1
-You have been subjugated the state of [x], ruled by [y], who is now your liedge lord. 
+You have been subjugated the state of [x], ruled by [y], who is now your liege lord. 
 
 #ev_been_subjug_2
-You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
+You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceded to you. 
 

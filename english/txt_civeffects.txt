@@ -167,7 +167,7 @@ city administration
 Modifies administration in every city
 
 #civfx_regadmin_n
-territory adimnistration
+territory administration
 
 #civfx_regadmin_dscr
 Modifies administration in every territory
@@ -242,7 +242,7 @@ Allows the creation of permanent trade routes between territories
 protector of the people
 
 #civfx_legitprt_dscr
-Modifies the effect of the military's strength on legitimacy
+Modifies the effect of the military strength on legitimacy
 
 #civfx_legitw_n
 leader superiority
@@ -332,7 +332,7 @@ Modifies the amount of state power
 food consumption
 
 #civfx_foodcons_dscr
-Affects the amount of food required by porcos to satisfy their need for food
+Affects the amount of food required by Porcos to satisfy their need for food
 
 #civfx_coin_n
 state treasury
@@ -371,7 +371,7 @@ paid researchers
 Researchers get paid and no longer reduce the workforce of the buildings where they work.
 
 #civfx_ldcntrb_n
-Leader's personnal contribution
+Leader's personal contribution
 
 #civfx_ldcntrb_dscr
 The leader can contribute to the government's finances with his own wealth (this reduces his wealth).
@@ -380,5 +380,5 @@ The leader can contribute to the government's finances with his own wealth (this
 Contribution percentage
 
 #civfx_ldcntrb_setd
-The percentage of the leader's wealth contributed to the government's finances. Note that this will reduce the Leader's wealth proportionnally.
+The percentage of the leader's wealth contributed to the government's finances. Note that this will reduce the Leader's wealth proportionally.
 

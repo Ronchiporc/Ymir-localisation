@@ -512,10 +512,10 @@ per hour
 every [x] hours
 
 #g_per_minut
-per minut
+per minute
 
 #g_ev_minuts
-every [x] minuts
+every [x] minutes
 
 #g_per_second
 per second
@@ -546,15 +546,3 @@ days
 
 #g_never
 never
-
-#g_chief
-Chief
-
-#g_chiefdom
-Chief
-
-#g_vassal
-Vassal
-
-#g_vassaldom
-Vassaldom

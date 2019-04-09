@@ -2,10 +2,10 @@
 Welcome to Ymir! It looks like it's the first time you're launching this game. 
 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. However if you already know the game, you can choose to disable all tutorials right now.
 
 #tuto_create_1
-This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+This is where you setup and start a new game. There is 2 main game modes: persistent and real-time. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
 
 #tuto_lnchgame_1
 You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
@@ -17,16 +17,16 @@ This is where you create your character. You can design and name it, as well as 
 You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
 
 #tuto_char_3
-In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
+In multi-player, you may as well specify the name of a friend's character to spawn as close to him as possible, but to do so you will need his 'Invite code' as well.
 
 #tuto_char_4
-Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
+Be careful: once you create a character -especially in persistent multi-player games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
 
 #tuto_warnjoin_1
-You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multiplayer game.
+You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multi-player game.
 
 #tuto_warnjoin_2
-Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
+Multi-player persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
 
 #tuto_join_1
 This is where you join existing games. 
@@ -35,10 +35,10 @@ This is where you join existing games.
 If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
 
 #tuto_join_3
-If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
+If you want to join multi-player games you have the choice between persistent (24/7 games that last months) and real-time games (faster games to play with friends).
 
 #tuto_persist_1
-You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
+You have joined your first persistent multi-player game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
 
 #tuto_0_1
 Greetings newpig! I am Sagacious Pig your tutorial assistant. 
@@ -50,7 +50,7 @@ I'm here to guide you through the first steps of the game and explain how things
 Tell me more!--1
 
 #tuto_0_c2
-I wanted to do the tutorial but now that i see your ugly face i'd rather skip it.--82
+I wanted to do the tutorial but now that i see your ugly face i would rather skip it.--82
 
 #tuto_1_1
 You are currently in the world map. Each tile is a 'territory' you can explore and colonize. 
@@ -68,28 +68,28 @@ This is a mission event. You will sometimes get missions you can complete to unl
 Yes... yes... Let us begin then!--3--2
 
 #tuto_3_1
-Events will appear  as flags on top of the screen and you can also review them all by clicking this button next to the flags.
+Events will appear  as flags on top of the screen and you can also review them all by clickking this button next to the flags.
 
 #tuto_3_c1
 Thank you mister Pig, shall we continue ?--4--3
 
 #tuto_4_1
-You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Clic on it to select it.
+You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Click on it to select it.
 
 #tuto_5_1
 On the bottom left is the formation menu of your formation. It shows details such as the list of units in this formation and their inventory. 
 
 #tuto_5_2
-Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, clic the 'orders' button.
+Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, clickk the 'orders' button.
 
 #tuto_6_1
-Select the mission "Settle", leave all the options by default, and validate to order your whole tribe to settle in this territory. Its units and inventory will be unloaded in the territory which will now be under your control and the formation itself will disapear.
+Select the mission "Settle", leave all the options by default, and validate to order your whole tribe to settle in this territory. Its units and inventory will be unloaded in the territory which will now be under your control and the formation itself will disappear.
 
 #tuto_7_1
 The territory selector shows the name of your  currently selected territory. On it's left is a round button that allows you to go into the territory.
 
 #tuto_7_2
-With your newly settled territory selected, clic that button to go into your territory.
+With your newly settled territory selected, click that button to go into your territory.
 
 #tuto_8_1
 This is the territory you have settled and now control. In the middle of it is the camp your tribe has set with tents and with all their resources now unloaded onto the ground.
@@ -107,7 +107,7 @@ Your next mission is now to provide fresh water for your tribe.
 I am thrilled by the complexity of these missions, lets get on with it!--10
 
 #tuto_10_1
-To sustain themselves, your porcos need food and water or they will quickly die. They were carrying a bit of food with them, but no water : the first urgent thing to do is to setup a water collection point on the shore a fresh water point.
+To sustain themselves, your Porcos need food and water or they will quickly die. They were carrying a bit of food with them, but no water : the first urgent thing to do is to setup a water collection point on the shore a fresh water point.
 
 #tuto_10_c1
 How do i do that ?--11--8
@@ -119,10 +119,10 @@ This is the building tab of the territory, where you can see all your currently 
 In the first "housing" building tab, select the "Water collector" building. 
 
 #tuto_12_1
-This building is free and does not require any workers: it simply represents a spot on the shore cleared and levelled to allow your porcos easy access to fresh water: they will get it themselves as they need it. Try to place it next to tiles of water:  it needs to have one edge adjascent to water to work.
+This building is free and does not require any workers: it simply represents a spot on the shore cleared and leveled to allow your Porcos easy access to fresh water: they will get it themselves as they need it. Try to place it next to tiles of water:  it needs to have one edge adjacent to water to work.
 
 #tuto_13_1
-Now that your porcos need for water is satisifed, they need sustainable sources of food as their stocks will run out soon. 
+Now that your Porcos need for water is satisfied, they need sustainable sources of food as their stocks will run out soon. 
 
 #tuto_13_c1
 Food please!--14--10
@@ -137,7 +137,7 @@ Farms and Hunters are buildings that exploit natural resources. They need to be 
 When you are placing a building that exploits natural resources, an area of tiles appears highlighted around it: it's the production range of the building.  
 
 #tuto_15_2
-Grey and Red tiles means there's nothing exploitable: you need to look fot the tiles that are highlighted in GREEN, indicating a valid exploitable resource for the building.
+Grey and Red tiles means there's nothing exploitable: you need to look at the tiles that are highlighted in GREEN, indicating a valid exploitable resource for the building.
 
 #tuto_15_3
 Scan the territory with the building selected to look for a valid spot to place it.
@@ -155,7 +155,7 @@ A natural spot of wild animals is a single tile that will appear green when plac
 Got it.--15
 
 #tuto_16_c2
-I see animals but the Hunter doesnt seem to be able to exploit them.--17
+I see animals but the Hunter does not seem to be able to exploit them.--17
 
 #tuto_17_1
 Sometimes animals are present in a territory as a 'herd'. Herds are depletable and temporary groups of animals and they cannot be hunted in a permanent and sustainable way through a Hunter building: you will need to manually hunt them with units. Ignore them for now.
@@ -182,7 +182,7 @@ Good to know.--20--13
 This button opens an important menu: the "Territory menu". 
 
 #tuto_20_2
-It shows everything you need to know about the territory you are in, allowing you to check it's situation and to diagnose it's problems. Clic to open it.
+It shows everything you need to know about the territory you are in, allowing you to check its situation and to diagnose it's problems. Click to open it.
 
 #tuto_21_1
 This menu has a lot of informations combined in it. The top half is a global summary of the territory with all it's important stats in a single space.
@@ -194,7 +194,7 @@ The lower half of the menu is a set of tabs, each one giving you more in-depth d
 Ok!--22
 
 #tuto_22_1
-This is the important part to look for now : the global vital needs of your populaiton that i mentionned earlier. 
+This is the important part to look for now : the global vital needs of your population that i mentioned earlier. 
 
 #tuto_22_2
 It needs to remains more or less above 70%: meaning most people in your tribe have enough food and water not to starve to death. It's an important value you will always have to monitor.
@@ -221,7 +221,7 @@ What are the factors influencing Growth?--24
 How do I improve Growth?--25
 
 #tuto_24_1
-You can clic on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
+You can click on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
 
 #tuto_24_2
 The will to have children is detailed in the right side column and is affected mostly by the Life Quality of the population.
@@ -248,16 +248,16 @@ Got it.--26--16
 This is your current population. It's divided into groups of "Social Classes", each one represented by one button.
 
 #tuto_26_2
-"Inactives" is the default class of currently jobless adult Porcos available to work in new buildings. Once a porco starts working in a building, he converts to the social class the building employs.
+"Unemployed" is the default class of currently jobless adult Porcos available to work in new buildings. Once a Porco starts working in a building, he converts to the social class the building employs.
 
 #tuto_26_c1
 Understood. Now what ?--27
 
 #tuto_27_1
-Before building new production buildings, you will want to check that you have enough inactives to work in them.
+Before building new production buildings, you will want to check that you have enough unemployed Porcos to work in them.
 
 #tuto_27_2
-You should still have a decent amount of Inactive Porcos available: let's keep them busy and move on the next mission!
+You should still have a decent amount of unemployed Porcos available: let's keep them busy and move on the next mission!
 
 #tuto_27_c1
 I'm ready.--28--17
@@ -293,16 +293,16 @@ Great, you are now producing your first Hammers!
 Hammers are your first type of tool. Later, you will unlock new tools which will also be required by many constructions.
 
 #tuto_31_3
-Unlike resources like foods, tools are not consummed by the population to satisfy their needs: it's player-used only.
+Unlike resources like foods, tools are not consumed by the population to satisfy their needs: it's player-used only.
 
 #tuto_31_c1
 Ok.--32--21
 
 #tuto_32_1
-This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade,buy,sell ot transport resources between territories later on.
+This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade, buy, sell, or transport resources between territories later on.
 
 #tuto_32_2
-Clic to open the tab.
+Click to open the tab.
 
 #tuto_33_1
 Each button shows you one type of resource currently stored or produced in the territory. On each button you can see the amount stocked, a sign indicating it's current variation, and it's local price.
@@ -344,7 +344,7 @@ Got it.--38--25
 What is the "only in restricted" mode ?--37
 
 #tuto_37_1
-When you clic on a storage building, you can set it to "restricted" and control what resources are allowed in it. 
+When you click on a storage building, you can set it to "restricted" and control what resources are allowed in it. 
 
 #tuto_37_2
 If you then set a resource storage policy to "only in restricted" in this menu, it will ONLY be allowed in storages that are in "restricted" mode AND that have been set to allow that specific resource. If there's no room the resources are destroyed.
@@ -356,7 +356,7 @@ Got it.--38--25
 What happens when there's no room to store things ?--36
 
 #tuto_38_1
-The second one is the "Maintain stock" option: it allows you to ensure some of the produced resources will be saved to maintain a certain amount in stock, no matter what. Its really usefull to maintain stocks of foods for instance, regardless of the population's consumption.
+The second one is the "Maintain stock" option: it allows you to ensure some of the produced resources will be saved to maintain a certain amount in stock, no matter what. Its really useful to maintain stocks of foods for instance, regardless of the population's consumption.
 
 #tuto_38_c1
 Good to know!--39--26
@@ -383,7 +383,7 @@ Ok.--41--27
 Now to the next mission : start producing some Wood.
 
 #tuto_41_2
-Wood, like Hammers, is an essential material used for many constructions. It is also consummed by many industrial buildings to craft other products.
+Wood, like Hammers, is an essential material used for many constructions. It is also consumed by many industrial buildings to craft other products.
 
 #tuto_41_3
 Place a woodcutter near a dense area of trees to start producing some.
@@ -410,28 +410,28 @@ Where do i create one ?--44--29
 This is the Units tab. In it you can see all the formations currently present in the territory. It's also where you can create new Formations.
 
 #tuto_44_2
-Clic on the tab to open it.
+Click on the tab to open it.
 
 #tuto_45_1
-Now clic the button to create a new Formation. Select the "Militia" type, and place the Formation's camp near your tribe.
+Now click the button to create a new Formation. Select the "Militia" type, and place the Formation's camp near your tribe.
 
 #tuto_46_1
 Very well. Now you have to recruit your first units into this new formation.
 
 #tuto_46_2
-There is different categories of units: civilian units are what you will use to create settling expeditions or transfering goods with carriers, but obviously not to defend youself. Open the "Ranged" tab.
+There is different categories of units: civilian units are what you will use to create settling expeditions or transferring goods with carriers, but obviously not to defend yourself. Open the "Ranged" tab.
 
 #tuto_47_1
-For now you only have access to a single ranged military unit: the rockthrower. A porco simply equiped with stones to throw, best used to defend behind walls and gates.
+For now you only have access to a single ranged military unit: the rock-thrower. A Porco simply equipped with stones to throw, best used to defend behind walls and gates.
 
 #tuto_47_2
-Now, recruit at least 20 rockthrowers (2 troops of 10 each). Remember: as a "Militia", in fact you're not really recruiting them but merely storing equipment (here simple stones) for your population to use in case of attack.
+Now, recruit at least 20 rock-throwers (2 troops of 10 each). Remember: as a "Militia", in fact you're not really recruiting them, but merely storing equipment (here simple stones) for your population to use in case of attack.
 
 #tuto_47_c1
 What happens if i 'recruit' more militia that i have of population ?--48
 
 #tuto_48_1
-Then your militia will not be fully "manned" in case of attack: if you saved up equipment for 40 soldiers as your militia but only have 15 porcos in age to fight at the time of the attack in the territory, your Militia will only include 15 soldiers in the battle.
+Then your militia will not be fully "manned" in case of attack: if you saved up equipment for 40 soldiers as your militia but only have 15 Porcos in age to fight at the time of the attack in the territory, your Militia will only include 15 soldiers in the battle.
 
 #tuto_48_c1
 Got it.--47
@@ -440,13 +440,13 @@ Got it.--47
 Congratulations: you now saved equipment -a bunch of wooden clubs- for your population to use in case of attack. 
 
 #tuto_49_2
-Now, additionnaly to that, you can also organize the defensive strategy of your units using the "Strategic tool", such as defining the deployment positions of your new militia. Clic to open it.
+Now, additionally to that, you can also organize the defensive strategy of your units using the "Strategic tool", such as defining the deployment positions of your new militia. Click to open it.
 
 #tuto_50_1
-With this tool, you can preview where all your troops ( militia or not ) will deploy in case of battle.
+With this tool, you can preview where all your troops (militia or not) will deploy in case of battle.
 
 #tuto_50_2
-You can select each troop and redeploy it where you want with the right clic. Hold it to set their ranks and orientation.
+You can select each troop and redeploy it where you want with the right click. Hold it to set their ranks and orientation.
 
 #tuto_50_c1
 Tell me more.--51--35
@@ -455,13 +455,13 @@ Tell me more.--51--35
 You can set the behavior mode of each troop. By default they will move to engage any enemy that arrives.
 
 #tuto_51_2
-With a troop selected, you can clic the dropdown button on the bottom left to select other modes that will affect that troop's behavior in battle.
+With a troop selected, you can click the drop-down button on the bottom left to select other modes that will affect that troop's behavior in battle.
 
 #tuto_51_c1
 Very well.--52--36
 
 #tuto_52_1
-Another tool is to create "Defensive zones" by clicking this button. Then clic and drag on the terrain to set a point and a radius around it. 
+Another tool is to create "Defensive zones" by clicking this button. Then click and drag on the terrain to set a point and a radius around it. 
 
 #tuto_52_2
 Once the zone is created, you can deploy troops in it and set them to the "defensive zone" behavior to have them defend this specific zone: they will be allowed to move out of it during battle.
@@ -470,7 +470,7 @@ Once the zone is created, you can deploy troops in it and set them to the "defen
 Got it.--53--37
 
 #tuto_53_1
-Rockthrowers are only usefull in defense behind walls: I advise you to create a small fort of palissades and to then deploy them in it in 'stand ground' mode. This will protect you at least against invasion attempts.
+Rock-throwers are only useful in defense behind walls: I advise you to create a small fort of palisades and to then deploy them in it in 'stand ground' mode. This will protect you at least against invasion attempts.
 
 #tuto_53_2
 Once you are happy with your changes, make sure to close and SAVE your changes by clicking here.
@@ -509,7 +509,7 @@ Ok.--57
 Now that your tribe is done setting camp in this territory, they got their first idea for Sedentarity, which will allow you to build your first proper dwellings.
 
 #tuto_57_2
-To actually get the 'knowledge' of Sendentarity, you will need to complete it's project first.
+To actually get the 'knowledge' of Sedentarity, you will need to complete its project first.
 
 #tuto_57_c1
 How do i do that ?--58--40
@@ -539,7 +539,7 @@ Later, with new knowledges, you'll unlock new policies allowing your to evolve y
 Now open the "Knowledges" tab to access your projects.
 
 #tuto_61_1
-This colum shows all the Knowledges your society currently has. It's empty for now.
+This column shows all the Knowledges your society currently has. It's empty for now.
 
 #tuto_61_2
 It also shows your knowledge capacity and current use. Each new knowledge costs some points depending on it's complexity. If your capacity is fully used, you will not be able to master new knowledges.
@@ -554,7 +554,7 @@ How do i get knowledge capacity ?--62
 Your capacity is increased by your total culture. At start, your culture will be mostly produced by your total population so the more population you have, the more knowledge capacity.
 
 #tuto_62_2
-Later, with writting,  you'll also be able to build Libraries to manually increased your knowledge capacity.
+Later, with writing,  you'll also be able to build Libraries to manually increased your knowledge capacity.
 
 #tuto_62_c1
 Ok.--63--43
@@ -578,7 +578,7 @@ Select how many researchers you want to assign for the project and validate.
 Each researcher contributes 'research points' based on their intelligence.
 
 #tuto_65_2
-Each project also has a difficulty level, and the average intelligence of the assigned researchers define the odds of successfuly completing the project.
+Each project also has a difficulty level, and the average intelligence of the assigned researchers define the odds of successfully completing the project.
 
 #tuto_65_c1
 Ok.--66--46
@@ -587,7 +587,7 @@ Ok.--66--46
 To start some projects you may also need to pay coins or resources. You will also need enough knowledge space to store the new knowledge it unlocks.
 
 #tuto_66_2
-You can now clic to start the work on the project.
+You can now click to start the work on the project.
 
 #tuto_67_1
 Congratulations, you started your first project! It will take some time to complete it, depending on your number of researchers and their efficiency.
@@ -596,7 +596,7 @@ Congratulations, you started your first project! It will take some time to compl
 Very well.--111
 
 #tuto_67_c2
-What happens if a project fails ?--68
+What happens if a project fails?--68
 
 #tuto_68_1
 If your project fails, you will have to restart it from scratch again. 
@@ -605,7 +605,7 @@ If your project fails, you will have to restart it from scratch again.
 You will have to repay all the starting requirements.
 
 #tuto_68_c1
-Damnit... So what now ?--111
+Damn it... So what now ?--111
 
 #tuto_69_1
 You now know all the minimum basics to start ruling and developing your tribe in Ymir and I only have a few things left to show you before i leave you.
@@ -623,7 +623,7 @@ Ok.--71--49
 Next to it are your Victory Points. They are earned by completing victory missions that may be shared in common with other players, in which case only the first one to complete it will get the reward.
 
 #tuto_71_2
-You win the game by beeing the first player to reach the objective of Victory Points set for that game.
+You win the game by being the first player to reach the objective of Victory Points set for that game.
 
 #tuto_71_c1
 Good to know!--72--50
@@ -647,7 +647,7 @@ I have some questions!--74
 Now that your tribe is settled, it's population should be slowly growing but this can take some time.
 
 #tuto_73_2
-In the meantime, it might be a good idea to keep exploring your surroundings in the worldmap and to locate herds to hunt down to provide your tribe with additional food to boost it's growth.
+In the meantime, it might be a good idea to keep exploring your surroundings in the world map and to locate herds to hunt down to provide your tribe with additional food to boost it's growth.
 
 #tuto_73_c1
 Ok.--74
@@ -668,13 +668,13 @@ Farewell then, and good luck!
 Goodbye!--999
 
 #tuto_76_1
-Yes i might popup from time to time when you unlock new important things!
+Yes i might pop-up from time to time when you unlock new important things!
 
 #tuto_76_c1
 Ok!--74
 
 #tuto_77_1
-You will have to create a new 'Formation' (your exploration expedition) and recruit units in it, then move it from the worldmap view.
+You will have to create a new 'Formation' (your exploration expedition) and recruit units in it, then move it from the world map view.
 
 #tuto_77_2
 But be careful! This is dangerous, as every time you explore new territory tiles you may trigger 'exploration events': There is a lot to gain from them but also a lot to lose.
@@ -698,7 +698,7 @@ To hunt them, you have to form a hunting party: Create a 'Formation' and recruit
 What then ?--80
 
 #tuto_80_1
-Move the hunters to the same territory as the herd in the worldmap and give them the order to "Hunt": it will initiate a battle where they will attempt to kill animals of the herd.
+Move the hunters to the same territory as the herd in the world map and give them the order to "Hunt": it will initiate a battle where they will attempt to kill animals of the herd.
 
 #tuto_80_2
 Animals will fight back so be careful! Once the hunting is over and if successful, the formation will have fresh meat in it's inventory, which you can bring back to your tribe.
@@ -788,7 +788,7 @@ Yes, FINE! I don't need you!--999
 Wait what ?--93
 
 #tuto_93_1
-No it's too late. Ha! I bet you won't even find how to settle your tribe, the buttons have been visciously hidden... Goodbye... Piglet!
+No it's too late. Ha! I bet you won't even find how to settle your tribe, the buttons have been viscously hidden... Goodbye... Piglet!
 
 #tuto_93_c1
 No! Don't leave, i changed my mind!--94
@@ -839,7 +839,7 @@ No you don't. You're just a lame tutorial assistant trying to be funny.--100
 How dare you!
 
 #tuto_100_c1
-You don't even exist. You're just a script of pseudo interactive pre-written lines here only for my personnal entertainment.--101
+You don't even exist. You're just a script of pseudo interactive pre-written lines here only for my personal entertainment.--101
 
 #tuto_101_1
 You're lying!
@@ -893,13 +893,13 @@ Yes.--999
 No. I won, but I will indulge your tutorial.--1
 
 #tuto_107_1
-Wrong! You foolish piglet! Now pay attention and suffer my neverending tutorial!
+Wrong! You foolish piglet! Now pay attention and suffer my never-ending tutorial!
 
 #tuto_107_c1
-Damnit...--1
+Damn it...--1
 
 #tuto_108_1
-You googled it, didn't you.
+You Googled it, didn't you?
 
 #tuto_108_c1
 No.--109
@@ -917,7 +917,7 @@ I will not!--110--51
 You CHEATED! For this you deserve unBEARable punishment! Its time for my bears to maul your insolent tribe!
 
 #tuto_110_c1
-I can't beleive this...--999
+I can't believe this...--999
 
 #tuto_111_1
 Now let's wait until the project is completed...
@@ -926,13 +926,13 @@ Now let's wait until the project is completed...
 There! You can now build your first solid dwelling : a primitive rustic hut. 
 
 #tuto_112_2
-Currently, your tribe is living in 'slums'. Slums are 1 tile dwellings that will spawn automatically whenever no proper housing is available. They will also disapear automatically when empty houses are available, as it's residents relocate into them.
+Currently, your tribe is living in 'slums'. Slums are 1 tile dwellings that will spawn automatically whenever no proper housing is available. They will also disappear automatically when empty houses are available, as it's residents relocate into them.
 
 #tuto_112_c1
 What's the use of providing good houses ?--113
 
 #tuto_113_1
-Slums provide no bonuses while houses improve the Health and Life Quality of it's residents. Life quality increases Intelligence while Health decreases sickness, which reduces the amount of your porcos dying during each generation. 
+Slums provide no bonuses while houses improve the Health and Life Quality of it's residents. Life quality increases Intelligence while Health decreases sickness, which reduces the amount of your Porcos dying during each generation. 
 
 #tuto_113_2
 Improving both these stats will increase your population's happiness and growth, giving you more Actives to employ in buildings or armies.
@@ -941,7 +941,7 @@ Improving both these stats will increase your population's happiness and growth,
 Good to know!--114
 
 #tuto_114_1
-Your next assignement is to use your starting resources to start building your first proper huts. Once they are completed, slums will progressively disapear as population relocates into the new houses. 
+Your next assignment is to use your starting resources to start building your first proper huts. Once they are completed, slums will progressively disappear as population relocates into the new houses. 
 
 #tuto_114_2
 You can also speed up this process by manually destroying the slums. If you destroy more than there is room available, new ones will simply reappear elsewhere, so you can't lose any population!
@@ -950,7 +950,7 @@ You can also speed up this process by manually destroying the slums. If you dest
 Very well.--115
 
 #tuto_115_1
-This is the destroy tool. Its what you use to order the destruction of infrastuctures, clear terrain, or deconstruct building. When you right clic on it, you can filter what you wish to destroy.
+This is the destroy tool. Its what you use to order the destruction of infrastructures, clear terrain, or deconstruct building. When you right click on it, you can filter what you wish to destroy.
 
 #tuto_115_2
 When your order the deconstruction of a building, you will recover about half it's initial materials.
@@ -959,7 +959,7 @@ When your order the deconstruction of a building, you will recover about half it
 Good!--116
 
 #tuto_116_1
-Now complete your current assignement by building at least 10 huts for your population.
+Now complete your current assignment by building at least 10 huts for your population.
 
 #tuto_117_1
 Good! As a reward new families settled in your territory which will help us for to the next step: creating your first expedition to hunt and explore.
@@ -1001,7 +1001,7 @@ This time note that they will be removed from your current population as it's no
 Select your new formation by clicking on it's camp or by clicking it's button on the Formations tab.
 
 #tuto_122_1
-On your selected Formation's menu, click the "+" button to add additionnal troops to your already existing army.
+On your selected Formation's menu, click the "+" button to add additional troops to your already existing army.
 
 #tuto_123_1
 Armies can carry goods and have their own inventory whose capacity depends on the units in it. Carriers are non-fighting units who simply provide a lot of inventory capacity for your Formation.
@@ -1019,13 +1019,13 @@ There you can see it's current inventory capacity, and you can load or unload re
 Got it!--125
 
 #tuto_125_1
-Now that your first expedition is ready, go back to the worlmap view to start exploring other territories.
+Now that your first expedition is ready, go back to the world map view to start exploring other territories.
 
 #tuto_126_1
-On the worldmap view, all your formations will be visible and you can select them and give them orders. 'Militias' will also appear, but cannot be moved as they are binded to their territory!
+On the world map view, all your formations will be visible and you can select them and give them orders. 'Militias' will also appear, but cannot be moved as they are binded to their territory!
 
 #tuto_126_2
-You can recruit, disband, load and unload resources directly from the worldmap as well.
+You can recruit, disband, load and unload resources directly from the world map as well.
 
 #tuto_126_c1
 Ok!--127
@@ -1037,7 +1037,7 @@ Now beware! Only the tiles next to your tribe are visible while the rest remains
 Got it.--132
 
 #tuto_132_1
-These events can be dangerous but can also be rewarding, giving you new resources and units. To have any chance of successfully explore, always do so with a group of 10 or more porcos. Once a territory has been explored once, you can then move safely through them for it will not trigger any new exploration event.
+These events can be dangerous but can also be rewarding, giving you new resources and units. To have any chance of successfully explore, always do so with a group of 10 or more Porcos. Once a territory has been explored once, you can then move safely through them for it will not trigger any new exploration event.
 
 #tuto_132_c1
 Good to know!--128
@@ -1046,10 +1046,10 @@ Good to know!--128
 Now try to locate a 'herd': a group of animals units, and explore new tiles if you have to. Select the herd formation once you have found one.
 
 #tuto_129_1
-That's a 'herd'. You can see how many animals it has and you can click on it's inventory to see it's 'loot' : the total amound of meat and leather you can recover from killing them.
+That's a 'herd'. You can see how many animals it has and you can click on it's inventory to see it's 'loot' : the total amount of meat and leather you can recover from killing them.
 
 #tuto_129_2
-With your formation of warriors selected, you can right clic on the tile of the territory where the herd is, and the action "Hunt" will be available.
+With your formation of warriors selected, you can right click on the tile of the territory where the herd is, and the action "Hunt" will be available.
 
 #tuto_129_c1
 What happens next ?--130
@@ -1058,7 +1058,7 @@ What happens next ?--130
 If you confirm the hunting action, it will initiate a 'battle' between your warriors and the animals of the herd. You can also witness the hunting by going into the territory.
 
 #tuto_130_2
-If your warriors are sucessful, some or all of the animals loot will be transfered into your formation's inventory, which you can then bring back and unload into your territory, providing extra food to support your tribe's growth!
+If your warriors are successful, some or all of the animals loot will be transfered into your formation's inventory, which you can then bring back and unload into your territory, providing extra food to support your tribe's growth!
 
 #tuto_130_c1
 Excellent!--69
@@ -1076,7 +1076,7 @@ No, i don't need your help thank you!--998
 Agriculture now allows you to create fields with your gathering camps. Fields are not buildings: they are 'annexes'.
 
 #tuto_301_2
-An annex is constructed and linked to the building owning it. It provides it with additionnal production sources, distribution, or even bonuses such as increasing its efficiency.
+An annex is constructed and linked to the building owning it. It provides it with additional production sources, distribution, or even bonuses such as increasing its efficiency.
 
 #tuto_301_c1
 Very well.--302
@@ -1133,7 +1133,7 @@ By enabling "fair exchange", you will transition from a gift economy to a barter
 So what?--402
 
 #tuto_402_1
-Then, people will have properties and trade goods of equivalent value immediately. Your population will have incomes depending on their activites and they will also be able to increase their wealth level beyond 1 as a consequence.
+Then, people will have properties and trade goods of equivalent value immediately. Your population will have incomes depending on their activities and they will also be able to increase their wealth level beyond 1 as a consequence.
 
 #tuto_402_c1
 Ok--403
@@ -1199,13 +1199,13 @@ You'll also get to control if and how much you want to distribute each produced 
 Good to know.--409
 
 #tuto_409_1
-Fair exchange enabling a primitive form of currency, you'll now also have to manage your government's treasury balance which is in charge of all the services global to the community such as the maintenance of common buildings, the village's palissades, or armies. These services require payments as well once you're not in a gift economy!
+Fair exchange enabling a primitive form of currency, you'll now also have to manage your government's treasury balance which is in charge of all the services global to the community such as the maintenance of common buildings, the village's palisades, or armies. These services require payments as well once you're not in a gift economy!
 
 #tuto_409_c1
 How do I fund all that?--410
 
 #tuto_410_1
-In these primitive times, the biggest source of income you can get is from your leader's own personnal funds by making them one and the same. 
+In these primitive times, the biggest source of income you can get is from your leader's own personal funds by making them one and the same. 
 
 #tuto_410_2
 Using the "privileges" policy you can define the % of the territory's wealth awarded to your leader by right. This will slowly increase his personal wealth level which you can monitor in the territory menu by selecting the "Leader" population class.
@@ -1214,7 +1214,7 @@ Using the "privileges" policy you can define the % of the territory's wealth awa
 Ok...--411
 
 #tuto_411_1
-Then, with the "Leadership" policy, you can assign how much of his personnal wealth you wish to assign to the government's expenses! 
+Then, with the "Leadership" policy, you can assign how much of his personal wealth you wish to assign to the government's expenses! 
 
 #tuto_411_2
 For example, a leader with a wealth of 20 contributing at 50% will therefore generate a treasury income of +10.

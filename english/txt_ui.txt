@@ -35,16 +35,16 @@ Join the Ymir community!
 Porcopedia
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+The official Ymir wiki!
 
 #b_menu_trell_1
 Ymir on Trello
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+Follow the game's development and vote for planned features!
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+Do you really want to leave and return to the main menu?
 
 #ui_connctstat_1
 Currently connected to [x]  ping: [y]
@@ -62,7 +62,7 @@ Warning! Your connection with the server is unstable!
 click to mute/unmute the whole game
 
 #mainmenu_fullscrn
-click to switch between windowed and fullscreen modes
+click to switch between windowed and full-screen modes
 
 #mainmenu_quit
 click to quit the game
@@ -83,25 +83,25 @@ DISCLAIMER
 - This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- Playing solo is available, but the main focus of this game is multi-player.
 
 #b_menuop_fullscreen
-Fullscreen
+Full-screen
 
 #bc_menuop_fullscreen
-enable fullscreen
+enable full-screen
 
 #b_menuop_autores
 Automatic resolution
 
 #bc_menuop_autores
-automatically adapt resolution to the display in fullscreen
+automatically adapt resolution to the display in full-screen
 
 #b_menuop_res
 Display resolution
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+choose the desired display resolution when in full-screen
 
 #b_menuop_terrain
 Terrain
@@ -116,7 +116,7 @@ medium
 high
 
 #b_menuop_bdgs
-Buidings
+Buildings
 
 #b_menuop_units
 Units
@@ -128,7 +128,7 @@ FX
 Shaders
 
 #b_menuop_worldmap
-Worldmap
+World map
 
 #b_menuop_logic
 Logic
@@ -158,19 +158,19 @@ Video grain
 Enable or disable this post-processing effect
 
 #b_menuop_autovsize
-Automatic viewport definition
+Automatic graphics resolution
 
 #b_menuop_autovsize_c1
-Viewport definition will remain at 1:1 with your display resolution.
+Graphics resolution will remain at 1:1 pixel ratio with your display resolution.
 
 #b_menuop_vsize
-Viewport definition
+Graphics resolution scale
 
 #b_menuop_vsize_c1
-Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+Resolution of the game graphics in relation to your screen resolution: 100% means 1:1 pixel ratio between display resolution and rendered graphics resolution.
 
 #b_menuop_vsize_c2
-Lowering this ratio greatly increases performances.
+Lower values increase performance and higher values increase graphics quality.
 
 #b_menuop_autoui
 Automatic UI size
@@ -185,13 +185,13 @@ UI size
 Changes the size of the UI layer. 
 
 #b_menuop_uisize_c2
-Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+Useful to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
 
 #b_menuop_mvol
 Music volume
 
 #b_menuop_ambvol
-Ambiant volume
+Ambient volume
 
 #b_menuop_uivol
 UI volume
@@ -221,13 +221,7 @@ click and press a keyboard key to bind it to this action
 Toggle tutorials
 
 #menuop_togtut_c1
-Enables the main tutorial and all the help popups when doing things for the first time.
-
-#menuop_togIP
-Hide account
-
-#menuop_togIP_c1
-Hides account infos such as User ID or IPs.
+Enables the main tutorial and all the help pop-ups when doing things for the first time.
 
 #menuop_resetut
 Reset all
@@ -260,22 +254,22 @@ Your games
 Persistent games
 
 #joingame_persist_dscr_1
-Persistant games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
+Persistent games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
 
 #joingame_persist_dscr_2
-To garantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). Only gameplay is law.
+To guarantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). The only law is gameplay.
 
 #joingame_realtime
 Real-time games
 
 #joingame_realtime_dscr_1
-Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
+Real-time games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
 
 #joingame_custom
 Custom games
 
 #joingame_custom_dscr_1
-Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
+Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be guaranteed in these servers.
 
 #joingame_custom_dscr_2
 WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
@@ -320,7 +314,7 @@ The amount of time this game has been going on
 Admin tools
 
 #servlst_admn_c1
-Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
+Whether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
 
 #servlst_preset
 Game preset
@@ -338,7 +332,7 @@ The version of the game this server is currently running.
 Warning! Your version ([x]) does not match with the one of this server ([y])!
 
 #servlst_nogam
-Sorry: It looks like there is currently no games available!
+Sorry: It looks like there are currently no games available!
 
 #b_newgame_name
 Game name:
@@ -380,7 +374,7 @@ Custom
 server options
 
 #newgame_serv_run
-server doesnt close automatically
+server does not close automatically
 
 #newgame_serv_empty
 close server when empty
@@ -395,13 +389,13 @@ A saved game '[x]' already exists in the local files! What do you want to do?
 Overwrite
 
 #newgame_renam
-Autorename
+Auto-rename
 
 #newgame_nomap
 none available
 
 #newgame_invmap
-It seems there is'nt any custom map available. Please select a procedural type of map.
+It seems there is not any custom map available. Please select a procedural type of map.
 
 #mapsize
 Map size
@@ -434,7 +428,7 @@ Terra
 Temperate earth-like worlds with several continents.
 
 #maptyp2
-Pangea
+Pangaea
 
 #maptyp2_dscr
 Temperate worlds mostly made of lands, with only a few small seas.
@@ -449,16 +443,16 @@ Sea worlds with lots of islands and smaller landmass.
 Desert world
 
 #maptyp4_dscr
-Desertic worlds where hospitable territories are mostly located towards poles and around smaller inland seas.
+Deserted worlds where hospitable territories are mostly located towards poles and around smaller inland seas.
 
 #maptyp5
 Ice world
 
 #maptyp5_dscr
-Cold desertic worlds with only a few hospitable territories.
+Cold deserted worlds with only a few hospitable territories.
 
 #maptyp6
-Tropico
+Tropical
 
 #maptyp6_dscr
 Warm and humid sea worlds with lots of tropical islands.
@@ -473,7 +467,7 @@ Select a world map
 Select a custom map
 
 #custmap_dscr
-Custom worlds are maps manually created with the editor instead of beeing procedurally generated.
+Custom worlds are maps manually created with the editor instead of being procedurally generated.
 
 #newgame_gamset
 GAME SETTINGS
@@ -482,7 +476,7 @@ GAME SETTINGS
 Official
 
 #gmtyp_off_dscr
-Games labelled as official are using standardized non-customizable settings to provide a reliable experience.
+Games labeled as official are using standardized non-customizable settings to provide a reliable experience.
 
 #gmtyp_offtype
 Game type
@@ -500,13 +494,13 @@ Solo games can only be played alone.
 Game speed overall is the fastest.
 
 #gmtyp_solo_dscr3
-This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+This is meant to learn the basics of the game before joining proper multi-player games, or for players who just want to build in peace.
 
 #gmtyp_rtime
 Real-time
 
 #gmtyp_rtime_dscr1
-Real-time games are meant to be played directly with every player ingame at all times, saving and reloading the game later on to continue the game if necessary.
+Real-time games are meant to be played directly with every player in-game at all times, saving and reloading the game later on to continue the game if necessary.
 
 #gmtyp_rtime_dscr2
 Resource production, population growth and unit movements are fast.
@@ -518,7 +512,7 @@ This is meant for smaller private games such as playing locally with a group of 
 Persistent
 
 #gmtyp_prsist_dscr1
-Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently ingame.
+Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently in-game.
 
 #gmtyp_prsist_dscr2
 Resource production, population growth and unit movements are slow.
@@ -572,7 +566,7 @@ Start types
 Climates
 
 #newchar_st_precious
-This is a "Valuable start": once used you won't be able to respawn from another "Valuable spawn" for [x] regardless of your spawn cooloff.
+This is a "Valuable start": once used you won't be able to respawn from another "Valuable spawn" for [x] regardless of your spawn cool-down.
 
 #newchar_st_prlck
 This "Valuable start" is locked because you spawned from another one less than [x] ago ([y] remaining).
@@ -584,7 +578,7 @@ Primitive tribes
 Start from scratch by taking control of a primitive tribe.
 
 #newchar_st_pt_c2
-It's the default and standard way to start a game at the begining.
+It's the default and standard way to start a game at the beginning.
 
 #newchar_st_suc
 Succession
@@ -662,7 +656,7 @@ Invalid Invite code!
 Invite code for [x]
 
 #invtcd_txt
-You are trying to spawn near a character called '[x]'. To ensure that you are doing so in agreement with its owner, you must now provide the valid "invite code" matching this character and known only by the player controlling it. If you are joining a friend, ask him to give you this code which is displayed on his character's avatar ingame.
+You are trying to spawn near a character called '[x]'. To ensure that you are doing so in agreement with its owner, you must now provide the valid "invite code" matching this character and known only by the player controlling it. If you are joining a friend, ask him to give you this code which is displayed on his character's avatar in-game.
 
 #findchar_srch
 search for character...
@@ -674,7 +668,7 @@ Results
 researching...
 
 #findchar_instr
-type a character's full name or part of it's name and press enter to see valid matches
+type a character's full name or part of its name and press enter to see valid matches
 
 #findchar_nores
 no result matching this search
@@ -683,13 +677,13 @@ no result matching this search
 TUTORIAL
 
 #tuto_ask_1
-Greetings, newpig! Is this the first time you play Ymir and do you wish to enable the tutorial mode ?
+Greetings newpig! Is this the first time you play Ymir and do you wish to enable the tutorial mode?
 
 #ui_gen_toreg
 Click to go to the currently selected territory
 
 #ui_gen_toworld
-Click to go to the worldmap
+Click to go to the world map
 
 #ui_gen_tonovis
 You cannot go to this territory because you have no visibility of it.
@@ -737,7 +731,7 @@ Efficiency multiplies the workforce of each worker of the building
 max wealth production
 
 #bc_bdginf_wealth
-The maximum amount of wealth this building can theoretically generate if it's full workforce is in full production
+The maximum amount of wealth this building can theoretically generate if its full workforce is in full production
 
 #b_bdginf_scap
 capacity
@@ -779,7 +773,7 @@ platforms
 Demolish building
 
 #bc_menubdg_destroy2
-(tear down building and recover some of it's materials)
+(tear down building and recover some of its materials)
 
 #bc_menubdg_sleep
 Sleep
@@ -797,10 +791,10 @@ Abandon
 Sleep mode
 
 #ui_menubdg_sleep2
-In sleep mode : all functionnalities are stopped until you activate it again. Building does not degrade with time (maintenance).
+In sleep mode : all functionalities are stopped until you activate it again. Building does not degrade with time (maintenance).
 
 #ui_menubdg_build1
-Under contruction
+Under construction
 
 #ui_menubdg_build2
 This building is not finished and therefor not functional yet.
@@ -836,19 +830,19 @@ Destroyed
 This building needs to be rebuilt to be functional.
 
 #ui_menubdg_ruin1
-Abandonned
+Abandoned
 
 #ui_menubdg_ruin2
-Abandonned and needs to be restored to be functional. No maintenance, and building degrades with time.
+Abandoned and needs to be restored to be functional. No maintenance, and building degrades with time.
 
 #ui_menubdg_recycl1
 Demolishing
 
 #ui_menubdg_recycl2
-This building is beeing demolished. When the process is complete, it will be completely completely removed and some of it's materials will be recovered.
+This building is being demolished. When the process is complete, it will be completely completely removed and some of its materials will be recovered.
 
 #ui_menubdg_stckperm
-Stockage permissions :
+Storage permissions :
 
 #ui_menubdg_Usage
 Usage :
@@ -866,7 +860,7 @@ Upgrades
 Income earned by each worker
 
 #ui_menubdg_winc_2
-Buidling activity: [x]
+Building activity: [x]
 
 #ui_menubdg_winc_3
 State salary: [x]
@@ -884,7 +878,7 @@ Wake
 Restore
 
 #bc_menubdg_rest2
-(repair and restore functionnality of the building)
+(repair and restore functionality of the building)
 
 #ui_upgbdg_upto
 Upgrade to
@@ -905,10 +899,10 @@ add a market stand
 (reduces producing workforce)
 
 #ui_menubdg_dtrb1
-This building can create market stands where workers will sell directly their products to the public, but it reduces it's producing workforce.
+This building can create market stands where workers will sell directly their products to the public, but it reduces its producing workforce.
 
 #ui_menubdg_dtrb2
-This building cannot create maket stands because it cannot produce anything sellable to the public.
+This building cannot create market stands because it cannot produce anything sellable to the public.
 
 #ui_menubdg_anx
 Annexes
@@ -932,25 +926,25 @@ directly distributes production
 (selling [x])
 
 #bc_annex_prod
-Provides additionnal production sources of [x].
+Provides additional production sources of [x].
 
 #bc_annex_eff
-Provides [x] of additionnal efficiency to the building.
+Provides [x] of additional efficiency to the building.
 
 #ui_annex_err1
 no resource available for production by this annex
 
 #ui_annex_err2
-this building doesnt have any production valid for distribution
+this building does not have any production valid for distribution
 
 #bc_menubdg_selp
 select resource to produce
 
 #bc_menubdg_nopran
-This building doesnt have any possible annexes.
+This building does not have any possible annexes.
 
 #regeco_taxes
-Taxe incomes
+Tax incomes
 
 #regeco_taxes_c1
 Total perceived income from taxes in this territory.
@@ -1025,7 +1019,7 @@ Waste reduction from active services such as Tax collection.
 City upkeep
 
 #regeco_upkeep_c1
-Some buildings or infrastructures require a maintenance cost to be paid by you (the governement).
+Some buildings or infrastructures require a maintenance cost to be paid by you (the government).
 
 #regeco_salaries
 State salaries
@@ -1037,7 +1031,7 @@ The total cost of all state salaries paid in the territory.
 Buildings upkeep
 
 #regeco_up_bdg_c1
-Total maintenance cost of all state buildings in this territory (ex: official and militay buildings).
+Total maintenance cost of all state buildings in this territory (ex: official and military buildings).
 
 #regeco_up_infr
 Infrastructures upkeep
@@ -1088,7 +1082,7 @@ State-owned resources purchases
 Total paid auto-purchasing resources for the state (you).
 
 #bc_menureg_cur1
-Currency beeing used in this territory:
+Currency being used in this territory:
 
 #bc_menureg_cur2
 Irrelevant currency only used locally in this territory
@@ -1106,7 +1100,7 @@ Value of 1 coin is approximatively
 GDP:
 
 #bc_menureg_gdp1
-Territorynal gross domestic product
+Territorial gross domestic product
 
 #bc_menureg_gdp2
 Sum of all the coin incomes in the territory
@@ -1133,10 +1127,10 @@ Total population
 Active population
 
 #bc_menureg_sprt1
-This territory is currently supporting [x] porcos in all it's formations.
+This territory is currently supporting [x] Porcos in all its formations.
 
 #bc_menureg_sprt2
-It's demographics can support up to [x] porcos. Above that limit, the territory's growth is permanently impacted.
+Its demographics can support up to [x] Porcos. Above that limit, the territory's growth is permanently impacted.
 
 #bc_menureg_lq1
 Average life quality
@@ -1298,7 +1292,7 @@ click to remove this pending modification from your reform
 default policy
 
 #bc_defaultciv1
-default policies cannot be revoqued or passed manually.
+default policies cannot be revoked or passed manually.
 
 #bc_defaultciv2
 they appear automatically when no other policy is active.
@@ -1337,13 +1331,13 @@ Budget balance
 The treasury is the total amount of coins your government owns. Economic policies define how the economy of your society is currently organized.
 
 #ui_eco_notrsr_dscr
-This society currently works without any form of currency and it's people simply share everything in community: the government has no treasury nor incomes or explanses.
+This society currently works without any form of currency and its people simply share everything in community: the government has no treasury nor incomes or expenses.
 
 #ui_eco_lead
-Leader's personnal wealth
+Leader's personal wealth
 
 #ui_eco_lead_c1
-The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
+The leader is currently assigning [x]% of his personal total wealth of [y] to the government finances.  
 
 #ui_eco_tax
 Taxes incomes
@@ -1484,7 +1478,7 @@ Base price
 Price based on the amount of work required to produce this resource.
 
 #ui_price_work_c2
-Worforce required per resource unit: [x]
+Workforce required per resource unit: [x]
 
 #ui_price_mkt
 Market study:  [x]
@@ -1496,7 +1490,7 @@ Study of the current markets for this resource to determine its ideal price and 
 Public market ([x]%)
 
 #ui_price_mkt1_c1
-The public study is based on the purchasing power of all the population classes consumming this resource and the amount being distributed on the public market. This is the ideal price at which the profits would be optimal for the merchants selling this resource.
+The public study is based on the purchasing power of all the population classes consuming this resource and the amount being distributed on the public market. This is the ideal price at which the profits would be optimal for the merchants selling this resource.
 
 #ui_price_mkt2
 Industries market ([x]%)
@@ -1508,7 +1502,7 @@ The industrial study is based on how much revenue is generated by industries usi
 Exportations ([x]%)
 
 #ui_price_mkt3_c1
-The average price of exportations and their share of the local market influences the price study proportionnally.
+The average price of exportations and their share of the local market influences the price study proportionally.
 
 #ui_price_sd
 Supply/demand: [x]%
@@ -1589,13 +1583,13 @@ Population's satisfaction percentage of their need for this resource
 Ideally needed
 
 #uic_mres_dist_need
-Theoric amount needed for a 100% access, regardless of price and affordability by the population
+Theoretical amount needed for a 100% access, regardless of price and affordability by the population
 
 #ui_mres_dist_dem
 Demand
 
 #uic_mres_dist_dem
-Amount actually demanded to merchants by porcos who can afford it at it's current price
+Amount actually demanded to merchants by Porcos who can afford it at its current price
 
 #ui_mres_dist_avail
 Supply
@@ -1769,10 +1763,10 @@ A total culture based on the amount of population can then be shared between dif
 Cultural integration of the nation
 
 #regcltr_intgr_c1
-This territory's culture has fully integrated the nation of [x], as its been part of it for a long time.
+This territory's culture has fully integrated the nation of [x] as it has been part of it for a long time.
 
 #regcltr_intgr_c2
-Transfering this territory between nation members generates 50% less resistance.
+Transferring this territory between nation members generates 50% less resistance.
 
 #regcltr_notintgr_c1
 This territory's culture hasn't integrated the nation of [x] yet. It will be in [y]. 
@@ -1793,7 +1787,7 @@ Base wealth
 Porco's income
 
 #popw_priv
-Priviledges
+Privileges
 
 #popneed_sat
 NEEDS SATISFACTION
@@ -1802,16 +1796,16 @@ NEEDS SATISFACTION
 WEALTH
 
 #popstat_wealth_c1
-A porco's wealth defines it's purchasing power.
+A Porco's wealth defines its purchasing power.
 
 #popstat_wealth_c2
-A porco can fully afford any valuable priced equally or bellow it's wealth level.
+A Porco can fully afford any valuable priced equally or bellow its wealth level.
 
 #popstat_health
 HEALTH
 
 #popstat_health_c1
-Health determines life span and resistance to deseases.
+Health determines life span and resistance to diseases.
 
 #popstat_health_c2
 It improves population's growth.
@@ -1826,7 +1820,7 @@ The default health for this population class.
 Terrain effect
 
 #poph_ter_c1
-Climate [y] modifyer: [x]
+Climate [y] modifier: [x]
 
 #poph_ter_c2
 Is a swamp: [x]
@@ -1838,7 +1832,7 @@ Housing effect
 Each lodging provides a health bonus to its residents.
 
 #poph_housing_c2
-This is the average housing health bonus of logdings occupied by this population class.
+This is the average housing health bonus of lodgings occupied by this population class.
 
 #poph_totpop
 Total population
@@ -1865,16 +1859,16 @@ Some services (such as doctors) provide a health bonus to those who have access 
 -[x]% from missing vital needs
 
 #poph_vitals_c1
-Missing vital needs affects overall health proportionnally.
+Missing vital needs affects overall health proportionally.
 
 #popstat_lifequal
 LIFE QUALITY
 
 #popstat_lifequal_c1
-The quality of life is a score measuring how good and comfortable the porco's life is.
+The quality of life is a score measuring how good and comfortable a Porco's life is.
 
 #popstat_lifequal_c2
-It affects many other things such as intelligence, happyness or growth.
+It affects many other things such as intelligence, happiness or growth.
 
 #poplq_vitals
 Vital needs
@@ -1907,7 +1901,7 @@ Life quality gained by the satisfaction and quality of secondary needs.
 (requires satisfaction of vital needs)
 
 #poplq_3rd
-Teritiary needs
+Tertiary needs
 
 #poplq_3rd_c1
 Life quality gained by the satisfaction and quality of tertiary needs.
@@ -1928,10 +1922,10 @@ Life quality gained by the satisfaction and quality of quaternary needs.
 INTELLIGENCE
 
 #popstat_intel_c1
-Intelligence is one's ability to create algorythms measuring probabilities of Truth.
+Intelligence is one's ability to create algorithms measuring probabilities of truth.
 
 #popstat_intel_c2
-Intelligent porcos will generate more ideas and culture, but tend to be unhappier and harder to control.
+Intelligent Porcos will generate more ideas and culture, but tend to be unhappier and harder to control.
 
 #popint_base
 Base intelligence
@@ -2027,7 +2021,7 @@ Raw culture production
 Amount of raw culture produced by the population.
 
 #cltrstat_pop_c2
-[x] porcos of [y] intelligence are currently producing [z] of culture.
+[x] Porcos of [y] intelligence are currently producing [z] of culture.
 
 #cltrstat_local
 -[x]% of local culture
@@ -2045,13 +2039,13 @@ Amount of raw culture produced by the population.
 Services
 
 #cltrstat_serv_c1
-Amount of state culure produced by the activity of cultural buildings and their services.
+Amount of state culture produced by the activity of cultural buildings and their services.
 
 #cltrstat_decay
 Decay
 
 #cltrstat_decay_c1
-Amount of state culure lost by decay.
+Amount of state culture lost by decay.
 
 #cltrstat_dovrs
 Maximum stored capacity
@@ -2129,7 +2123,7 @@ Rename game
 Copy name
 
 #loadgame_deleting
-Are you sure you want to delete this saved game ?
+Are you sure you want to delete this saved game?
 
 #joingame_serv
 Server IP
@@ -2141,7 +2135,7 @@ Server port
 base wealth
 
 #popstat_wbase_c1
-every porco naturally makes wealth on it's own
+every Porco naturally makes wealth on its own
 
 #popstat_winhrt_c1
 inherits its wealth and resources access from the average of all actives
@@ -2171,13 +2165,13 @@ Total legitimacy
 Honor
 
 #legit_honor_c
-Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
+Your Honor directly affects your legitimacy. None want to serve under a dishonorable leader!
 
 #legit_protect
-Military strenght
+Military strength
 
 #legit_protect_c
-Our military strenght is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
+Our military strength is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
 
 #legit_wealth
 Leader superiority
@@ -2252,13 +2246,13 @@ Sum of State Power cost of all your controlled territories (costs can vary depen
 Debt
 
 #statepow_debt_c1
-Debt reduces State power and we currentlly have a debt of [x] coins.
+Debt reduces State power and we currently have a debt of [x] coins.
 
 #statepow_hon
 Dishonor
 
 #statepow_hon_c1
-Noone wants to serve a dishonorable leader! Negative honor reduces State Power (current honor : [x] ).
+None want to serve a dishonorable leader! Negative honor reduces State Power (current honor : [x] ).
 
 #statepow_tmain
 Treaties maintenance
@@ -2270,7 +2264,7 @@ All active treaties cost a certain amount of State Power to be maintained, depen
 State Power transfers
 
 #statepow_powtr_c1
-State Power beeing transfered to or from other governments due to current active treaties.
+State Power being transfered to or from other governments due to current active treaties.
 
 #statepow_powtr_c2
 - sent from active treaties: [x]
@@ -2293,14 +2287,14 @@ State power transfered from subordinates: [x]
 #statepow_nation_c2
 State power transfered to superior: [x]
 
-#statepow_nation_c31
-[y] direct subordinates: [x]
+#statepow_nation_c3
+Number of direct subordinates: [x]
 
-#statepow_nation_c41
-Average distance [y] of direct subordinates: [x]
+#statepow_nation_c4
+Distance of direct subordinates: [x]
 
-#statepow_nation_c51
-[y] total subordinates: [x]
+#statepow_nation_c5
+Number of total subordinates: [x]
 
 #statepow_forms
 Maintenance of formations
@@ -2372,7 +2366,7 @@ The balance between state and local cultures can affect positively or negatively
 from territorial status
 
 #loyal_status_c1
-Territorial status can affect loyalty positively or negatively. More authonomous statuses tend to increase loyalty.
+Territorial status can affect loyalty positively or negatively. More autonomous statuses tend to increase loyalty.
 
 #loyal_state
 state
@@ -2399,10 +2393,10 @@ high taxes
 High taxes upset people and reduces their loyalty to the state.
 
 #loyal_prvldg
-priviledges
+privileges
 
 #loyal_prvldg_c1
-Priviledges upset the people and reduce their loyalty to the state.
+Privileges upset the people and reduce their loyalty to the state.
 
 #loyal_autho
 authority
@@ -2444,19 +2438,19 @@ Territory conflict reduces the authority of your government in this territory as
 events
 
 #loyal_events_c1
-Some events can affect temporarly the loyalty of the territory.
+Some events can temporarily effect the loyalty of the territory.
 
 #loyal_revolts
 recent revolts
 
 #loyal_revolts_c1
-Recent unrest and revolts temporarly increase loyalty of the territory
+Recent unrest and revolts temporarily increase loyalty of the territory
 
 #loyal_stateev
 recent state events
 
 #loyal_stateev_c1
-Recent state events temporarly affecting the loyalty of the territory
+Recent state events temporarily affecting the loyalty of the territory
 
 #loyal_resist
 resistance!
@@ -2507,7 +2501,7 @@ Maximum resistance: [x]
 The maximum resistance points this territory can have. Resistance is limited by the total population of the territory.
 
 #resist_hloss
-Defeat penalty: [x] Honnor
+Defeat penalty: [x] Honor
 
 #resist_hloss_c1
 The amount of honor that will be lost as a penalty if Partisans manage to free this territory. 
@@ -2591,7 +2585,7 @@ Capital distance is costing you [x]% of the total produced administration of [y]
 [x]% from a distance of [y] territories with the capital
 
 #admin_dist_c3
-[x]% from territorial status distance modificator of [y]%
+[x]% from territorial status distance modifier of [y]%
 
 #admin_claim
 Regional claims
@@ -2606,7 +2600,7 @@ number of claims: [x]
 Regional territories
 
 #admin_ter_c1
-The management cost of all the additionnal territories belonging to this region.
+The management cost of all the additional territories belonging to this region.
 
 #admin_ter_c2
 number of annexed territories: [x]
@@ -2648,10 +2642,10 @@ sickness
 murders
 
 #growth_mage
-aging porcos becoming oldpigs
+aging Porcos becoming oldpigs
 
 #growth_munitsup
-aging in formations: [x] porcos in supported units (free support for [y])
+aging in formations: [x] Porcos in supported units (free support for [y])
 
 #growth_snew
 female piglets reaching adulthood
@@ -2693,7 +2687,7 @@ natural deaths
 breeding rate
 
 #breed_chance_dscr
-The predicetd percentage of sows that will have piglets during the next generation.
+The predicted percentage of sows that will have piglets during the next generation.
 
 #breed_chance_c
 [x] sows will breed during the next generation
@@ -2723,13 +2717,13 @@ fertility
 the average number of piglets per litter
 
 #growth_genlen
-generation lenght
+generation length
 
 #growth_genlen_c1
 The amount of time a generation of Porcos lasts. 
 
 #growth_genlen_c2
-Porcos live up to 5 generations: one as a piglet, 3 as adults and 1 as oldpigs. That makes their total lifespan last up to [x].
+Porcos live up to 5 generations: 1 as a piglet, 3 as adult and 1 as an oldpig. That makes their total lifespan last up to [x].
 
 #growth_pergen
 next generation prediction
@@ -2798,7 +2792,7 @@ Reinforcing troop
 Disbanding units
 
 #ui_recruit_trsfr
-Transfering units
+Transferring units
 
 #ui_recruit_support_1
 Military support of this territory
@@ -2810,10 +2804,10 @@ Max support:[x] units.
 Currently supporting: [x] units.
 
 #ui_recruit_pop_1
-Total active population: [x] porcos.
+Total active population: [x] Porcos.
 
 #ui_recruit_pop_2
-Jobless: [x] porcos.
+Jobless: [x] Porcos.
 
 #ui_recruit_resist
 You cannot recruit new units in a territory with resistance.
@@ -2831,10 +2825,10 @@ You cannot recruit or disband troops in territories you do not control.
 Cannot recruit: support limit reached and overdraft is not allowed in this territory.
 
 #ui_recruit_noup
-( militias upkeep is lower as it doesnt include a soldier's salary )
+( militias upkeep is lower as it does not include a soldier's salary )
 
 #ui_recruit_nopop
-( no population mobilized because it's a local militia )
+( no population mobilized because it is a local militia )
 
 #ui_recruit_cost_1
 Cost to recruit one unit.
@@ -2903,7 +2897,7 @@ This action will cost [x] Action Points to the formation (however note that you 
 Toughness
 
 #ui_statunit_t_dscr
-Toughness if the capacity of the unit to withstand damage when hit, determining it's chances to be actually wounded.
+Toughness if the capacity of the unit to withstand damage when hit, determining its chances to be actually wounded.
 
 #ui_statunit_a
 Armor
@@ -2915,13 +2909,13 @@ Armor gives chances to deflect enemy hits.
 Movement
 
 #ui_statunit_m_dscr
-The movement speed of the unit. Also affects the movement speed of the formation in the worldmap (slowest unit defines worldmap speed).
+The movement speed of the unit. Also affects the movement speed of the formation in the world map (slowest unit defines world map speed).
 
 #ui_statunit_mass
 Mass
 
 #ui_statunit_mass_dscr
-The mass of the unit combined with it's speed gives a damage bonus when charging.
+The mass of the unit combined with its speed gives a damage bonus when charging.
 
 #ui_statunit_ms
 Melee skill
@@ -2957,19 +2951,19 @@ Amount of damage inflicted to the enemy when hit.
 Range
 
 #ui_statunit_rg_dscr
-For range units, the maximum distance (in terrain tiles) at which they can engage ennemies.
+For range units, the maximum distance (in terrain tiles) at which they can engage enemies.
 
 #ui_statunit_p
 Pillage
 
 #ui_statunit_p_dscr
-The pillage ability of the unit. Improves the speed and efficiency of pillaging ennemy buildings.
+The pillage ability of the unit. Improves the speed and efficiency of pillaging enemy buildings.
 
 #ui_statunit_c
 Carrying capacity
 
 #ui_statunit_c_dscr
-The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units' carrying capacity.
+The amount of resource this unit can carry. The formation's inventory capacity is the sum of all its units carrying capacity.
 
 #ui_troop_reinforce
 Reinforce
@@ -3011,7 +3005,7 @@ Loading resources into formation's inventory
 Unloading resources from formation's inventory
 
 #ui_foinv_destr
-Destroy resrouces from formation's inventory
+Destroy resources from formation's inventory
 
 #ui_foinv_choose
 Choose resource
@@ -3029,10 +3023,10 @@ State-owned stocks: [x]
 Purchasing [x] resources at local price of [y] = [z] coins + [v] from local waste.
 
 #ui_foinv_loadfrm
-Where to load ressources from
+Where to load resources from
 
 #ui_foinv_unlodto
-Where to unload ressources
+Where to unload resources
 
 #ui_foinv_target
 Territory's storages
@@ -3143,7 +3137,7 @@ This building cannot be placed on water.
 This building must be placed on water of at least [x] of depth.
 
 #ui_builderr_adjcnt
-Must be placed adjascent to it's owner.
+Must be placed adjacent to its owner.
 
 #ui_builderr_bldrs
 This building requires professional construction and you do not have any builders.
@@ -3185,19 +3179,19 @@ The troop will redeploy to face any incoming threat and engage immediately in a 
 Restricted engagement
 
 #ui_dpltool_mdef_dscr
-The troop will engage any ennemy entering within the specified range from it's original deployment position. The troop will move in any way necessary to do so.
+The troop will engage any enemy entering within the specified range from its original deployment position. The troop will move in any way necessary to do so.
 
 #ui_dpltool_mzon
 Defensive zone
 
 #ui_dpltool_mzon_dscr
-The troop remains in the selected defensive zone and prevents ennemies from entering it. The troop will move within the zone to face any incoming ennemy. Range units will engage any ennemy in range from the edge of the zone.
+The troop remains in the selected defensive zone and prevents enemies from entering it. The troop will move within the zone to face any incoming enemy. Range units will engage any enemy in range from the edge of the zone.
 
 #ui_dpltool_mstand
 Stand ground
 
 #ui_dpltool_mstand_dscr
-The troop will keep this position no matter what and only engage if there's immediate contact. If it's a range unit, it will fire any available target from this position.
+The troop will keep this position no matter what and only engage if there is immediate contact. If a unit has a ranged attack they will fire on any available target from this position.
 
 #ui_dpltool_mbdg
 Defensive building
@@ -3233,10 +3227,10 @@ Disband formation
 Move camp position
 
 #bc_menuform_disb_1
-Are you sure you want to disband this formation ?
+Are you sure you want to disband this formation?
 
 #bc_menuform_disb_2
-If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
+If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate its population (if not local).
 
 #bc_menuform_disb_3
 You cannot disband in territories you do not control!
@@ -3257,7 +3251,7 @@ declare war
 DECLARING WAR
 
 #ui_confwar
-Are you sure you want to declar war ?
+Are you sure you want to declare war?
 
 #contact_sending
 Sending message to [x] of [y]...
@@ -3278,7 +3272,7 @@ Message from [x]
 Greetings,
 
 #contact_renegoc
-Greetings, I wish to renegociate the terms of our current treaty and here is my offer.
+Greetings, I wish to renegotiate the terms of our current treaty and here is my offer.
 
 #contact_reply
 Reply to message
@@ -3305,13 +3299,13 @@ treaty duration
 after this duration, the treaty will end
 
 #treated_dur_c2
-(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
+(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be canceled without any penalty)
 
 #treated_new
 NEW TREATY
 
 #treated_pers
-Remains effective even after treaty's duration but it can then be cancelled without breaking closes
+Remains effective even after treaty's duration but it can then be canceled without breaking closes
 
 #treated_inst
 Applied once, at the treaty's signature
@@ -3338,10 +3332,10 @@ Ask termination
 Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
 
 #b_renegoc
-Renegociate
+Renegotiate
 
 #b_renegoc_c1
-Send a renegociation proposal. If agreed by the other party, the current treaty will be updated.
+Send a renegotiation proposal. If agreed by the other party, the current treaty will be updated.
 
 #ui_treat_termsent
 Request to agree to terminate this treaty sent to the other party!
@@ -3350,10 +3344,10 @@ Request to agree to terminate this treaty sent to the other party!
 Cancel offer
 
 #b_trtcancelofr_c1
-Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+Your treaty proposition will be canceled and the other party will no longer be able to accept it.
 
 #ui_treat_cancld
-Your treaty proposal was cancelled.
+Your treaty proposal was canceled.
 
 #ui_treat_eng1
 You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
@@ -3365,7 +3359,7 @@ This will not trigger war with [x].
 This will trigger war with [x].
 
 #ui_treat_end
-You are not engaged by this treaty and can choose to end it without penalty. All it's terms will cease to apply for both members. Are you sure you want to proceed ?
+You are not engaged by this treaty and can choose to end it without penalty. All its terms will cease to apply for both members. Are you sure you want to proceed?
 
 #menuevt_title
 EVENTS
@@ -3440,10 +3434,10 @@ GO TO REGION
 Number of units in this formation.
 
 #ui_form_threat
-Military strenght of this formation.
+Military strength of this formation.
 
 #ui_form_threat
-Military strenght of this formation.
+Military strength of this formation.
 
 #ui_form_AP_c1
 Action Points: [x]/100   ([y] [z])
@@ -3497,7 +3491,7 @@ The movement cost of this territory is used to determine the Action Points cost 
 - Diplomatic stance [y]: [x]
 
 #ui_tile_movcost_ntr
-netural
+neutral
 
 #ui_tile_movcost_own
 own territory
@@ -3536,7 +3530,7 @@ home
 The home city supporting these units: Porcos grow old and need to be replaced by new ones coming from the home city.
 
 #ui_form_sprt_c2
-This formation currently requires [x] porcos per generation from it's home to be maintained.
+This formation currently requires [x] Porcos per generation from its home to be maintained.
 
 #ui_form_sethome
 Set current territory as home
@@ -3554,19 +3548,19 @@ Upkeep of this formation
 (equipment + soldier's salary)
 
 #ui_form_upkp2
-(lower upkeep for militias: equiment only)
+(lower upkeep for militias: equipment upkeep only)
 
 #ui_conf_sure
 Are you sure?
 
 #ui_conf_renonce
-WARNING: You will no longer control this territory: left on it's own, this territory will fall into anarchy.
+WARNING: You will no longer control this territory: left on its own, this territory will fall into anarchy.
 
 #ui_conf_abandon
-The territory will be cleared. All it's population will be transfered in one of more formations, taking all the resources they can carry with them.
+The territory will be cleared. All its population will be transfered in one of more formations, taking all the resources they can carry with them.
 
 #ui_conf_capital
-Do you really want to set this territory as your new capital ? 
+Do you really want to set this territory as your new capital? 
 
 #b_renonce
 Renounce control of this territory
@@ -3584,13 +3578,13 @@ The current status of this territory doesn't allow you to renounce to its contro
 Evacuate this territory
 
 #err_reg_abdn1
-This territory cannot be evacutated while there is a battle taking place in it.
+This territory cannot be evacuated while there is a battle taking place in it.
 
 #err_reg_abdn2
-This territory cannot be evacutated because it's loyalty is too low.
+This territory cannot be evacuated because its loyalty is too low.
 
 #err_reg_abdn3
-This territory cannot be evacutated while it has an active resistance movement.
+This territory cannot be evacuated while it has an active resistance movement.
 
 #err_reg_abdn4
 The current status of this territory doesn't allow you to order its evacuation.
@@ -3626,7 +3620,7 @@ Colonies cannot claim new territories!
 Administration cost
 
 #regclaim_acst_c1
-Maintaining this claim will cost [x] of Administration from the parent territory.
+Maintaining this claim will cost [x] of administration from the parent territory.
 
 #b_movcapit
 Set this territory as capital
@@ -3662,7 +3656,7 @@ Insufficient Action Points to perform this action yet!
 You cannot move here.
 
 #ui_wrldmov_er3
-This formation is currently immmobilized and cannot move!
+This formation is currently immobilized and cannot move!
 
 #ui_wrldmov_er4
 You cannot move here because you have no right of passage with the owner of this territory!
@@ -3698,7 +3692,7 @@ Total amount of work that this building can currently get done.
 How much this building contributes to the total territory's wealth.
 
 #ui_bdg_wl_dscr2
-[x] of producing workforce * [y] = [z] of additionnal wealth
+[x] of producing workforce * [y] = [z] of additional wealth
 
 #ui_bdg_wu_dscr
 How much of the available workforce is currently being used and busy producing.
@@ -3719,10 +3713,10 @@ Total effect of the state on this building's efficiency.
 Many state policies affect the efficiency of buildings.
 
 #ui_bdg_ef3_dscr
-The building's placement effect on it's efficiency.
+The building's placement effect on its efficiency.
 
 #ui_bdg_ef3_dscr2
-Road connection and proximity of certain other buildings can affect it's efficieny [not implemented yet].
+Road connection and proximity of certain other buildings can affect its efficiency. [not implemented yet]
 
 #ui_bdg_ef4_dscr
 If unprofitable for its workers, efficiency of the building is progressively reduced.
@@ -3737,7 +3731,7 @@ sold directly
 [x]% of the production is put on the market directly by the workers of this building.
 
 #ui_bdg_pdet_s
-[x]% of it ([y]) is successfuly sold at a price of [z] per unit (unsold stocks are lost).
+[x]% of it ([y]) is successfully sold at a price of [z] per unit (unsold stocks are lost).
 
 #ui_bdg_pdet_2
 sold via traders
@@ -3812,7 +3806,7 @@ producer's share
 The share of the sales that goes back to the producers of the resources: merchants only pay them depending on the sales and unsold stocks are not paid.
 
 #ui_bdgind_nbprd1
-The current number of productions, depending on the buidlings's workforce and required materials availablity.
+The current number of productions, depending on the building's workforce and required materials availability.
 
 #ui_bdgind_nbprd2
 Each production generates [x] units of [y] and require [z] of workforce. 
@@ -3827,7 +3821,7 @@ The current production rate, depending of all the required material's availabili
 Currently producing [x] units of [y] [z].
 
 #ui_bdgind_curcons
-Currently consumming [x] units of [y] [z] for this production.
+Currently consuming [x] units of [y] [z] for this production.
 
 #ui_bdgind_mat1
 Set to use [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
@@ -4016,7 +4010,7 @@ The trade route operator is the city dealing with the transportation of the good
 It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route’s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+The cost of cargo is exponential to the trade route's distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce its cargo cost. 
 
 #ui_troute_vol
 Cargo volume
@@ -4118,7 +4112,7 @@ Army
 An army is composed by permanently mobilized units, costing upkeep.
 
 #menu_nfrm_t1_dscr2
-They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+They require constant support from their home to replace aging Porcos, and recruiting new units removes Porcos from the territory.
 
 #menu_nfrm_t1_dscr3
 Armies can move into other territories and their presence increases state authority.
@@ -4127,13 +4121,13 @@ Armies can move into other territories and their presence increases state author
 Militia
 
 #menu_nfrm_t2_dscr1
-A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it is attacked.
 
 #menu_nfrm_t2_dscr2
-Militias don’t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Militias do not monopolize Porcos permanently, allowing them to keep a job and its upkeep is lower as its soldiers do not require a salary.
 
 #menu_nfrm_t2_dscr3
-However , the militia cannot move to other territory s and decreases the state authority.
+However, the militia decreases the state authority and cannot move to other territories.
 
 #menu_nfrm_type3
 National army
@@ -4172,7 +4166,7 @@ You're missing [x] of [y] to upgrade this building to [z].
 You do not have enough coins to upgrade this building to [x].
 
 #menu_bdg_up_err3
-This upgrade requires professionnal construction and you do not have any builders!
+This upgrade requires professional construction and you do not have any builders!
 
 #menu_tch_curknw
 Current knowledges
@@ -4181,7 +4175,7 @@ Current knowledges
 Knowledge use
 
 #menu_tch_curuse_c1
-Your societe currently has [x] of knowledges, and a capacity to store [y].
+Your society currently has [x] of knowledges, and a capacity to store [y].
 
 #menu_tch_curuse_c2
 You will lose knowledges if your storage capacity gets lower than your current knowledges.
@@ -4304,7 +4298,7 @@ You don't have any projects available!
 Projects are unlocked by "Ideas": events that are triggered by your population. Improving the intelligence and life quality of your population is generally a good way to increase odds of getting new ideas.
 
 #menu_prj_none3
-Projects then require researchers and time as well as materials and buget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
+Projects then require researchers and time as well as materials and budget. Once completed, if successful, they give rewards such as unlocking a new "Knowledge".
 
 #menu_rschr_title
 Adding researchers...
@@ -4322,7 +4316,7 @@ Estimated time to complete this project
 success
 
 #menu_rschr_odds_c1
-Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will need to be restarted from scratch.
+Once completed, this project currently has [x]% chances to be successful and to trigger its rewards. If failed, the project will need to be restarted from scratch.
 
 #menu_rschr_odds_c2
 100 +researchers efficiency [x] -difficulty [y] = [z]% success odds
@@ -4370,10 +4364,10 @@ Forget this knowledge
 You cannot forget this knowledge because it is currently required by other more recent ones such as: '[x]'.
 
 #ui_techfrgt_1
-Forget this knowledge ?
+Forget this knowledge?
 
 #ui_techfrgt_2
-Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all it's current effects. You will need to complete it's project again in order to recover it if you need to.
+Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all its current effects. You will need to complete its project again in order to recover it if you need to.
 
 #pop_all
 total population
@@ -4427,13 +4421,13 @@ Score from your subordinates: you receive a small portion of the score of all yo
 Score
 
 #menu_scr_tot_c
-You personnal score.
+You personal score.
 
 #menu_scr_vpscr
 From Par score
 
 #menu_scr_vpscr_c1
-Par score is your score above the reference score of [y]pts. You get 1 Victory point for every [x]pts of Par score.
+Par score is your score above the reference score of [y] points. You get 1 Victory point for every [x] points of Par score.
 
 #menu_scr_vpscr_c2
 The average score and the cost of each victory points are dynamic and based on all player's scores.
@@ -4448,7 +4442,7 @@ Victory points you earned by completing Victory point missions.
 Victory points
 
 #menu_scr_vp_c
-You personnal victory points.
+You personal victory points.
 
 #menu_scr_avg
 Reference Score
@@ -4457,7 +4451,7 @@ Reference Score
 Used to determine your Par Score. It's value is based on all player's scores. 
 
 #menu_scr_avg_c2
-Having a personnal score above it grants victory points.
+Having a personal score above it grants victory points.
 
 #menu_scr_vpcost
 Victory point cost
@@ -4487,7 +4481,7 @@ Your nation's total score
 Your nation's total Victory points
 
 #menu_scr_govnam
-Your personnal government's name
+Your personal government's name
 
 #menu_scr_t1
 Rank
@@ -4619,7 +4613,7 @@ Generate a random nation's name
 character status
 
 #gamelob_status_c1
-A character becomes "inactive" if offline for too long. It then becomes available for succession: any new player joining the game can spawn as its sucessor and takeover all its posessions.
+A character becomes "inactive" if offline for too long. It then becomes available for succession: any new player joining the game can spawn as its successor and takeover all its possessions.
 
 #gamelob_status_c2
 The amount of time before a character becomes inactive depends on its total playtime and on the game's settings.
@@ -4739,19 +4733,19 @@ Power transfer
 Can vote 
 
 #facttl_vote_c1
-Wether this rank can participate in voting processes or not.
+Whether this rank can participate in voting processes or not.
 
 #facttl_rcrut
 Can recruit
 
 #facttl_rcrut_c1
-Wether this rank is allowed to recruit new members into the Nation or not.
+Whether this rank is allowed to recruit new members into the Nation or not.
 
 #facttl_prom
 Can promote
 
 #facttl_prom_c1
-Wether this rank is allowed to manage ranks of its subordinates or not (promoting and unpromoting).
+Whether this rank is allowed to manage ranks of its subordinates or not (promoting and demoting).
 
 #facttl_rplcm
 Succession
@@ -4763,31 +4757,31 @@ How the succession of this character is managed if he becomes inactive.
 Election (direct)
 
 #frplcm_e1_c1
-A sucessor is elected by the direct subordinates of this rank only.
+A successor is elected by the direct subordinates of this rank only.
 
 #frplcm_e2
 Election (all)
 
 #frplcm_e2_c1
-A sucessor is elected by all the subordinates of this rank.
+A successor is elected by all the subordinates of this rank.
 
 #frplcm_heir
 Chosen heir
 
 #frplcm_heir_c1
-The rank holder himself chooses its heir that can take over if he becomes inactive.
+The rank holder themselves choose their heir that can take over if they become inactive.
 
 #frplcm_nom
 Nominated
 
 #frplcm_nom_c1
-A sucessor is appointed by the superior of this rank.
+A successor is appointed by the superior of this rank.
 
 #facttl_xpl
-Can expell
+Can expel
 
 #facttl_xpl_c1
-If this rank is allowed to expell its subordinates from the Nation.
+If this rank is allowed to expel its subordinates from the Nation.
 
 #facttl_mngter
 Can dismantle
@@ -4817,7 +4811,7 @@ Remove this rank
 Click to delete the currently selected rank
 
 #fachier_remrk_err1
-You cannot remove this rank because its currently used by one or more members!
+You cannot remove this rank because it is currently used by one or more members!
 
 #facnewrk_title
 Adding a new rank...
@@ -4841,7 +4835,7 @@ Your title allows you to manage this hierarchic position of this character: prom
 Expel
 
 #facmmb_xpl_c1
-Your title allows you to expell this character from the Nation.
+Your title allows you to expel this character from the Nation.
 
 #facmmb_quit
 Quit
@@ -4856,13 +4850,13 @@ WARNING: if you are bound to this nation by treaties, this will trigger the brea
 ACTIVE
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+This character is still actively playing the game and is not eligible for succession.
 
 #facmmb_inact
 INACTIVE
 
 #facmmb_inact_c1
-This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
+This character hasn't been online for a while and is now considered inactive. He is eligible for succession within the Nation.
 
 #facmmb_pwrlss
 POWERLESS
@@ -4874,13 +4868,13 @@ This character controls not territories and is powerless.
 DEAD
 
 #facmmb_dead_c1
-This character is dead: it controls no territories and was abandonned by its player.
+This character is dead. It controls no territories and was abandoned by its player.
 
 #facmmb_rplc
 Replace
 
 #facmmb_rplc_c1
-This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
+This character is inactive and its title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
 
 #facmmb_tax
 Taxes
@@ -4904,7 +4898,7 @@ State power can be received from direct subordinates and transfered to the super
 Maintenance
 
 #facmmb_mng_c1
-State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
+State power consumed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
 
 #facmmb_mrshl
 Army Marshal
@@ -4940,7 +4934,7 @@ Set rank
 Expel [x] from the Nation
 
 #facxpl_txt
-As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
+As a superior of [x], your rank allows you to expel this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
 
 #facxpl_xpl
 Expel!
@@ -5066,7 +5060,7 @@ Autonomous territory attached to a state.
 Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
 
 #regstatus_outpost_1
-Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+Financially dependent, non-administered and autonomous territory. Useful for small remote encampments made to exploit strategic resources.
 
 #regstatus_city_1
 Regional center of your state, fully integrated and administered by your government.
@@ -5153,7 +5147,7 @@ cannot overdraft
 WARNING: changing current status will trigger an immediate loyalty event of [x]!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will increase the honor penalty to [z] in case of defeat against partistans, and will trigger an immediate penalty of [x] resistance and [y] loyalty!
+WARNING: claiming this occupied territory will increase the honor penalty to [z] in case of defeat against partisans, and will trigger an immediate penalty of [x] resistance and [y] loyalty!
 
 #regstatus_title
 Territory status
@@ -5165,10 +5159,10 @@ Modifying the administrative status of this territory...
 Set new status to
 
 #regstatus_setcap_1
-You can only have one capital city: your current capital will lose its status and become a regular city. Note that moving your capital may affect adminstration and culture in your other cities as well as you state power and finances.
+You can only have one capital city: your current capital will lose its status and become a regular city. Note that moving your capital may affect administration and culture in your other cities as well as you state power and finances.
 
 #regstatus_setcit_1
-This territory will form a new region and will cost additionnal State power. You will then be able to attach other territories to this city as part of that region. 
+This territory will form a new region and will cost additional State power. You will then be able to attach other territories to this city as part of that region. 
 
 #regstatus_setcol_1
 WANRING: This is irreversible. You will lose direct control of this territory. Region gets a stable administration, loyalty and culture. No maintenance cost and no state power cost. Generates 5% income tax. If a player spawns in it, he starts in your nation with a colonial treaty of 5% income tax. 
@@ -5219,7 +5213,7 @@ Peace treaty
 Treaty of unification
 
 #treaty_vassal
-Vassality treaty
+Vassal treaty
 
 #treaty_trade
 Trading agreement
@@ -5273,13 +5267,13 @@ You cannot convert to a militia outside your own cities!
 You cannot convert formations in resistant cities.
 
 #formact_sack_1
-Warning: this action will cost you 15 of honnor, if successful!
+Warning: this action will cost you 15 of honor, if successful!
 
 #formact_sack_2
-The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
+The objective will be to first eliminate all the defenses of the territory. If successful, they will then proceed to methodically pillage as much resources as possible, and inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
 
 #formact_sack_3
-This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honnor.
+This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honor.
 
 #wkprio_0
 Avoided
@@ -5369,7 +5363,7 @@ WARNING: changing the home region will deplete all its Action Points and will tr
 Select the desired home region for this formation.
 
 #formhome_sel_c2
-( The formation needs to be positionned in the desired city to be able to rebase in it )
+( The formation needs to be positioned in the desired city to be able to re-base in it )
 
 #menu_mission_sel
 Action
@@ -5444,13 +5438,13 @@ You found this interesting.
 You didn't find this interesting.
 
 #chron_none
-You havn't been reached by any news from the outside world yet!
+You have not been reached by any news from the outside world yet!
 
 #antl_name
 Annex tool
 
 #antl_dscr
-Allows you to reorganise annexes by changing their owning buildings.
+Allows you to reorganize annexes by changing their owning buildings.
 
 #antl_close
 CLOSE
@@ -5483,10 +5477,10 @@ All available jobs are filled!
 Employed
 
 #regmenu_actv_c1
-All actives are currently employed!
+All Porcos are currently employed!
 
 #regmenu_actv_c2
-[x]% of actives are jobless ([y]).
+[x]% Unemployment ([y] Porcos).
 
 #regmenu_inc
 Budget balance of this territory
@@ -5504,7 +5498,7 @@ A badly administered territory generates more waste and corruption, reducing all
 Total wealth of this territory
 
 #regmenu_wealth_dscr
-Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+Wealth is an objective measurement of all productive work being currently done in this territory, independent of their market values in coins.
 
 #regmenu_gdp
 GDP of this territory
@@ -5531,7 +5525,7 @@ Subjugate
 You can automatically subjugate [x].
 
 #subjug_dscr
-This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transferring State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
 
 #subjug_cant
 You cannot subjugate [x] yet.
@@ -5546,7 +5540,7 @@ To subjugate this character you need to take control of:
 Subjugate!
 
 #info_cltrtrsfr
-[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+[x] people relocated from [y] to [z], transferring [v] culture from their home town into [z].
 
 #info_supportlmt
 This territory cannot support more units and does not allow overdraft!

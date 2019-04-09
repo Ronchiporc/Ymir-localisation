@@ -32,7 +32,7 @@ Power transfer
 Transfers [x]% of state power
 
 #agrim_admtax_3
-[x] tranfers a % of his state power to [y].
+[x] transfers a % of his state power to [y].
 
 #agrim_trad_1
 Trade agreement
@@ -69,15 +69,6 @@ Joining the [x]
 
 #agrim_vassal_3
 [x] will join the nation of [y].
-
-#agrim_fvassal_1
-Subjugated
-
-#agrim_fvassal_2
-Subjugated by the [x]
-
-#agrim_fvassal_3
-[x] will be subjugated by the nation of [y].
 
 #agrim_war_1
 Declare war to...
@@ -155,13 +146,13 @@ Honor commitment
 Level of commitment of [x] to respect this treaty.
 
 #treaty_honor_c2
-Proportionnal honor is lost if [x] breaks it.
+Proportional honor is lost if [x] breaks it.
 
 #treaty_warbound
 War bound
 
 #treaty_warbound_c1
-Wether or not [x] will automatically declare war
+Whether or not [x] will automatically declare war
 
 #treaty_warbound_c2
 if [x] breaks this treaty.
@@ -185,4 +176,4 @@ All members of the Nation get automatic trading rights with each other.
 National defensive pact
 
 #diplo_ndef_dscr_1
-Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
+Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the aggressor. 

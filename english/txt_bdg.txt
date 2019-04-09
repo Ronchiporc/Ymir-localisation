@@ -2,7 +2,7 @@
 housing
 
 #bdg_hous_dscr
-Accomodates population, improving their health and life quality.
+Accommodates population, improving their health and life quality.
 
 #bdg_prod_n
 production building
@@ -68,7 +68,7 @@ Battlements can only be built on platforms. They provide a combat bonus to units
 annex
 
 #bdg_annex_dscr
-Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
+Annexes are buildings that belong to another and provide it with additional production sources or distribution capacities.
 
 #bdg_pltf_n
 platforms
@@ -80,7 +80,7 @@ Platforms are a pigmade tile elevation you can build over. Defensive structures 
 stairs
 
 #bdg_stairs_dscr
-Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. Press Spacebar to change the direction.
+Allows Porcos to access tiles with a different height. Place against platforms or cliffs to give access. Press Spacebar to change the direction.
 
 #bdg_gates_n
 gate
@@ -149,7 +149,7 @@ Can store food resources.
 Slum
 
 #txt_hslum_dscr
-Slums cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life Quality and no health. 
+Slums cost nothing and will spawn automatically when Porcos can't find any available dwelling. They provide low Life Quality and no health. 
 
 #txt_hrustc_n
 House
@@ -167,7 +167,7 @@ Comfortable dwellings that provide high life quality and health bonuses.
 Apartment
 
 #txt_hapt_dscr
-Multistorey buildings that provide housing for multiple households.
+Multistory buildings that provide housing for multiple households.
 
 #txt_hunter_n
 Hunter
@@ -239,7 +239,7 @@ Stone battlements providing cover from enemy fire to units on standing on the pl
 Machicolated stone battlements
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+Heavy battlements made of solid stone blocs with machicolations providing excellent cover from enemy fire to units standing on the platform during battles.
 
 #txt_batlm4_n
 Hoardings
@@ -293,7 +293,7 @@ A road made of small stone blocks composed artistically.
 Mosaic plaza
 
 #txt_road6_dscr
-A fancy floor made of small, colourful tiles of stone, glass and other materials.
+A fancy floor made of small, colorful tiles of stone, glass and other materials.
 
 #txt_road7_n
 Marble plaza
@@ -431,7 +431,7 @@ Tool-makers produce different types of tools. Tools are used for many things, es
 Items
 
 #txt_items_dscr
-These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
+These resources are abandoned on the floor and will decay with time unless they're quickly stored in a proper storage!
 
 #txt_storegrnd_n
 Ground storage
@@ -467,7 +467,7 @@ Stairs that can be placed against cliffs or walls of any height to allow for pas
 Stone stairs
 
 #txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage.  Press Spacebar to change their direction.
+Stairs that can be placed against cliffs or walls of any height to allow for passage. Press Spacebar to change their direction.
 
 #txt_gate1_n
 Wooden gate
@@ -539,13 +539,13 @@ A resting place for land caravans carrying goods across territories. Produces a 
 Docks
 
 #txt_dock_dscr
-Docks for trade ships carrying goods across territories. Produces a large amounr of Cargo which is required to operate trade routes.
+Docks for trade ships carrying goods across territories. Produces a large amount of Cargo which is required to operate trade routes.
 
 #txt_theater_n
 Theater
 
 #txt_theater_dscr
-Provides entertainement to the Porcos.
+Provides entertainment to the Porcos.
 
 #txt_baths_n
 Public baths
@@ -653,7 +653,7 @@ Scribe
 Scribes in the service of the state help keep track of administrative matters.
 
 #txt_eldcounc_n
-Elder's council
+Elders council
 
 #txt_eldcounc_dscr
 A council of elders to solve conflicts in the city.
@@ -722,7 +722,7 @@ Produces paper
 Rumery
 
 #txt_rum_dscr
-A distilery that produces rum from sugarcane.
+A distillery that produces rum from sugarcane.
 
 #txt_trmarket_n
 Market
@@ -734,7 +734,7 @@ Allows the creation of bulk trade offers to exchange goods with other territorie
 Academia
 
 #txt_acedem_dscr
-Wise and knowledgable pigs who study the arts and sciences increase education and culture and contribute to research projects.
+Wise and knowledgeable pigs who study the arts and sciences increase education and culture and contribute to research projects.
 
 #txt_doctor_n
 Doctor
@@ -749,16 +749,16 @@ Primitive tower
 A primitive defensive tower made of wood. Fires javelins.
 
 #txt_wall1_n
-Palissade
+Palisade
 
 #txt_wall1_dscr
 A simple defensive wall made of timber.
 
 #txt_wall2_n
-Mudbrick wall
+Mud-brick wall
 
 #txt_wall2_dscr
-A simple defensive wall made of mudbricks and is weaker but cheaper to maintain than a palissade.
+A simple defensive wall made of mud-bricks and is weaker but cheaper to maintain than a palisade.
 
 #txt_wall3_n
 Cobblestone wall
@@ -770,10 +770,10 @@ A simple defensive wall made of cobblestone held together with crude masonry.
 Brick wall
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks. Stronger than mudbricks.
+A simple defensive wall made of fired bricks. Stronger than mud-bricks.
 
 #txt_wall5_n
-Stoneblocks wall
+Stone block wall
 
 #txt_wall5_dscr
 A solid defensive wall made of stone blocks.
