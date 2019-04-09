@@ -50,7 +50,7 @@ Do you really want to leave and return to the main menu ?
 Currently connected to [x]  ping: [y]
 
 #ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z] )
+Loss rate: [x]% ( sent:[y]  failed:[z]  late:[v])
 
 #ui_connct_stable
 Your connection with the server is stable.
@@ -222,6 +222,12 @@ Toggle tutorials
 
 #menuop_togtut_c1
 Enables the main tutorial and all the help popups when doing things for the first time.
+
+#menuop_togIP
+Hide account
+
+#menuop_togIP_c1
+Hides account infos such as User ID or IPs.
 
 #menuop_resetut
 Reset all
@@ -2287,14 +2293,14 @@ State power transfered from subordinates: [x]
 #statepow_nation_c2
 State power transfered to superior: [x]
 
-#statepow_nation_c3
-Number of direct subordinates: [x]
+#statepow_nation_c31
+[y] direct subordinates: [x]
 
-#statepow_nation_c4
-Distance of direct subordinates: [x]
+#statepow_nation_c41
+Average distance [y] of direct subordinates: [x]
 
-#statepow_nation_c5
-Number of total subordinates: [x]
+#statepow_nation_c51
+[y] total subordinates: [x]
 
 #statepow_forms
 Maintenance of formations

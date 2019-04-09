@@ -71,6 +71,15 @@ Rejoindre le [x]
 #agrim_vassal_3
 [x] rejoindra la nation de [y].
 
+#agrim_fvassal_1
+Subjugation
+
+#agrim_fvassal_2
+Subjugé par le [x]
+
+#agrim_fvassal_3
+[x] se subjugé à la nation de [y].
+
 #agrim_war_1
 Déclarer la guerre à ...
 
