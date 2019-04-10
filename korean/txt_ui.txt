@@ -50,7 +50,7 @@ Ymir Trello
 현재 [x]에 연결됨. 핑:[y]
 
 #ui_connctstat_2
-손실율: [x]%(전송:[y] 실패:[z])
+손실율: [x]%(전송:[y] 실패:[z]  지연:[v])
 
 #ui_connct_stable
 서버와의 접속은 안정적입니다.
@@ -65,7 +65,7 @@ Ymir Trello
 전체화면/창모드
 
 #mainmenu_quit
-게임을 킅내려면 클릭하세요.
+게임을 끝내려면 클릭하세요.
 
 #mainmenu_maxim
 최대
@@ -222,6 +222,12 @@ UI 소리
 
 #menuop_togtut_c1
 처음일 때에 필요한 튜토리얼과 모든 도움말 팝업을 활성화합니다.
+
+#menuop_togIP
+Hide account
+
+#menuop_togIP_c1
+Hides account infos such as User ID or IPs.
 
 #menuop_resetut
 전부 초기화
@@ -2288,13 +2294,13 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 상위권자로 넘어간 국가권력: [x]
 
 #statepow_nation_c3
-직속 부하 인원: [x]
+[y]의 직속 부하 인원: [x]
 
 #statepow_nation_c4
-직속 부하들의 거리 : [x]
+[y]의 직속 부하들의 거리 : [x]
 
 #statepow_nation_c5
-총 부하 인원: [x]
+[y]의 총 부하 인원: [x]
 
 #statepow_forms
 부대 유지
