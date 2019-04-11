@@ -70,6 +70,15 @@ Joining the [x]
 #agrim_vassal_3
 [x] will join the nation of [y].
 
+#agrim_fvassal_1
+Subjugated
+
+#agrim_fvassal_2
+Subjugated by the [x]
+
+#agrim_fvassal_3
+[x] will be subjugated by the nation of [y].
+
 #agrim_war_1
 Declare war to...
 
