@@ -224,10 +224,10 @@ UI 소리
 처음일 때에 필요한 튜토리얼과 모든 도움말 팝업을 활성화합니다.
 
 #menuop_togIP
-Hide account
+계정 정보 숨기기
 
 #menuop_togIP_c1
-Hides account infos such as User ID or IPs.
+사용자의 ID나 IP주소 등의 계정 정보가 화면상에 표시되는 것을 숨깁니다.
 
 #menuop_resetut
 전부 초기화
