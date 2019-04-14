@@ -1778,10 +1778,10 @@ GDP
 이 지역의 문화는 아직 [x] 국가에 통합하지 못 했습니다. 그것은 아직 [y]의 것입니다.
 
 #reggrwth_eff
-효과: 시민 수의 발전을 결정합니다.
+효과: 시민 수의 성장을 결정합니다.
 
 #reggrwth_1
-성장은 이 지역에서 시민수에 대한 인구통계학적인 발전을 말합니다.
+이 지역에서 시민수에 대한 인구통계학적인 성장을 말합니다.
 
 #reggrwth_2
 성장은 다음 세대 안에 얼마나 많은 부부가 아이를 낳을지를 결정하는 시민의 '출산 의지'에 크게 좌우됩니다.
@@ -2639,7 +2639,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 늙은 돼지 다양성
 
 #growth_mnew
-어른이 되어가는 수컷 새끼들
+성숙기에 도달한 아기돼지들
 
 #growth_msick
 질병
@@ -2648,13 +2648,13 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 살인
 
 #growth_mage
-늙어가는 돼지가 늙은 돼지가 되다.
+돼지들의 늙음
 
 #growth_munitsup
-부대의 고령화: [x] 수의 돼지 (free support for [y])
+부대의 고령화: [x] 수의 돼지가 유닛들로 지원되었습니다. ([y]까지 안정적으로 지원됩니다.)
 
 #growth_snew
-성년이 되는 암컷 돼지.
+성숙기에 도달한 암컷 돼지
 
 #growth_ssick
 질병
@@ -2663,7 +2663,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 살인
 
 #growth_sage
-늙어가는 암퇘지들이 늙은 돼지가 되다.
+암컷 돼지들의 늙음
 
 #growth_pnew
 출산
@@ -2675,10 +2675,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 살인
 
 #growth_page
-성년이 되다
+성숙기에 도달한 아기돼지들
 
 #growth_onew
-고령화 인구가 늙은 돼지가 되고있습니다.
+돼지들의 늙음
 
 #growth_osick
 질병
@@ -5513,10 +5513,10 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 10개의 경제 주기에 걸쳐 이 영역(주 또는 인구)에서 발생한 모든 소득의 합계입니다.
 
 #regmenu_growth_1
-현재의 인구통계학적 발전: [x] 돼지들 [y]입니다.
+인구통계학적 성장: [y], 돼지들이 [x]
 
 #regmenu_growth_2
-활동인구: [x] [y]
+활동인구: [y], [x] 
 
 #regmenu_vitals_1
 인구는 현재 필수욕구 [x]%를 만족하고 있습니다.
