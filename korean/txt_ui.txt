@@ -2630,7 +2630,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 돼지 다양성
 
 #growth_sows
-암퇘지 다양성
+암컷 돼지 다양성
 
 #growth_piglets
 새끼돼지 다양성
@@ -2693,10 +2693,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 출산율
 
 #breed_chance_dscr
-다음 세대 동안 새끼 돼지를 낳을 암퇘지를의 비율.
+다음 세대에 아기 돼지를 낳을 암컷 돼지들의 비율입니다.
 
 #breed_chance_c
-[x] 만큼의 암퇘지는 다음 세대 동안 새끼 돼지를 낳을 것 입니다.
+[x] 만큼의 암컷 돼지는 다음 세대에 아기 돼지를 낳을 것입니다.
 
 #breed_base
 기본 출산율
@@ -2708,19 +2708,19 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 총인구효과
 
 #breed_piglets
-암퇘지 영향력당 아기돼지
+암컷 돼지 영향력당 아기돼지
 
 #breed_smcity
 소도시의 부양책
 
 #breed_vit
-필수욕구의 부재.
+필수 욕구의 부재.
 
 #breed_fertil
 생식력
 
 #breed_fertil_c
-한 배당 평균 새끼 돼지 수
+한 배당 평균 아기 돼지 수
 
 #growth_genlen
 세대 길이
@@ -2729,28 +2729,28 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 한 세대의 돼지가 지속되는 시간의 길이.
 
 #growth_genlen_c2
-돼지는 새끼 돼지로 한 마리, 어른으로 세 마리, 늙은 돼지로 한 마리까지 5대까지 산다. 그것은 그들의 전체 수명을 [x]까지 지속됩니다.
+돼지는 아기 돼지로 한 마리, 어른으로 세 마리, 늙은 돼지로 한 마리까지 5대까지 산다. 그것은 그들의 전체 수명을 [x]까지 지속됩니다.
 
 #growth_pergen
 차세대 예측
 
 #growth_pergen_c
-다음 세대의 총인구의 예측
+다음 세대의 총시민수의 예측
 
 #growth_c
-총인구의 유동변동률
+총시민수의 현재 변동률
 
 #ui_growthdel
 다음 세대에 대한 추정치...
 
 #troop_recruit
-신병을 모집
+신병 모집
 
 #b_dplmode
-전략도구
+전략 도구
 
 #bc_dplmode
-모든 군대의 배치 위치와 명령을 관리할 수 있는 배치 모드로 가십시오.
+모든 부대의 위치와 명령을 관리할 수 있는 배치 모드입니다.
 
 #b_newform
 새 부대
@@ -2768,7 +2768,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 문화
 
 #regctrl_b_m
-군대
+군사
 
 #regctrl_b_g
 정부
