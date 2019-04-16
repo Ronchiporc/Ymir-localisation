@@ -83,25 +83,25 @@ sales tax percent
 set the percent of sales that is to be taxed
 
 #civfx_leadwlth_n
-Leaders privileges
+Vládcovo privilégium
 
 #civfx_leadwlth_dscr
-Leaders get a portion of the territory wealth as a privilege
+Vládce dostává část bohatství území jako jeho privilégium
 
 #civfx_leadwlth_set
-Leaders privilege
+Vládcovo Privilégium
 
 #civfx_leadwlth_setd
 the percentage of territory wealth given as privilege to the leaders
 
 #civfx_leadsal_n
-Leaders salary
+Vládcův plat
 
 #civfx_leadsal_dscr
-Leaders get a salary paid by the state
+Vládci dostávají plat placený státem
 
 #civfx_leadsal_set
-Leaders salary
+Plat vládců
 
 #civfx_leadsal_setd
 amount of the salary in coins
@@ -143,16 +143,16 @@ State workers privilege
 the percentage of territory wealth given as privilege to the State workers
 
 #civfx_offsal_n
-State workers salary
+Plat státních zaměstnanců
 
 #civfx_offsal_dscr
-State workers get a salary paid by the state
+Státní zaměstnanci dostávají plat placený státem
 
 #civfx_offsal_set
-State workers salary
+Plat státních zaměstnánců
 
 #civfx_offsal_setd
-amount of the salary in coins
+množstcí platu v mincích
 
 #civfx_capadmin_n
 capital administration
@@ -194,7 +194,7 @@ počet vůdců v každém městě
 měšťští šlechtici
 
 #civfx_citnob_dscr
-nobles per city
+šlechticů na město
 
 #civfx_reglead_n
 místní vůdcy
@@ -209,7 +209,7 @@ místní šlechtici
 šlechticů na teritorium
 
 #civfx_goldstck_n
-wealth from precious metals
+bohatství ze vzácný materiálů
 
 #civfx_goldstck_dscr
 increases wealth of all territories for each unit of precious metals (gold and silver) in storages
@@ -230,7 +230,7 @@ upravuje spokojenost obyvatelstva
 obchodníci
 
 #civfx_enmerch_dscr
-allows the use of merchants who can sell resources to the population
+umožňuje využití obchodníků kteří jsou schopni prodat zdroje populaci
 
 #civfx_entrout_n
 obchodní stezky
@@ -257,7 +257,7 @@ people's religiosity
 upravuje faktor legitimity náboženství
 
 #civfx_legitp_n
-parliament's power
+moc parlamentu
 
 #civfx_legitp_dscr
 upravuje faktor legitimity parlamentu
@@ -323,16 +323,16 @@ importance of people's approval
 how much people's approval affects legitimacy.
 
 #civfx_statepow_n
-state power
+státní moc
 
 #civfx_statepow_dscr
 upravuje the amount of state power
 
 #civfx_foodcons_n
-food consumption
+zpotřeba jídla
 
 #civfx_foodcons_dscr
-affects the amount of food required by porcos to satisfy their need for food
+ovlivňuje množství jídla které je potřeba pro nasicení potřeb na jídlo prasaty
 
 #civfx_coin_n
 státní kasa(pokladna)
@@ -341,10 +341,10 @@ státní kasa(pokladna)
 umožňuje státu vydělávat a utrácet peníze.
 
 #civfx_agrisav_n
-stocking seeds
+uchovávání zrn
 
 #civfx_agrisav_dscr
-25% of all agricultural food production going directly into granaries
+25% ze všeho zemědělsky vyráběného jídla odváděného do sípek
 
 #civfx_subv_n
 subvention
