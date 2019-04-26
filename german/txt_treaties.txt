@@ -26,7 +26,7 @@ Gibt [x]% des Münzeinkommens.
  [x] überträgt einen Prozentsatz seines gesamten Münzeinkommens an [y].
 
 #agrim_admtax_1
-Leistungsübertragung
+Machtübertragung
 
 #agrim_admtax_2
 Überträgt [x]% der Staatsmacht
@@ -110,7 +110,7 @@ Einrichtung einer vertraglich gebundenen Handelsroute
 Region abgeben
 
 #agrim_givreg_2
-Gibt den Bereich von '[x]' ab. 
+Gibt den Bereich von '[x]' ab.
 
 #agrim_givreg_3
 Übertrage das Eigentumsrecht an einer Region auf [y].
@@ -176,4 +176,4 @@ Alle Mitglieder der Nation erhalten automatische Handelsrechte untereinander.
 Nationaler Verteidigungspakt
 
 #diplo_ndef_dscr_1
-Jede Kriegserklärung gegen ein Nationsmitglied löst eine automatische Kriegserklärung aller anderen Mitglieder der Nation aus, wobei die Unterbrechung auf der Seite des Angreifers liegt. 
+Jede Kriegserklärung gegen ein Nationsmitglied löst eine automatische Kriegserklärung aller anderen Mitglieder der Nation aus, wobei die Unterbrechung auf der Seite des Angreifers liegt.
