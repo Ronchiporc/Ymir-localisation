@@ -1,4 +1,5 @@
-﻿#agrim_goldo_1
+﻿
+#agrim_goldo_1
 Einzigartige Zahlung
 
 #agrim_goldo_2
@@ -177,3 +178,13 @@ Nationaler Verteidigungspakt
 
 #diplo_ndef_dscr_1
 Jede Kriegserklärung gegen ein Nationsmitglied löst eine automatische Kriegserklärung aller anderen Mitglieder der Nation aus, wobei die Unterbrechung auf der Seite des Angreifers liegt.
+
+#agrim_fvassal_1
+Unterworfen
+
+#agrim_fvassal_2
+Unterworfen von den [x]
+
+#agrim_fvassal_3
+[x] wird unterworfen von der Nation [y].
+

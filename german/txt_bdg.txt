@@ -1,4 +1,4 @@
-﻿
+
 #bdg_hous_n
 Unterkunft
 
@@ -78,7 +78,7 @@ Plattformen sind eine pigmentierte Ziegelerhöhung, über denen du bauen kannst.
 Treppe
 
 #bdg_stairs_dscr
-Ermöglicht es Ebern, auf Kacheln mit unterschiedlicher Höhe zuzugreifen. Stelle sie gegen Plattformen oder Klippen, um Zugang zu erhalten. 
+Ermöglicht es Ebern, auf Kacheln mit unterschiedlicher Höhe zuzugreifen. Stelle sie gegen Plattformen oder Klippen, um Zugang zu erhalten.
 
 #bdg_gates_n
 Tor
@@ -117,13 +117,13 @@ Direkt auf Tonplatten legen. Erhöht die Tonproduktion dieser Kacheln.
 Tuchmacher
 
 #txt_clothmk_dscr
-Produziert Kleidung aus Textil. Tuch ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Kleidung deckt. 
+Produziert Kleidung aus Textil. Tuch ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Kleidung deckt.
 
 #txt_gather_n
 Sammellager
 
 #txt_gather_dscr
-Kann wilde landwirtschaftliche Ressourcen nutzen. Muss in den Bereich der Ressourcen gestellt werden. 
+Kann wilde landwirtschaftliche Ressourcen nutzen. Muss in den Bereich der Ressourcen gestellt werden.
 
 #txt_farm_n
 Bauernhof
@@ -147,7 +147,7 @@ Kann Nahrungsressourcen speichern.
 Slum
 
 #txt_hslum_dscr
-Slums, die nichts kosten und automatisch entstehen, wenn die Eber keine freie Wohnung finden können. Sie bieten eine geringe Lebensqualität und keine Gesundheit. 
+Slums, die nichts kosten und automatisch entstehen, wenn die Eber keine freie Wohnung finden können. Sie bieten eine geringe Lebensqualität und keine Gesundheit.
 
 #txt_hrustc_n
 Haus
@@ -453,13 +453,13 @@ Die Weberin veredelt verschiedene Rohstoffe (Baumwolle, Flachs, Wolle...) zu Tex
 Holztreppe
 
 #txt_stairs1_dscr
-Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen. 
+Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen.
 
 #txt_stairs2_n
 Steintreppe
 
 #txt_stairs2_dscr
-Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen. 
+Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen.
 
 #txt_gate1_n
 Holztor
@@ -471,7 +471,7 @@ Ein billiges Holztor.
 Starkes Tor
 
 #txt_gate2_dscr
-Ein starkes Tor aus Holz, das von Bronze gehalten wird. 
+Ein starkes Tor aus Holz, das von Bronze gehalten wird.
 
 #txt_gate3_n
 Verstärktes Tor
@@ -522,7 +522,7 @@ Docks für Landkarawanen, die Waren durch die Gebiete transportieren und für de
 Docks
 
 #txt_dock_dscr
-Docks für Handelsschiffe, die Waren durch Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind. 
+Docks für Handelsschiffe, die Waren durch Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind.
 
 #txt_theater_n
 Theater
@@ -778,4 +778,10 @@ Ein Rat von Familienführern, der versucht, Konflikte zwischen den Stämmen zu l
 
 #txt_baths_n
 Öffentliche Bäder
+
+#txt_oldpcrcl_n
+Kreis der Ältesten
+
+#txt_oldpcrcl_dscr
+Ein einfacher Weg um auf mündlicher Überlieferung basiertes Wissen zu bewahren.
 

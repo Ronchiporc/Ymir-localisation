@@ -1,4 +1,4 @@
-﻿
+
 #tech_ptry
 Töpferei
 
@@ -12,7 +12,7 @@ Es wird hergestellt, indem ein Tonkörper zu Objekten einer gewünschten Form ge
 Sedentismus
 
 #tech_sedent_dscr_1
-Die Praxis, dauerhaft an einem Ort zu leben. 
+Die Praxis, dauerhaft an einem Ort zu leben.
 
 #tech_eldcncl
 ältestenrat
@@ -78,7 +78,7 @@ Die Menschen werden nun Waren mit gleichwertigen Werten handeln, anstatt Dienstl
 Währung
 
 #tech_currcy_dscr_1
-Die Wahl eines gemeinsamen Rohstoffs, wie z.B. Metallbarren, um alle Börsen zu errichten, was den Handel erleichtert und die Lagerung und Messung des Vermögens erleichtert. 
+Die Wahl eines gemeinsamen Rohstoffs, wie z.B. Metallbarren, um alle Börsen zu errichten, was den Handel erleichtert und die Lagerung und Messung des Vermögens erleichtert.
 
 #tech_coing
 Münzprägung
@@ -135,7 +135,7 @@ Ausbildung
 Der Prozess der Erleichterung des Lernens und der Vermittlung von Wissen, Traditionen, Fähigkeiten, Werten, überzeugungen und Gewohnheiten.
 
 #tech_diagnos_dscr_1
-Der Prozess der Bestimmung, welche Krankheit oder welcher Zustand die Symptome und Anzeichen einer Person erklärt. 
+Der Prozess der Bestimmung, welche Krankheit oder welcher Zustand die Symptome und Anzeichen einer Person erklärt.
 
 #tech_academ_dscr_1
 Institutionen des Hochschulwesens und der Forschung.
@@ -174,7 +174,7 @@ Ein Zweig der Mathematik, der sich mit Fragen der Form, Größe, relativen Posit
 Messtechnik
 
 #tech_metrolog_dscr_1
-Die Verwendung von standardisierten Maßeinheiten für Dinge wie Entfernungen, Volumen oder Gewichte. 
+Die Verwendung von standardisierten Maßeinheiten für Dinge wie Entfernungen, Volumen oder Gewichte.
 
 #tech_engineer
 Ingenieurwesen
@@ -504,7 +504,7 @@ Befreundete Wildwölfe, um die Porcos bei ihren täglichen Aufgaben zu unterstü
 Tierfang
 
 #tech_animcaptr_dscr_1
-Wie man wilde Tiere fängt, zähmt und pflegt, um sie in Zeiten der Not als Nutztiere zu halten. 
+Wie man wilde Tiere fängt, zähmt und pflegt, um sie in Zeiten der Not als Nutztiere zu halten.
 
 #tech_animdom
 Tierzucht
@@ -516,7 +516,7 @@ Nachdem wir wissen, wie man sich um gefangene Tiere kümmert, wissen wir jetzt, 
 Tierhaltung
 
 #tech_animhusb_dscr_1
-Es scheint, dass wir durch selektive Zucht von Tieren mit gewünschten Verhaltensweisen und Eigenschaften diese verändern und neü Tiere entwickeln können, die mehr produzieren und freundlicher zu uns sind, viel anders als die wilden Originale. Wir haben sie domestiziert! 
+Es scheint, dass wir durch selektive Zucht von Tieren mit gewünschten Verhaltensweisen und Eigenschaften diese verändern und neü Tiere entwickeln können, die mehr produzieren und freundlicher zu uns sind, viel anders als die wilden Originale. Wir haben sie domestiziert!
 
 #tech_rotgraz
 Rotationsweiden
@@ -561,7 +561,7 @@ tech_paper_dscr_1
 Holzkohle
 
 #tech_charcoal_dscr_1
-Wie man Holzkohle aus Holz durch langsame Pyrolyse gewinnt: die Erwärmung von Holz ohne Sauerstoff. Holzkohle kann dann als Brennstoff eingesetzt werden, der effizienter ist als Holz, da sie viel mehr Wärme produziert! 
+Wie man Holzkohle aus Holz durch langsame Pyrolyse gewinnt: die Erwärmung von Holz ohne Sauerstoff. Holzkohle kann dann als Brennstoff eingesetzt werden, der effizienter ist als Holz, da sie viel mehr Wärme produziert!
 
 #tech_kiln
 Ofen
@@ -1012,4 +1012,10 @@ Trägerpresse
 
 #tech_furnitr
 Möbelherstellung
+
+#tech_column
+Säulen und Träger Gebäude
+
+#tech_column_dscr_1
+tech_column_dscr_1
 
