@@ -1,5 +1,5 @@
 ﻿#agrim_goldo_1
-Unique payment
+Unikátní platba
 
 #agrim_goldo_2
 Platí [x] mincí
@@ -177,3 +177,13 @@ Národní obranná smlouva
 
 #diplo_ndef_dscr_1
 Jakékoliv vyhlášení války proti členu země(národu) vyvolá automatické vyhlášení války od všech ostatních členů země(národa), aniž by se přerušilo jeho uzavření.
+
+#agrim_fvassal_1
+Podroben
+
+#agrim_fvassal_2
+Podroben hráčem [x]
+
+#agrim_fvassal_3
+[x] bude podroben národem [y].
+

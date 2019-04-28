@@ -5,7 +5,7 @@
 동전[x]원을 지급한다.
 
 #agrim_goldo_3
-조약에 따라 [x]로부터 [y]에게 단일 동전을 지급한다.
+조약에 따라 [x]로부터 [y]에게 자금을 지급한다.
 
 #agrim_goldr_1
 연속 송금
@@ -70,6 +70,15 @@
 #agrim_vassal_3
 [x]는 [y]국에 가입한다.
 
+#agrim_fvassal_1
+종속
+
+#agrim_fvassal_2
+[x]에 종속됩니다.
+
+#agrim_fvassal_3
+[x]는 [y]의 국가의 속국이 된다.			
+
 #agrim_war_1
 ...에게 전쟁을 선포
 
@@ -122,7 +131,7 @@
 [x]지식을 제공한다.
 
 #agrim_gividea_3
-[y]는 아직 없는 지식에 대한 새로운 지식을 [x]로부터 제공 받는다.
+[y]에게 아직 없는 지식에 대한 새로운 지식을 [x]로부터 제공 받는다.
 
 #treaty_powcost
 이 조약의 유지를 위한 국가 권력 비용
@@ -131,31 +140,31 @@
 위약금 
 
 #treaty_coinpen_c1
-%의 GDP는 [x]가 이 조약을 어길 경우에 위약금으로 이체해야하며,
+[x]가 이 조약을 어길 경우에,
 
 #treaty_coinpen_c2
-[x]는 위약금을 수령한다.
+위약금으로 [x]의 GDP에서 해당%를 상대에게 이체해줘야한다.
 
 #treaty_gdp
-GDP[x]%
+GDP의 [x]%
 
 #treaty_honor
-명예조약
+명예 조약
 
 #treaty_honor_c1
-이 조약을 책무단계 [x]까지 준수합니다.
+이 조약에 대한 [x]만큼의 의무 수준입니다.
 
 #treaty_honor_c2
 만약 [x]가 조약에 어길 경우에 보유한 명예에 비례하여 명예가 실추된다.
 
 #treaty_warbound
-강화조약
+전쟁 조약
 
 #treaty_warbound_c1
-만약 [x]가 이 조약을 어기면,
+반드시 [x]가 자동으로 전쟁을 선포한다.
 
 #treaty_warbound_c2
-반드시 [x]가 자동으로 전쟁을 선포한다.
+(만약 [x]가 이 조약을 어길 경우.)
 
 #treaty_closes
 외교단절

@@ -33,7 +33,7 @@ Quitter la partie et revenir au menu principal?
 Connecté à [x] ping: [y]
 
 #ui_connctstat_2
-Taux de pertes: [x]% (envoyé: [y] a échoué: [z])
+Pertes: [x]% (envoyés: [y] perdus: [z]  retards: [v])
 
 #ui_connct_stable
 Votre connexion au serveur est stable.
@@ -130,6 +130,33 @@ Language
 
 #bc_menuop_lang
 Choisir le language du jeu
+
+#menuop_k_up
+Camera haut
+
+#menuop_k_le
+Camera gauche
+
+#menuop_k_ri
+Camera droite
+
+#menuop_k_dw
+Camera bas
+
+#menuop_keyset
+cliquer et presser une touche pour l'associer à cette action.
+
+#menuop_togtut
+Activer tutoriaux
+
+#menuop_togtut_c1
+Active le tutorial principal et les popups d'aide.
+
+#menuop_togIP
+Masquer le comtpe
+
+#menuop_togIP_c1
+Cache les informations du compte telles que l'User ID ou les IPs.
 
 #b_menuop_apply
 Appliquer
@@ -1568,11 +1595,14 @@ Pouvoir d'État transféré des subordonnés: [x]
 #statepow_nation_c2
 Pouvoir d'État transféré aux subordonnés: [x]
 
-#statepow_nation_c3
-Nombre de subordonnés directs: [x]
+#statepow_nation_c31
+[y] subordonnés directs: [x]
 
-#statepow_nation_c4
-Distance des subordonnés directs: [x]
+#statepow_nation_c41
+Distance moyenne de [y] des subordonnés directs: [x]
+
+#statepow_nation_c51
+[y] total de subordonnés: [x]
 
 #conf_c1
 Le conflit effectif actuel du territoire
@@ -4531,9 +4561,6 @@ Honeur
 
 #legit_honor_c
 Votre honneur affecte directement votre légitimité. Personne ne veut suivre un dirigeant déshonorable!
-
-#statepow_nation_c5
-Nombre total de subordonnés: [x]
 
 #statepow_forms
 Maintenance des formations

@@ -1829,15 +1829,6 @@ State power transfered from subordinates: [x]
 #statepow_nation_c2
 State power transfered to superior: [x]
 
-#statepow_nation_c3
-Number of direct subordinates: [x]
-
-#statepow_nation_c4
-Distance of direct subordinates: [x]
-
-#statepow_nation_c5
-Number of total subordinates: [x]
-
 #statepow_forms
 Maintenance of formations
 
@@ -5572,3 +5563,19 @@ Asi se chystáte udělat chybu ...
 
 #warn_moveprim_1
 Začínat hru přesunutím celého primitivního kmene je velmi nebezpečné rozhodnutí, které může velmi rychle vést k porážce nebo k uvíznutí na významně velkou dobu. Pokud nevíte přesně, co děláte, je VYSOCE doporučeno usadit se na vašem počátečním regionu: později můžete s menší posádkou prozkoumat a poté zorganizovat bezpečnou migraci na lepší místo.
+
+#menuop_togIP
+Skrýt účet
+
+#menuop_togIP_c1
+Skrýva informace o účtu jako je User ID a IP.
+
+#statepow_nation_c31
+[y] přímý podřízení: [x]
+
+#statepow_nation_c41
+Průměrná vzdálenost [y] přímých podřízených: [x]
+
+#statepow_nation_c51
+[y] celkem podřízených: [x]
+
