@@ -1,6 +1,5 @@
-﻿
-#civ_gifteco_n
-Geschenk-Wirtschaft
+﻿#civ_gifteco_n
+Geschenke-Wirtschaft
 
 #civ_gifteco_dscr
 Eine Börsenform, bei der Wertsachen nicht gehandelt oder verkauft werden, sondern ohne ausdrückliche Vereinbarung für sofortige oder zukünftige Belohnungen gegeben werden.
@@ -15,7 +14,7 @@ Sofortiger und gegenseitiger Austausch von gleichwertigen Wertsachen.
 Währung
 
 #civ_currency_dscr
-Ist eine wertvolle Referenz für den Austausch und dient als Einheit für die Wertbestimmung. 
+Ist eine wertvolle Referenz für den Austausch und dient als Einheit für die Wertbestimmung.
 
 #civ_coinage_n
 Münzwesen
@@ -66,7 +65,7 @@ Beschützer des Volkes
 "Ich regiere, weil ich für den Schutz der Menschen verantwortlich bin."
 
 #civ_superior_n
-Vorgesetzter Leiter
+Vorgesetzter Anführer
 
 #civ_superior_dscr
 "Ich regiere, weil ich überlegen bin."
@@ -104,11 +103,14 @@ Finanzielle Belastungen für die Steuerzahler durch den Staat.
 #civ_seizem_n
 Materialien erfassen
 
+#civ_seizem_dscr
+Beschlagnahme Baumaterialien von der Bevölkerung, anstatt für sie zu bezahlen. Ein Übermaß davon könnte deiner Wirtschaft schaden.
+
 #civ_statepriv_n
 Privilegien
 
 #civ_statepriv_dscr
-Privilegien für die Führung deiner Regierung, indem du ihnen einen Prozentsatz des Territoriums von Rechts wegen gewährst.
+Privilegien für die Führung deiner Regierung, indem du ihnen einen Prozentsatz des Reichtums eines Territoriums von Rechts wegen gewährst.
 
 #civ_statesal_n
 Staatsbedienstete
@@ -144,13 +146,10 @@ Verhindert, dass ein Teil deiner landwirtschaftlichen Nahrungsmittelproduktion d
 Subvention
 
 #civ_subv_dscr
-Eine staatliche Beihilfe, die jeder Säulengang einer bestimmten Gruppe von Arbeitnehmern erhält und deren Einkommen erhöht.
+Eine staatliche Beihilfe, die jeder Porco einer bestimmten Gruppe von Arbeitern erhält und deren Einkommen erhöht.
 
 #civ_paidrsrch_n
 Bezahlte Forscher
-
-#civ_seizem_dscr
-Beschlagnahme Baumaterialien von der Bevölkerung, anstatt für sie zu bezahlen. Ein Übermaß davon könnte deiner Wirtschaft schaden.
 
 #civ_paidrsrch_dscr
 Projektforscher werden vom Staat proportional zu ihrem aktuellen Vermögen bezahlt und reduzieren nicht mehr die Arbeitskräfte in den Gebäuden, in denen sie arbeiten.
