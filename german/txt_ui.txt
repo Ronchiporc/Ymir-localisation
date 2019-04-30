@@ -1,4 +1,4 @@
-
+﻿
 #b_menu_tutorial
 TUTORIAL
 
@@ -2745,7 +2745,7 @@ Dieses Gebäude muss auf Wasser von mindestens [x] Tiefe platziert werden.
 Muss in der Nähe des Besitzers platziert werden.
 
 #ui_builderr_bldrs
-Dieses Gebäude erfordert eine professionelle Konstruktion und Du hast keine Bauherren.
+Dieses Gebäude erfordert eine professionelle Konstruktion und du hast keine Baumeister.
 
 #ui_builderr_inaxss
 Du kannst dies nicht hier platzieren, da dieser Bereich derzeit nicht zugänglich ist!
@@ -3273,10 +3273,10 @@ Stelle ein, dass du [x] als Material verwendest, um [y] zu produzieren. Der Beda
 Automatische Verwendung von [x] als Material zur Herstellung von [y]. Der Bedarf an diesem Material ist bei [z]% gedeckt.
 
 #ui_bdgcstr_self_c
-Einige einfache Gebäude können ohne professionelle Bauherren gebaut werden und werden auch ohne sie selbst gebaut.
+Einige einfache Gebäude können ohne professionelle Baumeister gebaut werden und werden auch ohne sie selbst gebaut.
 
 #ui_bdgcstr_bdrs_c
-Der Umfang der Bauarbeiten, die dieses Gebäude derzeit von professionellen Bauherren erhält.
+Der Umfang der Bauarbeiten, die dieses Gebäude derzeit von professionellen Baumeistern erhält.
 
 #ui_regres_inv
 Inventarisierung
@@ -3561,7 +3561,7 @@ Du benötigst [x] weitere(s) [y], um dieses Gebäude auf [z] aufzurüsten.
 Du hast nicht genug Münzen, um dieses Gebäude auf [x] aufzurüsten.
 
 #menu_bdg_up_err3
-Dieses Upgrade erfordert eine professionelle Konstruktion und Du hast keine Bauherren!
+Dieses Upgrade erfordert eine professionelle Konstruktion und du hast keine Baumeister!
 
 #menu_tch_curknw
 Aktuelles Wissen
@@ -4890,7 +4890,7 @@ Gebietsmenü
 Baukosten
 
 #ui_bdginf_bldrs
-erfordert Bauherren
+erfordert Baumeister
 
 #ui_bdginf_cost
 Materialkosten:
@@ -5403,7 +5403,7 @@ Im Aufbau.....
 Selbstkonstruierend
 
 #ui_bdgcstr_bdrs
-Bauherren
+Baumeister
 
 #ui_regres_pndng
 Unsere Angebote
