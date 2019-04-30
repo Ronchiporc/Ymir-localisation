@@ -1194,7 +1194,7 @@ Steuern Einkommen und Ertrag
 Summe aller Steuereinnahmen aus allen deinen Gebieten.
 
 #ui_eco_contrib_c1
-In einer Gesellschaft ohne organisierte Steuern stammen die Einkommen nur aus dem freiwilligen Beitrag der Menschen für die Gemeinschaft (20% ihres Einkommens).
+In einer Gesellschaft ohne organisierte Steuern stammen die Einkommen nur aus dem freiwilligen Beitrag der Schweine für die Gemeinschaft (20% ihres Einkommens).
 
 #ui_eco_wast_c1
 Steuereinnahmen, die durch Verschwendung in deinen Gebieten verloren gehen. Abfall ist das Ergebnis einer niedrigen Gebietsverwaltung.
@@ -1449,7 +1449,7 @@ Je mehr Einwohner und Entfernung von der Hauptstadt, desto schwieriger ist es, d
 Effekte: vermindert das Wachstum (+Morde), vermindert die Loyalität (- Autorität)
 
 #regconf_1
-Konflikt stellt die Ebene der zufälligen Konflikte zwischen den Menschen des Territoriums dar.
+Konflikt stellt die Ebene der zufälligen Konflikte zwischen den Schweinen des Territoriums dar.
 
 #regconf_2
 Aktive staatliche Staatsbürger und Dienstleistungen im Gebiet wie Justiz können dazu beitragen, diese zu reduzieren.
@@ -1464,7 +1464,7 @@ Sie wird von vielen Faktoren beeinflusst, wie z.B. der Kultur des Volkes, der Ko
 Effekte: trägt zu deiner Gesamtkultur bei, beeinflusst die Loyalität, erhöht die Intelligenz der Bevölkerung.
 
 #regcltr_1
-Kultur repräsentiert das gesamte Wissen, die Bräuche und das Verhalten der Menschen in diesem Gebiet.
+Kultur repräsentiert das gesamte Wissen, die Bräuche und das Verhalten der Schweine in diesem Gebiet.
 
 #regcltr_2
 Eine Gesamtkultur, die auf der Bevölkerungszahl basiert, kann dann zwischen verschiedenen Arten von Kulturen geteilt werden. "Staatskultur" repräsentiert deine Kultur. "Die "Lokale Kultur" steht für Bräuche und Verhaltensweisen, die spezifisch für dieses Gebiet sind und sich von deiner Hauptkultur unterscheiden, die unter allen deinen Völkern geteilt wird. Es können auch andere fremde Kulturen vorhanden sein.
@@ -1485,7 +1485,7 @@ Die Kultur dieses Gebietes hat die Nation [x] noch nicht integriert. Es wird in 
 Das Wachstum stellt die aktuelle demografische Entwicklung deiner Bevölkerung in diesem Gebiet dar.
 
 #reggrwth_2
-Das Wachstum hängt stark vom "Zuchtwillen" der Menschen ab, der bestimmt, wie viele Paare in der nächsten Generation Kinder bekommen werden.
+Das Wachstum hängt stark vom "Zuchtwillen" der Schweine ab, der bestimmt, wie viele Paare in der nächsten Generation Ferkel bekommen werden.
 
 #popw_base
 Basisvermögen
@@ -1761,7 +1761,7 @@ Maximale Speicherkapazität
 Verfall verursacht, wenn die derzeitige maximale Kapazität der Speicherkultur in diesem Gebiet erreicht wird.
 
 #cltrstat_dovrs_c2
-Diese Kapazität nimmt zu, je mehr Menschen sich im Gebiet aufhalten.
+Diese Kapazität nimmt zu, je mehr Schweine sich im Gebiet aufhalten.
 
 #cltrstat_dinf
 Kultureller Einfluss
@@ -2076,13 +2076,13 @@ Die Staatsmacht beeinflusst die Loyalität aller Territorien.
 hohe Steuern
 
 #loyal_hightax_c1
-Hohe Steuern verärgern die Menschen und verringern ihre Loyalität zum Staat.
+Hohe Steuern verärgern die Schweine und verringern ihre Loyalität zum Staat.
 
 #loyal_prvldg
 Privilegien
 
 #loyal_prvldg_c1
-Privilegien verärgern die Menschen und reduzieren ihre Loyalität zum Staat.
+Privilegien verärgern die Schweine und reduzieren ihre Loyalität zum Staat.
 
 #loyal_autho
 Autorität
@@ -4815,7 +4815,7 @@ Um diesen Charakter zu unterwerfen, musst du die Kontrolle übernehmen:
 Unterwerft euch!
 
 #info_cltrtrsfr
- [x] Menschen zogen von [y] nach [z] um und übertrugen die Kultur von ihrer Heimatstadt in [z].
+ [x] Schweine zogen von [y] nach [z] um und übertrugen die Kultur von ihrer Heimatstadt in [z].
 
 #info_supportlmt
 Dieses Gebiet kann nicht mehr Einheiten unterstützen und erlaubt keine Überziehung!
@@ -4992,7 +4992,7 @@ VON DER REFORM ABBRECHEN
 Klicke hier, um diese ausstehende Änderung aus deiner Reform zu entfernen.
 
 #ui_eco_notrsr_dscr
-Diese Gesellschaft arbeitet derzeit ohne jegliche Form von Währung und ihre Menschen teilen einfach alles in der Gemeinschaft: Die Regierung hat weder eine Staatskasse noch Einkommen oder Explans.
+Diese Gesellschaft arbeitet derzeit ohne jegliche Form von Währung und ihre Schweine teilen einfach alles in der Gemeinschaft: Die Regierung hat weder eine Staatskasse noch Einkommen oder Explans.
 
 #ui_eco_contrib
 Freiwillige Beiträge
@@ -5139,7 +5139,7 @@ Effekte: Bestimmt die Entwicklung deiner Population.
 NEUES SPIEL ERSTELLEN
 
 #legit_relig
-Religiosität der Menschen
+Religiosität der Schweine
 
 #statepow_tot
 Gesamtstaatliche Macht
