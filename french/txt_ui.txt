@@ -32,8 +32,8 @@ Quitter la partie et revenir au menu principal?
 #ui_connctstat_1
 Connecté à [x] ping: [y]
 
-#ui_connctstat_2
-Pertes: [x]% (envoyés: [y] perdus: [z]  retards: [v])
+#ui_connctstat2_2
+Retards: [x]% (demandes: [y] retards: [z]  pertes: [v])
 
 #ui_connct_stable
 Votre connexion au serveur est stable.
@@ -747,7 +747,10 @@ Fournit [x] d'efficacité supplémentaire au bâtiment.
 aucune ressource disponible pour la production par cette annexe
 
 #ui_annex_err2
-ce bâtiment n'a aucune production valide pour la distribution
+Ce bâtiment n'a aucune production valide pour la distribution.
+
+#ui_annex_err3
+Ce bâtiment ne peut pas posséder plus d'annexes de ce type.
 
 #bc_menubdg_selp
 sélectionnez la ressource à produire

@@ -49,8 +49,8 @@ Do you really want to leave and return to the main menu ?
 #ui_connctstat_1
 Currently connected to [x]  ping: [y]
 
-#ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z]  late:[v])
+#ui_connctstat2_2
+Late rate: [x]% ( asked:[y]  late:[z]  failed:[v])
 
 #ui_connct_stable
 Your connection with the server is stable.
@@ -941,7 +941,10 @@ Provides [x] of additionnal efficiency to the building.
 no resource available for production by this annex
 
 #ui_annex_err2
-this building doesnt have any production valid for distribution
+This building doesnt have any production valid for distribution.
+
+#ui_annex_err3
+You can't place any more of this annex type.
 
 #bc_menubdg_selp
 select resource to produce
