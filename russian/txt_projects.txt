@@ -461,10 +461,10 @@ idea_sewers_1
 Складывая камни
 
 #idea_stonebdg_1
-Камени очень твердые и есть везде. Если мы научимся строить, складывая их один на другой, мы сможем улучшить наши здания и создать великие монументы.
+Камни очень твердые и есть везде. Если мы научимся строить, складывая их один на другой, мы сможем улучшить наши здания и создать великие монументы.
 
 #proj_stonebdg_1
-Камени очень твердые и есть везде. Если мы научимся строить, складывая их один на другой, мы сможем улучшить наши здания и создать великие монументы.
+Камни очень твердые и есть везде. Если мы научимся строить, складывая их один на другой, мы сможем улучшить наши здания и создать великие монументы.
 
 #idea_stonecut
 Придание формы камням
@@ -1055,8 +1055,7 @@ proj_loom6_1
 Звериные шкуры воняют, кроме того довольно быстро твердеют и гниют. Нам нужно найти способ увеличить их срок службы, предотвратив разложение. Чтобы это сделать, нам нужно научиться очищать и обрабатывать их: удалять шерсть, соскребать всю оставшуюся плоть и высушивать их при помощи дыма и солнца так же, как мы коптим мясо, чтобы оно дольше протянуло. it last longer.
 
 #idea_urunhair
-
-Improving tanning
+Улучшение кожевничества
 
 #idea_urunhair_1
 Removing the hair out of the hides is a really labor intensive process that requires a lot of time but is necessary to process the hides into more durable leather. But some tanners with questionnable hobbies advanced that by using urine and soaking the hides for a long time in it makes the hair removing much easier afterwards. This nasty process could greatly improve the efficiency of our tanneries, but its definilty not going to improve the problem of their pestilence...
@@ -1065,7 +1064,7 @@ Removing the hair out of the hides is a really labor intensive process that requ
 Removing the hair out of the hides is a really labor intensive process that requires a lot of time but is necessary to process the hides into more durable leather. But some tanners with questionnable hobbies advanced that by using urine and soaking the hides for a long time in it makes the hair removing much easier afterwards. This nasty process could greatly improve the efficiency of our tanneries, but its definilty not going to improve the problem of their pestilence...
 
 #idea_vegettan
-Using tannins
+Использование танинов.
 
 #idea_vegettan_1
 One autumn, a busy and inexperienced tanner had left and forgotten a stack of cleaned hides outside near his house, under a grove of trees. The hides remained there for weeks and hadn't been properly packed: they soaked with water from the humid ground and constant rains of autumn, covered and surrounded by fallen twigs and leaves from the nearby trees. When the tanner realized his mistake, he was quite surprised to find the hides in such good condition: not only had they resisted putrefaction from the humidity, but they looked more flexible than the ones usually processed through drying and smoking. What was the cause of this miracle? Looking at the brown water from the decaying leaves and wood in which the hides had soaked all that time, the tanner felt he already knew the answer to that.
@@ -1074,16 +1073,16 @@ One autumn, a busy and inexperienced tanner had left and forgotten a stack of cl
 It seems that by soaking hides for a long time in baths of diluted vegetables and wood, we could improve their flexibility and resistance to humidity, increasing their durability and replacing the older less efficient process of letting them rot and smoking them.
 
 #idea_sprfish
-Do you like fish sticks?
+Вы любите рыбные палочки?
 
 #idea_sprfish_1
-Strange animals live in the water. Tasty ones, if we managed to catch them for they move too swiftly for our piggy hands. Maybe we could throw sticks like we hunt beasts in the wilderness to catch them, if we can master this skill!
+В воде живут странные создания. Вкусные, но только если мы сумеем их поймать, ведь они слишком увертливые для наших свинячих рук. Может, чтобы поймать их, мы могли бы метать палки, как при охоте на зверей, если удасться освоить этот навык!
 
 #proj_sprfish_1
-Strange animals live in the water. Tasty ones, if we managed to catch them for they move too swiftly for our piggy hands. Maybe we could throw sticks like we hunt beasts in the wilderness to catch them, if we can master this skill!
+В воде живут странные создания. Вкусные, но только если мы сумеем их поймать, ведь они слишком увертливые для наших свинячих рук. Может, чтобы поймать их, мы могли бы метать палки, как при охоте на зверей, если удасться освоить этот навык!
 
 #idea_castnet
-Fishing without a net is just bathing
+Рыбалка без сетей - это просто купание
 
 #idea_castnet_1
 Instead of throwing sticks at fishes, why not weave loose flexible baskets we could throw in the water ? The water would pass through while the bigger fishes would remain stuck in it! We need to master this new skill and find the proper way and materials to weave these special baskets... it would make catching fishes much easier and less time consumming!
@@ -1155,6 +1154,7 @@ In every household, people spend a lot of time every day grinding their grains i
 In every household, people spend a lot of time every day grinding their grains in mortars to cook their flat breads for each meal. Therefore some propose that by using our knowledges of gears and stonecutting we could create giant mortars that would grind grains for everyone at once and have artisans specialize in cooking breads for everyone in the city directly, saving people from making it themselves out of raw cereals. Grinded grains would also be easier and more convenient to store directly into granaries, improving our ability to store food!
 
 #idea_yeast
+
 Fluffier bread
 
 #idea_yeast_1
@@ -1173,7 +1173,7 @@ In the woods grow a special kind of thin wood that smells and tastes really nice
 In the woods grow a special kind of thin wood that smells and tastes really nice and sweet. It wasnt long before some experimented extracting juice out of it to make a tasty beverage out of it. But after experimenting with a few pots that had been left out for too long in the heat, some Porcos noticed how different it tasted, and how much more intoxicating it was. We should experiment more with this special wood and find a way to reproduce and improve these tasty beverages that make Porcos feel happier.
 
 #idea_alambic
-Distillation
+Дистилляция
 
 #idea_alambic_1
 When you heat and boil water for a long time, it disapears into fumes. When an alcoholic bevarage is heated, it seems that its intoxicating fumes are the strongest at first and leave a tasteless drink behind. What if we could design a device that could collect these first fumes back to separate what makes these drinks so intoxicating from the tasteless water? Some think it could be possible by trapping and cooling the fumes which would turn back into a liquid.
@@ -1191,7 +1191,7 @@ These red tasty grapes, when pressed into a juice and left to spoil for a long t
 These red tasty grapes, when pressed into a juice and left to spoil for a long time turns into an intoxicating strong beverage that alter the senses and the consciousness, making Porcos reveal their true self and lifting their spirits. This beverage must be a gift from the gods, we need to master it's making.
 
 #idea_barrel
-Wooden amphoras
+Деревянные амфоры
 
 #idea_barrel_1
 We if by assembling planks together to form a large cylindric container held together with metal, we made a new kind of containers to store liquids? They could use limited space more efficiently for transportation and while a broken amphora is useless, such a wooden container could always be repaired. They could even be dismantled on when empty to be rebuilt on demand! Yes they would be more expensive and require more work and skill to build, but some say they could improve alcoholic beverages preservation while adding new flavors to it.
@@ -1200,7 +1200,7 @@ We if by assembling planks together to form a large cylindric container held tog
 We if by assembling planks together to form a large cylindric container held together with metal, we made a new kind of containers to store liquids? They could use limited space more efficiently for transportation and while a broken amphora is useless, such a wooden container could always be repaired. They could even be dismantled on when empty to be rebuilt on demand! Yes they would be more expensive and require more work and skill to build, but some say they could improve alcoholic beverages preservation while adding new flavors to it.
 
 #idea_baskpress
-Screw in barrels
+Винт в бочках
 
 #idea_baskpress_1
 With the power of screws and the knowledge of how to craft solid barrels, we would surely improve our pressing machines by having the fruits placed in a barrel with enough space between each plank to let the juices out as a plate if forced down into it by the force of a screw! This would increasing greatly their efficiency and require less workforce for the same amount of work.
@@ -1218,31 +1218,31 @@ Apples are a nutricious source of food in nordic rainy lands where the nights co
 Apples are a nutricious source of food in nordic rainy lands where the nights come early during winters. It can also make for a tasty juice once pressed. But some porcos have started to let it spoil for days before drinking it, claiming it tastes even better and lifts the spirits. If we can master the skill of brewing this new beverage, we could create a new craftsmanship specialized in producing it.
 
 #idea_oliveoil
-New berries
+Новые ягоды
 
 #idea_oliveoil_1
-On knotted trunk trees grow small berries some porco enjoy to eat. That is until someone had the idea to squeeze them to get juice out of it... it produces an oily liquid that tastes really nice with other foods, and that can also have many other uses such as a snout skin care product or to keep a shiny pig furr. We should learn to cultivate these trees and how to efficiently press its berries to start producing more of this precious oil.
+На деревьях с узловатыми стволами растут маленькие ягоды, которые любят поглощать некоторые свины. Так продолжалось, пока кому-то не пришла в голову идея выдавить из них сок... они выделяют маслянистую жидкость, придающую другим блюдам отличный вкус. Но у нее много применений, например как средство по уходу за кожей рыла или придания блеска свиным волосам. Нам стоит научиться выращивать эти деревья и эффективно давить эти ягоды, чтобы производить больше этого драгоценного масла.
 
 #proj_oliveoil_1
-On knotted trunk trees grow small berries some porco enjoy to eat. That is until someone had the idea to squeeze them to get juice out of it... it produces an oily liquid that tastes really nice with other foods, and that can also have many other uses such as a snout skin care product or to keep a shiny pig furr. We should learn to cultivate these trees and how to efficiently press its berries to start producing more of this precious oil.
+На деревьях с узловатыми стволами растут маленькие ягоды, которые любят поглощать некоторые свины. Так продолжалось, пока кому-то не пришла в голову идея выдавить из них сок... они выделяют маслянистую жидкость, придающую другим блюдам отличный вкус. Но у нее много применений, например как средство по уходу за кожей рыла или придания блеска свиным волосам. Нам стоит научиться выращивать эти деревья и эффективно давить эти ягоды, чтобы производить больше этого драгоценного масла.
 
 #idea_beamprss
-Pressing with a lever
+Давление при помощи рычага
 
 #idea_beamprss_1
-Using the new principle of the lever, we could apply it to improve the way we press hard olives into oil by have a long level apply pressure on a plate while olives are kept in a soft basket of ropes. A few workers could apply great pressure from the other end of the lever, making the process much faster than by using mortars and increasing the production speed of olive oil.
+Используя новый принцип рычага, мы могли бы улучшить процесс получения оливкового масла, прилагая давление через рычаг на большую поверхность, под которой находились бы оливки, ссыпанные в корзину. Несколько рабочих смогли бы прилагать огромное давление, делая процесс гораздо быстрее , чем при использовании ступок.
 
 #proj_beamprss_1
-Using the new principle of the lever, we could apply it to improve the way we press hard olives into oil by have a long level apply pressure on a plate while olives are kept in a soft basket of ropes. A few workers could apply great pressure from the other end of the lever, making the process much faster than by using mortars and increasing the production speed of olive oil.
+Используя новый принцип рычага, мы могли бы улучшить процесс получения оливкового масла, прилагая давление через рычаг на большую поверхность, под которой находились бы оливки, ссыпанные в корзину. Несколько рабочих смогли бы прилагать огромное давление, делая процесс гораздо быстрее , чем при использовании ступок.
 
 #idea_furnitr
-A more comfortable home
+Более комфортабельные дома
 
 #idea_furnitr_1
-Instead of living in mostly empty huts and sleeping on the floor on small mats, some porcos propose to start crafting more refined objects out of woodcarving and metal to use inside homes to replace built in shelves, benches and sleeping bunks. These lighter and mobile furnitures would increase the life quality and comfort of those who can afford them while creating a new craftmanship, growing our economy.
+Вместо того, чтобы жить в почти пустых хижинах и спать прямо на полу или маленьких циновках, некоторые свины предлагают начать делать более утонченные вещи из дерева и металла, чтобы заменить ими встроенные в стены полки, лавки и лежанки. Эта легкая и подвижная мебель улучшила бы качество жизни и комфорт тех, кто может сможет ее себе позволить, в то же время создав новое ремесло и развивая экономику.
 
 #proj_furnitr_1
-Instead of living in mostly empty huts and sleeping on the floor on small mats, some porcos propose to start crafting more refined objects out of woodcarving and metal to use inside homes to replace built in shelves, benches and sleeping bunks. These lighter and mobile furnitures would increase the life quality and comfort of those who can afford them while creating a new craftmanship, growing our economy.
+Вместо того, чтобы жить в почти пустых хижинах и спать прямо на полу или маленьких циновках, некоторые свины предлагают начать делать более утонченные вещи из дерева и металла, чтобы заменить ими встроенные в стены полки, лавки и лежанки. Эта легкая и подвижная мебель улучшила бы качество жизни и комфорт тех, кто может сможет ее себе позволить, в то же время создав новое ремесло и развивая экономику.
 
 #idea_glue
 Новый клей
