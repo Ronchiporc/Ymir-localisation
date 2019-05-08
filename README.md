@@ -1,6 +1,13 @@
----------------------------------------------------------------------------------------
-  How to translate Ymir
----------------------------------------------------------------------------------------
+
+# Ymir localisation
+
+This is the localisation for Ymir.
+
+Ymir is a 4X multiplayer strategy game combined with a city builder where each player develops a civilization of Pigmen starting at the stone age. 
+
+More information here https://ymir-online.com/ or on steam https://store.steampowered.com/app/378360/Ymir
+
+##  How to translate Ymir
 
 - To support a new language, simply copy-paste the english directory and rename it with your new language.
 It will then appear as a valid language option ingame.
@@ -15,11 +22,10 @@ automatically added at the end of the files after launching the game once, makin
 the "_language_setup.txt" file of the concerned language directory. It is "english" by default.
 - The game fonts currently only supports the latin and cyrillic characters.
 
+### LANGUAGE SETUP file
 
-LANGUAGE SETUP file
+- font_scale: global scale factor applied to fonts, additionnally to the ingame size and scale factors for each ui. 1 is default.
 
-font_scale: global scale factor applied to fonts, additionnally to the ingame size and scale factors for each ui. 1 is default.
-
-font_pos_x & font_pos_y: global position offset applied to all displayed fonts. nb of pixels for a size 10 font. 
+- font_pos_x & font_pos_y: global position offset applied to all displayed fonts. nb of pixels for a size 10 font. 
 applied proportionnally to the each text depending on its size to maintain the same proportional offset (so font_pos_x of 2 
 means x+ 4pixels when displaying a font of size 20 )
