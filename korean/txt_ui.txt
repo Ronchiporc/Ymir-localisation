@@ -49,8 +49,8 @@ Ymir Trello
 #ui_connctstat_1
 현재 [x]에 연결됨. 핑:[y]
 
-#ui_connctstat_2
-손실율: [x]%(전송:[y] 실패:[z]  지연:[v])
+#ui_connctstat2_2
+지연율: [x]%(응답:[y] 지연:[z] 실패:[v])
 
 #ui_connct_stable
 서버와의 접속은 안정적입니다.
