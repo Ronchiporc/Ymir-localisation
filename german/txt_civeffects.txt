@@ -1,6 +1,8 @@
-﻿
-#civfx_inc_n
+﻿#civfx_inc_n
 Bevölkerungseinkommen
+
+#civfx_inc_dscr
+Erschließt dynamischen Bevölkerungsreichtum
 
 #civfx_price_n
 Dynamische Preise
@@ -16,6 +18,9 @@ Alle Ressourcen stehen der gesamten Bevölkerung automatisch zur Verfügung und 
 
 #civfx_bdgeff_n
 Gebäudeeffizienz
+
+#civfx_bdgeff_dscr
+Verändert die Effizienz von Gebäuden
 
 #civfx_conflict_n
 Bevölkerungskonflikt
@@ -33,10 +38,13 @@ Modifiziert den Stress der Bevölkerung
 Bezahlte Materialien
 
 #civfx_paidmat_dscr
-Der Staat muss für Materialien, die er verbraucht, zu seinem aktuellen Marktpreis bezahlen.
+Der Staat muss für Materialien, die er verbraucht, den aktuellen Marktpreis bezahlen.
 
 #civfx_seizem_n
 Beschlagnahmte Materialien
+
+#civfx_seizem_dscr
+Wenn bezahlte Materialien aktiv sind, werden alle oder ein Teil der Materialien kostenlos beschlagnahmt, anstatt vom Staat bezahlt zu werden.
 
 #civfx_seizem_set
 Beschlagnahmte Prozent
@@ -54,7 +62,7 @@ Städte können andere Gebiete als ihre Provinz annektieren.
 Einkommenssteuer
 
 #civfx_inctax_dscr
-Eine Steuer, die auf alle Einkommen der Bevölkerung im Gebiet erhoben wird. 
+Eine Steuer, die auf alle Einkommen der Bevölkerung im Gebiet erhoben wird.
 
 #civfx_inctax_set
 Einkommensteuerprozentsatz
@@ -82,6 +90,9 @@ Anführer erhalten einen Teil des Gebietsvermögens als Privileg.
 
 #civfx_leadwlth_set
 Privileg für Führungskräfte
+
+#civfx_leadwlth_setd
+der Prozentsatz des Gebietsvermögens, der den Führern als Privileg gewährt wird.
 
 #civfx_leadsal_n
 Gehalt der Führungskräfte
@@ -122,8 +133,14 @@ Höhe des Gehalts in Münzen
 #civfx_offwlth_n
 Privilegien für Staatsangestellte
 
+#civfx_offwlth_dscr
+Staatsangestellte erhalten einen Teil des Gebietsvermögens als Privileg.
+
 #civfx_offwlth_set
 Privileg für Staatsangestellte
+
+#civfx_offwlth_setd
+der Prozentsatz des Gebietsvermögens, der den Staatsarbeitern als Privileg gewährt wird.
 
 #civfx_offsal_n
 Gehalt der Staatsangestellten
@@ -159,7 +176,7 @@ Gebietsadministration
 Kapitalführer
 
 #civfx_caplead_dscr
-Führend in der kapital
+Führend im Kapital
 
 #civfx_capnob_n
 Hauptadlige
@@ -222,79 +239,64 @@ Handelsrouten
 Ermöglicht die Schaffung permanenter Handelsrouten zwischen den Gebieten
 
 #civfx_legitprt_n
-Volksbeschützerin
+Volksbeschützer
 
-#civfx_legitr_n
-Religiosität der Menschen
-
-#civfx_legitp_n
-Parlamentsbefugnis
-
-#civfx_legitp_dscr
-Modifiziert den Legitimitätsfaktor des Parlaments
-
-#civfx_legitsen_n
-Senatsbefugnis
-
-#civfx_legitsen_dscr
-Modifiziert den Legitimitätsfaktor des Senats
-
-#civfx_legitm_n
-Die Macht des Ministeriums
-
-#civfx_legitap_n
-Zustimmung des Volkes
-
-#civfx_legitap_dscr
-Modifiziert den Legitimitätsfaktor der Zustimmung der Menschen.
-
-#civfx_inc_dscr
-erschließt dynamischen Bevölkerungsreichtum
-
-#civfx_bdgeff_dscr
-verändert die Effizienz von Gebäuden
-
-#civfx_seizem_dscr
-wenn bezahlte Materialien aktiv sind, werden alle oder ein Teil der Materialien kostenlos beschlagnahmt, anstatt vom Staat bezahlt zu werden.
-
-#civfx_leadwlth_setd
-der Prozentsatz des Gebietsvermögens, der den Führern als Privileg gewährt wird.
-
-#civfx_offwlth_dscr
-Staatsangestellte erhalten einen Teil des Gebietsvermögens als Privileg.
-
-#civfx_offwlth_setd
-der Prozentsatz des Gebietsvermögens, der den Staatsarbeitern als Privileg gewährt wird.
+#civfx_legitprt_dscr
+Modifiziert den Legitimitätsfaktor der militärischen Stärke
 
 #civfx_legitw_n
 Führungsüberlegenheit
 
 #civfx_legitw_dscr
-modifiziert den Legitimitätsfaktor der Überlegenheit des Leiters.
+Modifiziert den Legitimitätsfaktor der Überlegenheit des Leiters
+
+#civfx_legitr_n
+Religiosität der Schweine
 
 #civfx_legitr_dscr
-modifiziert den Legitimitätsfaktor der Religiosität von Menschen.
+Modifiziert den Legitimitätsfaktor der Religiosität der Schweine.
+
+#civfx_legitp_n
+Macht des Parlaments
+
+#civfx_legitp_dscr
+Modifiziert den Legitimitätsfaktor des Parlaments
+
+#civfx_legitsen_n
+Macht des Senats
+
+#civfx_legitsen_dscr
+Modifiziert den Legitimitätsfaktor des Senats
+
+#civfx_legitm_n
+Macht des Ministeriums
 
 #civfx_legitm_dscr
-modifiziert den Legitimitätsfaktor des Dienstes
+Modifiziert den Legitimitätsfaktor des Dienstes
+
+#civfx_legitap_n
+Zustimmung des Volkes
+
+#civfx_legitap_dscr
+Modifiziert den Legitimitätsfaktor der Zustimmung der Schweine.
 
 #civfx_wlegitprt_n
 Bedeutung der militärischen Stärke
 
 #civfx_wlegitprt_dscr
-wie viel militärische Stärke die Legitimität beeinflusst.
+Wie stark militärische Stärke die Legitimität beeinflusst.
 
 #civfx_wlegitw_n
 Bedeutung der Überlegenheit des Leiters
 
 #civfx_wlegitw_dscr
-wie sehr die Überlegenheit der Führungskraft die Legitimität beeinflusst.
+Wie sehr die Überlegenheit der Führungskraft die Legitimität beeinflusst.
 
 #civfx_wlegitr_n
 Bedeutung der Religiosität
 
 #civfx_wlegitr_dscr
-wie sehr die Religiosität der Menschen die Legitimität beeinflusst.
+Wie sehr die Religiosität der Schweine die Legitimität beeinflusst.
 
 #civfx_wlegitp_n
 Bedeutung des Parlaments
@@ -306,31 +308,31 @@ wie sehr die Macht des Parlaments die Legitimität beeinflusst.
 Bedeutung des Senats
 
 #civfx_wlegitsen_dscr
-wie sehr die Macht des Senats die Legitimität beeinflusst.
+Wie sehr die Macht des Senats die Legitimität beeinflusst.
 
 #civfx_wlegitm_n
-Bedeutung des Dienstes
+Bedeutung des Ministeriums
 
 #civfx_wlegitm_dscr
-wie sehr die Macht des Ministeriums die Legitimität beeinflusst.
+Wie sehr die Macht des Ministeriums die Legitimität beeinflusst.
 
 #civfx_wlegitap_n
-Bedeutung der Zustimmung der Menschen
+Bedeutung der Zustimmung der Schweine
 
 #civfx_wlegitap_dscr
-wie viel die Zustimmung der Menschen die Legitimität beeinflusst.
+Wie viel die Zustimmung der Schweine die Legitimität beeinflusst.
 
 #civfx_statepow_n
 Staatsmacht
 
 #civfx_statepow_dscr
-ändert die Höhe der Staatsgewalt.
+Andert die Höhe der Staatsgewalt.
 
 #civfx_foodcons_n
 Nahrungsmittelkonsum
 
 #civfx_foodcons_dscr
-beeinflusst die Menge an Lebensmitteln, die die Porcos benötigen, um ihren Bedarf an Lebensmitteln zu decken.
+Beeinflusst die Menge an Lebensmitteln, die die Porcos benötigen, um ihren Bedarf an Lebensmitteln zu decken.
 
 #civfx_coin_n
 Staatskasse
@@ -348,7 +350,7 @@ Vorratssamen
 Subvention
 
 #civfx_subv_dscr
-eine staatliche Unterstützung für jeden Arbeitnehmer einer bestimmten sozialen Schicht, um sein Einkommen zu erhöhen.
+Eine staatliche Unterstützung für jeden Arbeiter einer bestimmten sozialen Schicht, um sein Einkommen zu erhöhen.
 
 #civfx_subv_set1
 Subvention
@@ -363,7 +365,7 @@ Münzen
 Der Betrag der Subvention. Jeder Arbeiter dieser Klasse erhält diese Menge an Münzen, die zu seinem Einkommen hinzugefügt werden.
 
 #civfx_paidrsrch_n
-bezahlte Forscher
+Bezahlte Forscher
 
 #civfx_paidrsrch_dscr
 Forscher werden bezahlt und reduzieren nicht mehr die Arbeitskräfte in den Gebäuden, in denen sie arbeiten.
@@ -379,7 +381,3 @@ Beitrag %
 
 #civfx_ldcntrb_setd
 Prozentsatz des Vermögens des Führers, der für die Finanzen der Regierung verwendet wird. Beachte, dass dies den Reichtum des Anführers proportional reduziert.
-
-#civfx_legitprt_dscr
-modifiziert den Legitimitätsfaktor der militärischen Stärke
-

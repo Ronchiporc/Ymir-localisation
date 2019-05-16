@@ -119,13 +119,13 @@ Place directly over clay tiles. Increases clay production of these tiles.
 Clothesmaker
 
 #txt_clothmk_dscr
-Produces clothes from textiles. Clothes are a distributable resource that satisfies the population's need for clothing. 
+Produces clothes from textiles. Clothes are a distributable resource that satisfies the population's need for clothing.
 
 #txt_gather_n
 Gathering camp
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+Can exploit wild agricultural resources. Needs to be placed in range of the resources.
 
 #txt_farm_n
 Farm
@@ -149,7 +149,7 @@ Can store food resources.
 Slum
 
 #txt_hslum_dscr
-Slums cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life Quality and no health. 
+Slums cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life Quality and no health.
 
 #txt_hrustc_n
 House
@@ -239,7 +239,7 @@ Stone battlements providing cover from enemy fire to units on standing on the pl
 Machicolated stone battlements
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+Heavy battlements made of solid stone blocs with machicolations providing excellent cover from enemy fire to units standing on the platform during battles.
 
 #txt_batlm4_n
 Hoardings
@@ -479,7 +479,7 @@ A cheap, wooden gate.
 Strong gate
 
 #txt_gate2_dscr
-A strong gate made of wood held together by bronze. 
+A strong gate made of wood held together by bronze.
 
 #txt_gate3_n
 Reinforced gate
@@ -722,7 +722,7 @@ Produces paper
 Rumery
 
 #txt_rum_dscr
-A distilery that produces rum from sugarcane.
+A distillery that produces rum from sugarcane.
 
 #txt_trmarket_n
 Market
@@ -749,7 +749,7 @@ Primitive tower
 A primitive defensive tower made of wood. Fires javelins.
 
 #txt_wall1_n
-Palissade
+Palisade
 
 #txt_wall1_dscr
 A simple defensive wall made of timber.
