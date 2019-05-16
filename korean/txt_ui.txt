@@ -316,6 +316,12 @@ UI 소리
 #servlst_dur_c1
 이 게임이 진행한 시간양입니다.
 
+#servlst_sb
+시작 보너스
+
+#servlst_sb_c1
+서버에서 없어진 플레이어들이 많을수록 원시 시작을 제외한 초기 시작에 보너스를 받습니다.	
+			 
 #servlst_admn
 관리자 도구
 
@@ -558,6 +564,9 @@ UI 소리
 
 #newchar_availspwn
 설정에 따른 사용가능한 시작 위치
+
+#newchar_bestspwn
+(최고값: [x])			 
 
 #newchar_closeto
 특정 캐릭터의 가까이에서 시작하기
@@ -4685,7 +4694,16 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 이 서버에서 '비활성'으로 전환되기 전에 캐릭터가 오프라인 할 수 있는 최대 시간입니다.
 
 #gamelob_maxoff_c2
-경고: 최근에 만든 캐릭터의 경우 이 제한이 더 낮습니다!
+경고: 최근에 생성된 캐릭터들보다 이 한도가 더 낮습니다!
+
+#gamelob_spwnbon
+시작 보너스
+
+#gamelob_spwnbon_c1
+이 보너스는 새로운 캐릭터가 생성될때 선택한 시작의 조건(자원들, 기술들, ...) 전반을 개선시켜줍니다.
+
+#gamelob_spwnbon_c2
+이 보너스는 서버에 활성 플레이어가 없는 경우에 비례합니다.
 
 #gamelob_err1
 현 게임에서 허용되는 최대 캐릭터 수를 가지고 있습니다!
@@ -5321,6 +5339,9 @@ Cubes
 이 건물은 현재 접근할 수 없습니다.
 
 #formact_none
+대기
+
+#formact_move
 이동
 
 #formact_camp
