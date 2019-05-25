@@ -426,10 +426,10 @@ Il existe différentes catégories d'unités: les unités civiles sont ce que vo
 Pour l'instant, vous n'avez accès qu'à une seule unité militaire à distance: la rockthrower. Un porco simplement équipé de pierres à lancer, mieux utilisé pour défendre derrière les murs et les portes.
 
 #tuto_47_2
-Maintenant, recrutez au moins 20 rockthrowers (2 troupes de 10 chacune). Rappelez-vous: en tant que «milice», vous ne recrutez pas vraiment mais simplement en stockant de l'équipement (ici des pierres simples) que votre population utilisera en cas d'attaque.
+Recrutez au moins 10 lanceurs de pierres. Rappelez-vous qu'en tant que «milice» il ne s'agit pas vraiment de troupes mais plutot d'équipement (ici de simples pierres) mis de côté pour votre population en cas d'attaque.
 
 #tuto_47_c1
-Que se passe-t-il si je «recrute» plus de milices que j'ai de population? --48
+Que se passe-t-il si je «recrute» plus de milices que je n'ai de population? --48
 
 #tuto_48_1
 Alors votre milice ne sera pas entièrement "habillée" en cas d'attaque: si vous avez économisé de l'équipement pour 40 soldats en tant que milice mais seulement 15 ans pour combattre au moment de l'attaque sur le territoire, votre milice inclura seulement 15 soldats dans la bataille.
@@ -474,7 +474,10 @@ J'ai compris .--53--37
 Les Rockthrowers ne sont utiles qu'en défense derrière les murs: je vous conseille de créer un petit fort de palissades et de les déployer ensuite en mode «tenir la position». Cela vous protégera au moins contre les tentatives d'invasion.
 
 #tuto_53_2
-Une fois que vous êtes satisfait de vos modifications, assurez-vous de fermer et de sauvegarder vos modifications en cliquant ici.
+Une fois que vous êtes satisfait de vos changements, assurez-vous de bien appliquer vos modifications.
+
+#tuto_53_c1
+Fini! Passons à la suite je vous prie, monsieur Porc.
 
 #tuto_54_1
 Vous avez maintenant fini d'organiser vos défenses de base.
@@ -621,7 +624,7 @@ C'est le score de votre joueur. Il est basé sur différentes statistiques comme
 Ok .--71--49
 
 #tuto_71_1
-À côté de lui sont vos points de victoire. Ils sont gagnés en complétant des missions de victoire qui peuvent être partagées en commun avec d'autres joueurs, auquel cas seul le premier à l'accomplir obtiendra la récompense.
+À côté sont vos points de Victoire. Ils dépendent de votre score comparé aux autres joueurs et de l'accomplissement de 'missions de victoire'. Celles-ci sont globales et seul le premier à les accomplir obtiend leurs récompenses.
 
 #tuto_71_2
 Vous gagnez le jeu en devenant le premier joueur à atteindre l'objectif des points de victoire fixés pour ce match.
@@ -999,7 +1002,7 @@ Créez maintenant une nouvelle formation 'Armée' et recrutez 10 guerriers dans 
 Cette fois, notez qu'ils seront retirés de votre population actuelle car ce n'est pas une «milice», donc vous ne voudrez jamais recruter tous vos membres actifs dans une armée parce que cela viderait tous ses bâtiments de production de ses ouvriers.
 
 #tuto_121_1
-Sélectionnez votre nouvelle formation en cliquant sur son camp ou en cliquant sur son bouton dans l'onglet Formations.
+Sélectionnez votre formation 'Armée' en cliquant sur son camp ou en cliquant sur son bouton dans l'onglet Formations.
 
 #tuto_122_1
 Dans le menu de la formations sélectionnée, cliquez sur le bouton "+" pour ajouter des troupes supplémentaires à votre armée déjà existante.
@@ -1044,7 +1047,10 @@ Ces événements peuvent être dangereux mais peuvent aussi être enrichissants,
 C'est bon à savoir!--128
 
 #tuto_128_1
-Maintenant, essayez de localiser un 'troupeau': un groupe d'unités d'animaux, et explorez de nouvelles région si vous le devez. Sélectionnez la formation du troupeau une fois que vous en avez trouvé un.
+Maintenant, essayez de localiser un 'troupeau': un groupe d'unités d'animaux. Explorez de nouveaux territoires si vous le devez. Sélectionnez la formation du troupeau une fois que vous en avez trouvé un.
+
+#tuto_128_c1
+Je n'arrive pas à en trouver...
 
 #tuto_129_1
 C'est un 'troupeau'. Vous pouvez voir combien d'animaux il a et vous pouvez cliquer sur son inventaire pour voir son «butin»: la quantité totale de viande et de cuir que vous pouvez récupérer en les tuant.
@@ -1238,3 +1244,14 @@ C'est tout pour le moment. Bonne chance dans cette transition difficile!
 #tuto_413_c1
 Merci, Monsieur Sagaceporc.-- 997
 
+#tuto_414_1
+Attention vous avez fait une erreur: vous n'êtes pas en train de créer une milice! Fermez ce menu et recommencez en faisant attention de bien séléctionner "Milice" comme type de formation.
+
+#tuto_414_2
+A l'inverse des milices, les autres types de formations prélèvent votre population lors du recrutement, ce qui n'est pas ce que nous souhaitons maintenant.
+
+#tuto_415_1
+C'est ballot! Bon... peut être en trouverez vous une plus tard.
+
+#tuto_415_c1
+...
