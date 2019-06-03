@@ -1,6 +1,6 @@
 ﻿
 #tuto_launch_1
-Willkommen bei Ymir! Es sieht so aus, als ob es das erste Mal ist, dass du dieses Spiel startest. 
+Willkommen bei Ymir! Es sieht so aus, als ob es das erste Mal ist, dass du dieses Spiel startest.
 
 #tuto_launch_2
 Dies ist ein komplexes Spiel: Wenn du damit noch nicht vertraut bist, wird dringend empfohlen, zunächst das Einsteiger-Tutorial in einem Solospiel abzuschließen, um die Grundlagen zu erlernen. Wenn du allerdings das Spiel bereits kennst, kannst du wählen, ob du alle Tutorials sofort deaktivieren möchtest.
@@ -12,7 +12,7 @@ Hier richtest und startest du ein neues Spiel. Es gibt 2 Hauptspielarten: Dauerh
 Du startest dein erstes eigenes Spiel! Dies ist ein Client-Server-Spiel: Selbst wenn du alleine spielst, wird das Starten eines neuen Spiels automatisch einen separaten Server starten und dich automatisch mit ihm verbinden. Damit andere an diesem Spiel teilnehmen können, MUSST du sicherstellen, dass der von deinem Server verwendete Port korrekt weitergeleitet wird (14804 standardmäßig). Wenn der Autostart des Servers fehlschlägt, musst du den Server manuell aus dem Spielordner mit der "server.bat" starten und dich dann mit "Spiel betreten" mit ihm verbinden.
 
 #tuto_char_1
-Hier kannst du deinen Charakter erstellen. Du kannst ihn entwerfen und benennen, ebenso wie den Namen und die Flagge deiner Regierung. 
+Hier kannst du deinen Charakter erstellen. Du kannst ihn entwerfen und benennen, ebenso wie den Namen und die Flagge deiner Regierung.
 
 #tuto_char_2
 Du musst aus einer Liste verschiedener Starttypen wählen, wobei der Standard für ein neues Spiel der "primitive Stamm" ist.
@@ -21,7 +21,7 @@ Du musst aus einer Liste verschiedener Starttypen wählen, wobei der Standard f�
 Im Mehrspieler-Modus kannst du auch den Namen des Charakters eines Freundes angeben, damit du so nah wie möglich bei ihm spawnst, aber dafür brauchst du auch seinen 'Einladungscode'.
 
 #tuto_char_4
-Sei vorsichtig: Sobald du einen Charakter erstellt hast - besonders in anhaltenden Multiplayer-Spielen - darfst du nicht sofort einen neuen erstellen, wenn du es vermasselt hast! Du musst bis zu mehreren Tagen warten, bevor du es im selben Spiel noch einmal versuchen darfst. 
+Sei vorsichtig: Sobald du einen Charakter erstellt hast - besonders in anhaltenden Multiplayer-Spielen - darfst du nicht sofort einen neuen erstellen, wenn du es vermasselt hast! Du musst bis zu mehreren Tagen warten, bevor du es im selben Spiel noch einmal versuchen darfst.
 
 #tuto_warnjoin_1
 Du hast das Starttutorial noch nicht abgeschlossen: Es wird dringend empfohlen dies zu tun bevor man versucht, an einem dauerhaften Multiplayer-Spiel teilzunehmen.
@@ -30,10 +30,10 @@ Du hast das Starttutorial noch nicht abgeschlossen: Es wird dringend empfohlen d
 Anhaltende bzw. Persistente Multiplayer-Spiele sind unnachgiebig! Die Startbedingungen können viel komplexer sein und wenn du scheiterst, darfst du einen neuen Charakter nicht sofort neu erstellen, da das Wiederbeleben durch eine Abkühlphase von bis zu mehreren Tagen begrenzt ist. Lerne zuerst die Grundlagen, damit du nicht sofort Fehler machst und deine Chance verlierst!
 
 #tuto_join_1
-Hier kannst du an bestehenden Spielen teilnehmen. 
+Hier kannst du an bestehenden Spielen teilnehmen.
 
 #tuto_join_2
-Wenn du wieder an deinem eigenen lokalen Spiel teilnehmen musst, gehe zu "Direkte IP" und verbinde dich mit dem Port 14804 von "localhost". 
+Wenn du wieder an deinem eigenen lokalen Spiel teilnehmen musst, gehe zu "Direkte IP" und verbinde dich mit dem Port 14804 von "localhost".
 
 #tuto_join_3
 Wenn du an Multiplayer-Spielen teilnehmen möchtst, hast du die Wahl zwischen persistenten/ anhaltenden (24/7-Spiele, die in den letzten Monaten stattgefunden haben) und Echtzeitspielen (schnellere Spiele, um mit Freunden zu spielen).
@@ -42,7 +42,7 @@ Wenn du an Multiplayer-Spielen teilnehmen möchtst, hast du die Wahl zwischen pe
 Du hast an deinem ersten dauerhaften Multiplayer-Spiel teilgenommen! In diesem Spielmodus geht es VIEL langsamer als im Echtzeitmodus, und sei vorsichtig: Hier ist kein Platz für Fehler! Du musst mit dem Start fertig werden, den du bekommen hast, und zweite Chancen sind teuer, da du Tage warten musst, bevor du es mit einem neuen Charakter erneut versuchen kannst, wenn du diesen verlierst.
 
 #tuto_0_1
-Grüße dich, Neuling! Ich bin Sagacious Pig, dein Tutorial-Assistent. 
+Grüße dich, Neuling! Ich bin Sagacious Pig, dein Tutorial-Assistent.
 
 #tuto_0_2
 Ich bin hier, um dich durch die ersten Schritte des Spiels zu führen und zu erklären, wie die Dinge funktionieren.
@@ -72,7 +72,7 @@ Danke, Herr Sagacious, sollen wir weitermachen?--4--3
 Du beginnst mit einer einzigen Gruppe von Einheiten (einer "Formation"), die dem primitiven Stamm der Nomaden angehört, den du derzeit kontrollierst.  Klicke darauf, um sie auszuwählen.
 
 #tuto_5_1
-Unten links befindet sich das Formationsmenü deiner Formation. Es zeigt Details wie die Liste der Einheiten in dieser Formation und deren Inventar. 
+Unten links befindet sich das Formationsmenü deiner Formation. Es zeigt Details wie die Liste der Einheiten in dieser Formation und deren Inventar.
 
 #tuto_5_2
 Dein Stamm zeltet derzeit in einem Gebiet mit den richtigen Ressourcen, um das Spiel zu starten. Dies sollte ein sicherer Ort sein, um deine erste Siedlung zu gründen: Klicke in ihrem Gründungsmenü auf die Schaltfläche "Aufträge".
@@ -105,7 +105,7 @@ Ich bin begeistert von der Komplexität dieser Missionen, machen wir weiter!--10
 Wie mache ich das ?--11--8
 
 #tuto_11_2
-Wähle auf der ersten Registerkarte "Wohnen" das Gebäude "Wassersammler" aus. 
+Wähle auf der ersten Registerkarte "Wohnen" das Gebäude "Wassersammler" aus.
 
 #tuto_13_c1
 Essen bitte!--14--10
@@ -117,7 +117,7 @@ Es gibt 2 Arten von natürlichen Nahrungsquellen: essbare Pflanzen und Flecken v
 Farmen und Jäger sind Gebäude, die natürliche Ressourcen nutzen. Du musst in der Nähe gültiger Ressourcen platziert werden. Beginne mit dem Versuch, einen Jäger zu platzieren.
 
 #tuto_15_1
-Wenn du ein Gebäude platzierst, das natürliche Ressourcen nutzt, erscheint um es herum ein Bereich von Kacheln hervorgehoben: es ist die Produktionspalette des Gebäudes.  
+Wenn du ein Gebäude platzierst, das natürliche Ressourcen nutzt, erscheint um es herum ein Bereich von Kacheln hervorgehoben: es ist die Produktionspalette des Gebäudes.
 
 #tuto_15_2
 Graue und rote Kacheln bedeutet, dass es nichts Nutzbares gibt: Du musst nach den Kacheln suchen, die in GRÜN hervorgehoben sind, was auf eine gültige ausnutzbare Ressource für das Gebäude hinweist.
@@ -162,7 +162,7 @@ Wenn die lebenswichtigen Bedürfnisse nicht vollständig gedeckt sind, bedeutet 
 Gut zu wissen. 20-20--13
 
 #tuto_20_1
-Diese Schaltfläche öffnet ein wichtiges Menü: das "Gebietsmenü". 
+Diese Schaltfläche öffnet ein wichtiges Menü: das "Gebietsmenü".
 
 #tuto_20_2
 Es zeigt alles, was du über das Gebiet, in dem du dich befindest, wissen musst, damit du deine Situation überprüfen und Probleme diagnostizieren kannst. Klicke hier, um es zu öffnen.
@@ -171,7 +171,7 @@ Es zeigt alles, was du über das Gebiet, in dem du dich befindest, wissen musst,
 Ok!--22
 
 #tuto_22_1
-Dies ist der wichtige Teil, nach dem man jetzt suchen muss: die globalen lebenswichtigen Bedürfnisse der Bevölkerung, die ich bereits erwähnt habe. 
+Dies ist der wichtige Teil, nach dem man jetzt suchen muss: die globalen lebenswichtigen Bedürfnisse der Bevölkerung, die ich bereits erwähnt habe.
 
 #tuto_22_c1
 Sehr gut. --23--15-15
@@ -189,7 +189,7 @@ Welche Faktoren beeinflussen das Wachstum?--24
 Wie kann ich das Wachstum verbessern? --25
 
 #tuto_24_1
-Du kannst auf die Registerkarte "Wachstum" klicken, um Details über das globale Wachstum deiner Bevölkerung zu erhalten. Das Wachstum ist das Ergebnis von zwei Hauptfaktoren: dem Willen der Bevölkerung, Kinder zu bekommen und ihr Überleben. 
+Du kannst auf die Registerkarte "Wachstum" klicken, um Details über das globale Wachstum deiner Bevölkerung zu erhalten. Das Wachstum ist das Ergebnis von zwei Hauptfaktoren: dem Willen der Bevölkerung, Kinder zu bekommen und ihr Überleben.
 
 #tuto_24_2
 Der Kinderwunsch ist in der rechten Spalte aufgeführt und wird vor allem von der Lebensqualität der Bevölkerung beeinflusst.
@@ -234,7 +234,7 @@ Ich bin bereit. --28--17-17
 Baustoffe benötigen Ressourcen und einer der am häufigsten benötigten ist zunächst der Hammer, der aus Steinzeug hergestellt wird.
 
 #tuto_28_2
-Du musst jetzt deine ersten Hämmer produzieren, da deine Bestände beim Bau bald erschöpft sein werden. 
+Du musst jetzt deine ersten Hämmer produzieren, da deine Bestände beim Bau bald erschöpft sein werden.
 
 #tuto_28_c1
 Ok. --29--18--18
@@ -279,7 +279,7 @@ Das Ressourcenmenü zeigt dir alle Details zu einer bestimmten Ressource: Produk
 Ok. --35--24-24
 
 #tuto_35_1
-Es gibt dir auch Zugriff auf einige ressourcenspezifische Optionen. 
+Es gibt dir auch Zugriff auf einige ressourcenspezifische Optionen.
 
 #tuto_35_2
 Die erste ist die Speicherrichtlinie: Du kannst die Regeln für die Speicherung dieser spezifischen Ressource ändern, z.B. nur in bestimmten Speichern zulassen oder sie vollständig verbieten.
@@ -294,7 +294,7 @@ Was passiert, wenn es keinen Platz zum Aufbewahren gibt ?--36
 Was ist der "nur im eingeschränkten" Modus ?--37
 
 #tuto_36_1
-Wenn kein Platz vorhanden ist, werden die Ressourcen direkt auf den Boden gelegt, wo sie verfallen und schließlich verloren gehen, wenn sie nicht schnell und richtig gelagert werden. 
+Wenn kein Platz vorhanden ist, werden die Ressourcen direkt auf den Boden gelegt, wo sie verfallen und schließlich verloren gehen, wenn sie nicht schnell und richtig gelagert werden.
 
 #tuto_36_2
 Zusätzliche Ressourcen vor Ort werden automatisch auf jeden gültigen Speicher verlagert, wenn freier Speicherplatz verfügbar wird.
@@ -306,7 +306,7 @@ Ich habe es. --38--25-25
 Was ist der "nur im eingeschränkten" Modus ?--37
 
 #tuto_37_1
-Wenn du auf ein Speichergebäude klickst, kannst du es auf "eingeschränkt" setzen und steuern, welche Ressourcen darin erlaubt sind. 
+Wenn du auf ein Speichergebäude klickst, kannst du es auf "eingeschränkt" setzen und steuern, welche Ressourcen darin erlaubt sind.
 
 #tuto_37_2
 Wenn du dann in diesem Menü eine Speicherrichtlinie für Ressourcen auf "nur in eingeschränkten" einstellst, wird sie NUR in Speichern erlaubt, die sich im "eingeschränkten" Modus befinden UND so eingestellt wurden, dass sie diese spezifische Ressource zulassen. Wenn es keinen Platz gibt, werden die Ressourcen zerstört.
@@ -324,7 +324,7 @@ Die zweite ist die Option "Bestand pflegen": Sie ermöglicht es dir, sicherzuste
 Gut zu wissen!--39--26
 
 #tuto_39_1
-Im Moment ist dein einziger verfügbarer Speicher der "Ground Storage": ein kostenloser, aber ineffizienter Speicher für grundlegende Ressourcen. Es ist nur der Boden, der für die Aufbewahrung von Dingen markiert ist. 
+Im Moment ist dein einziger verfügbarer Speicher der "Ground Storage": ein kostenloser, aber ineffizienter Speicher für grundlegende Ressourcen. Es ist nur der Boden, der für die Aufbewahrung von Dingen markiert ist.
 
 #tuto_39_2
 Später wirst du richtige Lagergebäude freischalten, die viel mehr auf einer kleineren Fläche lagern können.
@@ -399,7 +399,7 @@ Dann wird Deine Miliz im Falle eines Angriffs nicht vollständig "bemannt" sein:
 Ich habe es verstanden. --47
 
 #tuto_49_1
-Herzlichen Glückwunsch: Du hast jetzt die Ausrüstung - ein Haufen Holzknüppel - für deine Bevölkerung gespeichert, die sie im Falle eines Angriffs benutzen kann. 
+Herzlichen Glückwunsch: Du hast jetzt die Ausrüstung - ein Haufen Holzknüppel - für deine Bevölkerung gespeichert, die sie im Falle eines Angriffs benutzen kann.
 
 #tuto_49_2
 Darüber hinaus kannst du nun mit dem "Strategischen Werkzeug" auch die Verteidigungsstrategie deiner Einheiten organisieren, wie z.B. die Definition der Einsatzpositionen deiner neuen Miliz. Klicke hier, um es zu öffnen.
@@ -420,7 +420,7 @@ Wenn eine Truppe ausgewählt ist, kannst du die Dropdown-Schaltfläche unten lin
 Sehr gut. --52--36
 
 #tuto_52_1
-Ein weiteres Werkzeug ist die Erstellung von "Verteidigungszonen" durch Anklicken dieser Schaltfläche. Klicken und ziehe dann auf dem Gelände, um einen Punkt und einen Radius um ihn herum festzulegen. 
+Ein weiteres Werkzeug ist die Erstellung von "Verteidigungszonen" durch Anklicken dieser Schaltfläche. Klicken und ziehe dann auf dem Gelände, um einen Punkt und einen Radius um ihn herum festzulegen.
 
 #tuto_52_2
 Sobald die Zone erstellt ist, kannst du Truppen in ihr einsetzen und sie auf das Verhalten der "Verteidigungszone" einstellen, damit sie diese spezifische Zone verteidigen können: Du darfst sich während des Kampfes aus ihr herausbewegen.
@@ -435,10 +435,10 @@ Felswerfer sind nur zur Verteidigung hinter Mauern nützlich: Ich empfehle dir, 
 Wenn du mit deinen Änderungen zufrieden bist, schließe und speicher deine Änderungen, indem du hier klickst.
 
 #tuto_54_1
-Du hast nun deine grundlegenden Verteidigungsmaßnahmen organisiert. 
+Du hast nun deine grundlegenden Verteidigungsmaßnahmen organisiert.
 
 #tuto_54_2
-Zusätzlich zu möglichen Ereignissen oder Konflikten mit anderen Spielern werden in den nahegelegenen NSC-"barbarischen" Lagern regelmäßig Warbands gespawnt, die versuchen werden, eure Territorien zu überfallen, zu plündern oder sogar einzudringen. 
+Zusätzlich zu möglichen Ereignissen oder Konflikten mit anderen Spielern werden in den nahegelegenen NSC-"barbarischen" Lagern regelmäßig Warbands gespawnt, die versuchen werden, eure Territorien zu überfallen, zu plündern oder sogar einzudringen.
 
 #tuto_54_3
 Es wird nicht lange dauern, bis sie dich bemerken und ihre ersten Raider schicken, also seid ihr besser bereit!
@@ -450,7 +450,7 @@ Gut zu wissen...--55--39
 Es ist an der Zeit, sich mit dem Thema Wissen (Technologien) zu befassen, die Dinge wie neue Gebäude oder neue Ressourcen erschließen.
 
 #tuto_55_2
-Um neue Erkenntnisse zu gewinnen, musst du Projekte abschließen. Und um Projekte zu bekommen, braucht man Ideen. 
+Um neue Erkenntnisse zu gewinnen, musst du Projekte abschließen. Und um Projekte zu bekommen, braucht man Ideen.
 
 #tuto_55_c1
 Mach schon....--56
@@ -486,7 +486,7 @@ Klicke hier, um es zu öffnen.
 Auf der Registerkarte "Gesellschaft" verwalte Deine Richtlinien und definieren, wie Deine Gesellschaft organisiert ist und funktioniert.
 
 #tuto_59_2
-Im Moment bist du eine primitive Bandgesellschaft mit einer Geschenkökonomie, in der jeder seine Waren teilt. 
+Im Moment bist du eine primitive Bandgesellschaft mit einer Geschenkökonomie, in der jeder seine Waren teilt.
 
 #tuto_59_c1
 Wie kann ich das ändern ?--60
@@ -552,7 +552,7 @@ Sehr gut. --111
 Was passiert, wenn ein Projekt fehlschlägt ?--68
 
 #tuto_68_1
-Wenn dein Projekt fehlschlägt, musst du es erneut von Grund auf neu starten. 
+Wenn dein Projekt fehlschlägt, musst du es erneut von Grund auf neu starten.
 
 #tuto_68_2
 Du musst alle Startbedingungen zurückzahlen.
@@ -672,7 +672,7 @@ Bist du dir wirklich sicher? Ich denke, es könnte das Beste für dich sein.
 Ja!--84
 
 #tuto_84_1
-Ich denke, ich weiß, was das Beste für dich ist, ich werde hier bleiben und mit diesem Tutorial weitermachen. 
+Ich denke, ich weiß, was das Beste für dich ist, ich werde hier bleiben und mit diesem Tutorial weitermachen.
 
 #tuto_84_c1
 Bitte geh weg....--1
@@ -840,7 +840,7 @@ Ich kann das nicht glauben...--999
 Derzeit lebt dein Stamm in Slums. Slums sind 1 Kachelwohnungen, die automatisch spawnen, wenn keine richtige Unterkunft zur Verfügung steht. Sie werden auch automatisch verschwinden, wenn leere Häuser verfügbar sind, da die Bewohner in sie umziehen.
 
 #tuto_113_1
-Slums bieten keine Boni, während Häuser die Gesundheit und Lebensqualität ihrer Bewohner verbessern. Die Lebensqualität erhöht die Intelligenz, während die Gesundheit die Krankheit verringert, was die Zahl der Menschen, die während jeder Generation sterben, reduziert. 
+Slums bieten keine Boni, während Häuser die Gesundheit und Lebensqualität ihrer Bewohner verbessern. Die Lebensqualität erhöht die Intelligenz, während die Gesundheit die Krankheit verringert, was die Zahl der Schweine, die während jeder Generation sterben, reduziert.
 
 #tuto_113_2
 Die Verbesserung dieser beiden Werte wird das Glück und das Wachstum deiner Bevölkerung erhöhen und dir mehr Aktivposten geben, die du in Gebäuden oder Armeen beschäftigen kannst.
@@ -849,7 +849,7 @@ Die Verbesserung dieser beiden Werte wird das Glück und das Wachstum deiner Bev
 Gut zu wissen!--114
 
 #tuto_114_1
-Deine nächste Aufgabe ist es, Deine Startressourcen zu nutzen, um mit dem Bau deiner ersten richtigen Hütten zu beginnen. Nach ihrer Fertigstellung werden die Slums mit dem Einzug der Bevölkerung in die neuen Häuser allmählich verschwinden. 
+Deine nächste Aufgabe ist es, Deine Startressourcen zu nutzen, um mit dem Bau deiner ersten richtigen Hütten zu beginnen. Nach ihrer Fertigstellung werden die Slums mit dem Einzug der Bevölkerung in die neuen Häuser allmählich verschwinden.
 
 #tuto_114_2
 Du kannst diesen Prozess auch beschleunigen, indem du die Slums manuell zerstörst. Wenn du mehr zerstörst, als Platz zur Verfügung steht, werden neue einfach an anderer Stelle wieder auftauchen, so dass du keine Bevölkerung verlieren kannst!
@@ -876,7 +876,7 @@ Gut! Als Belohnung siedelten sich neue Familien in deinem Gebiet an, was uns bei
 Warum ist das ?--131
 
 #tuto_118_1
-Herden sind Gruppen von tierischen Einheiten. Du bist endlich und keine permanente Ressource: du kannst nicht vom Gebäude des Jägers ausgenutzt werden. 
+Herden sind Gruppen von tierischen Einheiten. Du bist endlich und keine permanente Ressource: du kannst nicht vom Gebäude des Jägers ausgenutzt werden.
 
 #tuto_118_2
 Als "Einheiten" sind sie auf der Weltkarte sichtbar und können ohne Siedlung gejagt werden.
@@ -894,7 +894,7 @@ Während eine Miliz nur ein Stapel von Waffen ist, die Deine Bevölkerung im Fal
 Verstanden, also was soll ich tun ?--120
 
 #tuto_120_1
-Erstelle nun eine neue Formation der "Armee" und rekrutiere 10 Krieger in ihr. 
+Erstelle nun eine neue Formation der "Armee" und rekrutiere 10 Krieger in ihr.
 
 #tuto_120_2
 Beachte diesmal, dass sie aus deiner derzeitigen Bevölkerung entfernt werden, da es sich nicht um eine "Miliz" handelt, so dass du nie alle deine Aktivposten in einer Armee rekrutieren willst, da sie alle ihre Produktionsgebäude von ihren Arbeitern leeren würde.
@@ -1011,7 +1011,7 @@ Das war's für den Moment, genießt die Landwirtschaft!
 Danke, Herr Scharfsinniges Schwein.--998
 
 #tuto_400_1
-Es sieht so aus, als ob du zum ersten Mal das Wissen über "Barter" entdecken würdest! 
+Es sieht so aus, als ob du zum ersten Mal das Wissen über "Barter" entdecken würdest!
 
 #tuto_400_2
 Dies ermöglicht es dir, die Wirtschaftspolitik des "fairen Austauschs" zu ermöglichen. Es ist ein Meilenstein Übergang für Deine Gesellschaft, der es erfordert, ein paar neue Dinge zu erklären.....
@@ -1020,13 +1020,13 @@ Dies ermöglicht es dir, die Wirtschaftspolitik des "fairen Austauschs" zu ermö
 Weiter....--401
 
 #tuto_401_1
-Indem du "fairen Austausch" ermöglichst, wirst du von einer Geschenkökonomie zu einer Tauschökonomie übergehen, in der Menschen ihre Waren nicht mehr frei miteinander teilen und gleichzeitig spätere Rückzahlungen erwarten.
+Indem du "fairen Austausch" ermöglichst, wirst du von einer Geschenkökonomie zu einer Tauschökonomie übergehen, in der Schweine ihre Waren nicht mehr frei miteinander teilen und gleichzeitig spätere Rückzahlungen erwarten.
 
 #tuto_401_c1
 Na und? 402.
 
 #tuto_402_1
-Dann haben die Menschen sofort Immobilien und Handelsgüter von gleichem Wert. Deine Bevölkerung wird ein Einkommen haben, das von ihren Aktivitäten abhängt, und sie wird auch in der Lage sein, ihr Vermögen über 1 zu erhöhen.
+Dann haben die Schweine sofort Immobilien und Handelsgüter von gleichem Wert. Deine Bevölkerung wird ein Einkommen haben, das von ihren Aktivitäten abhängt, und sie wird auch in der Lage sein, ihr Vermögen über 1 zu erhöhen.
 
 #tuto_402_c1
 Ok--403
@@ -1035,7 +1035,7 @@ Ok--403
 Noch wichtiger ist, dass Deine Mitarbeiter in einer Geschenkbranche automatisch auf alle verfügbaren Ressourcen zugreifen können, die sie benötigen, aber das wird nicht mehr der Fall sein, sobald du "fairen Austausch" aktivierst.
 
 #tuto_403_2
-Damit die Menschen auf eine Ressource zugreifen können, muss sie zuerst verteilt werden und sie müssen sie kaufen.
+Damit die Schweine auf eine Ressource zugreifen können, muss sie zuerst verteilt werden und sie müssen sie kaufen.
 
 #tuto_403_c1
 Wie kann ich das tun? -404
@@ -1053,10 +1053,10 @@ Die Händler behalten einen Teil der Verkaufseinnahmen, während der Rest an die
 Was ist die andere Richtung? 405.
 
 #tuto_405_1
-Alle Produktionsgebäude haben auch Zugang zu einem neuartigen Anbau: Marktständen. Wie andere Anhänge, wie z.B. Felder für landwirtschaftliche Betriebe, sind sie über die Speisekarte des Produktionsgebäudes verfügbar. 
+Alle Produktionsgebäude haben auch Zugang zu einem neuartigen Anbau: Marktständen. Wie andere Anhänge, wie z.B. Felder für landwirtschaftliche Betriebe, sind sie über die Speisekarte des Produktionsgebäudes verfügbar.
 
 #tuto_405_2
-Diese Anhänge verbrauchen einen Teil der Arbeitskräfte des Gebäudes, stellen aber die gesamte Produktion des Gebäudes den Menschen zum Kauf zur Verfügung. 
+Diese Anhänge verbrauchen einen Teil der Arbeitskräfte des Gebäudes, stellen aber die gesamte Produktion des Gebäudes den Schweinen zum Kauf zur Verfügung.
 
 #tuto_405_c1
 Worin besteht also der Unterschied zwischen den beiden Methoden? 406
@@ -1071,7 +1071,7 @@ Händler verkaufen alle verfügbaren Ressourcen - produziert oder gelagert -, ab
 Sehr gut. Was jetzt?--407
 
 #tuto_407_1
-Sobald "fairer Austausch" ermöglicht wird, hat Deine Bevölkerung keinen Zugang mehr zu Ressourcen - einschließlich Lebensmitteln -, die nicht von Händlern oder Marktständen "verteilt" werden. 
+Sobald "fairer Austausch" ermöglicht wird, hat Deine Bevölkerung keinen Zugang mehr zu Ressourcen - einschließlich Lebensmitteln -, die nicht von Händlern oder Marktständen "verteilt" werden.
 
 #tuto_407_2
 Es wird erforderlich sein, dass du damit beginnst, deinen Leuten wieder Lebensmittel (und dann andere Ressourcen wie Keramik usw.) zur Verfügung zu stellen, indem du Händler baust oder mit deinen Produktionsgebäuden Marktstände aufbauen.
@@ -1083,7 +1083,7 @@ Ok!--408
 Warte..... Wie kann ich das noch einmal machen? -404
 
 #tuto_408_1
-Jetzt, dank des Tauschhandels, werden Deine Arbeiter viel effizienter und Deine Gesellschaft stabiler und konfliktärmer, so dass du eine größere Gemeinschaft mit weniger Risiken für die Instabilität führen kannst. 
+Jetzt, dank des Tauschhandels, werden Deine Arbeiter viel effizienter und Deine Gesellschaft stabiler und konfliktärmer, so dass du eine größere Gemeinschaft mit weniger Risiken für die Instabilität führen kannst.
 
 #tuto_408_2
 Du wirst auch kontrollieren können, ob und wie viel du die einzelnen produzierten Ressourcen je nach deinen Bedürfnissen verteilen willst, was du in einer Geschenkbranche nicht tun kannst!
@@ -1098,7 +1098,7 @@ Fairer Tausch, der eine primitive Form der Währung ermöglicht, musst du jetzt 
 Wie finanziere ich das alles? --410
 
 #tuto_410_1
-In diesen primitiven Zeiten ist die größte Einnahmequelle, die du erhalten kannst, die eigene persönliche Geldmittel deines Anführers, indem du sie ein und dasselbe machen. 
+In diesen primitiven Zeiten ist die größte Einnahmequelle, die du erhalten kannst, die eigene persönliche Geldmittel deines Anführers, indem du sie ein und dasselbe machen.
 
 #tuto_410_2
 Mit Hilfe der Richtlinie "Privilegien" kannst du den Prozentsatz des Vermögens des Territoriums definieren, der deinem Anführer von Rechts wegen zugesprochen wird. Dies wird langsam sein persönliches Vermögen erhöhen, das du im Territoriumsmenü überwachen kannst, indem du die Bevölkerungsklasse "Leader" auswählst.
@@ -1107,7 +1107,7 @@ Mit Hilfe der Richtlinie "Privilegien" kannst du den Prozentsatz des Vermögens 
 Ok....--411
 
 #tuto_411_1
-Dann kannst du mit der Richtlinie "Führung" festlegen, wie viel von seinem persönlichen Vermögen du den Ausgaben des Staates zuweisen möchtest! 
+Dann kannst du mit der Richtlinie "Führung" festlegen, wie viel von seinem persönlichen Vermögen du den Ausgaben des Staates zuweisen möchtest!
 
 #tuto_411_2
 So wird beispielsweise ein Leader mit einem Vermögen von 20 Personen, der zu 50% beiträgt, ein Schatzkammer-Einkommen von +10 generieren.
@@ -1131,7 +1131,7 @@ Das ist alles für den Moment. Viel Glück bei diesem schwierigen Übergang!
 Danke, Herr Scharfsinniges Schwein.--997
 
 #tuto_1_1
-Du befindest dich derzeit auf der Weltkarte. Jede Kachel ist ein Territorium, das du erkunden und kolonisieren kannst. 
+Du befindest dich derzeit auf der Weltkarte. Jede Kachel ist ein Territorium, das du erkunden und kolonisieren kannst.
 
 #tuto_1_c1
 Sehr gut.... also was jetzt ?--2--1
@@ -1146,7 +1146,7 @@ Dies ist die Registerkarte Gebäude des Gebiets, wo du alle Deine derzeit verfü
 Dieses Gebäude ist kostenlos und erfordert keine Arbeiter: Es stellt einfach einen Platz an der Küste dar, der geräumt und geebnet wurde, um deinen Porcos einen einfachen Zugang zu frischem Wasser zu ermöglichen: du erhältst es selbst, wie sie es brauchen. Versuche, es neben Wasserkacheln zu platzieren: Es muss eine an das Wasser angrenzende Kante haben, um zu funktionieren.
 
 #tuto_13_1
-Jetzt, da der Wasserbedarf deiner Porcos gedeckt ist, brauchen sie nachhaltige Nahrungsquellen, da ihre Bestände bald erschöpft sein werden. 
+Jetzt, da der Wasserbedarf deiner Porcos gedeckt ist, brauchen sie nachhaltige Nahrungsquellen, da ihre Bestände bald erschöpft sein werden.
 
 #tuto_21_1
 In diesem Menü sind viele Informationen zusammengefasst. Die obere Hälfte ist eine globale Zusammenfassung des Gebiets mit allen wichtigen Statistiken in einem einzigen Bereich.
@@ -1155,7 +1155,7 @@ In diesem Menü sind viele Informationen zusammengefasst. Die obere Hälfte ist 
 Die untere Hälfte des Menüs ist eine Reihe von Registerkarten, die dir jeweils detailliertere Informationen über einen bestimmten Gebietsstatus geben: Wirtschaft, Wachstum, Verwaltung....
 
 #tuto_22_2
-Es muss mehr oder weniger über 70% bleiben: Das bedeutet, dass die meisten Menschen in deinem Stamm genügend Nahrung und Wasser haben, um nicht zu verhungern. Es ist ein wichtiger Wert, den du immer überwachen musst.
+Es muss mehr oder weniger über 70% bleiben: Das bedeutet, dass die meisten Schweine in deinem Stamm genügend Nahrung und Wasser haben, um nicht zu verhungern. Es ist ein wichtiger Wert, den du immer überwachen musst.
 
 #tuto_23_3
 Satisfied Vital Needs ist unerlässlich, um ein positives Wachstum aufrechtzuerhalten, aber es ist nicht der einzige Faktor, der es beeinflusst.
@@ -1215,7 +1215,7 @@ Du hast gebraten! Dafür verdienst du eine unerträgliche Strafe! Es ist an der 
 Warten wir nun, bis das Projekt abgeschlossen ist.....
 
 #tuto_112_1
-Da! Du kannst jetzt deine erste solide Wohnung bauen: eine primitive rustikale Hütte. 
+Da! Du kannst jetzt deine erste solide Wohnung bauen: eine primitive rustikale Hütte.
 
 #tuto_112_c1
 Was nützt es, gute Häuser bereitzustellen ?--113
@@ -1236,5 +1236,5 @@ Wenn du die Jagdaktion bestätigst, wird sie einen "Kampf" zwischen deinen Krieg
 Um Felder zu erstellen, wähle eines deiner Sammelcamps aus, um das Gebäude-Menü zu öffnen.
 
 #tuto_23_2
-Positives Wachstum bedeutet, dass Deine Bevölkerung wächst und du neue aktive Porcos erhältst, die du in Gebäuden einsetzen kannst. 
+Positives Wachstum bedeutet, dass Deine Bevölkerung wächst und du neue aktive Porcos erhältst, die du in Gebäuden einsetzen kannst.
 

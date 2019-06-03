@@ -1,5 +1,4 @@
-﻿
-#bdg_hous_n
+﻿#bdg_hous_n
 Unterkunft
 
 #bdg_hous_dscr
@@ -10,6 +9,9 @@ Produktionsgebäude
 
 #bdg_prod_dscr
 Nutzt Geländekacheln, um Rohmaterial zu produzieren.
+
+#bdg_ind_n
+Industriegebäude
 
 #bdg_ind_dscr
 Produziert Waren aus vorhandenen Ressourcen.
@@ -36,13 +38,13 @@ Vertriebspartner erhalten Ressourcen aus jedem produzierenden Gebäude oder Lage
 Straßen
 
 #bdg_roads_dscr
-Verbessert die Bewegung der Einheiten auf diesem Kachel und gewährt Boni für verbundene Gebäude.
+Verbessert die Bewegung der Einheiten auf diesem Feld und gewährt Boni für verbundene Gebäude. (Aktuell nur dekorativ)
 
 #bdg_walls_n
 Wände
 
 #bdg_walls_dscr
-Defensive Struktur, die verhindert, dass alle Einheiten passieren.
+Defensive Struktur, die alle Einheiten am passieren hindert.
 
 #bdg_deco_n
 Dekorativ
@@ -54,7 +56,7 @@ Rein kosmetische Elemente, um das Aussehen deiner Stadt zu verbessern.
 Wehrtürme
 
 #bdg_towers_dscr
-In den Verteidigungstürmen sind Soldaten unabhängig von Garnisonen und Formationen beschäftigt. Du kannst nur auf Plattformen gebaut werden. Sie bieten Feuerunterstützung bei Kämpfen.
+In den Verteidigungstürmen sind Soldaten unabhängig von Garnisonen und Formationen beschäftigt. Sie können nur auf Plattformen gebaut werden. Sie bieten Feuerunterstützung bei Kämpfen.
 
 #bdg_battlem_n
 Zinnen
@@ -63,22 +65,22 @@ Zinnen
 Zinnen können nur auf Plattformen gebaut werden. Sie bieten einen Kampfbonus für Einheiten, die während der Kämpfe auf der Plattform stehen.
 
 #bdg_annex_n
-Anhang
+Nebengebäude
 
 #bdg_annex_dscr
-Anhänge sind Gebäude, die zu einem anderen gehören und ihm zusätzliche Produktionsquellen oder Vertriebskapazitäten bieten.
+Nebengebäude sind Gebäude, die zu einem anderen gehören und diesem zusätzliche Produktionsquellen oder Vertriebskapazitäten bieten.
 
 #bdg_pltf_n
 Plattformen
 
 #bdg_pltf_dscr
-Plattformen sind eine pigmentierte Ziegelerhöhung, über denen du bauen kannst. Verteidigungsstrukturen wie Türme und Zinnen können nur über Plattformen gebaut werden. Du bist kostspielig und langsam zu bauen.
+Plattformen sind eine schweinegemachte Erhöhung, auf welcher du bauen kannst. Verteidigungsstrukturen wie Türme und Zinnen können nur auf Plattformen gebaut werden. Sie sind kostspielig und langsam zu bauen.
 
 #bdg_stairs_n
 Treppe
 
 #bdg_stairs_dscr
-Ermöglicht es Ebern, auf Kacheln mit unterschiedlicher Höhe zuzugreifen. Stelle sie gegen Plattformen oder Klippen, um Zugang zu erhalten. 
+Ermöglicht es Schweinen, auf Kacheln mit unterschiedlicher Höhe zuzugreifen. Stelle sie gegen Plattformen oder Klippen, um Zugang zu erhalten. Drücke die Leertaste um die Richtung zu ändern.
 
 #bdg_gates_n
 Tor
@@ -105,25 +107,25 @@ Produziert Bier aus Gerste. Bier ist eine verteilbare Ressource, die den Bedarf 
 Tongewinnung
 
 #txt_claycamp_dscr
-Kann Tonplatten für die Herstellung von Ton nutzen. Muss in einer Reihe von Tonablagerungen platziert werden.
+Kann Tonfelder für die Herstellung von Ton nutzen. Muss in der Reichweite von Tonablagerungen platziert werden.
 
 #txt_claypit_n
 Lehmgrube
 
 #txt_claypit_dscr
-Direkt auf Tonplatten legen. Erhöht die Tonproduktion dieser Kacheln.
+Direkt auf Tonfeldern platzieren. Erhöht die Tonproduktion dieser Felder.
 
 #txt_clothmk_n
 Tuchmacher
 
 #txt_clothmk_dscr
-Produziert Kleidung aus Textil. Tuch ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Kleidung deckt. 
+Produziert Kleidung aus Textil. Tuch ist eine verteilbare Ressource, die den Bedarf der Bevölkerung an Kleidung deckt.
 
 #txt_gather_n
 Sammellager
 
 #txt_gather_dscr
-Kann wilde landwirtschaftliche Ressourcen nutzen. Muss in den Bereich der Ressourcen gestellt werden. 
+Kann wilde landwirtschaftliche Ressourcen nutzen. Muss in Reichweite der Ressourcen platziert werden.
 
 #txt_farm_n
 Bauernhof
@@ -135,7 +137,7 @@ Kann Felder schaffen, um eine Vielzahl von landwirtschaftlichen Ressourcen zu pr
 Fischerschwein
 
 #txt_fisher_dscr
-Kann Wildfische zur Herstellung von frischem Fisch nutzen. Muss am Ufer in Reichweite eines Wildfischplatzes aufgestellt werden.
+Kann wilde Fischschwärme zur Herstellung von frischem Fisch nutzen. Muss am Ufer in Reichweite eines Schwarmes aufgestellt werden.
 
 #txt_grnry_n
 Getreidespeicher
@@ -147,7 +149,7 @@ Kann Nahrungsressourcen speichern.
 Slum
 
 #txt_hslum_dscr
-Slums, die nichts kosten und automatisch entstehen, wenn die Eber keine freie Wohnung finden können. Sie bieten eine geringe Lebensqualität und keine Gesundheit. 
+Slums, die nichts kosten und automatisch entstehen, wenn die Schweine keine freie Wohnung finden können. Sie bieten eine geringe Lebensqualität und keine Gesundheit.
 
 #txt_hrustc_n
 Haus
@@ -189,7 +191,7 @@ Eine preiswerte Plattform mit geringem Widerstand. Nützlich, um billige Verteid
 Steinplattform
 
 #txt_platf2_dscr
-Eine solide Plattform, die nützlich ist, um widerstandsfähige Wände herzustellen.
+Eine solide Plattform um widerstandsfähige Wände herzustellen.
 
 #txt_dstrplatf_n
 Plattformen zerstören
@@ -225,19 +227,19 @@ Dieser Turm ist aus massiven Steinblöcken gebaut, um den Widerstand gegen feind
 Zinnen aus Holz
 
 #txt_batlm1_dscr
-Grobe hölzerne Zinnen, die eine grundlegende Deckung vom Feindesfeuer bis hin zu Einheiten bieten, die während der Kämpfe auf der Plattform stehen.
+Grobe hölzerne Zinnen, die eine grundlegende Deckung gegen Feindesfeuer bieten, für Einheiten die während der Kämpfe auf der Plattform stehen.
 
 #txt_batlm2_n
 Steinzinnen
 
 #txt_batlm2_dscr
-Steinzinnen bieten Schutz vor feindlichem Feuer und Einheiten, die während der Kämpfe auf der Plattform stehen.
+Steinzinnen bieten Schutz vor feindlichem Feuer für Einheiten die während der Kämpfe auf der Plattform stehen.
 
 #txt_batlm3_n
 Maschinengeschliffene Steinmauern
 
 #txt_batlm3_dscr
-Schwere Zinnen aus massiven Steinblöcken mit Machikolationen, die eine ausgezeichnete Abdeckung vom feindlichen Feuer bis hin zu Einheiten bieten, die während der Schlachten auf der Plattform stehen.
+Schwere Zinnen aus massiven Steinblöcken mit Machikolationen, die eine ausgezeichnete Deckung vor feindlichem Feuer bieten, für Einheiten die während der Schlacht auf der Plattform stehen.
 
 #txt_batlm4_n
 Bretterzaun
@@ -261,7 +263,7 @@ Die Felder sind nur durch den Bauernhof bearbeitbar, zu dem sie gehören. Sie pr
 Schotterstraße
 
 #txt_road1_dscr
-Eine einfache Straße und frei zu bauen.
+Eine einfache Straße und kostenlos zu bauen.
 
 #txt_road2_n
 Holzstraße
@@ -347,8 +349,11 @@ Rasen
 #txt_grass_dscr
 Eine mit sorgfältig gepflegtem Gras bedeckte Bodenfläche für ästhetische und Freizeitzwecke.
 
+#txt_flowerbed_n
+Blumenbeet
+
 #txt_flowerbed_dscr
-Ein schlichter Blumenpatch zur Dekoration.
+Ein schlichter Blumenfleck zur Dekoration.
 
 #txt_woodc_n
 Holzfäller
@@ -366,25 +371,25 @@ Spezialisierte Distributoren, die der Bevölkerung eine wählbare Ressource zur 
 Bergbaulager
 
 #txt_mine_dscr
-Kann Geländekacheln mit speziellen Lagerstätten nutzen, um ein breites Spektrum an Rohstoffen zu produzieren, insbesondere durch die Nutzung der Anhänge, sofern vorhanden.
+Kann Geländefelder mit speziellen Lagerstätten nutzen, um ein breites Spektrum an Rohstoffen zu produzieren, insbesondere durch die Nutzung der Anbauten, sofern vorhanden.
 
 #txt_mineshaft_n
 Bergwerkschacht
 
 #txt_mineshaft_dscr
-Wesentlicher Anhang des Minenlagers. Mining-Schächte erhöhen die Produktion des Minenlagers, dem sie angehören. Muss über Fliesen mit gültigen Einzahlungen gebaut werden.
+Wesentlicher Anbau des Minenlagers. Minenschächte erhöhen die Produktion des Minenlagers, dem sie angehören. Muss über Feldern mit gültigen Lagerstätten gebaut werden.
 
 #txt_paddock_n
-Paddock
+Koppel
 
 #txt_paddock_dscr
-Paddocks ermöglichen die Lagerung von Viehbeständen.
+Koppeln ermöglichen die Haltung von Viehbeständen.
 
 #txt_elephantpen_n
-Elefantenfederhalter
+Elefantenpferch
 
 #txt_elephantpen_dscr
-Elefantenställe ermöglichen die Lagerung einzelner großer Tiere wie Elefanten.
+Elefantenpferche ermöglichen die Haltung einzelner großer Tiere wie Elefanten.
 
 #txt_potter_n
 Töpfer
@@ -396,7 +401,7 @@ Töpfer veredeln Ton zu Keramik. Keramik ist eine verteilbare Ressource, die den
 Steinmetzlager
 
 #txt_stonecut_dscr
-Kann Felskacheln in Reichweite nutzen, um Rohstein zu produzieren oder Steinbruchanhänge zu bauen, um Steinblöcke oder spezialisierte Blöcke über Kacheln mit gültigem Gesteinstyp herzustellen.
+Kann Felskacheln in Reichweite nutzen, um unbearbeitete Steine zu produzieren oder Steinbruchanbauten bauen, um Steinblöcke oder spezialisierte Blöcke über Feldern mit gültigem Gesteinstyp herzustellen.
 
 #txt_quarry_n
 Steinbruch
@@ -428,6 +433,9 @@ Items
 #txt_items_dscr
 Diese Ressourcen werden auf dem Boden liegen gelassen und verfallen mit der Zeit, es sei denn, sie werden schnell in einem geeigneten Lagerraum gelagert!
 
+#txt_storegrnd_n
+Bodenlager
+
 #txt_storegrnd_dscr
 Der Boden ist als Lagerfläche gekennzeichnet. Es ist kostenlos, aber unbewacht und hat keine hohe Speicherkapazität pro Kachel.
 
@@ -435,7 +443,7 @@ Der Boden ist als Lagerfläche gekennzeichnet. Es ist kostenlos, aber unbewacht 
 Lager
 
 #txt_warehouse_dscr
-Lagerhäuser können alle Arten von Ausgangsmaterialien lagern. Du bist ausgekleidet und können viel mehr Ressourcen speichern als Bodenlager.
+Lagerhäuser können alle Arten von Ausgangsmaterialien lagern. Sie sind bewacht und können viel mehr Ressourcen speichern als Bodenlager.
 
 #txt_weapmk_n
 Waffenschmied
@@ -444,22 +452,22 @@ Waffenschmied
 Waffenschmiede können eine breite Palette von Waffen und Rüstungen herstellen, die zur Ausrüstung und Rekrutierung von Truppen verwendet werden.
 
 #txt_weaver_n
-Weberin
+Weber
 
 #txt_weaver_dscr
-Die Weberin veredelt verschiedene Rohstoffe (Baumwolle, Flachs, Wolle...) zu Textilien. Das Textil kann dann für verschiedene Dinge wie die Stoffherstellung verwendet werden.
+Der Weber veredelt verschiedene Rohstoffe (Baumwolle, Flachs, Wolle...) zu Textilien. Das Textil kann dann für verschiedene Dinge wie die Stoffherstellung verwendet werden.
 
 #txt_stairs1_n
 Holztreppe
 
 #txt_stairs1_dscr
-Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen. 
+Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen.
 
 #txt_stairs2_n
 Steintreppe
 
 #txt_stairs2_dscr
-Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen. 
+Treppen, die an Klippen oder Wänden beliebiger Höhe platziert werden können, um den Durchgang zu ermöglichen.
 
 #txt_gate1_n
 Holztor
@@ -471,7 +479,7 @@ Ein billiges Holztor.
 Starkes Tor
 
 #txt_gate2_dscr
-Ein starkes Tor aus Holz, das von Bronze gehalten wird. 
+Ein starkes Tor aus Holz, das von Bronze gehalten wird.
 
 #txt_gate3_n
 Verstärktes Tor
@@ -483,7 +491,7 @@ Ein massives, mit Eisen verstärktes Tor.
 Viehzucht
 
 #txt_cattle_dscr
-Die Rinderfarmen ermöglichen es Ihnen, Weiden zu schaffen, die Rinder produzieren.
+Die Viehzucht ermöglicht es Weiden zu schaffen, um Vieh zu produzieren.
 
 #txt_pastr_n
 Weide
@@ -498,13 +506,19 @@ Wollweide
 Weiden von wolleproduzierenden Tieren, die regelmäßig geschoren werden, um ihre Wolle zu sammeln.
 
 #txt_builder_n
-Bauherren
+Baumeister
 
 #txt_builder_dscr
-Viele Gebäude können nur von professionellen Teams von Bauherren gebaut werden.
+Viele Gebäude können nur von professionellen Teams von Baumeistern gebaut werden.
+
+#txt_butcher_n
+Metzger
+
+#txt_butcher_dscr
+Schlachtung von lebendem Vieh zur Herstellung von frischem Fleisch.
 
 #txt_well_n
-Nun
+Brunnen
 
 #txt_well_dscr
 Entzieht dem Boden Wasser.
@@ -512,23 +526,29 @@ Entzieht dem Boden Wasser.
 #txt_watercol_n
 Wasserkollektor
 
+#txt_watercol_dscr
+Ein Platz, an dem Schweine frisches Wasser aus Flüssen oder Seen sammeln können.
+
 #txt_landock_n
-Landdocks
+Karawanserei
 
 #txt_landock_dscr
-Docks für Landkarawanen, die Waren durch die Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind.
+Herberge für Landkarawanen, die Waren durch die Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind.
 
 #txt_dock_n
 Docks
 
 #txt_dock_dscr
-Docks für Handelsschiffe, die Waren durch Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind. 
+Docks für Handelsschiffe, die Waren durch Gebiete transportieren und für den Betrieb von Handelsrouten erforderlich sind.
 
 #txt_theater_n
 Theater
 
 #txt_theater_dscr
-Bietet den Porcos Unterhaltung.
+Bietet den Schweinen Unterhaltung.
+
+#txt_baths_n
+Öffentliche Bäder
 
 #txt_baths_dscr
 Ein Ort der Begegnung und Entspannung, der auch für mehr Gesundheit sorgt.
@@ -537,7 +557,7 @@ Ein Ort der Begegnung und Entspannung, der auch für mehr Gesundheit sorgt.
 Taverne
 
 #txt_tavern_dscr
-Ein Ort der geselligen Runde zum Trinken und Feiern.
+Ein Ort des geselligen Zusammenkommens zum Trinken und Feiern.
 
 #txt_forum_n
 Forum
@@ -548,20 +568,32 @@ Ein Ort der Begegnung, an dem Fragen der Gemeinschaft diskutiert werden.
 #txt_furnmkr_n
 Möbelhersteller
 
+#txt_furnmkr_dscr
+Produziert Möbel, eine verteilbare Ressource, die den Bedarf der Bevölkerung an Mobiliar deckt.
+
+#txt_carpetmkr_n
+Teppichhersteller
+
+#txt_carpetmkr_dscr
+Produziert Teppiche, eine verteilbare Ressource, die den Bedarf der Bevölkerung an Einrichtungsgegenständen deckt.
+
 #txt_mudcamp_n
 Bodenbergmann
 
 #txt_mudcamp_dscr
-Ein einfaches Lager, in dem die Arbeiter nutzbare Bodenarten wie Schlamm, Torf oder Asche sammeln und sammeln.
+Ein einfaches Lager, in dem die Arbeiter nutzbare Bodenarten wie Schlamm, Torf oder Asche sammeln.
 
 #txt_brickwk_n
 Ziegelwerk
 
 #txt_brickwk_dscr
-Produziert Ziegel, ein Grundbaustoff.
+Produziert Ziegel, ein Grundbaustoff zum Bauen.
+
+#txt_kiln_n
+Ofen
 
 #txt_kiln_dscr
-Produziert verschiedene Baumaterialien.
+Produziert verschiedene Baumaterialien wie Holzkohle, Steinkohlenkoks und Mörtel.
 
 #txt_fundry_n
 Gießerei
@@ -573,13 +605,13 @@ Veredelt metallische Erze zu Barren.
 Stahlwerk
 
 #txt_steel_dscr1
-Produziert Stahl durch Aufkohlen von Roheisen durch Schmieden.
+Produziert Stahl durch Aufkohlen von Schmiedeeisen durch Schmieden.
 
 #txt_steel_dscr2
 Produziert Stahl durch Entkohlung von Gusseisen durch Schmelzen.
 
 #txt_charcl_n
-Holzkohleklammern
+Holzkohlemeiler
 
 #txt_charcl_dscr
 Verkohlt Holz zu Holzkohle.
@@ -606,10 +638,13 @@ Stellt dem Gebäude mechanische Energie zur Verfügung und verbessert seine Effi
 Waschküche
 
 #txt_wash_dscr
-Ein Ort, an dem die Menschen ihre Wäsche waschen können.
+Ein Ort, an dem die Schweine ihre Wäsche waschen können.
 
 #txt_taxcol_n
 Steuereintreiber
+
+#txt_taxcol_dscr
+Reduziert die Verschwendung, indem sichergestellt wird, dass die Bevölkerung ihre Steuern korrekt bezahlt.
 
 #txt_scrib_n
 Schreiber
@@ -635,6 +670,12 @@ Schule
 #txt_school_dscr
 Die Schule erhöht die Intelligenz der Bevölkerung.
 
+#txt_winery_n
+Weinkeller
+
+#txt_winery_dscr
+Erzeugt Wein aus Trauben.
+
 #txt_oilpress_n
 Olivenpresse
 
@@ -648,7 +689,7 @@ Bäckerei
 Macht Brot aus Mehl.
 
 #txt_mill_n
-Fräsen
+Mühle
 
 #txt_mill_dscr
 Zerkleinert Getreide zur Herstellung von Mehl, das leichter zu lagern ist und zur Herstellung von Brot verwendet wird.
@@ -659,11 +700,17 @@ Bibliothek
 #txt_libr_dscr
 Speichert Wissen.
 
+#txt_eldrcncl_n
+Stammesrat
+
+#txt_eldrcncl_dscr
+Ein Rat von Familienführern, der versucht, Konflikte zwischen den Stämmen zu lösen und eine frühe Rechtsform bietet.
+
 #txt_magistr_n
 Magistrat
 
 #txt_magistr_dscr
-Ein Dienstleistungsgebäude, das den Gerechtigkeitsservice für die Bevölkerung bereitstellt und Konflikte reduziert.
+Ein Dienstleistungsgebäude, welches Justiz für die Bevölkerung bereitstellt und Konflikte reduziert.
 
 #txt_paper_n
 Papierfabrik
@@ -672,10 +719,10 @@ Papierfabrik
 Produziert Papier
 
 #txt_rum_n
-Rumery
+Brennerei
 
 #txt_rum_dscr
-Eine Destillerie, die Rum aus Zuckerrohr herstellt.
+Eine Brennerei, die Rum aus Zuckerrohr herstellt.
 
 #txt_trmarket_n
 Markt
@@ -684,7 +731,7 @@ Markt
 Ermöglicht die Erstellung von Handelsangeboten für den Warenaustausch mit anderen Gebieten.
 
 #txt_academ_n
-Akademien
+Akademie
 
 #txt_acedem_dscr
 Weise und sachkundige Schweine, die Naturwissenschaften und Kunst studieren, um Bildung und Kultur zu fördern und zu Forschungsprojekten beizutragen.
@@ -702,7 +749,7 @@ Primitiver Turm
 Ein primitiver Verteidigungsturm aus Holz. Feuert Speere ab.
 
 #txt_wall1_n
-Palissade
+Palisade
 
 #txt_wall1_dscr
 Eine einfache Verteidigungsmauer aus Holz.
@@ -726,56 +773,14 @@ Ziegelwand
 Eine einfache Verteidigungsmauer aus gebrannten Ziegeln, stärker als Lehmziegel.
 
 #txt_wall5_n
-Steinblöcke Wand
+Steinblockwand
 
 #txt_wall5_dscr
 Eine massive Verteidigungsmauer aus Steinblöcken.
 
-#bdg_ind_n
-Industriegebäude
+#txt_oldpcrcl_n
+Kreis der Ältesten
 
-#txt_flowerbed_n
-Blumenbeet
-
-#txt_storegrnd_n
-Bodenlagerung
-
-#txt_butcher_n
-Metzger
-
-#txt_butcher_dscr
-Schlachtung von lebenden Rindern zur Herstellung von frischem Fleisch.
-
-#txt_watercol_dscr
-Ein Punkt, an dem Menschen frisches Wasser aus Flüssen oder Seen sammeln können.
-
-#txt_furnmkr_dscr
-Produziert Möbel, eine verteilbare Ressource, die den Bedarf der Bevölkerung an Mobiliar deckt.
-
-#txt_carpetmkr_n
-Teppichhersteller
-
-#txt_carpetmkr_dscr
-Produziert Teppiche, eine verteilbare Ressource, die den Bedarf der Bevölkerung an Einrichtungsgegenständen deckt.
-
-#txt_kiln_n
-Ofen
-
-#txt_taxcol_dscr
-Reduziert die Verschwendung, indem sichergestellt wird, dass die Bevölkerung ihre Steuern korrekt bezahlt.
-
-#txt_winery_n
-Weinkeller
-
-#txt_winery_dscr
-Erzeugt Wein aus Trauben.
-
-#txt_eldrcncl_n
-Stammesrat
-
-#txt_eldrcncl_dscr
-Ein Rat von Familienführern, der versucht, Konflikte zwischen den Stämmen zu lösen und eine frühe Rechtsform bietet.
-
-#txt_baths_n
-Öffentliche Bäder
+#txt_oldpcrcl_dscr
+Ein einfacher Weg um auf mündlicher Überlieferung basiertes Wissen zu bewahren.
 

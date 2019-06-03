@@ -212,6 +212,12 @@ Durée
 #servlst_dur_c1
 Durée totale de cette partie depuis son commencement
 
+#servlst_sb
+Bonus de départ
+
+#servlst_sb_c1
+Plus un serveur manque de joueurs, plus le bonus de départ est important (sauf tribus primitives).
+
 #servlst_ver
 Version du serveur
 
@@ -423,7 +429,10 @@ JOUER
 Préférences de départ
 
 #newchar_availspwn
-Disponible commence à correspondre à ces paramètres
+Départs disponibles
+
+#newchar_bestspwn
+(meilleure valeur: [x])
 
 #newchar_closeto
 frayer près du caractère ...
@@ -3620,6 +3629,15 @@ La durée maximale pendant laquelle un personnage peut rester hors ligne avant d
 #gamelob_maxoff_c2
 ATTENTION: cette limite est plus basse pour les personnages créés récemment!
 
+#gamelob_spwnbon
+Bonus de départ
+
+#gamelob_spwnbon_c1
+Lors de la création d'un nouveau personnage, ce bonus améliore les conditions de départ (resources, connaissances...) du départ séléctionné.
+
+#gamelob_spwnbon_c2
+Ce bonus est proportionnel à la pénurie de joueurs actif sur le serveur.
+
 #gamelob_err1
 Vous avez actuellement atteint la limite du nombre de personnages autorisés sur cette partie!
 
@@ -4128,6 +4146,9 @@ Sans-terre
 Ce bâtiment est inacessible!
 
 #formact_none
+Inactif
+
+#formact_move
 Mouvement
 
 #formact_camp
@@ -5571,3 +5592,9 @@ Etes-vous vraiment sûr?
 
 #warn_moveprim_1
 Commencer une partie en bougeant toute sa tribu primitive est une décision TRES dangereuse qui peut rapidement mener à votre perte. A moins que vous ne sachiez exactement ce que vous faites, il est FORTEMENT conseillé de s'installer sur votre région de départ: vous pourrez toujours par la suite explorer avec un petit groupe sans risquer l'intégralité de votre peuple.
+
+#treaty_offr_sent
+Nouvelle offre envoyée avec succès!
+
+#startuto_cmplt
+Tutoriel de départ terminé!

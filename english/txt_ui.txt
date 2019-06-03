@@ -316,6 +316,12 @@ Duration
 #servlst_dur_c1
 The amount of time this game has been going on
 
+#servlst_sb
+Spawn bonus
+
+#servlst_sb_c1
+The more players a server is missing, the higher the initial spawn bonus on non-primitive starts.
+
 #servlst_admn
 Admin tools
 
@@ -558,6 +564,9 @@ Starting preferences
 
 #newchar_availspwn
 Available starts matching these settings
+
+#newchar_bestspwn
+(best value: [x])
 
 #newchar_closeto
 spawn close to character...
@@ -4687,6 +4696,15 @@ The maximum amount of time a character can get to be offline before turning 'ina
 #gamelob_maxoff_c2
 WARNING: this limit is lower for recently created characters!
 
+#gamelob_spwnbon
+Spawn bonus
+
+#gamelob_spwnbon_c1
+When spawning as a new character, this bonus improves the overall starting conditions (resources, techs.. ) of the selected start.
+
+#gamelob_spwnbon_c2
+This bonus is proportionnal to the lack of active players on the server.
+
 #gamelob_err1
 You currently have the maximum number of characters allowed on this game!
 
@@ -5321,6 +5339,9 @@ Powerless
 This building is currently inaccessible!
 
 #formact_none
+Idle
+
+#formact_move
 Move
 
 #formact_camp
@@ -5586,3 +5607,9 @@ You're probably about to make a mistake...
 
 #warn_moveprim_1
 Starting the game by moving your whole primitive tribe is a VERY dangerous decision that can quickly lead to defeat or being stuck for a significant time. Unless you know exactly what you're doing, it is HIGHLY advised to settle on your starting region: you can always explore with a smaller party later on and then organize a safe migration to better lands.
+
+#treaty_offr_sent
+Treaty offer successfully sent!
+
+#startuto_cmplt
+Starting tutorial completed!
