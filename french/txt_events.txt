@@ -227,6 +227,9 @@ vitesse de carbonisation supérieure à [x]
 #cond_has_res
 Avoir accès à [x]
 
+#cond_hasevent
+Completer évenement '[x]'
+
 #effect_givres
 Recevoir [y] [x] sur le territoire
 

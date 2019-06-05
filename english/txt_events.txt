@@ -226,6 +226,9 @@ char speed superior to [x]
 #cond_has_res
 Have access to [x]
 
+#cond_hasevent
+Completed event '[x]'
+
 #effect_givres
 Receive [y] [x] 
 
