@@ -226,6 +226,9 @@
 #cond_has_res
 최소 [x]의 접근율
 
+#cond_hasevent
+'[x]' 이벤트 완료
+				 
 #effect_givres
 보상: [y] [x]
 
