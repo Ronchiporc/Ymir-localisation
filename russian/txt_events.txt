@@ -1835,3 +1835,5 @@ Triggers event
 #cond_nbreg
 Имейте [x] или больше территорий
 
+#cond_hasevent
+Завершилось событие '[x]'
