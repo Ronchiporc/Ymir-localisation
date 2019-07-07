@@ -9,13 +9,13 @@ Vyráběj alespoň [x] [y] na území
 Zvyš výrobu jídla alespoň o [x]
 
 #cond_ownbdg
-Have [x] [y] in the territory
+Měj [x] [y] v teritoriu
 
 #cond_ownbdg_class
 Have [x] buildings of the [y] class in the territory
 
 #cond_cmplted_ev
-Completed event [x]
+Dokončený event [x]
 
 #cond_loyal_inf
 Territory loyalty inferior to [x]
@@ -147,16 +147,17 @@ Bohatství nižší než [x]
 Bohatství vyšší než [x]
 
 #cond_vitn_inf
-Vital needs of [y] inferior to [x]
+Životně důležité potřeby [y] jsou nižší než [x]
 
 #cond_vitn_sup
-Vital needs of [y] superior to [x]
+Životně důležité potřeby [y] jsou vyžší než [x]
 
 #cond_bdgcat_inf
-Have less than [x] [y] buildings
+Měj méně než [x] [y] budov
 
 #cond_bdgcat_sup
 Have more than [x] [y] buildings
+Měj více než [x] [y] budov
 
 #cond_rescat_inf
 [y] stock inferior to [x]
@@ -225,16 +226,16 @@ char speed inferior to [x]
 char speed superior to [x]
 
 #cond_has_res
-Have access to [x]
+Má přístup do [x]
 
 #effect_givres
 Receive [y] [x] 
 
 #effect_takeres
-Lose [y] [x]
+Ztráť [y] [x]
 
 #effect_globgivres
-Receive [y] [x]
+Příjmi [y] [x]
 
 #effect_givfood
 Receive [x] of food
@@ -306,19 +307,19 @@ Receive [x] of agricultural food
 Čest [x]
 
 #effect_modAP
-Action Points [x]
+Akční Body [x]
 
 #effect_giveVP
 Awards [x] Victory Points.
 
 #effect_immigr
-[x] families arrive in the territory.
+[x] rodin přichází do našeho teritoria.
 
 #effect_emigr
-[x] families leave the territory.
+[x] rodin opouští naše teritorium.
 
 #effect_gividea
-Receive a new idea: [x]
+Ziskej nový nápad: [x]
 
 #effect_givreg
 Gain control of the territory.
@@ -330,7 +331,7 @@ You will swap position in the Nation's hierarchy with this character.
 Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
 
 #event_diplomes
-Message from [x]
+Zpráva od [x]
 
 #event_treaty
 Nabídka od [x]
@@ -345,22 +346,22 @@ My lord, we have declared war to [x] of [y] and are now at war with these weak p
 [x] nám vyhlásili válku!
 
 #event_dwar_def_1
-My lord, [x] of [y] has declared war on us.
+Můj pane, [x] z [y] nám právě vyhlásil válku.
 
 #event_dwar_def_2
 We are now at war with these filthy hogs.
 
 #event_war_state
-Our country is currently at war!
+Naše země je právě ve válce!
 
 #event_misscomp
-Mission completed: [x]
+Mise dokončena: [x]
 
 #event_misscomp_1
 We have completed this mission and received its rewards.
 
 #event_gameovr
-Game over!
+Konec hry!
 
 #event_gameovr_1
 The game is over and its winner is the nation of '[x]' , being the first to reach [p1] Victory points and with a total score of [p2].
@@ -522,7 +523,7 @@ We launched an assault on [x] with [p2] soldiers to eliminate all ennemies in th
 They defended it with [p3] soldiers.
 
 #event_Db_elim
-[y] is attacking [x]
+[y] napadá [x]
 
 #event_Db_elim_1
 [y] has launched an assault on [x] with [p3] soldiers to eliminate all our forces in the territory.
@@ -540,7 +541,7 @@ Defense of [x] against an attack from [y]
 We defended it with [p2] soldiers.
 
 #event_Ab_raid
-Raiding [x]
+Rabuvání [x]
 
 #event_Ab_raid_1
 We're launching a raid on [x] to pillage their territory with [p2] soldiers.
@@ -558,7 +559,7 @@ We raided [x] to pillage their territory with [p2] soldiers.
 Our troops managed to pillage [p3] resources and [p4] coins. 
 
 #event_Db_raid
-[y] is raiding [x]
+[y] dělá nájezd na [x]
 
 #event_Db_raid_1
 [y] has launched a raid on [x] with [p2] soldiers.
@@ -687,7 +688,7 @@ Are you sure you want to declare our debt nul and void ?
 With a debt of [p1] coins and a GDP of [p2], our debt currently represents [p3]% of our GDP: if we cancel it, we will suffer an estimated penalty of [p4] loyalty in all our territories and you will lose about [p5] of honor!
 
 #event_canceldebt
-Debt canceled!
+Dluh zrušen!
 
 #event_canceldebt_1
 We took the drastic measure of declaring our debt of [p1] coins nul and void, anouncing that we would not be paying back what we owed.
@@ -894,7 +895,7 @@ Our trade route importing [p2] [p3] from [y] to [x] is lacking the required good
 This is happening because their production of [p3] in [y] is insufficent and their stocks ran out.
 
 #event_trout_b4
-Trade route broken!
+Obchodní stezka byla zrušena!
 
 #event_trout_b4_1
 Our trade route importing [p2] [p3] from [x] to [y] closed because they could no longer provide the required goods.
@@ -903,7 +904,7 @@ Our trade route importing [p2] [p3] from [x] to [y] closed because they could no
 This happened because their production of [p3] in [x] was insufficent and their stocks had ran out.
 
 #event_trout_c1
-[x] closed a trade route!
+[x] uzavřel/ukončil obchodní stezku!
 
 #event_trout_c1_1
 The city of [x] closed their trade route of [p2] [p3] with our city of [y].
@@ -963,7 +964,7 @@ Hunters captured some wild horses in [x]!
 The hunters of [x] got lucky and have managed to capture some wild horses. They have locked the agitated animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
 
 #event_ccamel
-Hunters captured some wild camels in [x]!
+Lovci odchytli nějaké velbloudy na [x]!
 
 #event_ccamel_1
 The hunters of [x] got lucky and have managed to capture some wild camels. They have locked the stubborn silly looking animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
@@ -975,13 +976,13 @@ We have tamed some wild llamas in [x]!
 Some wild llamas have been wandering around the village of [x] lately. These animals seemed quite friendly - to the extent of a stubborn spitting llama - and one villager managed to push them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
 
 #event_projsuc
-Our project '[x]' was successfully completed!
+Náš projekt '[x]' byl úspěšně dokončen!
 
 #event_projsuc_1
-Our project '[x]' has been successfully completed and we have earned its rewards!
+Náš projekt '[x]' byl úspěšně dokončen a získali jsme jeho ovoce!
 
 #event_projfail
-Our Project '[x]' failed!
+Náš projekt '[x]' selhal!
 
 #event_projfail_1
 Our project of '[x]' with [p2]% chances of success has been completed, but unfortunately it failed to meet its expectations and we have not earned its expected rewards. I'm afraid we have to start again from scratch and hope for better results...
@@ -1023,7 +1024,7 @@ Our treaty '[x]' with [y] is now over.
 The treaty '[x]' we had with [y] reached the end of its agreed duration and is now obsolete! 
 
 #ev_migtrib
-Tribe of hungry nomads in [x]
+Kmen hladových poutníků o velikosti [x]
 
 #ev_migtrib_1
 Attracted by our prosperity, a primitive tribe of hungry nomads has arrived in [x]. They have been wandering the lands for a long time, suffering from hunger, and they are interested in joining our community. They carry little with them and don't have much to offer besides their workforce.
@@ -1101,7 +1102,7 @@ Offer them asylum and fight off their pursuers.
 Capture these fugitives and offer them to justice of their pursuers for a reward.
 
 #ev_knowtrav
-The knowledgable traveler
+Vševědoucí poustevník
 
 #ev_knowtrav_1
 One day, an old pig arrived in our village of [x], his feet weary from the many travels he had made. He was a lonely hermit, living and travelling alone for many years now. 
@@ -1149,7 +1150,7 @@ A group of 10 warriors had been wandering the lands for many moons before arrivi
 "No, we cannot support new people right now."
 
 #ev_exceptool
-Exceptionnal tools
+Vysocekvalitní nástroje
 
 #ev_exceptool_1
 One of the tribe's most skilled craftspig found stones of unusual solidity and hardness and he managed to craft a few tools of exceptionnal quality out of it!
@@ -1188,7 +1189,7 @@ If we accept, we will regain ownership and control of this territory. If we refu
 Agree and annex the territory
 
 #ev_rebljoin_c2
-Refuse
+Odmítnout
 
 #ev_heirprop
 Heirdom
@@ -1200,7 +1201,7 @@ Heirdom
 If you agree, your positions will be immediately swapped: you will inherit his rank and subordinates while he inherits yours, becoming your own subordinate. Depending on your new title's priviledges, you might then be able to remove him entirely from the Nation, dismantle his territories, or reorganize the hierarchy to recover your past subordinates or move him further down.
 
 #ev_heirprop_c1
-Accept
+Příjmout
 
 #ev_heirprop_c2
 Refuse
@@ -1284,7 +1285,7 @@ Although many things have spoiled or decayed with time, some still appear to be 
 "No, let's leave things as they are, we have no time for this."
 
 #ev_xplr_birds
-Fearless birds
+Nebojácné ptactvo
 
 #ev_xplr_birds_1
 '[x]' were camping in a forest after a long day of walking in these unknown lands. Night was coming, and all the porcos were gathered around campfires. That's they heard a noise in a nearby bush, from which emerged a bunch of dumblooking fat birds unknown to them. The beasts seemed oblivious of their presence, picking on things on the forest floor as if they were alone on earth.
@@ -1404,7 +1405,7 @@ It was a terrible night all the porcos will forever remember. Waves almost capsi
 One unskilled sailor didnt properly attach a crate of supplies the ship was carrying and during a turbulent night with strong winds, the crate fell into the sea and we lost its contents!
 
 #ev_xplr_sngseal
-Dangerous sea
+Nebezpečné moře
 
 #ev_xplr_sngseal_1
 The sea is no place for lone navigators. It is unforgiving and unmercyful: our few travellers disapeared and were never heard of again.
@@ -1413,19 +1414,19 @@ The sea is no place for lone navigators. It is unforgiving and unmercyful: our f
 Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, if we want to stand a chance!
 
 #ev_xplr_wiseold
-The Wise Oldpig
+Moudrý prasečák
 
 #ev_xplr_wiseold_1
 As our expedition '[x]' was heading to a new unexplored territory, a group of porcos in rags crossed our path. Despite their modest appearance, they all seemed well-educated, filled with assurance and determination. Their leader, a venerable oldpig wearing a shaggy beard falling to his knees, presented himself as a philosopher. He had been roaming the world for many years, professing his thought to anyone willing to listen.
 
 #ev_xplr_wiseold_2
-We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldn�t be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
+We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldnt be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
 
 #ev_xplr_wiseold_3
 He pleaded for hours, captivating the whole audience. His words were subtle and his reasoning logical. He was even so persuasive that many of us decided to give up all their possessions to follow him.
 
 #ev_xplr_cptsow
-Captive sows
+Úvězněnné svině
 
 #ev_xplr_cptsow_1
 A scout of the expedition '[x]' just reported the presence of a band of warriors in the area. Judging by the appearance of their camp, their presence in the territory is just temporary. 
@@ -1440,7 +1441,7 @@ Fight the captors to free the sows.
 Do not get involved.
 
 #ev_xplr_slprats
-Damn rats!
+Zatracené krysy!
 
 #ev_xplr_slprats_1
 Our expedition, '[x]' was forced to take shelter in the first rocky cavity we could find as a thunderstorm suddenly broke out. Rain-soaked to the skin, we all clustered together and tried to rest despite the deafening noise of the tempest.
@@ -1482,7 +1483,7 @@ During their journey through an unexplored territory, the expedition of '[x]' me
 The porcos in the cortege barely spoke a word. Unlike the other members of her group, the matriarch was very dynamic and talkative. She said she was versed in the arts of botany and could prepare all kinds of miraculous remedies and ointments. When the time came for dinner, she served some of her specialties.  In order to wash it down, she also offered holy drinks concocted by her. Upon finishing the strange mixture, the explorers felt better than they had ever felt before. They thought the drink was blessed and that the mighty sow was of divine nature for being able to conceive such a substance. The following month, they were offered the holy mixture whenever they asked for it. They soon became addicted to the delicious drug of the Hag. They became her puppets, drained of all their wills, just like all the other unfortunate fellows in the procession.
 
 #ev_xplr_elegsow_3
-A few of them couldn�t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
+A few of them couldnt stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
 
 #ev_xplr_mahout
 The mahouts
@@ -1491,16 +1492,16 @@ The mahouts
 During their peregrinations in unexplored lands, the porcos of  '[x]' halted in a small hamlet of peaceful mahouts. The locals owned a couple of healthy elephants. Taming these big creatures is a long and laborious process, and sometimes their wild instincts take control again. 
 
 #ev_xplr_mahout_2
-As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the two furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted: �The father of elephants!�
+As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the two furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted: The father of elephants!
 
 #ev_xplr_mahout_3
 After that, the mahouts seemed to worship our porcos and wished to join us with their herd.
 
 #ev_xplr_mahout_c1
-Enroll them.
+Naverbuj je.
 
 #ev_xplr_mahout_c2
-Refuse and leave.
+Odmítnou a odejít.
 
 #ev_xplr_luckstrk
 Lucky strike
@@ -1512,7 +1513,7 @@ Our explorers '[x]' were ascending the steep slopes of a newly discovered territ
 Many of our porcos were injured, but luckily all of them survived. As they got back on their feet, they noticed a shiny protuberance from afar.  As they approached it, they discovered an enormous deposit of ore, which had been laid bare by the landslide. 
 
 #ev_xplr_ruinorph
-The orphan survivors
+Přeživší sirotci
 
 #ev_xplr_ruinorph_1
 Our explorers '[x]' had spotted a large cloud of smoke on the horizon, rising and covering the sky of its dark coat. Our porcos cautiously approached the location from which the fire originated and discovered smoldering ruins, filled with the stench of death: lifeless bodies littered the ground all around, stripped of all valuables. Even the cattle had not been spared. 
@@ -1527,10 +1528,10 @@ By searching more closely, our porcos found dozens of children hidden in the veg
 Adopt the orphaned piglets.
 
 #ev_xplr_ruinorph_c2
-Leave.
+Odejdi.
 
 #ev_xplr_sick
-Sick explorers
+Nemocní průzkumníci
 
 #ev_xplr_sick_1
 Many porcos in the expedition '[x]' have contracted a fever. The disease doesnt seem to heal and even got worse day after day. The sick porcos are struck by hallucinations and delusions. They sweat profusely and can no longer walk with the rest of the expedition party. 
@@ -1560,7 +1561,7 @@ Feed the shipwrecked porcos and enroll them in the group.
 Pillage the shipwreck and its survivors.
 
 #ev_xplr_drnkfl
-The drunken fool
+Opilý hlupák
 
 #ev_xplr_drnkfl_1
 Our expedition '[x]' encountered a small nomadic tribe. The members of this tribe were very kind and welcoming. Never had our explorers met such friendly fellows. 
@@ -1590,7 +1591,7 @@ Offer them to join your expedition.
 Attack them and take their remaining supplies.
 
 #ev_xplr_amazn
-Amazons!
+Amazonky!
 
 #ev_xplr_amazn_1
 While exploring a dense tropical forest, our porcos '[x]' heard an enchanting melody. As they approached the location from which the music came from, they discovered a magnificent sow sitting at the edge of a pond, languorously sliding her fingers between the strings of a wooden harp. The explorers were captivated by so much beauty and lowered their guards.
@@ -1599,7 +1600,7 @@ While exploring a dense tropical forest, our porcos '[x]' heard an enchanting me
 After finishing her song, the sow delicately stood up, grabbed a short bow and shot an arrow in the direction of the explorers, accompanied by other warrior maidens who had sprung everywhere around them. 
 
 #ev_xplr_amazn_c1
-�I thought the Amazons were a legend� Defend yourselves!�
+Myslel jsem si že amazonky byly jen legendou. Braňte se!
 
 #ev_xplr_egg
 The curious hog
@@ -1656,7 +1657,7 @@ Our explorers of '[x]' where travelling through a dense forest when at dusk, the
 Suddently, a terrifying growl came from the front, stopping the group. "Wolves i tell ya!", said the old Clawhop who didn't like these beasts -to say the least- as everyone on the group knew. "Get yerr weapons ready, pigs!", he added as several growls echoed around them. From all sides they emerged, ugly bacon-eating canines.
 
 #ev_xplr_bears
-Bears!
+Medvědi!
 
 #ev_xplr_bears_1
 Our explorers of '[x]' had setup camp in unknown lands for the night when, at dawn, they woke up to unusual rumpus. Horrified, they saw a group of 3 huge bears scavenging through their inventory and supplies lying next to the camp.
@@ -1683,13 +1684,13 @@ Viscious blizzard
 A viscious blizzard immobolized our expedition of '[x]' for many days. Many of them did not make it while the survivors consummed all the remaining food supplies. There is nothing to eat in these bleak lands!
 
 #ev_xplr_icehole
-Bloody ice-hole!
+Zatracená zima!
 
 #ev_xplr_icehole_1
 These lands are treacherous. While progressing on a difficult terrain, a few porcos of our expendition '[x]' fell to their death as ice broke under them, revealing a deep sink hole.
 
 #ev_xplr_avlch
-Avalanche!
+Lavina!
 
 #ev_xplr_avlch_1
 As our group was travelling in a difficult terrain, a sudden avalanche took half of our people and supplies! What are we even doing there?!
@@ -1707,19 +1708,19 @@ Glacial night
 After a particularly glacial night, having nothing to keep themselves warm,  many of members of the '[x]' expedition fell asleep never to wake up again.
 
 #ev_xplr_polfood1
-Icy desert
+Ledová poušť
 
 #ev_xplr_polfood1_1
 Travelling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
 
 #ev_xplr_polfood2
-Icy desert
+Ledová poušť
 
 #ev_xplr_polfood2_1
 Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disapeared into this glacial white unforgiving desert and where never heard of again.
 
 #ev_spwn_succ
-Succession
+Nástupnictví
 
 #ev_spwn_succ_1
 [x] of the [y] has left his position after many years of service. You have been named as successor and have now inherited control of all the possessions and duties of the [y].
@@ -1746,10 +1747,10 @@ After many years of slow development and quiet leadership from obedient administ
 You have become the first ruler of a colony previously founded by another player. This region is therefore now evolving and becoming its own political entity ruled by you. However you start as a member of an existing Nation, and by default under the patronnage of the colony's original founder: the [y]. As a new branch of his culture, you also start with all the knowledges of the founders. As an ex-colony, be warned that you also start with a treaty binding you to his Nation, meaning you wont be able to leave it without breaking it and suffering penalties or even war. But this can also be a good thing: you are not starting alone and can seek protection and help from your superiors in the Nation, helping your development. It is probably a wise idea to start by reaching out to your superior and founder to greet him and establish friendly relations. Then who knows, maybe one day it will be time for [x] to claim its independance!
 
 #ev_clnyevlv
-A colony has evolved!
+Kolonie se rozvinula!
 
 #ev_clnyevlv_1
-Good news! One of our colonies, [x], has found its first proper ruler: [p1]. They have established their own new government and are now known as the [p2]. 
+Úžasná novina! Jedna z našich kolonií, [x], získala svého prvního vládce: [p1]. Vytvořili svoji vlastní vládu a jsou teď známi jako [p2].
 
 #ev_clnyevlv_2
 They have integrated our great nation as one of our subordinates and formally ratified the colonial treaty binding them to us and agreeing to a tax of 5% of their incomes in addition to the duties of their new title in the nation. 
@@ -1767,16 +1768,16 @@ The population of [x], home of our formation '[y]', is insufficient to maintain 
 Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
 
 #ev_xplr_brkleg
-Broken leg
+Zlomenná noha
 
 #ev_xplr_brkleg_1
 One of our explorers managed to break his leg in a misstep while walking on a portion of difficult terrain, and is now slowing down the whole group. What should we do ?
 
 #ev_xplr_brkleg_c1
-Wait for him to recover.
+Vyčkat na něj než se jeho rána zahojí.
 
 #ev_xplr_brkleg_c2
-Abandon him, there is no place for the weak!
+Opustit ho, není tu místo pro slabochy!
 
 #ev_xplr_drnriv
 River drowning
@@ -1785,7 +1786,7 @@ River drowning
 While crossing a river, one of our explorers fell in the water. The poor hog didn't knew how to swim and the currents carried him away before anyone could help him.
 
 #ev_xplr_cliff
-Clumsy Porco
+Nešikovný vepř
 
 #ev_xplr_cliff_1
 While our explorers were walking along the edge of a tall cliff, one clumsy Porco tripped and fell to his death.
@@ -1797,13 +1798,13 @@ Challenging terrain
 These unknown lands proved particularly challenging to cross: our explorers got lost multiple times and lost a lot of time and it took them much longer than expected to reach their destination.
 
 #ev_xplr_wellrest
-Hospitable natives
+Pohostiní domorodci
 
 #ev_xplr_wellrest_1
 Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
 
 #ev_claimloss
-[x] has lost a territorial claim!
+[x] ztratil nárok na území!
 
 #ev_claimloss_1
 Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
@@ -1815,10 +1816,10 @@ Naši vojáci dezertují!
 Vojáci z tvé armády dezertují protože máš negativní Legitimitu! Lide si nepřejí sloužit vládci keterý se už nedá brát za důvěryhodného a budou nadále dezetovat z naších řad do te doby než se stanete znovu Legitimním.
 
 #effect_res_convstate
-Converts [x]% of the stocked resources in all territories to State owned.
+Převádí [x]% uložených surovin ze všech teritorií na Státem vlastněnné.
 
 #ev_has_subjug
-You have subjugated [x]!
+Podmanil jsis hráče [x]!
 
 #ev_has_subjug_1
 You have subjugated the state of [x], ruled by [y], who is now your vassal. 
@@ -1827,11 +1828,32 @@ You have subjugated the state of [x], ruled by [y], who is now your vassal.
 [x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceeded to [x]. 
 
 #ev_been_subjug
-You have been subjugated by [x]!
+Byly jsme vazalování hráčem [x]!
 
 #ev_been_subjug_1
 You have been subjugated the state of [x], ruled by [y], who is now your liedge lord. 
 
 #ev_been_subjug_2
 You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
+
+#cond_hasevent
+Splněný event '[x]'
+
+#ev_govcolps_city
+Vláda se nám hroutí: Ztratili jsme [x]!
+
+#ev_govcolps_city_1
+Naše centrální vláda se nám hroutí z extrémě vysoce negativní Státní Moci! Z těchto důvodu, naše vláda není schopna udržovat kontrolu nad svým teritorii.
+
+#ev_govcolps_city_2
+Unfortunately, we have now effectively lost ownership of the region of [x]. Our territories will keep breaking away until we can regain a more positive State Power and regain control.
+
+#ev_govcolps_army
+Vláda se nám hroutí: Ztratili jsme '[x]'!
+
+#ev_govcolps_army_1
+Naše centrální vláda se nám hroutí z extrémě vysoce negativní Státní Moci! Z těchto důvodu, naše vláda není schopna udržovat kontrolu nad svým vlastním vojskem. 
+
+#ev_govcolps_army_2
+Unfortunately, we have now effectively lost ownership of our formation '[x]'. Our armies will keep disbanding until we can regain a more positive State Power to maintain them.
 

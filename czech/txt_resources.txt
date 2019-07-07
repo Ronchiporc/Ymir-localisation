@@ -1,5 +1,5 @@
 ﻿#r_all
-All resources
+Všechny suroviny
 
 #rcat_prod
 Produkty
@@ -8,7 +8,7 @@ Produkty
 Jídlo
 
 #rcat_weapon
-Weapons
+Zbraně
 
 #rcat_animal
 Zvěř
@@ -44,13 +44,13 @@ kovy
 nástroje
 
 #r_hammers
-Hammers
+Kladiva
 
 #r_axes
-Axes
+Sekery
 
 #r_shovels
-Shovels
+Lopaty
 
 #r_saws
 Pila
@@ -62,7 +62,7 @@ Krumpáč
 Motyka
 
 #r_ploughs
-Ploughs
+Pluh
 
 #r_wood
 Dřevo
@@ -134,7 +134,7 @@ Zlatá ruda
 Uhlí
 
 #r_coke
-Coke
+Koks
 
 #r_copper
 Měď
@@ -149,7 +149,7 @@ Bronze
 Železo
 
 #r_steel
-Steel
+Ocel
 
 #r_silver
 Stříbro
@@ -176,7 +176,7 @@ Textílie
 Tkanina
 
 #r_leathercloth
-Leathercloth
+Koženené oblečení
 
 #r_rabbits
 Zajíci
@@ -302,31 +302,31 @@ Shortswords
 Longswords
 
 #r_battleaxes
-Battleaxes
+Bytevní sekera
 
 #r_warhammers
-Wrhammers
+Válečné kladivo
 
 #r_halberds
 Halberds
 
 #r_shield_wood
-Wooden shields
+Dřevěnný šít
 
 #r_shield_bronze
-Metal shields
+Kovový šít
 
 #r_shield_heavy
-Heavy shields
+Ťežký šít
 
 #r_shield_steel
-Steel shields
+Ocelový šít
 
 #r_helmetlight
-Light helmets
+Lehké helmy
 
 #r_helmetheavy
-Heavy helmets
+Durabilnější helmy
 
 #r_heaumes
 Heaumes
@@ -359,7 +359,7 @@ Hrnčířství
 Nábytek
 
 #r_rugs
-Rugs
+Koberce
 
 #r_barley
 Ječmen
@@ -449,7 +449,7 @@ Písař
 Akademie
 
 #r_guard
-Guarding
+Strážení
 
 #r_bear
 Medvědi

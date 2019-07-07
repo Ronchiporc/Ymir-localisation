@@ -1,4 +1,5 @@
-﻿#tech_ptry
+﻿
+#tech_ptry
 Hrnčířství
 
 #tech_ptry_dscr_1
@@ -44,7 +45,7 @@ Governance
 A group of Porcos exclusively devoted to manage and control the community. They spend their time sniffing things and occasionally solving issues or taking decisions for the whole population.
 
 #tech_guard
-Guards
+Strážci
 
 #tech_guard_dscr_1
 Guards enforce the authority of the government by patrolling the cities and protecting the government and its officials.
@@ -82,7 +83,7 @@ People will now trade commodities of equivalent values instead of 'gifting' serv
 #tech_currcy
 Měna
 
-#tech_currcy_dscr_1 
+#tech_currcy_dscr_1
 Volba společné komodity, jako jsou kovové cihly pro všechny výměny, usnadňující obchodování, stejně jako skladování a měření bohatství.
 
 #tech_coing
@@ -380,31 +381,31 @@ Treadwheel crane
 tech_trdwheelcr_dscr_1
 
 #tech_concrete
-Concrete
+Beton
 
 #tech_concrete_dscr_1
 tech_concrete_dscr_1
 
 #tech_metalrgy
-Metallurgy
+Hutnictví
 
 #tech_metalrgy_dscr_1
 tech_metalrgy_dscr_1
 
 #tech_smelt
-Smelting
+Tavení
 
 #tech_smelt_dscr_1
 tech_smelt_dscr_1
 
 #tech_metcast
-Metal casting
+Odlévaní kovů
 
 #tech_metcast_dscr_1
 tech_metcast_dscr_1
 
 #tech_bronze
-Bronze working
+Doba bronzová
 
 #tech_bronze_dscr_1
 tech_bronze_dscr_1
@@ -446,16 +447,16 @@ Puddling forge
 tech_puddlngforg_dscr_1
 
 #tech_forg
-Forging
+Kování
 
 #tech_forg_dscr_1
-tech_forg_dscr_1
+Když budeme do odlytého kovu mlátit kladivem po dostačující dobu jsme schopni ho jak vytvarovat tak i zpevnit podle našich potřeb.
 
 #tech_steel
 Ocel
 
 #tech_steel_dscr_1
-tech_steel_dscr_1
+Při správné tepelné úpravě a přidáním uhlíku do železa jsme schopni vytvořit ocel jež je mnohem pevnější ,ale nákladnější na výrobu něž železo.
 
 #tech_decarb
 Decarburization
@@ -476,10 +477,10 @@ Air-blowing steel process
 tech_airblstl_dscr_1
 
 #tech_miningtl
-Mining tools
+Těžařské nástroje
 
 #tech_miningtl_dscr_1
-tech_miningtl_dscr_1
+Nástroje jež nám umožňují težbu těch ruzně barevně se povalujících kamínku!
 
 #tech_pickaxe
 Krumpáč
@@ -542,13 +543,13 @@ Domestic dog
 Befriending wild wolves to assist porcos in their daily tasks, especially hunting and guarding.
 
 #tech_animcaptr
-Animal capture
+Odchyt zvěře
 
 #tech_animcaptr_dscr_1
 How to capture, tame and take care of wild animals to keep them as livestock for times of need. 
 
 #tech_animdom
-Animal breeding
+Rozmnožovíní zvěře
 
 #tech_animdom_dscr_1
 After knowing how to take care of captured animals, we now know how to handle their breeding, allowing us to produce new animals on our own!
@@ -641,7 +642,7 @@ A larger loom that sits directly on the floor and uses foot pedals called treadl
 Flying shuttle loom
 
 #tech_loom5_dscr_1
-With the flying shuttle, a single weaver can now produce fabric wider than an arm�s length and at much greater speeds than what had been achieved with previous looms.
+With the flying shuttle, a single weaver can now produce fabric wider than an arms length and at much greater speeds than what had been achieved with previous looms.
 
 #tech_loom6
 Power loom
@@ -650,10 +651,10 @@ Power loom
 tech_loom6_dscr_1
 
 #tech_carpet
-Carpet making
+Kobercovnictví
 
 #tech_carpet_dscr_1
-tech_carpet_dscr_1
+Za využití zpracovanných látek jsme schopni vyrábět různé koberce, které jsou vysoce stylové na vykrášlenní našich obydlí.
 
 #tech_cloth
 Oblečení
@@ -680,10 +681,10 @@ Vegetable taning
 Eco-pigs rejoice for vegetable tanning, the environmentally friendly evolution of tanning, is now available. No more using disgusting brains and smoke: tannis, which comes from tree barks, makes leather more flexible, durable and water repellent!
 
 #tech_sprfish
-Spear fishing
+Oštěpové lovení ryb
 
 #tech_sprfish_dscr_1
-tech_sprfish_dscr_1
+Když si vezmeme oštěp tak se sním dají docela dobře lovit ryby, které jsou ku podivu jedlé!
 
 #tech_castnet
 Cast nets
@@ -692,7 +693,7 @@ Cast nets
 tech_castnet_dscr_1
 
 #tech_fishboat
-Fishing boats
+Rybářské lodě
 
 #tech_fishboat_dscr_1
 tech_fishboat_dscr_1
@@ -773,7 +774,7 @@ A mechanical press using a capstan to provide pressure over fruits placed in a w
 Cider
 
 #tech_cider_dscr_1
-An alcoholic beverage made from fermented juice of apples.
+Alkoholický nápoj vyráběný z kvašené jablečné šťávy.
 
 #tech_oliveoil
 Olivový olej
@@ -806,10 +807,10 @@ Vermeering
 A technique of gluing thin sheets of wood together to produce a stronger and more economic piece of wood while retaining the same esthetic qualities.
 
 #tech_javelin
-Javelin
+Oštěp
 
 #tech_javelin_dscr_1
-tech_javelin_dscr_1
+Úžasná novinka! Když si opracujeme klacky a uděláme na nich hroty tak je potom můžeme velmi dobře házet ,což můžeme využit jak pro lov tak i pro boj!
 
 #tech_archery
 Lukostřelba
@@ -830,16 +831,16 @@ Composite bow
 tech_compbow_dscr_1
 
 #tech_crossbow
-Crossbow
+Kuše
 
 #tech_crossbow_dscr_1
 tech_crossbow_dscr_1
 
 #tech_spear
-Spear
+Kopí
 
 #tech_spear_dscr_1
-tech_spear_dscr_1
+Jeden z nejzákladnějších druhů zbraní který je zárověn jeden z nejjednodušších na výrobu. Je to klacek s hrotem!
 
 #tech_battleaxe
 Battleaxe
@@ -881,7 +882,7 @@ Využití kusu dřeva k obraně těla před zásahy od zbraní.
 Kovové štíty
 
 #tech_metshield_dscr_1
-Využívání kovových materiálů k vytvoření odolnějšího štítu tim zlepšení celkoé obrany.
+Využívání kovových materiálů k vytvoření odolnějšího štítu tim zlepšení celkové obrany.
 
 #tech_hvshield
 Těžký štít
@@ -947,13 +948,13 @@ tech_platearm_dscr_1
 Helma
 
 #tech_lhelmet_dscr_1
-tech_lhelmet_dscr_1
+Helma  ám umožňuje ochránit naše vojsko proti ostrým úderům do palice, coč výrazně zvyšuje jejich šanci na přežití.
 
 #tech_hvhelmet
-Heavy helmet
+Vyztužené přilby
 
 #tech_hvhelmet_dscr_1
-tech_hvhelmet_dscr_1
+Modernější a vyspělejší techniky nám umožňují vyrábět více durabilní přilby.
 
 #tech_ptrwhl
 Hrnčířské kolo
@@ -977,7 +978,7 @@ Umění chovu, kultivace a aranžování rostlin pro estetické účely.
 Ježdění na slonech
 
 #tech_elephrid_dscr_1
-The knowledge of how to take care and tame wild pachyderms and how to train them for various tasks such as combat.
+Znalost o tom jak se starat a ochočit si divoké slony a jak je trénovat pto různé úkoly jako je třeba boj.
 
 #tech_obsidn
 Obsidiánové zbraně
@@ -1009,3 +1010,8 @@ Klobásy
 #tech_sausg_dscr_1
 Klobasování je způsob zpracování čerstvého masa , které umožnujě delší uchovávání.
 
+#tech_column
+Post & lintel building
+
+#tech_column_dscr_1
+tech_column_dscr_1
