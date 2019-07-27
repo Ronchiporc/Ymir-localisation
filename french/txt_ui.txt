@@ -1,9 +1,8 @@
-﻿
-#b_menu_tutorial
+﻿#b_menu_tutorial
 TUTORIEL
 
 #b_menu_newgame
-NOUVELLE PARTIE
+NOUVEAU
 
 #b_menu_load
 CHARGER
@@ -156,7 +155,7 @@ Active le tutorial principal et les popups d'aide.
 Masquer le comtpe
 
 #menuop_togIP_c1
-Cache les informations du compte telles que l'User ID ou les IPs.
+Masquer les informations du compte (ex Steam ID, IP...).
 
 #b_menuop_apply
 Appliquer
@@ -175,6 +174,9 @@ OPTIONS
 
 #joingame_yourgames
 Vos parties
+
+#joingame_yourgames_dscr_1
+Historique des derniers personnages joués localement ou en ligne, sauvegardant les coordonnées des serveurs pour permettre un accès facilité aux parties.
 
 #joingame_persist
 Parties persistantes
@@ -217,6 +219,18 @@ Bonus de départ
 
 #servlst_sb_c1
 Plus un serveur manque de joueurs, plus le bonus de départ est important (sauf tribus primitives).
+
+#servlst_prgrs
+Avancement
+
+#servlst_prgrs_c1
+Niveau d'avancement technologique global de la partie.
+
+#servlst_won
+Victoire
+
+#servlst_won_c1
+Statut de la partie en cours. Une fois la victoire atteinte, la partie est terminée et peut être effacée pour relancer une nouvelle partie à zéro.
 
 #servlst_ver
 Version du serveur
@@ -689,6 +703,12 @@ Améliorer en
 #ui_menubdg_upgrades
 Améliorations
 
+#ui_menubdg_solid
+Solidité
+
+#ui_menubdg_struct
+Structure
+
 #bc_menubdg_wake1
 Réveiller
 
@@ -1059,10 +1079,10 @@ TRÉSORERIE
 Solde budgétaire
 
 #ui_eco_dscr
-Le trésor est le montant total des monnaies détenues par votre gouvernement. Les politiques économiques définissent comment l'économie de votre société est actuellement organisée.
+La trésorerie de vôtre gouvernement est le montant total de monnaie que vous détenez. Les politiques économiques définissent l'organisation économique de votre société. 
 
 #ui_eco_notrsr_dscr
-Cette société fonctionne actuellement sans aucune forme de monnaie et ses gens partagent tout dans la communauté: le gouvernement n'a pas de trésorerie ni de revenus.
+Votre société fonctionne actuellement sans aucune forme officielle de monnaie, et ses membres partagent tout avec la communauté: le gouvernement n'a ni trésorerie, ni revenus.
 
 #ui_eco_lead
 Contributions du dirigeant
@@ -1488,25 +1508,25 @@ privilèges
 la richesse donnée directement en tant que privilèges par les politiques sociales
 
 #legit_dscr
-La légitimité est la mesure dans laquelle les gens reconnaissent le droit des prétentions à l'autorité de votre État qui sont définies par vos politiques de légitimité actives. Ceux-ci affectent l'influence positive ou négative de tous les différents facteurs de légitimité.
+La légitimité mesure la reconnaissance par le peuple des prétentions au pouvoir de votre gouvernement. Celles-ci sont définies par vos choix de politiques, qui influencent de manière positive ou négative l'importance de différents facteurs de légitimité.
 
 #legit_tot
 Légitimité totale
 
 #legit_protect
-Force militaire
+Protection militaire
 
 #legit_protect_c
-Notre force militaire est actuellement [x]. Il a augmenté en ayant plus d'armées et d'unités plus puissantes par rapport à votre population totale.
+Notre sentiment de protection militaire est actuellement de [x]. Il est basé sur la quantité et puissance des armées en rapport à votre population totale.
 
 #legit_wealth
 Supériorité du dirigeant
 
 #legit_wealth_c
-La supériorité du dirigeant est actuellement de [x]. Elle est définie par la Richesse de la classe du Dirigeant, résidant dans la capitale.
+La supériorité du dirigeant est actuellement de [x]. Elle est définie notamment par la Richesse de la classe du Dirigeant résidant dans la capitale.
 
 #legit_relig
-Religiosité des gens
+Religiosité
 
 #legit_relig_c
 [pas encore implémenté]
@@ -2015,6 +2035,15 @@ La taille maximale de cette troupe est de [x] unités.
 #ui_recruit_cost
 Coût par unité
 
+#ui_recruit_into
+Transfer vers
+
+#ui_recruit_coincost
+Coût
+
+#ui_recruit_coininc
+Revenu
+
 #ui_recruit_civ
 unités civiles
 
@@ -2469,10 +2498,10 @@ entrée invalide!
 Aucun événement à afficher
 
 #menuevt_new
-Nouveaux événements
+Nouveaux
 
 #menuevt_all
-Tous les évènements
+Tous
 
 #menuevt_dipl
 Diplomatique
@@ -3381,13 +3410,13 @@ Score
 Votre score personnel.
 
 #menu_scr_vpscr
-Du score d'équilibrage
+Score
 
 #menu_scr_vpscr_c1
-Le score d'équilibrage est votre score supérieur au score de référence de [y] pts. Vous obtenez 1 point de victoire pour chaque [x] pts de score d'équilibrage.
+Vous obtenez 1 point de victoire pour chaque [x] points de score au dessus du score de reference (qui ets actuellement de [y]).
 
 #menu_scr_vpscr_c2
-Le score moyen et le coût de chaque point de victoire sont dynamiques et basés sur les scores de tous les joueurs.
+Ces points de victoires sont dynamiques et peuvent être perdus si votre score se réduit par rapport au score de référence.
 
 #menu_scr_vpmiss
 Missions
@@ -5537,7 +5566,7 @@ Une faible satisfaction des besoins vitaux réduit les naissances et augmente le
 Subjuger
 
 #subjug_can
-Vous pouvez automatiquement subjuger [x].
+Comme tous les territoires de [x] sont occupés, vous pouvez forcer sa subjugation immédiate.
 
 #subjug_dscr
 Cela mettra fin a la guerre entre vous et [x]. Cet état sera intégré à votre nation comme vassal, avec un traité de capitulation vous transferant du Pouvoir d'État et une partie de ses revenus. Tous ses territoires présentement occupés par les forces de votre nation seront automatiquement rétrocédés à [x]. 
@@ -5546,7 +5575,7 @@ Cela mettra fin a la guerre entre vous et [x]. Cet état sera intégré à votre
 Vous ne pouvez pas encore subjuger [x].
 
 #subjug_cant_dscr
-Un personnage qui a perdu le contrôle de tout ses territoires dans une guerre peut être automatiquement subjugé, a condition d'être l'occupant d'au moins l'un de ses territoires. La Subjugation force sa capitulation et en fait un vassal, l'intégrant à votre nation.
+Un personnage qui a perdu le contrôle de tout ses territoires dans une guerre peut être automatiquement subjugé, à condition d'être l'occupant d'au moins l'un de ses territoires. La Subjugation force sa capitulation et en fait un vassal, l'intégrant à votre nation.
 
 #subjug_cant_why
 Pour subjuger ce perosnnnage il vous faut prendre le contrôle de:
@@ -5598,3 +5627,39 @@ Nouvelle offre envoyée avec succès!
 
 #startuto_cmplt
 Tutoriel de départ terminé!
+
+#cnvrt_mil_err
+Population insuffisante pour convertir cette milice!
+
+#mg_localgame
+partie locale
+
+#mg_remove_1
+retirer de 'mes parties'
+
+#mg_remove_2
+(ceci n'est qu'un raccourcis et ne suprimme pas le personnage lui même)
+
+#mg_serverstatus
+statut du serveur
+
+#mg_srvr_unknown
+inconnu
+
+#mg_srvr_online
+en-ligne
+
+#menuop_resetut
+Reset all
+
+#menuop_resetut_c1
+Réinitialiser tous les tutoriels.
+
+#menuop_resetutd
+Tutoriels réinitialisés.
+
+#uiworldforms_inreg
+Formations dans ce territoire
+
+#uiworldforms_novisib
+Inconnu: pas de visibilité

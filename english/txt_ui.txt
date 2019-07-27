@@ -256,6 +256,9 @@ SETTINGS
 #joingame_yourgames
 Your games
 
+#joingame_yourgames_dscr_1
+An historic of all your last played characters, for easier direct access.
+
 #joingame_persist
 Persistent games
 
@@ -321,6 +324,18 @@ Spawn bonus
 
 #servlst_sb_c1
 The more players a server is missing, the higher the initial spawn bonus on non-primitive starts.
+
+#servlst_prgrs
+Progress
+
+#servlst_prgrs_c1
+Overall technological advancement of the game.
+
+#servlst_won
+Won
+
+#servlst_won_c1
+Wether this game is won yet or not. Once won, the game is over and the server may be wiped and restarted.
 
 #servlst_admn
 Admin tools
@@ -870,6 +885,12 @@ Upgrade to
 
 #ui_menubdg_upgrades
 Upgrades
+
+#ui_menubdg_solid
+Solidity
+
+#ui_menubdg_struct
+Structure
 
 #ui_menubdg_winc_1
 Income earned by each worker
@@ -2877,6 +2898,15 @@ Maximum size of this troop is [x] units.
 
 #ui_recruit_cost
 Cost per unit
+
+#ui_recruit_into
+Transfering into
+
+#ui_recruit_coincost
+Cost
+
+#ui_recruit_coininc
+Income
 
 #ui_recruit_civ
 civilian units
@@ -5613,3 +5643,30 @@ Treaty offer successfully sent!
 
 #startuto_cmplt
 Starting tutorial completed!
+
+#cnvrt_mil_err
+Insufficient population to convert this milita!
+
+#mg_localgame
+local game
+
+#mg_remove_1
+remove from 'my games'
+
+#mg_remove_2
+(this is only a shortcut, deleting it doesnt delete your actual character in that game)
+
+#mg_serverstatus
+server status
+
+#mg_srvr_unknown
+unknown
+
+#mg_srvr_online
+online
+
+#uiworldforms_inreg
+Formations in this territory
+
+#uiworldforms_novisib
+Unknown: no visibility

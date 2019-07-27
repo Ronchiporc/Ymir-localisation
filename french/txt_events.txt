@@ -747,7 +747,7 @@ Le peuple de [x] défend la ville!
 Les habitants de la ville de [x] prennent les armes par eux-mêmes pour aider à défendre la ville contre les assaillants. [p1] porcos se joignent à la bataille!
 
 #event_trout_w1
-Avertissement d'itinéraire commercial: pas de droits de commerce!
+Problème de route commerciale: droits commerciaux perdus!
 
 #event_trout_w1_1
 Parce que nous n'avons plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] se fermera bientôt, à moins que nous ne réglions ce problème rapidement.
@@ -765,31 +765,31 @@ Parce que nous n'avions plus de droits de commerce avec la ville de [y], notre r
 Cela s'est produit parce que la ville a eu un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de commerce ou parce que les droits de commerce ont été révoqués.
 
 #event_trout_w2
-Avertissement d'itinéraire commercial: cargaison manquante!
+Problème de route commerciale: Cargo manquant!
 
 #event_trout_w2_1
-Notre route commerciale avec [x] exploité par [y] manque de [p2] cargaison pour être exploitée correctement. La route commerciale se fermera bientôt à moins que nous réglions ce problème rapidement.
+Notre route commerciale avec [x] exploité par [y] manque de [p2] capacité de Cargo pour être exploitée correctement. La route commerciale se fermera sous peu à moins que nous réglions ce problème rapidement.
 
 #event_trout_w2_2
-Le service de fret est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
+Le Cargo est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et de maintenir un transfert constant de ressources. Chaque route commerciale, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de Cargo pour être maintenue.
 
 #event_trout_w2_3
-Cependant, cet opérateur ne produit plus assez de service de fret requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
+Le territoire opérant cette route ne produit plus assez de Cargo pour en assurer la maintenance. Pour résoudre ce problème, il faut augmenter sa capacité de Cargo ou trouver un nouvel opérateur en mesure de fournir le Cargo requis ([ p3]).
 
 #event_trout_b2
-Route commerciale cassée!
+Route commerciale interrompue!
 
 #event_trout_b2_1
-Notre route commerciale avec [x] fermé parce que son opérateur [y] était incapable de fournir la cargaison requise ([p3]) pour la maintenir (manquait [p2]).
+Notre route commerciale avec [x] s'est fermée parce que le territoire de '[y]' qui en assurait l'opération ne possédait plus la capacité de fournir les [p3] de Cargo requis pour la maintenir (il manquait [p2]).
 
 #event_trout_b2_2
-Le service de fret est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
+Le Cargo est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
 
 #event_trout_b2_3
-Cependant, cet opérateur ne produit plus assez de service de fret requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
+Cependant, cet opérateur ne produit plus assez de Cargo requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
 
 #event_trout_w3
-Avertissement d'itinéraire commercial: il nous manque des marchandises!
+Problème de route commerciale: marchandises manquantes!
 
 #event_trout_w3_1
 Notre route commerciale exportant [p2] [p3] à [x] de [y] manque des biens requis et fermera bientôt si nous ne résolvons pas ce problème rapidement!
@@ -807,7 +807,7 @@ Notre route commerciale exportant [p2] [p3] à [x] de [y] a été fermée parce 
 Cela est arrivé parce que nous ne produisions pas assez [p3] en [x] et que nos stocks étaient épuisés.
 
 #event_trout_w4
-Avertissement d'itinéraire commercial: l'exportateur manque des marchandises!
+Problème de route commerciale: l'exportateur manque des marchandises!
 
 #event_trout_w4_1
 Notre route commerciale important [p2] [p3] de [y] vers [x] manque des biens requis et pourrait bientôt se fermer à moins que l'exportateur répare rapidement ce problème!
@@ -1838,3 +1838,20 @@ Vous avez été soumis par l'état de [x], dirigé par [y], qui est maintenant v
 #ev_been_subjug_2
 Vous allez maintenant devoir payer des tributs de pièces de monnaie et du pouvoir d'État, Vous avez rejoint la nation de [x] en tant que subordonné de [y]. En échange, tous les territoires occupés vous ont été rétrocédés.
 
+#ev_govcolps_city
+Effondrement gouvernemental: Nous avons perdu [x]!
+
+#ev_govcolps_city_1
+Notre gouvernement est en train de s'effondrer en raison d'un manque extrême de Pouvoir d'Etat! La situation est telle que nous sommes désormais incapables de maintenir le contrôle de nos territoires.
+
+#ev_govcolps_city_2
+Malheureusement, nous venons donc de perdre la region de [x]. Nos territoires vont continuer à se disloquer tant que nous ne regagnons pas plus de Pouvoir d'Etat.
+
+#ev_govcolps_army
+Effondrement gouvernemental: Nous avons perdu '[x]'!
+
+#ev_govcolps_army_1
+Notre gouvernement est en train de s'effondrer en raison d'un manque extrême de Pouvoir d'Etat! La situation est telle que nous sommes désormais incapables de maintenir le contrôle de nos armées.
+
+#ev_govcolps_army_2
+Malheureusement, nous venons donc de perdre notre formation '[x]'. Nos armées vont continuer à se disloquer tant que nous ne regagnons pas plus de Pouvoir d'Etat.

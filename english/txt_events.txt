@@ -1837,3 +1837,20 @@ You have been subjugated the state of [x], ruled by [y], who is now your liedge 
 #ev_been_subjug_2
 You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
 
+#ev_govcolps_city
+Government collapsing: We have lost [x]!
+
+#ev_govcolps_city_1
+Our central government is collapsing from extremely negative State Power! Because of this, our government is now incapable of maintaining the control of its territories. 
+
+#ev_govcolps_city_2
+Unfortunately, we have now effectively lost ownership of the region of [x]. Our territories will keep breaking away until we can regain a more positive State Power and regain control.
+
+#ev_govcolps_army
+Government collapsing: We have lost '[x]'!
+
+#ev_govcolps_army_1
+Our central government is collapsing from extremely negative State Power! Because of this, our government is now incapable of maintaining the control of its armies. 
+
+#ev_govcolps_army_2
+Unfortunately, we have now effectively lost ownership of our formation '[x]'. Our armies will keep disbanding until we can regain a more positive State Power to maintain them.
