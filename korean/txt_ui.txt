@@ -256,6 +256,9 @@ UI 소리
 #joingame_yourgames
 여러분의 게임들
 
+#joingame_yourgames_dscr_1
+쉽게 접근하기위한, 기록된 모든 당신의 마지막으로 플레이했던 캐릭터들.  
+
 #joingame_persist
 영구 게임(Persistent Game)
 
@@ -321,7 +324,19 @@ UI 소리
 
 #servlst_sb_c1
 서버에서 없어진 플레이어들이 많을수록 원시 시작을 제외한 초기 시작에 보너스를 받습니다.	
-			 
+
+#servlst_prgrs
+진도
+
+#servlst_prgrs_c1
+게임의 종합적인 기술의 발전율.
+
+#servlst_won
+승패 여부
+
+#servlst_won_c1
+이 게임은 아직 승패를 가리지 못했습니다. 일단 승패가 결정되면 게임은 끝나고 서버에서 지워지고 다시 시작될 수도 있습니다.
+
 #servlst_admn
 관리자 도구
 
@@ -870,6 +885,12 @@ UI 소리
 
 #ui_menubdg_upgrades
 개선
+
+#ui_menubdg_solid
+견고함
+
+#ui_menubdg_struct
+건축물
 
 #ui_menubdg_winc_1
 각 노동자가 벌어들인 소득
@@ -2877,6 +2898,15 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #ui_recruit_cost
 유닛당 비용
+
+#ui_recruit_into
+전환대상
+
+#ui_recruit_coincost
+비용
+
+#ui_recruit_coininc
+수입 
 
 #ui_recruit_civ
 민간 부대
@@ -5613,3 +5643,30 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 
 #startuto_cmplt
 시작 튜토리얼 완료!
+
+#cnvrt_mil_err
+이 민병대를 전환할 인구수가 부족합니다!
+
+#mg_localgame
+로컬 게임
+
+#mg_remove_1
+'나의 게임'에서 삭제
+
+#mg_remove_2
+(이것은 단지 꼼수일 뿐, 삭제하더라도 실제 해당 게임에서 실제 캐릭터는 삭제되지 않습니다.)
+
+#mg_serverstatus
+서버 상태
+
+#mg_srvr_unknown
+알 수 없음
+
+#mg_srvr_online
+온라인
+
+#uiworldforms_inreg
+이 영토의 부대
+
+#uiworldforms_novisib
+알 수 없음: 시야가 확보되지 않음
