@@ -1454,16 +1454,16 @@ Trade balance
 The trade balance across all your territories from all your current trade routes.
 
 #ui_eco_tradbal_c2
-State resources: +[x] sales -[y] purchases
+State resources: +[x] sales   -[y] purchases
 
 #ui_eco_tradbal_c3
-Importations: +[x] sales -[y] purchases
+Importations:    +[x] sales   -[y] purchases
 
 #ui_eco_tradbal_c4
-Exportations: +[x] sales -[y] purchases
+Exportations:    +[x] sales   -[y] purchases
 
 #ui_eco_tradbal_c5
-Cargo: +[x] sales -[y] purchases
+Cargo:           +[x] sales   -[y] purchases
 
 #ui_mres_storvar
 STORAGE VARIATION

@@ -830,28 +830,28 @@ Commerce
 Le solde final de toutes les marchandises expansées et des revenus importés et exportés.
 
 #regeco_ii
-Ventes locales de marchandises importées
+Revenus des importations
 
 #regeco_ii_c1
-Revenus générés par toutes les marchandises importées vendues sur le territoire (à leur prix local).
+Revenus générés par toutes les marchandises importées vendues sur le territoire, à leur prix local.
 
 #regeco_ic
-Coût d'achat des biens importés
+Coût des importations
 
 #regeco_ic_c1
-Coût total payé pour toutes les marchandises importées via les routes commerciales vers ce territoire (au prix de leur route commerciale).
+Coût total payé pour toutes les marchandises importées via les routes commerciales vers ce territoire, à leur prix d'importation.
 
 #regeco_ei
-Ventes de biens exportés
+Revenus des exportations
 
 #regeco_ei_c1
-Revenus de toutes les marchandises exportées de ce territoire par des routes commerciales (au prix de leur route commerciale).
+Revenus des marchandises exportées depuis ce territoire par les routes commerciales, à leur prix d'export.
 
 #regeco_ec
-Coût d'achat des biens exportés
+Coût des exportations
 
 #regeco_ec_c1
-Coût total payé pour l'achat des produits exportés à leurs producteurs locaux sur ce territoire (à leur prix local).
+Coût total d'achat des produits exportés payé aux producteurs locaux, à leur prix local.
 
 #bc_menureg_cur1
 Devise utilisée sur ce territoire:
@@ -3806,7 +3806,7 @@ Vous ne pouvez pas supprimer ce rang parce qu'il est actuellement utilisé par u
 Nouveau rang ...
 
 #facmmb_ter
-Les régions
+Territoires
 
 #facmmb_dismant
 Démanteler
@@ -4139,7 +4139,7 @@ L'objectif sera tout dabord d'éliminer toutes les défenses du territoire. En c
 Cette action fournit plus de butin qu'un simple raid tout en infligeant plus de dommages, mais contrairement a un raid elle implique au préalable d'éliminer toutes les defenses, et l'action coute de l'honneur.
 
 #wkprio_0
-EvitéAvoided
+Indésirable
 
 #wkprio_1
 Faible
@@ -4478,13 +4478,19 @@ Attention! En raison de son contenu, votre réforme causera une pénalité uniqu
 Balance commerciale
 
 #ui_eco_tradbal_c1
-Somme de la balance commerciale de toutes vos routes commerciales sur tout vos territoires.
+Balance commerciale globale de tout vos territoires.
 
 #ui_eco_tradbal_c2
-Revenus commerciaux: [x]
+Ressources d'Etat:  +[x] ventes   -[y] achats
 
 #ui_eco_tradbal_c3
-Dépenses commerciales: [x]
+Importations:       +[x] ventes   -[y] achats
+
+#ui_eco_tradbal_c4
+Exportations:       +[x] ventes   -[y] achats
+
+#ui_eco_tradbal_c5
+Cargo:              +[x] ventes   -[y] achats
 
 #ui_price_base
 Prix minimum: [x]
@@ -4959,12 +4965,6 @@ Ventes de resources d'État: [x]
 
 #bc_gen_speed
 définir la vitesse de jeu gobale à x[x]
-
-#ui_eco_tradbal_c4
-Exportations: +[x] ventes -[y] achats
-
-#ui_eco_tradbal_c5
-Cargo: +[x] ventes -[y] achats
 
 #ui_price_base3_c2
 Agumentes de +30% du coût de production si cette ressource est distribuée via des marchands, comme leur part doit également être prise en compte par les producteurs.
