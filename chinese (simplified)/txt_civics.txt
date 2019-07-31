@@ -1,156 +1,155 @@
 #civ_gifteco_n
-Gift economy
+礼物经济
 
 #civ_gifteco_dscr
-A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards.
+一种不买卖贵重物品，不计报酬的交易方式。
 
 #civ_fairxchang_n
-Fair exchange
+公平交换
 
 #civ_fairxchang_dscr
-Immediate and reciprocal exchange of equivalent valuables.
+即时交换等值的物品。
 
 #civ_currency_n
-Currency
+货币
 
 #civ_currency_dscr
-Having a reference valuable to facilitate exchanges and used as a unit for value measurement. 
+有参考价值，便于流通并且用作价值计量的单位。 
 
 #civ_coinage_n
-Coinage
+造币
 
 #civ_coinage_dscr
-A state certified currency.
+国家认证货币。
 
 #civ_repmoney_n
-Representative money
+代币
 
 #civ_repmoney_dscr
-A currency representing a claim on a commodity instead of beeing a commodity in itself.
+代表一种商品的所有权，而不是商品本身的货币
 
 #civ_bandsociety_n
-Band society
+氏族社会
 
 #civ_bandsociety_dscr
-The simplest form of society, with loose organization and informal leadership.
+最简单的社会形式，组织松散并且无正式领袖。
 
 #civ_leadership_n
-Leadership
+领导人
 
 #civ_leadership_dscr
-One recognized leader to rule them all.
+一位统治所有人的公认领袖。
 
 #civ_localchief_n
-Local authorities
+地方当局
 
 #civ_localchief_dscr
-Local territorynal chiefs ruling their single territory and carrying the orders of the central power.
+地方行政长官统治着他们的单一领土，并执行中央政权的命令
 
 #civ_governors_n
-Governors
+州长
 
 #civ_governors_dscr
-Public officials with the power to govern provinces.
+有权统治各省的公职人员。
 
 #civ_senate_n
-Senate
+参议院
 
 #civ_senate_dscr
-An assembly of statespigs acting for the interests of the people.
+代表人民利益的政治家集会。
 
 #civ_prtctor_n
-Protector of the people
+人民的保护者
 
 #civ_prtctor_dscr
-"I rule because i am in charge of protecting the people."
+“我统治是因为我负责保护人民。”
 
 #civ_superior_n
-Superior leader
+强势领袖
 
 #civ_superior_dscr
-"I rule because i am superior."
+“我统治是因为我强势。”
 
 #civ_divine_n
-Divine leader
+神圣领袖
 
 #civ_divine_dscr
-"I rule because i am a god."
+“我统治是因为我是神。”
 
 #civ_divinerep_n
-Divine representative
+神圣的代表
 
 #civ_divinerep_dscr
-"I rule because i am chosen by the gods."
+“我统治是因为我是上帝所选择的。”
 
 #civ_comgood_n
-Common good
+共同利益
 
 #civ_comgood_dscr
-"I rule for the people."
+“我为人民谋福利。”
 
 #civ_people_n
-People representative
+人民代表
 
 #civ_people_dscr
-"I rule in the name of the people."
+“以人民的名义。”
 
 #civ_tax_n
-Taxation
+税收
 
 #civ_tax_dscr
-Financial charges imposed upon taxpayers by the state.
+国家对纳税人征收的财务费用。
 
 #civ_seizem_n
-Seize materials
+抢占物资
 
 #civ_seizem_dscr
-Seize construction materials from the population instead of paying for them. Excess of this might harm your economy.
+不付钱从民众手中抢占建筑材料。这可能会损害你的经济。
 
 #civ_statepriv_n
-Privileges
+特权
 
 #civ_statepriv_dscr
-Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
+政府领导的特权，按权利授予他们一定比例的领土财富。
 
 #civ_statesal_n
-State workers
+国家工作人员
 
 #civ_statesal_dscr
-State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
+国家工作人员由国家直接雇用和支付工资，在行政机关、学校等各种机关办公楼工作。
 
 #civ_parl_n
-Parliament
+议会
 
 #civ_parl_dscr
-An assembly of representatives of the people.
+人民代表大会。
 
 #civ_minist_n
-Ministry
+理事部
 
 #civ_minist_dscr
-A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
+一个拥有重要公职的政治委员会，共同制定和执行有关政策的决定。
 
 #civ_ration_n
-Food rationing
+食物配给
 
 #civ_ration_dscr
-The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improving everyone's access to foods.
+食物配给减少了每人的食物消耗。在食物短缺的时候，它有助于提高每个人获得食物的机会。
 
 #civ_agrisav_n
-Seeds stocking
+种子储备
 
 #civ_agrisav_dscr
-Prevent a portion of your agricultural food production from beeing directly distributed or consummed in order to save seeds to create new fields.
+防止一部分农产品直接销售或消费，以节省种子来创造新的田地。
 
 #civ_subv_n
-Subvention
+补助金
 
 #civ_subv_dscr
-An aid paid by the state to every porco of a specific class of workers, increasing their income.
+国家支付给某一特定阶层工人的每一位公民的补助，以增加他们的收入。
 
 #civ_paidrsrch_n
-Paid researchers
+研究人员补助
 
 #civ_paidrsrch_dscr
-Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings where they work.
-
+项目的研究人员可以得到国家补助，不再减少原工作岗位的劳动力。

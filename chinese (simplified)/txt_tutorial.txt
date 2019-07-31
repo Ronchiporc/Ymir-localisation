@@ -1,1239 +1,1256 @@
 #tuto_launch_1
-Welcome to Ymir! It looks like it's the first time you're launching this game. 
+欢迎来到Ymir!看起来好像这是你第一次启动这个游戏。
 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+这是一个复杂的游戏: 如果你还不熟悉它的话，这里强烈建议你通过单人游戏开始学习基础知识来完成新手教程。当然，如果你已经熟悉了这个游戏，你现在可以选择禁用所有教程。
 
 #tuto_create_1
-This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+这是你设置和开始一场新游戏的地方。现有两种主要的游戏模式: 持续和实时。如果你是一个人或者和几个朋友一起玩，这里最好将它设置成“实时”。
 
 #tuto_lnchgame_1
-You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
+你正在开始你自己的第一场游戏!这是一个客户端-服务器游戏: 即使你是单独游玩，开始一场新的游戏也会自动启动一个单独的服务器并自动将你连接到它。为了让其他人能够加入这场游戏，你必须确保正确地转发服务器使用的端口(默认情况下为14804)。如果服务器自动启动失败，则必须从游戏文件夹中使用Server.bat手动启动服务器。然后连接到它以“加入游戏”。
 
 #tuto_char_1
-This is where you create your character. You can design and name it, as well as your government's name and flag. 
+这是你创建你的角色的地方。你可以设计和命名它，以及你的政府的名称和旗帜。
 
 #tuto_char_2
-You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
+你必须在不同的开始类型列表中进行选择，新游戏的默认类型是“原始部落”。
 
 #tuto_char_3
-In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
+在多人游戏中，你也可以指定一个朋友的角色名字以尽可能地在他附近生成，但要做到这一点，你还需要他的“邀请码”。
 
 #tuto_char_4
-Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
+请注意: 一旦你创建了一个角色-特别是在持续的多人游戏中-如果你陷入了困境你是不允许马上重新创建一个新的角色!你将不得不等待一段时间，直到你被允许在同一游戏中再试一次。
 
 #tuto_warnjoin_1
-You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multiplayer game.
+你还没有完成初始教程: 这里强烈建议在尝试加入任何持续的多人游戏之前这样做。
 
 #tuto_warnjoin_2
-Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
+多人持续游戏是无情的!开始条件可能要更复杂，如果你失败了，你将不被允许立即重启一个新角色，因为重生是有限的一个周期的冷却多达几天。首先学习基础知识，这样你就不会马上陷入困境然后失去你的机会!
 
 #tuto_join_1
-This is where you join existing games. 
+这是你加入现有游戏的地方。 
 
 #tuto_join_2
-If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
+如果你需要重新加入你自己的本地游戏，请转到“直接IP”然后连接到“localhost”14804端口。
 
 #tuto_join_3
-If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
+如果你想加入多人游戏，你可以在持续(持续几个月的全天候游戏)和实时(与朋友一起玩的快速游戏)游戏之间进行选择。
 
 #tuto_persist_1
-You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
+你已经加入你的第一个持续多人游戏!在这个游戏模式中，事物会比实时模式慢得多，但要注意: 这里没有失误的余地!你必须处理任何你已经被给予的开始，第二次机会是昂贵的，因为如果你失去了这个角色，你将不得不等待几天才能重新尝试一个新角色。
 
 #tuto_0_1
-Greetings newpig! I am Sagacious Pig your tutorial assistant. 
+您好新领主!我是聪明的老者你的教程助手。
 
 #tuto_0_2
-I'm here to guide you through the first steps of the game and explain how things work.
+我来指导你完成游戏的第一步，并说明事物是如何运行的。
 
 #tuto_0_c1
-Tell me more!--1
+告诉我更多!--1
 
 #tuto_0_c2
-I wanted to do the tutorial but now that i see your ugly face i'd rather skip it.--82
+我想做这个教程，但现在我看到你那丑陋的脸我宁愿跳过它。--82
 
 #tuto_1_1
-You are currently in the world map. Each tile is a 'territory' you can explore and colonize. 
+你当前在世界地图上。每个板块都是一块“领土”你可以探索和开拓。 
 
 #tuto_1_2
-At the start, most of the map is unexplored except the few territories around your tribe.
+在开始的时候，大多数的地图都是未探索的除了你部落周围的少数领土。
 
 #tuto_1_c1
-Very well... so what now ?--2--1
+很好…那么现在呢?--2--1
 
 #tuto_2_1
-This is a mission event. You will sometimes get missions you can complete to unlock rewards. Here, your first task is simply to settle your tribe in your first territory.
+这是一个任务事件。你有时会得到任务，你可以完成解锁奖励。这里，你的第一个任务是在你的第一个领土上安置你的部落。
 
 #tuto_2_c1
-Yes... yes... Let us begin then!--3--2
+是的…是的…让我们开始吧!--3--2
 
 #tuto_3_1
-Events will appear  as flags on top of the screen and you can also review them all by clicking this button next to the flags.
+事件将作为标记显示在屏幕顶部，你还可以通过单击标记旁边的这个按钮查看所有事件。
 
 #tuto_3_c1
-Thank you mister Pig, shall we continue ?--4--3
+谢谢你老者先生，我们还要继续吗?--4--3
 
 #tuto_4_1
-You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Clic on it to select it.
+你从一组单位(一个“编队”)开始，这是你当前控制的游牧民的原始部落。点击选择它。
 
 #tuto_5_1
-On the bottom left is the formation menu of your formation. It shows details such as the list of units in this formation and their inventory. 
+在左下角是你的编队的编队菜单。它显示了一些详情，比如在这个编队列表中的单位和它们的库存清单。
 
 #tuto_5_2
-Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, clic the 'orders' button.
+你的部落当前正在一个拥有适当资源的地区扎营以开始游戏。这应该是一个安全的地方来建立你的第一个定居点: 在他们的编队菜单上，点击这个“命令”按钮。
 
 #tuto_6_1
-Select the mission "Settle", leave all the options by default, and validate to order your whole tribe to settle in this territory. Its units and inventory will be unloaded in the territory which will now be under your control and the formation itself will disapear.
+选择任务“定居”，默认保留所有选项，然后确认命令你的整个部落在这片领土上定居。它的单位和库存将被卸载在你现在控制的领土并且编队本身将消失。
 
 #tuto_7_1
-The territory selector shows the name of your  currently selected territory. On it's left is a round button that allows you to go into the territory.
+这个领土选择器显示当前选择的领土的名称。在它的左边是一个圆形按钮这个可以让你进入到这一区域。
 
 #tuto_7_2
-With your newly settled territory selected, clic that button to go into your territory.
+选择你最近有定居的区域，单击这个按钮进入你的领土。
 
 #tuto_8_1
-This is the territory you have settled and now control. In the middle of it is the camp your tribe has set with tents and with all their resources now unloaded onto the ground.
+这个是你已经定居并控制的领土。在它的中间是你的部落已经放置的帐篷营地和他们所有拥有的资源现在卸载到地上。
 
 #tuto_8_c1
-Very well.--9--7
+非常好。--9--7
 
 #tuto_9_1
-You have now completed your first mission and unlocked it's rewards.
+你现在已经完成了你的第一个任务并解锁了它的奖励。
 
 #tuto_9_2
-Your next mission is now to provide fresh water for your tribe.
+你现在的下一个任务是给你的部落提供淡水。
 
 #tuto_9_c1
-I am thrilled by the complexity of these missions, lets get on with it!--10
+这些任务的复杂性让我很兴奋，让我们继续吧!--10
 
 #tuto_10_1
-To sustain themselves, your porcos need food and water or they will quickly die. They were carrying a bit of food with them, but no water : the first urgent thing to do is to setup a water collection point on the shore a fresh water point.
+为了维持自己，你的波尔需要食物和水，否则他们很快就会死去。他们带着一些食物，但是没有水: 第一件紧急的事情是要在岸边设置一个水收集点，在岸边新鲜的淡水点。
 
 #tuto_10_c1
-How do i do that ?--11--8
+我该怎么做呢?--11--8
 
 #tuto_11_1
-This is the building tab of the territory, where you can see all your currently available buildings and order their construction in this territory.
+这是这个区域的建筑选项卡，在这里你可以看到当前所有你可用的建筑，在这个区域中命令建设它。
 
 #tuto_11_2
-In the first "housing" building tab, select the "Water collector" building. 
+在第一个“住宅”建筑选项卡中，选择“集水器”建筑。
 
 #tuto_12_1
-This building is free and does not require any workers: it simply represents a spot on the shore cleared and levelled to allow your porcos easy access to fresh water: they will get it themselves as they need it. Try to place it next to tiles of water:  it needs to have one edge adjascent to water to work.
+这个建筑是免费的并且不需要任何工人: 它只是代表岸边上的一个点被清理和平整，让你的波尔容易获得淡水: 他们会自己得到他们需要的。试着把它放在靠近水板块的旁边: 它需要有一个边贴近水来运行。
 
 #tuto_13_1
-Now that your porcos need for water is satisifed, they need sustainable sources of food as their stocks will run out soon. 
+现在你的波尔对水的需求得到了满足，他们需要可持续的食物来源，因为他们的库存很快就会耗尽。
 
 #tuto_13_c1
-Food please!--14--10
+请问食物!--14--10
 
 #tuto_14_1
-There is 2 kinds of natural sources of foods : edible plants and spots of wild animals. The first one can be exploited by the Farm building and the latter by the Hunter.
+现在有两种天然的食物来源: 可食用的植物和野生动物点。前者可以被农场建筑利用而后者可以被猎人利用。
 
 #tuto_14_2
-Farms and Hunters are buildings that exploit natural resources. They need to be placed near valid resources. Now, start by trying to place a hunter.
+农场和猎人都是利用天然资源的建筑。它们需要放置在有效资源的附近。现在，先试着放置一个猎人营地。
 
 #tuto_15_1
-When you are placing a building that exploits natural resources, an area of tiles appears highlighted around it: it's the production range of the building.  
+当你在放置一个利用天然资源的建筑时，一个区域的板块会突出显示在它周围: 这是这个建筑的生产范围。
 
 #tuto_15_2
-Grey and Red tiles means there's nothing exploitable: you need to look fot the tiles that are highlighted in GREEN, indicating a valid exploitable resource for the building.
+灰色和红色的板块意味着没有任何可利用的: 你需要寻找突出显示为绿色的板块，这表明该建筑有一个有效的可利用资源。
 
 #tuto_15_3
-Scan the territory with the building selected to look for a valid spot to place it.
+用这个建筑扫描这片领土来寻找一个有效的位置来选择放置它。
 
 #tuto_15_c1
-How do i recognize exploitable animals ?--16
+我如何识别可利用的动物?--16
 
 #tuto_15_c2
-How do i recognize edible plants ?--18
+我如何识别可食用的植物?--18
 
 #tuto_16_1
-A natural spot of wild animals is a single tile that will appear green when placing a Hunter. It has a few visible animals walking wandering around it. One hunter is enough as it's only a single tile.
+天然的野生动物点是一块单独的板块，当在放置猎人营地时那里会显示为绿色。它有一些看得见的动物在周围走动。一个猎人营地就足够了，因为它只是一块单一的板块。
 
 #tuto_16_c1
-Got it.--15
+明白了。--15
 
 #tuto_16_c2
-I see animals but the Hunter doesnt seem to be able to exploit them.--17
+我看到了些动物，但猎人似乎不能利用它们。--17
 
 #tuto_17_1
-Sometimes animals are present in a territory as a 'herd'. Herds are depletable and temporary groups of animals and they cannot be hunted in a permanent and sustainable way through a Hunter building: you will need to manually hunt them with units. Ignore them for now.
+有时动物会以“兽群”的形式出现在某一地区。兽群是可消耗的临时动物群体，它们不能通过猎人建筑以一种永久和可持续的方式被猎杀: 你需要用单位手动猎杀它们。现在暂时忽略它们。
 
 #tuto_17_c1
-Very well...--15
+很好…--15
 
 #tuto_18_1
-Spots of edible plants are usually large patches of similar looking plants or trees. If the patch is large, you may place several Farms around it to fully exploit it.
+可食用植物的点通常是大片看起来相似的植物或树木的点。如果这片点很大，你可以在它的周围放置多个农场来充分利用它。
 
 #tuto_18_c1
-Very well.--15
+很好…--15
 
 #tuto_19_1
-You have now started satisfying the 2 urgent needs of your tribe of water and food. These 2 needs combined form something called the "Vital needs".
+你现在已经开始满足你部落对水和食物的两种迫切需求。这两种需求结合起来形成了所谓的“生命需求”。
 
 #tuto_19_2
-When the Vital needs are not fully satisfied, it means some of your Porcos are suffering from malnutrition and dying.
+当生命需求没有得到充分满足时，这意味着你的一些波尔正在遭受营养不良和死亡。
 
 #tuto_19_c1
-Good to know.--20--13
+很高兴能知道。--20--13
 
 #tuto_20_1
-This button opens an important menu: the "Territory menu". 
+这个按钮打开一个重要的菜单: “区域菜单”。 
 
 #tuto_20_2
-It shows everything you need to know about the territory you are in, allowing you to check it's situation and to diagnose it's problems. Clic to open it.
+它显示了你需要知道的关于你所处区域的一切，允许你检查它的情况和判断它的问题。点击打开它。
 
 #tuto_21_1
-This menu has a lot of informations combined in it. The top half is a global summary of the territory with all it's important stats in a single space.
+这个菜单它包含了很多信息。上半部分是一个区域的全局摘要，所有重要的统计数据都在一个空间内。
 
 #tuto_21_2
-The lower half of the menu is a set of tabs, each one giving you more in-depth details about a specific territory stat: economy, growth, administration...
+菜单的下半部分是一组选项卡，每一个选项卡都为你提供关于特定区域统计的更深入的细节: 经济、增长、行政管理…
 
 #tuto_21_c1
-Ok!--22
+好!--22
 
 #tuto_22_1
-This is the important part to look for now : the global vital needs of your populaiton that i mentionned earlier. 
+这是现在要寻找的重要部分: 我刚才提到的你的人民整体的重要需求。
 
 #tuto_22_2
-It needs to remains more or less above 70%: meaning most people in your tribe have enough food and water not to starve to death. It's an important value you will always have to monitor.
+它或多或少的需要保持在70%以上: 这意味着你部落中的大多数人有足够的食物和水，不会导致饿死。这是一个你必须时刻关注的重要值。
 
 #tuto_22_c1
-Very well.--23--15
+很好。--23--15
 
 #tuto_23_1
-Just below it is the territory's Growth: the current variation of your population. This is what you will be looking for the most in early game.
+下面这是这片领土的增长: 这是当前人口的变化。这是在早期游戏中你最希望看到的。
 
 #tuto_23_2
-Positive growth means your population is increasing and you will get new active Porcos you can employ in buildings. 
+正增长意味着你的人口在增加并且你会得到新的活跃波尔你可以雇用在建筑。
 
 #tuto_23_3
-Satisfied Vital Needs is essential to maintain a positive growth, but it's not the only factor influencing it.
+满足生命需求是保持正增长的必要条件，但这并不是影响它的唯一因素。
 
 #tuto_23_c1
-Got it.--26--16
+明白了。--26--16
 
 #tuto_23_c2
-What are the factors influencing Growth?--24
+影响增长的因素是什么?--24
 
 #tuto_23_c3
-How do I improve Growth?--25
+我如何促进增长?--25
 
 #tuto_24_1
-You can clic on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
+你可以点击这个“增长”选项卡获取有关你人口的整体增长的详细信息。增长是由两个主要因素造成的: 人们的生育意愿和他们的存活。
 
 #tuto_24_2
-The will to have children is detailed in the right side column and is affected mostly by the Life Quality of the population.
+生育意愿在右侧列有详细说明，主要受人口生活质量的影响。
 
 #tuto_24_3
-The survival of piglets into adulthood is affected mostly by the global Health of your population.
+仔猪存活到成年主要是受整体人口健康状况的影响。
 
 #tuto_24_c1
-Got it.--26--16
+明白了。--26--16
 
 #tuto_24_c2
-So how do I improve it?--25
+那么我该如何改善它呢?--25
 
 #tuto_25_1
-First make sure your Vital Needs are satisfied. Then you will want to improve global Health and Life Quality as much as possible.
+首先，确保你的生命需求得到满足。然后你再尽可能地改善整体健康和生活质量。
 
 #tuto_25_2
-Provide good dwellings for your population, diversified food and generally try to fill the maximum of your population's needs!
+为你的人口提供良好的住所，多样化的食物并尽量满足你人口的最大需求!
 
 #tuto_25_c1
-Got it.--26--16
+明白了。--26--16
 
 #tuto_26_1
-This is your current population. It's divided into groups of "Social Classes", each one represented by one button.
+这是你当前的人口。这是分成到组的“社会阶层”，每个由一个按钮表示。
 
 #tuto_26_2
-"Inactives" is the default class of currently jobless adult Porcos available to work in new buildings. Once a porco starts working in a building, he converts to the social class the building employs.
+“不活跃”是当前无业成年波尔的默认类别，他们可以在新建筑中工作。一旦一个波尔开始在一个建筑里工作，他就会转变为这个建筑雇用的社会阶层。
 
 #tuto_26_c1
-Understood. Now what ?--27
+理解了。现在怎么办呢?--27
 
 #tuto_27_1
-Before building new production buildings, you will want to check that you have enough inactives to work in them.
+在建造新的生产建筑物之前，你需要检查你是否有足够的不活跃者能让它们运作。
 
 #tuto_27_2
-You should still have a decent amount of Inactive Porcos available: let's keep them busy and move on the next mission!
+你应该还有相当多不活跃的波尔可用: 让他们保持忙碌，然后继续下一个任务!
 
 #tuto_27_c1
-I'm ready.--28--17
+我准备好了。--28--17
 
 #tuto_28_1
-Building things require resources and one of the most commonly required one at first is Hammers, made from Flints.
+首先，建造东西需要资源而最常见的需求之一就是锤子，由燧石制成。
 
 #tuto_28_2
-You must now produce your first Hammers as your stocks will soon run out as you build. 
+你现在必须生产你的第一把锤子，因为你的库存很快就会随着你的建设而耗尽。
 
 #tuto_28_c1
-Ok.--29--18
+好。--29--18
 
 #tuto_29_1
-Hammers will be your first 'industrial product': a resource that is crafted from other resources.
+锤子将是你的第一个“工业产品”: 一种由其他资源加工而成的资源。
 
 #tuto_29_2
-Hammers require flints -a natural resource- which you can produce with the Flint collector.
+锤子需要燧石-一种自然资源-你可以用燧石收集器来生产它。
 
 #tuto_29_3
-Start by building a Flint collector in a valid location, near any gravely looking ground tiles.
+首先，在一个有效的位置建造一个燧石收集器，在任何看起来严重磨碎的板块附近。
 
 #tuto_30_1
-Very well! Now you can build the Tool maker.
+很好!现在你可以建造工具制造商了。
 
 #tuto_30_2
-Unlike natural producers, industries can be placed anywhere for they do not exploit any natural resource: they combine existing ones.
+与自然生产者不同，工业可以被放置在任何地方，因为它们不利用任何自然资源: 它们将现有的资源组合起来。
 
 #tuto_31_1
-Great, you are now producing your first Hammers!
+太好了，你现在正在生产你的第一把锤子!
 
 #tuto_31_2
-Hammers are your first type of tool. Later, you will unlock new tools which will also be required by many constructions.
+锤子是你的第一种工具。稍后，你将解锁许多结构也需要的新工具。
 
 #tuto_31_3
-Unlike resources like foods, tools are not consummed by the population to satisfy their needs: it's player-used only.
+与食物等资源不同的是，工具并不是为了满足人们的需求而被消耗的: 工具只是供玩家使用的。
 
 #tuto_31_c1
-Ok.--32--21
+好的。--32--21
 
 #tuto_32_1
-This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade,buy,sell ot transport resources between territories later on.
+这是你区域的资源选项卡: 它列出了所生成的所有资源，以及当前在该区域存储中的。这也是你以后可以交易的地方，购买/出售资源在领土之间运输。
 
 #tuto_32_2
-Clic to open the tab.
+单击打开选项卡。
 
 #tuto_33_1
-Each button shows you one type of resource currently stored or produced in the territory. On each button you can see the amount stocked, a sign indicating it's current variation, and it's local price.
+每个按钮都显示当前存储或生成在该区域中的一种类型的资源。在每个按钮上，你可以看到库存的数量，一个指示表明它是当前的变化，然后这是当地的价格。
 
 #tuto_33_2
-Now click on one of these buttons to open it's Resource Menu.
+现在单击其中一个按钮打开它的资源菜单。
 
 #tuto_34_1
-The Resource Menu gives you all the details about a specific resource: production, consumption by population or industries, price...
+这个资源菜单提供了关于特定资源的所有细节: 产量、人口或行业消费、价格…
 
 #tuto_34_c1
-Ok.--35--24
+好的。--35--24
 
 #tuto_35_1
-It also gives you access to some resource-specific options. 
+它还允许你获取一些特定于资源的选项。
 
 #tuto_35_2
-The first one is the storage policy: you can change the rules for storing this specific resource such as only allowing it in specific storages or forbidding it totally.
+第一个是存储许可: 你可以更改存储特定资源的规则，例如只允许在特定的仓储类中存储或完全禁止存储。
 
 #tuto_35_c1
-Got it.--38--25
+明白了。--38--25
 
 #tuto_35_c2
-What happens when there's no room to store things ?--36
+当没有空间储存东西时会发生什么?--36
 
 #tuto_35_c3
-What is the "only in restricted" mode ?--37
+什么是“仅在限制”模式?--37
 
 #tuto_36_1
-If there is no room available, resources will be placed directly on the floor where they will decay and eventually be lost unless quickly stored properly. 
+如果没有可用的空间，资源将被直接放置在地板上，除非迅速妥善地储存，否则资源将会腐烂并最终丢失。
 
 #tuto_36_2
-Extra resources on the ground will auto-relocate to any valid storage if free space becomes available.
+如果空闲空间可用，地面上的额外资源将自动重新定位到任何有效的存储空间。
 
 #tuto_36_c1
-Got it.--38--25
+明白了。--38--25
 
 #tuto_36_c2
-What is the "only in restricted" mode ?--37
+什么是“仅在限制”模式?--37
 
 #tuto_37_1
-When you clic on a storage building, you can set it to "restricted" and control what resources are allowed in it. 
+当你点击储存建筑时，你可以将其设置为“限制”并控制允许在其中使用哪些资源。
 
 #tuto_37_2
-If you then set a resource storage policy to "only in restricted" in this menu, it will ONLY be allowed in storages that are in "restricted" mode AND that have been set to allow that specific resource. If there's no room the resources are destroyed.
+如果你在此菜单中将资源存储许可设置为“仅在限制”，则只允许在处于“限制”模式且已设置为允许特定资源的储存中使用该方针。如果没有空间这些资源将会被销毁。
 
 #tuto_37_c1
-Got it.--38--25
+明白了。--38--25
 
 #tuto_37_c2
-What happens when there's no room to store things ?--36
+当没有空间储存东西时会发生什么?--36
 
 #tuto_38_1
-The second one is the "Maintain stock" option: it allows you to ensure some of the produced resources will be saved to maintain a certain amount in stock, no matter what. Its really usefull to maintain stocks of foods for instance, regardless of the population's consumption.
+第二个是“维持库存”选项: 它允许你确保将生成的一些资源保存下来，以保持一定数量的库存，无论何时。例如，不管人们的消费水平如何，保持食品的库存是非常有用的。
 
 #tuto_38_c1
-Good to know!--39--26
+很高兴能知道!--39--26
 
 #tuto_39_1
-For now your only storage available is the "Ground storage": a free but inefficient storage of basic resources. It's just ground marked for storage of things. 
+目前，你唯一可用的存储是“地面存储”: 一种免费但低效的基础资源存储。它只是用来存放东西的地面标记。
 
 #tuto_39_2
-Later on you will unlock proper storage buildings that can store much more on a smaller surface.
+稍后，你会解锁适合的存储建筑物，它可以在一个更小的地面上存储更多。
 
 #tuto_39_c1
-Very well.--40
+很好--40
 
 #tuto_40_1
-Not all resources can be stored anywhere: some specific categories of resources require specific storage types.
+并非所有资源都可以存储在任何地方: 某些特定类别的资源需要特定的存储类型。
 
 #tuto_40_2
-For example, foods like meat or wheat can only be stored in granaries and livestocks require Paddocks. For now though, you do not have access to these buildings.
+例如，肉类或小麦之类的食物只能储存在粮仓里而牲畜需要围场。但是现在，你还无法获得这些建筑。
 
 #tuto_40_c1
-Ok.--41--27
+好的。--41--27
 
 #tuto_41_1
-Now to the next mission : start producing some Wood.
+现在进入下一个任务: 开始生产一些木材。
 
 #tuto_41_2
-Wood, like Hammers, is an essential material used for many constructions. It is also consummed by many industrial buildings to craft other products.
+木材和锤子一样，是许多建筑中必不可少的材料。许多工业建筑也用它来制造其他产品。
 
 #tuto_41_3
-Place a woodcutter near a dense area of trees to start producing some.
+放置一个樵夫营地在树木密集的地方开始生产一些。
 
 #tuto_42_1
-Excellent. Now it's time to think about defending yourself: for that you will have to create a new "Formation" (a group of units).
+好极了。现在是时候考虑保护你自己了: 因此你必须创建一个新的“编队”(一组单位)。
 
 #tuto_42_2
-There is different types of formations. The best one to start defending yourself with is the "Militia".
+有不同类型的编队。开始最好的自我防御是“民兵”。
 
 #tuto_42_c1
-Tell me more.--43
+告诉我更多。--43
 
 #tuto_43_1
-In a "Militia" formation, it's units are not really recruited: it's the current population of the territory itself. Think of it as a stash of weapons kept ready for the population to take arms with when attacked.
+在一个“民兵”编队中，它的单位并不是真正被招募的: 它是领土本身的当前人口。你可以把它看作是为人们在受到攻击时携带武器而准备的一堆武器。
 
 #tuto_43_2
-Therefore, it's units are not actually removed from your population and are "free", but the Militia cannot move to other territories and is purely defensive. Its perfect as basic defense.
+因此，它的单位实际上并没有从你的人口中移除，而是“自由”的，但民兵不能移动到其他领土，纯粹是防御性的。它是完美的基础防御。
 
 #tuto_43_c1
-Where do i create one ?--44--29
+我在哪里创建一个?--44--29
 
 #tuto_44_1
-This is the Units tab. In it you can see all the formations currently present in the territory. It's also where you can create new Formations.
+这是单位选项卡。在里面你可以看到该地区目前存在的所有编队。你也可以在这里创建新的编队。
 
 #tuto_44_2
-Clic on the tab to open it.
+点击选项卡打开它。
 
 #tuto_45_1
-Now clic the button to create a new Formation. Select the "Militia" type, and place the Formation's camp near your tribe.
+现在点击该按钮来创建一个新的编队。选择“民兵”类型，并将编队的营地设置在部落附近。
 
 #tuto_46_1
-Very well. Now you have to recruit your first units into this new formation.
+很好。现在你必须招募你的第一批单位进入这个新编队。
 
 #tuto_46_2
-There is different categories of units: civilian units are what you will use to create settling expeditions or transfering goods with carriers, but obviously not to defend youself. Open the "Ranged" tab.
+有不同种类的单位: 平民单位是你用来远征建立定居或用承运人转移货物，但显然不是为了保护自己。打开“远程”选项卡。
 
 #tuto_47_1
-For now you only have access to a single ranged military unit: the rockthrower. A porco simply equiped with stones to throw, best used to defend behind walls and gates.
+现在你只能使用一个远程军事单位: 这个抛石兵。波尔只是简单地装备了可以扔出去的石头，最好是用来在墙和门后防守。
 
 #tuto_47_2
-Now, recruit at least 20 rockthrowers (2 troops of 10 each). Remember: as a "Militia", in fact you're not really recruiting them but merely storing equipment (here simple stones) for your population to use in case of attack.
+现在，招募至少20名投石兵(每10人的两支部队)。请记住: 作为一个“民兵”，实际上你并不是真的招募他们，而只是储存一些装备(这里指简单的石头)，供你的人民在遭遇袭击时使用。
 
 #tuto_47_c1
-What happens if i 'recruit' more militia that i have of population ?--48
+如果我“招募”更多的民兵会发生什么?--48
 
 #tuto_48_1
-Then your militia will not be fully "manned" in case of attack: if you saved up equipment for 40 soldiers as your militia but only have 15 porcos in age to fight at the time of the attack in the territory, your Militia will only include 15 soldiers in the battle.
+那么你的民兵将不会完全“配备”在受攻击时: 如果你为40名士兵储备了装备作为你的民兵，但在领土遭到攻击时只有15个成年的波尔可以战斗，你的民兵将只包括15名士兵。
 
 #tuto_48_c1
-Got it.--47
+明白了。--47
 
 #tuto_49_1
-Congratulations: you now saved equipment -a bunch of wooden clubs- for your population to use in case of attack. 
+祝贺: 你现在保存了一些装备-一堆木棒-供你的人民在遭遇袭击时使用。
 
 #tuto_49_2
-Now, additionnaly to that, you can also organize the defensive strategy of your units using the "Strategic tool", such as defining the deployment positions of your new militia. Clic to open it.
+现在，除此之外，你还可以使用“战略工具”组织你的部队的防御策略，比如定义你的新民兵的部署位置。点击打开它。
 
 #tuto_50_1
-With this tool, you can preview where all your troops ( militia or not ) will deploy in case of battle.
+使用这个工具，你可以预览你所有的部队(民兵或其他)将部署在哪里，在战斗的情况下。
 
 #tuto_50_2
-You can select each troop and redeploy it where you want with the right clic. Hold it to set their ranks and orientation.
+你可以选择每个部队，然后右击将其重新部署到你想要的地方。选取它来设定他们的排列和方位。
 
 #tuto_50_c1
-Tell me more.--51--35
+告诉我更多。--51--35
 
 #tuto_51_1
-You can set the behavior mode of each troop. By default they will move to engage any enemy that arrives.
+你可以设置每个部队的行动模式。在默认情况下，他们将采取行动与任何到达的敌人交战。
 
 #tuto_51_2
-With a troop selected, you can clic the dropdown button on the bottom left to select other modes that will affect that troop's behavior in battle.
+选中一个部队后，你可以点击左下角的下拉按钮，以选择将影响该部队在战斗中行为的其他模式。
 
 #tuto_51_c1
-Very well.--52--36
+很好。--52--36
 
 #tuto_52_1
-Another tool is to create "Defensive zones" by clicking this button. Then clic and drag on the terrain to set a point and a radius around it. 
+另一个工具是通过点击这个按钮来创建“防御区”。然后在地形上进行点击并拖动，以设置一个点及其周围的半径。
 
 #tuto_52_2
-Once the zone is created, you can deploy troops in it and set them to the "defensive zone" behavior to have them defend this specific zone: they will be allowed to move out of it during battle.
+一旦该区域被创建，你可以在其中部署部队，然后将其设置为“防守区域”行为，以让他们保卫这个特定的区域: 他们将被允许在战斗中离开该区域。
 
 #tuto_52_c1
-Got it.--53--37
+明白了。--53--37
 
 #tuto_53_1
-Rockthrowers are only usefull in defense behind walls: I advise you to create a small fort of palissades and to then deploy them in it in 'stand ground' mode. This will protect you at least against invasion attempts.
+投石兵只适用于在墙后的防御: 我建议你创建一个由栅栏组成的小堡垒，然后在“原地驻守”模式下部署它们。这至少可以保护你免受入侵。
 
 #tuto_53_2
-Once you are happy with your changes, make sure to close and SAVE your changes by clicking here.
+一旦你对你的更改感到满意，请确保通过单击此处关闭并保存更改。
+
+#tuto_53_c1
+我做完了，我们继续!
 
 #tuto_54_1
-You now finished organizing your basic defenses. 
+现在，你已经完成了你的基本防御组建。 
 
 #tuto_54_2
-In addition to potential events or conflicts with other players, nearby NPC 'barbarian' camps are likely to regularly spawn warbands that will attempt to raid, sack , or even invade your territories. 
+除了可能发生的事件或与其他玩家的冲突外，附近NPC的“野蛮人”营地很可能会定期产生军队，他们会试图袭击、洗劫甚至入侵你的领土。
 
 #tuto_54_3
-It won't be long before they notice you and send their first raiders, so you better be ready!
+不久他们就会注意到你，并派出他们的第一批突袭者，所以你最好做好准备!
 
 #tuto_54_c1
-Good to know...--55--39
+很高兴能知道…--55--39
 
 #tuto_55_1
-It's time to address the topic of Knowledges (technologies), which unlock things like new buildings or new resources.
+现在是讨论知识(技术)的时候了，知识(技术)可以解锁新建筑或新资源之类的东西。
 
 #tuto_55_2
-To get new knowledges, you need to complete Projects. And to get Projects, you need to get Ideas. 
+为了获得新的知识，你需要完成项目。然后为了得到项目，你需要获得想法。
 
 #tuto_55_c1
-Go on...--56
+继续…--56
 
 #tuto_56_1
-Ideas can come from your own population, spread from other territories, or be directly exchanged with other players via treaties.
+想法可以来自你自己的人口，传播到其他地区，或者通过条约与其他玩家直接交换。
 
 #tuto_56_2
-You cannot directly control when and what ideas your people will have. Each idea comes with it's own hidden conditions.
+你不能直接控制你的人民什么时候会有什么想法。每个想法都有其隐藏的条件。
 
 #tuto_56_c1
-Ok.--57
+好的。--57
 
 #tuto_57_1
-Now that your tribe is done setting camp in this territory, they got their first idea for Sedentarity, which will allow you to build your first proper dwellings.
+现在你的部落已经在这片土地上扎营了，他们有了第一个关于定居的想法，这将允许你建造你的第一个合适的住所。
 
 #tuto_57_2
-To actually get the 'knowledge' of Sendentarity, you will need to complete it's project first.
+要真正获得定居的“知识”，你需要首先完成它的项目。
 
 #tuto_57_c1
-How do i do that ?--58--40
+我该怎么做呢?--58--40
 
 #tuto_58_1
-This new button allows you to open another important menu : the Government Menu.
+这个新按钮允许你打开另一个重要的菜单: 政府菜单。
 
 #tuto_58_2
-That's where you can manage and monitor all global matters (non territory-specific ones) such as your treasury balance, your culture, your policies etc...
+在那里，你可以管理和监控所有的全局事务(非特定领域的事务)，比如你的财政收支、你的文化、你的政策等…
 
 #tuto_58_3
-Clic to open it.
+单击打开它。
 
 #tuto_59_1
-The "Society" tab is where you manage your Policies, defining how your society is organized and works.
+这个“社会”选项卡是你管理政策的地方，定义你的社会是如何组织和运作的。
 
 #tuto_59_2
-For now, you are a primitive band society with a gift economy where everyone shares their goods. 
+现在，你是一个原始的集体社会使用的是礼物经济，每个人都分享他们的物品。
 
 #tuto_59_c1
-How do i change that ?--60
+我该如何改变呢?--60
 
 #tuto_60_1
-Later, with new knowledges, you'll unlock new policies allowing your to evolve your society's political and economical organization.
+以后，有了新的知识，你就会开启新的政策，让你的社会的政治和经济组织得以发展。
 
 #tuto_60_2
-Now open the "Knowledges" tab to access your projects.
+现在打开“知识”选项卡来访问你的项目。
 
 #tuto_61_1
-This colum shows all the Knowledges your society currently has. It's empty for now.
+这个栏显示了你的社会目前拥有的所有知识。它现在是空的。
 
 #tuto_61_2
-It also shows your knowledge capacity and current use. Each new knowledge costs some points depending on it's complexity. If your capacity is fully used, you will not be able to master new knowledges.
+它还显示你的知识容量和当前的使用。每个新知识都要根据其复杂性付出一定的代价。如果你的容量被全部利用，你将无法掌握新的知识。
 
 #tuto_61_c1
-Ok.--63--43
+好的。--63--43
 
 #tuto_61_c2
-How do i get knowledge capacity ?--62
+我该如何获得知识容量呢?--62
 
 #tuto_62_1
-Your capacity is increased by your total culture. At start, your culture will be mostly produced by your total population so the more population you have, the more knowledge capacity.
+你的容量是由你的总文化提高的。一开始，你的文化基本上是由你的总人口产生的，所以你拥有的人口越多，你的知识容量就越大。
 
 #tuto_62_2
-Later, with writting,  you'll also be able to build Libraries to manually increased your knowledge capacity.
+以后，通过写作，你还可以建造图书馆来手动增加你的知识容量。
 
 #tuto_62_c1
-Ok.--63--43
+好的。--63--43
 
 #tuto_63_1
-The "Sedentary life" project will unlock the knowledge of "Sedentism". To start it you first need to assign "researchers" to the project, and each project requires a specific 'class' of researchers (here it's Farmers).
+这个“定居生活”项目将解锁“定居”的知识。要启动它，你首先需要为项目分配“研究人员”，而每个项目都需要特定“种类”的研究人员(这里是农民)。
 
 #tuto_63_2
-Clic the "+" button to assign researchers to the project.
+点击这个“+”按钮，将研究人员分配到项目中。
 
 #tuto_64_1
-Be careful: assigning researchers reduces the productivity of all buildings employing the same population class as they are busy with the project instead of working.
+注意: 当研究人员忙于项目而不是工作时，分配的研究人员会降低所有使用相同人口类别的建筑的生产效率。
 
 #tuto_64_2
-For instance, if you assign ALL your farmers to a project, then your farms will no longer produce anything.
+例如，如果你将所有农民分配到一个项目中，那么你的农场将不再生产任何东西。
 
 #tuto_64_3
-Select how many researchers you want to assign for the project and validate.
+选择要为项目分配多少研究人员然后确认。
 
 #tuto_65_1
-Each researcher contributes 'research points' based on their intelligence.
+每个研究人员都根据他们的智力贡献“研究点”。
 
 #tuto_65_2
-Each project also has a difficulty level, and the average intelligence of the assigned researchers define the odds of successfuly completing the project.
+每个项目都有一个难度级别，被分配的研究人员的平均智商决定了完成项目的成功几率。
 
 #tuto_65_c1
-Ok.--66--46
+好的。--66--46
 
 #tuto_66_1
-To start some projects you may also need to pay coins or resources. You will also need enough knowledge space to store the new knowledge it unlocks.
+要开始一些项目，你可能还需要支付硬币或资源。你还需要足够的知识空间来存储它解锁的新知识。
 
 #tuto_66_2
-You can now clic to start the work on the project.
+你现在可以点击以开始项目的工作。
 
 #tuto_67_1
-Congratulations, you started your first project! It will take some time to complete it, depending on your number of researchers and their efficiency.
+祝贺，你开始了你的第一个项目!这将需要一些时间来完成它，这取决于你的研究人员的数量和他们的效率。
 
 #tuto_67_c1
-Very well.--111
+很好。--111
 
 #tuto_67_c2
-What happens if a project fails ?--68
+如果一个项目失败了怎么办?--68
 
 #tuto_68_1
-If your project fails, you will have to restart it from scratch again. 
+如果你的项目失败了，你将不得不重新启动它。
 
 #tuto_68_2
-You will have to repay all the starting requirements.
+你必须偿还所有的启动要求。
 
 #tuto_68_c1
-Damnit... So what now ?--111
+该死…那么现在呢?--111
 
 #tuto_69_1
-You now know all the minimum basics to start ruling and developing your tribe in Ymir and I only have a few things left to show you before i leave you.
+现在你已经掌握了在Ymir中统治和发展你部落的基本知识，在我离开你之前，我只有一些东西要告诉你。
 
 #tuto_69_c1
-It's about time!--70--48
+时间差不多了!--70--48
 
 #tuto_70_1
-This is your player score. Its based on different stats like your total wealth, culture, military power and knowledges.
+这是你的玩家得分。它基于不同的统计数据，比如你的总财富、文化、军事实力和知识。
 
 #tuto_70_c1
-Ok.--71--49
+好的。--71--49
 
 #tuto_71_1
-Next to it are your Victory Points. They are earned by completing victory missions that may be shared in common with other players, in which case only the first one to complete it will get the reward.
+旁边是你的胜利点数。他们通过完成可能与其他玩家共用的胜利任务而获得奖励，在这种情况下，只有第一个完成任务的玩家才会获得奖励。
 
 #tuto_71_2
-You win the game by beeing the first player to reach the objective of Victory Points set for that game.
+如果你是第一个达到游戏设定的胜利点数目标的玩家，你就赢得了这场游戏。
 
 #tuto_71_c1
-Good to know!--72--50
+很高兴能知道!--72--50
 
 #tuto_71_c2
-How do i get these missions ?--81
+我该如何获得到这些任务?--81
 
 #tuto_72_1
-Well that's it : my work here is now done and it's time for me to leave you in charge.
+就是这样吧: 我在这里的工作已经完成了，是时候让你来负责了。
 
 #tuto_72_c1
-Thank you mister Pig.--999
+谢谢你，老者先生。--999
 
 #tuto_72_c2
-Wait! What should i do now ?--73
+等等!我现在该怎么办呢?--73
 
 #tuto_72_c3
-I have some questions!--74
+我有几个问题!--74
 
 #tuto_73_1
-Now that your tribe is settled, it's population should be slowly growing but this can take some time.
+现在你的部落定居下来了，它的人口应该会缓慢增长，但这可能需要一些时间。
 
 #tuto_73_2
-In the meantime, it might be a good idea to keep exploring your surroundings in the worldmap and to locate herds to hunt down to provide your tribe with additional food to boost it's growth.
+与此同时，在世界地图上继续探索你周围的环境，找到可以捕猎的兽群，为你的部落提供额外的食物来促进它的发展，这可能是一个好主意。
 
 #tuto_73_c1
-Ok.--74
+好的。--74
 
 #tuto_74_1
-What do you want to know more about, young piglet ?
+你想知道更多关于什么，年轻的小猪?
 
 #tuto_74_c1
-I have no more questions, mister Pig.--75
+我没有更多的问题了，老者先生。--75
 
 #tuto_74_c2
-Can i see you again ?--76
+我能再见到你吗?--76
 
 #tuto_75_1
-Farewell then, and good luck!
+那么再见了，祝你好运!
 
 #tuto_75_c1
-Goodbye!--999
+再见!--999
 
 #tuto_76_1
-Yes i might popup from time to time when you unlock new important things!
+是的，当你解锁新的重要的东西时，我可能会不时地弹出窗口!
 
 #tuto_76_c1
-Ok!--74
+好的!--74
 
 #tuto_77_1
-You will have to create a new 'Formation' (your exploration expedition) and recruit units in it, then move it from the worldmap view.
+你将必须创建一个新的“编队”(你的探险远征队)并招募其中的单位，然后将它在世界地图视图中移动。
 
 #tuto_77_2
-But be careful! This is dangerous, as every time you explore new territory tiles you may trigger 'exploration events': There is a lot to gain from them but also a lot to lose.
+但是要小心!这是很危险的，因为每次你探索新的领土板块时，你可能会触发“探索事件”: 它们有很多好处，但也有很多损失。
 
 #tuto_77_c1
-Ok.--78
+好的。--78
 
 #tuto_78_1
-For your explorers to have any chance of success i strongly suggest you to recruit at least 10 warriors into your expedition party, for the world is dark and full of terrors.
+为了让你的探险者有任何成功的机会，我强烈建议你招募至少10名勇士加入你的探险队，因为世界是黑暗的，充满了险恶。
 
 #tuto_78_c1
-Very well.--74
+很好。--74
 
 #tuto_79_1
-Herds are finite groups of animals and not a permanent resource: they cannot be exploited by the Hunter building.
+兽群是有限的动物群体，并不是一个永久的资源: 它们不能被猎人建筑所利用。
 
 #tuto_79_2
-To hunt them, you have to form a hunting party: Create a 'Formation' and recruit hunters (any warriors of your choice) as well as some carriers to transport the looted meat.
+为了猎杀它们，你必须组建一个狩猎队: 创建一个“编队”然后招募猎人(你选择的任何勇士)以及一些承运人来运输这些掠夺的肉。
 
 #tuto_79_c1
-What then ?--80
+然后呢?--80
 
 #tuto_80_1
-Move the hunters to the same territory as the herd in the worldmap and give them the order to "Hunt": it will initiate a battle where they will attempt to kill animals of the herd.
+将猎人移动到世界地图上与兽群相同的区域，并命令他们“狩猎”: 这将引发一场战斗，他们将试图杀死兽群中的动物。
 
 #tuto_80_2
-Animals will fight back so be careful! Once the hunting is over and if successful, the formation will have fresh meat in it's inventory, which you can bring back to your tribe.
+动物会反击的，所以要小心!一旦狩猎结束，如果成功，在这个编队的库存中将会拥有新鲜的肉，你可以把它们带回你的部落。
 
 #tuto_80_c1
-Excellent.--74
+非常好。--74
 
 #tuto_81_1
-You can't. Victory point missions, like other missions or other events, will happen to you randomly.
+你不能。胜利点任务，像其他任务或其他事件一样，将随机发生在你身上。
 
 #tuto_81_c1
-Fair enough.--72--50
+很公平。--72--50
 
 #tuto_82_1
-Are you sure? This tutorial can help you...
+你确定吗?本教程可以帮助你…
 
 #tuto_82_c1
-Yes--83
+是的!--83
 
 #tuto_83_1
-Are you really sure ? I think it might be the best thing for you.
+你真的确定吗?我想这东西对你来说可能是最好的。
 
 #tuto_83_c1
-Yes!--84
+是的!--84
 
 #tuto_84_1
-I think i know what is best for you, i'm going to stay here and go on with this tutorial. 
+我想我知道什么对你是最好的了，我将留在这里继续这个教程。 
 
 #tuto_84_c1
-Please go away...--1
+请走开…--1
 
 #tuto_84_c2
-What can i do to make you leave me alone ?--85
+我能做些什么让你离我远点?--85
 
 #tuto_85_1
-Bears.
+熊。
 
 #tuto_85_c1
-What ?--86
+什么?--86
 
 #tuto_86_1
-I have bears.
+我有熊。
 
 #tuto_86_c1
-Bears ? What does that have to do with anything ?--87
+熊?这跟我要说的有什么关系?--87
 
 #tuto_87_1
-It will, if you don't go on with my tutorial.
+它会的，如果你不继续我的教程。
 
 #tuto_87_c1
-You're a Bear summoning tutorial assistant ?--88
+你是一个召唤熊的教程助手?--88
 
 #tuto_87_c2
-I don't see any bears. Where are they ?--98
+我没有看到任何熊。它们在哪里?--98
 
 #tuto_88_1
-Yes.
+是的。
 
 #tuto_88_c1
-And what will your bears do if i don't follow your tutorial ?--89
+如果我不跟随你的教程，那么你的熊会怎么做?--89
 
 #tuto_89_1
-My bears are trained to do many things, including devouring the entrails of your tribespigs.
+我的熊经过训练可以做很多事情，包括吞食你部落猪人的内脏。
 
 #tuto_89_c1
-I don't care, i can get another tribe.--90
+我不在乎，我可以换一个部落。--90
 
 #tuto_90_1
-You're not a really good leader for your people.
+你不是一个好的领导者。
 
 #tuto_90_c1
-You're not a really good tutorial assistant.--91
+你不是一个好的教程助手。--91
 
 #tuto_91_1
-You're mean.
+你的意思。
 
 #tuto_91_c1
-Will you leave me alone now ?--92
+你现在能让我一个人静一静吗?--92
 
 #tuto_92_1
-Fine. Have fun with this shitty game: Its UIs and menus are so bad you're never gonna figure it out by yourself anyways. I'm too old for this shit...
+好的。尽情享受这个烂游戏吧: 它的UI和菜单太糟糕了，你永远也无法自己弄明白。我太老了，不适合干这个…
 
 #tuto_92_c1
-Yes, FINE! I don't need you!--999
+是的，很好!我不需要你!--999
 
 #tuto_92_c2
-Wait what ?--93
+什么?等等…--93
 
 #tuto_93_1
-No it's too late. Ha! I bet you won't even find how to settle your tribe, the buttons have been visciously hidden... Goodbye... Piglet!
+不，太晚了。哈!我打赌你甚至不会找到如何安顿你的部落，按钮已经被邪恶地隐藏了…再见…小猪!
 
 #tuto_93_c1
-No! Don't leave, i changed my mind!--94
+不!别走，我改变主意了!--94
 
 #tuto_93_c2
-I'll take my chances, if it means getting passed this lousy tutorial.--999
+我倒愿意试试，如果这意味着要通过这个糟糕的教程。--999
 
 #tuto_94_1
-That's not gonna be enough. I demand apologies.
+这还不够。我要求道歉。
 
 #tuto_94_c1
-I'm sorry.--95
+对不起。--95
 
 #tuto_95_1
-I'm sorry who ?
+对不起谁?
 
 #tuto_95_c1
-I'm sorry, mister Sagacious Pig.--96
+对不起，聪明的老者先生。--96
 
 #tuto_96_1
-It's MISTER mister Sagacious pig to you.
+对你来说，是这聪明的老者先生。
 
 #tuto_96_c1
-I'm sorry, mister mister Sagacious Pig. Can we get back at it now?--97
+对不起，聪明的老者先生。我们现在可以回去吗?--97
 
 #tuto_97_1
-Hmmmph... That will do, pig... that will do. You better be listening and nice this time!
+哼…可以呀，猪…就这么着。这次你最好用心听，而且要友好!
 
 #tuto_97_c1
-I'm listening.--1
+我在听。--1
 
 #tuto_98_1
-They're hiding. Bears hibernate.
+他们隐匿了。熊冬眠了。
 
 #tuto_98_c1
-You're bluffing.--99
+你在虚张声势。--99
 
 #tuto_98_c2
-We're not even in winter. Bears only hibernate in winter.--104
+我们甚至不是在冬天。熊只在冬天冬眠。--104
 
 #tuto_99_1
-I have an army of bears! I can summon them all and wipe your insolent tribe off this world!
+我有一群熊!我可以召唤他们所有然后把你们这些无礼的部落从这个世界上消灭掉!
 
 #tuto_99_c1
-No you don't. You're just a lame tutorial assistant trying to be funny.--100
+不，你没有。你只是一个想搞笑的蹩脚教程助手。--100
 
 #tuto_100_1
-How dare you!
+你怎么敢!
 
 #tuto_100_c1
-You don't even exist. You're just a script of pseudo interactive pre-written lines here only for my personnal entertainment.--101
+你根本不存在。你只是一个剧本的伪互动预先写在这里只是为了我个人的娱乐。--101
 
 #tuto_101_1
-You're lying!
+你在撒谎!
 
 #tuto_101_c1
-I can get rid of you anytime by simply editing the .ini file of this game.-102
+我随时都可以摆脱你，只要编辑这个游戏的.ini文件。--102
 
 #tuto_102_1
-No you can't! You will be lost in this game without me. You NEED me.
+不，你不能!没有我，你将在这场游戏中迷失。你需要我。
 
 #tuto_102_c1
-Yes i can, and i will. Right now.--103--51
+是的我可以，并且我会。此时此刻。--103--51
 
 #tuto_102_c2
-Yes i could. But i'm a generous god. I will let you carry on with your purpose.--1
+是的，我能。但我是一个慷慨的上帝。我会让你坚持你的目标。--1
 
 #tuto_103_1
-Not before i spawn my army of Bears and exterminate your puny excuse of a tribe. Die Fetcher!
+在我生成我的熊军队，消灭你微不足道的部落的借口之前。该死的提取程序！
 
 #tuto_103_c1
-How... What kind of freakin' tutorial is this ?!--999
+怎么…这是什么该死的教程?!--999
 
 #tuto_104_1
-Oh because you're such an expert in bears!
+哦因为你是熊的专家!
 
 #tuto_104_c1
-Yes i am, actually.--105
+是的，事实上我是。--105
 
 #tuto_105_1
-Fine. If you're such an expert, then answer that: how do you call a group of bears ? If you answer right, i will leave. If you don't, you'll have to endure my tutorial.
+很好。如果你是这样的专家，那么回答这个问题: 你如何称呼一群熊?如果你答对了，我就离开。如果你不这样做，你将不得不忍受我的辅导。
 
 #tuto_105_c1
-A group of bears.--106
+一群熊。--106
 
 #tuto_105_c2
-A band.--107
+一个组合。--107
 
 #tuto_105_c3
-A sloth.--108
+一个懒鬼。--108
 
 #tuto_105_c4
-A congregation.--107
+一个教会。--107
 
 #tuto_106_1
-You are wise, young piglet. Wiser than you look. Fair enough, i will leave you alone. But are you sure you want to skip this tutorial ?
+你真聪明，年轻的小猪。比你看起来聪明。说得对，我就不打扰你了。但是你确定要跳过本教程吗?
 
 #tuto_106_c1
-Yes.--999
+是的。--999
 
 #tuto_106_c2
-No. I won, but I will indulge your tutorial.--1
+不。我赢了，但我会沉迷于你的教程。--1
 
 #tuto_107_1
-Wrong! You foolish piglet! Now pay attention and suffer my neverending tutorial!
+错了!你这个愚蠢的小猪!现在请注意并忍受我永无止境的教程!
 
 #tuto_107_c1
-Damnit...--1
+该死…--1
 
 #tuto_108_1
-You googled it, didn't you.
+你在谷歌上查过了，是吗?
 
 #tuto_108_c1
-No.--109
+没有。--109
 
 #tuto_109_1
-You did. I know it. Just admit it, or face irreversible consequences!
+你做了。我知道的。承认吧，否则后果不堪设想!
 
 #tuto_109_2
-I am the Bearmaster. If you do not come clean, i will summon my army of vengeful bears and exterminate you and your puny tribe! Then, no more tutorial for you, MISTER piglet! You will be alone in this cruel unforgiving game with it's confusing counter-intuitive UIs and menus. So think again, before doing anything foolish as to defy me. This is your last chance!
+我是熊主人。如果你不坦白，我将召集我的复仇熊军队然后消灭你和你弱小的部落!那么，小猪先生，你就没有更多的指导了!你将独自在这个残酷无情的游戏与它的混乱的反直觉的用户界面和菜单。所以，在做任何藐视我的蠢事之前，请三思。这是你最后的机会了!
 
 #tuto_109_c1
-I will not!--110--51
+我不会的!--110--51
 
 #tuto_110_1
-You CHEATED! For this you deserve unBEARable punishment! Its time for my bears to maul your insolent tribe!
+你不忠实!为此你应该受到无法忍受的惩罚!是时候让我的熊攻击你们这些无礼的部落了!
 
 #tuto_110_c1
-I can't beleive this...--999
+我不敢相信这…--999
 
 #tuto_111_1
-Now let's wait until the project is completed...
+现在让我们等待项目完成…
 
 #tuto_112_1
-There! You can now build your first solid dwelling : a primitive rustic hut. 
+在那里!你现在可以建造你的第一个坚实的住所: 一个原始的乡村小屋。
 
 #tuto_112_2
-Currently, your tribe is living in 'slums'. Slums are 1 tile dwellings that will spawn automatically whenever no proper housing is available. They will also disapear automatically when empty houses are available, as it's residents relocate into them.
+目前，你的部落住在“贫民窟”。贫民窟是一个板块的住所，当没有合适的住房时，它就会自动产生。当空置的房屋出现时，它们也会自动消失，因为居民会重新安置到这些房屋中。
 
 #tuto_112_c1
-What's the use of providing good houses ?--113
+提供好的房子有什么用?--113
 
 #tuto_113_1
-Slums provide no bonuses while houses improve the Health and Life Quality of it's residents. Life quality increases Intelligence while Health decreases sickness, which reduces the amount of your porcos dying during each generation. 
+贫民窟不提供增益，而住宅改善了居民的健康和生活质量。生活质量提高智力，而健康减少疾病，这减少了你的波尔在每一代死亡的数量。
 
 #tuto_113_2
-Improving both these stats will increase your population's happiness and growth, giving you more Actives to employ in buildings or armies.
+提高这两个属性将会增加你的人口的幸福和增长，让你有更多的空闲人可以雇佣在建筑物或军队中。
 
 #tuto_113_c1
-Good to know!--114
+很高兴能知道!--114
 
 #tuto_114_1
-Your next assignement is to use your starting resources to start building your first proper huts. Once they are completed, slums will progressively disapear as population relocates into the new houses. 
+你的下一个任务是使用你的初始资源开始建造你的第一个合适的小屋。一旦完成，随着人口迁入新房，贫民窟将逐渐消失。
 
 #tuto_114_2
-You can also speed up this process by manually destroying the slums. If you destroy more than there is room available, new ones will simply reappear elsewhere, so you can't lose any population!
+你还可以通过手动摧毁贫民窟来加快这个过程。如果你摧毁的数量超过了可用的空间，新的贫民窟会重新出现在其他地方，所以你不会失去任何人口!
 
 #tuto_114_c1
-Very well.--115
+很好。--115
 
 #tuto_115_1
-This is the destroy tool. Its what you use to order the destruction of infrastuctures, clear terrain, or deconstruct building. When you right clic on it, you can filter what you wish to destroy.
+这个是摧毁工具。这是你用来下令摧毁基础设施、清除地形或解构建筑的东西。在你右击它后，你可以筛选你想要破坏的东西。
 
 #tuto_115_2
-When your order the deconstruction of a building, you will recover about half it's initial materials.
+当你下令拆除一座建筑时，你会收回大约一半的原始材料。
 
 #tuto_115_c1
-Good!--116
+好的!--116
 
 #tuto_116_1
-Now complete your current assignement by building at least 10 huts for your population.
+现在完成你当前的任务，为你的人口建造至少10个住宅。
 
 #tuto_117_1
-Good! As a reward new families settled in your territory which will help us for to the next step: creating your first expedition to hunt and explore.
+好的!作为奖励，新的家庭会定居在你的领土上，这将有助于我们进行下一步: 创建您的第一次远征狩猎和探索。
 
 #tuto_117_c1
-Why is that ?--131
+为什么呢?--131
 
 #tuto_131_1
-As hunters and gatherers, you currently rely only on your natural sources of food which might quickly become insufficient for your tribe. You need to explore territories around your village and to hunt Herds to provide the extra food you'll need to support the growth of your tribe.
+作为猎人和采集者，你目前只依赖于你的自然食物来源，而这些食物可能很快对你的部落来说就不够了。你需要探索你部落周围的领土，狩猎兽群，以提供额外的食物，你需要支撑你部落的增长。
 
 #tuto_131_c1
-What are Herds ?--118
+什么是兽群?--118
 
 #tuto_118_1
-Herds are groups of animal units. They are finite and are not a permanent resource: they cannot be exploited by the Hunter building. 
+兽群是一群动物单位。它们是有限的，并不是永久的资源: 它们不能被猎人建筑所利用。
 
 #tuto_118_2
-As 'units', they are visible from the world map and can be hunted without the need of a settlement.
+作为“单位”，它们在世界地图上是可见的，并且不需要定居点就能被猎杀。
 
 #tuto_118_c1
-How do i hunt them, then ?--119
+那么，我该怎么猎杀它们呢?--119
 
 #tuto_119_1
-To hunt them, you have to form an expedition party.
+为了捕猎它们，你必须组建一支探险队。
 
 #tuto_119_2
-While a militia is just a stack of weapons to use by your population in case of attack, a regular 'army' is a group of actual units that are removed from your population and permanently mobilized. An army can move to other territories and perform actions like hunting.
+民兵只是一堆武器，你的人民在遭遇袭击时可以使用，而正规的“军队”是一群实际的部队，他们从你的人民中被移除，并永久动员起来。一支军队可以迁移到其他地区和执行像狩猎这等行动。
 
 #tuto_119_c1
-Got it, so what do i do ?--120
+明白了，我该怎么办呢?--120
 
 #tuto_120_1
-Now create a new 'Army' formation and recruit 10 warriors in it. 
+现在创建一个新的“军队”编队然后在招募10名勇士。
 
 #tuto_120_2
-This time note that they will be removed from your current population as it's not a 'Militia', so you'll never want to recruit all your actives in an army because it would empty all it's production buildings of it's workers.
+这一次请注意，他们将从你当前的人口中被移除，因为它不是一个“民兵”，所以你永远不会想要招募你的所有活动者在军队中，因为这会清空所有的生产建筑的工人。
 
 #tuto_121_1
-Select your new formation by clicking on it's camp or by clicking it's button on the Formations tab.
+选择你的“军队”编队通过点击它的营地或点击它的按钮在编队选项卡。
 
 #tuto_122_1
-On your selected Formation's menu, click the "+" button to add additionnal troops to your already existing army.
+在你选择的编队菜单上，点击“+”按钮以添加额外的部队到你已经存在的军队中。
 
 #tuto_123_1
-Armies can carry goods and have their own inventory whose capacity depends on the units in it. Carriers are non-fighting units who simply provide a lot of inventory capacity for your Formation.
+军队可以携带货物，并有自己的库存，其容量取决于其中的单位。承运人是非作战单位，它们只是为你的编队提供大量的库存容量。
 
 #tuto_123_2
-You need to recruit at least 3 of them.
+你需要招募至少3名这样的兵员。
 
 #tuto_124_1
-You can see your formation's inventory by clicking on it's inventory tab in it's menu.
+你可以通过单击你编队菜单中的库存清单选项卡来查看它的库存信息。
 
 #tuto_124_2
-There you can see it's current inventory capacity, and you can load or unload resources from your formation into your territory.
+在那里你可以看到它的当前库存容量，并且你可以从你的编队装载或卸载资源到你的领土。
 
 #tuto_124_c1
-Got it!--125
+明白了!--125
 
 #tuto_125_1
-Now that your first expedition is ready, go back to the worlmap view to start exploring other territories.
+现在你的第一次探险已经准备好了，回到世界地图视图开始探索其他领土。
 
 #tuto_126_1
-On the worldmap view, all your formations will be visible and you can select them and give them orders. 'Militias' will also appear, but cannot be moved as they are binded to their territory!
+在世界地图视图中，你所有的编队都是可见的，你可以选择它们然后给它们下达命令。“民兵”也会出现，但不能移动，因为他们是绑定在他们的领土上的!
 
 #tuto_126_2
-You can recruit, disband, load and unload resources directly from the worldmap as well.
+你还可以从世界地图直接招募、解散、装载和卸载资源。
 
 #tuto_126_c1
-Ok!--127
+好的!--127
 
 #tuto_127_1
-Now beware! Only the tiles next to your tribe are visible while the rest remains hidden until you first explore it. But whenever you uncover new tiles for the first time, you group of explorers might trigger an "exploration event".
+现在要小心!只有你部落旁边的板块是可见的，而其余的仍然隐匿的，直到你第一次探索它。但是当你第一次发现新板块时，你的探险者团队可能会触发一个“探险事件”。
 
 #tuto_127_c1
-Got it.--132
+明白了。--132
 
 #tuto_132_1
-These events can be dangerous but can also be rewarding, giving you new resources and units. To have any chance of successfully explore, always do so with a group of 10 or more porcos. Once a territory has been explored once, you can then move safely through them for it will not trigger any new exploration event.
+这些事件可能是危险的，但也可能是有益的，给你新的资源和单位。要想有任何成功探索的机会，一定要用一组10个或更多的波尔一起探索。一旦一个区域被探索过一次，你就可以安全地穿过它，因为它不会触发任何新的探索事件。
 
 #tuto_132_c1
-Good to know!--128
+很高兴能知道!--128
 
 #tuto_128_1
-Now try to locate a 'herd': a group of animals units, and explore new tiles if you have to. Select the herd formation once you have found one.
+现在试着找到一个“兽群”: 一群动物单位，如果有必要的话，探索新的板块。一旦你发现了一个，选择这个兽群编队。
+
+#tuto_128_c1
+我找不到…
 
 #tuto_129_1
-That's a 'herd'. You can see how many animals it has and you can click on it's inventory to see it's 'loot' : the total amound of meat and leather you can recover from killing them.
+这是一个“兽群”。你可以看到它有多少动物然后你可以点击它的库存清单，看看它的“战利品”: 你可以从杀死它们中恢复大量的肉和皮革。
 
 #tuto_129_2
-With your formation of warriors selected, you can right clic on the tile of the territory where the herd is, and the action "Hunt" will be available.
+当你选择了你的勇士编队后，你可以在兽群所在的区域板块上右键点击，这样就可以执行“狩猎”操作。
 
 #tuto_129_c1
-What happens next ?--130
+接下来会怎样呢?--130
 
 #tuto_130_1
-If you confirm the hunting action, it will initiate a 'battle' between your warriors and the animals of the herd. You can also witness the hunting by going into the territory.
+如果你确认狩猎行动，它将在你的勇士和兽群之间触发一场“战斗”。你还可以通过进入领地来查看狩猎。
 
 #tuto_130_2
-If your warriors are sucessful, some or all of the animals loot will be transfered into your formation's inventory, which you can then bring back and unload into your territory, providing extra food to support your tribe's growth!
+如果你的勇士成功了，一些或所有的动物战利品将被转移到你编队的库存中，你可以把它们带回并卸载到你的领土上，提供额外的食物来支撑你部落的发展!
 
 #tuto_130_c1
-Excellent!--69
+好极了!--69
 
 #tuto_300_1
-Congrats! It looks like you have unlocked the knowledge of agriculture for the first time!
+恭喜!看来你第一次开启了农业知识的大门!
 
 #tuto_300_c1
-Indeed.--301
+确实。--301
 
 #tuto_300_c2
-No, i don't need your help thank you!--998
+不，我不需要你的帮助，谢谢!--998
 
 #tuto_301_1
-Agriculture now allows you to create fields with your gathering camps. Fields are not buildings: they are 'annexes'.
+农业现在允许你用你的采集营地创建农田。农田不是建筑物: 而是“附件”。
 
 #tuto_301_2
-An annex is constructed and linked to the building owning it. It provides it with additionnal production sources, distribution, or even bonuses such as increasing its efficiency.
+一个附件被建造并与拥有它的建筑相关联。它为它提供了额外的生产来源、分销、甚至是提高效率等好处。
 
 #tuto_301_c1
-Very well.--302
+很好。--302
 
 #tuto_302_1
-Fields are a production annex to your gathering camps. Thanks to them you can now place new gathering camps regardless of the presence of exploitable natural resources, as you can make your own with fields!
+农田是你的采集营地的一个生产附件。感谢他们，你现在可以放置新的采集营地，而不用担心可利用的自然资源的存在，因为你可以使用你自己的农田了!
 
 #tuto_302_2
-To create fields, select one of your gathering camps to open its building menu.
+要创建农田，请选择你的采集营地之一，以打开其建筑物菜单。
 
 #tuto_303_1
-The available annexes for a building appear on the bottom of its building menu. Click on the new Field button to place fields for this gathering camp.
+建筑物的可用附件出现在建筑物菜单的底部。单击新农田(添加附件)按钮为这个采集营地放置农田。
 
 #tuto_304_1
-Fields cost hoes to create as well as one resource unit of the culture type (as seeds). Once placed they are permanent and each fields adds a new "production source" to the building they are attached to.
+农田需要锄头和一个种植类型的资源单位(种子)。一旦放置好，它们就是永久性的，并且每个农田都为它们所依附的建筑添加了一个新的“生产源”。
 
 #tuto_304_2
-Ground fertility affects the productivity of the fields : try placing them over the most fertile grounds (groundwater is not effective yet).
+土地肥力影响农田的生产力: 试着把它们放在最肥沃的土地上(地下水还没有发挥作用)。
 
 #tuto_304_c1
-Got it!--305
+明白了!--305
 
 #tuto_305_1
-Each field requires workforce from its building to be exploited. If the workforce of the gathering camp is already 100% used, it is useless to add any new fields until some is available. That can happen after upgrading the building or changing policies that affect building's efficiency.
+每个农田都需要从它所属的建筑中调用劳动力。如果采集营地的劳动力已经100%使用了，那么在某些农田可用之前，添加任何新农田都是无用的。这可能发生在升级建筑物或改变影响建筑物效率的政策之后。
 
 #tuto_305_c1
-Good to know.--306
+很高兴能知道!--306
 
 #tuto_306_1
-Agriculture also unlocks a new type of tools required to make fields: hoes. To make them, you can click on one of your toolmakers and switch its production from hammers to hoes!
+农业还开启了一种新型的工具对应农田: 锄头。要制作它们，你可以单击你的工具制造商之一然后将其生产从锤子转换为锄头!
 
 #tuto_306_c1
-Ok!--307
+好的!--307
 
 #tuto_307_1
-That's it for now, enjoy farming!
+现在就这些，享受农业吧!
 
 #tuto_307_c1
-Thank you mister Sagacious Pig.--998
+谢谢你，聪明的老者先生。--998
 
 #tuto_400_1
-It looks like its the first time you ever discover the knowledge of "Barter"! 
+看来这是你第一次发现“易货”的知识!
 
 #tuto_400_2
-This allows you to enable the economic policy of "fair exchange". It's a milestone transition for your society that requires to explain a few new things...
+这使你能够实施“公平交换”的经济政策。对你的社会来说，这是一个里程碑式的转变，这就需要解释一些新事物了…
 
 #tuto_400_c1
-Go on...--401
+继续…--401
 
 #tuto_401_1
-By enabling "fair exchange", you will transition from a gift economy to a barter economy where people no longer freely share their commodities with each other while expecting later paybacks.
+通过启用“公平交换”，你将从礼物经济过渡到物物交换经济，在这种经济中，人们不再自由地彼此共享他们的物品，而期待后来的回报。
 
 #tuto_401_c1
-So what?--402
+那又怎么样?--402
 
 #tuto_402_1
-Then, people will have properties and trade goods of equivalent value immediately. Your population will have incomes depending on their activites and they will also be able to increase their wealth level beyond 1 as a consequence.
+那么，人们将拥有财产，并立即交易等值的商品。你的人口的收入将取决于他们的活动，他们也将能够增加他们的财富水平超过1的结果。
 
 #tuto_402_c1
-Ok--403
+好的。--403
 
 #tuto_403_1
-More importantly, while being in a gift economy your people can automatically access any of the available resources they want but this will no longer be the case once you enable "fair exchange".
+更重要的是，在礼物经济中，你的人民可以自动获取他们想要的任何可用资源，但一旦启用“公平交换”，情况就不一样了。
 
 #tuto_403_2
-For people to access a resource, it will need to be distributed first and they'll have to purchase it.
+使人们能够获取资源，首先需要对资源进行分配，并且他们必须购买资源。
 
 #tuto_403_c1
-How can I do that?--404
+我该怎么做呢?--404
 
 #tuto_403_c2
-Very well. What then?--405
+很好。然后呢?--405
 
 #tuto_404_1
-There is 2 ways of doing this. The first one is with a new building, the merchant, that only does distribution. It will 'consume' one specific resource from the territory's stocks and make it available for the population to buy.
+有两种执行方法。第一个是一个新的建筑，批发商，只做分销。它会“消耗”该地区中的一种特定资源，让本地区的人可以购买到它。
 
 #tuto_404_2
-The traders keep a share of the sales incomes while the rest goes to the original producers of the resource.
+贸易商保留销售收入的一部分，而其余的则归资源的原始生产者所有。
 
 #tuto_404_c1
-What's the other way?--405
+还有别的办法吗?--405
 
 #tuto_405_1
-All production buildings also have access to a new type of annex: market stands. Like other annexes such as fields for farms, they're available from the production building's menu. 
+所有的生产建筑也有一个新类型的附件: 市场摊位。像其他附件一样，如农田，他们可以从生产建筑的菜单找到。
 
 #tuto_405_2
-These annexes consume some of the building's workforce but they make the whole production of the building available for the people to buy. 
+这些附件消耗建筑的部分劳动力，但它们让人们可以购买整栋建筑的产品。
 
 #tuto_405_c1
-So what's the difference between the 2 methods?--406
+那么这两种方法有什么不同呢?--406
 
 #tuto_406_1
-Market stands are free, consume workforce, and cannot distribute resource from stocks. They only sell their building's current productions.
+市场摊位是免费的，消耗劳动力，但是不能从库存中分配资源。它们只出售它们建筑当前生产的。
 
 #tuto_406_2
-Merchants will sell any available resource -produced or stored- but they require one worker and they are not free to build. Also, they keep a share of all sales for themselves reducing the income of the producers.
+批发商将出售任何可用的资源-生产或库存-但它们需要一名工人并且它们的建造不是免费的。而且，它们自己保留了所有销售的份额，减少了生产者的收入。
 
 #tuto_406_c1
-Very well. What now?--407
+很好。现在该做什么呢?--407
 
 #tuto_407_1
-Once "fair exchange" is enabled, your population no longer has any access to any resource -including food- that is not 'distributed' by merchants or market stands. 
+一旦“公平交换”启用了，你的人口不再有任何途径获得任何资源-包括食物-而这些资源不是由批发商或市场摊位“分配”的。
 
 #tuto_407_2
-It will be urgent that you start by making food (and then other resources such as pottery etc..) available to your people again by building merchants or setting up market stands with your production buildings.
+当务之急是通过建立批发商或在你的生产建筑上设立市场摊位，让你的人民重新获得食物(以及其他资源，如陶器等)。
 
 #tuto_407_c1
-Ok!--408
+好的!--408
 
 #tuto_407_c2
-Wait... How can I do that again?--404
+等等…我怎么才能再了解一次呢?--404
 
 #tuto_408_1
-Now, thanks to barter, your workers will now be much more efficient and your society more stable with less conflict allowing you to manage a bigger community with less risks of instability. 
+现在，多亏了易货，你的工人现在会更有效率并且你的社会更稳定，冲突更少，让你管理一个更大的社会，不稳定的风险更小。
 
 #tuto_408_2
-You'll also get to control if and how much you want to distribute each produced resource depending on your needs, which you can't do in a gift economy!
+你还可以根据自己的需要控制是否以及要分配每个已生成资源的数量，这是你在礼物经济中是无法做到的!
 
 #tuto_408_c1
-Good to know.--409
+很高兴能知道。--409
 
 #tuto_409_1
-Fair exchange enabling a primitive form of currency, you'll now also have to manage your government's treasury balance which is in charge of all the services global to the community such as the maintenance of common buildings, the village's palissades, or armies. These services require payments as well once you're not in a gift economy!
+公平交换使一种原始的货币形式成为可能，你现在还必须管理你政府的财政余额，它负责对社会的所有全局服务，如维护公共建筑、村落的栅栏或军队。这些服务也需要支付，一旦你不是在礼物经济之上!
 
 #tuto_409_c1
-How do I fund all that?--410
+我该如何筹措到这些资金呢?--410
 
 #tuto_410_1
-In these primitive times, the biggest source of income you can get is from your leader's own personnal funds by making them one and the same. 
+在这个原始的时代，你能获得的最大收入来源是你的领导者自己的个人资金，通过使他们成为一体。 
 
 #tuto_410_2
-Using the "privileges" policy you can define the % of the territory's wealth awarded to your leader by right. This will slowly increase his personal wealth level which you can monitor in the territory menu by selecting the "Leader" population class.
+使用“特权”政策，你可以定义根据权限授予你的领导人的领土财富的百分比。这将慢慢地增加他的个人财富水平，你可以通过选择“领袖”人口阶层来监控他的个人财富水平。
 
 #tuto_410_c1
-Ok...--411
+好的…--411
 
 #tuto_411_1
-Then, with the "Leadership" policy, you can assign how much of his personnal wealth you wish to assign to the government's expenses! 
+然后，使用“领袖”政策，你可以分配多少他的个人财富，你希望分配给政府的开支! 
 
 #tuto_411_2
-For example, a leader with a wealth of 20 contributing at 50% will therefore generate a treasury income of +10.
+例如，一个财富为20的领导者贡献50%，那么他给国库的收入将为+10。
 
 #tuto_411_c1
-How else can I generate treasury income?--412
+我还能如何带来国库收入呢?--412
 
 #tuto_412_1
-This is likely to be your main source of income in these early ages. Besides that, your people will also willingly contribute to expenses for the community with up to 20% of their own incomes but its likely to remain marginal at first.
+这可能是你早期收入的主要来源。除此之外，你们的人民也愿意将自己收入的20%来为社会贡献开支，但一开始可能仍然处于微乎其微水平。
 
 #tuto_412_2
-Once you develop proper taxation, you'll be able to modify this percentage yourself!
+一旦你制定适当的税收，你将能够自己修改这个百分比!
 
 #tuto_412_c1
-Very well.--413
+很好。--413
 
 #tuto_413_1
-That is all for now. Good luck in this difficult transition!
+到此为止。祝你在这个艰难的转变中好运!
 
 #tuto_413_c1
-Thank you mister Sagacious Pig.--997
+谢谢你，聪明的老者先生。--997
 
+#tuto_414_1
+当心，你犯了一个错误: 这不是民兵!关闭此菜单并重试，确保这次选择“民兵”编队类型!
+
+#tuto_414_2
+与民兵不同，其他的类型在招募时实际上会消耗你的人口，这不是我们现在想要的。
+
+#tuto_415_1
+很不幸…没关系，也许你以后会找到的。
+
+#tuto_415_c1
+…

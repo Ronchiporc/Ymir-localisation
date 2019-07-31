@@ -1,473 +1,473 @@
 #r_all
-All resources
+全部资源
 
 #rcat_prod
-Products
+产品
 
 #rcat_food
-Foods
+食物
 
 #rcat_weapon
-Weapons
+武器
 
 #rcat_animal
-Animals
+动物
 
 #rcat_slave
-Slaves
+奴隶
 
 #rcat_service
-Services
+服务
 
 #rcat_drink
-Drinks
+饮品
 
 #rprdg_cltv
-cultivated
+耕种
 
 #rprdg_animal
-animals
+动物
 
 #rprdg_weapon
-weapons
+武器
 
 #rprdg_mine
-mined
+开采
 
 #rprdg_quarry
-quarry
+采石场
 
 #rprdg_smelt
-metals
+金属
 
 #rprdg_tool
-tools
+工具
 
 #r_hammers
-Hammers
+锤子
 
 #r_axes
-Axes
+斧子
 
 #r_shovels
-Shovels
+铲子
 
 #r_saws
-Saws
+锯子
 
 #r_pickaxes
-Pickaxes
+镐子
 
 #r_hoes
-Hoes
+锄
 
 #r_ploughs
-Ploughs
+犁
 
 #r_wood
-Wood
+木材
 
 #r_planks
-Planks
+木板
 
 #r_mud
-Mud
+泥土
 
 #r_mudbricks
-Mudbricks
+泥砖
 
 #r_bricks
-Bricks
+砖块
 
 #r_ashes
-Ashes
+灰烬
 
 #r_plaster
-Plaster
+灰泥
 
 #r_cement
-Cement
+水泥
 
 #r_charcoal
-Charcoal
+木炭
 
 #r_flints
-Flints
+燧石
 
 #r_stone
-Stone
+石头
 
 #r_stoneblocs
-Stoneblocs
+石块
 
 #r_slate
-Slate
+板岩
 
 #r_limestone
-Limestone
+石灰石
 
 #r_granit
-Granit
+花岗岩
 
 #r_sandstone
-Sandstone
+砂岩
 
 #r_marble
-Marble
+大理石
 
 #r_orecopper
-Copper ore
+铜矿石
 
 #r_oretin
-Tin ore
+锡矿石
 
 #r_oreiron
-Iron ore
+铁矿石
 
 #r_oresilver
-Silver ore
+银矿石
 
 #r_oregold
-Gold ore
+金矿石
 
 #r_coal
-Coal
+煤
 
 #r_coke
-Coke
+焦炭
 
 #r_copper
-Copper
+铜
 
 #r_tin
-Tin
+锡
 
 #r_bronze
-Bronze
+青铜
 
 #r_iron
-Iron
+铁
 
 #r_steel
-Steel
+钢
 
 #r_silver
-Silver
+银
 
 #r_gold
-Gold
+黄金
 
 #r_leather
-Leather
+皮革
 
 #r_cotton
-Cotton
+棉花
 
 #r_flax
-Flax
+亚麻
 
 #r_wool
-Wool
+羊毛
 
 #r_textile
-Textile
+纺织物
 
 #r_cloth
-Cloth
+布
 
 #r_leathercloth
-Leathercloth
+皮衣
 
 #r_rabbits
-Rabbits
+兔
 
 #r_deer
-Deer
+鹿
 
 #r_dogs
-Dogs
+狗
 
 #r_cows
-Cows
+牛
 
 #r_buffalos
-Buffalos
+水牛
 
 #r_ostriches
-Ostriches
+鸵鸟
 
 #r_horses
-Horses
+马
 
 #r_camels
-Camels
+骆驼
 
 #r_elephants
-Elephants
+大象
 
 #r_mammoths
-Mammoths
+猛犸象
 
 #r_sheeps
-Sheeps
+绵羊
 
 #r_chickens
-Chickens
+鸡
 
 #r_caipibaras
-Caipibaras
+水豚
 
 #r_llamas
-Llamas
+美洲驼
 
 #r_fish
-Fish
+鱼
 
 #r_meat
-Meat
+肉
 
 #r_wheat
-Wheat
+小麦
 
 #r_corn
-Corn
+玉米
 
 #r_flour
-Flour
+面粉
 
 #r_bread
-Bread
+面包
 
 #r_potatoes
-Potatoes
+马铃薯
 
 #r_carrots
-Carrots
+胡萝卜
 
 #r_tomatoes
-Tomatoes
+番茄
 
 #r_lettuce
-Lettuce
+生菜
 
 #r_bananas
-Bananas
+香蕉
 
 #r_apples
-Apples
+苹果
 
 #r_beans
-Beans
+黄豆
 
 #r_figs
-Figs
+无花果
 
 #r_rice
-Rice
+稻
 
 #r_chickpeas
-Chickpeas
+鹰嘴豆
 
 #r_oil
-Olive oil
+橄榄油
 
 #r_truffles
-Truffles
+松露
 
 #r_javelins
-Javelins
+标枪
 
 #r_bows
-Bows
+弓
 
 #r_longbows
-Longbows
+长弓
 
 #r_crossbows
-Crossbows
+弩
 
 #r_arquebuses
-Arquebuses
+火绳枪
 
 #r_muskets
-Muskets
+燧发枪
 
 #r_spears
-Spears
+矛
 
 #r_shortswords
-Shortswords
+短剑
 
 #r_longswords
-Longswords
+长剑
 
 #r_battleaxes
-Battleaxes
+战斧
 
 #r_warhammers
-Wrhammers
+战锤
 
 #r_halberds
-Halberds
+戟
 
 #r_shield_wood
-Wooden shields
+木盾
 
 #r_shield_bronze
-Metal shields
+金属盾
 
 #r_shield_heavy
-Heavy shields
+重型盾
 
 #r_shield_steel
-Steel shields
+钢盾
 
 #r_helmetlight
-Light helmets
+轻型头盔
 
 #r_helmetheavy
-Heavy helmets
+重型头盔
 
 #r_heaumes
-Heaumes
+骑士头盔
 
 #r_armorpadded
-Padded armors
+绵甲
 
 #r_armorbrigand
-Brigandines
+锁子甲
 
 #r_cuirass
-Cuirasses
+胸甲
 
 #r_armorscale
-Scale armors
+鳞甲
 
 #r_amorlaminar
-Laminar armors
+板条甲
 
 #r_amorchain
-Chainmails
+链甲
 
 #r_amorplate
-Plate armors
+板甲
 
 #r_pottery
-Pottery
+陶器
 
 #r_furniture
-Furniture
+家具
 
 #r_rugs
-Rugs
+地毯
 
 #r_barley
-Barley
+大麦
 
 #r_beer
-Beer
+啤酒
 
 #r_grapes
-Grapes
+葡萄
 
 #r_wine
-Wine
+葡萄酒
 
 #r_apples
-Apples
+苹果
 
 #r_cider
-Cider
+苹果酒
 
 #r_sugarcane
-Sugarcane
+甘蔗
 
 #r_rum
-Rum
+朗姆酒
 
 #r_goats
-Goats
+山羊
 
 #r_papyrus
-Papyrus
+纸莎草
 
 #r_paper
-Paper
+纸
 
 #r_olives
-Olives
+橄榄
 
 #r_building
-Building
+建筑物
 
 #r_plans
-Plans
+计划
 
 #r_taxcollect
-Tax collection
+税务
 
 #r_cmnty
-Community
+社交
 
 #r_tavern
-Tavern
+酒馆
 
 #r_theater
-Theater
+戏院
 
 #r_doctor
-Doctor
+医疗
 
 #r_justice
-Justice
+司法
 
 #r_cargo
-Cargo
+货运力
 
 #r_clay
-Clay
+粘土
 
 #r_water
-Water
+水
 
 #r_trading
-Trading
+贸易
 
 #r_school
-School
+教育
 
 #r_wash
-Laundry
+洗衣房
 
 #r_baths
-Baths
+浴场
 
 #r_scribe
-Scribe
+抄写员
 
 #r_academ
-Academia
+研究院
 
 #r_guard
-Guarding
+警卫
 
 #r_bear
-Bears
+熊
 
 #r_wolf
-Wolves
+狼
 
 #r_obsidian
-Obsidian
+黑曜石
 
 #r_topilli
-Topillis
+黑曜石长矛
 
 #r_macana
-Macanas
+黑曜石大刀
 
 #r_library
-Library
+图书馆
 
 #r_dates
-Dates
+枣

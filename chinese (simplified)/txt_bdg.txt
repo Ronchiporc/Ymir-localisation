@@ -1,779 +1,785 @@
 #bdg_hous_n
-housing
+住房
 
 #bdg_hous_dscr
-Accomodates population, improving their health and life quality.
+容纳人口，提高他们的健康和生活质量。
 
 #bdg_prod_n
-production building
+生产建筑
 
 #bdg_prod_dscr
-Exploits terrain tiles to produce raw resources.
+利用地形板块生产原料资源。
 
 #bdg_ind_n
-industrial building
+工业建筑
 
 #bdg_ind_dscr
-Produces goods out of existing resources.
+利用现有资源生产货物。
 
 #bdg_srv_n
-service
+服务
 
 #bdg_srv_dscr
-Produces a service (a non-material resources that cannot be stored).
+生成服务(一种无法存储的非物质资源)。
 
 #bdg_stor_n
-storage
+储存
 
 #bdg_stor_dscr
-Stocks resources.
+贮存资源。
 
 #bdg_merch_n
-distribution
+供应
 
 #bdg_merch_dscr
-Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sales incomes for themselves, reducing the producer's.
+分销商从任何生产建筑物或仓库获得资源，并提供给居民使用。他们可以分配大量的资源，但商家却为自己保留了一部分销售收入，从而减少了生产者的收入。
 
 #bdg_roads_n
-roads
+道路
 
 #bdg_roads_dscr
-Improves unit movement on this tile and provides bonuses to connected buildings.
+改善单位移动在这个地形板块和提供奖励给连接的建筑物。
 
 #bdg_walls_n
-walls
+墙体
 
 #bdg_walls_dscr
-Defensive structure that prevents all units from passing.
+防止所有单位通过的防御结构。
 
 #bdg_deco_n
-decorative
+装饰
 
 #bdg_deco_dscr
-Purely cosmetic elements to improve the look of your city.
+纯粹的修饰元素，以改善您的城市外观。
 
 #bdg_towers_n
-defensive towers
+防御塔
 
 #bdg_towers_dscr
-Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
+防御塔使用独立于驻军和阵型的士兵。它们只能建在平台上。他们在战斗中提供火力支援。
 
 #bdg_battlem_n
-battlements
+城垛
 
 #bdg_battlem_dscr
-Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during batlles.
+城垛只能建在平台上。它们为在战斗中站在平台上的单位提供一个战斗加成。
 
 #bdg_annex_n
-annex
+附属建筑
 
 #bdg_annex_dscr
-Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
+附件是属于另一建筑物的建筑物，为其提供额外的生产来源或分配能力。
 
 #bdg_pltf_n
-platforms
+平台
 
 #bdg_pltf_dscr
-Platforms are a pigmade tile elevation you can build over. Defensive structures like towers and battlements can only be built over platforms. They are costly and slow to build.
+平台是一个猪人制造的高地板块，你可以在上面建造。像塔和城垛这样的防御建筑只能建在平台上。它们造价昂贵并建造速度缓慢。
 
 #bdg_stairs_n
-stairs
+楼梯
 
 #bdg_stairs_dscr
-Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
+允许猪人到达不同高度的板块。紧靠平台或悬崖放置以便通行。按空格键来改变方向。
 
 #bdg_gates_n
-gate
+门
 
 #bdg_gates_dscr
-Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
+门在战斗的期间阻挡敌军。需要在“桥”模式下靠近平台放置。
 
 #bdg_all
-All buildings
+全部建筑
 
 #txt_cider_n
-Cider mill
+苹果酒磨坊
 
 #txt_cider_dscr
-Produce cider from apples. Cider is a distributable resource than satisfies the population needs for alcohols.
+用苹果酿造苹果酒。苹果酒是一种可分配的资源，不能满足人们对酒精的需求。
 
 #txt_brewery_n
-Brewery
+啤酒厂
 
 #txt_brewery_dscr
-Produce beer from barley. Beer is a distributable resource than satisfies the population needs for alcohols.
+用大麦酿造啤酒。啤酒是一种可分配的资源，不能满足人们对酒精的需求。
 
 #txt_claycamp_n
-Clay exploitation
+粘土开采
 
 #txt_claycamp_dscr
-Can exploit clay terrain tiles to produce clay. Needs to be placed in range of clay deposits.
+可以利用粘土地形板块生产粘土。需要放置在粘土沉积的范围内。
 
 #txt_claypit_n
-Clay pit
+粘土坑
 
 #txt_claypit_dscr
-Place directly over clay tiles. Increases clay production of these tiles.
+直接放在粘土板块上。增加这些瓷砖的粘土产量。
 
 #txt_clothmk_n
-Clothmaker
+织布间
 
 #txt_clothmk_dscr
-Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
+使用纺织品生产衣服。布是一种可分配的资源可以满足人们对服装的需求。
 
 #txt_gather_n
-Gathering camp
+采集营地
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+可以开发野生农业资源。需要放置在资源范围内。 
 
 #txt_farm_n
-Farm
+农场
 
 #txt_farm_dscr
-Can create fields to produce a variety of agricultural resources. Can also exploit naturally present ones in range.
+可以开辟农田生产各种农业资源。也可以利用范围内自然存在的。
 
 #txt_fisher_n
-Fisherpig
+渔场
 
 #txt_fisher_dscr
-Can exploit wild fishes to produce fresh fish. Needs to be placed on the shore in range of a wild fishes spot.
+可以利用野生鱼类生产鲜鱼。需要放置在海岸的野生鱼类点的范围内。
 
 #txt_grnry_n
-Granary
+粮仓
 
 #txt_grnry_dscr
-Can store food resources.
+可以储存食物资源。
 
 #txt_hslum_n
-Slum
+贫民窟
 
 #txt_hslum_dscr
-Slums that cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life quality and no health. 
+贫民窟不需要任何费用，当波尔科找不到任何可用的住所时，贫民窟就会自动产生。他们提供低生活质量并没有健康保障。
 
 #txt_hrustc_n
-House
+住宅
 
 #txt_hrustc_dscr
-Rustic dwellings that provide low life quality and health bonuses.
+提供低生活质量和健康保障的乡村住宅。
 
 #txt_hconf_n
-Large house
+大型住宅
 
 #txt_hconf_dscr
-Comfortable dwellings that provide high life quality and health bonuses.
+舒适的住所，提供高生活质量和健康保障。
 
 #txt_hapt_n
-Apartment
+公寓
 
 #txt_hapt_dscr
-Multistorey buildings that provide housing for multiple households.
+为多个家庭提供住房的多层建筑。
 
 #txt_hunter_n
-Hunter
+狩猎小屋
 
 #txt_hunter_dscr
-Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
+可以利用野生动物生产新鲜的肉类和皮革。需要放置在野生动物的活动范围内。
 
 #txt_flint_n
-Flint collector
+燧石收集营地
 
 #txt_flint_dscr
-Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
+利用砾石地形板块生产燧石。燧石可以被工具制造者用来制作石器。
 
 #txt_platf1_n
-Wooden platform
+木质平台
 
 #txt_platf1_dscr
-A cheap low resistance platform. Usefull to make cheap defenses and bridges.
+一个廉价的低承重力平台。用于制造廉价的防御工事和桥梁。
 
 #txt_platf2_n
-Stone platform
+石质平台
 
 #txt_platf2_dscr
-A solid platform usefull to make resistent walls.
+一个坚固的平台用于建造防震城墙(可以抗住攻城器大量伤害的城墙)。
 
 #txt_dstrplatf_n
-Destroy platforms
+摧毁平台
 
 #txt_dstrplatf_dscr
-Orders destruction of selected platforms.
+命令摧毁选定的平台。
 
 #txt_tow1_n
-Watchtower
+瞭望塔
 
 #txt_tow1_dscr
-A cheap but weak defensive tower made of leather covered wood. Fire arrows.
+一种廉价且脆弱的防御塔由皮革覆盖的木头建成。可以射箭。
 
 #txt_tow2_n
-Wooden tower
+木制塔楼
 
 #txt_tow2_dscr
-A defensive tower made of thick wooden beams. Fire arrows.
+一种由粗木梁建成的防御塔。可以射箭。
 
 #txt_tow3_n
-Stone tower
+石制塔楼
 
 #txt_tow3_dscr
-Stone towers are much more resistent than their wooden counterparts. Fire arrows.
+石塔比木塔更具抵抗力。可以射箭。
 
 #txt_tow4_n
-Heavy tower
+重装塔楼
 
 #txt_tow4_dscr
-This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
+这座塔是用坚固的石块建造的，以增加对敌人大炮的抵抗力。可以射箭。
 
 #txt_batlm1_n
-Wooden battlements
+木制城垛
 
 #txt_batlm1_dscr
-Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
+Crude wooden battlements providing basic cover from enemy fire to units standing on the platform during battles.
 
 #txt_batlm2_n
-Stone battlements
+石制城垛 - Stone battlements
 
 #txt_batlm2_dscr
-Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
+Stone battlements providing cover from enemy fire to units on standing on the platform during battles.
 
 #txt_batlm3_n
-Machicolated stone battlements
+开堞眼石城垛 - Machicolated stone battlements
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+Heavy battlements made of solid stone blocs with machicolations providing excellent cover from enemy fire to units standing on the platform during battles.
 
 #txt_batlm4_n
-Hoardings
+囤积 - Hoardings
 
 #txt_batlm4_dscr
 Excellent cover but weaker than stone battlements.
 
 #txt_market_n
-Market stand
+集市站台 - Market stand
 
 #txt_market_dscr
-Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
+Market stands distribute to the population the production of the building the stand belongs to. The income generated goes entirely to the producers but it takes one worker off production in order to manage the stand.
 
 #txt_field_n
-Field
+牧场 - Field
 
 #txt_field_dscr
 Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
 
 #txt_road1_n
-Dirt road
+泥土路 - Dirt road
 
 #txt_road1_dscr
-A basic road and free to build road.
+A basic road that is free to build.
 
 #txt_road2_n
-Wooden road
+木路 - 木质栈道 - Wooden road
 
 #txt_road2_dscr
-A road with pieces of wood encrusted in dirt to limit mud on rainy weather.
+A road with pieces of wood embedded in dirt to limit mud during rainy weather.
 
 #txt_road3_n
-Cobblestone road
+鹅卵石路 - Cobblestone road
 
 #txt_road3_dscr
 A road paved with crude cobblestones.
 
 #txt_road4_n
-Stone road
+阴石路 - Stone road
 
 #txt_road4_dscr
-An expensive road made of large stone blocs
+An expensive road made of large stone blocks
 
 #txt_road5_n
-Paved road
+铺砌路 - Paved road
 
 #txt_road5_dscr
-A road made of small stone blocs composed artistically.
+A road made of small stone blocks composed artistically.
 
 #txt_road6_n
-Mosaic plaza
+拼花广场 - Mosaic plaza
 
 #txt_road6_dscr
-A fancy floor made of colofull small tiles of stone, glass and other materials.
+A fancy floor made of small, colourful tiles of stone, glass and other materials.
 
 #txt_road7_n
-Marble plaza
+大理石广场 - Marble plaza
 
 #txt_road7_dscr
-A fancy floor made of shiny marble blocs
+A fancy floor made of shiny marble blocks
 
 #txt_road8_n
-Limestone road
+石灰石路 - Limestone road
 
 #txt_road8_dscr
-An expensive road made of large white limestone blocs
+An expensive road made of large, white limestone blocks
 
 #txt_road9_n
-Sandstone road
+砂石路 - Sandstone road
 
 #txt_road9_dscr
-An expensive road made of large sandstone blocs
+An expensive road made of large sandstone blocks
 
 #txt_fence1_n
-Wooden fence
+木栅栏 - Wooden fence
 
 #txt_fence1_dscr
 Rustic fences made of wood.
 
 #txt_fence2_n
-Fancy fence
+花式栅栏 - Fancy fence
 
 #txt_fence2_dscr
 Decorative fences worthy of gardens and avenues.
 
 #txt_fence3_n
-Stone fence
+石围栏 - 石围墙 - Stone fence
 
 #txt_fence3_dscr
 Rustic fences made of stone.
 
 #txt_garden1_n
-Flower gardens
+花园 - Flower gardens
 
 #txt_garden1_dscr
 Decorative gardens with flowers.
 
 #txt_garden2_n
-Tree gardens
+园林 - Tree gardens
 
 #txt_garden2_dscr
 Decorative gardens with trees.
 
 #txt_grass_n
-Lawn
+草坪 - Lawn
 
 #txt_grass_dscr
 An area of soil covered with carefully maintained grass for aesthetic and recreational purposes.
 
 #txt_flowerbed_n
-Flowerbed
+花圃 - Flowerbed
 
 #txt_flowerbed_dscr
 A plain patch of flowers for decoration.
 
 #txt_woodc_n
-Woodcutter
+伐木营地
 
 #txt_woodc_dscr
 Woodcutters can exploit most of the available trees in range to produce wood.
 
 #txt_merchant_n
-Merchant
+商人 - Merchant
 
 #txt_merchant_dscr
 Specialized distributors who make one selectable resource available to the population.
 
 #txt_mine_n
-Mining camp
+采矿营地
 
 #txt_mine_dscr
 Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
 
 #txt_mineshaft_n
-Mining shaft
+矿井井筒 - Mining shaft
 
 #txt_mineshaft_dscr
 Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
 
 #txt_paddock_n
-Paddock
+围场 - Paddock
 
 #txt_paddock_dscr
 Paddocks allow the storage of livestock resources.
 
 #txt_elephantpen_n
-Elephant pen
+象栏 - 大象围栏 - Elephant pen
 
 #txt_elephantpen_dscr
-Elephant pens allow the storage of single large animals such as Elephants.
+Elephant pens allow the storage of a single large animal such as Elephants.
 
 #txt_potter_n
-Potter
+陶工 - Potter
 
 #txt_potter_dscr
-Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
+Potters refine clay into pottery. Pottery is a distributable resource filling the population's need for Furnishings.
 
 #txt_stonecut_n
-Stonecutter camp
+石匠营地
 
 #txt_stonecut_dscr
-Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
+Can exploit rock tiles in range to produce crude stone. Quarry annexes produce stone blocks or specialized blocks over tiles of a valid rock type.
 
 #txt_quarry_n
-Quarry
+采石场 - Quarry
 
 #txt_quarry_dscr
-Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
+Essential annex of the Stonecutter, quarries can produce stone blocks or specialized blocks over special rock types.
 
 #txt_sawmill_n
-Sawmill
+锯木厂 - Sawmill
 
 #txt_sawmill_dscr
-The sawmill refines crude wood into wood planks, a material required to build many buildings.
+The sawmill refines crude wood into wooden planks, a material required to build many buildings.
 
 #txt_tannery_n
-Tannery
+制革厂 - Tannery
 
 #txt_tannery_dscr
-Tanneries refine leather into leather cloth, a distributable resource filling the population needs in clothing.
+Tanneries refine leather into leather clothes, a distributable resource filling the population's need for clothing.
 
 #txt_toolmk_n
-Tool-maker
+工具制造间 - Tool-maker
 
 #txt_toolmk_dscr
 Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
 
 #txt_items_n
-Items
+物料项目 - Items
 
 #txt_items_dscr
 These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
 
 #txt_storegrnd_n
-Ground storage
+地面储藏处
 
 #txt_storegrnd_dscr
-Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
+Ground marked as a storage area. It's free, but unguarded and doesn't have a high storage capacity per tile.
 
 #txt_warehouse_n
-Warehouse
+仓库 - 货栈 - Warehouse
 
 #txt_warehouse_dscr
-Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
+Warehouses can store all types of basic materials. They are guarded and can store a larger number of resources than ground storages.
 
 #txt_weapmk_n
-Weapon-maker
+武器制造间 - Weapon-maker
 
 #txt_weapmk_dscr
-Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
+Weapon-makers can produce a wide range of weapons and armors which are used to equip and recruit troops.
 
 #txt_weaver_n
-Weaver
+织工 - Weaver
 
 #txt_weaver_dscr
-The weaver refines different raw materials (cotton,flax,wool...) into textile. Textile can then be used for various things like clothmaking.
+The weaver refines different raw materials (cotton, flax, wool...) into textiles. Textiles can then be used for various things like clothesmaking.
 
 #txt_stairs1_n
-Wooden stairs
+木质楼梯 - 木楼梯 - Wooden stairs
 
 #txt_stairs1_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Stairs that can be placed against cliffs or walls of any height to allow for passage. Press Spacebar to change their direction.
 
 #txt_stairs2_n
-Stone stairs
+石砌台阶 - Stone stairs
 
 #txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Stairs that can be placed against cliffs or walls of any height to allow for passage.  Press Spacebar to change their direction.
 
 #txt_gate1_n
-Wooden gate
+木门 - Wooden gate
 
 #txt_gate1_dscr
-A cheap wooden gate.
+A cheap, wooden gate.
 
 #txt_gate2_n
-Strong gate
+牢固门 - Strong gate
 
 #txt_gate2_dscr
-A strong gate made of wood held tohether by bronze. 
+A strong gate made of wood held together by bronze.
 
 #txt_gate3_n
-Reinforced gate
+强化门 - Reinforced gate
 
 #txt_gate3_dscr
 A solid gate reinforced with iron.
 
 #txt_cattle_n
-Cattle farm
+养牛场 - Cattle farm
 
 #txt_cattle_dscr
-The cattle farms allows you to create pastures that produce cattle.
+The cattle farm allows you to create pastures that produce cattle.
 
 #txt_pastr_n
-Pasture
+牧场 - Pasture
 
 #txt_pastr_dscr
 An enclosed area of land where cattle can feed and breed.
 
 #txt_pastrw_n
-Wool Pasture
+羊毛牧场 - Wool Pasture
 
 #txt_pastrw_dscr
-Pastures of wool producing animals, regularly sheared to collect their wool.
+Pastures of wool-producing animals, regularly sheared to collect their wool.
 
 #txt_builder_n
-Builders
+施工人员 - 建筑者 - Builders
 
 #txt_builder_dscr
 Many buildings can only be constructed by professional teams of builders.
 
 #txt_butcher_n
-Butcher
+屠夫 - Butcher
 
 #txt_butcher_dscr
 Slaughters live cattle to produce fresh meat.
 
 #txt_well_n
-Well
+井 - Well
 
 #txt_well_dscr
 Extracts water from the ground.
 
 #txt_watercol_n
-Water collector
+水收集器
 
 #txt_watercol_dscr
-A point where people can collect fresh water from rivers or lakes.
+A place where people can collect fresh water from rivers or lakes.
 
 #txt_landock_n
-Land docks
+陆地码头 - Land docks
 
 #txt_landock_dscr
-Docks for land caravans, carrying goods across territories and required to operate trade routes.
+A resting place for land caravans carrying goods across territories. Produces a small amount of Cargo which is required to operate trade routes.
 
 #txt_dock_n
-Docks
+码头 - Docks
 
 #txt_dock_dscr
-Docks for trade ships, carrying goods across territories and required to operate trade routes. 
+Docks for trade ships carrying goods across territories. Produces a large amounr of Cargo which is required to operate trade routes.
 
 #txt_theater_n
-Theater
+戏剧院 - Theater
 
 #txt_theater_dscr
 Provides entertainement to the Porcos.
 
 #txt_baths_n
-Public baths
+公共浴场 - 澡堂 - Public baths
 
 #txt_baths_dscr
-A place of social gathering and relaxation which also provides better health.
+A place of social gathering and relaxation which also improves health.
 
 #txt_tavern_n
-Tavern
+酒馆 - Tavern
 
 #txt_tavern_dscr
 A place of social gathering to drink and party.
 
 #txt_forum_n
-Forum
+论坛 - Forum
 
 #txt_forum_dscr
-A place of social gathering to discuss matters of the community.
+A place of social gathering to discuss matters concerning the community.
 
 #txt_furnmkr_n
-Furniture maker
+家具制造间 - Furniture maker
 
 #txt_furnmkr_dscr
-Produces furniture, a distributable resource filling the population needs in Furnishings.
+Produces furniture, a distributable resource filling the population's need for Furnishings.
 
 #txt_carpetmkr_n
-Carpet maker
+地毯制造间 - Carpet maker
 
 #txt_carpetmkr_dscr
-Produces rugs, a distributable resource filling the population needs in Furnishings.
+Produces rugs, a distributable resource filling the population's need for Furnishings.
 
 #txt_mudcamp_n
-Soil miner
+土壤矿工 - Soil miner
 
 #txt_mudcamp_dscr
 A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
 
 #txt_brickwk_n
-Brickworks
+砖厂 - Brickworks
 
 #txt_brickwk_dscr
 Produces bricks, a basic construction material.
 
 #txt_kiln_n
-Kiln
+烧窑 - Kiln
 
 #txt_kiln_dscr
-Produces different construction materials.
+Produces fuels like charcoal and coke and building materials like plaster.
 
 #txt_fundry_n
-Foundry
+铸造厂 - Foundry
 
 #txt_fundry_dscr
 Refines metallic ores into ingots.
 
 #txt_steel_n
-Steel mill
+轧钢厂- Steel mill
 
 #txt_steel_dscr1
-Produces steel by carburization of wrough iron through smithing.
+Produces steel by carburization of wrought iron through smithing.
 
 #txt_steel_dscr2
 Produces steel by decarburization of cast iron by melting it.
 
 #txt_charcl_n
-Charcoal clamps
+木炭夹钳 - Charcoal clamps
 
 #txt_charcl_dscr
 Carbonizes wood into charcoal.
 
 #txt_archtct_n
-Architect
+建筑师 - Architect
 
 #txt_archtct_dscr
 Produces the service Plans, required for important monuments.
 
 #txt_windwheel_n
-Windwheel
+风车 - Windwheel
 
 #txt_windwheel_dscr
 Provides mechanical power to the building, improving its efficiency.
 
 #txt_waterwheel_n
-Waterwheel
+水车 - Waterwheel
 
 #txt_waterwheel_dscr
 Provides mechanical power to the building, improving its efficiency.
 
 #txt_wash_n
-Washhouse
+洗衣房 - Washhouse
 
 #txt_wash_dscr
 A place where people can come wash their laundry.
 
 #txt_taxcol_n
-Tax collector
+税收员 - Tax collector
 
 #txt_taxcol_dscr
-Reduces waste by ensuring population pays correctly their taxes.
+Reduces waste by ensuring population pays their taxes correctly.
 
 #txt_scrib_n
-Scribe
+抄写员 - Scribe
 
 #txt_scrib_dscr
-Scribes at the service of the state help keep track of administrative matters.
+Scribes in the service of the state help keep track of administrative matters.
 
 #txt_eldcounc_n
-Elder's council
+长老理事会 - Elder's council
 
 #txt_eldcounc_dscr
 A council of elders to solve conflicts in the city.
 
 #txt_magistrt_n
-Magistrate
+地方法官 - Magistrate
 
 #txt_magistrt_dscr
 Reduces conflict in the population.
 
 #txt_school_n
-School
+学院 - School
 
 #txt_school_dscr
-School increases intelligence of the population.
+Schools increase the intelligence of the population.
 
 #txt_winery_n
-Wine cellar
+酒窖 - Wine cellar
 
 #txt_winery_dscr
-Produces wine out of grapes.
+Produces wine from grapes.
 
 #txt_oilpress_n
-Olives press
+橄榄压榨 - Olives press
 
 #txt_oilpress_dscr
-Produces olive oil out of olives.
+Produces olive oil from olives.
 
 #txt_bakery_n
-Bakery
+面包店 - Bakery
 
 #txt_bakery_dscr
 Makes bread from flour.
 
 #txt_mill_n
-Mill
+磨坊 - Mill
 
 #txt_mill_dscr
-Crushes cereals to produce flour, easier to stock and used to make bread.
+Crushes cereals to produce flour which is easier to stock and is used to make bread.
 
 #txt_libr_n
-Library
+图书馆 - Library
 
 #txt_libr_dscr
-Stores knowledges.
+Stores knowledge.
 
 #txt_eldrcncl_n
-Tribal council
+部落理事会 - Tribal council
 
 #txt_eldrcncl_dscr
-A council of family leaders that attempts to solve conflicts amongst the tribe and provides an early form of law.
+A council of family leaders that attempts to solve conflicts amongst the tribe members and provides an early form of law.
 
 #txt_magistr_n
-Magistrate
+文职官员 - Magistrate
 
 #txt_magistr_dscr
-A service building that provides the Justice service to population, reducing conflict.
+A service building that provides the Justice service to the population, reducing conflict.
 
 #txt_paper_n
-Paper mill
+造纸厂 - Paper mill
 
 #txt_paper_dscr
 Produces paper
 
 #txt_rum_n
-Rumery
+朗姆酒厂 - Rumery
 
 #txt_rum_dscr
-A distilery that produces rum out of sugarcane.
+A distillery that produces rum from sugarcane.
 
 #txt_trmarket_n
-Market
+市场 - Market
 
 #txt_trmarket_dscr
-Allows to create trade offers to exchange goods with other territories.
+Allows the creation of bulk trade offers to exchange goods with other territories.
 
 #txt_academ_n
-Academia
+学术界 - Academia
 
 #txt_acedem_dscr
-Wise and knowledgable pigs who study science and arts increasing education and culture and contribute to research projects.
+Wise and knowledgable pigs who study the arts and sciences increase education and culture and contribute to research projects.
 
 #txt_doctor_n
-Doctor
+医馆 - Doctor
 
 #txt_doctor_dscr
-Increases health of the population.
+Increases the health of the population.
 
 #txt_ftower1
-Primitive tower
+原始塔楼 - Primitive tower
 
 #txt_ftower1_dscr
 A primitive defensive tower made of wood. Fires javelins.
 
 #txt_wall1_n
-Palissade
+木篱 - Palissade
 
 #txt_wall1_dscr
-A simple defensive wall made of timbers.
+A simple defensive wall made of timber.
 
 #txt_wall2_n
-Mudbrick wall
+泥砖墙 - Mudbrick wall
 
 #txt_wall2_dscr
-A simple defensive wall made of mudbricks, weaker but cheaper to maintain than a palissade.
+A simple defensive wall made of mudbricks and is weaker but cheaper to maintain than a palissade.
 
 #txt_wall3_n
-Cobblestone wall
+鹅卵石墙 - Cobblestone wall
 
 #txt_wall3_dscr
-A simple defensive wall made of cobble stone held together with crude masonry.
+A simple defensive wall made of cobblestone held together with crude masonry.
 
 #txt_wall4_n
-Brick wall
+砖墙 - Brick wall
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks, stronger than mudbricks.
+A simple defensive wall made of fired bricks. Stronger than mudbricks.
 
 #txt_wall5_n
-Stoneblocs wall
+石砌墙 - Stoneblocs wall
 
 #txt_wall5_dscr
-A solid defensive wall made of stone blocs.
+A solid defensive wall made of stone blocks.
+
+#txt_oldpcrcl_n
+Elder's circle
+
+#txt_oldpcrcl_dscr
+A primitive way to store knowledge based on oral tradition.

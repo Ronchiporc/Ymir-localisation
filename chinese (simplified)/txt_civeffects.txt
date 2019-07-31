@@ -1,384 +1,383 @@
 #civfx_inc_n
-population incomes
+人口收入
 
 #civfx_inc_dscr
-unlocks dynamic population wealth
+解锁动态人口财富
 
 #civfx_price_n
-dynamic prices
+动态价格
 
 #civfx_price_dscr
-resources and valuables have dynamic prices based on supply and demand of the population
+资源和贵重物品的价格是根据人口供求动态变化的
 
 #civfx_autodist_n
-automatic distribution
+自动分销
 
 #civfx_autodist_dscr
-all resources are automatically available to all the population and there is no need for distributors
+所有资源可供所有人自取，不需要分销
 
 #civfx_bdgeff_n
-building efficiency
+建筑效率
 
 #civfx_bdgeff_dscr
-modifies the efficiency of buildings
+订制建筑物的效率
 
 #civfx_conflict_n
-population conflict
+人口冲突
 
 #civfx_conflict_dscr
-modifies conflict of population
+订制人口冲突
 
 #civfx_stress_n
-population stress
+人口压力
 
 #civfx_stress_dscr
-modifies stress of population
+订制人口压力
 
 #civfx_paidmat_n
-paid materials
+有偿物资
 
 #civfx_paidmat_dscr
-the state has to pay for materials it consumes at their current market price
+国家必须按当前的市场价格支付所消耗材料的费用
 
 #civfx_seizem_n
-seized materials
+查封的材料
 
 #civfx_seizem_dscr
-when paid materials is active, all or a fraction of materials is seized for free instead of beeing paid by the state.
+当付费材料有效时，所有或部分材料将被免费没收，而不是由国家支付。
 
 #civfx_seizem_set
-seized percent
+没收率
 
 #civfx_seizem_setd
-set the percent of material's prices you wish to seize
+设置你希望没收的材料价格的百分比
 
 #civfx_territ_n
-province territories
+省域
 
 #civfx_territ_dscr
-cities can annex other territories as their province
+城市可以吞并其他领土作为其省
 
 #civfx_inctax_n
-income tax
+所得税
 
 #civfx_inctax_dscr
-a tax applied to all the incomes of the population in the territory 
+对该领土所有居民的收入征收的一种税
 
 #civfx_inctax_set
-income tax percent
+所得税率
 
 #civfx_inctax_setd
-set the percent of income that is to be taxed
+设置所得税的百分比
 
 #civfx_saltax_n
-sales tax
+销售税
 
 #civfx_saltax_dscr
-a tax applied to all sales in the territory (simplified VAT tax)
+对该领土所有销售的一种税(简化增值税)
 
 #civfx_saltax_set
-sales tax percent
+销售税率
 
 #civfx_saltax_setd
-set the percent of sales that is to be taxed
+设置销售税的百分比
 
 #civfx_leadwlth_n
-Leaders privileges
+领导人特权
 
 #civfx_leadwlth_dscr
-Leaders get a portion of the territory wealth as a privilege
+作为一种特权领导人获得一部分领土财富
 
 #civfx_leadwlth_set
-Leaders privilege
+领导人特权
 
 #civfx_leadwlth_setd
-the percentage of territory wealth given as privilege to the leaders
+给予领导人特权的领土财富百分比
 
 #civfx_leadsal_n
-Leaders salary
+领导人薪酬
 
 #civfx_leadsal_dscr
-Leaders get a salary paid by the state
+领导人的薪水由国家支付
 
 #civfx_leadsal_set
-Leaders salary
+领导人薪酬
 
 #civfx_leadsal_setd
-amount of the salary in coins
+该薪水以硬币数额计算
 
 #civfx_nobwlth_n
-Nobles privileges
+贵族特权
 
 #civfx_nobwlth_dscr
-Nobles get a portion of the territory wealth as a privilege
+作为一种特权贵族获得一部分领土财富
 
 #civfx_nobwlth_set
-Nobles privilege
+贵族特权
 
 #civfx_nobwlth_setd
-the percentage of territory wealth given as privilege to the nobles
+给予贵族特权的领土财富百分比
 
 #civfx_nobsal_n
-Nobles salary
+贵族薪酬
 
 #civfx_nobsal_dscr
-Nobles get a salary paid by the state
+贵族的薪水由国家支付
 
 #civfx_nobsal_set
-Nobles salary
+贵族薪酬
 
 #civfx_nobsal_setd
-amount of the salary in coins
+该薪水以硬币数额计算
 
 #civfx_offwlth_n
-State workers privileges
+国家工人特权
 
 #civfx_offwlth_dscr
-State workers get a portion of the territory wealth as a privilege
+作为一种特权国家工人获得一部分领土财富
 
 #civfx_offwlth_set
-State workers privilege
+国家工人特权
 
 #civfx_offwlth_setd
-the percentage of territory wealth given as privilege to the State workers
+给予国家工人特权的领土财富百分比
 
 #civfx_offsal_n
-State workers salary
+国家工人酬薪
 
 #civfx_offsal_dscr
-State workers get a salary paid by the state
+国家工人的薪水由国家支付
 
 #civfx_offsal_set
-State workers salary
+国家工人酬薪
 
 #civfx_offsal_setd
-amount of the salary in coins
+该薪水以硬币数额计算
 
 #civfx_capadmin_n
-capital administration
+首都管理
 
 #civfx_capadmin_dscr
-modifies administration of the capital
+修改首都的管理
 
 #civfx_cityadmin_n
-city administration
+城市管理
 
 #civfx_cityadmin_dscr
-modifies administration of every city
+修改每个城市的管理
 
 #civfx_regadmin_n
-territory adimnistration
+领土管理
 
 #civfx_regadmin_dscr
-modifies administration of every territory
+修改每个区域的管理
 
 #civfx_caplead_n
-capital leaders
+首都领导人
 
 #civfx_caplead_dscr
-leaders in capital
+领导人在首都
 
 #civfx_capnob_n
-capital nobles
+首都贵族
 
 #civfx_capnob_dscr
-nobles in capital
+贵族在首都
 
 #civfx_citlead_n
-city leaders
+城市领导人
 
 #civfx_citlead_dscr
-leaders per city
+每个城市的领导人
 
 #civfx_citnob_n
-city nobles
+城市贵族
 
 #civfx_citnob_dscr
-nobles per city
+每个城市的贵族
 
 #civfx_reglead_n
-local leaders
+地方领导人
 
 #civfx_reglead_dscr
-leaders per territory
+每个领土的领导人
 
 #civfx_regnob_n
-local nobles
+地方贵族
 
 #civfx_regnob_dscr
-nobles per territory
+每个领地的贵族
 
 #civfx_goldstck_n
-wealth from precious metals
+贵金属财富
 
 #civfx_goldstck_dscr
-increases wealth of all territories for each unit of precious metals (gold and silver) in storages
+每单位的贵重金属(黄金和白银)的存储都增加所有领土的财富
 
 #civfx_modhap_n
-population happyness
+人口幸福
 
 #civfx_modhap_dscr
-modifies happyness of population
+修改人口的幸福度
 
 #civfx_happy_n
-population happyness
+人口幸福
 
 #civfx_happy_dscr
-modifies happyness of population
+修改人口的幸福度
 
 #civfx_enmerch_n
-merchants
+商人
 
 #civfx_enmerch_dscr
-allows the use of merchants who can sell resources to the population
+允许使用任何可向人民出售资源的商人
 
 #civfx_entrout_n
-trade routes
+贸易路线
 
 #civfx_entrout_dscr
-allows to create permanent trade routes between territories
+允许在领土之间建立永久的贸易路线
 
 #civfx_legitprt_n
-protector of the people
+人民的保护者
 
 #civfx_legitprt_dscr
-modifies legitimacy factor of military strenght
+军事实力合法性因素的修正
 
 #civfx_legitw_n
-leader superiority
+优秀的领导者
 
 #civfx_legitw_dscr
-modifies legitimacy factor of leader's superiority
+领导者优势合法性因素的修正
 
 #civfx_legitr_n
-people's religiosity
+人们的宗教信仰
 
 #civfx_legitr_dscr
-modifies legitimacy factor of people's religiosity
+人民宗教信仰合法性因素的修正
 
 #civfx_legitp_n
-parliament's power
+议会的权力
 
 #civfx_legitp_dscr
-modifies legitimacy factor of the parliament
+议会合法性因素的修正
 
 #civfx_legitsen_n
-senate's power
+参议院的权力
 
 #civfx_legitsen_dscr
-modifies legitimacy factor of the senate
+参议院合法性因素的修正
 
 #civfx_legitm_n
-ministry's power
+部门的权力
 
 #civfx_legitm_dscr
-modifies legitimacy factor of the ministry
+部门合法性因素的修正
 
 #civfx_legitap_n
-people's approval
+人们的认可
 
 #civfx_legitap_dscr
-modifies legitimacy factor of people's approval
+人民认可合法性因素的修正
 
 #civfx_wlegitprt_n
-importance of military strenght
+军事力量的重要性
 
 #civfx_wlegitprt_dscr
-how much military strenght affects legitimacy
+军事实力在多大程度上影响合法性
 
 #civfx_wlegitw_n
-importance of leader's superiority
+优秀领导者的重要性
 
 #civfx_wlegitw_dscr
-how much leader's superiority affects legitimacy
+领导者的优势在多大程度上影响合法性。
 
 #civfx_wlegitr_n
-importance of religiosity
+宗教信仰的重要性
 
 #civfx_wlegitr_dscr
-how much people's religiosity affects legitimacy
+人民的宗教信仰在多大程度上影响合法性。
 
 #civfx_wlegitp_n
-importance of the parliament
+议会的重要性
 
 #civfx_wlegitp_dscr
-how much the parliament's power affects legitimacy
+议会的权力在多大程度上影响合法性。
 
 #civfx_wlegitsen_n
-importance of the senate
+参议院的重要性
 
 #civfx_wlegitsen_dscr
-how much the senate's power affects legitimacy.
+参议院的权力在多大程度上影响合法性。
 
 #civfx_wlegitm_n
-importance of the ministry
+部门的重要性
 
 #civfx_wlegitm_dscr
-how much the ministry's power affects legitimacy.
+部门的权力对合法性的影响有多大。
 
 #civfx_wlegitap_n
-importance of people's approval
+人们认可的重要性
 
 #civfx_wlegitap_dscr
-how much people's approval affects legitimacy.
+人民的认可在多大程度上影响合法性。
 
 #civfx_statepow_n
-state power
+国家权力
 
 #civfx_statepow_dscr
-modifies the amount of state power
+修改国家权力的大小
 
 #civfx_foodcons_n
-food consumption
+摄食量
 
 #civfx_foodcons_dscr
-affects the amount of food required by porcos to satisfy their need for food
+影响波尔科为满足其对食物的需求而需要的食物量
 
 #civfx_coin_n
-state treasury
+国库
 
 #civfx_coin_dscr
-enables the state earning and spending money.
+使国家能够收入和支出的钱。
 
 #civfx_agrisav_n
-stocking seeds
+种子储备 - 粮食储备
 
 #civfx_agrisav_dscr
-25% of all agricultural food production going directly into granaries
+所有农业粮食产出的25%直接进入粮仓。
 
 #civfx_subv_n
-subvention
+补助金
 
 #civfx_subv_dscr
-a government aid given to each worker of a specified social class, to increase their income
+政府对特定社会阶层的工人提供的一种援助，以增加他们的收入
 
 #civfx_subv_set1
-Subvention
+补助金
 
 #civfx_subv_set1d
-The social class that receives this subvention
+接受这种补助金的社会阶层
 
 #civfx_subv_set2
-Coins
+硬币
 
 #civfx_subv_set2d
-The amount of the subvention. Each worker of this class will receive this amount of coins, added to their income.
+补助金的数额。这个阶层的每一位工人都将得到这一数额的硬币，再加上他们的收入。 
 
 #civfx_paidrsrch_n
-paid researchers
+有偿研究人员
 
 #civfx_paidrsrch_dscr
-researchers get paid and no longer reduce the workforce of the buildings where they work.
+研究人员得到了报酬，不再减少他们工作的建筑的劳动力。
 
 #civfx_ldcntrb_n
-Leader's personnal contribution
+领导人的个人贡献
 
 #civfx_ldcntrb_dscr
-The leader can contribute to the government's finances with his own wealth (reduces his wealth).
+领导人可以用自己的财富(减少他自己财富)为政府的财政作贡献。 
 
 #civfx_ldcntrb_set
-Contribution %
+贡献百分比
 
 #civfx_ldcntrb_setd
-Percentage of the leader's wealth used for the government's finances. Note that this will reduce the Leader's wealth proportionnally.
-
+领导者财富的百分比用于政府的财务。请注意，这将按比例减少领导人的财富。

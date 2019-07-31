@@ -1,527 +1,563 @@
-﻿#g_ok
-ok
+#g_ok
+好
 
 #g_Ok
-Ok
+好
 
 #g_OK
-OK
+好
 
 #g_Yes
-Yes
+是
 
 #g_yes
-yes
+是
 
 #g_YES
-YES
+是
 
 #g_No
-No
+否
 
 #g_no
-no
+否
 
 #g_NO
-NO
+否
 
 #g_Apply
-Apply
+应用
 
 #g_low
-low
+低
 
 #g_medium
-medium
+中
 
 #g_high
-high
+高
 
 #g_of
-of
+关于
 
 #g_free
-free
+45?免费
 
 #g_Free
-Free
+48?免费
 
 #g_cost
-cost
+成本
 
 #g_coins
-coins
+硬币
 
 #g_upkeep
-upkeep
+维修费
 
 #g_Upkeep
-Upkeep
+维修费
 
 #g_admin
-administration
+管理
 
 #g_Admin
-Administration
+管理
 
 #g_Admincost
-Administration cost
+管理成本
 
 #g_Lifequal
-Life quality
+生活质量
 
 #g_Health
-Health
+健康
 
 #g_efficiency
-efficiency
+效率
 
 #g_EFFICIENCY
-EFFICIENCY
+效率
 
 #g_resunit
-resource unit
+资源单位
 
 #g_resunits
-resource units
+资源单位
 
 #g_Households
-Households
+家庭
 
 #g_cancel
-cancel
+取消
 
 #g_Cancel
-Cancel
+取消
 
 #g_empty
-empty
+空
 
 #g_workforce
-workforce
+劳动力
 
 #g_WORKFORCE
-WORKFORCE
+劳动力
 
 #g_wealth
-wealth
+价值
 
 #g_WEALTH
-WEALTH
+价值
 
 #g_usage
-usage
+利用率
 
 #g_building
-building
+建造
 
 #g_None
-None
+无
 
 #g_none
-none
+无
 
 #g_All
-All
+全部
 
 #g_all
-all
+全部
 
 #g_distribute
-distribute
+分销
 
 #g_produce
-produce
+生产
 
 #g_production
-production
+产品
 
 #g_needed
-needed
+需求
 
 #g_or
-or
+或
 
 #g_status
-status
+地区
 
 #g_city
-city
+城市
 
 #g_capital
-capital
+首都
 
 #g_territory
-territory
+领土
 
 #g_colony
-colony
+殖民地
 
 #g_reg_claim
-claim
+宣称
 
 #g_owner
-owner
+所有者
 
 #g_Salaries
-Wages
+工资
 
 #g_Taxes
-Taxes
+税金
 
 #g_Waste
-Waste
+浪费
 
 #g_Economy
-Economy
+经济
 
 #g_ECONOMY
-ECONOMY
+经济
 
 #g_currency
-currency
+货币
 
 #g_loyalty
-loyalty
+忠诚
 
 #g_Loyalty
-Loyalty
+忠诚
 
 #g_conflict
-conflict
+冲突
 
 #g_Conflict
-Conflict
+冲突
 
 #g_state_culture
-state culture
+国家文化
 
 #g_local_culture
-local culture
+地方文化
 
 #g_Growth
-Growth
+增长
 
 #g_Employment
-Employment
+人口利用率
 
 #g_Vital_needs
-Vital needs
+重要需求
 
 #g_vital_needs
-vital needs
+重要需求
 
 #g_faction
-faction
+派别
 
 #g_Faction
-Faction
+派别
 
 #g_Culture
-Culture
+文化
 
 #g_Knowledges
-Knowledges
+知识
 
 #g_Nation
-Nation
+国家
 
 #g_Policies
-Policies
+政策
 
 #g_Government
-Government
+政府
 
 #g_Society
-Society
+社会
 
 #g_Diplomacy
-Diplomacy
+外交
 
 #g_Power
-Power
+实力
 
 #g_POWER
-POWER
+实力
 
 #g_Legitimacy
-Legitimacy
+合法性
 
 #g_LEGITIMACY
-LEGITIMACY
+合法性
 
 #g_state_power
-state power
+统治力
 
 #g_STATE_POWER
-STATE POWER
+统治力
 
 #g_Social
-Social
+社会
 
 #g_SOCIAL
-SOCIAL
+社会
 
 #g_add
-add
+添加
 
 #g_Add
-Add
+添加
 
 #g_enables
-enables
+启用
 
 #g_Disable
-Disable
+禁用
 
 #g_disables
-disables
+失效
 
 #g_price
-price
+价格
 
 #g_PRICE
-PRICE
+价格
 
 #g_Server
-Server
+服务器
 
 #g_server
-server
+服务器
 
 #g_increasing_to
-increasing to
+增加到
 
 #g_decreasing_to
-decreasing to
+减少到
 
 #g_stable
-stable
+稳定
 
 #g_Administation
-Administration
+管理
 
 #g_Porco
-Porco
+猪人
 
 #g_Porcos
-Porcos
+猪人
 
 #g_Load
-Load
+装载
 
 #g_Unload
-Unload
+卸载
 
 #g_Destroy
-Destroy
+摧毁
 
 #g_From
-From
+来自
 
 #g_from
-from
+来自
 
 #g_multiple
-multiple
+倍数
 
 #g_confirm
-confirm
+确定
 
 #g_AT_WAR
-AT WAR
+战争
 
 #g_NEUTRAL
-NEUTRAL
+中立
 
 #g_AT_PEACE
-AT PEACE
+和平
 
 #g_year
-year
+年
 
 #g_day
-day
+天
 
 #g_Rebels
-Rebels
+叛军
 
 #g_automatic
-automatic
+自动
 
 #g_noresult
-no result
+无结果
 
 #g_Fertility
-Fertility
+肥力
 
 #g_Groundwater
-Groundwater
+地下水
 
 #g_Any
-Any
+任何
 
 #g_any
-any
+任何
 
 #g_seconds
-seconds
+秒
 
 #g_minuts
-minuts
+分
 
 #g_hours
-hours
+时
 
 #g_days
-days
+天
 
 #g_Structure
-Structure
+结构
 
 #g_structure
-structure
+结构
 
 #g_Solidity
-Solidity
+坚固
 
 #g_solidity
-solidity
+坚固
 
 #g_Cover
-Cover
+替换
 
 #g_cover
-cover
+替换
 
 #g_random
-random
+随机
 
 #g_agree
-agree
+同意
 
 #g_refuse
-refuse
+拒绝
 
 #g_warning
-WARNING!
+警告！
 
 #g_areyousure
-Are you sure?
+你确定吗？
 
 #g_Gaia
-Gaia
+大地女神
 
 #g_Primitives
-Primitives
+原住民
 
 #g_Rebels
-Rebels
+叛军
 
 #g_Partisans
-Partisans
+游击队
 
 #g_Barbarians
-Barbarians
+野蛮人
 
 #g_Free_cities
-Free cities
+自治城市
 
 #g_facnameprep
-of
+属于
 
 #g_facrk1_1
-High Chief
+大酋长
 
 #g_facrk1_2
-Chiefdom
+酋邦
 
 #g_facrk2_1
-Chieftain
+首领
 
 #g_facrk2_2
-Chiefdom
+首领地位
 
 #g_prmtv_trb
-Primitive tribe
+原始部落
 
 #g_trb_of
-Tribe of [x]
+属于[x]的部落
 
 #g_colonialtrty
-Colonial treaty
+殖民条约
 
 #g_capitultrty
-Capitulation treaty
+投降条约
 
 #g_nocltr
-ancient culture
+古文化
 
 #g_claim
-claim
+宣称
 
 #g_territory
-territory
+领土
 
 #g_colony
-colony
+殖民地
 
 #g_occupiedterrit
-occupied territory
+占领区
 
 #g_outpost
-outpost
+前哨
 
 #g_city
-city
+城市
 
 #g_capital
-capital
+首都
 
 #g_and
-and
+和
 
 #g_Amount
-Amount
+总值
 
 #g_amount
-amount
+总值
 
 #g_Enabled
-Enabled
+已启用
 
 #g_enabled
-enabled
+已启用
 
 #g_Disabled
-Disabled
+已禁用
 
 #g_disabled
-disabled
+已禁用
 
 #g_per_day
-per day
+每天
 
 #g_ev_days
-every [x] days
+每隔[x]天
 
 #g_per_hour
-per hour
+每小时
 
 #g_ev_hours
-every [x] hours
+每隔[x]小时
 
 #g_per_minut
-per minut
+每分钟
 
 #g_ev_minuts
-every [x] minuts
+每隔[x]分钟
 
 #g_per_second
-per second
+每秒
 
 #g_ev_seconds
-every [x] seconds
+每隔[x]秒
 
 #g_with
-with
+随着
+
+#g_second
+秒
+
+#g_seconds
+秒
+
+#g_hour
+小时
+
+#g_hours
+小时
+
+#g_day
+天
+
+#g_days
+天
+
+#g_never
+从未
+
+#g_chief
+首领
+
+#g_chiefdom
+首领
+
+#g_vassal
+附庸
+
+#g_vassaldom
+附庸
+
+#g_Game
+游戏
