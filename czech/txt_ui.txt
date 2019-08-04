@@ -2196,64 +2196,64 @@ current variation rate of the total population
 Estimated for the next generation...
 
 #troop_recruit
-recruit a new troop
+najmout novou jednotku
 
 #b_dplmode
-Strategic tool
+Strategický nástroj
 
 #bc_dplmode
 Go to deployment mode, where you can manage the deployment positions and orders of all your troops.
 
 #forminv_add
-add resources
+přidat zdroje
 
 #ui_recruit_resist
-You cannot recruit new units in a territory with resistance.
+Na území s odporem nemůžete přijímat nové jednotky.
 
 #ui_recruit_immo
-You cannot modify troops while this formation is immobilized.
+Když je tato formace imobilizována, nemůžete modifikovat jednotky.
 
 #ui_recruit_nothm
-You cannot recruit new units outside this formation's home territory ([x]).
+Nemůžete přijímat nové jednotky mimo domovské území této formace ([x]).
 
 #ui_recruit_cant
-You cannot recruit or disband troops in territories you do not control.
+Nemůžete najmout nebo rozpustit jednotky na územích, které neovládáte.
 
 #ui_recruit_noup
-( militias upkeep is lower as it doesnt include a soldier's salary )
+( údržba milicí je nižší, protože nezahrnuje plat vojáka )
 
 #ui_recruit_nopop
-( no population mobilized because it's a local militia )
+( mobilizována nebyla žádná populace, protože je to místní milice )
 
 #ui_recruit_cost_1
-Cost to recruit one unit.
+Náklady na nábor jedné jednotky.
 
 #ui_recruit_cost_2
 Includes a training cost plus the price of its equipment.
 
 #ui_recruit_cost_3
-- Cost of training: [x]
+- Cena tréningu: [x]
 
 #ui_recruit_cost_4
-- Cost of equipment: [x]
+- Cena výzbroje: [x]
 
 #ui_recruit_totcost
-Total recruitment cost
+Celkové náklady na nábor
 
 #ui_recruit_nopay
-You do not have enough funds to recruit these new units!
+Nemáte dostatek prostředků na nábor těchto nových jednotek!
 
 #ui_recruit_max_pop
-More population needed!
+Je potřeba více populace!
 
 #ui_recruit_max_ts
-Maximum size of this troop is [x] units.
+Maximální velikost této jednotky je [x] jednotek.
 
 #ui_recruit_max_res
-[x] needed!
+[x] potřeba!
 
 #ui_recruit_cost
-Cost per unit
+Cena za jednotku
 
 #ui_recruit_civ
 civilian units
@@ -2866,8 +2866,6 @@ vlastní teritorium
 
 #ui_tile_movcost_frd
 přátelské teritorium
-
-nepřátelské teritorium
 
 #ui_tile_movcost_set
 is settled
@@ -4457,10 +4455,10 @@ Cubes
 Armistice
 
 #treaty_peace
-Peace treaty
+Mírová dohoda
 
 #treaty_nation
-Treaty of unification
+Dohoda o unifikaci
 
 #treaty_vassal
 Vasalská dohoda
@@ -4490,31 +4488,31 @@ klikni pro zvolení symbolu
 click to view this nation's hierarchy
 
 #resist_abandon_1
-You cannot abandon buildings in a resistant city!
+Nemůžete opustit budovy ve vzpurném městě!
 
 #resist_demol_1
-You cannot demolish more than 3 buildings at a time in a resistant city!
+Ve vzpurném městě nemůžete zničit více než 3 budovy najednou!
 
 #resist_demol_2
-You cannot demolish infrastructures in a resistant city!
+Infrastruktury nemůžete zničit ve vzpurném městě!
 
 #treaterr_1
-You do not have enough coins in your treasury to honor this treaty!
+Nemáte dostatek mincí ve vaší pokladně, abyste tuto smlouvu ctili!
 
 #treaterr_2
-You do not have enough income in your treasury to honor this treaty!
+Nemáte dostatečný příjem do své pokladny, abyste tuto smlouvu ctili!
 
 #servfull
-Maximum number of active characters currently reached! Try again later.
+Maximální počet aktuálně aktivních postav byl dosažen! Zkuste to znovu později.
 
 #menu_frmtyp_title
-Changing this formation's type...
+Změna typu této formace...
 
 #menu_frmtyp_err1
-You cannot convert to a militia outside your own cities!
+Nemůžete vytvářet milici mimo vaše vlastní města!
 
 #menu_frmtyp_err2
-You cannot convert formations in resistant cities.
+Ve vzpurných městech nemůžete převádět formace.
 
 #formact_sack_1
 Warning: tahle akce tě bude stát 15 česti, pokud bude úspěšná!
@@ -4616,7 +4614,7 @@ To garantee a reliable and fair experience for all players, servers listed here 
 Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
 
 #joingame_custom
-Custom games
+Vlastní hry
 
 #joingame_custom_dscr_1
 Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
@@ -4631,10 +4629,10 @@ Adminské nástroje
 Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
 
 #servlst_preset
-Game preset
+Přednastavení hry
 
 #servlst_preset_c1
-Game balance preset used on this custom server.
+Předvolba vyvážení hry použitá na tomto uživatelském serveru.
 
 #b_reform_loyal
 Reform effect: -[x] loyalty in all territories
@@ -4679,13 +4677,13 @@ Reclaim territory
 Unclaim territory
 
 #menu_mission_sel
-Action
+Akce
 
 #menu_mission_sel_c1
-Select the action to perform in this territory.
+Vyberte akci, kterou chcete provést na tomto území.
 
 #chat_pm
-Message [x]
+Poselství hráči [x]
 
 #chat_faction
 Národ '[x]'
@@ -4709,85 +4707,85 @@ Council
 Světové zprávy
 
 #chron_tab2
-My chronicles
+Moje kroniky
 
 #chron_new
-+ New chronicle
++ Nová kronika
 
 #chron_publish
 Publikovat
 
 #char_chrons
-View all chronicles from this character
+Zobrazit všechny kroniky od této postavy
 
 #chron_sent
-New chronicle published!
+Byla publikována nová kronika!
 
 #chron_react
-React to this news
+Reagvat na tuto zprávu
 
 #chron_reactup_1
 Tohle je zajímavé!
 
 #chron_reactup_2
-This news will be relayed by your cultural network and will propagate to your contacts.
+Tyto zprávy budou předávány vaší kulturní sítí a budou šířeny vašim kontaktům.
 
 #chron_reactdw_1
-I don't care about this.
+Nezajímá mě to.
 
 #chron_reactdw_2
-This news will not be relayed by you.
+Tato zpráva vám nebude předávána.
 
 #chron_expand
-read more
+přečíst si víc
 
 #chron_expand_c1
-click to read the rest of this chronicle
+kliknutím si přečtěte zbytek této kroniky
 
 #chron_past_up
 Přišlo ti to zajímavé.
 
 #chron_past_down
-You didn't find this interesting.
+Nepovažovali jste to za zajímavé.
 
 #chron_none
-You havn't been reached by any news from the outside world yet!
+Dosud jste nebyli osloveni žádnými zprávami z vnějšího světa!
 
 #b_menu_discord_1
-Ymir official Discord
+Ymir oficiální Discord
 
 #b_menu_discord_2
-Join the Ymir community!
+Připojte se ke komunitě Ymir!
 
 #b_menu_porcopedia_1
 Porcopedia
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+Oficiální online wiki hry
 
 #b_menu_trell_1
-Ymir on Trello
+Ymir na Trellu
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+Sledujte vývoj hry a hlasujte pro plánované funkce
 
 #mainmenu_maxim
-maximize
+maximalizovat
 
 #mainmenu_minim
-minimize
+minimalizovat
 
 #dsclmr_title
 DISCLAIMER
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- Tato hra je projektem pro jednoho člověka: vývoj je pomalý.
 
 #dsclmr_2
-- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+- Tato hra pravděpodobně zůstane navždy experimentem s nedokončenou kvalitou, správnou stabilitu a optimalizaci hotového produktu.
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- Hra na sólo je k dispozici, ale hlavním cílem této hry je multiplayer.
 
 #b_menuop_autovsize
 Automatic viewport definition
@@ -4805,31 +4803,31 @@ Definition of the game graphics in relation to your screen resolution: 100% mean
 Lowering this ratio greatly increases performances.
 
 #b_menuop_autoui
-Automatic UI size
+Automatická UI velikost
 
 #b_menuop_autoui_c1
-UI size will automatically adapt to your display resolution.
+UI(Uživatelské rozhraní) velikost se automaticky přizpůsobí vašemu rozlišení displeje
 
 #b_menuop_uisize
-UI size
+UI velikost
 
 #b_menuop_uisize_c1
-Changes the size of the UI layer. 
+Mění velikost vrstvy UI(uživatelského rozhraní).
 
 #b_menuop_uisize_c2
 Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
 
 #gmtyp_solo
-Solo
+Sólo
 
 #gmtyp_solo_dscr1
-Solo games can only be played alone.
+Sólové hry lze hrát pouze samostatně.
 
 #gmtyp_solo_dscr2
-Game speed overall is the fastest.
+Rychlost hry je celkově nejrychlejší.
 
 #gmtyp_solo_dscr3
-This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+Účelem této hry je naučit se základy hry před připojením ke správným hrám pro více hráčů nebo pro hráče, kteří chtějí stavět v pohodlí.
 
 #ui_bdginf_bldrs
 requires builders
@@ -5582,7 +5580,7 @@ Late rate: [x]% ( dotázaných:[y]  zpožděných:[z]  selhaných:[v])
 Spawn bonus
 
 #servlst_sb_c1
-The more players a server is missing, the higher the initial spawn bonus on non-primitive starts.
+Čím více hráčů chybí na serveru, tím vyšší je počáteční bonus za spawn na ne-primitivních začátcích.
 
 #servlst_prgrs
 Pokrok
@@ -5594,13 +5592,13 @@ Celková technologycká úroveň ve kterém se hra právě nacházi.
 Výtězný
 
 #servlst_won_c1
-Wether this game is won yet or not. Once won, the game is over and the server may be wiped and restarted.
+Pokud tato hra byla vyhráta, nebo ne. Jakmile někdo vyhraje, hra končí a server může být vymazán a restartován.
 
 #newchar_bestspwn
 (Nejvyšší hodnota: [x])
 
 #ui_annex_err3
-You can't place any more of this annex type.
+Tento typ přístavby již nelze víc umístit.
 
 #gamelob_spwnbon
 Startující bonus
@@ -5609,7 +5607,7 @@ Startující bonus
 Při zrození se jako mový hráč tak tento bonus pomáhá a zvyšuje celkové startovní podmínky (více materílu, technologie, atd.) zvoleného startu.
 
 #gamelob_spwnbon_c2
-This bonus is proportionnal to the lack of active players on the server.
+Tento bonus je úměrný nedostatku aktivních hráčů na serveru.
 
 #formact_move
 Přemístit
@@ -5621,4 +5619,64 @@ Nabídka o dohodě byla úspěšně odeslána!
 Začáteční tutoriál byl dokončen!
 
 #cnvrt_mil_err
-Insufficient population to convert this milita!
+Nedostatečná populace k převedení na milici!
+
+#joingame_yourgames_dscr_1¨
+Historie všech vašich posledních hraných postav pro snadnější přímý přístup.
+
+#ui_menubdg_solid
+Spolehlivost
+
+#ui_menubdg_struct
+Struktura
+
+#ui_recruit_into
+Převod do
+
+#ui_recruit_coincost
+Cena
+
+#ui_recruit_coininc
+Příjem
+
+#ui_tile_movcost_enm
+nepřátelské území
+
+#form_atfct
+Artefakt
+
+#form_atfct_dscr_1
+Toto je speciální artefakt. Jako neživý předmět náleží tomu, kdo jej aktuálně ovládá. Nelze jej zničit, najmout nebo převést do formací.
+
+#form_atfct_dscr_2
+Vlastnictví je možné získat kteroukoli z vašich formací nacházejícím se na stejném území a nárokovat si ji, ale je to možné pouze v případě, že současný vlastník nemá žádnou vlastní „hlídací“ strukturu.
+
+#form_atfct_dscr_3
+Vlastnictví lze ztratit stejným způsobem.
+
+#mg_localgame
+lokální hra
+
+#mg_remove_1
+smazat z "mé hry"
+
+#mg_remove_2
+(toto je jenom zkratka, smazáním tohoto nesmáže tvůj aktuální charakter v té dané hře)
+
+#mg_serverstatus
+status serveru
+
+#mg_srvr_unknown
+neznámé
+
+#mg_srvr_online
+online
+
+#uiworldforms_inreg
+Formace v tomto teritoriu
+
+#uiworldforms_novisib
+Neznámé: žádná viditelnost
+
+#formmisspop
+Na území není dostatek populace, aby bylo možné toto vojsko plně naverbovat!
