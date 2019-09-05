@@ -3283,6 +3283,9 @@ If you disband this formation in one of your controlled territories, all the inv
 #bc_menuform_disb_3
 You cannot disband in territories you do not control!
 
+#bc_menuform_cantchtype
+This formation type cannot be changed.
+
 #menuform_pwr
 This formation type costs [x] State Power to maintain.
 
@@ -3712,6 +3715,9 @@ You cannot move here because you have no right of passage with the owner of this
 #ui_wrldmov_er5
 This formation cannot break camp until it has at least 50 Action Points.
 
+#ui_wrldmov_erxplr
+This formation cannot explore new territories.
+
 #formimob_er1
 You cannot give any orders to this formation because its currently immobilized!
 
@@ -4058,7 +4064,7 @@ The trade route operator is the city dealing with the transportation of the good
 It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route’s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+The cost of cargo is exponential to the trade route's distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
 
 #ui_troute_vol
 Cargo volume
@@ -4172,7 +4178,7 @@ Militia
 A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
 
 #menu_nfrm_t2_dscr2
-Militias don’t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Militias don't monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
 
 #menu_nfrm_t2_dscr3
 However , the militia cannot move to other territory s and decreases the state authority.
@@ -4188,6 +4194,18 @@ National armies also give their authority bonus to all regions of the Nation, ev
 
 #menu_nfrm_t3_3
 Note that you can convert a regular army into a National one at will and vice-versa.
+
+#form_atfct
+Artifact
+
+#form_atfct_dscr_1
+This is a special artifact. As an inanimate object it belongs to whoever currently controls it. It cannot be destroyed, recruited, or transfered into formations.
+
+#form_atfct_dscr_2
+Ownership of it can be aquired by any of your formations located on the same territory and claiming it, but it's only possible if the current owner has no formation of his own 'guarding' it as well.
+
+#form_atfct_dscr_3
+Ownership can be lost in the same way.
 
 #menu_trbuy_title
 Buying resource...
@@ -5407,6 +5425,9 @@ Reclaim territory
 #formact_unclaim
 Unclaim territory
 
+#formact_tkartfct
+Claim the artefact
+
 #formhome_title
 Changing this formation's home...
 
@@ -5670,3 +5691,24 @@ Formations in this territory
 
 #uiworldforms_novisib
 Unknown: no visibility
+
+#formmisspop
+Not enough population in territory to fully pig-up this troop!
+
+#autoban_cheat
+Account banned for cheating.
+
+#autoban_vm
+Account banned for usage of a Vitrual Machine.
+
+#autoban_device
+Account banned for attempting to cheat the one-device-only restriction.
+
+#autobanned
+You've been banned from this server by the automatic anti-cheat.
+
+#modbanned
+You've been manually banned from this server by its admin.
+
+#insuf_funds
+Insufficient funds!

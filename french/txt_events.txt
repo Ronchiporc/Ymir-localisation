@@ -18,10 +18,10 @@ Avoir [x] bâtiments de la classe [y] sur le territoire
 Evénement terminé [x]
 
 #cond_loyal_inf
-Fidélité territoriale inférieure à [x]
+Loyauté territoriale inférieure à [x]
 
 #cond_loyal_sup
-Fidélité territoriale supérieure à [x]
+Loyauté territoriale supérieure à [x]
 
 #cond_pow_inf
 Pouvoir de l'État inférieur à [x]
@@ -36,10 +36,10 @@ Légitimité de l'État inférieure à [x]
 Légitimité de l'État supérieure à [x]
 
 #cond_coins_inf
-Devise d'état inférieure à [x]
+Trésorerie inférieure à [x]
 
 #cond_coins_sup
-Monnaie d'état supérieure à [x]
+Trésorerie supérieure à [x]
 
 #cond_notech
 Ne pas avoir la connaissance de '[x]'
@@ -90,7 +90,7 @@ Conflit de population supérieur à [x]
 Consommation de [x] supérieure à [y]
 
 #cond_natres
-Avoir des ressources naturelles de [x]
+Avoir une ressource naturelle de [x]
 
 #cond_resaxs_inf
 [y] accès inférieur à [x]%
@@ -117,7 +117,7 @@ Production agricole inférieure à [x]
 Production agricole supérieure à [x]
 
 #cond_natagri
-Avoir des sources naturelles de légumes et de plantes
+Avoir une ressource naturelle de légumes ou de plantes
 
 #cond_militia_inf
 Milice inférieure à [x] [y]
@@ -126,13 +126,19 @@ Milice inférieure à [x] [y]
 Milice supérieure à [x] [y]
 
 #cond_army_inf
-Armée inférieure à [x] [y]
+Avoir une armée de moins de [x] [y]
 
 #cond_army_sup
-Armée supérieure à [x] [y]
+Avoir une armée d'au moins [x] [y]
+
+#cond_units_inf
+Avoir moins de [x] [y]
+
+#cond_units_sup
+Avoir au moins [x] [y]
 
 #cond_natmetal
-Avoir des gisements naturelles de métal
+Contrôler un gisement naturel de métal
 
 #cond_GDP_inf
 PIB inférieur à [x]
@@ -171,16 +177,16 @@ Avoir plus de [x] [y] bâtiments
 [y] production supérieure à [x]
 
 #cond_prdgrp_inf
-Stocks de [y] ressources inférieures à [x]
+Stock de [y] inférieur à [x]
 
 #cond_prdgrp_sup
-Stocks de ressources [y] supérieures à [x]
+Stock de [y] supérieur à [x]
 
 #cond_prdgrpprd_inf
-Production de ressources [y] inférieures à [x]
+Production de [y] inférieure à [x]
 
 #cond_prdgrpprd_sup
-Production de ressources [y] supérieures à [x]
+Production de [y] supérieure à [x]
 
 #cond_resneed_inf
 Une demande insatisfaite de [y] de moins de [x]
@@ -189,10 +195,10 @@ Une demande insatisfaite de [y] de moins de [x]
 Une demande insatisfaite de [y] supérieure à [x]
 
 #cond_civic
-Avoir le civique '[x]' activé
+Avoir la politique '[x]' activée
 
 #cond_civeff
-Avoir l'effet civique: '[x]'
+Avoir la politique: '[x]'
 
 #cond_militpow_inf
 Puissance militaire totale inférieure à [x]
@@ -201,10 +207,10 @@ Puissance militaire totale inférieure à [x]
 Puissance militaire totale supérieure à [x]
 
 #cond_ecobal_inf
-Solde budgétaire du gouvernement inférieur à [x]
+Balance budgétaire du gouvernement inférieure à [x]
 
 #cond_ecobal_sup
-Solde budgétaire du gouvernement supérieur à [x]
+Balance budgétaire du gouvernement supérieure à [x]
 
 #cond_growth_inf
 [y] croissance inférieure à [x]
@@ -228,28 +234,28 @@ vitesse de carbonisation supérieure à [x]
 Avoir accès à [x]
 
 #cond_hasevent
-Completer évenement '[x]'
+Completer l'évenement '[x]'
 
 #effect_givres
-Recevoir [y] [x] sur le territoire
+Réception de [y] [x] dans le territoire
 
 #effect_globgivres
-Recevoir [y] [x]
+Réception de [y] [x]
 
 #effect_givfood
-Recevoir [x] de nourriture
+Réception de [x] de nourriture
 
 #effect_trigev
 Événement Triggers
 
 #effect_givcoin
-Recive [x] pièces de monnaie
+Réception de [x] monnaies
 
 #effect_setcoin
-Trésorerie définie sur [x] pièces
+Trésorerie redéfinie à [x] monnaies
 
 #effect_loyalev
-Événement d'État: [x] loyauté territoriale
+Événement d'État: [x] de loyauté territoriale
 
 #effect_trigproj
 Déverrouille le projet: [x]
@@ -261,67 +267,67 @@ Rejette le projet: [x]
 Déverrouille la technologie: [x]
 
 #effect_bandits
-La formation est immédiatement attaquée par [x] bandits.
+La formation est immédiatement attaquée par [x] bandits
 
 #effect_invloss
-Perdez [x]% de l'inventaire de la formation.
+Perte de [x]% de l'inventaire de la formation
 
 #effect_invcatloss
-Perdez [x]% de l'inventaire [y] de la formation.
+Perte de [x]% de l'inventaire [y] de la formation
 
 #effect_givloot
-Vous recevez [x] de butin.
+Réception de [x] de butin
 
 #effect_hostribe
-La formation est immédiatement attaquée par des primitives [x].
+La formation est immédiatement attaquée par des primitives [x]
 
 #effect_unitloss
-[x]% des porcs de la formation sont perdus.
+[x]% des porcs de la formation sont perdus
 
 #effect_joinbfmly
-La formation est rejointe par [x] familles.
+Rallié par [x] familles
 
 #effect_xplrmap
-Révèle la carte du territoire jusqu'à [x] tuiles autour de la formation.
+Révèle la carte du territoire jusqu'à [x] tuiles autour de la formation
 
 #effect_formlst
-La formation est perdue.
+La formation est perdue
 
 #effect_canceldebt
-Annuler votre dette.
+Annulation de la dette
 
 #effect_givunit
-La formation est rejointe par [y] [x].
+Réception de [y] [x]
 
 #effect_agrifood
-Recevez [x] de nourriture agricole
+Réception de [x] de nourriture agricole
 
 #effect_spawnunit
-[x] [z] [y] apparaîtra.
+Apparition de [x] [z] [y]
 
 #effect_modhonor
 Honneur [x]
 
 #effect_giveVP
-Récompenses [x] Points de victoire.
+Obtention de [x] Points de victoire
 
 #effect_immigr
-[x] les familles arrivent sur le territoire.
+Arrivée de [x] familles sur le territoire
 
 #effect_emigr
-[x] les familles quittent le territoire.
+Départ de [x] familles du territoire
 
 #effect_gividea
-Recevoir une nouvelle idée: [x]
+Récéption d'une nouvelle idée: [x]
 
 #effect_givreg
-Prenez le contrôle du territoire.
+Prise du contrôle du territoire
 
 #effect_fac_rplc
-Vous permuterez la position dans la hiérarchie de la Nation avec ce personnage.
+Héritage de la position hiérarchique Nationale de ce personnage
 
 #effect_fac_trigvt
-Sera déclencher un vote des subalternes pour élire un successeur à la position de ce personnage dans la nation.
+Déclenche un vote des subalternes pour élire un successeur à la position de ce personnage dans la nation
 
 #event_diplomes
 Message de [x]
@@ -333,13 +339,13 @@ Proposition de traité de [x]
 Nous avons déclaré la guerre à [x]
 
 #event_dwar_att_1
-Monseigneur, nous avons déclaré la guerre à [x] de [y] et sommes maintenant en guerre avec ces porcelets faibles.
+Nous avons déclaré la guerre à [x] de [y] et sommes maintenant en guerre avec ces faibles porcelets sans honneur.
 
 #event_dwar_def
 [x] nous a déclaré la guerre!
 
 #event_dwar_def_1
-Mon seigneur, [x] de [y] nous a déclaré la guerre.
+[x] de [y] nous a déclaré la guerre!
 
 #event_dwar_def_2
 Nous sommes maintenant en guerre avec ces cochons sales.
@@ -354,16 +360,16 @@ Mission terminée: [x]
 Nous avons terminé cette mission et reçu ses récompenses.
 
 #event_gameovr
-Jeu terminé!
+Partie terminé!
 
 #event_gameovr_1
-Le jeu est terminé et son vainqueur est la nation de '[x]', étant le premier à atteindre [p1] points de victoire et avec un score total de [p2].
+La partie est terminée et son vainqueur est la nation de '[x]', étant la première à atteindre [p1] points de victoire et avec un score total de [p2].
 
 #event_gameovr_2
-Notez que le jeu peut continuer et vous pouvez continuer à jouer, mais les scores et les rangs ne seront plus mis à jour et il n'y aura plus de missions de victoire.
+Notez que la partie peut continuer et que vous pouvez continuer à jouer, mais les scores et les rangs ne seront plus mis à jour.
 
 #event_rsk_upris
-Risque de rébellion en [x]
+Risque de rébellion à [x]
 
 #event_rsk_upris_1
 La loyauté de [x] est très faible et il y a un risque élevé de rébellion imminente de sa population! Nous devons faire quelque chose à ce sujet ...
@@ -372,7 +378,7 @@ La loyauté de [x] est très faible et il y a un risque élevé de rébellion im
 La loyauté est réduite par des facteurs tels que: quantité de culture locale, forte garnison locale, absence de troupes d'état, faible pouvoir ou légitimité de l'Etat, nombre de villes et distance de capitale. Vous pouvez ouvrir le classement pour voir votre score final.
 
 #event_revolt
-Révolte populaire dans [x]!
+Révolte populaire à [x]!
 
 #event_revolt_1
 La population de [x] se révolte contre nous et les rebelles tentent de prendre le contrôle de la ville! S'ils réussissent, nous perdrons le contrôle de ce territoire!
@@ -381,7 +387,7 @@ La population de [x] se révolte contre nous et les rebelles tentent de prendre 
 [p2]% de la population prend les armes et se rebelle, y compris [p3] les soldats de la garnison locale qui ont fait défection aux rebelles. Nos soldats loyalistes [p5] font face à un total de [p4] rebelles.
 
 #event_br_revolt
-Révolte populaire en [x]
+Révolte populaire à [x]
 
 #event_br_revolt_1
 La population de [x] s'est révoltée contre nous et les rebelles ont essayé de prendre le contrôle de la ville.
@@ -939,61 +945,61 @@ Le traité '[x]' que nous avons eu avec [y] a atteint la fin de sa durée conven
 Tribu de nomades affamés dans [x]
 
 #ev_migtrib_1
-Attirée par notre prospérité, une tribu primitive de nomades affamés est arrivée en [x]. Ils errent depuis longtemps dans les terres, souffrent de la faim, et ils sont intéressés à se joindre à notre communauté. Ils portent peu avec eux et n'ont pas grand chose à offrir en plus de leur main-d'œuvre.
+Attirée par notre prospérité, une tribu primitive de nomades affamés est arrivée sur [x]. Ils errent depuis longtemps dans les terres, souffrent de la faim, et ils sont souhaitent se joindre à notre communauté. Ils n'apportent que peu de provisions et matériel avec eux et n'ont donc pas grand chose à offrir en dehors de leur main-d'œuvre.
 
 #ev_migtrib_2
 Devrions-nous les accueillir dans notre tribu?
 
 #ev_migtrib_c1
-"Oui, nous avons besoin de l'effectif supplémentaire, qu'ils soient accueillis parmi nous."
+"Oui, nous avons besoin de l'effectifs supplémentaires, qu'ils soient accueillis parmi nous."
 
 #ev_migtrib_c2
 "Non, nous ne pouvons pas nous permettre des bouches supplémentaires à nourrir."
 
 #ev_stormwood
-Nuit orageuse à [x]
+Nuit d'orage à [x]
 
 #ev_stormwood_1
-Une violente tempête a fait rage toute la nuit à [x], avec de forts vents. Heureusement, personne a été blessé et le village n'a subi aucun dommage.
+Une violente tempête a fait rage toute la nuit à [x], avec des vents violents. Heureusement, personne n'a été blessé et le village n'a subi aucun dommage significatif.
 
 #ev_stormwood_2
-Cependant, le matin, les villageois ont remarqué que quelques grands arbres étaient tombés à proximité, ce qui en faisait une source de bois facile et gratuite!
+Cependant, au matin, les villageois ont remarqué que plusieurs grands arbres étaient tombés à proximité fournissant ainsi sans éffort une bonne source de bois gratuite et prête à l'usage!
 
 #ev_luckgath
-Lucky gatherer à [x]
+Cueilleur chanceux à [x]
 
 #ev_luckgath_1
-Un de nos cueilleurs a eu de la chance et a trébuché sur une parcelle de plantes comestibles jusque-là inconnue cachée dans la végétation que personne n'avait remarquée auparavant! C'est une bonne récolte pour la journée!
+Un de nos cueilleurs maladroits a eu de la chance et est tombé sur une parcelle de plantes comestibles jusque-là inconnue, cachée au sein de fourrés de végétation que personne n'avait encore remarqués! Voilà une bonne récolte pour la journée!
 
 #ev_nagwif
-La harceleuse
+Histoires de ménage
 
 #ev_nagwif_1
-Un porco du village de [x], exaspéré par les harcèlements incessants de sa porcasse, décida de partir en retraite dans le désert pour chasser et disparut pendant plusieurs jours.
+Un porco du village de [x], exaspéré par les harcèlements incessants de sa porcasse, décida de partir en retraite dans le désert pour chasser et disparut ainsi pendant plusieurs jours.
 
 #ev_nagwif_2
-Beaucoup craignaient qu'il ne revienne jamais. Mais le 5ème jour, il revint, emportant avec lui les dépouilles de ce qui s'était avéré être une chasse très réussie. Il a été acclamé par toute la tribu. Sa femme, cependant, n'était pas contente et partit avec ses porcelets pour vivre dans la tribu de sa mère, de l'autre côté de la vallée.
+Beaucoup craignaient qu'il ne revienne jamais. Mais le 5ème jour il revint, raportant avec lui les dépouilles de ce qui s'était avéré être une chasse fort abondante. Il fut ainsi chaleureusement acceuillit par toute la tribu. Cependant, sa femme toujours furieuse partit avec ses porcelets vivre dans la tribu de sa mère de l'autre côté de la vallée.
 
 #ev_regwolf
 Loups affamés à [x]!
 
 #ev_regwolf_1
-Une meute de loups affamés est arrivée sur le territoire de [x], probablement attirée par nos stocks alimentaires! Pendant la nuit, ils ont réveillé toute la tribu avec leurs hurlements effrayants qui se rapprochaient de plus en plus. A l'aube, leurs silhouettes sombres ont été repérées autour du village.
+Une meute de loups affamés est arrivée sur le territoire de [x], probablement attirée par nos stocks alimentaires! Pendant la nuit, ils ont réveillé toute la tribu avec leurs hurlements effrayants qui se rapprochèrent de plus en plus. A l'aube, leurs sombres silhouettes furent repérées rôdant autour du village.
 
 #ev_regwolf_2
-Tous les guerriers se sont précipités vers leurs armes et se sont rassemblés, prêts à combattre la meute de loups et à protéger le peuple et les stocks du village!
+Tous les guerriers se sont équipés et se sont rassemblés prêts à combattre la meute de loups pour protéger le peuple et les stocks du village!
 
 #ev_regbear
-Mauvais ours à [x]
+Salerés d'ours à [x]
 
 #ev_regbear_1
-Un petit groupe d'ours est venu errer sur le territoire de [x]. Pendant la nuit, ils sont entrés dans le village et ont commencé à se déchaîner dans nos réserves alimentaires et nos provisions.
+Un petit groupe d'ours est venu errer sur le territoire de [x]. Pendant la nuit, ils sont entrés dans le village et ont commencé à se déchaîner sur nos réserves alimentaires et nos provisions.
 
 #ev_regbear_c1
-"Tout le monde, fais semblant de dormir ..."
+"Que tout le monde fasse semblant de dormir..."
 
 #ev_regbear_c2
-Il est temps de se battre avec des ours!
+"Il est temps de se battre avec des ours!"
 
 #ev_asylm
 Demandeurs d'asile en [x]
@@ -1014,19 +1020,19 @@ Offrez-leur l'asile et combattez leurs poursuivants.
 Capturez ces fugitifs et offrez-les à la justice de leurs poursuivants pour une récompense.
 
 #ev_knowtrav
-Le voyageur averti
+Le sage voyageur
 
 #ev_knowtrav_1
-Un jour, un vieux cochon est arrivé dans notre village de [x], les pieds fatigués des nombreux voyages qu'il avait faits. Il était un ermite solitaire, vivant et voyageant seul pendant de nombreuses années maintenant.
+Un jour, un vieux cochon est arrivé dans notre village de [x], les pieds fatigués des nombreux voyages qu'il avait faits. C'était un ermite solitaire, vivant et voyageant seul depuis de nombreuses années.
 
 #ev_knowtrav_2
-Il a raconté l'histoire de l'ancien peuple auquel il appartenait, qui a péri il y a longtemps d'une maladie mystérieuse dont il a été le seul à se remettre, en fuyant loin de sa terre. Il racontait aussi comment son peuple vivait: des histoires incroyables sur des choses qu'ils a faites. Il y avait beaucoup à apprendre de ses enseignements car il semblait provenir d'un peuple mystérieux et plus raffiné que le notre.
+Il racontat l'histoire du peuple auquel il appartenait jadis, et qui péri il y a des années d'un mal mystérieux dont il fut le seul à survivre, le forçant à vire en éxil loin de sa terre d'origine. Il raconta aussi comment son peuple vivait: des histoires incroyables sur des choses qu'ils savaient faire. Il y avait manifestement beaucoup à apprendre de ses connaissances car il semblait provenir d'un peuple mystérieux plus savant que le notre.
 
 #ev_knowtrav_3
-Mais l'émerveillement et l'influence qu'il a acquis parmi la tribu ont commencé à bouleverser ses membres plus dominants qui ont senti leur position menacée ... Que devrions-nous faire à ce sujet?
+Mais l'émerveillement qu'on sucité ses histoires et l'influence qu'il a ainsi acquis au sein de la tribu à commencé à mécontenter certains membres dominants, jaloux et inquiets de voir leur position menacée par ce nouveau venu. Que devrions-nous faire à ce sujet?
 
 #ev_knowtrav_c1
-Écoutez ce que ce voyageur a à enseigner même si cela dérange tout le monde.
+Écouter ce que ce voyageur a à enseigner, même si cela mécontente certains puissants.
 
 #ev_knowtrav_c2
 Bannir le vieux cochon du village pour ses mensonges.
@@ -1035,7 +1041,7 @@ Bannir le vieux cochon du village pour ses mensonges.
 Don d'amitié à [x]
 
 #ev_frndgift_1
-Un groupe de voyageurs nomades a traversé notre petit village de [x]. Ils sont restés quelques jours, partageant des histoires et se liant d'amitié avec certains locaux. Heureux de notre hospitalité, ils nous ont offert quelques-uns de leurs biens en signe d'amitié, avant de nous faire nos adieux et de poursuivre leur voyage.
+Un groupe de voyageurs nomades a traversé notre petit village de [x]. Ils sont restés quelques jours, partageant leurs histoires et se liant d'amitié avec certains locaux. Reconnaissants de l'acceuil qui leur a été fait, ils nous ont offert quelques-uns de leurs biens en signe d'amitié avant de nous faire leurs adieux et de poursuivre leur voyage.
 
 #ev_vp_complet
 Mission de victoire complétée.
@@ -1053,16 +1059,16 @@ Le peuple de [x] a complété une mission de victoire "[y]" avant nous!
 Des guerriers veulent se joindrent à nous!
 
 #ev_joinwriors_1
-Un groupe de 10 guerriers ont erré dans les terres pendant plusieurs lunes avant d'arriver dans notre tribus. Ils sont amicaux et souhaitent se joindre à nous: ils nous offrent leur aide pour chasser et explorer le monde si nous les accueillons parmi nous.
+Un groupe de 10 guerriers errants est arrivé dans notre tribu. Ils semblent amicaux et souhaitent se joindre à nous: ils nous offrent leur aide pour chasser et explorer le monde si nous les accueillons parmi nous en échange.
 
 #ev_joinwriors_c1
 "Oui, accueillons-les!"
 
 #ev_joinwriors_c2
-"Non, nous ne pouvons pas soutenir de nouvelles personnes en ce moment."
+"Non, nous ne pouvons pas acceuillir de nouveaux gens pour le moment."
 
 #ev_exceptool
-Des outils exceptionnels
+Outils exceptionnels
 
 #ev_exceptool_1
 L'un des artisans les plus talentueux de la tribu a trouvé des pierres d'une solidité et d'une dureté inhabituelles et il a réussi à en fabriquer quelques outils d'une qualité exceptionnelle!
@@ -1071,28 +1077,28 @@ L'un des artisans les plus talentueux de la tribu a trouvé des pierres d'une so
 Boost de vitesse
 
 #ev_spdboost_1
-En tant que nouveau personnage, pour profiter d'un départ dynamique, vous recevrez un x [x] SPEED BOOST temporaire pendant vos premières [y] minutes de jeu!
+En tant que nouveau personnage, pour profiter d'un départ dynamique vous recevez temporairement un bonus de x[x] de vitesse de jeu pendant vos [y] premières minutes de jeu!
 
 #ev_spdboost_2
 Ce bonus, tant qu'il reste actif, modifie les statistiques suivantes de votre personnage:
 
 #ev_spdboost_3
-- La production et la consommation des ressources dans vos territoires sont plus rapides, le cycle de production étant réduit de [x].
+- La production et la consommation des ressources dans vos territoires sont plus rapides, le cycle de production étant réduit par [x].
 
 #ev_spdboost_4
-- La croissance de la population évolue plus vite puisque la durée d'une génération normale est réduite de [x].
+- La croissance de la population évolue plus vite puisque la durée d'une génération normale est réduite par [x].
 
 #ev_spdboost_5
-- La vitesse de recherche est augmentée de [x].
+- La vitesse de recherche est augmentée par [x].
 
 #ev_spdboost_6
-- La vitesse de construction est augmentée de [x].
+- La vitesse de construction est augmentée par [x].
 
 #ev_rebljoin
-[x] se sont rebellés et souhaitent nous rejoindre.
+La population de [x] s'est rebellée et souhaitent nous rejoindre.
 
 #ev_rebljoin_1
-Bonne nouvelle: la ville de [x] s'est rebellée contre ses oppresseurs de [y]. La ville est enfin libre et la population, se sentant culturellement attachée à nous, souhaite maintenant rejoindre notre glorieuse nation!
+Bonne nouvelle: la ville de [x] s'est rebellée contre ses oppresseurs de [y]. La ville est enfin libre et sa population, se sentant culturellement attachée à nous, souhaite rejoindre notre glorieuse nation!
 
 #ev_rebljoin_2
 Si nous acceptons, nous reprendrons la propriété et le contrôle de ce territoire. Si nous refusons, ils resteront gouvernés par les rebelles.
@@ -1170,61 +1176,61 @@ Laisser.
 Des bandits ont tendu une embuscade à notre formation '[x]'!
 
 #ev_xplr_bdts_1
-Tandis que notre formation '[x]' de [p2] porcos voyageait à travers le désert, ils arrivèrent à un moment donné à traverser une petite passe étroite nichée entre deux collines. Le soleil était haut et les Porcos étaient fatigués du long voyage et du transport de tous les biens que la troupe avait avec eux.
+Tandis que notre formation '[x]' voyagait à travers un territoire d'apparence désert, ils durent à un moment s'engager dans une passe étroite nichée entre deux falaises. Le soleil était haut et les Porcos fatigués par leur long voyage et par le poid des biens qu'ils transportaient.
 
 #ev_xplr_bdts_2
-Sans surprise, un petit groupe d'une vingtaine de bandits embusqués est soudainement apparu des deux côtés, entourant nos troupes. Leur chef a avancé, et a fait une demande simple: "Donnez-nous tout votre butin ou devenez du bacon!". Que devrions nous faire?
+Après un moment, un petit groupe d'une vingtaine de bandits embusqués apparu soudaiement des deux côtés, encerclant notre groupe. Leur chef s'avanca, et fit une demande fort simple: "Donnez-nous tout votre butin ou vous finirez en lardons!". Que devrions nous faire?
 
 #ev_xplr_bdts_c1
-"Nous n'avons pas peur de ces Pigbandits!"
+N'ayons pas peur de ces cochons de bandits!
 
 #ev_xplr_bdts_c2
-Donnez leur ce qu'ils veulent.
+Donnez leur ce qu'ils demandent.
 
 #ev_xplr_abvil
 '[x]' a trouvé un village abandonné.
 
 #ev_xplr_abvil_1
-En explorant les terres, notre groupe '[x] a trébuché sur les restes d'un village primitif abortif de quelques huttes. Prudemment, les poroso ont commencé à inspecter ces restes et sont arrivés à la conclusion que ceux qui vivaient là sont maintenant partis depuis longtemps. "Ils semblent avoir abandonné beaucoup de choses ici ... Qui sait pour quelles raisons les gens qui ont vécu là-bas ont décidé de partir, mais ils n'ont pas pris grand chose avec eux!", A conclu le chef du groupe.
+En explorant des terres inconnues, notre expédition '[x]' est tombée sur les restes d'un ancien village primitif de quelques huttes. Prudemment, les poroso commencèrent à inspecter les ruines et arrivèrent à la conclusion que ceux qui vivaient là étianet désormais partis depuis longtemps. "Ils semblent avoir abandonné beaucoup de choses ici... On ne saura jamais pour quelles raisons les gens qui ont vécu ici jadis ont décidé de partir, mais en tous cas ils n'ont semble t'il pas pris grand chose avec eux!", conclu le chef du groupe.
 
 #ev_xplr_abvil_2
-Bien que beaucoup de choses se soient détériorées avec le temps, certaines semblent encore en assez bon état pour nous intéresser. Devrions-nous fouiller le village et fouiller ce que nous pouvons?
+Bien que beaucoup de choses s'étaient détériorées avec le temps, certaines semblaient encore en assez bon état pour être d'interêt. Devrions-nous fouiller le village et récuperer ce que nous pouvons?
 
 #ev_xplr_abvil_c1
 "Oui, fouillons le village abandonné et prenons ce que nous pouvons!"
 
 #ev_xplr_abvil_c2
-on, laissons les choses telles qu'elles sont, nous n'avons pas le temps pour ça."
+"Non, laissons les choses telles qu'elles sont, nous n'avons pas le temps pour ça."
 
 #ev_xplr_birds
 Oiseaux intrépides
 
 #ev_xplr_birds_1
-«[x]» campaient dans une forêt après une longue journée de marche dans ces terres inconnues. La nuit arrivait, et tous les porcos étaient rassemblés autour des feux de camp. C'est à ce moment qu'ils ont entendu un bruit dans un buisson voisin, d'où émergea une bande oiseaux qui ne leur étaient pas familiers. Les bêtes semblaient inconscientes de leur présence, choisissant des choses sur le sol de la forêt comme si elles étaient seules sur la terre.
+Notre expedition '[x]' avait établi un campement dans une forêt après une longue journée de marche à travers une contrée inconnue. La nuit arrivée, tous les porcos étaient rassemblés autour de feux de camp. C'est alors qu'ils entendirent des bruits provenant de fourrés voisins et d'où émergèrent un groupe de volatiles qui ne leur était pas familier. Les bêtes semblaient totalement indifférentes à leur présence, afférées à picorer graines et insectes sur le sol de la forêt.
 
 #ev_xplr_birds_2
-"Eh bien ... On dirait que la viande fraîche est de retour au menu, les garçons!", Sourit le chef du groupe: au matin, tous les oiseaux étaient allés à la rencontre de leur créateur. Quelle chasse chanceuse! Le groupe, le matin, est parti avec une bedaine et de nouveaux stocks de viande fraîche.
+"Eh bien ... On dirait que la viande fraîche est de retour au menu, les gars!", sourit le chef du groupe. Au matin, tous les oiseaux s'en étaient retournés à leur créateur. Quelle aubaine! Le groupe reparti avec une bedaine bien remplie et de nouvelles réserves de viande fraîche.
 
 #ev_xplr_hsttrib
-'[x]' est attaqué par une tribu hostile!
+Attaque d'autochtones hostiles!
 
 #ev_xplr_hsttrib_1
-Mauvaises nouvelles! Tandis que [x] traversait de nouvelles terres inconnues, ils se retrouvèrent soudain entourés d'un groupe d'une demi-douzaine de natifs hostiles. Ils sont venus de nulle part ... Nous avons probablement marché près de leur territoire, ou peut-être qu'ils n'aiment pas nos museaux. Avant même que les porcos ne réalisent ce qui se passait, les guerriers primitifs attaquaient déjà ...
+Mauvaises nouvelles! Tandis que notre expedition '[x]' traversait des terres inconnues, ils se retrouvèrent soudain encerclés par un groupe d'une demi-douzaine d'autochtones clairement hostiles, surgis de nulle part... Ils sont probablement passés trop près de leur territoire sans le savoir, ou peut-être les natifs n'aimaient ils simplement le groin de nos explorateurs. Avant même que nos porcos n'aient pu réaliser ce qui se passait, les guerriers autochtones se lancèrent à l'attaque...
 
 #ev_xplr_thirst
 Désert impitoyable
 
 #ev_xplr_thirst_1
-Notre formation "[x]" a erré trop loin dans des terres arides inconnues. Pendant des jours, ils n'ont pu trouver aucune source d'eau douce. Les porcs cherchaient désespérément de l'eau, mais ce n'était pas une tâche facile dans ces contrées désertiques. Au moment où ils ont trouvé une flaque de boue pour étancher leur thrist, beaucoup d'entre eux avaient été perdus au détriment des vautours et du soleil impitoyable de ces terres.
+Notre expedition '[x]' s'est imprudemment engagée trop loin dans des terres arides inconnues. Pendant des jours, ils n'ont pu trouver aucune source d'eau potable. Les Porcos cherchèrent désespérément de l'eau, mais cela s'avéra être une tâche fort difficile dans ces contrées désertiques. Quand enfin ils parvinrent a trouver une misérable flaque où étancher leur soif, beaucoup d'entre eux avaient déja succombé au soleil impitoyable de ces terres pour le plus grand bénéfices des vautours.
 
 #ev_xplr_thirst_2
-Peut-être aurions-nous dû éviter de nous aventurer trop loin dans un territoire aussi hostile.
+Peut-être aurions-nous dû éviter de nous aventurer trop loin dans des territoires aride inconnus.
 
 #ev_xplr_lstjngl
 Perdu dans la jungle
 
 #ev_xplr_lstjngl_1
-Les porcos de '[x] étaient perdus depuis des jours dans cette jungle sanglante, harcelé par la chaleur et perdu. Il ne fallut pas longtemps avant que le groupe se transforme en deux groupes ... "Hé Mr Jenkins, je jure que j'ai déjà vu ce foutu arbre il y a 2 jours!" dit Porkypigs. "Viens, peut-être que nous trouverons bientôt le reste du groupe! Continuons de marcher!". Mais ils ne l'ont jamais fait. Cependant, ils ont trouvé un nid de mouches mangeuses de chairs de la taille d'une main au moment où M. Jenkins a décidé que c'était le bon moment pour titiller un trou suspect dans un arbre avec un bâton pour essayer de trouver quelque chose à manger.
+Les porcos de '[x]' étaient perdus depuis des jours dans cette jungle sanglante, harcelé par la chaleur et perdu. Il ne fallut pas longtemps avant que le groupe se transforme en deux groupes ... "Hé Mr Jenkins, je jure que j'ai déjà vu ce foutu arbre il y a 2 jours!" dit Porkypigs. "Viens, peut-être que nous trouverons bientôt le reste du groupe! Continuons de marcher!". Mais ils ne l'ont jamais fait. Cependant, ils ont trouvé un nid de mouches mangeuses de chairs de la taille d'une main au moment où M. Jenkins a décidé que c'était le bon moment pour titiller un trou suspect dans un arbre avec un bâton pour essayer de trouver quelque chose à manger.
 
 #ev_xplr_lstjngl_c1
 "Sanglant M. Jenkins!"
@@ -1233,49 +1239,49 @@ Les porcos de '[x] étaient perdus depuis des jours dans cette jungle sanglante,
 La tribu affamée
 
 #ev_xplr_strvtrib_1
-Les porcos de '[x]' avaient repéré un petit groupe de personnes, marchant sur le flanc d'une colline. Le lendemain matin, le même groupe a été repéré, cette fois-ci plus près, et les porcos ont décidé d'aller les rencontrer: c'était un petit groupe de quelques familles, avec des porcelets et des porcasses, et ils ne semblaient pas être une menace.
+Notre éxpedition '[x]' a apperçu un soir un petit groupe de personnes marchant au loins sur le flanc d'une colline. Le lendemain matin, le même groupe a été une fois encore apperçu cette fois-ci plus proche, et les Porcos décidèrent de faire un petit détour pour aller à leur rencontre: il s'agit d'un petit groupe de quelques familles, avec porcelets et des porcasses, qui ne semblait être aucunement menaçant.
 
 #ev_xplr_strvtrib_2
-Quand ils se rapprochaient, leur état devenait horriblement clair: ces gens qui marchaient étaient squelletiques, affamés. Ils marchaient lentement, et il n'y avait aucun espoir dans leur yeux. Ils ne semblaient pas remarquer la présence du groupe qui se rapprochait d'eux jusqu'à ce que l'un d'entre nous s'avance littéralement devant eux.
+A mesure qu'ils s'en rapprochèrent, ils constatèrent avec horreur leur état: ces gens étaient squelletiques et affamés. Ils marchaient lentement et tout espoir semblait avoir quitté leurs regards hagards. Ils ne semblèrent meme pas remarquer la présence du groupe arrivé a leur proximité, et ce jusqu'à ce que l'un des explorateurs ne les arrête en se plaçant littéralement devant eux.
 
 #ev_xplr_strvtrib_3
-Nous leur avons offert certaines de nos provisions, et ce n'est qu'à partir du deuxième jour qu'ils ont finalement échangé quelques mots avec le groupe et nous ont raconté leur histoire. Ils étaient une tribu grande et prospère, vivant de la chasse et de la cueillette jusqu'à ce qu'ils soient chassés de leurs terres par une tribu plus puissante. Ils avaient perdu tous leurs précieux outils et armes, et la plupart des porcos les plus forts de leur tribu étaient morts en combattant. Depuis lors, les survivants ont erré dans les terres incapables de chasser, lentement affamés.
+Les Porcos leur offrirent quelques provisions, et ce n'est qu'à partir du deuxième jour que les voyageurs commencèrent à échanger quelques mots avec le groupe, racontant leur histoire. Ils étaient d'une tribu grande et prospère, vivant de chasse et de cueillette jusqu'à ce qu'au jour ou ils furent vaincus et éxpulsés de leurs terres par une autre tribu plus puissante. Les survivants avaient perdus tous leurs biens les plus précieux et la plupart de leur meilleurs guerriers et chasseurs étaient morts au combat. Depuis lors, ils erraient en exil sur des terres inhospitalières, affamés et incapables de chasser.
 
 #ev_xplr_strvtrib_c1
-"Rejoignez-nous, nous vous offrirons une nouvelle maison!"
+"Rejoignez-nous, nous vous offriront une nouvelle maison!"
 
 #ev_xplr_strvtrib_c2
-Nous ne pouvons pas prendre soin de ces gens. Souhaitons-leur bonne chance et passons à autre chose.
+Nous ne pouvons pas prendre soin de ces gens. Souhaitons-leur bonne chance et passons notre chemin.
 
 #ev_xplr_snakes
-Serpents dans une plaine
+Des serpents dans la plaine
 
 #ev_xplr_snakes_1
-Notre formation '[x] traversait lentement une plaine apparemment sans fin couverte de hautes herbes épaisses à la hauteur d'un porco quand l'un d'eux sentit une vive douleur sur ses pieds: il avait été mordu par un serpent coloré qui disparut rapidement dans l'herbe . Il n'y avait rien que nous puissions faire pour le malchanceux: en quelques minutes sa jambe avait doublé de volume et il connu une mort horrible.
+Notre expedition '[x]' progressait lentement à travers une vaste plaine couverte de hautes herbes à hauteur de Porco lorsque l'un d'eux sentit une vive douleur à l'une de ses chevilles: il venait d'être mordu par un serpent coloré qui avait déja disparu dans les herbes. Les autres ne purent rien faire pour le malchanceux: en quelques minutes sa jambe doubla de volume et il mourut dans d'atroces souffrances.
 
 #ev_xplr_snakes_2
-Cela, malheureusement, était juste un début car au moment où le groupe a réussi à échapper à la plaine, deux autres avaient été mordus et ont subit le même sort. Cette plaine était infestée littéralement de serpents visqueux.
+Cela malheureusement ne fut qu'un début: lorsque le groupe parvint enfin à sortir de la plaine aux hautes herbes, deux autres Porcos avaient subit le même sort. Cette plaine était infestée de serpents venimeux.
 
 #ev_xplr_snakes_c1
-"J'ai été morrdu par ces serpents de merde!"
+"Foutus serpents à la con!"
 
 #ev_xplr_map
-La tribu amicale offre '[x]' une carte du territoire.
+Guide amical
 
 #ev_xplr_map_1
-Notre formation '[x]' a été bien reçue par les indigènes dans un petit village, où ils ont passé quelques jours pour se reposer. Les villageois ont proposé à nos porcs de tout leur apprendre sur le territoire environnant qu'ils connaissent très bien:
+Notre formation '[x]' a été bien reçue par les autochtones d'un petit village où ils en ont profité pour se reposer quelques jours. Les sympatiques villageois ont proposé à nos Porcos de tout leur apprendre sur le territoire environnant qu'ils connaissent très bien:
 
 #ev_xplr_map_2
-"Sniffingwind est le meilleur éclaireur du village" a déclaré leur chef. "Il connaît tous les tenants et les aboutissants de ces terres. Si vous le souhaitez, Sniffingwind peut vous montrer comment voyager à travers ce territoire, il n'a jamais eu de problèmes. Il vous dira quelles zones sont à éviter, quels endroits sont dangereux. En attendant, vous pouvez rester dans notre petit village! Devrions-nous rester un peu plus et accepter leur aide?
+"Sniffingwind est le meilleur éclaireur du village" a expliqué leur chef. "Il connaît tous les recoins de ces terres. Si vous le souhaitez Sniffingwind peut vous enseigner comment voyager en toute sécurité sur ce territoire. Il vous montrera tous les passages à éviter, les endroits dangereux, les points d'eau, et les endroits ou vous reposer en sécurité. En attendant, vous pouvez rester dans notre petit village! Devrions-nous rester un peu plus et accepter leur aide?
 
 #ev_xplr_snglost
 Explorateur perdu!
 
 #ev_xplr_snglost_1
-Il est très dangereux de voyager seul dans ces terres inconnues. Malheureusement, notre explorateur a disparu et n'a plus jamais été entendu.
+Il est très dangereux de partir explorer seul des terres inconnues: malheureusement, notre explorateur solitaire a disparu et n'a plus jamais été revu.
 
 #ev_xplr_snglost_2
-Qui sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, pour augmenter nos chances de succès.
+Nul ne sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, afin d'augmenter nos chances de succès.
 
 #ev_xplr_grplost
 Explorateur perdu!
@@ -1293,28 +1299,28 @@ Navires perdus dans une terrible tempête!
 La mer est dangereuse et de mauvaise humeur. Avant que quelqu'un ait eu le temps de réagir, une brise calme s'est transformée en une tempête terrifiante avec des vagues plus hautes que des collines et un ciel plus sombre que la nuit. Notre navire, malheureusement, n'était pas de taille pour cette tempête. Les porcos se battaient courageusement, mais les porcos et les navires étaient tous réclamés par la mer pour le lendemain matin. J'ai peur que nous ayons perdu toute l'expédition.
 
 #ev_xplr_rwave
-Vague mesquine!
+Vague scélérate!
 
 #ev_xplr_rwave_1
-La mer est dangereuse et traîtresse. C'était une journée ensoleillée, la mer semblait calme et la brise était agréable. Les porcos étaient détendus, mais désireux d'être de retour sur terre. Mais soudainement, un porco hurla, pointant à l'horizon sur tribord. Tout le monde regarda avec terreur ce qui ressemblait à un improbable mur d'eau qui se dirigeait vers le navire. Avant que quiconque puisse envisager de faire quelque chose, le petit bateau a été frappé et chaviré.
+La mer est dangereuse et traîtresse. Par une journée ensoleillée, la mer semblait calme et la brise était agréable. Les porcos étaient détendus, mais désireux d'être de retour sur terre. Soudainement, un porco hurla, pointant la mer sur tribord. Tout le monde regarda avec terreur ce qui ressemblait à un improbable mur d'eau se dirigeant droit vers le navire. Avant que quiconque n'ait eu le temps d'envisager la moindre réaction, l'embarcation fut frappée par la vague et engloutie sous les flots.
 
 #ev_xplr_rwave_2
-Il n'y avait rien qu'ils auraient pu faire contre un événement aussi perfide et imprévisible: ils n'avaient aucune chance. Les navires et les porcos ont été traînés au fond de la mer, pour ne plus jamais être revus.
+Il y a de toutes façons rien qu'ils auraient pu faire contre un événement aussi perfide et imprévisible. Ils n'avaient aucune chance. Le navire fut perdu corps et biens, entrainé vers les fonds marins.
 
 #ev_xplr_menlstsea
-'[x]' a été frappé par une tempête.
+Tempête!
 
 #ev_xplr_menlstsea_1
-Le ciel menaçait toute la soirée: un mur de nuages noirs venant de l'horizon vers eux. Le capitaine essaya d'y échapper, mais sans succès. Il était trop grand, il bougeait trop vite et le vaisseau était trop petit. Ils devaient y faire face, et à la tombée de la nuit, il les avait engloutis.
+Le ciel fut menaçant toute la soirée: un mur de nuages noirs se déplaçait inexorablement depuis l'horizon dans leur direction. Le capitaine essaya d'y échapper, mais sans succès: les nuages étaient trop nombreux et s'approchèrent trop vite. Ils durent y faire face, et à la tombée de la nuit, la tempête les avait encerclé.
 
 #ev_xplr_menlstsea_2
-Ce fut une nuit terrible que tous les porcos se rappelleront pour toujours. Les vagues ont presque fait chaviré le navire de fret plusieurs fois, mais heureusement et contre toute attente, leur embarcation loyal a pendu dessus. Tout le monde n'était pas là au matin, de nombreux porcos ont perdu des frères ce soir-là. Ils n'en parleront plus jamais, mais tous se souviendront à jamais des appels désespérés  de ceux qui sont tombés dans la mer pendant la tempête, tandis qu'ils les regardaient, impuissants, s'éloigner inexorablement du navire.
+Ce fut une nuit terrible dont tous les porcos se rappelleront pour le restant de leurs jours. Les vagues firent presque chavirer le navire plusieurs fois, mais heureusement et contre toute attente leur loyale embarcation à chaque fois tenu bon. Tous n'en réchapèrent pas et beaucoup ne furent plus là au matin lorsque la tempête fut enfin passée. De nombreux porcos perdirent un frère cette nuit là. Ils n'en parlèrent jamais, mais tous furent hantés par le souvenir des appels désespérés de ceux qui tombèrent à la mer pendant la tempête, et de la vision de les voir, impuissant, dériver inexorablement au loin du navire et disparaitre derrière les vagues.
 
 #ev_xplr_invlstsea
-'[x]' a perdu des fournitures dans la mer.
+Cargaison à la mer!
 
 #ev_xplr_invlstsea_1
-Un marin non qualifié n'a pas correctement attaché une caisse de fournitures que le navire transportait et pendant une nuit turbulente avec de forts vents, la caisse est tombée dans la mer et nous avons perdu son contenu!
+Un marin peu experimenté avait sur le pont incorrectement attaché une caisse de cargaison. Pendant une nuit houleuse en raison de vents violents, la caisse se détacha et tomba dans la mer sans pouvoir être récuperée. Son contenu est désormais au fond de l'eau.
 
 #ev_xplr_sngseal
 Mer dangereuse
@@ -1323,91 +1329,91 @@ Mer dangereuse
 La mer n'est pas un endroit pour un porco seul, elle est impardonnable et impitoyable. Notre explorateur solitaire a disparu et n'a plus jamais été revu.
 
 #ev_xplr_sngseal_2
-Qui sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, si nous voulons avoir une chance!
+Nul ne sait ce qui lui est arrivé ... Peut-être que nous devrions envisager d'envoyer une plus grande expédition la prochaine fois, si nous voulons avoir une chance!
 
 #ev_xplr_wiseold
-Le sage Oldpig
+Le vieux philosophe
 
 #ev_xplr_wiseold_1
-Alors que notre expédition «[x]» se dirigeait vers un nouveau territoire inexploré, un groupe de porcos en haillons a croisé notre chemin. Malgré leur apparence modeste, ils semblaient tous bien éduqués, pleins d'assurance et de détermination. Leur chef, un vieux vénérable portant une barbe hirsute tombant à genoux, se présentait comme un philosophe. Il avait erré dans le monde pendant de nombreuses années, professant sa pensée à quiconque voulait l'écouter.
+Alors que notre expédition '[x]' traversait un nouveau territoire jusque là inexploré, un groupe de porcos en haillons a croisat leur chemin. Malgré leur apparence modeste ils semblaient tous bien éduqués, pleins d'assurance et de détermination. Leur chef, un vieux Porco vénérable affublé d'une barbe hirsute tombant jusqu'à ses genoux, se présentait comme un philosophe. Il avait erré dans le monde pendant de nombreuses années, professant ses pensées à quiconque voulait bien les écouter.
 
 #ev_xplr_wiseold_2
-Nous avons décidé de nous asseoir avec eux un moment et le vieux porco sage a commencé à présenter sa doctrine: Il a soutenu que le bonheur ne pouvait pas être atteint en satisfaisant les désirs conventionnels comme la richesse, la puissance, la renommée ou les plaisirs de la chair. Selon son école de pensée, seule une vie simple et libre de toutes possessions pourrait vraiment remplir nos âmes.
+Les Porcos décidèrent de s'asseoir avec eux un moment et le vieux sage commencat à présenter sa philosophie: Il soutenait que le bonheur ne pouvait pas être atteint en satisfaisant les désirs conventionnels comme la richesse matérielle, la puissance, la renommée ou les plaisirs de la chair. D'après son école de pensée, seule une vie simple, chaste, et libre de toutes possessions pouvait apporter la paix de l'âme.
 
 #ev_xplr_wiseold_3
-Il a parlé pendant des heures, captivant tout le public. Ses mots étaient subtils et son raisonnement logique. Il était même si persuasif que beaucoup d'entre nous décidèrent d'abandonner tous leurs biens pour le suivre.
+Il parlat ainsi des heures durant, captivant son public. Ses mots étaient justes et son raisonnement convainquant. Il fut même si persuasif que beaucoup de nos Porcos décidèrent d'abandonner tous leurs biens pour se joindre à lui.
 
 #ev_xplr_cptsow
 Porcasses captives
 
 #ev_xplr_cptsow_1
-Un éclaireur de l'expédition [x] vient de signaler la présence d'une bande de guerriers dans la région. A en juger par l'apparition de leur camp, leur présence sur le territoire n'est que temporaire.
+Un éclaireur de l'expédition '[x]' vient de signaler la présence d'une bande de guerriers dans la région. D'après lui, à en juger par leur campement, ils s'agit de nomades qui ne sont que de passage.
 
 #ev_xplr_cptsow_2
-Au centre de leur bivouac, l'éclaireur a repéré une grande cage en bois remplie de porcasses en captivité. Nous ne connaissons pas les intentions de ces guerriers, ni les circonstances dans lesquelles ces porcasses ont été capturées, mais leur sort semble assez désagréable.
+Au centre de leur bivouac, l'éclaireur a repéré une grande cage en bois remplie de Porcasses en captivité. Impossible de connaitre les intentions de ces guerriers, ni les circonstances dans lesquelles ces porcasses ont été capturées, mais leur sort qui les attend semble être sinistre sans aucun doute.
 
 #ev_xplr_cptsow_c1
-Combattez les ravisseurs pour libérer les porcasses.
+Combattre les ravisseurs pour libérer les Porcasses.
 
 #ev_xplr_cptsow_c2
-Ne vous impliqué pas.
+Ne pas s'impliquer.
 
 #ev_xplr_slprats
 Satanés rats!
 
 #ev_xplr_slprats_1
-Notre expédition, '[x]' a été obligée de se mettre à l'abri dans la première cavité rocheuse que nous avons pu trouver alors qu'un orage a soudainement éclaté. Trempés jusqu'à la peau, nous nous sommes tous rassemblés et avons essayé de nous reposer malgré le bruit assourdissant de la tempête.
+Notre expédition '[x]' a été suprise par un violent orage et à dû se réfugier dans une cavité rocheuse à proximité. Trempés jusqu'aux os et fourbus, ils établirent un petit campement et essayerent de se reposer malgré le bruit assourdissant de la tempête.
 
 #ev_xplr_slprats_2
-Le matin, la pluie s'est finalement arrêtée et le calme est revenu. À moitié endormis, nous avons entendu des cris venant de nos récipients de nourriture. Nous avons vite réalisé que nous étions entourés de rats. Les rongeurs malveillants avaient profité du bruit pour se régaler de nos provisions toute la nuit.
+Au matin, la pluie s'était finalement arrêtée et le calme était revenu. À moitié endormis, alors qu'ils s'appretaient à préparer une collation avant de reprendre leur chemin, ils constatèrent avec dégout que leurs chargement de provision était foisonnant de rats: les rongeurs malveillants avaient profité du chaos de la tempête pour se régaler de leurs provisions toute la nuit.
 
 #ev_xplr_jnglsnek
-Serpent de la jungle
+Un serpent dans la jungle
 
 #ev_xplr_jnglsnek_1
-Pendant que '[x] se frayaient un chemin dans la forêt tropicale dense, un de nos explorateurs a été mordu par un serpent noir. Le reptile rampant disparut aussitôt derrière un buisson. Après quelques heures, le porco blessé se plaignait de se sentir étourdis et d'avoir une vision floue. Il est finalement mort dans la nuit, incapable de respirer.
+Pendant que notre expédition '[x]' se frayait un chemin à travers une dense forêt tropicale, l'un des explorateurs fut mordu par un vif serpent de jais. Le reptile rampant disparut aussitôt derrière un buisson. Après quelques heures, le Porco envenimé se plaignit de se sentir étourdi et d'une vision floue. Il mourrut pendant la nuit, incapable de respirer.
 
 #ev_xplr_lckyfsh
-Pêche chanceuse
+Pêche providencielle
 
 #ev_xplr_lckyfsh_1
-Nos explorateurs de '[x] campaient sur les rives d'une rivière pour la nuit. C'était un après-midi ensoleillé, et l'eau était limpide. C'est alors qu'un porco les a repérés: des poissons gras géants nageant dans les eaux peu profondes! Ils étaient si lents que le groupe pouvait les ramasser sans effort.
+Nos explorateurs de '[x]' décidèrent de camper sur les rives d'une rivière pour la nuit. C'était un après-midi ensoleillé, et l'eau était limpide. L'un des Porcos repéra rapidement d'énormes poissons d'apparence fort grasse se prélassant dans les eaux peu profondes! Ils étaient si lents que le groupe pu les pêcher tous sans aucun effort.
 
 #ev_xplr_lckyfsh_2
-Le groupe s'est bien nourri cette nuit-là. Ils ont aussi vidé et fumé beaucoup plus de poissons pour les emmener avec eux.
+Le groupe ripaillat à plat ventre cette nuit-là. Le lendemain, ils vidèrent et fumèrent tout leur surplus pour les emmener avec eux.
 
 #ev_xplr_natrprov
-La nature fournit
+Nature généreuse
 
 #ev_xplr_natrprov_1
-'[x]', en voyageant à travers la terre, est tombé sur une petite parcelle de terre fertile couverte de plantes brillantes remplies de légumes et de fruits prêts pour la cueillette.
+Notre expedition '[x]', alors qu'ils traversaient un territoire verdoyant, découvrit une parcelle de terre particulièrement fertile recouverte de divers légumes et fruit prêts pour la cueillette.
 
 #ev_xplr_natrprov_2
-Parfois, la nature est généreuse et distribue. Les porcos s'arrêtèrent quelques heures et se régalèrent de ce cadeau inattendu et prirent le reste avec eux.
+Parfois, la nature est généreuse. Les porcos firent ici une pause de quelques heures et se régalèrent de ce cadeau inattendu avant d'ajouter le reste à leurs provisions et de reprendre le voyage.
 
 #ev_xplr_elegsow
-La porcasse élégante
+L'élégante Porcasse
 
 #ev_xplr_elegsow_1
-Pendant leur voyage à travers un territoire inexploré, l'expédition de '[x] a rencontré une procession menée par une porcasse élégante, confortablement assise sur un palanquin. Les deux groupes ont décidé de voyager ensemble temporairement afin de bénéficier d'une protection mutuelle.*
+Alors qu'ils voyagaient à travers une contrée jusque là inexplorée, notre expédition '[x]' rencontrat une curieuse procession menée par une Porcasse fort avenante confortablement installée sur un palanquin. Celle-ci semblant amicale, ils décidèrent de voyager ensemble pour un temps afin de profiter d'une protection mutuelle.
 
 #ev_xplr_elegsow_2
-Les porcos du cortege ont à peine prononcé un mot. Contrairement aux autres membres de son groupe, la matriarche était très dynamique et bavarde. Elle a dit qu'elle était passionné par les arts de la botanique et qu'elle pouvait préparer toutes sortes de remèdes et d'onguents miraculeux. Quand le temps du diner est venu, elle a servi certaines de ses spécialités. Afin de digérer, elle a également offert des boissons qu'elle a concocter. À la fin du mélange étrange, les explorateurs se sentaient mieux qu'ils ne l'avaient jamais été auparavant. Ils pensaient que la boisson était bénie et que la puissante porcasse était de nature divine pour pouvoir concevoir une telle substance. Le mois suivant, on leur a offert le mélange sacré chaque fois qu'ils le demandaient. Ils sont vite devenus dépendants de la délicieuse drogue du Hag. Ils sont devenus ses marionnettes, vidées de toutes leurs volontés, comme tous les autres malheureux dans la procession.
+Les porteurs ne prononcèrent aucun mot, contrastant avec la matriarche qui était elle très dynamique et bavarde. Elle expliqua être passionnée des arts de la botanique et pouvoir préparer toutes sortes de remèdes et d'onguents miraculeux. Le soir venu, autour du campement établi elle servi certaines de ses spécialités revigorantes. Afin de digérer, elle offrit également une boisson concotée par ses soins. À la fin de repas, les explorateurs se sentirent si bien requinqués et d'une forme excellente qu'il pensèrent la boisson magique et que celle qui en avait le secret devait manifestement être de nature divine pour pouvoir concevoir une telle potion. Au court des jours qui suivirent, elle continua de leur offrire ainsi le mélange quand chaque soir ils en redemandaient. Rapidement, ils devinrent drogués et dépendants de la mysterieuse boisson. Amorphes et vidés de toute volonté, ils devinrent serviles, et bientôt rejoinrent en silence les autres malheureux de sa procession.
 
 #ev_xplr_elegsow_3
-Quelques-uns d'entre eux ne pouvaient plus le supporter et ont décidé de fuir pendant la nuit. Les jours suivants, ils erraient sans but, luttant contre le manque de drogue. Après un long et dur sevrage, ils ont finalement récupéré. Juste quelques porcos de l'ancienne expédition sont toujours là. Tous les autres ont été ensorcelés par la concoction extrêmement addictive de la sorcière.
+Une minorité des Porcos à la volonté plus forte que les autres parvint à trouver la force de s'enfuir une nuit. Les jours suivants, ils errèrent en souffrance luttant contre le manque de drogue. Après un long et dur sevrage, ils parvinrent à récuperer. Il ne restait ainsi de l'expedition que ces quelques Porcos: tous les autres avaient été ensorcelés par l'addictive concoction de la sorcière.
 
 #ev_xplr_mahout
 Les mahouts
 
 #ev_xplr_mahout_1
-Pendant leurs pérégrinations dans des terres inexplorées, les porcs de '[x] s'arrêtèrent dans un petit hameau de mahouts paisibles. Les habitants possédaient un troupeau de cinq éléphants en bonne santé. Apprivoiser ces grosses créatures est un processus long et laborieux, et parfois leurs instincts sauvages reprennent le dessus.
+Pendant leurs pérégrinations dans des terres inexplorées, les porcs de '[x]' s'arrêtèrent dans un petit hameau de mahouts paisibles. Les habitants possédaient un troupeau de cinq éléphants en bonne santé. Apprivoiser ces grosses créatures est un processus long et laborieux, et parfois leurs instincts sauvages reprennent le dessus.
 
 #ev_xplr_mahout_2
 Alors que nos explorateurs étaient sur le point de partir, les énormes pachydermes devinrent soudainement furieux. Ils ont fait une brèche dans la clôture et ont provoqué le chaos dans le hameau, broyant les huttes, mettant tout à l'envers. Alors que la situation devenait désespérée, un de nos porcos s'approcha prudemment des cinq éléphants furieux. Contre toute attente, les animaux enragés se sont calmés instantanément. Allongés sur le ventre, ils levèrent leurs malles vers les cèpes, en signe de prostration. La population locale était stupéfaite et pensait que notre porc était un être divin. Ils se sont tous agenouillés dans sa direction et ont crié "Le père des éléphants!"
 
 #ev_xplr_mahout_3
-Après cela, les cornacs ont semblé adorer nos porcs et ont souhaité nous rejoindre avec leur troupeau.
+Après cela, les cornacs ont semblé adorer nos Porcos et ont souhaité nous rejoindre avec leur troupeau.
 
 #ev_xplr_mahout_c1
 Enrôlez-les.
@@ -1425,22 +1431,22 @@ Nos explorateurs [x] 'remontaient les pentes abruptes d'un territoire nouvelleme
 Beaucoup de nos porcos ont été blessés, mais heureusement, ils ont tous survécu. Quand ils se relevèrent, ils remarquèrent de loin une protubérance brillante. En approchant, ils ont découvert un énorme gisement de minerai qui avait été mis à nu par le glissement de terrain.
 
 #ev_xplr_ruinorph
-Les survivants orphelins
+Les orphelins survivants
 
 #ev_xplr_ruinorph_1
-Nos explorateurs [x] avaient repéré un large nuage de fumée à l'horizon, se levant et couvrant le ciel de son manteau sombre. Nos porcos s'approchèrent prudemment de l'endroit d'origine du feu et découvrirent des ruines fumantes, remplies de la puanteur de la mort: des corps sans vie jonchaient le sol tout autour, dépouillés de tout objet de valeur. Même le bétail n'avait pas été épargné.
+Notre expédition '[x]' a repéré une large colonne de fumée à l'horizon assombrissant le ciel. Nos Porcos s'approchèrent prudemment de l'origine du feu et découvrirent des ruines fumantes emplies par la puanteur de la mort: des corps sans vie jonchaient le sol tout autour, dépouillés de tout objet de valeur. Même le bétail n'avait pas été épargné.
 
 #ev_xplr_ruinorph_2
-La nuit tombait et les membres de l'expédition n'avaient pas l'intention de passer plus de temps au milieu de cette scène macabre. Alors qu'ils s'apprêtaient à partir, leur attention a été attirée par des centaines de petits feux verts qui décollaient d'un buisson voisin: des lucioles. Quelque chose avait perturbé tous ces insectes.
+La nuit tomba et les membres de l'expédition n'avaient pas l'intention de passer un moment de plus au milieu de cette scène macabre. Mais alors qu'ils s'apprêtaient à partir, leur attention fut attirée par des centaines de petites lumières vertes virevoltant à l'orée d'un bois avoisinant: des lucioles. Quelque chose venait de perturber tous ces insectes dans les fourrés.
 
 #ev_xplr_ruinorph_3
-En cherchant de plus près, nos porcos ont trouvé des dizaines d'enfants cachés dans la végétation. Ils semblaient tous très faibles et désespérés. Ils appartenaient sans aucun doute au village en ruines et leurs chances de survie semblent très faibles si aucune aide n'est apportée.
+En y cherchant de plus près, nos Porcos trouvèrent alors des dizaines d'enfants cachés là dans la végétation: ils semblaient tous très faibles et traumatisés, appartenant sans aucun doute au village désormais en ruines. Si aucune aide ne leur est apportée, il y a peu leurs chances qu'ils parviennent à survivre par eux mêmes.
 
 #ev_xplr_ruinorph_c1
-Adoptez les porcelets orphelins.
+Adopter les porcelets orphelins.
 
 #ev_xplr_ruinorph_c2
-Laisser.
+Laisser les porcerlets et poursuivre la route.
 
 #ev_xplr_sick
 Les explorateurs malades
@@ -1494,7 +1500,7 @@ Combattez les nomades et libérez votre idiot ivre.
 La tribu en deuil
 
 #ev_xplr_mourn_1
-Nos explorateurs de '[x] exploraient de nouvelles terres lorsqu'ils rencontrèrent une douzaine de porcos en deuil, enterrant une porcasse et un porcelet. Après des funérailles poignantes, ils ont dit à nos porcs qu'ils appartenaient autrefois à un groupe beaucoup plus grand qui avait été lentement décimé par de multiples attaques de bandits et d'épidémies. Ils manquaient de provisions maintenant et avaient perdu tout espoir de salut.
+Nos explorateurs de '[x]' exploraient de nouvelles terres lorsqu'ils rencontrèrent une douzaine de porcos en deuil, enterrant une porcasse et un porcelet. Après des funérailles poignantes, ils ont dit à nos porcs qu'ils appartenaient autrefois à un groupe beaucoup plus grand qui avait été lentement décimé par de multiples attaques de bandits et d'épidémies. Ils manquaient de provisions maintenant et avaient perdu tout espoir de salut.
 
 #ev_xplr_mourn_c1
 Proposez-leur de rejoindre votre expédition.
@@ -1518,7 +1524,7 @@ Après avoir terminé sa chanson, la porcasse se leva délicatement, attrapa un 
 Le porco curieux
 
 #ev_xplr_egg_1
-Nos explorateurs de '[x] ont trébuché sur un nid abandonné contenant quelques gros œufs: assez pour faire une omelette juteuse. Un porco curieux a décidé de garder son œuf, se privant du délicieux repas. Pendant des jours il l'a porté, et il a dormi à côté  pendant les nuits. Cela a duré des dizaines de jours, attirant la moquerie de ses compagnons.
+Nos explorateurs de '[x]' ont trébuché sur un nid abandonné contenant quelques gros œufs: assez pour faire une omelette juteuse. Un porco curieux a décidé de garder son œuf, se privant du délicieux repas. Pendant des jours il l'a porté, et il a dormi à côté  pendant les nuits. Cela a duré des dizaines de jours, attirant la moquerie de ses compagnons.
 
 #ev_xplr_egg_2
 Un matin, sous le regard curieux du porco, l'œuf éclos et en sortit une minuscule autruche pelucheuse. Depuis lors, il a suivi son bienfaiteur partout où il va et le reste du groupe en est même venu à considérer l'oiseau comme le mascotte de leur troupe.
@@ -1527,7 +1533,7 @@ Un matin, sous le regard curieux du porco, l'œuf éclos et en sortit une minusc
 Le pachyderme orphelin
 
 #ev_xplr_orphel_1
-Nos explorateurs de '[x] avaient marché pendant des heures sous le soleil des terres arides quand ils ont entendu des bruits d'appel étranges qui semblaient désespérés. Ils se dirigèrent vers un profond trou boueux au fond duquel était coincé un jeune pachyderm et sa mère. Pendant que le petit éléphant était vivant, sa mère ne l'était plus.
+Nos explorateurs de '[x]' avaient marché pendant des heures sous le soleil des terres arides quand ils ont entendu des bruits d'appel étranges qui semblaient désespérés. Ils se dirigèrent vers un profond trou boueux au fond duquel était coincé un jeune pachyderm et sa mère. Pendant que le petit éléphant était vivant, sa mère ne l'était plus.
 
 #ev_xplr_orphel_2
 En coupant des branches d'arbres morts à proximité, le groupe a travaillé sans fatigue pendant quelques heures pour creuser et aider le petit à sortir du trou. Dès qu'il est sorti, l'animal effrayé s'est d'abord enfui. Mais reconnaissant et n'ayant nulle part où aller, le petit pachyderme a apparemment pris goût au groupe et depuis il a commencé à les suivre. D'abord à une distance respectueuse, et tous les jours plus près jusqu'à ce qu'il finisse par marcher au milieu de leur groupe et dormir à côté de leur camp pendant la nuit.
@@ -1542,7 +1548,7 @@ Gardez le petit comme un éléphant de compagnie
 Les restes de la tribu
 
 #ev_xplr_tribrem_1
-Nos explorateurs de '[x] ont trébuché sur les restes d'un petit groupe de nomades malheureux. En apparence, ils étaient morts il y a longtemps dans des circonstances que le groupe ne pouvait pas comprendre. Toutes leurs affaires semblaient être encore intactes à côté d'eux.
+Nos explorateurs de '[x]' ont trébuché sur les restes d'un petit groupe de nomades malheureux. En apparence, ils étaient morts il y a longtemps dans des circonstances que le groupe ne pouvait pas comprendre. Toutes leurs affaires semblaient être encore intactes à côté d'eux.
 
 #ev_xplr_tribrem_c1
 Récupérer leurs restes pour récupérer ce que nous pouvons.
@@ -1855,3 +1861,51 @@ Notre gouvernement est en train de s'effondrer en raison d'un manque extrême de
 
 #ev_govcolps_army_2
 Malheureusement, nous venons donc de perdre notre formation '[x]'. Nos armées vont continuer à se disloquer tant que nous ne regagnons pas plus de Pouvoir d'Etat.
+
+#ch_palentir1_1
+A une heure où les porcelets sont endormis depuis longtemps, la ville dormait sous les étoiles lorsqu'une étincelante lumière apparu par delà l'horizon, plus claire qu'une pleine lune.
+Ceux qui à ce moment là étaient encore eveillés regardèrent avec étonnement et incrédulité tandis que celle-ci progressait à travers le ciel.
+
+#ch_palentir1_2
+Pendant plusieurs minutes, les gens se tinrent là observant en silence, fascinés et ne sachant comment réagir a un tel évenement. Tandis que la lumière continuait son chemin, le ciel a ses alentours s'illuminaient de drapés de verts et d'oranges. Les lumières étaient magnifiques, mouvantes et changeantes à chaque instant, beignant la cité de leur clarté. Comment une telle chose pourrait-elle être de mauvais augure? Il s'agissait surement là d'un bon présage.
+
+#ch_palentir1_3
+Soudain, alors qu'elle atteignit le zénith, la lumière explosa en silence en 7 boules de feu distinctes à la surprise et à l'emerveillement de la foulle grandissante dans les rues. Les fragments, chacun laissant derrière lui une trainée scintillante, s'éparpillaient dans des directions opposées et retombaients aux quatre coins de l'horizon. Là, ils disparurent après un moment sans un son de plus. Bientôt, la nuit noire repris sa place tandis que rien ne laissait transparaitre du spectable qui venait de se produire.
+
+#ch_palentir2_1
+Des rumeurs se répandent sur de mystérieux artéfacts tombés du ciel et entourés d'une aura de pouvoir. De nombreux voyageurs de diverses régions racontent des histoires d'explorateurs curieux partis pour inspecter les sites ou le feu a été vu tombant du ciel. Nombreux n'ont jamais été revus. D'autres évoquèrent de dangers inconnus et des roches devenues vivantes, tandis que ceux vivant à proximité de ces sites parlent de lueurs visibles au milieu de la nuit.
+
+#ch_palentir2_2
+Une histoire en particulier prétend qu'un Porco a réussi à observer l'un des artéfacts: une pierre noire et luisante de laquelle il est difficile de détacher le regard, brillante de couleurs indescriptibles, plus profonde qu'un océan et à l'intérieur de laquelle semblaient se mouvoir des nuages de tempête. Elle reposait au milieu d'un cratère guardé de créatures telles que personne n'en a jamais vues qui paraissaient faite de roche. L'air autour du site semblait chargé d'une puissante énergie. Mais, peut être plus interessant encore, la pierre était décrite comme cassée: alors que l'une de ses faces apparaissait polie et courbée comme la surface d'un globe, les autres facettes étaient nettes et cassantes comme un éclat d'obsidienne. Il semblait que la pierre n'était qu'un fragment d'un objet bien plus gros ayant la forme d'un globe parfait.
+
+#ch_palentir2_3
+Quelqu'un parviendra t'il a tirer au clair la véracité de ces rumeurs? De nombreux devins et divinateurs professent déja de multiples prophécies mystiques à propos de ces fragements de pierre, racontant que quiconque parviendra à rassembler tous les morceaux se verra octroyer d'incroyables pouvoirs.
+
+#ch_palentir3_1
+Des nouvelles se répendent comme quoi [x] de [y] serait parvenu a rassembler les 7 fragments de Palentir et à reconstituer la pierre, depuis le palais de sa capitale.
+
+#ch_palentir3_2
+Nul ne sait ce qui va désormais se passer et ni quel usage sera fait de son grand pouvoir, pourvu que les prophécies le prédisant aient été correctes.
+
+#ch_palentir4_1
+De nouvelles rumeurs nous parviennent, disant que le propriétaire du Palentir en aurait fait usage et n'aurait souhaité rien d'autre que la prospérité, le bonheur, et l'avancement de tout le peuple de [y].
+
+#ch_palentir4_2
+Il est dit qu'en réponse la pierre aurait donné à [x] des connaissances des dieux pour réaliser son souhait. D'après des témoins, ingénieurs et bâtisseurs de la cité ont déja reçu des instructions mysterieuses pour édifier un artéfact monumental devant apporter oppulance et sagesse à tous les habitants.
+
+#ch_palentir5_1
+Le peuple de [y] à finalement complété la construction d'un premier monolith noir mystérieux basé sur les inexplicables connaissances données à leur leader [x] par le Palentir. A la suite de l'évenement, de nombreux visiteurs ont témoigné d'un changement certain de comportement des habitants de la cité: dans le jours qui suivirent les plus agressifs et violents apparurent comme plus sages et respectueux des lois, l'humeur de la cité antière semblait s'être inexplicablement améliorée, et des Porcos jadis connus pour leur stupidité étaient pris a discutter philosophie avec leurs voisins. Les rapports de violences et mécontentement dans l'ensemble de la ville étaient depuis inexplicablement en force baisse. C'était comme si l'ensemble de la population avait soudain atteint un nouveau degré de sagesse et de raffinement.
+
+#ch_palentir5_2
+Des rumeurs circulent déja sur la construction prévue de multiples nouveaux monolithes. Si chacun d'entre eux vient à apporter autant de bénéfices inexplicables que ce premier ci, il ne faudra pas longtemps au peuple de [y] pour évoluer vers un niveau inacessible au commun des Porcos et atteidre ainsi une gloire indiscutable face aux autres cultures.
+
+#ch_palentir6_1
+De terribles rumeurs arrivent en provenance de [y]. Il se dit que [x], en possession du Palentir, en aurait fait usage avec comme seule sinistre ambition que de souhaiter soumettre le monde antier à sa volonté.
+Les plus grands ingénieurs et bâtisseurs de sa capitale aurait été convoqués, recevant des instructions entourées du plus grand secret. Il est spéculé qu'il aurait reçu en réponse du palentir des connaissances des dieux pour réaliser son souhait.
+
+#ch_palentir7_1
+Un événement terrible s'est produit dans la capitale de [y], alors que la construction d'une mysterieuse tour noire ordonnée par [x] était parachevée.
+De nombeurs gens ont fuit la cité, rapportant des faits terrifiants et incroyables. Ils disent qu'une mysterieuse lumière est apparue au sommet de la tour noire, s'élevant comme une colonne vers les cieux qui se sont alors inexplicablement obscurcis de nuages noirs comme la nuit. Puis une pluie noire et abondante est tombée sur la foulle qui s'était amassée pour observer l'évenement. Les gens ont alors été subitement pris d'un mal invisible qui les a frappés aussi vite que les nuages étaient apparus. Ils crièrent d'agonie, tombés au sol. Pendant ce temps ceux qui avaient été épargnés par la pluie fuyèrent la cité en terreur, abandonnant leurs familles et possessions. Certains racontent que les affligés ne sont pas mort, mais qu'ils hurlaient d'horreur a voir leur apparence se transformer et leur peau virer au vert.
+
+#ch_palentir7_2
+Depuis, personne n'a eu de nouvelle de la ville. Ceux qui y sont allés n'en sont pas revenus, et la pluspart des gens ont désormais trop peur pour tenter. Nul ne sait quelles terribles choses s'y passe ou ce qu'il est advenus réellement des affligés dans ce qui était jadis connu comme la capitale de [y].

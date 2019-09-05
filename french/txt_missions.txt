@@ -48,22 +48,22 @@ Nous devons construire un camp de chasse près de toute source d'animaux sauvage
 Construire un camp de chasse pour chasser les animaux sauvages naturellement présents et produire de la viande.
 
 #msn3_o_2
-Allez dans votre territoire nouvellement installé. Dans les onglets de construction, sélectionnez le camp de chasse et scannez le terrain. La zone mise en évidence autour du bâtiment est sa portée. Les tuiles exploitables apparaissent en vert. Cherchez des animaux et placez le camp de chasse à portée pour qu'il produise de la viande.
+Allez dans votre territoire nouvellement installé. Dans les onglets de construction, sélectionnez le camp de chasse et scannez le terrain. La zone mise en évidence autour du bâtiment est sa portée. Les cases exploitables apparaissent en vert. Cherchez des animaux et placez le camp de chasse à portée pour qu'il produise de la viande.
 
 #msn4
-Rassemblement
+Cueillette
 
 #msn4_1
-Il semble qu'il y ait aussi des plantes dans le territoire qui produisent des légumes et des fruits que nous pouvons récolter pour nourrir la tribu.
+Il semble qu'il y ait également des plantes comestibles sur le territoire que nous pouvons récolter pour nourrir la tribu.
 
 #msn4_2
-Nous devons construire un camp de rassemblement près de toute source disponible de plantes comestibles sauvages que nous pouvons trouver dans notre nouveau territoire.
+Nous devons établir des camps de cueillette à proximité de toutes les sources disponibles de plantes comestibles sauvages que nous pouvons trouver sur notre nouveau territoire.
 
 #msn4_o_1
-Construire un camp de rassemblement pour exploiter les plantes comestibles et produire plus de nourriture.
+Construire un camp de cueillette pour exploiter les plantes comestibles et fournir plus de nourriture.
 
 #msn4_o_2
-Dans votre territoire nouvellement établi, dans les onglets du bâtiment, sélectionnez le camp de rassemblement et scannez le terrain. La zone mise en évidence autour du bâtiment est sa portée. Les tuiles exploitables apparaissent en vert. Cherchez des plantes comestibles et placez le campement à portée de la main pour qu'il puisse les récolter et produire de la nourriture.
+Dans votre territoire nouvellement établi, dans les onglets des bâtiments, sélectionnez le camp de cueillette et scannez le terrain. Les cases exploitables apparaissent en vert. Cherchez des plantes comestibles et placez le campement à proximité pour qu'il puisse les exploiter et fournir de la nourriture.
 
 #msn5
 Outils
@@ -326,3 +326,12 @@ Objectif de population
 
 #msn_200pop_o_2
 Atteindre 200 de population
+
+#msn_palentfrg
+Les 7 artéfacts des cieux
+
+#msn_palentfrg_o_1
+Trouvez les 7 fragments de palentir et réunissez les dans vôtre capitale.
+
+#msn_palentfrg_o_2
+Disséminés sur toute la planète, ils peuvent être revendiqué par n'importe quelle formation. En contrôler un permet de voir la localisation de tous les autres. Obtenez le contrôle des 7 pièces et rassemblez les dans votre capitale pour reconstituer le Palentir et obtenir un grand pouvoir.

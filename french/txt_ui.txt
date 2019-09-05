@@ -2377,6 +2377,9 @@ Si vous démantelez cette formation dans l'un de vos territoires contrôlés, to
 #bc_menuform_disb_3
 Vous ne pouvez pas dissoudre dans les territoires que vous ne contrôlez pas!
 
+#bc_menuform_cantchtype
+This formation type cannot be changed.
+
 #menuform_disb_err1
 Vous ne pouvez pas dissoudre cette formation ici!
 
@@ -2393,7 +2396,7 @@ DÉCLARATION DE GUERRE
 Êtes-vous sûr de vouloir déclarer la guerre?
 
 #contact_sending
-Envoyer un message à [x] de [y] ...
+Envoi de la missve à [x] de [y] en cours...
 
 #contact_messto
 Message à [x] de [y]
@@ -2531,7 +2534,7 @@ Objectifs
 Récompenses
 
 #menuevt_prgrs
-actuel
+actuellement
 
 #menuevt_comp
 terminé!
@@ -2681,19 +2684,19 @@ L'autre
 annuler le traité
 
 #ui_wrldmov_er1
-Cette formation est déjà sur le territoire.
+Points d'Action insuffisants pour effectuer cette action!
 
 #ui_wrldmov_er2
-Tu ne peux pas bouger ici.
+Vous ne pouvez pas vous déplacer ici.
 
 #ui_wrldmov_er3
-Cette formation est actuellement immmobilisée et ne peut pas bouger!
+Mouvement impossible: la formation est actuellement immobilisée!
 
 #ui_wrldmov_er4
-Vous ne pouvez pas vous déplacer ici car vous n'avez aucun droit de passage avec le propriétaire de ce territoire!
+Mouvement impossible: vous n'avez pas de droit de passage avec le propriétaire de ce territoire!
 
 #formimob_er1
-Vous ne pouvez pas donner d'ordres à cette formation car elle est actuellement immobilisée!
+Action impossible car cette formation est actuellement immobilisée!
 
 #ui_bdg_nbprod
 Nombre de travailleurs affectés à la production
@@ -4213,6 +4216,9 @@ Revendiquer
 #formact_unclaim
 Dé-revendiquer
 
+#formact_tkartfct
+Prendre l'artéfact
+
 #formhome_title
 Réassigner la region mère de cette formation...
 
@@ -4777,6 +4783,9 @@ inactif: en attente d'une réponse de l'autre parti...
 #ui_wrldmov_er5
 Cette formation ne peut lever le camp tant qu'elle n'a pas au moins 50 points d'Action.
 
+#ui_wrldmov_erxplr
+Cette formation ne peut pas explorer de nouveaux territoires.
+
 #ui_bdg_ef4_dscr
 Si ce bâtiment fonctionne à pertes, son efficacité est progressivement réduite.
 
@@ -4806,6 +4815,18 @@ Les armées nationales fournissent un bonus d'authorité même aux autres membre
 
 #menu_nfrm_t3_3
 Notez que vous pouvez convertir cette armée régulière en nationale et vice-versa.
+
+#form_atfct
+Artéfact
+
+#form_atfct_dscr_1
+Ceci est un artéfact spécial. C'est un objet inanimé sans propriétaire définit. Il ne peut ni être détruit, recruté, ou transféré à d'autres formations.
+
+#form_atfct_dscr_2
+Son contrôle peut être obtenu par n'importe quelle formation localisée sur le meme territoire à condition que son propriétaire précédent n'aie lui même aucune formation en assurant la 'guarde'.
+
+#form_atfct_dscr_3
+Le contrôle de l'artéfact peut donc être gagné aussi bien que perdu.
 
 #fstate_encamp
 En Campement
@@ -5663,3 +5684,25 @@ Formations dans ce territoire
 
 #uiworldforms_novisib
 Inconnu: pas de visibilité
+
+#formmisspop
+Population du territoire insuffisante pour affecter l'entiereté de cette troupe.
+
+#autoban_cheat
+Banni pour tricherie.
+
+#autoban_vm
+Banni pour usage d'une Marchine Virtuelle.
+
+#autoban_device
+Banni pour tentative the contourner la règle d'un seul personnage par machine.
+
+#autobanned
+Vous avez été banni de ce serveur par le systeme automatique d'anti-triche.
+
+#modbanned
+Vous avez été manuellement banni de ce serveur par son admin.
+
+#insuf_funds
+Fonds insuffisants!
+
