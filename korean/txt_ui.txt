@@ -878,7 +878,7 @@ UI 소리
 사용 :
 
 #ui_menubdg_perslot
-슬롯당
+단위로 묶어서 슬롯마다 배치 
 
 #ui_menubdg_upto
 개선 사항:
@@ -1652,7 +1652,7 @@ GDP
 투자
 
 #ui_bdgeff_profit
-무익함 ([x]%)
+비효율성[x]%
 
 #ui_mres_indaccess
 산업 접근율
@@ -3776,10 +3776,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 근로자들에게 이익이 되지 않으면 건물의 효율은 점차 감소합니다.
 
 #ui_bdg_proddet
-생산품 세부 정보
+생산 세부 정보
 
 #ui_bdg_pdet_1
-직접 판매됨
+직접 판매한 양
 
 #ui_bdg_pdet_1_c
 생산량의 [x]%는 이 건물의 근로자들이 직접 시장에 내놓는다.
@@ -3788,25 +3788,25 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 ([y])의 [x]%는 단위당 [z]의 가격에 성공적으로 판매됬다(미매도 물품은 손실됨).
 
 #ui_bdg_pdet_2
-상인을 통해 판매됨.
+상인을 통해 판매한 양
 
 #ui_bdg_pdet_2_c
 [x]%의 생산은 이익의 몫을 나눠가지는 상인을 통해 시중에 유통됩니다.
 
 #ui_bdg_pdet_3
-생산자에게 판매됨.
+산업에 판매한 양
 
 #ui_bdg_pdet_3_c
 [x]%의 생산은 다른 산업이나 서비스에 판매됩니다.
 
 #ui_bdg_pdet_4
-수출한
+수출한 양
 
 #ui_bdg_pdet_4_c
 [x]%의 생산량은 해외시장에 수출됨
 
 #ui_bdg_pdet_5
-국개 매입
+국가가 매입하는 양
 
 #ui_bdg_pdet_5_c1
 판매에서 주(유저)로의 수익은 천천히 근로자에게 다시 전달되어 더 오랜 시간 소득을 창출합니다.
@@ -3818,7 +3818,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 과거 구매 : 동전[x]원.
 
 #ui_bdg_pdet_6
-생산비
+생산비용
 
 #ui_bdg_pdet_6_c
 생산에 필요한 재료를 구입하는 데 드는 비용.
