@@ -1,4 +1,5 @@
-﻿#idea_ptry
+﻿
+#idea_ptry
 Blátěnné košíky
 
 #idea_ptry1_1
@@ -136,8 +137,8 @@ Daňe
 #idea_tax_1
 Navrhování lepšího zdanění by zlepšilo efektivitu našich výběrčí daňí.
 
-#idea_tax_1
-Designing a better taxing system would improve the efficiency of our Tax collectors.
+#proj_tax_1
+Navrhování lepšího zdanění by zlepšilo efektivitu našich výběrčí daňí.
 
 #idea_laws
 Pravidla pro všechny
@@ -736,24 +737,6 @@ Cast Iron isn't really usefull by itself: it's very strong but also very brittle
 #proj_decarb_1
 Cast Iron isn't really usefull by itself: it's very strong but also very brittle and you cannot work with it. We can produce it easily but its saturated with carbon... Meanwhile, steel is also iron, but with less carbon in it. Currenlty we are making steel by taking pure iron and adding carbon to it with charcoal but its slower to produce and requires a lot of manual forging to produce while Cast Iron can be mass produced with blast furnaces. Therefore it would make steel production much easier if we could master a way to make steel out of Cast Iron by removing the extra carbon instead of making it by adding carbon to pure iron.
 
-#idea_cementation
-idea_cementation
-
-#idea_cementation_1
-idea_cementation_1
-
-#proj_cementation_1
-idea_cementation_1
-
-#idea_airblstl
-idea_airblstl
-
-#idea_airblstl_1
-idea_airblstl_1
-
-#proj_airblstl_1
-idea_airblstl_1
-
 #idea_miningtl
 Improving ore extraction
 
@@ -910,15 +893,6 @@ Cattle can spread over large areas and herds can become pretty difficult to mana
 #proj_cattleliers_1
 Cattle can spread over large areas and herds can become pretty difficult to manage. Higher up on horseback, it would be more convenient to move around and keep an eye on the herds than walking on foot below! Horses could become the essential companion to cattle raisers, making it easier to pursue and lead larger herds and managing bigger pastures. They would just need to get used to it...
 
-#idea_manure
-idea_manure
-
-#idea_manure_1
-idea_manure_1
-
-#proj_manure_1
-proj_manure_1
-
 #idea_horsebckrid
 Travelling on animals
 
@@ -927,15 +901,6 @@ Some animals are strong enough to carry heavy loads on their backs, so why not u
 
 #proj_horsebckrid_1
 Some animals are strong enough to carry heavy loads on their backs, so why not us? If we can select the most adapted and docile breeds to do so, and how to teach them to obey our orders, we could travel directly on their backs instead of using carts and heavy chariots attached on their backs. It would make travelling on it more practical and fast, and it would open new perspectives for warefare as well!
-
-#idea_soilcol
-idea_soilcol
-
-#idea_soilcol_1
-idea_soilcol_1
-
-#proj_soilcol_1
-proj_soilcol_1
 
 #idea_wheel
 It spins!
@@ -1280,31 +1245,7 @@ Some wood show exceptionnal flexibility and ability to store tension without bre
 Some wood show exceptionnal flexibility and ability to store tension without breaking. What if we could find a way to project them simply by releasing a bent piece of wood, stronger than any arm can? 
 
 #idea_longbow
-Long range murdering
-
-#idea_longbow_1
-idea_longbow_1
-
-#proj_longbow_1
-proj_longbow_1
-
-#idea_compbow
-Mounted archery
-
-#idea_compbow_1
-idea_compbow_1
-
-#proj_compbow_1
-proj_compbow_1
-
-#idea_crossbow
-Mechanical bows
-
-#idea_crossbow_1
-idea_crossbow_1
-
-#proj_crossbow_1
-proj_crossbow_1
+Daleko vzdálené vraždění
 
 #idea_spear
 Pointy sticks
@@ -1417,12 +1358,6 @@ Metal is hard and resistent. What if our warrior could wear clothes made of meta
 #idea_paparmor
 Papírové brnění
 
-#idea_paparmor_1
-idea_paparmor_1
-
-#proj_paparmor_1
-proj_paparmor_1
-
 #idea_brigdn
 A coat of plates
 
@@ -1450,24 +1385,6 @@ A warrior with a skin of metal would be undefeatable for sure. And metal can be 
 #proj_cuirass_1
 A warrior with a skin of metal would be undefeatable for sure. And metal can be shaped into anything we want. However its not flexible... But we could still use it as a breastplate protecting most of the body from enemy weapons, although it would be heavy and reduce the dexterity of the warrior wearing it, it could save his life more than once!
 
-#idea_lamnrarm
-idea_lamnrarm
-
-#idea_lamnrarm_1
-idea_lamnrarm_1
-
-#proj_lamnrarm_1
-proj_lamnrarm_1
-
-#idea_platearm
-idea_platearm
-
-#idea_platearm_1
-idea_platearm_1
-
-#proj_platearm_1
-proj_platearm_1
-
 #idea_lhelmet
 Metallic hats
 
@@ -1486,23 +1403,14 @@ Why not cover the whole face and sides with metal as well with our helmets? Sure
 #proj_hvhelmet_1
 Why not cover the whole face and sides with metal as well with our helmets? Sure it would reduce the field of vision for our warriors, but it would look sick. It would also improve their armor too...
 
-#idea_ptrwhl
-idea_ptrwhl
-
-#idea_ptrwhl_1
-idea_ptrwhl_1
-
-#proj_ptrwhl_1
-proj_ptrwhl_1
-
 #idea_glaz
-idea_glaz
+Glazulace!
 
 #idea_glaz_1
-idea_glaz_1
+Jednoho dne, hrnčířský vepř, ktery uklízel obchod po náročném dni práce, zakopl o kámen na podlaze této dílny, když ven nesl popel z pece.
 
 #proj_glaz_1
-proj_glaz_1
+Zdá se, že přikrývání hrnčířské hlíny popelem a různými látkami v pecích reaguje nepředvídatelnými způsoby, což dává barevné a lesklé výsledky zlepšující hrnčířskou hlínu nejen vizuálně, ale také ji činí mnohem nepropustnější.
 
 #idea_garden
 Zahradnictví
@@ -1511,7 +1419,7 @@ Zahradnictví
 Když budeme upravovat keříky a travů kolem nás tak jsme schopni skrášlit naše okolí.
 
 #proj_garden_1
-proj_garden_1
+Když budeme upravovat keříky a travů kolem nás tak jsme schopni skrášlit naše okolí. A také by nám to konečně umožnilo vyřezávat keře podle naši vzorů a našich zálibných obdivů.
 
 #idea_elephrid
 The sow and the elephant
@@ -1550,8 +1458,22 @@ Obsidian is volcanic glass that is easy to work and very hard: it can break into
 The way of the beasts
 
 #idea_beastwr_1
-Some wild animals are fierce and noble. Their hunting ways deserve respect and admiration of our warriors. The spirits of these magestic beasts could infuse strenght in our best porcos to form an elite cast of warriors that would instill fear onto our enemies.
+Některá divoká zvířata jsou nebojácná a ušlechtilá. Jejich lovecké způsoby si zaslouží respekt a obdiv našich válečníků. Duchové těchto magických zvířat mohli napnout sílu v našich nejlepších vepřech, aby vytvořili elitní kastu válečníků, která by vzbudila strach v našich nepřátelech.
 
 #proj_beastwr_1
 Some wild animals are fierce and noble. Their hunting ways deserve respect and admiration of our warriors. The spirits of these magestic beasts could infuse strenght in our best porcos to form an elite cast of warriors that would instill fear onto our enemies.
 
+#idea_glaz_2
+K jeho hrůze viděl, jak se popel rozprostře na všechny jeho čerstvě připravenné nádoby, které měl v plánu večer upéct. Nechtěl ztratit celou várku, potom co se pokusil vyčistit část popela, se rozhodl je upéct.
+
+#idea_glaz_3
+K jeho překvapení vyšly hrnce mnohem jiné než jeho běžné hrnce. Vypadali lesklejší a hladší než kdy předtím.
+
+#proj_glaz_2
+Měli bychom investovat čas a zdroje do experimentování a zdokonalování této nové techniky, abychom získali odolnější a lépe vypadající keramiku!
+
+#idea_salt
+Konzervování jídla
+
+#idea_salt_1
+Prasata si už od úsvitu časů užívají chuť některých speciálních hornin. Bílé, drobivé a rozpustné, lze je najít přímo na některých vzácných místech, často u vody, a běžnou praxí je, je sbírat a uschovávat jako chutné dobroty. Jeden vepř, který si to obzvláště užíval, jednou byl příliš nadšený a přikryl ho masem a všiml si, že maso potom vydrží mnohem déle, než zkazí. Opravdu magická látka!

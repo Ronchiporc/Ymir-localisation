@@ -3761,12 +3761,6 @@ Military
 #menu_scr_p_c
 Score from your total military power. Does not include Militias.
 
-#menu_scr_v
-Subordinates
-
-#menu_scr_v_c
-Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
-
 #menu_scr_tot
 Score
 
@@ -3805,9 +3799,6 @@ Having a personnal score above it grants victory points.
 
 #menu_scr_vpcost
 Victory point cost
-
-#menu_scr_vpcost_c
-The amount of points you need above the reference score to be granted each Victory point.
 
 #menu_scr_frna
 for Nation
@@ -5621,9 +5612,6 @@ Začáteční tutoriál byl dokončen!
 #cnvrt_mil_err
 Nedostatečná populace k převedení na milici!
 
-#joingame_yourgames_dscr_1¨
-Historie všech vašich posledních hraných postav pro snadnější přímý přístup.
-
 #ui_menubdg_solid
 Spolehlivost
 
@@ -5680,3 +5668,63 @@ Neznámé: žádná viditelnost
 
 #formmisspop
 Na území není dostatek populace, aby bylo možné toto vojsko plně naverbovat!
+
+#joingame_yourgames_dscr_1
+An historic of all your last played characters, for easier direct access.
+
+#bc_menuform_cantchtype
+This formation type cannot be changed.
+
+#b_actv_trt_brk
+breaker
+
+#b_actv_trt_wbrk1
+You will be breaking
+
+#b_actv_trt_wbrk2
+[x] will be breaking
+
+#b_actv_trt_brkcl1
+with no breaking clauses
+
+#b_actv_trt_brkcl2
+triggering breaking clauses of
+
+#ui_wrldmov_erxplr
+This formation cannot explore new territories.
+
+#menu_scr_vpcost_c1
+Each Victory Point currently costs [x] points of score.
+
+#menu_scr_vpcost_c2
+The cost of 100 Victory Points is defined as equal to 50% of the current world score. This makes the cost of every VP to 0.5% of the world score (with a minimum of 100 points).
+
+#formact_tkartfct
+Claim the artefact
+
+#autoban_cheat
+Account banned for cheating.
+
+#autoban_vm
+Account banned for usage of a Vitrual Machine.
+
+#autoban_device
+Account banned for attempting to cheat the one-device-only restriction.
+
+#autobanned
+You've been banned from this server by the automatic anti-cheat.
+
+#modbanned
+You've been manually banned from this server by its admin.
+
+#insuf_funds
+Insufficient funds!
+
+#trtybrk_load
+Checking treaties...
+
+#trtybrk_none
+No treaties will be broken by this action.
+
+#trtybrk_warn
+WANRING! This action will trigger the breaking of the following treaties:
