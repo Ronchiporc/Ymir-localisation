@@ -5670,61 +5670,63 @@ Neznámé: žádná viditelnost
 Na území není dostatek populace, aby bylo možné toto vojsko plně naverbovat!
 
 #joingame_yourgames_dscr_1
-An historic of all your last played characters, for easier direct access.
+Historie všech vašich posledních hraných postav pro snadnější přímý přístup.
 
 #bc_menuform_cantchtype
-This formation type cannot be changed.
+Tento typ formace nelze změnit.
 
 #b_actv_trt_brk
-breaker
+narušitel
 
 #b_actv_trt_wbrk1
-You will be breaking
+Budeš porušovat
 
 #b_actv_trt_wbrk2
-[x] will be breaking
+[x] bude porušovat
 
 #b_actv_trt_brkcl1
-with no breaking clauses
+bez porušení klauzulí
 
 #b_actv_trt_brkcl2
-triggering breaking clauses of
+spouštění porušení klauzulí
 
 #ui_wrldmov_erxplr
-This formation cannot explore new territories.
+Tato formace nemůže prozkoumávat nová území.
 
 #menu_scr_vpcost_c1
-Each Victory Point currently costs [x] points of score.
+Každý vítězný bod v současné době stojí [x] bodů skore.
 
 #menu_scr_vpcost_c2
-The cost of 100 Victory Points is defined as equal to 50% of the current world score. This makes the cost of every VP to 0.5% of the world score (with a minimum of 100 points).
+Cena 100 vítězných bodů je definována jako 50% současného světového skóre. To činí náklady na každy VB na 0,5% světového skóre (s minimem 100 bodů).
 
 #formact_tkartfct
-Claim the artefact
+Zabrat artefakt
 
 #autoban_cheat
-Account banned for cheating.
+Účet byl zabanován z důvodu podvádění.
 
 #autoban_vm
-Account banned for usage of a Vitrual Machine.
+Účet byl zabanován za využití Virtuálního Zařízení.
 
 #autoban_device
 Account banned for attempting to cheat the one-device-only restriction.
 
 #autobanned
-You've been banned from this server by the automatic anti-cheat.
+Z tohoto serveru jste byl vykázán automatickým anti-cheatem.
 
 #modbanned
 You've been manually banned from this server by its admin.
+Správce vás ručně zabanoval(vykázal) z tohoto serveru.
 
 #insuf_funds
-Insufficient funds!
+Nedostatečné finanční prostředky!
 
 #trtybrk_load
-Checking treaties...
+Kontrola smluv...
 
 #trtybrk_none
-No treaties will be broken by this action.
+Touto akcí nebudou porušeny žádné smlouvy.
 
 #trtybrk_warn
-WANRING! This action will trigger the breaking of the following treaties:
+VAROVÁNÍ! Následující akce spustí narušení následujících dohod:
+
