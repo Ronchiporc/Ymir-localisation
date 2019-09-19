@@ -253,7 +253,6 @@ How to use and process soil into solid bricks, facilitating construction out of 
 
 #tech_sledge
 #tech_corbarch
-Corbelled arch
 
 #tech_corbarch_dscr_1
 tech_corbarch_dscr_1
@@ -829,11 +828,10 @@ Klobásy
 Klobasování je způsob zpracování čerstvého masa , které umožnujě delší uchovávání.
 
 #tech_column
-Post & lintel building
 Pošta a  zpravodajská budova
 
 #tech_column_dscr_1
-tech_column_dscr_1
+Možnost posílat si zprávy mezi městy a mezí ostatnímí zeměmi a roznášet informace po vašem impériu.
 
 #tech_plaster
 Omítka
@@ -852,3 +850,186 @@ Dar moci
 
 #tech_godmord_dscr_1
 Znalosti darovaná Palentirem, které vás poučují o tom, jak postavit obří černou věž, slibují vám, abyste po dokončení splnili své přání světové nadvlády.
+
+#tech_irrig
+Zavlažování
+
+#tech_irrig_dscr_1
+tech_irrig_dscr_1
+
+#tech_foodstor
+Uchovávání potravy
+
+#tech_foodstor_dscr_1
+tech_foodstor_dscr_1
+
+#tech_domcat
+Domestic cat
+
+#tech_domcat_dscr_1
+tech_domcat_dscr_1
+
+#tech_warehous_dscr_1
+tech_warehous_dscr_1
+
+#tech_storhaul
+Storage hauling
+
+#tech_storhaul_dscr_1
+tech_storhaul_dscr_1
+
+#tech_stonebdg
+Kamenné budovy
+
+#tech_stonebdg_dscr_1
+tech_stonebdg_dscr_1
+
+#tech_stonecut
+Zpracovávání kamene
+
+#tech_stonecut_dscr_1
+tech_stonecut_dscr_1
+
+#tech_quarr
+Quarrying
+
+#tech_quarr_dscr_1
+tech_quarr_dscr_1
+
+#tech_quarrhv
+Heavy quarrying
+
+#tech_quarrhv_dscr_1
+tech_quarrhv_dscr_1
+
+#tech_builders
+Stavitelé
+
+#tech_builders_dscr_1
+tech_builders_dscr_1
+
+#tech_constrct
+Construction foremanship
+
+#tech_constrct_dscr_1
+tech_constrct_dscr_1
+
+#tech_sledge_dscr_1
+tech_sledge_dscr_1
+
+#tech_masonry
+Zednářství
+
+#tech_masonry_dscr_1
+tech_masonry_dscr_1
+
+#tech_constrplan
+Construction planning
+
+#tech_constrplan_dscr_1
+tech_constrplan_dscr_1
+
+#tech_archtct
+Architekté
+
+#tech_archtct_dscr_1
+tech_archtct_dscr_1
+
+#tech_corbarch
+Corbelled arch
+
+#tech_decarb
+Decarburization
+
+#tech_decarb_dscr_1
+tech_decarb_dscr_1
+
+#tech_battleaxe
+Válečná sekera
+
+#tech_battleaxe_dscr_1
+tech_battleaxe_dscr_1
+
+#tech_sword
+Meč
+
+#tech_sword_dscr_1
+Kovová zbraň ukovaná a nebo odlitá, většinou vyráběnná z mědi/bronzu/železa. A pozor píchá.
+
+#tech_longsword
+Dlouhý meč
+
+#tech_longsword_dscr_1
+tech_longsword_dscr_1
+
+#tech_warham
+Válečné kladivo
+
+#tech_warham_dscr_1
+tech_warham_dscr_1
+
+#tech_helbard
+Helbard
+
+#tech_helbard_dscr_1
+tech_helbard_dscr_1
+
+#tech_hvshield
+Těžký štít
+
+#tech_hvshield_dscr_1
+tech_hvshield_dscr_1
+
+#tech_stlshld
+Ocelový štít
+
+#tech_stlshld_dscr_1
+tech_stlshld_dscr_1
+
+#tech_paddarm
+Padded armor
+
+#tech_paddarm_dscr_1
+tech_paddarm_dscr_1
+
+#tech_scalearm
+Šupinaté brnění
+
+#tech_scalearm_dscr_1
+tech_scalearm_dscr_1
+
+#tech_paparmor
+Papírové brnění
+
+#tech_paparmor_dscr_1
+tech_paparmor_dscr_1
+
+#tech_brigdn
+Brigandine
+
+#tech_brigdn_dscr_1
+tech_brigdn_dscr_1
+
+#tech_chnmail
+Drátěnné brnění
+
+#tech_chnmail_dscr_1
+tech_chnmail_dscr_1
+
+#tech_cuirass
+Cuirass
+
+#tech_cuirass_dscr_1
+tech_cuirass_dscr_1
+
+#tech_lamnrarm
+Laminar armor
+
+#tech_lamnrarm_dscr_1
+tech_lamnrarm_dscr_1
+
+#tech_platearm
+Plátěnné brnění
+
+#tech_platearm_dscr_1
+tech_platearm_dscr_1
