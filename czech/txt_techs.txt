@@ -251,9 +251,6 @@ Mud bricks
 #tech_mudbrick_dscr_1
 How to use and process soil into solid bricks, facilitating construction out of cheap materials.
 
-#tech_sledge
-#tech_corbarch
-
 #tech_corbarch_dscr_1
 tech_corbarch_dscr_1
 
@@ -1033,3 +1030,6 @@ Plátěnné brnění
 
 #tech_platearm_dscr_1
 tech_platearm_dscr_1
+
+#tech_sledge
+Sledge
