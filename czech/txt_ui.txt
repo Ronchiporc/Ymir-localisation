@@ -3761,12 +3761,6 @@ Military
 #menu_scr_p_c
 Score from your total military power. Does not include Militias.
 
-#menu_scr_v
-Subordinates
-
-#menu_scr_v_c
-Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
-
 #menu_scr_tot
 Score
 
@@ -3805,9 +3799,6 @@ Having a personnal score above it grants victory points.
 
 #menu_scr_vpcost
 Victory point cost
-
-#menu_scr_vpcost_c
-The amount of points you need above the reference score to be granted each Victory point.
 
 #menu_scr_frna
 for Nation
@@ -5621,9 +5612,6 @@ Začáteční tutoriál byl dokončen!
 #cnvrt_mil_err
 Nedostatečná populace k převedení na milici!
 
-#joingame_yourgames_dscr_1¨
-Historie všech vašich posledních hraných postav pro snadnější přímý přístup.
-
 #ui_menubdg_solid
 Spolehlivost
 
@@ -5680,3 +5668,65 @@ Neznámé: žádná viditelnost
 
 #formmisspop
 Na území není dostatek populace, aby bylo možné toto vojsko plně naverbovat!
+
+#joingame_yourgames_dscr_1
+Historie všech vašich posledních hraných postav pro snadnější přímý přístup.
+
+#bc_menuform_cantchtype
+Tento typ formace nelze změnit.
+
+#b_actv_trt_brk
+narušitel
+
+#b_actv_trt_wbrk1
+Budeš porušovat
+
+#b_actv_trt_wbrk2
+[x] bude porušovat
+
+#b_actv_trt_brkcl1
+bez porušení klauzulí
+
+#b_actv_trt_brkcl2
+spouštění porušení klauzulí
+
+#ui_wrldmov_erxplr
+Tato formace nemůže prozkoumávat nová území.
+
+#menu_scr_vpcost_c1
+Každý vítězný bod v současné době stojí [x] bodů skore.
+
+#menu_scr_vpcost_c2
+Cena 100 vítězných bodů je definována jako 50% současného světového skóre. To činí náklady na každy VB na 0,5% světového skóre (s minimem 100 bodů).
+
+#formact_tkartfct
+Zabrat artefakt
+
+#autoban_cheat
+Účet byl zabanován z důvodu podvádění.
+
+#autoban_vm
+Účet byl zabanován za využití Virtuálního Zařízení.
+
+#autoban_device
+Account banned for attempting to cheat the one-device-only restriction.
+
+#autobanned
+Z tohoto serveru jste byl vykázán automatickým anti-cheatem.
+
+#modbanned
+You've been manually banned from this server by its admin.
+Správce vás ručně zabanoval(vykázal) z tohoto serveru.
+
+#insuf_funds
+Nedostatečné finanční prostředky!
+
+#trtybrk_load
+Kontrola smluv...
+
+#trtybrk_none
+Touto akcí nebudou porušeny žádné smlouvy.
+
+#trtybrk_warn
+VAROVÁNÍ! Následující akce spustí narušení následujících dohod:
+
