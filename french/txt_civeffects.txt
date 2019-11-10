@@ -65,10 +65,10 @@ impôt sur le revenu
 une taxe appliquée à tous les revenus de la population du territoire
 
 #civfx_inctax_set
-pourcentage d'impôt sur le revenu
+Taux
 
 #civfx_inctax_setd
-définir le pourcentage du revenu qui doit être imposé
+Taxe les revenus de la population
 
 #civfx_saltax_n
 taxe de vente

@@ -32,7 +32,7 @@ Quitter la partie et revenir au menu principal?
 Connecté à [x] ping: [y]
 
 #ui_connctstat2_2
-Retards: [x]% (demandes: [y] retards: [z]  pertes: [v])
+Pertes: [x]% (demandes: [y] retards: [z]  pertes: [v])
 
 #ui_connct_stable
 Votre connexion au serveur est stable.
@@ -364,6 +364,18 @@ Tropico
 #maptyp6_dscr
 Cartes de mer chaudes et humides avec beaucoup d'îles tropicales.
 
+#mapcont
+Continents
+
+#mapsea
+Océan
+
+#maprelief
+Reliefs
+
+#maptemp
+Temperature
+
 #maptypcust
 Paramètres personnalisés
 
@@ -689,7 +701,7 @@ Démolir
 Ce bâtiment est en train d'être démoli. Lorsque le processus sera terminé, il sera complètement enlevé et la moitié de ses matériaux de construction seront récupérés.
 
 #ui_menubdg_stckperm
-Autorisations de stockage:
+Permissions
 
 #ui_menubdg_Usage
 Utilisation:
@@ -968,7 +980,7 @@ autoriser
 tout authoriser
 
 #sc_menubdg_restrict
-restreint
+manuelles
 
 #sc_menubdg_allow
 authoriser
@@ -1088,7 +1100,7 @@ Votre société fonctionne actuellement sans aucune forme officielle de monnaie,
 Contributions du dirigeant
 
 #ui_eco_lead_c1
-Le dirigeant attribue actuellement [x]% de sa richesse personnelle totale aux finances publiques.
+Le dirigeant réattribue aux finances publiques actuellement [x]% de sa richesse personnelle de [y] octroyée par ses privilèges.
 
 #ui_eco_tax
 Impôts
@@ -1496,10 +1508,10 @@ richesse de base
 monnaies
 
 #popstat_winc_c1
-gagner [x] monnaies sur [y] au total
+gagne [x] monnaies d'un total de [y]
 
 #popstat_winc_c2
-attribue [x]% de la richesse du territoire [y]
+octroies [x]% de la richesse du territoire de [y]
 
 #popstat_wpriv
 privilèges
@@ -2453,16 +2465,16 @@ Aucune connaissances à partager!
 Aucun territoire valide pour le transfert!
 
 #b_endtreaty
-Rompre le traité!
+Rompre!
 
 #b_endtreaty_c1
-Le traité sera immédiatement résilié. Les close de pénalité de rupture de votre côté s'appliqueront
+Le traité sera immédiatement résilié. Les close de pénalité de rupture de votre côté s'appliqueront.
 
 #b_endagreed
-Demander la résiliation
+Résilier
 
 #b_endagreed_c1
-Demandez à l'autre partie une résiliation convenue. Si accepté, aucune close de pénalité de rupture ne s'appliquera.
+Demander à l'autre parti une rupture conventionnelle du traité. Si accepté, celui-ci sera terminé sans qu'aucune close de pénalité ne s'applique.
 
 #b_renegoc
 Renégocier
@@ -2678,7 +2690,22 @@ engagé pour
 Vous
 
 #b_actv_trt_m2
-L'autre
+Autre parti
+
+#b_actv_trt_brk
+en faute
+
+#b_actv_trt_wbrk1
+VOUS serez en rupture du
+
+#b_actv_trt_wbrk2
+[x] sera en rupture du 
+
+#b_actv_trt_brkcl1
+sans clauses de rupture
+
+#b_actv_trt_brkcl2
+déclenchant les clauses de rupture de
 
 #b_actv_trt_cancel
 annuler le traité
@@ -2876,7 +2903,7 @@ Inventaire
 Liste de toutes les ressources et services de ce territoire.
 
 #ui_regres_mtrd
-Métiers de marché
+Commerce
 
 #ui_regres_mtrd_c
 Acheter et vendre des stocks de ressources
@@ -2900,10 +2927,10 @@ Importations
 Les marchandises importées sont achetées par vous à leur prix de route commerciale et sont ensuite vendues sur le territoire à leur prix local.
 
 #ui_regres_totimp_c2
-Coût d'achat de la route commerciale:
+Imports aux prix des routes commerciales:
 
 #ui_regres_totimp_c3
-Ventes locales
+Ventes aux prix locaux:
 
 #ui_regres_totexp
 Exportations
@@ -2912,28 +2939,46 @@ Exportations
 Les marchandises exportées sont achetées par vous à leur prix local auprès des producteurs de ce territoire et sont ensuite vendues au prix de l'itinéraire de l'importateur.
 
 #ui_regres_totexp_c2
-Coût d'achat des producteurs locaux:
+Achats aux prix locaux:
 
 #ui_regres_totexp_c3
-Revenus des ventes d'itinéraires commerciaux:
+Exportations aux prix des routes commerciales:
 
 #ui_regres_addofr
-Ajouter une offre
+ENVOYER L'ORDRE
+
+#ui_regres_selres
+Selectionner un type de ressource
 
 #ui_regres_trsf
 TRANSFERTS
 
+#ui_regres_trsf_c1
+Organiser un transfer continu de ressources entre vos territoires.
+
+#ui_regres_trsf_c2
+Ces offres sont internes et invisibles à vos partenaires commerciaux. Elles ne peuvent être prises que par vous-même.
+
 #ui_regres_imp
 IMPORTATIONS
+
+#ui_regres_imp_c1
+Voir les offres existantes de nouvelles routes commerciales disponibles dans votre réseau commercial.
 
 #ui_regres_exp
 EXPORTATIONS
 
+#ui_regres_exp_c1
+Placer une nouvelle offre de route commerciale pour exporter continuellement une ressource.
+
+#ui_regres_exp_c2
+Ces offres sont visible à l'ensemble de votre réseau commercial et peuvent être prises par n'importe lequel de vos partenaires.
+
 #ui_regres_buy
-ACHETER
+ACHAT
 
 #ui_regres_sell
-VENDRE
+VENTE
 
 #ui_regres_imps
 Importations actuelles
@@ -2959,6 +3004,12 @@ Imposer un pourcentage de la valeur totale de toutes les marchandises de chaque 
 #ui_regres_pndng
 Nos offres
 
+#ui_regres_buying
+[x] achètes
+
+#ui_regres_selling
+[x] vends
+
 #ui_regres_prod
 Production
 
@@ -2969,7 +3020,10 @@ En stock
 Prix local
 
 #ui_regres_atprc
-au prix
+Prix limite
+
+#ui_regres_amnt
+Quantité
 
 #ui_regres_noinp
 [tapez un nom de ressource]
@@ -2981,7 +3035,7 @@ Vous ne pouvez pas exporter cette ressource car vous n'en possédez aucune produ
 Pas assez de service commercial pour créer cette offre!
 
 #ui_newofr_sent
-Nouvelle offre de route commerciale envoyée!
+Ordre de commerce envoyé!
 
 #ui_regres_pndng2
 Notre itinéraire commercial actuel offre:
@@ -2996,10 +3050,10 @@ Offres concurrentes dans notre réseau de commerce:
 Annuler l'offre commerciale
 
 #button_trtimp_c1
-Vous importez actuellement [x] de [y] de [z] dans ce territoire pour un total de [v] monnaies.
+Vous importez actuellement [x] depuis [y] sur [z].
 
 #button_trtexp_c1
-Vous exportez actuellement [x] de [y] vers [z] pour un total de [v] monnaies.
+Vous exportez actuellement [x] de [y] vers [z].
 
 #button_trtcargo
 Exiger [x] de Cargo, opéré par [y].
@@ -3058,6 +3112,12 @@ Cargo disponible
 #ui_troute_maxava_c1
 La quantité de service de cargo actuellement disponible dans l'opérateur.
 
+#ui_troute_basevol
+Volume de base
+
+#ui_troute_basevol_c1
+La quantité de cargo de base requise pour cette route commerciale, résultat de la somme des volumes de chaque ressource transportée.
+
 #ui_troute_edit
 Modification d'une route commerciale existante ...
 
@@ -3071,10 +3131,16 @@ Appliquer
 Coût total du cargo utilisé par ce territoire comme opérateur de routes commerciales.
 
 #ui_troute_totcost
-COÛT TOTAL DE LA ROUTE
+COÛT TOTAL
 
 #ui_troute_totcost_c1
 Le coût total du maintien de cette route commerciale.
+
+#ui_troute_totinc
+REVENU TOTAL
+
+#ui_troute_totinc_c1
+Revenu total généré actuellement par cette route commerciale.
 
 #ui_troute_bdgtdscr1
 L'État paie et détient la totalité des marchandises importées de la ville exportatrice, indépendamment de leur utilisation ultérieure.
@@ -3416,10 +3482,10 @@ Votre score personnel.
 Score
 
 #menu_scr_vpscr_c1
-Vous obtenez 1 point de victoire pour chaque [x] points de score au dessus du score de reference (qui ets actuellement de [y]).
+Vous pouvez gagner ou perdre des Points de Victoire en fonction de votre score actuel. Vous gagnez actuellement 1 PDV par [x] de score.
 
 #menu_scr_vpscr_c2
-Ces points de victoires sont dynamiques et peuvent être perdus si votre score se réduit par rapport au score de référence.
+Le coût en score de chaque PDV est dynamique et basé sur la somme des scores de touts les personnages présentement actifs dans la partie.
 
 #menu_scr_vpmiss
 Missions
@@ -3434,19 +3500,22 @@ Points de victoire
 Vos points de victoire personnels.
 
 #menu_scr_avg
-Score référence
+Score mondial
 
 #menu_scr_avg_c1
-Utilisé pour déterminer votre score d'équilibrage. Sa valeur est basée sur les scores de tous les joueurs.
+Le score mondial est la somme des scores de chaque personnage dans la partie. Il est utilisé pour déterminer le coût en score par Point de Victoire.
 
 #menu_scr_avg_c2
-Avoir un score personnel au dessus de ça accorde des points de victoire.
+A noter que les personnages inactifs ne comptent dans cette somme que pour moitié de leur score réel.
 
 #menu_scr_vpcost
-Point de victoire
+Score par PDV
 
-#menu_scr_vpcost_c
-Le coût en points de score (au-dessus du score de référence) pour chaque point de victoire.
+#menu_scr_vpcost_c1
+Chaque Point de Victoire coûte actuellement [x] de score.
+
+#menu_scr_vpcost_c2
+Le coût de 100 Points de Victoire est définit comme étant égal à 50% du score mondial. Le coût de chaque PDV est donc de 0.5% du score mondial (avec un minimum de 100 points). 
 
 #menu_scr_frna
 pour la Nation
@@ -3455,7 +3524,7 @@ pour la Nation
 De combien de points vous contribuez actuellement au score de votre nation.
 
 #menu_scr_frnavp_c
-De combien de points de victoire vous contribuez actuellement aux points de victoire de votre nation.
+Contribution effective de vos Points de Victoire à votre nation. Elle est basée sur votre rang dans la Nation: plus il est bas, moins vous contribuez.
 
 #menu_nscr_name
 Votre nation
@@ -3902,13 +3971,13 @@ Supérieur
 Rang
 
 #facxpl_title
-Expuler [x] de la Nation
+Expulser [x] de la Nation
 
 #facxpl_txt
 En tant que supérieur de [x], votre rang vous authorise a expulser ce personnage de la Nation. Notez que tous ses subordonnés, s'il en a, le suivront et quitteront donc également la Nation avec lui.
 
 #facxpl_xpl
-Virer!
+Expulser!
 
 #facrplc_title
 Remplacer [x]...
@@ -4016,7 +4085,7 @@ Une colonie est un territoire autonome rattaché à votre gouvernement. Vous ne 
 La ville est le centre d'une région. Elle a sa propre administration locale qui gère également tous les sous-territoires de la région. Chaque ville coûte du Pouvoir d'Etat à maintenir.
 
 #regstatus_capital_1
-Lieu de votre gouvernment et résidence de votre dirigeant. Contrairement aux villes ordinaires, ne coûte aucun Pouvoir d'État. Certains bâtiments gouvernementaux sont uniques à la capitale. La distance des autres villes avec votre capitale a de multiples effets, notamment sur leur administration, culture, et loyauté.
+Lieu de résidence du gouvernement et du dirigeant. Ne coûte aucun Pouvoir d'État et permet certains bâtiments gouvernementaux uniques. La distance des autres territoires avec avec la capitale affecte plusieurs de leurs paramètres tels que leur administration locale, culture, ou loyauté.
 
 #regstatus_title
 Statut du territoire
@@ -4155,6 +4224,21 @@ Haute
 
 #wkprio_4
 Critique
+
+#strprio_0
+[automatique]
+
+#strprio_1
+Basse
+
+#strprio_2
+Moyenne
+
+#strprio_3
+Haute
+
+#strprio_4
+Très Haute
 
 #recyclmat
 Nous avons récupéré
@@ -4802,7 +4886,10 @@ Achats passés: [x] monnaies.
 Cargo acheté:
 
 #ui_regres_totexp_c4
-cargo vendu:
+Cargo vendu:
+
+#ui_regres_totexp_c4w
+Vente déficitaire! Prix local du Cargo supérieur à celui des routes commerciales
 
 #menu_nfrm_type3
 Armée nationale
@@ -4830,12 +4917,6 @@ Le contrôle de l'artéfact peut donc être gagné aussi bien que perdu.
 
 #fstate_encamp
 En Campement
-
-#menu_scr_v
-Subordonés
-
-#menu_scr_v_c
-Score de vos subordonés: vous recevez une petite part du score de tout vos subordonnés directs.
 
 #gamelob_spcloff_c3
 Dernier spawn: [x]
@@ -5009,7 +5090,7 @@ Avec une différence de prix de [x]%, le prix mondial à une influence de [y]% s
 Pas d'arbitrage: aucune territorie a proximité n'utilise cette ressource.
 
 #bc_menubdg_lmtd
-Stock limité
+Distribution limitée
 
 #bc_menubdg_lmtd_c1
 Cliquer pour limiter le stock de ce marchand: vous permet de contrôler la quantité de resources mises en vente sur le marché public à la population.
@@ -5706,3 +5787,407 @@ Vous avez été manuellement banni de ce serveur par son admin.
 #insuf_funds
 Fonds insuffisants!
 
+#trtybrk_load
+Vérifictation des traités en cours...
+
+#trtybrk_none
+Aucun traité ne sera brisé par cette action.
+
+#trtybrk_warn
+ATTENTION! Cette action déclenchera la rupture des traités suivants:
+
+#ui_menubdg_prio
+Priorité
+
+#sc_menubdg_prio_c1
+Selectionnez le niveau de priorité de ce batiment pour le stockage de nouvelles resources.
+
+#ui_menubdg_stck_wlth_c1
+Richesse stockée
+
+#ui_menubdg_stck_wlth_c2
+Les ressources actuellement stockées dans ce bâtiment contribuent de [x] à la richesse totale du territoire.
+
+#ui_menubdg_stck_wlth_c3
+La richesse stockée est la somme de la richesse de base de toutes les ressources qui y sont entreposées. La richesse de base d'une ressource est une constante basée sur la quantité de travail nécéssaire pour la produire.
+
+#ui_regwlth_tot
+Richesse totale
+
+#ui_regwlth_tot_c1
+Richesse effective du territoire partagée ensuire par tous les actifs en fonction de leurs revenus en monnaies et qui determine leurs niveaux de richesse individuels et leurs pouvoirs d'achat.
+
+#ui_regwlth_prod
+Richesse produite
+
+#ui_regwlth_prod_c1
+Total de richesse actuellement produite dans le territoire. Il s'agit de la somme de la richesse générée par tous les bâtiments productifs.
+
+#ui_regwlth_stck
+Richesse stockée
+
+#ui_regwlth_stck_c1
+Total de richesse des ressouces actuellement stockées dans le territoire (à noter que les ressources dans les stockages au sol non gardés sont ignorées).
+
+#ui_regwlth_mtl
+Monnaie représentative
+
+#ui_regwlth_mtl_c1
+Avec la monnaie représentative, les stocks de métaux précieux contribuent additionnellement à la richesse du territoire.
+
+#ui_regwlth_prv
+Privilèges
+
+#ui_regwlth_prv_c1
+Richesse détournée directement par les classes sociales privilégiées.
+
+#ui_tradeordr_your
+Vos ordres à [x]
+
+#ui_tradeordr_in
+à [x]
+
+#ui_tradeordr_recur
+Ordre récurrent
+
+#ui_tradeordr_recur_c1
+Cliquez pour rendre cet ordre récurrent et déclenché automatiquement en fonction des stocks de cette ressource dans le territoire.
+
+#ui_tradeordr_stcktrg1
+...si les stocks sont inférieur à
+
+#ui_tradeordr_stcktrg2
+...si les stocks sont supérieur à
+
+#ui_tradeordr_instck
+En stock
+
+#ui_tradeordr_lclprc
+Prix local
+
+#ui_tradeordr_inc1
+Revenus bruts
+
+#ui_tradeordr_inc1_c1
+Revenus bruts minimaux qui seront réalisés pour cette offre en fonction de la quantité vendue et du prix minimum spécifié.
+
+#ui_tradeordr_inc2
+Part des producteurs locaux
+
+#ui_tradeordr_inc2_c1
+Si les ressources vendues sont privées, leurs propriétaires doivent être repayés au prix local et pour la quantité vendue.
+
+#ui_tradeordr_inc2_c2
+* Producteurs locaux possèdent [x] ressources au prix de [y]: +[z] monnaies
+
+#ui_tradeordr_inc2_c3
+* Impôts de [x]%: -[y] monnaies
+
+#ui_tradeordr_inc2_c4
+* Revenu effetif pour les producteurs locaux: [x] coins
+
+#ui_tradeordr_inc3
+Profits prévus
+
+#ui_tradeordr_inc3_c1
+Une prévision des profits net qui seront réalisés avec cette offre, en fonction de la situation actuelle.
+
+#ui_tradeordr_inc4
+Dépense maximale (caution)
+
+#ui_tradeordr_inc4_c1
+Dépense brute maximale prévue pour cet achat en fonction de la quantité achetée et du prix maximum spécifié. Prélevé de la trésorerie à l'avance pour assurer les fonds requis.
+
+#ui_tradeordr_inc5
+Revenus locaux potentiels
+
+#ui_tradeordr_inc5_c1
+Si les ressources achetées sont ensuite vendues localement, il s'agit des revenus prévisionnels qui seront générés basés sur le prix local actuel.
+
+#ui_tradeordr_inc6
+Profits prévus
+
+#ui_tradeordr_inc6_c1
+Une prévision des profits attendus si toutes les ressources achetées sont ensuite vendues sur le marché local.
+
+#ui_tradeordr_prc1
+Prix d'achat maximum. Si des offres de ventes sont disponibles à un prix plus bas, elles seront remplies en priorité générant plus de revenus que prévu.
+
+#ui_tradeordr_prc2
+Prix de vente minimum. Si des offres d'achats sont disponibles à un prix plus élevé, elles seront remplies en priorité générant plus de revenus que prévu.
+
+#ui_tradeordr_quant
+Saisissez la quantité de resources à commercer pour cette offre.
+
+#ui_tradeordr_trdsrvcav
+Cette offre requiert [x] de Négoce. Vous en avez actuellement[y] de disponible.
+
+#ui_tradeordr_cant
+Cette ressource ne peut pas être commercée!
+
+#ui_tradeordr_showall
+Toutes les resources
+
+#ui_tradeordr_showall_c1
+Afficher tout vos ordres de commerce pour ce territoire, toutes ressources confondues.
+
+#ui_tradeordr_allreg
+Pour tout les territoires
+
+#ui_tradeordr_allreg_c1
+Afficher l'historique de tout vos territoires combinés plustôt qu'uniquement le territoire actuellement séléctionné.
+
+#ui_tradeordr_nocoin
+Trésorerie insuffisante pour passer cet ordre.
+
+#ui_tradeordr_nostck1
+Ressources en stock insuffisantes pour executer cet ordre.
+
+#ui_tradeordr_nostck2
+Impossible de placer un ordre de vente d'une quantité supérieure au stock de déclenchement.
+
+#ui_tradeordr_priclmt1
+Cet ordre entre en conflit avec un ordre de vente du meme territoire au prix de [x].
+
+#ui_tradeordr_priclmt2
+Cet ordre entre en conflit avec un ordre d'achat du meme territoire au prix de [x].
+
+#ui_tradeordr_trdsrvc_c1
+Le service de Négoce est produit par les Marchés et requis pour passer et maintenir des ordres au sein de votre réseau commercial.
+
+#ui_tradeordr_trdsrvc_c2
+* Vos Marchés présentement en fonction dans ce territoire produisent [x] de Négoce.
+
+#ui_tradeordr_trdsrvc_c3
+* Vos ordres actuels monopolisent [x] de Négoce.
+
+#ui_tradeordr_trdsrvc_c4
+* Il vous reste [x] de Négoce disponible pour de nouveaux ordres.
+
+#ui_tradeordr_butn_c1
+Achat de [x] de [y] au prix maximum de [z] monnaies par ressource.
+
+#ui_tradeordr_butn_c2
+Achat récurrent de [x] de [y] au prix maximum de [z] monnaies par ressource quand les stocks sont inférieurs à [v].
+
+#ui_tradeordr_butn_c3
+Vente de [x] de [y] au prix minimum de [z] monnaies par ressource.
+
+#ui_tradeordr_butn_c4
+Vente récurrente de [x] de [y] au prix minimum de [z] monnaies quand les stocks atteignent [v].
+
+#ui_tradeordr_butn_c5
+Cet ordre est actuellement inactif. Il se déclenchera automatiquement si les stocks de [x] atteignent [y] dans le territoire.
+
+#ui_tradeordr_butn_c6
+Cet ordre est actuellement actif. Il sera annulé automatiquement si les stocks de [x] passent en dessous de [y] dans le territoire (stock déclencheur de [z] -taille de l'ordre de [v]).
+
+#ui_tradeordr_butn_c7
+Cet ordre est actuellement inactif. Il se déclenchera automatiquement si les stocks de [x] passent en dessous de [y] dans le territoire.
+
+#ui_tradeordr_butn_c8
+Cet ordre est actuellement actif. Il sera annulé automatiquement si les stocks de [x] atteignent [y] dans le territoire (stock déclencheur de [z] +taille de l'ordre de [v]).
+
+#ui_tradeordr_shwinctv
+Afficher les ordres inactifs
+
+#ui_tradeordr_shwinctv_c1
+Cliquez pour activer l'affichage des ordres récurrents inactifs.
+
+#ui_tradeordr_butn_c9
+Offre sur [x], par [y] de [z] ([v])
+
+#ui_tradeordr_butn_c10
+Offre sur [x], par vous
+
+#ui_tradebook_title
+Carnet d'ordres
+
+#ui_tradebook_buy
+Meilleur achat
+
+#ui_tradebook_sell
+Meilleure vente
+
+#ui_tradebook_buyd
+Profondeur
+
+#ui_tradebook_selld
+Profondeur
+
+#ui_tradebook_nosell
+Aucune offre dans votre réseau commercial!
+
+#ui_tradebook_nobuy
+Aucune demande dans votre réseau commercial!
+
+#ui_tradebook_noofr
+Aucun ordre ouvert dans ce territoire.
+
+#ui_tradebook_nbuy_c1
+Placer un ordre d'achat unique pour [x] de [y] au prix maximum de [z] monnaies.
+
+#ui_tradebook_nbuy_c2
+[x] monnaies seront immédiatement prélevées de votre trésorerie et réservées pour cet ordre. Si l'ordre est satisfait a un prix inferieur ou annulé, les fonds excedentaires seront rétribués à votre trésorerie.
+
+#ui_tradebook_nbuy_c3
+Placer un ordre récurrent d'achat pour [x] de [y] au prix maximum de [z] monnaies chaque fois que les stocks du territoire sont inférieurs à [v].
+
+#ui_tradebook_nbuy_c4
+* S'active lorsque le territoire passe en dessous de [x] de [y].
+
+#ui_tradebook_nbuy_c5
+* Se désactive lorsque le territoire atteind [x] de [y].
+
+#ui_tradebook_nsell_c1
+Placer un ordre de vente unique pour [x] de [y] au prix minimum de [z] monnaies.
+
+#ui_tradebook_nsell_c2
+[x] de [y] seront immédiatement prélevés de vos stocks et réservés pour cet ordre.
+
+#ui_tradebook_nsell_c3
+Placer un ordre récurrent de vente pour [x] de [y] au prix minimum de [z] monnaies chaque fois que les stocks du territoire atteignent [v].
+
+#ui_tradebook_nsell_c4
+* S'active quand le territoire atteind [x] de [y].
+
+#ui_tradebook_nsell_c5
+* Se désactive quand le terrioitre passe en dessous de [x] de [y].
+
+#ui_tradehist_ttle
+Historique
+
+#ui_tradehist_ttle_c1
+Historique commercial du territoire de [x], sur [y].
+
+#ui_tradehist_but_c1
+Il y a [x], à [y]:
+
+#ui_tradehist_but_c2
+Vous avez acheté [x] de [y] à [z] au prix de [v].
+
+#ui_tradehist_but_c3
+Vous avez vendu [x] de [y] à [z] au prix de [v].
+
+#ui_tradehist_but_c4
+* Revenu brut: +[x] monnaies
+
+#ui_tradehist_but_c5
+* Producteurs locaux: -[x] monnaies
+
+#ui_tradehist_but_c6
+* Profit effectif: [x] monnaies
+
+#ui_tradehist_but_c7
+* Coût total: [x] monnaies
+
+#menu_res_gen
+Général
+
+#menu_res_wealth_c1
+La richesse de base de ce type de ressource. Il s'agit d'une constante indépendante du prix de la ressource sur les marchés, basée sur la quantité de travail requise pour la produire.
+
+#menu_res_wealth_c2
+Quand elle est stockée en entrepôts gardés, chaque unité contribue de [x] à la richesse totale du territoire.
+
+#menu_res_trd
+Commerce
+
+#menu_res_trd2
+Commercer
+
+#ui_tradehist_tots
+Total des ventes
+
+#ui_tradehist_tots_c1
+Total des ventes depuis [x].
+
+#ui_tradehist_totb
+Total des achats
+
+#ui_tradehist_totb_c1
+Total des dépense depuis [x].
+
+#ui_tradehist_prtnr
+Meilleur partenaire
+
+#ui_tradehist_bs
+leurs achats: [x], ventes: [y]
+
+#ui_tradentwk_title
+Meilleures offres
+
+#ui_tradentwk_title_c1
+Meilleures offres disponibles dans votre réseau commercial, pour chaque ressource.
+
+#ui_tradentwk_bst_c1
+* Meilleure achat: [x] monnaies
+
+#ui_tradentwk_bst_c2
+* Meilleure vente: [x] monnaies
+
+#ui_tradentwk_bst_c3
+* Aucune offre d'achat.
+
+#ui_tradentwk_bst_c4
+* Aucune offre de vente.
+
+#ui_tradentwk_bst_c5
+en stock: [x], prix local: [y]
+
+#ui_tradentwk_prof
+Profitables uniquement
+
+#ui_tradentwk_prof_c1
+Ne lister que les resources dont les meilleures offres sont profitables par rapport au prix local dans ce territoire:
+
+#ui_tradentwk_prof_c2
+Si le meilleur achat est supérieur ou égal au prix local, ou si la meilleure vente est inférieure ou égale au prix local.
+
+#menu_res_trdfrm
+Depuis...
+
+#menu_res_trdfrm_c1
+Selectionner le territoire de destination à considerer pour le commerce avec [x].
+
+#button_opertrt_c1
+Opère une route commerciale entre [x] de [y] et [z] de [v].
+
+#button_opertrt_c2
+* utilise [x] de cargo au prix de [y]: [z] monnaies
+
+#button_opertrt_c3
+* achat du cargo au prix local: -[x] monnaies
+
+#button_opertrt_c4
+* profit de l'opération: [x] monnaies
+
+#button_routeitem_c1
+Importe [x] de [y] au prix de [z] depuis [v], pour un volume de [w] de cargo.
+
+#button_routeitem_c2
+Acheté à la route commerciale pour [x] monnaies et revendu actuellement à [y] pour [z] monnaies.
+
+#button_routeitem_c3
+Exporte [x] de [y] au prix de [z] vers [v], pour un volume de [w] de cargo.
+
+#button_routeitem_c4
+Acheté aux producteurs locaux pour [x] monnaies et revendu actuellement à [y] pour [z] monnaies.
+
+#button_routeownr
+Propriétaire de la route
+
+#button_routeownr_c1
+Le propriétaire de la route commercial est celui qui a initiallement commandé l'ouverture de la route, et il est le seul a en payer le Cargo ainsi qu'a pouvoir choisir l'opérateur.
+
+#button_routeresedit_1
+Il s'agit d'une route commerciale avec un tiers: vous n'êtes authorisé qu'à réduire la quantité commercée.
+
+#button_routeresedit_2
+Il s'agit d'une route commerciale entièrement sous vôtre contrôle et vous pouvez réduire aussi bien qu'augmentée la quantité commercée.
+
+#srvr_restart
+Warning: Redémarrage journalier automatique du serveur dans [x]!
+
+#srvr_decorstrt
+Le serveur est en train de redémarrer et sera à nouveau en ligne dans quelques minutes.

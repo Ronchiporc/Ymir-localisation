@@ -1,48 +1,47 @@
-
 #agrim_goldo_1
-单次付款
+独特付款
 
 #agrim_goldo_2
-支付[x]硬币
+支付[x]硬币。
 
 #agrim_goldo_3
-签署条约时，从[x]到[y]单次支付硬币
+支付从[x]到[y]的单独款项硬币，在条约签署时。
 
 #agrim_goldr_1
 硬币转移
 
 #agrim_goldr_2
-从收入中持续转移[x]硬币
+持续从收入中转移[x]枚硬币。
 
 #agrim_goldr_3
-依据条约，[x]不断向[y]转移硬币。
+只要条约仍然有效，[x]就要不断向[y]转移硬币。
 
 #agrim_goldtax_1
 硬币税
 
 #agrim_goldtax_2
-支付硬币收入的[x]%
+给出[x]%的硬币收入。
 
 #agrim_goldtax_3
-[x]向[y]以百分比转移收入。 
+[x]将他的硬币收入总额的一部分百分比转移给[y]。
 
 #agrim_admtax_1
 权力转让
 
 #agrim_admtax_2
-转移[x]%的国家权力
+转移[x]%的国家权力。
 
 #agrim_admtax_3
-[x]向[y]以百分比转移国家权力。
+[x]将他的国家权力的一部分百分比转让给[y]。
 
 #agrim_trad_1
-贸易条约
+贸易协定
 
 #agrim_trad_2
 允许贸易
 
 #agrim_trad_3
-允许[y]访问[x]提供的所有贸易出价和贸易路线。
+允许[y]获取[x]提供的所有贸易报价和贸易路线。
 
 #agrim_pass_1
 通行权
@@ -54,40 +53,40 @@
 允许[y]的单位在[x]的领土内通行。
 
 #agrim_embrg_1
-针对性禁运
+针对性禁运…
 
 #agrim_embrg_2
-针对[x]禁运
+对[x]禁运
 
 #agrim_embrg_3
-禁止与特定国家进行贸易
+禁止与特定的国家进行贸易。
 
 #agrim_vassal_1
-加入联邦
+加入国家
 
 #agrim_vassal_2
 加入[x]
 
 #agrim_vassal_3
-[x]将加入[y]联邦。
+[x]将加入[y]的国家。
 
 #agrim_fvassal_1
 征服
 
 #agrim_fvassal_2
-被[x]所征服
+被[x]所征服。
 
 #agrim_fvassal_3
-[x]将被[y]联盟征服。
+[x]将被[y]的国家征服。
 
 #agrim_war_1
-针对性宣战
+针对性宣战…
 
 #agrim_war_2
-向[x]宣战
+对[x]宣战
 
 #agrim_war_3
-向特定国家宣战
+向另一特定的国家宣战。
 
 #agrim_peace_1
 和平条约
@@ -96,7 +95,7 @@
 和平条约
 
 #agrim_peace_3
-完全停止条约成员国之间的战争。 
+禁止条约成员国之间的战争。
 
 #agrim_ceasefr_1
 停火协议
@@ -105,7 +104,7 @@
 停火协议
 
 #agrim_ceasefr_3
-暂停条约成员国之间的战争。 
+结束条约成员国之间的战争。
 
 #agrim_tradrt_1
 贸易路线
@@ -114,76 +113,76 @@
 贸易路线
 
 #agrim_tradrt_3
-建立一条条约贸易路线
+建立一条条约约束的贸易路线。
 
 #agrim_givreg_1
-给予区域
+给予地区
 
 #agrim_givreg_2
-转让“[x]”区域
+给予“[x]”地区。
 
 #agrim_givreg_3
 将某一地区的所有权转让给[y]。
 
 #agrim_gividea_1
-给予点子
+给予想法
 
 #agrim_gividea_2
-给予点子给[x]
+给予知识给[x]。
 
 #agrim_gividea_3
-[y]将从[x]那里获得其尚未拥有的新点子。
+[y]将从[x]那里获得他尚未拥有的新知识。
 
 #treaty_powcost
-维护该条约的国家权力成本
+维护该条约的国家权力费用。
 
 #treaty_coinpen
-硬币罚金
+硬币罚款
 
 #treaty_coinpen_c1
-如果[x]违反该条约，则以百分比转移GDP作为罚金
+GDP的百分比作为罚金转移，如果[x]违反这一条约，
 
 #treaty_coinpen_c2
-给[x]。
+对[x]。
 
 #treaty_gdp
-GDP的[x]%
+[x]%的GDP
 
 #treaty_honor
-荣誉担保
+荣誉承诺
 
 #treaty_honor_c1
-[x]遵守本条约的荣誉担保点数。
+[x]遵守本条约的承诺程度。
 
 #treaty_honor_c2
-如果[x]破坏条约，便失去相应的荣誉担保点数。 
+如果[x]违反了它，将会失去相称的荣誉。
 
 #treaty_warbound
 战争约束
 
 #treaty_warbound_c1
-[x]是否会自动宣战
+[x]是否会自动宣战。
 
 #treaty_warbound_c2
-如果[x]违反了此条约。
+如果[x]违反了这项条约。
 
 #treaty_closes
-撕毁条约
+打破关闭
 
 #diplo_npass
-联邦通行权
+国家通行权
 
 #diplo_npass_dscr_1
-该联邦的所有成员国都可以在彼此的领土上通行。 
+这个国家的所有成员都可以在彼此的领土上通行。
 
 #diplo_ntrade
-联邦贸易协定
+国家贸易协定
 
 #diplo_ntrade_dscr_1
-该联邦的所有成员国都享有相互之间的自动贸易权。
+这个国家的所有成员都享有相互之间的自动贸易权。
 
 #diplo_ndef
-联邦防御协定
+国家防御协定
 
 #diplo_ndef_dscr_1
-对任意一个成员国宣战将触发该联邦所有其他成员国的自动宣战，撕毁条约是侵略方的行为。
+任何对某一国家成员宣战的行为都将触发该国所有其他成员的自动宣战，而打破僵局则是侵略者一方的行为。

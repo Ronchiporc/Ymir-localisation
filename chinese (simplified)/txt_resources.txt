@@ -17,13 +17,13 @@
 奴隶
 
 #rcat_service
-服务
+服务业
 
 #rcat_drink
 饮品
 
 #rprdg_cltv
-耕种
+耕作力
 
 #rprdg_animal
 动物
@@ -32,7 +32,7 @@
 武器
 
 #rprdg_mine
-开采
+开采力
 
 #rprdg_quarry
 采石场
@@ -47,7 +47,7 @@
 锤子
 
 #r_axes
-斧子
+斧头
 
 #r_shovels
 铲子
@@ -59,7 +59,7 @@
 镐子
 
 #r_hoes
-锄
+锄头
 
 #r_ploughs
 犁
@@ -83,7 +83,7 @@
 灰烬
 
 #r_plaster
-灰泥
+熟石膏
 
 #r_cement
 水泥
@@ -98,7 +98,7 @@
 石头
 
 #r_stoneblocs
-石块
+石砌块
 
 #r_slate
 板岩
@@ -170,16 +170,16 @@
 羊毛
 
 #r_textile
-纺织物
+纺织品
 
 #r_cloth
-布
+织物装
 
 #r_leathercloth
-皮衣
+皮革装
 
 #r_rabbits
-兔
+兔子
 
 #r_deer
 鹿
@@ -257,13 +257,13 @@
 苹果
 
 #r_beans
-黄豆
+豆子
 
 #r_figs
 无花果
 
 #r_rice
-稻
+水稻
 
 #r_chickpeas
 鹰嘴豆
@@ -332,10 +332,10 @@
 骑士头盔
 
 #r_armorpadded
-绵甲
+棉埝甲
 
 #r_armorbrigand
-锁子甲
+铠子甲
 
 #r_cuirass
 胸甲
@@ -344,7 +344,7 @@
 鳞甲
 
 #r_amorlaminar
-板条甲
+缀甲
 
 #r_amorchain
 链甲
@@ -398,10 +398,10 @@
 橄榄
 
 #r_building
-建筑物
+建筑力
 
 #r_plans
-计划
+规划
 
 #r_taxcollect
 税务
@@ -413,7 +413,7 @@
 酒馆
 
 #r_theater
-戏院
+戏剧
 
 #r_doctor
 医疗
@@ -437,19 +437,19 @@
 教育
 
 #r_wash
-洗衣房
+洗衣坊
 
 #r_baths
 浴场
 
 #r_scribe
-抄写员
+文士
 
 #r_academ
-研究院
+学术
 
 #r_guard
-警卫
+警戒
 
 #r_bear
 熊
@@ -470,4 +470,4 @@
 图书馆
 
 #r_dates
-枣
+枣子

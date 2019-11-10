@@ -41,7 +41,7 @@ Gratuit
 coût
 
 #g_coins
-pièces
+monnaies
 
 #g_upkeep
 entretient
@@ -155,7 +155,7 @@ Salaires
 Taxes
 
 #g_Waste
-Corruption
+Gaspillage
 
 #g_Economy
 Economie
@@ -564,3 +564,12 @@ Traditions
 
 #g_in
 dans
+
+#g_at
+à
+
+#g_when
+quand
+
+#g_You
+Vous

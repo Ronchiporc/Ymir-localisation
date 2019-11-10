@@ -50,7 +50,7 @@ Do you really want to leave and return to the main menu ?
 Currently connected to [x]  ping: [y]
 
 #ui_connctstat2_2
-Late rate: [x]% ( asked:[y]  late:[z]  failed:[v])
+Loss rate: [x]% ( asked:[y]  late:[z]  failed:[v])
 
 #ui_connct_stable
 Your connection with the server is stable.
@@ -484,6 +484,18 @@ Tropico
 #maptyp6_dscr
 Warm and humid sea worlds with lots of tropical islands.
 
+#mapcont
+Continents
+
+#mapsea
+Sea amount
+
+#maprelief
+Relief amount
+
+#maptemp
+Temperature
+
 #maptypcust
 Custom settings
 
@@ -872,7 +884,7 @@ Demolishing
 This building is beeing demolished. When the process is complete, it will be completely completely removed and some of it's materials will be recovered.
 
 #ui_menubdg_stckperm
-Stockage permissions :
+Stockage permissions
 
 #ui_menubdg_Usage
 Usage :
@@ -1376,7 +1388,7 @@ This society currently works without any form of currency and it's people simply
 Leader's personnal wealth
 
 #ui_eco_lead_c1
-The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
+The leader is currently assigning [x]% of his personnal priviledged wealth of [y] to the government finances.  
 
 #ui_eco_tax
 Taxes incomes
@@ -3697,6 +3709,21 @@ You
 #b_actv_trt_m2
 Other
 
+#b_actv_trt_brk
+breaker
+
+#b_actv_trt_wbrk1
+You will be breaking
+
+#b_actv_trt_wbrk2
+[x] will be breaking
+
+#b_actv_trt_brkcl1
+with no breaking clauses
+
+#b_actv_trt_brkcl2
+triggering breaking clauses of
+
 #b_actv_trt_cancel
 cancel treaty
 
@@ -3958,17 +3985,38 @@ Income from trade route sales:
 #ui_regres_totexp_c4
 Sold cargo:
 
+#ui_regres_totexp_c4w
+Selling at a loss! Local Cargo price higher than in the trade routes
+
 #ui_regres_addofr
-Add offer
+SEND ORDER
+
+#ui_regres_selres
+Select a resource type
 
 #ui_regres_trsf
 TRANSFER
 
+#ui_regres_trsf_c1
+Setup a continuous transfer of resources between your territories. 
+
+#ui_regres_trsf_c2
+These offers are not visible to your trading network and can only be taken by your own territories.
+
 #ui_regres_imp
 IMPORT
 
+#ui_regres_imp_c1
+View existing offers in your trading network of territories offering the exportation of a continuous transfer of resources.
+
 #ui_regres_exp
 EXPORT
+
+#ui_regres_exp_c1
+Offer a continuous transfer of resources to other territories of your trading network.
+
+#ui_regres_exp_c2
+These offers are public and can be taken by anyone in your trading network.
 
 #ui_regres_buy
 BUY
@@ -3986,10 +4034,10 @@ Current exportations
 Operated trade routes
 
 #ui_regres_makeav
-available to trade network
+Public Cargo
 
 #ui_regres_makeav_c
-If enabled, the cargo service of this territory will also be available for rent to everyone in your trading network.
+If enabled, the cargo service of this territory will also be available to anyone in your trading network to use to operate their own trade routes.
 
 #ui_regres_tax
 tax
@@ -3999,6 +4047,12 @@ Taxing a percentage of the total value of all goods of every trade route operate
 
 #ui_regres_pndng
 Our offers
+
+#ui_regres_buying
+Buying in [x]
+
+#ui_regres_selling
+Selling in [x]
 
 #ui_regres_prod
 Production
@@ -4010,7 +4064,10 @@ In stock
 Local price
 
 #ui_regres_atprc
-at price
+Limit price
+
+#ui_regres_amnt
+Amount
 
 #ui_regres_noinp
 [type a resource name]
@@ -4022,7 +4079,7 @@ You cannot export this resource because you do not have any production or stocks
 Not enough trading service to create this offer!
 
 #ui_newofr_sent
-New trade route offer sent!
+New trade order sent!
 
 #ui_regres_pndng2
 Our current trade-route offers:
@@ -4037,10 +4094,10 @@ Competing offers in our trading network:
 Cancel trade offer
 
 #button_trtimp_c1
-You are currently importing [x] of [y] from [z] into this territory for a total of [v] coins.
+You are currently importing [x] from [y] into [z].
 
 #button_trtexp_c1
-You are currently exporting [x] of [y] to [z] for a total of [v] coins.
+You are currently exporting [x] from [y] to [z].
 
 #button_trtcargo
 Requiring [x] of Cargo, operated by [y]. 
@@ -4097,7 +4154,13 @@ A trade route operator may also tax a percentage of the value of all goods trans
 Cargo available
 
 #ui_troute_maxava_c1
-The amount of cargo service currently available in the operator.
+The amount of cargo service currently available in the operator's territory.
+
+#ui_troute_basevol
+Base volume
+
+#ui_troute_basevol_c1
+The base cargo volume needed for this trade route, which is the sum of the cargo volume of all the transported resources.
 
 #ui_troute_edit
 Editing existing trade route...
@@ -4112,10 +4175,16 @@ Apply
 Total cost of cargo using this territory as the trade route operator.
 
 #ui_troute_totcost
-TOTAL TRADE ROUTE COST
+TOTAL COST
 
 #ui_troute_totcost_c1
 The total cost of maintaining this trade route.
+
+#ui_troute_totinc
+TOTAL INCOME
+
+#ui_troute_totinc_c1
+The total income from this trade route.
 
 #ui_troute_bdgtdscr1
 The state pays and owns the entirety of the imported goods from the exporting city, regardless of their later use.
@@ -4128,6 +4197,12 @@ goods cost
 
 #ui_troute_bgc_c1
 The cost of purchasing goods to the exporting city.
+
+#ui_troute_binc
+goods income
+
+#ui_troute_binc_c1
+The income generated from the selling of the trade route goods.
 
 #ui_troute_bcc
 cargo cost
@@ -4477,12 +4552,6 @@ Military
 #menu_scr_p_c
 Score from your total military power. Does not include Militias.
 
-#menu_scr_v
-Subordinates
-
-#menu_scr_v_c
-Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
-
 #menu_scr_tot
 Score
 
@@ -4490,19 +4559,19 @@ Score
 You personnal score.
 
 #menu_scr_vpscr
-From Par score
+Score
 
 #menu_scr_vpscr_c1
-Par score is your score above the reference score of [y]pts. You get 1 Victory point for every [x]pts of Par score.
+You can gain or lose Victory Points based on your current score. You currently get 1 VP for every [x] of score.
 
 #menu_scr_vpscr_c2
-The average score and the cost of each victory points are dynamic and based on all player's scores.
+The cost of score per VP is dynamic and based on the sum of the scores of all active characters.
 
 #menu_scr_vpmiss
 Missions
 
 #menu_scr_vpmiss_c
-Victory points you earned by completing Victory point missions.
+Victory points you earned by completing Victory missions.
 
 #menu_scr_vp
 Victory points
@@ -4511,19 +4580,22 @@ Victory points
 You personnal victory points.
 
 #menu_scr_avg
-Reference Score
+World score
 
 #menu_scr_avg_c1
-Used to determine your Par Score. It's value is based on all player's scores. 
+The world score is the sum of all scores of every characters in the game. It's used to determine the score cost per VP. 
 
 #menu_scr_avg_c2
-Having a personnal score above it grants victory points.
+Inactive characters only count for half their actual score.
 
 #menu_scr_vpcost
-Victory point cost
+Score per VP
 
-#menu_scr_vpcost_c
-The amount of points you need above the reference score to be granted each Victory point.
+#menu_scr_vpcost_c1
+Each Victory Point currently costs [x] points of score.
+
+#menu_scr_vpcost_c2
+The cost of 100 Victory Points is defined as equal to 50% of the current world score. This makes the cost of every VP to 0.5% of the world score (with a minimum of 100 points).
 
 #menu_scr_frna
 for Nation
@@ -4532,7 +4604,7 @@ for Nation
 How much points you are currently contributing to your Nation's score. The lower in the ranks, the less you contribute.
 
 #menu_scr_frnavp_c
-How much victory points you are currently contributing to your Nation's Victory Points. The lower in the ranks, the less you contribute.
+How much victory points you are currently contributing to your Nation's Victory Points. It's affected by your current rank: the lower it is, the less you contribute.
 
 #menu_nscr_name
 Your nation
@@ -5365,6 +5437,21 @@ High
 #wkprio_4
 Critical
 
+#strprio_0
+[automatic]
+
+#strprio_1
+Low
+
+#strprio_2
+Medium
+
+#strprio_3
+High
+
+#strprio_4
+Very High
+
 #recyclmat
 We have recovered
 
@@ -5712,3 +5799,408 @@ You've been manually banned from this server by its admin.
 
 #insuf_funds
 Insufficient funds!
+
+#trtybrk_load
+Checking treaties...
+
+#trtybrk_none
+No treaties will be broken by this action.
+
+#trtybrk_warn
+WANRING! This action will trigger the breaking of the following treaties:
+
+#ui_menubdg_prio
+Storage priority
+
+#sc_menubdg_prio_c1
+Select the level of priority for stocking new resources into this storage building as opposed to other storages.
+
+#ui_menubdg_stck_wlth_c1
+Stored wealth
+
+#ui_menubdg_stck_wlth_c2
+The resources currently in this storage are adding [x] to the total Wealth of this territory.
+
+#ui_menubdg_stck_wlth_c3
+The stored wealth is the sum of all resources' base wealth. The base wealth of resources is a constant based on how much workforce is required to produce them. 
+
+#ui_regwlth_tot
+Total wealth
+
+#ui_regwlth_tot_c1
+Effective available wealth in the territory. It is shared between all active workers based on their coin incomes and it determines their individual wealth level and purchasing power.
+
+#ui_regwlth_prod
+Produced wealth
+
+#ui_regwlth_prod_c1
+Current total wealth from all productive work taking place in the territory, it's the sum of all buildings whose work produces wealth.
+
+#ui_regwlth_stck
+Stored wealth
+
+#ui_regwlth_stck_c1
+Current total wealth from all the currently stored resources in the territory (note that resources stored in unmanned ground storages are ignored).
+
+#ui_regwlth_mtl
+Representative money
+
+#ui_regwlth_mtl_c1
+With the representative money policy, precious metals stocks add up to the territory's wealth
+
+#ui_regwlth_prv
+Priviledges
+
+#ui_regwlth_prv_c1
+Wealth diverted directly by priviledged social classes
+
+#ui_tradeordr_your
+Your orders in [x]
+
+#ui_tradeordr_in
+in [x]
+
+#ui_tradeordr_recur
+Recurring order
+
+#ui_tradeordr_recur_c1
+Click to make this order recurrent and automatically triggered based on the territory's stocks.
+
+#ui_tradeordr_stcktrg1
+...when stocks are inferior to
+
+#ui_tradeordr_stcktrg2
+...when stocks are superior to
+
+#ui_tradeordr_instck
+In stock
+
+#ui_tradeordr_lclprc
+Local price
+
+#ui_tradeordr_inc1
+Trade's raw income
+
+#ui_tradeordr_inc1_c1
+This is the raw income this trade offer will generate if taken, based on the amount sold and specified limit price.
+
+#ui_tradeordr_inc2
+Local producer's share
+
+#ui_tradeordr_inc2_c1
+If the sold resources are privately owned, their local owners must be paid at the local price for the amount sold.
+
+#ui_tradeordr_inc2_c2
+* Local producers own [x], at a local price of [y]: +[z] coins
+
+#ui_tradeordr_inc2_c3
+* Income tax of [x]%: -[y] coins
+
+#ui_tradeordr_inc2_c4
+* Actual income for local producers: [x] coins
+
+#ui_tradeordr_inc3
+Expected profit
+
+#ui_tradeordr_inc3_c1
+This is the expected profit expected for this trade offer.
+
+#ui_tradeordr_inc4
+Trade's raw expense (deposit)
+
+#ui_tradeordr_inc4_c1
+This is the maximum raw expense of this trade based on the amount purchased and specified limit price. Immediately taken from the treasury to insure the order.
+
+#ui_tradeordr_inc5
+Potential local incomes
+
+#ui_tradeordr_inc5_c1
+If the purchased resources are then sold locally, this is the income they will generate based on their local selling price.
+
+#ui_tradeordr_inc6
+Expected profit
+
+#ui_tradeordr_inc6_c1
+This is the expected profit if all purchased resources are then sold locally.
+
+#ui_tradeordr_prc1
+Maximum purchasing price. If selling offers are available at a lower price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_prc2
+Minimum selling price. If buying offers are available at a higher price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_quant
+Enter the amount of resources to trade for this offer.
+
+#ui_tradeordr_trdsrvcav
+This offer requires [x] of trading service. You have currently [y] available.
+
+#ui_tradeordr_cant
+This resource cannot be traded!
+
+#ui_tradeordr_showall
+Show all resources
+
+#ui_tradeordr_showall_c1
+Show pending orders for this territory of all resources.
+
+#ui_tradeordr_allreg
+For all territories
+
+#ui_tradeordr_allreg_c1
+Show the trading history of all your territories combined instead of just the currently selected one.
+
+#ui_tradeordr_nocoin
+Insufficient treasury funds to place this order.
+
+#ui_tradeordr_nostck1
+Insufficient resources in stock to place this order.
+
+#ui_tradeordr_nostck2
+Impossible to set a sell order of an amount higher than the stock triggering it.
+
+#ui_tradeordr_priclmt1
+This order conflicts with a selling order from the same territory at a price of [x].
+
+#ui_tradeordr_priclmt2
+This order conflicts with a buying order from the same territory at a price of [x].
+
+#ui_tradeordr_trdsrvc_c1
+Trading service is produced by Market buildings and is required to set and maintain orders in your trading network.
+
+#ui_tradeordr_trdsrvc_c2
+* Your functionning Markets in this territory currenty produce [x] of Trading service. 
+
+#ui_tradeordr_trdsrvc_c3
+* You current orders currently consumme [x] of Trading service.
+
+#ui_tradeordr_trdsrvc_c4
+* You have [x] of Trading service available for new orders.
+
+#ui_tradeordr_butn_c1
+Buying [x] [y] at a maximum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c2
+Recurrent buying of [x] [y] at a maximum price of [z] coins per unit triggered whenever stocks go below [v].
+
+#ui_tradeordr_butn_c3
+Selling [x] [y] at a minimum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c4
+Recurrent selling of [x] [y] at a minimum price of [z] coins per unit triggered whenever stocks reach [v].
+
+#ui_tradeordr_butn_c5
+This order is currently inactive. It will automatically trigger if stocks of [x] reach [y] in this territory.
+
+#ui_tradeordr_butn_c6
+This order is currently active. It will automatically cancel if stocks of [x] go below [y] (stock trigger [z] -order size [v]) in this territory.
+
+#ui_tradeordr_butn_c7
+This order is currently inactive. It will automatically trigger if stocks of [x] go below [y] in this territory.
+
+#ui_tradeordr_butn_c8
+This order is currently active. It will automatically cancel if stocks of [x] go above [y] (stock trigger [z] +order size [v]) in this territory.
+
+#ui_tradeordr_shwinctv
+Show inactive orders
+
+#ui_tradeordr_shwinctv_c1
+Click to toggle the display of recurrent orders that are currently inactive.
+
+#ui_tradeordr_butn_c9
+Offer in [x], from [y] of [z] ([v])
+
+#ui_tradeordr_butn_c10
+Offer in [x], from you
+
+#ui_tradebook_title
+Orders book
+
+#ui_tradebook_buy
+Best ask
+
+#ui_tradebook_sell
+Best bid
+
+#ui_tradebook_buyd
+Ask orders depth
+
+#ui_tradebook_selld
+Bid orders depth
+
+#ui_tradebook_nosell
+No selling offers in your trading network!
+
+#ui_tradebook_nobuy
+No buying offers in your trading network!
+
+#ui_tradebook_noofr
+You havn't any openned orders in this territory.
+
+#ui_tradebook_nbuy_c1
+Place a one-time buying order for [x] [y] at maximum price of [z] coins.
+
+#ui_tradebook_nbuy_c2
+[x] coins will immediately be taken from your treasury and reserved for this order. Note that if the order is cancelled or satisfied at a lower price, the difference will be returned to the treasury.
+
+#ui_tradebook_nbuy_c3
+Place a recurring buying order for [x] [y] at maximum price of [z] coins everytime territory's stocks are below [v].
+
+#ui_tradebook_nbuy_c4
+* Activates when territory go below [x] of [y].
+
+#ui_tradebook_nbuy_c5
+* Deactivates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c1
+Place a one-time selling order for [x] [y] at minimum price of [z] coins.
+
+#ui_tradebook_nsell_c2
+[x] [y] will immediately be taken from your resource stocks and reserved for this order.
+
+#ui_tradebook_nsell_c3
+Place a recurring selling order for [x] [y] at minimum price of [z] coins everytime the territory's stocks reach [v].
+
+#ui_tradebook_nsell_c4
+* Activates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c5
+* Deactivates when territory go below [x] of [y].
+
+#ui_tradehist_ttle
+History
+
+#ui_tradehist_ttle_c1
+Trading history in the territory of [x], for the last [y].
+
+#ui_tradehist_but_c1
+[x] ago, in [y]:
+
+#ui_tradehist_but_c2
+You bought [x] [y] to [z] at price [v].
+
+#ui_tradehist_but_c3
+You sold [x] [y] to [z] at price [v].
+
+#ui_tradehist_but_c4
+* Gross income: +[x] coins
+
+#ui_tradehist_but_c5
+* Local producers share: -[x] coins
+
+#ui_tradehist_but_c6
+* Profit: [x] coins
+
+#ui_tradehist_but_c7
+* Total cost: [x] coins
+
+#menu_res_gen
+General
+
+#menu_res_wealth_c1
+The base wealth of this resource type. This is an objective constant independent of the fluctuating market value of the resource, based on the amount of work required to produce this resource. 
+
+#menu_res_wealth_c2
+If stocked in proper storage buildings, each unit will add [x] to the territory's wealth.
+
+#menu_res_trd
+Trading
+
+#menu_res_trd2
+Trade
+
+#ui_tradehist_tots
+Total sales
+
+#ui_tradehist_tots_c1
+Total income from sales since the last [x].
+
+#ui_tradehist_totb
+Total purchases
+
+#ui_tradehist_totb_c1
+Total expenses from purchases since the last [x].
+
+#ui_tradehist_prtnr
+Best partner
+
+#ui_tradehist_bs
+their purchases: [x], sales: [y]
+
+#ui_tradentwk_title
+Best offers
+
+#ui_tradentwk_title_c1
+Best available offers in your current trading network, for each resource type.
+
+#ui_tradentwk_bst_c1
+* Best bid offer available: [x] coins
+
+#ui_tradentwk_bst_c2
+* Best ask offer available: [x] coins
+
+#ui_tradentwk_bst_c3
+* No bid offers available.
+
+#ui_tradentwk_bst_c4
+* No ask offers available.
+
+#ui_tradentwk_bst_c5
+in stock: [x], local price: [y]
+
+#ui_tradentwk_prof
+Filter unprofitable offers
+
+#ui_tradentwk_prof_c1
+Only list resources whose best offers are potentially profitable for this territory:
+
+#ui_tradentwk_prof_c2
+If the best bid is superior or equal to the local price, or if the best ask is lower or equal to the local price.
+
+#menu_res_trdfrm
+Trade from...
+
+#menu_res_trdfrm_c1
+Select the territory to consider for trading with [x].
+
+#button_opertrt_c1
+Operating a trade route between [x] of [y] and [z] of [v].
+
+#button_opertrt_c2
+* using [x] cargo at price [y]:  [z] coins
+
+#button_opertrt_c3
+* buying cargo at local price [x]:  -[y] coins
+
+#button_opertrt_c4
+* operation profit:  [x] coins
+
+#button_routeitem_c1
+Importing [x] of [y] at price [z] from [v], for a total cargo volume of [w].
+
+#button_routeitem_c2
+Purchased from the trade route for [x] coins and currently reselling in [y] for [z] coins.
+
+#button_routeitem_c3
+Exporting [x] of [y] at price [z] towards [v], for a total cargo volume of [w].
+
+#button_routeitem_c4
+Purchased from local producers for [x] coins and currently sold to [y] for [z] coins.
+
+#button_routeownr
+Trade route owner
+
+#button_routeownr_c1
+The trade route owner is the one who opened the trade route, and is the only one paying the required cargo and able to choose the route's operator.
+
+#button_routeresedit_1
+This is a trade route with a third party: you may only reduce the amount traded.
+
+#button_routeresedit_2
+This is a trade route that you fully control, and you may increase or reduce the amount traded.
+
+#srvr_restart
+Warning: Server daily auto-restart in [x]!
+
+#srvr_decorstrt
+The server is restarting and will be back online in a few minuts.

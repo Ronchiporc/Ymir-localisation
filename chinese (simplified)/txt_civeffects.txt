@@ -2,367 +2,367 @@
 人口收入
 
 #civfx_inc_dscr
-解锁动态人口财富
+解锁动态人口财富。
 
 #civfx_price_n
 动态价格
 
 #civfx_price_dscr
-资源和贵重物品的价格是根据人口供求动态变化的
+资源和贵重物品具有基于人口供求的动态价格。
 
 #civfx_autodist_n
-自动分销
+自动分配
 
 #civfx_autodist_dscr
-所有资源可供所有人自取，不需要分销
+所有资源都自动提供给所有人使用并不需要分销商。
 
 #civfx_bdgeff_n
 建筑效率
 
 #civfx_bdgeff_dscr
-订制建筑物的效率
+修改建筑物的效率。
 
 #civfx_conflict_n
 人口冲突
 
 #civfx_conflict_dscr
-订制人口冲突
+修改人口的冲突。
 
 #civfx_stress_n
 人口压力
 
 #civfx_stress_dscr
-订制人口压力
+修改人口的压力。
 
 #civfx_paidmat_n
-有偿物资
+付费材料
 
 #civfx_paidmat_dscr
-国家必须按当前的市场价格支付所消耗材料的费用
+国家必须按照其当前的市场价格为其消费的材料支付费用。
 
 #civfx_seizem_n
-查封的材料
+检获材料
 
 #civfx_seizem_dscr
-当付费材料有效时，所有或部分材料将被免费没收，而不是由国家支付。
+当付费材料处于活动状态时，全部或部分材料将被免费检获，而不是由国家支付。
 
 #civfx_seizem_set
-没收率
+检获百分比
 
 #civfx_seizem_setd
-设置你希望没收的材料价格的百分比
+设置您希望查获的材料价格的百分比。
 
 #civfx_territ_n
-省域
+省份区域
 
 #civfx_territ_dscr
-城市可以吞并其他领土作为其省
+城市可以兼并其他区域作为其省份。
 
 #civfx_inctax_n
 所得税
 
 #civfx_inctax_dscr
-对该领土所有居民的收入征收的一种税
+一种适用于该地区所有居民收入的税。
 
 #civfx_inctax_set
-所得税率
+所得税百分比
 
 #civfx_inctax_setd
-设置所得税的百分比
+设置应纳税的收入的百分比。
 
 #civfx_saltax_n
 销售税
 
 #civfx_saltax_dscr
-对该领土所有销售的一种税(简化增值税)
+一种适用于该地区所有销售的税种(简化增值税)。
 
 #civfx_saltax_set
-销售税率
+销售税百分比
 
 #civfx_saltax_setd
-设置销售税的百分比
+设置应纳税的销售额的百分比。
 
 #civfx_leadwlth_n
 领导人特权
 
 #civfx_leadwlth_dscr
-作为一种特权领导人获得一部分领土财富
+领导人获得一部分领土财富作为一种特权。
 
 #civfx_leadwlth_set
 领导人特权
 
 #civfx_leadwlth_setd
-给予领导人特权的领土财富百分比
+给予领导人特权的领土财富的百分比。
 
 #civfx_leadsal_n
 领导人薪酬
 
 #civfx_leadsal_dscr
-领导人的薪水由国家支付
+领导人获得的工资由国家支付。
 
 #civfx_leadsal_set
 领导人薪酬
 
 #civfx_leadsal_setd
-该薪水以硬币数额计算
+以硬币计算的工资数额。
 
 #civfx_nobwlth_n
 贵族特权
 
 #civfx_nobwlth_dscr
-作为一种特权贵族获得一部分领土财富
+贵族获得一部分领土财富作为一种特权。
 
 #civfx_nobwlth_set
 贵族特权
 
 #civfx_nobwlth_setd
-给予贵族特权的领土财富百分比
+给予贵族特权的领土财富的百分比。
 
 #civfx_nobsal_n
 贵族薪酬
 
 #civfx_nobsal_dscr
-贵族的薪水由国家支付
+贵族获得的工资由国家支付。
 
 #civfx_nobsal_set
 贵族薪酬
 
 #civfx_nobsal_setd
-该薪水以硬币数额计算
+以硬币计算的工资数额。
 
 #civfx_offwlth_n
-国家工人特权
+国家职员特权
 
 #civfx_offwlth_dscr
-作为一种特权国家工人获得一部分领土财富
+国家职员获得一部分领土财富作为一种特权。
 
 #civfx_offwlth_set
-国家工人特权
+国家职员特权
 
 #civfx_offwlth_setd
-给予国家工人特权的领土财富百分比
+给予国家职员特权的领土财富的百分比。
 
 #civfx_offsal_n
-国家工人酬薪
+国家职员酬薪
 
 #civfx_offsal_dscr
-国家工人的薪水由国家支付
+国家职员获得的工资由国家支付。
 
 #civfx_offsal_set
-国家工人酬薪
+国家职员酬薪
 
 #civfx_offsal_setd
-该薪水以硬币数额计算
+以硬币计算的工资数额。
 
 #civfx_capadmin_n
-首都管理
+首都行政管理
 
 #civfx_capadmin_dscr
-修改首都的管理
+修改首都的行政管理。
 
 #civfx_cityadmin_n
-城市管理
+城市行政管理
 
 #civfx_cityadmin_dscr
-修改每个城市的管理
+修改每个城市的行政管理。
 
 #civfx_regadmin_n
-领土管理
+区域行政管理
 
 #civfx_regadmin_dscr
-修改每个区域的管理
+修改每个地区的行政管理。
 
 #civfx_caplead_n
 首都领导人
 
 #civfx_caplead_dscr
-领导人在首都
+首都的领导人。
 
 #civfx_capnob_n
 首都贵族
 
 #civfx_capnob_dscr
-贵族在首都
+首都的贵族。
 
 #civfx_citlead_n
 城市领导人
 
 #civfx_citlead_dscr
-每个城市的领导人
+每个城市的领导人。
 
 #civfx_citnob_n
 城市贵族
 
 #civfx_citnob_dscr
-每个城市的贵族
+每个城市的贵族。
 
 #civfx_reglead_n
 地方领导人
 
 #civfx_reglead_dscr
-每个领土的领导人
+每个地区的领导人。
 
 #civfx_regnob_n
 地方贵族
 
 #civfx_regnob_dscr
-每个领地的贵族
+每个地区的贵族。
 
 #civfx_goldstck_n
 贵金属财富
 
 #civfx_goldstck_dscr
-每单位的贵重金属(黄金和白银)的存储都增加所有领土的财富
+为仓库中每单位的贵金属(黄金和白银)增加所有领土的财富。
 
 #civfx_modhap_n
 人口幸福
 
 #civfx_modhap_dscr
-修改人口的幸福度
+修改人口的幸福感。
 
 #civfx_happy_n
 人口幸福
 
 #civfx_happy_dscr
-修改人口的幸福度
+修改人口的幸福感。
 
 #civfx_enmerch_n
-商人
+商户
 
 #civfx_enmerch_dscr
-允许使用任何可向人民出售资源的商人
+允许使用可以向人口出售资源的商人。
 
 #civfx_entrout_n
 贸易路线
 
 #civfx_entrout_dscr
-允许在领土之间建立永久的贸易路线
+允许在领土之间创建永久的贸易路线。
 
 #civfx_legitprt_n
-人民的保护者
+人民保护者
 
 #civfx_legitprt_dscr
-军事实力合法性因素的修正
+修改军事力量对合法性的影响。
 
 #civfx_legitw_n
-优秀的领导者
+领导人优势
 
 #civfx_legitw_dscr
-领导者优势合法性因素的修正
+修改领导人优势对合法性的影响。
 
 #civfx_legitr_n
-人们的宗教信仰
+人民宗教信仰
 
 #civfx_legitr_dscr
-人民宗教信仰合法性因素的修正
+修改人民宗教信仰对合法性的影响。
 
 #civfx_legitp_n
-议会的权力
+议会权力
 
 #civfx_legitp_dscr
-议会合法性因素的修正
+修改议会对合法性的影响。
 
 #civfx_legitsen_n
-参议院的权力
+参议院权力
 
 #civfx_legitsen_dscr
-参议院合法性因素的修正
+修改参议院对合法性的影响。
 
 #civfx_legitm_n
-部门的权力
+部门权力
 
 #civfx_legitm_dscr
-部门合法性因素的修正
+修改部门对合法性的影响。
 
 #civfx_legitap_n
-人们的认可
+人民认可
 
 #civfx_legitap_dscr
-人民认可合法性因素的修正
+修改人民认可对合法性的影响。
 
 #civfx_wlegitprt_n
 军事力量的重要性
 
 #civfx_wlegitprt_dscr
-军事实力在多大程度上影响合法性
+军事力量对合法性的影响有多大。
 
 #civfx_wlegitw_n
-优秀领导者的重要性
+领导人优势的重要性
 
 #civfx_wlegitw_dscr
-领导者的优势在多大程度上影响合法性。
+领导人优势对合法性的影响有多大。
 
 #civfx_wlegitr_n
 宗教信仰的重要性
 
 #civfx_wlegitr_dscr
-人民的宗教信仰在多大程度上影响合法性。
+人民宗教信仰对合法性的影响有多大。
 
 #civfx_wlegitp_n
 议会的重要性
 
 #civfx_wlegitp_dscr
-议会的权力在多大程度上影响合法性。
+议会权力对合法性的影响有多大。
 
 #civfx_wlegitsen_n
 参议院的重要性
 
 #civfx_wlegitsen_dscr
-参议院的权力在多大程度上影响合法性。
+参议院权力对合法性的影响有多大。
 
 #civfx_wlegitm_n
 部门的重要性
 
 #civfx_wlegitm_dscr
-部门的权力对合法性的影响有多大。
+部门权力对合法性的影响有多大。
 
 #civfx_wlegitap_n
-人们认可的重要性
+人民认可的重要性
 
 #civfx_wlegitap_dscr
-人民的认可在多大程度上影响合法性。
+人民认可对合法性的影响有多大。
 
 #civfx_statepow_n
 国家权力
 
 #civfx_statepow_dscr
-修改国家权力的大小
+修改国家权力的大小。
 
 #civfx_foodcons_n
 摄食量
 
 #civfx_foodcons_dscr
-影响波尔科为满足其对食物的需求而需要的食物量
+影响波尔为满足其对食物的需求所要的食物量。
 
 #civfx_coin_n
-国库
+国家国库
 
 #civfx_coin_dscr
-使国家能够收入和支出的钱。
+启用国家收入和支出资金。
 
 #civfx_agrisav_n
-种子储备 - 粮食储备
+储备种子
 
 #civfx_agrisav_dscr
-所有农业粮食产出的25%直接进入粮仓。
+所有农业食品生产的25%直接进入粮仓。
 
 #civfx_subv_n
-补助金
+资助金
 
 #civfx_subv_dscr
-政府对特定社会阶层的工人提供的一种援助，以增加他们的收入
+政府给予每个特定社会阶层的工人的一种援助，以增加他们的收入。
 
 #civfx_subv_set1
 补助金
 
 #civfx_subv_set1d
-接受这种补助金的社会阶层
+接受这种补助金的社会阶层。
 
 #civfx_subv_set2
 硬币
 
 #civfx_subv_set2d
-补助金的数额。这个阶层的每一位工人都将得到这一数额的硬币，再加上他们的收入。 
+补助金的数额。这个阶层的每个工人都将得到增加到他们收入中的这个数目的硬币。
 
 #civfx_paidrsrch_n
 有偿研究人员
@@ -374,10 +374,10 @@
 领导人的个人贡献
 
 #civfx_ldcntrb_dscr
-领导人可以用自己的财富(减少他自己财富)为政府的财政作贡献。 
+领导人可以用自己的财富为政府的财务做出贡献(这会减少他的财富)。
 
 #civfx_ldcntrb_set
 贡献百分比
 
 #civfx_ldcntrb_setd
-领导者财富的百分比用于政府的财务。请注意，这将按比例减少领导人的财富。
+领导人财富的百分比对政府的财政做出了贡献。请注意，这将按比例减少领导人的财富。
