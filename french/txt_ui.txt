@@ -232,6 +232,12 @@ Victoire
 #servlst_won_c1
 Statut de la partie en cours. Une fois la victoire atteinte, la partie est terminée et peut être effacée pour relancer une nouvelle partie à zéro.
 
+#servlst_psw
+Mot de passe
+
+#servlst_psw_c1
+Si l'accès a ce serveur est vérouillé par un mot de passe.
+
 #servlst_ver
 Version du serveur
 
@@ -6166,13 +6172,13 @@ Opère une route commerciale entre [x] de [y] et [z] de [v].
 Importe [x] de [y] au prix de [z] depuis [v], pour un volume de [w] de cargo.
 
 #button_routeitem_c2
-Acheté à la route commerciale pour [x] monnaies et revendu actuellement à [y] pour [z] monnaies.
+Acheté à la route commerciale au prix de [x] pour [y] monnaies et revendu actuellement dans [y] au prix de [v] pour [w] monnaies.
 
 #button_routeitem_c3
 Exporte [x] de [y] au prix de [z] vers [v], pour un volume de [w] de cargo.
 
 #button_routeitem_c4
-Acheté aux producteurs locaux pour [x] monnaies et revendu actuellement à [y] pour [z] monnaies.
+Acheté aux producteurs locaux au prix de [x] pour [y] monnaies et revendu actuellement à la route commerciale pour [z] au prix de [v] pour [w] monnaies.
 
 #button_routeownr
 Propriétaire de la route

@@ -337,6 +337,12 @@ Won
 #servlst_won_c1
 Wether this game is won yet or not. Once won, the game is over and the server may be wiped and restarted.
 
+#servlst_psw
+Password
+
+#servlst_psw_c1
+Wether access to this game is protected by a password or not.
+
 #servlst_admn
 Admin tools
 
@@ -6179,13 +6185,13 @@ Operating a trade route between [x] of [y] and [z] of [v].
 Importing [x] of [y] at price [z] from [v], for a total cargo volume of [w].
 
 #button_routeitem_c2
-Purchased from the trade route for [x] coins and currently reselling in [y] for [z] coins.
+Purchased from the trade route at price [x] for [y] coins and currently reselling in [z] at price [v] for [w] coins.
 
 #button_routeitem_c3
 Exporting [x] of [y] at price [z] towards [v], for a total cargo volume of [w].
 
 #button_routeitem_c4
-Purchased from local producers for [x] coins and currently sold to [y] for [z] coins.
+Purchased from local producers at price [x] for [y] coins and currently sold to the trade route for [z] at price [v] for [w] coins.
 
 #button_routeownr
 Trade route owner
