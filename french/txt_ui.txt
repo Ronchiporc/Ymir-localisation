@@ -1189,6 +1189,9 @@ IMPORTATIONS
 #ui_mres_dist
 DISTRIBUTION
 
+#ui_mres_dist_cltr
+Cette ressource produit [x] de Culture d'Etat pour chaque unité consommée par la population, produisant actuellement un total de [y] de Culture d'Etat.
+
 #ui_mres_ind
 INDUSTRIES
 
@@ -4758,6 +4761,9 @@ Cette action coûtera [x] Points d'Action à la formation (cependant vous pourre
 
 #ui_foinv_empreg
 Vous ne pouvez charger de resources depuis un territoire vide!
+
+#ui_foinv_unldfail
+La formation n'a pas pu décharger [x] de [y] en raison d'un manque d'éspace de stockage!
 
 #ui_foinv_cost_c1
 Coût d'achat des resources.

@@ -935,6 +935,24 @@ Bonne nouvelle: les gens de [x] nous ont montré leur connaissance de [p1] et no
 #event_rcvidea_2
 Sur la base de ce qu'ils nous ont montré, nous avons maintenant débloqué un nouveau projet: '[p2]', que nous pouvons essayer de compléter nous-mêmes pour maîtriser la connaissance de [p1]!
 
+#event_ideasprd
+Une nouvelle idée s'est propagée depuis nos voisins!
+
+#event_ideasprd_1
+People travel and with them, knowledges and stories about revolutionnary innovations spread along trade routes and neigboring states in peace.
+
+#event_ideasprd_2
+News about a knowledge unknown to us has reached us from [x] and its given us the opportunity to research and adopt this new way of things as well.
+
+#event_idealrn
+Nous avons reçu une nouvelle idée de la population de [x]!
+
+#event_idealrn_1
+Une grande partie de la population de [y] est originaire de la culture [x], et la cohabitation avec notre peuple est la source d'échanges culturels.
+
+#event_idealrn_2
+Leur maitrise d'une connaissance qui nous est inconnue à déclenché la curiosité de certains de nos Porcos, et nous offre l'opportunité d'étudier et adopter cette nouvelle technologie.
+
 #event_trtov
 Notre traité '[x]' avec [y] est maintenant terminé.
 
@@ -1909,3 +1927,42 @@ De nombeurs gens ont fuit la cité, rapportant des faits terrifiants et incroyab
 
 #ch_palentir7_2
 Depuis, personne n'a eu de nouvelle de la ville. Ceux qui y sont allés n'en sont pas revenus, et la pluspart des gens ont désormais trop peur pour tenter. Nul ne sait quelles terribles choses s'y passe ou ce qu'il est advenus réellement des affligés dans ce qui était jadis connu comme la capitale de [y].
+
+#ev_palntruse
+Usage du palentir
+
+#ev_palntruse_1
+Vous ne pouvez détacher vos yeux de la pierre. Refletant d'indécriptibles couleurs il semble s'y réfracter la vue d'un vaste espace tel une fenêtre vers autre chose.
+
+#ev_palntruse_2
+Alors que vous posez vos mains sur la sphère noire, vous vous sentez immédiatement traversé d'une energie puissante. L'air autour de vous est électrisé. Des nuages de tempête semblent tourbillonner plus rapidement depuis l'interieur du globe tandis qu'une lueur lointaine apparait en son centre.
+
+#ev_palntruse_3
+Vous ressentez une présence. Il n'y a aucun signe de celle-ci: vous ne la voyez pas, vous ne l'entendez pas. Mais vous savez qu'elle est là, et qu'elle vous offre de faire de votre plus profond désir une réalité. Quel en sera t'il?
+
+#ev_palntruse_c1
+"Je veux sécuriser la prospérité et le bonheur de mon peuple pour les ages à venir en obtenant gloire et préstige incontestable aux yeux des autres peuples."
+
+#ev_palntruse_c2
+"Je souhaite soumettre toute vie à mon unique volonté, et diriger ce monde seul d'un main de fer."
+
+#ev_palntrch1
+Un Don de Sagesse
+
+#ev_palntrch1_1
+Vous n'entendez aucune réponse. Il n'y a aucune voix dans votre tête. Soudainement, vous juste simplement... savez. Votre voeux a été éxhaussé et la pierre vous a répondu avec le Don de Sagesse. En face de vous, la pierre à disparu.
+
+#ev_palntrch1_2
+Vous avez reçu les instructions de comment construire de mystérieux monolithes noirs qui apporteront bonheur, richesse, sagesse et prestige à tous les habitants des territoires où ils seront érigés. Vous n'en comprenez pas le fonctionnement et vous n'en avez pas besoin. Vous savez uniquement comment les construire. Il est temps de convoquer vos meilleurs ingénieurs et bâtisseurs pour commencer les préparatifs.
+
+#ev_palntrch2
+Un Don de Pouvoir
+
+#ev_palntrch2_1
+Vous n'entendez aucune réponse. Il n'y a aucune voix dans votre tête. Soudainement, vous juste simplement... savez. Votre voeux a été éxhaussé et la pierre vous a répondu avec le Don de Pouvoir. En face de vous, la pierre à disparu.
+
+#ev_palntrch2_2
+Vous avez reçu les instructions de comment construire une titanesque tour de pierre noire qui assurera votre désir de domination et de pouvoir une fois complétée. Vous savez qu'elle doit être construite a tout prix. Il est temps de convoquer vos meilleurs artisans et bâtisseurs pour commencer les préparatifs au plus tôt. Ce sera un chantier long et couteux.
+
+#ev_palntrch2_3
+Soyez prudent car la nouvelle de vôtre décision va rapidement se répendre, et vos alliés vont réaliser votre trahison et sinistre projet. Ils tenteront probablement de vous éliminer avant que vous ne puissiez completer la construction de la tour et acceder a ses pouvoirs.

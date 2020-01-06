@@ -5,7 +5,7 @@
 陶器は、セラミック材料を鍋や陶器にするための技術です。
 
 #tech_ptry_dscr_2
-粘土体を必要な形状の物体に成形し、それらを粘土から全ての水分を除去するキルン中で高温に加熱し、それを永久的に硬化させそして形状を設定することによって作られる。気密ポットは食品のより良い保存を可能にします。
+粘土体を必要な形状の物体に成形し、それらを粘土から全ての水分を除去する窯の中で高温に加熱し、それを永久的に硬化させそして形状を設定することによって作られる。封をされた壺は食品のより良い保存を可能にします。
 
 #tech_sedent
 座位主義
@@ -98,7 +98,7 @@
 マーケットは、外国の都市の要求＆需要や依頼と連絡を取り合って、取引ネットワークの都市から商品を簡単に売買することができる、特別な交易商のいる場所です。
 
 #tech_portage
-ポーテージ
+運搬
 
 #tech_portage_dscr_1
 手動の1回限りのキャラバンに頼るのではなく、地域を越えて商品を運搬することを専門とする人たちに、資源を絶えず移動させることができます。
@@ -176,7 +176,7 @@ Aritmetics
 代数と幾何学の再結合による連続的変化の数学的研究
 
 #tech_geometry
-ジオメトリ
+幾何学
 
 #tech_geometry_dscr_1
 形、大きさ、図形の相対的な位置、および空間の性質の問題に関する数学の分野。
@@ -194,7 +194,7 @@ Aritmetics
 機械や道具のようなものを発明し、構築し、研究し、そして改良するための数学と科学的知識の応用。
 
 #tech_well
-よく掘る
+井戸
 
 #tech_well_dscr_1
 地下水源を利用するために土地に穴を掘る方法。
@@ -266,7 +266,7 @@ tech_runwat_dscr_1
 tech_baths_dscr_1
 
 #tech_mudbdg
-マッドビル
+泥製の建物
 
 #tech_mudbdg_dscr_1
 tech_mudbdg_dscr_1
@@ -278,7 +278,7 @@ tech_mudbdg_dscr_1
 土壌をどのように使用して固体煉瓦に加工し、安価な材料から建設するのを容易にするか。
 
 #tech_stonebdg
-石造りの施設
+石造りの建物
 
 #tech_stonebdg_dscr_1
 tech_stonebdg_dscr_1
@@ -320,7 +320,7 @@ tech_constrct_dscr_1
 tech_sledge_dscr_1
 
 #tech_masonry
-石積み
+石工術
 
 #tech_masonry_dscr_1
 tech_masonry_dscr_1
@@ -338,31 +338,37 @@ tech_constrplan_dscr_1
 tech_archtct_dscr_1
 
 #tech_corbarch
-コルゲートアーチ
+コーベルアーチ
 
 #tech_corbarch_dscr_1
 tech_corbarch_dscr_1
 
 #tech_archbdg
-アーチの施設
+アーチ状の建物
 
 #tech_archbdg_dscr_1
 tech_archbdg_dscr_1
 
+#tech_column
+Post & lintel building
+
+#tech_column_dscr_1
+tech_column_dscr_1
+
 #tech_domebdg
-ドームビル
+ドーム状の建物
 
 #tech_domebdg_dscr_1
 tech_domebdg_dscr_1
 
 #tech_multistor
-高層ビル
+高層建築
 
 #tech_multistor_dscr_1
 tech_multistor_dscr_1
 
 #tech_lever
-レバー
+てこ
 
 #tech_lever_dscr_1
 tech_lever_dscr_1
@@ -410,37 +416,37 @@ tech_metcast_dscr_1
 tech_bronze_dscr_1
 
 #tech_bloomry
-ブルーメリー
+塊鉄炉
 
 #tech_bloomry_dscr_1
 tech_bloomry_dscr_1
 
 #tech_iron
-アイロン加工
+製鉄
 
 #tech_iron_dscr_1
 tech_iron_dscr_1
 
 #tech_bllws
-ベローズ
+ふいご
 
 #tech_bllws_dscr_1
 tech_bllws_dscr_1
 
 #tech_blastfurn
-溶鉱炉
+高炉
 
 #tech_blastfurn_dscr_1
 tech_blastfurn_dscr_1
 
 #tech_fineryforg
-フィナリーフォージ
+精製炉
 
 #tech_fineryforg_dscr_1
 tech_fineryforg_dscr_1
 
 #tech_puddlngforg
-水たまりの鍛造
+パドル工程 
 
 #tech_puddlngforg_dscr_1
 tech_puddlngforg_dscr_1
@@ -506,10 +512,10 @@ tech_grndmining_dscr_1
 鉱山の換気を改善し管理する方法、より深くより生産的な鉱山を可能にする方法。
 
 #tech_coke
-木炭
+コークス
 
 #tech_coke_dscr_1
-どのようにして鉱物石炭を木炭に加工するか、後炭の代わりに使用することができる新しい可燃物です。
+どのようにして石炭を木炭に加工するか、後炭の代わりに使用することができる新しい可燃物です。
 
 #tech_agrcultr
 農業
@@ -524,13 +530,13 @@ tech_grndmining_dscr_1
 収量、成長速度、抵抗性などの特定の形質を開発するために、世代ごとに最も望ましい特性の世代を持つ植物を慎重に選択するプロセス。
 
 #tech_ard
-アード
+犂
 
 #tech_ard_dscr_1
 単純なスパイクからなる農業用具が土の中を引きずり、草案の動物に引っ張られて、畑の準備がずっと早くそして簡単になりました。
 
 #tech_plough
-すき
+プラウ
 
 #tech_plough_dscr_1
 1つまたは複数のブレードをフレームに固定し、それをひっくり返して種子を植えるための溝を切って耕作し、圃場の肥沃さと均質性を高める大規模な農業用具。
@@ -542,13 +548,13 @@ tech_grndmining_dscr_1
 天然のオオカミを友だちにして、毎日の仕事、特に狩猟や警備で豚達を助けます。
 
 #tech_animcaptr
-アニマルキャプチャー
+動物の捕獲
 
 #tech_animcaptr_dscr_1
 野生動物を捕獲し、飼いならし、必要な時に家畜として飼う方法。
 
 #tech_animdom
-動物の息
+家畜化
 
 #tech_animdom_dscr_1
 捕獲された動物の世話をする方法を知った後、今私達自身で新しい動物を生産することを可能にして、それらの繁殖を扱う方法を知っています！
@@ -572,7 +578,7 @@ tech_grndmining_dscr_1
 家畜の取扱いと管理は、馬上でははるかに簡単で効率的です。
 
 #tech_manure
-肥料肥料
+肥料
 
 #tech_manure_dscr_1
 厩肥を土地に置くことで、植物はより速くより大きく成長するようになります。
@@ -590,7 +596,7 @@ tech_grndmining_dscr_1
 tech_soilcol_dscr_1
 
 #tech_wheel
-ホイール
+車輪
 
 #tech_wheel_dscr_1
 回転します！
@@ -611,7 +617,7 @@ tech_paper_dscr_1
 窯
 
 #tech_kiln_dscr_1
-キルンは、硬化、乾燥、化学的変化などのプロセスを完了するのに十分な温度を生み出す断熱チャンバーです。
+窯は、硬化、乾燥、化学的変化などのプロセスを完了するのに十分な温度を生み出す断熱チャンバーです。
 
 #tech_weaving
 織り
@@ -626,22 +632,22 @@ tech_paper_dscr_1
 織機は布を手で織るのではなく織るために使われる装置で、生産性を向上させます。
 
 #tech_loom3
-ハンドルーム
+手織り機
 
 #tech_loom3_dscr_1
 織機をより早くそしてより実用的に製造することを可能にする改良された織機
 
 #tech_loom4
-フットペダルフロア織機
+足踏み織機
 
 #tech_loom4_dscr_1
 床に直接置かれ、メカニズムを制御するために踏み板と呼ばれるフットペダルを使用する大きな織機。
 
 #tech_loom5
-フライングシャトル織機
+飛び杼織機
 
 #tech_loom5_dscr_1
-フライングシャトルを使用すると、1つのウィーバーで、腕の長さよりも幅が広く、以前の織機で達成されていた速度よりもはるかに速い速度で布を製造できます。
+飛び杼を使用すると、織工1人で、腕の長さよりも幅が広く、以前の織機で達成されていた速度よりもはるかに速い速度で布を製造できます。
 
 #tech_loom6
 パワールーム
@@ -662,7 +668,7 @@ tech_carpet_dscr_1
 裸で歩く代わりに服を着るという概念。
 
 #tech_tanning
-日焼け
+なめし
 
 #tech_tanning_dscr_1
 もう腐った死んだ動物の皮を着る必要はもうありません。皮をほぐす、乾かす、喫煙することで、適切な皮革を作ることができます。より長く続き、より柔軟になり、そして繊細な鼻のための臭いが少なくなります。
@@ -779,7 +785,7 @@ tech_bread_dscr_1
 オリーブオイル
 
 #tech_oliveoil_dscr_1
-オリーブ油は、オリーブから得られる液体脂肪であり、料理用原料としてだけでなく、メデシンとして、そしてスキンケア用途にも使用される。
+オリーブ油は、オリーブから得られる液体脂肪であり、料理用原料としてだけでなく、薬品や、スキンケア用途にも使用される。
 
 #tech_beamprss
 ビームプレス
@@ -866,7 +872,7 @@ tech_longsword_dscr_1
 tech_warham_dscr_1
 
 #tech_helbard
-ヘルバード
+ハルバード
 
 #tech_helbard_dscr_1
 tech_helbard_dscr_1
@@ -890,13 +896,13 @@ tech_metshield_dscr_1
 tech_hvshield_dscr_1
 
 #tech_stlshld
-スチール製シールド
+鋼製シールド
 
 #tech_stlshld_dscr_1
 tech_stlshld_dscr_1
 
 #tech_paddarm
-パッド入り装甲
+パッデドアーマー
 
 #tech_paddarm_dscr_1
 tech_paddarm_dscr_1
@@ -920,7 +926,7 @@ tech_paparmor_dscr_1
 tech_brigdn_dscr_1
 
 #tech_chnmail
-チェーンメール
+チェーンメイル
 
 #tech_chnmail_dscr_1
 tech_chnmail_dscr_1
@@ -932,7 +938,7 @@ tech_chnmail_dscr_1
 tech_cuirass_dscr_1
 
 #tech_lamnrarm
-ラミナーアーマー
+ラメラーアーマー
 
 #tech_lamnrarm_dscr_1
 tech_lamnrarm_dscr_1
@@ -956,7 +962,7 @@ tech_lhelmet_dscr_1
 tech_hvhelmet_dscr_1
 
 #tech_ptrwhl
-ポッターの輪
+ろくろ
 
 #tech_ptrwhl_dscr_1
 ろくろは丸型陶器の成形に使用される機械で、陶器の品質と生産を向上させます。粘土の塊を高速で回転するホイール上に置き、次にホイールが回転するにつれて形作るという「投げ」と呼ばれる新しい陶器作りのプロセスを開発することを可能にします。陶器を部隊するために粘土が長い糸に巻かれていた 'コイリング'のより原始的な技術を置き換えます。
@@ -1008,3 +1014,21 @@ tech_hvhelmet_dscr_1
 
 #tech_sausg_dscr_1
 ソーセージは新鮮な肉を加工して長期保存を可能にする方法です。
+
+#tech_plaster
+石膏
+
+#tech_plaster_dscr_1
+石灰石の焼成によって作られる壁や天井の保護や装飾に使われる建材
+
+#tech_godmono
+知恵のギフト
+
+#tech_godmono_dscr_1
+パレンティールより与えられた知識により建て方を知ったモノリスは完成の暁には繁栄をもたらし、知恵と幸福を住人に与えるでしょう。
+
+#tech_godmord
+力のギフト
+
+#tech_godmord_dscr_1
+パレンティールより与えられた知識により建て方を知った巨大な黒い塔は完成の暁には世界の支配という願いをかなえるでしょう。

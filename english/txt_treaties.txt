@@ -186,3 +186,6 @@ National defensive pact
 
 #diplo_ndef_dscr_1
 Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
+
+#treaty_nocls
+(breaking clauses are not effective because the other party is currently inactive)

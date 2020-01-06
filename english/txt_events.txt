@@ -1027,6 +1027,24 @@ Good news: the people of [x] have shown us their knowledge of [p1] and explained
 #event_rcvidea_2
 Based on what they shown us, we have now unlocked a new project: '[p2]', which we can attempt to complete ourselves to master the knowledge of [p1] as well!
 
+#event_ideasprd
+A new idea coming from our neighbors has reached us!
+
+#event_ideasprd_1
+People travel and with them, knowledges and stories about revolutionnary innovations spread along trade routes and neigboring states in peace.
+
+#event_ideasprd_2
+News about a knowledge unknown to us has reached us from [x] and its given us the opportunity to research and adopt this new way of things as well.
+
+#event_idealrn
+We learned a new idea from the people of [x]!
+
+#event_idealrn_1
+The city of [y] is home to a lot of people of the [x] culture, and cohabitation with our people is leading to cultural exchanges.
+
+#event_idealrn_2
+Their mastery of a knowledge unknown to us has triggered the curiosity of some of our Porcos, and its given us the opportunity to investigate and adopt this new way of things.
+
 #event_trtov
 Our treaty '[x]' with [y] is now over.
 
@@ -1920,10 +1938,10 @@ As you lay your hands on the black stone, you immediately feel a powerful and ov
 You feel a presence. There is no signs of it, you don't see it, you don't hear it. But you know it's there. And you know it's asking for your deepest desire, promissing you to make it a reality. What will it be?
 
 #ev_palntruse_c1
-I want to secure the prosperity and happiness of my people for the ages to come, giving them unquestionnable glory and prestige over all others.
+"I want to secure the prosperity and happiness of my people for the ages to come, giving them unquestionnable glory and prestige over all others."
 
 #ev_palntruse_c2
-I want to submit all to my only will, and rule over this world with an iron fist.
+"I want to submit all life to my only will, and rule over this world alone with an iron fist."
 
 #ev_palntrch1
 A gift of Wisdom
@@ -1942,4 +1960,7 @@ You do not hear any answer. There is no voice in your head. You just suddenly...
 
 #ev_palntrch2_2
 You have received instructions of how to build gigantic tower of black stone that will promisses to grant your desire for domination and power only once you complete it's construction. You know you must build it. It's time to write down the plans you have been gifted with and to call upon your best engineers and builders to start preparations, it's going to be a long and expensive construction work.
+
+#ev_palntrch2_3
+Be wary, for the news of your decision will spread and your allies will soon know of your betrayal and sinister intent. They might attempt to eliminate you before you get to complete the construction of the tower and unlock its powers.
 

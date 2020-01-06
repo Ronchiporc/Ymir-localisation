@@ -1495,6 +1495,9 @@ IMPORT
 #ui_mres_dist
 DISTRIBUTION
 
+#ui_mres_dist_cltr
+This resource produces [x] of State Culture for every unit consummed by population, currently producing a total of [y] State Culture.
+
 #ui_mres_ind
 INDUSTRIES
 
@@ -3063,6 +3066,9 @@ You can't take resources from a territory you do not control!
 
 #ui_foinv_empreg
 You can't load resources from an empty territory!
+
+#ui_foinv_unldfail
+The formation failed to unload [x] of [y] because of insufficient storage space!
 
 #ui_foinv_load
 Loading resources into formation's inventory
