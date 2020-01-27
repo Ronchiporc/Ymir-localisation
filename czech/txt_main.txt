@@ -351,7 +351,7 @@ Rebelové
 automatic
 
 #g_noresult
-no result
+bez výsledků
 
 #g_Fertility
 Úrodnost
@@ -435,13 +435,13 @@ z
 Náčelník
 
 #g_facrk1_2
-Chiefdom
+Náčelnictví
 
 #g_facrk2_1
-Chieftain
+Náčelník
 
 #g_facrk2_2
-Chiefdom
+Náčelnictví
 
 #g_prmtv_trb
 Primitivní kmen
@@ -498,7 +498,7 @@ Dohoda o kapitulaci
 Okupovanné území
 
 #g_outpost
-outpost
+základna(outpost)
 
 #g_per_day
 za den
@@ -540,7 +540,7 @@ nikdy
 Chief
 
 #g_chiefdom
-Chief
+Náčelník
 
 #g_vassal
 Vazal
@@ -565,4 +565,13 @@ Tradice
 
 #g_in
 v
+
+#g_at
+at
+
+#g_when
+kdy
+
+#g_You
+You
 

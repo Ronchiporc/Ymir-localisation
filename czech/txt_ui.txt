@@ -1181,12 +1181,6 @@ Buildings upkeep
 #ui_eco_bdgs_c1
 Total upkeep of all buildings in all your territories.
 
-#ui_eco_infr
-Infrastructures upkeep
-
-#ui_eco_infr_c1
-Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
-
 #ui_eco_units
 Údržba vojska
 
@@ -2433,31 +2427,31 @@ modify terrain heights
 TERRAIN HEIGHT TOOL
 
 #ui_tertool_1
-Increase height: ctrl + mouse wheel up
+Zvyš výšku: ctrl + kolečko myši nahoru
 
 #ui_tertool_2
-Decrease height: ctrl + mouse wheel down
+Sniž výšku: ctrl + kolečko myši dolů
 
 #ui_tertool_3
-Cancel and close : right-click
+Zrušit a zavřít : pravé kliknutí
 
 #ui_tertool_4
-Confirm work and close: space bar
+Potvrď práci a zavři: mezerník
 
 #ui_tertool_add
-Adding
+Přidávání
 
 #ui_tertool_dig
-Digging
+Vykopávání
 
 #ui_tertool_bal
-Imbalance
+Nerovnost
 
 #ui_tertool_cost
-predicted cost in tools to complete this task
+předpokládané náklady nástrojů k dokončení tohoto úkolu
 
 #ui_tertool_penal
-Imbalance cost penalty
+Penalizace nákladů za nevyváženost
 
 #ui_tertool_dscr
 This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and will be worked over time to match this preview, also consuming tool resources in the process.
@@ -3461,26 +3455,8 @@ Select a type of formation
 #menu_nfrm_type1
 Army
 
-#menu_nfrm_t1_dscr1
-An army is composed by permanently mobilized units, costing upkeep.
-
-#menu_nfrm_t1_dscr2
-They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
-
-#menu_nfrm_t1_dscr3
-Armies can move into other territories and their presence increases state authority.
-
 #menu_nfrm_type2
 Militia
-
-#menu_nfrm_t2_dscr1
-A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
-
-#menu_nfrm_t2_dscr2
-Militias don’t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
-
-#menu_nfrm_t2_dscr3
-However , the militia cannot move to other territory s and decreases the state authority.
 
 #menu_nfrm_type3
 National army
@@ -5715,7 +5691,6 @@ Account banned for attempting to cheat the one-device-only restriction.
 Z tohoto serveru jste byl vykázán automatickým anti-cheatem.
 
 #modbanned
-You've been manually banned from this server by its admin.
 Správce vás ručně zabanoval(vykázal) z tohoto serveru.
 
 #insuf_funds
@@ -5729,4 +5704,553 @@ Touto akcí nebudou porušeny žádné smlouvy.
 
 #trtybrk_warn
 VAROVÁNÍ! Následující akce spustí narušení následujících dohod:
+
+#servlst_psw
+Password
+
+#servlst_psw_c1
+Wether access to this game is protected by a password or not.
+
+#mapcont
+Kontinenty
+
+#mapsea
+počet moří
+
+#maprelief
+Relief amount
+
+#maptemp
+Teplota
+
+#regeco_up_free
+Status teritoria
+
+#regeco_up_free_c1
+Free upkeep from territorial status.
+
+#ui_mres_dist_cltr
+This resource produces [x] of State Culture for every unit consummed by population, currently producing a total of [y] State Culture.
+
+#ui_foinv_unldfail
+The formation failed to unload [x] of [y] because of insufficient storage space!
+
+#ui_regres_totexp_c4w
+Selling at a loss! Local Cargo price higher than in the trade routes
+
+#ui_regres_selres
+Select a resource type
+
+#ui_regres_trsf_c1
+Setup a continuous transfer of resources between your territories. 
+
+#ui_regres_trsf_c2
+These offers are not visible to your trading network and can only be taken by your own territories.
+
+#ui_regres_imp_c1
+View existing offers in your trading network of territories offering the exportation of a continuous transfer of resources.
+
+#ui_regres_exp_c1
+Offer a continuous transfer of resources to other territories of your trading network.
+
+#ui_regres_exp_c2
+These offers are public and can be taken by anyone in your trading network.
+
+#ui_regres_buying
+Buying in [x]
+
+#ui_regres_selling
+Selling in [x]
+
+#ui_regres_amnt
+Amount
+
+#ui_troute_basevol
+Base volume
+
+#ui_troute_basevol_c1
+The base cargo volume needed for this trade route, which is the sum of the cargo volume of all the transported resources.
+
+#ui_troute_totinc
+CELKOVÝ PŘÍJEM
+
+#ui_troute_totinc_c1
+Celkový příjem z této obchodní trasy.
+
+#ui_troute_binc
+příjem zboží
+
+#ui_troute_binc_c1
+Příjem z prodeje zboží z obchodní cesty.
+
+#menu_nfrm_t1_dscr_1
+Armáda se skládá z trvale mobilizovaných jednotek, jež stojí údržbu.
+
+#menu_nfrm_t1_dscr_2
+They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+
+#menu_nfrm_t1_dscr_3
+Armies can move into other territories and their presence increases state authority.
+
+#menu_nfrm_t2_dscr_1
+A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+
+#menu_nfrm_t2_dscr_2
+Militias don't monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+
+#menu_nfrm_t2_dscr_3
+However , the militia cannot move to other territory s and decreases the state authority.
+
+#form_sttlrs
+Osadníci
+
+#form_sttlrs_dscr_1
+Osadníci jsou občanské formace, které mohou najímat civilní obyvatelstvo k osídlení nových území.
+
+#form_migrnts
+Migranti
+
+#form_migrnts_dscr_1
+Migranti jsou speciální civilní formace obyvatelstva bez domova. Mohou usadit nová území, nevyžadují žádnou domácí podporu a mohou obnovit svoje body pohybu(AP) bez penalizace na dálku, ale stojí navíc státní moc a údržbu.
+
+#form_migrnts_dscr_2
+Migranti jsou vytvářeni při evakuaci území.
+
+#form_nomad
+Kočovníci
+
+#form_nomad_dscr_1
+Nomádi nevyžadují žádnou domácí podporu a mohou obnovit svoje body pohybu bez penalizace na dálku od domova. Jsou také schopni osídlit nová území
+
+#regstatprop_freeup
+[x] bezplatné údržby
+
+#strprio_0
+[automaticky]
+
+#strprio_1
+Nízká
+
+#strprio_2
+Střední
+
+#strprio_3
+Vysoká
+
+#strprio_4
+Velmi Vysoká
+
+#ui_menubdg_prio
+Priorita skladiště
+
+#sc_menubdg_prio_c1
+Na rozdíl od ostatních úložišť vyberte úroveň priority pro ukládání nových zdrojů do tohoto skladu.
+
+#ui_menubdg_stck_wlth_c1
+Uložené bohatství
+
+#ui_menubdg_stck_wlth_c2
+Prostředky aktuálně v tomto skladu přidávají [x] k celkovému bohatství tohoto území.
+
+#ui_menubdg_stck_wlth_c3
+Uložené bohatství je součtem základního bohatství všech zdrojů. Základní bohatství zdrojů je konstantní na základě toho, kolik pracovních sil je zapotřebí k jejich výrobě.
+
+#ui_regwlth_tot
+Celkové bohatství
+
+#ui_regwlth_tot_c1
+Effective available wealth in the territory. It is shared between all active workers based on their coin incomes and it determines their individual wealth level and purchasing power.
+
+#ui_regwlth_prod
+Vyprodukované bohatství
+
+#ui_regwlth_prod_c1
+Current total wealth from all productive work taking place in the territory, it's the sum of all buildings whose work produces wealth.
+
+#ui_regwlth_stck
+Uložené bohatství
+
+#ui_regwlth_stck_c1
+Current total wealth from all the currently stored resources in the territory (note that resources stored in unmanned ground storages are ignored).
+
+#ui_regwlth_mtl
+Representative money
+
+#ui_regwlth_mtl_c1
+With the representative money policy, precious metals stocks add up to the territory's wealth
+
+#ui_regwlth_prv
+Privilégium
+
+#ui_regwlth_prv_c1
+Bohatství jež je odděleno pro priviligované sociální třídy
+
+#ui_tradeordr_your
+Vaše přikazy v [x]
+
+#ui_tradeordr_in
+v [x]
+
+#ui_tradeordr_recur
+Opakující se požadavek
+
+#ui_tradeordr_recur_c1
+Kliknutím provedete opakování této objednávky a automaticky se spustí na základě zásob území.
+
+#ui_tradeordr_stcktrg1
+...když zásoby jsou nížší než
+
+#ui_tradeordr_stcktrg2
+...když zásoby jsou vyzší než
+
+#ui_tradeordr_instck
+Na skladě
+
+#ui_tradeordr_lclprc
+Místní cena
+
+#ui_tradeordr_inc1
+Hrubý příjem z obchodu
+
+#ui_tradeordr_inc1_c1
+This is the raw income this trade offer will generate if taken, based on the amount sold and specified limit price.
+
+#ui_tradeordr_inc2
+Podíl místního výrobce
+
+#ui_tradeordr_inc2_c1
+Pokud jsou prodané zdroje v soukromém vlastnictví, musí být jejich místním vlastníkům zaplaceno v místní tržní ceně.
+
+#ui_tradeordr_inc2_c2
+* Místní výrobci vlastní [x], za místní cenu [y]: + [z] mincí
+
+#ui_tradeordr_inc2_c3
+* Daň z příjmu [x]%: - [y] mincí
+
+#ui_tradeordr_inc2_c4
+* Skutečný příjem pro místní producenty: [x] mince
+
+#ui_tradeordr_inc3
+Očekávaný příjem
+
+#ui_tradeordr_inc3_c1
+Toto je očekávaný zisk očekávaný pro tuto obchodní nabídku.
+
+#ui_tradeordr_inc4
+Trade's raw expense (deposit)
+
+#ui_tradeordr_inc4_c1
+This is the maximum raw expense of this trade based on the amount purchased and specified limit price. Immediately taken from the treasury to insure the order.
+
+#ui_tradeordr_inc5
+Potential local incomes
+
+#ui_tradeordr_inc5_c1
+If the purchased resources are then sold locally, this is the income they will generate based on their local selling price.
+
+#ui_tradeordr_inc6
+Expected profit
+
+#ui_tradeordr_inc6_c1
+This is the expected profit if all purchased resources are then sold locally.
+
+#ui_tradeordr_prc1
+Maximum purchasing price. If selling offers are available at a lower price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_prc2
+Minimum selling price. If buying offers are available at a higher price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_quant
+Enter the amount of resources to trade for this offer.
+
+#ui_tradeordr_trdsrvcav
+This offer requires [x] of trading service. You have currently [y] available.
+
+#ui_tradeordr_cant
+This resource cannot be traded!
+
+#ui_tradeordr_showall
+Zobrazit všechny zdroje
+
+#ui_tradeordr_showall_c1
+Show pending orders for this territory of all resources.
+
+#ui_tradeordr_allreg
+For all territories
+
+#ui_tradeordr_allreg_c1
+Show the trading history of all your territories combined instead of just the currently selected one.
+
+#ui_tradeordr_nocoin
+Insufficient treasury funds to place this order.
+
+#ui_tradeordr_nostck1
+Insufficient resources in stock to place this order.
+
+#ui_tradeordr_nostck2
+Impossible to set a sell order of an amount higher than the stock triggering it.
+
+#ui_tradeordr_priclmt1
+This order conflicts with a selling order from the same territory at a price of [x].
+
+#ui_tradeordr_priclmt2
+This order conflicts with a buying order from the same territory at a price of [x].
+
+#ui_tradeordr_trdsrvc_c1
+Trading service is produced by Market buildings and is required to set and maintain orders in your trading network.
+
+#ui_tradeordr_trdsrvc_c2
+* Your functionning Markets in this territory currenty produce [x] of Trading service. 
+
+#ui_tradeordr_trdsrvc_c3
+* You current orders currently consumme [x] of Trading service.
+
+#ui_tradeordr_trdsrvc_c4
+* You have [x] of Trading service available for new orders.
+
+#ui_tradeordr_butn_c1
+Buying [x] [y] at a maximum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c2
+Recurrent buying of [x] [y] at a maximum price of [z] coins per unit triggered whenever stocks go below [v].
+
+#ui_tradeordr_butn_c3
+Selling [x] [y] at a minimum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c4
+Recurrent selling of [x] [y] at a minimum price of [z] coins per unit triggered whenever stocks reach [v].
+
+#ui_tradeordr_butn_c5
+This order is currently inactive. It will automatically trigger if stocks of [x] reach [y] in this territory.
+
+#ui_tradeordr_butn_c6
+This order is currently active. It will automatically cancel if stocks of [x] go below [y] (stock trigger [z] -order size [v]) in this territory.
+
+#ui_tradeordr_butn_c7
+This order is currently inactive. It will automatically trigger if stocks of [x] go below [y] in this territory.
+
+#ui_tradeordr_butn_c8
+This order is currently active. It will automatically cancel if stocks of [x] go above [y] (stock trigger [z] +order size [v]) in this territory.
+
+#ui_tradeordr_shwinctv
+Show inactive orders
+
+#ui_tradeordr_shwinctv_c1
+Click to toggle the display of recurrent orders that are currently inactive.
+
+#ui_tradeordr_butn_c9
+Offer in [x], from [y] of [z] ([v])
+
+#ui_tradeordr_butn_c10
+Offer in [x], from you
+
+#ui_tradebook_title
+Orders book
+
+#ui_tradebook_buy
+Best ask
+
+#ui_tradebook_sell
+Best bid
+
+#ui_tradebook_buyd
+Ask orders depth
+
+#ui_tradebook_selld
+Bid orders depth
+
+#ui_tradebook_nosell
+No selling offers in your trading network!
+
+#ui_tradebook_nobuy
+No buying offers in your trading network!
+
+#ui_tradebook_noofr
+You havn't any openned orders in this territory.
+
+#ui_tradebook_nbuy_c1
+Place a one-time buying order for [x] [y] at maximum price of [z] coins.
+
+#ui_tradebook_nbuy_c2
+[x] coins will immediately be taken from your treasury and reserved for this order. Note that if the order is cancelled or satisfied at a lower price, the difference will be returned to the treasury.
+
+#ui_tradebook_nbuy_c3
+Place a recurring buying order for [x] [y] at maximum price of [z] coins everytime territory's stocks are below [v].
+
+#ui_tradebook_nbuy_c4
+* Activates when territory go below [x] of [y].
+
+#ui_tradebook_nbuy_c5
+* Deactivates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c1
+Place a one-time selling order for [x] [y] at minimum price of [z] coins.
+
+#ui_tradebook_nsell_c2
+[x] [y] will immediately be taken from your resource stocks and reserved for this order.
+
+#ui_tradebook_nsell_c3
+Place a recurring selling order for [x] [y] at minimum price of [z] coins everytime the territory's stocks reach [v].
+
+#ui_tradebook_nsell_c4
+* Activates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c5
+* Deactivates when territory go below [x] of [y].
+
+#ui_tradehist_ttle
+Historie
+
+#ui_tradehist_ttle_c1
+Trading history in the territory of [x], for the last [y].
+
+#ui_tradehist_but_c1
+[x] ago, in [y]:
+
+#ui_tradehist_but_c2
+Koupili jste [x] [y] od [z] za cenu [v].
+
+#ui_tradehist_but_c3
+Prodali jste [x] [y] [z] za cenu [v].
+
+#ui_tradehist_but_c4
+* Hrubý příjem: + [x] mincí
+
+#ui_tradehist_but_c5
+* Místní výrobci sdílejí: - [x] mince
+
+#ui_tradehist_but_c6
+* Zisk: [x] mincí
+
+#ui_tradehist_but_c7
+* Celková cena: [x] mincí
+
+#menu_res_gen
+General
+
+#menu_res_wealth_c1
+The base wealth of this resource type. This is an objective constant independent of the fluctuating market value of the resource, based on the amount of work required to produce this resource. 
+
+#menu_res_wealth_c2
+If stocked in proper storage buildings, each unit will add [x] to the territory's wealth.
+
+#menu_res_trd
+Obchodování
+
+#menu_res_trd2
+Obchod
+
+#ui_tradehist_tots
+Celkové prodeje
+
+#ui_tradehist_tots_c1
+Celkový příjem z posledního prodeje [x].
+
+#ui_tradehist_totb
+Celkové nákupy
+
+#ui_tradehist_totb_c1
+Celkové náklady na nákupy od poslední [x].
+
+#ui_tradehist_prtnr
+Nejlepší obchodní partner
+
+#ui_tradehist_bs
+jejich nákupy: [x], prodej: [y]
+
+#ui_tradentwk_title
+Nejlepší nabídky
+
+#ui_tradentwk_title_c1
+Best available offers in your current trading network, for each resource type.
+
+#ui_tradentwk_bst_c1
+* Nejlepší možná nabídka: [x] mincí
+
+#ui_tradentwk_bst_c2
+* Nejlepší možná poptávky: [x] mincí
+
+#ui_tradentwk_bst_c3
+* Nejsou žádné nabídky.
+
+#ui_tradentwk_bst_c4
+* Není žádná poptávka
+
+#ui_tradentwk_bst_c5
+na skladě: [x], místní cena: [y]
+
+#ui_tradentwk_prof
+Filtrujte nevýdilečné nabídky
+
+#ui_tradentwk_prof_c1
+Only list resources whose best offers are potentially profitable for this territory:
+
+#ui_tradentwk_prof_c2
+If the best bid is superior or equal to the local price, or if the best ask is lower or equal to the local price.
+
+#menu_res_trdfrm
+Obchod od...
+
+#menu_res_trdfrm_c1
+Vyberte teritorium, jež chcete zvážit pro obchodování s [x].
+
+#button_opertrt_c1
+Provozování obchodní cesty mezi [x] z [y] a [z] z [v].
+
+#button_opertrt_c2
+* pomocí [x] nákladu za cenu [y]: [z] mincí
+
+#button_opertrt_c3
+* nákup nákladu za místní cenu [x]: - [y] mincí
+
+#button_opertrt_c4
+* provozní zisk: [x] mincí
+
+#button_routeitem_c1
+Import [x] z [y] za cenu [z] z [v] pro celkový objem nákladu [w].
+
+#button_routeitem_c2
+Zakoupeno z obchodní stezky v ceně [x] za [y] mincí a v současnosti se prodává v [z] za cenu [v] za [w] mincí.
+
+#button_routeitem_c3
+Export [x] z [y] za cenu [z] směrem k [v] pro celkový objem nákladu [w].
+
+#button_routeitem_c4
+Zakoupeno od místních výrobců za cenu [x] za [y] mince a v současné době prodáno na obchodní stezce do [z] za cenu [v] za [w] mincí.
+
+#button_routeownr
+Vlastník obchodní stezky
+
+#button_routeownr_c1
+Vlastník obchodní cesty je ten, kdo obchodní cestu otevřel, a jako jediný platí požadovaný náklad a je schopen zvolit provozovatele trasy.
+
+#button_routeresedit_1
+Jedná se o obchodní stezku s třetí stranou: můžete snížit pouze obchodovanné množství.
+
+#button_routeresedit_2
+Toto je obchodní stezka, kterou plně ovládáte, a můžete zvýšit nebo snížit obchodovanné množství.
+
+#srvr_restart
+Upozornění: Denní automatický restart serveru za [x]!
+
+#srvr_decorstrt
+Server se restartuje a za pár minut bude online.
+
+#ui_char_notblk
+Tato postava není blokována. Klepnutím zablokujete.
+
+#ui_char_isblk
+Tato postava je zablokovaná. Klepnutím odblokujete.
+
+#ui_char_nowblk
+Tato postava je zablokovaná.
+
+#ui_char_nowunblk
+Tato postava už není zablokovaná.
+
+#ui_char_blk_dscr_1
+Blokování skrývá všechny chaty, zprávy a kroniky od této postavy.
+
+#ui_char_blk_dscr_2
+Nahrazuje také všechna jeho teritoriální jména výchozími.
 
