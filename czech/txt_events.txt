@@ -834,7 +834,7 @@ Because we no longer have trading rights with the city of [y], our trade route b
 This can happen if the city has a new owner with whom we havn't negociated trading rights, or if these rights have been revoked.
 
 #event_trout_b1
-Trade route broken!
+Obchodní Stezka zrušena!
 
 #event_trout_b1_1
 Because we no longer had trading rights with the city of [y], our trade route between this city and [x] closed. 
@@ -843,7 +843,7 @@ Because we no longer had trading rights with the city of [y], our trade route be
 This happened because the city got a new owner with whom we havn't negociated trading rights or if because the trading rights were revoked.
 
 #event_trout_w2
-Trade route warning: missing cargo!
+Obchodní Stezka varování: chybí náklad!
 
 #event_trout_w2_1
 Our trade route with [x] operated by [y] is missing [p2] of cargo to be operated properly. The trade route will close soon unless we fix this issue quickly.
@@ -855,7 +855,7 @@ The cargo service is what allows to carry the goods continuously along a trade r
 However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
 
 #event_trout_b2
-Trade route broken!
+Obchodní stezka zrušena!
 
 #event_trout_b2_1
 Our trade route with [x] closed because its operator [y] was unable to provide the required cargo ([p3]) to maintain it (was missing [p2]).
@@ -1083,7 +1083,7 @@ A small group bears came wandering in the territory of [x]. During the night the
 Time to fight some bears!
 
 #ev_asylm
-Asylum seekers in [x]
+Hladatelé azylu [x]
 
 #ev_asylm_1
 A group of nomads arrived in our territory of [x]. They told their story of how they were chased away of their lands by another neighboring tribe after a conflict between them.
@@ -1191,7 +1191,7 @@ Agree and annex the territory
 Odmítnout
 
 #ev_heirprop
-Heirdom
+Následnictví
 
 #ev_heirprop_1
 [x] is now inactive and his position is up for succession. He designated you as his heir, and you can therefore immediately take his place within the Nation.
@@ -1203,10 +1203,10 @@ If you agree, your positions will be immediately swapped: you will inherit his r
 Příjmout
 
 #ev_heirprop_c2
-Refuse
+Odmítnout
 
 #ev_votesucc
-Time to vote!
+Čas jít volit!
 
 #ev_votesucc_1
 [x], your superior, is now inactive and his position is up for succession. It's time to vote to designate who amongst his subordinates will be chosen to replace him.
@@ -1224,37 +1224,37 @@ Once a successor is elected, his position will be immediately swapped with [x] a
 [p2] won the election with [p3] votes out of [p4] cast votes.
 
 #ev_votesucc_won
-You have been elected [x]!
+Byl jsi zvolen [x]!
 
 #ev_votesucc_won_1
-Congratulations! You have been elected [y] in succession of [p1]. 
+Gratuluji! Byl jsi zvolen [y] v následnictví v [p1]. 
 
 #ev_votesucc_won_2
-You won the election with [p3] votes in your favor out of [p4] cast votes.
+Vyhrál si volby s [p3] hlasy v tvů prospěch a [p4] hlasy v opozici.
 
 #ev_xplrch_vrywl
-"Very well."
+"Tak dobrá."
 
 #ev_xplrch_shame
-"Its a shame."
+"Tak to je škoda."
 
 #ev_xplrch_exlnt
-"Excellent!"
+"Supr!"
 
 #ev_xplrch_notime
 "No, we have no time for this."
 
 #ev_xplrch_proceed
-"Yes, proceed!"
+"Ano, pokračujte!"
 
 #ev_xplrch_nvrmnd
-"No. Nevermind."
+"Ne. To je jedno."
 
 #ev_xplrch_leave
-Leave.
+Odejít.
 
 #ev_xplr_bdts
-Bandits ambushed our formation '[x]'!
+Bandité přepadli naši formaci '[x]'!
 
 #ev_xplr_bdts_1
 While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troup had with them.
@@ -1263,10 +1263,10 @@ While our formation '[x]' of [p2] Porcos was traveling through the wilderness, t
 Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on both sides, surrounding our troops. Their leader moved forwarded, and made a simple demand: "Give us all yerr loot or be bacon!". What should we do?
 
 #ev_xplr_bdts_c1
-"We ain't afraid of no Pigbandits!"
+"Nebojíme se nějakých Vepřintů!"
 
 #ev_xplr_bdts_c2
-Give them what they want.
+Dej jim o co si žádají.
 
 #ev_xplr_abvil
 '[x]' found an abandonned village.
@@ -1308,7 +1308,7 @@ Our formation '[x]' wandered too far in unknown arid lands. For days, they could
 Maybe we should have avoided venturing too far in such an hostile territory.  
 
 #ev_xplr_lstjngl
-Lost in the jungle
+Ztracení v džungly.
 
 #ev_xplr_lstjngl_1
 The porcos of '[x]' had been wondering in this bloody jungle for days, harassed by the heat and lost. It wasnt long before the one group turned into 2 groups... "Hey Mr Jenkins, I swear i already saw this damn tree 2 days ago!" said Porkypigs. "Common, maybe we'll find the rest of the group soon! Let's keep waking!". But they never did. However, they did find a nest of flesh eating flies the size of a hand when Mr Jenkins decided it was a good time to poke a suspicious hole in a tree with a stick in an attempt to find something to eat.
@@ -1329,7 +1329,7 @@ When moving closer, their condition became horrifyingly clear: these people were
 We offered them some of our provisions, and it wasn't before the 2nd day that they finaly exchanged a few words with the group and told us their story. They used to be a bigger and prosperous tribe, living of hunting and gathering until they were chased away from their lands by a more powerful tribe. They had lost all their precious tools and weapons, and most of the strongest Porcos of their tribe had died fighting. Since then, the survivors had wandered the land unable to hunt, slowly starving.
 
 #ev_xplr_strvtrib_c1
-"Join us, we will offer you a new home!"
+"Připojte se k nám, nanídne me vám nový domov!"
 
 #ev_xplr_strvtrib_c2
 We can't take care of these people. Let's wish them good luck and move on. 
@@ -1374,7 +1374,7 @@ It is very dangerous to travel these unknown lands in a small group. Sadly, our 
 Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
 
 #ev_xplr_storm
-Ships lost in a terrible storm!
+Lodě byly straceny v stašné bouři!
 
 #ev_xplr_storm_1
 The sea is dangerous and moody. Before anyone had time to react, a calm breeze turned into a terrifying storm with waves taller than hills and a sky darker than the night. Our ship, sadly, was no match for this storm. The porcos fought bravely, but pigs and ships were all claimed by the sea by the next morning. I'm afraid we've lost the whole expedition.
@@ -1963,3 +1963,13 @@ Jejich zvládnutí znalostí, které nám nejsou známy, vyvolalo zvědavost ně
 
 #ev_palntrch2_3
 Buďte opatrní, protože zpráva o vašem rozhodnutí se rozšíří a vaši spojenci brzy  se dozvědí o vaší zradě a zlověstném záměru. Mohou se vás pokusit eliminovat, než se dostanete k dokončení stavby věže a odemknutí její schopností.
+
+#ev_palntrch2_o_1
+Postav Temnou věž v tvém hlavní městě za účelem odemknutí tvé pravé moci.
+
+#ev_palntrch2_o_2
+Temná věž je unikátní budova hlavního města, jež musíš dokončit pro odemčení její moci. Buď opatrný! Jakmile začneš, nebude to dlouho trvat k roznesení zpráv o její stavbě, a jakmile ji dokončíš tvůj odsud bude protklán s tou věži: její zničení bude také tvou smrtí. Ujisti se že ji stavíš uprostřed tvé nejvíce obrněnné pevnosti.
+
+#ev_palntrch2_fx
+Staneš se pánem Zla
+
