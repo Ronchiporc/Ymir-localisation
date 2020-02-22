@@ -2598,19 +2598,19 @@ Zrušit tuto zonu
 Rozpustit formaci
 
 #bc_menuform_movc
-Move camp position
+Přesunot kemp
 
 #bc_menuform_disb_1
-Are you sure you want to disband this formation ?
+Jseš si jist že chceš rozpustit tuto formaci ?
 
 #bc_menuform_disb_2
 If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
 
 #bc_menuform_disb_3
-You cannot disband in territories you do not control!
+Nemůžeš rozpustit formaci na územích jež nevlastníš!
 
 #menuform_pwr
-This formation type costs [x] State Power to maintain.
+Tento typ formace potřebuje [x] Státní Moci k její údržbě.
 
 #menuform_disb_err1
 Nemůžeš zde rozpustit formaci!
@@ -3999,7 +3999,7 @@ You must wait [x] before being allowed to create a new character in this game!
 Opustit
 
 #gamelob_abnd_c1
-Click to abandon this character and all its possessions.
+Klikni pro opuštění této postavy a všeho její majetku.
 
 #gamelob_abndwrn
 Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
@@ -4155,13 +4155,13 @@ Odejít
 Odejít z tohoto národa a získaz zpět svou samostatnost. 
 
 #facmmb_quit_c2
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+VAROVÁNÍ: pokud jsi spojen s tímto národem pomocí nějakých dohod, tak toto jednání způsobí jejích přerušení z tvé strany!
 
 #facmmb_actv
 AKTIVNÍ
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+Tato postava je stále aktivně využívaná a tímpádem není možno za ní hrat při nástupnictví.
 
 #facmmb_inact
 NEAKTIVNÍ
@@ -4182,7 +4182,7 @@ MRTEV
 This character is dead: it controls no territories and was abandonned by its player.
 
 #facmmb_rplc
-Replace
+Nahradit
 
 #facmmb_rplc_c1
 This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
@@ -4206,13 +4206,13 @@ Převedeno moci
 State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
 
 #facmmb_mng
-Maintenance
+Údržba
 
 #facmmb_mng_c1
 State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
 
 #facmmb_mrshl
-Army Marshal
+Armádní Maršál
 
 #facmmb_mrshl_c1
 Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
@@ -4239,7 +4239,7 @@ Set superior
 Nastavit rank
 
 #facxpl_title
-Expel [x] from the Nation
+Vyloučit hráče [x] z Národu
 
 #facxpl_txt
 As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
@@ -4740,7 +4740,7 @@ minimalizovat
 DISCLAIMER
 
 #dsclmr_1
-- Tato hra je projektem pro jednoho člověka: vývoj je pomalý.
+- Tato hra je projektem jednoho člověka: vývoj je tímpádem pomalý.
 
 #dsclmr_2
 - Tato hra pravděpodobně zůstane navždy experimentem s nedokončenou kvalitou, správnou stabilitu a optimalizaci hotového produktu.
@@ -4992,10 +4992,10 @@ Každý bod Životní úrovně poskytuje +0,75 inteligence.
 Celkově znalostí
 
 #popint_kn_c1
-The total of your current knowledges increases overall intelligence. 
+Všechny do teď získané vědomosti zvyšují celkovou průměrnou inteligenci. 
 
 #popint_cult
-Territory's culture
+Kultura teritoria
 
 #popint_cult_c1
 The total culture in this territory increases the overall intelligence of its population.
@@ -5040,7 +5040,7 @@ Výše státní kultury způsobené aktivitou kulturních budov a jejich služeb
 Množství státní kultury které je ztraceno úpadkem.
 
 #cltrstat_dovrs
-Maximum stored capacity
+Maximální úložná kapacita
 
 #cltrstat_dovrs_c1
 Decay caused if the current maximum capacity of stored culture is reached in this territory.
@@ -5049,7 +5049,7 @@ Decay caused if the current maximum capacity of stored culture is reached in thi
 This capacity increases the more population resides in the territory.
 
 #cltrstat_dinf
-Cultural influence
+Kulturní vliv
 
 #cltrstat_dinf_c1
 Decay due to state culture losing influence compared to other cultures present in this territory.
@@ -5058,7 +5058,7 @@ Decay due to state culture losing influence compared to other cultures present i
 This territory produces [x] of state culture, out of a total production of [y] culture, resulting in a target cultural influence of [z]% in this territory.
 
 #cltrstat_dinf_c3
-Current state culture influence is [x]%.
+V tuto chvíly vliv státní kultury je [x]%.
 
 #cltrstat_stock
 Culture stock capacity
@@ -5073,16 +5073,16 @@ Overall culture in this territory is increasing.
 Overall culture in this territory is decreasing because it is above its current maximum!
 
 #cltrstat_ststock
-State culture
+Státní kultura
 
 #cltrstat_ststock_c1
-[x]% of this territory's culture is state culture.
+[x]% kultury tohoto území je Státní kultura
 
 #cltrstat_ststock_c2
-It has [x] points of state culture in stock.
+Má [x] bodů Státní kultury v zásobách.
 
 #popstat_wbase_c1
-every porco naturally makes wealth on it's own
+každy vepřoun přirozeně sám vytváří bohatství
 
 #popstat_winhrt_c1
 inherits its wealth and resources access from the average of all actives
@@ -5229,10 +5229,10 @@ nemožno stavět
 cannot control resources
 
 #regstatprop_trade
-cannot control trade
+nemožno kontrolovat obchodování
 
 #regstatprop_bdgup
-buildings upkeep [x]
+údržba budov [x]
 
 #regstatprop_loyal
 loajalita [x]
@@ -5241,10 +5241,10 @@ loajalita [x]
 státní kultura [x]%
 
 #regstatprop_conf
-population conflict [x]%
+konflikty mezi obyvatelstvem tvoří [x]%
 
 #regstatprop_rsrch
-can't do projects
+není možno provádět projekty
 
 #regstatprop_milit
 nemožno rekrutovat milici
@@ -5262,7 +5262,7 @@ no administration distance penalty
 [x]% of tax incomes
 
 #regstatprop_noinc
-no tax incomes
+žádný příjem z daní
 
 #regstatprop_exp
 [x]% of expenses
@@ -5286,7 +5286,7 @@ cannot be renounced
 cannot be transfered
 
 #regstatprop_spawn
-is a player spawn
+je hráčem vytvořené
 
 #regstatprop_pnlty
 [x] loyalty event on changing
@@ -5298,7 +5298,7 @@ cannot overdraft
 WARNING: changing current status will trigger an immediate loyalty event of [x]!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+VAROVÁNÍ: zabrání tohoto okupovaného území spustí okamžitou penalizaci [x] odporu a ztráty [y] loyjality!
 
 #antl_name
 Anexovací nástroj
@@ -5309,8 +5309,8 @@ Allows you to reorganise annexes by changing their owning buildings.
 #antl_close
 ZAVŘÍT
 
-#antl_1
-Relink: hold left click and drag.
+#antl_1.
+Relink: podrž levé tlačítko a přesuň.
 
 #antl_2
 Add/remove from select with ctrl+left-click.
