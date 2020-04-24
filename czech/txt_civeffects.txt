@@ -14,7 +14,7 @@ zdroje a cennosti mají dynamické ceny založené na nabídce a poptávce obyva
 automatická distribuce
 
 #civfx_autodist_dscr
-all resources are automatically available to all the population and there is no need for distributors
+všechny zdroje jsou automaticky uvolněné celé populaci a není zapotřebí distributorů
 
 #civfx_bdgeff_n
 eketivita budovy
@@ -23,40 +23,40 @@ eketivita budovy
 upravuje efektivitu budov
 
 #civfx_conflict_n
-population conflict
+konflikty obyvatelstva
 
 #civfx_conflict_dscr
-upravuje conflict of population
+upravuje konflikty obyvatelstva
 
 #civfx_stress_n
-population stress
+stres obyvatelstva
 
 #civfx_stress_dscr
-upravuje stress of population
+upravuje stres obyvatelstva
 
 #civfx_paidmat_n
-paid materials
+zakoupené materiály
 
 #civfx_paidmat_dscr
-the state has to pay for materials it consumes at their current market price
+stát musí zaplatit za materiály, jež spotřebovává na stávající tržní ceně
 
 #civfx_seizem_n
 zkonfiskovanné materiály
 
 #civfx_seizem_dscr
-when paid materials is active, all or a fraction of materials is seized for free instead of beeing paid by the state.
+když placené materiály jsou nastavené, tak všechny ,nebo jenom část materiálu je zabrána zadarmo místo aby  byla zaplacena státem.
 
 #civfx_seizem_set
-seized percent
+zkonfiskovanné procento
 
 #civfx_seizem_setd
-set the percent of material's prices you wish to seize
+nastav procento materiálu, jež si přeješ zkonfiskovat
 
 #civfx_territ_n
-province territories
+území provincie
 
 #civfx_territ_dscr
-cities can annex other territories as their province
+města mohou anexovat ostatní území jako jejich provincie
 
 #civfx_inctax_n
 daň z příjmu
@@ -65,10 +65,10 @@ daň z příjmu
 daň uplatňovaná na všechny příjmy obyvatel na území
 
 #civfx_inctax_set
-income tax percent
+procento daně z příjmu
 
 #civfx_inctax_setd
-set the percent of income that is to be taxed
+nastav procento z příjmu, jež si přeješ zdanit
 
 #civfx_saltax_n
 daň z přidanne hodnoty
@@ -77,10 +77,10 @@ daň z přidanne hodnoty
 daň uplatňovaná na veškerý prodej na území (zjednodušeně DPH)
 
 #civfx_saltax_set
-sales tax percent
+procento z obchodní daně
 
 #civfx_saltax_setd
-set the percent of sales that is to be taxed
+nastav procento z transakcí, jež si přeješ zdanit
 
 #civfx_leadwlth_n
 Vládcovo privilégium
@@ -92,7 +92,7 @@ Vládce dostává část bohatství území jako jeho privilégium
 Vládcovo Privilégium
 
 #civfx_leadwlth_setd
-the percentage of territory wealth given as privilege to the leaders
+procento z územního bohatství, jež je dáno jako privilégium vládcům
 
 #civfx_leadsal_n
 Vládcův plat
@@ -104,43 +104,43 @@ Vládci dostávají plat placený státem
 Plat vládců
 
 #civfx_leadsal_setd
-amount of the salary in coins
+množství mincí jež je je platem vládce
 
 #civfx_nobwlth_n
-Nobles privileges
+Privilégia šlechty
 
 #civfx_nobwlth_dscr
-Nobles get a portion of the territory wealth as a privilege
+Šlechta dostává část územního bohatství jako privilégium
 
 #civfx_nobwlth_set
-Nobles privilege
+Privilégium šlechty
 
 #civfx_nobwlth_setd
-the percentage of territory wealth given as privilege to the nobles
+procento z územního bohatství, jež je dáno jako privilégium šlechtě
 
 #civfx_nobsal_n
-Nobles salary
+Plat šlechty
 
 #civfx_nobsal_dscr
-Nobles get a salary paid by the state
+Šlechta dostáva plat od státu
 
 #civfx_nobsal_set
-Nobles salary
+Plat šlechty
 
 #civfx_nobsal_setd
-amount of the salary in coins
+množství mincí jež jsou předána jako plat šlechtě
 
 #civfx_offwlth_n
-State workers privileges
+Privilégia Státních zaměstnanců
 
 #civfx_offwlth_dscr
-State workers get a portion of the territory wealth as a privilege
+Státní zaměstnanci dostávají část územního bohatství jako privilégium
 
 #civfx_offwlth_set
-State workers privilege
+Privilégie státních zaměstnanců
 
 #civfx_offwlth_setd
-the percentage of territory wealth given as privilege to the State workers
+procento z územního bohatství, jež je dáno jako privilégium Státním zaměstnancům
 
 #civfx_offsal_n
 Plat státních zaměstnanců
@@ -155,16 +155,16 @@ Plat státních zaměstnánců
 množstcí platu v mincích
 
 #civfx_capadmin_n
-capital administration
+administrativa hl. města
 
 #civfx_capadmin_dscr
 upravuje administration of the capital
 
 #civfx_cityadmin_n
-city administration
+administrativa města
 
 #civfx_cityadmin_dscr
-upravuje administration of every city
+upravuje administrativy všech měst
 
 #civfx_regadmin_n
 administrativa území
@@ -200,7 +200,7 @@ měšťští šlechtici
 místní vůdcy
 
 #civfx_reglead_dscr
-vůdců na teritorium
+vůdců na území
 
 #civfx_regnob_n
 místní šlechtici
@@ -239,16 +239,16 @@ obchodní stezky
 umožňuje vytvářet dlouhodobé obchodní stezky mezi teritorii
 
 #civfx_legitprt_n
-protector of the people
+ochránce lidu
 
 #civfx_legitprt_dscr
 upravuje faktor legitimity síly armády
 
 #civfx_legitw_n
-leader superiority
+vládcova nadřazenost
 
 #civfx_legitw_dscr
-upravuje faktor legitimity of leader's superiority
+upravuje faktor legitimity vládcovy nadřazenosti
 
 #civfx_legitr_n
 people's religiosity
@@ -278,49 +278,49 @@ upravuje faktor legitimity ministerstva
 souhlas prasat
 
 #civfx_legitap_dscr
-upravuje faktor legitimity of people's approval
+upravuje faktor legitimity podporované obyvatelstvem
 
 #civfx_wlegitprt_n
-importance of military strenght
+důležitost armádní síly
 
 #civfx_wlegitprt_dscr
-how much military strenght affects legitimacy
+Jak moc síla armády ovlivňuje legitimitu vládce.
 
 #civfx_wlegitw_n
-importance of leader's superiority
+důležitost vládcove nadřazenosti
 
 #civfx_wlegitw_dscr
-how much leader's superiority affects legitimacy
+Jak moc vládcova nadřazenost ovlivňuje legitimitu vládce.
 
 #civfx_wlegitr_n
-importance of religiosity
+důležitost důchovenstva
 
 #civfx_wlegitr_dscr
-how much people's religiosity affects legitimacy
+Jak moc vliv duchovenstva ovlivňuje legitimitu vládce.
 
 #civfx_wlegitp_n
-importance of the parliament
+důležitost parlamentu
 
 #civfx_wlegitp_dscr
-how much the parliament's power affects legitimacy
+Jak moc vliv parlamentu ovlivňuje legitimitu vládce.
 
 #civfx_wlegitsen_n
-importance of the senate
+důležitost Senátu
 
 #civfx_wlegitsen_dscr
-how much the senate's power affects legitimacy.
+Jak moc vliv senátu ovlivňuje legitimitu vládce.
 
 #civfx_wlegitm_n
-importance of the ministry
+důležitost ministersta
 
 #civfx_wlegitm_dscr
-how much the ministry's power affects legitimacy.
+Jak moc vliv ministerstva ovlivňuje legitimitu vládce.
 
 #civfx_wlegitap_n
-importance of people's approval
+důležitost podpory lidu
 
 #civfx_wlegitap_dscr
-how much people's approval affects legitimacy.
+Jak moc podpora lidu ovlivňuje legitimitu vládce.
 
 #civfx_statepow_n
 státní moc

@@ -23,7 +23,7 @@ Doba peněz
 Státem stanovená měna.
 
 #civ_repmoney_n
-Representative money
+Representující měna
 
 #civ_repmoney_dscr
 A currency representing a claim on a commodity instead of beeing a commodity in itself.
@@ -35,7 +35,7 @@ Band society
 The simplest form of society, with loose organization and informal leadership.
 
 #civ_leadership_n
-Leadership
+Vládcovství
 
 #civ_leadership_dscr
 Jeden zvolený vůdce k vládě všem.
@@ -95,19 +95,19 @@ Zástupce lidu
 "Vládnu ve jménu mého lidu."
 
 #civ_tax_n
-Taxation
+Zdanění
 
 #civ_tax_dscr
 Financial charges imposed upon taxpayers by the state.
 
 #civ_seizem_n
-Seize materials
+Zabrat materiál
 
 #civ_seizem_dscr
-Seize construction materials from the population instead of paying for them. Excess of this might harm your economy.
+Zabrat konstrukční materiály od tvé populace místo placení za ně. Převeliké využívání, může narušit běh ekonomie.
 
 #civ_statepriv_n
-Privileges
+Privilégia
 
 #civ_statepriv_dscr
 Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.

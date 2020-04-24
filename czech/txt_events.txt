@@ -834,7 +834,7 @@ Because we no longer have trading rights with the city of [y], our trade route b
 This can happen if the city has a new owner with whom we havn't negociated trading rights, or if these rights have been revoked.
 
 #event_trout_b1
-Trade route broken!
+Obchodní Stezka zrušena!
 
 #event_trout_b1_1
 Because we no longer had trading rights with the city of [y], our trade route between this city and [x] closed. 
@@ -843,7 +843,7 @@ Because we no longer had trading rights with the city of [y], our trade route be
 This happened because the city got a new owner with whom we havn't negociated trading rights or if because the trading rights were revoked.
 
 #event_trout_w2
-Trade route warning: missing cargo!
+Obchodní Stezka varování: chybí náklad!
 
 #event_trout_w2_1
 Our trade route with [x] operated by [y] is missing [p2] of cargo to be operated properly. The trade route will close soon unless we fix this issue quickly.
@@ -855,7 +855,7 @@ The cargo service is what allows to carry the goods continuously along a trade r
 However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
 
 #event_trout_b2
-Trade route broken!
+Obchodní stezka zrušena!
 
 #event_trout_b2_1
 Our trade route with [x] closed because its operator [y] was unable to provide the required cargo ([p3]) to maintain it (was missing [p2]).
@@ -1083,7 +1083,7 @@ A small group bears came wandering in the territory of [x]. During the night the
 Time to fight some bears!
 
 #ev_asylm
-Asylum seekers in [x]
+Hladatelé azylu [x]
 
 #ev_asylm_1
 A group of nomads arrived in our territory of [x]. They told their story of how they were chased away of their lands by another neighboring tribe after a conflict between them.
@@ -1191,7 +1191,7 @@ Agree and annex the territory
 Odmítnout
 
 #ev_heirprop
-Heirdom
+Následnictví
 
 #ev_heirprop_1
 [x] is now inactive and his position is up for succession. He designated you as his heir, and you can therefore immediately take his place within the Nation.
@@ -1203,10 +1203,10 @@ If you agree, your positions will be immediately swapped: you will inherit his r
 Příjmout
 
 #ev_heirprop_c2
-Refuse
+Odmítnout
 
 #ev_votesucc
-Time to vote!
+Čas jít volit!
 
 #ev_votesucc_1
 [x], your superior, is now inactive and his position is up for succession. It's time to vote to designate who amongst his subordinates will be chosen to replace him.
@@ -1224,37 +1224,37 @@ Once a successor is elected, his position will be immediately swapped with [x] a
 [p2] won the election with [p3] votes out of [p4] cast votes.
 
 #ev_votesucc_won
-You have been elected [x]!
+Byl jsi zvolen [x]!
 
 #ev_votesucc_won_1
-Congratulations! You have been elected [y] in succession of [p1]. 
+Gratuluji! Byl jsi zvolen [y] v následnictví v [p1]. 
 
 #ev_votesucc_won_2
-You won the election with [p3] votes in your favor out of [p4] cast votes.
+Vyhrál si volby s [p3] hlasy v tvů prospěch a [p4] hlasy v opozici.
 
 #ev_xplrch_vrywl
-"Very well."
+"Tak dobrá."
 
 #ev_xplrch_shame
-"Its a shame."
+"Tak to je škoda."
 
 #ev_xplrch_exlnt
-"Excellent!"
+"Supr!"
 
 #ev_xplrch_notime
 "No, we have no time for this."
 
 #ev_xplrch_proceed
-"Yes, proceed!"
+"Ano, pokračujte!"
 
 #ev_xplrch_nvrmnd
-"No. Nevermind."
+"Ne. To je jedno."
 
 #ev_xplrch_leave
-Leave.
+Odejít.
 
 #ev_xplr_bdts
-Bandits ambushed our formation '[x]'!
+Bandité přepadli naši formaci '[x]'!
 
 #ev_xplr_bdts_1
 While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troup had with them.
@@ -1263,10 +1263,10 @@ While our formation '[x]' of [p2] Porcos was traveling through the wilderness, t
 Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on both sides, surrounding our troops. Their leader moved forwarded, and made a simple demand: "Give us all yerr loot or be bacon!". What should we do?
 
 #ev_xplr_bdts_c1
-"We ain't afraid of no Pigbandits!"
+"Nebojíme se nějakých Vepřintů!"
 
 #ev_xplr_bdts_c2
-Give them what they want.
+Dej jim o co si žádají.
 
 #ev_xplr_abvil
 '[x]' found an abandonned village.
@@ -1308,7 +1308,7 @@ Our formation '[x]' wandered too far in unknown arid lands. For days, they could
 Maybe we should have avoided venturing too far in such an hostile territory.  
 
 #ev_xplr_lstjngl
-Lost in the jungle
+Ztracení v džungly.
 
 #ev_xplr_lstjngl_1
 The porcos of '[x]' had been wondering in this bloody jungle for days, harassed by the heat and lost. It wasnt long before the one group turned into 2 groups... "Hey Mr Jenkins, I swear i already saw this damn tree 2 days ago!" said Porkypigs. "Common, maybe we'll find the rest of the group soon! Let's keep waking!". But they never did. However, they did find a nest of flesh eating flies the size of a hand when Mr Jenkins decided it was a good time to poke a suspicious hole in a tree with a stick in an attempt to find something to eat.
@@ -1329,7 +1329,7 @@ When moving closer, their condition became horrifyingly clear: these people were
 We offered them some of our provisions, and it wasn't before the 2nd day that they finaly exchanged a few words with the group and told us their story. They used to be a bigger and prosperous tribe, living of hunting and gathering until they were chased away from their lands by a more powerful tribe. They had lost all their precious tools and weapons, and most of the strongest Porcos of their tribe had died fighting. Since then, the survivors had wandered the land unable to hunt, slowly starving.
 
 #ev_xplr_strvtrib_c1
-"Join us, we will offer you a new home!"
+"Připojte se k nám, nanídne me vám nový domov!"
 
 #ev_xplr_strvtrib_c2
 We can't take care of these people. Let's wish them good luck and move on. 
@@ -1374,7 +1374,7 @@ It is very dangerous to travel these unknown lands in a small group. Sadly, our 
 Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
 
 #ev_xplr_storm
-Ships lost in a terrible storm!
+Lodě byly straceny v stašné bouři!
 
 #ev_xplr_storm_1
 The sea is dangerous and moody. Before anyone had time to react, a calm breeze turned into a terrifying storm with waves taller than hills and a sky darker than the night. Our ship, sadly, was no match for this storm. The porcos fought bravely, but pigs and ships were all claimed by the sea by the next morning. I'm afraid we've lost the whole expedition.
@@ -1878,68 +1878,98 @@ Rumors are spreading about mysterious artefacts fallen from the sky and surround
 One particular story claims someone managed to see one: a glowing dark stone one can hardly detach his sight of, shining of indescribable colours and deeper than an ocean, brewing with moving storm clouds. It was resting in the middle of crater surrounded by creatures of stone like noone has ever seen and the whole area around it feelt charged of a powerful energy. But maybe more interestingly, the stone looked broken: while one face was perfectly smooth and curved like the surface of a globe, the other sides were as sharp as a broken shard of obsidian stone. It looked as if it was only a fragment of what was originally a much bigger stone in the shape of a perfect globe.
 
 #ch_palentir2_3
-Will anyone manage to find if these stories hold any truth? Soothsayers are already spreading prophecies and tells about these stone fragments, saying they are of great significance and that whomever managers to gather them all will have great power bestowed upon himself beyond his dreams.
+Dokáže někdo zjistit, zda tyto příběhy jsou pravdivé?! Pravošiřitelé již šíří proroctví a vypráví o těchto kamenných fragmentech, říkají, že mají velký význam a že kdokoli kdo dokožáže všechny je shromáždit, dostane se mu moci o níž se mu ani nesnilo.
 
 #ch_palentir3_1
-News are spreading that [x] of the [y] has managed to gather the 7 Palentir fragments and that he has successfully reassembled the Palentir stone in his capital city! 
+Šíří se zprávy, že [x] z [y] se podařilo shromáždit 7 fragmentů Palentiru a že úspěšně složil kámen Palentir ve svém hlavním městě!
 
 #ch_palentir3_2
-No one knows what will happen now and what usage will be made of this great power if the prophecies predicting it have been right.
+Nikdo neví, co se teď stane a k jakému využtí této velké moci bude požit, jestliže proroctví nelhala.
 
 #ch_palentir4_1
-New rumors are spreading that the owner of the Palentir stone has made use of it and wished for nothing else but the prosperity, happyness, and advancement for all people of the [y].
+Šíří se nové zvěsti, že majitel kamene Palentir ho využil a nepřál si nic jiného než prosperitu, radost a pokrok pro všechny lidi [y].
 
 #ch_palentir4_2
-It is said that in response, the stone gave [x] knowledges from the Gods to fulfil this wish. According to some witnesses, engineers and builders of the city have already been given instructions and mysterious plans to build monumental artefacts that are speculated to yield magical benefits to all inhabitants.
+Říká se, že ten kámen jako svou odpověď dal [x] znalosti bohů, aby splnil toto přání. Podle některých svědků již inženýři a stavitelé města dostali pokyny a záhadné plány k stavbě monumentálních artefaktů. O nichž je spekulováno, že by poskytly magické výhody všem obyvatelům.
 
 #ch_palentir5_1
-The people of [y] have finally completed building a first mysterious black monolith based on the unexplainable knowledges given by the power of the Palentir. Following the event, visitors witnessed that the people of the city seemed to behave differently within days: the most agressive and violent Porcos now appeared well-behaved and law abiding, the mood in the whole city seemed to have inexplicably improved, and porcos once dumb as a rock were now seen discussing philosophical ideas with their neigbors. All violences and discontent was reportedly reduced. It was as if the whole population had suddenly achieved a higher degree of wisdom and refinement,shedding off a layer of their barbaric ways. 
+Lidé [y] konečně dokončili stavbu prvního tajemného černého monolitu založeného na nevysvětlitelných znalostech daných silou Palentiru. Po události byli návštěvníci svědky toho, že se lidé ve městě během dnů chovali jinak: nejagresivnější a nejnásilnější Vepři se nyní zdáli dobře vychovaní a dodržovali zákon, zdálo se, že nálada v celém městě se nevysvětlitelně zlepšila, a vepři jednou hloupý jako skála, byly nyní viděni v diskusích o filozofických myšlenkách se svými sousedi. Všechna porušení a nespokojenost byla údajně snížena. Bylo to, jako by celá populace náhle dosáhla vyššího stupně moudrosti, dokonalosti a zbavila se vrstvy svých barbarských způsobů.
 
 #ch_palentir5_2
-Rumors have it that many new black monoliths are already planned for contruction. If each one brings as much benefits as that first one, it won't be long before the people of the [y] evolve to something far above the level of other peoples, thus achieving undisputable glory beyond the reach of any of us.
+Říká se, že mnoho nových černých monolitů je již naplánováno na výstavbu. Pokud každý z nich přinese tolik výhod jako ten první, nebude to dlouho předtím, než se lidé [y] vyvinou k něčemu daleko nad úrovní jiných národů, a tak dosáhnou nesporné slávy mimo dosah kteréhokoli z nás.
 
 #ch_palentir6_1
-Terrible rumors are spreading from the [y]. It is said that [x], owner of the Palentir, has made use of it with sinister intent wishing to become nothing else but the only ruler of this world. The greatest engineers and builders of the capital are said to have been called upon and given specific plans surrounded by great secrecy, and it is therefore speculated that he did received in response knowledges from the Gods to fulfil his wish. 
+Z [y] se šíří děsivé zvěsti. Říká se, že [x], majitel Palentiru, jej využil se zlověstným úmyslem. Jež si přál, aby se stal ničím jiným než jediným vládcem tohoto světa. O největších inženýrech a stavitelích hlavního města se říká, že byli vyzváni a dostali konkrétní plány obklopené velkým utajením, a proto se spekuluje, že obdržel tyto znalosti od samotných bohů, aby byl schopen splnit jeho přání.
 
 #ch_palentir7_1
-Something terrible happened in the capital city of the [y], as the contruction of a mysterious dark tower ordered by [x] was achieved. Many people are said to have fled the capital city, giving terrifying accounts of unbeleivale events. They say a mysterious light appeared from the top of the tower, rising like a column into the skies where a dark thunderstorm inexplicably materialized. Soon, it was followed by a black rain that fell onto the unexpecting crowds below that had gathered to watch the event. The people fell sick from an invisible desease that stroke as fast as the storm had appeared. They screamed in agony there, rolling into the ground. Meanwhile, those who had somehow been spared by the rains feld the city in terror, abandonning all their belongings and families. Some say they didn't die, and described how the afflicted howled in horror while their looks transformed and their skin turned green.
+V hlavním městě [y] se stalo něco strašného, ​​když bylo dosaženo stavby tajemné temné věže nařízené vládcem [x]. Mnoho lidí uprchlo z hlavního města a děsily všechny svými zážitky. Povídaly, že z vrcholu věže se vynořilo tajemné světlo, které stoupalo jako sloup do nebe, kde se nevysvětlitelně projevila temná bouřka. Brzy následoval černý déšť, který dopadl na nevědoucí dav lidí, kteří se shromáždili, aby sledovali událost jejího dokončení. Lidé onemocněli neviditelnou nemocí, která zasáhla stejně tak rychle, jak se objevila samotná bouře. Křičeli v agóniích a váleli se po zemi. Mezitím ti, jež byli nějak ušetřeni deštěm, utíkali z města v hrůzu a nechali tam všechny své věci a své rodiny. Někteří říkají, že nezemřeli, a popisovali, jak zasáhnutí tou nemocí děsivě vyli, zatímco se jejich vzhled změnil a jejich kůže zezelenala.
 
 #ch_palentir7_2
-Since then, nobody has heard of anyone from the city. Those who went there in the following days havn't been seen again, and most people are now too afraid to try. No one knows what terrible things may be happening there or what really happened to the afflicted, in what was known until now as the capital of the [y].
+Od té doby nikdo o městě neslyšel. Ti, kteří tam v následujících dnech šli, nebyli znovu viděni a většina lidí se nyní bojí to vyzkoušet. Nikdo neví, jaké strašné věci se tam mohou odehrávat nebo co se skutečně stalo postiženým, v tom, co bylo dosud známo jako hlavní město [y].
 
 #ev_palntruse
 Using the palentir
 
 #ev_palntruse_1
-You cannot detach your eyes from looking at the stone. Shining of indescribable colours it seems to be refracting a space much bigger that itself, like a window into something else. 
+Nemůžete odtrhnou své oči kamene. Zářící nepopsatelnými barvami se zdá, že pohlcuje prostor mnohem větší než je on sam, jako okno do něčeho jiného.
 
 #ev_palntruse_2
-As you lay your hands on the black stone, you immediately feel a powerful and overwhelming energy going through your body. The air around you is electrized. The stormy clouds moving inside the stone start swirling faster, and reveal a growing light coming far away from the insides of the globe.
+Když položíte ruce na černý kámen, okamžitě cítíte silnou a ohromující energii procházející vaším tělem. Vzduch kolem vás je elektrizován. Bouřlivé mraky pohybující se uvnitř kamene začnou se vířit rychleji a odhalují rostoucí světlo přicházející daleko zr vnitřku zeměkoule.
 
 #ev_palntruse_3
-You feel a presence. There is no signs of it, you don't see it, you don't hear it. But you know it's there. And you know it's asking for your deepest desire, promissing you to make it a reality. What will it be?
+Cítíte přítomnost. Nejsou žádné známky jej, nevidíte to, neslyšíte to. Ale víte, že je tam. A víte, že to vyžaduje vaši nejhlubší touhu a slibuje vám, aby se stala skutečností. Co to bude?
 
 #ev_palntruse_c1
-I want to secure the prosperity and happiness of my people for the ages to come, giving them unquestionnable glory and prestige over all others.
+Chci zajistit prosperitu a štěstí mému lidu pro nadcházející věky a dát jim nespornou slávu a prestiž nad všemi ostatními.
 
 #ev_palntruse_c2
-I want to submit all to my only will, and rule over this world with an iron fist.
+Chci si podřídit vše pod svou vůli a vládnout nad tímto světem železnou pěstí!
 
 #ev_palntrch1
-A gift of Wisdom
+dar Moudrosti
 
 #ev_palntrch1_1
-You do not hear any answer. There is no voice in your head. You just suddenly... know. Your wish has been granted, and the stone has answered you with a gift of Wisdom. In front of you, the stone has vanished.
+Neslyšíš žádnou odpověď. Ani neslyšíš hlasy, jen najednou... víš. Tvé přání bylo naplněno, kámen ti odpověděl darem Moudrosti a zmizel ti před očima.
 
 #ev_palntrch1_2
 You have received instructions of how to build monolithic black artifacts that will increase the happiness, wealth, wisdom, and prestige of all the inhabitants of the territories where they are erected. You do not understand why and how these work, you just know that they will and what you must do to build them. It's time to write down the knowledges you have been gifted and to call upon your best engineers and builders to start preparations.
 
 #ev_palntrch2
-A gift of Power
+dar Moci
 
 #ev_palntrch2_1
-You do not hear any answer. There is no voice in your head. You just suddenly... know. Your wish has been granted, and the stone has answered you with a gift of Power. In front of you, the stone has vanished.
+Neslyšíš žádnou odpověď. Ani neslyšíš hlasy, jen najednou... víš. Tvé přání bylo naplněno, kámen ti odpověděl darem Moci a zmizel ti před očima.
 
 #ev_palntrch2_2
-You have received instructions of how to build gigantic tower of black stone that will promisses to grant your desire for domination and power only once you complete it's construction. You know you must build it. It's time to write down the plans you have been gifted with and to call upon your best engineers and builders to start preparations, it's going to be a long and expensive construction work.
+Dostali jste pokyny, jak postavit gigantickou věž z černého kamene, jež slibuje po jejím dokončení naplnění vaši touhy po nadvládě a moci nad celým světem. Ty výš že ji musíš postavit! Je na čase rozvrhnou její plány, které jste dostali, a vyzvat své nejlepší inženýry a stavitele, aby zahájili její přípravy. Bude to dlouhá a nákladná stavební práce.
+
+#event_ideasprd
+Dostal se knám nový nápad od našich sousedů!
+
+#event_ideasprd_1
+Lidé cestují as nimi i znalosti, příběhy a revoluční inovace šířené po obchodních trasách a sousedních státech ve stavu míru.
+
+#event_ideasprd_2
+Zprávy o vědomostech, které nám nejsou známy, se k nám dostaly od [x] a daly nám příležitost zkoumat a přijmout tento nový způsob pohledu na věc.
+
+#event_idealrn
+Okoukali jsme nový nápad od vepřů z [x]!
+
+#event_idealrn_1
+Město [y] je domovem mnoha vepřů [x] kultury a soužití s ​​našimi lidmi vede ke kulturním výměnám.
+
+#event_idealrn_2
+Jejich zvládnutí znalostí, které nám nejsou známy, vyvolalo zvědavost některých našich Prasat a umožnilo nám to prozkoumat a přijmout tento nový druh pohledu na věc.
+
+#ev_palntrch2_3
+Buďte opatrní, protože zpráva o vašem rozhodnutí se rozšíří a vaši spojenci brzy  se dozvědí o vaší zradě a zlověstném záměru. Mohou se vás pokusit eliminovat, než se dostanete k dokončení stavby věže a odemknutí její schopností.
+
+#ev_palntrch2_o_1
+Postav Temnou věž v tvém hlavní městě za účelem odemknutí tvé pravé moci.
+
+#ev_palntrch2_o_2
+Temná věž je unikátní budova hlavního města, jež musíš dokončit pro odemčení její moci. Buď opatrný! Jakmile začneš, nebude to dlouho trvat k roznesení zpráv o její stavbě, a jakmile ji dokončíš tvůj odsud bude protklán s tou věži: její zničení bude také tvou smrtí. Ujisti se že ji stavíš uprostřed tvé nejvíce obrněnné pevnosti.
+
+#ev_palntrch2_fx
+Staneš se pánem Zla
 
