@@ -236,6 +236,9 @@ Avoir accès à [x]
 #cond_hasevent
 Completer l'évenement '[x]'
 
+#cond_wait
+Attendre [x]
+
 #effect_givres
 Réception de [y] [x] dans le territoire
 
@@ -690,7 +693,7 @@ Notre traité avec [x] de [y] a été approuvé et signé par nous deux et est m
 [x] a brisé le traité de '[y]' qu'ils avaient avec nous!
 
 #event_trt_brk1_2
-Selon les termes de rupture du traité, nous avons reçu [p1] pièces de monnaie en compensation et ils ont perdu [p2] d'honneur.
+Selon les termes de rupture du traité, ils ont perdu [p2] d'honneur.
 
 #event_trt_brk2
 Nous avons rompu un traité avec [x]!
@@ -699,7 +702,7 @@ Nous avons rompu un traité avec [x]!
 Nous avons brisé le traité de '[y]' que nous avons eu avec [x].
 
 #event_trt_brk2_2
-Selon les termes de rupture du traité, comme pénalité, nous avons payé [p1] pièces de monnaie et perdu [p2] de l'honneur.
+Selon les termes de rupture du traité, comme pénalité, nous avons perdu [p2] de l'honneur.
 
 #event_trt_brkw1
 Nous leur avons déclaré la guerre en représailles, et tout autre traité avec eux a été rompu.
@@ -1941,7 +1944,7 @@ Alors que vous posez vos mains sur la sphère noire, vous vous sentez immédiate
 Vous ressentez une présence. Il n'y a aucun signe de celle-ci: vous ne la voyez pas, vous ne l'entendez pas. Mais vous savez qu'elle est là, et qu'elle vous offre de faire de votre plus profond désir une réalité. Quel en sera t'il?
 
 #ev_palntruse_c1
-"Je veux sécuriser la prospérité et le bonheur de mon peuple pour les ages à venir en obtenant gloire et préstige incontestable aux yeux des autres peuples."
+"Je veux assurer la prospérité et le bonheur de mon peuple pour les ages à venir."
 
 #ev_palntruse_c2
 "Je souhaite soumettre toute vie à mon unique volonté, et diriger ce monde seul d'un main de fer."
@@ -1966,3 +1969,49 @@ Vous avez reçu les instructions de comment construire une titanesque tour de pi
 
 #ev_palntrch2_3
 Soyez prudent car la nouvelle de vôtre décision va rapidement se répendre, et vos alliés vont réaliser votre trahison et sinistre projet. Ils tenteront probablement de vous éliminer avant que vous ne puissiez completer la construction de la tour et acceder a ses pouvoirs.
+
+#ev_palntrch2_o_1
+Construisez la Tour Noire dans votre capitale pour activer ses pouvoirs.
+
+#ev_palntrch2_o_2
+La Tour Noire est un bâtiment unique de capitale que vous devez completer pour acceder à ses pouvoirs. Soyez prudent! Une fois sa construction débutée, la nouvelle se répendra et une fois completée votre sort sera lié à celui de la Tour: la perdre vous tuera. Assurez vous de la placer au sein de vôtre plus formidable forteresse.
+
+#ev_palntrch2_fx
+Vous deviendrez le Seigneur Noir
+
+#ev_evacuating
+Evacuation de [x]
+
+#ev_evacuating_1
+Ordre a été donné d'organiser l'évactuation de [x].
+
+#ev_evacuating_2
+Tous les habitants du territoire se préparent à partir et à abandonner ainsi leurs maisons et possessions. Tous les bâtiments seront laissés tels quel à leur sort tandis que la population se prépare a former une caravane de migrants et à se charger de toutes les resources restantes qu'ils peuvent porter.
+
+#ev_evacuating_o_1
+Evacuation en cours...
+
+#ev_evacuating_o_2
+Une fois l'évactuation complétée, le territoire sera abandonné et sa population transférée dans des formations de Migrants chargées au maximum des resources restantes.
+
+#ev_evac_fx
+Le territoire sera abandonné et sa population transférée dans des formations de Migrants.
+
+#ev_animlv
+Disparition de la faune sauvage à [x]
+
+#ev_animlv_1
+L'activité foisonnante de [x] commence à perturber la faune locale du territoire. Les chasseurs inquiets rapportent une disparition progressive de la faune autour de la ville: les animaux dérangés par la proximité de nos activités porcines ont commencé à graduellement migrer vers des terres plus calmes.
+
+#ev_animlv_2
+A ce rythme là, les chasseurs pensent que le territoire sera bientôt dénué de toute source de gibier autosuffisant et qu'il leur faudra cesser leurs activités.
+Bientôt, nos chasseurs ne pourront plus produire de viande et il faudrait dès à présent commencer à organiser leur remplacement par des fermes d'élevage ou l'importation de viande depuis d'autres territoires.
+
+#ev_animlv_o_1
+Disparition de la faune sauvage...
+
+#ev_animlv_o_2
+En raison de la croissance de population, le gibier sauvage aura bientôt entierement quitté ce territoire et il faut dès à présent s'y préparer en trouvant des alternatives.
+
+#ev_animlv_fx
+Toutes les sources de gibier terrestre disparaitront du territoire.

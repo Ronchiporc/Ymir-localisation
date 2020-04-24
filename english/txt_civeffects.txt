@@ -382,3 +382,14 @@ Contribution percentage
 #civfx_ldcntrb_setd
 The percentage of the leader's wealth contributed to the government's finances. Note that this will reduce the Leader's wealth proportionnally.
 
+#civfx_rescons_n
+Resource population consumption
+
+#civfx_rescons_dscr
+Makes a distibutable resource consumable by your population.
+
+#civfx_rescons_set1
+Resource type
+
+#civfx_rescons_set1d
+Select a new distributable resource to make available to your population.

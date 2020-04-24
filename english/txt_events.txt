@@ -235,6 +235,9 @@ Have access to [x]
 #cond_hasevent
 Completed event '[x]'
 
+#cond_wait
+Wait [x]
+
 #effect_givres
 Receive [y] [x] 
 
@@ -773,7 +776,7 @@ Our treaty with [x] of [y] has been approved and signed by us both and is now ef
 [x] has illegaly broken the treaty of '[y]' they had with us!
 
 #event_trt_brk1_2
-According to the treaty's breaking terms, we have received [p1] coins in compensation and they lost [p2] of honor.
+According to the treaty's breaking terms, they lost [p2] of honor.
 
 #event_trt_brk2
 We have broken a treaty with [x]!
@@ -782,7 +785,7 @@ We have broken a treaty with [x]!
 We have illegaly broken the treaty of '[y]' we had with [x].
 
 #event_trt_brk2_2
-According to the treaty's breaking terms, as a penalty we have paid [p1] coins and lost [p2] of honor.
+According to the treaty's breaking terms, as a penalty we lost [p2] of honor.
 
 #event_trt_brkw1
 We have declared war to them in retaliation, and any other treaty with them has 
@@ -1895,7 +1898,7 @@ Rumors are spreading about mysterious artefacts fallen from the sky and surround
 One particular story claims someone managed to see one: a glowing dark stone one can hardly detach his sight of, shining of indescribable colours and deeper than an ocean, brewing with moving storm clouds. It was resting in the middle of crater surrounded by creatures of stone like noone has ever seen and the whole area around it feelt charged of a powerful energy. But maybe more interestingly, the stone looked broken: while one face was perfectly smooth and curved like the surface of a globe, the other sides were as sharp as a broken shard of obsidian stone. It looked as if it was only a fragment of what was originally a much bigger stone in the shape of a perfect globe.
 
 #ch_palentir2_3
-Will anyone manage to find if these stories hold any truth? Soothsayers are already spreading prophecies and tells about these stone fragments, saying they are of great significance and that whomever managers to gather them all will have great power bestowed upon himself beyond his dreams.
+Will anyone manage to find if these stories hold any truth? Soothsayers are already spreading prophecies and tells about these stone fragments, saying they are of great significance and that whomever manages to gather them all will have great power bestowed upon himself beyond his dreams.
 
 #ch_palentir3_1
 News are spreading that [x] of the [y] has managed to gather the 7 Palentir fragments and that he has successfully reassembled the Palentir stone in his capital city! 
@@ -1938,7 +1941,7 @@ As you lay your hands on the black stone, you immediately feel a powerful and ov
 You feel a presence. There is no signs of it, you don't see it, you don't hear it. But you know it's there. And you know it's asking for your deepest desire, promissing you to make it a reality. What will it be?
 
 #ev_palntruse_c1
-"I want to secure the prosperity and happiness of my people for the ages to come, giving them unquestionnable glory and prestige over all others."
+"I want the power to secure the prosperity and happiness of my people for the ages to come."
 
 #ev_palntruse_c2
 "I want to submit all life to my only will, and rule over this world alone with an iron fist."
@@ -1964,3 +1967,48 @@ You have received instructions of how to build gigantic tower of black stone tha
 #ev_palntrch2_3
 Be wary, for the news of your decision will spread and your allies will soon know of your betrayal and sinister intent. They might attempt to eliminate you before you get to complete the construction of the tower and unlock its powers.
 
+#ev_palntrch2_o_1
+Build the Dark Tower in your capital to unlock your powers.
+
+#ev_palntrch2_o_2
+The Dark Tower is a unique capital building that you must complete to unlock its powers. Be careful! When its construction begins it won't be long before the news of it spreads, and once completed your fate will become linked to the tower: losing it will kill you. Make sure to build it in the middle of your most defended fortress.
+
+#ev_palntrch2_fx
+You will become the Dark Lord
+
+#ev_evacuating
+Evacuating [x]
+
+#ev_evacuating_1
+Order has been given to organize the evacuation of [x].
+
+#ev_evacuating_2
+All the inhabitants of the territory have started to get ready to leave, abondonning their homes and possessions. All buildings will be left abandonned to their fate while the people are preparing to form a caravan of migrants and to take with them all the resources they can carry.
+
+#ev_evacuating_o_1
+Evacuation in progress...
+
+#ev_evacuating_o_2
+Once evacuation is completed, the territory will be cleared and the population will be transfered into Migrants formations loaded with as much of the remaining resources as possible.
+
+#ev_evac_fx
+Territory will be abandonned and population transfered in Migrants formations.
+
+#ev_animlv
+Wildlife is leaving [x]
+
+#ev_animlv_1
+The thriving activity of [x] is starting to disturb the wildlife of the territory. Hunters are reporting a gradual decrease in wildlife in the surroundings of the city: animals are getting disturbed by the proximity of Porcish activities and noises and gradually migrating to more quiet lands.
+
+#ev_animlv_2
+At this rate, hunters think the territory will soon become devoid of sustainable wildlife to hunt and that they'll have to cease their activities.
+Soon, our hunters will cease producing meat and we should start preparing and replacing them with other sources of meat such as cattle farms or importing meat.
+
+#ev_animlv_o_1
+Wildlife is leaving...
+
+#ev_animlv_o_2
+Because of its population growth, all wildlife will soon leave this territory and we should start transitionning to alternative meat sources.
+
+#ev_animlv_fx
+All land wildlife sources will disapear from this territory.

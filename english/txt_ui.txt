@@ -1096,6 +1096,12 @@ Infrastructures upkeep
 #regeco_up_infr_c1
 Total maintenance cost of all infrastructures in this territory (ex: walls or gardens that cost upkeep).
 
+#regeco_up_free
+Territorial status
+
+#regeco_up_free_c1
+Free upkeep from territorial status.
+
 #regeco_tradebal
 Trading balance
 
@@ -1406,7 +1412,7 @@ Sum of all the tax incomes from all your territories.
 Voluntary contributions
 
 #ui_eco_contrib_c1
-In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (20% of their incomes).
+In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (25% of their incomes).
 
 #ui_eco_wast
 Waste
@@ -1415,19 +1421,13 @@ Waste
 Tax incomes lost because of Waste in your territories. Waste is a result of low territory administration.
 
 #ui_eco_bdgs
-Buildings upkeep
+Regions upkeep
 
 #ui_eco_bdgs_c1
-Total upkeep of all buildings in all your territories.
-
-#ui_eco_infr
-Infrastructures upkeep
-
-#ui_eco_infr_c1
-Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
+Total upkeep of buildings and infrastructures in all your regions.
 
 #ui_eco_units
-Units upkeep
+Formations upkeep
 
 #ui_eco_units_c1
 Total upkeep of all units in all your formations.
@@ -1505,31 +1505,37 @@ INDUSTRIES
 EXPORT
 
 #ui_price_base
-Minimum price: [x]
+Minimum price of [x]
 
 #ui_price_base_c1
 This is the minimum price possible for this resource, regardless of the other factors.
 
 #ui_price_base1
-Production cost ([x]%)
+Production cost of [y]  ([x]%)
 
 #ui_price_base1_c1
 The cost of local production for this resource based on the cost of required materials.
 
+#ui_price_base1_c2
+Production represents [x]% of the total input at an average cost of [y] per unit, resulting in an effect on minimum price of [z].
+
 #ui_price_base2
-Importation cost ([x]%)
+Importation cost of [y]  ([x]%)
 
 #ui_price_base2_c1
 The cost of importation of this resource from current trade routes.
+
+#ui_price_base2_c2
+Importations represents [x]% of the total input at an average cost of [y] per unit, resulting in an effect on minimum price of [z].
 
 #ui_price_base3
 Profit margin
 
 #ui_price_base3_c1
-Ensuring minimum profits for the producers of +20% of the production cost.
+Ensuring minimum profits for the producers and traders of the resource and applied to the minimum price per unit of [x].
 
 #ui_price_base3_c2
-Increased to +30% of the production cost if the resources is distributed via merchants, as their cut also needs to be taken into account by the producers.
+Current rate is [x]% of [y], resulting in an effect on minimum price of [z] (min. +1).
 
 #ui_price_work
 Base price
@@ -2319,18 +2325,6 @@ Treaties maintenance
 
 #statepow_tmain_c1
 All active treaties cost a certain amount of State Power to be maintained, depending on the nature of our terms in the treaties.
-
-#statepow_powtr
-State Power transfers
-
-#statepow_powtr_c1
-State Power beeing transfered to or from other governments due to current active treaties.
-
-#statepow_powtr_c2
-- sent from active treaties: [x]
-
-#statepow_powtr_c3
-- received from active treaties: [x]
 
 #statepow_civmnt
 Civics maintenance
@@ -3223,6 +3217,9 @@ There is nothing to exploitable by this building here.
 #ui_builderr_maxan
 This building cannot have more than [x] [y].
 
+#ui_builderr_maxreg
+There can't be more than [x] [y] in a territory.
+
 #ui_dpltool_needreg
 You need to be in the territory view to customize troop deployments!
 
@@ -3285,6 +3282,12 @@ set strategy of the selected troops
 
 #ui_dpltool_needdefz
 You need to place at least one defensive zone before you can assign troops to it.
+
+#ui_dpltool_notindefz
+Troop can't be set in defensive mode because it's not deployed in a defensive zone!
+
+#ui_dpltool_inaxss
+Troop can't be deployed here because it's inacessible!
 
 #ui_dpltool_maxdefz
 You've reached the maximum number of defensive zones.
@@ -3425,7 +3428,7 @@ Your treaty proposition will be cancelled and the other party will no longer be 
 Your treaty proposal was cancelled.
 
 #ui_treat_eng1
-You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
+You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will lose [x] honor.
 
 #ui_treat_eng2
 This will not trigger war with [x].
@@ -3479,10 +3482,10 @@ Ideas
 Trading
 
 #menuevt_objv
-Objectives
+Conditions
 
 #menuevt_rewd
-Rewards
+Effects
 
 #menuevt_prgrs
 current
@@ -3632,7 +3635,7 @@ Are you sure?
 WARNING: You will no longer control this territory: left on it's own, this territory will fall into anarchy.
 
 #ui_conf_abandon
-The territory will be cleared. All it's population will be transfered in one of more formations, taking all the resources they can carry with them.
+The territory will begin preparing its evactuation. Its a long process. Once completed, the territory will be cleared and all it's population will be transfered in one or more "Migrant" formations, taking all the resources they can carry away with them. Warning: Migrants have a very high maintenance cost!
 
 #ui_conf_capital
 Do you really want to set this territory as your new capital ? 
@@ -3663,6 +3666,9 @@ This territory cannot be evacutated while it has an active resistance movement.
 
 #err_reg_abdn4
 The current status of this territory doesn't allow you to order its evacuation.
+
+#err_reg_abdn5
+This territory is already being evacuated!
 
 #b_regclaim
 Claim territory
@@ -4249,25 +4255,25 @@ Select a type of formation
 #menu_nfrm_type1
 Army
 
-#menu_nfrm_t1_dscr1
+#menu_nfrm_t1_dscr_1
 An army is composed by permanently mobilized units, costing upkeep.
 
-#menu_nfrm_t1_dscr2
+#menu_nfrm_t1_dscr_2
 They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
 
-#menu_nfrm_t1_dscr3
+#menu_nfrm_t1_dscr_3
 Armies can move into other territories and their presence increases state authority.
 
 #menu_nfrm_type2
 Militia
 
-#menu_nfrm_t2_dscr1
+#menu_nfrm_t2_dscr_1
 A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
 
-#menu_nfrm_t2_dscr2
+#menu_nfrm_t2_dscr_2
 Militias don't monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
 
-#menu_nfrm_t2_dscr3
+#menu_nfrm_t2_dscr_3
 However , the militia cannot move to other territory s and decreases the state authority.
 
 #menu_nfrm_type3
@@ -4293,6 +4299,27 @@ Ownership of it can be aquired by any of your formations located on the same ter
 
 #form_atfct_dscr_3
 Ownership can be lost in the same way.
+
+#form_sttlrs
+Settlers
+
+#form_sttlrs_dscr_1
+Settlers are civiian formations that can recruit civilian population to settle new territories.
+
+#form_migrnts
+Migrants
+
+#form_migrnts_dscr_1
+Migrants are special civilian formations of population without a home. They can settle new territories, do not require any home support and can recover their AP without any distance penalties but they cost extra State Power and upkeep.
+
+#form_migrnts_dscr_2
+Migrants are created when a territory is evacuated.
+
+#form_nomad
+Nomads
+
+#form_nomad_dscr_1
+Nomads do not require any home support and can recover their AP without any distance penalties. They're also able to settle new territories.
 
 #menu_trbuy_title
 Buying resource...
@@ -4667,7 +4694,7 @@ Fertility
 Groundwater
 
 #btl_objtv_neut
-neutral
+idle
 
 #btl_objtv_raid
 raiding territory
@@ -4701,6 +4728,9 @@ victorious
 
 #btl_rslt_neutr
 was neutral
+
+#btl_rslt_rtrtd
+retreated
 
 #btlrslt_neutr
 NEUTRAL
@@ -5242,6 +5272,12 @@ cannot control trade
 #regstatprop_bdgup
 buildings upkeep [x]
 
+#regstatprop_freeup
+[x] of free upkeep
+
+#regstatprop_freeclaims
+[x] free territorial claims
+
 #regstatprop_loyal
 loyalty [x]
 
@@ -5485,6 +5521,9 @@ Powerless
 #err_inaxsbdg
 This building is currently inaccessible!
 
+#err_cantrstr
+You cannot restaure this building!
+
 #formact_none
 Idle
 
@@ -5526,6 +5565,9 @@ Unclaim territory
 
 #formact_tkartfct
 Claim the artefact
+
+#formact_palntr
+Use the palentir
 
 #formhome_title
 Changing this formation's home...
@@ -5858,7 +5900,10 @@ Current total wealth from all the currently stored resources in the territory (n
 Representative money
 
 #ui_regwlth_mtl_c1
-With the representative money policy, precious metals stocks add up to the territory's wealth
+With the representative money policy, precious metals stocks (Gold & Silver) add up to the territory's wealth.
+
+#ui_regwlth_mtl_c2
+Current stocks are providing a bonus of +[x]% of produced wealth.
 
 #ui_regwlth_prv
 Priviledges
@@ -6216,3 +6261,61 @@ Warning: Server daily auto-restart in [x]!
 
 #srvr_decorstrt
 The server is restarting and will be back online in a few minuts.
+
+#ui_char_notblk
+This character isn't currenlty blocked. Click to block.
+
+#ui_char_isblk
+This character is currently blocked. Click to unblock.
+
+#ui_char_nowblk
+This character is now blocked.
+
+#ui_char_nowunblk
+This character is no longer blocked.
+
+#ui_char_blk_dscr_1
+Blocking hides all the chats, messages, and chronicles from this character.
+
+#ui_char_blk_dscr_2
+It also replaces all his territory names with default ones.
+
+#ui_govcltr_civpt_c1
+You currently have [x] unused Civilization Points available to invest in new cultural traits.
+
+#ui_govcltr_civpt_dscr_1
+Civilization Points allow you to customize and specialize your culture by investing your points in several different categories providing various perks such as unlocking the consumption and production of resources, enabling behavioral traits and modifying your architecture style.
+
+#ui_govcltr_civpt_dscr_2
+These points are mainly earned through the generation of State Culture in all your territories, but they can also be earned through event and project rewards.
+
+#ui_govcltr_civpt_dscr_3
+These points cannot be refunded once invested: choose your traits carefully!
+
+#ui_govcltr_civpt_use_c1
+You currently have invested [x] Points out of a total of [y] earned points so far.
+
+#ui_govcltr_lvl
+Culture level
+
+#ui_govcltr_lvl_c1
+Your current culture level is [x].
+
+#ui_govcltr_lvl_c2
+For every new level reached, you will gain an extra Civilization Point.
+
+#ui_govcltr_nxtlvl
+Next level
+
+#ui_govcltr_xpbar_c1
+You need to generate [x] of State Culture to reach the next Culture Level.
+
+#ui_govcltr_xpbar_c2
+You are currently generating [x] of State Culture [y] in all your territories.
+
+#ui_govcltr_xpbar_dscr_1
+The main way to earn new Civilization Points is by leveling up your Culture: you gain one new point for every new level.
+
+#ui_govcltr_xpbar_dscr_2
+Levelling up is achieved by producing State Culture in your territories and each new level requires more Culture than the previous one.
+

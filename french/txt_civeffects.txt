@@ -49,6 +49,12 @@ Lorsque les matériaux saisis sont actifs, tout ou partie des matériaux est sai
 #civfx_seizem_set
 pourcentage saisi
 
+#civfx_rescons_set1
+Ressource
+
+#civfx_rescons_set1d
+Selectionnez une nouvelle ressource distribuable à rendre disponible à votre population.
+
 #civfx_seizem_setd
 définir le pourcentage des prix du matériel que vous souhaitez saisir
 

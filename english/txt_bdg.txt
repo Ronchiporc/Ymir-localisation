@@ -223,6 +223,12 @@ Heavy tower
 #txt_tow4_dscr
 This tower is built out of solid stone blocks to increase resistance to enemy artillery. Fires arrows.
 
+#txt_drktwr_n
+The Black Tower
+
+#txt_drktwr_dscr
+Home of the Black King and source of its evil powers gifted by the Palentir.
+
 #txt_batlm1_n
 Wooden battlements
 
@@ -783,3 +789,27 @@ Elder's circle
 
 #txt_oldpcrcl_dscr
 A primitive way to store knowledge based on oral tradition.
+
+#txt_orcbutcher_n
+Orc butcher
+
+#txt_orcbutcher_dscr
+Slaughters prisoners to produce bacon, the only food Orcs can consumme.
+
+#txt_orchuts_n
+Orcish dwellings
+
+#txt_orchuts_dscr
+Shoddy huts built by Orcs and piled on top of each other for their dwelling.
+
+#txt_orcmine_n
+Orcish mine
+
+#txt_orcmine_dscr
+Deep underground mines exploited by Orcs to mine and refine Iron directly from the depths of the earth.
+
+#txt_prisoncamp_n
+Prison camp
+
+#txt_prisoncamp_dscr
+Stores live prisoners.

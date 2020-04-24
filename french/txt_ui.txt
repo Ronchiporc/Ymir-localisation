@@ -841,6 +841,12 @@ Maintenance des infrastructures
 #regeco_up_infr_c1
 Coût total de maintenance de toutes les infrastructures de ce territoire (ex: murs ou jardins).
 
+#regeco_up_free
+Statut territorial
+
+#regeco_up_free_c1
+Rabattement de maintenance due au statut territorial actuel.
+
 #regeco_tradebal
 Commerce
 
@@ -1118,7 +1124,7 @@ Somme de tous les revenus fiscaux de tous vos territoires.
 Contributions volontaires
 
 #ui_eco_contrib_c1
-Dans une société sans impôts organisés, les revenus proviennent uniquement des contributions informelles et volontaires du peuple pour la communauté (20% de ses revenus).
+Dans une société sans impôts organisés, les revenus proviennent uniquement des contributions informelles du peuple pour la communauté (25% des revenus).
 
 #ui_eco_wast
 Gaspillage
@@ -1127,16 +1133,10 @@ Gaspillage
 Revenus fiscaux perdus en raison du gaspillage et la corruption dans vos territoires. Le gaspillage est le résultat d'une administration locale faible dans les territoires.
 
 #ui_eco_bdgs
-Maintenance des bâtiments
+Maintenance des régions
 
 #ui_eco_bdgs_c1
-Maintenance total de tous les bâtiments de tous vos territoires.
-
-#ui_eco_infr
-Maintenance des infrastructures
-
-#ui_eco_infr_c1
-Coût de maintenance total de toutes les infrastructures dans tout vos territoires (tels que les murs ou les jardins).
+Maintenance totale des bâtiments et infrastructures de toutes vos régions.
 
 #ui_eco_units
 Maintenance des unités
@@ -1626,12 +1626,6 @@ Maintenance des traités
 
 #statepow_tmain_c1
 Tous les traités actifs coûtent un certain pouvoir d'État à maintenir, en fonction de leurs termes.
-
-#statepow_powtr
-Transferts de Pouvoir d'État
-
-#statepow_powtr_c1
-Le Pouvoir d'État est transféré à d'autres gouvernements ou en provenance d'autres gouvernements en raison des traités actifs en vigueur.
 
 #statepow_civmnt
 Maintenance des politiques
@@ -2377,6 +2371,12 @@ définir la stratégie des troupes sélectionnées
 #ui_dpltool_needdefz
 Vous devez placer au moins une zone défensive avant de pouvoir y affecter des troupes.
 
+#ui_dpltool_notindefz
+Cette troupe ne peut être en mode défensif car elle n'est pas dans une zone défensive!
+
+#ui_dpltool_inaxss
+Cette troupe ne peut pas être déployée ici car c'est inacessible!
+
 #ui_dpltool_maxdefz
 Vous avez atteint le nombre maximum de zones défensives.
 
@@ -2495,7 +2495,7 @@ Envoyer une proposition de renégociation. Si l'autre partie est d'accord, le tr
 Demande d'accord pour mettre fin à ce traité envoyé à l'autre partie!
 
 #ui_treat_eng1
-Vous êtes actuellement engagé par ce traité! Si vous choisissez d'y mettre fin de toute façon, vos clauses de pénalité de rupture s'appliqueront. Vous paierez [x] monnaies ([y]% de votre PIB) et perdrez [z] honneur.
+Vous êtes actuellement engagé par ce traité! Si vous choisissez d'y mettre fin de toute façon, vos clauses de pénalité de rupture s'appliqueront. Vous perdrez [z] d'honneur.
 
 #ui_treat_eng2
 Cela ne déclenchera pas la guerre avec [x].
@@ -2549,10 +2549,10 @@ Idées
 Commerce
 
 #menuevt_objv
-Objectifs
+Conditions
 
 #menuevt_rewd
-Récompenses
+Effets
 
 #menuevt_prgrs
 actuellement
@@ -2600,10 +2600,10 @@ Cette formation est hostile envers nous!
 Si cette formation rencontre l'une de nos unités dans un même territoire ou si nous essayons de passer par leur emplacement actuel, cela déclenchera une bataille.
 
 #ui_form_sprt
-Ville natale
+Ville d'attache
 
 #ui_form_sprt_c1
-La ville natale qui soutient ces unités: les porcos vieillissent et doivent être remplacés par de nouveaux porcos de la ville natale.
+La ville d'attache qui soutient ces unités: avec le temps les porcos vieillissent et doivent être remplacés par de nouveaux porcos provenant de la ville d'attache.
 
 #ui_form_sprt_c2
 Cette formation nécessite actuellement [x] porcos par génération de sa ville natale pour être maintenue.
@@ -2633,7 +2633,7 @@ Maintenance de cette formation
 Vous ne contrôlerez plus ce territoire. Laissé à lui-même, ce territoire tombera dans l'anarchie.
 
 #ui_conf_abandon
-Le territoire sera nettoyé. Toute sa population sera transférée en une formation ou plus, en prenant toutes les ressources qu'ils peuvent porter avec eux.
+Le territoire commencera à se préparer pour l'évactuation. C'est un processus long. Une fois complet, toute la population sera transférée dans une ou plusieur formations de "Migrants" emportant un maximum de resources avec eux. Attention: les Migrants ont un coup d'entretient élevé!
 
 #ui_conf_capital
 Voulez-vous vraiment définir ce territoire comme votre nouvelle capitale?
@@ -3196,25 +3196,25 @@ Sélectionnez un type de formation
 #menu_nfrm_type1
 Armée
 
-#menu_nfrm_t1_dscr1
+#menu_nfrm_t1_dscr_1
 Une armée est composée d'unités mobilisées en permanence, ce qui coût d'entretien.
 
-#menu_nfrm_t1_dscr2
+#menu_nfrm_t1_dscr_2
 Ils ont besoin d'un soutien constant de leur ville natale pour remplacer les porcos vieillissants, et le recrutement de nouvelles unités enlève les porcs du territoire.
 
-#menu_nfrm_t1_dscr3
+#menu_nfrm_t1_dscr_3
 Les armées peuvent se déplacer dans d'autres territoires et leur présence augmente l'autorité de l'État.
 
 #menu_nfrm_type2
 Milice
 
-#menu_nfrm_t2_dscr1
+#menu_nfrm_t2_dscr_1
 Une milice est composée par la population du territoire elle-même, ne se mobilisant que pour défendre le territoire lorsqu'il est attaqué.
 
-#menu_nfrm_t2_dscr2
+#menu_nfrm_t2_dscr_2
 Les milices ne monopolisent pas les porcos en permanence, ce qui leur permet de garder un emploi et son entretien est moins important, car les soldats n'ont pas besoin de salaire.
 
-#menu_nfrm_t2_dscr3
+#menu_nfrm_t2_dscr_3
 Cependant, la milice ne peut pas se déplacer vers d'autres territoires et diminue l'autorité de l'État.
 
 #menu_trbuy_title
@@ -3584,7 +3584,7 @@ Fertilité
 Eaux souterraines
 
 #btl_objtv_neut
-neutre
+inactif
 
 #btl_objtv_raid
 pillage
@@ -3608,16 +3608,19 @@ attaque
 chasse
 
 #btl_rslt_dead
-éliminés
+éliminée
 
 #btl_rslt_deft
-vaincus
+vaincue
 
 #btl_rslt_vict
-victorieux
+victorieuse
 
 #btl_rslt_neutr
-était neutre
+neutre
+
+#btl_rslt_rtrtd
+repliée
 
 #btlrslt_neutr
 NEUTRE
@@ -4270,6 +4273,9 @@ Sans-terre
 #err_inaxsbdg
 Ce bâtiment est inacessible!
 
+#err_cantrstr
+Vous ne pouvez pas restaurer ce bâtiment!
+
 #formact_none
 Inactif
 
@@ -4311,6 +4317,9 @@ Dé-revendiquer
 
 #formact_tkartfct
 Prendre l'artéfact
+
+#formact_tkartfct
+Utiliser le palentir
 
 #formhome_title
 Réassigner la region mère de cette formation...
@@ -4592,28 +4601,40 @@ Exportations:       +[x] ventes   -[y] achats
 Cargo:              +[x] ventes   -[y] achats
 
 #ui_price_base
-Prix minimum: [x]
+Prix minimum de [x]
 
 #ui_price_base_c1
 Le prix minimum possible pour cette ressource, quelque soit les autres facteurs.
 
 #ui_price_base1
-Coût de production ([x]%)
+Coût de production de [y]  ([x]%)
 
 #ui_price_base1_c1
 Le coût moyen de production de cette ressource basé sur le coût actuel de ses matériaux.
 
+#ui_price_base1_c2
+La production représente [x]% du total à un prix moyen de [y] par unité, résultant d'un effet sur le prix minimum de [z].
+
 #ui_price_base2
-Coût d'importation ([x]%)
+Coût d'importation de [y]  ([x]%)
 
 #ui_price_base2_c1
 Le coût moyen d'importation de cette ressource via les routes commerciales actuelles.
+
+#ui_price_base2_c2
+Les importations représentent [x]% du total à un prix moyen de [y] par unité, résultant d'un effet sur le prix minimum de [z].
 
 #ui_price_base3
 Profitabilité
 
 #ui_price_base3_c1
 Assure un minimum de profits aux producteurs, à hauteur de 20% du coût de production.
+
+#ui_price_base3_c1
+Assure un minimum de profits aux producteurs et marchands de cette resource, appliqué au prix minimum par unité de [x].
+
+#ui_price_base3_c2
+Le taux actuel de profits est de [x]% de [y], résultant d'un effet sur le prix minimum de [z] (min. +1).
 
 #ui_price_work
 Prix de base
@@ -4780,6 +4801,9 @@ Acheter [x] resources au prix local de [y] monnaies.
 #ui_builderr_maxan
 Ce bâtiment ne peut avoir plus de [x] [y].
 
+#ui_builderr_maxreg
+Il ne peut y avoir plus de [x] [y] dans in territoire.
+
 #ui_dpltool_formtog
 (cliquer pour acceder au options de déploiement des formations)
 
@@ -4926,6 +4950,27 @@ Son contrôle peut être obtenu par n'importe quelle formation localisée sur le
 
 #form_atfct_dscr_3
 Le contrôle de l'artéfact peut donc être gagné aussi bien que perdu.
+
+#form_sttlrs
+Colons
+
+#form_sttlrs_dscr_1
+Les colons sont des formations civiles qui peuvent recruter de la popuation et coloniser de nouveaux territoires.
+
+#form_migrnts
+Migrants
+
+#form_migrnts_dscr_1
+Les migrants sont des formations civiles spéciales sans ville d'attache. Elles peuvent coloniser de nouveaux territoires, ne requierent aucun support et peuvent récuperer leur PA sans pénalités de distance mais côutent plus de Pouvoir d'Etat et de maintenance.
+
+#form_migrnts_dscr_2
+Les migrants sont crées lors de l'évacuation d'un territoire.
+
+#form_nomad
+Nomades
+
+#form_nomad_dscr_1
+Les nomades sont des formations sans ville d'attache. Elles ne requierent aucun support et peuvent récuperer leur PA sans pénalités de distance, et peuvent également coloniser de nouveaux territoires.
 
 #fstate_encamp
 En Campement
@@ -5500,6 +5545,9 @@ Le statut actuel de ce territoire ne vous authorise pas à renoncer à son contr
 #err_reg_abdn4
 Le statut actuel de ce territoire ne vous authorise pas à ordonner son évacuation.
 
+#err_reg_abdn5
+Ce territoire est déjà en train d'être évacué!
+
 #ui_tech_ter
 Nouveau statut territorial
 
@@ -5526,6 +5574,12 @@ pas de contrôle commercial
 
 #regstatprop_bdgup
 maintenance des bâtiments [x]
+
+#regstatprop_freeup
+[x] de maintenance gratuite
+
+#regstatprop_freeclaims
+[x] revendications territoriales gratuites
 
 #regstatprop_loyal
 loyauté [x]
@@ -5845,7 +5899,10 @@ Total de richesse des ressouces actuellement stockées dans le territoire (à no
 Monnaie représentative
 
 #ui_regwlth_mtl_c1
-Avec la monnaie représentative, les stocks de métaux précieux contribuent additionnellement à la richesse du territoire.
+Avec la monnaie représentative, les stocks de métaux précieux (Or et Argent) contribuent à la richesse de tous les territoires.
+
+#ui_regwlth_mtl_c2
+Les réserves actuelles fournissent un bonuns de +[x]% de richesse produite.
 
 #ui_regwlth_prv
 Privilèges
@@ -6199,7 +6256,64 @@ Il s'agit d'une route commerciale avec un tiers: vous n'êtes authorisé qu'à r
 Il s'agit d'une route commerciale entièrement sous vôtre contrôle et vous pouvez réduire aussi bien qu'augmentée la quantité commercée.
 
 #srvr_restart
-Warning: Redémarrage journalier automatique du serveur dans [x]!
+Attention: Redémarrage journalier automatique du serveur dans [x]!
 
 #srvr_decorstrt
 Le serveur est en train de redémarrer et sera à nouveau en ligne dans quelques minutes.
+
+#ui_char_notblk
+Cliquez pour bloquer ce personnage.
+
+#ui_char_isblk
+Cliquez pour débloquer ce personnage.
+
+#ui_char_nowblk
+Ce personnage est désormais bloqué.
+
+#ui_char_nowunblk
+Ce personnage n'est plus bloqué.
+
+#ui_char_blk_dscr_1
+Bloquer masque tous les chats, messages, et chroniques de ce personnage.
+
+#ui_char_blk_dscr_2
+Cela remplace également tous les noms de territoires par des noms automatiques.
+
+#ui_govcltr_civpt_c1
+Vous avez actuellement [x] Points de Civilisation disponibles pour débloquer de nouveaux traits culturels.
+
+#ui_govcltr_civpt_dscr_1
+Les Points de Civilisation vous permettent de customiser et spécialiser votre culture en les dépensant dans différentes catégories débloquant divers choses tels que la consommation et la production de nouvelles ressources, des traits comportementaux aux effets variés, ou encore la modification de votre style architectural.
+
+#ui_govcltr_civpt_dscr_2
+Ces points sont gagnés principalement par la production de Culture d'Etat dans tout vos territoires, mais ils peuvent également être gagnés via des projets et des missions.
+
+#ui_govcltr_civpt_dscr_3
+Ces points ne peuvent pas être récupérés apres utilisation: choisissez prudemment! 
+
+#ui_govcltr_civpt_use_c1
+Vous avez investi [x] points sur un total de [y] gagnés jusqu'a présent.
+
+#ui_govcltr_lvl
+Niveau Culturel
+
+#ui_govcltr_lvl_c1
+Votre niveau culturel est de [x].
+
+#ui_govcltr_lvl_c2
+Pour chaque niveau, vous gagnez un Point de Civilisation suplémentaire.
+
+#ui_govcltr_nxtlvl
+Prochain niveau
+
+#ui_govcltr_xpbar_c1
+Vous devez générer [x] de Culture d'Etat pour atteindre le prochain Niveau Culturel.
+
+#ui_govcltr_xpbar_c2
+Vous générez actuellement [x] de Culture d'Etat [y] sur tout vos territoires.
+
+#ui_govcltr_xpbar_dscr_1
+Le moyen principal d'obtenir de nouveaux Point de Civilisation est d'augmenter votre Niveau Culturel: pour chaque niveau vous gagnez un nouveau point.
+
+#ui_govcltr_xpbar_dscr_2
+Votre Niveau Culturel augmente en produisant de la Culture d'Etat dans tout vos territoires. Chaque nouveau niveau demande plus de culture que le précédent.

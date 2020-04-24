@@ -153,3 +153,9 @@ Chercheurs payés
 
 #civ_paidrsrch_dscr
 Les chercheurs du projet sont payés par l'Etat proportionnellement  à leur richesse actuelle et ne réduisent plus la main-d'œuvre des bâtiments où ils travaillent.
+
+#cltr_consume_n
+Consommation de ressource
+
+#cltr_consume_dscr
+La pratique culturelle de votre population de consommer un type de resource spécifique. Permets la distribution et la vente de cette resource a la population.

@@ -154,3 +154,8 @@ Paid researchers
 #civ_paidrsrch_dscr
 Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings in which they work.
 
+#cltr_consume_n
+Resource consumption
+
+#cltr_consume_dscr
+The cultural custom of your population to consume a specific resource. It enables population demand and the selling of that resource to the population.

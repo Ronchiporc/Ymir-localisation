@@ -224,6 +224,12 @@ Tour maçonnée
 #txt_tow4_dscr
 Cette tour est construite à partir de blocs de pierre solides pour augmenter la résistance à l'artillerie ennemie.
 
+#txt_drktwr_n
+La Tour Noire
+
+#txt_drktwr_dscr
+Cette sombre tour est la résidence du Roi Noir et la source de ses pouvoirs maléfiques. Elle fut reçue en cadeau par l'usage du Palentir.
+
 #txt_batlm1_n
 Créneaux en bois
 
@@ -784,3 +790,27 @@ Cercle des anciens
 
 #txt_oldpcrcl_dscr
 Moyen primitif de stocker des connaissances par traditions orales.
+
+#txt_orcbutcher_n
+Boucherie Orque
+
+#txt_orcbutcher_dscr
+Execute des prisonniers pour produire du bacon, la seule nourriture que les Orcs peuvent consommer.
+
+#txt_orchuts_n
+Huttes Orques
+
+#txt_orchuts_dscr
+Huttes rudimentaires construites par des Orcs et empilées les unes sur les autres.
+
+#txt_orcmine_n
+Mine Orque
+
+#txt_orcmine_dscr
+Profondes minies exploitées par les Orcs pour miner et rafiner du fer directement depuis les profondeurs de la terre.
+
+#txt_prisoncamp_n
+Camp de prisonniers
+
+#txt_prisoncamp_dscr
+Permet le stockage de prisonniers
