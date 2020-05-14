@@ -1,4 +1,5 @@
-﻿#civ_gifteco_n
+﻿
+#civ_gifteco_n
 Dárovná ekonomika
 
 #civ_gifteco_dscr
@@ -26,13 +27,13 @@ Státem stanovená měna.
 Representující měna
 
 #civ_repmoney_dscr
-A currency representing a claim on a commodity instead of beeing a commodity in itself.
+Měna představující nárok na komoditu místo toho, aby byla sama o sobě komoditou.
 
 #civ_bandsociety_n
 Band society
 
 #civ_bandsociety_dscr
-The simplest form of society, with loose organization and informal leadership.
+Nejjednodušší forma společnosti, s volnou organizací a neformálním vedením.
 
 #civ_leadership_n
 Vládcovství
@@ -98,7 +99,7 @@ Zástupce lidu
 Zdanění
 
 #civ_tax_dscr
-Financial charges imposed upon taxpayers by the state.
+Finanční poplatky uložené daňovým poplatníkům státem.
 
 #civ_seizem_n
 Zabrat materiál
@@ -110,7 +111,7 @@ Zabrat konstrukční materiály od tvé populace místo placení za ně. Převel
 Privilégia
 
 #civ_statepriv_dscr
-Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
+Výsady pro vedení vaší vlády, udělující jim určité procento bohatství území.
 
 #civ_statesal_n
 Státní zaměstnanci
@@ -128,7 +129,7 @@ Poskládaní reprezentativců lidí.
 Ministerstvo
 
 #civ_minist_dscr
-A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
+Rada státních prasat zastávajících významné veřejné funkce, přijímající a provádějící rozhodnutí o politikách mezi sebou.
 
 #civ_ration_n
 Jídelní přídělový systém
@@ -143,14 +144,20 @@ Uchovávání semen
 Zabraňuje části vypěstovaného jídla býti zkonzumováno nebo distuboováno, účelem je uchovat dostatek na možnost stavby dalších nových polí.
 
 #civ_subv_n
-Subvention
+Podpora
 
 #civ_subv_dscr
-An aid paid by the state to every porco of a specific class of workers, increasing their income.
+Podpora, kterou stát vyplácí každému vepřu specifické třídy pracovníků, což zvyšuje jejich příjem.
 
 #civ_paidrsrch_n
 Zapalcení výzkumníci
 
 #civ_paidrsrch_dscr
 Výzkumníci projektů dostanou zaplaceno statém přímoúměrně jejich bohatství a už nesnižují produktivitu budov ve kterých pracují.
+
+#cltr_consume_n
+Spotřeba zdrojů
+
+#cltr_consume_dscr
+Kulturní zvyk vaší populace spotřebovat konkrétní zdroj. Umožňuje populační poptávku a prodej tohoto zdroje obyvatelstvu.
 
