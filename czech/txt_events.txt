@@ -1973,3 +1973,42 @@ Temná věž je unikátní budova hlavního města, jež musíš dokončit pro o
 #ev_palntrch2_fx
 Staneš se pánem Zla
 
+#cond_wait
+Vyčkej [x]
+
+#ev_evacuating
+Evakuace [x]
+
+#ev_evacuating_1
+Bylo vydáno nařízení o organizaci evakuace [x].
+
+#ev_evacuating_2
+Všichni obyvatelé tohoto území se začali připravovat na odchod, opouštějí své domovy a majetek. Všechny budovy budou opuštěny a ponechány svému osudu, zatímco se lidé připravují na utvoření karavany migrantů a pobírají si s sebou všechny zdroje, které mohou unést.
+
+#ev_evacuating_o_1
+Probíhá evakuace...
+
+#ev_evacuating_o_2
+Jakmile bude evakuace dokončena, území bude vymazáno a populace bude převedena do migrantských formací s co největším množstvím zbývajících zdrojů.
+
+#ev_evac_fx
+Území bude opuštěno a populace bude přesunuta do formací migrantů.
+
+#ev_animlv
+Divoká zvěř odchází z [x]
+
+#ev_animlv_1
+Prosperující činnost v [x] ,začíná rušit divokou zvěř území. Lovci hlásí postupný pokles volně žijících živočichů v okolí města: zvířata jsou znepokojena blízkostí vepřovských aktivit a hluků, a postupně se stěhují do klidnějších a čistějších zemí.
+
+#ev_animlv_2
+S touto rychlostí pokračování si myslivci myslí, že území brzy přestane lovit udržitelnou divokou zvěře a že bude muset přestat vykonávat svou činnost lovu. Naši lovci přestanou vyrábět maso a měli bychom se začít připravovat a nahrazovat je jinými zdroji masa, jako jsou farmy pro skot nebo dovoz masa.
+
+#ev_animlv_o_1
+Odchod zvěře...
+
+#ev_animlv_o_2
+Vzhledem k populačnímu nárůstu, brzy opustí toto území veškerá volně žijící zvířata a měli bychom začít přecházet na alternativní zdroje masa.
+
+#ev_animlv_fx
+Z tohoto území zmizí všechny zdroje volně žijících živočichů
+
