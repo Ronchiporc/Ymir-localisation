@@ -2012,3 +2012,21 @@ Vzhledem k populačnímu nárůstu, brzy opustí toto území veškerá volně �
 #ev_animlv_fx
 Z tohoto území zmizí všechny zdroje volně žijících živočichů
 
+#cond_totpop_inf
+[y] ze všech územích menších než [x]
+
+#cond_totpop_sup
+[y] ze všech územích vetších než [x]
+
+#cond_pay_res
+Zaplať [x] [y]
+
+#cond_pay_res_act
+Zaplatit
+
+#cond_pay_actv
+Pošli [x] Vepřů
+
+#cond_pay_actv_act
+Odeslat Vepře
+
