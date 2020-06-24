@@ -1691,9 +1691,6 @@ awards [x]% of [y] territory wealth
 #popstat_wpriv
 privilégie
 
-#popstat_wpriv_c
-wealth given directly as privileges by social policies
-
 #legit_dscr
 Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
 
@@ -4823,9 +4820,6 @@ Zisk z exportu: [x]
 #regeco_wastab_c5
 Prodeje státních prostředků: [x]
 
-#bc_gen_speed
-set overall game speed to x[x]
-
 #ui_eco_tradbal_c4
 Exportations: +[x] sales -[y] purchases
 
@@ -6340,4 +6334,34 @@ Odhalení
 
 #ui_rveal_res
 Objevily jsme [x] v [y]!
+
+#bc_gen_speed_c1
+Nastavuje celkovou rychlost postupu hry.
+
+#bc_gen_speed_c2
+Toto ovlivňuje rychlost věcí, jako je výroba zdrojů, výzkum, obnova AP, objevování nových nápadů, rychlost pohybu na mapě světa atd...
+
+#bc_btl_speed_c1
+Nastavuje rychlost bitvy a rychlost jednotek.
+
+#bc_btl_speed_c2
+To ovlivňuje pouze rychlost bitev a jednotek v teritoriích.
+
+#popstat_wpriv_c1
+Tato klása získá [x]% z bohatství území, jako privilegium.
+
+#popstat_wpriv_c2
+[x]% z [y] produkovaného bohatství na území = [z] 
+
+#popstat_wpriv_c3
+-[x] z [y]% vudcového příspěvku do kasy
+
+#formact_wood
+Sbírejte dřevo
+
+#formact_wood_rslt
+Formace nasbírala [x] dřeva.
+
+#ui_regwlth_prv_c2
+[x]% z [y] bohatství = [z] odkloněn od privilegií
 
