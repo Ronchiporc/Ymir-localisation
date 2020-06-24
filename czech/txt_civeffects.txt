@@ -394,3 +394,13 @@ Typ suroviny
 
 #civfx_rescons_set1d
 Vyberte nový distribuovatelný zdroj, který bude k dispozici vaši populaci.
+
+#civfx_leadwlth_actv
+[x]% z privilegií Vládce
+
+#civfx_subv_actv
+Dotace [y] mincí [x]
+
+#civfx_ldcntrb_actv
+[x]% příspěvku z Vládcovi pokladnice
+
