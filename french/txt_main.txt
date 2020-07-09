@@ -253,11 +253,20 @@ ajouter
 #g_Add
 Ajouter
 
+#g_Enables
+Active
+
 #g_enables
 active
 
 #g_disables
+Désactive
+
+#g_disables
 désactive
+
+#g_Disable
+Désactiver
 
 #g_price
 prix
@@ -445,9 +454,6 @@ Tout
 #g_all
 tout
 
-#g_Disable
-Désactiver
-
 #g_Partisans
 Résistants
 
@@ -575,4 +581,13 @@ quand
 Vous
 
 #g_civpoint
-Point de Civilisation
+Points de Civilisation
+
+#g_bandits
+Bandits
+
+#g_hostnatv
+Autochtones hostiles
+
+#g_completed
+complété

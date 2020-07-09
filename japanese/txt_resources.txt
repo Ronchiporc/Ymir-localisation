@@ -74,16 +74,16 @@
 泥
 
 #r_mudbricks
-泥煉瓦
+泥レンガ
 
 #r_bricks
-煉瓦
+レンガ
 
 #r_ashes
 灰
 
 #r_plaster
-石膏
+石こう
 
 #r_cement
 セメント
@@ -155,7 +155,7 @@
 銀
 
 #r_gold
-ゴールド
+金
 
 #r_leather
 皮
@@ -170,16 +170,16 @@
 毛糸
 
 #r_textile
-繊維
-
-#r_cloth
 布
 
+#r_cloth
+布の服
+
 #r_leathercloth
-皮の布地
+革の服
 
 #r_rabbits
-兎
+ウサギ
 
 #r_deer
 鹿
@@ -212,7 +212,7 @@
 羊
 
 #r_chickens
-鶏
+ニワトリ
 
 #r_caipibaras
 カピバラ
@@ -233,7 +233,7 @@
 トウモロコシ
 
 #r_flour
-小麦粉
+穀物粉
 
 #r_bread
 パン
@@ -241,8 +241,8 @@
 #r_potatoes
 ポテト
 
-#r_標準ots
-人参
+#r_carrots
+ニンジン
 
 #r_tomatoes
 トマト
@@ -263,7 +263,7 @@
 イチジク
 
 #r_rice
-お米
+米
 
 #r_chickpeas
 ひよこ豆
@@ -278,7 +278,7 @@
 投槍
 
 #r_bows
-弓
+ボウ
 
 #r_longbows
 ロングボウ
@@ -293,28 +293,28 @@
 マスケット銃
 
 #r_spears
-槍
+スピア
 
 #r_shortswords
-短剣
+ショートソード
 
 #r_longswords
-刀剣
+ロングソード
 
 #r_battleaxes
-戦斧
+バトルアクス
 
 #r_warhammers
-戦鎚
+ウォーハンマー
 
 #r_halberds
-矛槍
+ハルバード
 
 #r_shield_wood
 木の盾
 
 #r_shield_bronze
-銅の盾
+青銅の盾
 
 #r_shield_heavy
 鉄の盾
@@ -332,10 +332,10 @@
 エルメス
 
 #r_armorpadded
-バンデットアーマー
+パッテッドアーマー
 
 #r_armorbrigand
-ブリガンディーンズ
+ブリガンダイン
 
 #r_cuirass
 キュイラス
@@ -347,7 +347,7 @@
 ヘルノラミノ
 
 #r_amorchain
-チェーンメール
+チェインメイル
 
 #r_amorplate
 プレートアーマー
@@ -359,7 +359,7 @@
 家具
 
 #r_rugs
-敷物
+カーペット
 
 #r_barley
 大麦
@@ -368,7 +368,7 @@
 ビール
 
 #r_grapes
-葡萄
+ブドウ
 
 #r_wine
 ワイン
@@ -398,16 +398,16 @@
 オリーブ
 
 #r_building
-施設
+建設力
 
 #r_plans
-予定
+設計
 
 #r_taxcollect
 徴税
 
 #r_cmnty
-集団
+社交
 
 #r_tavern
 居酒屋
@@ -416,7 +416,7 @@
 劇場
 
 #r_doctor
-医師
+医療
 
 #r_justice
 正義
@@ -437,13 +437,13 @@
 学校
 
 #r_wash
-洗面所
+洗濯
 
 #r_baths
 風呂
 
 #r_scribe
-書記官
+管理力
 
 #r_academ
 学界

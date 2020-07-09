@@ -1085,7 +1085,7 @@ les stratégies par défaut ne peuvent pas être révoquées ou transmises manue
 ils apparaissent automatiquement lorsqu'aucune autre politique n'est active.
 
 #ui_stateeffect
-EFFETS DE L'ÉTAT
+EFFETS DU GOUVERNEMENT
 
 #bc_stateeffect
 effet de réforme en attente
@@ -1331,7 +1331,7 @@ Le solde budgétaire de votre territoire est le résultat de tous les revenus et
 Le budget peut également être affecté négativement par les gaspillages. Il représente les revenus perdus à cause de la fraude fiscale, de la mauvaise gestion, de la corruption et de l'économie souterraine.
 
 #regadmin_eff
-Effets: augmente les revenus budgétaires (-waste)
+Effets: augmente les revenus budgétaires (-gaspillage)
 
 #regadmin_1
 L'administration représente la capacité de gestion de votre gouvernement dans ce territoire.
@@ -1523,10 +1523,19 @@ gagne [x] monnaies d'un total de [y]
 octroies [x]% de la richesse du territoire de [y]
 
 #popstat_wpriv
-privilèges
+[x]% de privilèges
 
 #popstat_wpriv_c
 la richesse donnée directement en tant que privilèges par les politiques sociales
+
+#popstat_wpriv_c1
+Cette classe reçoit [x]% de la richesse du territoire en tant que privilèges.
+
+#popstat_wpriv_c2
+[x]% de [y] de richesse produite dans le territoire = [z] 
+
+#popstat_wpriv_c3
+-[x] en raison des [y]% de contribution du leader à la trésorerie
 
 #legit_dscr
 La légitimité mesure la reconnaissance par le peuple des prétentions au pouvoir de votre gouvernement. Celles-ci sont définies par vos choix de politiques, qui influencent de manière positive ou négative l'importance de différents facteurs de légitimité.
@@ -2327,7 +2336,7 @@ OUTIL STRATÉGIQUE
 Concevez la stratégie défensive de votre territoire au cas où il serait attaqué.
 
 #ui_dpltool_done
-TERMINÉ
+FERMER
 
 #ui_dpltool_addz
 Ajouter une nouvelle zone défensive
@@ -2337,6 +2346,12 @@ Prendre part à la bataille
 
 #ui_dpltool_matt_dscr
 La troupe se redéploiera pour faire face à toute menace entrante et engagera immédiatement une bataille de terrain. La position de déploiement actuelle de la troupe n'a donc aucune importance dans ce mode
+
+#ui_dpltool_delzone
+(clic-droit pour suprimmer cette zone)
+
+#ui_dpltool_conf
+Modification stratégiques confirmées!
 
 #ui_dpltool_mdef
 Engagement restreint
@@ -4288,6 +4303,12 @@ Camper
 #formact_hunt
 Chasser
 
+#formact_wood
+Collecter du bois
+
+#formact_wood_rslt
+La formation à collecté [x] de bois.
+
 #formact_captr
 Capturer
 
@@ -4747,8 +4768,11 @@ Maintenance des formations
 #statepow_forms_c1
 Chaque formation que vous possédez coût de Pouvoir d'État à maintenir.
 
+#ui_recruit_btl
+Impossible de modifier les troupes de cette formation pendant une bataille!
+
 #ui_recruit_immo
-Vous ne pouvez modifier les troupes de cette formation lorsqu'elle est immobilisée.
+Impossible de modifier les troupes de cette formation lorsqu'elle est immobilisée.
 
 #ui_recruit_cost_1
 Coût pour recruter une unité.
@@ -5122,8 +5146,17 @@ Profits d'exporations: [x]
 #regeco_wastab_c5
 Ventes de resources d'État: [x]
 
-#bc_gen_speed
-définir la vitesse de jeu gobale à x[x]
+#bc_gen_speed_c1
+Définit la vitesse de progression générale de la partie.
+
+#bc_gen_speed_c2
+Cela modifie la vitesse de multiples parametres tels que la production de ressources, la recherche, la récupération de PA, la decouverte de nouvelles idées, le mouvement des formations sur la carte etc...
+
+#bc_btl_speed_c1
+Définit la vitesse des batailles et unités de la partie.
+
+#bc_btl_speed_c2
+Cela ne modifie que la vitesse de progression des batailles et du visuel des unités dans les territoires.
 
 #ui_price_base3_c2
 Agumentes de +30% du coût de production si cette ressource est distribuée via des marchands, comme leur part doit également être prise en compte par les producteurs.
@@ -5551,6 +5584,9 @@ Ce territoire est déjà en train d'être évacué!
 #ui_tech_ter
 Nouveau statut territorial
 
+#ui_tech_rev
+Revèles
+
 #facprom_auto
 Rang automatique
 
@@ -5902,13 +5938,16 @@ Monnaie représentative
 Avec la monnaie représentative, les stocks de métaux précieux (Or et Argent) contribuent à la richesse de tous les territoires.
 
 #ui_regwlth_mtl_c2
-Les réserves actuelles fournissent un bonuns de +[x]% de richesse produite.
+Les réserves actuelles fournissent un bonuns de +[x]% de richesse.
 
 #ui_regwlth_prv
-Privilèges
+[x]% de privilèges
 
 #ui_regwlth_prv_c1
 Richesse détournée directement par les classes sociales privilégiées.
+
+#ui_regwlth_prv_c2
+[x]% d'une richesse totale de [y] = [z] détournés par les privilèges
 
 #ui_tradeordr_your
 Vos ordres à [x]
@@ -5978,6 +6017,12 @@ Profits prévus
 
 #ui_tradeordr_inc6_c1
 Une prévision des profits attendus si toutes les ressources achetées sont ensuite vendues sur le marché local.
+
+#ui_tradeordr_inc7
+Gaspillage de [x]%
+
+#ui_tradeordr_inc7_c1
+Estimation des profits qui seront perdus par Gaspillage, basée sur le taux actuel de [x]% dans le territoire.
 
 #ui_tradeordr_prc1
 Prix d'achat maximum. Si des offres de ventes sont disponibles à un prix plus bas, elles seront remplies en priorité générant plus de revenus que prévu.
@@ -6145,10 +6190,13 @@ Vous avez vendu [x] de [y] à [z] au prix de [v].
 * Producteurs locaux: -[x] monnaies
 
 #ui_tradehist_but_c6
-* Profit effectif: [x] monnaies
+* Profit & Taxes: [x] monnaies
 
 #ui_tradehist_but_c7
 * Coût total: [x] monnaies
+
+#ui_tradehist_but_c8
+* Gaspillage: -[x] coins
 
 #menu_res_gen
 Général
@@ -6317,3 +6365,9 @@ Le moyen principal d'obtenir de nouveaux Point de Civilisation est d'augmenter v
 
 #ui_govcltr_xpbar_dscr_2
 Votre Niveau Culturel augmente en produisant de la Culture d'Etat dans tout vos territoires. Chaque nouveau niveau demande plus de culture que le précédent.
+
+#ui_formmove_blckd
+Le mouvement à été annulé car des unités hostiles étaient présentes sur le chemin!
+
+#ui_rveal_res
+Nous avons découvert du [x] à [y]!

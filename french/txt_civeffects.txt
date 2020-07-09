@@ -89,28 +89,31 @@ pourcentage de taxe de vente
 définir le pourcentage de ventes à taxer
 
 #civfx_leadwlth_n
-Les privilèges des leaders
+Privilèges du dirigeant
 
 #civfx_leadwlth_dscr
-Les dirigeants obtiennent une partie de la richesse du territoire en tant que privilège
+Le dirigeant obtient une partie de la richesse produite par la capitale en tant que privilèges.
+
+#civfx_leadwlth_actv
+[x]% de privilèges pour le Dirigeant
 
 #civfx_leadwlth_set
-Privilège des leaders
+Taux de privilèges
 
 #civfx_leadwlth_setd
-le pourcentage de richesse territoriale donné comme privilège au dirigeant
+Le pourcentage de richesse produite dans la capitale attribué comme privilèges au dirigeant.
 
 #civfx_leadsal_n
-Salaires Leaders
+Salaire du dirigeant
 
 #civfx_leadsal_dscr
-Le dirigeant reçoit un salaire payé par l'Etat
+Le dirigeant reçoit un salaire payé par le gouvernement.
 
 #civfx_leadsal_set
-Salaires Leaders
+Salaire du dirigeant
 
 #civfx_leadsal_setd
-montant du salaire en pièces de monnaie
+Le montant du salaire versé au dirigeant en monnaies.
 
 #civfx_nobwlth_n
 Privilèges Nobles
@@ -358,6 +361,9 @@ subvention
 #civfx_subv_dscr
 une aide publique accordée à chaque travailleur d'une classe sociale déterminée, pour augmenter son revenu
 
+#civfx_subv_actv
+Subvention de [y] monnaies pour les [x]
+
 #civfx_subv_set1
 Population
 
@@ -377,13 +383,16 @@ chercheurs rémunérés
 les chercheurs sont payés et ne réduisent plus les effectifs des bâtiments où ils travaillent.
 
 #civfx_ldcntrb_n
-La contribution personnelle du leader
+Contribution à la trésorerie
 
 #civfx_ldcntrb_dscr
-Le dirigeant peut contribuer aux finances du gouvernement avec sa propre richesse (réduit sa richesse).
+Le dirigeant peut contribuer aux finances du gouvernement avec sa propre richesse.
+
+#civfx_ldcntrb_actv
+[x]% de contribution du Dirigeant
 
 #civfx_ldcntrb_set
-Contribution %
+Taux de contribution
 
 #civfx_ldcntrb_setd
-Pourcentage de la richesse du dirigeant utilisée pour les finances du gouvernement. Notez que cela réduira proportionnellement la richesse du leader.
+Pourcentage de la richesse du dirigeant gagnée par les privilèges qui est réaffectée à la trésorerie du gouvernement (à noter que cela réduira proportionnellement la richesse du dirigeant).

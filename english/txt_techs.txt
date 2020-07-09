@@ -875,43 +875,43 @@ tech_warham_dscr_1
 Helbard
 
 #tech_helbard_dscr_1
-tech_helbard_dscr_1
+A two-handed pole weapon combining the piercing attack of spears and the cutting or battle axes.
 
 #tech_shield
 Shield
 
 #tech_shield_dscr_1
-tech_shield_dscr_1
+A piece of personal armor made of wood and leather, held in the hand to counter blows in melee or projectiles such as arrows. 
 
 #tech_metshield
 Metal shield
 
 #tech_metshield_dscr_1
-tech_metshield_dscr_1
+A shield reinforced with metal plating such as bronze or iron for additionnal resistance.
 
 #tech_hvshield
 Heavy shield
 
 #tech_hvshield_dscr_1
-tech_hvshield_dscr_1
+A very large shield reinforced with metal plating such as bronze or iron.
 
 #tech_stlshld
 Steel shield
 
 #tech_stlshld_dscr_1
-tech_stlshld_dscr_1
+Shield reinforced with steel for addionnal resistance while remaining lighter than other metallic shields.
 
 #tech_paddarm
 Padded armor
 
 #tech_paddarm_dscr_1
-tech_paddarm_dscr_1
+A cheap padded defensive jacket worn as a stand alone or combined with mail or plate armor, usually made of linen or wool and produced with the quilting sewing technique.
 
 #tech_scalearm
 Scale armor
 
 #tech_scalearm_dscr_1
-tech_scalearm_dscr_1
+A type of armor made of many individual small armor scales attached to each other and to a backing of cloth or leather in overlapping rows, offering good protection against blunt force hits.
 
 #tech_paparmor
 Paper armor
@@ -923,43 +923,43 @@ tech_paparmor_dscr_1
 Brigandine
 
 #tech_brigdn_dscr_1
-tech_brigdn_dscr_1
+A garment of heavy cloth and leather lined with small oblong steel plates riveted to the fabric providing a good compromise of mobility, cost, and protection.
 
 #tech_chnmail
 Chainmail
 
 #tech_chnmail_dscr_1
-tech_chnmail_dscr_1
+A type of armor consisting of small metal rings linked together in a pattern to form a mesh providing great protection against piercing and slashing blows. 
 
 #tech_cuirass
 Cuirass
 
 #tech_cuirass_dscr_1
-tech_cuirass_dscr_1
+A piece of heavy armor that is formed of a single or multiple pieces of metal which covers the torso.
 
 #tech_lamnrarm
 Laminar armor
 
 #tech_lamnrarm_dscr_1
-tech_lamnrarm_dscr_1
+An armor made from overlapping rows or bands of solid armor plates providing better mobility than solid cuirasses.
 
 #tech_platearm
 Plate armor
 
 #tech_platearm_dscr_1
-tech_platearm_dscr_1
+A type of armor made from carefully articulated steel plates entirely encasing the wearer and providing extreme protection to its wearer while remaining as light as possible.
 
 #tech_lhelmet
 Helmet
 
 #tech_lhelmet_dscr_1
-tech_lhelmet_dscr_1
+A protective piece of armor worn on the head.
 
 #tech_hvhelmet
 Heavy helmet
 
 #tech_hvhelmet_dscr_1
-tech_hvhelmet_dscr_1
+The knowledge of designing and crafting heavy metal helemets for increased protection. 
 
 #tech_ptrwhl
 Potter's wheel
@@ -1032,3 +1032,15 @@ Gift of Power
 
 #tech_godmord_dscr_1
 A knowledge gifted by the Palentir instructing you how to build a giant black tower promissing you to grant your wish of world domination once completed.
+
+#tech_jewelry
+Jewelry
+
+#tech_jewelry_dscr_1
+The art of creating jewelry, decorative items worn for personal adornment often used to advertise a social status.
+
+#tech_goldsmth
+Goldsmithing
+
+#tech_goldsmth_dscr_1
+The art of working with Gold and other precious metals to craft decorative things such as jewelry.

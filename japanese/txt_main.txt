@@ -146,7 +146,7 @@ or
 情報
 
 #g_city
-街
+都市
 
 #g_capital
 首都
@@ -155,7 +155,7 @@ or
 支配地域
 
 #g_colony
-住居
+植民地
 
 #g_reg_claim
 宣言
@@ -179,7 +179,7 @@ or
 経済
 
 #g_currency
-通過
+通貨
 
 #g_loyalty
 忠誠
@@ -212,10 +212,10 @@ or
 重要
 
 #g_faction
-派閥
+勢力
 
 #g_Faction
-派閥
+勢力
 
 #g_Culture
 文化
@@ -298,7 +298,7 @@ or
 安定
 
 #g_Administation
-管理
+管理力
 
 #g_Porco
 豚
@@ -352,7 +352,7 @@ or
 発見無し
 
 #g_Fertility
-出生率
+肥沃度
 
 #g_Groundwater
 地下水
@@ -382,10 +382,10 @@ any
 建造物
 
 #g_Solidity
-堅実
+耐久性
 
 #g_solidity
-堅実
+耐久性
 
 #g_Cover
 Cover
@@ -409,19 +409,19 @@ cover
 よろしいですか?
 
 #g_Gaia
-ガイア
+野生
 
 #g_Primitives
-原始的
+原始的な部族
 
 #g_Rebels
 反乱軍
 
 #g_Partisans
-支持者
+パルチザン
 
 #g_Barbarians
-野蛮な豚
+蛮族
 
 #g_Free_cities
 自由都市
@@ -463,7 +463,7 @@ of
 支配地
 
 #g_colony
-居住地
+植民地
 
 #g_occupiedterrit
 占領地
@@ -472,7 +472,7 @@ of
 前哨地
 
 #g_city
-街
+都市
 
 #g_capital
 首都
@@ -553,10 +553,10 @@ Chief
 Chief
 
 #g_vassal
-家臣
+属国領主
 
 #g_vassaldom
-家臣団
+属国
 
 #g_Game
 ゲーム

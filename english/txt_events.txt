@@ -47,10 +47,16 @@ Do not have the knowledge of '[x]'
 Have the knowledge of '[x]'
 
 #cond_popnb_inf
-[y] inferior to [x]
+Territory [y] inferior to [x]
 
 #cond_popnb_sup
-[y] superior to [x]
+Territory [y] superior to [x]
+
+#cond_totpop_inf
+[y] in all territories inferior to [x]
+
+#cond_totpop_sup
+[y] in all territories superior to [x]
 
 #cond_intel_inf
 [y] intelligence inferior to [x]
@@ -233,10 +239,22 @@ char speed superior to [x]
 Have access to [x]
 
 #cond_hasevent
-Completed event '[x]'
+Complete event '[x]'
 
 #cond_wait
 Wait [x]
+
+#cond_pay_res
+Pay [x] [y]
+
+#cond_pay_res_act
+Pay
+
+#cond_pay_actv
+Send [x] Porcos
+
+#cond_pay_actv_act
+Send Porcos
 
 #effect_givres
 Receive [y] [x] 
@@ -2012,3 +2030,4 @@ Because of its population growth, all wildlife will soon leave this territory an
 
 #ev_animlv_fx
 All land wildlife sources will disapear from this territory.
+

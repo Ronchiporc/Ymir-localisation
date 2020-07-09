@@ -48,10 +48,16 @@ Ne pas avoir la connaissance de '[x]'
 Avoir la connaissance de '[x]'
 
 #cond_popnb_inf
-[y] inférieur à [x]
+[y] du territoire inférieurs à [x]
 
 #cond_popnb_sup
-[y] supérieur à [x]
+[y] du territoire supérieurs à [x]
+
+#cond_totpop_inf
+[y] dans tous les territoires inférieurs à [x]
+
+#cond_totpop_sup
+[y] dans tous les territoires supérieurs à [x]
 
 #cond_intel_inf
 [y] intelligence inférieure à [x]
@@ -238,6 +244,18 @@ Completer l'évenement '[x]'
 
 #cond_wait
 Attendre [x]
+
+#cond_pay_res
+Payer [x] de [y]
+
+#cond_pay_res_act
+Payer
+
+#cond_pay_actv
+Envoyer [x] Porcos
+
+#cond_pay_actv_act
+Envoyer
 
 #effect_givres
 Réception de [y] [x] dans le territoire

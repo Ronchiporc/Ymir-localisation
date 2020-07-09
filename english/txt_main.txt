@@ -268,14 +268,20 @@ add
 #g_Add
 Add
 
+#g_Enables
+Enables
+
 #g_enables
 enables
 
-#g_Disable
-Disable
+#g_Disables
+Disables
 
 #g_disables
 disables
+
+#g_Disable
+Disable
 
 #g_price
 price
@@ -587,4 +593,13 @@ when
 You
 
 #g_civpoint
-Civilization Point
+Civilization Points
+
+#g_bandits
+Bandits
+
+#g_hostnatv
+Hostile natives
+
+#g_completed
+completed

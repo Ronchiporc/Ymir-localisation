@@ -86,13 +86,16 @@ Sets the percentage of sales that are to be taxed
 Leader's privileges
 
 #civfx_leadwlth_dscr
-Leaders get a portion of the territory wealth as a privilege
+The leader gets a share of the capital's produced wealth as privileges.
+
+#civfx_leadwlth_actv
+[x]% of Leader privileges
 
 #civfx_leadwlth_set
-Leader's privilege
+Privileges rate
 
 #civfx_leadwlth_setd
-The percentage of territory wealth given as a privilege to the leader
+The percentage of the capital's produced wealth awarded as a privilege to the leader.
 
 #civfx_leadsal_n
 Leader's salary
@@ -352,17 +355,20 @@ subvention
 #civfx_subv_dscr
 A government aid given to each worker of a specified social class, to increase their income
 
+#civfx_subv_actv
+Subvention of [y] coin for [x]
+
 #civfx_subv_set1
-Subvention
+Subventioned class
 
 #civfx_subv_set1d
 The social class that receives this subvention
 
 #civfx_subv_set2
-Coins
+Subvention amount in coins
 
 #civfx_subv_set2d
-The amount of the subvention. Each worker of this class will receive this number of coins added to their income.
+The amount of the subvention in coins, per Porco. Each one will receive this amount of coins added to their income.
 
 #civfx_paidrsrch_n
 paid researchers
@@ -371,16 +377,19 @@ paid researchers
 Researchers get paid and no longer reduce the workforce of the buildings where they work.
 
 #civfx_ldcntrb_n
-Leader's personnal contribution
+Leader's treasury contribution
 
 #civfx_ldcntrb_dscr
 The leader can contribute to the government's finances with his own wealth (this reduces his wealth).
 
+#civfx_ldcntrb_actv
+[x]% of Leader treasury contribution
+
 #civfx_ldcntrb_set
-Contribution percentage
+Contribution rate
 
 #civfx_ldcntrb_setd
-The percentage of the leader's wealth contributed to the government's finances. Note that this will reduce the Leader's wealth proportionnally.
+The percentage of the leader's wealth going into the government's treasury (Note that this will reduce the Leader's wealth proportionnally).
 
 #civfx_rescons_n
 Resource population consumption

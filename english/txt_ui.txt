@@ -1213,8 +1213,17 @@ M
 #bc_gen_mainmenu
 open main menu
 
-#bc_gen_speed
-set overall game speed to x[x]
+#bc_gen_speed_c1
+Sets the overall progression speed of the game.
+
+#bc_gen_speed_c2
+This affects the speed of things such as the production of resources, research, AP recovery, discovery of new ideas, movement speed on the worldmap etc...
+
+#bc_btl_speed_c1
+Sets the battle and units speed of the game.
+
+#bc_btl_speed_c2
+This only affects the speed of battles and units in territories.
 
 #bc_gen_gameset
 current game settings
@@ -1361,7 +1370,7 @@ default policies cannot be revoqued or passed manually.
 they appear automatically when no other policy is active.
 
 #ui_stateeffect
-STATE EFFECTS
+GOVERNMENT EFFECTS
 
 #bc_stateeffect
 pending reform effect
@@ -2216,10 +2225,16 @@ earning [x] coins out of [y] in total
 awards [x]% of [y] territory wealth
 
 #popstat_wpriv
-privileges
+[x]% of privileges
 
-#popstat_wpriv_c
-wealth given directly as privileges by social policies
+#popstat_wpriv_c1
+This class gets [x]% of the territory's wealth as a privilege.
+
+#popstat_wpriv_c2
+[x]% of [y] of produced wealth in the territory = [z] 
+
+#popstat_wpriv_c3
+-[x] from [y]% of leader's treasury contributions
 
 #legit_dscr
 Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
@@ -2866,6 +2881,9 @@ Jobless: [x] porcos.
 #ui_recruit_resist
 You cannot recruit new units in a territory with resistance.
 
+#ui_recruit_btl
+You cannot modify troops during a battle!
+
 #ui_recruit_immo
 You cannot modify troops while this formation is immobilized.
 
@@ -3243,6 +3261,12 @@ Pitch battle
 
 #ui_dpltool_matt_dscr
 The troop will redeploy to face any incoming threat and engage immediately in a pitch battle manner. The current deployment position of the troop has therefore no importance in this mode.
+
+#ui_dpltool_delzone
+(right-click to delete)
+
+#ui_dpltool_conf
+Strategic changes confirmed!
 
 #ui_dpltool_mdef
 Restricted engagement
@@ -4478,7 +4502,7 @@ You don't have any projects available!
 Projects are unlocked by "Ideas": events that are triggered by your population. Improving the intelligence and life quality of your population is generally a good way to increase odds of getting new ideas.
 
 #menu_prj_none3
-Projects then require researchers and time as well as materials and buget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
+Projects then require researchers and time as well as materials and budget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
 
 #menu_rschr_title
 Adding researchers...
@@ -4523,10 +4547,13 @@ Allows...
 New building
 
 #ui_tech_res
-New resource
+New production
 
 #ui_tech_ter
 New territorial status
+
+#ui_tech_rev
+Reveals
 
 #ui_tech_unit
 New unit
@@ -5536,6 +5563,12 @@ Encamp
 #formact_hunt
 Hunt
 
+#formact_wood
+Gather wood
+
+#formact_wood_rslt
+The formation has collected [x] of wood.
+
 #formact_captr
 Capture
 
@@ -5903,13 +5936,16 @@ Representative money
 With the representative money policy, precious metals stocks (Gold & Silver) add up to the territory's wealth.
 
 #ui_regwlth_mtl_c2
-Current stocks are providing a bonus of +[x]% of produced wealth.
+Current stocks are providing a bonus of +[x]% of wealth.
 
 #ui_regwlth_prv
-Priviledges
+[x]% of priviledges
 
 #ui_regwlth_prv_c1
 Wealth diverted directly by priviledged social classes
+
+#ui_regwlth_prv_c2
+[x]% of [y] wealth = [z] diverted by privileges
 
 #ui_tradeordr_your
 Your orders in [x]
@@ -5979,6 +6015,12 @@ Expected profit
 
 #ui_tradeordr_inc6_c1
 This is the expected profit if all purchased resources are then sold locally.
+
+#ui_tradeordr_inc7
+Expected waste of -[x]%
+
+#ui_tradeordr_inc7_c1
+This is the expected profit lost to waste based on the current waste rate of [x]% in this territory.
 
 #ui_tradeordr_prc1
 Maximum purchasing price. If selling offers are available at a lower price, they will be filled in priority generating more income than predicted.
@@ -6146,10 +6188,13 @@ You sold [x] [y] to [z] at price [v].
 * Local producers share: -[x] coins
 
 #ui_tradehist_but_c6
-* Profit: [x] coins
+* Profit & Taxes: [x] coins
 
 #ui_tradehist_but_c7
 * Total cost: [x] coins
+
+#ui_tradehist_but_c8
+* Waste: -[x] coins
 
 #menu_res_gen
 General
@@ -6319,3 +6364,8 @@ The main way to earn new Civilization Points is by leveling up your Culture: you
 #ui_govcltr_xpbar_dscr_2
 Levelling up is achieved by producing State Culture in your territories and each new level requires more Culture than the previous one.
 
+#ui_formmove_blckd
+Movement was cancelled because its path was blocked by hostiles!
+
+#ui_rveal_res
+We have discovered [x] in [y]!

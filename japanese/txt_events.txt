@@ -18,109 +18,115 @@
 完了したイベント[x]
 
 #cond_loyal_inf
-[x]より劣っている地域の忠誠心
+[x]より低い地域の忠誠心
 
 #cond_loyal_sup
-[x]よりも優れたテリトリーの忠誠心
+[x]よりも高いテリトリーの忠誠心
 
 #cond_pow_inf
-[x]に劣る国家威信
+[x]を下回る国家威信
 
 #cond_pow_sup
 [x]を上回る国家威信
 
 #cond_legit_inf
-[x]より劣っている州の正当性
+[x]より低い州の正当性
 
 #cond_legit_sup
-[x]よりも優れた州の正当性
+[x]よりも高い州の正当性
 
 #cond_coins_inf
-州の通貨が[x]より劣っています
+州の通貨が[x]を下回っています
 
 #cond_coins_sup
-[x]よりも優れた州の通貨
+州の通貨が[x]を上回っています
 
 #cond_notech
 '[x]'の知識がありません
 
 #cond_hastech
-'[x]'の知識を持っている
+'[x]'の知識があります
 
 #cond_popnb_inf
-[y] [x]より劣る
+[y] は[x]より低い
 
 #cond_popnb_sup
-[y] [x]より優れている
+[y] は[x]より高い
+
+#cond_totpop_inf
+すべての地域で[y]は[x]より低い
+
+#cond_totpop_sup
+すべての地域で[y]は[x]より高い
 
 #cond_intel_inf
-[y] [x]より劣った知能
+[y] は[x]より低い知能
 
 #cond_intel_sup
-[y] [x]より高い知性
+[y] は[x]より高い知能
 
 #cond_lifeq_inf
-[y]生活品質は[x]より劣る
+[y]の生活品質は[x]より低い
 
 #cond_lifeq_sup
-[y] [x]よりも優れた生活品質
+[y]の生活品質 [x]より高い
 
 #cond_health_inf
-[y]健康は[x]より劣る
+[y]の健康は[x]より低い
 
 #cond_health_sup
-[y]健康は[x]より優れている
+[y]の健康は[x]より高い
 
 #cond_regcltr_sup
 [x]より高い地域文化
 
 #cond_cltr_inf
-[x]に劣る総文化
+[x]より低い総合文化
 
 #cond_cltr_sup
-[x]を上回る総合文化
+[x]より高い総合文化
 
 #cond_conflict_inf
-[x]より劣っている豚紛争
+[x]より低い豚の紛争
 
 #cond_conflict_sup
-[x]より高い豚紛争
+[x]より高い豚の紛争
 
 #cond_cons_sup
-[x]の消費量は[y]より優れています
+[x]の消費量は[y]より高い
 
 #cond_natres
 [x]の天然資源を持っている
 
 #cond_resaxs_inf
-[y]アクセスが[x]%より劣っています
+[y]のアクセスが[x]%より劣っています
 
 #cond_resaxs_sup
-[y]アクセスは[x]%より優れています
+[y]のアクセスが[x]%より優れています
 
 #cond_needaxs_inf
-[z] [y]アクセスが[x]%より劣っています
+[z]の[y]のアクセスが[x]%より劣っています
 
 #cond_needaxs_sup
-[z] [y]アクセスは[x]%より優れています
+[z]の[y]のアクセスは[x]%より優れています
 
 #cond_resstk_inf
-[y] [x]より劣った株
+[y]の資材の量は[x]より少ない
 
 #cond_resstk_sup
-[y]より高い株式[x]
+[y]の資材の量は[x]より少ない
 
 #cond_agrprd_inf
-[x]に劣る農業生産
+農業生産が[x]より低い
 
 #cond_agrprd_sup
-[x]より高い農業生産
+農業生産が[x]より高い
 
 #cond_natagri
-野菜や植物の天然資源を持っている
+果物や植物の天然資源を持っている
 
 #cond_militia_inf
-[x] [y]より劣る民豚
+[x] [y]より少ない民豚
 
 #cond_militia_sup
 [x] 匹以上の[y]で、民豚の部隊を作成する
@@ -130,6 +136,7 @@
 
 #cond_army_sup
 [x] [y]より高い軍隊
+
 #cond_units_inf
 Have less than [x] [y]
 
