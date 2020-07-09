@@ -1,4 +1,5 @@
-﻿#civfx_inc_n
+﻿
+#civfx_inc_n
 příjmy obyvatelstva
 
 #civfx_inc_dscr
@@ -381,3 +382,25 @@ Podíl %
 
 #civfx_ldcntrb_setd
 Procento bohatství vládce, které je používané pro vládní finance. Pozor, tím se poměrně sníží bohatství Vládce.
+
+#civfx_rescons_n
+Spotřeba zdrojů populací
+
+#civfx_rescons_dscr
+Dělá distributovatelné zdroje spotřebovatelnými vaší populací.
+
+#civfx_rescons_set1
+Typ suroviny
+
+#civfx_rescons_set1d
+Vyberte nový distribuovatelný zdroj, který bude k dispozici vaši populaci.
+
+#civfx_leadwlth_actv
+[x]% z privilegií Vládce
+
+#civfx_subv_actv
+Dotace [y] mincí [x]
+
+#civfx_ldcntrb_actv
+[x]% příspěvku z Vládcovi pokladnice
+

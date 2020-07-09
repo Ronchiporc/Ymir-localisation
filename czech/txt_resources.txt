@@ -1,4 +1,5 @@
-﻿#r_all
+﻿
+#r_all
 Všechny suroviny
 
 #rcat_prod
@@ -254,7 +255,7 @@ Hlávkový salát
 Banány
 
 #r_apples
-Jablka
+Jabka
 
 #r_beans
 Fazole
@@ -471,3 +472,22 @@ Knihovna
 
 #r_dates
 Data
+
+#r_prisoners
+Vězni
+
+#r_bacon
+Slanina
+
+#r_shells
+Mušle
+
+#r_pearls
+Perly
+
+#r_shelljewelry
+Ozdoby
+
+#r_jewelry
+Šperky
+

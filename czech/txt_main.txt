@@ -81,10 +81,10 @@ efektivnost
 EFEKTIVNOST
 
 #g_resunit
-resource unit
+jednotka zdroje
 
 #g_resunits
-resource units
+jednotek zdroje
 
 #g_Households
 Domácnosti
@@ -303,10 +303,10 @@ stable
 Administrativa
 
 #g_Porco
-Porco
+Vepř
 
 #g_Porcos
-Porcos
+Vepři
 
 #g_Load
 Naložit
@@ -573,5 +573,22 @@ at
 kdy
 
 #g_You
-You
+Ty
 
+#g_civpoint
+Civilizační bod
+
+#g_Enables
+Povolí
+
+#g_Disables
+Zakáže
+
+#g_bandits
+Bandité
+
+#g_hostnatv
+Nepřatelští domorodci
+
+#g_completed
+dokončeno

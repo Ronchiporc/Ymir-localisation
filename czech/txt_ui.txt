@@ -60,22 +60,22 @@ Automatické rozlišení
 automatically adapt resolution to the display in fullscreen
 
 #b_menuop_res
-Display resolution
+Rozlišení displeje
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+vyberte požadované rozlišení displeje při 'celé obrazovce'
 
 #b_menuop_terrain
-Terrain
+Terén
 
 #b_menuop_low
-low
+nízké
 
 #b_menuop_medium
-medium
+střední
 
 #b_menuop_high
-high
+vysoké
 
 #b_menuop_bdgs
 Budovy
@@ -87,10 +87,10 @@ Jednotky
 FX
 
 #b_menuop_shaders
-Shaders
+Shadery
 
 #b_menuop_worldmap
-Worldmap
+Mapa světa
 
 #b_menuop_logic
 Logic
@@ -102,10 +102,10 @@ Cosmetic vegetation
 Enable cosmetic grass and bushes
 
 #b_menuop_cosunits
-Cosmetic units 
+Dekorativní jednotky
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+Umožní zobrazovat dekorativní jednotky, jako např. Zvířata
 
 #b_menuop_animveget
 Animated vegetation
@@ -120,13 +120,13 @@ Video grain
 Enable or disable this post-processing effect
 
 #b_menuop_mvol
-Music volume
+Hlasitost hudby
 
 #b_menuop_ambvol
-Ambiant volume
+Hlasitost okolí
 
 #b_menuop_uivol
-UI volume
+Hlasitost menu
 
 #b_menuop_lang
 Jazyk
@@ -189,10 +189,10 @@ Online
 Počet aktivních hráču ve hře
 
 #servlst_dur
-Duration
+Délka
 
 #servlst_dur_c1
-The amount of time this game has been going on
+Doba, po kterou tato hra už probíhá
 
 #servlst_ver
 verze serveru
@@ -273,22 +273,22 @@ It seems there is'nt any custom map available. Please select a procedural type o
 Velikost Mapy
 
 #mapsize1
-Tiny
+Maličký
 
 #mapsize2
-Small
+Malá
 
 #mapsize3
-Regular
+Regulární
 
 #mapsize4
-Large
+Velká
 
 #mapsize5
-Huge
+Obrovská
 
 #mapsize6
-Giant
+Gigantická
 
 #maptyp
 Map preset
@@ -297,7 +297,7 @@ Map preset
 Terra
 
 #maptyp1_dscr
-Temperate earth-like worlds with several continents.
+Mapa s podobností na Zemi s několika kontinenty.
 
 #maptyp2
 Pangea
@@ -375,10 +375,10 @@ Trvalá hra
 Trvalé hry jsou vyvážené, aby měly server běžící 24/7 , kde akce mohou trvat několik hodin a hráči nejsou zamýšlení, aby byli neustále přítomni ve hře.
 
 #gmtyp_prsist_dscr2
-Resource production, population growth and unit movements are slow.
+Produkce zdrojů, růst populace a pohyby jednotek jsou pomalé.
 
 #gmtyp_prsist_dscr3
-This is meant for bigger public games and servers with higher numbers of players.
+To to je určeno pro větší veřejné hry a servery s vyšším počtem hráčů.
 
 #gmtyp_cstm
 Vlastní
@@ -390,10 +390,10 @@ Vlastní hra umožňuje definovat vlastní nastavení ovlivňující vyvážení
 Odpojit
 
 #gamelob_disco_c1
-Return to main menu
+Navrát do hl. menu
 
 #gamelob_usechar
-Play using this character
+Hrát s touto postavou
 
 #gamelob_newchar
 Nový
@@ -1690,9 +1690,6 @@ awards [x]% of [y] territory wealth
 
 #popstat_wpriv
 privilégie
-
-#popstat_wpriv_c
-wealth given directly as privileges by social policies
 
 #legit_dscr
 Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
@@ -4823,9 +4820,6 @@ Zisk z exportu: [x]
 #regeco_wastab_c5
 Prodeje státních prostředků: [x]
 
-#bc_gen_speed
-set overall game speed to x[x]
-
 #ui_eco_tradbal_c4
 Exportations: +[x] sales -[y] purchases
 
@@ -5448,7 +5442,7 @@ Kamera dolů
 klepněte na tlačítko a stiskněte klávesu klávesnice, abyste jej mohli vázat na tuto akci
 
 #menuop_togtut
-Přepněte výukové programy
+Tutoriál
 
 #menuop_togtut_c1
 Povolí hlavní tutoriál a všechna vyskakovací okna nápovědy, když děláte věci poprvé.
@@ -6256,4 +6250,118 @@ retreated
 
 #formact_palntr
 Použít Palentir
+
+#ui_dpltool_delzone
+(klikni pravým pro smazání)
+
+#ui_dpltool_conf
+Strategické změny potvrzeny!
+
+#ui_dpltool_notindefz
+Vojsko nelze nastavit do obranného režimu, protože není nasazeno v obranné zóně!
+
+#ui_dpltool_inaxss
+Vojsko zde nelze nasadit, z důvodu nepřístupnosti terénu!
+
+#err_reg_abdn5
+Toto území je již evakuováno!
+
+#regstatprop_freeclaims
+[x] volných územních zabrání
+
+#err_cantrstr
+Tato budova nemůže býti obnovena!
+
+#ui_regwlth_mtl_c2
+Aktuální zásoby poskytují bonus + [x]% vyprodukovaného bohatství.
+
+#ui_tradeordr_inc7
+Očekávané ztráty -[x]%
+
+#ui_tradeordr_inc7_c1
+Toto je očekávaný zisk ztracený 'ztrátám' na základě současné míry 'ztrát' [x]% na tomto území.
+
+#ui_tradehist_but_c8
+* Ztráty: -[x] mincí
+
+#ui_govcltr_civpt_c1
+V současné době máte [x] nevyužitých civilizačních bodů k zainvestování do nových kulturních rysů.
+
+#ui_govcltr_civpt_dscr_1
+Civilizační body vám umožňují přizpůsobit a specializovat vaši kulturu, investováním vašich bodů do několika různých kategorií, které poskytují různé výhody, jako je odemykání spotřeby a produkce zdrojů, umožnění ruzných rysů chování a změna stylu vaší architektury.
+
+#ui_govcltr_civpt_dscr_2
+Tyto body se získávají hlavně generací státní kultury na všech vašich územích, ale lze je také získa, prostřednictvím odměn za akce a projekty.
+
+#ui_govcltr_civpt_dscr_3
+Po zainvestování těchto bodů, nelze je získat zpět: pečlivě si promyslete své rozhodnutí!
+
+#ui_govcltr_civpt_use_c1
+V současné době jste dosud investovali [x] bodů z celkového počtu [y] bodů.
+
+#ui_govcltr_lvl
+Kuturní úroveň
+
+#ui_govcltr_lvl_c1
+Tvůj nynější level kultury je [x].
+
+#ui_govcltr_lvl_c2
+Za každou dosaženou novou úroveň, získáte další civilizační bod.
+
+#ui_govcltr_nxtlvl
+Další level
+
+#ui_govcltr_xpbar_c1
+Chcete-li dosáhnout další úrovně kultury, musíte vygenerovat [x] státní kultury.
+
+#ui_govcltr_xpbar_c2
+Momentálně generujete [x] státní kultury [y] na všech vašich území.
+
+#ui_govcltr_xpbar_dscr_1
+Hlavním způsobem, jak získat nové civilizační body, je vylepšení vaší kultury: za každou novou úroveň, získáte jeden nový bod.
+
+#ui_govcltr_xpbar_dscr_2
+Vyrovnání úrovně je dosaženo produkcí státní kultury na vašem území a každá nová úroveň vyžaduje více kultury než ta předchozí.
+
+#ui_formmove_blckd
+Pohyb byl zrušen, protože jejich cesta je blokována nepřátelskými jednotkami!
+
+#ui_recruit_btl
+Během bitvy nemůžete modifikovat jednotky!
+
+#ui_tech_rev
+Odhalení
+
+#ui_rveal_res
+Objevily jsme [x] v [y]!
+
+#bc_gen_speed_c1
+Nastavuje celkovou rychlost postupu hry.
+
+#bc_gen_speed_c2
+Toto ovlivňuje rychlost věcí, jako je výroba zdrojů, výzkum, obnova AP, objevování nových nápadů, rychlost pohybu na mapě světa atd...
+
+#bc_btl_speed_c1
+Nastavuje rychlost bitvy a rychlost jednotek.
+
+#bc_btl_speed_c2
+To ovlivňuje pouze rychlost bitev a jednotek v teritoriích.
+
+#popstat_wpriv_c1
+Tato klása získá [x]% z bohatství území, jako privilegium.
+
+#popstat_wpriv_c2
+[x]% z [y] produkovaného bohatství na území = [z] 
+
+#popstat_wpriv_c3
+-[x] z [y]% vudcového příspěvku do kasy
+
+#formact_wood
+Sbírejte dřevo
+
+#formact_wood_rslt
+Formace nasbírala [x] dřeva.
+
+#ui_regwlth_prv_c2
+[x]% z [y] bohatství = [z] odkloněn od privilegií
 
