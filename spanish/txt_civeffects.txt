@@ -113,272 +113,274 @@ Privilegios de nobleza
 los nobles obtienen una cantidad de la riqueza de la region como privilegio
 
 #civfx_nobwlth_set
-Nobles privilege
+Privilegio de Nobleza
 
 #civfx_nobwlth_setd
-the percentage of territory wealth given as privilege to the nobles
+el porcentaje de riqueza de territorio dado como privilegio a los nobles
 
 #civfx_nobsal_n
-Nobles salary
+Salario de la Nobleza
 
 #civfx_nobsal_dscr
-Nobles get a salary paid by the state
+Los nobles reciben un salario pagado por el estado
 
 #civfx_nobsal_set
-Nobles salary
+Salario de los nobles
 
 #civfx_nobsal_setd
-amount of the salary in coins
+Salario en monedas
 
 #civfx_offwlth_n
-State workers privileges
+Privilegio de los trabajadores estatales
 
 #civfx_offwlth_dscr
-State workers get a portion of the territory wealth as a privilege
+Los trabajadores del estado reciven una porcion de la riqueza del territorio como privilegio
 
 #civfx_offwlth_set
-State workers privilege
+Privilegio de los trabajadores del estado
 
 #civfx_offwlth_setd
-the percentage of territory wealth given as privilege to the State workers
+el porcentaje de la riqueza del territorio dado como privilegio a los Trabajadores estatales
 
 #civfx_offsal_n
-State workers salary
+Salario de los trabajadores estatales
 
 #civfx_offsal_dscr
-State workers get a salary paid by the state
+Los trabajadores estatales reciben un salario pagado por el estado
 
 #civfx_offsal_set
-State workers salary
+Salario de los trabajadores del estado
 
 #civfx_offsal_setd
-amount of the salary in coins
+cantidad de salario en monedas
 
 #civfx_capadmin_n
-capital administration
+administracion de la capital
 
 #civfx_capadmin_dscr
-modifies administration of the capital
+modifica la administracion de la capital
 
 #civfx_cityadmin_n
-city administration
+administracion de ciudad
 
 #civfx_cityadmin_dscr
-modifies administration of every city
+modifica la administracion de cada ciudad
 
 #civfx_regadmin_n
-territory adimnistration
+administracion de territorio
 
 #civfx_regadmin_dscr
-modifies administration of every territory
+modifica la administracion de cada territorio
 
 #civfx_caplead_n
-capital leaders
+lideres capitales
 
 #civfx_caplead_dscr
-leaders in capital
+lideres en la capital
 
 #civfx_capnob_n
-capital nobles
+nobles de capital
 
 #civfx_capnob_dscr
-nobles in capital
+nobles en la capital
 
 #civfx_citlead_n
-city leaders
+lideres de la ciudad
 
 #civfx_citlead_dscr
-leaders per city
+lideres por ciudad
 
 #civfx_citnob_n
-city nobles
+nobles de ciuad
 
 #civfx_citnob_dscr
-nobles per city
+nobles por ciudad
 
 #civfx_reglead_n
-local leaders
+lideres locales
 
 #civfx_reglead_dscr
-leaders per territory
+lideres por territorio
 
 #civfx_regnob_n
-local nobles
+nobles locales
 
 #civfx_regnob_dscr
-nobles per territory
+nobles por territorio
 
 #civfx_goldstck_n
-wealth from precious metals
+riqueza por metales preciosos
 
 #civfx_goldstck_dscr
+aumenta la riquead de todos los territorios por cada unidad de metales preciosos (Oro y plata) en almacenamiento
 increases wealth of all territories for each unit of precious metals (gold and silver) in storages
 
 #civfx_modhap_n
-population happyness
+felicidad de la poblacion
 
 #civfx_modhap_dscr
-modifies happyness of population
+modifica la felicidad de la poblacion
 
 #civfx_happy_n
-population happyness
+felicidad de la poblacion
 
 #civfx_happy_dscr
-modifies happyness of population
+modifica la felicidad de la poblacion
 
 #civfx_enmerch_n
-merchants
+mercaderes
 
 #civfx_enmerch_dscr
-allows the use of merchants who can sell resources to the population
+permite el uso de mercaderes que pueden vender recursos a la poblacion
 
 #civfx_entrout_n
-trade routes
+rutas comerciale
 
 #civfx_entrout_dscr
-allows to create permanent trade routes between territories
+permite la creacion de rutas comerciales permanentes entre territorios}
 
 #civfx_legitprt_n
-protector of the people
+protector del pueblo
 
 #civfx_legitprt_dscr
-modifies legitimacy factor of military strenght
+modifica el factor de legitimidad de la fuerza militar
 
 #civfx_legitw_n
-leader superiority
+superioridad del lider
 
 #civfx_legitw_dscr
-modifies legitimacy factor of leader's superiority
+modifica el factor de legitimidad  de la superioridad del lider
 
 #civfx_legitr_n
-people's religiosity
+religiosidad del pueblo
 
 #civfx_legitr_dscr
-modifies legitimacy factor of people's religiosity
+modifica el factor de legitimidad de la religiosidad del pueblo
 
 #civfx_legitp_n
-parliament's power
+poder del parlamento
 
 #civfx_legitp_dscr
-modifies legitimacy factor of the parliament
+modifica el factor de legitimidad del parlamento
 
 #civfx_legitsen_n
-senate's power
+poder del senado
 
 #civfx_legitsen_dscr
-modifies legitimacy factor of the senate
+modifica el factor de legitimidad del senado
 
 #civfx_legitm_n
-ministry's power
+poder del ministro
 
 #civfx_legitm_dscr
-modifies legitimacy factor of the ministry
+modifica el factor de legitimidad del ministro
 
 #civfx_legitap_n
-people's approval
+aprobacion del pueblo
 
 #civfx_legitap_dscr
-modifies legitimacy factor of people's approval
+modifica el factor de legitimidad de la aprobacion del pueblo
 
 #civfx_wlegitprt_n
-importance of military strenght
+importancia de la fuerza militar
 
 #civfx_wlegitprt_dscr
-how much military strenght affects legitimacy
+que tanto la fuerza militar afecta la legitimidad
 
 #civfx_wlegitw_n
-importance of leader's superiority
+importancia de la superioridad del lider
 
 #civfx_wlegitw_dscr
-how much leader's superiority affects legitimacy
+que tanto la superioridad del lider afecta la legitimidad
 
 #civfx_wlegitr_n
-importance of religiosity
+importancia de la religiosidad
 
 #civfx_wlegitr_dscr
-how much people's religiosity affects legitimacy
+que tanto la religiosidad del pueblo afecta la legitimidad
 
 #civfx_wlegitp_n
-importance of the parliament
+importancia del parlamento
 
 #civfx_wlegitp_dscr
-how much the parliament's power affects legitimacy
+que tanto el poder del parlamento afecta la legitimidad
 
 #civfx_wlegitsen_n
-importance of the senate
+importancia del senado
 
 #civfx_wlegitsen_dscr
-how much the senate's power affects legitimacy.
+que tanto el poder del senado afecta la legitimidad
 
 #civfx_wlegitm_n
-importance of the ministry
+importancia del ministerio
 
 #civfx_wlegitm_dscr
-how much the ministry's power affects legitimacy.
+que tanto el poder del ministerio afecta la legitimidad
 
 #civfx_wlegitap_n
-importance of people's approval
+importancia de la aprobacion popular
 
 #civfx_wlegitap_dscr
-how much people's approval affects legitimacy.
+que tanto la aprobacion del pueblo afecta la legitimidad
 
 #civfx_statepow_n
-state power
+poder del estado
 
 #civfx_statepow_dscr
-modifies the amount of state power
+modifica la cantidad de poder estatal
 
 #civfx_foodcons_n
-food consumption
+consumo de comida
 
 #civfx_foodcons_dscr
-affects the amount of food required by porcos to satisfy their need for food
+afecta la cantidad de comida necesitada por los porcos para satisfacer sus necesidades alimenticias
 
 #civfx_coin_n
-state treasury
+tesoro estatal
 
 #civfx_coin_dscr
-enables the state earning and spending money.
+habilita a el estado ganar y gastar dinero.
 
 #civfx_agrisav_n
-stocking seeds
+almacenaje de semillas
 
 #civfx_agrisav_dscr
-25% of all agricultural food production going directly into granaries
+25% de toda la producion agricultural ira directamente a los graneros
 
 #civfx_subv_n
-subvention
+subvencion
 
 #civfx_subv_dscr
-a government aid given to each worker of a specified social class, to increase their income
+una asistencia estatal otorgada a cada trabajador de una clase social especifica para aumentar su ingreso
 
 #civfx_subv_set1
-Workers class
+Clase trabajadora
 
 #civfx_subv_set1d
-The social class that receives this subvention
+La clase social que recibe esta subvencion
 
 #civfx_subv_set2
-Coins
+Monedas
 
 #civfx_subv_set2d
-The amount of the subvention. Each worker of this class will receive this amount of coins, added to their income.
+Cantidad de subvencion. Cada trabajador de esta clase recibira esta cantidad de monedas, y se añadira a su ingreso.
 
 #civfx_paidrsrch_n
-paid researchers
+trabajadores pagos
 
 #civfx_paidrsrch_dscr
-researchers get paid and no longer reduce the workforce of the buildings where they work.
+se le pagara a los trabajadores y ya no reduciran la fuerza de trabajo de los edificios en donde trabajan
 
 #civfx_ldcntrb_n
-Leader's personnal contribution
+Contribucion personal del lider
 
 #civfx_ldcntrb_dscr
-The leader can contribute to the government's finances with his own wealth (reduces his wealth).
+El lider puede contribuir a las finanzas del gobierno con su propia riqueza (esto reducira cuando dinero tiene el lider)
 
 #civfx_ldcntrb_set
-Contribution %
+Porcentaje de la contribucion
 
 #civfx_ldcntrb_setd
-Percentage of the leader's wealth used for the government's finances. Note that this will reduce the Leader's wealth proportionnally.
+Porcentaje de la riqueza del lider otorgada a las arcas estatales. Esto reducira la riqueza del lider.
+
 
