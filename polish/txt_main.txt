@@ -8,430 +8,436 @@ Ok
 OK
 
 #g_Yes
-Yes
+Tak
 
 #g_yes
-yes
+tak
 
 #g_YES
-YES
+tak
 
 #g_No
-No
+Nie
 
 #g_no
-no
+nie
 
 #g_NO
-NO
+NIE
 
 #g_Apply
-Apply
+Zastosuj
 
 #g_low
-low
+niskie
 
 #g_medium
-medium
+średnie
 
 #g_high
-high
+wysokie
 
 #g_of
-of
+wyłącz
 
 #g_free
-free
+wolny
 
 #g_Free
-Free
+Wolny
 
 #g_cost
-cost
+Koszt
 
 #g_coins
-coins
+Monety
 
 #g_upkeep
-upkeep
+utrzymanie
 
 #g_Upkeep
-Upkeep
+Utrzymanie
 
 #g_admin
-administration
+administracja
 
 #g_Admin
-Administration
+Administracja
 
 #g_Admincost
-Administration cost
+Koszt administracji
 
 #g_Lifequal
-Life quality
+Jakość życia
 
 #g_Health
-Health
+Zdrowie
 
 #g_efficiency
-efficiency
+efektywność
 
 #g_EFFICIENCY
-EFFICIENCY
+EFEKTYWNOŚĆ
 
 #g_resunit
-resource unit
+zasoby jednostki
 
 #g_resunits
-resource units
+zasoby jednostek
 
 #g_Households
-Households
+Gospodarstwo domewe
 
 #g_cancel
-cancel
+anuluj
 
 #g_Cancel
-Cancel
+Anuluj
 
 #g_empty
-empty
+pusty
 
 #g_workforce
-workforce
+siła robocza
 
 #g_WORKFORCE
-WORKFORCE
+SIŁA ROBOCZA
 
 #g_wealth
-wealth
+bogactwo
 
 #g_WEALTH
-WEALTH
+BOGACTWO
 
 #g_usage
-usage
+Użycie
 
 #g_building
-building
+budynki
 
 #g_None
-None
+Żaden
 
 #g_none
-none
+żaden
 
 #g_All
-All
+Wszystkie
 
 #g_all
-all
+wszystkie
 
 #g_distribute
-distribute
+dystrybucja
 
 #g_produce
-produce
+produkcja
 
 #g_production
-production
+produkcja
 
 #g_needed
-needed
+potrzebne
 
 #g_or
-or
+lub
 
 #g_status
 status
 
 #g_city
-city
+miasto
 
 #g_capital
-capital
+stolica
 
 #g_territory
-territory
+teryterium
 
 #g_colony
-colony
+kolonia
 
 #g_reg_claim
-claim
+roszczenie
 
 #g_owner
-owner
+właściciel
 
 #g_Salaries
-Wages
+Wynagrodzenie
 
 #g_Taxes
-Taxes
+Podatki
 
 #g_Waste
-Waste
+Marnotrawstwo
 
 #g_Economy
-Economy
+Ekonomia
 
 #g_ECONOMY
-ECONOMY
+EKONOMIA
 
 #g_currency
-currency
+WALUTA
 
 #g_loyalty
-loyalty
+lojalność
 
 #g_Loyalty
-Loyalty
+Lojalność
 
 #g_conflict
-conflict
+konflikt
 
 #g_Conflict
-Conflict
+Konflikt
 
 #g_state_culture
-state culture
+kultura państwowa
 
 #g_local_culture
-local culture
+kultura lokalna
 
 #g_Growth
-Growth
+Wzrost
 
 #g_Employment
-Employment
+Zatrudnienie
 
 #g_Vital_needs
-Vital needs
+Potrzeby
 
 #g_vital_needs
-vital needs
+potrzeby
 
 #g_faction
-faction
+frakcja
 
 #g_Faction
-Faction
+Frakcja
 
 #g_Culture
-Culture
+Klutura
 
 #g_Knowledges
-Knowledges
+Wiedza
 
 #g_Nation
-Nation
+Państwo
 
 #g_Policies
-Policies
+Polityka
 
 #g_Government
-Government
+Rząd
 
 #g_Society
-Society
+Społeczeństwo
 
 #g_Diplomacy
-Diplomacy
+Dyplomacja
 
 #g_Power
-Power
+Moc
 
 #g_POWER
-POWER
+MOC
 
 #g_Legitimacy
-Legitimacy
+Prawowitość
 
 #g_LEGITIMACY
-LEGITIMACY
+PRAWOWITOŚĆ
 
 #g_state_power
-state power
+władza państwowa
 
 #g_STATE_POWER
-STATE POWER
+WŁADZA PŃSTWOWA
 
 #g_Social
-Social
+Społeczność
 
 #g_SOCIAL
-SOCIAL
+SPOŁECZNOŚĆ
 
 #g_add
-add
+dodaj
 
 #g_Add
-Add
+Dodaj
+
+#g_Enables
+Włączony
 
 #g_enables
-enables
+włączony
 
-#g_Disable
-Disable
+#g_Disables
+Wyłączone
 
 #g_disables
-disables
+wyłączone
+
+#g_Disable
+Wyłączony
 
 #g_price
-price
+cena
 
 #g_PRICE
-PRICE
+CENA
 
 #g_Server
-Server
+Serwer
 
 #g_server
-server
+serwer
 
 #g_increasing_to
-increasing to
+zwiększ do
 
 #g_decreasing_to
-decreasing to
+zmniejsz do
 
 #g_stable
-stable
+stabilny
 
 #g_Administation
-Administration
+Administracja
 
 #g_Porco
-Porco
+Wieprz
 
 #g_Porcos
-Porcos
+Wieprze
 
 #g_Load
-Load
+Załaduj
 
 #g_Unload
-Unload
+Wyładuj
 
 #g_Destroy
-Destroy
+Zniszcz
 
 #g_From
-From
+Z
 
 #g_from
-from
+z
 
 #g_multiple
-multiple
+mnożnik
 
 #g_confirm
-confirm
+potwierdź
 
 #g_AT_WAR
-AT WAR
+W STANIE WOJNY
 
 #g_NEUTRAL
-NEUTRAL
+NEUTRALNY
 
 #g_AT_PEACE
-AT PEACE
+W STANIE POKOJU
 
 #g_year
-year
+rok
 
 #g_day
-day
+dzień
 
 #g_Rebels
-Rebels
+Rebelianci
 
 #g_automatic
-automatic
+automatyczny
 
 #g_noresult
-no result
+brak wyników
 
 #g_Fertility
-Fertility
+Żyzność
 
 #g_Groundwater
-Groundwater
+Nawodnienie
 
 #g_Any
-Any
+Każdy
 
 #g_any
-any
+każdy
 
 #g_seconds
-seconds
+sekundy
 
 #g_minuts
-minuts
+minuty
 
 #g_hours
-hours
+godziny
 
 #g_days
-days
+dni
 
 #g_Structure
-Structure
+Struktura
 
 #g_structure
-structure
+struktura
 
 #g_Solidity
-Solidity
+Solidność
 
 #g_solidity
-solidity
+solidność
 
 #g_Cover
-Cover
+Osłona
 
 #g_cover
-cover
+osłona
 
 #g_random
-random
+losowy
 
 #g_agree
-agree
+zaakceptuj
 
 #g_refuse
-refuse
+odrzuć
 
 #g_warning
-WARNING!
+OSTRZERZENIE!
 
 #g_areyousure
-Are you sure?
+Jesteś pewny?
 
 #g_Gaia
 Gaia
 
 #g_Primitives
-Primitives
+Prymitywy
 
 #g_Rebels
-Rebels
+Rebelianci
 
 #g_Partisans
-Partisans
+Partyzanci
 
 #g_Barbarians
-Barbarians
+Barbarzyńcy
 
 #g_Free_cities
-Free cities
+Wolne miasta
 
 #g_facnameprep
-of
+wyłącz
 
 #g_facrk1_1
-High Chief
+Wielki wódz
 
 #g_facrk1_2
 Chiefdom
@@ -443,85 +449,160 @@ Chieftain
 Chiefdom
 
 #g_prmtv_trb
-Primitive tribe
+Prymitywne plemie
 
 #g_trb_of
-Tribe of [x]
+Plemie z [x]
 
 #g_colonialtrty
-Colonial treaty
+Traktat kolonialny
 
 #g_capitultrty
-Capitulation treaty
+Traktat kapitulacyjny
 
 #g_nocltr
-ancient culture
+starożytna kultura
 
 #g_claim
-claim
+roszczenie
 
 #g_territory
-territory
+terytorum
 
 #g_colony
-colony
+kolonia
 
 #g_occupiedterrit
-occupied territory
+okupowane terytorium
 
 #g_outpost
-outpost
+placówka
 
 #g_city
-city
+miasto
 
 #g_capital
-capital
+stolica
 
 #g_and
-and
+i
 
 #g_Amount
-Amount
+Ilość
 
 #g_amount
-amount
+ilość
 
 #g_Enabled
-Enabled
+Włączone
 
 #g_enabled
-enabled
+włączone
 
 #g_Disabled
-Disabled
+Wyłączone
 
 #g_disabled
-disabled
+wyłączone
 
 #g_per_day
-per day
+na dzień
 
 #g_ev_days
-every [x] days
+każdego dnia [x]
 
 #g_per_hour
-per hour
+na godzine
 
 #g_ev_hours
-every [x] hours
+co godzine [x]
 
 #g_per_minut
-per minut
+na minute
 
 #g_ev_minuts
-every [x] minuts
+na każdą minute [x]
 
 #g_per_second
-per second
+na sekunde
 
 #g_ev_seconds
-every [x] seconds
+na każdą sekunde [x]
 
 #g_with
-with
+z
+
+#g_second
+sekunnda
+
+#g_seconds
+sekund
+
+#g_hour
+godzina
+
+#g_hours
+godzin
+
+#g_day
+dzień
+
+#g_days
+dni
+
+#g_never
+nigdy
+
+#g_chief
+Wódz
+
+#g_chiefdom
+Wódzostwo
+
+#g_vassal
+Wasal
+
+#g_vassaldom
+Wasalostwo
+
+#g_Game
+Gra
+
+#g_cltr_customs
+Niestandardowy
+
+#g_cltr_skills
+Umiejętności
+
+#g_architecture
+Architektura
+
+#g_psyche
+Psychika
+
+#g_traditions
+Tradycje
+
+#g_in
+w
+
+#g_at
+w
+
+#g_when
+gdy
+
+#g_You
+Ty
+
+#g_civpoint
+Punkty cywilizacji
+
+#g_bandits
+Bandyci
+
+#g_hostnatv
+Wrodzy tubylcy
+
+#g_completed
+zakończony
