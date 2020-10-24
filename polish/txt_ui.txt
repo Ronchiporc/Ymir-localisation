@@ -3088,3043 +3088,3040 @@ Wybierz surowiec
 Koszt zakupu tych surowców.
 
 #ui_foinv_cost_c2
-To load resources into a formation, the state has to take ownership of them and purchase them at their local price from their owners (except for already state-owned stocks).
+Aby załadować zasoby do formacji, państwo musi przejąć je na własność i odkupić je po ich lokalnej cenie od ich właścicieli (z wyjątkiem zasobów będących już własnością państwa).
 
 #ui_foinv_cost_c3
-State-owned stocks: [x]
+Zapasy państwowe: [x]
 
 #ui_foinv_cost_c4
-Purchasing [x] resources at local price of [y] = [z] coins + [v] from local waste.
+Zakup [x] zasobów po lokalnej cenie [y] = [z] monet + [v] z lokalnych odpadów.
 
 #ui_foinv_loadfrm
-Where to load ressources from
+Skąd ładować zasoby
 
 #ui_foinv_unlodto
-Where to unload ressources
+Gdzie rozładowywać zasoby
 
 #ui_foinv_target
-Territory's storages
+Magazyny terytorium
 
 #ui_reg_build_tertool
-terrain tools
+narzędzia terenowe
 
 #ui_reg_build_tertool_c
-modify terrain heights
+modyfikuj wysokość terenu
 
 #ui_tertool
-TERRAIN HEIGHT TOOL
+NARZĘDZIE DO WYSOKOŚCI TERENU
 
 #ui_tertool_1
-Increase height: ctrl + mouse wheel up
+Zwiększ wysokość: Ctrl + kółko myszy w górę
 
 #ui_tertool_2
-Decrease height: ctrl + mouse wheel down
+Zmniejsz wysokość: ctrl + kółko myszy w dół
 
 #ui_tertool_3
-Cancel and close : right-click
+Anuluj i zamknij: kliknij prawym przyciskiem myszy
 
 #ui_tertool_4
-Confirm work and close: space bar
+Potwierdź zmiane i zamknij: spacja
 
 #ui_tertool_add
-Adding
+Dodawanie
 
 #ui_tertool_dig
-Digging
+Kopanie
 
 #ui_tertool_bal
-Imbalance
+Brak równowagi
 
 #ui_tertool_cost
-predicted cost in tools to complete this task
+przewidywany koszt narzędzi do wykonania tego zadania
 
 #ui_tertool_penal
-Imbalance cost penalty
+Kara za koszt braku równowagi
 
 #ui_tertool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and will be worked over time to match this preview, also consuming tool resources in the process.
+Pokazuje tylko podgląd modyfikacji. Jeśli zatwierdzisz to zadanie, zmodyfikowane kafelki zostaną zaznaczone i będą opracowywane w miarę upływu czasu, zużywając zasoby narzędzi w trakcie pracy.
 
 #ui_tertool_warn1
-This tile lacks support to reach this height!
+Ta płytka nie ma podparcia, aby osiągnąć tę wysokość!
 
 #ui_tertool_warn2
-Some tiles lack support to reach the desired height!
+Niektóre płytki nie mają podparcia, aby osiągnąć żądaną wysokość!
 
 #ui_reg_build_plat
-Platforms
+Platformy
 
 #ui_reg_build_plat_c
-build platforms
+buduj platformy
 
 #ui_plattool
-PLATFORM TOOL
+NARZĘDZIE PLATFORMOWE
 
 #ui_plattool_1
-Set platform height: ctrl + mouse wheel
+Ustaw wysokość platformy: Ctrl + kółko myszy
 
 #ui_plattool_2
-Bridge mode: hold shift
+Tryb mostu: przytrzymaj shift
 
 #ui_plattool_3
-Cancel and close : right-click
+Anuluj i zamknij: kliknij prawym przyciskiem myszy
 
 #ui_plattool_4
-Confirm work and close: space bar
+Potwierdź zmiane i zamknij: spacja
 
 #ui_plattool_cost
-predicted cost to build these platforms
+przewidywany koszt budowy tych platform
 
 #ui_plattool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and platforms will be built over time to match this preview, also consuming resources in the process.
+Pokazuje tylko podgląd modyfikacji. Jeśli zatwierdzisz to zadanie, zmodyfikowane kafelki zostaną zaznaczone i będą opracowywane w miarę upływu czasu, zużywając zasoby narzędzi w trakcie pracy.
 
 #ui_builderr_ter
-You cannot place this [x] here.
+Nie możesz umieścić tego [x] tutaj.
 
 #ui_builderr_res
-You're missing [x] of [y] to build this [z].
+Brakuje [x] z [y] do zbudowania tego [z].
 
 #ui_builderr_coin
-You do not have enough coins to build this [x].
+Nie masz wystarczającej liczby monet, aby zbudować to [x].
 
 #ui_builderr_ptf
-This building can only be placed on platforms.
+Ten budynek można postawić tylko na platformach.
 
 #ui_builderr_onres
-This building can only be placed over a resource it can exploit.
+Ten budynek można umieścić tylko nad zasobem, który może wykorzystać.
 
 #ui_builderr_shore
-Needs to be placed on a shore of a minimum depth of [x].
+Musi być umieszczony na brzegu o minimalnej głębokości [x].
 
 #ui_builderr_dist
-This building need to be at least [x] tiles away of any other building of the same type.
+Ten budynek musi znajdować się co najmniej [x] płytek od dowolnego innego budynku tego samego typu.
 
 #ui_builderr_stairs
-Stairs can only be placed next to a tile of higher elevation.
+Schody można umieszczać tylko obok płytek o większej elewacji.
 
 #ui_builderr_gate
-Gates can only be placed next to a high enough bridge-type platform.
+Bramy można umieszczać tylko obok odpowiednio wysokiej platformy typu most.
 
 #ui_builderr_water
-This building cannot be placed on water.
+Tego budynku nie można postawić na wodzie.
 
 #ui_builderr_mustw
-This building must be placed on water of at least [x] of depth.
+Ten budynek musi być umieszczony na wodzie o głębokości co najmniej [x].
 
 #ui_builderr_adjcnt
-Must be placed adjascent to it's owner.
+Musi być umieszczony obok właściciela.
 
 #ui_builderr_bldrs
-This building requires professional construction and you do not have any builders.
+Ten budynek wymaga profesjonalnej konstrukcji i nie masz żadnych budowniczych.
 
 #ui_builderr_inaxss
-You cannot place this here because this area is currently inaccessible!
+Nie możesz tego tutaj umieścić, ponieważ ten obszar jest obecnie niedostępny!
 
 #ui_builderr_noprd
-There is nothing to exploitable by this building here.
+Ten budynek nie ma tu nic do wykorzystania.
 
 #ui_builderr_maxan
-This building cannot have more than [x] [y].
+Ten budynek nie może mieć więcej niż [x] [y].
 
 #ui_builderr_maxreg
-There can't be more than [x] [y] in a territory.
+Na terytorium nie może być więcej niż [x] [y].
 
 #ui_dpltool_needreg
-You need to be in the territory view to customize troop deployments!
+Aby dostosować rozmieszczenie żołnierzy, musisz znajdować się w widoku terytorium!
 
 #ui_dpltool
-STRATEGIC TOOL
+NARZĘDZIE STRATEGICZNE
 
 #ui_dpltool_dscr
-Design the defensive strategy of your formations in this territory, in case of battle.
+Zaprojektuj strategię obronną swoich formacji na tym terytorium na wypadek bitwy.
 
 #ui_dpltool_formtog
-(click to toggle deployment of this formation)
+(kliknij, aby przełączyć rozmieszczenie tej formacji)
 
 #ui_dpltool_done
-DONE
+GOTOWE
 
 #ui_dpltool_addz
-Add a new defensive zone
+Dodaj nową strefę obronną
 
 #ui_dpltool_matt
 Pitch battle
 
 #ui_dpltool_matt_dscr
-The troop will redeploy to face any incoming threat and engage immediately in a pitch battle manner. The current deployment position of the troop has therefore no importance in this mode.
+Oddział zostanie ponownie rozmieszczony, aby stawić czoła nadchodzącemu zagrożeniu i natychmiast przystąpić do walki wręcz. Obecna pozycja rozmieszczenia wojsk nie ma zatem znaczenia w tym trybie.
 
 #ui_dpltool_delzone
-(right-click to delete)
+(kliknij prawym przyciskiem myszy, aby usunąć)
 
 #ui_dpltool_conf
-Strategic changes confirmed!
+Potwierdzone zmiany strategiczne!
 
 #ui_dpltool_mdef
-Restricted engagement
+Ograniczone zaangażowanie
 
 #ui_dpltool_mdef_dscr
-The troop will engage any ennemy entering within the specified range from it's original deployment position. The troop will move in any way necessary to do so.
+Oddział zaatakuje każdego wroga wchodzącego w określonym zasięgu z jego pierwotnej pozycji rozstawienia. Oddział poruszy się w każdym kierunku.
 
 #ui_dpltool_mzon
-Defensive zone
+Strefa obronna
 
 #ui_dpltool_mzon_dscr
-The troop remains in the selected defensive zone and prevents ennemies from entering it. The troop will move within the zone to face any incoming ennemy. Range units will engage any ennemy in range from the edge of the zone.
+Oddział pozostaje w wybranej strefie obronnej i uniemożliwia wrogom wejście do niej. Oddział będzie poruszał się w strefie, aby stawić czoła nadchodzącemu wrogowi. Jednostki dystansowe będą walczyć z każdym wrogiem znajdującym się w zasięgu od krawędzi strefy.
 
 #ui_dpltool_mstand
-Stand ground
+Utrzymaj pozycje
 
 #ui_dpltool_mstand_dscr
-The troop will keep this position no matter what and only engage if there's immediate contact. If it's a range unit, it will fire any available target from this position.
+Oddział zachowa tę pozycję bez względu na wszystko i zaangażuje się tylko wtedy, gdy nastąpi natychmiastowy kontakt. Jeśli jest to jednostka dystansowa, ostrzli każdy dostępny cel z tej pozycji.
 
 #ui_dpltool_mbdg
-Defensive building
+Budynek obronny
 
 #ui_dpltool_mbdg_dscr
-This is a defensive building that may only engage enemies in range.
+To budynek obronny, który może atakować tylko wrogów znajdujących się w zasięgu.
 
 #ui_dpltool_mult
-Multiple
+Wielokrotność
 
 #ui_dpltool_mult_dscr
-The selected troops are currently in different modes. Select one to apply the same mode to all the selected troops.
+Wybrane wojska są obecnie w różnych trybach. Wybierz jeden, aby zastosować ten sam tryb do wszystkich wybranych żołnierzy.
 
 #ui_dpltool_multsel
-multiple selection ([x] troops)
+wielokrotny wybór ([x] żołnierzy)
 
 #ui_dpltool_curmode
-set strategy of the selected troops
+ustal strategię wybranych wojsk
 
 #ui_dpltool_needdefz
-You need to place at least one defensive zone before you can assign troops to it.
+Musisz umieścić przynajmniej jedną strefę obronną, zanim będziesz mógł przydzielić do niej wojska.
 
 #ui_dpltool_notindefz
-Troop can't be set in defensive mode because it's not deployed in a defensive zone!
+Oddział nie może być ustawiony w trybie obronnym, ponieważ nie jest rozmieszczony w strefie obronnej!
 
 #ui_dpltool_inaxss
-Troop can't be deployed here because it's inacessible!
+Nie można tutaj wystawić jednostki, ponieważ nie ma tu dostępu!
 
 #ui_dpltool_maxdefz
-You've reached the maximum number of defensive zones.
+Osiągnąłeś maksymalną liczbę stref obronnych.
 
 #ui_dpltool_delzon
-Delete this zone
+Usuń tę strefę
 
 #bc_menuform_disb
-Disband formation
+Formacja rozwiązania
 
 #bc_menuform_movc
-Move camp position
+Przenieś pozycję obozu
 
 #bc_menuform_disb_1
-Are you sure you want to disband this formation ?
+Czy na pewno chcesz rozwiązać tę formację?
 
 #bc_menuform_disb_2
-If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
+Jeśli rozwiążesz tę formację na jednym z twoich kontrolowanych terytoriów, cały ekwipunek i wyposażenie żołnierzy zostaną rozładowane na tym terytorium. Wszystkie jednostki dołączą do populacji.
 
 #bc_menuform_disb_3
-You cannot disband in territories you do not control!
+Nie możesz rozwiązać oddziału na terytoriach, których nie kontrolujesz!
 
 #bc_menuform_cantchtype
-This formation type cannot be changed.
+Tego typu formacji nie można zmienić.
 
 #menuform_pwr
-This formation type costs [x] State Power to maintain.
+Utrzymanie tego typu formacji kosztuje [x] mocy państwa.
 
 #menuform_disb_err1
-You cannot disband this formation here!
+Nie możesz tutaj rozwiązać tej formacji!
 
 #ui_wregown_smes
-send missive
+wyślij wiadomość
 
 #ui_wregown_war
-declare war
+wypowiedzieć wojnę
 
 #ui_confwar_title
-DECLARING WAR
+WYPOWIEDŹ WOJNE
 
 #ui_confwar
-Are you sure you want to declar war ?
+Czy na pewno chcesz wypowiedzieć wojnę?
 
 #contact_sending
-Sending message to [x] of [y]...
+Wysyłanie wiadomości do [x] z [y] ...
 
 #contact_messto
-Messaging [x] of [y]
+Wiadomości [x] z [y]
 
 #contact_pptreat
-Propose treaty
+Zaproponuj traktat
 
 #contact_pptreat_c
-Joins a treaty proposition to this message
+Dołącza propozycję traktatu do tej wiadomości
 
 #contact_messfrom
-Message from [x]
+Wiadomość od [x]
 
 #contact_greet
-Greetings,
+Pozdrowienia,
 
 #contact_renegoc
-Greetings, I wish to renegociate the terms of our current treaty and here is my offer.
+Pozdrawiam, pragnę renegocjować warunki naszego obecnego traktatu i oto moja oferta.
 
 #contact_reply
-Reply to message
+Odpowiedz na wiadomość
 
 #treated_off
-Available offers:
+Dostępne oferty:
 
 #treated_dem
-Available demands:
+Dostępne żądania:
 
 #treated_conf
-WARNING! This treaty is in conflict with some of your other treaties!
+OSTRZEŻENIE! Ten traktat jest w konflikcie z niektórymi z Twoich innych traktatów!
 
 #treated_conf_c1
-On or more terms in this treaty is in conflict with engagements you made in other treaties. Signing this treaty means violating the conflicting treaties and will trigger breaking penalties on your side.
+Co najmniej kilka warunków w tym traktacie jest w konflikcie z zobowiązaniami zawartymi w innych traktatach. Podpisanie tego traktatu oznacza naruszenie traktatów będących w konflikcie i pociągnie za sobą złamanie kar po Twojej stronie.
 
 #treated_conf_c2
-Conflicts with:
+Konflikty z:
 
 #treated_dur
-treaty duration
+okres obowiązywania traktatu
 
 #treated_dur_c1
-after this duration, the treaty will end
+po tym czasie traktat wygaśnie
 
 #treated_dur_c2
-(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
+(niektóre postanowienia traktatu są stałe i pozostaną aktywne nawet po zakończeniu obowiązywania traktatu, ale można je wówczas anulować bez żadnej kary)
 
 #treated_new
-NEW TREATY
+NOWY TRAKTAT
 
 #treated_pers
-Remains effective even after treaty's duration but it can then be cancelled without breaking closes
+Pozostaje aktywny nawet po okresie obowiązywania traktatu, ale można go wówczas anulować w każdym momencie
 
 #treated_inst
-Applied once, at the treaty's signature
+Zgłoszony raz, przy podpisaniu traktatu
 
 #treaterm_coins
-Coins
+Monety
 
 #treaterm_noidea
-No knowledges to share!
+Brak wiedzy do udostępnienia!
 
 #treaterm_noreg
-No territories valid to transfer!
+Brak terytoriów ważnych do przeniesienia!
 
 #b_endtreaty
-Break treaty!
+Zerwij traktat!
 
 #b_endtreaty_c1
-The treaty will instantly be terminated. Breaking closes on your side will apply.
+Traktat zostanie natychmiast rozwiązany. Zostaną zastosowane konsekwencje wobec Ciebie.
 
 #b_endagreed
-Ask termination
+Poproś o zakończenie
 
 #b_endagreed_c1
-Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
+Poproś drugą stronę o uzgodnione zakończenie. Jeśli zostanie zaakceptowane, nie będą zastosowane żadne konsekwencje.
 
 #b_renegoc
-Renegociate
+Renegocjuj
 
 #b_renegoc_c1
-Send a renegociation proposal. If agreed by the other party, the current treaty will be updated.
+Wyślij propozycję renegocjacji. Jeśli zaakceptuje to druga strona, aktualny traktat zostanie zaktualizowany.
 
 #ui_treat_termsent
-Request to agree to terminate this treaty sent to the other party!
+Prośba o wyrażenie zgody na rozwiązanie tego traktatu wysłana do drugiej strony!
 
 #b_trtcancelofr
-Cancel offer
+Anuluj ofertę
 
 #b_trtcancelofr_c1
-Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+Twoja propozycja traktatu zostanie anulowana, a druga strona nie będzie już mogła jej przyjąć.
 
 #ui_treat_cancld
-Your treaty proposal was cancelled.
+Twoja propozycja traktatu została anulowana.
 
 #ui_treat_eng1
-You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will lose [x] honor.
+Obecnie jesteś zobowiązany tym traktatem! Jeśli mimo wszystko zdecydujesz się go zakończyć, zostaną zastosowanie wobec Ciebie klauzule dotyczące kar za złamanie. Stracisz [x] honoru.
 
 #ui_treat_eng2
-This will not trigger war with [x].
+To nie wywoła wojny z [x].
 
 #ui_treat_eng3
-This will trigger war with [x].
+To wywoła wojnę z [x].
 
 #ui_treat_end
-You are not engaged by this treaty and can choose to end it without penalty. All it's terms will cease to apply for both members. Are you sure you want to proceed ?
+Nie jesteś zaangażowany w ten traktat i możesz go zakończyć bez ponoszenia kary. Wszystkie jego warunki przestaną obowiązywać obu członków. Na pewno chcesz kontynuować?
 
 #menuevt_title
-EVENTS
+WYDARZENIA
 
 #menuevt_trpow
-% of state power transfered
+% przekazanej mocy państwa
 
 #menuevt_tax
-% of coins income transfered
+% przekazanych dochodów z monet
 
 #menuevt_invalid
-invalid input!
+nieprawidłowe dane wejściowe!
 
 #menuevt_empty
-No events to display
+Brak wydarzeń do wyświetlenia
 
 #menuevt_new
-New events
+Nowe wydarzenia
 
 #menuevt_all
-All events
+Wszystkie zdarzenia
 
 #menuevt_dipl
-Diplomatic
+Dyplomacja
 
 #menuevt_mil
-Military
+Militaria
 
 #menuevt_state
-State
+Państwo
 
 #menuevt_nation
-Nation
+Naród
 
 #menuevt_miss
-Missions
+Misja
 
 #menuevt_ideas
-Ideas
+Pomysły
 
 #menuevt_trade
-Trading
+Handel
 
 #menuevt_objv
-Conditions
+Warunki
 
 #menuevt_rewd
-Effects
+Efekty
 
 #menuevt_prgrs
-current
+obecny
 
 #menuevt_comp
-completed!
+zakończony!
 
 #menuevt_incomp
-incomplete
+niekompletny
 
 #menuevt_trt_no
-Refuse
+Odrzuć
 
 #menuevt_trt_reneg
-Counter-offer
+Kontroferta
 
 #menuevt_trt_yes
-Agree
+Zgódź się
 
 #ui_evt_goto
-GO TO REGION
+PRZEJDŹ DO REGIONU
 
 #ui_form_nb
-Number of units in this formation.
+Liczba jednostek w tej formacji.
 
 #ui_form_threat
-Military strenght of this formation.
-
-#ui_form_threat
-Military strenght of this formation.
+Siła militarna tej formacji.
 
 #ui_form_AP_c1
-Action Points: [x]/100   ([y] [z])
+Punkty akcji: [x] / 100 ([y] [z])
 
 #ui_form_AP_c2
-Required to perform actions such as movements or attacks, these points are regained over time by encamping or by returning to their home region. Below 50 the formation is forced to encamp and cannot perform new actions.
+Wymagane do wykonywania czynności, takich jak ruchy lub ataki, punkty te są z czasem odzyskiwane przez obozowanie lub powrót do ich rodzinnego regionu. Poniżej 50 formacja jest zmuszona obozować i nie może wykonywać nowych akcji.
 
 #ui_form_AP_d1
-- Recovery[y]: [x]
+- Regeneracja [y]: [x]
 
 #ui_form_AP_enc
-encamped
+obozowali
 
 #ui_form_AP_hom
-at home
+w domu
 
 #ui_form_AP_cit
-in city
+w mieście
 
 #ui_form_AP_d2
-- Territory[y]: [x]
+- Terytorium [y]: [x]
 
 #ui_form_AP_enm
-enemy
+wróg
 
 #ui_form_AP_d3
-- Home distance ([y]%): [x]
+- Odległość do domu ([y]%): [x]
 
 #ui_form_movcost
-Basic Action Points cost for moving one territory tile for this formation. This base cost is then combined with other contextual factors to determine the final cost of a movement. 
+Podstawowy koszt w punktach akcji przesunienieńcia dla tej formacji. Ten koszt jest następnie łączony z innymi czynnikami wpyływającymi na ostateczny koszt ruchu.
 
 #ui_form_movcost_d1
-- Base cost: [x]
+- Koszt podstawowy: [x]
 
 #ui_form_movcost_d2
-- Units movement speed: [x]
+- Prędkość ruchu jednostek: [x]
 
 #ui_form_movcost_d3
-- Mounted units only ([y]%): [x]
+- Tylko jednostki konne ([y]%): [x]
 
 #ui_form_movcost_d4
-- Army size ([y]%): [x]
+- Wielkość armii ([y]%): [x]
 
 #ui_tile_movcost
-The movement cost of this territory is used to determine the Action Points cost of units moving through it.
+Koszt ruchu na tym terytorium użyty do określenia kosztu punktów akcji poruszających się po nim jednostek.
 
 #ui_tile_movcost_d1
-- Terrain cost[y]: [x]
+- Koszt terenu [y]: [x]
 
 #ui_tile_movcost_d2
-- Diplomatic stance [y]: [x]
+- Stanowisko dyplomatyczne [y]: [x]
 
 #ui_tile_movcost_ntr
 netural
 
 #ui_tile_movcost_own
-own territory
+własne terytorium
 
 #ui_tile_movcost_frd
-friendly territory
+przyjazne terytorium
 
 #ui_tile_movcost_enm
-enemy territory
+wrogie terytorium
 
 #ui_tile_movcost_set
-is settled
+jest zasiedlone
 
 #ui_form_mltreq
-Requires [x] Porcos in the territory.
+Wymaga [x] wieprzy na terytorium.
 
 #ui_form_mltmiss
-Not enough population to fully pig-up this militia!
+Za mało populacji, aby w pełni obsłużyć tę milicję!
 
 #ui_form_diplo_p1
-This formation is peaceful towards us. 
+Ta formacja jest wobec nas pokojowa.
 
 #ui_form_diplo_p2
-We can safely camp or pass through their territory.
+Możemy bezpiecznie rozbić obóz lub przejść przez ich terytorium.
 
 #ui_form_diplo_h1
-This formation is hostile towards us! 
+To jest wroga nam formacja!
 
 #ui_form_diplo_h2
-If this formation meets any of our units in a same territory or if we try to pass through their current location, it will trigger a battle.
+Jeśli ta formacja spotka którąkolwiek z naszych jednostek na tym samym terytorium lub jeśli spróbujemy przejść przez ich obecną lokalizację, rozpocznie się bitwa.
 
 #ui_form_sprt
-home
+Dom
 
 #ui_form_sprt_c1
-The home city supporting these units: Porcos grow old and need to be replaced by new ones coming from the home city.
+Miasto rodzinne wspierające te jednostki: Wieprze starzeją się i muszą zostać zastąpione nowymi, pochodzącymi z miasta rodzinnego.
 
 #ui_form_sprt_c2
-This formation currently requires [x] porcos per generation from it's home to be maintained.
+Formacja ta obecnie wymaga utrzymania [x] wieprzy na pokolenie ze swojego miasta rodzinnego.
 
 #ui_form_sethome
-Set current territory as home
+Ustaw obecne terytorium jako dom
 
 #ui_form_invhom_1
-You cannot set empty territories as a home: it needs to be a territory you own.
+Nie możesz ustawić pustych terytoriów jako domu: musi to być terytorium, które posiadasz.
 
 #ui_form_invhom_2
-You cannot set foreign territories as a home: it needs to be a territory you own.
+Nie możesz ustawić obcych terytoriów jako domu: musi to być terytorium, które posiadasz.
 
 #ui_form_upkp
-Upkeep of this formation
+Utrzymanie formacji
 
 #ui_form_upkp1
-(equipment + soldier's salary)
+(wyposażenie + wynagrodzenie oddziału)
 
 #ui_form_upkp2
-(lower upkeep for militias: equiment only)
+(wyposażenie + wynagrodzenie żołnierza)
 
 #ui_conf_sure
-Are you sure?
+Jesteś pewny?
 
 #ui_conf_renonce
-WARNING: You will no longer control this territory: left on it's own, this territory will fall into anarchy.
+OSTRZEŻENIE: Nie będziesz już kontrolować tego terytorium: pozostawione bez opieki popadnie w anarchie.
 
 #ui_conf_abandon
-The territory will begin preparing its evactuation. Its a long process. Once completed, the territory will be cleared and all it's population will be transfered in one or more "Migrant" formations, taking all the resources they can carry away with them. Warning: Migrants have a very high maintenance cost!
+Terytorium rozpocznie przygotowania do ewakuacji. To długi proces. Po ukończeniu terytorium zostanie wyczyszczone, a cała jego populacja zostanie przeniesiona do jednej lub więcej formacji „Migrantów”, zabierając ze sobą wszystkie zasoby, które mogą ze sobą zabrać. Ostrzeżenie: migranci mają bardzo wysokie koszty utrzymania!
 
 #ui_conf_capital
-Do you really want to set this territory as your new capital ? 
+Czy naprawdę chcesz ustawić to terytorium jako swoją nową stolicę?
 
 #b_renonce
-Renounce control of this territory
+Zrzeknij się kontroli nad tym terytorium
 
 #err_reg_rnnc1
-This territory cannot be renounced while there is a battle taking place in it.
+Nie można się zrzeknąć terytorium na którym toczy się bitwa.
 
 #err_reg_rnnc2
-This territory cannot be renounced while it has an active resistance movement.
+Nie można się zrzeknąć terytorium na którym jest aktywny ruch oporu.
 
 #err_reg_rnnc3
-The current status of this territory doesn't allow you to renounce to its control.
+Obecny stan tego terytorium nie pozwala na zrzeczenie się.
 
 #b_abandon
-Evacuate this territory
+Ewakuuj to terytorium
 
 #err_reg_abdn1
-This territory cannot be evacutated while there is a battle taking place in it.
+Nie można się ewakuować terytorium na którym toczy się bitwa.
 
 #err_reg_abdn2
-This territory cannot be evacutated because it's loyalty is too low.
+Nie można się ewakuować terytorium ponieważ lojalność jest zbyt niska.
 
 #err_reg_abdn3
-This territory cannot be evacutated while it has an active resistance movement.
+Nie można się ewakuować terytorium na którym jest aktywny ruch oporu.
 
 #err_reg_abdn4
-The current status of this territory doesn't allow you to order its evacuation.
+Obecny stan tego terytorium nie pozwala na zarządzenie jego ewakuacji.
 
 #err_reg_abdn5
-This territory is already being evacuated!
+To terytorium jest już ewakuowane!
 
 #b_regclaim
-Claim territory
+Zajmij to terytorium
 
 #b_regunclaim_1
-You can unclaim this territory: it will become free of any ownership.
+Możesz porzucić to terytorium: stanie się ono wolne od jakiejkolwiek własności.
 
 #b_regunclaim_2
-WARNING: By willingly revoking this claim you will lose 2 of Honor!
+OSTRZEŻENIE: dobrowolne odwołanie tego roszczenia spowoduje utratę 2 punktów Honoru!
 
 #regclaim_title
-Claiming territory...
+Zajmowanie terytorium ...
 
 #regclaim_txt
-You can claim this territory and attach it to one of your regions. This will cost Administration to the region's main city. If your city runs out of Administration, you will automatically lose your claims (note that unclaiming territories comes with a small Honor penalty).
+Możesz przejąć to terytorium i dołączyć je do jednego ze swoich regionów. Będzie to kosztować administrację głównego miasta regionu. Jeśli w Twoim mieście zabraknie administracji, automatycznie utracisz roszczenia (pamiętaj, że nieodebranie terytoriów wiąże się z niewielką karą honoru).
 
 #regclaim_par
-Parent territory
+Terytorium rodzicielskie
 
 #regclaim_err1
-You cannot claim this territory because its currently occupied by foreign units!
+Nie możesz przejąć tego terytorium, ponieważ jest ono obecnie okupowane przez obce jednostki!
 
 #regclaim_err2
-Insufficient Administration! You cannot claim any new territories with this region.
+Niewystarczająca administracja! Nie możesz przejmować żadnych nowych terytoriów w tym regionie.
 
 #regclaim_err3
-Colonies cannot claim new territories!
+Kolonie nie mogą przejmować nowych terytoriów!
 
 #regclaim_acst
-Administration cost
+Koszt administracji
 
 #regclaim_acst_c1
-Maintaining this claim will cost [x] of Administration from the parent territory.
+Utrzymanie tego roszczenia będzie kosztować [x] administracji z terytorium rodzica.
 
 #b_movcapit
-Set this territory as capital
+Ustaw to terytorium jako stolicę
 
 #b_actv_trt_perm
-permanent engagement
+stałe okupowanie
 
 #b_actv_trt_engov
-engagement over
+okupowanie skończyło sie
 
 #b_actv_trt_eng
-engaged for
+okupowany przez
 
 #b_actv_trt_pend1
-pending: waiting for your reply...
+w toku: czekam na Twoją odpowiedź...
 
 #b_actv_trt_pend2
-pending: waiting for other's response...
+w toku: czekam na odpowiedź innej osoby...
 
 #b_actv_trt_m1
-You
+Ty
 
 #b_actv_trt_m2
-Other
+Inny
 
 #b_actv_trt_brk
-breaker
+Złamany
 
 #b_actv_trt_wbrk1
-You will be breaking
+Będziesz złamany
 
 #b_actv_trt_wbrk2
-[x] will be breaking
+[x] będzie złamany
 
 #b_actv_trt_brkcl1
-with no breaking clauses
+bez złamania klauzuri
 
 #b_actv_trt_brkcl2
-triggering breaking clauses of
+wyzwalanie złamania klauzuli
 
 #b_actv_trt_cancel
-cancel treaty
+anulować traktat
 
 #ui_wrldmov_er1
-Insufficient Action Points to perform this action yet!
+Za mało punktów akcji, aby wykonać ten ruch!
 
 #ui_wrldmov_er2
-You cannot move here.
+Nie możesz się tu przenieść.
 
 #ui_wrldmov_er3
-This formation is currently immmobilized and cannot move!
+Ta formacja jest obecnie unieruchomiona i nie może się ruszać!
 
 #ui_wrldmov_er4
-You cannot move here because you have no right of passage with the owner of this territory!
+Nie możesz się tu przenieść, ponieważ nie masz prawa do przejścia z właścicielem tego terytorium!
 
 #ui_wrldmov_er5
-This formation cannot break camp until it has at least 50 Action Points.
+Ta formacja nie może rozbić obozu, dopóki nie będzie miała co najmniej 50 punktów akcji.
 
 #ui_wrldmov_erxplr
-This formation cannot explore new territories.
+Ta formacja nie może eksplorować nowych terytoriów.
 
 #formimob_er1
-You cannot give any orders to this formation because its currently immobilized!
+Nie możesz wydawać rozkazów tej formacji, ponieważ jest ona obecnie unieruchomiona!
 
 #ui_bdg_nbprod
-Number of workers that are assigned to production.
+Liczba pracowników przypisanych do produkcji.
 
 #ui_bdg_nbdstb
-Number of workers assigned to selling the produced goods of this building.
+Liczba pracowników przydzielonych do sprzedaży towarów wyprodukowanych w tym budynku.
 
 #ui_bdg_nbrsrch
-Number of workers busy with current research projects.
+Liczba pracowników zaangażowanych w bieżące projekty badawcze.
 
 #ui_bdg_nbrsrch2
-[x] [y] out of [z] in this territory are currently assigned to research projects.
+[x] [y] z [z] na tym terytorium jest obecnie przeznaczonych do projektów badawczych.
 
 #ui_bdg_ef_dscr
-Current efficiency of workers, affecting the total workforce of the building.
+Bieżąca wydajność pracowników, wpływająca na całkowitą siłę roboczą budynku.
 
 #ui_bdg_wf_dscr
-Total amount of work that this building can currently get done.
+Całkowita ilość pracy, jaką ten budynek może obecnie wykonać.
 
 #ui_bdg_wf_dscr2
-[x] producing workers * [y] efficiency = [z] of total workforce
+[x] pracowników produkuje * [y] wydajności = [z] całkowitej siły roboczej
 
 #ui_bdg_wl_dscr
-How much this building contributes to the total territory's wealth.
+Jak bardzo ten budynek przyczynia się do bogactwa całego terytorium.
 
 #ui_bdg_wl_dscr2
-[x] of producing workforce * [y] = [z] of additionnal wealth
+[x] siły roboczej * [y] = [z] dodatkowego bogactwa
 
 #ui_bdg_wu_dscr
-How much of the available workforce is currently being used and busy producing.
+Jaka część dostępnej siły roboczej jest obecnie wykorzystywana i zajęta produkcją.
 
 #ui_bdg_wu_dscr2
-If below 100%, it means the workers are not working at their full capacity.
+Jeśli poniżej 100%, oznacza to, że pracownicy nie pracują na pełnych obrotach.
 
 #ui_bdg_ef1_dscr
-The base efficiency of the building itself.
+Podstawowa efektywność samego budynku.
 
 #ui_bdg_ef1_dscr2
-Can be increased by upgrading the building, unlocked by technologies.
+Można go zwiększyć poprzez ulepszenie budynku, odblokowane dzięki technologiom.
 
 #ui_bdg_ef2_dscr
-Total effect of the state on this building's efficiency.
+Całkowity wpływ stanu na efektywność tego budynku.
 
 #ui_bdg_ef2_dscr2
-Many state policies affect the efficiency of buildings.
+Wiele edyktów państwowych wpływa na efektywność budynków.
 
 #ui_bdg_ef3_dscr
-The building's placement effect on it's efficiency.
+Wpływ położenia budynku na jego wydajność.
 
 #ui_bdg_ef3_dscr2
-Road connection and proximity of certain other buildings can affect it's efficieny [not implemented yet].
+Połączenie drogowe i bliskość niektórych innych budynków może wpłynąć na jego efektywność [jeszcze nie wdrożone].
 
 #ui_bdg_ef4_dscr
-If unprofitable for its workers, efficiency of the building is progressively reduced.
+Jeśli budynek jest nieopłacalny dla pracowników, efektywność budynku jest stopniowo zmniejszana.
 
 #ui_bdg_proddet
-PRODUCTION DETAILS
+SZCZEGÓŁY PRODUKCJI
 
 #ui_bdg_pdet_1
-sold directly
+sprzedawane bezpośrednio
 
 #ui_bdg_pdet_1_c
-[x]% of the production is put on the market directly by the workers of this building.
+[x]% produkcji jest wprowadzane na rynek bezpośrednio przez pracowników tego budynku.
 
 #ui_bdg_pdet_s
-[x]% of it ([y]) is successfuly sold at a price of [z] per unit (unsold stocks are lost).
+[x]% z tego ([y]) jest z powodzeniem sprzedawane po cenie [z] za sztukę (niesprzedane zapasy są tracone).
 
 #ui_bdg_pdet_2
-sold via traders
+sprzedawane za pośrednictwem handlowców
 
 #ui_bdg_pdet_2_c
-[x]% of the production is put on the market via traders who keep a share of the benefits.
+[x]% produkcji jest wprowadzane na rynek za pośrednictwem handlowców, którzy zachowują część korzyści.
 
 #ui_bdg_pdet_3
-sold to producers
+sprzedawane producentom
 
 #ui_bdg_pdet_3_c
-[x]% of the production is sold to other industries or services.
+[x]% produkcji jest sprzedawane do innych gałęzi przemysłu lub usług.
 
 #ui_bdg_pdet_4
 exported
 
 #ui_bdg_pdet_4_c
-[x]% of the production is exported to foreign markets
+[x]% produkcji jest eksportowane na rynki zagraniczne
 
 #ui_bdg_pdet_5
-state sales
+sprzedaż nieruchomości
 
 #ui_bdg_pdet_5_c1
-Incomes from sales to the state can be direct (when state is auto-purchasing) or buffered (when private resources are purchased occasionally by the state). Buffered income is then slowly distributed back to the workers, spreading income over a longer time period.
+Przychody ze sprzedaży na rzecz państwa mogą być bezpośrednie (gdy państwo kupuje automatycznie) lub buforowane (gdy państwo kupuje czasami zasoby prywatne). Buforowany dochód jest następnie powoli rozdzielany z powrotem między pracowników, rozkładając dochód na dłuższy okres czasu.
 
 #ui_bdg_pdet_5_c2
-From auto-purchases: [x] coins ([y] resources).
+Z zakupów automatycznych: [x] monet ([y] zasobów).
 
 #ui_bdg_pdet_5_c3
-From buffered incomes: [x] coins ([y] coins in reserve).
+Z dochodów buforowych: [x] monet ([y] monet w rezerwie).
 
 #ui_bdg_pdet_6
-production cost
+koszt produkcji
 
 #ui_bdg_pdet_6_c
-Expenses to buy required materials for the production.
+Koszty zakupu materiałów potrzebnych do produkcji.
 
 #ui_bdg_pdet_7
-total income
+całkowity przychód
 
 #ui_bdg_pdet_7_c
-The total gross income (before taxes) for this production.
+Całkowity dochód brutto (przed opodatkowaniem) dla tej produkcji.
 
 #ui_bdgbudget_1
-sales
+sprzedaż
 
 #ui_bdgbudget_1_c
-Total raw income from all sales made by the building.
+Całkowity przychód ze sprzedaży całego budynku.
 
 #ui_bdgbudget_2
-production cost
+koszt produkcji
 
 #ui_bdgbudget_2_c
-The cost of all required materials for production, if any.
+Koszt wszystkich materiałów potrzebnych do produkcji, jeśli takie istnieją.
 
 #ui_bdgbudget_3
-taxes
+podatki
 
 #ui_bdgbudget_3_c
-Amount of income taxed by the state (you). This is the actual income this building's activity generates for you.
+Kwota dochodu opodatkowana przez państwo (Ciebie). To jest rzeczywisty dochód, jaki generuje dla ciebie ten budynek.
 
 #ui_bdgbudget_4
-worker's income
+dochód pracownika
 
 #ui_bdgbudget_4_c
-The net income left after all costs and taxes, shared between all the workers employed by this building.
+Dochód netto pozostały po wszystkich kosztach i podatkach, podzielony między wszystkich pracowników zatrudnionych w tym budynku.
 
 #ui_bdgbudget_5
-producer's share
+udział producenta
 
 #ui_bdgbudget_5_c
-The share of the sales that goes back to the producers of the resources: merchants only pay them depending on the sales and unsold stocks are not paid.
+Część sprzedaży, która wraca do producentów zasobów: kupcy płacą im tylko w zależności od sprzedaży, a niesprzedane zapasy nie są opłacane.
 
 #ui_bdgind_nbprd1
-The current number of productions, depending on the buidlings's workforce and required materials availablity.
+Aktualna liczba produkcji w zależności od siły roboczej w budynku i wymaganej dostępności materiałów.
 
 #ui_bdgind_nbprd2
-Each production generates [x] units of [y] and require [z] of workforce. 
+Każda produkcja generuje [x] jednostek [y] i wymaga [z] siły roboczej.
 
 #ui_bdgind_prcnt1
-The current production rate, depending of all the required material's availabilities.
+Bieżące tempo produkcji w zależności od dostępności wszystkich wymaganych materiałów.
 
 #ui_bdgind_prcnt2
-[x]% of the total workforce of [y] is working = [z] of productive workforce.
+[x]% całkowitej siły roboczej [y] pracuje = [z] produktywnej siły roboczej.
 
 #ui_bdgind_curprod
-Currently producing [x] units of [y] [z].
+Obecnie produkuje [x] jednostek [y] [z].
 
 #ui_bdgind_curcons
-Currently consumming [x] units of [y] [z] for this production.
+Obecnie konsumuje [x] jednostek [y] [z] dla tej produkcji.
 
 #ui_bdgind_mat1
-Set to use [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+Ustaw do użycia [x] jako materiału do produkcji [y]. Zapotrzebowanie na ten materiał jest zaspokojone w [z]%.
 
 #ui_bdgind_mat2
-Automatically using [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+Automatyczne używanie [x] jako materiału do produkcji [y]. Zapotrzebowanie na ten materiał jest zaspokojone w [z]%.
 
 #ui_bdgind_recip
-It takes [x] of [y] for every unit of [z] produced.
+Potrzeba [x] z [y] na każdą wyprodukowaną jednostkę [z].
 
 #ui_bdgind_recip2
-Cultural effect: materials [x]%
+Efekt kulturowy: materiały [x]%
 
 #ui_bdgind_byprod
-Producing [x] [y] as byproducts.
+Produkcja [x] [y] jako produktów ubocznych.
 
 #ui_bdgcstr_title
-In construction...
+W budowie...
 
 #ui_bdgcstr_self
-Self-constructing
+Samokonstrukcja
 
 #ui_bdgcstr_self_c
-Some simple buildings can be built without professional builders, and will self construct even without any.
+Niektóre proste budynki można zbudować bez profesjonalnych konstruktorów i będą one budowane samodzielnie.
 
 #ui_bdgcstr_bdrs
-Builders
+Budowniczowie
 
 #ui_bdgcstr_bdrs_c
-The amount of construction work this building is currently getting from from professional builders.
+Ilość prac budowlanych wykonywanych obecnie przez profesjonalnych budowniczych tego budynku.
 
 #ui_regres_inv
-Inventory
+Ekwipunek
 
 #ui_regres_inv_c
-Listing all the resources and services of this territory.
+Lista wszystkich zasobów i usług na tym terytorium.
 
 #ui_regres_mtrd
-Market trades
+Transakcje rynkowe
 
 #ui_regres_mtrd_c
-To buy and sell stocks of resources
+Kup i sprzedaj zapasy zasobów
 
 #ui_regres_trt
-Trade routes
+Szlaki handlowe
 
 #ui_regres_trt_c
-To transfer a constant flux of resources between territories.
+Aby przenieść stały przepływ zasobów między terytoriami.
 
 #ui_regres_addrt
-New trade route
+Nowy szlak handlowy
 
 #ui_regres_buysell
-Buy and sell
+Kup i sprzedaj
 
 #ui_regres_totimp
-Importations
+Import
 
 #ui_regres_totimp_c1
-Imported goods are bought by you at their trade route price and are then sold in the territory at their local price.
+Importowane towary są kupowane przez Ciebie po cenie ich szlaku handlowego, a następnie sprzedawane na terytorium po cenie lokalnej.
 
 #ui_regres_totimp_c2
-Purchasing cost from the trade route:
+Koszt zakupu na szlaku handlowym:
 
 #ui_regres_totimp_c3
-Local sales:
+Sprzedaż lokalna:
 
 #ui_regres_totimp_c4
-Purchased cargo:
+Zakupiony ładunek:
 
 #ui_regres_totexp
-Exportations
+Eksport
 
 #ui_regres_totexp_c1
-Exported goods are bought by you at their local price from the producers of this territory and are then sold at their trade route price to the importer.
+Eksportowane towary są kupowane przez Ciebie po ich lokalnej cenie od producentów z tego terytorium, a następnie sprzedawane importerowi po ich cenie handlowej.
 
 #ui_regres_totexp_c2
-Purchasing cost from local producers:
+Koszt zakupu od lokalnych producentów:
 
 #ui_regres_totexp_c3
-Income from trade route sales:
+Dochód ze sprzedaży szlaków handlowych:
 
 #ui_regres_totexp_c4
-Sold cargo:
+Sprzedany ładunek:
 
 #ui_regres_totexp_c4w
-Selling at a loss! Local Cargo price higher than in the trade routes
+Sprzedaż ze stratą! Cena lokalna jest wyższa niż na szlakach handlowych
 
 #ui_regres_addofr
-SEND ORDER
+WYŚLIJ ZAMÓWIENIE
 
 #ui_regres_selres
-Select a resource type
+Wybierz typ zasobu
 
 #ui_regres_trsf
 TRANSFER
 
 #ui_regres_trsf_c1
-Setup a continuous transfer of resources between your territories. 
+Skonfiguruj ciągły transfer zasobów między swoimi terytoriami.
 
 #ui_regres_trsf_c2
-These offers are not visible to your trading network and can only be taken by your own territories.
+Oferty te nie są widoczne dla Twojej sieci handlowej i mogą być przyjmowane tylko przez Twoje terytoria.
 
 #ui_regres_imp
 IMPORT
 
 #ui_regres_imp_c1
-View existing offers in your trading network of territories offering the exportation of a continuous transfer of resources.
+Przeglądaj istniejące oferty w Twojej sieci handlowej terytoriów oferujących eksport ciągłego transferu zasobów.
 
 #ui_regres_exp
 EXPORT
 
 #ui_regres_exp_c1
-Offer a continuous transfer of resources to other territories of your trading network.
+Oferuj ciągły transfer zasobów do innych terytoriów swojej sieci handlowej.
 
 #ui_regres_exp_c2
-These offers are public and can be taken by anyone in your trading network.
+Oferty te są publiczne i mogą być przyjmowane przez każdego w Twojej sieci handlowej.
 
 #ui_regres_buy
-BUY
+KUP
 
 #ui_regres_sell
-SELL
+SPRZEDAJ
 
 #ui_regres_imps
-Current importations
+Aktualne importy
 
 #ui_regres_exps
-Current exportations
+Aktualne eksporty
 
 #ui_regres_oper
-Operated trade routes
+Obsługiwane szlaki handlowe
 
 #ui_regres_makeav
-Public Cargo
+Publiczny ładunek
 
 #ui_regres_makeav_c
-If enabled, the cargo service of this territory will also be available to anyone in your trading network to use to operate their own trade routes.
+Jeśli ta opcja jest włączona, usługa cargo na tym terytorium będzie również dostępna dla każdego w Twojej sieci handlowej, aby mógł obsługiwać własne szlaki handlowe.
 
 #ui_regres_tax
-tax
+podatek
 
 #ui_regres_tax_c
-Taxing a percentage of the total value of all goods of every trade route operated by this city.
+Opodatkowanie procentu całkowitej wartości wszystkich towarów na każdym szlaku handlowym obsługiwanym przez to miasto.
 
 #ui_regres_pndng
-Our offers
+Nasze oferty
 
 #ui_regres_buying
-Buying in [x]
+Kupowanie w [x]
 
 #ui_regres_selling
-Selling in [x]
+Sprzedaż w [x]
 
 #ui_regres_prod
-Production
+Produkcja
 
 #ui_regres_bal
-In stock
+Na stanie
 
 #ui_regres_lprc
-Local price
+Cena lokalna
 
 #ui_regres_atprc
-Limit price
+Limit ceny
 
 #ui_regres_amnt
-Amount
+Ilość
 
 #ui_regres_noinp
-[type a resource name]
+[wpisz nazwę zasobu]
 
 #ui_newofr_noprod
-You cannot export this resource because you do not have any production or stocks of it.
+Nie możesz eksportować tego surowca, ponieważ nie masz wystarczającej produkcji ani zapasu.
 
 #ui_newofr_notrd
-Not enough trading service to create this offer!
+Za mało usług handlowych, aby stworzyć tę ofertę!
 
 #ui_newofr_sent
-New trade order sent!
+Wysłano nowe zlecenie handlowe!
 
 #ui_regres_pndng2
-Our current trade-route offers:
+Nasz aktualny szlak handlowy oferuje:
 
 #ui_regres_off1
-Available offers in our trading network:
+Dostępne oferty w naszej sieci handlowej:
 
 #ui_regres_off2
-Competing offers in our trading network:
+Konkurencyjne oferty w naszej sieci handlowej:
 
 #ui_regres_cancel
-Cancel trade offer
+Anuluj ofertę handlową
 
 #button_trtimp_c1
-You are currently importing [x] from [y] into [z].
+Obecnie importujesz [x] z [y] do [z].
 
 #button_trtexp_c1
-You are currently exporting [x] from [y] to [z].
+Obecnie eksportujesz [x] z [y] do [z].
 
 #button_trtcargo
-Requiring [x] of Cargo, operated by [y]. 
+Wymaganie [x] ładunku, obsługiwanego przez [y].
 
 #ui_ofrcanceled
-Trade offer canceled!
+Oferta wymiany anulowana!
 
 #ui_troute_opnw
-Opening new trade route...
+Otwarcie nowego szlaku handlowego ...
 
 #ui_troute_optr
-Trade route operator
+Operator szlaków handlowych
 
 #ui_troute_dscr
-A trade route transfers a constant flux of resources between cities. It requires a cargo service to operate. 
+Szlak handlowy przenosi stały przepływ zasobów między miastami. Do działania wymaga usługi cargo.
 
 #ui_troute_opdscr1
-The trade route operator is the city dealing with the transportation of the goods.
+Operatorem szlaku handlowego jest miasto zajmujące się transportem towarów.
 
 #ui_troute_opdscr2
-It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
+Może to być miasto otwierające szlak handlowy lub jakiekolwiek inne miasto w twojej sieci handlowej, które udostępniło niektóre usługi cargo.
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route's distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+Koszt ładunku jest wykładniczy w stosunku do odległości szlaku handlowego. Wybór miasta zewnętrznego znajdującego się na środku szlaku handlowego, ponieważ operator znacznie obniży koszt ładunku. 
 
 #ui_troute_vol
-Cargo volume
+Objętość ładunku
 
 #ui_troute_cargorq
-CARGO REQUIRED
+WYMAGANY ŁADUNEK
 
 #ui_troute_cargorq_c1
-The amount of cargo service needed to operate this trade route.
+Ilość usług cargo potrzebnych do obsługi tego szlaku handlowego.
 
 #ui_troute_cargorq_c2
-distance factor * cargo volume
+współczynnik odległości * objętość ładunku
 
 #ui_troute_distf
-Distance factor
+Współczynnik odległości
 
 #ui_troute_distf_c1
-This factor depends of the longest of the 2 distances between the operator and each one of the trade route's destinations. 
+Czynnik ten zależy od największej z 2 odległości między operatorem a każdym z docelowych miejsc szlaku handlowego.
 
 #ui_troute_distf_c2
-longest distance from operator
+najdłuższa odległość od operatora
 
 #ui_troute_opetax
-OPERATOR TAX
+PODATEK OPERATORA
 
 #ui_troute_opetax_c1
-A trade route operator may also tax a percentage of the value of all goods transiting through their territory.
+Operator szlaku handlowego może również opodatkować procent wartości wszystkich towarów przewożonych przez jego terytorium.
 
 #ui_troute_maxava
-Cargo available
+Dostępny ładunek
 
 #ui_troute_maxava_c1
-The amount of cargo service currently available in the operator's territory.
+Ilość usług cargo aktualnie dostępnych na terytorium operatora.
 
 #ui_troute_basevol
-Base volume
+Głośność podstawowa
 
 #ui_troute_basevol_c1
-The base cargo volume needed for this trade route, which is the sum of the cargo volume of all the transported resources.
+Podstawowa objętość ładunkowa potrzebna na tym szlaku handlowym, która jest sumą objętości ładunkowej wszystkich przewożonych zasobów.
 
 #ui_troute_edit
-Editing existing trade route...
+Edycja istniejącego szlaku handlowego ...
 
 #ui_troute_apl1
-Open trade route
+Otwarty szlak handlowy
 
 #ui_troute_apl2
-Apply
+Zastosuj
 
 #ui_troute_cgcost_c1
-Total cost of cargo using this territory as the trade route operator.
+Całkowity koszt ładunku wykorzystującego to terytorium jako operatora szlaku handlowego.
 
 #ui_troute_totcost
-TOTAL COST
+CAŁKOWITY KOSZT
 
 #ui_troute_totcost_c1
-The total cost of maintaining this trade route.
+Całkowity koszt utrzymania tego szlaku handlowego.
 
 #ui_troute_totinc
-TOTAL INCOME
+CAŁKOWITY PRZYCHÓD
 
 #ui_troute_totinc_c1
-The total income from this trade route.
+Całkowity dochód z tego szlaku handlowego.
 
 #ui_troute_bdgtdscr1
-The state pays and owns the entirety of the imported goods from the exporting city, regardless of their later use.
+Państwo płaci i jest właścicielem całości importowanych towarów z miasta eksportującego, niezależnie od ich późniejszego wykorzystania.
 
 #ui_troute_bdgtdscr2
-All the later incomes made locally from the selling of these goods are then entirely for the state.
+Wszystkie późniejsze dochody uzyskane lokalnie ze sprzedaży tych towarów są liczą się dla państwa.
 
 #ui_troute_bgc
-goods cost
+koszt towarów
 
 #ui_troute_bgc_c1
-The cost of purchasing goods to the exporting city.
+Koszt zakupu towarów do miasta eksportującego.
 
 #ui_troute_binc
-goods income
+dochód z towarów
 
 #ui_troute_binc_c1
-The income generated from the selling of the trade route goods.
+Dochód ze sprzedaży towarów w ramach szlaku handlowego.
 
 #ui_troute_bcc
-cargo cost
+koszt ładunku
 
 #ui_troute_bcc_c1
-The cost of the cargo service purchased to the trade route operator.
+Koszt usługi cargo wykupionej na rzecz operatora szlaku handlowego.
 
 #ui_troute_bt
-operator tax
+podatek od operatora
 
 #ui_troute_bt_c1
-The amount paid to the operator taxing goods transiting through their city.
+Kwota zapłacona operatorowi opodatkowującemu towary przewożone przez jego miasto.
 
 #ui_troute_open
-Opened a new trade route!
+Otwarto nowy szlak handlowy!
 
 #ui_troute_err1
-Cannot open trade route because the selected operator cannot provide the required cargo service!
+Nie można otworzyć trasy handlowej, ponieważ wybrany operator nie może zapewnić wymaganej usługi ładunkowej!
 
 #ui_troute_close
-Close this trade route
+Zamknij ten szlak handlowy
 
 #menu_nfrm_title
-Creating a new formation...
+Tworzenie nowej formacji ...
 
 #menu_nfrm_fname
-Formation's name
+Nazwa formacji
 
 #menu_nfrm_chtp
-Select a type of formation
+Wybierz rodzaj formacji
 
 #menu_nfrm_type1
-Army
+Armia
 
 #menu_nfrm_t1_dscr_1
-An army is composed by permanently mobilized units, costing upkeep.
+Armia składa się z stale zmobilizowanych jednostek, które kosztują utrzymanie.
 
 #menu_nfrm_t1_dscr_2
-They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+Wymagają stałego wsparcia ze strony swojego domu, aby zastąpić starzejące się wieprzy, a rekrutacja nowych jednostek usuwa je z terytorium.
 
 #menu_nfrm_t1_dscr_3
-Armies can move into other territories and their presence increases state authority.
+Armie mogą wkroczyć na inne terytoria, a ich obecność zwiększa autorytet państwa.
 
 #menu_nfrm_type2
-Militia
+Milicja
 
 #menu_nfrm_t2_dscr_1
-A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+Milicja składa się z ludności samego terytorium, która mobilizuje się do obrony terytorium tylko wtedy, gdy zostanie zaatakowane.
 
 #menu_nfrm_t2_dscr_2
-Militias don't monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Milicja nie mobilizuje na stałe wieprzy, co pozwala im utrzymać pracę, a jej utrzymanie jest niższe, ponieważ żołnierze nie wymagają pensji.
 
 #menu_nfrm_t2_dscr_3
-However , the militia cannot move to other territory s and decreases the state authority.
+Jednak milicja nie może przenieść się na inne terytorium i zmniejsza władzę państwową.
 
 #menu_nfrm_type3
-National army
+Armia narodowa
 
 #menu_nfrm_t3_1
-A national army is similar to a regular army except that its also controllable by any of your superiors in your Nation's hierarchy, allowing you to delegate its control in case of national wars and operations.
+Armia narodowa jest podobna do zwykłej armii, z tym wyjątkiem, że może być kontrolowana przez któregokolwiek z twoich przełożonych w hierarchii twojego państwa, co pozwala Ci delegować kontrolę w przypadku wojen i operacji narodowych.
 
 #menu_nfrm_t3_2
-National armies also give their authority bonus to all regions of the Nation, even if its owned by a different character.
+Armie narodowe dają również bonus do autorytetu wszystkim regionom państwa, nawet jeśli należą do innej postaci.
 
 #menu_nfrm_t3_3
-Note that you can convert a regular army into a National one at will and vice-versa.
+Pamiętaj, że możesz dowolnie przekształcić zwykłą armię w armię narodową i odwrotnie.
 
 #form_atfct
-Artifact
+Artefakt
 
 #form_atfct_dscr_1
-This is a special artifact. As an inanimate object it belongs to whoever currently controls it. It cannot be destroyed, recruited, or transfered into formations.
+To jest specjalny artefakt. Jako przedmiot nieożywiony należy do tego, kto go obecnie kontroluje. Nie można go zniszczyć, zrekrutować ani przenieść do formacji.
 
 #form_atfct_dscr_2
-Ownership of it can be aquired by any of your formations located on the same territory and claiming it, but it's only possible if the current owner has no formation of his own 'guarding' it as well.
+Jego własność może przejąć dowolna z twoich formacji znajdujących się na tym samym terytorium i przejmując ją, ale jest to możliwe tylko wtedy, gdy obecny właściciel również nie ma własnej formacji „pilnującej”.
 
 #form_atfct_dscr_3
-Ownership can be lost in the same way.
+Prawo własności można stracić w ten sam sposób.
 
 #form_sttlrs
-Settlers
+Osadnicy
 
 #form_sttlrs_dscr_1
-Settlers are civiian formations that can recruit civilian population to settle new territories.
+Osadnicy to formacje cywilne, które mogą rekrutować ludność cywilną do zasiedlania nowych terytoriów.
 
 #form_migrnts
-Migrants
+Migranci
 
 #form_migrnts_dscr_1
-Migrants are special civilian formations of population without a home. They can settle new territories, do not require any home support and can recover their AP without any distance penalties but they cost extra State Power and upkeep.
+Migranci to specjalne cywilne formacje ludności bez domu. Mogą zasiedlać nowe terytoria, nie wymagają wsparcia ze strony domu i mogą odzyskać swoje AP bez kar za dystans, ale kosztują dodatkowe władze państwową i utrzymanie.
 
 #form_migrnts_dscr_2
-Migrants are created when a territory is evacuated.
+Migranci powstają, gdy terytorium jest ewakuowane.
 
 #form_nomad
-Nomads
+Nomadzi
 
 #form_nomad_dscr_1
-Nomads do not require any home support and can recover their AP without any distance penalties. They're also able to settle new territories.
+Nomadzi nie potrzebują żadnego wsparcia z domu i mogą odzyskać swoje AP bez kar za dystans. Potrafią też zasiedlać nowe terytoria.
 
 #menu_trbuy_title
-Buying resource...
+Kupowanie zasobu...
 
 #menu_trbuy_buy
-BUY
+KUP
 
 #menu_trbuy_cost
-Purchase cost
+Koszt zakupu
 
 #menu_trbuy_bght
-Bought [x] of [y] for [z] coins!
+Kupiono [x] z [y] za [z] monet!
 
 #ui_evidea_yes
-<<Yes, let's see what they need for this project!>>
+<< Tak, zobaczmy, czego potrzebują do tego projektu! >>
 
 #ui_evidea_no
-<<This is a waste of time.>>
+<< To strata czasu. >>
 
 #menu_bdg_up_err1
-You're missing [x] of [y] to upgrade this building to [z].
+Brakuje [x] z [y], aby ulepszyć ten budynek do [z].
 
 #menu_bdg_up_err2
-You do not have enough coins to upgrade this building to [x].
+Nie masz wystarczającej liczby monet, aby ulepszyć ten budynek do [x].
 
 #menu_bdg_up_err3
-This upgrade requires professionnal construction and you do not have any builders!
+To ulepszenie wymaga profesjonalnej konstrukcji i nie masz żadnych konstruktorów!
 
 #menu_tch_curknw
-Current knowledges
+Bieżąca wiedza
 
 #menu_tch_curuse
-Knowledge use
+Wykorzystana wiedza
 
 #menu_tch_curuse_c1
-Your societe currently has [x] of knowledges, and a capacity to store [y].
+Twoje społeczeństwo ma obecnie [x] wiedzy i jest w stanie przechowywać [y].
 
 #menu_tch_curuse_c2
-You will lose knowledges if your storage capacity gets lower than your current knowledges.
+Stracisz wiedzę, jeśli pojemność Twojej pamięci spadnie poniżej aktualnej wiedzy.
 
 #menu_tch_str_cult
-Culture
+Kultura
 
 #menu_tch_str_cult1
-Culture gives you knowledge storage capacity, proportionally to your total culture.
+Kultura daje ci możliwość przechowywania wiedzy, proporcjonalnie do Twojej kultury całkowitej.
 
 #menu_tch_str_lbr
-Libraries
+Biblioteki
 
 #menu_tch_str_lbr1
-Each library building in service increases your knowledge storage capacity.
+Każdy budynek biblioteki zwiększa możliwości przechowywania wiedzy.
 
 #menu_tch_prjcts
-Projects
+Projekty
 
 #menu_tch_prj_cur
-Current Projects
+Bieżące projekty
 
 #menu_tch_prj_avail
-Available Projects
+Dostępne projekty
 
 #menu_tch_prj_dnd
-Rejected Projects
+Odrzucone projekty
 
 #menu_tch_prj_rwd
-Project rewards:
+Nagrody za projekt:
 
 #menu_tch_prj_newtech
-Discovery of
+Odkrycie
 
 #menu_tch_prj_cltrskl
-New Cultural Skill
+Nowa umiejętność kulturowa
 
 #menu_tch_prj_cltrskl_c
-Upon successful completion, this new Cultural Skill will be adopted (unless its already active), costing you [x] Civilization Points.
+Po pomyślnym ukończeniu umiejętność kulturowa zostanie przyjęta (chyba że jest już aktywna), co będzie kosztowało [x] punktów cywilizacji.
 
 #menu_tch_prj_res
-Ressources reward
+Nagroda za zasoby
 
 #menu_prj_inpgr
-In progress...
+W trakcie...
 
 #menu_prj_new
-New project...
+Nowy projekt...
 
 #menu_prj_req
-Starting requirements:
+Wymagania początkowe:
 
 #menu_prj_reqkn
-You need [x] free space of knowledges to launch this project.
+Aby uruchomić ten projekt, potrzebujesz [x] wolnego miejsca na wiedzę.
 
 #menu_prj_reqcp
-You need [x] available Civilization Points to launch this project.
+Aby uruchomić ten projekt, potrzebujesz [x] dostępnych Punktów Cywilizacji.
 
 #menu_prj_rcoin1
-Project base cost: [x] coins
+Podstawowy koszt projektu: [x] monet
 
 #menu_prj_rcoin2
-Required  materials cost: [x] coins
+Wymagany koszt materiałów: [x] monet
 
 #menu_prj_rmat1
-Requires [x] of [y]
+Wymaga [x] z [y]
 
 #menu_prj_rmat2
-Currently in [x]: [y]/[z]
+Obecnie w [x]: [y] / [z]
 
 #menu_prj_rmat3
-(click to select a different territory)
+(kliknij, aby wybrać inne terytorium)
 
 #menu_prj_start
-START PROJECT
+ROZPOCZNIJ PROJEKT
 
 #menu_prj_diff
-Difficulty
+Trudność
 
 #menu_prj_work
-Research
+Badania
 
 #menu_prj_rschrs
-Researchers
+Badacze
 
 #menu_prj_rwk
-Work
+Praca
 
 #menu_prj_rwk_c1
-All the assigned researchers currently generate [x] research points [y].
+Wszyscy wyznaczeni badacze generują obecnie [x] punktów badawczych [y].
 
 #menu_prj_rwk_c2
-* from [x] main researchers: [y] research points.
+* od [x] głównych badaczy: [y] punktów badawczych.
 
 #menu_prj_rwk_c3
-* from [x] extra researchers: [y] research points.
+* od [x] dodatkowych badaczy: [y] punktów badawczych.
 
 #menu_prj_nb1
-This project ideally requires up to [x] researchers.
+Ten projekt wymaga idealnie [x] badaczy.
 
 #menu_prj_nb2
-While you can assign extra researchers beyond this number, their contributions to the project are greatly reduced.
+Chociaż możesz przypisać dodatkowych badaczy poza tę liczbę, ich wkład w projekt jest znacznie ograniczony.
 
 #menu_prj_rtyp
-This project requires [x] as researchers.
+Ten projekt wymaga [x] jako badaczy.
 
 #menu_prj_bdgt_r
-Researchers
+Badacze
 
 #menu_prj_bdgt_p
-Project
+Projekt
 
 #menu_prj_bdgt
-Budget
+Budżet
 
 #menu_prj_bdgt_c1
-The total maintenance cost for this project, to be paid continuously until the project is completed.
+Całkowity koszt utrzymania tego projektu, płatny w sposób ciągły aż do zakończenia projektu.
 
 #menu_prj_norsch
-Assign researchers to the project to be able to start it!
+Przydziel naukowców do projektu, aby mogli go rozpocząć!
 
 #menu_prj_pgrss
-This project is [x]% completed
+Ten projekt jest ukończony w [x]%
 
 #menu_prj_addnewr
-click to assign new researchers to the project
+kliknij, aby przypisać nowych badaczy do projektu
 
 #menu_prj_br_c1
-[x] researchers from [y] are currently assigned to this project and produce [z] research points to complete it.
+[x] naukowców z [y] jest obecnie przydzielonych do tego projektu i produkuje [z] punktów badawczych, aby go ukończyć.
 
 #menu_prj_br_c2
-( click to edit the number of assigned researchers from this territory )
+(kliknij, aby edytować liczbę przydzielonych badaczy z tego terytorium)
 
 #menu_prj_none1
-You don't have any projects available!
+Nie masz żadnych dostępnych projektów!
 
 #menu_prj_none2
-Projects are unlocked by "Ideas": events that are triggered by your population. Improving the intelligence and life quality of your population is generally a good way to increase odds of getting new ideas.
+Projekty są odblokowywane przez „Pomysły”: zdarzenia wywoływane przez twoją populację. Poprawa inteligencji i jakości życia populacji to ogólnie dobry sposób na zwiększenie szans na nowe pomysły.
 
 #menu_prj_none3
-Projects then require researchers and time as well as materials and budget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
+Projekty wymagają badaczy i czasu, a także materiałów i budżetu. Po zakończeniu, jeśli się powiedzie, dają nagrody, takie jak odblokowanie nowej „Wiedzy”.
 
 #menu_rschr_title
-Adding researchers...
+Dodawanie naukowców...
 
 #menu_rschr_type
-Researching population for this project
+Badanie populacji dla tego projektu
 
 #menu_rschr_frm
-From
+Od
 
 #menu_rschr_time
-Estimated time to complete this project
+Szacowany czas na ukończenie tego projektu
 
 #menu_rschr_odds
-success
+sukces
 
 #menu_rschr_odds_c1
-Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will need to be restarted from scratch.
+Po ukończeniu ten projekt ma obecnie [x]% szans na sukces i uruchomienie związanych z nim nagród. Jeśli się nie powiedzie, projekt będzie musiał zostać uruchomiony ponownie od zera.
 
 #menu_rschr_odds_c2
-100 +researchers efficiency [x] -difficulty [y] = [z]% success odds
+100 + efektywność naukowców [x] - trudność [y] = [z]% szans na sukces
 
 #menu_rschr_all
-All population
+Cała populacja
 
 #menu_rschr_noav
-No [x] currently available in this city!
+Obecnie nie ma [x] dostępnych w tym mieście!
 
 #prj_strt_err1
-You need to assign researchers before starting this project!
+Przed rozpoczęciem tego projektu musisz przydzielić badaczy!
 
 #prj_strt_err2
-You are missing coins to start this project!
+Brakuje Ci monet, aby rozpocząć ten projekt!
 
 #prj_strt_err3
-You are missing required materials to start this project!
+Brakuje wymaganych materiałów do rozpoczęcia tego projektu!
 
 #ui_tech_alw
-Allows...
+Pozwala...
 
 #ui_tech_bdg
-New building
+Nowy budynek
 
 #ui_tech_res
-New production
+Nowa produkcja
 
 #ui_tech_ter
-New territorial status
+Nowy status terytorialny
 
 #ui_tech_rev
-Reveals
+Odkryj
 
 #ui_tech_unit
-New unit
+Nowa jednostka
 
 #ui_tech_pol
-New policy
+Nowa polityka
 
 #ui_tech_with
-with...
+z...
 
 #ui_tech_forget
-Forget this knowledge
+Zapomnij o tej wiedzy
 
 #ui_tech_cantfgt
-You cannot forget this knowledge because it is currently required by other more recent ones such as: '[x]'.
+Nie możesz zapomnieć o tej wiedzy, ponieważ jest ona obecnie wymagana przez inne nowsze, takie jak: „[x]”.
 
 #ui_techfrgt_1
-Forget this knowledge ?
+Chcesz zapomnieć tą wiedze?
 
 #ui_techfrgt_2
-Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all it's current effects. You will need to complete it's project again in order to recover it if you need to.
+Ostrzeżenie! Tej czynności nie można cofnąć. Wiedza zostanie natychmiast usunięta, a Ty stracisz wszystkie jej obecne efekty. Będziesz musiał ponownie ukończyć projekt, aby w razie potrzeby ją odzyskać.
 
 #pop_all
-total population
+ogólna populacja
 
 #fstate_inact
-Idle
+Bezczynny
 
 #fstate_encamp
-Encamped
+Obozowany
 
 #fstate_mov
-Moving
+W ruchu
 
 #fstate_fight
-In combat
+W walce
 
 #fstate_immo
-Immobilized
+Unieruchomiony
 
 #menu_scr_w
-Wealth
+Bogactwo
 
 #menu_scr_w_c
-Score from the total wealth produced in all your territories.
+Wynik z całkowitego bogactwa wyprodukowanego na wszystkich twoich terytoriach.
 
 #menu_scr_c
-Culture
+Kultura
 
 #menu_scr_c_c
-Score from your total culture (state culture).
+Wynik z całkowitej kultury (kultury państwowej).
 
 #menu_scr_k
-Knowledges
+Wiedza
 
 #menu_scr_k_c
-Score from your total knowledges.
+Wynik całkowitej wiedzy.
 
 #menu_scr_p
-Military
+Militaria
 
 #menu_scr_p_c
-Score from your total military power. Does not include Militias.
+Wynik całkowitej siły militarnej. Nie obejmuje milicji.
 
 #menu_scr_tot
-Score
+Wynik
 
 #menu_scr_tot_c
-You personnal score.
+Twój osobisty wynik.
 
 #menu_scr_vpscr
-Score
+Wynik
 
 #menu_scr_vpscr_c1
-You can gain or lose Victory Points based on your current score. You currently get 1 VP for every [x] of score.
+Możesz zdobywać lub tracić punkty zwycięstwa w oparciu o aktualny wynik. Obecnie otrzymujesz 1 PZ za każde [x] punktów.
 
 #menu_scr_vpscr_c2
-The cost of score per VP is dynamic and based on the sum of the scores of all active characters.
+Koszt punktów za PZ jest dynamiczny i oparty na sumie wyników wszystkich aktywnych postaci.
 
 #menu_scr_vpmiss
-Missions
+Misje
 
 #menu_scr_vpmiss_c
-Victory points you earned by completing Victory missions.
+Punkty zwycięstwa zdobyte za wypełnianie misji zwycięstwa.
 
 #menu_scr_vp
-Victory points
+Punkty zwycięstwa
 
 #menu_scr_vp_c
-You personnal victory points.
+Twoje osobiste punkty zwycięstwa.
 
 #menu_scr_avg
-World score
+Wynik świata
 
 #menu_scr_avg_c1
-The world score is the sum of all scores of every characters in the game. It's used to determine the score cost per VP. 
+Wynik świata to suma wszystkich wyników wszystkich postaci w grze. Służy do określenia kosztu punktów na PZ.
 
 #menu_scr_avg_c2
-Inactive characters only count for half their actual score.
+Nieaktywne postacie liczą się tylko do połowy ich faktycznego wyniku.
 
 #menu_scr_vpcost
-Score per VP
+Wynik za PZ
 
 #menu_scr_vpcost_c1
-Each Victory Point currently costs [x] points of score.
+Każdy Punkt Zwycięstwa kosztuje obecnie [x] punktów.
 
 #menu_scr_vpcost_c2
-The cost of 100 Victory Points is defined as equal to 50% of the current world score. This makes the cost of every VP to 0.5% of the world score (with a minimum of 100 points).
+Koszt 100 Punktów Zwycięstwa jest zdefiniowany jako równy 50% aktualnego wyniku na świecie. To sprawia, że koszt każdego PZ wynosi 0,5% wyniku światowego (przy minimum 100 punktach).
 
 #menu_scr_frna
-for Nation
+dla państwa
 
 #menu_scr_frnas_c
-How much points you are currently contributing to your Nation's score. The lower in the ranks, the less you contribute.
+Ile punktów aktualnie przyczyniasz się do wyniku Twojego kraju. Im niższy stopień, tym mniejszy wkład.
 
 #menu_scr_frnavp_c
-How much victory points you are currently contributing to your Nation's Victory Points. It's affected by your current rank: the lower it is, the less you contribute.
+Ile punktów zwycięstwa obecnie wnosisz do punktów zwycięstwa Twojego państwa. Ma na to wpływ Twoja aktualna ranga: im niższa, tym mniejszy wkład.
 
 #menu_nscr_name
-Your nation
+Twoje państwo
 
 #menu_nscr_rank
-Your nation's rank
+Ranga Twojego państwa
 
 #menu_nscr_scr
-Your nation's total score
+Całkowity wynik twojego państwa
 
 #menu_nscr_vp
-Your nation's total Victory points
+Łączna liczba punktów zwycięstwa twojego państwa
 
 #menu_scr_govnam
-Your personnal government's name
+Imię Twojego gubernatora
 
 #menu_scr_t1
-Rank
+Ranga
 
 #menu_scr_t2
-Nation
+Państwo
 
 #menu_scr_t3
-Score
+Wynik
 
 #menu_scr_t4
-Victory points
+Punkty zwycięstwa
 
 #majmess_reglost
-You have lost control of the territory!
+Straciłeś kontrolę nad terytorium!
 
 #b_buildprevbdg
-Obsolete version: [x]
+Przestarzała wersja: [x]
 
 #b_admitdft
-ADMIT DEFEAT
+PRZYZNAĆ SIĘ DO PORAŻKI
 
 #ui_admitdft
-You have admitted your defeat!
+Przyznałeś się do porażki!
 
 #ui_battleover
-Battle is over!
+Bitwa dobiegła końca!
 
 #ui_terinf_fert
-Fertility
+Żyzność
 
 #ui_terinf_grndw
-Groundwater
+Wody gruntowe
 
 #btl_objtv_neut
-idle
+bezczynny
 
 #btl_objtv_raid
-raiding territory
+atakuj terytorium
 
 #btl_objtv_sack
-sacking territory
+plądruj terytorium
 
 #btl_objtv_inv
-invading
+inwazja
 
 #btl_objtv_def
-defending
+obrona
 
 #btl_objtv_defa
-assisting defense
+wspomaganie obrony
 
 #btl_objtv_atta
-assisting attack
+wspomaganie ataku
 
 #btl_objtv_hunt
-hunting
+polowanie
 
 #btl_rslt_dead
-died
+poległy
 
 #btl_rslt_deft
-defeated
+pokonany
 
 #btl_rslt_vict
-victorious
+zwycięski
 
 #btl_rslt_neutr
-was neutral
+był neutralny
 
 #btl_rslt_rtrtd
-retreated
+wycofał się
 
 #btlrslt_neutr
 NEUTRAL
 
 #btlrslt_att
-ATTACKERS
+ATAKUJĄCY
 
 #btlrslt_def
-DEFENDERS
+OBROŃCY
 
 #btlrslt_loot
-BATTLE LOOT
+ŁUP
 
 #btlrslt_unit
-units
+jednostki
 
 #btlrslt_loss
-losses
+straty
 
 #btlrslt_kill
-kills
+zabicia
 
 #btlrslt_totloot
-total loot
+Całkowity łup
 
 #rcvloot_reg
-We received loot in [x]:
+Otrzymaliśmy łup w [x]:
 
 #rcvloot_form
-Our formation received loot:
+Nasza formacja otrzymała łupy:
 
 #gamelob_genav
-Generate avatar
+Wygeneruj awatara
 
 #gamelob_face
-Face
+Twarz
 
 #gamelob_eyes
-Eyes
+Oczy
 
 #gamelob_snout
-Snout
+Pysk
 
 #gamelob_mouth
-Mouth
+Usta
 
 #gamelob_nam
-Character's name
+Imię postaci
 
 #gamelob_randnam
-Generate a random name
+Wygeneruj losową nazwę
 
 #gamelob_nat
-Nation's name
+Nazwa państwa
 
 #gamelob_randnat
-Generate a random nation's name
+Wygeneruj losową nazwę państwa
 
 #gamelob_status
-character status
+status postaci
 
 #gamelob_status_c1
-A character becomes "inactive" if offline for too long. It then becomes available for succession: any new player joining the game can spawn as its sucessor and takeover all its posessions.
+Postać staje się „nieaktywna”, jeśli zbyt długo jest offline. Następnie staje się dostępny do sukcesji: każdy nowy gracz dołączający do gry może odrodzić się jako jej następca i przejąć wszystkie jej posiadłości.
 
 #gamelob_status_c2
-The amount of time before a character becomes inactive depends on its total playtime and on the game's settings.
+Czas, po którym postać stanie się nieaktywna, zależy od całkowitego czasu jej gry i ustawień serwera.
 
 #gamelob_status_c3
-Max offline time currently allowed for this character: [x]
+Maksymalny czas offline obecnie dozwolony dla tej postaci: [x]
 
 #gamelob_ACTV
-ACTIVE
+AKTYWNY
 
 #gamelob_INACTV
-INACTIVE
+NIEAKTYWNY
 
 #gamelob_lstlog
-last login
+Ostatnie logowanie
 
 #gamelob_lstlogt
-[x] ago
+[x] wiek
 
 #gamelob_lstlog_c
-last login for this character: [x]
+ostatnie logowanie dla tej postaci: [x]
 
 #gamelob_creat
-created
+Utworzony
 
 #gamelob_creat_c
-Date when this character was created (GMT).
+Data utworzenia tej postaci (GMT).
 
 #gamelob_plt
-total playtime
+całkowity czas gry
 
 #gamelob_plt_c
-The total amount of time spent online playing this character.
+Łączny czas spędzony online na graniu tą postacią.
 
 #gamelob_maxchar
-Max characters
+Max postaci
 
 #gamelob_maxchar_c
-The maximum number of characters per player allowed on this server is [x].
+Maksymalna liczba postaci na gracza dozwolona na tym serwerze to [x].
 
 #gamelob_spcloff
-Spawn cool off
+Respawn
 
 #gamelob_spcloff_c1
-The minimum time before you are allowed to respawn on this server.
+Minimalny czas, zanim będziesz mógł odrodzić się na tym serwerze.
 
 #gamelob_spcloff_c2
-You have spawned [x] times in this game. The more times you respawn, the longer the cool-off (base cool-off in this game is of [y]).
+W tej grze pojawił się [x] razy. Im więcej razy się odrodzisz, tym dłuższy czas potrzeby jest na odrodzenie (bazowe odrodzenie w tej grze wynosi [y]).
 
 #gamelob_spcloff_c3
-Last spawn: [x] ago
+Ostatni spawn: [x] temu
 
 #gamelob_spcloffw
-([x] remaining)
+(pozostało [x])
 
 #gamelob_maxoff
-Max offline time
+Maksymalny czas offline
 
 #gamelob_maxoff_c1
-The maximum amount of time a character can get to be offline before turning 'inactive' on this server.
+Maksymalny czas, przez jaki postać może być offline, zanim stanie się „nieaktywna” na tym serwerze.
 
 #gamelob_maxoff_c2
-WARNING: this limit is lower for recently created characters!
+UWAGA: ten limit jest niższy dla ostatnio stworzonych postaci!
 
 #gamelob_spwnbon
-Spawn bonus
+Bonus odrodzenia
 
 #gamelob_spwnbon_c1
-When spawning as a new character, this bonus improves the overall starting conditions (resources, techs.. ) of the selected start.
+Podczas odradzania się jako nowa postać premia ta poprawia ogólne warunki początkowe (zasoby, technologie…) wybranego startu.
 
 #gamelob_spwnbon_c2
-This bonus is proportionnal to the lack of active players on the server.
+Ten bonus jest proporcjonalny do braku aktywnych graczy na serwerze.
 
 #gamelob_err1
-You currently have the maximum number of characters allowed on this game!
+Masz obecnie maksymalną liczbę postaci dozwoloną w tej grze!
 
 #gamelob_err2
-You must wait [x] before being allowed to create a new character in this game!
+Musisz poczekać [x], zanim będziesz mógł stworzyć nową postać w tej grze!
 
 #gamelob_abnd
-Abandon
+Porzucić
 
 #gamelob_abnd_c1
-Click to abandon this character and all its possessions.
+Kliknij, aby porzucić tę postać i cały jej dobytek.
 
 #gamelob_abndwrn
-Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
+Czy na pewno chcesz porzucić tę postać? Nie można tego cofnąć i ostatecznie stracisz kontrolę nad nia wraz z całym jej dobytkiem! Postać zostanie usunięta z twojej listy. Zostanie natychmiast ustawiona jako „nieaktywna” i może stać się dostępna do dziedziczenia.
 
 #facrank_title
-Title
+Tytuł
 
 #facrank_ter
-Territory
+Terytorium
 
 #facttl_titl
-Character's title
+Tytuł postaci
 
 #facttl_titl_c1
-The title given to characters of this rank.
+Tytuł nadawany postaciom tej rangi.
 
 #facttl_trtry
-Territory's title
+Tytuł terytorium
 
 #facttl_trtry_c1
-The name given to the territories associated with characters of this rank.
+Nazwy nadawane terytoriom związanym z postaciami tej rangi.
 
 #facttl_lvl
-Rank level
+Poziom rangi
 
 #facttl_lvl_c1
-Rank level represents the hierarchic position within the nation.
+Poziom rangi reprezentuje hierarchiczną pozycję w kraju.
 
 #facttl_tax
-Income tax
+Podatek dochodowy
 
 #facttl_tax_c1
-% of raw income paid as a tax to the superior of this rank.
+% dochodu surowego płacony jako podatek przełożonemu tej rangi
 
 #facttl_pow
-Power transfer
+Transfer mocy
 
 #facttl_pow_c1
-% of state power transfered to the superior of this rank.
+% władzy państwowej przekazane przełożonemu tej rangi.
 
 #facttl_vote
-Can vote 
+Może głosować
 
 #facttl_vote_c1
-Wether this rank can participate in voting processes or not.
+Czy ta ranga może uczestniczyć w procesach głosowania, czy nie.
 
 #facttl_rcrut
-Can recruit
+Może rekrutować
 
 #facttl_rcrut_c1
-Wether this rank is allowed to recruit new members into the Nation or not.
+Czy ta ranga pozwala rekrutować nowych członków do państwa, czy nie.
 
 #facttl_prom
-Can promote
+Może awansować
 
 #facttl_prom_c1
-Wether this rank is allowed to manage ranks of its subordinates or not (promoting and unpromoting).
+Czy ta ranga może zarządzać szeregami swoich podwładnych lub nie (awansować i degradować).
 
 #facttl_rplcm
-Succession
+Sukcesja
 
 #facttl_rplcm_c1
-How the succession of this character is managed if he becomes inactive.
+Jak zarządza się sukcesją tej postaci, jeśli stanie się nieaktywna.
 
 #frplcm_e1
-Election (direct)
+Wybory (bezpośrednie)
 
 #frplcm_e1_c1
-A sucessor is elected by the direct subordinates of this rank only.
+Następcę wybierają tylko bezpośredni podwładni tej rangi.
 
 #frplcm_e2
-Election (all)
+Wybory (wszyscy)
 
 #frplcm_e2_c1
-A sucessor is elected by all the subordinates of this rank.
+Następcę wybierają wszyscy podwładni tej rangi.
 
 #frplcm_heir
-Chosen heir
+Wybrany spadkobierca
 
 #frplcm_heir_c1
-The rank holder himself chooses its heir that can take over if he becomes inactive.
+Posiadacz rangi sam wybiera swojego spadkobiercę, który może przejąć władzę, jeśli stanie się nieaktywny.
 
 #frplcm_nom
-Nominated
+Mianowany
 
 #frplcm_nom_c1
-A sucessor is appointed by the superior of this rank.
+Następcę powołuje przełożony tej rangi.
 
 #facttl_xpl
-Can expell
+Może wydalić
 
 #facttl_xpl_c1
-If this rank is allowed to expell its subordinates from the Nation.
+Jeśli ta ranga jest dozwolona można wydalać swoich podwładnych z państwa.
 
 #facttl_mngter
-Can dismantle
+Można zdemontować
 
 #facttl_mngter_c1
-If this rank is allowed to directly redistribute territories of inactive subordinates to other Nation members.
+Jeśli ta ranga jest dozwolona można przyznawać terytoria nieaktywnych podwładnych do innych członków państwa.
 
 #facttl_sub1
-Direct subordinates
+Bezpośredni podwładni
 
 #facttl_sub2
-All subordinates
+Wszyscy podwładni
 
 #fachier_hier
-Hierarchy
+Hierarchia
 
 #fachier_addnew
-Add new rank
+Dodaj nową rangę
 
 #fachier_addnew_c1
-Click to create a new rank
+Kliknij, aby utworzyć nową rangę
 
 #fachier_remrk
-Remove this rank
+Usuń tę rangę
 
 #fachier_remrk_c1
-Click to delete the currently selected rank
+Kliknij, aby usunąć aktualnie wybraną rangę
 
 #fachier_remrk_err1
-You cannot remove this rank because its currently used by one or more members!
+Nie możesz usunąć tej rangi, ponieważ jest ona aktualnie używana przez co najmniej jednego członka!
 
 #facnewrk_title
-Adding a new rank...
+Dodawanie nowej rangi ...
 
 #facmmb_ter
-Regions
+Regiony
 
 #facmmb_dismant
-Dismantle
+Zdemontuj
 
 #facmmb_dismant_c1
-Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
+Ponieważ ta postać jest nieaktywna, Twój tytuł pozwala ci demontować jej budynki i dzielić się nimi między podwładnymi lub sobą.
 
 #facmmb_prom
-Promote
+Awansuj
 
 #facmmb_prom_c1
-Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+Twój tytuł pozwala ci zarządzać tą pozycją w hierarchi tej postaci: awansuj lub degraduj tę postać.
 
 #facmmb_xpl
-Expel
+Usuń
 
 #facmmb_xpl_c1
-Your title allows you to expell this character from the Nation.
+Twój tytuł pozwala ci wyrzucić tę postać z państwa.
 
 #facmmb_quit
-Quit
+Porzuć
 
 #facmmb_quit_c1
-Leave this Nation and regain your sovereignty. 
+Porzuć to państwo i odzyskaj swoją suwerenność.
 
 #facmmb_quit_c2
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+OSTRZEŻENIE: jeśli jesteś związany z tym państwem traktatami, spowoduje ich natychmiastowe zerwanie!
 
 #facmmb_actv
-ACTIVE
+AKTYWNY
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+Ta postać nadal aktywnie uczestniczy w grze i nie kwalifikuje się do sukcesji.
 
 #facmmb_inact
-INACTIVE
+NIEAKTYWNY
 
 #facmmb_inact_c1
-This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
+Ta postać nie była online przez jakiś czas i jest teraz uważana za nieaktywną. Jest on zdolny do sukcesji w ramach państwa.
 
 #facmmb_pwrlss
-POWERLESS
+BEZSILNY
 
 #facmmb_pwrlss_c1
-This character controls not territories and is powerless.
+Ta postać jest bezsilna i nie kontroluje terytoriów.
 
 #facmmb_dead
-DEAD
+NIE ŻYJE
 
 #facmmb_dead_c1
-This character is dead: it controls no territories and was abandonned by its player.
+Ta postać nie żyje: nie kontroluje żadnych terytoriów i została porzucona przez gracza.
 
 #facmmb_rplc
-Replace
+Zastąp
 
 #facmmb_rplc_c1
-This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
+Postać ta jest nieaktywna, a jej tytuł pozwala, jako jej zwierzchnikowi, wskazać spośród swoich podwładnych następcę, który go zastąpi.
 
 #facmmb_tax
-Taxes
+Podatki
 
 #facmmb_tax_c1
-Nation taxes are received from direct subordinates and also paid to the superior. Tax rates are defined by their respective ranks.
+Podatki narodowe pobierane są od bezpośrednich podwładnych, a także płacone przełożonemu. Stawki podatkowe są określane według odpowiednich rang.
 
 #facmmb_tax_r
-Taxes from subordinates: [x]
+Podatki od podwładnych: [x]
 
 #facmmb_tax_p
-Paid to superior: [x]
+Wypłacono przełożonemu: [x]
 
 #facmmb_pwr
-Power transfers
+Przekazywanie mocy
 
 #facmmb_pwr_c1
-State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
+Władzę państwową można otrzymać od bezpośrednich podwładnych i przekazać przełożonemu. Stawki są określane na podstawie odpowiednich rang.
 
 #facmmb_mng
-Maintenance
+Konserwacja
 
 #facmmb_mng_c1
-State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
+Władza państwowa skonsumowana dla utrzymania państwa. Zwiększony ogólnie o liczbę podwładnych tej postaci.
 
 #facmmb_mrshl
-Army Marshal
+Marszałek armii
 
 #facmmb_mrshl_c1
-Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
+Marszałkowie armii mogą kontrolować wszystkie armie narodowe, niezależnie od tego, czy należą do podwładnych, czy nie. Mianowany przez przywódcę państwa.
 
 #facmmb_heir
-Heir
+Dziedzic
 
 #facmmb_heir_c1
-The designated heir can directly succeed to this character if he becomes inactive.
+Wyznaczony spadkobierca może bezpośrednio przejąć tę postać, jeśli stanie się nieaktywny.
 
 #facmmb_heir_c2
-Note that if the designated heir refuses or is unavailable, succession will default to election by direct subordinates.
+Należy pamiętać, że jeśli wyznaczony spadkobierca odmówi lub jest niedostępny, dziedziczenie zostanie domyślnie wybrane przez bezpośrednich podwładnych.
 
 #facprom_title
-Position of [x]
+Pozycja [x]
 
 #facprom_txt
-You can change the hierarchic position of [x] within this Nation by changing his rank or moving him under a different superior (only your amongst your own subordinates). Note that the character will retain all its subordinates with the same relative hierarchy under him no matter the modified position. Ranks of the subordinates might be automatically adjusted if need be, in order to retain their relative hierarchy. 
+Możesz zmienić pozycję hierarchiczną [x] w tym państwie, zmieniając jego rangę lub przenosząc go pod innego przełożonego (tylko spośród twoich podwładnych). Zwróć uwagę, że postać zachowa wszystkich swoich podwładnych z tą samą względną hierarchią, niezależnie od zmodyfikowanej pozycji. W razie potrzeby stopnie podwładnych mogą być automatycznie dostosowywane, aby zachować ich względną hierarchię.
 
 #facprom_auto
-Automatic rank
+Automatyczny awans
 
 #facprom_supr
-Set superior
+Ustaw przełożonego
 
 #facprom_rk
-Set rank
+Ustaw rangę
 
 #facxpl_title
-Expel [x] from the Nation
+Wyrzuć [x] z państwa
 
 #facxpl_txt
-As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
+Jako przełożony [x], twoja ranga pozwala ci wyrzucić tę postać z państwa. Zauważ, że wszyscy jego podwładni, jeśli tacy są, pozostaną pod tą postacią i dlatego też opuszczą państwo.
 
 #facxpl_xpl
-Expel!
+Usuń!
 
 #facrplc_title
-Replacing [x]...
+Zastąpienie [x]...
 
 #facrplc_txt
-As a superior of [x] and because this character is now inactive, your rank allows you to nominate a successor of lower rank that will take over its position within the Nation. The successor will swap its position and subordinates with the ones of the replaced character. The chosen successor cannot be of higher rank than the replaced character.
+Jako przełożony [x] i ponieważ ta postać jest teraz nieaktywna, twoja ranga pozwala ci wyznaczyć następcę niższej rangi, który przejmie jej pozycję w państwie. Następca zamieni swoją pozycję i podwładnych na tych o zastępowanej postaci. Wybrany następca nie może mieć wyższej rangi niż zastępowana postać.
 
 #facrplc_none
-None available!
+Niedostępne!
 
 #facdsmtl_title
-Dismantling territories
+Rozdziel terytoria
 
 #facdsmtl_text
-Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
+Ponieważ [x] jest teraz nieaktywny, Twoja ranga pozwala ci rozdzielenie jego terytoriów i przydzielenie ich innym członkom państwa.
 
 #facdsmtl_c1
-Select a new owner for this territory.
+Wybierz nowego właściciela dla tego terytorium.
 
 #facdsmtl_err
-[cannot dismantle]
+[nie można rozdzielić]
 
 #facdsmtl_err_c1
-This territory was integrated recently and hasn't been part of your Nation long enough to be transfered via the 'dismantle' function.
+Terytorium to zostało niedawno zintegrowane i nie było częścią waszego państwa na tyle długo, aby można było je przenieść za pomocą funkcji „roździel”.
 
 #facdsmtl_err_c2
-Time before this territory can be dismantled: [x].
+Czas zanim to terytorium będzie można rozdzielić: [x].
 
 #facquit_title
-Are you sure?
+Jesteś pewny?
 
 #facquit_txt
-By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+Opuszczając to państwo, odzyskasz pełną suwerenność jako głowa nowego, niezależnego państwa. Wszyscy twoi obecni podwładni pozostaną pod Tobą, a zatem dołączą również do nowego państwa. Ostrzegamy jednak, że jeśli jesteś związany z tym narodem traktatami, opuszczenie go spowoduje zerwanie zamknięcia na twoim końcu, narażając cię na potencjalne kary, a nawet wojnę.
 
 #facfalg_title
-Editing Nation flag
+Edycja flagi państwa
 
 #menugov_setnam
-Government name
+Nazwa rządu
 
 #menugov_setnam_c1
-Set the core name of your government (then combined with your Nation title).
+Ustaw podstawową nazwę swojego rządu (a następnie połącz ją z tytułem swojego kraju).
 
 #regnam_unclaimed
-Unclaimed territory
+Nieodebrane terytorium
 
 #regnam_regof
-Region of [x]
+Region [x]
 
 #regnam_claimby
-Claimed by [x]
+Roszczenie [x]
 
 #uiworld_ownr
-Ownership
+Własność
 
 #uiworld_nownr
-No owner
+Brak właściciela
 
 #uiworld_settl_1
-You can settle this territory by giving a formation the mission 'Settle' with this region as a target.
+Możesz zasiedlić to terytorium, zlecając formacji misję „Osiedl się” z tym regionem jako celem.
 
 #uiworld_settl_2
-For this mission type to be available, the formation must contain at least one civilian unit.
+Aby misja tego typu była dostępna, formacja musi zawierać co najmniej jedną jednostkę cywilną.
 
 #facvote_name
-Voting for the successor of [x]
+Głosowanie na następcę [x]
 
 #uivote_mode
-Voting mode
+Tryb głosowania
 
 #uivote_mod_high
-Highest votes
+Najwięcej głosów
 
 #uivote_mod_high_c1
-The proposition with the most votes simply wins the vote. The vote is completed once all the valid voters have cast their vote.
+Propozycja z największą liczbą głosów po prostu wygrywa głosowanie. Głosowanie kończy się, gdy wszyscy ważni wyborcy oddają swój głos.
 
 #uivote_status
-Vote status
+Status głosowania
 
 #uivote_st_p
-pending...
+w oczekiwaniu...
 
 #uivote_st_o
-over
+przez
 
 #uivote_result
-Vote result
+Wynik głosowania
 
 #uivote_res_und
-undecided
+niezdecydowany
 
 #uivote_cast
-Votes cast
+Oddane głosy
 
 #uivote_yrvt
-YOUR VOTE
+TWÓJ GŁOS
 
 #uivote_txt1
-You have not cast your vote yet. Select one of the possible choices below and vote. Warning: your vote is final and cannot be modified once validated!
+Nie oddałeś jeszcze głosu. Wybierz jedną z możliwych opcji poniżej i zagłosuj. Ostrzeżenie: Twój głos jest ostateczny i nie może zostać zmieniony po zatwierdzeniu!
 
 #uivote_txt2
-You have already cast your vote. It is final and you cannot edit it anymore. The result will be announced once the voting process is completed.
+Już oddałeś swój głos. Jest ostateczna i nie możesz jej już edytować. Wynik zostanie ogłoszony po zakończeniu głosowania.
 
 #uivote_choice
-choice
+wybór
 
 #uivote_sendvt
 CAST VOTE!
 
 #regstatus_claim_1
-An empty territory can be claimed by your state and included in your official frontiers.
+Państwo może zająć puste terytorium i włączyć go do oficjalnych granic.
 
 #regstatus_trtry_1
-A territory is part of a region and is managed by the region's main city administration.
+Terytorium jest częścią regionu i jest zarządzane przez główną administrację miejską regionu.
 
 #regstatus_colony_1
-Autonomous territory attached to a state.
+Autonomiczne terytorium przyłączone do państwa.
 
 #regstatus_occup_1
-Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
+Obce ziemie kontrolowane przez siły zbrojne. Nie jest bezpośrednio częścią państwa i nie jest zintegrowany z administracją rządową, jest niestabilny, zdezorganizowane.
 
 #regstatus_outpost_1
-Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+Terytorium zależne finansowo, niezarządzane i autonomiczne. Przydatne w przypadku małych oddalonych obozowisk stworzonych do wykorzystywania zasobów strategicznych.
 
 #regstatus_city_1
-Regional center of your state, fully integrated and administered by your government.
+Terytorium niezależne finansowo, niezarządzane i autonomiczne. Przydatne w przypadku małych oddalonych obozowisk stworzonych do wykorzystywania zasobów strategicznych.
 
 #regstatus_capital_1
-Home of the government, where the leader resides.
+Siedziba rządu, w której mieszka lider.
 
 #regstatprop
-Territorial status special properties
+Specjalne właściwości statusu terytorialnego
 
 #regstatprop_build
-cannot build
+nie można budować
 
 #regstatprop_res
-cannot control resources
+nie może kontrolować zasobów
 
 #regstatprop_trade
-cannot control trade
+nie może kontrolować handlu
 
 #regstatprop_bdgup
-buildings upkeep [x]
+utrzymanie budynków [x]
 
 #regstatprop_freeup
-[x] of free upkeep
+[x] bezpłatnego utrzymania
 
 #regstatprop_freeclaims
-[x] free territorial claims
+[x] wolne roszczenia terytorialne
 
 #regstatprop_loyal
 loyalty [x]
 
 #regstatprop_cultr
-state culture [x]%
+kultura państwowa [x]%
 
 #regstatprop_conf
-population conflict [x]%
+konflikt ludności [x]%
 
 #regstatprop_rsrch
-can't do projects
+nie może robić projektów
 
 #regstatprop_milit
-cannot recruit militia
+nie może rekrutować milicji
 
 #regstatprop_army
-cannot recruit army
+nie może rekrutować armii
 
 #regstatprop_dist
-administration distance penalty [x]%
+kara za odległość administracyjną [x]%
 
 #regstatprop_nodist
 no administration distance penalty
 
 #regstatprop_inc
-[x]% of tax incomes
+[x]% przychdów z podatku
 
 #regstatprop_noinc
-no tax incomes
+brak przychdów z podatku
 
 #regstatprop_exp
-[x]% of expenses
+[x]% wydatków
 
 #regstatprop_noexp
-no expenses
+żadnych wydatków
 
 #regstatprop_resist
-resistance growth [x]
+wzrost oporu [x]
 
 #regstatprop_claim
-cannot own sub-territories
+nie może posiadać podobszarów
 
 #regstatprop_evac
-cannot be evacuated
+nie można ewakuować
 
 #regstatprop_rencd
-cannot be renounced
+nie można się wyrzec
 
 #regstatprop_trsfr
-cannot be transfered
+nie można przenieść
 
 #regstatprop_spawn
-is a player spawn
+to miejsce odrodzenia gracza
 
 #regstatprop_pnlty
-[x] loyalty event on changing
+[x] wydarzenie lojalnościowe dotyczące zmiany
 
 #regstatprop_overdrft
-cannot overdraft
+nie może mieć debetu
 
 #regstatus_penalty
-WARNING: changing current status will trigger an immediate loyalty event of [x]!
+UWAGA: zmiana obecnego statusu spowoduje natychmiastowe zdarzenie lojalnościowe [x]!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will increase the honor penalty to [z] in case of defeat against partistans, and will trigger an immediate penalty of [x] resistance and [y] loyalty!
+UWAGA: zajęcie tego okupowanego terytorium zwiększy karę honoru do [z] w przypadku porażki z partyzantami i spowoduje natychmiastową karę [x] oporu i [y] lojalności!
 
 #regstatus_title
-Territory status
+Status terytorialny
 
 #regstatus_txt
-Modifying the administrative status of this territory...
+Modyfikacja statusu administracyjnego tego terytorium ...
 
 #regstatus_setnew
-Set new status to
+Ustaw nowy status na
 
 #regstatus_setcap_1
-You can only have one capital city: your current capital will lose its status and become a regular city. Note that moving your capital may affect adminstration and culture in your other cities as well as you state power and finances.
+Możesz mieć tylko jedną stolicę: Twoja obecna stolica utraci status i stanie się zwykłym miastem. Pamiętaj, że przeniesienie stolicy może wpłynąć na administrację i kulturę w innych twoich miastach, a także na władzę i finanse państwa.
 
 #regstatus_setcit_1
-This territory will form a new region and will cost additionnal State power. You will then be able to attach other territories to this city as part of that region. 
+To terytorium utworzy nowy region i będzie kosztować dodatkowe moce państwa. Będziesz wtedy mógł dołączyć inne terytoria do tego miasta jako część tego regionu.
 
 #regstatus_setcol_1
-WANRING: This is irreversible. You will lose direct control of this territory. Region gets a stable administration, loyalty and culture. No maintenance cost and no state power cost. Generates 5% income tax. If a player spawns in it, he starts in your nation with a colonial treaty of 5% income tax. 
+WANRING: To jest nieodwracalne. Stracisz bezpośrednią kontrolę nad tym terytorium. Region zyskuje stabilną administrację, lojalność i kulturę. Brak kosztów utrzymania i brak kosztów władzy państwowej. Generuje 5% podatku dochodowego. Jeśli gracz odrodzi się w nim, zaczyna w twoim kraju z traktatem kolonialnym o 5% podatku dochodowym.
 
 #regstatus_setcol_2
-To make a colony the territory needs at least 150 of population and at least 65% of vital needs.
+Aby stworzyć kolonię, terytorium potrzebuje co najmniej 150 mieszkańców i co najmniej 65% zapewnionych podstawowych potrzeb.
 
 #setcolony_err1
-The territory needs at least 150 of population to be made a colony!
+Terytorium potrzebuje co najmniej 150 mieszkańców, aby stać się kolonią!
 
 #setcolony_err2
-The territory needs at least 65% of vital needs to be made a colony!
+Terytorium potrzebuje co najmniej 65% podstawowych potrzeb, aby stać się kolonią!
 
 #setcolony_err3
-The territory has too much resistance to be made a colony!
+Terytorium ma zbyt duży opór, aby stać się kolonią!
 
 #regstatus_err1
-You cannot change the status of your capital city!
+Terytorium ma zbyt duży opór, aby stać się kolonią! Nie możesz zmienić statusu swojej stolicy!
 
 #voxclss_wall
-Walls
+Ściany
 
 #voxclss_wind
-Windows
+Okna
 
 #voxclss_door
-Doors
+Drzwi
 
 #voxclss_pilr
-Pillars
+Filary
 
 #voxclss_beam
-Beams
+Belki
 
 #voxclss_flr
-Floors
+Podłogi
 
 #voxclss_cube
-Cubes
+Kostki
 
 #treaty_endwar
-Armistice
+Zawieszenie broni
 
 #treaty_peace
-Peace treaty
+Traktat pokojowy
 
 #treaty_nation
-Treaty of unification
+Traktat zjednoczeniowy
 
 #treaty_vassal
-Vassality treaty
+Traktat wasalny
 
 #treaty_trade
-Trading agreement
+Umowa handlowa
 
 #treaty_trtry
-Territorial transfer
+Transfer terytorialny
 
 #treaty_tech
-Knowledges transfer
+Transfer wiedzy
 
 #treaty_pass
-Treaty of passage
+Traktat przejściu
 
 #treaty_deflt
-Treaty
+Traktat
 
 #ui_colchos
-click to select a color
+kliknij, aby wybrać kolor
 
 #ui_icchos
-click to select an icon
+kliknij, aby wybrać ikonę
 
 #ui_fhierchy
-click to view this nation's hierarchy
+kliknij, aby wyświetlić hierarchię tego kraju
 
 #resist_abandon_1
-You cannot abandon buildings in a resistant city!
+Nie możesz porzucić budynków w zbuntowanym mieście!
 
 #resist_demol_1
-You cannot demolish more than 3 buildings at a time in a resistant city!
+W zbuntowanym mieście nie możesz wyburzyć jednocześnie więcej niż 3 budynków!
 
 #resist_demol_2
-You cannot demolish infrastructures in a resistant city!
+Nie można burzyć infrastruktury w zbuntowanym mieście!
 
 #treaterr_1
-You do not have enough coins in your treasury to honor this treaty!
+Nie masz wystarczającej liczby monet w swoim skarbcu, aby dotrzymać tego traktatu!
 
 #treaterr_2
-You do not have enough income in your treasury to honor this treaty!
+Nie masz wystarczających dochodów w swoim skarbcu, aby dotrzymać tego traktatu!
 
 #servfull
-Maximum number of active characters currently reached! Try again later.
+Obecnie osiągnięto maksymalną liczbę aktywnych postaci! Spróbuj ponownie później.
 
 #menu_frmtyp_title
-Changing this formation's type...
+Zmiana typu tej formacji ...
 
 #menu_frmtyp_err1
-You cannot convert to a militia outside your own cities!
+Nie możesz zmienić się w milicję poza swoimi miastami!
 
 #menu_frmtyp_err2
-You cannot convert formations in resistant cities.
+Nie możesz konwertować formacji w odpornych miastach.
 
 #formact_sack_1
-Warning: this action will cost you 15 of honnor, if successful!
+Uwaga: jeśli ta akcja się powiedzie, będzie Cię kosztować 15 punktów honoru!
 
 #formact_sack_2
-The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
+Celem będzie najpierw wyeliminowanie wszystkich struktur obronnych terytorium. Jeśli im się to powiedzie, przystąpią do rabunku jak największej ilości zasobów i wyrządzą miastu ogromne szkody, spalając budynki i mordując jego mieszkańców. Po zakończeniu formacja opuści region.
 
 #formact_sack_3
-This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honnor.
+Ta akcja zapewnia znacznie więcej zasobów niż zwykły najazd, zadając większe obrażenia, ale w przeciwieństwie do najazdu oznacza przejęcie pełnej kontroli nad terytorium poprzez wyeliminowanie najpierw wszystkich jego obrony i kosztuje cię honoru.
 
 #wkprio_0
-Avoided
+Unikanie
 
 #wkprio_1
-Low
+Niska
 
 #wkprio_2
-Regular
+Normalna
 
 #wkprio_3
-High
+Wysoka
 
 #wkprio_4
-Critical
+Krytyczna
 
 #strprio_0
-[automatic]
+[automatyczny]
 
 #strprio_1
-Low
+Niska
 
 #strprio_2
-Medium
+średnia
 
 #strprio_3
-High
+Wysoka
 
 #strprio_4
-Very High
+Bardzo wysoka
 
 #recyclmat
-We have recovered
+Odzyskaliśmy
 
 #recyclbdg
-We have recovered [x] from the demolition of a [y].
+Odzyskaliśmy [x] po rozbiórce a [y].
 
 #charstate_1
-Inactive
+Nieaktywny
 
 #charstate_2
-Active
+Aktywny
 
 #charstate_3
-Dead
+Nie żyje
 
 #charstate_4
-Powerless
+Bezsilny
 
 #err_inaxsbdg
-This building is currently inaccessible!
+Ten budynek jest obecnie niedostępny!
 
 #err_cantrstr
-You cannot restaure this building!
+Nie możesz przywrócić tego budynku!
 
 #formact_none
-Idle
+Bezczynny
 
 #formact_move
-Move
+Przesuń
 
 #formact_camp
-Encamp
+Obozowanie
 
 #formact_hunt
-Hunt
+Polowanie
 
 #formact_wood
-Gather wood
+Zbierz drewno
 
 #formact_wood_rslt
-The formation has collected [x] of wood.
+Formacja zebrała [x] drewna.
 
 #formact_captr
-Capture
+Przejmij
 
 #formact_settle
-Settle
+Zasiedl
 
 #formact_raid
-Raid
+Atak
 
 #formact_sack
-Sack
+Plądruj
 
 #formact_invd
-Invade
+Najazd
 
 #formact_batl
-Battle
+Bitwa
 
 #formact_claim
-Claim territory
+Zajmij terytorium
 
 #formact_reclaim
-Reclaim territory
+Odzyskaj terytorium
 
 #formact_unclaim
-Unclaim territory
+Porzuć terytorium
 
 #formact_tkartfct
-Claim the artefact
+Zajmij artefakt
 
 #formact_palntr
-Use the palentir
+Użyj palantiru
 
 #formhome_title
-Changing this formation's home...
+Zmiana domu tej formacji ...
 
 #formhome_dscr_1
-A formation's home region is the city they are attached to. The home provides renewal of aging soldiers and has to support the armies attached to it. It also defines the culture of the formation's units. 
+Regionem rodzinnym formacji jest miasto, z którym jest związana. Dom zapewnia odnowę starzejących się żołnierzy i musi utrzymywać przyłączone do niego wojska. Określa również kulturę jednostek formacji.
 
 #formhome_dscr_2
-Formations will decay if they are attached to a home that doesn't have enough population to support them. 
+Formacje rozpadną się, jeśli zostaną przywiązane do domu, w którym nie ma wystarczającej liczby ludności, aby je utrzymać. 
 
 #formhome_dscr_3
-WARNING: changing the home region will deplete all its Action Points and will trigger auto-encampment. 
+OSTRZEŻENIE: zmiana regionu macierzystego wyczerpuje wszystkie jego punkty akcji i uruchamia automatyczne obozowanie.
 
 #formhome_sel_c1
-Select the desired home region for this formation.
+Wybierz żądany region macierzysty dla tej formacji.
 
 #formhome_sel_c2
-( The formation needs to be positionned in the desired city to be able to rebase in it )
+(Formacja musi znajdować się w wybranym mieście, aby móc się w niej przesuwać)
 
 #menu_mission_sel
-Action
+Akcja
 
 #menu_mission_sel_c1
-Select the action to perform in this territory.
+Wybierz akcję do wykonania na tym terytorium.
 
 #chat_pm
-Message [x]
+Wiadomość [x]
 
 #chat_faction
-Nation '[x]'
+Państwo „[x]”
 
 #chat_emptytxt
-[type your message here]
+[tutaj wpisz swoją wiadomosć]
 
 #ui_reginf_vsb
-Visibility 
+Widoczność
 
 #chat_r_hall
-Great Hall
+Wielka Sala
 
 #chat_r_ass
-Assembly
+Montaż
 
 #chat_r_councl
-Council
+Rada
 
 #chron_tab1
-World news
+Wiadomości ze świata
 
 #chron_tab2
-My chronicles
+Moje kroniki
 
 #chron_new
-+ New chronicle
++ Nowa kronika
 
 #chron_publish
-Publish
+Publikuj
 
 #char_chrons
-View all chronicles from this character
+Zobacz wszystkie kroniki tej postaci
 
 #chron_sent
-New chronicle published!
+Opublikowano nową kronikę!
 
 #chron_react
-React to this news
+Zareaguj na tą wiadomość
 
 #chron_reactup_1
-This is interesting!
+To jest interesujące!
 
 #chron_reactup_2
-This news will be relayed by your cultural network and will propagate to your contacts.
+Ta wiadomość zostanie przekazana przez twoją sieć kulturową i rozprzestrzeni się do twoich kontaktów.
 
 #chron_reactdw_1
-I don't care about this.
+Nie obchodzi mnie to.
 
 #chron_reactdw_2
-This news will not be relayed by you.
+Ta wiadomości nie będą przez Ciebie przekazywane.
 
 #chron_expand
-read more
+Czytaj więcej
 
 #chron_expand_c1
-click to read the rest of this chronicle
+kliknij, żeby przeczytać resztę tej kroniki
 
 #chron_past_up
-You found this interesting.
+Wydało Ci się to interesujące.
 
 #chron_past_down
-You didn't find this interesting.
+Nie znalazłeś niczego interesującego.
 
 #chron_none
-You havn't been reached by any news from the outside world yet!
+Nie dotarły do Ciebie jeszcze żadne wiadomości ze świata zewnętrznego!
 
 #antl_name
-Annex tool
+Narzędzie aneksu
 
 #antl_dscr
-Allows you to reorganise annexes by changing their owning buildings.
+Pozwala na reorganizację aneksów poprzez zmianę posiadanych przez nie budynków.
 
 #antl_close
-CLOSE
+ZAMKNIJ
 
 #antl_1
-Relink: hold left click and drag.
+Łącz ponownie: przytrzymaj lewy przycisk myszy i przeciągnij.
 
 #antl_2
-Add/remove from select with ctrl+left-click.
+Dodaj/usuń z zaznaczenia za pomocą Ctrl + lewy przycisk myszy.
 
 #antl_3
-Clear selection: right-click.
+Wyczyść wybór: kliknij prawym przyciskiem myszy.
 
 #regmenu_status_c1
-Current territorial status: '[x]' (click to change)
+Aktualny status terytorialny: „[x]” (kliknij, aby zmienić)
 
 #regmenu_powcost
-This territorial status currently costs you [x] of State Power to maintain.
+Utrzymanie tego statusu terytorialnego kosztuje obecnie [x] władzy państwowej.
 
 #regmenu_jobs
-Jobs
+Miejsca pracy
 
 #regmenu_jobs_c1
-All available jobs are filled!
+Wszystkie dostępne mmiejsca pracy są zajęte!
 
 #regmenu_jobs_c2
-[x]% of available jobs are missing workers ([y]).
+[x]% w dostępnych miejscach pracy brakuje pracowników ([y]).
 
 #regmenu_actives
-Employed
+Zatrudnienie
 
 #regmenu_actv_c1
-All actives are currently employed!
+Wszystkie zajęcia są aktualnie obsadzone!
 
 #regmenu_actv_c2
-[x]% of actives are jobless ([y]).
+[x]% aktywnych zawodowo jest bezrobotnych ([y]).
 
 #regmenu_inc
-Budget balance of this territory
+Saldo budżetowe tego terytorium
 
 #regmenu_inc_dscr
-It is the result of all state incomes and expenses, such as taxes, trade balance, salaries and maintenance costs.
+Jest to wynik wszystkich dochodów i wydatków państwa, takich jak podatki, bilans handlowy, wynagrodzenia i koszty utrzymania.
 
 #regmenu_admin
-Administration balance of this territory
+Bilans administracyjny tego terytorium
 
 #regmenu_admin_dscr
-A badly administered territory generates more waste and corruption, reducing all sources of incomes.
+Źle administrowane terytorium generuje więcej marnotrawstwa i korupcji, zmniejszając wszystkie źródła dochodów.
 
 #regmenu_wealth
-Total wealth of this territory
+Całkowite bogactwo tego terytorium
 
 #regmenu_wealth_dscr
-Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+Bogactwo jest miarą całej produktywnej pracy wykonywanej obecnie na tym terytorium, niezależnie od ich wartości rynkowej w monetach.
 
 #regmenu_gdp
-GDP of this territory
+PKB terytorium
 
 #regmenu_gdp_dscr
-An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+Wskaźnik ekonomiczny będący sumą wszystkich dochodów generowanych na tym terytorium (państwa lub ludności) w okresie 10 cykli gospodarczych.
 
 #regmenu_growth_1
-Current demographic evolution: [x] Porcos [y].
+Obecna ewolucja demograficzna: [x] Wieprzy [y].
 
 #regmenu_growth_2
-Active population: [x] [y]
+Aktywna populacja: [x] [y]
 
 #regmenu_vitals_1
-Vital needs of the population are currently [x]% satisfied.
+Podstawowe potrzeby ludności są obecnie zaspokojone w [x]%.
 
 #regmenu_vitals_2
-Low vital needs reduce birth rate and increases mortality.
+Niskie podstawowe potrzeby zmniejszają przyrost naturalny i zwiększają śmiertelność.
 
 #subjug_title
-Subjugate
+Ujarzmij
 
 #subjug_can
-You can automatically subjugate [x].
+Możesz automatycznie podporządkować sobie [x].
 
 #subjug_dscr
-This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+To zakończy wojnę między Tobą a [x]. To państwo zostanie zintegrowany z Twoim jako Twój wasal, z traktatem kapitulacyjnym przenoszącym na Ciebie władzę państwową i dochody z podatków. Wszystkie terytoria zajmowane obecnie przez siły Twojego państwa zostaną automatycznie przeniesione do [x].
 
 #subjug_cant
-You cannot subjugate [x] yet.
+Nie możesz jeszcze ujarzmić [x].
 
 #subjug_cant_dscr
-A character that has lost control of all its territories in a war can be automatically subjugated, provided that you are occupying at least one its territories. Subjugation will force his capitulation and make him your vassal, integrating him into your nation.
+Postać, która utraciła kontrolę nad wszystkimi terytoriami podczas wojny, może zostać automatycznie ujarzmiona, pod warunkiem, że okupujesz przynajmniej jedno z jej terytoriów. Ujarzmienie zmusi go do kapitulacji i uczyni go wasalem, integrując go z waszym państwem.
 
 #subjug_cant_why
-To subjugate this character you need to take control of:
+Aby ujarzmić tę postać, musisz przejąć kontrolę nad:
 
 #subjug_apply
-Subjugate!
+Ujarzmij!
 
 #info_cltrtrsfr
-[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+[x] osób przeniosło się z [y] do [z], przenosząc kulturę [v] z rodzinnego miasta do [z].
 
 #info_supportlmt
-This territory cannot support more units and does not allow overdraft!
+To terytorium nie może obsługiwać większej liczby jednostek i nie pozwala na debet!
 
 #displyr_c1
-click to select a display layer.
+kliknij, aby wybrać warstwę wyświetlania.
 
 #displyr_c2
-currently displayed:
+aktualnie wyświetlane:
 
 #button_togh_c1
-toggle heights display
+Przełącz wyświetlanie wysokości
 
 #button_togh_c2
-heights: 
+wysokości:
 
 #displyr_normal
-Normal view
+Normalny widok
 
 #displyr_fertil
-Fertility
+Żyzność
 
 #displyr_gwater
-Groundwater
+Wody gruntowe
 
 #displyr_height
-Heights
+Wysokość
 
 #displyr_fortif
-Fortifications
+Fortyfikacje
 
 #warn_moveprim
-You're probably about to make a mistake...
+Prawdopodobnie popełnisz błąd...
 
 #warn_moveprim_1
-Starting the game by moving your whole primitive tribe is a VERY dangerous decision that can quickly lead to defeat or being stuck for a significant time. Unless you know exactly what you're doing, it is HIGHLY advised to settle on your starting region: you can always explore with a smaller party later on and then organize a safe migration to better lands.
+Rozpoczęcie gry przez przeniesienie całego prymitywnego plemienia to BARDZO niebezpieczna decyzja, która może szybko doprowadzić do porażki lub utknięcia na dłuższy czas. O ile nie wiesz dokładnie, co robisz, BARDZO radzimy osiedlić się w regionie startowym: zawsze możesz później eksplorować z mniejszą drużyną, a następnie zorganizować bezpieczną migrację do lepszych krajów.
 
 #treaty_offr_sent
-Treaty offer successfully sent!
+Oferta traktatu wysłana pomyślnie!
 
 #startuto_cmplt
-Starting tutorial completed!
+Uruchamianie samouczka zakończone!
 
 #cnvrt_mil_err
-Insufficient population to convert this milita!
+Niewystarczająca liczba ludności, aby powołać tę milicje!
 
 #mg_localgame
-local game
+lokalna gra
 
 #mg_remove_1
-remove from 'my games'
+usuń z „moich gier”
 
 #mg_remove_2
-(this is only a shortcut, deleting it doesnt delete your actual character in that game)
+(to tylko skrót, usunięcie go nie usuwa twojej rzeczywistej postaci w tej grze)
 
 #mg_serverstatus
-server status
+status serwera
 
 #mg_srvr_unknown
-unknown
+nieznany
 
 #mg_srvr_online
 online
 
 #uiworldforms_inreg
-Formations in this territory
+Formacje na tym terytorium
 
 #uiworldforms_novisib
-Unknown: no visibility
+Nieznane: brak widoczności
 
 #formmisspop
-Not enough population in territory to fully pig-up this troop!
+Za mało populacji na terytorium, aby w pełni obsadzić ten oddział!
 
 #autoban_cheat
-Account banned for cheating.
+Konto zbanowane za oszukiwanie.
 
 #autoban_vm
-Account banned for usage of a Vitrual Machine.
+Konto zablokowane za korzystanie z maszyny wirtualnej.
 
 #autoban_device
-Account banned for attempting to cheat the one-device-only restriction.
+Konto zbanowane za próbę oszukania ograniczenia tylko na jedno urządzenie.
 
 #autobanned
-You've been banned from this server by the automatic anti-cheat.
+Zostałeś wyrzucony z tego serwera przez automatyczne zabezpieczenie przed oszustwami.
 
 #modbanned
-You've been manually banned from this server by its admin.
+Zostałeś ręcznie wyrzucony z tego serwera przez jego administratora.
 
 #insuf_funds
-Insufficient funds!
+Niewystarczające środki!
 
 #trtybrk_load
-Checking treaties...
+Sprawdzanie traktatów ...
 
 #trtybrk_none
-No treaties will be broken by this action.
+Żadne traktaty nie zostaną złamane przez to działanie.
 
 #trtybrk_warn
-WANRING! This action will trigger the breaking of the following treaties:
+OSTRZEŻENIE! Ta akcja spowoduje zerwanie następujących traktatów:
 
 #ui_menubdg_prio
-Storage priority
+Priorytet przechowywania
 
 #sc_menubdg_prio_c1
-Select the level of priority for stocking new resources into this storage building as opposed to other storages.
+Wybierz poziom priorytetu magazynowania nowych zasobów w tym budynku, w przeciwieństwie do innych magazynów.
 
 #ui_menubdg_stck_wlth_c1
-Stored wealth
+Przechowywane bogactwo
 
 #ui_menubdg_stck_wlth_c2
-The resources currently in this storage are adding [x] to the total Wealth of this territory.
+Zasoby znajdujące się obecnie w tym magazynie dodają [x] do całkowitego bogactwa tego terytorium.
 
 #ui_menubdg_stck_wlth_c3
-The stored wealth is the sum of all resources' base wealth. The base wealth of resources is a constant based on how much workforce is required to produce them. 
+Zgromadzone bogactwo jest sumą podstawowego bogactwa wszystkich zasobów. Podstawowe bogactwo zasobów jest stałą zależną od ilości siły roboczej potrzebnej do ich wyprodukowania.
 
 #ui_regwlth_tot
-Total wealth
+Całkowite bogactwo
 
 #ui_regwlth_tot_c1
-Effective available wealth in the territory. It is shared between all active workers based on their coin incomes and it determines their individual wealth level and purchasing power.
+Efektywne bogactwo dostępne na terytorium. Jest dzielony między wszystkich aktywnych pracowników na podstawie ich dochodów z monet i określa ich indywidualny poziom zamożności i siłę nabywczą.
 
 #ui_regwlth_prod
-Produced wealth
+Wytworzone bogactwo
 
 #ui_regwlth_prod_c1
-Current total wealth from all productive work taking place in the territory, it's the sum of all buildings whose work produces wealth.
+Obecne całkowite bogactwo z całej produktywnej pracy wykonywanej na tym terytorium, to suma wszystkich budynków, których praca wytwarza bogactwo.
 
 #ui_regwlth_stck
-Stored wealth
+Zgromadzone bogactwo
 
 #ui_regwlth_stck_c1
-Current total wealth from all the currently stored resources in the territory (note that resources stored in unmanned ground storages are ignored).
+Obecne całkowite bogactwo ze wszystkich aktualnie przechowywanych zasobów na terytorium (pamiętaj, że zasoby przechowywane w bezzałogowych magazynach naziemnych są ignorowane).
 
 #ui_regwlth_mtl
-Representative money
+Reprezentatywne pieniądze
 
 #ui_regwlth_mtl_c1
-With the representative money policy, precious metals stocks (Gold & Silver) add up to the territory's wealth.
+Przy reprezentatywnej polityce pieniężnej zapasy metali szlachetnych (złoto i srebro) zwiększają bogactwo tego terytorium.
 
 #ui_regwlth_mtl_c2
-Current stocks are providing a bonus of +[x]% of wealth.
+Obecne zapasy zapewniają premię w wysokości + [x]% bogactwa.
 
 #ui_regwlth_prv
-[x]% of priviledges
+[x]% uprawnień
 
 #ui_regwlth_prv_c1
-Wealth diverted directly by priviledged social classes
+Bogactwo przekierowane bezpośrednio przez uprzywilejowane klasy społeczne
 
 #ui_regwlth_prv_c2
-[x]% of [y] wealth = [z] diverted by privileges
+[x]% [y] bogactwa = [z] przekierowane przez przywileje
 
 #ui_tradeordr_your
-Your orders in [x]
+Twoje zamówienia w [x]
 
 #ui_tradeordr_in
-in [x]
+w [x]
 
 #ui_tradeordr_recur
-Recurring order
+Zamówienie cykliczne
 
 #ui_tradeordr_recur_c1
-Click to make this order recurrent and automatically triggered based on the territory's stocks.
+Kliknij, aby to zamówienie było powtarzane i automatycznie uruchamiane na podstawie zasobów danego terytorium.
 
 #ui_tradeordr_stcktrg1
-...when stocks are inferior to
+... kiedy zapasy są poniżej
 
 #ui_tradeordr_stcktrg2
-...when stocks are superior to
+... kiedy zapasy są powyżej
 
 #ui_tradeordr_instck
-In stock
+Na stanie
 
 #ui_tradeordr_lclprc
-Local price
+Cena lokalna
 
 #ui_tradeordr_inc1
-Trade's raw income
+Surowy dochód z handlu
 
 #ui_tradeordr_inc1_c1
-This is the raw income this trade offer will generate if taken, based on the amount sold and specified limit price.
+Jest to surowy dochód, który ta oferta handlowa wygeneruje, jeśli zostanie wykorzystana, w oparciu o sprzedaną kwotę i określoną cenę graniczną.
 
 #ui_tradeordr_inc2
-Local producer's share
+Udział lokalnego producenta
 
 #ui_tradeordr_inc2_c1
-If the sold resources are privately owned, their local owners must be paid at the local price for the amount sold.
+Jeśli sprzedane zasoby są własnością prywatną, ich lokalni właściciele muszą zapłacić lokalną cenę za sprzedaną ilość.
 
 #ui_tradeordr_inc2_c2
-* Local producers own [x], at a local price of [y]: +[z] coins
+* Lokalni producenci posiadają [x] po lokalnej cenie [y]: + [z] monet
 
 #ui_tradeordr_inc2_c3
-* Income tax of [x]%: -[y] coins
+* Podatek dochodowy w wysokości [x]%: - [y] monety
 
 #ui_tradeordr_inc2_c4
-* Actual income for local producers: [x] coins
+* Rzeczywisty dochód lokalnych producentów: monety [x]
 
 #ui_tradeordr_inc3
-Expected profit
+Oczekiwany zysk
 
 #ui_tradeordr_inc3_c1
-This is the expected profit expected for this trade offer.
+Jest to oczekiwany zysk dla tej oferty handlowej.
 
 #ui_tradeordr_inc4
-Trade's raw expense (deposit)
+Surowy koszt handlu (depozyt)
 
 #ui_tradeordr_inc4_c1
-This is the maximum raw expense of this trade based on the amount purchased and specified limit price. Immediately taken from the treasury to insure the order.
+Jest to maksymalny surowy koszt tej transakcji w oparciu o zakupioną kwotę i określoną cenę graniczną. Natychmiast pobierane ze skarbca w celu ubezpieczenia zamówienia.
 
 #ui_tradeordr_inc5
-Potential local incomes
+Potencjalne dochody lokalne
 
 #ui_tradeordr_inc5_c1
-If the purchased resources are then sold locally, this is the income they will generate based on their local selling price.
+Jeśli zakupione zasoby są następnie sprzedawane lokalnie, jest to dochód, jaki wygenerują w oparciu o lokalną cenę sprzedaży.
 
 #ui_tradeordr_inc6
-Expected profit
+Oczekiwany zysk
 
 #ui_tradeordr_inc6_c1
-This is the expected profit if all purchased resources are then sold locally.
+Jest to oczekiwany zysk, jeśli wszystkie zakupione zasoby zostaną następnie sprzedane lokalnie.
 
 #ui_tradeordr_inc7
-Expected waste of -[x]%
+Oczekiwane marnotrawstwo - [x]%
 
 #ui_tradeordr_inc7_c1
-This is the expected profit lost to waste based on the current waste rate of [x]% in this territory.
+Jest to oczekiwany zysk utracony na skutek marnotrawstwa na podstawie obecnego wskaźnika odpadów wynoszącego [x]% na tym terytorium.
 
 #ui_tradeordr_prc1
-Maximum purchasing price. If selling offers are available at a lower price, they will be filled in priority generating more income than predicted.
+Maksymalna cena zakupu. Jeśli oferty sprzedaży są dostępne po niższej cenie, zostaną wypełnione w pierwszej kolejności, generując większy dochód niż przewidywano.
 
 #ui_tradeordr_prc2
-Minimum selling price. If buying offers are available at a higher price, they will be filled in priority generating more income than predicted.
+Minimalna cena sprzedaży. Jeśli oferty kupna są dostępne po wyższej cenie, zostaną wypełnione w pierwszej kolejności generując większy dochód niż przewidywano.
 
 #ui_tradeordr_quant
-Enter the amount of resources to trade for this offer.
+Wprowadź ilość zasobów do wymiany w ramach tej oferty.
 
 #ui_tradeordr_trdsrvcav
-This offer requires [x] of trading service. You have currently [y] available.
+Ta oferta wymaga [x] usług handlowych. Aktualnie masz [y] dostępnych.
 
 #ui_tradeordr_cant
-This resource cannot be traded!
+Tym surowcem nie można handlować!
 
 #ui_tradeordr_showall
-Show all resources
+Pokaż wszystkie zasoby
 
 #ui_tradeordr_showall_c1
-Show pending orders for this territory of all resources.
+Pokaż oczekujące zamówienia dla tego terytorium dla wszystkich zasobów.
 
 #ui_tradeordr_allreg
-For all territories
+Na wszystkie terytoria
 
 #ui_tradeordr_allreg_c1
-Show the trading history of all your territories combined instead of just the currently selected one.
+Pokaż historię handlową wszystkich swoich terytoriów łącznie, a nie tylko aktualnie wybranego.
 
 #ui_tradeordr_nocoin
-Insufficient treasury funds to place this order.
+Niewystarczające fundusze skarbowe, aby złożyć to zamówienie.
 
 #ui_tradeordr_nostck1
-Insufficient resources in stock to place this order.
+Brak zasobów w magazynie, aby złożyć zamówienie.
 
 #ui_tradeordr_nostck2
-Impossible to set a sell order of an amount higher than the stock triggering it.
+Niemożliwe jest ustawienie zlecenia sprzedaży na kwotę wyższą niż wartość akcji, która je uruchomiła.
 
 #ui_tradeordr_priclmt1
-This order conflicts with a selling order from the same territory at a price of [x].
+To zamówienie jest sprzeczne ze zleceniem sprzedaży z tego samego terytorium po cenie [x].
 
 #ui_tradeordr_priclmt2
-This order conflicts with a buying order from the same territory at a price of [x].
+To zamówienie jest sprzeczne ze zleceniem zakupu z tego samego terytorium po cenie [x].
 
 #ui_tradeordr_trdsrvc_c1
-Trading service is produced by Market buildings and is required to set and maintain orders in your trading network.
+Usługi handlowe są wytwarzane przez budynki Rynku i są wymagane do składania i utrzymywania zamówień w Twojej sieci handlowej.
 
 #ui_tradeordr_trdsrvc_c2
-* Your functionning Markets in this territory currenty produce [x] of Trading service. 
+* Wasze funkcjonujące rynki na tym terytorium wytwarzają obecnie [x] usług handlowych. 
 
 #ui_tradeordr_trdsrvc_c3
-* You current orders currently consumme [x] of Trading service.
+* Twoje bieżące zamówienia wykorzystują obecnie [x] zleceń handlowych.
 
 #ui_tradeordr_trdsrvc_c4
-* You have [x] of Trading service available for new orders.
+* Masz [x] zleceń handlowych dostępnych dla nowych zamówień.
 
 #ui_tradeordr_butn_c1
-Buying [x] [y] at a maximum price of [z] coins per unit.
+Kupowanie [x] [y] po maksymalnej cenie [z] monet za sztukę.
 
 #ui_tradeordr_butn_c2
-Recurrent buying of [x] [y] at a maximum price of [z] coins per unit triggered whenever stocks go below [v].
+Powtarzający się zakup [x] [y] po maksymalnej cenie [z] monet za jednostkę, dokonywany, gdy zapasy spadną poniżej [v].
 
 #ui_tradeordr_butn_c3
-Selling [x] [y] at a minimum price of [z] coins per unit.
+Sprzedaż [x] [y] po minimalnej cenie [z] monet za sztukę.
 
 #ui_tradeordr_butn_c4
-Recurrent selling of [x] [y] at a minimum price of [z] coins per unit triggered whenever stocks reach [v].
+Powtarzająca się sprzedaż [x] [y] po cenie minimalnej [z] monet za jednostkę, uruchamiana, gdy zapasy osiągną [v].
 
 #ui_tradeordr_butn_c5
-This order is currently inactive. It will automatically trigger if stocks of [x] reach [y] in this territory.
+To zamówienie jest obecnie nieaktywne. Zostanie automatycznie uruchomione, jeśli zasoby [x] osiągną [y] na tym terytorium.
 
 #ui_tradeordr_butn_c6
-This order is currently active. It will automatically cancel if stocks of [x] go below [y] (stock trigger [z] -order size [v]) in this territory.
+To zamówienie jest obecnie aktywne. Zostanie on automatycznie anulowany, jeśli zapasy [x] spadną poniżej [y] (wielkość zamówienia [z] - wielkość zamówienia [v]) na tym terytorium.
 
 #ui_tradeordr_butn_c7
-This order is currently inactive. It will automatically trigger if stocks of [x] go below [y] in this territory.
+To zamówienie jest obecnie nieaktywne. Uruchomi się automatycznie, jeśli zasoby [x] spadną poniżej [y] na tym terytorium.
 
 #ui_tradeordr_butn_c8
-This order is currently active. It will automatically cancel if stocks of [x] go above [y] (stock trigger [z] +order size [v]) in this territory.
+To zamówienie jest obecnie aktywne. Zostanie automatycznie anulowany, jeśli zapasy [x] przekroczą [y] (wyzwalanie zapasów [z] + wielkość zamówienia [v]) na tym terytorium.
 
 #ui_tradeordr_shwinctv
-Show inactive orders
+Pokaż nieaktywne zamówienia
 
 #ui_tradeordr_shwinctv_c1
-Click to toggle the display of recurrent orders that are currently inactive.
+Kliknij, aby przełączyć wyświetlanie powtarzających się zamówień, które są obecnie nieaktywne.
 
 #ui_tradeordr_butn_c9
-Offer in [x], from [y] of [z] ([v])
+Oferta w [x], od [y] z [z] ([v])
 
 #ui_tradeordr_butn_c10
-Offer in [x], from you
+Oferta w [x] od Ciebie
 
 #ui_tradebook_title
-Orders book
+Książka zamówień
 
 #ui_tradebook_buy
 Best ask
@@ -6139,394 +6136,394 @@ Ask orders depth
 Bid orders depth
 
 #ui_tradebook_nosell
-No selling offers in your trading network!
+Brak ofert sprzedaży w Twojej sieci handlowej!
 
 #ui_tradebook_nobuy
-No buying offers in your trading network!
+Brak ofert kupna w Twojej sieci handlowej!
 
 #ui_tradebook_noofr
-You havn't any openned orders in this territory.
+Nie masz żadnych otwartych zamówień na tym terytorium.
 
 #ui_tradebook_nbuy_c1
-Place a one-time buying order for [x] [y] at maximum price of [z] coins.
+Złóż jednorazowe zlecenie kupna za [x] [y] po maksymalnej cenie [z] monet.
 
 #ui_tradebook_nbuy_c2
-[x] coins will immediately be taken from your treasury and reserved for this order. Note that if the order is cancelled or satisfied at a lower price, the difference will be returned to the treasury.
+Monety [x] zostaną natychmiast zabrane z twojego skarbca i zarezerwowane dla tego zamówienia. Zauważ, że jeśli zamówienie zostanie anulowane lub zrealizowane po niższej cenie, różnica zostanie zwrócona do skarbca.
 
 #ui_tradebook_nbuy_c3
-Place a recurring buying order for [x] [y] at maximum price of [z] coins everytime territory's stocks are below [v].
+Złóż powtarzające się zlecenie kupna na [x] [y] po maksymalnej cenie [z] monet za każdym razem, gdy zapasy terytorium spadną poniżej [v].
 
 #ui_tradebook_nbuy_c4
-* Activates when territory go below [x] of [y].
+* Aktywuje się, gdy terytorium spadnie poniżej [x] z [y].
 
 #ui_tradebook_nbuy_c5
-* Deactivates when territory reaches [x] of [y].
+* Dezaktywuje, gdy terytorium osiągnie [x] z [y].
 
 #ui_tradebook_nsell_c1
-Place a one-time selling order for [x] [y] at minimum price of [z] coins.
+Złóż jednorazowe zlecenie sprzedaży na [x] [y] po cenie minimalnej [z] monet.
 
 #ui_tradebook_nsell_c2
-[x] [y] will immediately be taken from your resource stocks and reserved for this order.
+[x] [y] zostanie natychmiast pobrane z twoich zasobów i zarezerwowane dla tego zamówienia.
 
 #ui_tradebook_nsell_c3
-Place a recurring selling order for [x] [y] at minimum price of [z] coins everytime the territory's stocks reach [v].
+Złóż powtarzające się zlecenie sprzedaży na [x] [y] po cenie minimalnej [z] monet za każdym razem, gdy zapasy terytorium osiągną [v].
 
 #ui_tradebook_nsell_c4
-* Activates when territory reaches [x] of [y].
+* Aktywuje się, gdy terytorium osiągnie [x] z [y].
 
 #ui_tradebook_nsell_c5
-* Deactivates when territory go below [x] of [y].
+* Dezaktywuje, gdy terytorium spadnie poniżej [x] z [y].
 
 #ui_tradehist_ttle
-History
+Historia
 
 #ui_tradehist_ttle_c1
-Trading history in the territory of [x], for the last [y].
+Historia handlu na terytorium [x], od [y].
 
 #ui_tradehist_but_c1
-[x] ago, in [y]:
+[x] temu, w [y]:
 
 #ui_tradehist_but_c2
-You bought [x] [y] to [z] at price [v].
+Kupiłeś od [x] [y] do [z] po cenie [v].
 
 #ui_tradehist_but_c3
-You sold [x] [y] to [z] at price [v].
+Sprzedałeś [x] [y] do [z] po cenie [v].
 
 #ui_tradehist_but_c4
-* Gross income: +[x] coins
+* Dochód brutto: + [x] monet
 
 #ui_tradehist_but_c5
-* Local producers share: -[x] coins
+* Lokalni producenci dzielą się: - [x] monetami
 
 #ui_tradehist_but_c6
-* Profit & Taxes: [x] coins
+* Zysk i podatki: [x] monet
 
 #ui_tradehist_but_c7
-* Total cost: [x] coins
+* Całkowity koszt: [x] monet
 
 #ui_tradehist_but_c8
-* Waste: -[x] coins
+* Marnotrastwo: - [x] monet
 
 #menu_res_gen
-General
+Generał
 
 #menu_res_wealth_c1
-The base wealth of this resource type. This is an objective constant independent of the fluctuating market value of the resource, based on the amount of work required to produce this resource. 
+Podstawowe bogactwo tego typu surowca. Jest to obiektywna stała niezależna od zmieniającej się wartości rynkowej zasobu, oparta na ilości pracy wymaganej do wyprodukowania tego zasobu.
 
 #menu_res_wealth_c2
-If stocked in proper storage buildings, each unit will add [x] to the territory's wealth.
+Każda jednostka zaopatrzona w odpowiednie budynki magazynowe doda [x] do bogactwa terytorium.
 
 #menu_res_trd
-Trading
+Handluj
 
 #menu_res_trd2
-Trade
+Handel
 
 #ui_tradehist_tots
-Total sales
+Całkowita sprzedaż
 
 #ui_tradehist_tots_c1
-Total income from sales since the last [x].
+Całkowity dochód ze sprzedaży od ostatniego [x].
 
 #ui_tradehist_totb
-Total purchases
+Całkowite zakupy
 
 #ui_tradehist_totb_c1
-Total expenses from purchases since the last [x].
+Całkowite wydatki z zakupów od ostatniego [x].
 
 #ui_tradehist_prtnr
-Best partner
+Najlepszy partner
 
 #ui_tradehist_bs
-their purchases: [x], sales: [y]
+ich zakupy: [x], sprzedaż: [y]
 
 #ui_tradentwk_title
-Best offers
+Najlepsze oferty
 
 #ui_tradentwk_title_c1
-Best available offers in your current trading network, for each resource type.
+Najlepsze dostępne oferty w Twojej obecnej sieci handlowej dla każdego rodzaju zasobów.
 
 #ui_tradentwk_bst_c1
-* Best bid offer available: [x] coins
+* Najlepsza dostępna oferta: monety [x]
 
 #ui_tradentwk_bst_c2
-* Best ask offer available: [x] coins
+* Najlepsza dostępna oferta sprzedaży: monety [x]
 
 #ui_tradentwk_bst_c3
-* No bid offers available.
+* Brak dostępnych ofert.
 
 #ui_tradentwk_bst_c4
-* No ask offers available.
+* Brak dostepnych ofert.
 
 #ui_tradentwk_bst_c5
-in stock: [x], local price: [y]
+w magazynie: [x], cena lokalna: [y]
 
 #ui_tradentwk_prof
-Filter unprofitable offers
+Filtruj nierentowne oferty
 
 #ui_tradentwk_prof_c1
-Only list resources whose best offers are potentially profitable for this territory:
+Wymień tylko zasoby, których najlepsze oferty są potencjalnie dochodowe na tym terytorium:
 
 #ui_tradentwk_prof_c2
-If the best bid is superior or equal to the local price, or if the best ask is lower or equal to the local price.
+Jeśli najlepsza oferta jest wyższa lub równa cenie lokalnej lub jeśli najlepsza oferta jest niższa lub równa cenie lokalnej.
 
 #menu_res_trdfrm
-Trade from...
+Handel z...
 
 #menu_res_trdfrm_c1
-Select the territory to consider for trading with [x].
+Wybierz terytorium, na którym chcesz handlować z [x].
 
 #button_opertrt_c1
-Operating a trade route between [x] of [y] and [z] of [v].
+Obsługa szlaku handlowego między [x] z [y] a [z] z [v].
 
 #button_opertrt_c2
-* using [x] cargo at price [y]:  [z] coins
+* przy użyciu [x] ładunku po cenie [y]: [z] monet
 
 #button_opertrt_c3
-* buying cargo at local price [x]:  -[y] coins
+* zakup ładunku po cenie lokalnej [x]: - [y] monet
 
 #button_opertrt_c4
-* operation profit:  [x] coins
+* zysk operacyjny: [x] monet
 
 #button_routeitem_c1
-Importing [x] of [y] at price [z] from [v], for a total cargo volume of [w].
+Import [x] z [y] po cenie [z] z [v], dla całkowitej objętości ładunku [w].
 
 #button_routeitem_c2
-Purchased from the trade route at price [x] for [y] coins and currently reselling in [z] at price [v] for [w] coins.
+Zakupione na szlaku handlowym po cenie [x] za [y] monet i obecnie odsprzedawane w [z] po cenie [v] za [w] monet.
 
 #button_routeitem_c3
-Exporting [x] of [y] at price [z] towards [v], for a total cargo volume of [w].
+Eksport [x] z [y] po cenie [z] w kierunku [v], dla całkowitej objętości ładunku [w].
 
 #button_routeitem_c4
-Purchased from local producers at price [x] for [y] coins and currently sold to the trade route for [z] at price [v] for [w] coins.
+Kupowane od lokalnych producentów po cenie [x] za [y] monet i obecnie sprzedawane na szlaku handlowym za [z] po cenie [v] za [w] monet.
 
 #button_routeownr
-Trade route owner
+Właściciel szlaku handlowego
 
 #button_routeownr_c1
-The trade route owner is the one who opened the trade route, and is the only one paying the required cargo and able to choose the route's operator.
+Właściciel szlaku handlowego to ten, który otworzył szlak handlowy i jako jedyny płaci za wymagany ładunek i może wybrać operatora szlaku.
 
 #button_routeresedit_1
-This is a trade route with a third party: you may only reduce the amount traded.
+To jest szlak handlowy ze stroną trzecią: możesz tylko zmniejszyć wartość transakcji.
 
 #button_routeresedit_2
-This is a trade route that you fully control, and you may increase or reduce the amount traded.
+Jest to trasa handlowa, którą w pełni kontrolujesz i możesz zwiększyć lub zmniejszyć wielkość transakcji.
 
 #srvr_restart
-Warning: Server daily auto-restart in [x]!
+Ostrzeżenie: codzienny automatyczny restart serwera za [x]!
 
 #srvr_decorstrt
-The server is restarting and will be back online in a few minuts.
+Serwer jest restartowany i za kilka minut będzie znowu online.
 
 #ui_char_notblk
-This character isn't currenlty blocked. Click to block.
+Ta postać nie jest obecnie zablokowana. Kliknij, aby zablokować.
 
 #ui_char_isblk
-This character is currently blocked. Click to unblock.
+Ta postać jest obecnie zablokowana. Kliknij, aby odblokować.
 
 #ui_char_nowblk
-This character is now blocked.
+Ta postać jest teraz zablokowana.
 
 #ui_char_nowunblk
-This character is no longer blocked.
+Ta postać nie jest już blokowana.
 
 #ui_char_blk_dscr_1
-Blocking hides all the chats, messages, and chronicles from this character.
+Blokowanie ukrywa wszystkie czaty, wiadomości i kroniki przed tą postacią.
 
 #ui_char_blk_dscr_2
-It also replaces all his territory names with default ones.
+Zastępuje również wszystkie nazwy jego terytoriów domyślnymi.
 
 #ui_govcltr_civpt_c1
-You currently have [x] unused Civilization Points available to invest in new cultural traits.
+Obecnie masz [x] niewykorzystanych Punktów Cywilizacji do zainwestowania w nowe cechy kulturowe.
 
 #ui_govcltr_civpt_c2
-You are currently producing [x] of State Culture [y].
+Obecnie produkujesz [x] kultury państwowej [y].
 
 #ui_govcltr_civpt_dscr_1
-Civilization Points allow you to customize and specialize your culture by investing your points in several different categories providing various perks such as unlocking the consumption and production of resources, enabling behavioral traits and modifying your architecture style.
+Punkty cywilizacji pozwalają dostosowywać i specjalizować swoją kulturę, inwestując punkty w kilka różnych kategorii, zapewniając różne korzyści, takie jak odblokowanie zużycia i produkcji zasobów, włączanie cech behawioralnych i modyfikowanie stylu architektury.
 
 #ui_govcltr_civpt_dscr_2
-These points are mainly earned through the generation of State Culture in all your territories, but they can also be earned through event and project rewards.
+Punkty te są zdobywane głównie poprzez generowanie kultury państwowej na wszystkich twoich terytoriach, ale można je również zdobyć dzięki nagrodom za wydarzenia i projekty.
 
 #ui_govcltr_civpt_dscr_3
-These points cannot be refunded once invested: choose your traits carefully!
+Te punkty nie mogą zostać zwrócone po zainwestowaniu: starannie wybierz cechy!
 
 #ui_govcltr_civpt_use_c1
-You currently have invested [x] Points out of a total of [y] earned points so far.
+Obecnie zainwestowałeś [x] punktów z łącznej liczby [y] zdobytych punktów.
 
 #ui_govcltr_lvl
-Culture level
+Poziom kultury
 
 #ui_govcltr_lvl_c1
-Your current culture level is [x].
+Twój obecny poziom kultury to [x].
 
 #ui_govcltr_lvl_c2
-For every new level reached, you will gain an extra Civilization Point.
+Za każdy osiągnięty poziom otrzymasz dodatkowy punkt cywilizacji.
 
 #ui_govcltr_nxtlvl
-Next level
+Następny poziom
 
 #ui_govcltr_xpbar_c1
-You need to generate [x] of State Culture to reach the next Culture Level.
+Aby osiągnąć następny poziom kultury, musisz wygenerować [x] kultury państwowej.
 
 #ui_govcltr_xpbar_c2
-You are currently generating [x] of State Culture [y] in all your territories.
+Obecnie generujesz [x] kultury państwowej [y] na wszystkich swoich terytoriach.
 
 #ui_govcltr_xpbar_dscr_1
-The main way to earn new Civilization Points is by leveling up your Culture: you gain one new point for every new level.
+Głównym sposobem zdobywania nowych punktów cywilizacji jest podnoszenie poziomu swojej kultury: zdobywasz jeden nowy punkt za każdy nowy poziom.
 
 #ui_govcltr_xpbar_dscr_2
-Levelling up is achieved by producing State Culture in your territories and each new level requires more Culture than the previous one.
+Awans na wyższy poziom osiąga się poprzez produkcję kultury państwowej na swoich terytoriach, a każdy nowy poziom wymaga więcej kultury niż poprzedni.
 
 #ui_formmove_blckd
-Movement was cancelled because its path was blocked by hostiles!
+Ruch został anulowany, ponieważ jego ścieżka została zablokowana przez wrogów!
 
 #ui_rveal_res
-We have discovered [x] in [y]!
+Odkryliśmy [x] w [y]!
 
 #ui_cltr_customs
-CULTURAL CUSTOMS
+ZWYCZAJ KULTUROWY
 
 #ui_custom_dscr
-Customs represent the cultural practice of your people to consumme a specific type of resource. Customs enable the demand for this resource allowing it to be distributed,sold, and consummed by your population.
+Zwyczaje reprezentują kulturową praktykę twojego ludu polegającą na konsumowaniu określonego rodzaju zasobów. Zwyczaje umożliwiają popyt na ten surowiec, umożliwiając jego dystrybucję, sprzedaż i konsumpcję przez twoją populację.
 
 #ui_cltr_skills
-CULTURAL SKILLS
+UMIEJĘTNOŚCI KULTUROWE
 
 #ui_skills_dscr
-Skills represent the cultural traditions of craftsmanship of your people and allow you to unlock the production of new resources and to specialize your people by further improving production efficiency or quality of specific resources.
+Umiejętności reprezentują kulturowe tradycje rzemieślnicze twoich ludzi i pozwalają ci odblokować produkcję nowych zasobów i wyspecjalizować twoich ludzi poprzez dalsze zwiększanie wydajności produkcji lub jakości określonych zasobów.
 
 #ui_custom_new
-Select a new resource
+Wybierz nowy zasób
 
 #ui_cltr_traitfx
-Trait effect
+Efekt cechy
 
 #ui_pass_custom
-ADOPT THIS TRAIT
+PRZYJMUJ TĘ CECHĘ
 
 #ui_pass_custom_c
-Click to spend [x] Civilization Point to adopt this cultural trait.
+Kliknij, aby wydać [x] Punktu Cywilizacji, aby przyjąć tę cechę kulturową.
 
 #resprop_distrib
-Can be sold and consummed by population
+Może być sprzedawany i konsumowany przez populację
 
 #resprop_need
-Satisfies the population need for '[x]'
+Zaspokaja zapotrzebowanie populacji na „[x]”
 
 #resprop_farm
 Cultivable
 
 #resprop_cltr
-[x] of State Culture on consumption
+[x] Kultury Państwowej za konsumpcji
 
 #resprop_admin
-[x] of Administration
+[x] Administracji
 
 #resprop_health
-[x] of health on consumption
+[x] zdrowia za konsumpcję
 
 #resprop_intel
-[x] of intelligence on consumption
+[x] inteligencji za kopnsumcje
 
 #resprop_conflict
-[x]% of conflict on consumption
+[x]% konfliktu za konsumpcje
 
 #resprop_waste
-[x]% of waste on consumption
+[x]% marnotrastwa za konsumpcje
 
 #resprop_nocustom
-No Custom needed for consumption
+Do konsumpcji nie jest potrzebny zwyczaj
 
 #resprop_noskill
-No Skill needed for production
+Do produkcji nie są potrzebne żadne umiejętności
 
 #ui_cltr_cp_dscr
-These points allow you to customize your culture through Cultural Traits.
+Punkty te pozwalają dostosować kulturę poprzez cechy kulturowe.
 
 #ui_cltr_cp_use
-Current points usage
+Aktualne wykorzystane punktów
 
 #ui_cltr_cp_use_c
-You are currently using [x] Civilization Points out of a total of [y].
+Obecnie używasz [x] punktów cywilizacji z łącznej liczby [y].
 
 #ui_cltr_lvl
-Cultural level
+Poziom kulturowy
 
 #ui_cltr_lvl_dscr_1
-The State culture produced in all your currently controlled territories generate progress towards your next Cultural level. 
+Kultura państwowa wytworzona na wszystkich obecnie kontrolowanych przez ciebie terytoriach zapewnia postęp w kierunku twojego następnego poziomu kulturowego.
 
 #ui_cltr_lvl_dscr_2
-You can earn 1 new Civilization Point every time you level up your culture.
+Za każdym razem, gdy awansujesz swoją kulturę, możesz zdobyć 1 nowy punkt cywilizacji.
 
 #ui_cltr_nxtlvl
-Next level (in about [x])
+Następny poziom (za około [x])
 
 #ui_cltr_cstm_nores
-[None available]
+[Niedostępne]
 
 #ui_cltr_cstm_nores_dscr
-There is currently no new possible resource to unlock!
+Obecnie nie ma nowego zasobu do odblokowania!
 
 #ui_cltr_xpbar_c1
-You have accumulated [x] culture out of [y] needed to reach the next level.
+Zgromadziłeś [x] kultury z [y] potrzebnych do osiągnięcia następnego poziomu.
 
 #ui_cltr_xpbar_c2
-You are currently producing [x] of State Culture [y].
+Obecnie produkujesz [x] kultury państwowej [y].
 
 #ui_cltr_cantadd
-This Trait cannot be added!
+Tej cechy nie można dodać!
 
 #ui_cltr_nocivpt
-You do not have the sufficient Civilization Points to adopt this new Trait!
+Nie masz wystarczającej liczby punktów cywilizacji, aby przyjąć tę nową cechę!
 
 #ui_cltr_rescons
-Consumption of [x]
+Zużycie [x]
 
 #ui_cltr_resprod
-Production of [x]
+Produkcja [x]
 
 #ui_cltr_resqual
-Expertise in [x]
+Ekspertyza w [x]
 
 #ui_cltr_resprod_0
-Production of this resource is unavailable.
+Produkcja tego surowca jest niedostępna.
 
 #ui_cltr_resprod_1
-Allows production of this resource
+Pozwala na produkcję tego surowca
 
 #ui_cltr_resprod_2
-Production efficiency [x]%
+Wydajność produkcji [x]%
 
 #ui_cltr_resprod_3
-Required materials [x]%
+Wymagane materiały [x]%
 
 #ui_cltr_resprod_4
-Natural sources  productivity [x]%
+Wydajność źródeł naturalnych [x]%
 
 #ui_cltr_resqual_1
-Base produced resource quality [x]
+Jakość surowców wytworzonych podstawowo [x]
 
 #ui_cltr_newcons
-We have adopted the custom of consumming [x]!
+Przyjęliśmy zwyczaj konsumowania [x]!
 
 #ui_cltr_newprod
-We have developped the skill to produce [x]!
+Rozwinęliśmy umiejętność produkowania [x]!
 
 #ui_cltr_devprod
-We have increased our skill to produce [x] to level [y]!
+Zwiększyliśmy nasze umiejętności produkowania [x] do poziomu [y]!
 
 #ui_cltr_newtrait
-We have adopted a new cultural trait: '[x]'!
+Przyjęliśmy nową cechę kulturową: „[x]”!
 
 #ui_warninacess_bdgs
-Warning: [x] buildings are rendered inacessible and will soon be disabled unless access is restaured!
+Ostrzeżenie: [x] budynki stają się niedostępne i wkrótce zostaną wyłączone, chyba że dostęp zostanie przywrócony!
 
 #ui_warninacess_infra
-Warning: [x] infrastructures are rendered inacessible and will soon auto-decay unless access is restaured!
+Ostrzeżenie: infrastruktury [x] stają się niedostępne i wkrótce ulegną automatycznej degradacji, jeśli nie zostanie przywrócony dostęp!
 
 #ui_prodskill_unlock
-unlock
+odblokuj
 
 #ui_prodskill_imprv
-improve
+ulepsz
