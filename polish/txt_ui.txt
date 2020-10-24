@@ -2802,7 +2802,7 @@ Szacowany na następne pokolenie...
 zrekrutuj nowy oddział
 
 #b_dplmode
-Narzędzie strategiczne
+Tryb strategiczny
 
 #bc_dplmode
 Przejdź do trybu strategicznego, w którym możesz zarządzać pozycjami i wydawać rozkazy swoim oddziałom.
@@ -2826,7 +2826,7 @@ Kultura
 Militaria
 
 #regctrl_b_g
-Rząd
+Zarządzanie
 
 #regctrl_b_i
 Infrastruktura
@@ -6384,7 +6384,7 @@ Ruch został anulowany, ponieważ jego ścieżka została zablokowana przez wrog
 Odkryliśmy [x] w [y]!
 
 #ui_cltr_customs
-ZWYCZAJ KULTUROWY
+ZWYCZAJE KULTUROWY
 
 #ui_custom_dscr
 Zwyczaje reprezentują kulturową praktykę twojego ludu polegającą na konsumowaniu określonego rodzaju zasobów. Zwyczaje umożliwiają popyt na ten surowiec, umożliwiając jego dystrybucję, sprzedaż i konsumpcję przez twoją populację.
