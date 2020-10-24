@@ -1306,13 +1306,13 @@ monety państwowe
 aktualne saldo budżetu
 
 #ui_gov_legit
-obecna legitymacja rządu
+obecna legitymizacja
 
 #ui_gov_power
 aktualna moc państwa
 
 #ui_gov_pdgreform
-Masz oczekującą reformę, która nie została zastosowana. Czy na pewno chcesz zamknąć to menu i odrzucić tę reformę (zmiany zasad nie zostaną zastosowane)?
+Masz oczekującą reformę, która nie została zastosowana. Czy na pewno chcesz zamknąć to menu i odrzucić reformę (zmiany zasad nie zostaną zastosowane)?
 
 #ui_gov_gdp
 PKB
@@ -2229,16 +2229,16 @@ Ta klasa otrzymuje [x]% bogactwa terytorium jako przywilej.
 - [x] z [y]% wkładów ze środków własnych lidera
 
 #legit_dscr
-Legitymacja to stopień uznania przez ludzi prawa twojego państwa do autorytetu, który jest określony przez twoją aktywną politykę legalności. Mają one wpływ na pozytywny lub negatywny wpływ wszystkich różnych czynników legitymizacji.
+Legitymizacja to stopień uznania przez ludzi prawa Twojego rządu, który jest określony przez Twoją aktywną politykę legalności. Mają one pozytywny lub negatywny wpływ na różne czynniki legitymizacji.
 
 #legit_tot
-Całkowita legitymacja
+Całkowita legitymizacja
 
 #legit_honor
 Honor
 
 #legit_honor_c
-Twój honor ma bezpośredni wpływ na Twoją legitymację. Nikt nie chce służyć pod niehonorowym władcą!
+Twój honor ma bezpośredni wpływ na Twoją legitymizacja. Nikt nie chce służyć pod niehonorowym władcą!
 
 #legit_protect
 Siła militarna
@@ -2283,16 +2283,16 @@ Władza ministerialna
 [jeszcze niezaimplementowane]
 
 #legit_inf_pos
-Współczynnik [x] ma obecnie pozytywny wpływ na naszą legitymację. ([y])
+Współczynnik [x] ma obecnie pozytywny wpływ na naszą legitymizacje. ([y])
 
 #legit_inf_neg
-Współczynnik [x] ma obecnie negatywny wpływ na naszą legitymację. ([y])
+Współczynnik [x] ma obecnie negatywny wpływ na naszą eegitymizacje. ([y])
 
 #legit_inf_neut
-Obecnie czynnik [x] nie ma wpływu na naszą legitymację.
+Obecnie czynnik [x] nie ma wpływu na naszą legitymizacja.
 
 #statepow_dscr
-Władza państwowa to zdolność państwa do zarządzania rzeczami. Polityka władzy określa, w jaki sposób władza polityczna jest zorganizowana w państwie, generując władzę państwa i wpływając na różne rodzaje uprawnień. Władza państwowa zwiększa lojalność terytoriów.
+Władza państwowa to zdolność państwa do zarządzania. Polityka władzy określa, w jaki sposób władza polityczna jest zorganizowana w państwie, generując władzę państwa i wpływając na różne rodzaje uprawnień. Władza państwowa zwiększa lojalność terytoriów.
 
 #statepow_tot
 Całkowita moc państwa
@@ -2436,7 +2436,7 @@ państwo
 Jak globalne czynniki państwowe wpływają na lojalność terytorium.
 
 #loyal_legit
-z legitymacji państwowej
+z legitymizacji państwowej
 
 #loyal_legit_c1
 Legalność państwa wpływa na lojalność wszystkich terytoriów.
@@ -5124,7 +5124,7 @@ Władzę państwową można otrzymać od bezpośrednich podwładnych i przekaza�
 Konserwacja
 
 #facmmb_mng_c1
-Władza państwowa skonsumowana dla utrzymania państwa. Zwiększony ogólnie o liczbę podwładnych tej postaci.
+Władza państwowa skonsumowana dla utrzymania państwa. Zwiększony o liczbę podwładnych tej postaci.
 
 #facmmb_mrshl
 Marszałek armii
@@ -6450,7 +6450,7 @@ Aktualne wykorzystane punktów
 Obecnie używasz [x] punktów cywilizacji z łącznej liczby [y].
 
 #ui_cltr_lvl
-Poziom kulturowy 
+Poziom kultury
 
 #ui_cltr_lvl_dscr_1
 Kultura państwowa wytworzona na wszystkich obecnie kontrolowanych przez ciebie terytoriach zapewnia postęp w kierunku twojego następnego poziomu kulturowego.
