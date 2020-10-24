@@ -218,7 +218,7 @@ Kamera do dołu
 kliknij i przytrzymaj klawisz, aby powiązać go z czynnością
 
 #menuop_togtut
-Przełącz samouczek
+Samouczek
 
 #menuop_togtut_c1
 Włącza główny samouczek i podpowiedzi podczas wykonywania czynności po raz pierwszy.
@@ -682,7 +682,7 @@ Kod zaproszenia: [x]
 Podaj nazwę swojej nowej postaci.
 
 #charcreate_err2
-Podaj nazwę swojego rządu.
+Podaj nazwę swojego państwa.
 
 #charcreate_err3
 Nie ma początkowej lokalizacji pasującej do Twoich ustawień.
@@ -793,7 +793,7 @@ Zdolność dystrybucyjna
 Nowy obóz formacji
 
 #ui_place_form1
-Przenieś obóz
+Przenieś
 
 #bc_erase
 Narzędzie zniszczenia
@@ -814,7 +814,7 @@ budynki
 platformy
 
 #bc_menubdg_destroy
-Zburz budynek
+Zburz
 
 #bc_menubdg_destroy2
 (zburzyć budynek i odzyskać część jego materiałów)
@@ -889,7 +889,7 @@ Ten budynek jest wyburzany. Po zakończeniu procesu zostanie całkowicie usunię
 Uprawnienia magazynowe:
 
 #ui_menubdg_Usage
-Wykorzystanie :
+Użycie:
 
 #ui_menubdg_perslot
 na slot
@@ -898,7 +898,8 @@ na slot
 Podnieś do
 
 #ui_menubdg_upgrades
-Upgrady
+Ulepszenia
+
 #ui_menubdg_solid
 Solidność
 
@@ -954,7 +955,7 @@ Ten budynek może tworzyć stoiska targowe, na których pracownicy będą bezpo�
 Ten budynek nie może mieć stoisk targowych, ponieważ nie może produkować niczego, co można by sprzedać publicznie.
 
 #ui_menubdg_anx
-Załączniki
+Aneksy
 
 #bc_menubdg_expl
 eksploatowany
@@ -1165,7 +1166,7 @@ Suma wszystkich wpływów monet na terytorium
 bogactwo terytorium:
 
 #bc_menureg_wlth
-Całkowite bogactwo terytorium
+Bogactwo terytorium
 
 #ui_menureg_admin1
 Pojemność
@@ -1205,6 +1206,7 @@ M
 
 #bc_gen_mainmenu
 otwórz menu główne
+
 #bc_gen_speed_c1
 Ustawia ogólną prędkość gry.
 
@@ -1214,7 +1216,7 @@ Ustawia ogólną prędkość gry.
 Wpływa to na szybkość takich rzeczy, jak produkcja zasobów, badania, odzyskiwanie AP, odkrywanie nowych pomysłów, prędkość poruszania się na mapie świata itp.
 
 #bc_btl_speed_c1
-Ustawia bitwę i prędkość jednostek w grze.
+Ustawia prędkość bitwy i jednostek w grze.
 
 #bc_btl_speed_c2
 Wpływa to tylko na szybkość bitew i jednostek na terytoriach.
@@ -1223,7 +1225,7 @@ Wpływa to tylko na szybkość bitew i jednostek na terytoriach.
 aktualne ustawienia gry
 
 #bc_gen_gov
-Rząd
+Zarządzanie
 
 #bc_gen_chat
 Dyplomacja
@@ -1238,7 +1240,7 @@ Skarbiec
 Kultura
 
 #bc_gen_fact
-Frakcja
+Państwo
 
 #bc_gen_ev
 Wydarzenia
@@ -1283,10 +1285,10 @@ Wybierz sposób przyjmowania surowców w tym magazynie
 opróżnij wszystko
 
 #b_menubdg_alldestr
-zniszcz wszystko
+Zniszcz wszystko
 
 #bc_menubdg_move
-przesuń
+Przenieś
 
 #bc_menubdg_move2
 zdekonstruuj ten budynek i przebuduj go w innym miejscu
@@ -1723,10 +1725,10 @@ Ograniczona dystrybucja
 Kliknij, aby przełączyć ograniczoną dystrybucję dla tego sprzedawcy. Pozwala kontrolować ilość zasobów dystrybuowanych na rynku publicznym.
 
 #ui_menubdg_hire
-Zatrudnij jednego
+Zatrudnij
 
 #ui_menubdg_fire
-Zwolnij jednego
+Zwolnij
 
 #ui_menubdg_wkprio
 Priorytet obsadzania stanowisk w tym budynku.
@@ -1780,25 +1782,25 @@ Ustaw utrzymanie własności na minimum [x] [y].
 [x] nie jest już zasobem państwowym (brak automatycznego kupowania produkcji).
 
 #regeco_eff
-Efekty: wpływa pozytywnie lub negatywnie na skarbiec twojego rządu
+Efekt: wpływa pozytywnie lub negatywnie na skarbiec Twojego rządu
 
 #regeco_1
-Bilans budżetowy twojego terytorium jest wynikiem wszystkich dochodów i wydatków specyficznych dla tego terytorium, takich jak podatki, wynagrodzenia i koszty utrzymania.
+Bilans budżetowy twojego terytorium jest wynikiem wszystkich przychodów i wydatków specyficznych dla tego terytorium, takich jak podatki, wynagrodzenia i koszty utrzymania.
 
 #regeco_2
 Negatywny wpływ na budżet może mieć również marnotrawstwo. Reprezentuje dochody utracone w wyniku oszustw podatkowych, złego zarządzania, korupcji i „szarej strefy”.
 
 #regadmin_eff
-Efekty: zwiększa dochody budżetu (-marnotrawstwo)
+Efekt: zwiększa dochody budżetu (-marnotrawstwo)
 
 #regadmin_1
-Administracja reprezentuje zdolności zarządzania Twoim rządem na tym terytorium.
+Administracja reprezentuje zdolności zarządzania Twoją frakcją na tym terytorium.
 
 #regadmin_2
 Im większa liczba ludności i odległość od stolicy, tym trudniej zarządzać terytorium. Ale można to również ulepszyć dzięki aktywnym politykom i usługom na terytorium, takim jak Skrybowie pomagający w administracji terytorium.
 
 #regconf_eff
-Efekty: zmniejsza wzrost (+ morderst), zmniejsza lojalność (-autorytet)
+Efekt: zmniejsza wzrost (+ morderst), zmniejsza lojalność (-autorytet)
 
 #regconf_1
 Konflikt reprezentuje poziom przypadkowych konfliktów między mieszkańcami danego terytorium.
@@ -1807,28 +1809,28 @@ Konflikt reprezentuje poziom przypadkowych konfliktów między mieszkańcami dan
 Aktywne obywatelstwo i usługi rządowe na tym terytorium, takie jak wymiar sprawiedliwości, mogą pomóc w jego zmniejszeniu.
 
 #regloy_eff
-Efekty: zapobiega buntowi ludności
+Efekt: zapobiega buntowi ludności
 
 #regloy_1
-Lojalność reprezentuje globalną lojalność mieszkańców danego terytorium wobec ciebie: rząd centralny kontrolujący to terytorium.
+Lojalność reprezentuje lojalność mieszkańców danego terytorium wobec Ciebie: frakcji centralnej kontrolującej to terytorium.
 
 #regloy_2
 Wpływa na to wiele czynników, takich jak kultura ludzi, poziom konfliktu na terytorium, aktywna polityka, wydarzenia z przeszłości lub autorytet rządu na danym terytorium. Jeśli lojalność spadnie zbyt nisko (poniżej 30%), będzie duże ryzyko globalnego powstania ludowego, które może doprowadzić do utraty kontroli nad terytorium.
 
 #regcltr_eff
-Efekty: wpływa na całą kulturę, wpływa na lojalność, zwiększa inteligencję populacji
+Efekt: wpływa na kulturę, lojalność I zwiększa inteligencję Twojej populacji
 
 #regcltr_1
 Kultura reprezentuje całą wiedzę, zwyczaje i zachowania ludzi na tym terenie.
 
 #regcltr_2
-Całkowita kulturę opartą na ilości populacji można podzielić między różne typy kultur. „Kultura państwowa” reprezentuje twoją kulturę. „Kultura lokalna” reprezentuje zwyczaje i zachowania specyficzne dla danego terytorium i różniące się od Twojej głównej kultury, które są wspólne dla wszystkich Twoich ludzi. Mogą również występować inne obce kultury.
+Całkowita kulturę opartą na ilości populacji można podzielić między różne typy kultur. „Kultura państwowa” reprezentuje Twoją kulturę. „Kultura lokalna” reprezentuje zwyczaje i zachowania specyficzne dla danego terytorium i różniące się od Twojej głównej kultury, które są wspólne dla wszystkich Twoich ludzi. Mogą również występować inne obce kultury.
 
 #regcltr_intgr
 Integracja kulturowa narodu
 
 #regcltr_intgr_c1
-Kultura tego terytorium w pełni zintegrowała naród [x], jako że był jego częścią przez długi czas.
+Kultura tego terytorium w pełni zintegrowała z [x], jako że był jego częścią przez dłuższy czas.
 
 #regcltr_intgr_c2
 Przenoszenie tego terytorium między członkami państwa generuje o 50% mniejszy opór.
@@ -1837,7 +1839,7 @@ Przenoszenie tego terytorium między członkami państwa generuje o 50% mniejszy
 Kultura tego terytorium nie zintegrowała jeszcze państwa [x]. Będzie za [y].
 
 #reggrwth_eff
-Efekty: określa ewolucję Twojej populacji.
+Efekt: określa płodność Twojej populacji.
 
 #reggrwth_1
 Wzrost reprezentuje aktualną demografie populacji na tym terytorium.
@@ -1855,7 +1857,7 @@ Dochód wieprzy
 Przywileje
 
 #popneed_sat
-POTRZEBUJE SATYSFAKCJI
+SATYSFAKCJA
 
 #popstat_wealth
 BOGACTWO
@@ -1921,7 +1923,7 @@ Służba zdrowia
 Niektóre usługi (np. Lekarze) zapewniają premię zdrowotną osobom, które mają do nich dostęp.
 
 #poph_vitals
-- [x]% brakujących życiowych potrzeb
+- [x]% brakujących podstawowe potrzeb
 
 #poph_vitals_c1
 Brak podstawowych potrzeb wpływa proporcjonalnie na ogólny stan zdrowia.
@@ -1936,10 +1938,10 @@ Jakość życia to ocena określająca, jak dobre i wygodne jest życie wieprza.
 Wpływa na wiele innych rzeczy, takich jak inteligencja, szczęście czy rozwój.
 
 #poplq_vitals
-Życiowe potrzeby
+Podstawowe potrzeby
 
 #poplq_vitals_c1
-Jakość życia uzyskana dzięki zaspokojeniu i jakości życiowych potrzeb.
+Jakość życia uzyskana dzięki zaspokojeniu podstawowych potrzeb.
 
 #poplq_vitals_c2
 Istotne potrzeby są zaspokojone w [x]%.
@@ -1954,7 +1956,7 @@ Jakość życia uzyskana dzięki średniej jakości mieszkań zajmowanych przez 
 Średnia jakość miejsc noclegowych: [x].
 
 #poplq_house_c3
-(wymaga zaspokojenia życiowych potrzeb)
+(wymaga zaspokojenia podstawowe potrzeb)
 
 #poplq_2nd
 Potrzeby drugorzędne
@@ -1963,7 +1965,7 @@ Potrzeby drugorzędne
 Jakość życia uzyskana dzięki zaspokojeniu i jakości drugorzędnych potrzeb.
 
 #poplq_2nd_c2
-(wymaga zaspokojenia życiowych potrzeb)
+(wymaga zaspokojenia podstawowych potrzeb)
 
 #poplq_3rd
 Potrzeby trzeciorzędne
@@ -2134,7 +2136,7 @@ Terytorium to wytwarza [x] kultury państwowej z całkowitej produkcji [y] kultu
 Obecny wpływ kultury państwowej wynosi [x]%.
 
 #cltrstat_stock
-Pojemność zasobów kulturowych
+Pojemność kultury
 
 #cltrstat_stock_c1
 Obecnie na tym terytorium przechowywanych jest [x] kultury z maksymalnie [y].
@@ -2146,7 +2148,7 @@ Ogólna kultura na tym terytorium rośnie.
 Ogólna kultura na tym terytorium spada, ponieważ przekracza obecne maksimum!
 
 #cltrstat_ststock
-Kultura państwowa
+Kultura
 
 #cltrstat_ststock_c1
 [x]% kultury tego terytorium to kultura państwowa.
@@ -2680,16 +2682,16 @@ kultura z usług
 Saldo
 
 #growth_males
-Odmiana wieprzów
+Wieprzów
 
 #growth_sows
-Odmiana macior
+Macior
 
 #growth_piglets
-Odmioana prosiąt
+Prosiąt
 
 #growth_oldpigs
-Odmiana starych wieprzów
+Starowieprzów
 
 #growth_mnew
 samce prosiąt osiągające dorosłość
@@ -2701,7 +2703,7 @@ choroba
 morderstwa
 
 #growth_mage
-starzejące się wieprze stają się starymi wieprzami
+starzejące się wieprze stają się Starowieprzami
 
 #growth_munitsup
 starzenie się w formacjach: [x] wieprzy w obsługiwanych jednostkach (bezpłatne wsparcie dla [y])
@@ -2743,7 +2745,7 @@ morderstwa
 zgony naturalne
 
 #breed_chance
-współczynnik rozrodu
+Współczynnik rozrodu
 
 #breed_chance_dscr
 Przewidywany procent macior, które będą mieć prosięta w następnym pokoleniu.
@@ -2758,16 +2760,16 @@ podstawowa stawka rozrodu
 wpływ inteligencji
 
 #breed_totpop
-całkowity efekt populacji
+wpływ populacji
 
 #breed_piglets
 wpływ prosiąt na lochę
 
 #breed_smcity
-małe miasto boost
+wpływ miasta
 
 #breed_vit
-brak wpływu na życiowe potrzeby
+wpływu podstawowych potrzeb
 
 #breed_fertil
 płodność
@@ -3310,7 +3312,7 @@ Osiągnąłeś maksymalną liczbę stref obronnych.
 Usuń tę strefę
 
 #bc_menuform_disb
-Formacja rozwiązania
+Rozwiąż formacje
 
 #bc_menuform_movc
 Przenieś pozycję obozu
@@ -3484,7 +3486,7 @@ Militaria
 Państwo
 
 #menuevt_nation
-Naród
+Frakcja
 
 #menuevt_miss
 Misja
@@ -3835,7 +3837,7 @@ Jeśli budynek jest nieopłacalny dla pracowników, efektywność budynku jest s
 SZCZEGÓŁY PRODUKCJI
 
 #ui_bdg_pdet_1
-sprzedawane bezpośrednio
+bezpośrednia
 
 #ui_bdg_pdet_1_c
 [x]% produkcji jest wprowadzane na rynek bezpośrednio przez pracowników tego budynku.
@@ -3844,28 +3846,28 @@ sprzedawane bezpośrednio
 [x]% z tego ([y]) jest z powodzeniem sprzedawane po cenie [z] za sztukę (niesprzedane zapasy są tracone).
 
 #ui_bdg_pdet_2
-sprzedawane za pośrednictwem handlowców
+handel
 
 #ui_bdg_pdet_2_c
 [x]% produkcji jest wprowadzane na rynek za pośrednictwem handlowców, którzy zachowują część korzyści.
 
 #ui_bdg_pdet_3
-sprzedawane producentom
+przemysł
 
 #ui_bdg_pdet_3_c
 [x]% produkcji jest sprzedawane do innych gałęzi przemysłu lub usług.
 
 #ui_bdg_pdet_4
-exported
+export
 
 #ui_bdg_pdet_4_c
 [x]% produkcji jest eksportowane na rynki zagraniczne
 
 #ui_bdg_pdet_5
-sprzedaż nieruchomości
+państwo
 
 #ui_bdg_pdet_5_c1
-Przychody ze sprzedaży na rzecz państwa mogą być bezpośrednie (gdy państwo kupuje automatycznie) lub buforowane (gdy państwo kupuje czasami zasoby prywatne). Buforowany dochód jest następnie powoli rozdzielany z powrotem między pracowników, rozkładając dochód na dłuższy okres czasu.
+Przychody ze sprzedaży na rzecz frakcji mogą być bezpośrednie (gdy państwo kupuje automatycznie) lub buforowane (gdy państwo kupuje czasami zasoby prywatne). Buforowany dochód jest następnie powoli rozdzielany z powrotem między pracowników, rozkładając dochód na dłuższy okres czasu.
 
 #ui_bdg_pdet_5_c2
 Z zakupów automatycznych: [x] monet ([y] zasobów).
@@ -4726,7 +4728,7 @@ Bitwa dobiegła końca!
 Żyzność
 
 #ui_terinf_grndw
-Wody gruntowe
+Nawodnienie
 
 #btl_objtv_neut
 bezczynny
@@ -4816,7 +4818,7 @@ Usta
 Imię postaci
 
 #gamelob_randnam
-Wygeneruj losową nazwę
+Wygeneruj losową nazwę postaci
 
 #gamelob_nat
 Nazwa państwa
@@ -4885,7 +4887,7 @@ Ostatni spawn: [x] temu
 (pozostało [x])
 
 #gamelob_maxoff
-Maksymalny czas offline
+Max czas offline
 
 #gamelob_maxoff_c1
 Maksymalny czas, przez jaki postać może być offline, zanim stanie się „nieaktywna” na tym serwerze.
@@ -5200,13 +5202,13 @@ Opuszczając to państwo, odzyskasz pełną suwerenność jako głowa nowego, ni
 Edycja flagi państwa
 
 #menugov_setnam
-Nazwa rządu
+Nazwa państwa
 
 #menugov_setnam_c1
 Ustaw podstawową nazwę swojego rządu (a następnie połącz ją z tytułem swojego kraju).
 
 #regnam_unclaimed
-Nieodebrane terytorium
+Nieznane terytorium
 
 #regnam_regof
 Region [x]
@@ -5827,7 +5829,7 @@ Normalny widok
 Żyzność
 
 #displyr_gwater
-Wody gruntowe
+Nawodnienie
 
 #displyr_height
 Wysokość
@@ -6448,7 +6450,7 @@ Aktualne wykorzystane punktów
 Obecnie używasz [x] punktów cywilizacji z łącznej liczby [y].
 
 #ui_cltr_lvl
-Poziom kulturowy
+Poziom kulturowy 
 
 #ui_cltr_lvl_dscr_1
 Kultura państwowa wytworzona na wszystkich obecnie kontrolowanych przez ciebie terytoriach zapewnia postęp w kierunku twojego następnego poziomu kulturowego.
