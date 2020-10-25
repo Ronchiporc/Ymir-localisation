@@ -2718,7 +2718,7 @@ choroba
 morderstwa
 
 #growth_sage
-starzejące się lochy stają się starymi świniami
+starzejące się Maciory stają się Starowieprzami
 
 #growth_pnew
 urodzenia
@@ -2751,7 +2751,7 @@ Współczynnik rozrodu
 Przewidywany procent macior, które będą mieć prosięta w następnym pokoleniu.
 
 #breed_chance_c
-[x] lochy będą rozmnażać się w następnym pokoleniu
+[x] Maciory będą rozmnażać się w następnym pokoleniu
 
 #breed_base
 podstawowa stawka rozrodu
@@ -2763,7 +2763,7 @@ wpływ inteligencji
 wpływ populacji
 
 #breed_piglets
-wpływ prosiąt na lochę
+wpływ prosiąt na Maciorę
 
 #breed_smcity
 wpływ miasta
@@ -4758,16 +4758,16 @@ polowanie
 poległy
 
 #btl_rslt_deft
-pokonany
+Przegrana!
 
 #btl_rslt_vict
-zwycięski
+Wygrana!
 
 #btl_rslt_neutr
 był neutralny
 
 #btl_rslt_rtrtd
-wycofał się
+Ucieczka!
 
 #btlrslt_neutr
 NEUTRAL
