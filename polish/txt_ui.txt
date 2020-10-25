@@ -1734,10 +1734,10 @@ Zwolnij
 Priorytet obsadzania stanowisk w tym budynku.
 
 #storpol
-Zasady przechowywania
+Magazyn
 
 #storpol_all
-wszystkie magazyny
+wszystkie
 
 #storpol_c_all1
 Magazynowanie tego zasobu jest dozwolone w każdym dostępnym magazynie.
@@ -1746,7 +1746,7 @@ Magazynowanie tego zasobu jest dozwolone w każdym dostępnym magazynie.
 Będzie nawet składowany bezpośrednio na ziemi, jeśli nie ma wolnego miejsca.
 
 #storpol_restr
-tylko w ograniczonych
+ograniczone
 
 #storpol_c_restr1
 Ten zasób można przechowywać tylko w ważnych magazynach w trybie ograniczonym.
@@ -1755,7 +1755,7 @@ Ten zasób można przechowywać tylko w ważnych magazynach w trybie ograniczony
 Jeśli żaden nie jest dostępny, dodatkowe zasoby są niszczone.
 
 #storpol_none
-bez zapasów
+brak zapasów
 
 #storpol_c_none1
 Magazynowanie tego zasobu jest wyłączone.
@@ -2694,19 +2694,19 @@ Prosiąt
 Starowieprzów
 
 #growth_mnew
-samce prosiąt osiągające dorosłość
+samców osiągaja dorosłość
 
 #growth_msick
-choroba
+zabija choroba
 
 #growth_mmurder
-morderstwa
+zostaje zamordowanych
 
 #growth_mage
-starzejące się wieprze stają się Starowieprzami
+wieprze stający się Starowieprzami
 
 #growth_munitsup
-starzenie się w formacjach: [x] wieprzy w obsługiwanych jednostkach (bezpłatne wsparcie dla [y])
+starzenie się w formacjach: [x] wieprzy w obsługiwanych formacjach (bezpłatne wsparcie dla [y])
 
 #growth_snew
 samice prosiąt osiągające dorosłość
@@ -2796,7 +2796,7 @@ przewidywana zmienność całkowitej populacji dla następnego pokolenia
 aktualny współczynnik zmienności całej populacji
 
 #ui_growthdel
-Szacowany na następne pokolenie...
+Przewidywania dotyczące następnego pokolenia...
 
 #troop_recruit
 zrekrutuj nowy oddział
@@ -4413,7 +4413,7 @@ Nowa umiejętność kulturowa
 Po pomyślnym ukończeniu umiejętność kulturowa zostanie przyjęta (chyba że jest już aktywna), co będzie kosztowało [x] punktów cywilizacji.
 
 #menu_tch_prj_res
-Nagroda za zasoby
+Nagroda
 
 #menu_prj_inpgr
 W trakcie...
