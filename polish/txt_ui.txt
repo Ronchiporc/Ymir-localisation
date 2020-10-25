@@ -1770,10 +1770,10 @@ Utrzymuj zapasy
 Jeśli aktualny stan zapasów jest poniżej pożądanej wartości, 25% produkcji zostanie zarezerwowane i zablokowane w celu zwiększenia zapasów.
 
 #stormntn_set
-Ustaw utrzymanie zapasów na minimum [x] [y].
+Ustawiasz utrzymanie zapasów na minimum [x] [y].
 
 #storownr_set
-Ustaw utrzymanie własności na minimum [x] [y].
+Ustawiasz utrzymanie własności na minimum [x] [y].
 
 #storownr_enab
 [x] jest teraz zasobem państwowym (cała produkcja jest kupowana automatycznie).
@@ -4518,7 +4518,7 @@ Projekty wymagają badaczy i czasu, a także materiałów i budżetu. Po zakońc
 Dodawanie naukowców...
 
 #menu_rschr_type
-Badanie populacji dla tego projektu
+Badacze dla tego projektu
 
 #menu_rschr_frm
 Od
