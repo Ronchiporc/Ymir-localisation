@@ -1734,10 +1734,10 @@ Zwolnij
 Priorytet obsadzania stanowisk w tym budynku.
 
 #storpol
-Magazyn
+Magazynuj w
 
 #storpol_all
-wszystkie
+wszystkich
 
 #storpol_c_all1
 Magazynowanie tego zasobu jest dozwolone w każdym dostępnym magazynie.
@@ -1746,7 +1746,7 @@ Magazynowanie tego zasobu jest dozwolone w każdym dostępnym magazynie.
 Będzie nawet składowany bezpośrednio na ziemi, jeśli nie ma wolnego miejsca.
 
 #storpol_restr
-ograniczone
+ograniczonych
 
 #storpol_c_restr1
 Ten zasób można przechowywać tylko w ważnych magazynach w trybie ograniczonym.
@@ -4437,7 +4437,7 @@ Podstawowy koszt projektu: [x] monet
 Wymagany koszt materiałów: [x] monet
 
 #menu_prj_rmat1
-Wymaga [x] z [y]
+Wymaga [x] [y]
 
 #menu_prj_rmat2
 Obecnie w [x]: [y] / [z]
