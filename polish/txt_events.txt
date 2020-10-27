@@ -1,197 +1,197 @@
 #cond_nbreg
-Own [x] or more territories
+Posiadaj [x] lub więcej terytoriów
 
 #cond_prodsupto
-Produce at least [x] of [y] in territory
+Wyprodukuj co najmniej [x] z [y] na terytorium
 
 #cond_incrfoodprod
-Increase your food production by at least [x]
+Zwiększ produkcję żywności o co najmniej [x]
 
 #cond_ownbdg
-Have [x] [y] in the territory
+Posiadaj [x] [y] na terytorium
 
 #cond_ownbdg_class
-Have [x] buildings of the [y] class in the territory
+Posiadaj na terytorium [x] budynków klasy [y]
 
 #cond_cmplted_ev
-Completed event [x]
+Wydarzenie zakończone [x]
 
 #cond_loyal_inf
-Territory loyalty inferior to [x]
+Lojalnosć terytorium niższa niż [x]
 
 #cond_loyal_sup
-Territory loyalty superior to [x]
+Lojalnosć terytorium wyższa niż [x]
 
 #cond_pow_inf
-State power inferior to [x]
+Moc państwa niższa niż [x]
 
 #cond_pow_sup
-State power superior to [x]
+Władza państwowa wyższa niż [x]
 
 #cond_legit_inf
-State legitimacy inferior to [x]
+Legitymizacja niższa niż [x]
 
 #cond_legit_sup
-State legitimacy superior to [x]
+Legitymizacja wyższa niż [x]
 
 #cond_coins_inf
-State currency inferior to [x]
+Waluta państwowa niższa od [x]
 
 #cond_coins_sup
-State currency superior to [x]
+Waluta państwowa wyższa od [x]
 
 #cond_notech
-Do not have the knowledge of '[x]'
+Nie mam wiedzy o „[x]”
 
 #cond_hastech
-Have the knowledge of '[x]'
+Znajomość „[x]”
 
 #cond_popnb_inf
-Territory [y] inferior to [x]
+Terytorium [y] niższe od [x]
 
 #cond_popnb_sup
-Territory [y] superior to [x]
+Terytorium [y] wyższe od [x]
 
 #cond_totpop_inf
-[y] in all territories inferior to [x]
+[y] na wszystkich terytoriach poniżej [x]
 
 #cond_totpop_sup
-[y] in all territories superior to [x]
+[y] na wszystkich terytoriach nad [x]
 
 #cond_intel_inf
-[y] intelligence inferior to [x]
+[y] inteligencja gorsza od [x]
 
 #cond_intel_sup
-[y] intelligence superior to [x]
+[y] inteligencja przewyższająca [x]
 
 #cond_lifeq_inf
-[y] life quality inferior to [x]
+[y] jakość życia gorsza niż [x]
 
 #cond_lifeq_sup
-[y] life quality superior to [x]
+[y] jakość życia lepsza niż [x]
 
 #cond_health_inf
-[y] health inferior to [x]
+[y] zdrowie gorsze od [x]
 
 #cond_health_sup
-[y] health superior to [x]
+[y] zdrowie lepsze niż [x]
 
 #cond_regcltr_sup
-Territory culture superior to [x]
+Kultura terytorialna wyższa niż [x]
 
 #cond_cltr_inf
-Total Culture inferior to [x]
+Całkowita kultura niższa od [x]
 
 #cond_cltr_sup
-Total Culture superior to [x]
+Całkowita kultura wyższa od [x]
 
 #cond_conflict_inf
-Population conflict inferior to [x]
+Konflikt wsród populacji niższy niż [x]
 
 #cond_conflict_sup
-Population conflict superior to [x]
+Konflikt wsród populacji wyższy niż [x]
 
 #cond_cons_sup
-Consumption of [x] superior to [y]
+Konsumpcja [x] wyższa niż [y]
 
 #cond_natres
-Have natural resource of [x]
+Posiadaj zasoby naturalne [x]
 
 #cond_resaxs_inf
-[y] access inferior to [x]%
+[y] dostęp niższy niż [x]%
 
 #cond_resaxs_sup
-[y] access superior to [x]%
+[y] dostęp wyższy niż [x]%
 
 #cond_needaxs_inf
-[z] [y] access inferior to [x]%
+[z] [y] dostęp niższy niż [x]%
 
 #cond_needaxs_sup
-[z] [y] access superior to [x]%
+[z] [y] dostęp wyższy niż [x]%
 
 #cond_resstk_inf
-[y] stocks inferior to [x]
+[y] zapas niższy niż [x]
 
 #cond_resstk_sup
-[y] stocks superior to [x]
+[y] zapas wyższy niż [x]
 
 #cond_agrprd_inf
-Agricultural production inferior to [x]
+Produkcja rolna niższa niż [x]
 
 #cond_agrprd_sup
-Agricultural production superior to [x]
+Produkcja rolna wyższa niż [x]
 
 #cond_natagri
-Have natural sources of vegetables and plants
+Posiadaj naturalne źródła warzyw i roślin
 
 #cond_militia_inf
-Militia inferior to [x] [y]
+Milicja gorsza od [x] [y]
 
 #cond_militia_sup
-Militia superior to [x] [y]
+Milicja lepsza [x] [y]
 
 #cond_army_inf
-Army inferior to [x] [y]
+Armia gorsza od [x] [y]
 
 #cond_army_sup
-Army superior to [x] [y]
+Armia lepsza [x] [y]
 
 #cond_units_inf
-Have less than [x] [y]
+Posiadaj mniej niż [x] [y]
 
 #cond_units_sup
-Have at least [x] [y]
+Posiadaj co najmniej [x] [y]
 
 #cond_natmetal
-Have natural sources of metal
+Posiadaj naturalne źródła metalu
 
 #cond_GDP_inf
-GDP inferior to [x]
+PKB niższy niż [x]
 
 #cond_GDP_sup
-GDP superior to [x]
+PKB wyższy niż [x]
 
 #cond_wlth_inf
-Wealth inferior to [x]
+Bogactwo mniejsze niż [x]
 
 #cond_wlth_sup
-Wealth superior to [x]
+Bogactwo większe niż [x]
 
 #cond_vitn_inf
-Vital needs of [y] inferior to [x]
+Podstawowe potrzeby [y] mniejsze niż [x]
 
 #cond_vitn_sup
-Vital needs of [y] superior to [x]
+Podstawowe potrzeby [y] wyższe niż [x]
 
 #cond_bdgcat_inf
-Have less than [x] [y] buildings
+Posiadaj mniej niż [x] [y] budynków
 
 #cond_bdgcat_sup
-Have more than [x] [y] buildings
+Posiadaj więcej niż [x] [y] budynków
 
 #cond_rescat_inf
-[y] stock inferior to [x]
+[y] zapas mniejszy niż [x]
 
 #cond_rescat_sup
-[y] stock superior to [x]
+[y] zapas większy niż [x]
 
 #cond_rescatprd_inf
-[y] production inferior to [x]
+[y] produkcja mniejsza niż [x]
 
 #cond_rescatprd_sup
-[y] production superior to [x]
+[y] produkcja większa niż [x]
 
 #cond_prdgrp_inf
-Stocks of [y] resources inferior to [x]
+Zapasy [y] mniejsze niż [x]
 
 #cond_prdgrp_sup
-Stocks of [y] resources superior to [x]
+Zapasy [y] większy niż [x]
 
 #cond_prdgrpprd_inf
-Production of [y] resources inferior to [x]
+Produkcja [y] zasobów niższych niż [x]
 
 #cond_prdgrpprd_sup
-Production of [y] resources superior to [x]
+Produkcja [y] zasobów większa niż [x]
 
 #cond_resneed_inf
 An unsatisfied demand of [y] of less than [x]
@@ -206,73 +206,73 @@ Have the civic '[x]' enabled
 Have the civic effect: '[x]'
 
 #cond_militpow_inf
-Total military power inferior to [x]
+Całkowita siła wojskowa mniejsza niż [x]
 
 #cond_militpow_sup
-Total military power superior to [x]
+Całkowita siła wojskowa większa niż [x]
 
 #cond_ecobal_inf
-Government budget balance inferior to [x]
+Saldo rządu niższe niż [x]
 
 #cond_ecobal_sup
-Government budget balance superior to [x]
+Saldo rządu wyższe niż [x]
 
 #cond_growth_inf
-[y] growth inferior to [x]
+[y] Przyrost naturalny niższy niż [x]
 
 #cond_growth_sup
-[y] growth superior to [x]
+[y] Przyrost naturalny wyższy niż [x]
 
 #cond_reglvl_inf
-territory level inferior to [x]
+Poziom terytorium niższy od [x]
 
 #cond_reglvl_sup
-territory level superior to [x]
+Poziom terytorium wyższy od [x]
 
 #cond_speed_inf
-char speed inferior to [x]
+Prędkość postaci mniejsza niż [x]
 
 #cond_speed_sup
-char speed superior to [x]
+Prędkość postaci wyższa niż [x]
 
 #cond_has_res
-Have access to [x]
+Masz dostęp do [x]
 
 #cond_hasevent
-Complete event '[x]'
+Ukończ wydarzenie „[x]”
 
 #cond_wait
-Wait [x]
+Czekaj [x]
 
 #cond_pay_res
-Pay [x] [y]
+Zapłać [x] [y]
 
 #cond_pay_res_act
-Pay
+Zapłać
 
 #cond_pay_actv
-Send [x] Porcos
+Wyślij [x] wieprzy
 
 #cond_pay_actv_act
-Send Porcos
+Wyślij wieprzy
 
 #effect_givres
-Receive [y] [x] 
+Otrzymaj [y] [x]
 
 #effect_takeres
-Lose [y] [x]
+Strać [y] [x]
 
 #effect_globgivres
-Receive [y] [x]
+Otrzymaj [y] [x]
 
 #effect_givfood
-Receive [x] of food
+Otrzymaj [x] jedzenia
 
 #effect_trigev
-Triggers event
+Zdarzenie wyzwalające
 
 #effect_givcoin
-Recive [x] coins
+Otrzymaj [x] monety
 
 #effect_setcoin
 Treasury set to [x] coins

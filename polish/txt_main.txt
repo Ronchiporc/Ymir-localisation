@@ -521,13 +521,13 @@ co godzine [x]
 na minute
 
 #g_ev_minuts
-na każdą minute [x]
+co [x] minuty
 
 #g_per_second
 na sekunde
 
 #g_ev_seconds
-na każdą sekunde [x]
+co [x] sekundy
 
 #g_with
 z

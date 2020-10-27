@@ -886,7 +886,7 @@ Burzenie
 Ten budynek jest wyburzany. Po zakończeniu procesu zostanie całkowicie usunięty, a niektóre jego materiały zostaną odzyskane.
 
 #ui_menubdg_stckperm
-Uprawnienia magazynowe:
+Uprawnienia:
 
 #ui_menubdg_Usage
 Użycie:
@@ -1270,10 +1270,10 @@ zakaż
 autoryzacja
 
 #sc_menubdg_allowv
-pozwól na wszystko
+Wszystko
 
 #sc_menubdg_restrict
-ograniczony
+Ograniczone
 
 #sc_menubdg_allow
 dopuszczony
@@ -1282,10 +1282,10 @@ dopuszczony
 Wybierz sposób przyjmowania surowców w tym magazynie
 
 #b_menubdg_allempty
-opróżnij wszystko
+Opróżnij
 
 #b_menubdg_alldestr
-Zniszcz wszystko
+Zniszcz
 
 #bc_menubdg_move
 Przenieś
@@ -1303,7 +1303,7 @@ AKTYWNE EDYKTY
 monety państwowe
 
 #ui_gov_ecobalance
-aktualne saldo budżetu
+aktualne saldo
 
 #ui_gov_legit
 obecna legitymizacja
@@ -2703,7 +2703,7 @@ zabija choroba
 zostaje zamordowanych
 
 #growth_mage
-wieprze stający się Starowieprzami
+staje się Starowieprzami
 
 #growth_munitsup
 starzenie się w formacjach: [x] wieprzy w obsługiwanych formacjach (bezpłatne wsparcie dla [y])
@@ -3510,7 +3510,7 @@ obecny
 zakończony!
 
 #menuevt_incomp
-niekompletny
+nieukończony!
 
 #menuevt_trt_no
 Odrzuć
@@ -4320,13 +4320,13 @@ Prawo własności można stracić w ten sam sposób.
 Osadnicy
 
 #form_sttlrs_dscr_1
-Osadnicy to formacje cywilne, które mogą rekrutować ludność cywilną do zasiedlania nowych terytoriów.
+Osadnicy to formacje cywilne, które mogą rekrutować ludność cywilną do osiedlania nowych terytoriów.
 
 #form_migrnts
 Migranci
 
 #form_migrnts_dscr_1
-Migranci to specjalne cywilne formacje ludności bez domu. Mogą zasiedlać nowe terytoria, nie wymagają wsparcia ze strony domu i mogą odzyskać swoje AP bez kar za dystans, ale kosztują dodatkowe władze państwową i utrzymanie.
+Migranci to specjalne cywilne formacje ludności bez domu. Mogą osiedlać się na nowych terytoriach, nie wymagają wsparcia ze strony domu i mogą odzyskać swoje AP bez kar za dystans, ale kosztują dodatkową władze państwową i utrzymanie.
 
 #form_migrnts_dscr_2
 Migranci powstają, gdy terytorium jest ewakuowane.
@@ -4335,7 +4335,7 @@ Migranci powstają, gdy terytorium jest ewakuowane.
 Nomadzi
 
 #form_nomad_dscr_1
-Nomadzi nie potrzebują żadnego wsparcia z domu i mogą odzyskać swoje AP bez kar za dystans. Potrafią też zasiedlać nowe terytoria.
+Nomadzi nie potrzebują żadnego wsparcia z domu i mogą odzyskać swoje AP bez kar za dystans. Potrafią też osiedlać się na nowych terytoriach.
 
 #menu_trbuy_title
 Kupowanie zasobu...
@@ -5223,7 +5223,7 @@ Własność
 Brak właściciela
 
 #uiworld_settl_1
-Możesz zasiedlić to terytorium, zlecając formacji misję „Osiedl się” z tym regionem jako celem.
+Możesz osiedlić sie na tym terytorium, zlecając formacji misję „Osiedl się” z tym regionem jako celem.
 
 #uiworld_settl_2
 Aby misja tego typu była dostępna, formacja musi zawierać co najmniej jedną jednostkę cywilną.
@@ -5583,10 +5583,10 @@ Formacja zebrała [x] drewna.
 Przejmij
 
 #formact_settle
-Zasiedl
+Osiedl się
 
 #formact_raid
-Atak
+Atakuj
 
 #formact_sack
 Plądruj
@@ -5748,10 +5748,10 @@ Wszystkie zajęcia są aktualnie obsadzone!
 [x]% aktywnych zawodowo jest bezrobotnych ([y]).
 
 #regmenu_inc
-Saldo budżetowe tego terytorium
+Saldo tego terytorium
 
 #regmenu_inc_dscr
-Jest to wynik wszystkich dochodów i wydatków państwa, takich jak podatki, bilans handlowy, wynagrodzenia i koszty utrzymania.
+Jest to wynik wszystkich dochodów i wydatków, takich jak podatki, bilans handlowy, wynagrodzenia i koszty utrzymania.
 
 #regmenu_admin
 Bilans administracyjny tego terytorium
@@ -5907,7 +5907,7 @@ Sprawdzanie traktatów ...
 OSTRZEŻENIE! Ta akcja spowoduje zerwanie następujących traktatów:
 
 #ui_menubdg_prio
-Priorytet przechowywania
+Priorytet
 
 #sc_menubdg_prio_c1
 Wybierz poziom priorytetu magazynowania nowych zasobów w tym budynku, w przeciwieństwie do innych magazynów.
@@ -6336,10 +6336,10 @@ Blokowanie ukrywa wszystkie czaty, wiadomości i kroniki przed tą postacią.
 Zastępuje również wszystkie nazwy jego terytoriów domyślnymi.
 
 #ui_govcltr_civpt_c1
-Obecnie masz [x] niewykorzystanych Punktów Cywilizacji do zainwestowania w nowe cechy kulturowe.
+Obecnie masz [x] niewykorzystanych Punktów Cywilizacji do zainwestowania w nowe zwyczaje i umiejętności kulturowe.
 
 #ui_govcltr_civpt_c2
-Obecnie produkujesz [x] kultury państwowej [y].
+Obecnie produkujesz [x] kultury [y].
 
 #ui_govcltr_civpt_dscr_1
 Punkty cywilizacji pozwalają dostosowywać i specjalizować swoją kulturę, inwestując punkty w kilka różnych kategorii, zapewniając różne korzyści, takie jak odblokowanie zużycia i produkcji zasobów, włączanie cech behawioralnych i modyfikowanie stylu architektury.
@@ -6471,7 +6471,7 @@ Obecnie nie ma nowego zasobu do odblokowania!
 Zgromadziłeś [x] kultury z [y] potrzebnych do osiągnięcia następnego poziomu.
 
 #ui_cltr_xpbar_c2
-Obecnie produkujesz [x] kultury państwowej [y].
+Obecnie produkujesz [x] kultury [y].
 
 #ui_cltr_cantadd
 Tej cechy nie można dodać!
