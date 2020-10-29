@@ -2,7 +2,7 @@
 Posiadaj [x] lub więcej terytoriów
 
 #cond_prodsupto
-Wyprodukuj co najmniej [x] z [y] na terytorium
+Produkuj [x] [y] na terytorium
 
 #cond_incrfoodprod
 Zwiększ produkcję żywności o co najmniej [x]
@@ -257,22 +257,22 @@ Wyślij [x] wieprzy
 Wyślij wieprzy
 
 #effect_givres
-Otrzymaj [y] [x]
+Otrzymasz [y] [x]
 
 #effect_takeres
 Strać [y] [x]
 
 #effect_globgivres
-Otrzymaj [y] [x]
+Otrzymasz [y] [x]
 
 #effect_givfood
-Otrzymaj [x] jedzenia
+Otrzymasz [x] jedzenia
 
 #effect_trigev
 Zdarzenie wyzwalające
 
 #effect_givcoin
-Otrzymaj [x] monety
+Otrzymasz [x] monety
 
 #effect_setcoin
 Treasury set to [x] coins
