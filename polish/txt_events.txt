@@ -2045,3 +2045,21 @@ Culture level up!
 
 #ev_civpoint_lvlup_1
 Our culture has levelled up and we have gained a new Civilization Point that is now available to spend in Cultural Traits in the Government menu. It can be used for things such as unlocking the consumption of new resources or improving their production.
+
+#ev_traitrvq
+Revoking Trait '[x]'
+
+#ev_traitrvq_1
+You are in the process of revoking the Cultural Trait '[x]'.
+
+#ev_traitrvq_2
+You may only revoke one Trait at a time, and it is a slow process that requires a lot of time.
+
+#ev_traitrvq_o_1
+Cultural modification pending...
+
+#ev_traitrvq_o_2
+Once completed, the Trait will be revoked and its cost in Civilization Points will be recovered. If the trait has multiple levels, only 1 level will be removed by this process.
+
+#ev_traitrvq_fx
+The Cultural Trait will be revoked.

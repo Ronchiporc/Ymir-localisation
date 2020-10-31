@@ -255,6 +255,7 @@ USTAWIENIA
 
 #joingame_yourgames
 Twoje gra
+
 #joingame_yourgames_dscr_1
 Historia wszystkich twoich ostatnio granych postaci, dla łatwiejszego bezpośredniego dostępu.
 
@@ -317,6 +318,7 @@ Czas trwania
 
 #servlst_dur_c1
 Jak długo trwa gra
+
 #servlst_sb
 Bonus odrodzenia
 
@@ -487,6 +489,7 @@ Tropikalny
 
 #maptyp6_dscr
 Ciepłe i wilgotne światy morskie z mnóstwem tropikalnych wysp.
+
 #mapcont
 Ilosć kontynentów
 
@@ -594,6 +597,7 @@ Początkowe ustawienia
 
 #newchar_availspwn
 Dostępy odpowiadają tym ustawieniom
+
 #newchar_bestspwn
 (najlepsza wartość: [x])
 
@@ -986,6 +990,7 @@ brak zasobów dostępnych do produkcji na podstawie tego załącznika
 
 #ui_annex_err2
 w tym budynku nie ma produkcji nadającej się do dystrybucji
+
 #ui_annex_err3
 Nie możesz umieścić więcej tego typu aneksu.
 
@@ -1090,6 +1095,7 @@ Utrzymanie infrastruktury
 
 #regeco_up_infr_c1
 Całkowity koszt utrzymania całej infrastruktury na tym terytorium (np. Ściany lub ogrody, które kosztują utrzymanie).
+
 #regeco_up_free
 Status terytorialny
 
@@ -1209,7 +1215,6 @@ otwórz menu główne
 
 #bc_gen_speed_c1
 Ustawia ogólną prędkość gry.
-
 
 
 #bc_gen_speed_c2
@@ -1499,6 +1504,7 @@ IMPORT
 
 #ui_mres_dist
 DYSTRYBUCJA
+
 #ui_mres_dist_cltr
 Ten zasób wytwarza [x] kulture na każdą jednostkę zużytą przez populację, obecnie daje [y] kultury.
 
@@ -1528,6 +1534,7 @@ Koszt importu ([x]%)
 
 #ui_price_base2_c1
 Koszt importu tego surowca z obecnych szlaków handlowych.
+
 #ui_price_base2_c2
 Import stanowi [x]% całkowitego nakładu przy średnim koszcie [y] na jednostkę, co ma wpływ na cenę minimalną w wysokości [z].
 
@@ -1593,6 +1600,7 @@ Popyt: [x] jednostek
 
 #ui_price_sd_c41
 (efekt ograniczony minimalną ceną [x] monet!)
+
 #ui_price_arb
 Arbitraż cenowy
 
@@ -1601,6 +1609,7 @@ Arbitraż cenowy może się zdarzyć, gdy istnieją duże rozbieżności cenowe 
 
 #ui_price_arb_c5
 Cena lokalna przed arbitrażem: monety [x].
+
 #ui_price_arb_c2
 Średnia cena na tym obszarze świata: monety [x].
 
@@ -3530,6 +3539,9 @@ Liczba jednostek w tej formacji.
 #ui_form_threat
 Siła militarna tej formacji.
 
+#ui_form_threat
+Siła militarna tej formacji.
+
 #ui_form_AP_c1
 Punkty akcji: [x] / 100 ([y] [z])
 
@@ -4411,6 +4423,12 @@ Nowa umiejętność kulturowa
 
 #menu_tch_prj_cltrskl_c
 Po pomyślnym ukończeniu umiejętność kulturowa zostanie przyjęta (chyba że jest już aktywna), co będzie kosztowało [x] punktów cywilizacji.
+
+#menu_tch_prj_cltrcons
+Nowy zwyczaj kulturowy
+
+#menu_tch_prj_cltrcons_c
+Po pomyślnym ukończeniu ten nowy zwyczaj kulturowy zostanie przyjęty (chyba że jest już aktywny) i kosztuje [x] punktów cywilizacji.
 
 #menu_tch_prj_res
 Nagroda
@@ -6407,6 +6425,15 @@ PRZYJMUJ TĘ CECHĘ
 #ui_pass_custom_c
 Kliknij, aby wydać [x] Punktu Cywilizacji, aby przyjąć tę cechę kulturową.
 
+#ui_rvq_custom
+ODZYSKAJ CECHĘ
+
+#ui_rvq_custom_c1
+Kliknij, aby anulować cechę i odzyskać punkty cywilizacji.
+
+#ui_rvq_custom_c2
+Możesz unieważnić tylko jedną cechę naraz, a ten proces wymaga czasu ([x]).
+
 #resprop_distrib
 Może być sprzedawany i konsumowany przez populację
 
@@ -6473,8 +6500,14 @@ Zgromadziłeś [x] kultury z [y] potrzebnych do osiągnięcia następnego poziom
 #ui_cltr_xpbar_c2
 Obecnie produkujesz [x] kultury [y].
 
+#ui_cltr_xpbar_c3
+Całkowita produkcja kultury państwowej [x] / [y] ludność ogółem * 100 = [z]
+
 #ui_cltr_cantadd
 Tej cechy nie można dodać!
+
+#ui_cltr_alrdrvq
+Możesz cofnąć tylko jedną cechę naraz!
 
 #ui_cltr_nocivpt
 Nie masz wystarczającej liczby punktów cywilizacji, aby przyjąć tę nową cechę!
@@ -6518,6 +6551,9 @@ Zwiększyliśmy nasze umiejętności produkowania [x] do poziomu [y]!
 #ui_cltr_newtrait
 Przyjęliśmy nową cechę kulturową: „[x]”!
 
+#ui_cltr_rvqd
+Cofneliśmy ceche kulturowa: „[x]”!
+
 #ui_warninacess_bdgs
 Ostrzeżenie: [x] budynki stają się niedostępne i wkrótce zostaną wyłączone, chyba że dostęp zostanie przywrócony!
 
@@ -6529,3 +6565,9 @@ odblokuj
 
 #ui_prodskill_imprv
 ulepsz
+
+#ui_cnfrm_trait_add
+Are you sure you want to spend [x] Civilization Points to enable the Trait '[y]'? 
+
+#ui_cnfrm_trait_rvk
+Are you sure you want to revoke this Trait? This process is very slow and cannot be cancelled once it is started.
