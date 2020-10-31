@@ -206,10 +206,10 @@ Have the civic '[x]' enabled
 Have the civic effect: '[x]'
 
 #cond_militpow_inf
-Całkowita siła wojskowa mniejsza niż [x]
+Całkowita siła militarna mniejsza niż [x]
 
 #cond_militpow_sup
-Całkowita siła wojskowa większa niż [x]
+Całkowita siła militarna większa niż [x]
 
 #cond_ecobal_inf
 Saldo rządu niższe niż [x]
@@ -275,229 +275,229 @@ Zdarzenie wyzwalające
 Otrzymasz [x] monety
 
 #effect_setcoin
-Treasury set to [x] coins
+Ustaw saldo na poziomie [x] monet
 
 #effect_loyalev
-State event: [x] territory loyalty
+Zdarzenie państwowe: [x] lojalność terytorialna
 
 #effect_trigproj
-Unlocks the project: [x]
+Odblokuj projekt: [x]
 
 #effect_rejproj
-Rejects the project: [x]
+Odrzuć projekt: [x]
 
 #effect_givtech
-Unlocks technology: [x]
+Odblokuj technologie: [x]
 
 #effect_bandits
-The formation is immediately attacked by [x] bandits.
+Formacja zostaje zaatakowana przez [x] bandytów.
 
 #effect_invloss
-Lose [x]% of the formation's inventory.
+Tracisz [x]% zapasów formacji.
 
 #effect_invcatloss
-Lose [x]% of the formation's [y] inventory.
+Tracisz [x]% [y] zapasów formacji.
 
 #effect_givloot
-You receive [x] of loot.
+Otrzymujesz [x] łupów.
 
 #effect_hostribe
-The formation is immediately attacked by [x] primitives.
+Formacja zostaje zaatakowana przez [x] prymitywów.
 
 #effect_unitloss
-[x]% of the formation's porcos are lost.
+[x]% wieprzów formacji ginie.
 
 #effect_nbdeath
-Lose [x] random unit in the formation.
+Tracisz [x] losowej jednostki w formacji.
 
 #effect_joinbfmly
-The formation is joined by [x] families.
+Do formacji dołączają [x] rodzin.
 
 #effect_xplrmap
-Reveals the map of the territory up to [x] tiles around the formation.
+Odsłania mapę terytorium do [x] pól wokół formacji.
 
 #effect_formlst
-The formation is lost.
+Tracisz formacje.
 
 #effect_canceldebt
-Cancel your debt.
+Anuluj swój dług.
 
 #effect_givunit
-Receive [y] [x].
+Odbierz [y] [x].
 
 #effect_agrifood
-Receive [x] of agricultural food
+Otrzymaj [x] żywności rolniczej
 
 #effect_spawnunit
-[x] [z] [y] will appear.
+Pojawi się [x] [z] [y].
 
 #effect_modhonor
 Honor [x]
 
 #effect_modAP
-Action Points [x]
+Punkty akcji [x]
 
 #effect_giveVP
-Awards [x] Victory Points.
+Nagroda [x] punktów zwycięstwa.
 
 #effect_immigr
-[x] families arrive in the territory.
+[x] rodziny przybywa na terytorium.
 
 #effect_emigr
-[x] families leave the territory.
+[x] rodziny opuszcza terytorium.
 
 #effect_gividea
-Receive a new idea: [x]
+Otrzymujesz nowy pomysł: [x]
 
 #effect_givreg
-Gain control of the territory.
+Przejmij kontrolę nad terytorium.
 
 #effect_fac_rplc
-You will swap position in the Nation's hierarchy with this character.
+Tym bohaterem zamienisz się pozycją w hierarchii frakcji.
 
 #effect_fac_trigvt
-Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
+Spowoduje głosowanie podwładnych w celu wyboru następcy pozycji tej postaci w frakcji.
 
 #effect_res_convstate
-Converts [x]% of the stocked resources in all territories to State owned.
+Konwertuje [x]% zasobów magazynowanych na wszystkich terytoriach na będące własnością państwa.
 
 #effect_give_civpt
-+[x] Civilization Points
++ [x] punktów cywilizacji
 
 #effect_adopt_rescons
-Adoption of [x] consumption
+Przyjęcie konsumpcji [x]
 
 #effect_adopt_foodscons
-Adoption of local food sources consumption
+Przyjęcie konsumpcji lokalnych źródeł żywności
 
 #event_diplomes
-Message from [x]
+Wiadomość od [x]
 
 #event_treaty
-Treaty proposal from [x]
+Propozycja traktatu z [x]
 
 #event_dwar_att
-We have declared war to [x]
+Wypowiedzieliśmy wojnę [x]
 
 #event_dwar_att_1
-My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
+Mój panie, wypowiedzieliśmy wojnę [x] [y] i teraz toczymy wojnę z tymi słabymi prosiętami.
 
 #event_dwar_def
-[x] has declared war on us!
+[x] wypowiedział nam wojnę!
 
 #event_dwar_def_1
-My lord, [x] of [y] has declared war on us.
+Mój panie, [x] z [y] wypowiedział nam wojnę.
 
 #event_dwar_def_2
-We are now at war with these filthy hogs.
+Jesteśmy teraz w stanie wojny z tymi brudnymi wieprzami.
 
 #event_war_state
-Our country is currently at war!
+Nasz kraj jest obecnie w stanie wojny!
 
 #event_misscomp
-Mission completed: [x]
+Misja zakończona: [x]
 
 #event_misscomp_1
-We have completed this mission and received its rewards.
+Ukończyliśmy misję i otrzymaliśmy nagrody.
 
 #event_gameovr
-Game over!
+Koniec gry!
 
 #event_gameovr_1
-The game is over and its winner is the nation of '[x]' , being the first to reach [p1] Victory points and with a total score of [p2].
+Gra dobiegła końca, a jej zwycięzcą jest państwo „[x]”, które jako pierwsze osiągneło [p1] punktów zwycięstwa i łączny wynik [p2].
 
 #event_gameovr_2
-Note that the game may go on and you can keep playing, but scores and ranks will no longer be updated and there will be no further victory missions.
+Pamiętaj, że gra może toczyć się dalej, ale wyniki i rangi nie będą już aktualizowane i nie będzie dalszych misji zwycięstwa.
 
 #event_rsk_upris
-Rebellion risk in [x]
+Ryzyko buntu w [x]
 
 #event_rsk_upris_1
-The loyalty of [x] is very low and there is a high risk of imminent rebellion of its population! We need to do something about it...
+Lojalność [x] jest bardzo niska i istnieje duże ryzyko buntu jego ludności! Musimy coś z tym zrobić ...
 
 #event_rsk_upris_2
-Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leaderboard to see your final score.
+Lojalność jest obniżana przez takie czynniki jak: ilość miejscowej kultury, silny lokalny garnizon, brak wojsk państwowych, niska siła lub legitymacja państwa, liczba miast i odległość od stolicy. Możesz otworzyć tabelę wyników, aby zobaczyć swój ostateczny wynik.
 
 #event_revolt
-Popular revolt in [x]!
+Ludowy bunt w [x]!
 
 #event_revolt_1
-The population of [x] are revolting against us and rebels are trying to take control of the city! If they suceed, we will lose control of this territory!
+Ludność [x] buntuje się przeciwko nam, a rebelianci próbują przejąć kontrolę nad miastem! Jeśli im się uda, stracimy kontrolę nad tym terytorium!
 
 #event_revolt_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]% ludności chwyciło za broń i zbuntowało się, w tym [p3] żołnierzy miejscowego garnizonu, którzy uciekli do rebeliantów. [p5] lojalnych żołnierzy stawiło czoła łącznie [p4] rebeliantów.
 
 #event_br_revolt
-Revolt thwarted in [x]
+Bunt udaremniony w [x]
 
 #event_br_revolt_1
-The population of [x] revolted against your government because of low loyalty, and rebels unsucessfully tried to take control of the city.
+Ludność [x] zbuntowała się przeciwko Twojemu rządowi z powodu niskiej lojalności, a buntownicy bezskutecznie próbowali przejąć kontrolę nad miastem.
 
 #event_br_revolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% ludności chwyciło za broń i zbuntowało się, w tym [p4] żołnierze miejscowego garnizonu, którzy uciekli do buntownikom. [p5] lojalnych żołnierzy stawiło czoła łącznie [p3] buntownikom.
 
 #event_br_lstrevolt
-[x] was lost to rebels!
+[x] został stracony przez rebeliantów!
 
 #event_br_lstrevolt_1
-The population of [x] revolted against us and rebels managed to take control of the city. Losing control of one of our cities to rebels has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost 25 of honor.
+Ludność [x] zbuntowała się przeciwko nam, a buntownicy zdołali przejąć kontrolę nad miastem. Utrata kontroli nad jednym z naszych miast na rzecz buntowników przyniosła wstyd Twoim rządom. Ta porażka podważy na chwilę Twoją legitymizacje lidera: straciłeś 25 punktów honoru.
 
 #event_br_lstrevolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% ludności chwyciło za broń i zbuntowało się, w tym [p4] żołnierze miejscowego garnizonu, którzy uciekli do buntownikom. [p5] lojalnych żołnierzy stawiło czoła łącznie [p3] buntownikom.
 
 #event_partis
-Partisans uprising in [x]!
+Powstanie partyzantów w [x]!
 
 #event_partis_1
-There is an active Resistance movement in [x], and partistans loyal to the [y] have just launched an attack to try take control of the city. If they suceed, we will lose control of this territory and [p7] of honor!
+W [x] jest aktywny ruch oporu, a partyzanci lojalni wobec [y] właśnie rozpoczęli atak, aby spróbować przejąć kontrolę nad miastem. Jeśli im się uda, stracimy kontrolę nad tym terytorium i [p7] honoru!
 
 #event_partis_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]% ludności chwyciło za broń i zbuntowało się, w tym [p3] żołnierze miejscowego garnizonu, którzy uciekli do rebeliantów. [p5] lojalnych żołnierzy stawiło czoła łącznie [p4] rebeliantom.
 
 #event_br_partis
-Partisans defeated in [x]
+Partyzanci pokonani w [x]
 
 #event_br_partis_1
-Good news! There was an attempt from the Resistance movement in [x] loyal to the [y] to retake control of the city, but their uprising was defeated and the resistance movement was weakened by this defeat!
+Dobre wieści! Ruch oporu w [x] lojalny wobec [y] próbował odzyskać kontrolę nad miastem, ale ich powstanie zostało pokonane, a ruch oporu został osłabiony przez tę porażkę!
 
 #event_br_partis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% ludności chwyciło za broń i zbuntowało się, w tym [p4] żołnierze miejscowego garnizonu, którzy uciekli do rebeliantów. [p5] lojalnych żołnierzy stawiło czoła łącznie [p3] buntownikom.
 
 #event_br_lstpartis
-[x] was lost to partisans!
+[x] został stracony przez partyzantów!
 
 #event_br_lstpartis_1
-Terrible news: the Resistance movement of [x], loyal to the [y], has launched an uprising and partisans have managed to take control of the city. Losing to a Resistance movement has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost [p7] of honor.
+Straszna wiadomość: ruch oporu [x], lojalny wobec [y], wywołał powstanie i partyzantom udało się przejąć kontrolę nad miastem. Przegrana z ruchem oporu przyniosła wstyd twoim rządom. Ta porażka podważy na chwilę twoją prawowitość jako lidera: straciłeś [p7] honoru.
 
 #event_br_lstpartis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]% ludności chwyciło za broń i zbuntowało się, w tym [p4] żołnierze miejscowego garnizonu, którzy uciekli do rebeliantów. [p5] lojalnych żołnierzy stawiło czoła łącznie [p3] buntownikom.
 
 #event_Ab_pitch
-Attacking [x] of [y]
+Atakuje [x] z [y]
 
 #event_Ab_pitch_1
-We are engaging the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+Walczyliśmy z armią wroga „[x]” z [y] w bitwie z [p2] żołnierzami.
 
 #event_Ab_pitch_2
-They are facing us with [p3] soldiers.
+Napotykają nas z [p3] żołnierzami.
 
 #event_Abr_pitch
-Attacked [x] of [y]
+Zaatakowano [x] z [y]
 
 #event_Abr_pitch_1
-We engaged the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+Walczyliśmy z armią wroga „[x]” z [y] w bitwie z [p2] żołnierzami.
 
 #event_Abr_pitch_2
-They faced us with [p3] soldiers.
+Napotykają nas z [p3] żołnierzami.
 
 #event_Db_pitch
-'[x]' are under attack by [y]
+„[x]” jest atakowany przez [y]
 
 #event_Db_pitch_1
-'[x]' are beeing engaged in pitch battle by an army of [y].
+„[x]” toczą bitwę z armią [y].
 
 #event_Db_pitch_2
-Our [p2] soldiers are facing [p3] enemy soldiers.
+Nasi [p2] żołnierze walczą z [p3] żołnierzami wroga.
 
 #event_Dbr_pitch
 '[x]' were attacked by an army [y]
