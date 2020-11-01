@@ -5604,13 +5604,13 @@ Przejmij
 Osiedl się
 
 #formact_raid
-Atakuj
-
-#formact_sack
 Plądruj
 
+#formact_sack
+Spal
+
 #formact_invd
-Najazd
+Przejmij
 
 #formact_batl
 Bitwa
@@ -6420,13 +6420,13 @@ Wybierz nowy zasób
 Efekt cechy
 
 #ui_pass_custom
-PRZYJMUJ TĘ CECHĘ
+PRZYJMIJ CECHĘ
 
 #ui_pass_custom_c
 Kliknij, aby wydać [x] Punktu Cywilizacji, aby przyjąć tę cechę kulturową.
 
 #ui_rvq_custom
-ODZYSKAJ CECHĘ
+ODZYSKAJ PUNKT CYWILIZACJI
 
 #ui_rvq_custom_c1
 Kliknij, aby anulować cechę i odzyskać punkty cywilizacji.
