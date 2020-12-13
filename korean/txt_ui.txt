@@ -337,6 +337,12 @@ UI 소리
 #servlst_won_c1
 이 게임은 아직 승패를 가리지 못했습니다. 일단 승패가 결정되면 게임은 끝나고 서버에서 지워지고 다시 시작될 수도 있습니다.
 
+#servlst_psw
+비밀번호
+
+#servlst_psw_c1
+이 게임에 대한 접근에 대하여 암호로 보호되는지 여부를 나타냅니다.
+
 #servlst_admn
 관리자 도구
 
@@ -483,6 +489,18 @@ UI 소리
 
 #maptyp6_dscr
 열대섬이 많은 따뜻하고 습한 바다세계입니다.
+
+#mapcont
+대륙
+
+#mapsea
+바다 면적
+
+#maprelief
+구제 금액
+
+#maptemp
+온도
 
 #maptypcust
 사용자 정의
@@ -1078,6 +1096,12 @@ UI 소리
 #regeco_up_infr_c1
 영토 내 모든 도시 인프라의 총 유비지 (유지비가 드는 벽이나 정원등)
 
+#regeco_up_free
+영역 상태
+
+#regeco_up_free_c1
+영토 상태에 의해 유지비용이 무료입니다.
+
 #regeco_tradebal
 거래잔고
 
@@ -1189,8 +1213,17 @@ M
 #bc_gen_mainmenu
 메뉴 열기
 
-#bc_gen_speed
-해당 [x] 만큼의 게임 속도
+#bc_gen_speed_c1
+게임의 전체 진행 속도를 설정합니다.
+
+#bc_gen_speed_c2
+이는 자원 생산, 연구, AP 복구, 새로운 아이디어 발견, 세계 지도에서의 이동 속도 등과 같은 사물의 속도에 영향을 미칩니다.
+
+#bc_btl_speed_c1
+게임의 전투 및 유닛 속도를 설정합니다.
+
+#bc_btl_speed_c2
+이것은 영토에서의 전투와 유닛의 속도에만 영향을 미칩니다.											
 
 #bc_gen_gameset
 현재 게임 설정
@@ -1402,12 +1435,6 @@ GDP
 #ui_eco_bdgs_c1
 당신의 모든 영토에 있는 모든 건물의 총유지.
 
-#ui_eco_infr
-기반시설 유지비
-
-#ui_eco_infr_c1
-벽이나 도로와 같은 모든 지역의 모든 기반시설을 유지하는 총비용.
-
 #ui_eco_units
 유닛 유지비
 
@@ -1477,6 +1504,9 @@ GDP
 #ui_mres_dist
 배분
 
+#ui_mres_dist_cltr
+이 자원은 인구가 소비하는 모든 단위에 대해 [x]의 문화를 생산하며, 현재 총 [y]의 문화를 생산하고 있습니다.
+
 #ui_mres_ind
 산업
 
@@ -1495,11 +1525,17 @@ GDP
 #ui_price_base1_c1
 이 자원에 대한 현지 생산품의 비용은 필수 자재 비용에 근거합니다.
 
+#ui_price_base1_c2
+생산은 단위당 [y]의 평균 비용으로 총 입력의 [x]%를 나타내며, 그 결과 [z]의 최소 가격에 영향
+
 #ui_price_base2
 수입 비용 ([x]%)
 
 #ui_price_base2_c1
 현재 무역로에서 이 자원을 수입하는 비용.
+
+#ui_price_base2_c2
+수입은 단위당 평균 비용[y]으로 총 입력의 [x]%를 나타내며, 최소 가격[z]에 영향을 미칩니다.
 
 #ui_price_base3
 매출액 이윤
@@ -2851,6 +2887,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #ui_recruit_resist
 반군이 있는 지역에서는 새로운 부대를 모집할 수 없습니다.
 
+#ui_recruit_btl
+전투 중에는 병력을 수정할 수 없습니다!
+
 #ui_recruit_immo
 이 부대가 움직일 수 없는 동안에는 군대를 개편할 수 없습니다.
 
@@ -3046,6 +3085,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #ui_foinv_empreg
 빈 영토에서 자원을 적재할 수 없습니다!
 
+#ui_foinv_unldfail
+저장 공간이 부족하여 [x] [y]개를 부대에 적재하지 못했습니다!
+
 #ui_foinv_load
 부대의 인벤토리에 물품 적재
 
@@ -3199,6 +3241,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #ui_builderr_maxan
 이 건물은 [x] [y] 이상의 것을 가질 수 없습니다.
 
+#ui_builderr_maxreg
+영토에는 [x] [y] 이상의 것이 있을 수 없습니다.
+
 #ui_dpltool_needreg
 병력 배치를 설정하려면 영토 내부시점에 있어야 합니다!
 
@@ -3222,6 +3267,12 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #ui_dpltool_matt_dscr
 그 부대는 들어오는 위협에 맞설 수 있도록 재배치될 것이고 즉시 난전을 벌일 것입니다. 따라서 현재 부대의 배치 위치는 이 모드에서는 중요하지 않다.
+
+#ui_dpltool_delzone
+(삭제하려면 마우스 오른쪽 버튼을 클릭하세요)
+
+#ui_dpltool_conf
+전략 변경이 확인되었습니다!
 
 #ui_dpltool_mdef
 제한된 교전
@@ -3261,6 +3312,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #ui_dpltool_needdefz
 병력을 배치하기 전에 적어도 하나의 방어구역을 배치해야 합니다.
+
+#ui_dpltool_inaxss
+병력이 부족하기 때문에 이곳에는 병력을 배치할 수 없습니다!
 
 #ui_dpltool_maxdefz
 방어 구역 최대 수에 도달하셨습니다.
@@ -3640,6 +3694,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #err_reg_abdn4
 이 영토의 현재 상황은 당신이 철수 명령을 내리는 것을 허락되지 않습니다.
 
+#err_reg_abdn5
+이 지역은 이미 대피 중입니다!
+
 #b_regclaim
 영토 점유
 
@@ -3696,6 +3753,21 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #b_actv_trt_m2
 다른 사람
+
+#b_actv_trt_brk
+위반자
+
+#b_actv_trt_wbrk1
+당신은 위반합니다.
+
+#b_actv_trt_wbrk2
+[x]는(은) 위반합니다.
+
+#b_actv_trt_brkcl1
+어떠한 위반한 조항이 없습니다.
+
+#b_actv_trt_brkcl2
+계기로 의해 파기될 조약:
 
 #b_actv_trt_cancel
 조약 취소
@@ -3958,17 +4030,38 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_regres_totexp_c4
 판매 화물:
 
+#ui_regres_totexp_c4w
+손해를 보는 판매입니다! 현지 화물 가격이 무역로보다 높습니다.
+
 #ui_regres_addofr
 제안 추가하기
+
+#ui_regres_selres
+자원 유형을 선택
 
 #ui_regres_trsf
 이송
 
+#ui_regres_trsf_c1
+영토마다의 지속적인 자원 전송을 설정합니다.
+
+#ui_regres_trsf_c2
+이들의 제안은 거래망에 표시되지 않으며 해당 지역에서만 이용할 수 있습니다.
+
 #ui_regres_imp
 수입
 
+#ui_regres_imp_c1
+지속적인 자원 전송을 제공하는 지역의 거래망에 있는 기존 제안을 봅니다.
+
 #ui_regres_exp
 수출
+
+#ui_regres_exp_c1
+거래망의 다른 영역으로 자원을 지속적으로 전송할 수 있습니다.
+
+#ui_regres_exp_c2
+이들의 제안은 공개적이며 거래망에 있는 모든 사용자가 이용할 수 있습니다.
 
 #ui_regres_buy
 구매
@@ -4000,6 +4093,12 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_regres_pndng
 우리의 제안
 
+#ui_regres_buying
+[x]에서 구매
+
+#ui_regres_selling
+[x]에서 판매
+
 #ui_regres_prod
 상품
 
@@ -4011,6 +4110,9 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 
 #ui_regres_atprc
 의 값
+
+#ui_regres_amnt
+수량
 
 #ui_regres_noinp
 [자원 이름을 한글로 기입하세요.]
@@ -4099,6 +4201,12 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_troute_maxava_c1
 운영자에서 현재 이용할 수 있는 화물 서비스의 양.
 
+#ui_troute_basevol
+기반화물량
+
+#ui_troute_basevol_c1
+이 교역로에 필요한 기반화물량, 즉 운송되는 모든 자원의 화물량을 합한 것입니다.
+
 #ui_troute_edit
 기존 거래 경로를 편집하는 중...
 
@@ -4117,6 +4225,12 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_troute_totcost_c1
 이 무역로를 유지하는 데 드는 총 비용.
 
+#ui_troute_totinc
+TOTAL INCOME(총소득)
+
+#ui_troute_totinc_c1
+이 교역 경로의 총 수입입니다.
+
 #ui_troute_bdgtdscr1
 국가는 나중에 사용하는 것에 관계없이 수출 도시로부터 수입된 물품의 전액을 지불하고 소유합니다.
 
@@ -4128,6 +4242,12 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 
 #ui_troute_bgc_c1
 수출 도시로 물건을 구입하는 데 드는 비용.
+
+#ui_troute_binc
+상품 수익
+
+#ui_troute_binc_c1
+무역 경로 상품의 판매로부터 발생하는 수익입니다.
 
 #ui_troute_bcc
 화물비
@@ -4206,6 +4326,27 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 
 #form_atfct_dscr_3
 소유권은 같은 방법으로 상실될 수 있습니다.
+
+#form_sttlrs
+정착민들
+
+#form_sttlrs_dscr_1
+정착민들은 새로운 영토를 정착시키기 위해 민간인들을 모집할 수 있는 시민부대입니다.
+
+#form_migrnts
+이민자들
+
+#form_migrnts_dscr_1
+이민자들은 집이 없는 인구의 특별한 민간인 형태입니다. 이들은 새로운 지역에 정착할 수 있고, 주택 지원이 필요하지 않으며, 거리 벌칙 없이 AP를 복구할 수 있지만, 주정부 전력과 유지보수가 추가로 필요합니다.
+
+#form_migrnts_dscr_2
+이민자들은 한 지역이 대피할 때 생겨납니다.
+
+#form_nomad
+유목민들
+
+#form_nomad_dscr_1
+유목민들은 가정 지원이 필요하지 않으며 거리 벌칙 없이 AP를 복구할 수 있습니다. 그들은 또한 새로운 영토를 정착시킬 수 있습니다.
 
 #menu_trbuy_title
 자원을 구입하는 중...
@@ -4414,6 +4555,9 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_tech_ter
 새 영토 상황
 
+#ui_tech_rev
+드러난 것들
+
 #ui_tech_unit
 새 유닛
 
@@ -4477,12 +4621,6 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #menu_scr_p_c
 당신의 총 군사력에서 점수를 얻습니다. 민병대는 포함되지 않습니다.
 
-#menu_scr_v
-하급자
-
-#menu_scr_v_c
-부하 로부터의 점수 : 모든 직계 부하들로 부터 점수의 일정 부분을 받습니다.
-
 #menu_scr_tot
 점수
 
@@ -4522,8 +4660,11 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 #menu_scr_vpcost
 승점 비용
 
-#menu_scr_vpcost_c
+#menu_scr_vpcost_c1
 각 승리 포인트를 획득하기 위해 기준 점수 보다 위에 필요한 점수 양.
+
+#menu_scr_vpcost_c2
+승점 100점의 가치는 현재 세계 점수의 50%와 동일하다고 정의됩니다. 이를 통해 모든 VP의 비용이 세계 점수의 0.5%(최소 100점)까지 상승합니다.
 
 #menu_scr_frna
 국가 기여도
@@ -4617,6 +4758,9 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 
 #btl_rslt_neutr
 중립이였음
+
+#btl_rslt_rtrtd
+후퇴함
 
 #btlrslt_neutr
 중립
@@ -5365,6 +5509,21 @@ Cubes
 #wkprio_4
 최우선
 
+#strprio_0
+[자동]
+
+#strprio_1
+낮음
+
+#strprio_2
+중간
+
+#strprio_3
+높음
+
+#strprio_4
+매우 높음
+
 #recyclmat
 우린 회복했습니다.
 
@@ -5386,6 +5545,10 @@ Cubes
 #err_inaxsbdg
 이 건물은 현재 접근할 수 없습니다.
 
+#err_cantrstr
+당신은 이 건물을 다시 수리할 수 없습니다!
+
+
 #formact_none
 대기
 
@@ -5397,6 +5560,12 @@ Cubes
 
 #formact_hunt
 사냥하기
+
+#formact_wood
+벌목하기
+
+#formact_wood_rslt
+그 부대는 나무[x]를 모았습니다.
 
 #formact_captr
 포획하기
@@ -5427,6 +5596,9 @@ Cubes
 
 #formact_tkartfct
 유물을 점유합니다.
+
+#formact_palntr
+팔렌티르를 사용합니다.
 
 #formhome_title
 이 부대의 고향을 바꾸고 있습니다...
@@ -5712,3 +5884,486 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 
 #insuf_funds
 자금이 부족합니다!
+
+#trtybrk_load
+조약들을 확인하는 중입니다...
+
+#trtybrk_none
+이번 조치로 어떤 조약도 위반되지 않을 것입니다.
+
+#trtybrk_warn
+경고! 이 조치는 다음 조약을 위반하는 계기가 될 것입니다:
+
+#ui_menubdg_prio
+저장 우선 순위
+
+#sc_menubdg_prio_c1
+다른 저장소와 달리 이 저장소 건물에 새 자원을 비축하기 위한 우선 순위 수준을 선택합니다.
+
+#ui_menubdg_stck_wlth_c1
+부축적
+
+#ui_menubdg_stck_wlth_c2
+현재 이 저장소에 있는 자원들은 이 영토의 전체 부에서 [x]만큼이 해당됩니다.
+
+#ui_menubdg_stck_wlth_c3
+축적된 부는 모든 자원의 기반이 되는 부의 총 합계입니다. 자원의 기반이 되는 부는 이를 생산하기 위해 필요한 인력 양에 따라 상수이다.
+
+#ui_regwlth_tot
+전체 부
+
+#ui_regwlth_tot_c1
+이 지역에서 유효하게 이용할 수 있는 재산입니다. 그것은 그들의 동전 수입에 기초하여 모든 활동적인 노동자들 사이에 공유되고 그것은 그들의 개인 재산 수준과 구매력을 결정합니다.
+
+#ui_regwlth_prod
+생산한 부
+
+#ui_regwlth_prod_c1
+현재 이 지역에서 일어나고 있는 모든 생산적인 일에서 얻은 총 재산은, 이 모든 일을 통해 부를 창출하는 모든 건물의 합계입니다.
+
+#ui_regwlth_stck
+축적된 부
+
+#ui_regwlth_stck_c1
+현재 저장되어 있는 모든 자원의 총 재산(부)입니다.(참고로 무인 지상 저장소에 저장된 데이터는 무시됩니다.)
+
+#ui_regwlth_mtl
+대표화폐
+
+#ui_regwlth_mtl_c1
+대표화폐 정책으로 귀금속 비축물(금 또는 은)이 영토의 부에 추가됩니다.
+
+#ui_regwlth_mtl_c2
+현재 비축물은 부의 +[x]%를 보너스로 제공하고 있습니다.
+
+#ui_regwlth_prv
+특권[x]%
+
+#ui_regwlth_prv_c1
+부는 특권 계급에 의해 직접적으로 전환되합니다.
+
+#ui_regwlth_prv_c2
+[x]%의 [y] 부 = [z]가 특권으로 전환됩니다.
+
+#ui_tradeordr_your
+[x]에서 당신의 주문
+
+#ui_tradeordr_in
+[x]에서
+
+#ui_tradeordr_recur
+순환 순서
+
+#ui_tradeordr_recur_c1
+클릭해서 해당 지역의 비축분을 기준으로 이 주문이 반복되고 자동으로 트리거되도록 합니다.
+
+#ui_tradeordr_stcktrg1
+...비축분이 해당 수량보다 적을 때
+
+#ui_tradeordr_stcktrg2
+...비축분이 해당 수량보다 많을 때
+
+#ui_tradeordr_instck
+재고있음
+
+#ui_tradeordr_lclprc
+현지 가격
+
+#ui_tradeordr_inc1
+Trade's raw income
+
+#ui_tradeordr_inc1_c1
+This is the raw income this trade offer will generate if taken, based on the amount sold and specified limit price.
+
+#ui_tradeordr_inc2
+Local producer's share
+
+#ui_tradeordr_inc2_c1
+If the sold resources are privately owned, their local owners must be paid at the local price for the amount sold.
+
+#ui_tradeordr_inc2_c2
+* Local producers own [x], at a local price of [y]: +[z] coins
+
+#ui_tradeordr_inc2_c3
+* Income tax of [x]%: -[y] coins
+
+#ui_tradeordr_inc2_c4
+* Actual income for local producers: [x] coins
+
+#ui_tradeordr_inc3
+Expected profit
+
+#ui_tradeordr_inc3_c1
+This is the expected profit expected for this trade offer.
+
+#ui_tradeordr_inc4
+Trade's raw expense (deposit)
+
+#ui_tradeordr_inc4_c1
+This is the maximum raw expense of this trade based on the amount purchased and specified limit price. Immediately taken from the treasury to insure the order.
+
+#ui_tradeordr_inc5
+Potential local incomes
+
+#ui_tradeordr_inc5_c1
+If the purchased resources are then sold locally, this is the income they will generate based on their local selling price.
+
+#ui_tradeordr_inc6
+Expected profit
+
+#ui_tradeordr_inc6_c1
+This is the expected profit if all purchased resources are then sold locally.
+
+#ui_tradeordr_inc7
+Expected waste of -[x]%
+
+#ui_tradeordr_inc7_c1
+This is the expected profit lost to waste based on the current waste rate of [x]% in this territory.
+
+#ui_tradeordr_prc1
+Maximum purchasing price. If selling offers are available at a lower price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_prc2
+Minimum selling price. If buying offers are available at a higher price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_quant
+Enter the amount of resources to trade for this offer.
+
+#ui_tradeordr_trdsrvcav
+This offer requires [x] of trading service. You have currently [y] available.
+
+#ui_tradeordr_cant
+This resource cannot be traded!
+
+#ui_tradeordr_showall
+Show all resources
+
+#ui_tradeordr_showall_c1
+Show pending orders for this territory of all resources.
+
+#ui_tradeordr_allreg
+For all territories
+
+#ui_tradeordr_allreg_c1
+Show the trading history of all your territories combined instead of just the currently selected one.
+
+#ui_tradeordr_nocoin
+Insufficient treasury funds to place this order.
+
+#ui_tradeordr_nostck1
+Insufficient resources in stock to place this order.
+
+#ui_tradeordr_nostck2
+Impossible to set a sell order of an amount higher than the stock triggering it.
+
+#ui_tradeordr_priclmt1
+This order conflicts with a selling order from the same territory at a price of [x].
+
+#ui_tradeordr_priclmt2
+This order conflicts with a buying order from the same territory at a price of [x].
+
+#ui_tradeordr_trdsrvc_c1
+Trading service is produced by Market buildings and is required to set and maintain orders in your trading network.
+
+#ui_tradeordr_trdsrvc_c2
+* Your functionning Markets in this territory currenty produce [x] of Trading service. 
+
+#ui_tradeordr_trdsrvc_c3
+* You current orders currently consumme [x] of Trading service.
+
+#ui_tradeordr_trdsrvc_c4
+* You have [x] of Trading service available for new orders.
+
+#ui_tradeordr_butn_c1
+Buying [x] [y] at a maximum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c2
+Recurrent buying of [x] [y] at a maximum price of [z] coins per unit triggered whenever stocks go below [v].
+
+#ui_tradeordr_butn_c3
+Selling [x] [y] at a minimum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c4
+Recurrent selling of [x] [y] at a minimum price of [z] coins per unit triggered whenever stocks reach [v].
+
+#ui_tradeordr_butn_c5
+This order is currently inactive. It will automatically trigger if stocks of [x] reach [y] in this territory.
+
+#ui_tradeordr_butn_c6
+This order is currently active. It will automatically cancel if stocks of [x] go below [y] (stock trigger [z] -order size [v]) in this territory.
+
+#ui_tradeordr_butn_c7
+This order is currently inactive. It will automatically trigger if stocks of [x] go below [y] in this territory.
+
+#ui_tradeordr_butn_c8
+This order is currently active. It will automatically cancel if stocks of [x] go above [y] (stock trigger [z] +order size [v]) in this territory.
+
+#ui_tradeordr_shwinctv
+Show inactive orders
+
+#ui_tradeordr_shwinctv_c1
+Click to toggle the display of recurrent orders that are currently inactive.
+
+#ui_tradeordr_butn_c9
+Offer in [x], from [y] of [z] ([v])
+
+#ui_tradeordr_butn_c10
+Offer in [x], from you
+
+#ui_tradebook_title
+Orders book
+
+#ui_tradebook_buy
+Best ask
+
+#ui_tradebook_sell
+Best bid
+
+#ui_tradebook_buyd
+Ask orders depth
+
+#ui_tradebook_selld
+Bid orders depth
+
+#ui_tradebook_nosell
+No selling offers in your trading network!
+
+#ui_tradebook_nobuy
+No buying offers in your trading network!
+
+#ui_tradebook_noofr
+You havn't any openned orders in this territory.
+
+#ui_tradebook_nbuy_c1
+Place a one-time buying order for [x] [y] at maximum price of [z] coins.
+
+#ui_tradebook_nbuy_c2
+[x] coins will immediately be taken from your treasury and reserved for this order. Note that if the order is cancelled or satisfied at a lower price, the difference will be returned to the treasury.
+
+#ui_tradebook_nbuy_c3
+Place a recurring buying order for [x] [y] at maximum price of [z] coins everytime territory's stocks are below [v].
+
+#ui_tradebook_nbuy_c4
+* Activates when territory go below [x] of [y].
+
+#ui_tradebook_nbuy_c5
+* Deactivates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c1
+Place a one-time selling order for [x] [y] at minimum price of [z] coins.
+
+#ui_tradebook_nsell_c2
+[x] [y] will immediately be taken from your resource stocks and reserved for this order.
+
+#ui_tradebook_nsell_c3
+Place a recurring selling order for [x] [y] at minimum price of [z] coins everytime the territory's stocks reach [v].
+
+#ui_tradebook_nsell_c4
+* Activates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c5
+* Deactivates when territory go below [x] of [y].
+
+#ui_tradehist_ttle
+History
+
+#ui_tradehist_ttle_c1
+Trading history in the territory of [x], for the last [y].
+
+#ui_tradehist_but_c1
+[x] ago, in [y]:
+
+#ui_tradehist_but_c2
+You bought [x] [y] to [z] at price [v].
+
+#ui_tradehist_but_c3
+You sold [x] [y] to [z] at price [v].
+
+#ui_tradehist_but_c4
+* Gross income: +[x] coins
+
+#ui_tradehist_but_c5
+* Local producers share: -[x] coins
+
+#ui_tradehist_but_c6
+* Profit & Taxes: [x] coins
+
+#ui_tradehist_but_c7
+* Total cost: [x] coins
+
+#ui_tradehist_but_c8
+* Waste: -[x] coins
+
+#menu_res_gen
+General
+
+#menu_res_wealth_c1
+The base wealth of this resource type. This is an objective constant independent of the fluctuating market value of the resource, based on the amount of work required to produce this resource. 
+
+#menu_res_wealth_c2
+If stocked in proper storage buildings, each unit will add [x] to the territory's wealth.
+
+#menu_res_trd
+Trading
+
+#menu_res_trd2
+Trade
+
+#ui_tradehist_tots
+Total sales
+
+#ui_tradehist_tots_c1
+Total income from sales since the last [x].
+
+#ui_tradehist_totb
+Total purchases
+
+#ui_tradehist_totb_c1
+Total expenses from purchases since the last [x].
+
+#ui_tradehist_prtnr
+Best partner
+
+#ui_tradehist_bs
+their purchases: [x], sales: [y]
+
+#ui_tradentwk_title
+Best offers
+
+#ui_tradentwk_title_c1
+Best available offers in your current trading network, for each resource type.
+
+#ui_tradentwk_bst_c1
+* Best bid offer available: [x] coins
+
+#ui_tradentwk_bst_c2
+* Best ask offer available: [x] coins
+
+#ui_tradentwk_bst_c3
+* No bid offers available.
+
+#ui_tradentwk_bst_c4
+* No ask offers available.
+
+#ui_tradentwk_bst_c5
+in stock: [x], local price: [y]
+
+#ui_tradentwk_prof
+Filter unprofitable offers
+
+#ui_tradentwk_prof_c1
+Only list resources whose best offers are potentially profitable for this territory:
+
+#ui_tradentwk_prof_c2
+If the best bid is superior or equal to the local price, or if the best ask is lower or equal to the local price.
+
+#menu_res_trdfrm
+Trade from...
+
+#menu_res_trdfrm_c1
+Select the territory to consider for trading with [x].
+
+#button_opertrt_c1
+Operating a trade route between [x] of [y] and [z] of [v].
+
+#button_opertrt_c2
+* using [x] cargo at price [y]:  [z] coins
+
+#button_opertrt_c3
+* buying cargo at local price [x]:  -[y] coins
+
+#button_opertrt_c4
+* operation profit:  [x] coins
+
+#button_routeitem_c1
+Importing [x] of [y] at price [z] from [v], for a total cargo volume of [w].
+
+#button_routeitem_c2
+Purchased from the trade route at price [x] for [y] coins and currently reselling in [z] at price [v] for [w] coins.
+
+#button_routeitem_c3
+Exporting [x] of [y] at price [z] towards [v], for a total cargo volume of [w].
+
+#button_routeitem_c4
+Purchased from local producers at price [x] for [y] coins and currently sold to the trade route for [z] at price [v] for [w] coins.
+
+#button_routeownr
+Trade route owner
+
+#button_routeownr_c1
+The trade route owner is the one who opened the trade route, and is the only one paying the required cargo and able to choose the route's operator.
+
+#button_routeresedit_1
+This is a trade route with a third party: you may only reduce the amount traded.
+
+#button_routeresedit_2
+This is a trade route that you fully control, and you may increase or reduce the amount traded.
+
+#srvr_restart
+Warning: Server daily auto-restart in [x]!
+
+#srvr_decorstrt
+The server is restarting and will be back online in a few minuts.
+
+#ui_char_notblk
+This character isn't currenlty blocked. Click to block.
+
+#ui_char_isblk
+This character is currently blocked. Click to unblock.
+
+#ui_char_nowblk
+This character is now blocked.
+
+#ui_char_nowunblk
+This character is no longer blocked.
+
+#ui_char_blk_dscr_1
+Blocking hides all the chats, messages, and chronicles from this character.
+
+#ui_char_blk_dscr_2
+It also replaces all his territory names with default ones.
+
+#ui_govcltr_civpt_c1
+You currently have [x] unused Civilization Points available to invest in new cultural traits.
+
+#ui_govcltr_civpt_dscr_1
+Civilization Points allow you to customize and specialize your culture by investing your points in several different categories providing various perks such as unlocking the consumption and production of resources, enabling behavioral traits and modifying your architecture style.
+
+#ui_govcltr_civpt_dscr_2
+These points are mainly earned through the generation of State Culture in all your territories, but they can also be earned through event and project rewards.
+
+#ui_govcltr_civpt_dscr_3
+These points cannot be refunded once invested: choose your traits carefully!
+
+#ui_govcltr_civpt_use_c1
+You currently have invested [x] Points out of a total of [y] earned points so far.
+
+#ui_govcltr_lvl
+Culture level
+
+#ui_govcltr_lvl_c1
+Your current culture level is [x].
+
+#ui_govcltr_lvl_c2
+For every new level reached, you will gain an extra Civilization Point.
+
+#ui_govcltr_nxtlvl
+Next level
+
+#ui_govcltr_xpbar_c1
+You need to generate [x] of State Culture to reach the next Culture Level.
+
+#ui_govcltr_xpbar_c2
+You are currently generating [x] of State Culture [y] in all your territories.
+
+#ui_govcltr_xpbar_dscr_1
+The main way to earn new Civilization Points is by leveling up your Culture: you gain one new point for every new level.
+
+#ui_govcltr_xpbar_dscr_2
+Levelling up is achieved by producing State Culture in your territories and each new level requires more Culture than the previous one.
+
+#ui_formmove_blckd
+Movement was cancelled because its path was blocked by hostiles!
+
+#ui_rveal_res
+We have discovered [x] in [y]!

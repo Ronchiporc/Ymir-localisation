@@ -268,14 +268,20 @@ or
 #g_Add
 추가
 
-#g_enables
-활성화 : 
+#g_Enables
+활성화
 
-#g_Disable
-비활성화 : 
+#g_enables
+활성화
+
+#g_Disables
+비활성화
 
 #g_disables
-비활성화 : 
+비활성화
+
+#g_Disable
+비활성화
 
 #g_price
 가격
@@ -576,3 +582,24 @@ never
 
 #g_in
 in
+
+#g_at
+at
+
+#g_when
+when
+
+#g_You
+당신
+
+#g_civpoint
+문명 점수
+
+#g_bandits
+도적단
+
+#g_hostnatv
+적대적 원주민들
+
+#g_completed
+완료
