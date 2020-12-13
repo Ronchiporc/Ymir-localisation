@@ -5302,6 +5302,12 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 #regstatprop_bdgup
 건물 유지비는 [x]입니다.
 
+#regstatprop_freeup
+무료 유지비[x]
+
+#regstatprop_freeclaims
+무료 영토 점령[x]
+
 #regstatprop_loyal
 충성도 [x]
 
@@ -5547,7 +5553,6 @@ Cubes
 
 #err_cantrstr
 당신은 이 건물을 다시 수리할 수 없습니다!
-
 
 #formact_none
 대기
