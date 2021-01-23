@@ -35,10 +35,10 @@ stress de la population
 modifie le stress de la population
 
 #civfx_paidmat_n
-matériaux payés
+prix des ressources
 
 #civfx_paidmat_dscr
-l'État doit payer pour les matériaux qu'il consomme au prix du marché actuel
+Les ressources ont désormais un prix et un propriétaire.
 
 #civfx_seizem_n
 matériaux saisis
@@ -116,25 +116,28 @@ Salaire du dirigeant
 Le montant du salaire versé au dirigeant en monnaies.
 
 #civfx_nobwlth_n
-Privilèges Nobles
+Privilèges Oligarchiques
 
 #civfx_nobwlth_dscr
-Les nobles obtiennent une partie de la richesse du territoire en tant que privilège
+Les Oligarques obtiennent une partie de la richesse du territoire en tant que privilège
+
+#civfx_nobwlth_actv
+[x]% de privilèges pour le Oligarques
 
 #civfx_nobwlth_set
-Privilège Nobles
+Taux de privilèges
 
 #civfx_nobwlth_setd
-le pourcentage de richesse territoriale donné comme privilège aux nobles
+le pourcentage de richesse territoriale donné comme privilège à la classe des Oligarques.
 
 #civfx_nobsal_n
-Salaire Nobles
+Salaire d'Oligarques
 
 #civfx_nobsal_dscr
-Les nobles reçoivent un salaire payé par l'état
+Les Oligarches reçoivent un salaire payé par le gouvernement.
 
 #civfx_nobsal_set
-Salaire Nobles
+Salaire
 
 #civfx_nobsal_setd
 montant du salaire en pièces de monnaie
@@ -152,10 +155,10 @@ Privilège des travailleurs d'Etat
 le pourcentage de richesse territoriale donné en tant que privilège aux travailleurs de l'Etat
 
 #civfx_offsal_n
-Salaire des travailleurs d'Etat
+Salaire
 
 #civfx_offsal_dscr
-Les travailleurs de l'Etat reçoivent un salaire payé par l'Etat
+Les classes fonctionnaires reçoivent un salaire payé par le gouvernement.
 
 #civfx_offsal_set
 Salaire des travailleurs d'Etat
@@ -182,43 +185,25 @@ adimnistration du territoire
 modifie l'administration de chaque territoire
 
 #civfx_caplead_n
-leaders du capital
+Dirigeant
 
 #civfx_caplead_dscr
-dirigeants dans la capitale
+ajoute un Dirigeant dans la capitale
 
 #civfx_capnob_n
-nobles du capital
+Oligarques dans la capitale
 
 #civfx_capnob_dscr
-nobles dans la capitale
-
-#civfx_citlead_n
-dirigeants de la ville
-
-#civfx_citlead_dscr
-dirigeants par ville
-
-#civfx_citnob_n
-nobles de la ville
-
-#civfx_citnob_dscr
-nobles par ville
-
-#civfx_reglead_n
-leaders locaux
-
-#civfx_reglead_dscr
-leaders par territoire
+ajoute des Oligarques dans la capitale
 
 #civfx_regnob_n
-nobles locaux
+Oligarques régionnaux
 
 #civfx_regnob_dscr
-nobles par territoire
+ajoute des Oligarques dans chaque centre régional
 
 #civfx_goldstck_n
-la richesse des métaux précieux
+richesse des métaux précieux
 
 #civfx_goldstck_dscr
 augmente la richesse de tous les territoires pour chaque unité de métaux précieux (or et argent) dans les entrepôts
@@ -247,92 +232,80 @@ routes commerciales
 #civfx_entrout_dscr
 permet de créer des routes commerciales permanentes entre territoires
 
-#civfx_legitprt_n
-protecteur du peuple
-
-#civfx_legitprt_dscr
-modifie le facteur de légitimité de la force militaire
-
 #civfx_legitw_n
-supériorité du dirigeant
+Supériorité du Dirigeant
 
 #civfx_legitw_dscr
-modifie le facteur de légitimité de la supériorité du leader
-
-#civfx_legitr_n
-la foi des gens
-
-#civfx_legitr_dscr
-modifie le facteur de légitimité de la foi des personnes
-
-#civfx_legitp_n
-le pouvoir du parlement
-
-#civfx_legitp_dscr
-modifie le facteur de légitimité du parlement
-
-#civfx_legitsen_n
-le pouvoir du sénat
-
-#civfx_legitsen_dscr
-modifie le facteur de légitimité du sénat
-
-#civfx_legitm_n
-le pouvoir du ministère
-
-#civfx_legitm_dscr
-modifie le facteur de légitimité du ministère
-
-#civfx_legitap_n
-l'approbation du peuple
-
-#civfx_legitap_dscr
-modifie le facteur de légitimité de l'approbation du peuple
-
-#civfx_wlegitprt_n
-importance de la force militaire
-
-#civfx_wlegitprt_dscr
-La force militaire affecte la légitimité
+La quantité de respect, de pouvoir, et d'influence dont jouit personnellement le Dirigeant.
 
 #civfx_wlegitw_n
-l'importance de la supériorité du leader
+importance de la supériorité du Dirigeant
 
 #civfx_wlegitw_dscr
-la supériorité du leader affecte la légitimité
+Influence du facteur de supériorité du Dirigeant sur la Légitimité
+
+#civfx_legitprt_n
+Soutient des militaires
+
+#civfx_legitprt_dscr
+La quantité de pouvoir et de soutient des militaires.
+
+#civfx_wlegitprt_n
+importance des militaires
+
+#civfx_wlegitprt_dscr
+Influence du facteur de soutient des militaires sur la Légitimité
+
+#civfx_legitr_n
+Soutient des religieux
+
+#civfx_legitr_dscr
+La quantité de pouvoir et de soutient des religieux.
 
 #civfx_wlegitr_n
-importance de la religiosité
+importance des religieux
 
 #civfx_wlegitr_dscr
-combien la religiosité des gens affecte la légitimité
+Influence du facteur de soutient des religieux sur la Légitimité
 
-#civfx_wlegitp_n
-importance du parlement
+#civfx_legitpop_n
+Approbation du Peuple
 
-#civfx_wlegitp_dscr
-dans quelle mesure la puissance du parlement affecte la légitimité
+#civfx_legitpop_dscr
+Le degré d'approbation du Peuple.
 
-#civfx_wlegitsen_n
-importance du Sénat
+#civfx_wlegitpop_n
+importance du Peuple
 
-#civfx_wlegitsen_dscr
-combien le pouvoir du sénat affecte la légitimité.
+#civfx_wlegitpop_dscr
+Influence du facteur d'approbation du Peuple sur la Légitimité
 
-#civfx_wlegitm_n
-l'importance du ministère
+#civfx_legitolig_n
+Soutient de l'oligarchie
 
-#civfx_wlegitm_dscr
-combien le pouvoir du ministère affecte la légitimité.
+#civfx_legitolig_dscr
+La quantité de pouvoir et de soutient de l'oligarchie.
 
-#civfx_wlegitap_n
-importance de l'approbation du peuple
+#civfx_wlegitolig_n
+importance de l'oligarchy
 
-#civfx_wlegitap_dscr
-combien l'approbation du peuple affecte la légitimité.
+#civfx_wlegitolig_dscr
+Influence du facteur de soutient de l'oligarchie sur la Légitimité
+
+#civfx_legitrep_n
+Soutient des représentants
+
+#civfx_legitrep_dscr
+La quantité de pouvoir et de soutient des représentants du Peuple.
+
+#civfx_wlegitrep_n
+importance des représentants
+
+#civfx_wlegitrep_dscr
+Influence du facteur de soutient des représentants sur la Légitimité
 
 #civfx_statepow_n
-le pouvoir de l'État
+Pouvoir d'État
 
 #civfx_statepow_dscr
 modifie la quantité de pouvoir de l'Etat
@@ -343,11 +316,17 @@ consommation de nourriture
 #civfx_foodcons_dscr
 affecte la quantité de nourriture requise par les porcos pour satisfaire leurs besoins alimentaires
 
-#civfx_coin_n
-trésor public
+#civfx_nomoney_n
+pas de monnaie
 
-#civfx_coin_dscr
-permet à l'État de gagner et de dépenser de l'argent.
+#civfx_nomoney_dscr
+Il n'existe aucune forme de monnaie quantifiable et stockable.
+
+#civfx_treasury_n
+séparation des fonds
+
+#civfx_treasury_dscr
+La trésorerie gouvernmentale et les propriétés privées du Dirigeant sont désormais séparées.
 
 #civfx_agrisav_n
 graines de stockage
@@ -396,3 +375,33 @@ Taux de contribution
 
 #civfx_ldcntrb_setd
 Pourcentage de la richesse du dirigeant gagnée par les privilèges qui est réaffectée à la trésorerie du gouvernement (à noter que cela réduira proportionnellement la richesse du dirigeant).
+
+#civfx_rescons_n
+Consommation de [x]
+
+#civfx_rescons_dscr
+Ressource culturellement adoptée par vôtre population:
+
+#traitfx_resprod_n
+Niveau de production
+
+#traitfx_resprod_dscr
+Le 1er niveau permet la production, et les niveaux suivants améliorent l'efficacité de production tout en réduisant le coût en matériaux par unité.
+
+#traitfx_resqual_n
+Niveau de qualité
+
+#traitfx_resqual_dscr
+Chaque niveau augmente la qualité de production de la ressource.
+
+#civfx_comwork_n
+travail communautaire
+
+#civfx_comwork_dscr
+Pourcentage de temps que les Actifs attribuent aux tâches communautaires au détriment de l'efficacité des bâtiments.
+
+#civfx_comwork_set
+temps alloué
+
+#civfx_comwork_setd
+Définit le pourcentage du temps que les actifs consacreront aux travaux communautaires (réduits l'efficacité des bâtiments proportionellement).

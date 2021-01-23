@@ -820,3 +820,87 @@ Bijoutier
 
 #txt_jewelry_dscr
 Artisan fabriquant de la bijouterie à partir de matériaux précieux.
+
+#txt_palace1_n
+Hutte du Chef
+
+#txt_palace1_dscr
+Bâtiment unique de capitale lié à la politique de 'Dirigeant' qui produit du Pouvoir d'Etat. Une grande hutte confortable, résidence du Chef d'où il exerce sont pouvoir.
+
+#txt_palace2_n
+Palace
+
+#txt_palace2_dscr
+Bâtiment unique de capitale lié à la politique de 'Dirigeant' qui produit du Pouvoir d'Etat. Un bâtiment majestueux faisant office de centre du gouvernement et de résidence du Dirigeant d'où il exerce sont pouvoir.
+
+#txt_treasury_n
+Trésorerie
+
+#txt_treasury_dscr
+Bâtiment unique de capitale lié à la politique de 'Trésorerie' qui produit du Pouvoir d'Etat. Gère la Trésorerie et les finances du gouvernement.
+
+#txt_ministry_n
+Ministère
+
+#txt_ministry_dscr
+Bâtiment unique de capitale lié à la politique de 'Ministère' qui produit du Pouvoir d'Etat.
+
+#txt_state_court_n
+Grand Hall
+
+#txt_state_court_dscr
+Bâtiment unique de capitale lié à la politique de 'Cour' qui produit du Pouvoir d'Etat. Un large et cher bâtiment luxueux utilisé pour acceuillir subordonnés et vassaux avec faste afin de mieux les controller.
+
+#txt_lawmkr_n
+Maison des Législateurs
+
+#txt_lawmkr_dscr
+Bâtiment unique de capitale lié à la politique de 'Législation' qui produit du Pouvoir d'Etat. Centre législatif primitif ou des fonctionnaires spécialisés en législation se rassemblent pour faire de nouvelles lois.
+
+#txt_senate_n
+Sénat
+
+#txt_senate_dscr
+Bâtiment unique de capitale lié à la politique de 'République' qui produit du Pouvoir d'Etat. Un bâtiment législatif ou les Sénateurs se rassemblent pour débattre et voter de nouvelles lois.
+
+#txt_state_rcrds_n
+Archives gouvernementales
+
+#txt_state_rcrds_dscr
+Bâtiment unique de capitale produisant du Pouvoir d'Etat. Dédié a l'archivage des documents du gouvernement, améliorant ainsi son administration.
+
+#txt_state_dptmnt_n
+Département d'Etat
+
+#txt_state_dptmnt_dscr
+Un couteux bâtiment de capitale qui produit du Pouvoir d'Etat suplémentaire, où des fonctionnaires spécialisés administrent un domaine particulier du gouvernement améliorant son administration.
+
+#txt_agora_n
+Agora
+
+#txt_agora_dscr
+Bâtiment unique de capitale lié à la politique de 'Démocracie' qui produit du Pouvoir d'Etat. Une large place où les citoyens de la cité se rassemblent pour voter et discutter de sa gouvernance directement.
+
+#txt_comunhall_n
+Hall communautaire
+
+#txt_comunhall_dscr
+Le centre d'administration régionnal requis pour un Village. Une large maison communale où les affaires locales du village peuvent être reglées et administrées.
+
+#txt_townhall_n
+Hotel de Bourg
+
+#txt_townhall_dscr
+Le centre d'administration régionnal requis pour un Bourg.
+
+#txt_cityhall_n
+Hotel de Ville
+
+#txt_cityhall_dscr
+Le centre d'administration régionnal requis pour une Ville.
+
+#txt_postoffice_n
+Bureau de Poste
+
+#txt_postoffice_dscr
+Produit un service de communication réduisant le facteur de distance entre un centre régionnal et la capitale ou d'un capitale à ses subordonnés, améliorant ainsi leur administration.

@@ -49,8 +49,11 @@ Free
 #g_cost
 cost
 
+#g_coin
+money
+
 #g_coins
-coins
+monies
 
 #g_upkeep
 upkeep
@@ -144,6 +147,15 @@ or
 
 #g_status
 status
+
+#g_hamlet
+hamlet
+
+#g_village
+village
+
+#g_town
+town
 
 #g_city
 city
@@ -251,7 +263,7 @@ Legitimacy
 LEGITIMACY
 
 #g_state_power
-state power
+State Power
 
 #g_STATE_POWER
 STATE POWER
@@ -282,6 +294,9 @@ disables
 
 #g_Disable
 Disable
+
+#g_Price
+Price
 
 #g_price
 price
@@ -571,6 +586,9 @@ Game
 #g_cltr_customs
 Customs
 
+#g_cltr_skills
+Skills
+
 #g_architecture
 Architecture
 
@@ -603,3 +621,12 @@ Hostile natives
 
 #g_completed
 completed
+
+#g_Population
+Population
+
+#g_requires
+requires
+
+#g_timesince
+[x] ago

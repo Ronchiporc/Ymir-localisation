@@ -443,7 +443,10 @@ Laundry
 Baths
 
 #r_scribe
-Scribe
+Administration
+
+#r_govern
+Governance
 
 #r_academ
 Academia
@@ -489,3 +492,6 @@ Adornments
 
 #r_jewelry
 Jewelry
+
+#r_postage
+Postage

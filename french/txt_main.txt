@@ -40,6 +40,9 @@ Gratuit
 #g_cost
 coût
 
+#g_coin
+monnaie
+
 #g_coins
 monnaies
 
@@ -130,8 +133,17 @@ ou
 #g_status
 status
 
+#g_hamlet
+hameau
+
+#g_village
+village
+
+#g_town
+bourg
+
 #g_city
-cité
+ville
 
 #g_capital
 capitale
@@ -267,6 +279,9 @@ désactive
 
 #g_Disable
 Désactiver
+
+#g_Price
+Prix
 
 #g_price
 prix
@@ -559,6 +574,9 @@ Partie
 #g_cltr_customs
 Usages
 
+#g_cltr_skills
+Savoir-faire
+
 #g_architecture
 Architecture
 
@@ -591,3 +609,12 @@ Autochtones hostiles
 
 #g_completed
 complété
+
+#g_Population
+Population
+
+#g_requires
+requiert
+
+#g_timesince
+il y a [x]

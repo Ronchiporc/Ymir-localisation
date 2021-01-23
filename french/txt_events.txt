@@ -1,9 +1,11 @@
-
 #cond_nbreg
-Posséder [x] ou plus territoires
+Controller au moins [x] régions
+
+#cond_nbter
+Controller au moins [x] territoires
 
 #cond_prodsupto
-Produire au moins [x] de [y] sur le territoire
+Avoir au moins +[x] de production de [y] sur le territoire
 
 #cond_incrfoodprod
 Augmentez votre production alimentaire d'au moins [x]
@@ -171,10 +173,10 @@ Avoir moins de [x] [y] bâtiments
 Avoir plus de [x] [y] bâtiments
 
 #cond_rescat_inf
-[y] stock inférieur à [x]
+Stocks de type '[y]' inférieurs à [x]
 
 #cond_rescat_sup
-[y] actions supérieures à [x]
+Stocks de type '[y]' supérieurs à [x]
 
 #cond_rescatprd_inf
 [y] production inférieure à [x]
@@ -257,6 +259,12 @@ Envoyer [x] Porcos
 #cond_pay_actv_act
 Envoyer
 
+#cond_nbsubrd_inf
+Avoir moins de [x] subordonnés
+
+#cond_nbsubrd_sup
+Avoir au moins [x] subordonnés
+
 #effect_givres
 Réception de [y] [x] dans le territoire
 
@@ -285,7 +293,7 @@ Déverrouille le projet: [x]
 Rejette le projet: [x]
 
 #effect_givtech
-Déverrouille la technologie: [x]
+Donne la Connaissance: [x]
 
 #effect_bandits
 La formation est immédiatement attaquée par [x] bandits
@@ -349,6 +357,15 @@ Héritage de la position hiérarchique Nationale de ce personnage
 
 #effect_fac_trigvt
 Déclenche un vote des subalternes pour élire un successeur à la position de ce personnage dans la nation
+
+#effect_give_civpt
++[x] Points de Civilisation
+
+#effect_adopt_rescons
+Adoption de la consommation de [x]
+
+#effect_adopt_foodscons
+Adoption de la consommation des plantes locales
 
 #event_diplomes
 Message de [x]
@@ -938,15 +955,6 @@ Notre projet de '[x]' avec [p2]% de chances de succès a été complété, mais 
 #event_projfail_2
 Un projet peut échouer si sa difficulté est supérieure à l'intelligence moyenne des chercheurs qui lui sont assignés. Nous devrions essayer d'assigner de meilleurs chercheurs pour augmenter nos chances de succès la prochaine fois!
 
-#event_herd
-Troupeau de [p2] repéré près de [x]!
-
-#event_herd_1
-Les éclaireurs de la tribu ont repéré un mouvement d'environ [p1] [p2] près de notre village de [x], dans un territoire de [y].
-
-#event_herd_2
-Nous pourrions envoyer certains de nos meilleurs porcs pour les chasser: cela nous fournirait de la viande fraîche et du cuir pour la tribu!
-
 #event_rcvidea
 Nous avons reçu une nouvelle idée de [x]!
 
@@ -1203,13 +1211,22 @@ Vous avez gagné l'élection avec [p3] votes en votre faveur sur [p4] votes expr
 "Non, nous n'avons pas le temps pour ça."
 
 #ev_xplrch_proceed
-"Oui, procéder comme ça!"
+"Oui, procédons comme ça!"
 
 #ev_xplrch_nvrmnd
-"Non, ça ne va pas."
+"Non, oublions."
+
+#ev_xplrch_notinterstd
+"Non, cela ne m'interesse pas."
+
+#ev_xplrch_agreed
+"C'est d'accord!"
+
+#ev_xplrch_unavail
+Vous ne remplissez pas les conditions requises pour ce choix.
 
 #ev_xplrch_leave
-Laisser.
+Partir.
 
 #ev_xplr_bdts
 Des bandits ont tendu une embuscade à notre formation '[x]'!
@@ -2033,3 +2050,54 @@ En raison de la croissance de population, le gibier sauvage aura bientôt entier
 
 #ev_animlv_fx
 Toutes les sources de gibier terrestre disparaitront du territoire.
+
+#ev_civpoint_lvlup
+Augmentation du niveau culturel!
+
+#ev_civpoint_lvlup_1
+Nous avons gagné un niveau Culturel et ainsi obtenu un nouveau Point de Civilisation qui peu dès à présent être dépensé dans des Traits Culturels dans le menu de Gouvernement. Les Points de Civilisation peuvent par exemple être utilisés pour débloquer la consommation de nouvelles resources ou pour améliorer leur production.
+
+#ev_traitrvq
+Revocation de '[x]'
+
+#ev_traitrvq_1
+La révocation du Trait Culturel '[x]' est en cours.
+
+#ev_traitrvq_2
+Il n'est possible de révoquer qu'un seul Trait Culturel a la fois, et c'est un processus lent qui nécéssite beaucoup de temps. 
+
+#ev_traitrvq_o_1
+Modification Culturelle en cours...
+
+#ev_traitrvq_o_2
+Une fois l'évactuation complétée, le Trait Culturel sera révoqué et son coût en Points de Civilisation sera récupété. Si le trait possede plusieurs niveaux, seul 1 niveau sera retiré une fois la révocation completée.
+
+#ev_traitrvq_fx
+Le Trait Culturel sera révoqué.
+
+#ev_poldisabled
+Politique désactivée!
+
+#ev_poldisabled_1
+Notre Politique '[x]' s'est désactivée car ses conditions ne sont plus remplies.
+
+#ev_territdisabled
+Statut territorial de '[y]' perdu!
+
+#ev_territdisabled_1
+Le statut territorial '[x]' de '[x]' à été perdu car le territoire ne remplissait plus ses conditions.
+
+#ev_insolvency
+Insolvabilité!
+
+#ev_insolvency_1
+Votre gouvernment n'est plus en mesure de remplir ses obligations monétaires et ne peut plus maintenir ses propriétés ni payer fonctionnaires et armées.
+
+#ev_insolvency_2
+Jusqu'a ce qu'un meilleur équilibre budgétaire soit obtenu, les bâtiments nécéssitant de la maintenance gouvernementale seront abandonnés, les politiques couteuses seront désactivées, et les unités dans toutes nos Formations vont se dissoudre. Il est urgent de rétablir l'équilibre budgétaire ou votre gouvernment s'éffondrera!
+
+#ev_tradenmds
+Caravane de nomades à [x]
+
+#ev_tradenmds_1
+Une caravane de nomades marchands est arrivée à [x] et propose de nous vendre des coquillages précieux en échange de nos produits!

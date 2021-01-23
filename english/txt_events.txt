@@ -1,5 +1,8 @@
 #cond_nbreg
-Own [x] or more territories
+Control [x] or more regions
+
+#cond_nbter
+Control [x] or more territories
 
 #cond_prodsupto
 Produce at least [x] of [y] in territory
@@ -256,6 +259,12 @@ Send [x] Porcos
 #cond_pay_actv_act
 Send Porcos
 
+#cond_nbsubrd_inf
+Have less than [x] total subordinates
+
+#cond_nbsubrd_sup
+Have at least [x] total subordinates
+
 #effect_givres
 Receive [y] [x] 
 
@@ -287,7 +296,7 @@ Unlocks the project: [x]
 Rejects the project: [x]
 
 #effect_givtech
-Unlocks technology: [x]
+Gives knowledge: [x]
 
 #effect_bandits
 The formation is immediately attacked by [x] bandits.
@@ -360,6 +369,15 @@ Will trigger a vote from subordinates to elect a successor to this character's p
 
 #effect_res_convstate
 Converts [x]% of the stocked resources in all territories to State owned.
+
+#effect_give_civpt
++[x] Civilization Points
+
+#effect_adopt_rescons
+Adoption of [x] consumption
+
+#effect_adopt_foodscons
+Adoption of local food sources consumption
 
 #event_diplomes
 Message from [x]
@@ -1021,15 +1039,6 @@ Our project of '[x]' with [p2]% chances of success has been completed, but unfor
 #event_projfail_2
 A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We should try to assign better researchers to increase our chaces of success next time!
 
-#event_herd
-Herd of [p2] spotted near [x]!
-
-#event_herd_1
-The scouts of the tribe have spotted a moving heard of around [p1] [p2] near our settlement of [x],in a territory of [y].
-
-#event_herd_2
-We could send some of our best Porcos to hunt them: that would provide us with fresh meat and leather for the tribe!
-
 #event_form_animesc
 [p3] have escaped the surveillance of our '[x]'!
 
@@ -1299,6 +1308,15 @@ You won the election with [p3] votes in your favor out of [p4] cast votes.
 
 #ev_xplrch_nvrmnd
 "No. Nevermind."
+
+#ev_xplrch_notinterstd
+"No, i'm not interested."
+
+#ev_xplrch_agreed
+"Agreed!"
+
+#ev_xplrch_unavail
+You do not meet the requirements for this choice.
 
 #ev_xplrch_leave
 Leave.
@@ -2031,3 +2049,53 @@ Because of its population growth, all wildlife will soon leave this territory an
 #ev_animlv_fx
 All land wildlife sources will disapear from this territory.
 
+#ev_civpoint_lvlup
+Culture level up!
+
+#ev_civpoint_lvlup_1
+Our culture has levelled up and we have gained a new Civilization Point that is now available to spend in Cultural Traits in the Government menu. It can be used for things such as unlocking the consumption of new resources or improving their production.
+
+#ev_traitrvq
+Revoking Trait '[x]'
+
+#ev_traitrvq_1
+You are in the process of revoking the Cultural Trait '[x]'.
+
+#ev_traitrvq_2
+You may only revoke one Trait at a time, and it is a slow process that requires a lot of time.
+
+#ev_traitrvq_o_1
+Cultural modification pending...
+
+#ev_traitrvq_o_2
+Once completed, the Trait will be revoked and its cost in Civilization Points will be recovered. If the trait has multiple levels, only 1 level will be removed by this process.
+
+#ev_traitrvq_fx
+The Cultural Trait will be revoked.
+
+#ev_poldisabled
+Policy disabled!
+
+#ev_poldisabled_1
+Our Policy '[p1]' was disabled because it no longer met it's requirements.
+
+#ev_territdisabled
+Territorial status of '[y]' lost!
+
+#ev_territdisabled_1
+The territorial status of '[x]' in '[y]' was lost because the territory no longer met it's requirements.
+
+#ev_insolvency
+Insolvency!
+
+#ev_insolvency_1
+Your government is unable to fullfil its monetary duties and it can no longer maintain its properties nor pay civil servants or soldiers.
+
+#ev_insolvency_2
+Until a better budget balance is achieved, buildings requiring government maintenance will progressively be abandonned, costly policies will be disabled, and units of all formations will decay. It is absolutely urgent to fix your budget balance or your government will collapse!
+
+#ev_tradenmds
+Trading nomads in [x]
+
+#ev_tradenmds_1
+A caravan of trading nomads has arrived in [x] and are offering to sell us some previous shells in exchange for some goods!

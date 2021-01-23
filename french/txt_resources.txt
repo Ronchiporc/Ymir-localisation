@@ -443,7 +443,10 @@ Lessive
 Bains
 
 #r_scribe
-Scribe
+Administration
+
+#r_govern
+Gouvernance
 
 #r_academ
 Académie
@@ -489,3 +492,6 @@ Parures
 
 #r_jewelry
 Bijoux
+
+#r_postage
+Service postal
