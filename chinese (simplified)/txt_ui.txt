@@ -1,5498 +1,5714 @@
-#b_menu_tutorial
-TUTORIAL
+﻿#b_menu_tutorial
+教程
 
 #b_menu_newgame
-NEW GAME
+新游戏
 
 #b_menu_load
-LOAD GAME
+加载游戏
 
 #b_menu_join
-JOIN GAME
+加入游戏
 
 #b_menu_editor
-EDITOR
+编辑
 
 #b_menu_options
-SETTINGS
+设置
 
 #b_menu_quit
-QUIT
+退出
 
 #b_menu_resume
-RESUME
+继续
 
 #b_menu_tomain
-TO MAIN MENU
+返回主菜单
 
 #b_menu_discord_1
-Ymir official Discord
+Ymir官方Discord
 
 #b_menu_discord_2
-Join the Ymir community!
+加入Ymir的社区!
 
 #b_menu_porcopedia_1
-Porcopedia
+Ymir官方百科
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+游戏的线上官方Wiki!
 
 #b_menu_trell_1
-Ymir on Trello
+Trello上的Ymir
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+关注游戏的开发并为计划中的功能投票!
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+您确定要离开并返回到主菜单吗?
 
 #ui_connctstat_1
-Currently connected to [x]  ping: [y]
+当前连接到[x] Ping: [y]
 
-#ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z] )
+#ui_connctstat2_2
+丢包率: [x]%(发送: [y] 丢失: [z])
 
 #ui_connct_stable
-Your connection with the server is stable.
+您与服务器的连接是稳定的。
 
 #ui_connct_unstbl
-Warning! Your connection with the server is unstable!
+警告!您与服务器的连接不稳定!
 
 #mainmenu_mute
-click to mute/unmute the whole game
+单击以开启/关闭全局静音
 
 #mainmenu_fullscrn
-click to switch between windowed and fullscreen modes
+单击以在窗口模式和全屏模式之间切换
 
 #mainmenu_quit
-click to quit the game
+单击退出游戏
 
 #mainmenu_maxim
-maximize
+最大化
 
 #mainmenu_minim
-minimize
+最小化
 
 #dsclmr_title
-DISCLAIMER
+免责声明
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- 本游戏为单人开发: 进度缓慢。
 
 #dsclmr_2
-- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+- 本游戏可能将很长时间停留在测试阶段，很难达到正式版的质量、稳定性和优化。
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- 本游戏支持单人游玩，但我们的主要内容是多人模式。                                                           - 由于缺少文本键，部分文本无法翻译，并非本地化团队的责任。
 
 #b_menuop_fullscreen
-Fullscreen
+全屏模式
 
 #bc_menuop_fullscreen
-enable fullscreen
+启用全屏
 
 #b_menuop_autores
-Automatic resolution
+自动分辨率
 
 #bc_menuop_autores
-automatically adapt resolution to the display in fullscreen
+自动调整分辨率以适应全屏显示。
 
 #b_menuop_res
-Display resolution
+显示分辨率
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+选择全屏时所需的显示分辨率。
 
 #b_menuop_terrain
-Terrain
+地形
 
 #b_menuop_low
-low
+低
 
 #b_menuop_medium
-medium
+中
 
 #b_menuop_high
-high
+高
 
 #b_menuop_bdgs
-Buidings
+建筑
 
 #b_menuop_units
-Units
+单位
 
 #b_menuop_fx
-FX
+特效
 
 #b_menuop_shaders
-Shaders
+渲染
 
 #b_menuop_worldmap
-Worldmap
+世界地图
 
 #b_menuop_logic
-Logic
+逻辑
 
 #b_menuop_cosveg
-Cosmetic vegetation
+装饰植被
 
 #bc_menuop_cosveg
-Enable cosmetic grass and bushes
+启用装饰性花草和灌木。
 
 #b_menuop_cosunits
-Cosmetic units 
+装饰单位
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+启用装饰性动物等装饰单位。
 
 #b_menuop_animveget
-Animated vegetation
+动态植被
 
 #bc_menuop_animveget
-Enable or disable animated vegetation in the territory view
+在区域视图中启用或禁用动态植被。
 
 #b_menuop_grain
-Video grain
+视频纹理
 
 #bc_menuop_grain
-Enable or disable this post-processing effect
+启用或禁用后期处理效果。
 
 #b_menuop_autovsize
-Automatic viewport definition
+自动视图定义
 
 #b_menuop_autovsize_c1
-Viewport definition will remain at 1:1 with your display resolution.
+视图定义将保持1:1的显示分辨率。
 
 #b_menuop_vsize
-Viewport definition
+视图定义
 
 #b_menuop_vsize_c1
-Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+游戏图形相对于屏幕分辨率的定义: 100%表示屏幕与渲染图形的比例为1:1。
 
 #b_menuop_vsize_c2
-Lowering this ratio greatly increases performances.
+降低该比例能够大幅提升性能。
 
 #b_menuop_autoui
-Automatic UI size
+自动UI尺寸
 
 #b_menuop_autoui_c1
-UI size will automatically adapt to your display resolution.
+UI尺寸将自动适应您的显示器分辨率。
 
 #b_menuop_uisize
-UI size
+UI尺寸
 
 #b_menuop_uisize_c1
-Changes the size of the UI layer. 
+更改UI图层尺寸。
 
 #b_menuop_uisize_c2
-Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+根据设备的尺寸和显示定义，有助于改善玩家的阅读体验。
 
 #b_menuop_mvol
-Music volume
+音乐音量
 
 #b_menuop_ambvol
-Ambiant volume
+环境音量
 
 #b_menuop_uivol
-UI volume
+UI音量
 
 #b_menuop_lang
-Language
+语言
 
 #bc_menuop_lang
-Choose your language
+选择您的语言。
+
+#menuop_k_up
+镜头向上
+
+#menuop_k_le
+镜头向左
+
+#menuop_k_ri
+镜头向右
+
+#menuop_k_dw
+镜头向下
+
+#menuop_keyset
+单击并按下键盘按键将其绑定到此操作。
+
+#menuop_togtut
+切换教程
+
+#menuop_togtut_c1
+首次执行操作时开启主要教程和所有帮助窗口。
+
+#menuop_togIP
+隐藏账户
+
+#menuop_togIP_c1
+隐藏帐户信息，如用户ID或IP。
+
+#menuop_resetut
+全部重置
+
+#menuop_resetut_c1
+重置所有教程进度。
+
+#menuop_resetutd
+所有教程都已重置。
 
 #b_menuop_apply
-Apply
+应用
 
 #b_menuop_display
-DISPLAY
+显示
 
 #b_menuop_sound
-SOUND
+声音
 
 #b_menuop_game
-GAME
+游戏
 
 #ui_menuop_options
-SETTINGS
+设置
 
 #joingame_yourgames
-Your games
+您的游戏
+
+#joingame_yourgames_dscr_1
+历史上所有您最后玩过的角色，更便于直接访问。
 
 #joingame_persist
-Persistent games
+持续模式
 
 #joingame_persist_dscr_1
-Persistant games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
+持续模式是体验Ymir的主要游戏模式: 慢节奏的游戏可以在24/7的在服务器上运行持续数月。
 
 #joingame_persist_dscr_2
-To garantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). Only gameplay is law.
+为了保证所有玩家可靠和公平的游戏体验，以下列表中的所有服务器都使用相同的严格标准化的官方“持续模式”设置。不允许服务器自定义: 没有mods，没有特定于服务器的规则，服务器主机没有特权(没有管理工具来禁止或限制玩家)。唯一的规则是的游戏玩法。
 
 #joingame_realtime
-Real-time games
+实时模式
 
 #joingame_realtime_dscr_1
-Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
+实时模式是Ymir的一种官方游戏模式，适用于节奏更快的游戏，即与朋友或较小的玩家群体进行多次游戏。
 
 #joingame_custom
-Custom games
+自定义游戏
 
 #joingame_custom_dscr_1
-Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
+自定义游戏是社区托管的游戏，没有强制的标准化，其中允许服务器自定义。因此，预期的游戏平衡可能会受到影响，并且您的游戏体验的可靠性也无法在这些服务器上得到保证。
 
 #joingame_custom_dscr_2
-WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
+警告: 请注意，与官方游戏模式服务器不同的是自定义模式中可能存在特定服务器规则，服务器工具具有禁止玩家连接服务器的权力。
 
 #joingame_direct
-Direct IP
+直接IP
 
 #joingame_connect
-JOIN GAME
+加入游戏
 
 #servlst_name
-Server name
+服务器名称
 
 #servlst_name_c1
-The custom name of the server's game
+该服务器游戏的自定义名字。
 
 #servlst_creat
-Creator
+创建者
 
 #servlst_creat_c1
-The steam user name of the server host
+服务器主机的Steam用户名。
 
 #servlst_players
-Players
+玩家
 
 #servlst_players_c1
-The number of players currently online in this game
+这场游戏中当前在线的玩家人数。
 
 #servlst_online
-Online
+线上
 
 #servlst_actives_c1
-The number of active players in this game
+这场游戏中活跃的玩家人数。
 
 #servlst_dur
-Duration
+持续时间
 
 #servlst_dur_c1
-The amount of time this game has been going on
+这场游戏已持续的时间。
+
+#servlst_sb
+繁衍奖金
+
+#servlst_sb_c1
+服务器流失的玩家越多，非原始开始的初始繁衍奖励就越高。
+
+#servlst_prgrs
+进展
+
+#servlst_prgrs_c1
+这场游戏的全局科技的进程。
+
+#servlst_won
+获胜
+
+#servlst_won_c1
+这场游戏是否获胜了。一旦获胜，游戏就结束了，服务器可能会被擦除并重新启动。
 
 #servlst_admn
-Admin tools
+管理工具
 
 #servlst_admn_c1
-Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
+如果该服务器上启用了管理工具，那么主机有权自行禁止玩家连接服务器。
 
 #servlst_preset
-Game preset
+游戏预设
 
 #servlst_preset_c1
-Game balance preset used on this custom server.
+该自定义服务器上使用的游戏平衡预设。
 
 #servlst_ver
-server's version
+服务器版本
 
 #servlst_ver_c1
-The version of the game this server is currently running.
+该服务器当前运行的游戏版本。
 
 #servlst_ver_c2
-Warning! Your version ([x]) does not match with the one of this server ([y])!
+警告!您的版本([x])与此服务器版本([y])不匹配!
 
 #servlst_nogam
-Sorry: It looks like there is currently no games available!
+抱歉: 看起来目前没有可用的游戏!
 
 #b_newgame_name
-Game name:
+游戏名称:
 
 #b_newgame_public
-public
+公开
 
 #b_newgame_friends
-friends only
+仅限朋友
 
 #b_newgame_private
-private
+私人
 
 #b_newgame_password
-Password:
+密码
 
 #bc_newgame_password
-set a password requested to join this game
+设置加入这个游戏所需的密码。
 
 #b_newgame_maxplayers
-Max players:
+最大玩家数:
 
 #b_newgame_start
-START GAME
+开始游戏
 
 #ui_newgame_newgame
-NEW GAME
+新游戏
 
 #ui_newgame_world
-WORLD
+世界
 
 #b_newgame_wprocedural
-Procedural
+随机生成
 
 #b_newgame_wcustom
-Custom
+自定义
 
 #newgame_serv_c
-server options
+服务器选项
 
 #newgame_serv_run
-server doesnt close automatically
+服务器不会自动关闭
 
 #newgame_serv_empty
-close server when empty
+在空闲时关闭服务器
 
 #newgame_serv_leave
-close server when you disconnect
+在您断开连接时关闭服务器
 
 #newgame_samname
-A saved game '[x]' already exists in the local files! What do you want to do?
+一个游戏存档“[x]”已经存在于本地文件夹中!请选择下一步?
 
 #newgame_overw
-Overwrite
+覆盖存档
 
 #newgame_renam
-Autorename
+自动重命名
 
 #newgame_nomap
-none available
+无可用
 
 #newgame_invmap
-It seems there is'nt any custom map available. Please select a procedural type of map.
+没有任何自定义地图可用。请选择随机生成地图的类型。
 
 #mapsize
-Map size
+地图大小
 
 #mapsize1
-Tiny
+极小
 
 #mapsize2
-Small
+较小
 
 #mapsize3
-Regular
+标准
 
 #mapsize4
-Large
+较大
 
 #mapsize5
-Huge
+大型
 
 #mapsize6
-Giant
+巨大
 
 #maptyp
-Map preset
+地图预设
 
 #maptyp1
-Terra
+类地
 
 #maptyp1_dscr
-Temperate earth-like worlds with several continents.
+有几个大陆的温带类地世界。
 
 #maptyp2
-Pangea
+泛大陆
 
 #maptyp2_dscr
-Temperate worlds mostly made of lands, with only a few small seas.
+主要由陆地构成的温带世界，只有少量的海洋。
 
 #maptyp3
-Archipelago
+群岛
 
 #maptyp3_dscr
-Sea worlds with lots of islands and smaller landmass.
+有许多岛屿和较小陆地的海洋世界。
 
 #maptyp4
-Desert world
+沙漠世界
 
 #maptyp4_dscr
-Desertic worlds where hospitable territories are mostly located towards poles and around smaller inland seas.
+沙漠世界，适宜居住的区域大多位于极地和较小的内海附近。
 
 #maptyp5
-Ice world
+冰雪世界
 
 #maptyp5_dscr
-Cold desertic worlds with only a few hospitable territories.
+寒冷的沙漠世界，只有几个适宜居住的区域。
 
 #maptyp6
-Tropico
+热带岛屿
 
 #maptyp6_dscr
-Warm and humid sea worlds with lots of tropical islands.
+温暖潮湿的海洋世界，有许多热带岛屿。
 
 #maptypcust
-Custom settings
+自定义设置
 
 #custmap_sel
-Select a world map
+选择世界地图
 
 #custmap_sel_c
-Select a custom map
+选择自定义地图
 
 #custmap_dscr
-Custom worlds are maps manually created with the editor instead of beeing procedurally generated.
+自定义世界不是随机生成的，而是使用编辑器手动创建的地图。
 
 #newgame_gamset
-GAME SETTINGS
+游戏设置
 
 #gmtyp_off
-Official
+官方
 
 #gmtyp_off_dscr
-Games labelled as official are using standardized non-customizable settings to provide a reliable experience.
+贴有官方标签的游戏使用标准化非自定义的设置，以提供可靠的游戏体验。
 
 #gmtyp_offtype
-Game type
+游戏类型
 
 #gmtyp_offtype_c
-Select a game preset
+选择一个游戏预设
 
 #gmtyp_solo
-Solo
+单人
 
 #gmtyp_solo_dscr1
-Solo games can only be played alone.
+单人游戏只能单独游玩。
 
 #gmtyp_solo_dscr2
-Game speed overall is the fastest.
+游戏整体速度是最快的。
 
 #gmtyp_solo_dscr3
-This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+使您能够在加入多人游戏之前熟悉游戏的基本操作，或者只是想单纯的进行和平建设。
 
 #gmtyp_rtime
-Real-time
+实时
 
 #gmtyp_rtime_dscr1
-Real-time games are meant to be played directly with every player ingame at all times, saving and reloading the game later on to continue the game if necessary.
+实时游戏是指每个玩家随时都可以直接游玩，您可以进行存档以在必要时继续游戏。
 
 #gmtyp_rtime_dscr2
-Resource production, population growth and unit movements are fast.
+资源生产、人口增长和单位的运动都很快。
 
 #gmtyp_rtime_dscr3
-This is meant for smaller private games such as playing locally with a group of friends via direct IP.
+适用于小型的私人游戏，您可以通过IP地址与朋友们在本地游玩。
 
 #gmtyp_prsist
-Persistent
+持续
 
 #gmtyp_prsist_dscr1
-Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently ingame.
+持续游戏是完全平衡的，服务器将全天候运行，其中的操作可能需要很长时间才能完成，并且玩家不能长时间挂机。
 
 #gmtyp_prsist_dscr2
-Resource production, population growth and unit movements are slow.
+资源生产、人口增长和单位的运动都很缓慢。
 
 #gmtyp_prsist_dscr3
-This is meant for bigger public games and servers with higher numbers of players.
+适用于更大的公开游戏和拥有大量玩家的服务器。
 
 #gmtyp_cstm
-Custom
+自定义
 
 #gmtyp_cstm_dscr
-Custom games allow you to define your own settings affecting the game-balance and speed.
+自定义游戏允许您定义设置游戏的平衡和速度。
 
 #gamelob_disco
-Disconnect
+断开连接
 
 #gamelob_disco_c1
-Return to main menu
+返回主菜单
 
 #gamelob_usechar
-Play using this character
+使用此角色进行游戏
 
 #gamelob_newchar
-New
+新建
 
 #gamelob_newchar_c1
-Create a new character on this game
+在此游戏中创建一个新角色
 
 #gamelob_play
-PLAY
+开始游戏
 
 #newchar_title
-New character
+新角色
 
 #newchar_startpref
-Starting preferences
+起始首选项
 
 #newchar_availspwn
-Available starts matching these settings
+可用开始匹配这些设置
+
+#newchar_bestspwn
+(最佳值: [x])
 
 #newchar_closeto
-spawn close to character...
+在角色附近繁衍…
 
 #newchar_closeto_c
-You will spawn as close as possible to the selected character, while matching the selected conditions above.
+将尽可能的在您选择的角色附近繁衍，同时匹配上面所选的条件。
 
 #newchar_starttyp
-Start types
+开始类型
 
 #newchar_clim
-Climates
+气候类型
 
 #newchar_st_precious
-This is a "Valuable start": once used you won't be able to respawn from another "Valuable spawn" for [x] regardless of your spawn cooloff.
+这是一个“有价值的开始”: 一旦使用，您将无法从另一个“有价值的繁衍”中重生[x]，无论您的繁衍冷却时间如何。
 
 #newchar_st_prlck
-This "Valuable start" is locked because you spawned from another one less than [x] ago ([y] remaining).
+这个“有价值的开始”被锁定了，因为您在不到[x]前(剩余[y])从另一个中繁衍了。
 
 #newchar_st_pt
-Primitive tribes
+原始部落
 
 #newchar_st_pt_c1
-Start from scratch by taking control of a primitive tribe.
+从零开始发展一个原始部落。
 
 #newchar_st_pt_c2
-It's the default and standard way to start a game at the begining.
+这是游戏开始时的默认和标准方式。
 
 #newchar_st_suc
-Succession
+继任者
 
 #newchar_st_suc_c1
-Become the new ruler an already existing government in need of a successor.
+如果您想成为新的统治者，需要一个拥有继承者的政府。
 
 #newchar_st_suc_c2
-You will gain control of an inactive character and inherit of all its possessions.
+您将获得一个不活跃角色的控制权，并继承其所有财产。
 
 #newchar_st_col
-Colonies
+聚居地
 
 #newchar_st_col_c1
-Become the new leader of a colony created by another player
+成为一位其他玩家所创建的聚居地的新领袖。
 
 #newchar_st_col_c2
-(You will join an existing Nation)
+(您将加入一个现有的国家)
 
 #newchar_st_ar
-New leader
+新领袖
 
 #newchar_st_ar_c1
-Become the new leader of a territory previously fallen into anarchy
+成为一位陷入无政府状态领地的新领袖。
 
 #newchar_st_ar_c2
-(a territory that rebelled or lost his previous leader: expect the unexpected!)
+(一块处于无政府状态的领地: 充满了意外!)
 
 #newchar_clim_c
-Select climates where you'd wish to potentially spawn
+选择您希望可能会繁衍到的气候条件。
 
 #newchar_cold
-Cold
+寒冷
 
 #newchar_temp
-Temperate
+温和
 
 #newchar_arid
-Arid
+干旱
 
 #newchar_trop
-Tropical
+热带
 
 #newchar_prspwn_warn
-WARNING: you have selected one or more "Valuable start" types. These cannot be re-used for [x] regardless of your spawn cool-off period in this game. Do not mess it up!
+警告: 您已经选择了一个或多个“有价值的开始”类型。无论您在此游戏中的繁衍冷却时间是多少，这些都不能在[x]内重复使用。请勿乱用它!
 
 #newchar_nofind
-Could not find any unit or territory for this character!
+找不到此角色的任何单位或领地!
 
 #findchar_bc
-click to search for an existing character in this game
+单击以搜索此游戏中的现有角色
 
 #char_invcode
-Invite code: [x]
+邀请码: [x]
 
 #charcreate_err1
-Please provide a name for your new character.
+请设置您的新角色名字。
 
 #charcreate_err2
-Please provide a name for your government.
+请设置您的政府名称。
 
 #charcreate_err3
-There is no valid starting location matching your settings.
+没有符合您设置的有效起始位置。
 
 #charcreate_err4
-Please provide an Invite code to complete your character creation!
+请提供邀请码以完成您的角色创建!
 
 #charcreate_err5
-Invalid Invite code!
+邀请码无效!
 
 #findchar_none
-[none]
+[无]
 
 #invtcd_title
-Invite code for [x]
+邀请码为[x]
 
 #invtcd_txt
-You are trying to spawn near a character called '[x]'. To ensure that you are doing so in agreement with its owner, you must now provide the valid "invite code" matching this character and known only by the player controlling it. If you are joining a friend, ask him to give you this code which is displayed on his character's avatar ingame.
+您正试图在名为“[x]”的角色附近繁衍。为了保证您与其所有者达成一致，您现在必须提供与此角色相匹的有效“邀请码”，只有该角色的控制者才知道。如果您想与朋友一起游玩，请让他给您该邀请码，这个邀请码在游戏中角色的头像上显示。
 
 #findchar_srch
-search for character...
+搜寻角色…
 
 #findchar_reslt
-Results
+结果
 
 #findchar_wait
-researching...
+重新搜寻…
 
 #findchar_instr
-type a character's full name or part of it's name and press enter to see valid matches
+输入角色的全名或部分字符，然后按Enter键查看匹配结果。
 
 #findchar_nores
-no result matching this search
+没有匹配此关键词的结果。
 
 #tuto_ask
-TUTORIAL
+教程
 
 #tuto_ask_1
-Greetings, newpig! Is this the first time you play Ymir and do you wish to enable the tutorial mode ?
+您好，新领猪!这是您第一次游玩Ymir，您希望启用教程模式吗?
 
 #ui_gen_toreg
-Click to go to the currently selected territory
+单击转到当前选定的区域
 
 #ui_gen_toworld
-Click to go to the worldmap
+单击进入世界地图
 
 #ui_gen_tonovis
-You cannot go to this territory because you have no visibility of it.
+您无法前往此区域，因为此区域不可见。
 
 #ui_gen_score
-Character's score
+角色得分
 
 #ui_gen_vpts
-Victory points
+胜利点数
 
 #ui_gen_vpts2
-You need a total of [x] to win this game.
+您总共需要[x]点才能赢得这场游戏。
 
 #ui_gen_regmen
-Territory menu
+地区菜单
 
 #ui_bdginf_cons
-construction cost
+建设成本
 
 #ui_bdginf_bldrs
-requires builders
+需要建筑工
 
 #ui_bdginf_cost
-materials cost:
+材料成本:
 
 #ui_bdginf_empl
-employs
+雇用
 
 #b_bdginf_hhold
-household
+家庭
 
 #bc_bdginf_hhold
-households capacity of this dwelling
+这个住宅的住户容量。
 
 #bc_bdginf_h
-Health bonus for this dwelling's residents
+这个住宅住户的健康奖金。
 
 #bc_bdginf_lq
-Life quality bonus for this dwelling's residents
+这个住宅住户的生活品质奖金。
 
 #bc_bdginf_eff
-Efficiency multiplies the workforce of each worker of the building
+效率使建筑物中的每名工人的劳动力倍增。
 
 #b_bdginf_wealth
-max wealth production
+最大财富产量
 
 #bc_bdginf_wealth
-The maximum amount of wealth this building can theoretically generate if it's full workforce is in full production
+如果该建筑的所有劳动力都投入生产，理论上可以产生的最大财富量。
 
 #b_bdginf_scap
-capacity
+容量
 
 #bc_bdginf_scap
-Storage capacity in resource units
+以资源单位表示的存储容量
 
 #b_bdginf_stype
-Can stock
+可以存储
 
 #b_bdginf_mcap
-Distribution capacity
+分配容量
 
 #ui_place_form0
-New formation's camp
+新编队的营地
 
 #ui_place_form1
-Relocating camp
+搬迁营地
 
 #bc_erase
-Destruction tool
+摧毁工具
 
 #bc_erase_c2
-(right click for options)
+(右键单击查看选项)
 
 #b_erase_ter
-terrain
+地形
 
 #b_erase_inf
-infrastructures
+基础设施
 
 #b_erase_bdg
-buildings
+建筑
 
 #b_erase_ptf
-platforms
+平台
 
 #bc_menubdg_destroy
-Demolish building
+拆除建筑
 
 #bc_menubdg_destroy2
-(tear down building and recover some of it's materials)
+(拆除建筑并收回其中部分材料)
 
 #bc_menubdg_sleep
-Sleep
+休眠
 
 #bc_menubdg_sleep2
-(building is disabled but still maintained)
+(建筑将禁用但仍得到维护)
 
 #bc_menubdg_aband
-Abandon
+废弃
 
 #bc_menubdg_aband2
-(building is disabled and decays with time)
+(建筑将禁用且随时间老化)
 
 #ui_menubdg_sleep1
-Sleep mode
+休眠模式
 
 #ui_menubdg_sleep2
-In sleep mode : all functionnalities are stopped until you activate it again. Building does not degrade with time (maintenance).
+在休眠模式下: 所有功能都将禁用，直到您再次激活它。建筑不会随时间老化(仍在维护)。
 
 #ui_menubdg_build1
-Under contruction
+正在建设中
 
 #ui_menubdg_build2
-This building is not finished and therefor not functional yet.
+这个建筑还没有完工，因此还不能正常运作。
 
 #ui_menubdg_fonct1
-Functional
+运作
 
 #ui_menubdg_fonct2
-This building is fully functional.
+这个建筑充分运作。
 
 #ui_menubdg_morework1
-Missing workers
+缺少工人
 
 #ui_menubdg_morework2
-This building needs more workers to be fully functional.
+这个建筑需要更多的工人才能充分运作。
 
 #ui_menubdg_noworker1
-Empty
+空缺
 
 #ui_menubdg_noworker2
-This building needs workers to be functional.
+这个建筑需要工人才能运作。
 
 #ui_menubdg_deficit1
-Unprofitable
+无利可图
 
 #ui_menubdg_deficit2
-This building is currently unprofitable for its workers, operating at a loss. Its efficiency will be greatly affected and Porcos will avoid working here.
+这个建筑目前对工人来说无利可图，处于亏损状态。它的效率将受到很大的影响，波尔们将避免到这里工作。
 
 #ui_menubdg_destr1
-Destroyed
+已毁坏
 
 #ui_menubdg_destr2
-This building needs to be rebuilt to be functional.
+这个建筑需要重建才能运作。
 
 #ui_menubdg_ruin1
-Abandonned
+已废弃
 
 #ui_menubdg_ruin2
-Abandonned and needs to be restored to be functional. No maintenance, and building degrades with time.
+已废弃需要恢复后才能运作。没有维护，建筑会随着时间的流逝而老化。
 
 #ui_menubdg_recycl1
-Demolishing
+正在拆除
 
 #ui_menubdg_recycl2
-This building is beeing demolished. When the process is complete, it will be completely completely removed and some of it's materials will be recovered.
+这个建筑正在被拆除。当这个过程完成后，它将被完全移除，其中的一些材料将被回收。
 
 #ui_menubdg_stckperm
-Stockage permissions :
+存储许可:
 
 #ui_menubdg_Usage
-Usage :
+使用:
 
 #ui_menubdg_perslot
-per slot
+每槽
 
 #ui_menubdg_upto
-Upgrade to
+升级到
 
 #ui_menubdg_upgrades
-Upgrades
+升级
+
+#ui_menubdg_solid
+坚固性
+
+#ui_menubdg_struct
+结构体
 
 #ui_menubdg_winc_1
-Income earned by each worker
+每个工人获得的收入
 
 #ui_menubdg_winc_2
-Buidling activity: [x]
+建筑状况: [x]
 
 #ui_menubdg_winc_3
-State salary: [x]
+国家工资: [x]
 
 #ui_menubdg_winc_4
-Subventions: [x]
+补助金: [x]
 
 #bc_menubdg_wake1
-Wake
+唤醒
 
 #bc_menubdg_wake2
-(building becomes active again)
+(建筑将再次开始运作)
 
 #bc_menubdg_rest1
-Restore
+重建
 
 #bc_menubdg_rest2
-(repair and restore functionnality of the building)
+(修复并恢复这个建筑的运作)
 
 #ui_upgbdg_upto
-Upgrade to
+升级到
 
 #ui_upgbdg_rstr
-Restore
+升级
 
 #ui_menubdg_prod
-PRODUCTION
+生产
 
 #ui_menubdg_distrib
-TRADING
+贸易
 
 #ui_menubdg_addan
-add a market stand
+添加一个市场摊位
 
 #ui_menubdg_addan2
-(reduces producing workforce)
+(减少生产劳动力)
 
 #ui_menubdg_dtrb1
-This building can create market stands where workers will sell directly their products to the public, but it reduces it's producing workforce.
+这个建筑可以创建市场摊位，工人可以直接向公众出售他们的产品，但它减少了其拥有者的生产劳动力。
 
 #ui_menubdg_dtrb2
-This building cannot create maket stands because it cannot produce anything sellable to the public.
+这个建筑物不能创建市场摊位，因为它不能生产任何可以出售给公众的东西。
 
 #ui_menubdg_anx
-Annexes
+附属建筑
 
 #bc_menubdg_expl
-exploited
+已利用
 
 #bc_menubdg_nsource
-natural sources of
+份天然来源的
 
 #ui_annex_add
-add annex
+添加附件
 
 #ui_annex_txt1
-adds a new production source
+添加一个新的生产源。
 
 #ui_annex_txt2
-directly distributes production
+直接分配生产
 
 #bc_annex_dstrb
-(selling [x])
+(出售[x])
 
 #bc_annex_prod
-Provides additionnal production sources of [x].
+提供[x]的附加生产来源。
 
 #bc_annex_eff
-Provides [x] of additionnal efficiency to the building.
+为建筑提供[x]的附加效率。
 
 #ui_annex_err1
-no resource available for production by this annex
+该附件没有可供生产的资源。
 
 #ui_annex_err2
-this building doesnt have any production valid for distribution
+这个建筑没有任何可供分配的产品。
+
+#ui_annex_err3
+您不能再放置这种类型的附件了。
 
 #bc_menubdg_selp
-select resource to produce
+选择要生产的资源
 
 #bc_menubdg_nopran
-This building doesnt have any possible annexes.
+这个建筑没有任何的附属建筑。
 
 #regeco_taxes
-Taxe incomes
+税收收入
 
 #regeco_taxes_c1
-Total perceived income from taxes in this territory.
+这一地区可看到的税收收入总额。
 
 #regeco_tax_inc
-[x]% of income tax
+所得税的[x]%
 
 #regeco_tax_inc_c1
-Taxes all incomes made in this territory.
+对在这个地区所得的所有收入征税。
 
 #regeco_tax_inc_c2
-Tax revenue: [x]% of [y] = [z] coins.
+税收: [y]的[x]%=[z]硬币
 
 #regeco_tax_share
--[x]% from territorial status
+-[x]%来自领土地位。
 
 #regeco_tax_share_c1
-The current status of this territory grants you [x]% of all the generated tax incomes.
+这个地区当前的地位使您获得了所有产生的税收收入的[x]%。
 
 #regeco_waste
-Waste
+浪费
 
 #regeco_waste_c1
-The percentage of incomes lost because of waste and corruption in this territory.
+由于这个地区的浪费和腐败而造成的收入损失的百分比。
 
 #regeco_waste_c2
-With a waste rate of [x]%, we are currently losing [y] coins of tax income.
+由于浪费率为[x]%，我们目前正在损失[y]枚硬币的税收收入。
 
 #regeco_wasted_c1
-Amount of income lost from waste.
+由于浪费而损失的收入数额。
 
 #regeco_wastab_c1
-The total income subject to waste.
+该总收入取决于浪费。
 
 #regeco_wastab_c2
-Tax incomes: [x]
+税收收入: [x]
 
 #regeco_wastab_c3
-Importations profits: [x]
+进口利润: [x]
 
 #regeco_wastab_c4
-Exportations profits: [x]
+出口利润: [x]
 
 #regeco_wastab_c5
-State resource sales: [x]
+国有资源销售: [x]
 
 #regeco_wst_admin
-Local administration
+地方行政管理
 
 #regeco_wst_admin_c1
-Waste caused by a weak or negative local administration.
+由于薄弱或消极的地方行政部门造成的浪费。
 
 #regeco_wst_stpwr
-State's corruption
+国家腐败
 
 #regeco_wst_stpwr_c1
-Corruption of state officials because of a weak or negative state power.
+由于国家权力薄弱或消极而导致的国家官员的腐败。
 
 #regeco_wst_pop
-Population's corruption
+人口腐败
 
 #regeco_wst_pop_c1
-Corruption and waste from the total population in the region.
+来自该地区总人口的腐败和浪费。
 
 #regeco_wst_srvc
-Waste reduction services
+服务减少浪费
 
 #regeco_wst_srvc_c1
-Waste reduction from active services such as Tax collection.
+通过积极的服务(如税收)减少浪费。
 
 #regeco_upkeep
-City upkeep
+城市维护
 
 #regeco_upkeep_c1
-Some buildings or infrastructures require a maintenance cost to be paid by you (the governement).
+一些建筑物或基础设施需要您(政府)支付维护费用。
 
 #regeco_salaries
-State salaries
+国家工资
 
 #regeco_salaries_c1
-The total cost of all state salaries paid in the territory.
+在该地区支付的所有国家工资的总费用。
 
 #regeco_up_bdg
-Buildings upkeep
+建筑维护
 
 #regeco_up_bdg_c1
-Total maintenance cost of all state buildings in this territory (ex: official and militay buildings).
+该地区内所有国家建筑物(例如: 官方和军事建筑)的总维护费用。
 
 #regeco_up_infr
-Infrastructures upkeep
+基础设施维护
 
 #regeco_up_infr_c1
-Total maintenance cost of all infrastructures in this territory (ex: walls or gardens that cost upkeep).
+该地区内所有基础设施的总维护费用(例如: 需要维护的墙壁或花园)。
 
 #regeco_tradebal
-Trading balance
+贸易余额
 
 #regeco_tradebal_c1
-The final balance of all imported and exported goods expanses and incomes.
+所有进出口货物的开支和收入的最终余额。
 
 #regeco_ii
-Imported goods local sales
+进口货物本地销售
 
 #regeco_ii_c1
-Revenues generated from all imported goods sold in the territory (at their local price).
+在本地区内销售的所有进口货物所产生的收入(按当地价格)。
 
 #regeco_ic
-Imported goods purchasing cost
+进口货物采购成本
 
 #regeco_ic_c1
-Total cost paid for all the goods imported via trade routes to this territory (at their trade route price).
+通过贸易路线进口到本地区的所有货物所支付的总费用(按其贸易路线价格)。
 
 #regeco_ei
-Exported goods sales
+出口货物销售
 
 #regeco_ei_c1
-Revenues of all the goods exported from this territory via trade routes (at their trade route price).
+通过贸易路线从该地区出口的所有货物的收入(按其贸易路线价格)。
 
 #regeco_ec
-Exported goods purchasing cost
+出口货物采购成本
 
 #regeco_ec_c1
-Total cost paid for purchasing the exported goods to their local producers in this territory (at their local price).
+向本地生产商购买出口产品所支付的总费用(按当地价格)。
 
 #regeco_ers
-State-owned resources sales
+国有资源销售
 
 #regeco_ers_c1
-State-owned resources sold to population or industries.
+出售给个人或行业的国有资源总额。
 
 #regeco_esr
-State-owned resources purchases
+国有资源采购
 
 #regeco_esr_c1
-Total paid auto-purchasing resources for the state (you).
+国家(您)支付的自动购买资源总额。
 
 #bc_menureg_cur1
-Currency beeing used in this territory:
+在这个地区使用的货币:
 
 #bc_menureg_cur2
-Irrelevant currency only used locally in this territory
+不相关的货币只在本地区使用
 
 #b_menureg_coin
-coin value:
+硬币价值:
 
 #bc_menureg_coin1
-coins circulating for
+流通硬币为
 
 #bc_menureg_coin2
-Value of 1 coin is approximatively
+大约是1枚硬币的价值
 
 #b_menureg_gdp
 GDP:
 
 #bc_menureg_gdp1
-Territorynal gross domestic product
+地区的国内生产总值
 
 #bc_menureg_gdp2
-Sum of all the coin incomes in the territory
+本地区内所有硬币收入的总和
 
 #b_menureg_wlth
-territory wealth:
+地区财富:
 
 #bc_menureg_wlth
-Total wealth of the territory
+本地区的财富总和
 
 #ui_menureg_admin1
-Capacity
+能力
 
 #ui_menureg_admin2
-State
+国家
 
 #ui_menureg_admin3
-Territory
+地区
 
 #bc_menureg_totpop
-Total population
+总人口
 
 #bc_menureg_totpop2
-Active population
+在业人口
 
 #bc_menureg_sprt1
-This territory is currently supporting [x] porcos in all it's formations.
+该地区目前在所有编队中支持[x]名波尔。
 
 #bc_menureg_sprt2
-It's demographics can support up to [x] porcos. Above that limit, the territory's growth is permanently impacted.
+它的人口状况最多可以支持[x]名波尔。超过这个限度，这个地区的增长将受到永久性的影响。
 
 #bc_menureg_lq1
-Average life quality
+平均生活品质
 
 #bc_menureg_int1
-Average intelligence
+平均智力
 
 #b_menureg_hlth
-Health
+健康
 
 #bc_menureg_hlth
-Average population health
+平均人口健康
 
 #ui_gen_m
 M
 
 #bc_gen_mainmenu
-open main menu
+打开主菜单
 
 #bc_gen_speed
-set overall game speed to x[x]
+游戏总速度设为 x[x]
 
 #bc_gen_gameset
-current game settings
+当前游戏设置
 
 #bc_gen_gov
-Government
+政府
 
 #bc_gen_chat
-Diplomacy
+外交
 
 #bc_gen_news
-Chronicles
+编年史
 
 #bc_gen_coin
-Treasury
+国库
 
 #bc_gen_cult
-Culture
+文化
 
 #bc_gen_fact
-Faction
+派别
 
 #bc_gen_ev
-Events
+事件
 
 #bc_gen_honor
-Honor
+荣誉
 
 #sc_menubdg_getmax
-get max
+获取最大
 
 #sc_menubdg_get
-get some
+获取部分
 
 #sc_menubdg_empty
-empty some
+清空部分
 
 #sc_menubdg_emptyall
-empty all
+清空全部
 
 #sc_menubdg_destroy
-destroy some
+摧毁部分
 
 #sc_menubdg_forbid
-forbid
+禁止
 
 #sc_menubdg_auth
-authorize
+允许
 
 #sc_menubdg_allowv
-allow everything
+允许所有物品
 
 #sc_menubdg_restrict
-restricted
+限制
 
 #sc_menubdg_allow
-allow
+允许
 
 #bc_menubdg_perm
-Select how resources are accepted in this storage building
+选择如何在此存储建筑中接收资源。
 
 #b_menubdg_allempty
-empty all
+清空全部
 
 #b_menubdg_alldestr
-destroy all
+摧毁全部
 
 #bc_menubdg_move
-move
+移动
 
 #bc_menubdg_move2
-deconstruct this building and rebuild it elsewhere
+拆解该建筑并将其在别处重建。
 
 #ui_gov_name
-Government of
+政府的
 
 #ui_gov_actpol
-ACTIVE POLICIES
+积极政策
 
 #ui_gov_coins
-state coins
+国币
 
 #ui_gov_ecobalance
-current budget balance
+当前预算余额
 
 #ui_gov_legit
-current legitimacy of the government
+该政府当前的合法性
 
 #ui_gov_power
-current state power
+当前的国家权力
 
 #ui_gov_pdgreform
-You have a pending reform that is not applied. Are you sure you want to close this menu and discard this reform (policy changes will not be applied)?
+您有一个未应用的待定改革。您确定要关闭此菜单并放弃这一改革吗(将不应用政策变更)?
 
 #ui_gov_gdp
 GDP
 
 #ui_gov_gdp_c1
-The current Gross Domestic Product of all your territories.
+您所有地区的当前国内生产总值。
 
 #ui_gov_gdp_c2
-It's calculated by summing up the gross incomes generated in all your territories over 10 production cycles.
+它的计算方法是将您所有地区在10个生产周期内产生的总收入加起来。
 
 #bc_selpolicy
-list of available new policies
+可用的新政策列表
 
 #ui_gov_nopol
-no new policies available!
+没有可用的新政策!
 
 #ui_civ_repl
-replaces '[x]'
+替换“[x]”
 
 #ui_civ_req
-requires '[x]'
+需要“[x]”
 
 #ui_civ_on
-ADD IN REFORM
+加入改革
 
 #ui_civ_on_c
-click to add this new policy to the reform
+单击可将此新政策添加到改革中。
 
 #ui_civ_off
-REVOQUE IN REFORM
+废除改革
 
 #ui_civ_off_c
-click to add the revocation of this policy to the reform
+单击可将此政策的撤销添加到改革中。
 
 #ui_civ_cncl
-CANCEL FROM REFORM
+取消改革
 
 #ui_civ_cncl_c
-click to remove this pending modification from your reform
+单击可将此待定的变更从您的改革中删除。
 
 #ui_civ_warn
-(note that you need to apply the reform before these changes actually take effect)
+(请注意: 在这些更改实际生效之前，您需要应用改革)
 
 #ui_defaultciv
-default policy
+默认政策
 
 #bc_defaultciv1
-default policies cannot be revoqued or passed manually.
+默认政策无法手动撤消或通过。
 
 #bc_defaultciv2
-they appear automatically when no other policy is active.
+当没有其他政策处于活动状态时，其政策会自动出现。
 
 #ui_stateeffect
-STATE EFFECTS
+国家效应
 
 #bc_stateeffect
-pending reform effect
+待改革效果
 
 #b_applyreform
-APPLY REFORM
+应用改革
 
 #bc_applyreform
-click to submit your reform and make all your pending changes on policies effective.
+单击可提交您的改革，并使您对政策的所有待定更改生效。
 
 #b_reform_cflct
-Reform effect: +[x] conflict in all territories
+改革效果: +[x]冲突在所有地区
 
 #b_reform_cflct_c1
-Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] of conflict in all of your territories.
+警告!由于它的内容，您未决的改革将在您所有的领土上立即造成一次性的[x]冲突惩罚。
 
 #b_reform_loyal
-Reform effect: -[x] loyalty in all territories
+改革效果: -[x]忠诚在所有领土
 
 #b_reform_loyal_c1
-Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] loyalty in all of your territories.
+警告!由于它的内容，您未决的改革将在您所有的领土上立即造成一次性的[x]忠诚惩罚。
 
 #ui_eco_title
-TREASURY
+国库
 
 #ui_eco_balance
-Budget balance
+预算余额
 
 #ui_eco_dscr
-The treasury is the total amount of coins your government owns. Economic policies define how the economy of your society is currently organized.
+国库是您的政府拥有的硬币总数。经济政策决定了您的社会经济当前是如何组织的。
 
 #ui_eco_notrsr_dscr
-This society currently works without any form of currency and it's people simply share everything in community: the government has no treasury nor incomes or explanses.
+这个社会当前没有任何形式的货币，人们只是在社区中分享一切: 政府既没有国库也没有收入或支出。
 
 #ui_eco_lead
-Leader's personnal wealth
+领袖的个人财富
 
 #ui_eco_lead_c1
-The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
+这位领导人当前正在将其个人在[y]的总财富的[x]%让与政府财政。
 
 #ui_eco_tax
-Taxes incomes
+税收收入
 
 #ui_eco_tax_c1
-Sum of all the tax incomes from all your territories.
+您所有领土的所有税收收入的总和。
 
 #ui_eco_contrib
-Voluntary contributions
+自愿捐助
 
 #ui_eco_contrib_c1
-In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (20% of their incomes).
+在一个没有组织税收的社会中，收入只来自于人们对社会的自愿捐助(他们收入的20%)。
 
 #ui_eco_wast
-Waste
+浪费
 
 #ui_eco_wast_c1
-Tax incomes lost because of Waste in your territories. Waste is a result of low territory administration.
+由于您的领土上的浪费失去的税收收入。浪费是低效率地区行政管理导致的结果。
 
 #ui_eco_bdgs
-Buildings upkeep
+建筑维护
 
 #ui_eco_bdgs_c1
-Total upkeep of all buildings in all your territories.
+在您所有的领土内对所有的建筑物的总维护费用。
 
 #ui_eco_infr
-Infrastructures upkeep
+基础设施维护
 
 #ui_eco_infr_c1
-Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
+在您所有的领土内对所有的基础设施的总维护费用，例如: 墙壁或道路。
 
 #ui_eco_units
-Units upkeep
+单位维护
 
 #ui_eco_units_c1
-Total upkeep of all units in all your formations.
+在您所有的编队内对所有的单位的总维护费用。
 
 #ui_eco_salar
-Wages
+工资
 
 #ui_eco_salar_c1
-Total spent on state wages.
+国家工资支出总额。
 
 #ui_eco_trt
-Treaties
+条约
 
 #ui_eco_trt_c1
-Coins sent or received from other states through your currently active treaties.
+通过您当前有效的条约从其他国家发送或接收的硬币。
 
 #ui_eco_civc
-Civics maintenance
+市政维护
 
 #ui_eco_civc_c1
-Total cost of maintaining all our currently active civics.
+维持我们当前所有启用的市政的总费用。
 
 #ui_eco_proj
-Current projects
+当前项目
 
 #ui_eco_proj_c1
-Total cost of all the projects currently in progress.
+当前所有正在进行的项目的总费用。
 
 #ui_eco_nat
-Nation
+国家
 
 #ui_eco_nat_c1
-Taxes from subordinates: [x]
+征收下属的税收: [x]
 
 #ui_eco_nat_c2
-Taxes for your hierarchic superior: [x]
+付给上级的税收: [x]
 
 #ui_eco_tradbal
-Trade balance
+贸易余额
 
 #ui_eco_tradbal_c1
-The trade balance across all your territories from all your current trade routes.
+由您当前所有的贸易路线跨越您所有领土的贸易余额。
 
 #ui_eco_tradbal_c2
-State resources: +[x] sales -[y] purchases
+国有资源: +[x] 销售 -[y] 采购
 
 #ui_eco_tradbal_c3
-Importations: +[x] sales -[y] purchases
+进口: +[x] 销售 -[y] 采购
 
 #ui_eco_tradbal_c4
-Exportations: +[x] sales -[y] purchases
+出口: +[x] 销售 -[y] 采购
 
 #ui_eco_tradbal_c5
-Cargo: +[x] sales -[y] purchases
+货物: +[x] 销售 -[y] 采购
 
 #ui_mres_storvar
-STORAGE VARIATION
+存储变化
 
 #ui_mres_prod
-PRODUCTION
+生产
+
+#uic_mres_prod
+当前所有生产建筑的产量。
 
 #ui_mres_imp
-IMPORT
+进口
 
 #ui_mres_dist
-DISTRIBUTION
+分销
 
 #ui_mres_ind
-INDUSTRIES
+行业
 
 #ui_mres_exp
-EXPORT
+出口
 
 #ui_price_base
-Minimum price: [x]
+最低价格: [x]
 
 #ui_price_base_c1
-This is the minimum price possible for this resource, regardless of the other factors.
+这是这个资源极限的最低价格，无论其他因素如何。
 
 #ui_price_base1
-Production cost ([x]%)
+生产成本([x]%)
 
 #ui_price_base1_c1
-The cost of local production for this resource based on the cost of required materials.
+根据所需材料的费用计算本地生产这种资源的费用。
 
 #ui_price_base2
-Importation cost ([x]%)
+进口费用([x]%)
 
 #ui_price_base2_c1
-The cost of importation of this resource from current trade routes.
+根据当前贸易路线计算进口这种资源的费用。
 
 #ui_price_base3
-Profit margin
+利润率
 
 #ui_price_base3_c1
-Ensuring minimum profits for the producers of +20% of the production cost.
+确保生产商的最低利润为生产成本的+20%。
 
 #ui_price_base3_c2
-Increased to +30% of the production cost if the resources is distributed via merchants, as their cut also needs to be taken into account by the producers.
+如果资源通过商家分配，则增加到生产成本的+30%，因为生产商也需要考虑到他们的分成。
 
 #ui_price_work
-Base price
+底价
 
 #ui_price_work_c1
-Price based on the amount of work required to produce this resource.
+价格基于生产此资源所需的工作量。
 
 #ui_price_work_c2
-Worforce required per resource unit: [x]
+每个资源单位所需的劳动力: [x]
 
 #ui_price_mkt
-Market study:  [x]
+市场调研: [x]
 
 #ui_price_mkt_c1
-Study of the current markets for this resource to determine its ideal price and ensure maximum profits for its producers and traders.
+调研该资源的当前市场，以确定其理想价格，并确保其生产者和贸易商获得最大利润。
 
 #ui_price_mkt1
-Public market ([x]%)
+公共市场([x]%)
 
 #ui_price_mkt1_c1
-The public study is based on the purchasing power of all the population classes consumming this resource and the amount being distributed on the public market. This is the ideal price at which the profits would be optimal for the merchants selling this resource.
+公共调研是基于消费这一资源的所有人口阶层的购买力和在公共市场上分配的数量。对于出售这种资源的商家来说，这是一个理想的价格，在这个价格下，利润将是最优的。
 
 #ui_price_mkt2
-Industries market ([x]%)
+行业市场([x]%)
 
 #ui_price_mkt2_c1
-The industrial study is based on how much revenue is generated by industries using this resource as a material. A share of these revenues will be coveted and that determines the ideal price of this resource for industrial consumption.
+行业调研是基于使用这种资源作为材料的行业产生了多少收入。这些收入中的一部分将是令人垂涎的，这决定了工业消费这种资源的理想价格。
 
 #ui_price_mkt3
-Exportations ([x]%)
+出口([x]%)
 
 #ui_price_mkt3_c1
-The average price of exportations and their share of the local market influences the price study proportionnally.
+出口产品的平均价格及其在当地市场的份额成比例地影响价格调研。
 
 #ui_price_sd
-Supply/demand: [x]%
+供应/需求: [x]%
 
 #ui_price_sd_c1
-The ratio of total supply with total demand influences the price both ways, resulting from the competition between traders or between buyers.
+总供应与总需求的比例对价格的影响是双向的，这是由交易商之间或购买者之间的竞争造成的。
 
 #ui_price_sd_c2
-Supply: [x] units
+供应: [x]单位
 
 #ui_price_sd_c3
-Demand: [x] units
+需求: [x]单位
+
+#ui_price_sd_c31
+(供应由国家采购支持!)
+
+#ui_price_sd_c4
+[y]枚硬币供应/需求前价格的[x]% = [z]
+
+#ui_price_sd_c41
+(效果受限于2枚硬币的最低价格!)
 
 #ui_price_arb
-Price arbitrage
+价格套利
 
 #ui_price_arb_c1
-Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
+当这个地区与邻近地区(您的或与您有贸易关系的外国)之间存在较大的价格差异时，就会发生价格套利。
+
+#ui_price_arb_c5
+套利前的本地价格: [x]硬币。
 
 #ui_price_arb_c2
-The average price in this area of the world is of [x] coins.
+在这一区域的世界平均价格: [x]硬币。
 
 #ui_price_arb_c3
-With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
+在价格差异为[x]%的情况下，世界价格对当地价格的影响为[y]%，导致[z]对最终价格的套利效应。
 
 #ui_price_arb_c4
-No price arbitrage: no nearby territories are currently using this resource.
+无价格套利: 没有附近的地区目前正在使用这种资源。
 
 #ui_mres_ststk
-State owned
+国有
 
 #ui_mres_ststk_c1
-Resources you own directly yourself as the state, as opposed to the rest of it owned privately by your population. New resources start initially owned by their respective producers.
+您自己作为国家直接拥有的资源，而不是由您的人民私人拥有的其他资源。新资源开始时最初由各自的生产者所有。
 
 #ui_mres_ststk_c2
-You do not have to buy the resources you already own when using them and you also earn back incomes if used by third parties such as industries or traders.
- 
+当您使用资源时，您不必购买您已经拥有的资源，如果由第三方(如行业或贸易商)使用，您还可以赚回收入。
+
 #ui_mres_ststk_c3
-You currently own [x] of the [y] [z] currently stocked in this territory.
+您目前拥有这个地区当前库存的[y]个[z]中的[x]个。
 
 #ui_mres_stres
-State resource
+国有资源
 
 #ui_mres_stres_c1
-If declared a State Resource, the whole production of this resource will be automatically purchased by the state as they are produced.
+如果被声明为国有资源，则该资源的整个生产将在生产时由国家自动购买。
 
 #ui_mres_stres_c2
-A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work.
- 
+对于国家专用的战略资源(例如武器或工具)而言，这是一个有用的选择，以确保其生产者获得正常的工作收入。
+
 #ui_mres_stmntn
-Maintain ownership
+维持所有权
 
 #ui_mres_stmntn_c1
-The amount of resources in stocks to maintain direct ownership of. 
+在库存中保持直接所有权的资源的数量。
 
 #ui_mres_stmntn_c2
-If below the specified amount, new resources going into storage will be automatically purchased by the state until the required amount is reached.
- 
+如果低于指定数量，则进入存储的新资源将由国家自动购买，直到达到所需数量。
+
 #ui_mres_access
-POPULATION ACCESS
+人口获得
 
 #uic_mres_access
-Population's satisfaction percentage of their need for this resource
+人们对这一资源需要的满足百分比。
 
 #ui_mres_dist_need
-Ideally needed
+理论需要
 
 #uic_mres_dist_need
-Theoric amount needed for a 100% access, regardless of price and affordability by the population
+不管价格和人们的负担能力如何，达到100%获取理论上所需的数量。
 
 #ui_mres_dist_dem
-Demand
+需求
 
 #uic_mres_dist_dem
-Amount actually demanded to merchants by porcos who can afford it at it's current price
+在当前价格下能够负担得起的波尔向商家实际需求的数量。
 
 #ui_mres_dist_avail
-Supply
+供应
 
 #uic_mres_dist_avail
-Amount currently distributed on the market
+当前在市场上分销的数量。
 
 #ui_mres_dist_sold
-Sold
+销售
 
 #uic_mres_dist_sold
-Amount sold to the population
+销售给大众的数量。
 
 #ui_bdgeff_bdg
-building
+建筑
 
 #ui_bdgeff_state
-state
+国家
 
 #ui_bdgeff_plac
-placement
+布局
 
 #ui_bdgeff_profit
-unprofitability ([x]%)
+无利可图([x]%)
 
 #ui_mres_indaccess
-INDUSTRIES ACCESS
+行业获取
 
 #uic_mres_indaccess
-Industries access to this resource as a material
+行业获得这种资源作为一种材料。
 
 #ui_mres_indneed
-Demand
+需求
 
 #uic_mres_indneed
-Amount of this resource required by industries
+行业所需的这类资源的数量。
 
 #ui_mres_indsold
-Sold
+销售
 
 #uic_mres_indsold
-Amount of this resource actually distributed and sold to industries needing it
+这种资源的实际分配和销售给需要它的行业的数量。
 
 #ui_mres_prodcost
-Production cost
+生产成本
 
 #uic_mres_prodcost
-Average cost of buying required materials to produce one unit of this resource
+购买所需材料以产生一个单位此资源的平均费用。
 
 #ui_menubdg_merchsup
-supply
+供应
 
 #ui_mres_costimp
-cost of imports
+进口费用
 
 #uic_mres_costimp
-The total cost paid (by the state) for the amount being imported through trade routes.
+通过贸易路线进口的数量所支付的费用总额(由这个国家)。
 
 #bc_menubdg_rsell
-select resource to sell with this merchant
+选择要与此商家一起销售的资源
 
 #bc_menubdg_lmtd
-Limited distribution
+有限分销
 
 #bc_menubdg_lmtd_c1
-Click to toggle limited distribution for this merchant. Allows you to control the amount of the resource distributed to the public market.
+单击以切换此商家的有限分销。允许您控制分配给公开市场的资源数量。
 
 #ui_menubdg_hire
-Hire one
+雇用一个
 
 #ui_menubdg_fire
-Fire one
+解雇一个
 
 #ui_menubdg_wkprio
-Priority of filling jobs in this building.
+填补在这个建筑工作的优先级。
 
 #storpol
-Storage policy
+储存方针
 
 #storpol_all
-all storages
+全部储存
 
 #storpol_c_all1
-Stocking of this resource is allowed in any available storage. 
+允许在任何可用的存储中存储此资源。
 
 #storpol_c_all2
-Will even be stocked directly on ground if there is no available space.
+如果没有可用的空间，甚至会直接存放在地面上。
 
 #storpol_restr
-only in restricted
+仅限限制
 
 #storpol_c_restr1
-Only valid storages in restricted mode are allowed to stock this resource.
+只有限制模式下的有效存储区才允许存储此资源。
 
 #storpol_c_restr2
-If none is available, the extra resources are destroyed.
+如果没有可用的，则这些额外的资源将会被销毁。
 
 #storpol_none
-no stocking
+禁止储备
 
 #storpol_c_none1
-The stocking of this resource is disabled.
+此资源的存储已禁用。
 
 #storpol_c_none2
-All the extra resources are destroyed.
+所有额外的资源都被销毁。
 
 #stormntn
-Maintain stock
+维持库存
 
 #stormntn_c
-If the current stock is below the desired value, 25% of the production will be reserved and locked in order to increase the stock. 
+如果当前库存低于预期值，25%的生产将被保留和锁定，以便增加库存。
 
 #stormntn_set
-Set maintaining stock at minimum of [x] [y]. 
+将[y]的维持库存设置为最少[x]。
 
 #storownr_set
-Set maintaining ownership of minimum [x] [y]. 
+将[y]的维持所有权设置最少为[x]。
 
 #storownr_enab
-[x] is now a State Resource (all production auto-purchased by you). 
+[x]现在是国有资源(所有生产都由您自动购买)。
 
 #storownr_disab
-[x] no longer is a State Resource (no auto-purchasing of production). 
+[x]不再是国有资源(无生产的自动购买)。
 
 #regeco_eff
-Effects: affects your government's treasury positively or negatively 
+效果: 积极或消极地影响您的政府财政。
 
 #regeco_1
-The budget balance of your territory is the result of all incomes and expenses specific to this territory such as taxes, salaries and maintenance costs.
+您所在地区的预算余额是该地区所有特定收入和支出的结果。例如: 税收、工资和维护费用。
 
 #regeco_2
-Budget can also be negatively affected by Waste. It represents incomes lost to tax fraud, bad management, corruption and 'black economy'.
+预算也可能受到浪费的负面影响。收入失去代表了税收欺诈、管理不善、腐败和“黑色经济”。
 
 #regadmin_eff
-Effects: increases budget incomes (-waste)
+效果: 增加预算收入(-浪费)。
 
 #regadmin_1
-Administration represents your government's management capacity in this territory.
+行政管理代表您的政府在这一地区上的管理能力。
 
 #regadmin_2
-The more population and distance from the capital, the harder it is to manage the territory. But it can also be improved by active policies and services in the territory such as Scribes helping in the territory's administration.
+人口越多和离首都越远，管理这个地区就越困难。但是，也可以通过在地区内采取积极的政策和服务来改善这种情况。例如: 文士在地区管理方面提供帮助。
 
 #regconf_eff
-Effects: decreases growth (+murders), decreases loyalty (-authority)
+效果: 降低增长(+谋杀)，降低忠诚(-权威)。
 
 #regconf_1
-Conflict represents the level of random conflicts between the people of the territory.
+冲突代表地区人民之间随机冲突的程度。
 
 #regconf_2
-Active government civics and services in the territory such as Justice can help reduce it.
+在该地区上积极的政府市政和服务。例如: 司法，可以帮助减少这种情况。
 
 #regloy_eff
-Effects: prevents population rebellion
+效果: 防止人民叛乱。
 
 #regloy_1
-Loyalty represents the global loyalty of the territory's people to you: the central government controlling this territory.
+忠诚代表该地区人民对您的整体忠诚: 控制这一地区的中央政府。
 
 #regloy_2
-It is affected by many factors such as the culture of the people, the level of conflict in the territory, active policies, past events or authority of the government in the territory. If Loyalty gets too low (below 30%), there will be a high risk of global popular uprising that can lead to losing the control of the territory.
+它受到许多因素的影响，例如: 人民文化、地区内的冲突程度、积极的政策、过去的事件或政府在地区内的权威。如果忠诚度过低(低于30%)，全体民众起义的风险就会很高，可能会导致失去对地区的控制。
 
 #regcltr_eff
-Effects: contributes to your total culture, affects loyalty, increases population's intelligence
+效果: 贡献总文化、影响忠诚度、增加人民智力。
 
 #regcltr_1
-Culture represents the total knowledges, customs and behaviors of the people in this territory.
+文化代表全部知识，这个地区人民的风俗和行为。
 
 #regcltr_2
-A total culture based on the amount of population can then be shared between different types of cultures. "State culture" represents your culture. "Local culture" represents customs and behaviors specific to this territory and different from your main culture shared among all your people. Other foreign cultures might also be present.
+一个基于人口数量的总文化可以在不同类型的文化之间共享。“国家文化”代表的是您的文化。“地方文化”代表的是本地区特有的风俗和行为，与您的主要文化不同，它是您所有人共有的。其他外国文化也可能存在。
 
 #regcltr_intgr
-Cultural integration of the nation
+国家文化融合
 
 #regcltr_intgr_c1
-This territory's culture has fully integrated the nation of [x], as its been part of it for a long time.
+这个地区的文化已经完全融入了[x]国家，因为它已经成为它的一部分很长一段时间了。
 
 #regcltr_intgr_c2
-Transfering this territory between nation members generates 50% less resistance.
+在国家成员之间转移该领土产生的阻力减少50%。
 
 #regcltr_notintgr_c1
-This territory's culture hasn't integrated the nation of [x] yet. It will be in [y]. 
+这个地区的文化还没有完全融入[x]的国家。这将再过[y]。
 
 #reggrwth_eff
-Effects: determines the evolution of your population.
+效果: 决定人口的发展。
 
 #reggrwth_1
-Growth represents the current demographic evolution of your population in this territory. 
+增长代表您这个地区当前人口的种群发展。
 
 #reggrwth_2
-Growth is greatly dependent on the "breeding will" of the people which determines how many couples will have children within the next generation.
+增长很大程度上取决于人们的“生育意愿”，而这种意愿决定了下一代将有多少对夫妇生育孩子。
 
 #popw_base
-Base wealth
+基础财富
 
 #popw_income
-Porco's income
+波尔收入
 
 #popw_priv
-Priviledges
+特权
 
 #popneed_sat
-NEEDS SATISFACTION
+需要满足
 
 #popstat_wealth
-WEALTH
+财富
 
 #popstat_wealth_c1
-A porco's wealth defines it's purchasing power.
+一个波尔的财富决定了他的购买能力。
 
 #popstat_wealth_c2
-A porco can fully afford any valuable priced equally or bellow it's wealth level.
+一个波尔可以完全负担得起任何同等价格的贵重物品，或者低于它的财富水平。
 
 #popstat_health
-HEALTH
+健康
 
 #popstat_health_c1
-Health determines life span and resistance to deseases.
+健康决定寿命和对疾病的抵抗力。
 
 #popstat_health_c2
-It improves population's growth.
+它促进了人口的增长。
 
 #poph_base
-Base health
+基础健康
 
 #poph_base_c1
-The default health for this population class.
+此类人口的默认健康状况。
 
 #poph_ter
-Terrain effect
+地形效应
 
 #poph_ter_c1
-Climate [y] modifyer: [x]
+[y]气候调整: [x]
 
 #poph_ter_c2
-Is a swamp: [x]
+是沼泽: [x]
 
 #poph_housing
-Housing effect
+住房影响
 
 #poph_housing_c1
-Each lodging provides a health bonus to its residents.
+每个住所都为其居住者提供一个健康奖金。
 
 #poph_housing_c2
-This is the average housing health bonus of logdings occupied by this population class.
+这是这一人口阶层居住的住宿的平均住房健康奖金。
 
 #poph_totpop
-Total population
+总人口
 
 #poph_totpop_c1
-Overall population in the territory decreases health.
+这一地区的总人口减少了健康。
 
 #poph_foodqual
-Food quality of [x]
+食品质量[x]
 
 #poph_foodqual_c1
-Higher food quality increases health.
+较高的食物质量增加了健康。
 
 #poph_foodqual_c2
-Current food quality access: [x]
+当前食品质量获取: [x]
 
 #poph_serv
-Health services
+健康服务
 
 #poph_serv_c1
-Some services (such as doctors) provide a health bonus to those who have access to it.
+部分服务(例如: 医馆)为那些能够获得的人提供健康增益。
 
 #poph_vitals
--[x]% from missing vital needs
+-[x]%由于缺少生命需求。
 
 #poph_vitals_c1
-Missing vital needs affects overall health proportionnally.
+缺少生命需求会按比例影响整体健康。
 
 #popstat_lifequal
-LIFE QUALITY
+生活质量
 
 #popstat_lifequal_c1
-The quality of life is a score measuring how good and comfortable the porco's life is.
+生活质量是衡量波尔生活好坏和舒适程度的一个指数。
 
 #popstat_lifequal_c2
-It affects many other things such as intelligence, happyness or growth.
+它会影响许多其他事物，例如: 智力、幸福或增长。
 
 #poplq_vitals
-Vital needs
+生命需求
 
 #poplq_vitals_c1
-Life quality gained by the satisfaction and quality of vital needs.
+通过满足和高质量的生命需求而获得的生活质量。
 
 #poplq_vitals_c2
-Vital needs are satisfied at [x]%.
+生命需求已得到[x]%的满足。
 
 #poplq_house
-Housing quality
+住房质量
 
 #poplq_house_c1
-Life quality gained by the average housing quality of lodgings occupied by this population.
+这一人口所居住的住所的平均住房质量所获得的生活质量。
 
 #poplq_house_c2
-Average quality of lodgings: [x].
+住所的平均质量: [x]。
 
 #poplq_house_c3
-(requires satisfaction of vital needs)
+(需要满足生命需求)
 
 #poplq_2nd
-Secondary needs
+二级需求
 
 #poplq_2nd_c1
-Life quality gained by the satisfaction and quality of secondary needs.
+二级需求的满足和质量所获得的生活质量。
 
 #poplq_2nd_c2
-(requires satisfaction of vital needs)
+(需要满足生命需求)
 
 #poplq_3rd
-Teritiary needs
+三级需求
 
 #poplq_3rd_c1
-Life quality gained by the satisfaction and quality of tertiary needs.
+三级需求的满足和质量所获得的生活质量。
 
 #poplq_3rd_c2
-(requires satisfaction of secondary needs)
+(需要满足二级需求)
 
 #poplq_4th
-Quaternary needs
+四级需求
 
 #poplq_4th_c1
-Life quality gained by the satisfaction and quality of quaternary needs.
+四级需求的满足和质量所获得的生活质量。
 
 #poplq_4th_c2
-(requires satisfaction of tertiary needs)
+(需要满足三级需求)
 
 #popstat_intel
-INTELLIGENCE
+智力
 
 #popstat_intel_c1
-Intelligence is one's ability to create algorythms measuring probabilities of Truth.
+智力是一个人创造测量真理概率的算法的能力。
 
 #popstat_intel_c2
-Intelligent porcos will generate more ideas and culture, but tend to be unhappier and harder to control.
+聪明的波尔会产生更多的想法和文化，但往往更难以控制和更难控制。
 
 #popint_base
-Base intelligence
+基础智力
 
 #popint_base_c1
-The default intelligence level of this species.
+这一种类的默认智力水平。
 
 #popint_serv
-Education services
+教育服务
 
 #popint_serv_c1
-Intelligence gained from access to education services such as schools.
+通过获得教育服务(如学校)而获得的智力。
 
 #popint_lq
-Life quality
+生活质量
 
 #popint_lq_c1
-Intelligence gained from current Life Quality.
+从当前生活质量中获得的智力。
 
 #popint_lq_c2
-Each point of Life Quality provides +0.75 of Intelligence.
+每点的生活质量提供+0.75的智力。
 
 #popint_kn
-Total knowledges
+总知识
 
 #popint_kn_c1
-The total of your current knowledges increases overall intelligence. 
+您当前知识的总和增加了整体智力。
 
 #popint_cult
-Territory's culture
+地区文化
 
 #popint_cult_c1
-The total culture in this territory increases the overall intelligence of its population.
+这一地区的总文化增加了该区域人口的整体智力。
 
 #popneed_qual
-satisfaction quality
+满意质量
 
 #popneed_access
-access
+获取
 
 #popneed_food
-foods
+食品
 
 #popneed_water
-water
+水
 
 #popneed_furnish
-furnishings
+家具
 
 #popneed_cloth
-clothing
+服饰
 
 #popneed_alco
-alcohols
+酒精
 
 #popneed_entert
-entertainments
+娱乐
 
 #popneed_lux
-luxury
+奢侈品
 
 #popneed_pfood
-pleasure foods
+娱乐食品
 
 #popneed_social
-social
+社交
 
 #popneed_2
-secondary needs
+二级需求
 
 #popneed_3
-tertiary needs
+三级需求
 
 #popneed_4
-quaternary needs
+四级需求
 
 #popneed_unsat
-(-[x]% for unsatisfied needs of higher priority)
+(-[x]%因为未满足的更高优先级需求)
 
 #popneed_lq
-life quality bonus: +[x]
+生活质量奖金: +[x]
 
 #cltrstat_prod
-Population
+人口
 
 #cltrstat_prod_c1
-Amount of state culture currently generated in the territory by its population.
+目前由其人口在领土内产生的国家文化量。
 
 #cltrstat_pop
-Raw culture production
+原始文化产生
 
 #cltrstat_pop_c1
-Amount of raw culture produced by the population.
+由这些人口产生的原始文化。
 
 #cltrstat_pop_c2
-[x] porcos of [y] intelligence are currently producing [z] of culture.
+拥有[y]智力的[x]个波尔目前正在产生[z]点文化。
 
 #cltrstat_local
--[x]% of local culture
+-[x]%的地方文化
 
 #cltrstat_local_c1
-[x]% of the culture produced by the population is local.
+人口产生的文化中有[x]%是地方的。
 
 #cltrstat_local_c2
-- local culture from capital distance: +[x]%
+- 地方文化源于首都距离: +[x]%
 
 #cltrstat_local_c3
-- local culture from territorial status: +[x]%
+- 地方文化源于领土地位: +[x]%
 
 #cltrstat_serv
-Services
+服务
 
 #cltrstat_serv_c1
-Amount of state culure produced by the activity of cultural buildings and their services.
+由文化建筑及其活跃服务所产生的国家文化数量。
 
 #cltrstat_decay
-Decay
+腐败
 
 #cltrstat_decay_c1
-Amount of state culure lost by decay.
+由腐败而损失的国家文化数量。
 
 #cltrstat_dovrs
-Maximum stored capacity
+最大存储容量
 
 #cltrstat_dovrs_c1
-Decay caused if the current maximum capacity of stored culture is reached in this territory.
+如果在此地区内达到当前文化储备的最大容量，则会导致衰减。
 
 #cltrstat_dovrs_c2
-This capacity increases the more population resides in the territory.
+居住在该地区的人口越多，这种能力就会增加。
 
 #cltrstat_dinf
-Cultural influence
+文化影响
 
 #cltrstat_dinf_c1
-Decay due to state culture losing influence compared to other cultures present in this territory.
+由于国家文化相对于这片领土上存在的其他文化失去影响力而导致的衰减。
 
 #cltrstat_dinf_c2
-This territory produces [x] of state culture, out of a total production of [y] culture, resulting in a target cultural influence of [z]% in this territory.
+这一地区生产[x]点国家文化，总产生[y]点文化，从而在该领土上产生[z]%的目标文化影响力。
 
 #cltrstat_dinf_c3
-Current state culture influence is [x]%.
+当前国家文化影响力是[x]%。
 
 #cltrstat_stock
-Culture stock capacity
+文化存储容量
 
 #cltrstat_stock_c1
-This territory currently has [x] of culture stored out of a maximum of [y].
+这个地区当前有[x]点文化，最大存储值为[y]点。
 
 #cltrstat_stock_c2
-Overall culture in this territory is increasing.
+这个地区的总文化正在增加。
 
 #cltrstat_stock_c3
-Overall culture in this territory is decreasing because it is above its current maximum!
+这个地区的总体文化正在减少，因为它高于当前的最大值!
 
 #cltrstat_ststock
-State culture
+国家文化
 
 #cltrstat_ststock_c1
-[x]% of this territory's culture is state culture.
+这个地区[x]%的文化是国家文化。
 
 #cltrstat_ststock_c2
-It has [x] points of state culture in stock.
+它有[x]点国家文化的储备。
 
 #loadgame_select
-Select a local saved game to load
+选择要加载的本地保存的游戏
 
 #loadgame_localsav
-( Local saves are located in \AppData\Local\Ymir\saves )
+(本地存档位于\AppData\Local\Ymir\saves)
 
 #loadgame_nofnd
-No games found!
+没有找到游戏!
 
 #loadgame_none1
-It seems there is no existing games to load!
+似乎没有现成的游戏可以加载!
 
 #loadgame_none2
-You need to create a new game.
+您需要创建一个新的游戏。
 
 #loadgame_crtnew
-CREATE NEW GAME
+创建新游戏
 
 #loadgame_rename
-rename
+重命名
 
 #loadgame_copy
-copy
+复制
 
 #loadgame_del
-delete
+删除
 
 #loadgame_renaming
-Rename game
+重命名游戏
 
 #loadgame_copying
-Copy name
+复制名称
 
 #loadgame_deleting
-Are you sure you want to delete this saved game ?
+您确定要删除这个已保存的游戏吗?
 
 #joingame_serv
-Server IP
+服务器IP
 
 #joingame_port
-Server port
+服务器端口
 
 #popstat_wbase
-base wealth
+基础财富
 
 #popstat_wbase_c1
-every porco naturally makes wealth on it's own
+每个波尔都会自然地靠自己获得财富。
 
 #popstat_winhrt_c1
-inherits its wealth and resources access from the average of all actives
+从所有活动的平均值继承其财富和资源获取。
 
 #popstat_winc
-coins of income
+硬币收入
 
 #popstat_winc_c1
-earning [x] coins out of [y] in total
+总共赚取了[y]枚硬币中的[x]枚。
 
 #popstat_winc_c2
-awards [x]% of [y] territory wealth
+给与[y]地区财富的[x]%。
 
 #popstat_wpriv
-privileges
+特权
 
 #popstat_wpriv_c
-wealth given directly as privileges by social policies
+社会政策直接作为特权给予的财富。
 
 #legit_dscr
-Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
+合法性是人民在多大程度上承认您的国家对权威的要求的权利，这些权利是由您积极的合法性政策所定义的。这些都会影响到所有不同合法性因素的积极或消极影响。
 
 #legit_tot
-Total legitimacy
+总合法性
 
 #legit_honor
-Honor
+荣誉
 
 #legit_honor_c
-Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
+您的荣誉直接影响您的合法性。没有人愿意在一个不光彩的统治者手下工作!
 
 #legit_protect
-Military strenght
+军事力量
 
 #legit_protect_c
-Our military strenght is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
+我们的军事实力当前是[x]。它是通过拥有更多的军队和更强大的单位相对于您的总人口而增加的。
 
 #legit_wealth
-Leader superiority
+领导优势
 
 #legit_wealth_c
-Our leader superiority is currently of [x]. It's increased by the wealth of the leader's population class.
+我们的领导优势当前是[x]。它是由领导者的人口阶层的财富增加的。
 
 #legit_relig
-People religiosity
+人民宗教信仰
 
 #legit_relig_c
-[not implemented yet]
+[尚未实现]
 
 #legit_parl
-Parliament power
+议会权力
 
 #legit_parl_c
-[not implemented yet]
+[尚未实现]
 
 #legit_senat
-Senate power
+参议院权力
 
 #legit_senat_c
-[not implemented yet]
+[尚未实现]
 
 #legit_approv
-People approval
+人民认可
 
 #legit_approv_c
-[not implemented yet]
+[尚未实现]
 
 #legit_minist
-Ministry power
+部门权力
 
 #legit_minist_c
-[not implemented yet]
+[尚未实现]
 
 #legit_inf_pos
-The [x] factor currently has a positive influence over our Legitimacy. ([y])
+[x]因素目前对我们的合法性有积极的影响。([y])
 
 #legit_inf_neg
-The [x] factor currently has a negative influence over our Legitimacy. ([y])
+[x]因素目前对我们的合法性有负面影响。([y])
 
 #legit_inf_neut
-The [x] factor currently has no influence over our legitimacy.
+[x]因素目前对我们的合法性没有影响。
 
 #statepow_dscr
-State power is the capacity of your state to manage things. Power policies define how the political power is organized in the state, generating State power and affecting different types of legitimacies. State power increases the loyalty of territories.
+国家权力是您的国家管理事物的能力。权力政策定义了政治权力在国家中的组织方式，产生国家权力并影响不同类型的合法性。国家权力增加了领土的忠诚度。
 
 #statepow_tot
-Total state power
+总国家权力
 
 #statepow_civ
-Power policies
+权力政策
 
 #statepow_civ_c1
-The total State power generated by the currently active Power policies.
+当前积极的权力政策所产生的总国家权力。
 
 #statepow_upk
-Policies maintenance
+政策维护
 
 #statepow_upk_c1
-The total State power consumed by all the currently active policies.
+当前所有活跃的政策所消耗的总国家权力。
 
 #statepow_nbcit
-Territories
+领土
 
 #statepow_nbcit_c1
-Sum of State Power cost of all your controlled territories (costs can vary depending of the status of each territory). 
+您所控制的所有领土的国家权力费用之和(根据每个领土的状态，费用可能有所不同)。
 
 #statepow_debt
-Debt
+债务
 
 #statepow_debt_c1
-Debt reduces State power and we currentlly have a debt of [x] coins.
+债务降低了国家的权力，而我们目前的债务是[x]枚硬币。
 
 #statepow_hon
-Dishonor
+负荣誉
 
 #statepow_hon_c1
-Noone wants to serve a dishonorable leader! Negative honor reduces State Power (current honor : [x] ).
+没有人想为一个不光彩的统治者服务!负荣誉减少了国家权力(当前荣誉: [x])。
 
 #statepow_tmain
-Treaties maintenance
+条约维护
 
 #statepow_tmain_c1
-All active treaties cost a certain amount of State Power to be maintained, depending on the nature of our terms in the treaties.
+所有有效的条约都需要花费一定数量的国家权力来维持，这取决于我们在条约中所用条款的性质。
 
 #statepow_powtr
-State Power transfers
+国家权力转移
 
 #statepow_powtr_c1
-State Power beeing transfered to or from other governments due to current active treaties.
+国家权力因现行有效的条约而向其他政府转出或从其他政府转入。
 
 #statepow_powtr_c2
-- sent from active treaties: [x]
+- 现行条约转出: [x]
 
 #statepow_powtr_c3
-- received from active treaties: [x]
+- 现行条约转入: [x]
 
 #statepow_civmnt
-Civics maintenance
+市政维护
 
 #statepow_civmnt_c1
-The power cost to maintain all the currently active civics.
+维护所有当前活跃的市政活动所需的权力费用。
 
 #statepow_nation
-Nation
+国家
 
 #statepow_nation_c1
-State power transfered from subordinates: [x]
+下属转入的国家权力: [x]
 
 #statepow_nation_c2
-State power transfered to superior: [x]
+转给上级的国家权力: [x]
 
-#statepow_nation_c3
-Number of direct subordinates: [x]
+#statepow_nation_c31
+[y]名直接下属: [x]
 
-#statepow_nation_c4
-Distance of direct subordinates: [x]
+#statepow_nation_c41
+直接下属的平均距离[y]: [x]
 
-#statepow_nation_c5
-Number of total subordinates: [x]
+#statepow_nation_c51
+总共[y]名下属: [x]
 
 #statepow_forms
-Maintenance of formations
+维护编队
 
 #statepow_forms_c1
-Each formation you own can cost some State Power to maintain.
+您所拥有的每一个编队都会花费一些国家权力来维护。
 
 #conf_c1
-The current effective conflict of the territory
+当前领土的有效冲突
 
 #conf_var_c1
-The current conflict variation of the territory
+当前领土冲突的变化
 
 #conf_gpop
-Population
+人口
 
 #conf_gpop_c1
-Amount of conflict generated by the current population in the territory.
+这一领土上当前的人口所产生的冲突数量。
 
 #conf_gstate
-Policies
+政策
 
 #conf_gserv
-Services
+服务
 
 #conf_pop
-Base conflict
+基础冲突
 
 #conf_pop_c1
-The total population in the territory naturally generates conflict.
+这一领土上的总人口自然引起的冲突。
 
 #conf_territ
-[x]% from territorial status
+[x]%来自领土地位
 
 #conf_territ_c1
-The current territorial status can modify the base conflict generated by the population.
+当前这一领土的地位可以改变人口产生的基础冲突。
 
 #conf_state
-Policies ([x]%)
+政策([x]%)
 
 #conf_state_c1
-Current government policies can effect the base conflict from population.
+当前的政府政策可以影响人口的基础冲突。
 
 #conf_serv
-Services ([x]%)
+服务([x]%)
 
 #conf_serv_c1
-Services in the territory like Justice can reduce the final conflict level, depending on how well population has access to them.
+领土内的服务(如司法)可以减少最终的冲突水平，这取决于人们获得这些服务的程度。
 
 #loyal_c1
-The current loyalty of the territory
+当前领土的忠诚
 
 #loyal_var_c1
-The current loyalty variation of the territory
+当前领土的忠诚度变化
 
 #loyal_pop
-population
+人口
 
 #loyal_pop_c1
-How population factors affect the loyalty of the territory.
+人口因素如何影响这一领土的忠诚度。
 
 #loyal_cult
-from cultural balance
+来自文化抵消
 
 #loyal_cult_c1
-The balance between state and local cultures can affect positively or negatively the loyalty of the territory.
+国家和地方文化之间的平衡可以对领土的忠诚产生积极或消极的影响。
 
 #loyal_status
-from territorial status
+来自领土地位
 
 #loyal_status_c1
-Territorial status can affect loyalty positively or negatively. More authonomous statuses tend to increase loyalty.
+领土地位会对忠诚产生积极或消极的影响。更高的自治地位往往会增加忠诚度。
 
 #loyal_state
-state
+国家
 
 #loyal_state_c1
-How global state factors affect the loyalty of the territory.
+国家的整体因素如何影响这一领土的忠诚度。
 
 #loyal_legit
-from state legitimacy
+来自国家合法性
 
 #loyal_legit_c1
-State legitimacy affects the loyalty of all territories.
+国家合法性影响所有领土的忠诚度。
 
 #loyal_statepow
-from state power
+来自国家权力
 
 #loyal_statepow_c1
-State power affects the loyalty of all territories.
+国家权力影响所有领土的忠诚度。
 
 #loyal_hightax
-high taxes
+高税收
 
 #loyal_hightax_c1
-High taxes upset people and reduces their loyalty to the state.
+高税收让人民心烦意乱，降低了他们对国家的忠诚度。
 
 #loyal_prvldg
-priviledges
+特权
 
 #loyal_prvldg_c1
-Priviledges upset the people and reduce their loyalty to the state.
+特权使人民不安，降低了他们对国家的忠诚度。
 
 #loyal_autho
-authority
+权威
 
 #loyal_autho_c1
-How the different factors of authority affect the loyalty of the territory.
+不同的权威因素如何影响这一领土的忠诚度。
 
 #loyal_statearmy
-state troops
+国家军队
 
 #loyal_statearmy_c1
-The presence of state troops increases the state's authority in the territory.
+国家军队的存在增加了国家在这一领土上的权威。
 
 #loyal_guard
-guards
+警卫
 
 #loyal_guard_c1
-The total produced guarding service increases the authority of the state.
+总产出的警卫服务增加了国家的权威。
 
 #loyal_garrison
-local garrison
+当地驻防
 
 #loyal_garrison_c1
-Providing military equipment to the citizens of the territory to defend themselves also makes them more confident to defy the state's authority.
+向领土公民提供军事装备以保卫它们自己，也使得他们更有自信无视国家的权威。
 
 #loyal_poppow
-amount of population
+人口数量
 
 #loyal_poppow_c1
-The more population there is, the less authority. The total amount of population reduces the territory's loyalty.
+哪儿的人口越多，权力就越小。人口总数降低了这一领土的忠诚度。
 
 #loyal_conf
-conflict
+冲突
 
 #loyal_conf_c1
-Territory conflict reduces the authority of your government in this territory as it creates instability.
+领土冲突减少了您的政府在这一领土上的权威，因为它造成了不稳定。
 
 #loyal_events
-events
+事件
 
 #loyal_events_c1
-Some events can affect temporarly the loyalty of the territory.
+有些事件可以暂时影响领土的忠诚度。
 
 #loyal_revolts
-recent revolts
+最近的叛乱
 
 #loyal_revolts_c1
-Recent unrest and revolts temporarly increase loyalty of the territory
+最近的动乱和叛乱暂时的增加了这一领土的忠诚。
 
 #loyal_stateev
-recent state events
+最近的国家事件
 
 #loyal_stateev_c1
-Recent state events temporarly affecting the loyalty of the territory
+最近的国家事件暂时的影响了领土的忠诚。
 
 #loyal_resist
-resistance!
+抵抗!
 
 #loyal_resist_c1
-Loyalists to the previous owner of this territory ([x])
+效忠于该领土以前的所有者([x])。
 
 #loyal_decr
-Warning: even though loyalty is currently good, it is decreasing towards dangerous levels and this territory will soon be at risk of a popular uprising.
+警告: 尽管目前忠诚度是好的，但它正在向危险的水平下降，这个地区很快就会面临民众起义的风险。
 
 #loyal_risk
-Warning: this territory is currently at risk of a popular uprising!
+警告: 这个地区当前面临着民众起义的危险!
 
 #loyal_good
-This territory is currently not at risk of a popular uprising.
+这个地区当前没有发生大规模起义的危险。
 
 #loyal_resist_1
-Warning: A resistance movement of [x] points is present in this territory!
+警告: 这个地区内出现了[x]点的抵抗运动!
 
 #loyal_resist_2
-You are at risk of a Partisans uprising (can happen regardless of the population's loyalty).
+您面临着游击队起义的危险(无论民众的忠诚度如何，都有可能发生)。
 
 #loyal_resist_inc
-The resistance movement is currently growing by +[x] [y].
+这个抵抗运动当前正在增加+[x][y]。
 
 #loyal_resist_decr
-The resistance movement is currently decaying by -[x] [y].
+这个抵抗运动当前正在减少-[x][y]。
+
+#resist_title
+抵抗运动
+
+#resist_dscr
+这一地区出现了抵抗运动。这可能会导致游击队在任何时候起义并且无论该地区当前的忠诚度!
+
+#resist_loyal
+忠诚: [x]
+
+#resist_loyal_c1
+这次抵抗运动是忠于[x]的。
+
+#resist_loyal_c2
+如果游击队设法解放这个地区，他们将自动提出重新加入这个国家。
+
+#resist_max
+最大抵抗: [x]
+
+#resist_max_c1
+这一地区可以拥有的最大抵抗点。抵抗受到这片领土总人口的限制。
+
+#resist_hloss
+失败惩罚: [x]荣誉
+
+#resist_hloss_c1
+如果游击队设法解放这个地区，作为惩罚将失去的荣誉的数量。
+
+#resist_tot_c1
+抵抗运动目前有[x]点，而潜在的最大值是[y]点。
+
+#resist_tot_c2
+这一点数越多，这片地区的抵抗力量就越强大，参与抵抗的人口也就越多，这意味着如果真的发生起义，可能会有更多的游击队。
 
 #admin_capacit
-production
+产量
 
 #admin_capacit_c1
-Total administration available in this territory.
+在这一地区可用的总行政管理。
 
 #admin_streg
-territorial policies
+领土政策
 
 #admin_streg_c1
-Administration generated from active power policies affecting all territories.
+由影响所有领土的现行权力政策产生的行政管理。
 
 #admin_stcity
-city policies
+城市政策
 
 #admin_stcity_c1
-Administration generated from active power policies affecting cities.
+由影响城市的现行权力政策产生的行政管理。
 
 #admin_stcap
-capital policies
+首都政策
 
 #admin_stcap_c1
-Administration generated from active power policies affecting the capital.
+由影响首都的现行权力政策产生的行政管理。
 
 #admin_scrib
-scribes
+文士
 
 #admin_scrib_c1
-Extra administration produced by Scribes.
+由文士产生的额外行政管理。
 
 #admin_reg
-local
+地方
 
 #admin_reg_c1
-Local factors affecting administration.
+影响行政管理的地方性因素。
 
 #admin_pop
-population management
+人口管理
 
 #admin_pop_c1
-Administration cost from the total population of this territory.
+来自这一地区总人口的行政管理费用。
 
 #admin_bdg
-buildings management
+建筑管理
 
 #admin_bdg_c1
-Total cost of buildings requiring administration in this territory.
+在这一地区内需要管理的建筑物的总费用。
 
 #admin_glob
-global
+整体
 
 #admin_glob_c1
-Global factors affecting this territory's administration.
+影响这一地区行政管理的整体因素。
 
 #admin_nbcit
-number of regions
+区域数量
 
 #admin_nbcit_c1
--[x]% of administration per non-capital region
+-[x]%每个非首都地区的行政管理。
 
 #admin_nbcit_c2
-number of extra regions under your control: [x]
+您控制的额外区域数量: [x]
 
 #admin_dist
-[x]% from distance of capital
+[x]%来自首都的距离
 
 #admin_dist_c1
-Capital distance is costing you [x]% of the total produced administration of [y]
+首都距离正在消耗总产生的[y]行政管理的[x]%。
 
 #admin_dist_c2
-[x]% from a distance of [y] territories with the capital
+[x]%来自[y]领土与首都的距离。
 
 #admin_dist_c3
-[x]% from territorial status distance modificator of [y]%
+[x]%来自领土地位距离修改器的[y]%。
 
 #admin_claim
-Regional claims
+区域声称
 
 #admin_claim_c1
-The management cost of all the territorial claims made by this region.
+这一区域提出的所有领土声称的管理费用。
 
 #admin_claim_c2
-number of claims: [x]
+声称的数量: [x]
 
 #admin_ter
-Regional territories
+区域领土
 
 #admin_ter_c1
-The management cost of all the additionnal territories belonging to this region.
+属于这一地区的所有附加领土的管理费用。
 
 #admin_ter_c2
-number of annexed territories: [x]
+附加领土的数量: [x]
 
 #cultr_state
-state culture
+国家文化
 
 #cultr_local
-local culture
+地方文化
 
 #cultr_pop
-culture from population
+来自人口的文化
 
 #cultr_srv
-culture from services
+来自服务的文化
 
 #eco_balance
-Balance
+余额
 
 #growth_males
-Porcos variation
+波尔变化
 
 #growth_sows
-Sows variation
+母猪变化
 
 #growth_piglets
-Piglets variation
+仔猪变化
 
 #growth_oldpigs
-Oldpigs variation
+老猪变化
 
 #growth_mnew
-male piglets reaching adulthood
+雄性仔猪到达成年
 
 #growth_msick
-sickness
+疾病
 
 #growth_mmurder
-murders
+杀害
 
 #growth_mage
-aging porcos becoming oldpigs
+波尔衰老成为老猪
 
 #growth_munitsup
-aging in formations: [x] porcos in supported units (free support for [y])
+编队老化: 支持单位的[x]名波尔(免费支持为[y]名)
 
 #growth_snew
-female piglets reaching adulthood
+雌性仔猪到达成年
 
 #growth_ssick
-sickness
+疾病
 
 #growth_smurder
-murders
+杀害
 
 #growth_sage
-aging sows becoming oldpigs
+母猪衰老成为老猪
 
 #growth_pnew
-births
+出生
 
 #growth_psick
-sickness
+疾病
 
 #growth_pmurder
-murders
+杀害
 
 #growth_page
-reaching adulthood
+达到成年
 
 #growth_onew
-aging population becoming oldpigs
+人口衰老成为老猪
 
 #growth_osick
-sickness
+疾病
 
 #growth_omurder
-murders
+杀害
 
 #growth_odeath
-natural deaths
+自然死亡
 
 #breed_chance
-breeding rate
+繁殖率
 
 #breed_chance_dscr
-The predicetd percentage of sows that will have piglets during the next generation.
+下一代将有仔猪的母猪的预测百分比。
 
 #breed_chance_c
-[x] sows will breed during the next generation
+[x]位母猪将会在下一代中繁殖
 
 #breed_base
-basic breeding rate
+基础繁殖率
 
 #breed_intel
-intelligence influence
+智力影响
 
 #breed_totpop
-total population effect
+总人口影响
 
 #breed_piglets
-piglets per sow influence
+每个仔猪对母猪的影响
 
 #breed_smcity
-small city boost
+小城市提升
 
 #breed_vit
-missing vital needs influence
+缺少生命需求影响
 
 #breed_fertil
-fertility
+繁殖力
 
 #breed_fertil_c
-the average number of piglets per litter
+每胎仔猪的平均数量
 
 #growth_genlen
-generation lenght
+世代长度
 
 #growth_genlen_c1
-The amount of time a generation of Porcos lasts. 
+每一代波尔存活的时间。
 
 #growth_genlen_c2
-Porcos live up to 5 generations: one as a piglet, 3 as adults and 1 as oldpigs. That makes their total lifespan last up to [x].
+波尔的寿命可达5代: 1代是小猪，3代是成年，1代是老猪。这使得它们的总寿命长达[x]。
 
 #growth_pergen
-next generation prediction
+下一代预测
 
 #growth_pergen_c
-predicted variation of the total population for the next generation
+预测下一代人口总数的变化
 
 #growth_c
-current variation rate of the total population
+总人口的当前变化率
 
 #ui_growthdel
-Estimated for the next generation...
+为下一代的预估…
 
 #troop_recruit
-recruit a new troop
+招募新部队
 
 #b_dplmode
-Strategic tool
+战略工具
 
 #bc_dplmode
-Go to deployment mode, where you can manage the deployment positions and orders of all your troops.
+进入部署模式，您可以管理您所有部队的部署位置和命令。
 
 #b_newform
-New formation
+新编队
 
 #b_newform_c1
-click to create a new formation of units
+单击创建一支新单位的编队
 
 #regctrl_b_h
-Housing
+住房
 
 #regctrl_b_p
-Production
+生产
 
 #regctrl_b_c
-Cultural
+文化
 
 #regctrl_b_m
-Military
+军事
 
 #regctrl_b_g
-Government
+政府
 
 #regctrl_b_i
-Infrastructures
+基础设施
 
 #forminv_add
-add resources
+添加资源
 
 #ui_recruit_new
-Creating a new troop
+创建一支新部队
 
 #ui_recruit_err1
-The status of this territory doesn't allow you to recruit armies in it.
+该领土的地位不允许您在这里招募军队。
 
 #ui_recruit_err2
-You are not allowed to recruit militias in this territory.
+您不能在这个地区招募民兵。
 
 #ui_recruit_err3
-You are not allowed to recruit armies in this territory.
+您不能在该地区上招募军队。
 
 #ui_recruit_rnfrc
-Reinforcing troop
+扩充部队
 
 #ui_recruit_dsbd
-Disbanding units
+解散单位
 
 #ui_recruit_trsfr
-Transfering units
+调动单位
 
 #ui_recruit_support_1
-Military support of this territory
+该地区的军事支持。
 
 #ui_recruit_support_2
-Max support:[x] units. 
+最大支持: [x]单位。
 
 #ui_recruit_support_3
-Currently supporting: [x] units.
+当前支持: [x]单位。
 
 #ui_recruit_pop_1
-Total active population: [x] porcos.
+总活跃人口: [x]波尔。
 
 #ui_recruit_pop_2
-Jobless: [x] porcos.
+无业: [x]波尔。
 
 #ui_recruit_resist
-You cannot recruit new units in a territory with resistance.
+您不能在有抵抗的地区招募新的单位。
 
 #ui_recruit_immo
-You cannot modify troops while this formation is immobilized.
+当这个编队被固定时，您不能调整部队。
 
 #ui_recruit_nothm
-You cannot recruit new units outside this formation's home territory ([x]).
+不能在这个编队的驻地之外招募新的单位([x])。
 
 #ui_recruit_cant
-You cannot recruit or disband troops in territories you do not control.
+您不能在您不控制的领土上招募或解散部队。
 
 #ui_recruit_ovrdrft
-Cannot recruit: support limit reached and overdraft is not allowed in this territory.
+不能招募: 已达支持上限，并且该地区不允许透支。
 
 #ui_recruit_noup
-( militias upkeep is lower as it doesnt include a soldier's salary )
+(民兵的维护费较低，因为它不包括士兵的工资)
 
 #ui_recruit_nopop
-( no population mobilized because it's a local militia )
+(没有动员民众因为它是当地的民兵)
 
 #ui_recruit_cost_1
-Cost to recruit one unit.
+招募一个单位的费用。
 
 #ui_recruit_cost_2
-Includes a training cost plus the price of its equipment.
+包括培训费用和装备价格。
 
 #ui_recruit_cost_3
-- Cost of training: [x]
+- 培训费用: [x]
 
 #ui_recruit_cost_4
-- Cost of equipment: [x]
+- 装备费用: [x]
 
 #ui_recruit_totcost
-Total recruitment cost
+招募总成本
 
 #ui_recruit_nopay
-You do not have enough funds to recruit these new units!
+您没有足够的资金来招募这些新单位!
 
 #ui_recruit_max_pop
-More population needed!
+需要更多的人口!
 
 #ui_recruit_max_ts
-Maximum size of this troop is [x] units.
+这支部队的最大规模是[x]个单位。
 
 #ui_recruit_max_res
-[x] needed!
+需要[x]!
 
 #ui_recruit_cost
-Cost per unit
+每个单位的成本
+
+#ui_recruit_into
+转入
+
+#ui_recruit_coincost
+费用
+
+#ui_recruit_coininc
+收入
 
 #ui_recruit_civ
-civilian units
+民用单位
 
 #ui_recruit_inf
-melee units
+近战单位
 
 #ui_recruit_arc
-range units
+范围单位
 
 #ui_recruit_cav
-mounted units
+骑乘单位
 
 #ui_recruit_full
-This formation is full!
+这个编队已经满了!
 
 #ui_recruit_totpop
-Total population available for this unit in the territory: [x] 
+这个地区可供该单位使用的总人口: [x]
 
 #ui_recruit_inact
-Currently inactives: [x]
+当前闲置者: [x]
 
 #ui_recruit_rcrt
-Recruit
+招募
 
 #ui_recruit_dsbd
-Disband
+遣散
 
 #ui_recruit_trsfr
-Transfer
+调动
 
 #ui_recruit_AP
-This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
+这个操作将花费[x]行动点数到编队(不过请注意即使编队为0 AP，您也可以继续操作)。
 
 #ui_statunit_t
-Toughness
+韧性
 
 #ui_statunit_t_dscr
-Toughness if the capacity of the unit to withstand damage when hit, determining it's chances to be actually wounded.
+韧性是指单位在被击中时承受伤害的能力，则决定其实际受伤的机会。
 
 #ui_statunit_a
-Armor
+护甲
 
 #ui_statunit_a_dscr
-Armor gives chances to deflect enemy hits.
+护甲提供机会转移敌人的攻击。
 
 #ui_statunit_m
-Movement
+移动
 
 #ui_statunit_m_dscr
-The movement speed of the unit. Also affects the movement speed of the formation in the worldmap (slowest unit defines worldmap speed).
+单位的移动速度。也会影响世界地图中编队的移动速度(最慢的单位定义世界地图速度)。
 
 #ui_statunit_mass
-Mass
+质量
 
 #ui_statunit_mass_dscr
-The mass of the unit combined with it's speed gives a damage bonus when charging.
+单位的质量和它的速度相结合，在装载时会给予伤害加成。
 
 #ui_statunit_ms
-Melee skill
+近战技能
 
 #ui_statunit_ms_dscr
-In melee, the ability to hit enemies and dodge their attacks depends on the difference of melee skill between the 2 opponents.
+在近战中，击中敌人并躲避攻击的能力取决于两个对手的近战技能的差异。
 
 #ui_statunit_md
-Melee damage
+近战伤害
 
 #ui_statunit_md_dscr
-Amount of damage inflicted to the enemy when hit.
+击中敌人时对其造成的伤害数值。
 
 #ui_statunit_rch
-Reach
+范围
 
 #ui_statunit_rch_dscr
-In melee, a higher reach than the opponent's gives a bonus to hit. Reach also gives a bonus to hit in melee against units of higher mass. 
+在近战中，比对手的范围更高范围会给命中带来额外的加成。在近战中对高质量单位的攻击也会增加命中加成。
 
 #ui_statunit_rs
-Ranged skill
+远程技能
 
 #ui_statunit_rs_dscr
-The ability to hit enemies in ranged combat.
+在远程战斗中打击敌人的能力。
 
 #ui_statunit_rd
-Range damage
+远程伤害
 
 #ui_statunit_rd_dscr
-Amount of damage inflicted to the enemy when hit.
+击中敌人时对其造成的伤害数值。
 
 #ui_statunit_rg
-Range
+范围
 
 #ui_statunit_rg_dscr
-For range units, the maximum distance (in terrain tiles) at which they can engage ennemies.
+对于远程单位，他们可以攻击到敌人的最大距离(在地形板块)。
 
 #ui_statunit_p
-Pillage
+掠夺
 
 #ui_statunit_p_dscr
-The pillage ability of the unit. Improves the speed and efficiency of pillaging ennemy buildings.
+这一单位的掠夺能力，提高掠夺敌人建筑的速度和效率。
 
 #ui_statunit_c
-Carrying capacity
+承载能力
 
 #ui_statunit_c_dscr
-The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units' carrying capacity.
+这个单位可以携带的资源数量。这一编队的库存容量是它所有单位承载能力的总和。
 
 #ui_troop_reinforce
-Reinforce
+补充
 
 #ui_troop_disband
-Disband
+解散
 
 #ui_troop_transfer
-Transfer
+调动
 
 #ui_trptrans_c
-Choose a destination troop
+选择目标部队
 
 #ui_formtrans_c
-Choose a destination formation
+选择目标编队
 
 #ui_formtrans_samform
-same formation
+相同的编队
 
 #ui_formtrans_newtr
-new troop
+新部队
 
 #ui_formtrans_unavail
-[unavailable]
+[不可用]
 
 #ui_foinv_forbid
-You're not allowed to access resources of this territory.
+您不被允许获取这个地区的资源。
 
 #ui_foinv_cant
-You can't take resources from a territory you do not control!
+您不能从一个您不控制的地区获取资源!
 
 #ui_foinv_empreg
-You can't load resources from an empty territory!
+您不能从一个空的地区装载资源!
 
 #ui_foinv_load
-Loading resources into formation's inventory
+将资源装载到编队库存中
 
 #ui_foinv_unload
-Unloading resources from formation's inventory
+从编队库存中卸载资源
 
 #ui_foinv_destr
-Destroy resrouces from formation's inventory
+从编队的库存中销毁资源
 
 #ui_foinv_choose
-Choose resource
+选择资源
 
 #ui_foinv_cost_c1
-Cost of purchasing these resources.
+购买这些资源的费用。
 
 #ui_foinv_cost_c2
-To load resources into a formation, the state has to take ownership of them and purchase them at their local price from their owners (except for already state-owned stocks).
+要将资源装载到一个编队中，国家必须拥有它们并以其当地价格从其所有者处购买(已有的国有库存除外)。
 
 #ui_foinv_cost_c3
-State-owned stocks: [x]
+国有库存: [x]
 
 #ui_foinv_cost_c4
-Purchasing [x] resources at local price of [y] = [z] coins + [v] from local waste.
+以[y]硬币的当地价格采购[x]个资源=[z]枚硬币+[v]来自当地浪费。
 
 #ui_foinv_loadfrm
-Where to load ressources from
+从哪里装载资源
 
 #ui_foinv_unlodto
-Where to unload ressources
+资源卸载到哪里
 
 #ui_foinv_target
-Territory's storages
+地区仓储
 
 #ui_reg_build_tertool
-terrain tools
+地形工具
 
 #ui_reg_build_tertool_c
-modify terrain heights
+修改地形高度
 
 #ui_tertool
-TERRAIN HEIGHT TOOL
+地形高度工具
 
 #ui_tertool_1
-Increase height: ctrl + mouse wheel up
+增加高度: Ctrl + 鼠标滚轮向上
 
 #ui_tertool_2
-Decrease height: ctrl + mouse wheel down
+降低高度: Ctrl + 鼠标滚轮向下
 
 #ui_tertool_3
-Cancel and close : right-click
+取消并关闭: 单击右键
 
 #ui_tertool_4
-Confirm work and close: space bar
+确认工作并关闭: 空格键
 
 #ui_tertool_add
-Adding
+增高
 
 #ui_tertool_dig
-Digging
+挖掘
 
 #ui_tertool_bal
-Imbalance
+失衡
 
 #ui_tertool_cost
-predicted cost in tools to complete this task
+完成此任务所需的工具预计成本。
 
 #ui_tertool_penal
-Imbalance cost penalty
+失衡费用惩罚
 
 #ui_tertool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and will be worked over time to match this preview, also consuming tool resources in the process.
+这仅显示修改的预览。如果您确认此任务，修改后的板块将被标记，并将随着时间的推移进行工作以匹配此预览，同时也会消耗过程中的工具资源。
 
 #ui_tertool_warn1
-This tile lacks support to reach this height!
+这个板块没有足够的支持来达到这个高度!
 
 #ui_tertool_warn2
-Some tiles lack support to reach the desired height!
+部分板块没有足够的支持来达到所需的高度!
 
 #ui_reg_build_plat
-Platforms
+平台
 
 #ui_reg_build_plat_c
-build platforms
+建筑平台
 
 #ui_plattool
-PLATFORM TOOL
+平台工具
 
 #ui_plattool_1
-Set platform height: ctrl + mouse wheel
+设置平台高度: Ctrl + 鼠标滚轮
 
 #ui_plattool_2
-Bridge mode: hold shift
+桥模式: 按住Shift
 
 #ui_plattool_3
-Cancel and close : right-click
+取消并关闭: 右键点击
 
 #ui_plattool_4
-Confirm work and close: space bar
+确认工作并关闭: 空格键
 
 #ui_plattool_cost
-predicted cost to build these platforms
+预计建造这些平台的费用
 
 #ui_plattool_dscr
-This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and platforms will be built over time to match this preview, also consuming resources in the process.
+这仅显示修改的预览。如果您确认此任务，修改后的板块将被标记，并将随着时间的推移将构建平台以匹配此预览，同时也会消耗过程中的工具资源。
 
 #ui_builderr_ter
-You cannot place this [x] here.
+您不能把这个[x]放置在这里。
 
 #ui_builderr_res
-You're missing [x] of [y] to build this [z].
+您缺少[x][y]来建造这个[z]。
 
 #ui_builderr_coin
-You do not have enough coins to build this [x].
+您没有足够的硬币来建造这个[x]。
 
 #ui_builderr_ptf
-This building can only be placed on platforms.
+这个建筑只能放置在平台上。
 
 #ui_builderr_onres
-This building can only be placed over a resource it can exploit.
+这个建筑只能放置在它可以利用的资源上。
 
 #ui_builderr_shore
-Needs to be placed on a shore of a minimum depth of [x].
+必须放置在最低深度为[x]的岸边。
 
 #ui_builderr_dist
-This building need to be at least [x] tiles away of any other building of the same type.
+这个建筑需要至少[x]板块远离任何其他相同类型的建筑。
 
 #ui_builderr_stairs
-Stairs can only be placed next to a tile of higher elevation.
+楼梯只能放置在较高高度的板块旁边。
 
 #ui_builderr_gate
-Gates can only be placed next to a high enough bridge-type platform.
+门只能放置在足够高的桥式平台旁边。
 
 #ui_builderr_water
-This building cannot be placed on water.
+这个建筑不能放置在水中。
 
 #ui_builderr_mustw
-This building must be placed on water of at least [x] of depth.
+这个建筑物必须放置在最低深度为[x]的水中。
 
 #ui_builderr_adjcnt
-Must be placed adjascent to it's owner.
+必须放置在其所有者的毗连。
 
 #ui_builderr_bldrs
-This building requires professional construction and you do not have any builders.
+这个建筑需要专业人员建造，您没有任何建筑工人。
 
 #ui_builderr_inaxss
-You cannot place this here because this area is currently inaccessible!
+您不能放置在这里，因为这个地方目前无法到达!
 
 #ui_builderr_noprd
-There is nothing to exploitable by this building here.
+这里不存在任何可供这个建筑利用的东西。
 
 #ui_builderr_maxan
-This building cannot have more than [x] [y].
+这个建筑不能拥有超过[x]的[y]。
 
 #ui_dpltool_needreg
-You need to be in the territory view to customize troop deployments!
+您需要在这个地区的视图中自定义部队的部署!
 
 #ui_dpltool
-STRATEGIC TOOL
+战略工具
 
 #ui_dpltool_dscr
-Design the defensive strategy of your formations in this territory, in case of battle.
+这个地区内规划您的编队的防御战略部署，以防战斗情况。
 
 #ui_dpltool_formtog
-(click to toggle deployment of this formation)
+(单击以切换此编队的部署)
 
 #ui_dpltool_done
-DONE
+完成
 
 #ui_dpltool_addz
-Add a new defensive zone
+增加一个新的防御区域
 
 #ui_dpltool_matt
-Pitch battle
+投入作战
 
 #ui_dpltool_matt_dscr
-The troop will redeploy to face any incoming threat and engage immediately in a pitch battle manner. The current deployment position of the troop has therefore no importance in this mode.
+这支部队将重新部署以面对任何即将到来的威胁并立即以一种投入作战的方式进行交战。因此，在这种模式下，部队的当前部署位置并不重要。
 
 #ui_dpltool_mdef
-Restricted engagement
+限制作战
 
 #ui_dpltool_mdef_dscr
-The troop will engage any ennemy entering within the specified range from it's original deployment position. The troop will move in any way necessary to do so.
+这支部队将与从其原始部署位置进入指定范围内的任何敌人交战。部队将以任何必要的方式行动。
 
 #ui_dpltool_mzon
-Defensive zone
+防守区域
 
 #ui_dpltool_mzon_dscr
-The troop remains in the selected defensive zone and prevents ennemies from entering it. The troop will move within the zone to face any incoming ennemy. Range units will engage any ennemy in range from the edge of the zone.
+这支部队将保持在选定的防御区域内并防止敌人进入。这支部队将在区域内移动，以面对任何进入的敌人。范围单位将与区域边缘的射程内的任何敌人交战。
 
 #ui_dpltool_mstand
-Stand ground
+原地驻守
 
 #ui_dpltool_mstand_dscr
-The troop will keep this position no matter what and only engage if there's immediate contact. If it's a range unit, it will fire any available target from this position.
+这支部队无论发生什么都将坚守阵地，只有在有直接接触的情况下才会交战。如果它是一个范围单位，它将从这个位置射击任何射程内的目标。
 
 #ui_dpltool_mbdg
-Defensive building
+防御建筑
 
 #ui_dpltool_mbdg_dscr
-This is a defensive building that may only engage enemies in range.
+这是一座防御性建筑，只能与射程内的敌人交战。
 
 #ui_dpltool_mult
-Multiple
+多重
 
 #ui_dpltool_mult_dscr
-The selected troops are currently in different modes. Select one to apply the same mode to all the selected troops.
+选定的部队当前处于不同的模式。选择一个以将相同的模式应用于所有选定的部队。
 
 #ui_dpltool_multsel
-multiple selection ([x] troops)
+多重选择([x]部队)
 
 #ui_dpltool_curmode
-set strategy of the selected troops
+设置所选部队的部署
 
 #ui_dpltool_needdefz
-You need to place at least one defensive zone before you can assign troops to it.
+您需要设置至少一个防御区域，然后才能向其派遣部队。
 
 #ui_dpltool_maxdefz
-You've reached the maximum number of defensive zones.
+您已达到防御区域的最大数量。
 
 #ui_dpltool_delzon
-Delete this zone
+删除此区域
 
 #bc_menuform_disb
-Disband formation
+解散编队
 
 #bc_menuform_movc
-Move camp position
+移动营地位置
 
 #bc_menuform_disb_1
-Are you sure you want to disband this formation ?
+您确定您要解散这个编队吗?
 
 #bc_menuform_disb_2
-If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
+如果您在一个您控制的领土上解散这个编队，部队的所有库存和装备都将在领土上卸载。所有的单位都将整合到其人口(如果不是本地的话)。
 
 #bc_menuform_disb_3
-You cannot disband in territories you do not control!
+您不能在您不控制的领土上解散!
+
+#bc_menuform_cantchtype
+该编队类型不能变更。
 
 #menuform_pwr
-This formation type costs [x] State Power to maintain.
+这类编队需要消耗[x]点国家权力来维持。
 
 #menuform_disb_err1
-You cannot disband this formation here!
+您不能在这里解散这个编队!
 
 #ui_wregown_smes
-send missive
+发送信件
 
 #ui_wregown_war
-declare war
+宣战
 
 #ui_confwar_title
-DECLARING WAR
+宣战
 
 #ui_confwar
-Are you sure you want to declar war ?
+您确定您要宣战吗?
 
 #contact_sending
-Sending message to [x] of [y]...
+发信息给[x]的[y]…
 
 #contact_messto
-Messaging [x] of [y]
+[x]的[y]消息
 
 #contact_pptreat
-Propose treaty
+提议条约
 
 #contact_pptreat_c
-Joins a treaty proposition to this message
+将一项条约提议加入此消息。
 
 #contact_messfrom
-Message from [x]
+来自[x]的消息
 
 #contact_greet
-Greetings,
+您好，
 
 #contact_renegoc
-Greetings, I wish to renegociate the terms of our current treaty and here is my offer.
+您好，我希望重新谈判我们目前条约的条款，这是我的提议。
 
 #contact_reply
-Reply to message
+回复消息
 
 #treated_off
-Available offers:
+可用提议:
 
 #treated_dem
-Available demands:
+可用要求:
 
 #treated_conf
-WARNING! This treaty is in conflict with some of your other treaties!
+警告!这项条约与您其它的一些条约有冲突!
 
 #treated_conf_c1
-On or more terms in this treaty is in conflict with engagements you made in other treaties. Signing this treaty means violating the conflicting treaties and will trigger breaking penalties on your side.
+这项条约中有关或更多条款与您在其他条约中订立的约定相冲突。签署这一条约意味着违反相互冲突的条约，并将触发您方违反条约的惩罚。
 
 #treated_conf_c2
-Conflicts with:
+与如下冲突:
 
 #treated_dur
-treaty duration
+条约期限:
 
 #treated_dur_c1
-after this duration, the treaty will end
+在此期限之后，这项条约将终止。
 
 #treated_dur_c2
-(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
+(有些条约条款是永久性的，即使条约的期限已经结束，这些条款仍然有效，但是可以在不受任何惩罚的情况下取消这些条款)
 
 #treated_new
-NEW TREATY
+新条约
 
 #treated_pers
-Remains effective even after treaty's duration but it can then be cancelled without breaking closes
+即使在条约期限满后仍然有效，但随后可以在不打破关闭的情况下取消该条约。
 
 #treated_inst
-Applied once, at the treaty's signature
+应用一次，在条约签署时。
 
 #treaterm_coins
-Coins
+硬币
 
 #treaterm_noidea
-No knowledges to share!
+没有知识可以分享!
 
 #treaterm_noreg
-No territories valid to transfer!
+没有有效的领土可以转让!
 
 #b_endtreaty
-Break treaty!
+破坏条约!
 
 #b_endtreaty_c1
-The treaty will instantly be terminated. Breaking closes on your side will apply.
+这项条约将立即终止。打破关闭在您的一方将适用。
 
 #b_endagreed
-Ask termination
+请求终止
 
 #b_endagreed_c1
-Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
+请求对方同意终止协议。如果被接受，则不适用打破关闭。
 
 #b_renegoc
-Renegociate
+重新协谈
 
 #b_renegoc_c1
-Send a renegociation proposal. If agreed by the other party, the current treaty will be updated.
+发送一个重新谈判的提议。如果对方同意，将更新当前的条约。
 
 #ui_treat_termsent
-Request to agree to terminate this treaty sent to the other party!
+请求同意终止本条约发送给对方!
 
 #b_trtcancelofr
-Cancel offer
+撤销提议
 
 #b_trtcancelofr_c1
-Your treaty proposition will be cancelled and the other party will no longer be able to accept it.
+您的条约提议将被取消，另一方将无法再接受它。
 
 #ui_treat_cancld
-Your treaty proposal was cancelled.
+您的条约提案已被取消。
 
 #ui_treat_eng1
-You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
+您目前接受了这项条约!如果您选择以任何方式结束它，您的打破条款惩罚将适用。您将支付[x]枚硬币(您GDP的[y]%)并失去[z]点荣誉。
 
 #ui_treat_eng2
-This will not trigger war with [x].
+这不会引发与[x]的战争。
 
 #ui_treat_eng3
-This will trigger war with [x].
+这将引发与[x]的战争。
 
 #ui_treat_end
-You are not engaged by this treaty and can choose to end it without penalty. All it's terms will cease to apply for both members. Are you sure you want to proceed ?
+您没有参与此条约，可以选择以不受处罚的方式结束它。它的所有条款将不再适用于两个成员。您确定您要继续吗?
 
 #menuevt_title
-EVENTS
+事件
 
 #menuevt_trpow
-% of state power transfered
+国家权力转移的百分比
 
 #menuevt_tax
-% of coins income transfered
+硬币收入转移的百分比
 
 #menuevt_invalid
-invalid input!
+无效输入!
 
 #menuevt_empty
-No events to display
+无事件可显示!
 
 #menuevt_new
-New events
+新事件
 
 #menuevt_all
-All events
+全部事件
 
 #menuevt_dipl
-Diplomatic
+外交
 
 #menuevt_mil
-Military
+军事
 
 #menuevt_state
-State
+国家
 
 #menuevt_nation
-Nation
+国民
 
 #menuevt_miss
-Missions
+任务
 
 #menuevt_ideas
-Ideas
+想法
 
 #menuevt_trade
-Trading
+贸易
 
 #menuevt_objv
-Objectives
+目标
 
 #menuevt_rewd
-Rewards
+奖励
 
 #menuevt_prgrs
-current
+目前
 
 #menuevt_comp
-completed!
+已完成
 
 #menuevt_incomp
-incomplete
+未完成
 
 #menuevt_trt_no
-Refuse
+拒绝
 
 #menuevt_trt_reneg
-Counter-offer
+还盘
 
 #menuevt_trt_yes
-Agree
+同意
 
 #ui_evt_goto
-GO TO REGION
+转到区域
 
 #ui_form_nb
-Number of units in this formation.
+这个编队中的单位数。
 
 #ui_form_threat
-Military strenght of this formation.
+这个编队的军事力量。
 
 #ui_form_threat
-Military strenght of this formation.
+这个编队的军事力量。
 
 #ui_form_AP_c1
-Action Points: [x]/100   ([y] [z])
+行动点数: [x]/100 ([y] [z])
 
 #ui_form_AP_c2
-Required to perform actions such as movements or attacks, these points are regained over time by encamping or by returning to their home region. Below 50 the formation is forced to encamp and cannot perform new actions.
+执行某些操作时需要到，如移动或攻击，这些点数可以通过扎营或返回到他们的家乡地区随着时间流逝重新获得。低于50的编队将被迫扎营，无法执行新的行动。
 
 #ui_form_AP_d1
-- Recovery[y]: [x]
+- 恢复[y]: [x]
 
 #ui_form_AP_enc
-encamped
+已扎营
 
 #ui_form_AP_hom
-at home
+在家乡
 
 #ui_form_AP_cit
-in city
+在城市
 
 #ui_form_AP_d2
-- Territory[y]: [x]
+- 领土[y]: [x]
 
 #ui_form_AP_enm
-enemy
+敌人
 
 #ui_form_AP_d3
-- Home distance ([y]%): [x]
+- 家距([y]%): [x]
 
 #ui_form_movcost
-Basic Action Points cost for moving one territory tile for this formation. This base cost is then combined with other contextual factors to determine the final cost of a movement. 
+基础行动点数费用为这个编队移动一个领土板块。然后将这个基础费用与其他相关因素结合起来以确定移动的最终费用。
 
 #ui_form_movcost_d1
-- Base cost: [x]
+- 基础成本: [x]
 
 #ui_form_movcost_d2
-- Units movement speed: [x]
+- 单位移动速度: [x]
 
 #ui_form_movcost_d3
-- Mounted units only ([y]%): [x]
+- 仅有骑乘单位([y]%): [x]
 
 #ui_form_movcost_d4
-- Army size ([y]%): [x]
+- 军队规模([y]%): [x]
 
 #ui_tile_movcost
-The movement cost of this territory is used to determine the Action Points cost of units moving through it.
+这个区域的移动费用用来确定通过该区域单位的行动点数费用。
 
 #ui_tile_movcost_d1
-- Terrain cost[y]: [x]
+- 地形成本[y]: [x]
 
 #ui_tile_movcost_d2
-- Diplomatic stance [y]: [x]
+- 外交立场[y]: [x]
 
 #ui_tile_movcost_ntr
-netural
+中立
 
 #ui_tile_movcost_own
-own territory
+自己领土
 
 #ui_tile_movcost_frd
-friendly territory
+友好领土
 
 #ui_tile_movcost_enm
-enemy territory
+敌对领土
 
 #ui_tile_movcost_set
-is settled
+已存定居
 
 #ui_form_mltreq
-Requires [x] Porcos in the territory.
+需要[x]个波尔在该领土。
 
 #ui_form_mltmiss
-Not enough population to fully pig-up this militia!
+没有足够的人口来充实这支民兵部队!
 
 #ui_form_diplo_p1
-This formation is peaceful towards us. 
+这支编队对我们是和平的。
 
 #ui_form_diplo_p2
-We can safely camp or pass through their territory.
+我们可以安全地扎营或通过他们的领土。
 
 #ui_form_diplo_h1
-This formation is hostile towards us! 
+这支编队对我们是敌对的!
 
 #ui_form_diplo_h2
-If this formation meets any of our units in a same territory or if we try to pass through their current location, it will trigger a battle.
+如果这支编队在同一区域遇到我们的任何一个单位或者如果我们试图通过他们当前的位置，它将引发一场战斗。
 
 #ui_form_sprt
-home
+家乡
 
 #ui_form_sprt_c1
-The home city supporting these units: Porcos grow old and need to be replaced by new ones coming from the home city.
+支持这些单位的家乡城市: 波尔逐渐衰老并需要来自家乡城市的一些人来替换。
 
 #ui_form_sprt_c2
-This formation currently requires [x] porcos per generation from it's home to be maintained.
+这个编队目前需要从它的家乡每世代[x]名波尔来维持。
 
 #ui_form_sethome
-Set current territory as home
+设置当前地区为家乡
 
 #ui_form_invhom_1
-You cannot set empty territories as a home: it needs to be a territory you own.
+您不能设置空白领土作为家: 它必须成为您自己的领地。
 
 #ui_form_invhom_2
-You cannot set foreign territories as a home: it needs to be a territory you own.
+您不能设置外国领土作为家: 它必须成为您自己的领地。
 
 #ui_form_upkp
-Upkeep of this formation
+这支编队的维护
 
 #ui_form_upkp1
-(equipment + soldier's salary)
+(装备 + 士兵的工资)
 
 #ui_form_upkp2
-(lower upkeep for militias: equiment only)
+(民兵的维护较低: 仅装备)
 
 #ui_conf_sure
-Are you sure?
+您确定吗?
 
 #ui_conf_renonce
-WARNING: You will no longer control this territory: left on it's own, this territory will fall into anarchy.
+警告: 您将不再控制这片领土: 如果任其自生自灭，这片领土将陷入无政府状态。
 
 #ui_conf_abandon
-The territory will be cleared. All it's population will be transfered in one of more formations, taking all the resources they can carry with them.
+这片领土将被移除。它所有的人口将被转移到一支更大的编队，带走他们可以携带的所有资源。
 
 #ui_conf_capital
-Do you really want to set this territory as your new capital ? 
+您真的要把这个地区作为您的新首都吗?
 
 #b_renonce
-Renounce control of this territory
+放弃该领土的控制
 
 #err_reg_rnnc1
-This territory cannot be renounced while there is a battle taking place in it.
+这片领土正在发生战斗，无法放弃这片领土。
 
 #err_reg_rnnc2
-This territory cannot be renounced while it has an active resistance movement.
+这片领土正在发生活跃的抵抗运动，无法放弃这片领土。
 
 #err_reg_rnnc3
-The current status of this territory doesn't allow you to renounce to its control.
+这片领土当前的地位不允许您放弃对它的控制。
 
 #b_abandon
-Evacuate this territory
+撤离该领土
 
 #err_reg_abdn1
-This territory cannot be evacutated while there is a battle taking place in it.
+这片领土正在发生战斗，无法撤离这片领土。
 
 #err_reg_abdn2
-This territory cannot be evacutated because it's loyalty is too low.
+这片领土的忠诚度太低了，因无法撤离这片领土。
 
 #err_reg_abdn3
-This territory cannot be evacutated while it has an active resistance movement.
+这片领土正在发生活跃的抵抗运动，无法撤离这片领土。
 
 #err_reg_abdn4
-The current status of this territory doesn't allow you to order its evacuation.
+这片领土当前的地位不允许您下令撤离。
 
 #b_regclaim
-Claim territory
+声称领地
 
 #b_regunclaim_1
-You can unclaim this territory: it will become free of any ownership.
+您可以放弃这片领土: 它将不再拥有任何所有权。
 
 #b_regunclaim_2
-WARNING: By willingly revoking this claim you will lose 2 of Honor!
+警告: 通过自愿撤销此声称您将失去2点荣誉!
 
 #regclaim_title
-Claiming territory...
+声称领土…
 
 #regclaim_txt
-You can claim this territory and attach it to one of your regions. This will cost Administration to the region's main city. If your city runs out of Administration, you will automatically lose your claims (note that unclaiming territories comes with a small Honor penalty).
+您可以声称这片领土并将它附加到您的一个地区。这将使该地区的主要城市承担行政管理费用。如果您的城市失去行政管理，您将自动失去您的声称(注意: 解除这片领土将带来一个小的荣誉惩罚)。
 
 #regclaim_par
-Parent territory
+父本领土
 
 #regclaim_err1
-You cannot claim this territory because its currently occupied by foreign units!
+您不能声称这片领土因为它当前被外国单位占据!
 
 #regclaim_err2
-Insufficient Administration! You cannot claim any new territories with this region.
+行政管理不足!您不能声称任何新领土和这片区域。
 
 #regclaim_err3
-Colonies cannot claim new territories!
+殖民地不能声称新领土!
 
 #regclaim_acst
-Administration cost
+行政管理费用
 
 #regclaim_acst_c1
-Maintaining this claim will cost [x] of Administration from the parent territory.
+维持这一声称将花费来自父本领土[x]的行政管理费用。
 
 #b_movcapit
-Set this territory as capital
+设置该领土为首都
 
 #b_actv_trt_perm
-permanent engagement
+永久约定
 
 #b_actv_trt_engov
-engagement over
+约定结束
 
 #b_actv_trt_eng
-engaged for
+约定为
 
 #b_actv_trt_pend1
-pending: waiting for your reply...
+待定: 等待您的回复…
 
 #b_actv_trt_pend2
-pending: waiting for other's response...
+待定: 等待其他人的回应…
 
 #b_actv_trt_m1
-You
+您
 
 #b_actv_trt_m2
-Other
+其他人
 
 #b_actv_trt_cancel
-cancel treaty
+取消条约
 
 #ui_wrldmov_er1
-Insufficient Action Points to perform this action yet!
+还没有足够的行动点数来执行此操作!
 
 #ui_wrldmov_er2
-You cannot move here.
+您不能搬迁到这里来。
 
 #ui_wrldmov_er3
-This formation is currently immmobilized and cannot move!
+这个编队当前已被固定，不能移动!
 
 #ui_wrldmov_er4
-You cannot move here because you have no right of passage with the owner of this territory!
+您不能搬迁到这里来，因为您没有通过这片领土的权利!
 
 #ui_wrldmov_er5
-This formation cannot break camp until it has at least 50 Action Points.
+这个编队不能中断扎营，直到它至少有50行动点数时。
+
+#ui_wrldmov_erxplr
+这个编队不能探索新领土。
 
 #formimob_er1
-You cannot give any orders to this formation because its currently immobilized!
+您不能给这个编队下任何命令，因为它当前是被固定的!
 
 #ui_bdg_nbprod
-Number of workers that are assigned to production.
+被分配到生产的工人数量。
 
 #ui_bdg_nbdstb
-Number of workers assigned to selling the produced goods of this building.
+这个建筑分配到产品销售的工人数量。
 
 #ui_bdg_nbrsrch
-Number of workers busy with current research projects.
+忙于目前研究项目的工人数量。
 
 #ui_bdg_nbrsrch2
-[x] [y] out of [z] in this territory are currently assigned to research projects.
+[x]个[y]由于[z]被分配给这一地区当前的研究项目。
 
 #ui_bdg_ef_dscr
-Current efficiency of workers, affecting the total workforce of the building.
+当前工人的效率，影响这个建筑的总劳动力。
 
 #ui_bdg_wf_dscr
-Total amount of work that this building can currently get done.
+这个建筑当前可以完成的总工作量。
 
 #ui_bdg_wf_dscr2
-[x] producing workers * [y] efficiency = [z] of total workforce
+[x]生产工人*[y]效率=[z]总劳动力
 
 #ui_bdg_wl_dscr
-How much this building contributes to the total territory's wealth.
+这个建筑提供多少领土的总财富。
 
 #ui_bdg_wl_dscr2
-[x] of producing workforce * [y] = [z] of additionnal wealth
+[x]生产劳动力*[y]=[z]额外财富
 
 #ui_bdg_wu_dscr
-How much of the available workforce is currently being used and busy producing.
+目前有多少可用的劳动力正在被使用和忙于生产。
 
 #ui_bdg_wu_dscr2
-If below 100%, it means the workers are not working at their full capacity.
+如果低于100%，那就意味着工人们没有满负荷工作。
 
 #ui_bdg_ef1_dscr
-The base efficiency of the building itself.
+这个建筑本身的基础效率。
 
 #ui_bdg_ef1_dscr2
-Can be increased by upgrading the building, unlocked by technologies.
+可以通过升级这个建筑来增加，通过解锁技术。
 
 #ui_bdg_ef2_dscr
-Total effect of the state on this building's efficiency.
+国家的整体效应对这个建筑效率的影响。
 
 #ui_bdg_ef2_dscr2
-Many state policies affect the efficiency of buildings.
+许多国家政策影响这个建筑物的效率。
 
 #ui_bdg_ef3_dscr
-The building's placement effect on it's efficiency.
+这个建筑的布局对他的效率的影响。
 
 #ui_bdg_ef3_dscr2
-Road connection and proximity of certain other buildings can affect it's efficieny [not implemented yet].
+道路的连接和某些其他建筑的距离可能影响它的效率[尚未实现]。
 
 #ui_bdg_ef4_dscr
-If unprofitable for its workers, efficiency of the building is progressively reduced.
+如果它的工人无利可图的话，这个建筑的效率就会逐步降低。
 
 #ui_bdg_proddet
-PRODUCTION DETAILS
+生产详情
 
 #ui_bdg_pdet_1
-sold directly
+直接出售
 
 #ui_bdg_pdet_1_c
-[x]% of the production is put on the market directly by the workers of this building.
+[x]%的产品是由这个建筑的工人直接投放到市场的。
 
 #ui_bdg_pdet_s
-[x]% of it ([y]) is successfuly sold at a price of [z] per unit (unsold stocks are lost).
+[x]%的这个([y])是按每件[z]的价格成功售出(未售出的存货即告损失)。
 
 #ui_bdg_pdet_2
-sold via traders
+通过贸易商出售
 
 #ui_bdg_pdet_2_c
-[x]% of the production is put on the market via traders who keep a share of the benefits.
+[x]%的产品是通过交易员投放到市场上，交易员从中分得一部分利润。
 
 #ui_bdg_pdet_3
-sold to producers
+出售给生产商
 
 #ui_bdg_pdet_3_c
-[x]% of the production is sold to other industries or services.
+[x]%的产品是出售给其他行业或服务。
 
 #ui_bdg_pdet_4
-exported
+已出口
 
 #ui_bdg_pdet_4_c
-[x]% of the production is exported to foreign markets
+[x]%的产品是出口到国外市场。
 
 #ui_bdg_pdet_5
-state sales
+国家出售
 
 #ui_bdg_pdet_5_c1
-Incomes from sales to the state (you) are buffered and slowly transfered back to the workers, generating income for a longer time.
+从销售到国家(您)的收入被缓冲，并慢慢地转移回给工人，产生收入的时间更长。
 
 #ui_bdg_pdet_5_c2
-From auto-purchases: [x] coins ([y] resources).
+来自自动采购: [x]硬币([y]资源)。
 
 #ui_bdg_pdet_5_c3
-From past purchases: [x] coins.
+来自超出采购: [x]硬币。
 
 #ui_bdg_pdet_6
-production cost
+生产成本
 
 #ui_bdg_pdet_6_c
-Expenses to buy required materials for the production.
+购买这一生产所需材料的支出。
 
 #ui_bdg_pdet_7
-total income
+总收入
 
 #ui_bdg_pdet_7_c
-The total gross income (before taxes) for this production.
+这一生产的总共总收入(税前)。
 
 #ui_bdgbudget_1
-sales
+出售
 
 #ui_bdgbudget_1_c
-Total raw income from all sales made by the building.
+这个建筑所有销售所得的全部原始收入。
 
 #ui_bdgbudget_2
-production cost
+生产成本
 
 #ui_bdgbudget_2_c
-The cost of all required materials for production, if any.
+生产所需的所有材料的费用，如果有的话。
 
 #ui_bdgbudget_3
-taxes
+税收
 
 #ui_bdgbudget_3_c
-Amount of income taxed by the state (you). This is the actual income this building's activity generates for you.
+由这个国家(您)对收入数额的税收。这是这个建筑的活动为您带来的实际收入。
 
 #ui_bdgbudget_4
-worker's income
+工人收入
 
 #ui_bdgbudget_4_c
-The net income left after all costs and taxes, shared between all the workers employed by this building.
+扣除所有费用和税收后的净收入，由这个建筑所雇用的所有工人分摊。
 
 #ui_bdgbudget_5
-producer's share
+生产者的份额
 
 #ui_bdgbudget_5_c
-The share of the sales that goes back to the producers of the resources: merchants only pay them depending on the sales and unsold stocks are not paid.
+出售的份额回到了资源生产者手中: 商人只根据出售情况支付，未售出的库存不支付。
 
 #ui_bdgind_nbprd1
-The current number of productions, depending on the buidlings's workforce and required materials availablity.
+当前的生产数量，取决于建筑的劳动力和所需材料的可用性。
 
 #ui_bdgind_nbprd2
-Each production generates [x] units of [y] and require [z] of workforce. 
+每个产品生产[x]的[y]并需要[z]劳动力。
 
 #ui_bdgind_prcnt1
-The current production rate, depending of all the required material's availabilities.
+当前的生产速度，取决于所有所需材料的可用性。
 
 #ui_bdgind_prcnt2
-[x]% of the total workforce of [y] is working = [z] of productive workforce.
+[y]的总劳动力中有[x]%正在工作=[z]的生产劳动力。
 
 #ui_bdgind_curprod
-Currently producing [x] units of [y] [z].
+当前[z]生产[x]单位的[y]。
 
 #ui_bdgind_curcons
-Currently consumming [x] units of [y] [z] for this production.
+当前[z]正在消耗[x]单位的[y]用于这个生产。
 
 #ui_bdgind_mat1
-Set to use [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+设置使用[x]作为生产[y]的材料。对这个材料的需求已达到[z]%的满足。
 
 #ui_bdgind_mat2
-Automatically using [x] as a material to produce [y]. The need for this material is satisfied at [z]%. 
+自动使用[x]作为生产[y]的材料。对这个材料的需求已达到[z]%的满足。
 
 #ui_bdgind_recip
-It takes [x] of [y] for every unit of [z] produced.
+生产的每个[z]需要[x]单位的[y]。
 
 #ui_bdgind_byprod
-Producing [x] [y] as byproducts.
+生产[x][y]作为副产品。
 
 #ui_bdgcstr_title
-In construction...
+正在建设中…
 
 #ui_bdgcstr_self
-Self-constructing
+自行构建
 
 #ui_bdgcstr_self_c
-Some simple buildings can be built without professional builders, and will self construct even without any.
+一些简单的建筑可以在没有专业建造者的情况下建造，甚至不需要任何专业建造者也会自行建造。
 
 #ui_bdgcstr_bdrs
-Builders
+建筑工人
 
 #ui_bdgcstr_bdrs_c
-The amount of construction work this building is currently getting from from professional builders.
+这个建筑当前的建筑工程量是来自专业建筑工人。
 
 #ui_regres_inv
-Inventory
+库存清单
 
 #ui_regres_inv_c
-Listing all the resources and services of this territory.
+罗列出这一地区的所有资源和服务。
 
 #ui_regres_mtrd
-Market trades
+贸易市场
 
 #ui_regres_mtrd_c
-To buy and sell stocks of resources
+购买和出售库存资源。
 
 #ui_regres_trt
-Trade routes
+贸易路线
 
 #ui_regres_trt_c
-To transfer a constant flux of resources between territories.
+在各领土之间转移源源不断的资源。
 
 #ui_regres_addrt
-New trade route
+新贸易路线
 
 #ui_regres_buysell
-Buy and sell
+购买和出售
 
 #ui_regres_totimp
-Importations
+进口
 
 #ui_regres_totimp_c1
-Imported goods are bought by you at their trade route price and are then sold in the territory at their local price.
+进口的货物由您按其贸易路线价格购买，然后在该地区按其当地价格销售。
 
 #ui_regres_totimp_c2
-Purchasing cost from the trade route:
+来自贸易路线的采购费用:
 
 #ui_regres_totimp_c3
-Local sales:
+本地销售:
 
 #ui_regres_totimp_c4
-Purchased cargo:
+已购货物:
 
 #ui_regres_totexp
-Exportations
+出口
 
 #ui_regres_totexp_c1
-Exported goods are bought by you at their local price from the producers of this territory and are then sold at their trade route price to the importer.
+出口的货物由您按当地价格从该地区的生产商处购买，然后以其贸易路线价格卖给进口商。
 
 #ui_regres_totexp_c2
-Purchasing cost from local producers:
+来自当地生产商采购费用:
 
 #ui_regres_totexp_c3
-Income from trade route sales:
+来自贸易路线出售的收入:
 
 #ui_regres_totexp_c4
-Sold cargo:
+售出货物:
 
 #ui_regres_addofr
-Add offer
+添加报价
 
 #ui_regres_trsf
-TRANSFER
+转移
 
 #ui_regres_imp
-IMPORT
+进口
 
 #ui_regres_exp
-EXPORT
+出口
 
 #ui_regres_buy
-BUY
+购买
 
 #ui_regres_sell
-SELL
+出售
 
 #ui_regres_imps
-Current importations
+当前进口
 
 #ui_regres_exps
-Current exportations
+当前出口
 
 #ui_regres_oper
-Operated trade routes
+经营贸易路线
 
 #ui_regres_makeav
-available to trade network
+可供贸易网络使用
 
 #ui_regres_makeav_c
-If enabled, the cargo service of this territory will also be available for rent to everyone in your trading network.
+如果启用，您的贸易网络中的每个人都可以租用本区域的货运服务。
 
 #ui_regres_tax
-tax
+税收
 
 #ui_regres_tax_c
-Taxing a percentage of the total value of all goods of every trade route operated by this city.
+按本市经营各条贸易路线货物总值的一定比例税收。
 
 #ui_regres_pndng
-Our offers
+我们的报价
 
 #ui_regres_prod
-Production
+产量
 
 #ui_regres_bal
-In stock
+已有库存
 
 #ui_regres_lprc
-Local price
+当地价格
 
 #ui_regres_atprc
-at price
+以价格
 
 #ui_regres_noinp
-[type a resource name]
+[输入资源名称]
 
 #ui_newofr_noprod
-You cannot export this resource because you do not have any production or stocks of it.
+您无法出口这一资源，因为您没有这一资源的任何生产或库存。
 
 #ui_newofr_notrd
-Not enough trading service to create this offer!
+没有足够的贸易服务来创建此报价!
 
 #ui_newofr_sent
-New trade route offer sent!
+发送新的贸易路线报价!
 
 #ui_regres_pndng2
-Our current trade-route offers:
+我们当前的贸易路线报价:
 
 #ui_regres_off1
-Available offers in our trading network:
+在我们贸易网络中可用的报价:
 
 #ui_regres_off2
-Competing offers in our trading network:
+在我们贸易网络中竞争的报价:
 
 #ui_regres_cancel
-Cancel trade offer
+取消贸易报价
 
 #button_trtimp_c1
-You are currently importing [x] of [y] from [z] into this territory for a total of [v] coins.
+您目前正从[z]进口[x]单位[y]到该地区，共计[v]枚硬币。
 
 #button_trtexp_c1
-You are currently exporting [x] of [y] to [z] for a total of [v] coins.
+您目前正在在向[z]出口[x]单位[y]，共计[v]枚硬币。
 
 #button_trtcargo
-Requiring [x] of Cargo, operated by [y]. 
+需要[x]货运量，由[y]经营。
 
 #ui_ofrcanceled
-Trade offer canceled!
+贸易报价已取消!
 
 #ui_troute_opnw
-Opening new trade route...
+开辟新贸易路线…
 
 #ui_troute_optr
-Trade route operator
+贸易路线经营商
 
 #ui_troute_dscr
-A trade route transfers a constant flux of resources between cities. It requires a cargo service to operate. 
+一条贸易路线在城市之间传递着不断流动的资源。它需要货运服务来运作。
 
 #ui_troute_opdscr1
-The trade route operator is the city dealing with the transportation of the goods.
+贸易路线经营商是处理这些城市的货物运输。
 
 #ui_troute_opdscr2
-It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
+它可以在开放贸易路线的城市或任何在您贸易网络中的其他城市，这些城市提供了一些货运服务。
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+货运的费用是贸易路线距离的指数关系，选择位于贸易路线中间的第三方城市作为经营商，将大大降低货运费用。
 
 #ui_troute_vol
-Cargo volume
+货运量
 
 #ui_troute_cargorq
-CARGO REQUIRED
+所需货运量
 
 #ui_troute_cargorq_c1
-The amount of cargo service needed to operate this trade route.
+经营这条贸易路线所需的货运服务数量。
 
 #ui_troute_cargorq_c2
-distance factor * cargo volume
+距离因素 * 货运量
 
 #ui_troute_distf
-Distance factor
+距离因素
 
 #ui_troute_distf_c1
-This factor depends of the longest of the 2 distances between the operator and each one of the trade route's destinations. 
+这一因素取决于经营商与每一条贸易路线的目的地之间的两段距离中最长的一段。
 
 #ui_troute_distf_c2
-longest distance from operator
+最长距离来自经营商
 
 #ui_troute_opetax
-OPERATOR TAX
+经营商税收
 
 #ui_troute_opetax_c1
-A trade route operator may also tax a percentage of the value of all goods transiting through their territory.
+贸易路线经营商也可以对其过境的所有货运价值的一定比例征税。
 
 #ui_troute_maxava
-Cargo available
+可用货运
 
 #ui_troute_maxava_c1
-The amount of cargo service currently available in the operator.
+在这一经营商的可用货运服务数量。
 
 #ui_troute_edit
-Editing existing trade route...
+编辑现有贸易路线…
 
 #ui_troute_apl1
-Open trade route
+开放贸易路线
 
 #ui_troute_apl2
-Apply
+应用
 
 #ui_troute_cgcost_c1
-Total cost of cargo using this territory as the trade route operator.
+使用这个地区的贸易路线经营商的货运总费用。
 
 #ui_troute_totcost
-TOTAL TRADE ROUTE COST
+贸易路线总费用
 
 #ui_troute_totcost_c1
-The total cost of maintaining this trade route.
+维持这条贸易路线的总费用。
 
 #ui_troute_bdgtdscr1
-The state pays and owns the entirety of the imported goods from the exporting city, regardless of their later use.
+从出口城市进口的货物都由国家负担并拥有，不管它们以后是否使用。
 
 #ui_troute_bdgtdscr2
-All the later incomes made locally from the selling of these goods are then entirely for the state.
+后期在当地出售这些商品所获得的所有收入全部归国家所有。
 
 #ui_troute_bgc
-goods cost
+货物费用
 
 #ui_troute_bgc_c1
-The cost of purchasing goods to the exporting city.
+向出口城市采购货物的费用。
 
 #ui_troute_bcc
-cargo cost
+货运费用
 
 #ui_troute_bcc_c1
-The cost of the cargo service purchased to the trade route operator.
+向贸易路线经营商购买货运服务的费用。
 
 #ui_troute_bt
-operator tax
+经营商税收
 
 #ui_troute_bt_c1
-The amount paid to the operator taxing goods transiting through their city.
+向经营商支付的货物在其所在城市过境税收金额。
 
 #ui_troute_open
-Opened a new trade route!
+开辟了一条新贸易路线!
 
 #ui_troute_err1
-Cannot open trade route because the selected operator cannot provide the required cargo service!
+无法开通贸易路线，因为所选经营商无法提供所需的货运服务!
 
 #ui_troute_close
-Close this trade route
+关闭这条贸易路线
 
 #menu_nfrm_title
-Creating a new formation...
+创建一支新编队…
 
 #menu_nfrm_fname
-Formation's name
+编队的名字
 
 #menu_nfrm_chtp
-Select a type of formation
+选择一个编队的类型
 
 #menu_nfrm_type1
-Army
+军队
 
 #menu_nfrm_t1_dscr1
-An army is composed by permanently mobilized units, costing upkeep.
+一支军队是由永久调动的编队组成的，费用很高。
 
 #menu_nfrm_t1_dscr2
-They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+他们需要他们的家乡不断的支持以替换衰老的波尔，招募新单位并调回该领土内。
 
 #menu_nfrm_t1_dscr3
-Armies can move into other territories and their presence increases state authority.
+军队可以移动到其它领土并且他们的存在增加了国家的权威。
 
 #menu_nfrm_type2
-Militia
+民兵
 
 #menu_nfrm_t2_dscr1
-A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+民兵是由这一领土本身的人口组成，只有在领土受到攻击时才调动保卫这片领土。
 
 #menu_nfrm_t2_dscr2
-Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+民兵不会永久调动波尔，这让他们可以保住一份工作并且它们的维护费较低，因为它的士兵不需要一份工资。
 
 #menu_nfrm_t2_dscr3
-However , the militia cannot move to other territory s and decreases the state authority.
+然而，民兵不能移动到其它的领土而且还降低了国家的权威。
 
 #menu_nfrm_type3
-National army
+国民军队
 
 #menu_nfrm_t3_1
-A national army is similar to a regular army except that its also controllable by any of your superiors in your Nation's hierarchy, allowing you to delegate its control in case of national wars and operations.
+一支国民军队类似于正规军，只是它也可以由您在您国家的等级体系中的上级控制，这样您就可以在国家战争和行动中控制它们。
 
 #menu_nfrm_t3_2
-National armies also give their authority bonus to all regions of the Nation, even if its owned by a different character.
+国民军队还给予他们的权威加成给国家的所有地区，即使它属于不同的角色。
 
 #menu_nfrm_t3_3
-Note that you can convert a regular army into a National one at will and vice-versa.
+注意: 您可以随意将任意正规军转换为一支国民军队，反过来也是一样。
+
+#form_atfct
+人工品
+
+#form_atfct_dscr_1
+这是一件特殊的工艺品。作为一个无生命的物体，它属于当前控制它的人。它不能被摧毁、招募或转移到编队中。
+
+#form_atfct_dscr_2
+它的所有权可以由您在同一地区的任何一个编队提出声称，但只有在当前的拥有者没有自己的“守卫”编队的情况下才有可能。
+
+#form_atfct_dscr_3
+所有权也可能以同样的方式丧失。
 
 #menu_trbuy_title
-Buying resource...
+购买资源…
 
 #menu_trbuy_buy
-BUY
+购买
 
 #menu_trbuy_cost
-Purchase cost
+采购费用
 
 #menu_trbuy_bght
-Bought [x] of [y] for [z] coins!
+购买[x][y]为[z]硬币!
 
 #ui_evidea_yes
-<<Yes, let's see what they need for this project!>>
+<<是的，让我们看看他们这个项目需要什么!>>
 
 #ui_evidea_no
-<<This is a waste of time.>>
+<<这是在浪费时间。>>
 
 #menu_bdg_up_err1
-You're missing [x] of [y] to upgrade this building to [z].
+您缺少[x][y]来升级这个建筑成[z]。
 
 #menu_bdg_up_err2
-You do not have enough coins to upgrade this building to [x].
+您没有足够的硬币升级这个建筑成[x]。
 
 #menu_bdg_up_err3
-This upgrade requires professionnal construction and you do not have any builders!
+这个升级需要专业的施工而您没有任何的建筑工人!
 
 #menu_tch_curknw
-Current knowledges
+当前知识
 
 #menu_tch_curuse
-Knowledge use
+知识使用
 
 #menu_tch_curuse_c1
-Your societe currently has [x] of knowledges, and a capacity to store [y].
+您的社会当前拥有[x]点知识，并且有能力储存[y]点。
 
 #menu_tch_curuse_c2
-You will lose knowledges if your storage capacity gets lower than your current knowledges.
+如果您的贮存能力低于您当前的知识，您将会失去知识。
 
 #menu_tch_str_cult
-Culture
+文化
 
 #menu_tch_str_cult1
-Culture gives you knowledge storage capacity, proportionally to your total culture.
+文化给予您知识的贮存能力，与您的总文化成正比。
 
 #menu_tch_str_lbr
-Libraries
+图书馆
 
 #menu_tch_str_lbr1
-Each library building in service increases your knowledge storage capacity.
+每个在服务的图书馆建筑都会增加您知识的贮存能力。
 
 #menu_tch_prjcts
-Projects
+项目
 
 #menu_tch_prj_cur
-Current Projects
+当前项目
 
 #menu_tch_prj_avail
-Available Projects
+可用项目
 
 #menu_tch_prj_dnd
-Rejected Projects
+已弃项目
 
 #menu_tch_prj_rwd
-Project rewards:
+项目奖励:
 
 #menu_prj_inpgr
-In progress...
+进行中…
 
 #menu_prj_new
-New project...
+新项目…
 
 #menu_prj_req
-Starting requirements:
+启动需求:
 
 #menu_prj_reqkn
-You need [x] free space of knowledges to launch this project.
+您需要[x]点免费的知识空间来启动这个项目。
 
 #menu_prj_rcoin1
-Project base cost: [x] coins
+项目基础费用: [x]硬币
 
 #menu_prj_rcoin2
-Required  materials cost: [x] coins
+所需材料费用: [x]硬币
 
 #menu_prj_rmat1
-Needs [x] [y] from [z]
+需要[x][y]来自[z]
 
 #menu_prj_rmat2
-(click to select a different territory)
+(单击以选择不同的地区)
 
 #menu_prj_start
-START PROJECT
+开始项目
 
 #menu_prj_diff
-Difficulty
+难度
 
 #menu_prj_work
-Research
+研究量
 
 #menu_prj_rschrs
-Researchers
+研究员
 
 #menu_prj_rwk
-Work
+运作
 
 #menu_prj_rwk_c1
-All the assigned researchers currently generate [x] research points [y].
+当前所有指派的研究员[y]生成[x]研究点数。
 
 #menu_prj_rwk_c2
-* from [x] main researchers: [y] research points.
+* 来自[x]位主要研究员: [y]研究点数。
 
 #menu_prj_rwk_c3
-* from [x] extra researchers: [y] research points.
+* 来自[x]位额外研究员: [y]研究点数。
 
 #menu_prj_nb1
-This project ideally requires up to [x] researchers.
+这个项目理想情况下需要多达[x]名研究员。
 
 #menu_prj_nb2
-While you can assign extra researchers beyond this number, their contributions to the project are greatly reduced.
+虽然您可以指派超过这个数量的额外研究员，但他们对这个项目的贡献微乎其微。
 
 #menu_prj_rtyp
-This project requires [x] as researchers.
+这个项目需要[x]作为研究员。
 
 #menu_prj_bdgt_r
-Researchers
+研究员
 
 #menu_prj_bdgt_p
-Project
+项目
 
 #menu_prj_bdgt
-Budget
+预算
 
 #menu_prj_bdgt_c1
-The total maintenance cost for this project, to be paid continuously until the project is completed.
+这个项目的总维持费用，持续支付直到项目完成。
 
 #menu_prj_norsch
-Assign researchers to the project to be able to start it!
+指派研究人员到这个项目，以便能够启动它!
 
 #menu_prj_pgrss
-This project is [x]% completed
+这个项目已完成了[x]%。
 
 #menu_prj_addnewr
-click to assign new researchers to the project
+单击指派新研究员到这个项目。
 
 #menu_prj_br_c1
-[x] researchers from [y] are currently assigned to this project and produce [z] research points to complete it.
+来自[y]的[x]研究人员目前被指派到这个项目中，并产生[z]点研究点数来完成它。
 
 #menu_prj_br_c2
-( click to edit the number of assigned researchers from this territory )
+(单击此处可编辑来自此地区的指派研究人员的数量)
 
 #menu_prj_none1
-You don't have any projects available!
+您没有任何可用的项目!
 
 #menu_prj_none2
-Projects are unlocked by "Ideas": events that are triggered by your population. Improving the intelligence and life quality of your population is generally a good way to increase odds of getting new ideas.
+项目是由“想法”解锁: 是由您的人民触发的事件。提高人民的智力和生活质量通常是增加获得新想法几率的好方法。
 
 #menu_prj_none3
-Projects then require researchers and time as well as materials and buget. Once completed, if succesful, they give rewards such as unlocking a new "Knowledge".
+然后项目需要研究员、时间以及材料和预算。一旦完成，如果成功，他们会给予奖励，例如: 解锁一个新的“知识”。
 
 #menu_rschr_title
-Adding researchers...
+增加研究员…
 
 #menu_rschr_type
-Researching population for this project
+为这个项目研究的人员
 
 #menu_rschr_frm
-From
+来自
 
 #menu_rschr_time
-Estimated time to complete this project
+预计完成这个项目的时间
 
 #menu_rschr_odds
-success
+成功率
 
 #menu_rschr_odds_c1
-Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will need to be restarted from scratch.
+一旦完成，这个项目当前有[x]%的成功率和触发它的奖励。如果失败，则需要重新启动项目。
 
 #menu_rschr_odds_c2
-100 +researchers efficiency [x] -difficulty [y] = [z]% success odds
+100 + [x] 研究员效率 - [y] 难度 = [z]% 成功率
 
 #menu_rschr_all
-All population
+全部人口
 
 #menu_rschr_noav
-No [x] currently available in this city!
+当前没有可用的[x]在这个城市!
 
 #prj_strt_err1
-You need to assign researchers before starting this project!
+在开始这个项目之前您需要指派研究员!
 
 #prj_strt_err2
-You are missing coins to start this project!
+您缺少硬币启动这个项目!
 
 #prj_strt_err3
-You are missing required materials to start this project!
+您缺少启动这个项目所需的材料!
 
 #ui_tech_alw
-Allows...
+可获得…
 
 #ui_tech_bdg
-New building
+新建筑
 
 #ui_tech_res
-New resource
+新资源
 
 #ui_tech_ter
-New territorial status
+新领土地位
 
 #ui_tech_unit
-New unit
+新单位
 
 #ui_tech_pol
-New policy
+新政策
 
 #ui_tech_with
-with...
+与之…
 
 #ui_tech_forget
-Forget this knowledge
+遗忘这一知识
 
 #ui_tech_cantfgt
-You cannot forget this knowledge because it is currently required by other more recent ones such as: '[x]'.
+您不能遗忘这一知识，因为它目前是其他较新的知识所需要的，例如: “[x]”。
 
 #ui_techfrgt_1
-Forget this knowledge ?
+遗忘这一知识?
 
 #ui_techfrgt_2
-Warning!  This action cannot be undone. The knowledge will be immediately removed and you will lose all it's current effects. You will need to complete it's project again in order to recover it if you need to.
+警告!这个操作无法撤消。知识将被立即删除，您将失去所有它当前的效果。您将需要再次完成它的项目，以便在需要时恢复它。
 
 #pop_all
-total population
+总人口
 
 #fstate_inact
-Idle
+闲置中
 
 #fstate_encamp
-Encamped
+已扎营
 
 #fstate_mov
-Moving
+移动中
 
 #fstate_fight
-In combat
+战斗中
 
 #fstate_immo
-Immobilized
+已固定
 
 #menu_scr_w
-Wealth
+财富
 
 #menu_scr_w_c
-Score from the total wealth produced in all your territories.
+来自您所有领土内产生的总财富的得分。
 
 #menu_scr_c
-Culture
+文化
 
 #menu_scr_c_c
-Score from your total culture (state culture).
+来自您的总文化的得分(国家文化)。
 
 #menu_scr_k
-Knowledges
+知识
 
 #menu_scr_k_c
-Score from your total knowledges.
+来自您的总知识的得分
 
 #menu_scr_p
-Military
+军事
 
 #menu_scr_p_c
-Score from your total military power. Does not include Militias.
-
-#menu_scr_v
-Subordinates
-
-#menu_scr_v_c
-Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
+来自您的总军事力量的得分。但不包括民兵。
 
 #menu_scr_tot
-Score
+得分
 
 #menu_scr_tot_c
-You personnal score.
+您的个人得分。
 
 #menu_scr_vpscr
-From Par score
+得分
 
 #menu_scr_vpscr_c1
-Par score is your score above the reference score of [y]pts. You get 1 Victory point for every [x]pts of Par score.
+您可以根据您当前的得分获得或失去胜利点数。您目前每得[x]分就能得到1胜利点数。
 
 #menu_scr_vpscr_c2
-The average score and the cost of each victory points are dynamic and based on all player's scores.
+每个胜利点数的成本是动态的，并且基于所有活动角色的得分总和。
 
 #menu_scr_vpmiss
-Missions
+任务
 
 #menu_scr_vpmiss_c
-Victory points you earned by completing Victory point missions.
+您通过完成胜利点数任务而获得的胜利点数。
 
 #menu_scr_vp
-Victory points
+胜利点数
 
 #menu_scr_vp_c
-You personnal victory points.
+您个人的胜利点数。
 
 #menu_scr_avg
-Reference Score
+世界得分
 
 #menu_scr_avg_c1
-Used to determine your Par Score. It's value is based on all player's scores. 
+世界得分是游戏中每个角色的所有得分的总和。它用于确定每个胜利点数的得分成本。
 
 #menu_scr_avg_c2
-Having a personnal score above it grants victory points.
+非活动角色仅占其实际得分的一半。
 
 #menu_scr_vpcost
-Victory point cost
+每胜利点数得分
 
-#menu_scr_vpcost_c
-The amount of points you need above the reference score to be granted each Victory point.
+#menu_scr_vpcost_c1
+每个胜利点数目前需要[x]分的得分。
+
+#menu_scr_vpcost_c2
+100个胜利点数的成本被定义为等于当前世界得分的50%。这使得每个胜利点数的成本达到世界得分的0.5%(最低100分)。
 
 #menu_scr_frna
-for Nation
+为国家
 
 #menu_scr_frnas_c
-How much points you are currently contributing to your Nation's score. The lower in the ranks, the less you contribute.
+您目前为您的国家的得分贡献了多少分。排名越低，您的贡献就越少。
 
 #menu_scr_frnavp_c
-How much victory points you are currently contributing to your Nation's Victory Points. The lower in the ranks, the less you contribute.
+您目前对您的国家的胜利点数贡献了多少胜利点数。它受您当前排名的影响: 它越低，您贡献的越少。
 
 #menu_nscr_name
-Your nation
+您的国家
 
 #menu_nscr_rank
-Your nation's rank
+您的国家的排名
 
 #menu_nscr_scr
-Your nation's total score
+您的国家的总得分
 
 #menu_nscr_vp
-Your nation's total Victory points
+您的国家的总胜利点数
 
 #menu_scr_govnam
-Your personnal government's name
+您的个人政府的名字
 
 #menu_scr_t1
-Rank
+排名
 
 #menu_scr_t2
-Nation
+国家
 
 #menu_scr_t3
-Score
+得分
 
 #menu_scr_t4
-Victory points
+胜利点数
 
 #majmess_reglost
-You have lost control of the territory!
+您已经失去了对这片领土的控制!
 
 #b_buildprevbdg
-Obsolete version: [x]
+过时版本: [x]
 
 #b_admitdft
-ADMIT DEFEAT
+接受失败
 
 #ui_admitdft
-You have admitted your defeat!
+您已经承认你的失败了!
 
 #ui_battleover
-Battle is over!
+战斗结束了!
 
 #ui_terinf_fert
-Fertility
+肥沃度
 
 #ui_terinf_grndw
-Groundwater
+地下水
 
 #btl_objtv_neut
-neutral
+中立
 
 #btl_objtv_raid
-raiding territory
+突袭领土
 
 #btl_objtv_sack
-sacking territory
+掠夺领土
 
 #btl_objtv_inv
-invading
+侵略
 
 #btl_objtv_def
-defending
+防守
 
 #btl_objtv_defa
-assisting defense
+协助防守
 
 #btl_objtv_atta
-assisting attack
+协同进攻
 
 #btl_objtv_hunt
-hunting
+狩猎
 
 #btl_rslt_dead
-died
+歼灭
 
 #btl_rslt_deft
-defeated
+失败
 
 #btl_rslt_vict
-victorious
+胜利
 
 #btl_rslt_neutr
-was neutral
+呈中立
 
 #btlrslt_neutr
-NEUTRAL
+中立
 
 #btlrslt_att
-ATTACKERS
+进攻者
 
 #btlrslt_def
-DEFENDERS
+防御者
 
 #btlrslt_loot
-BATTLE LOOT
+战利品
 
 #btlrslt_unit
-units
+单位
 
 #btlrslt_loss
-losses
+损失
 
 #btlrslt_kill
-kills
+击杀
 
 #btlrslt_totloot
-total loot
+总战利品
 
 #rcvloot_reg
-We received loot in [x]:
+我们在[x]收到的战利品:
 
 #rcvloot_form
-Our formation received loot:
+我们的编队收到的战利品:
 
 #gamelob_genav
-Generate avatar
+随机化身
 
 #gamelob_face
-Face
+面容
 
 #gamelob_eyes
-Eyes
+眼睛
 
 #gamelob_snout
-Snout
+鼻子
 
 #gamelob_mouth
-Mouth
+嘴巴
 
 #gamelob_nam
-Character's name
+角色名字
 
 #gamelob_randnam
-Generate a random name
+随机生成一个名字
 
 #gamelob_nat
-Nation's name
+国家名字
 
 #gamelob_randnat
-Generate a random nation's name
+随机生成一个国家名称
 
 #gamelob_status
-character status
+角色状态
 
 #gamelob_status_c1
-A character becomes "inactive" if offline for too long. It then becomes available for succession: any new player joining the game can spawn as its sucessor and takeover all its posessions.
+一个角色如果脱机时间太长将会变为“不活跃”。然后它将会变为可继承的: 任何新加入游戏的玩家都可以成为它的继承者并接管它的所有财产。
 
 #gamelob_status_c2
-The amount of time before a character becomes inactive depends on its total playtime and on the game's settings.
+在这个角色变为不活跃之前的时间量取决于它的总游戏时间和游戏的设置。
 
 #gamelob_status_c3
-Max offline time currently allowed for this character: [x]
+该角色当前允许的最长离线时间: [x]
 
 #gamelob_ACTV
-ACTIVE
+活跃
 
 #gamelob_INACTV
-INACTIVE
+不活跃
 
 #gamelob_lstlog
-last login
+上次登录
 
 #gamelob_lstlogt
-[x] ago
+[x]前
 
 #gamelob_lstlog_c
-last login for this character: [x]
+该角色的上次登录: [x]
 
 #gamelob_creat
-created
+创建时间
 
 #gamelob_creat_c
-Date when this character was created (GMT).
+创建该角色的日期(GMT-世界时)。
 
 #gamelob_plt
-total playtime
+总游戏时间
 
 #gamelob_plt_c
-The total amount of time spent online playing this character.
+该角色在线游玩的总时间。
 
 #gamelob_maxchar
-Max characters
+最大角色数
 
 #gamelob_maxchar_c
-The maximum number of characters per player allowed on this server is [x].
+这个服务器上每位玩家允许的最大角色数量是[x]个。
 
 #gamelob_spcloff
-Spawn cool off
+繁衍冷却
 
 #gamelob_spcloff_c1
-The minimum time before you are allowed to respawn on this server.
+允许您在这个服务器上重新繁衍的最短时间。
 
 #gamelob_spcloff_c2
-You have spawned [x] times in this game. The more times you respawn, the longer the cool-off (base cool-off in this game is of [y]).
+在这场游戏中您已经繁衍了[x]次。您重生的次数越多，冷却时间就越长(在这场游戏中的基础冷却是[y])。
 
 #gamelob_spcloff_c3
-Last spawn: [x] ago
+最后繁衍: [x]前
 
 #gamelob_spcloffw
-([x] remaining)
+([x]剩余)
 
 #gamelob_maxoff
-Max offline time
+最大离线时间
 
 #gamelob_maxoff_c1
-The maximum amount of time a character can get to be offline before turning 'inactive' on this server.
+角色在此服务器上变为“不活跃”之前可以离线的最长时间。
 
 #gamelob_maxoff_c2
-WARNING: this limit is lower for recently created characters!
+警告: 此限制对于最近创建的角色较低!
+
+#gamelob_spwnbon
+繁衍奖金
+
+#gamelob_spwnbon_c1
+当生成一个新角色时，这个奖励可以改善整个启动条件(资源、技术…)选择的开始。
+
+#gamelob_spwnbon_c2
+这个奖励与服务器上缺少活跃的玩家成比例。
 
 #gamelob_err1
-You currently have the maximum number of characters allowed on this game!
+您当前拥有这场游戏允许的最大角色数量!
 
 #gamelob_err2
-You must wait [x] before being allowed to create a new character in this game!
+您必须等待[x]才允许在这场游戏中创建一个新角色!
 
 #gamelob_abnd
-Abandon
+放弃
 
 #gamelob_abnd_c1
-Click to abandon this character and all its possessions.
+单击放弃此角色和他的所有财产。
 
 #gamelob_abndwrn
-Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
+您确定要放弃这个角色吗?这是无法撤消的，您将完全失去对这个角色及其所有财产的控制!该角色将从您的列表中删除。它将立即被设置为“不活跃”，并可能成为可用于继承。
 
 #facrank_title
-Title
+头衔
 
 #facrank_ter
-Territory
+领土
 
 #facttl_titl
-Character's title
+角色头衔
 
 #facttl_titl_c1
-The title given to characters of this rank.
+给这个等级的角色的称谓。
 
 #facttl_trtry
-Territory's title
+领地头衔
 
 #facttl_trtry_c1
-The name given to the territories associated with characters of this rank.
+与此等级角色相关联的地区的称谓。
 
 #facttl_lvl
-Rank level
+等级层次
 
 #facttl_lvl_c1
-Rank level represents the hierarchic position within the nation.
+等级层次代表国家内部的等级地位。
 
 #facttl_tax
-Income tax
+所得税
 
 #facttl_tax_c1
-% of raw income paid as a tax to the superior of this rank.
+作为税收支付给该等级上级的原始收入的百分比。
 
 #facttl_pow
-Power transfer
+权力转移
 
 #facttl_pow_c1
-% of state power transfered to the superior of this rank.
+国家权力的百分比移交给该等级的上级。
 
 #facttl_vote
-Can vote 
+可以投票
 
 #facttl_vote_c1
-Wether this rank can participate in voting processes or not.
+这个等级是否可以参与投票过程。
 
 #facttl_rcrut
-Can recruit
+可以招纳
 
 #facttl_rcrut_c1
-Wether this rank is allowed to recruit new members into the Nation or not.
+这个等级是否允许招纳新成员进入这个国家。
 
 #facttl_prom
-Can promote
+可以提拔
 
 #facttl_prom_c1
-Wether this rank is allowed to manage ranks of its subordinates or not (promoting and unpromoting).
+这个等级是否允许管理下属职级(晋升和不晋升)。
 
 #facttl_rplcm
-Succession
+继位
 
 #facttl_rplcm_c1
-How the succession of this character is managed if he becomes inactive.
+如果他变为不活跃状态，如何继承这个角色的管理。
 
 #frplcm_e1
-Election (direct)
+选举(直接)
 
 #frplcm_e1_c1
-A sucessor is elected by the direct subordinates of this rank only.
+这个继任者仅由这个等级的直接下属选出。
 
 #frplcm_e2
-Election (all)
+选举(所有)
 
 #frplcm_e2_c1
-A sucessor is elected by all the subordinates of this rank.
+这个继任者是由这个等级的所有下属选出。
 
 #frplcm_heir
-Chosen heir
+选定继承者
 
 #frplcm_heir_c1
-The rank holder himself chooses its heir that can take over if he becomes inactive.
+这个等级持有者自己选择它的继承者，如果他变为不活跃状态就可以接管。
 
 #frplcm_nom
-Nominated
+任命
 
 #frplcm_nom_c1
-A sucessor is appointed by the superior of this rank.
+这个继任者是由这个等级的上级所任命的。
 
 #facttl_xpl
-Can expell
+可以驱逐
 
 #facttl_xpl_c1
-If this rank is allowed to expell its subordinates from the Nation.
+这个等级是否允许将其下属驱逐出境。
 
 #facttl_mngter
-Can dismantle
+可以拆解
 
 #facttl_mngter_c1
-If this rank is allowed to directly redistribute territories of inactive subordinates to other Nation members.
+这个等级是否允许直接将不活跃的下属领土重新分配给其他国家成员。
 
 #facttl_sub1
-Direct subordinates
+直接下属
 
 #facttl_sub2
-All subordinates
+所有下属
 
 #fachier_hier
-Hierarchy
+层级
 
 #fachier_addnew
-Add new rank
+增加新等级
 
 #fachier_addnew_c1
-Click to create a new rank
+单击创建新一个等级
 
 #fachier_remrk
-Remove this rank
+移除该等级
 
 #fachier_remrk_c1
-Click to delete the currently selected rank
+单击删除当前选定的等级
 
 #fachier_remrk_err1
-You cannot remove this rank because its currently used by one or more members!
+您不能删除此等级，因为它目前由一个或多个成员使用!
 
 #facnewrk_title
-Adding a new rank...
+添加新等级…
 
 #facmmb_ter
-Regions
+区域
 
 #facmmb_dismant
-Dismantle
+拆解
 
 #facmmb_dismant_c1
-Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
+因为这个角色处于不活跃状态，您的头衔允许您拆解它的领土，并在您的下属或您自己之间分享它们。
 
 #facmmb_prom
-Promote
+提拔
 
 #facmmb_prom_c1
-Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+您的头衔允许您管理这个角色的层级位置: 提升或降级这个角色。
 
 #facmmb_xpl
-Expel
+驱逐
 
 #facmmb_xpl_c1
-Your title allows you to expell this character from the Nation.
+您的头衔允许您将这个角色驱逐出这个国家。
 
 #facmmb_quit
-Quit
+退出
 
 #facmmb_quit_c1
-Leave this Nation and regain your sovereignty. 
+离开这个国家并恢复您的主权。
 
 #facmmb_quit_c2
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+警告: 如果您被条约束缚在这个国家，在您结束时将触发断开关闭!
 
 #facmmb_actv
-ACTIVE
+活跃
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+这个角色仍然在积极地玩游戏，并不是合适的继承者。
 
 #facmmb_inact
-INACTIVE
+不活跃
 
 #facmmb_inact_c1
-This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
+这个角色已经有一段时间没有在线了，现在被认为是不活跃的。在这个国家内是合适的继任位。
 
 #facmmb_pwrlss
-POWERLESS
+无权无力
 
 #facmmb_pwrlss_c1
-This character controls not territories and is powerless.
+这个角色没有控制的领土也无权力。
 
 #facmmb_dead
-DEAD
+废弃
 
 #facmmb_dead_c1
-This character is dead: it controls no territories and was abandonned by its player.
+这个角色已经死了: 他没有控制任何领土，并且被他的玩家抛弃了。
 
 #facmmb_rplc
-Replace
+替任
 
 #facmmb_rplc_c1
-This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
+这个角色处于不活跃状态，他的头衔是您准许的，作为他的上级，在您的下属中指定一个继任者来代替他。
 
 #facmmb_tax
-Taxes
+税收
 
 #facmmb_tax_c1
-Nation taxes are received from direct subordinates and also paid to the superior. Tax rates are defined by their respective ranks.
+国家税收是从直接下属那里收取，同时也向上级缴纳。税率由其各自的等级决定。
 
 #facmmb_tax_r
-Taxes from subordinates: [x]
+向下属征税: [x]
 
 #facmmb_tax_p
-Paid to superior: [x]
+缴纳给上级: [x]
 
 #facmmb_pwr
-Power transfers
+权力转移
 
 #facmmb_pwr_c1
-State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
+国家权力可以从直接下属那里得到并移交给上级。比率由其各自的等级决定。
 
 #facmmb_mng
-Maintenance
+维护
 
 #facmmb_mng_c1
-State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
+为维护国家而消耗的国家权力。下属的数量全部增加到这个角色上。
 
 #facmmb_mrshl
-Army Marshal
+军队元帅
 
 #facmmb_mrshl_c1
-Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
+军队元帅可以控制所有的国家军队，不管他们是否隶属于下属。由国家领导人任命。
 
 #facmmb_heir
-Heir
+继承者
 
 #facmmb_heir_c1
-The designated heir can directly succeed to this character if he becomes inactive.
+如果他变为不活跃状态，指定的继承人可以直接继承这个角色。
 
 #facmmb_heir_c2
-Note that if the designated heir refuses or is unavailable, succession will default to election by direct subordinates.
+请注意: 如果指定继承人拒绝或无法获得继承权，继承将默认由直接下属进行选举。
 
 #facprom_title
-Position of [x]
+[x]的位置
 
 #facprom_txt
-You can change the hierarchic position of [x] within this Nation by changing his rank or moving him under a different superior (only your amongst your own subordinates). Note that the character will retain all its subordinates with the same relative hierarchy under him no matter the modified position. Ranks of the subordinates might be automatically adjusted if need be, in order to retain their relative hierarchy. 
+您可以改变[x]的层级位置，在这个国家内通过改变他等级或调到其他上级手下(只在您自己的下属中)。请注意: 无论修改的位置如何，该角色都将保留其所有下属的相对层级结构。如果需要，可以自动调整下属的等级，以保留他们的相对层级位置。
 
 #facprom_auto
-Automatic rank
+自动等级
 
 #facprom_supr
-Set superior
+设置限度
 
 #facprom_rk
-Set rank
+设置等级
 
 #facxpl_title
-Expel [x] from the Nation
+将[x]逐出这个国家
 
 #facxpl_txt
-As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
+作为[x]的上级，您的等级允许您将这个角色驱逐出国家。请注意: 它的所有下属，如果有的话，都将保持这种性质，因此也将离开这个国家。
 
 #facxpl_xpl
-Expel!
+驱逐!
 
 #facrplc_title
-Replacing [x]...
+替换[x]…
 
 #facrplc_txt
-As a superior of [x] and because this character is now inactive, your rank allows you to nominate a successor of lower rank that will take over its position within the Nation. The successor will swap its position and subordinates with the ones of the replaced character. The chosen successor cannot be of higher rank than the replaced character.
+作为[x]的上级，并且因为这个角色现在不活跃，您的等级允许您提名一个较低等级的继任者来接替他在国家中的位置。继任者将与被替换角色互换其职位和下属。被选择的继任者的等级不能高于被替换的角色。
 
 #facrplc_none
-None available!
+没有可用的!
 
 #facdsmtl_title
-Dismantling territories
+拆解领土
 
 #facdsmtl_text
-Because [x] is now inactive, your rank allows you to dismantle its territories and reassign them to other members of the Nation.
+因为[x]现在是不活跃的，您的等级允许您拆除它的领土并将它们重新分配给国家的其他成员。
 
 #facdsmtl_c1
-Select a new owner for this territory.
+为该区域选择一个新所有者。
 
 #facdsmtl_err
-[cannot dismantle]
+[不能拆解]
 
 #facdsmtl_err_c1
-This territory was integrated recently and hasn't been part of your Nation long enough to be transfered via the 'dismantle' function.
+这片领土最近才被整合，而且还没有成为你们国家的一部分足够长的时间来通过“拆解”功能转移。
 
 #facdsmtl_err_c2
-Time before this territory can be dismantled: [x].
+该领土被拆解之前的时间: [x]。
 
 #facquit_title
-Are you sure?
+您确定吗?
 
 #facquit_txt
-By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+通过离开这个国家，您将重新获得您作为一个新的独立国家元首的完全主权。您当前所有的下属都将留在您的手下，也会因此加入这个新的国家。然而，请注意: 如果您被条约束缚在这个国家，离开它将会触发断开关闭在您结束时，让您面临潜在的惩罚甚至战争。
 
 #facfalg_title
-Editing Nation flag
+编辑国旗
 
 #menugov_setnam
-Government name
+政府名称
 
 #menugov_setnam_c1
-Set the core name of your government (then combined with your Nation title).
+设置您的政府的核心名称(然后与您的国家名称相结合)。
 
 #regnam_unclaimed
-Unclaimed territory
+无人领土
 
 #regnam_regof
-Region of [x]
+[x]的地区
 
 #regnam_claimby
-Claimed by [x]
+由[x]声称
 
 #uiworld_ownr
-Ownership
+所有权
 
 #uiworld_nownr
-No owner
+无主
 
 #uiworld_settl_1
-You can settle this territory by giving a formation the mission 'Settle' with this region as a target.
+您可以通过给一个以这个地区为目标的任务“定居”编队来定居这个地区。
 
 #uiworld_settl_2
-For this mission type to be available, the formation must contain at least one civilian unit.
+要使这种任务类型可用，编队必须至少包含一个平民单位。
 
 #facvote_name
-Voting for the successor of [x]
+为[x]的继任者进行投票
 
 #uivote_mode
-Voting mode
+投票模式
 
 #uivote_mod_high
-Highest votes
+最高票数
 
 #uivote_mod_high_c1
-The proposition with the most votes simply wins the vote. The vote is completed once all the valid voters have cast their vote.
+得票最多的提案就能赢得选举。选举是一次完成所有有效选民的投票。
 
 #uivote_status
-Vote status
+投票状况
 
 #uivote_st_p
-pending...
+待定…
 
 #uivote_st_o
-over
+结束
 
 #uivote_result
-Vote result
+投票结果
 
 #uivote_res_und
-undecided
+未确定
 
 #uivote_cast
-Votes cast
+已投票数
 
 #uivote_yrvt
-YOUR VOTE
+您的投票
 
 #uivote_txt1
-You have not cast your vote yet. Select one of the possible choices below and vote. Warning: your vote is final and cannot be modified once validated!
+您还没有投票。从下面的选项中选择一个，然后投票。警告: 您的投票是最终的，一旦确认就不能修改!
 
 #uivote_txt2
-You have already cast your vote. It is final and you cannot edit it anymore. The result will be announced once the voting process is completed.
+您已经投了您的票。它是最终的，您不能再编辑它了。投票结果将于投票结束后公布。
 
 #uivote_choice
-choice
+选择
 
 #uivote_sendvt
-CAST VOTE!
+投票!
 
 #regstatus_claim_1
-An empty territory can be claimed by your state and included in your official frontiers.
+一个空旷的领土可以由您的国家声称并包含在您的官方边界中。
 
 #regstatus_trtry_1
-A territory is part of a region and is managed by the region's main city administration.
+领土是区域的一部分，由该区域的主要城市行政部门管理。
 
 #regstatus_colony_1
-Autonomous territory attached to a state.
+附属于一个国家的自治领土。
 
 #regstatus_occup_1
-Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
+由军事力量保持控制的外国土地。这不是一个国家的直接部分，也不纳入到政府的行政管理中，这是一个不稳定的无序状态。
 
 #regstatus_outpost_1
-Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+财政上依赖、未管理和自治的领土。适用于开发战略资源的小型偏远营地。
 
 #regstatus_city_1
-Regional center of your state, fully integrated and administered by your government.
+您所在国家的区域中心，由您的政府完全统一和管理。
 
 #regstatus_capital_1
-Home of the government, where the leader resides.
+政府的所在地，领袖居住的地方。
 
 #regstatprop
-Territorial status special properties
+领土地位的特殊性质
 
 #regstatprop_build
-cannot build
+不能建造
 
 #regstatprop_res
-cannot control resources
+不能控制资源
 
 #regstatprop_trade
-cannot control trade
+不能控制贸易
 
 #regstatprop_bdgup
-buildings upkeep [x]
+建筑维护[x]
 
 #regstatprop_loyal
-loyalty [x]
+忠诚[x]
 
 #regstatprop_cultr
-state culture [x]%
+国家文化[x]%
 
 #regstatprop_conf
-population conflict [x]%
+人口冲突[x]%
 
 #regstatprop_rsrch
-can't do projects
+不能研究项目
 
 #regstatprop_milit
-cannot recruit militia
+不能招募民兵
 
 #regstatprop_army
-cannot recruit army
+不能招募军队
 
 #regstatprop_dist
-administration distance penalty [x]%
+行政管理距离惩罚[x]%
 
 #regstatprop_nodist
-no administration distance penalty
+无行政管理距离惩罚
 
 #regstatprop_inc
-[x]% of tax incomes
+[x]%的税收收入
 
 #regstatprop_noinc
-no tax incomes
+无税收收入
 
 #regstatprop_exp
-[x]% of expenses
+[x]%的开支
 
 #regstatprop_noexp
-no expenses
+无开支
 
 #regstatprop_resist
-resistance growth [x]
+反抗增长[x]
 
 #regstatprop_claim
-cannot own sub-territories
+不能拥有子领地
 
 #regstatprop_evac
-cannot be evacuated
+不能撤离
 
 #regstatprop_rencd
-cannot be renounced
+不能放弃
 
 #regstatprop_trsfr
-cannot be transfered
+不能转移
 
 #regstatprop_spawn
-is a player spawn
+是玩家的繁衍地
 
 #regstatprop_pnlty
-[x] loyalty event on changing
+[x]忠诚变更事件
 
 #regstatprop_overdrft
-cannot overdraft
+不能透支
 
 #regstatus_penalty
-WARNING: changing current status will trigger an immediate loyalty event of [x]!
+警告: 更改当前地位将会立即触发[x]忠诚的事件!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+警告: 声称这片被占领的领土将立即受到[x]抵抗和[y]忠诚的惩罚!
 
 #regstatus_title
-Territory status
+领土地位
 
 #regstatus_txt
-Modifying the administrative status of this territory...
+更改这片领土的行政管理地位…
 
 #regstatus_setnew
-Set new status to
+设置新地位为
 
 #regstatus_setcap_1
-You can only have one capital city: your current capital will lose its status and become a regular city. Note that moving your capital may affect adminstration and culture in your other cities as well as you state power and finances.
+您只能有一个首都: 您当前的首都将失去它的地位，变成一个普通的城市。请注意: 迁都可能会影响您在其他城市的行政管理和文化，以及您的国家权力和财政。只能拥有一个首都。
 
 #regstatus_setcit_1
-This territory will form a new region and will cost additionnal State power. You will then be able to attach other territories to this city as part of that region. 
+这片领土将成为一个新的地区，并将追加国家权力费用。然后，您将可以将这座城市的其他领土作为该区域的一部分。
 
 #regstatus_setcol_1
-WANRING: This is irreversible. You will lose direct control of this territory. Region gets a stable administration, loyalty and culture. No maintenance cost and no state power cost. Generates 5% income tax. If a player spawns in it, he starts in your nation with a colonial treaty of 5% income tax. 
+警告: 这是不可逆转的。您将失去对这片领土的直接控制。地区得到一个稳定的行政管理、忠诚和文化。无维护费用和任何国家权利费用。产生5%的所得税。如果一个玩家在其中生成，他将在您的国家以5%的所得税殖民条约作为开始。
 
 #regstatus_setcol_2
-To make a colony the territory needs at least 150 of population and at least 65% of vital needs.
+使领土成为一个殖民地需要至少150的人口和至少65%的生命需求。
 
 #setcolony_err1
-The territory needs at least 150 of population to be made a colony!
+这片领土需要至少150的人口才能成为殖民地!
 
 #setcolony_err2
-The territory needs at least 65% of vital needs to be made a colony!
+这片领土需要至少65%的生命需求才能成为殖民地!
 
 #setcolony_err3
-The territory has too much resistance to be made a colony!
+这片领土有太多的抵抗，不能成为殖民地!
 
 #regstatus_err1
-You cannot change the status of your capital city!
+您不能改变您的首都的地位!
 
 #voxclss_wall
-Walls
+墙
 
 #voxclss_wind
-Windows
+窗
 
 #voxclss_door
-Doors
+门
 
 #voxclss_pilr
-Pillars
+柱
 
 #voxclss_beam
-Beams
+梁
 
 #voxclss_flr
-Floors
+地板
 
 #voxclss_cube
-Cubes
+立方体
 
 #treaty_endwar
-Armistice
+休战条约
 
 #treaty_peace
-Peace treaty
+和平条约
 
 #treaty_nation
-Treaty of unification
+统一条约
 
 #treaty_vassal
-Vassality treaty
+附庸条约
 
 #treaty_trade
-Trading agreement
+贸易条约
 
 #treaty_trtry
-Territorial transfer
+领土转让
 
 #treaty_tech
-Knowledges transfer
+知识转移
 
 #treaty_pass
-Treaty of passage
+通行条约
 
 #treaty_deflt
-Treaty
+条约
 
 #ui_colchos
-click to select a color
+单击以选择颜色
 
 #ui_icchos
-click to select an icon
+单击以选择图标
 
 #ui_fhierchy
-click to view this nation's hierarchy
+单击以查看这个国家的层级结构
 
 #resist_abandon_1
-You cannot abandon buildings in a resistant city!
+您不能在一个有抵抗的城市废弃建筑!
 
 #resist_demol_1
-You cannot demolish more than 3 buildings at a time in a resistant city!
+您不能在一个有抵抗的城市同时拆除3个以上的建筑!
 
 #resist_demol_2
-You cannot demolish infrastructures in a resistant city!
+您不能在一个有抵抗的城市拆除基础设施!
 
 #treaterr_1
-You do not have enough coins in your treasury to honor this treaty!
+您的国库里没有足够的硬币来履行这个条约!
 
 #treaterr_2
-You do not have enough income in your treasury to honor this treaty!
+您的国库里没有足够的收入来履行这个条约!
 
 #servfull
-Maximum number of active characters currently reached! Try again later.
+当前活跃的角色已达到最大数量!稍后再试。
 
 #menu_frmtyp_title
-Changing this formation's type...
+更改这个编队的类型…
 
 #menu_frmtyp_err1
-You cannot convert to a militia outside your own cities!
+您不能在您拥有的城市以外转化民兵!
 
 #menu_frmtyp_err2
-You cannot convert formations in resistant cities.
+您不能在有抵抗的城市中转化编队。
 
 #formact_sack_1
-Warning: this action will cost you 15 of honnor, if successful!
+警告: 这个操作将花费您15点荣誉，如果它成功了!
 
 #formact_sack_2
-The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
+这个目标将是首先消除这片领土的所有防御。如果成功了，他们将继续有条不紊地掠夺尽可能多的资源，但需要通过烧毁建筑物和屠杀居民对城市造成巨大的破坏。一旦完成，该编队将离开该地区。
 
 #formact_sack_3
-This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honnor.
+这个行动比简单的突袭提供了更多的资源同时也造成了更大的破坏，但与突袭不同的是，它需要您花费荣誉通过首先消除所有防御措施来全面控制领土。
 
 #wkprio_0
-Avoided
+回避
 
 #wkprio_1
-Low
+低
 
 #wkprio_2
-Regular
+正常
 
 #wkprio_3
-High
+高
 
 #wkprio_4
-Critical
+临界
 
 #recyclmat
-We have recovered
+我们已经恢复了
 
 #recyclbdg
-We have recovered [x] from the demolition of a [y].
+我们已经从[y]的一个破坏中恢复了[x]。
 
 #charstate_1
-Inactive
+不活跃
 
 #charstate_2
-Active
+活跃
 
 #charstate_3
-Dead
+废弃
 
 #charstate_4
-Powerless
+无作用
 
 #err_inaxsbdg
-This building is currently inaccessible!
+这个建筑当前无法进入!
 
 #formact_none
-Move
+闲置
+
+#formact_move
+移动
 
 #formact_camp
-Encamp
+扎营
 
 #formact_hunt
-Hunt
+狩猎
 
 #formact_captr
-Capture
+捕获
 
 #formact_settle
-Settle
+定居
 
 #formact_raid
-Raid
+突袭
 
 #formact_sack
-Sack
+掠夺
 
 #formact_invd
-Invade
+侵略
 
 #formact_batl
-Battle
+作战
 
 #formact_claim
-Claim territory
+声称领土
 
 #formact_reclaim
-Reclaim territory
+收回领土
 
 #formact_unclaim
-Unclaim territory
+解除领土
+
+#formact_tkartfct
+声称该人工品
 
 #formhome_title
-Changing this formation's home...
+更改这个编队的家乡…
 
 #formhome_dscr_1
-A formation's home region is the city they are attached to. The home provides renewal of aging soldiers and has to support the armies attached to it. It also defines the culture of the formation's units. 
+一个编队的故乡是他们所依附的城市。这个家乡提供更新年老的士兵并且必须支持与之相关的军队。它还定义了该编队单位的文化。
 
 #formhome_dscr_2
-Formations will decay if they are attached to a home that doesn't have enough population to support them. 
+如果它们依附在一个没有足够人口来支撑它们的家乡，那么编队将会衰减。
 
 #formhome_dscr_3
-WARNING: changing the home region will deplete all its Action Points and will trigger auto-encampment. 
+警告: 更改家乡的地区将耗尽所有行动点数并将触发自动扎营。
 
 #formhome_sel_c1
-Select the desired home region for this formation.
+选择期望这个编队家乡的区域。
 
 #formhome_sel_c2
-( The formation needs to be positionned in the desired city to be able to rebase in it )
+(编队需要定位在所需的城市，以便能够在其中重新建立基础)
 
 #menu_mission_sel
-Action
+行动
 
 #menu_mission_sel_c1
-Select the action to perform in this territory.
+选择要在此区域执行的操作。
 
 #chat_pm
-Message [x]
+消息[x]
 
 #chat_faction
-Nation '[x]'
+国家“[x]”
 
 #chat_emptytxt
-[type your message here]
+[在这里输入您的消息]
 
 #ui_reginf_vsb
-Visibility 
+可视性
 
 #chat_r_hall
-Great Hall
+大厅
 
 #chat_r_ass
-Assembly
+议会
 
 #chat_r_councl
-Council
+理事会
 
 #chron_tab1
-World news
+世界新闻
 
 #chron_tab2
-My chronicles
+我的编年史
 
 #chron_new
-+ New chronicle
++ 新编年史
 
 #chron_publish
-Publish
+发布
 
 #char_chrons
-View all chronicles from this character
+查看来自这个角色的所有编年史
 
 #chron_sent
-New chronicle published!
+新的编年史出版了!
 
 #chron_react
-React to this news
+对这个新闻的反应
 
 #chron_reactup_1
-This is interesting!
+这是有趣的!
 
 #chron_reactup_2
-This news will be relayed by your cultural network and will propagate to your contacts.
+这则新闻将通过您的文化网络转播并将传播到您的联系人。
 
 #chron_reactdw_1
-I don't care about this.
+我不在乎这个。
 
 #chron_reactdw_2
-This news will not be relayed by you.
+这个新闻将不会通过您转播。
 
 #chron_expand
-read more
+阅读更多
 
 #chron_expand_c1
-click to read the rest of this chronicle
+单击以阅读本编年史的其余部分
 
 #chron_past_up
-You found this interesting.
+您觉得这个很有趣。
 
 #chron_past_down
-You didn't find this interesting.
+您不觉得这个有趣。
 
 #chron_none
-You havn't been reached by any news from the outside world yet!
+您还没有收到任何来自外部世界的消息!
 
 #antl_name
-Annex tool
+附件工具
 
 #antl_dscr
-Allows you to reorganise annexes by changing their owning buildings.
+允许您通过更改它们所属的建筑来重新组织附件。
 
 #antl_close
-CLOSE
+关闭
 
 #antl_1
-Relink: hold left click and drag.
+重新连接: 按住鼠标左键并拖动。
 
 #antl_2
-Add/remove from select with ctrl+left-click.
+使用Ctrl+左键单击从选择中添加/移除。
 
 #antl_3
-Clear selection: right-click.
+取消选择: 右键单击。
 
 #regmenu_status_c1
-Current territorial status: '[x]' (click to change)
+当前领土地位: “[x]”(单击以更改)
 
 #regmenu_powcost
-This territorial status currently costs you [x] of State Power to maintain.
+这片领土当前的地位需要花费您[x]的国家权力来维持。
 
 #regmenu_jobs
-Jobs
+工作
 
 #regmenu_jobs_c1
-All available jobs are filled!
+所有的可用工作都满了!
 
 #regmenu_jobs_c2
-[x]% of available jobs are missing workers ([y]).
+有[x]%的可用工作缺少工人([y])。
 
 #regmenu_actives
-Employed
+雇佣
 
 #regmenu_actv_c1
-All actives are currently employed!
+所有的活跃者当前都被雇佣了!
 
 #regmenu_actv_c2
-[x]% of actives are jobless ([y]).
+有[x]%的活跃者没有工作([y])。
 
 #regmenu_inc
-Budget balance of this territory
+本地区预算余额
 
 #regmenu_inc_dscr
-It is the result of all state incomes and expenses, such as taxes, trade balance, salaries and maintenance costs.
+这是所有国家收入和开支的结果，例如: 税收、贸易余额、工资和维护费用。
 
 #regmenu_admin
-Administration balance of this territory
+本地区行政余额
 
 #regmenu_admin_dscr
-A badly administered territory generates more waste and corruption, reducing all sources of incomes.
+一个管理不善的地区会产生更多的浪费和腐败，减少所有的收入来源。
 
 #regmenu_wealth
-Total wealth of this territory
+本地区财富总额
 
 #regmenu_wealth_dscr
-Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
+财富是对当前在这一地区所做的一切生产性工作的客观衡量，不依赖于它们以硬币表示的市场价值。
 
 #regmenu_gdp
-GDP of this territory
+本地区GDP
 
 #regmenu_gdp_dscr
-An economic indicator that is the sum of all generated incomes in this territory (of state or population) over a period of 10 economic cycles.
+一种经济指标，是这一地区(国家或人口)在10个经济周期内产生的所有收入的总和。
 
 #regmenu_growth_1
-Current demographic evolution: [x] Porcos [y].
+当前人口发展: [x]波尔[y]。
 
 #regmenu_growth_2
-Active population: [x] [y]
+活跃人口: [x][y]
 
 #regmenu_vitals_1
-Vital needs of the population are currently [x]% satisfied.
+人口的生命需求当前已得到[x]%的满足。
 
 #regmenu_vitals_2
-Low vital needs reduce birth rate and increases mortality.
+较低的生命需求降低了出生率且增加了死亡率。
 
 #subjug_title
-Subjugate
+征服
 
 #subjug_can
-You can automatically subjugate [x].
+您可以自动征服[x]。
 
 #subjug_dscr
-This will end the war between you and [x]. This state will be integrated to your nation as your vassal, with a capitulation treaty transfering State Power and tax income to you. All territories currently occupied by the forces of your nation will automatically be retroceded to [x].
+这将结束您和[x]之间的战争。这个国家将作为您的附属国并入您的国家，根据投降条约，将国家权力和税收收入移交给您。当前被您的国家武力占据的所有领土将自动归还给[x]。
 
 #subjug_cant
-You cannot subjugate [x] yet.
+您还不能征服[x]。
 
 #subjug_cant_dscr
-A character that has lost control of all its territories in a war can be automatically subjugated, provided that you are occupying at least one its territories. Subjugation will force his capitulation and make him your vassal, integrating him into your nation.
+一个在战争中失去了对其所有领土的控制的角色可以自动被征服，前提是您至少占领了它的一个领土。征服将迫使他投降，并使他成为您的附庸，使他融入您的国家。
 
 #subjug_cant_why
-To subjugate this character you need to take control of:
+要征服这个角色您需要控制它的:
 
 #subjug_apply
-Subjugate!
+征服!
 
 #info_cltrtrsfr
-[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+[x]人们从[y]迁移到[z]，把[v]文化从他们的家乡转移到[z]。
 
 #info_supportlmt
-This territory cannot support more units and does not allow overdraft!
+这片领土无法支持更多的单位并且不允许透支!
 
 #displyr_c1
-click to select a display layer.
+单击选择一个显示层。
 
 #displyr_c2
-currently displayed:
+当前显示:
 
 #button_togh_c1
-toggle heights display
+切换显示高度
 
 #button_togh_c2
-heights: 
+高度:
 
 #displyr_normal
-Normal view
+标准视图
 
 #displyr_fertil
-Fertility
+肥沃度
 
 #displyr_gwater
-Groundwater
+地下水
 
 #displyr_height
-Heights
+高度
 
 #displyr_fortif
-Fortifications
+防御工事
+
+#warn_moveprim
+您可能就要犯错误了…
+
+#warn_moveprim_1
+通过移动您的整个原始部落开始游戏是一个非常危险的决定，这可能很快导致失败或陷入困境。除非您确切地知道您在做什么，否则强烈建议您在开始地区定居: 您可以稍后与一个较小的团队一起探索，然后组织一个安全的迁移到更好的土地。
+
+#treaty_offr_sent
+条约提议成功发送!
+
+#startuto_cmplt
+新手教程已完成!
+
+#cnvrt_mil_err
+没有足够的人口来转换这支民兵!
+
+#mg_localgame
+本地游戏
+
+#mg_remove_1
+从“我的游戏”中移除
+
+#mg_remove_2
+(这只是一个快捷方式，删除它并不会删除您在该游戏中的实际角色)
+
+#mg_serverstatus
+服务器状态
+
+#mg_srvr_unknown
+未知
+
+#mg_srvr_online
+线上
+
+#uiworldforms_inreg
+在这一地区的编队
+
+#uiworldforms_novisib
+未知: 不可见性
+
+#formmisspop
+在领土上没有足够的人口来充分支持这支部队!
+
+#autoban_cheat
+账户因作弊被禁止。
+
+#autoban_vm
+账户因使用一台虚拟机被禁止。
+
+#autoban_device
+账户因试图欺骗单设备的限制被禁止。
+
+#autobanned
+您已被自动反作弊从此服务器上禁止。
+
+#modbanned
+您已被该服务器的管理员手动禁止。
+
+#insuf_funds
+资金不足!

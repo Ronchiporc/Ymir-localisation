@@ -49,8 +49,11 @@ Free
 #g_cost
 cost
 
+#g_coin
+money
+
 #g_coins
-coins
+monies
 
 #g_upkeep
 upkeep
@@ -144,6 +147,15 @@ or
 
 #g_status
 status
+
+#g_hamlet
+hamlet
+
+#g_village
+village
+
+#g_town
+town
 
 #g_city
 city
@@ -251,7 +263,7 @@ Legitimacy
 LEGITIMACY
 
 #g_state_power
-state power
+State Power
 
 #g_STATE_POWER
 STATE POWER
@@ -268,14 +280,23 @@ add
 #g_Add
 Add
 
+#g_Enables
+Enables
+
 #g_enables
 enables
+
+#g_Disables
+Disables
+
+#g_disables
+disables
 
 #g_Disable
 Disable
 
-#g_disables
-disables
+#g_Price
+Price
 
 #g_price
 price
@@ -546,3 +567,66 @@ days
 
 #g_never
 never
+
+#g_chief
+Chief
+
+#g_chiefdom
+Chief
+
+#g_vassal
+Vassal
+
+#g_vassaldom
+Vassaldom
+
+#g_Game
+Game
+
+#g_cltr_customs
+Customs
+
+#g_cltr_skills
+Skills
+
+#g_architecture
+Architecture
+
+#g_psyche
+Psyche
+
+#g_traditions
+Traditions
+
+#g_in
+in
+
+#g_at
+at
+
+#g_when
+when
+
+#g_You
+You
+
+#g_civpoint
+Civilization Points
+
+#g_bandits
+Bandits
+
+#g_hostnatv
+Hostile natives
+
+#g_completed
+completed
+
+#g_Population
+Population
+
+#g_requires
+requires
+
+#g_timesince
+[x] ago

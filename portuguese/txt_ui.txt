@@ -2,658 +2,658 @@
 TUTORIAL
 
 #b_menu_newgame
-NEW GAME
+NOVO JOGO
 
 #b_menu_load
-LOAD GAME
+CARREGAR JOGO
 
 #b_menu_join
-JOIN GAME
+JUNTAR-SE A PARTIDA
 
 #b_menu_editor
 EDITOR
 
 #b_menu_options
-SETTINGS
+CONFIGURAÇÕES
 
 #b_menu_quit
-QUIT
+SAIR
 
 #b_menu_resume
-RESUME
+RETOMAR
 
 #b_menu_tomain
-TO MAIN MENU
+PARA O MENU PRINCIPAL
 
 #b_menu_discord_1
-Ymir official Discord
+Discord oficial de Ymir
 
 #b_menu_discord_2
-Join the Ymir community!
+Junte-se a nossa comunidade!
 
 #b_menu_porcopedia_1
-Porcopedia
+Porcopédia
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+A wiki online oficial do jogo
 
 #b_menu_trell_1
-Ymir on Trello
+Ymir no Trello
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+Siga o desenvolvimento do jogo e vote em propostas e sugestões planejadas
 
 #ui_tomainvalid
-Do you really want to leave and return to the main menu ?
+Você quer realmente sair e voltar ao menu principal ?
 
 #ui_connctstat_1
-Currently connected to [x]  ping: [y]
+Atualmente conectado em [x]  ping: [y]
 
 #ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z] )
+Taxa de perda: [x]% ( enviado:[y]  falhou:[z] )
 
 #ui_connct_stable
-Your connection with the server is stable.
+Sua conexão com o servidor está estável.
 
 #ui_connct_unstbl
-Warning! Your connection with the server is unstable!
+Aviso! Sua conexão com o servidor é instável!
 
 #mainmenu_mute
-click to mute/unmute the whole game
+clique para retirar/colocar som no jogo
 
 #mainmenu_fullscrn
-click to switch between windowed and fullscreen modes
+clique para escolher entre o modo em janela ou tela cheia
 
 #mainmenu_quit
-click to quit the game
+clique para sair do jogo
 
 #mainmenu_maxim
-maximize
+maximizar
 
 #mainmenu_minim
-minimize
+minimizar
 
 #dsclmr_title
-DISCLAIMER
+AVISO LEGAL
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- Esse jogo é um projete de um homem só: o desenvolvimento é lento.
 
 #dsclmr_2
-- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+- Esse jogo provavelmente ficará para sempre como um trabalho experimental em processo de desenvolvimento e talvez nunca alcançará a qualidade, estabilidade e otimização de um produto final.
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- Jogar sozinho é possível, mas o foco principal desse jogo é multijogador.
 
 #b_menuop_fullscreen
-Fullscreen
+Tela cheia
 
 #bc_menuop_fullscreen
-enable fullscreen
+Habilita a tela cheia
 
 #b_menuop_autores
-Automatic resolution
+Resolução automática
 
 #bc_menuop_autores
-automatically adapt resolution to the display in fullscreen
+adapta automaticamente a resolução para exibir em tela cheia
 
 #b_menuop_res
-Display resolution
+Resolução de vídeo
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+escolha a resolução de vídeo desejada quando em tela cheia
 
 #b_menuop_terrain
-Terrain
+Terreno
 
 #b_menuop_low
-low
+baixa
 
 #b_menuop_medium
-medium
+média
 
 #b_menuop_high
-high
+alta
 
 #b_menuop_bdgs
-Buidings
+Construções
 
 #b_menuop_units
-Units
+Unidades
 
 #b_menuop_fx
 FX
 
 #b_menuop_shaders
-Shaders
+Sombras
 
 #b_menuop_worldmap
-Worldmap
+Mapa Mundi
 
 #b_menuop_logic
-Logic
+Lógica
 
 #b_menuop_cosveg
-Cosmetic vegetation
+Vegetação cosmética
 
 #bc_menuop_cosveg
-Enable cosmetic grass and bushes
+Habilita grama e arbustos cosméticos
 
 #b_menuop_cosunits
-Cosmetic units 
+Unidades cosméticas 
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+Habilita unidades cosmética como animais decorativos
 
 #b_menuop_animveget
-Animated vegetation
+Vegetação animada
 
 #bc_menuop_animveget
-Enable or disable animated vegetation in the territory view
+Habilita ou desabilita pequenas animações na vegetação na visão do território
 
 #b_menuop_grain
-Video grain
+Granulação de Vídeo
 
 #bc_menuop_grain
-Enable or disable this post-processing effect
+Habilita ou desabilita esse efeito de pós processamento.
 
 #b_menuop_autovsize
-Automatic viewport definition
+Definição automática da janela de exibição
 
 #b_menuop_autovsize_c1
-Viewport definition will remain at 1:1 with your display resolution.
+Definição da janela de exibição irá permanecer em 1:1 com sua resolução de vídeo.
 
 #b_menuop_vsize
-Viewport definition
+Definiçãoda janela de exibição
 
 #b_menuop_vsize_c1
-Definition of the game graphics in relation to your screen resolution: 100% means 1:1 ratio between screen and rendered graphics.
+Definição dos gráficos do jogo em relação a sua resolução de tela: 100% significa uma razão 1:1 entre tela e gráficos renderizados.
 
 #b_menuop_vsize_c2
-Lowering this ratio greatly increases performances.
+Diminuir essa razão aumenta significativamente a performance.
 
 #b_menuop_autoui
-Automatic UI size
+Tamanho automático da IU
 
 #b_menuop_autoui_c1
-UI size will automatically adapt to your display resolution.
+O tamanho da IU irá se adaptar automaticamente com sua resolução de vídeo.
 
 #b_menuop_uisize
-UI size
+Tamanho da IU
 
 #b_menuop_uisize_c1
-Changes the size of the UI layer. 
+Muda o tamanho da camada da IU. 
 
 #b_menuop_uisize_c2
-Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
+Útil para evitar que a IU se torne desconfortável em ler, dependendo do tamanho e da resolução de vídeo do seu dispositivo.
 
 #b_menuop_mvol
-Music volume
+Volume da música
 
 #b_menuop_ambvol
-Ambiant volume
+Volume Ambiente
 
 #b_menuop_uivol
-UI volume
+Volume da IU
 
 #b_menuop_lang
-Language
+Linguagem
 
 #bc_menuop_lang
-Choose your language
+Escolha sua linguagem
 
 #menuop_k_up
-Camera up
+Câmera para cima
 
 #menuop_k_le
-Camera left
+Câmera para esquerda
 
 #menuop_k_ri
-Camera right
+Câmera para direita
 
 #menuop_k_dw
-Camera down
+Câmera para baixo
 
 #menuop_keyset
-click and press a keyboard key to bind it to this action
+clique e pressione uma tecla para associá-la a essa ação
 
 #menuop_togtut
-Toggle tutorials
+Habilitar tutoriais
 
 #menuop_togtut_c1
-Enables the main tutorial and all the help popups when doing things for the first time.
+Habilita o tutorial principal e todos textos de ajuda quando estiver fazendo as coisas pela primeira vez.
 
 #menuop_resetut
-Reset all
+Resetar todos
 
 #menuop_resetut_c1
-Reset all tutorials to zero.
+Reseta todos os tutoriais do zero.
 
 #menuop_resetutd
-All tutorials reseted.
+Todos tutoriais foram resetados.
 
 #b_menuop_apply
-Apply
+Aplicar
 
 #b_menuop_display
-DISPLAY
+EXIBIÇÃO
 
 #b_menuop_sound
-SOUND
+SOM
 
 #b_menuop_game
-GAME
+JOGO
 
 #ui_menuop_options
-SETTINGS
+CONFIGURAÇÕES
 
 #joingame_yourgames
-Your games
+Suas partidas
 
 #joingame_persist
-Persistent games
+Partidas persistentes
 
 #joingame_persist_dscr_1
-Persistant games are the main game mode to experience Ymir: slow paced games that can last for months on servers that run 24/7.
+Partidas persistentes são o modo principal de jogar Ymir: partidas lentas que podem durar meses em servidores que funcionam 24/7.
 
 #joingame_persist_dscr_2
-To garantee a reliable and fair experience for all players, servers listed here all share the same strict standardized official "persistent mode" settings. Server customization is not allowed: there are no mods, no server-specific rules and the server hosts are powerless (no admin tools to ban or moderate players). Only gameplay is law.
+Para garantir uma experiência justa e confiável para todos os jogadores, todos os servidores listados compartilham as mesmas definições de "modo persistente" oficiais estritamente padronizadas. Servidores customizados não são permitidos: não há mods, nem regras específicas por servidor e os hospedeiros não tem poder (sem ferramentas de adminsitração para banir e moderar). Só a jogabilidade é a lei.
 
 #joingame_realtime
-Real-time games
+Partidas em tempo-real
 
 #joingame_realtime_dscr_1
-Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
+Partidas em tempo-real são um modo oficial de jogo para partidas com ritmo mais acelerado que são feitas para ser jogadas em sessões múltiplas com amigos ou um pequeno grupo de jogadores.
 
 #joingame_custom
-Custom games
+Partidas Customisadas
 
 #joingame_custom_dscr_1
-Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
+Partidas Customisadas são partidas hospedadas pela comunidade com nenhuma padronização imposta, onde a customização do servidor é permitida. O balanceamento do jogo pode, portanto, ser afetado e a segurança de sua experiência não pode ser garantida nestes servidores.
 
 #joingame_custom_dscr_2
-WARNING: Please note that unlike official game mode servers, there might be server-specific rules and server moderation tools are unlocked to the server hosts. That includes the power to ban players from their servers at their sole discretion.
+AVISO: Por favor note que, ao contrário dos modos oficiais de servidores, poderão haver regras específicas do servidor e ferramentas de moderação estão disponíveis aos hospedeiros. Isso inclui o poder de banir jogadores do servidor ao seu bem entender.
 
 #joingame_direct
-Direct IP
+Conexão Direta por IP
 
 #joingame_connect
-JOIN GAME
+JUNTAR-SE A PARTIDA
 
 #servlst_name
-Server name
+Nome do servidor
 
 #servlst_name_c1
-The custom name of the server's game
+O nome customisado do servidor da partida
 
 #servlst_creat
-Creator
+Criador
 
 #servlst_creat_c1
-The steam user name of the server host
+O usuário da Steam do hospedeiro do servidor
 
 #servlst_players
-Players
+Jogadores
 
 #servlst_players_c1
-The number of players currently online in this game
+O número de jogadores atualmente online na partida
 
 #servlst_online
 Online
 
 #servlst_actives_c1
-The number of active players in this game
+O número de de jogadores ativos na partida
 
 #servlst_dur
-Duration
+Duração
 
 #servlst_dur_c1
-The amount of time this game has been going on
+Tempo decorrido desde o início da partida
 
 #servlst_admn
-Admin tools
+Ferramentas do Administrador
 
 #servlst_admn_c1
-Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
+Se as ferramentas de administrador estão habilitadas ou não neste servidor. Se sim, o hospedeiro possui o poder de banir jogadores ao seu bem entender.ost has the power to ban players at his discretion.
 
 #servlst_preset
-Game preset
+Predefinição da partida
 
 #servlst_preset_c1
-Game balance preset used on this custom server.
+As configurações de partida usadas no servidor.
 
 #servlst_ver
-server's version
+versão do servidor
 
 #servlst_ver_c1
-The version of the game this server is currently running.
+A versão do jogo que o servidor está.
 
 #servlst_ver_c2
-Warning! Your version ([x]) does not match with the one of this server ([y])!
+Aviso! Sua versão ([x]) não corresponde com a do servidor ([y])!
 
 #servlst_nogam
-Sorry: It looks like there is currently no games available!
+Desculpa: Parece que não há jogos disponíveis!
 
 #b_newgame_name
-Game name:
+Nome da partida	
 
 #b_newgame_public
-public
+público
 
 #b_newgame_friends
-friends only
+somente amigos
 
 #b_newgame_private
-private
+privado
 
 #b_newgame_password
-Password:
+Senha:
 
 #bc_newgame_password
-set a password requested to join this game
+coloque uma requisição de senha para juntar-se a partida
 
 #b_newgame_maxplayers
-Max players:
+Máximo de jogadores:
 
 #b_newgame_start
-START GAME
+INICIAR PARTIDA
 
 #ui_newgame_newgame
-NEW GAME
+NOVA PARTIDA
 
 #ui_newgame_world
-WORLD
+MUNDO
 
 #b_newgame_wprocedural
 Procedural
 
 #b_newgame_wcustom
-Custom
+Customizado
 
 #newgame_serv_c
-server options
+opções do servidor
 
 #newgame_serv_run
-server doesnt close automatically
+não fechar servidor automaticamente
 
 #newgame_serv_empty
-close server when empty
+fechar servidor quando vazio
 
 #newgame_serv_leave
-close server when you disconnect
+fechar servidor quando você se desconecta
 
 #newgame_samname
-A saved game '[x]' already exists in the local files! What do you want to do?
+Uma partida '[x]' já existe salva nos seus arquivos locais! O que você quer fazer?
 
 #newgame_overw
-Overwrite
+Sobrescrever
 
 #newgame_renam
-Autorename
+Renomear automaticamente
 
 #newgame_nomap
-none available
+nenhum disponível
 
 #newgame_invmap
-It seems there is'nt any custom map available. Please select a procedural type of map.
+Parece não haver nenhum mapa customizado disponível. Por favor, selecione um mapa procedural.
 
 #mapsize
-Map size
+Tamanho do mapa
 
 #mapsize1
-Tiny
+Minúsculo
 
 #mapsize2
-Small
+Pequeno
 
 #mapsize3
-Regular
+Médio
 
 #mapsize4
-Large
+Grande
 
 #mapsize5
-Huge
+Enorme
 
 #mapsize6
-Giant
+Gigante
 
 #maptyp
-Map preset
+Mapa predefinido
 
 #maptyp1
 Terra
 
 #maptyp1_dscr
-Temperate earth-like worlds with several continents.
+Mundos temperados semelhantes a Terra, com muitos continentes.
 
 #maptyp2
 Pangea
 
 #maptyp2_dscr
-Temperate worlds mostly made of lands, with only a few small seas.
+Mundos temperados compostos basicamente de terra firme, com poucos mares pequenos.
 
 #maptyp3
-Archipelago
+Arquipélago
 
 #maptyp3_dscr
-Sea worlds with lots of islands and smaller landmass.
+Mundos de mares com muitas ilhas e terra firme reduzida.
 
 #maptyp4
-Desert world
+Mundo Desértico
 
 #maptyp4_dscr
-Desertic worlds where hospitable territories are mostly located towards poles and around smaller inland seas.
+Mundos desérticos onde territórios convidativos estão em sua maioria localizados pertos dos polos e em volta de pequenos mares interiores.
 
 #maptyp5
-Ice world
+Mundo de Gelo
 
 #maptyp5_dscr
-Cold desertic worlds with only a few hospitable territories.
+Mundos desérticos gelados com poucos territórios convidativos.
 
 #maptyp6
-Tropico
+Trópico
 
 #maptyp6_dscr
-Warm and humid sea worlds with lots of tropical islands.
+Mundos quentes e úmidos com mares e muitas ilhas tropicais.
 
 #maptypcust
-Custom settings
+Configurações personalizadas
 
 #custmap_sel
-Select a world map
+Selecione um mapa mundi
 
 #custmap_sel_c
-Select a custom map
+Selecione um mapa customizado
 
 #custmap_dscr
-Custom worlds are maps manually created with the editor instead of beeing procedurally generated.
+Mapas customizados são mapas criados manualmente com o editor, ao invés de serem gerados proceduralmente.
 
 #newgame_gamset
-GAME SETTINGS
+CONFIGURAÇÕES DA PARTIDA
 
 #gmtyp_off
-Official
+Oficial
 
 #gmtyp_off_dscr
-Games labelled as official are using standardized non-customizable settings to provide a reliable experience.
+Partidas classificadas como oficiais estão usando configurações padronizadas e não-customizadas para prover uma experiência garantida.
 
 #gmtyp_offtype
-Game type
+Tipo de partida
 
 #gmtyp_offtype_c
-Select a game preset
+Selecione um tipo de partida predefinido
 
 #gmtyp_solo
 Solo
 
 #gmtyp_solo_dscr1
-Solo games can only be played alone.
+Partidas solo só podem ser jogadas sozinho(a).
 
 #gmtyp_solo_dscr2
-Game speed overall is the fastest.
+A velocidade da partirda é no geral a mais rápida.
 
 #gmtyp_solo_dscr3
-This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+Esse modo é feito para se aprender os básicos do jogo, antes de juntar-se a partidas multijogador, ou para jogadores que queiram construir em paz.
 
 #gmtyp_rtime
-Real-time
+Tempo-real
 
 #gmtyp_rtime_dscr1
-Real-time games are meant to be played directly with every player ingame at all times, saving and reloading the game later on to continue the game if necessary.
+Partidas em tempo-real são feitas para serem jogadas diretamente com cada jogador online a todo momento, salvando e carregando a partida depois para continuação do jogo se necessário.
 
 #gmtyp_rtime_dscr2
-Resource production, population growth and unit movements are fast.
+Produção de recursos, crescimento populacional e movimento de unidades são rápidos.
 
 #gmtyp_rtime_dscr3
-This is meant for smaller private games such as playing locally with a group of friends via direct IP.
+É pensado para partidas pequenas e privadas como jogar localmente com um grupo de amigos via IP direto.
 
 #gmtyp_prsist
-Persistent
+Persistente
 
 #gmtyp_prsist_dscr1
-Persistent games are balanced to have a server running 24/7 where actions can take several hours to complete and where players are not meant to be permanently ingame.
+Partidas persistentes são balanceadas para ter o servidor rodando 24/7 onde ações podem levar horas para serem completadas e onde não é esperada a presença online a todo momento dos jogadores.
 
 #gmtyp_prsist_dscr2
-Resource production, population growth and unit movements are slow.
+Produção de recursos, crescimento populacional e movimento de unidades são lentos.
 
 #gmtyp_prsist_dscr3
-This is meant for bigger public games and servers with higher numbers of players.
+Esse modo foi feito para grandes partidas públicas e servidores com alto número de jogadores.
 
 #gmtyp_cstm
-Custom
+Customizado
 
 #gmtyp_cstm_dscr
-Custom games allow you to define your own settings affecting the game-balance and speed.
+Partidas customizadas permitem que se defina as configurações de forma personalizada, afetando o balanceamento do jogo e sua velocidade.
 
 #gamelob_disco
-Disconnect
+Desconectar
 
 #gamelob_disco_c1
-Return to main menu
+Retorna para o menu principal
 
 #gamelob_usechar
-Play using this character
+Jogar usando essa personagem
 
 #gamelob_newchar
-New
+Nova
 
 #gamelob_newchar_c1
-Create a new character on this game
+Criar uma nova personagem na partirda
 
 #gamelob_play
-PLAY
+JOGAR
 
 #newchar_title
-New character
+Nova personagem
 
 #newchar_startpref
-Starting preferences
+Preferências de início
 
 #newchar_availspwn
-Available starts matching these settings
+Locais disponíveis que correspondem a essas preferências
 
 #newchar_closeto
-spawn close to character...
+iniciar perto de uma personagem...
 
 #newchar_closeto_c
-You will spawn as close as possible to the selected character, while matching the selected conditions above.
+Você irá iniciar o mais perto possível da personagem selecionada, ao mesmo tempo correspondendo as condições selecionadas acima.
 
 #newchar_starttyp
-Start types
+Tipos de início
 
 #newchar_clim
 Climates
 
 #newchar_st_precious
-This is a "Valuable start": once used you won't be able to respawn from another "Valuable spawn" for [x] regardless of your spawn cooloff.
+Esse é um "Início Valioso": quando usado, não será permitido iniciar em outro desses por [x] independente do seu tempo de espera de reinício.
 
 #newchar_st_prlck
-This "Valuable start" is locked because you spawned from another one less than [x] ago ([y] remaining).
+Esse "Início Valioso" está travado porque você iniciou em outro em menos de [x] passados ([y]restante).
 
 #newchar_st_pt
-Primitive tribes
+Tribos Primitivas
 
 #newchar_st_pt_c1
-Start from scratch by taking control of a primitive tribe.
+Comece do zero, tomando o controle de uma tribo primitiva.
 
 #newchar_st_pt_c2
-It's the default and standard way to start a game at the begining.
+É a maneira padrão de iniciar a partida no começo.
 
 #newchar_st_suc
-Succession
+Sucessão
 
 #newchar_st_suc_c1
-Become the new ruler an already existing government in need of a successor.
+Tornar-se um(a) novo(a) líder de um governo já existente que necessita de uma sucessão.
 
 #newchar_st_suc_c2
-You will gain control of an inactive character and inherit of all its possessions.
+Você irá ganhar controle de uma personagem inativa e herdar todas suas posses.
 
 #newchar_st_col
-Colonies
+Colônias
 
 #newchar_st_col_c1
-Become the new leader of a colony created by another player
+Tornar-se um(a) novo(a) líder de uma colônia criada por outro(a) jogador(a)
 
 #newchar_st_col_c2
-(You will join an existing Nation)
+(Você irá se juntar a uma nação já existente)
 
 #newchar_st_ar
-New leader
+Novo(a) Líder
 
 #newchar_st_ar_c1
-Become the new leader of a territory previously fallen into anarchy
+Tornar-se um(a) novo(a) líder de um território que caiu em anomia
 
 #newchar_st_ar_c2
-(a territory that rebelled or lost his previous leader: expect the unexpected!)
+(um território que se rebelou ou perdeu seu(ua) líder anterior: espere o inesperado!)
 
 #newchar_clim_c
-Select climates where you'd wish to potentially spawn
+Selecione os climas onde você deseja potencialmente iniciar
 
 #newchar_cold
-Cold
+Frio
 
 #newchar_temp
-Temperate
+Temperado
 
 #newchar_arid
-Arid
+Árido
 
 #newchar_trop
 Tropical
 
 #newchar_prspwn_warn
-WARNING: you have selected one or more "Valuable start" types. These cannot be re-used for [x] regardless of your spawn cool-off period in this game. Do not mess it up!
+AVISO: você selecionou um ou mais tipo de "Início Valioso". Esses não podem ser reusados por [x] independente do seu tempo de espera de reinício. Não estrague tudo!
 
 #newchar_nofind
-Could not find any unit or territory for this character!
+Não foi possível achar nenhum unidade ou território para essa personagem!
 
 #findchar_bc
-click to search for an existing character in this game
+clique para procurar uma personagem já existente na partida
 
 #char_invcode
-Invite code: [x]
+Código de convite: [x]
 
 #charcreate_err1
-Please provide a name for your new character.
+Por favor, nomeie sua personagem.
 
 #charcreate_err2
-Please provide a name for your government.
+Por favor, nomeie seu governo.
 
 #charcreate_err3
-There is no valid starting location matching your settings.
+Não existe um local de início válido que coincida com suas opções.
 
 #charcreate_err4
-Please provide an Invite code to complete your character creation!
+Por favor, escreva o código de convite para completar a criação da sua personagem!
 
 #charcreate_err5
-Invalid Invite code!
+Código de convite inválido!
 
 #findchar_none
-[none]
+[nenhum]
 
 #invtcd_title
-Invite code for [x]
+Código de convite para [x]
 
 #invtcd_txt
 You are trying to spawn near a character called '[x]'. To ensure that you are doing so in agreement with its owner, you must now provide the valid "invite code" matching this character and known only by the player controlling it. If you are joining a friend, ask him to give you this code which is displayed on his character's avatar ingame.
@@ -3998,7 +3998,7 @@ The trade route operator is the city dealing with the transportation of the good
 It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
 
 #ui_troute_opdscr3
-The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
+The cost of cargo is exponential to the trade route�s distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
 
 #ui_troute_vol
 Cargo volume
@@ -4112,7 +4112,7 @@ Militia
 A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
 
 #menu_nfrm_t2_dscr2
-Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+Militias don�t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
 
 #menu_nfrm_t2_dscr3
 However , the militia cannot move to other territory s and decreases the state authority.
