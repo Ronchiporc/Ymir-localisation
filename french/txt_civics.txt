@@ -5,64 +5,52 @@
 Un mode d'échange où les objets de valeur ne sont pas échangés ou vendus, mais plutôt donnés sans un accord explicite pour des récompenses immédiates ou futures.
 
 #civ_fairxchang_n
-Échanges équitables
+Troc
 
 #civ_fairxchang_dscr
 Échange immédiat et réciproque d'objets de valeur équivalents.
 
 #civ_currency_n
-Devises
+Devise
 
 #civ_currency_dscr
-Avoir une référence utile pour faciliter les échanges et utilisée comme unité de mesure de la valeur.
+L'utilisation d'objets de valeur intérmédiaires pour faciliter les échanges, le stockage des richesses, et mieux mesurer la valeur des choses.
 
 #civ_coinage_n
-Pièces de monnaie
+Monnaie
 
 #civ_coinage_dscr
-Une monnaie certifiée par l'état.
+Une forme de monnaie standardisée en pièces frappées par le sceau de l'Etat garantissant leur valeur.
 
 #civ_repmoney_n
-Monnaies représentatives
+Monnaie représentative
 
 #civ_repmoney_dscr
-Une monnaie représentant une réclamation sur une marchandise au lieu d'être une marchandise en soi.
+Une monnaie sans valeur marchande intrinsèque reposant uniquement sur la réputation de l'Etat garantissant sa valeur.
 
 #civ_bandsociety_n
 Société tribale
 
 #civ_bandsociety_dscr
-La forme la plus simple de la société, avec une faible organisation et un leadership informel.
+La forme la plus simple de la société, faiblement organisée et un avec une hierarchie informelle.
 
 #civ_leadership_n
 Leadership
 
 #civ_leadership_dscr
-Un dirigeant reconnu pour les gouverner tous.
+Un Dirigeant est reconnu formellement comme chef du gouvernement.
 
 #civ_localchief_n
-Autorités locales
+Administration Régionale
 
 #civ_localchief_dscr
-Le dirigeant de territoire locaux dirigent uniquement leur territoire et portent les ordres du pouvoir central.
-
-#civ_governors_n
-Gouverneurs
-
-#civ_governors_dscr
-Les fonctionnaires ayant le pouvoir de gouverner les provinces.
-
-#civ_senate_n
-Sénat
-
-#civ_senate_dscr
-Une assemblée de porcos agissant pour les intérêts du peuple.
+L'organisation d'administrations locales fédérées sous un gouvernement central, permettant le contrôle de multiple régions administratives.
 
 #civ_prtctor_n
 Protecteur du peuple
 
 #civ_prtctor_dscr
-"Je règle parce que je suis en charge de protéger les gens."
+"Je dirige parce que je suis en charge de protéger les gens."
 
 #civ_superior_n
 Leader supérieur
@@ -80,49 +68,43 @@ Chef divin
 Représentant divin
 
 #civ_divinerep_dscr
-"Je règle parce que je suis choisi par les dieux."
+"Je dirige parce que j'ai été choisi par les dieux."
 
 #civ_comgood_n
-Bien commun
+Par le Peuple
 
 #civ_comgood_dscr
-"Je règne pour le peuple."
+"Nous sommes le peuple."
 
 #civ_people_n
-Représentant des personnes
+Représentants du peuple
 
 #civ_people_dscr
-"Je règne au nom du peuple."
+"Nous dirigeons au nom du peuple."
+
+#civ_olig_n
+Pour les Elites
+
+#civ_olig_dscr
+"Je dirige pour les Elites."
 
 #civ_tax_n
 Imposition
 
 #civ_tax_dscr
-Les charges financières imposées aux contribuables par l'État.
-
-#civ_seizem_n
-Saisie des matériaux
-
-#civ_seizem_dscr
-Saisir les matériaux de construction de la population au lieu de les payer. Un excès de ceci pourrait nuire à votre économie.
+Organisation de charges financières imposées aux contribuables par l'État.
 
 #civ_statepriv_n
 Privilèges
 
 #civ_statepriv_dscr
-Privilèges pour le dirigeant de votre gouvernement, en lui accordant un pourcentage de la richesse du territoire de droit.
+Privilèges pour le dirigeant de vôtre gouvernement, en lui accordant un pourcentage de la richesse du territoire de droit.
 
 #civ_statesal_n
-Travailleurs d'état
+Salaire d'Etat
 
 #civ_statesal_dscr
 Les fonctionnaires sont directement employés et payés par l'Etat et servent dans divers bâtiments officiels comme l'administration ou les écoles.
-
-#civ_parl_n
-Parlement
-
-#civ_parl_dscr
-Une assemblée de représentants du peuple.
 
 #civ_minist_n
 Ministère
@@ -136,12 +118,6 @@ Rationnement
 #civ_ration_dscr
 Le rationnement des aliments réduit la consommation alimentaire de chaque porco. En période de pénurie alimentaire, cela permet d'améliorer l'accès de tous aux aliments.
 
-#civ_agrisav_n
-Stockage des graines
-
-#civ_agrisav_dscr
-Empêchez qu'une partie de votre production agricole soit directement distribuée ou consommée afin de conserver des graines pour créer de nouveaux champs.
-
 #civ_subv_n
 Subvention
 
@@ -153,3 +129,75 @@ Chercheurs payés
 
 #civ_paidrsrch_dscr
 Les chercheurs du projet sont payés par l'Etat proportionnellement  à leur richesse actuelle et ne réduisent plus la main-d'œuvre des bâtiments où ils travaillent.
+
+#cltr_consume_n
+Consommation de ressource
+
+#cltr_consume_dscr
+La pratique culturelle de vôtre population de consommer un type de resource spécifique. Permets la distribution et la vente de cette resource a la population.
+
+#cltr_resprod_n
+Production de ressource
+
+#cltr_resprod_dscr
+Débloque la possibilité de produire une resource. Les niveaux suivants améliorent l'efficacité de production tout en réduisant la quantié de matériaux requis.
+
+#cltr_resqual_n
+Expertise de production
+
+#cltr_resqual_dscr
+La tradition culturelle d'expertise augmente la qualité de production d'un type de ressource spécifique.
+
+#civ_tributes_n
+Tributs
+
+#civ_tributes_dscr
+Forme basique de taxation dans laquelle le gouvernement réquisitionne une partie des productions.
+
+#civ_council_n
+Conseil
+
+#civ_council_dscr
+Des conseillers de confiance assistent le Dirigeant dans les affaires du gouvernement, améliorant l'administration de l'Etat.
+
+#civ_treasury_n
+Trésorerie
+
+#civ_treasury_dscr
+Séparation des finances du Dirigeant de celle du Gouvernement, la Trésorerie administre uniquement les finances du gouvernement.
+
+#civ_lawmk_n
+Législation
+
+#civ_lawmk_dscr
+Une institution de fonctionnaires gouvernementaux dédiée a l'exercice du pouvoir législatif.
+
+#civ_court_n
+Cour
+
+#civ_court_dscr
+Constitution d'une Cour hébergeant et divertissant subordonnés et vassaux directement au sein de la capitale afin d'en assurer un meilleur contrôle et de faciliter leur administration.
+
+#civ_democracy_n
+Democracie
+
+#civ_democracy_dscr
+Gouvernance en tant que Démocracie directe ou les citoyens votent et participent au pouvoir directement et ou la majorité dirige sans aucun Dirigeant ou intermédiaire.
+
+#civ_republic_n
+République
+
+#civ_republic_dscr
+Gouvernance en tant que République ou les politiciens dirigent au nom du peuple.
+
+#civ_aristo_n
+Aristocratie
+
+#civ_aristo_dscr
+L'Oligarchie est cimentée par le droit du sang, est associé a des privilèges, et est transmise par hérédité, assurant le statut des familles d'Oligarques.
+
+#civ_comwork_n
+Travail communautaire
+
+#civ_comwork_dscr
+Tous les actifs doivent allouer une portion de leur temps aux tâches communautaires.

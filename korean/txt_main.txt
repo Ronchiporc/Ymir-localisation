@@ -268,14 +268,20 @@ or
 #g_Add
 추가
 
-#g_enables
-활성화 : 
+#g_Enables
+활성화
 
-#g_Disable
-비활성화 : 
+#g_enables
+활성화
+
+#g_Disables
+비활성화
 
 #g_disables
-비활성화 : 
+비활성화
+
+#g_Disable
+비활성화
 
 #g_price
 가격
@@ -546,3 +552,54 @@ with
 
 #g_never
 never
+
+#g_chief
+족장
+
+#g_chiefdom
+족장
+
+#g_vassal
+종속국
+
+#g_vassaldom
+종속 상태
+
+#g_Game
+게임
+
+#g_cltr_customs
+풍습
+
+#g_architecture
+건축
+
+#g_psyche
+정신
+
+#g_traditions
+전통
+
+#g_in
+in
+
+#g_at
+at
+
+#g_when
+when
+
+#g_You
+당신
+
+#g_civpoint
+문명 점수
+
+#g_bandits
+도적단
+
+#g_hostnatv
+적대적 원주민들
+
+#g_completed
+완료

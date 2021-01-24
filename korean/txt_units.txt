@@ -5,7 +5,7 @@
 수퇘지
 
 #u_sow
-암퇘지
+암컷 돼지
 
 #u_piglet
 아기돼지
@@ -13,8 +13,11 @@
 #u_oldpig
 늙은돼지
 
+#u_carrier
+운반꾼
+
 #u_warrior
-전사
+원시전사
 
 #u_axepig
 도끼병
@@ -23,7 +26,7 @@
 검병
 
 #u_swordboar
-중무장검병
+중보병
 
 #u_porcus
 백부장
@@ -38,22 +41,22 @@
 흉갑창병
 
 #u_immortal
-임모탈
+중무장창병
 
 #u_voulger
 미늘창병
 
 #u_warhog
-미늘창중보병
+철갑미늘창병
 
 #u_battleswine
-장검보병
+장검병
 
 #u_baconeer
-장검중보병
+철갑장검병
 
 #u_martelsnout
-중보병
+철갑망치병
 
 #u_javelin
 투창병
@@ -74,7 +77,7 @@
 비늘기병
 
 #u_pigatarms
-돼지중기병
+중기병
 
 #u_mntdarcher
 궁기병
@@ -86,7 +89,7 @@
 비늘낙타기병
 
 #u_camelier
-살라딘
+낙타중기병
 
 #u_camelbow
 낙타궁기병
@@ -189,3 +192,24 @@
 
 #u_rockthrower
 투석병
+
+#u_frag_palentir
+팔렌티르 파편
+
+#u_palentir
+팔렌티르
+
+#u_elemental
+정령
+
+#u_goblin
+고블린
+
+#u_orc
+오크
+
+#u_fimyr
+피미르
+
+#u_golem
+장갑 골렘

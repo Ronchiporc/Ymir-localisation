@@ -24,16 +24,13 @@ KONEC
 POKRAČOVAT
 
 #b_menu_tomain
-DO MAIN MENU
+HL. MENU
 
 #ui_tomainvalid
 Opravdu chcete odejít a vrátit se do hlavního menu?
 
 #ui_connctstat_1
 Práve připojen na [x]  ping: [y]
-
-#ui_connctstat_2
-Loss rate: [x]% ( sent:[y]  failed:[z] )
 
 #ui_connct_stable
 Vaše spojení se serverem je stabilní.
@@ -63,22 +60,22 @@ Automatické rozlišení
 automatically adapt resolution to the display in fullscreen
 
 #b_menuop_res
-Display resolution
+Rozlišení displeje
 
 #bc_menuop_res
-choose the desired display resolution when in fullscreen
+vyberte požadované rozlišení displeje při 'celé obrazovce'
 
 #b_menuop_terrain
-Terrain
+Terén
 
 #b_menuop_low
-low
+nízké
 
 #b_menuop_medium
-medium
+střední
 
 #b_menuop_high
-high
+vysoké
 
 #b_menuop_bdgs
 Budovy
@@ -90,10 +87,10 @@ Jednotky
 FX
 
 #b_menuop_shaders
-Shaders
+Shadery
 
 #b_menuop_worldmap
-Worldmap
+Mapa světa
 
 #b_menuop_logic
 Logic
@@ -105,10 +102,10 @@ Cosmetic vegetation
 Enable cosmetic grass and bushes
 
 #b_menuop_cosunits
-Cosmetic units 
+Dekorativní jednotky
 
 #bc_menuop_cosunits
-Enable cosmetic units like decorative animals
+Umožní zobrazovat dekorativní jednotky, jako např. Zvířata
 
 #b_menuop_animveget
 Animated vegetation
@@ -123,13 +120,13 @@ Video grain
 Enable or disable this post-processing effect
 
 #b_menuop_mvol
-Music volume
+Hlasitost hudby
 
 #b_menuop_ambvol
-Ambiant volume
+Hlasitost okolí
 
 #b_menuop_uivol
-UI volume
+Hlasitost menu
 
 #b_menuop_lang
 Jazyk
@@ -192,34 +189,34 @@ Online
 Počet aktivních hráču ve hře
 
 #servlst_dur
-Duration
+Délka
 
 #servlst_dur_c1
-The amount of time this game has been going on
+Doba, po kterou tato hra už probíhá
 
 #servlst_ver
-server's version
+verze serveru
 
 #servlst_ver_c1
-The version of the game this server is currently running.
+Verze hry na níž tento server pravě funguje.
 
 #servlst_ver_c2
 Varování! Tvá verze hry ([x]) není shodná s verzí serveru ([y])!
 
 #servlst_nogam
-Sorry: It looks like there is currently no games available!
+Sorry: Vypadáto to, že právě nejsou žádne hry možné k připojení!
 
 #b_newgame_name
 Název hry:
 
 #b_newgame_public
-public
+veřejné
 
 #b_newgame_friends
-friends only
+pouze přátelé
 
 #b_newgame_private
-private
+soukromé
 
 #b_newgame_password
 Heslo:
@@ -240,10 +237,10 @@ NOVÁ HRA
 SVĚT
 
 #b_newgame_wprocedural
-Procedural
+Procedurální
 
 #b_newgame_wcustom
-Custom
+Vlastní
 
 #newgame_serv_c
 nastavení serveru
@@ -264,7 +261,7 @@ Uložená hra '[x]' již existuje v místních souborech! Co by si rád udělal?
 Přepsat
 
 #newgame_renam
-Autorename
+Automaticky přejmenovat
 
 #newgame_nomap
 žádný není k dispozici
@@ -276,22 +273,22 @@ It seems there is'nt any custom map available. Please select a procedural type o
 Velikost Mapy
 
 #mapsize1
-Tiny
+Maličký
 
 #mapsize2
-Small
+Malá
 
 #mapsize3
-Regular
+Regulární
 
 #mapsize4
-Large
+Velká
 
 #mapsize5
-Huge
+Obrovská
 
 #mapsize6
-Giant
+Gigantická
 
 #maptyp
 Map preset
@@ -300,7 +297,7 @@ Map preset
 Terra
 
 #maptyp1_dscr
-Temperate earth-like worlds with several continents.
+Mapa s podobností na Zemi s několika kontinenty.
 
 #maptyp2
 Pangea
@@ -315,34 +312,34 @@ Archipelago
 Sea worlds with lots of islands and smaller landmass.
 
 #maptyp4
-Desert world
+Pouštní svět
 
 #maptyp4_dscr
 Desertic worlds where hospitable territories are mostly located towards poles and around smaller inland seas.
 
 #maptyp5
-Ice world
+Ledový svět
 
 #maptyp5_dscr
-Cold desertic worlds with only a few hospitable territories.
+Chladný svět, jež obsahuje jenom pár životu podporujích teritorii.
 
 #maptyp6
-Tropico
+Tropický
 
 #maptyp6_dscr
 Warm and humid sea worlds with lots of tropical islands.
 
 #maptypcust
-Custom settings
+Vlastní nastavení
 
 #custmap_sel
-Select a world map
+Zvol si světovou mapu
 
 #custmap_sel_c
-Select a custom map
+Zvolit vlastní mapu
 
 #custmap_dscr
-Custom worlds are maps manually created with the editor instead of beeing procedurally generated.
+Vlastní světy jsou mapy, jež jsou vytvářeny manuálně místo využití procedurální generace.
 
 #newgame_gamset
 HERNÍ NASTVENÍ
@@ -378,10 +375,10 @@ Trvalá hra
 Trvalé hry jsou vyvážené, aby měly server běžící 24/7 , kde akce mohou trvat několik hodin a hráči nejsou zamýšlení, aby byli neustále přítomni ve hře.
 
 #gmtyp_prsist_dscr2
-Resource production, population growth and unit movements are slow.
+Produkce zdrojů, růst populace a pohyby jednotek jsou pomalé.
 
 #gmtyp_prsist_dscr3
-This is meant for bigger public games and servers with higher numbers of players.
+To to je určeno pro větší veřejné hry a servery s vyšším počtem hráčů.
 
 #gmtyp_cstm
 Vlastní
@@ -393,16 +390,16 @@ Vlastní hra umožňuje definovat vlastní nastavení ovlivňující vyvážení
 Odpojit
 
 #gamelob_disco_c1
-Return to main menu
+Navrát do hl. menu
 
 #gamelob_usechar
-Play using this character
+Hrát s touto postavou
 
 #gamelob_newchar
 Nový
 
 #gamelob_newchar_c1
-Create a new character on this game
+Vytvoř si novou postavu pro tuto hru
 
 #gamelob_play
 HRAJ
@@ -612,7 +609,7 @@ New formation's camp
 Relocating camp
 
 #bc_erase
-Destruction tool
+Nástroj destrukce
 
 #b_erase_ter
 terén
@@ -645,16 +642,16 @@ Opusť
 (building is disabled and decays with time)
 
 #ui_menubdg_sleep1
-Sleep mode
+Spací mod
 
 #ui_menubdg_sleep2
 In sleep mode : all functionnalities are stopped until you activate it again. Building does not degrade with time (maintenance).
 
 #ui_menubdg_build1
-Under contruction
+Právě se staví
 
 #ui_menubdg_build2
-This building is not finished and therefor not fonctionnal yet.
+Tato budovace se právě staví a tímpádem není ještě funkční.
 
 #ui_menubdg_fonct1
 Fungující
@@ -720,16 +717,16 @@ Příjem získaný každým pracovníkem
 Buidling activity: [x]
 
 #ui_menubdg_winc_3
-State salary: [x]
+Státní platy: [x]
 
 #ui_menubdg_winc_4
 Subventions: [x]
 
 #bc_menubdg_wake1
-Wake
+Probudit
 
 #bc_menubdg_wake2
-(building becomes active again)
+(budova se stane zase aktivní)
 
 #bc_menubdg_rest1
 Restauruje se
@@ -762,7 +759,7 @@ This building can create market stands where workers will sell directly their pr
 This building cannot create maket stands because it cannot produce anything sellable to the public.
 
 #ui_menubdg_anx
-Annexes
+Vylepšení
 
 #bc_menubdg_expl
 exploited
@@ -810,7 +807,7 @@ Celkový příjem ze všech daní na tomto území
 Daň z příjmu
 
 #regeco_tax_inc_c1
-Taxes all incomes of the population 
+Zdanění přijmů tvé populace, není mezi tvými občany velmi populární
 
 #regeco_waste
 Ztráty
@@ -876,7 +873,7 @@ Obchodní zisk
 Zisk ze všech importovanných a exportovanných zboží a příjmů.
 
 #regeco_ii
-Imported goods local sales
+Importované zboži - lokální zisky
 
 #regeco_ii_c1
 Revenues generated from all imported goods sold in the territory (at their local price).
@@ -900,7 +897,7 @@ Exported goods purchasing cost
 Total cost paid for purchasing the exported goods to their local producers in this territory (at their local price).
 
 #regeco_ers
-State-owned resources sales
+Státem vlastněné zdroje - zisky
 
 #regeco_ers_c1
 State-owned resources sold to population or industries.
@@ -918,13 +915,13 @@ Currency beeing used in this territory:
 Irrelevant currency only used locally in this territory
 
 #b_menureg_coin
-coin value:
+hodnota v mincích:
 
 #bc_menureg_coin1
 coins circulating for
 
 #bc_menureg_coin2
-Value of 1 coin is approximatively
+Hodnota jedné mince je přibližně asi
 
 #b_menureg_gdp
 HDP:
@@ -1038,16 +1035,16 @@ omezený
 dovolit
 
 #bc_menubdg_perm
-Select how resources are accepted in this storage building
+Zvol jak jsou suroviny příjmány v této skladovací budově
 
 #b_menubdg_allempty
-empty all
+vyprázdni vše
 
 #b_menubdg_alldestr
-destroy all
+zničit vše
 
 #bc_menubdg_move
-move
+přesunout
 
 #bc_menubdg_move2
 deconstruct this building and rebuild it elsewhere
@@ -1059,7 +1056,7 @@ Government of
 ACTIVE POLICIES
 
 #ui_gov_coins
-state coins
+státní peníze
 
 #ui_gov_ecobalance
 current budget balance
@@ -1101,7 +1098,7 @@ PŘIDAT DO REFORMY
 klepnutím přidáte novou zásadu k reformě
 
 #ui_civ_off
-REVOKCE V REFORMĚ
+REVOUKCE V REFORMĚ
 
 #ui_civ_off_c
 klepnutím přidáte zrušení této zásady v reformě
@@ -1161,7 +1158,7 @@ Vládcovo bohatsví
 The leader is currently assigning [x]% of his personnal total wealth of [y] to the government finances.  
 
 #ui_eco_tax
-Taxes incomes
+Příjem z daní
 
 #ui_eco_tax_c1
 Celkový objem z daní ze všech tvých teritorií.
@@ -1179,22 +1176,16 @@ Ztráty
 Tax incomes lost because of Waste in your territories. Waste is a result of low territory administration.
 
 #ui_eco_bdgs
-Buildings upkeep
+Údržba budov
 
 #ui_eco_bdgs_c1
-Total upkeep of all buildings in all your territories.
-
-#ui_eco_infr
-Infrastructures upkeep
-
-#ui_eco_infr_c1
-Total cost of  maintaining all the infrastructures of all your territories such as walls or roads.
+Celkové náklady na všechny budovy ve všech územích.
 
 #ui_eco_units
 Údržba vojska
 
 #ui_eco_units_c1
-Total upkeep of all units in all your formations.
+Celkové náklady za všechny jednotky ve všech tvých formacích.
 
 #ui_eco_salar
 Platy
@@ -1236,13 +1227,13 @@ Obchodní bilance
 The trade balance across all your territories fromm all your current trade routes.
 
 #ui_eco_tradbal_c2
-Trading incomes: [x]
+Zisky z obchodování: [x]
 
 #ui_eco_tradbal_c3
-Trading expenses: [x]
+Náklady z obchodování: [x]
 
 #ui_mres_storvar
-STORAGE VARIATION
+VARIACE SKLADŮ
 
 #ui_mres_prod
 PRODUKCE
@@ -1254,7 +1245,7 @@ IMPORT
 DISTRIBUCE
 
 #ui_mres_ind
-INDUSTRIES
+PRŮMYSL
 
 #ui_mres_exp
 EXPORT
@@ -1272,7 +1263,7 @@ Production cost ([x]%)
 The cost of local production for this resource based on the cost of required materials.
 
 #ui_price_base2
-Importation cost ([x]%)
+Cena importu ([x]%)
 
 #ui_price_base2_c1
 The cost of importation of this resource from current trade routes.
@@ -1317,19 +1308,19 @@ Exportations ([x]%)
 The average price of exportations and the share of the local market they represent influences the price study proportionnally.
 
 #ui_price_sd
-Supply/demand: [x]%
+Nabídka/Poptávka: [x]%
 
 #ui_price_sd_c1
 The ratio of total supply with total demand influences the price both ways, resulting from the competition between traders or between buyers.
 
 #ui_price_sd_c2
-Supply: [x] units
+Nabítka: [x] kusů
 
 #ui_price_sd_c3
-Demand: [x] units
+Poptávka: [x] kusů
 
 #ui_mres_ststk
-State owned
+Státem vlastněné
 
 #ui_mres_ststk_c1
 Resources you own directly yourself as the state, as opposed to the rest of it owned privately by your population. New resources start initially owned by their respective producers.
@@ -1341,7 +1332,7 @@ You do not have to buy the resources you already own when using them and you als
 You currently own [x] of the [y] [z] currently stocked in this territory.
 
 #ui_mres_stres
-State resource
+Státní suroviny
 
 #ui_mres_stres_c1
 If declared a State Resource, the whole production of this resource will be automatically purchased by the state as they are produced.
@@ -1350,7 +1341,7 @@ If declared a State Resource, the whole production of this resource will be auto
 A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work.
 
 #ui_mres_stmntn
-Maintain ownership
+Udržuj vlastnictví
 
 #ui_mres_stmntn_c1
 The amount of resources in stocks to maintain direct ownership of. 
@@ -1446,7 +1437,7 @@ Vyhodit
 Priority of filling jobs in this building.
 
 #storpol
-Storage policy
+Politika skladu
 
 #storpol_all
 all storages
@@ -1476,7 +1467,7 @@ The stocking of this resource is disabled.
 All the extra resources are destroyed.
 
 #stormntn
-Maintain stock
+Udržuj zásoby
 
 #stormntn_c
 If the current stock is below the desired value, 25% of the production will be reserved and locked in order to increase the stock. 
@@ -1521,7 +1512,7 @@ Conflict represents the level of random conflicts between the people of the terr
 Active government civics and services in the territory such as Justice can help reduce it.
 
 #regloy_eff
-Effects: prevents population rebellion
+Efekty: zabraňuje populační rebélii
 
 #regloy_1
 Loyalty represents the global loyalty of the territory's people to you: the central government controlling this territory.
@@ -1548,19 +1539,19 @@ Growth represents the current demographic evolution of your population in this t
 Growth is greatly dependent on the "breeding will" of the people which determines how many couples will have children within the next generation.
 
 #popw_base
-Base wealth
+Základní bohatství
 
 #popw_income
-Porco's income
+Vepřův příjem
 
 #popw_priv
-Priviledges
+Privilégia
 
 #popneed_sat
-NEEDS SATISFACTION
+NAPLŇĚNÍ POTŘEB
 
 #popstat_wealth
-WEALTH
+BOHATSTVÍ
 
 #popstat_wealth_c1
 A porco's wealth defines it's purchasing power.
@@ -1590,7 +1581,7 @@ It affects many other things such as intelligence, happyness or growth.
 INTELLIGENCE
 
 #popstat_intel_c1
-Intelligence is one's ability to create algorythms measuring probabilities of Truth.
+Inteligence je jedincova schopnost vytvářet různé algoritmy a měřit pravděpodobnost Pravdy.
 
 #popstat_intel_c2
 Intelligent porcos will generate more ideas and culture, but tend to be unhappier and harder to control.
@@ -1599,7 +1590,7 @@ Intelligent porcos will generate more ideas and culture, but tend to be unhappie
 satisfaction quality
 
 #popneed_access
-access
+přístup
 
 #popneed_food
 jídlo
@@ -1608,7 +1599,7 @@ jídlo
 voda
 
 #popneed_furnish
-furnishings
+nábitek
 
 #popneed_cloth
 oblečení
@@ -1617,19 +1608,19 @@ oblečení
 alkohol
 
 #popneed_entert
-entertainments
+zábava
 
 #popneed_lux
-luxury
+luxusní zboží
 
 #popneed_pfood
 pleasure foods
 
 #popneed_social
-social
+socialní
 
 #popneed_2
-secondary needs
+vedlejší potřeby
 
 #popneed_3
 tertiary needs
@@ -1638,10 +1629,10 @@ tertiary needs
 quaternary needs
 
 #popneed_unsat
-(-[x]% for unsatisfied needs of higher priority)
+(-[x]% za neuspokojení potřeb vyšší priority)
 
 #popneed_lq
-life quality bonus: +[x]
+bonus životní úrovně: +[x]
 
 #loadgame_select
 Select a local saved game to load
@@ -1650,34 +1641,34 @@ Select a local saved game to load
 ( Local saves are located in \AppData\Local\Ymir\saves )
 
 #loadgame_nofnd
-No games found!
+Žadné hry nebyly nalezeny!
 
 #loadgame_none1
-It seems there is no existing games to load!
+Vypadáto to tak že tam nejsou žádné hry k nahrání!
 
 #loadgame_none2
-You need to create a new game.
+Potřebuješ vytvořit novou hru.
 
 #loadgame_crtnew
-CREATE NEW GAME
+VYTVOŘIT NOVOU HRU
 
 #loadgame_rename
-rename
+přejmenovat
 
 #loadgame_copy
-copy
+zkopírovat
 
 #loadgame_del
-delete
+smazat
 
 #loadgame_renaming
-Rename game
+Přejmenovat hru
 
 #loadgame_copying
-Copy name
+Zkopírovat hru
 
 #loadgame_deleting
-Are you sure you want to delete this saved game ?
+Jsi si jist že chceš smazat tuto uloženou hru ?
 
 #joingame_serv
 Server IP
@@ -1686,7 +1677,7 @@ Server IP
 Server port
 
 #popstat_wbase
-base wealth
+základní bohatství
 
 #popstat_winc
 coins of income
@@ -1698,10 +1689,7 @@ earning [x] coins out of [y] in total
 awards [x]% of [y] territory wealth
 
 #popstat_wpriv
-privileges
-
-#popstat_wpriv_c
-wealth given directly as privileges by social policies
+privilégie
 
 #legit_dscr
 Legitimacy is how much the people recognizes the right of your state's claims to authority which are defined by your active Legitimacy policies. These affect the positive or negative influence of all the different legitimacy factors.
@@ -1716,46 +1704,46 @@ Total legitimacy
 Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
 
 #legit_protect
-Military strenght
+Vojská síla
 
 #legit_protect_c
 Our military strenght is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
 
 #legit_wealth
-Leader superiority
+Vznešenost vládce
 
 #legit_wealth_c
-Our leader superiority is currently of [x]. It's increased by the wealth of the leader's population class.
+Vznešenost našeho vládce je právě [x]. Je to určeno bohatstvím vládcovské populační třídy.
 
 #legit_relig
-People religiosity
+Náboženství populace
 
 #legit_relig_c
-[not implemented yet]
+[zatím není implementováno]
 
 #legit_parl
-Parliament power
+Moc Parlamentu
 
 #legit_parl_c
-[not implemented yet]
+[zatím není implementováno]
 
 #legit_senat
-Senate power
+Moc Senátu
 
 #legit_senat_c
-[not implemented yet]
+[zatím není implementováno]
 
 #legit_approv
-People approval
+Podpora obyvatelstva
 
 #legit_approv_c
-[not implemented yet]
+[zatím není implementováno]
 
 #legit_minist
-Ministry power
+Moc Ministerstva
 
 #legit_minist_c
-[not implemented yet]
+[zatím není implementováno]
 
 #legit_inf_pos
 The [x] factor currently has a positive influence over our Legitimacy. ([y])
@@ -1770,7 +1758,7 @@ The [x] factor currently has no influence over our legitimacy.
 State power is the capacity of your state to manage things. Power policies define how the political power is organized in the state, generating State power and affecting different types of legitimacies. State power increases the loyalty of territories.
 
 #statepow_tot
-Total state power
+Celková státní moc
 
 #statepow_civ
 Power policies
@@ -1808,12 +1796,6 @@ Treaties maintenance
 #statepow_tmain_c1
 All active treaties cost a certain amount of State Power to be maintained, depending on the nature of our terms in the treaties.
 
-#statepow_powtr
-State Power transfers
-
-#statepow_powtr_c1
-State Power beeing transfered to or from other governments due to current active treaties.
-
 #statepow_civmnt
 Civics maintenance
 
@@ -1829,15 +1811,6 @@ State power transfered from subordinates: [x]
 #statepow_nation_c2
 State power transfered to superior: [x]
 
-#statepow_nation_c3
-Number of direct subordinates: [x]
-
-#statepow_nation_c4
-Distance of direct subordinates: [x]
-
-#statepow_nation_c5
-Number of total subordinates: [x]
-
 #statepow_forms
 Maintenance of formations
 
@@ -1851,19 +1824,19 @@ The current effective conflict of the territory
 The current conflict variation of the territory
 
 #conf_gpop
-Population
+Populace
 
 #conf_gstate
 Policies
 
 #conf_gserv
-Services
+Služby
 
 #conf_pop
-Base conflict
+Základní konflikt
 
 #conf_pop_c1
-The total population in the territory will naturally generate conflict, used as a base for other factors.
+Celková populace teritoria základně generuje konflikt, využíváse jako základ pro další faktory.
 
 #conf_state
 Policies ([x]%)
@@ -1872,10 +1845,10 @@ Policies ([x]%)
 Current government policies can effect the base conflict from population.
 
 #conf_serv
-Services ([x]%)
+Služby ([x]%)
 
 #conf_serv_c1
-Services in the territory like Justice can reduce the final conflict level, depending on how well population has access to them.
+Služby v teritoriu jako je třeba 'Spravedlnost' může snižovat celkovou úroveň konfliktu, ovšem záleží na tom jak moc dobře populace má k nim přistup.
 
 #loyal_c1
 The current effective loyalty of the territory
@@ -1884,10 +1857,10 @@ The current effective loyalty of the territory
 The current loyalty variation of the territory
 
 #loyal_pop
-population
+populace
 
 #loyal_pop_c1
-How population factors affect the loyalty of the territory.
+Jak populační faktor ovlivňuje loajalitu teritoria.
 
 #loyal_cult
 from cultural balance
@@ -1902,25 +1875,25 @@ state
 How global state factors affect the loyalty of the territory.
 
 #loyal_legit
-from state legitimacy
+ze státní legitimity
 
 #loyal_legit_c1
 State legitimacy affects the loyalty of all territories.
 
 #loyal_statepow
-from state power
+ze státní moci
 
 #loyal_statepow_c1
 State power affects the loyalty of all territories.
 
 #loyal_hightax
-high taxes
+vysoké daně
 
 #loyal_hightax_c1
-When the sum of all state taxes exceed 50%, it starts to upset people and reduces their loyalty to the state.
+Když součet všech daní přesahuje 50%, začneto nasírat prasata a tím redukovat jejich loajalitu ke státu.
 
 #loyal_prvldg
-priviledges
+privilégie
 
 #loyal_prvldg_c1
 Priviledges upset the people and reduce their loyalty to the state.
@@ -1938,19 +1911,19 @@ state troops
 The presence of state troops increases the state's authority in the territory.
 
 #loyal_guard
-guards
+hlídači
 
 #loyal_guard_c1
 The total produced guarding service increases the authority of the state.
 
 #loyal_garrison
-local garrison
+místní armáda
 
 #loyal_garrison_c1
 Providing military equipment to the citizens of the territory to defend themselves also makes them more confident to defy the state's authority.
 
 #loyal_poppow
-amount of population
+velikost populace
 
 #loyal_poppow_c1
 The more population there is, the less authority. The total amount of population reduces the territory's loyalty.
@@ -1962,7 +1935,7 @@ konflikt
 Territory conflict reduces the authority of your government in this territory as it creates instability.
 
 #loyal_events
-events
+události
 
 #loyal_events_c1
 Some events can affect temporarly the loyalty of the territory.
@@ -1986,19 +1959,19 @@ odpor!
 Loyalists to the previous owner of this territory ([x])
 
 #admin_capacit
-production
+produkce
 
 #admin_capacit_c1
-Total administration available in this territory.
+Celková přístupná administrativa na tomto území.
 
 #admin_streg
-territorynal policies
+územní politiky
 
 #admin_streg_c1
 Administration generated from active power policies affecting all territories.
 
 #admin_stcity
-city policies
+městské politiky
 
 #admin_stcity_c1
 Administration generated from active power policies affecting cities.
@@ -2010,7 +1983,7 @@ capital policies
 Administration generated from active power policies affecting the capital.
 
 #admin_scrib
-scribes
+úředníci
 
 #admin_scrib_c1
 Extra administration produced by Scribes.
@@ -2055,19 +2028,19 @@ distance from capital
 -[x]% of administration per distance to the capital in territories
 
 #admin_dist_c2
-distance from capital: [x]
+vzdálenost od hlavního města: [x]
 
 #admin_claim
-Regional claims
+Regionální nárok
 
 #admin_claim_c1
 The management cost of all the territorial claims made by this region.
 
 #admin_claim_c2
-number of claims: [x]
+počet nároků: [x]
 
 #admin_ter
-Regional territories
+Regionální teritorie
 
 #admin_ter_c1
 The management cost of all the additionnal territories belonging to this region.
@@ -2082,79 +2055,79 @@ státní kultura
 místní kultura
 
 #cultr_pop
-culture from population
+kultura z populace
 
 #cultr_srv
-culture from services
+kultura ze služeb
 
 #eco_balance
 Balance
 
 #growth_males
-Porcos variation
+Vapřovská variace
 
 #growth_sows
-Sows variation
+Variace sviní
 
 #growth_piglets
-Piglets variation
+Variace selat
 
 #growth_oldpigs
-Oldpigs variation
+Variace staroprasat
 
 #growth_mnew
-male piglets reaching adulthood
+vepřátka dosahují dospělostí
 
 #growth_msick
 nemocných
 
 #growth_mmurder
-vražd
+zavražděných
 
 #growth_mage
-aging porcos becoming oldpigs
+stárnoucí vepři jež se stávají staroprasaty
 
 #growth_munitsup
 aging in formations: [x] porcos in supported units (free support for [y])
 
 #growth_snew
-female piglets reaching adulthood
+sviňátka dosahují dospělostí
 
 #growth_ssick
-sickness
+nemocných
 
 #growth_smurder
-murders
+zavražděných
 
 #growth_sage
-aging sows becoming oldpigs
+stárnoucí svině jež se stávají staroprasečice
 
 #growth_pnew
-births
+narozených
 
 #growth_psick
-sickness
+nemocných
 
 #growth_pmurder
-murders
+zavražděných
 
 #growth_page
-reaching adulthood
+dosahující dospělosti
 
 #growth_onew
-aging population becoming oldpigs
+stárnoucí populace stávající se staroprasatami
 
 #growth_osick
-sickness
+nemocných
 
 #growth_omurder
-murders
+zavražděných
 
 #growth_odeath
-natural deaths
+přirozené umrtí
 
 #breed_chance
-breeding rate
+velikost rozmnožování
 
 #breed_chance_dscr
 The predicetd percentage of sows that will have piglets during the next generation.
@@ -2163,10 +2136,10 @@ The predicetd percentage of sows that will have piglets during the next generati
 [x] sows will breed during the next generation
 
 #breed_base
-basic breeding rate
+základní rozmnožovací rozsah
 
 #breed_intel
-intelligence influence
+ovlivněno inteligencí
 
 #breed_totpop
 total population effect
@@ -2175,19 +2148,19 @@ total population effect
 piglets per sow influence
 
 #breed_smcity
-small city boost
+boost malého města
 
 #breed_vit
-missing vital needs influence
+ovlivněno chybějícími základními potřebami
 
 #breed_fertil
-fertility
+plodnost
 
 #breed_fertil_c
 the average number of piglets per litter
 
 #growth_genlen
-generation lenght
+délka generace
 
 #growth_genlen_c1
 The amount of time a generation of Porcos lasts. 
@@ -2208,64 +2181,64 @@ current variation rate of the total population
 Estimated for the next generation...
 
 #troop_recruit
-recruit a new troop
+najmout novou jednotku
 
 #b_dplmode
-Strategic tool
+Strategický nástroj
 
 #bc_dplmode
 Go to deployment mode, where you can manage the deployment positions and orders of all your troops.
 
 #forminv_add
-add resources
+přidat zdroje
 
 #ui_recruit_resist
-You cannot recruit new units in a territory with resistance.
+Na území s odporem nemůžete přijímat nové jednotky.
 
 #ui_recruit_immo
-You cannot modify troops while this formation is immobilized.
+Když je tato formace imobilizována, nemůžete modifikovat jednotky.
 
 #ui_recruit_nothm
-You cannot recruit new units outside this formation's home territory ([x]).
+Nemůžete přijímat nové jednotky mimo domovské území této formace ([x]).
 
 #ui_recruit_cant
-You cannot recruit or disband troops in territories you do not control.
+Nemůžete najmout nebo rozpustit jednotky na územích, které neovládáte.
 
 #ui_recruit_noup
-( militias upkeep is lower as it doesnt include a soldier's salary )
+( údržba milicí je nižší, protože nezahrnuje plat vojáka )
 
 #ui_recruit_nopop
-( no population mobilized because it's a local militia )
+( mobilizována nebyla žádná populace, protože je to místní milice )
 
 #ui_recruit_cost_1
-Cost to recruit one unit.
+Náklady na nábor jedné jednotky.
 
 #ui_recruit_cost_2
 Includes a training cost plus the price of its equipment.
 
 #ui_recruit_cost_3
-- Cost of training: [x]
+- Cena tréningu: [x]
 
 #ui_recruit_cost_4
-- Cost of equipment: [x]
+- Cena výzbroje: [x]
 
 #ui_recruit_totcost
-Total recruitment cost
+Celkové náklady na nábor
 
 #ui_recruit_nopay
-You do not have enough funds to recruit these new units!
+Nemáte dostatek prostředků na nábor těchto nových jednotek!
 
 #ui_recruit_max_pop
-More population needed!
+Je potřeba více populace!
 
 #ui_recruit_max_ts
-Maximum size of this troop is [x] units.
+Maximální velikost této jednotky je [x] jednotek.
 
 #ui_recruit_max_res
-[x] needed!
+[x] potřeba!
 
 #ui_recruit_cost
-Cost per unit
+Cena za jednotku
 
 #ui_recruit_civ
 civilian units
@@ -2286,43 +2259,43 @@ This formation is full!
 Total population available for this unit in the territory: [x] 
 
 #ui_recruit_inact
-Currently inactives: [x]
+Práve nezaměstnáných: [x]
 
 #ui_recruit_rcrt
-Recruit
+Najmout
 
 #ui_recruit_dsbd
-Disband
+Rozpustit
 
 #ui_recruit_trsfr
-Transfer
+Přesunout
 
 #ui_recruit_AP
 This action will cost [x] Action Points to the formation (however note that you are allowed to proceed even if the formation reaches 0 AP).
 
 #ui_statunit_t
-Toughness
+Odolnost
 
 #ui_statunit_t_dscr
 Toughness if the capacity of the unit to withstand damage when hit, determining it's chances to be actually wounded.
 
 #ui_statunit_a
-Armor
+Brnění
 
 #ui_statunit_a_dscr
-Armor gives chances to deflect enemy hits.
+Brnění zvyšuje šanci na odražení nepřátelských útoků.
 
 #ui_statunit_m
-Movement
+Pohyb
 
 #ui_statunit_m_dscr
-The movement speed of the unit. Also affects the movement speed of the formation in the worldmap (slowest unit defines worldmap speed).
+Pohybová rychlost jednotky. Také ovlivňuje pohybovou rychlost jednotky na světové mapě (pomalejší jednotky mají větší kozumaci akčních bodů).
 
 #ui_statunit_mass
-Mass
+Hmotnost
 
 #ui_statunit_mass_dscr
-The mass of the unit combined with it's speed gives a damage bonus when charging.
+Hmotnost jednotky kombinovanná s rychlosti pohybu určuje poškození při rozběhu(charge).
 
 #ui_statunit_ms
 Melee skill
@@ -2337,10 +2310,10 @@ Melee damage
 Amount of damage inflicted to the enemy when hit.
 
 #ui_statunit_rch
-Reach
+Dosah
 
 #ui_statunit_rch_dscr
-In melee, a higher reach than the opponent's gives a bonus to hit. Reach also gives a bonus to hit in melee against units of higher mass. 
+V boji na blízko, větší dosah než má opopnent dáva bonus k poškození. Dosah také dáva bonus k zásahu když boj na blízko je proti jednotkám o větší hmotnosti. 
 
 #ui_statunit_rs
 Ranged skill
@@ -2349,37 +2322,37 @@ Ranged skill
 The ability to hit enemies in ranged combat.
 
 #ui_statunit_rd
-Range damage
+Dálkový útok
 
 #ui_statunit_rd_dscr
 Amount of damage inflicted to the enemy when hit.
 
 #ui_statunit_rg
-Range
+Dosah
 
 #ui_statunit_rg_dscr
 For range units, the maximum distance (in terrain tiles) at which they can engage ennemies.
 
 #ui_statunit_p
-Pillage
+Plenění
 
 #ui_statunit_p_dscr
-The pillage ability of the unit. Improves the speed and efficiency of pillaging ennemy buildings.
+Plěnící schopnosti jednotky. Zvyšuje rychlost a efektivitu plenění nepřátelských budov.
 
 #ui_statunit_c
-Carrying capacity
+Nosná kapacita
 
 #ui_statunit_c_dscr
 The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units' carrying capacity.
 
 #ui_troop_reinforce
-Reinforce
+Posílit(zvětšit)
 
 #ui_troop_disband
-Disband
+Rozpustit
 
 #ui_troop_transfer
-Transfer
+Přeložit
 
 #ui_trptrans_c
 Choose a destination troop
@@ -2388,16 +2361,16 @@ Choose a destination troop
 Choose a destination formation
 
 #ui_formtrans_samform
-same formation
+stejná formace
 
 #ui_formtrans_newtr
-new troop
+Nová jednotka
 
 #ui_formtrans_unavail
 [unavailable]
 
 #ui_foinv_cant
-You can't take resources from a territory you do not control!
+Nemůžeš si vzít suroviny z teritoria jež nekontroluješ!
 
 #ui_foinv_empreg
 You can't load resources from an empty territory!
@@ -2412,16 +2385,16 @@ Unloading resources from formation's inventory
 Destroy resrouces from formation's inventory
 
 #ui_foinv_choose
-Choose resource
+Zvol surovinu
 
 #ui_foinv_cost_c1
-Cost of purchasing these resources.
+Cena za nákup těchto surovin.
 
 #ui_foinv_cost_c2
 To load resources into a formation, the state has to take ownership of them and purchase them at their local price from their owners (except for already state-owned stocks).
 
 #ui_foinv_cost_c3
-State-owned stocks: [x]
+Státem vlastněné zásoby: [x]
 
 #ui_foinv_cost_c4
 Purchasing [x] resources at local price of [y] coins.
@@ -2445,31 +2418,31 @@ modify terrain heights
 TERRAIN HEIGHT TOOL
 
 #ui_tertool_1
-Increase height: ctrl + mouse wheel up
+Zvyš výšku: ctrl + kolečko myši nahoru
 
 #ui_tertool_2
-Decrease height: ctrl + mouse wheel down
+Sniž výšku: ctrl + kolečko myši dolů
 
 #ui_tertool_3
-Cancel and close : right-click
+Zrušit a zavřít : pravé kliknutí
 
 #ui_tertool_4
-Confirm work and close: space bar
+Potvrď práci a zavři: mezerník
 
 #ui_tertool_add
-Adding
+Přidávání
 
 #ui_tertool_dig
-Digging
+Vykopávání
 
 #ui_tertool_bal
-Imbalance
+Nerovnost
 
 #ui_tertool_cost
-predicted cost in tools to complete this task
+předpokládané náklady nástrojů k dokončení tohoto úkolu
 
 #ui_tertool_penal
-Imbalance cost penalty
+Penalizace nákladů za nevyváženost
 
 #ui_tertool_dscr
 This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and will be worked over time to match this preview, also consuming tool resources in the process.
@@ -2481,25 +2454,25 @@ This tile lacks support to reach this height!
 Some tiles lack support to reach the desired height!
 
 #ui_reg_build_plat
-Platforms
+Platformy
 
 #ui_reg_build_plat_c
-build platforms
+postav platformy
 
 #ui_plattool
-PLATFORM TOOL
+NÁSTROJ PLATFORM
 
 #ui_plattool_1
 Set platform height: ctrl + mouse wheel
 
 #ui_plattool_2
-Bridge mode: hold shift
+Bridge mode: drž shift
 
 #ui_plattool_3
 Cancel and close : right-click
 
 #ui_plattool_4
-Confirm work and close: space bar
+Potvrdit práci a zavřit: mezerník
 
 #ui_plattool_cost
 predicted cost to build these platforms
@@ -2508,16 +2481,16 @@ predicted cost to build these platforms
 This only shows a preview of the modifications. If you validate this task, the modified tiles will become marked and platforms will be built over time to match this preview, also consuming resources in the process.
 
 #ui_builderr_ter
-You cannot place this [x] here.
+Nemůžeš tu postavit [x].
 
 #ui_builderr_res
-You're missing [x] of [y] to build this [z].
+Schází ti [x] [y] pro postavení [z].
 
 #ui_builderr_coin
-You do not have enough coins to build this [x].
+Nemáš dostatek mincí na postavení [x].
 
 #ui_builderr_ptf
-This building can only be placed on platforms.
+Tato budova může být jenom položena na platformy.
 
 #ui_builderr_onres
 This building can only be placed over a resource it can exploit.
@@ -2535,10 +2508,10 @@ Stairs can only be placed next to a tile of higher elevation.
 Gates can only be placed next to a high enough bridge-type platform.
 
 #ui_builderr_water
-This building cannot be placed on water.
+Tato budova nemůže býti položena na vodu.
 
 #ui_builderr_mustw
-This building must be placed on water of at least [x] of depth.
+Tato budova musí být postavena na vodu ,alespoň o hloubce [x].
 
 #ui_builderr_adjcnt
 Must be placed adjascent to it's owner.
@@ -2586,13 +2559,13 @@ Restricted engagement
 The troop will engage any ennemy entering within the specified range from it's original deployment position. The troop will move in any way necessary to do so.
 
 #ui_dpltool_mzon
-Defensive zone
+Defenzivní zona
 
 #ui_dpltool_mzon_dscr
 The troop remains in the selected defensive zone and prevents ennemies from entering it. The troop will move within the zone to face any incoming ennemy. Range units will engage any ennemy in range from the edge of the zone.
 
 #ui_dpltool_mstand
-Stand ground
+Držet pozici
 
 #ui_dpltool_mstand_dscr
 The troop will keep this position no matter what and only engage if there's immediate contact. If it's a range unit, it will fire any available target from this position.
@@ -2616,40 +2589,40 @@ You need to place at least one defensive zone before you can assign troops to it
 You've reached the maximum number of defensive zones.
 
 #ui_dpltool_delzon
-Delete this zone
+Zrušit tuto zonu
 
 #bc_menuform_disb
-Disband formation
+Rozpustit formaci
 
 #bc_menuform_movc
-Move camp position
+Přesunot kemp
 
 #bc_menuform_disb_1
-Are you sure you want to disband this formation ?
+Jseš si jist že chceš rozpustit tuto formaci ?
 
 #bc_menuform_disb_2
 If you disband this formation in one of your controlled territories, all the inventory and equipment of the troops will be unloaded in the territory. All the units will integrate it's population (if not local).
 
 #bc_menuform_disb_3
-You cannot disband in territories you do not control!
+Nemůžeš rozpustit formaci na územích jež nevlastníš!
 
 #menuform_pwr
-This formation type costs [x] State Power to maintain.
+Tento typ formace potřebuje [x] Státní Moci k její údržbě.
 
 #menuform_disb_err1
-You cannot disband this formation here!
+Nemůžeš zde rozpustit formaci!
 
 #ui_wregown_smes
-send message
+odeslat zprávu
 
 #ui_wregown_war
-declare war
+vyhlásit válku
 
 #ui_confwar_title
-DECLARING WAR
+VYHLÁSIT VÁLKU
 
 #ui_confwar
-Are you sure you want to declar war ?
+Jseš si jist že chceš vyhlásit válku ?
 
 #contact_sending
 Sending message to [x] of [y]...
@@ -2658,13 +2631,13 @@ Sending message to [x] of [y]...
 Messaging [x] of [y]
 
 #contact_pptreat
-Propose treaty
+Navrhnou dohodu
 
 #contact_pptreat_c
 Joins a treaty proposition to this message
 
 #contact_messfrom
-Message from [x]
+Zpráva od [x]
 
 #contact_greet
 Greetings,
@@ -2673,16 +2646,16 @@ Greetings,
 Greetings, I wish to renegociate the terms of our current treaty and here is my offer.
 
 #contact_reply
-Reply to message
+Odpovědět na zprávu
 
 #treated_off
-Available offers:
+Možné nabídky:
 
 #treated_dem
-Available demands:
+Možné požadavky:
 
 #treated_dur
-treaty duration
+délka trvání dohody
 
 #treated_dur_c1
 after this duration, the treaty will end
@@ -2691,7 +2664,7 @@ after this duration, the treaty will end
 (some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
 
 #treated_new
-NEW TREATY
+NOVÁ DOHODA
 
 #treated_pers
 Remains effective even after treaty's duration but it can then be cancelled without breaking closes
@@ -2700,28 +2673,28 @@ Remains effective even after treaty's duration but it can then be cancelled with
 Applied once, at the treaty's signature
 
 #treaterm_coins
-Coins
+Mincí
 
 #treaterm_noidea
-No knowledges to share!
+Žádné znalosti k nabidnutí!
 
 #treaterm_noreg
 No territories valid to transfer!
 
 #b_endtreaty
-Break treaty!
+Porušit dohodu!
 
 #b_endtreaty_c1
 The treaty will instantly be terminated. Breaking closes on your side will apply.
 
 #b_endagreed
-Ask termination
+Zažádat o terminaci
 
 #b_endagreed_c1
 Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
 
 #b_renegoc
-Renegociate
+Upravit dohodu
 
 #b_renegoc_c1
 Send a renegociation proposal. If agreed by the other party, the current treaty will be updated.
@@ -2733,94 +2706,94 @@ Request to agree to terminate this treaty sent to the other party!
 You are currently engaged by this treaty! If you choose to end it anyways, your breaking penalty clauses will apply. You will pay [x] coins ([y]% of your GDP) and lose [z] honor.
 
 #ui_treat_eng2
-This will not trigger war with [x].
+Tohle nezačne válku s [x].
 
 #ui_treat_eng3
-This will trigger war with [x].
+Toto začne válku s [x].
 
 #ui_treat_end
 You are not engaged by this treaty and can choose to end it without penalty. All it's terms will cease to apply for both members. Are you sure you want to proceed ?
 
 #menuevt_title
-EVENTS
+UDÁLOSTI
 
 #menuevt_trpow
-% of state power transfered
+% státní moci transférováno
 
 #menuevt_tax
-% of coins income transfered
+% mincí transférováno
 
 #menuevt_invalid
-invalid input!
+neplatný vstup!
 
 #menuevt_empty
-No events to display
+Žádné události k přečtení!
 
 #menuevt_new
-New events
+Nové události
 
 #menuevt_all
-All events
+Všechny události
 
 #menuevt_dipl
-Diplomatic
+Diplomacie
 
 #menuevt_mil
-Military
+Armáda
 
 #menuevt_state
-State
+Stát
 
 #menuevt_nation
-Nation
+Národ
 
 #menuevt_miss
-Missions
+Mise
 
 #menuevt_ideas
-Ideas
+Nápady
 
 #menuevt_trade
-Trading
+Obchodování
 
 #menuevt_objv
-Objectives
+Objektivy
 
 #menuevt_rewd
-Rewards
+Odměny
 
 #menuevt_prgrs
 current
 
 #menuevt_comp
-completed!
+dokončeno!
 
 #menuevt_incomp
-incomplete
+nedokončené
 
 #menuevt_trt_no
-Refuse treaty
+Odmítnout dohodu
 
 #menuevt_trt_reneg
-Propose a counter-offer
+Navrhnout protinávrh
 
 #menuevt_trt_yes
-Agree to treaty
+Příjmout dohodu
 
 #ui_evt_goto
-GO TO REGION
+PŘEJÍT DO REGIONU
 
 #ui_form_nb
-Number of units in this formation.
+Počet jednotek v této formaci.
 
 #ui_form_threat
-Military strenght of this formation.
+Vojenská síla této formace.
 
 #ui_form_threat
-Military strenght of this formation.
+Vojenská síla této formace.
 
 #ui_form_AP_c1
-Action Points: [x]/100   ([y] [z])
+Akční body: [x]/100   ([y] [z])
 
 #ui_form_AP_c2
 Required to perform actions such as movements or attacks, these points are regained over time by encamping or by returning to their home region. Below 50 the formation is forced to encamp and cannot perform new actions.
@@ -2829,37 +2802,37 @@ Required to perform actions such as movements or attacks, these points are regai
 - Recovery[y]: [x]
 
 #ui_form_AP_enc
-encamped
+zakempované
 
 #ui_form_AP_hom
-at home
+v domově
 
 #ui_form_AP_cit
-in city
+ve městě
 
 #ui_form_AP_d2
-- Territory[y]: [x]
+- Území[y]: [x]
 
 #ui_form_AP_enm
-enemy
+nepřítel
 
 #ui_form_AP_d3
-- Home distance ([y]%): [x]
+- Vzdálenost od domova ([y]%): [x]
 
 #ui_form_movcost
 Basic Action Points cost for moving one territory tile for this formation. This base cost is then combined with other contextual factors to determine the final cost of a movement. 
 
 #ui_form_movcost_d1
-- Base cost: [x]
+- Základní cena: [x]
 
 #ui_form_movcost_d2
-- Units movement speed: [x]
+- Cena pohybu jednotek: [x]
 
 #ui_form_movcost_d3
-- Mounted units only ([y]%): [x]
+- Pouze jízdní jednotky ([y]%): [x]
 
 #ui_form_movcost_d4
-- Army size ([y]%): [x]
+- Velikost armády ([y]%): [x]
 
 #ui_tile_movcost
 The movement cost of this territory is used to determine the Action Points cost of units moving through it.
@@ -2871,22 +2844,19 @@ The movement cost of this territory is used to determine the Action Points cost 
 - Diplomatic stance [y]: [x]
 
 #ui_tile_movcost_ntr
-netural
+neutrální
 
 #ui_tile_movcost_own
-own territory
+vlastní teritorium
 
 #ui_tile_movcost_frd
-friendly territory
-
-#ui_tile_movcost_enm
-enemy territory
+přátelské teritorium
 
 #ui_tile_movcost_set
 is settled
 
 #ui_form_mltreq
-Requires [x] Porcos in the territory.
+Potřebuje [x] prasat na tomto území.
 
 #ui_form_mltmiss
 Not enough population to fully pig-up this militia!
@@ -2970,7 +2940,7 @@ Claim territory
 Unclaim territory
 
 #b_regunclaim_2
-WARNING: You will lose 2 of Honor!
+VAROVÁNÍ: Ztratíš 2 body Česti!
 
 #regclaim_title
 Claiming territory...
@@ -2988,10 +2958,10 @@ You cannot claim this territory because its currently occupied by foreign units!
 Insufficient Administration! You cannot claim any new territories with this region.
 
 #regclaim_err3
-Colonies cannot claim new territories!
+Koloie nemohou si nárokovat nová území.
 
 #regclaim_acst
-Administration cost
+Administrativní cena
 
 #regclaim_acst_c1
 Maintaining this claim will cost [x] of Administration from the parent territory.
@@ -3108,13 +3078,13 @@ sold via traders
 [x]% of the production is put on the market via traders who keep a share of the benefits.
 
 #ui_bdg_pdet_3
-sold to producers
+prodáno výrobcům
 
 #ui_bdg_pdet_3_c
 [x]% of the production is sold to other industries or services.
 
 #ui_bdg_pdet_4
-exported
+exportováno
 
 #ui_bdg_pdet_4_c
 [x]% of the production is exported to foreign markets
@@ -3213,7 +3183,7 @@ Self-constructing
 Some simple buildings can be built without professional builders, and will self construct even without any.
 
 #ui_bdgcstr_bdrs
-Builders
+Stavitelé
 
 #ui_bdgcstr_bdrs_c
 The amount of construction work this building is currently getting from from professional builders.
@@ -3414,19 +3384,19 @@ Cargo available
 The amount of cargo service currently available in the operator.
 
 #ui_troute_edit
-Editing existing trade route...
+Upravování existující obchodní stezky...
 
 #ui_troute_apl1
-Open trade route
+Otevřít obchodní stezku
 
 #ui_troute_apl2
-Apply
+Potvrdit
 
 #ui_troute_cgcost_c1
 Total cost of cargo using this territory as the trade route operator.
 
 #ui_troute_totcost
-TOTAL TRADE ROUTE COST
+CELKOVÁ CENA OBCHODNÍ STEZKY
 
 #ui_troute_totcost_c1
 The total cost of maintaining this trade route.
@@ -3438,19 +3408,19 @@ The state pays and owns the entirety of the imported goods from the exporting ci
 All the later incomes made locally from the selling of these goods are then entirely for the state.
 
 #ui_troute_bgc
-goods cost
+cena zboží
 
 #ui_troute_bgc_c1
 The cost of purchasing goods to the exporting city.
 
 #ui_troute_bcc
-cargo cost
+cena nákladu
 
 #ui_troute_bcc_c1
 The cost of the cargo service purchased to the trade route operator.
 
 #ui_troute_bt
-operator tax
+daň za provozoz
 
 #ui_troute_bt_c1
 The amount paid to the operator taxing goods transiting through their city.
@@ -3462,43 +3432,25 @@ Opened a new trade route!
 Cannot open trade route because the selected operator cannot provide the required cargo service!
 
 #ui_troute_close
-Close this trade route
+Ukončit tuto obchodní stezku
 
 #menu_nfrm_title
-Creating a new formation...
+Vytváření nové formace...
 
 #menu_nfrm_fname
-Formation's name
+Jméno formace
 
 #menu_nfrm_chtp
-Select a type of formation
+Zvol typ formace
 
 #menu_nfrm_type1
-Army
-
-#menu_nfrm_t1_dscr1
-An army is composed by permanently mobilized units, costing upkeep.
-
-#menu_nfrm_t1_dscr2
-They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
-
-#menu_nfrm_t1_dscr3
-Armies can move into other territories and their presence increases state authority.
+Armáda
 
 #menu_nfrm_type2
-Militia
-
-#menu_nfrm_t2_dscr1
-A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
-
-#menu_nfrm_t2_dscr2
-Militias don’t monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
-
-#menu_nfrm_t2_dscr3
-However , the militia cannot move to other territory s and decreases the state authority.
+Milice
 
 #menu_nfrm_type3
-National army
+Národní armáda
 
 #menu_nfrm_t3_1
 A national army is similar to a regular army except that its also controllable by any of your superiors in your Nation's hierarchy, allowing you to delegate its control in case of national wars and operations.
@@ -3510,25 +3462,25 @@ National armies also give their authority bonus to all regions of the Nation, ev
 Note that you can convert a regular army into a National one at will and vice-versa.
 
 #menu_trbuy_title
-Buying resource...
+Nakupování surovin...
 
 #menu_trbuy_buy
-BUY
+KOUPIT
 
 #menu_trbuy_cost
-Purchase cost
+Kupní cena
 
 #menu_trbuy_bght
-Bought [x] of [y] for [z] coins!
+Nakoupeno [x] [y] za [z] mincí!
 
 #ui_evidea_yes
-<<Yes, let's see what they need for this project!>>
+<<Ano, pojďme se podívat co potřebují na tento projekt!>>
 
 #ui_evidea_no
-<<This is a waste of time.>>
+<<Toto je stráta času.>>
 
 #menu_bdg_up_err1
-You're missing [x] of [y] to upgrade this building to [z].
+Zchází ti [x] [y] na vylepšení budovy [z].
 
 #menu_bdg_up_err2
 You do not have enough coins to upgrade this building to [x].
@@ -3561,16 +3513,16 @@ Libraries
 Each library building in service increases your knowledge storage capacity.
 
 #menu_tch_prjcts
-Projects
+Projekty
 
 #menu_tch_prj_cur
-Current Projects
+Stávající Projekty
 
 #menu_tch_prj_avail
 Available Projects
 
 #menu_tch_prj_dnd
-Rejected Projects
+Zamítnuté Projekty
 
 #menu_tch_prj_rwd
 Project rewards:
@@ -3579,10 +3531,10 @@ Project rewards:
 In progress...
 
 #menu_prj_new
-New project...
+Nový projekt...
 
 #menu_prj_req
-Starting requirements:
+Potřebné pro začátek:
 
 #menu_prj_reqkn
 You need [x] free space of knowledges to launch this project.
@@ -3594,28 +3546,28 @@ Project base cost: [x] coins
 Required  materials cost: [x] coins
 
 #menu_prj_rmat1
-Needs [x] [y] from [z]
+Potřebuje [x] [y] z [z]
 
 #menu_prj_rmat2
 (click to select a different territory)
 
 #menu_prj_start
-START PROJECT
+ZAČÍT PROJEKT
 
 #menu_prj_diff
-Difficulty
+Obtížnost
 
 #menu_prj_work
-Research
+Výzkum
 
 #menu_prj_rschrs
-Researchers
+Výzkumníci
 
 #menu_prj_rwk
-Work
+Prácující
 
 #menu_prj_rwk_c1
-All the assigned researchers currently generate [x] research points [y].
+Všichni právě přiřezení výzkumníci práve generují [x] výzkumných bodů pro [y].
 
 #menu_prj_rwk_c2
 * from [x] main researchers: [y] research points.
@@ -3633,10 +3585,10 @@ While you can assign extra researchers beyond this number, their contributions t
 This project requires [x] as researchers.
 
 #menu_prj_bdgt_r
-Researchers
+Vědci
 
 #menu_prj_bdgt_p
-Project
+Projekt
 
 #menu_prj_bdgt
 Budget
@@ -3702,19 +3654,19 @@ You need to assign researchers before starting this project!
 You are missing coins to start this project!
 
 #prj_strt_err3
-You are missing required materials to start this project!
+Chybí ti potřebné suroviny pro začnutí toho projektu!
 
 #ui_tech_alw
-Allows...
+Umožňuje...
 
 #ui_tech_bdg
-New building
+Nová budova
 
 #ui_tech_res
-New resource
+Nová surovina
 
 #ui_tech_unit
-New unit
+Nová jednotka
 
 #ui_tech_pol
 New policy
@@ -3741,49 +3693,43 @@ total population
 Idle
 
 #fstate_encamp
-Encamped
+Zakempené
 
 #fstate_mov
-Moving
+V pohybu
 
 #fstate_fight
-In combat
+V souboji
 
 #fstate_immo
-Immobilized
+Znehybněné
 
 #menu_scr_w
-Wealth
+Bohatství
 
 #menu_scr_w_c
 Score from the total wealth produced in all your territories.
 
 #menu_scr_c
-Culture
+Kultura
 
 #menu_scr_c_c
 Score from your total culture (state culture).
 
 #menu_scr_k
-Knowledges
+Znalosti
 
 #menu_scr_k_c
 Score from your total knowledges.
 
 #menu_scr_p
-Military
+Armáda
 
 #menu_scr_p_c
 Score from your total military power. Does not include Militias.
 
-#menu_scr_v
-Subordinates
-
-#menu_scr_v_c
-Score from your subordinates: you receive a small portion of the score of all your direct subordinates.
-
 #menu_scr_tot
-Score
+Skore
 
 #menu_scr_tot_c
 You personnal score.
@@ -3798,16 +3744,16 @@ Par score is your score above the reference score of [y]pts. You get 1 Victory p
 The average score and the cost of each victory points are dynamic and based on all player's scores.
 
 #menu_scr_vpmiss
-Missions
+Mise
 
 #menu_scr_vpmiss_c
 Victory points you earned by completing Victory point missions.
 
 #menu_scr_vp
-Victory points
+Vítězné body
 
 #menu_scr_vp_c
-You personnal victory points.
+Tvé osobní vítězné body.
 
 #menu_scr_avg
 Reference Score
@@ -3821,9 +3767,6 @@ Having a personnal score above it grants victory points.
 #menu_scr_vpcost
 Victory point cost
 
-#menu_scr_vpcost_c
-The amount of points you need above the reference score to be granted each Victory point.
-
 #menu_scr_frna
 for Nation
 
@@ -3834,19 +3777,19 @@ How much points you are currently contributing to your Nation's score. The lower
 How much victory points you are currently contributing to your Nation's Victory Points. The lower in the ranks, the less you contribute.
 
 #menu_nscr_name
-Your nation
+Tvůj národ
 
 #menu_nscr_rank
-Your nation's rank
+Rank tvého národu
 
 #menu_nscr_scr
-Your nation's total score
+Skore tvého národu
 
 #menu_nscr_vp
-Your nation's total Victory points
+Celkové Výtězné body tvého národa
 
 #menu_scr_govnam
-Your personnal government's name
+Název tvé vlastní vlády
 
 #menu_scr_t1
 Hodnost
@@ -3858,10 +3801,10 @@ Národ
 Skore
 
 #menu_scr_t4
-Victory points
+Výtězné body
 
 #majmess_reglost
-You have lost control of the territory!
+Ztratil jsi kontrolu nad tímto teritoriem!
 
 #b_buildprevbdg
 Obsolete version: [x]
@@ -3882,7 +3825,7 @@ Fertility
 Groundwater
 
 #btl_objtv_neut
-neutral
+neutrální
 
 #btl_objtv_raid
 raiding territory
@@ -3903,10 +3846,10 @@ assisting defense
 assisting attack
 
 #btl_objtv_hunt
-hunting
+loví
 
 #btl_rslt_dead
-died
+zemřelo
 
 #btl_rslt_deft
 poražen
@@ -3927,19 +3870,19 @@ NEUTRALNÍ
 OBRÁNCI
 
 #btlrslt_loot
-BATTLE LOOT
+VÁLEČNÁ KOŘIST
 
 #btlrslt_unit
 jednotky
 
 #btlrslt_loss
-losses
+ztrát
 
 #btlrslt_kill
-kills
+zabití
 
 #btlrslt_totloot
-total loot
+celková kořist
 
 #rcvloot_reg
 We received loot in [x]:
@@ -4002,22 +3945,22 @@ před [x]
 last login for this character: [x]
 
 #gamelob_creat
-created
+vytvořeno
 
 #gamelob_creat_c
-Date when this character was created (GMT).
+Datum kdy byla tato postava vytvořena (GMT).
 
 #gamelob_plt
-total playtime
+celkový herní čas
 
 #gamelob_plt_c
 The total amount of time spent online playing this character.
 
 #gamelob_maxchar
-Max characters
+Max postav
 
 #gamelob_maxchar_c
-The maximum number of characters per player allowed on this server is [x].
+Maximální počet postav jež je hráč schopen vlastnit na tomto serveru je [x].
 
 #gamelob_spcloff
 Spawn cool off
@@ -4053,7 +3996,7 @@ You must wait [x] before being allowed to create a new character in this game!
 Opustit
 
 #gamelob_abnd_c1
-Click to abandon this character and all its possessions.
+Klikni pro opuštění této postavy a všeho její majetku.
 
 #gamelob_abndwrn
 Are you sure you want to abandon this character? This cannot be undone and you will definitively lose control of this character and all its possessions! The character will be removed from your list. It will instantly be set as 'inactive' and might become available for succession.
@@ -4065,7 +4008,7 @@ Titul
 Territory
 
 #facttl_titl
-Character's title
+Titul postavy
 
 #facttl_titl_c1
 The title given to characters of this rank.
@@ -4182,10 +4125,10 @@ You cannot remove this rank because its currently used by one or more members!
 Adding a new rank...
 
 #facmmb_ter
-Regions
+Regiony
 
 #facmmb_dismant
-Dismantle
+Rozebrat
 
 #facmmb_dismant_c1
 Because this character is inactive, your title allows you to dismantle its territories and share them between your subordinates or yourself.
@@ -4209,34 +4152,34 @@ Odejít
 Odejít z tohoto národa a získaz zpět svou samostatnost. 
 
 #facmmb_quit_c2
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+VAROVÁNÍ: pokud jsi spojen s tímto národem pomocí nějakých dohod, tak toto jednání způsobí jejích přerušení z tvé strany!
 
 #facmmb_actv
-ACTIVE
+AKTIVNÍ
 
 #facmmb_actv_c1
-This character is still actively playing the game and is not elligible for succession.
+Tato postava je stále aktivně využívaná a tímpádem není možno za ní hrat při nástupnictví.
 
 #facmmb_inact
-INACTIVE
+NEAKTIVNÍ
 
 #facmmb_inact_c1
 This character hasn't been online for a while and is now considered inactive. He is elligible for succession within the Nation.
 
 #facmmb_pwrlss
-POWERLESS
+BEZMOCNÝ
 
 #facmmb_pwrlss_c1
 This character controls not territories and is powerless.
 
 #facmmb_dead
-DEAD
+MRTEV
 
 #facmmb_dead_c1
 This character is dead: it controls no territories and was abandonned by its player.
 
 #facmmb_rplc
-Replace
+Nahradit
 
 #facmmb_rplc_c1
 This character is inactive and it's title allows you, as its superior, to name a successor amongst your subordinates that will replace him.
@@ -4248,25 +4191,25 @@ Daňe
 Nation taxes are received from direct subordinates and also paid to the superior. Tax rates are defined by their respective ranks.
 
 #facmmb_tax_r
-Taxes from subordinates: [x]
+Daně z podřízených: [x]
 
 #facmmb_tax_p
-Paid to superior: [x]
+PLaceno nadřízenému: [x]
 
 #facmmb_pwr
-Power transfers
+Převedeno moci
 
 #facmmb_pwr_c1
 State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
 
 #facmmb_mng
-Maintenance
+Údržba
 
 #facmmb_mng_c1
 State power consummed for the maintenance of the Nation. Increased overall by the number of subordinates to this character.
 
 #facmmb_mrshl
-Army Marshal
+Armádní Maršál
 
 #facmmb_mrshl_c1
 Army Marshals can control all the National armies, regardless if they belongs to subordinates or not. Appointed by the Nation's leader.
@@ -4290,10 +4233,10 @@ You can change the hierarchic position of [x] within this Nation by changing his
 Set superior
 
 #facprom_rk
-Set rank
+Nastavit rank
 
 #facxpl_title
-Expel [x] from the Nation
+Vyloučit hráče [x] z Národu
 
 #facxpl_txt
 As a superior of [x], your rank allows you to expell this character from the Nation. Note that all its subordinates, if any, will remain under that character and therefore leave the Nation as well. 
@@ -4470,10 +4413,10 @@ Cubes
 Armistice
 
 #treaty_peace
-Peace treaty
+Mírová dohoda
 
 #treaty_nation
-Treaty of unification
+Dohoda o unifikaci
 
 #treaty_vassal
 Vasalská dohoda
@@ -4503,31 +4446,31 @@ klikni pro zvolení symbolu
 click to view this nation's hierarchy
 
 #resist_abandon_1
-You cannot abandon buildings in a resistant city!
+Nemůžete opustit budovy ve vzpurném městě!
 
 #resist_demol_1
-You cannot demolish more than 3 buildings at a time in a resistant city!
+Ve vzpurném městě nemůžete zničit více než 3 budovy najednou!
 
 #resist_demol_2
-You cannot demolish infrastructures in a resistant city!
+Infrastruktury nemůžete zničit ve vzpurném městě!
 
 #treaterr_1
-You do not have enough coins in your treasury to honor this treaty!
+Nemáte dostatek mincí ve vaší pokladně, abyste tuto smlouvu ctili!
 
 #treaterr_2
-You do not have enough income in your treasury to honor this treaty!
+Nemáte dostatečný příjem do své pokladny, abyste tuto smlouvu ctili!
 
 #servfull
-Maximum number of active characters currently reached! Try again later.
+Maximální počet aktuálně aktivních postav byl dosažen! Zkuste to znovu později.
 
 #menu_frmtyp_title
-Changing this formation's type...
+Změna typu této formace...
 
 #menu_frmtyp_err1
-You cannot convert to a militia outside your own cities!
+Nemůžete vytvářet milici mimo vaše vlastní města!
 
 #menu_frmtyp_err2
-You cannot convert formations in resistant cities.
+Ve vzpurných městech nemůžete převádět formace.
 
 #formact_sack_1
 Warning: tahle akce tě bude stát 15 česti, pokud bude úspěšná!
@@ -4629,7 +4572,7 @@ To garantee a reliable and fair experience for all players, servers listed here 
 Realtime games are an official game mode of Ymir for faster paced games that are meant to be played in multiple sessions with friends or smaller groups of players.
 
 #joingame_custom
-Custom games
+Vlastní hry
 
 #joingame_custom_dscr_1
 Custom games are community hosted games with no enforced standardization, where server customization is allowed. The intended game balance might therefore be affected and the reliability of your game experience cannot be garanteed in these servers.
@@ -4644,10 +4587,10 @@ Adminské nástroje
 Wether admin tools are enabled or not on this server. If yes, the server host has the power to ban players at his discretion.
 
 #servlst_preset
-Game preset
+Přednastavení hry
 
 #servlst_preset_c1
-Game balance preset used on this custom server.
+Předvolba vyvážení hry použitá na tomto uživatelském serveru.
 
 #b_reform_loyal
 Reform effect: -[x] loyalty in all territories
@@ -4692,13 +4635,13 @@ Reclaim territory
 Unclaim territory
 
 #menu_mission_sel
-Action
+Akce
 
 #menu_mission_sel_c1
-Select the action to perform in this territory.
+Vyberte akci, kterou chcete provést na tomto území.
 
 #chat_pm
-Message [x]
+Poselství hráči [x]
 
 #chat_faction
 Národ '[x]'
@@ -4722,85 +4665,85 @@ Council
 Světové zprávy
 
 #chron_tab2
-My chronicles
+Moje kroniky
 
 #chron_new
-+ New chronicle
++ Nová kronika
 
 #chron_publish
 Publikovat
 
 #char_chrons
-View all chronicles from this character
+Zobrazit všechny kroniky od této postavy
 
 #chron_sent
-New chronicle published!
+Byla publikována nová kronika!
 
 #chron_react
-React to this news
+Reagvat na tuto zprávu
 
 #chron_reactup_1
 Tohle je zajímavé!
 
 #chron_reactup_2
-This news will be relayed by your cultural network and will propagate to your contacts.
+Tyto zprávy budou předávány vaší kulturní sítí a budou šířeny vašim kontaktům.
 
 #chron_reactdw_1
-I don't care about this.
+Nezajímá mě to.
 
 #chron_reactdw_2
-This news will not be relayed by you.
+Tato zpráva vám nebude předávána.
 
 #chron_expand
-read more
+přečíst si víc
 
 #chron_expand_c1
-click to read the rest of this chronicle
+kliknutím si přečtěte zbytek této kroniky
 
 #chron_past_up
 Přišlo ti to zajímavé.
 
 #chron_past_down
-You didn't find this interesting.
+Nepovažovali jste to za zajímavé.
 
 #chron_none
-You havn't been reached by any news from the outside world yet!
+Dosud jste nebyli osloveni žádnými zprávami z vnějšího světa!
 
 #b_menu_discord_1
-Ymir official Discord
+Ymir oficiální Discord
 
 #b_menu_discord_2
-Join the Ymir community!
+Připojte se ke komunitě Ymir!
 
 #b_menu_porcopedia_1
 Porcopedia
 
 #b_menu_porcopedia_2
-The online official wiki of the game
+Oficiální online wiki hry
 
 #b_menu_trell_1
-Ymir on Trello
+Ymir na Trellu
 
 #b_menu_trell_2
-Follow the game's development and vote for planned features
+Sledujte vývoj hry a hlasujte pro plánované funkce
 
 #mainmenu_maxim
-maximize
+maximalizovat
 
 #mainmenu_minim
-minimize
+minimalizovat
 
 #dsclmr_title
 DISCLAIMER
 
 #dsclmr_1
-- This game is a one-man project: development is slow.
+- Tato hra je projektem jednoho člověka: vývoj je tímpádem pomalý.
 
 #dsclmr_2
-- This game is likely to forever remain an experimental work-in-progress and to never reach the quality, proper stability and optimization of a finished product.
+- Tato hra pravděpodobně zůstane navždy experimentem s nedokončenou kvalitou, správnou stabilitu a optimalizaci hotového produktu.
 
 #dsclmr_3
-- Playing solo is available, but the main focus of this game is multiplayer.
+- Hra na sólo je k dispozici, ale hlavním cílem této hry je multiplayer.
 
 #b_menuop_autovsize
 Automatic viewport definition
@@ -4818,31 +4761,31 @@ Definition of the game graphics in relation to your screen resolution: 100% mean
 Lowering this ratio greatly increases performances.
 
 #b_menuop_autoui
-Automatic UI size
+Automatická UI velikost
 
 #b_menuop_autoui_c1
-UI size will automatically adapt to your display resolution.
+UI(Uživatelské rozhraní) velikost se automaticky přizpůsobí vašemu rozlišení displeje
 
 #b_menuop_uisize
-UI size
+UI velikost
 
 #b_menuop_uisize_c1
-Changes the size of the UI layer. 
+Mění velikost vrstvy UI(uživatelského rozhraní).
 
 #b_menuop_uisize_c2
 Usefull to prevent UI from being uncomfortable to read, depending on the size and display definition of your device.
 
 #gmtyp_solo
-Solo
+Sólo
 
 #gmtyp_solo_dscr1
-Solo games can only be played alone.
+Sólové hry lze hrát pouze samostatně.
 
 #gmtyp_solo_dscr2
-Game speed overall is the fastest.
+Rychlost hry je celkově nejrychlejší.
 
 #gmtyp_solo_dscr3
-This is meant to learn the basics of the game before joining proper multiplayer games, or for players who just want to build in peace.
+Účelem této hry je naučit se základy hry před připojením ke správným hrám pro více hráčů nebo pro hráče, kteří chtějí stavět v pohodlí.
 
 #ui_bdginf_bldrs
 requires builders
@@ -4876,9 +4819,6 @@ Zisk z exportu: [x]
 
 #regeco_wastab_c5
 Prodeje státních prostředků: [x]
-
-#bc_gen_speed
-set overall game speed to x[x]
 
 #ui_eco_tradbal_c4
 Exportations: +[x] sales -[y] purchases
@@ -4923,7 +4863,7 @@ Transfering this territory between nation members generates 50% less resistance.
 This territory's culture hasn't integrated the nation of [x] yet. It will be in [y]. 
 
 #poph_base
-Base health
+Základní zdraví
 
 #poph_base_c1
 The default health for this population class.
@@ -4935,10 +4875,10 @@ Terrain effect
 Climate [y] modifyer: [x]
 
 #poph_ter_c2
-Is a swamp: [x]
+Je to bažina: [x]
 
 #poph_housing
-Housing effect
+Efekt z ubytování
 
 #poph_housing_c1
 Each lodging provides a health bonus to its residents.
@@ -4947,7 +4887,7 @@ Each lodging provides a health bonus to its residents.
 This is the average housing health bonus of logdings occupied by this population class.
 
 #poph_totpop
-Total population
+Celková populace
 
 #poph_totpop_c1
 Overall population in the territory decreases health.
@@ -5043,13 +4983,13 @@ Inteligence získanná z Životní úrovně.
 Každý bod Životní úrovně poskytuje +0,75 inteligence.
 
 #popint_kn
-Total knowledges
+Celkově znalostí
 
 #popint_kn_c1
-The total of your current knowledges increases overall intelligence. 
+Všechny do teď získané vědomosti zvyšují celkovou průměrnou inteligenci. 
 
 #popint_cult
-Territory's culture
+Kultura teritoria
 
 #popint_cult_c1
 The total culture in this territory increases the overall intelligence of its population.
@@ -5070,10 +5010,10 @@ Množství surové kultury produkované obyvatelstvem.
 [x] porcos of [y] intelligence are currently producing [z] of culture.
 
 #cltrstat_local
--[x]% of local culture
+-[x]% místní kultury
 
 #cltrstat_local_c1
-[x]% of the culture produced by the population is local.
+[x]% kultury zde vyprodukováno populací je bráno jako lokální.
 
 #cltrstat_local_c2
 - local culture from capital distance: +[x]%
@@ -5088,13 +5028,13 @@ Služby
 Výše státní kultury způsobené aktivitou kulturních budov a jejich služeb.
 
 #cltrstat_decay
-Decay
+Úpadek
 
 #cltrstat_decay_c1
-Amount of state culure lost by decay.
+Množství státní kultury které je ztraceno úpadkem.
 
 #cltrstat_dovrs
-Maximum stored capacity
+Maximální úložná kapacita
 
 #cltrstat_dovrs_c1
 Decay caused if the current maximum capacity of stored culture is reached in this territory.
@@ -5103,7 +5043,7 @@ Decay caused if the current maximum capacity of stored culture is reached in thi
 This capacity increases the more population resides in the territory.
 
 #cltrstat_dinf
-Cultural influence
+Kulturní vliv
 
 #cltrstat_dinf_c1
 Decay due to state culture losing influence compared to other cultures present in this territory.
@@ -5112,7 +5052,7 @@ Decay due to state culture losing influence compared to other cultures present i
 This territory produces [x] of state culture, out of a total production of [y] culture, resulting in a target cultural influence of [z]% in this territory.
 
 #cltrstat_dinf_c3
-Current state culture influence is [x]%.
+V tuto chvíly vliv státní kultury je [x]%.
 
 #cltrstat_stock
 Culture stock capacity
@@ -5127,25 +5067,19 @@ Overall culture in this territory is increasing.
 Overall culture in this territory is decreasing because it is above its current maximum!
 
 #cltrstat_ststock
-State culture
+Státní kultura
 
 #cltrstat_ststock_c1
-[x]% of this territory's culture is state culture.
+[x]% kultury tohoto území je Státní kultura
 
 #cltrstat_ststock_c2
-It has [x] points of state culture in stock.
+Má [x] bodů Státní kultury v zásobách.
 
 #popstat_wbase_c1
-every porco naturally makes wealth on it's own
+každy vepřoun přirozeně sám vytváří bohatství
 
 #popstat_winhrt_c1
 inherits its wealth and resources access from the average of all actives
-
-#statepow_powtr_c2
-- sent from active treaties: [x]
-
-#statepow_powtr_c3
-- received from active treaties: [x]
 
 #conf_gpop_c1
 Amount of conflict generated by the current population in the territory.
@@ -5211,7 +5145,7 @@ Vláda
 Infrastruktury
 
 #ui_recruit_new
-Creating a new troop
+Vytváření nové jednotky
 
 #ui_recruit_err1
 The status of this territory doesn't allow you to recruit armies in it.
@@ -5244,7 +5178,7 @@ Nezaměstaní: [x] vepřů.
 Cannot recruit: support limit reached and overdraft is not allowed in this territory.
 
 #ui_foinv_forbid
-You're not allowed to access resources of this territory.
+Nemáš přístup k surovinám tohoto teritoria.
 
 #ui_dpltool_mbdg
 Obranná budova
@@ -5283,34 +5217,34 @@ Financially dependent, unadministered and autonomous territory. Useful for small
 Territorial status special properties
 
 #regstatprop_build
-cannot build
+nemožno stavět
 
 #regstatprop_res
 cannot control resources
 
 #regstatprop_trade
-cannot control trade
+nemožno kontrolovat obchodování
 
 #regstatprop_bdgup
-buildings upkeep [x]
+údržba budov [x]
 
 #regstatprop_loyal
 loajalita [x]
 
 #regstatprop_cultr
-state culture [x]%
+státní kultura [x]%
 
 #regstatprop_conf
-population conflict [x]%
+konflikty mezi obyvatelstvem tvoří [x]%
 
 #regstatprop_rsrch
-can't do projects
+není možno provádět projekty
 
 #regstatprop_milit
-cannot recruit militia
+nemožno rekrutovat milici
 
 #regstatprop_army
-cannot recruit army
+nemožno rekrutovat armádu
 
 #regstatprop_dist
 administration distance penalty [x]%
@@ -5322,13 +5256,13 @@ no administration distance penalty
 [x]% of tax incomes
 
 #regstatprop_noinc
-no tax incomes
+žádný příjem z daní
 
 #regstatprop_exp
 [x]% of expenses
 
 #regstatprop_noexp
-no expenses
+žádné náklady
 
 #regstatprop_resist
 růst rebélie [x]
@@ -5337,7 +5271,7 @@ růst rebélie [x]
 cannot own sub-territories
 
 #regstatprop_evac
-cannot be evacuated
+nemůže býti evakuováno
 
 #regstatprop_rencd
 cannot be renounced
@@ -5346,7 +5280,7 @@ cannot be renounced
 cannot be transfered
 
 #regstatprop_spawn
-is a player spawn
+je hráčem vytvořené
 
 #regstatprop_pnlty
 [x] loyalty event on changing
@@ -5358,19 +5292,19 @@ cannot overdraft
 WARNING: changing current status will trigger an immediate loyalty event of [x]!
 
 #regstatus_claimoccup
-WARNING: claiming this occupied territory will trigger an immediate penalty of [x] resistance and [y] loyalty!
+VAROVÁNÍ: zabrání tohoto okupovaného území spustí okamžitou penalizaci [x] odporu a ztráty [y] loyjality!
 
 #antl_name
-Annex tool
+Anexovací nástroj
 
 #antl_dscr
 Allows you to reorganise annexes by changing their owning buildings.
 
 #antl_close
-CLOSE
+ZAVŘÍT
 
 #antl_1
-Relink: hold left click and drag.
+Relink: podrž levé tlačítko a přesuň.
 
 #antl_2
 Add/remove from select with ctrl+left-click.
@@ -5388,16 +5322,16 @@ This territorial status currently costs you [x] of State Power to maintain.
 Zaměstnání
 
 #regmenu_jobs_c1
-All available jobs are filled!
+Všechny možné zaměstnání jsou obsazené!
 
 #regmenu_jobs_c2
 [x]% of available jobs are missing workers ([y]).
 
 #regmenu_actives
-Employed
+Zaměstnáno
 
 #regmenu_actv_c1
-All actives are currently employed!
+Všichni aktivní jsou zaměstnaní!
 
 #regmenu_actv_c2
 [x]% of actives are jobless ([y]).
@@ -5415,7 +5349,7 @@ Administration balance of this territory
 A badly administered territory generates more waste and corruption, reducing all sources of incomes.
 
 #regmenu_wealth
-Total wealth of this territory
+Celkové bohatství toho teritoria
 
 #regmenu_wealth_dscr
 Wealth is an objective measurement of all productive work being currently done in this territory, independ of their market values in coins.
@@ -5460,7 +5394,7 @@ K podmanění tohoto hráče potřebuješ získat kontrolu nad:
 Podrobit!
 
 #info_cltrtrsfr
-[x] people relocated from [y] to [z], transfering [v] culture from their home town into [z].
+[x] lidí se přemístilo z [y] do [z], převadějic [v] kultury z jejich domovského města [z].
 
 #info_supportlmt
 Toto území nemůže podporovat více jednotek a neumožňuje přečerpání limitu!
@@ -5508,7 +5442,7 @@ Kamera dolů
 klepněte na tlačítko a stiskněte klávesu klávesnice, abyste jej mohli vázat na tuto akci
 
 #menuop_togtut
-Přepněte výukové programy
+Tutoriál
 
 #menuop_togtut_c1
 Povolí hlavní tutoriál a všechna vyskakovací okna nápovědy, když děláte věci poprvé.
@@ -5572,3 +5506,862 @@ Asi se chystáte udělat chybu ...
 
 #warn_moveprim_1
 Začínat hru přesunutím celého primitivního kmene je velmi nebezpečné rozhodnutí, které může velmi rychle vést k porážce nebo k uvíznutí na významně velkou dobu. Pokud nevíte přesně, co děláte, je VYSOCE doporučeno usadit se na vašem počátečním regionu: později můžete s menší posádkou prozkoumat a poté zorganizovat bezpečnou migraci na lepší místo.
+
+#menuop_togIP
+Skrýt účet
+
+#menuop_togIP_c1
+Skrýva informace o účtu jako je User ID a IP.
+
+#statepow_nation_c31
+[y] přímý podřízení: [x]
+
+#statepow_nation_c41
+Průměrná vzdálenost [y] přímých podřízených: [x]
+
+#statepow_nation_c51
+[y] celkem podřízených: [x]
+
+#ui_connctstat2_2
+Late rate: [x]% ( dotázaných:[y]  zpožděných:[z]  selhaných:[v])
+
+#servlst_sb
+Spawn bonus
+
+#servlst_sb_c1
+Čím více hráčů chybí na serveru, tím vyšší je počáteční bonus za spawn na ne-primitivních začátcích.
+
+#servlst_prgrs
+Pokrok
+
+#servlst_prgrs_c1
+Celková technologycká úroveň ve kterém se hra právě nacházi.
+
+#servlst_won
+Výtězný
+
+#servlst_won_c1
+Pokud tato hra byla vyhráta, nebo ne. Jakmile někdo vyhraje, hra končí a server může být vymazán a restartován.
+
+#newchar_bestspwn
+(Nejvyšší hodnota: [x])
+
+#ui_annex_err3
+Tento typ přístavby již nelze víc umístit.
+
+#gamelob_spwnbon
+Startující bonus
+
+#gamelob_spwnbon_c1
+Při zrození se jako mový hráč tak tento bonus pomáhá a zvyšuje celkové startovní podmínky (více materílu, technologie, atd.) zvoleného startu.
+
+#gamelob_spwnbon_c2
+Tento bonus je úměrný nedostatku aktivních hráčů na serveru.
+
+#formact_move
+Přemístit
+
+#treaty_offr_sent
+Nabídka o dohodě byla úspěšně odeslána!
+
+#startuto_cmplt
+Začáteční tutoriál byl dokončen!
+
+#cnvrt_mil_err
+Nedostatečná populace k převedení na milici!
+
+#ui_menubdg_solid
+Spolehlivost
+
+#ui_menubdg_struct
+Struktura
+
+#ui_recruit_into
+Převod do
+
+#ui_recruit_coincost
+Cena
+
+#ui_recruit_coininc
+Příjem
+
+#ui_tile_movcost_enm
+nepřátelské území
+
+#form_atfct
+Artefakt
+
+#form_atfct_dscr_1
+Toto je speciální artefakt. Jako neživý předmět náleží tomu, kdo jej aktuálně ovládá. Nelze jej zničit, najmout nebo převést do formací.
+
+#form_atfct_dscr_2
+Vlastnictví je možné získat kteroukoli z vašich formací nacházejícím se na stejném území a nárokovat si ji, ale je to možné pouze v případě, že současný vlastník nemá žádnou vlastní „hlídací“ strukturu.
+
+#form_atfct_dscr_3
+Vlastnictví lze ztratit stejným způsobem.
+
+#mg_localgame
+lokální hra
+
+#mg_remove_1
+smazat z "mé hry"
+
+#mg_remove_2
+(toto je jenom zkratka, smazáním tohoto nesmáže tvůj aktuální charakter v té dané hře)
+
+#mg_serverstatus
+status serveru
+
+#mg_srvr_unknown
+neznámé
+
+#mg_srvr_online
+online
+
+#uiworldforms_inreg
+Formace v tomto teritoriu
+
+#uiworldforms_novisib
+Neznámé: žádná viditelnost
+
+#formmisspop
+Na území není dostatek populace, aby bylo možné toto vojsko plně naverbovat!
+
+#joingame_yourgames_dscr_1
+Historie všech vašich posledních hraných postav pro snadnější přímý přístup.
+
+#bc_menuform_cantchtype
+Tento typ formace nelze změnit.
+
+#b_actv_trt_brk
+narušitel
+
+#b_actv_trt_wbrk1
+Budeš porušovat
+
+#b_actv_trt_wbrk2
+[x] bude porušovat
+
+#b_actv_trt_brkcl1
+bez porušení klauzulí
+
+#b_actv_trt_brkcl2
+spouštění porušení klauzulí
+
+#ui_wrldmov_erxplr
+Tato formace nemůže prozkoumávat nová území.
+
+#menu_scr_vpcost_c1
+Každý vítězný bod v současné době stojí [x] bodů skore.
+
+#menu_scr_vpcost_c2
+Cena 100 vítězných bodů je definována jako 50% současného světového skóre. To činí náklady na každy VB na 0,5% světového skóre (s minimem 100 bodů).
+
+#formact_tkartfct
+Zabrat artefakt
+
+#autoban_cheat
+Účet byl zabanován z důvodu podvádění.
+
+#autoban_vm
+Účet byl zabanován za využití Virtuálního Zařízení.
+
+#autoban_device
+Účet zablokován za pokus podvádět na pravidlu "pouze jedno žařízení"(one-device-only).
+
+#autobanned
+Z tohoto serveru jste byl vykázán automatickým anti-cheatem.
+
+#modbanned
+Správce vás ručně zabanoval(vykázal) z tohoto serveru.
+
+#insuf_funds
+Nedostatečné finanční prostředky!
+
+#trtybrk_load
+Kontrola smluv...
+
+#trtybrk_none
+Touto akcí nebudou porušeny žádné smlouvy.
+
+#trtybrk_warn
+VAROVÁNÍ! Následující akce spustí narušení následujících dohod:
+
+#servlst_psw
+Zaheslované
+
+#servlst_psw_c1
+Jestli přístup k serverům je zabezpečený heslem, nebo či nikoli.
+
+#mapcont
+Kontinenty
+
+#mapsea
+počet moří
+
+#maprelief
+Relief amount
+
+#maptemp
+Teplota
+
+#regeco_up_free
+Status teritoria
+
+#regeco_up_free_c1
+Zadarmo náklady z územního statusu.
+
+#ui_mres_dist_cltr
+This resource produces [x] of State Culture for every unit consummed by population, currently producing a total of [y] State Culture.
+
+#ui_foinv_unldfail
+The formation failed to unload [x] of [y] because of insufficient storage space!
+
+#ui_regres_totexp_c4w
+Selling at a loss! Local Cargo price higher than in the trade routes
+
+#ui_regres_selres
+Zvolit typ suroviny
+
+#ui_regres_trsf_c1
+Setup a continuous transfer of resources between your territories. 
+
+#ui_regres_trsf_c2
+These offers are not visible to your trading network and can only be taken by your own territories.
+
+#ui_regres_imp_c1
+View existing offers in your trading network of territories offering the exportation of a continuous transfer of resources.
+
+#ui_regres_exp_c1
+Offer a continuous transfer of resources to other territories of your trading network.
+
+#ui_regres_exp_c2
+These offers are public and can be taken by anyone in your trading network.
+
+#ui_regres_buying
+Buying in [x]
+
+#ui_regres_selling
+Selling in [x]
+
+#ui_regres_amnt
+Množství
+
+#ui_troute_basevol
+Základní množství
+
+#ui_troute_basevol_c1
+The base cargo volume needed for this trade route, which is the sum of the cargo volume of all the transported resources.
+
+#ui_troute_totinc
+CELKOVÝ PŘÍJEM
+
+#ui_troute_totinc_c1
+Celkový příjem z této obchodní trasy.
+
+#ui_troute_binc
+příjem zboží
+
+#ui_troute_binc_c1
+Příjem z prodeje zboží z obchodní cesty.
+
+#menu_nfrm_t1_dscr_1
+Armáda se skládá z trvale mobilizovaných jednotek, jež stojí údržbu.
+
+#menu_nfrm_t1_dscr_2
+They require constant support from their home to replace aging porcos, and recruiting new units removes porcos from the territory.
+
+#menu_nfrm_t1_dscr_3
+Armies can move into other territories and their presence increases state authority.
+
+#menu_nfrm_t2_dscr_1
+A militia is composed by the population of the territory itself, only mobilizing to defend the territory when it's attacked.
+
+#menu_nfrm_t2_dscr_2
+Militias don't monopolize porcos permanently, allowing them to keep a job and it's upkeep is lower as it's soldiers do not require a salary.
+
+#menu_nfrm_t2_dscr_3
+However , the militia cannot move to other territory s and decreases the state authority.
+
+#form_sttlrs
+Osadníci
+
+#form_sttlrs_dscr_1
+Osadníci jsou občanské formace, které mohou najímat civilní obyvatelstvo k osídlení nových území.
+
+#form_migrnts
+Migranti
+
+#form_migrnts_dscr_1
+Migranti jsou speciální civilní formace obyvatelstva bez domova. Mohou usadit nová území, nevyžadují žádnou domácí podporu a mohou obnovit svoje body pohybu(AP) bez penalizace na dálku, ale stojí navíc státní moc a údržbu.
+
+#form_migrnts_dscr_2
+Migranti jsou vytvářeni při evakuaci území.
+
+#form_nomad
+Kočovníci
+
+#form_nomad_dscr_1
+Nomádi nevyžadují žádnou domácí podporu a mohou obnovit svoje body pohybu bez penalizace na dálku od domova. Jsou také schopni osídlit nová území
+
+#regstatprop_freeup
+[x] bezplatné údržby
+
+#strprio_0
+[automaticky]
+
+#strprio_1
+Nízká
+
+#strprio_2
+Střední
+
+#strprio_3
+Vysoká
+
+#strprio_4
+Velmi Vysoká
+
+#ui_menubdg_prio
+Priorita skladiště
+
+#sc_menubdg_prio_c1
+Na rozdíl od ostatních úložišť vyberte úroveň priority pro ukládání nových zdrojů do tohoto skladu.
+
+#ui_menubdg_stck_wlth_c1
+Uložené bohatství
+
+#ui_menubdg_stck_wlth_c2
+Prostředky aktuálně v tomto skladu přidávají [x] k celkovému bohatství tohoto území.
+
+#ui_menubdg_stck_wlth_c3
+Uložené bohatství je součtem základního bohatství všech zdrojů. Základní bohatství zdrojů je konstantní na základě toho, kolik pracovních sil je zapotřebí k jejich výrobě.
+
+#ui_regwlth_tot
+Celkové bohatství
+
+#ui_regwlth_tot_c1
+Effective available wealth in the territory. It is shared between all active workers based on their coin incomes and it determines their individual wealth level and purchasing power.
+
+#ui_regwlth_prod
+Vyprodukované bohatství
+
+#ui_regwlth_prod_c1
+Current total wealth from all productive work taking place in the territory, it's the sum of all buildings whose work produces wealth.
+
+#ui_regwlth_stck
+Uložené bohatství
+
+#ui_regwlth_stck_c1
+Current total wealth from all the currently stored resources in the territory (note that resources stored in unmanned ground storages are ignored).
+
+#ui_regwlth_mtl
+Representujíci mněna
+
+#ui_regwlth_mtl_c1
+S politikou Representující měnu, vzácné kovy jež jsou uskladněné se přičtou k územnímu bohatství.
+
+#ui_regwlth_prv
+Privilégium
+
+#ui_regwlth_prv_c1
+Bohatství jež je odděleno pro priviligované sociální třídy
+
+#ui_tradeordr_your
+Vaše přikazy v [x]
+
+#ui_tradeordr_in
+v [x]
+
+#ui_tradeordr_recur
+Opakující se požadavek
+
+#ui_tradeordr_recur_c1
+Kliknutím provedete opakování této objednávky a automaticky se spustí na základě zásob území.
+
+#ui_tradeordr_stcktrg1
+...když zásoby jsou nížší než
+
+#ui_tradeordr_stcktrg2
+...když zásoby jsou vyzší než
+
+#ui_tradeordr_instck
+Na skladě
+
+#ui_tradeordr_lclprc
+Místní cena
+
+#ui_tradeordr_inc1
+Hrubý příjem z obchodu
+
+#ui_tradeordr_inc1_c1
+This is the raw income this trade offer will generate if taken, based on the amount sold and specified limit price.
+
+#ui_tradeordr_inc2
+Podíl místního výrobce
+
+#ui_tradeordr_inc2_c1
+Pokud jsou prodané zdroje v soukromém vlastnictví, musí být jejich místním vlastníkům zaplaceno v místní tržní ceně.
+
+#ui_tradeordr_inc2_c2
+* Místní výrobci vlastní [x], za místní cenu [y]: + [z] mincí
+
+#ui_tradeordr_inc2_c3
+* Daň z příjmu [x]%: - [y] mincí
+
+#ui_tradeordr_inc2_c4
+* Skutečný příjem pro místní producenty: [x] mince
+
+#ui_tradeordr_inc3
+Očekávaný příjem
+
+#ui_tradeordr_inc3_c1
+Toto je očekávaný zisk očekávaný pro tuto obchodní nabídku.
+
+#ui_tradeordr_inc4
+Trade's raw expense (deposit)
+
+#ui_tradeordr_inc4_c1
+This is the maximum raw expense of this trade based on the amount purchased and specified limit price. Immediately taken from the treasury to insure the order.
+
+#ui_tradeordr_inc5
+Potenciální lokální přijem
+
+#ui_tradeordr_inc5_c1
+If the purchased resources are then sold locally, this is the income they will generate based on their local selling price.
+
+#ui_tradeordr_inc6
+Předpokládaný profit
+
+#ui_tradeordr_inc6_c1
+Toto je očekávaný profit pokud by všechny nakoupené suroviny byly prodány na lokalním trhu.
+
+#ui_tradeordr_prc1
+Maximum purchasing price. If selling offers are available at a lower price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_prc2
+Minimum selling price. If buying offers are available at a higher price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_quant
+Enter the amount of resources to trade for this offer.
+
+#ui_tradeordr_trdsrvcav
+This offer requires [x] of trading service. You have currently [y] available.
+
+#ui_tradeordr_cant
+This resource cannot be traded!
+
+#ui_tradeordr_showall
+Zobrazit všechny zdroje
+
+#ui_tradeordr_showall_c1
+Show pending orders for this territory of all resources.
+
+#ui_tradeordr_allreg
+Pro všechny území
+
+#ui_tradeordr_allreg_c1
+Show the trading history of all your territories combined instead of just the currently selected one.
+
+#ui_tradeordr_nocoin
+Insufficient treasury funds to place this order.
+
+#ui_tradeordr_nostck1
+Insufficient resources in stock to place this order.
+
+#ui_tradeordr_nostck2
+Impossible to set a sell order of an amount higher than the stock triggering it.
+
+#ui_tradeordr_priclmt1
+This order conflicts with a selling order from the same territory at a price of [x].
+
+#ui_tradeordr_priclmt2
+This order conflicts with a buying order from the same territory at a price of [x].
+
+#ui_tradeordr_trdsrvc_c1
+Trading service is produced by Market buildings and is required to set and maintain orders in your trading network.
+
+#ui_tradeordr_trdsrvc_c2
+* Tvý fungující obchodnící v tomto území právě produkují [x] Obchodních služeb.
+
+#ui_tradeordr_trdsrvc_c3
+* You current orders currently consumme [x] of Trading service.
+
+#ui_tradeordr_trdsrvc_c4
+* You have [x] of Trading service available for new orders.
+
+#ui_tradeordr_butn_c1
+Buying [x] [y] at a maximum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c2
+Recurrent buying of [x] [y] at a maximum price of [z] coins per unit triggered whenever stocks go below [v].
+
+#ui_tradeordr_butn_c3
+Selling [x] [y] at a minimum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c4
+Recurrent selling of [x] [y] at a minimum price of [z] coins per unit triggered whenever stocks reach [v].
+
+#ui_tradeordr_butn_c5
+This order is currently inactive. It will automatically trigger if stocks of [x] reach [y] in this territory.
+
+#ui_tradeordr_butn_c6
+This order is currently active. It will automatically cancel if stocks of [x] go below [y] (stock trigger [z] -order size [v]) in this territory.
+
+#ui_tradeordr_butn_c7
+This order is currently inactive. It will automatically trigger if stocks of [x] go below [y] in this territory.
+
+#ui_tradeordr_butn_c8
+This order is currently active. It will automatically cancel if stocks of [x] go above [y] (stock trigger [z] +order size [v]) in this territory.
+
+#ui_tradeordr_shwinctv
+Ukaž naktivní nabídky
+
+#ui_tradeordr_shwinctv_c1
+Click to toggle the display of recurrent orders that are currently inactive.
+
+#ui_tradeordr_butn_c9
+Offer in [x], from [y] of [z] ([v])
+
+#ui_tradeordr_butn_c10
+Offer in [x], from you
+
+#ui_tradebook_title
+Orders book
+
+#ui_tradebook_buy
+Nejlepší potávka
+
+#ui_tradebook_sell
+Nejlepší nabídka
+
+#ui_tradebook_buyd
+Ask orders depth
+
+#ui_tradebook_selld
+Bid orders depth
+
+#ui_tradebook_nosell
+No selling offers in your trading network!
+
+#ui_tradebook_nobuy
+No buying offers in your trading network!
+
+#ui_tradebook_noofr
+You havn't any openned orders in this territory.
+
+#ui_tradebook_nbuy_c1
+Place a one-time buying order for [x] [y] at maximum price of [z] coins.
+
+#ui_tradebook_nbuy_c2
+[x] coins will immediately be taken from your treasury and reserved for this order. Note that if the order is cancelled or satisfied at a lower price, the difference will be returned to the treasury.
+
+#ui_tradebook_nbuy_c3
+Place a recurring buying order for [x] [y] at maximum price of [z] coins everytime territory's stocks are below [v].
+
+#ui_tradebook_nbuy_c4
+* Activates when territory go below [x] of [y].
+
+#ui_tradebook_nbuy_c5
+* Deactivates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c1
+Place a one-time selling order for [x] [y] at minimum price of [z] coins.
+
+#ui_tradebook_nsell_c2
+[x] [y] will immediately be taken from your resource stocks and reserved for this order.
+
+#ui_tradebook_nsell_c3
+Place a recurring selling order for [x] [y] at minimum price of [z] coins everytime the territory's stocks reach [v].
+
+#ui_tradebook_nsell_c4
+* Aktivuje se když území dosáhne [x] z [y].
+
+#ui_tradebook_nsell_c5
+* Deaktivuje se když území je menší než [x] z [y].
+
+#ui_tradehist_ttle
+Historie
+
+#ui_tradehist_ttle_c1
+Trading history in the territory of [x], for the last [y].
+
+#ui_tradehist_but_c1
+[x] ago, in [y]:
+
+#ui_tradehist_but_c2
+Koupili jste [x] [y] od [z] za cenu [v].
+
+#ui_tradehist_but_c3
+Prodali jste [x] [y] [z] za cenu [v].
+
+#ui_tradehist_but_c4
+* Hrubý příjem: + [x] mincí
+
+#ui_tradehist_but_c5
+* Místní výrobci sdílejí: - [x] mince
+
+#ui_tradehist_but_c6
+* Zisk: [x] mincí
+
+#ui_tradehist_but_c7
+* Celková cena: [x] mincí
+
+#menu_res_gen
+General
+
+#menu_res_wealth_c1
+The base wealth of this resource type. This is an objective constant independent of the fluctuating market value of the resource, based on the amount of work required to produce this resource. 
+
+#menu_res_wealth_c2
+If stocked in proper storage buildings, each unit will add [x] to the territory's wealth.
+
+#menu_res_trd
+Obchodování
+
+#menu_res_trd2
+Obchod
+
+#ui_tradehist_tots
+Celkové prodeje
+
+#ui_tradehist_tots_c1
+Celkový příjem z posledního prodeje [x].
+
+#ui_tradehist_totb
+Celkové nákupy
+
+#ui_tradehist_totb_c1
+Celkové náklady na nákupy od poslední [x].
+
+#ui_tradehist_prtnr
+Nejlepší obchodní partner
+
+#ui_tradehist_bs
+jejich nákupy: [x], prodej: [y]
+
+#ui_tradentwk_title
+Nejlepší nabídky
+
+#ui_tradentwk_title_c1
+Best available offers in your current trading network, for each resource type.
+
+#ui_tradentwk_bst_c1
+* Nejlepší možná nabídka: [x] mincí
+
+#ui_tradentwk_bst_c2
+* Nejlepší možná poptávky: [x] mincí
+
+#ui_tradentwk_bst_c3
+* Nejsou žádné nabídky.
+
+#ui_tradentwk_bst_c4
+* Není žádná poptávka
+
+#ui_tradentwk_bst_c5
+na skladě: [x], místní cena: [y]
+
+#ui_tradentwk_prof
+Filtrujte nevýdilečné nabídky
+
+#ui_tradentwk_prof_c1
+Only list resources whose best offers are potentially profitable for this territory:
+
+#ui_tradentwk_prof_c2
+If the best bid is superior or equal to the local price, or if the best ask is lower or equal to the local price.
+
+#menu_res_trdfrm
+Obchod od...
+
+#menu_res_trdfrm_c1
+Vyberte teritorium, jež chcete zvážit pro obchodování s [x].
+
+#button_opertrt_c1
+Provozování obchodní cesty mezi [x] z [y] a [z] z [v].
+
+#button_opertrt_c2
+* pomocí [x] nákladu za cenu [y]: [z] mincí
+
+#button_opertrt_c3
+* nákup nákladu za místní cenu [x]: - [y] mincí
+
+#button_opertrt_c4
+* provozní zisk: [x] mincí
+
+#button_routeitem_c1
+Import [x] z [y] za cenu [z] z [v] pro celkový objem nákladu [w].
+
+#button_routeitem_c2
+Zakoupeno z obchodní stezky v ceně [x] za [y] mincí a v současnosti se prodává v [z] za cenu [v] za [w] mincí.
+
+#button_routeitem_c3
+Export [x] z [y] za cenu [z] směrem k [v] pro celkový objem nákladu [w].
+
+#button_routeitem_c4
+Zakoupeno od místních výrobců za cenu [x] za [y] mince a v současné době prodáno na obchodní stezce do [z] za cenu [v] za [w] mincí.
+
+#button_routeownr
+Vlastník obchodní stezky
+
+#button_routeownr_c1
+Vlastník obchodní cesty je ten, kdo obchodní cestu otevřel, a jako jediný platí požadovaný náklad a je schopen zvolit provozovatele trasy.
+
+#button_routeresedit_1
+Jedná se o obchodní stezku s třetí stranou: můžete snížit pouze obchodovanné množství.
+
+#button_routeresedit_2
+Toto je obchodní stezka, kterou plně ovládáte, a můžete zvýšit nebo snížit obchodovanné množství.
+
+#srvr_restart
+Upozornění: Denní automatický restart serveru za [x]!
+
+#srvr_decorstrt
+Server se restartuje a za pár minut bude online.
+
+#ui_char_notblk
+Tato postava není blokována. Klepnutím zablokujete.
+
+#ui_char_isblk
+Tato postava je zablokovaná. Klepnutím odblokujete.
+
+#ui_char_nowblk
+Tato postava je zablokovaná.
+
+#ui_char_nowunblk
+Tato postava už není zablokovaná.
+
+#ui_char_blk_dscr_1
+Blokování skrývá všechny chaty, zprávy a kroniky od této postavy.
+
+#ui_char_blk_dscr_2
+Nahrazuje také všechna jeho teritoriální jména výchozími.
+
+#ui_price_base1_c2
+Produkce representuje [x]% celkové průměrné ceny [y] za kus, způsobujíci efekt, jež ovlivňuje minimální cenu [z].
+
+#ui_price_base2_c2
+Import reprezentuje [x]% celkové průměrné ceny [y] za kus, způsobujíci efekt, jež ovlivňuje minimální cenu [z].
+
+#ui_builderr_maxreg
+Nemůže být více jak [x] [y] na jednom území.
+
+#btl_rslt_rtrtd
+retreated
+
+#formact_palntr
+Použít Palentir
+
+#ui_dpltool_delzone
+(klikni pravým pro smazání)
+
+#ui_dpltool_conf
+Strategické změny potvrzeny!
+
+#ui_dpltool_notindefz
+Vojsko nelze nastavit do obranného režimu, protože není nasazeno v obranné zóně!
+
+#ui_dpltool_inaxss
+Vojsko zde nelze nasadit, z důvodu nepřístupnosti terénu!
+
+#err_reg_abdn5
+Toto území je již evakuováno!
+
+#regstatprop_freeclaims
+[x] volných územních zabrání
+
+#err_cantrstr
+Tato budova nemůže býti obnovena!
+
+#ui_regwlth_mtl_c2
+Aktuální zásoby poskytují bonus + [x]% vyprodukovaného bohatství.
+
+#ui_tradeordr_inc7
+Očekávané ztráty -[x]%
+
+#ui_tradeordr_inc7_c1
+Toto je očekávaný zisk ztracený 'ztrátám' na základě současné míry 'ztrát' [x]% na tomto území.
+
+#ui_tradehist_but_c8
+* Ztráty: -[x] mincí
+
+#ui_govcltr_civpt_c1
+V současné době máte [x] nevyužitých civilizačních bodů k zainvestování do nových kulturních rysů.
+
+#ui_govcltr_civpt_dscr_1
+Civilizační body vám umožňují přizpůsobit a specializovat vaši kulturu, investováním vašich bodů do několika různých kategorií, které poskytují různé výhody, jako je odemykání spotřeby a produkce zdrojů, umožnění ruzných rysů chování a změna stylu vaší architektury.
+
+#ui_govcltr_civpt_dscr_2
+Tyto body se získávají hlavně generací státní kultury na všech vašich územích, ale lze je také získa, prostřednictvím odměn za akce a projekty.
+
+#ui_govcltr_civpt_dscr_3
+Po zainvestování těchto bodů, nelze je získat zpět: pečlivě si promyslete své rozhodnutí!
+
+#ui_govcltr_civpt_use_c1
+V současné době jste dosud investovali [x] bodů z celkového počtu [y] bodů.
+
+#ui_govcltr_lvl
+Kuturní úroveň
+
+#ui_govcltr_lvl_c1
+Tvůj nynější level kultury je [x].
+
+#ui_govcltr_lvl_c2
+Za každou dosaženou novou úroveň, získáte další civilizační bod.
+
+#ui_govcltr_nxtlvl
+Další level
+
+#ui_govcltr_xpbar_c1
+Chcete-li dosáhnout další úrovně kultury, musíte vygenerovat [x] státní kultury.
+
+#ui_govcltr_xpbar_c2
+Momentálně generujete [x] státní kultury [y] na všech vašich území.
+
+#ui_govcltr_xpbar_dscr_1
+Hlavním způsobem, jak získat nové civilizační body, je vylepšení vaší kultury: za každou novou úroveň, získáte jeden nový bod.
+
+#ui_govcltr_xpbar_dscr_2
+Vyrovnání úrovně je dosaženo produkcí státní kultury na vašem území a každá nová úroveň vyžaduje více kultury než ta předchozí.
+
+#ui_formmove_blckd
+Pohyb byl zrušen, protože jejich cesta je blokována nepřátelskými jednotkami!
+
+#ui_recruit_btl
+Během bitvy nemůžete modifikovat jednotky!
+
+#ui_tech_rev
+Odhalení
+
+#ui_rveal_res
+Objevily jsme [x] v [y]!
+
+#bc_gen_speed_c1
+Nastavuje celkovou rychlost postupu hry.
+
+#bc_gen_speed_c2
+Toto ovlivňuje rychlost věcí, jako je výroba zdrojů, výzkum, obnova AP, objevování nových nápadů, rychlost pohybu na mapě světa atd...
+
+#bc_btl_speed_c1
+Nastavuje rychlost bitvy a rychlost jednotek.
+
+#bc_btl_speed_c2
+To ovlivňuje pouze rychlost bitev a jednotek v teritoriích.
+
+#popstat_wpriv_c1
+Tato klása získá [x]% z bohatství území, jako privilegium.
+
+#popstat_wpriv_c2
+[x]% z [y] produkovaného bohatství na území = [z] 
+
+#popstat_wpriv_c3
+-[x] z [y]% vudcového příspěvku do kasy
+
+#formact_wood
+Sbírejte dřevo
+
+#formact_wood_rslt
+Formace nasbírala [x] dřeva.
+
+#ui_regwlth_prv_c2
+[x]% z [y] bohatství = [z] odkloněn od privilegií
+

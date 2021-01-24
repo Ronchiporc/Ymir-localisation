@@ -7,17 +7,17 @@ Die Marktstudie über seltene Ressourcen wird dazu neigen, den Reichtum deiner r
 Ein Porco mit einem Reichtum von 2 wird in der Lage sein, seinen Bedarf an Ressourcen, die 2 Münzen oder weniger kosten, vollständig zu decken.
 Wenn eine Ressource 4 Münzen kostet, kann ein Porco mit einem Reichtum von 1 nur 25% seines Bedarfs an dieser Ressource decken.
 Der Reichtum eines Porcos definiert seine Kaufkraft, wie die Ressourcen, die er sich leisten kann, um seine Bedürfnisse zu befriedigen.
-Reichtum ist die Einheit des objektiven Wertes. Es ist definiert durch die Zeit, die ein Porco damit verbringt, an etwas zu arbeiten, unabhängig vom subjektiven Wert (Münzpreise), den seine Gesellschaft dem, was er tut, gibt. 
-Der Reichtum als universelle Bezugsgröße ist in allen Regionen und Akteuren gleich.
+Reichtum ist die Einheit des objektiven Wertes. Es ist definiert durch die Zeit, die ein Porco damit verbringt, an etwas zu arbeiten, unabhängig vom subjektiven Wert (Münzpreise), den seine Gesellschaft dem, was er tut, gibt.
+Der Reichtum als universelle Bezugsgröße ist für alle Regionen und Spieler gleich.
 Jeder Porco, der Zeit damit verbringt, an etwas zu arbeiten, produziert Vermögen proportional zum Umfang der geleisteten Arbeit.
 Ein Porco, der in einem Gebäude mit der doppelten Effizienz eines anderen arbeitet, produziert doppelt so viel Arbeit an einem Tag und damit doppelt so viel Vermögen.
 Die Art oder der Preis der Waren haben keinen Einfluss auf den Reichtum. Diese Dinge stehen im Verhältnis zu den Gesellschaften, während der Reichtum eine objektive universelle Einheit ist, die die Zeit darstellt, die mit der Arbeit an allem verbracht wird.
-Wenn ein Porco 10 von 1000 Münzen verdient (Summe der Einkommen in der Region), aber dann ändern sich die Verhältnisse und es zirkulieren plötzlich 2000, ist es, als hätte er die Hälfte dessen verloren, was seine Münzen wirklich wert sind, und er hat die Hälfte des Reichtums der Region verloren, den er früher hatte, wenn er seine 10 Münzen ausgegeben hätte.
-Währungen stellen ein Recht auf einen Anteil am realen Wert dar und haben nicht unbedingt einen eigenen Wert. In Ymir ist dieser "reale objektive Wert" die Einheit des "Reichtums", die durch die Währungen "Münzen" repräsentiert wird. 
+Wenn ein Porco 10 von 1000 Münzen verdient (Summe der Einkommen in der Region), aber dann ändern sich die Verhältnisse und es zirkulieren plötzlich 2000 Münzen, ist es, als hätte er die Hälfte dessen verloren, was seine Münzen wert sind. So repräsentieren diese nun nicht mehr 1 Prozent des totalen Reichtums der Region, sondern nur noch 0,5 Prozent.
+Währungen stellen ein Recht auf einen Anteil am realen Wert dar und haben nicht unbedingt einen eigenen Wert. In Ymir ist dieser "reale objektive Wert" die Einheit des "Reichtums", die durch die Währungen "Münzen" repräsentiert wird.
 Wenn der gesamte Reichtum der Region ein Kuchen wäre, würde jede Münze einem Porco das Recht auf ein Stück davon geben. Die Größe der Scheibe hängt davon ab, wie viele andere Münzen im Umlauf sind (Summe aller Einkommen in der Region).
 Die Summe aller Einnahmen einer Region stellt die Gesamtmenge der im Umlauf befindlichen Münzen und damit den objektiven Wert (Reichtum) jeder Münze dar.
 Um die Komplikation der relativen Währungen zu vereinfachen und zu vermeiden, wird in ymir die Anzahl der im Umlauf befindlichen Münzen automatisch als Summe aller Einnahmen festgelegt. Daher schwankt auch der Ist-Wert (Reichtum) jeder Münze automatisch in Abhängigkeit von der Gesamtmenge der Einnahmen.
-Du kannst immer noch von einem Lagergebäude aus ohne Arbeiter auf die Ressourcen zugreifen, aber es kann keine neuen erhalten.
+Wenn ein Lagergebäude keine Arbeiter mehr hat kannst du immer noch auf die Ressourcen zugreifen, aber es kann keine neuen mehr entgegennehmen.
 Jede Ressource, die verteilt und der Bevölkerung zur Verfügung gestellt wird (sei es durch Händler, Produzenten oder etwas anderes), geht verloren, unabhängig davon, ob sie tatsächlich verkauft wird oder nicht.
 Der Preis einer Ressource wird immer mindestens eine Münze über ihren Produktionskosten liegen, um einen minimalen Nutzen für ihre Erzeuger zu gewährleisten.
 Wenn eine Industrie etwas Hochwertiges produziert, werden die Produzenten der benötigten Materialien das Einkommen dieser Industrie begehren und die Preise ihrer Materialien erhöhen.

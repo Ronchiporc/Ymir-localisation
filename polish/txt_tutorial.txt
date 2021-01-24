@@ -2,7 +2,7 @@
 Welcome to Ymir! It looks like it's the first time you're launching this game. 
 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. However if you already know the game, you can choose to disable all tutorials right now.
 
 #tuto_create_1
 This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
@@ -74,13 +74,13 @@ Events will appear  as flags on top of the screen and you can also review them a
 Thank you mister Pig, shall we continue ?--4--3
 
 #tuto_4_1
-You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Clic on it to select it.
+You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Click on it to select it.
 
 #tuto_5_1
 On the bottom left is the formation menu of your formation. It shows details such as the list of units in this formation and their inventory. 
 
 #tuto_5_2
-Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, clic the 'orders' button.
+Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, click the 'orders' button.
 
 #tuto_6_1
 Select the mission "Settle", leave all the options by default, and validate to order your whole tribe to settle in this territory. Its units and inventory will be unloaded in the territory which will now be under your control and the formation itself will disapear.
@@ -89,7 +89,7 @@ Select the mission "Settle", leave all the options by default, and validate to o
 The territory selector shows the name of your  currently selected territory. On it's left is a round button that allows you to go into the territory.
 
 #tuto_7_2
-With your newly settled territory selected, clic that button to go into your territory.
+With your newly settled territory selected, click that button to go into your territory.
 
 #tuto_8_1
 This is the territory you have settled and now control. In the middle of it is the camp your tribe has set with tents and with all their resources now unloaded onto the ground.
@@ -182,7 +182,7 @@ Good to know.--20--13
 This button opens an important menu: the "Territory menu". 
 
 #tuto_20_2
-It shows everything you need to know about the territory you are in, allowing you to check it's situation and to diagnose it's problems. Clic to open it.
+It shows everything you need to know about the territory you are in, allowing you to check it's situation and to diagnose it's problems. Click to open it.
 
 #tuto_21_1
 This menu has a lot of informations combined in it. The top half is a global summary of the territory with all it's important stats in a single space.
@@ -203,7 +203,7 @@ It needs to remains more or less above 70%: meaning most people in your tribe ha
 Very well.--23--15
 
 #tuto_23_1
-Just below it is the territory's Growth: the current variation of your population. This is what you will be looking for the most in early game.
+Just above it is the territory's Growth: the current variation of your population. This is what you will be looking for the most in early game.
 
 #tuto_23_2
 Positive growth means your population is increasing and you will get new active Porcos you can employ in buildings. 
@@ -221,7 +221,7 @@ What are the factors influencing Growth?--24
 How do I improve Growth?--25
 
 #tuto_24_1
-You can clic on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
+You can click on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
 
 #tuto_24_2
 The will to have children is detailed in the right side column and is affected mostly by the Life Quality of the population.
@@ -299,10 +299,10 @@ Unlike resources like foods, tools are not consummed by the population to satisf
 Ok.--32--21
 
 #tuto_32_1
-This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade,buy,sell ot transport resources between territories later on.
+This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade,buy,sell or transport resources between territories later on.
 
 #tuto_32_2
-Clic to open the tab.
+Click to open the tab.
 
 #tuto_33_1
 Each button shows you one type of resource currently stored or produced in the territory. On each button you can see the amount stocked, a sign indicating it's current variation, and it's local price.
@@ -344,7 +344,7 @@ Got it.--38--25
 What is the "only in restricted" mode ?--37
 
 #tuto_37_1
-When you clic on a storage building, you can set it to "restricted" and control what resources are allowed in it. 
+When you click on a storage building, you can set it to "restricted" and control what resources are allowed in it. 
 
 #tuto_37_2
 If you then set a resource storage policy to "only in restricted" in this menu, it will ONLY be allowed in storages that are in "restricted" mode AND that have been set to allow that specific resource. If there's no room the resources are destroyed.
@@ -410,10 +410,10 @@ Where do i create one ?--44--29
 This is the Units tab. In it you can see all the formations currently present in the territory. It's also where you can create new Formations.
 
 #tuto_44_2
-Clic on the tab to open it.
+Click on the tab to open it.
 
 #tuto_45_1
-Now clic the button to create a new Formation. Select the "Militia" type, and place the Formation's camp near your tribe.
+Now click the button to create a new Formation. Make sure to select the "militia" type and place the Formation's camp near your tribe.
 
 #tuto_46_1
 Very well. Now you have to recruit your first units into this new formation.
@@ -425,7 +425,7 @@ There is different categories of units: civilian units are what you will use to 
 For now you only have access to a single ranged military unit: the rockthrower. A porco simply equiped with stones to throw, best used to defend behind walls and gates.
 
 #tuto_47_2
-Now, recruit at least 20 rockthrowers (2 troops of 10 each). Remember: as a "Militia", in fact you're not really recruiting them but merely storing equipment (here simple stones) for your population to use in case of attack.
+Now, recruit at least 10 rockthrowers. Remember: as a "Militia", in fact you're not really recruiting them but merely storing equipment (here simple stones) for your population to use in case of attack.
 
 #tuto_47_c1
 What happens if i 'recruit' more militia that i have of population ?--48
@@ -437,16 +437,16 @@ Then your militia will not be fully "manned" in case of attack: if you saved up 
 Got it.--47
 
 #tuto_49_1
-Congratulations: you now saved equipment -a bunch of wooden clubs- for your population to use in case of attack. 
+Congratulations: you now saved equipment for your population to use in case of attack. 
 
 #tuto_49_2
-Now, additionnaly to that, you can also organize the defensive strategy of your units using the "Strategic tool", such as defining the deployment positions of your new militia. Clic to open it.
+Now, additionnaly to that, you can also organize the defensive strategy of your units using the "Strategic tool", such as defining the deployment positions of your new militia. Click to open it.
 
 #tuto_50_1
 With this tool, you can preview where all your troops ( militia or not ) will deploy in case of battle.
 
 #tuto_50_2
-You can select each troop and redeploy it where you want with the right clic. Hold it to set their ranks and orientation.
+You can select each troop and redeploy it where you want with the right click. Hold it to set their ranks and orientation.
 
 #tuto_50_c1
 Tell me more.--51--35
@@ -455,13 +455,13 @@ Tell me more.--51--35
 You can set the behavior mode of each troop. By default they will move to engage any enemy that arrives.
 
 #tuto_51_2
-With a troop selected, you can clic the dropdown button on the bottom left to select other modes that will affect that troop's behavior in battle.
+With a troop selected, you can click the dropdown button on the bottom left to select other modes that will affect that troop's behavior in battle.
 
 #tuto_51_c1
 Very well.--52--36
 
 #tuto_52_1
-Another tool is to create "Defensive zones" by clicking this button. Then clic and drag on the terrain to set a point and a radius around it. 
+Another tool is to create "Defensive zones" by clicking this button. Then click and drag on the terrain to set a point and a radius around it. 
 
 #tuto_52_2
 Once the zone is created, you can deploy troops in it and set them to the "defensive zone" behavior to have them defend this specific zone: they will be allowed to move out of it during battle.
@@ -473,7 +473,10 @@ Got it.--53--37
 Rockthrowers are only usefull in defense behind walls: I advise you to create a small fort of palissades and to then deploy them in it in 'stand ground' mode. This will protect you at least against invasion attempts.
 
 #tuto_53_2
-Once you are happy with your changes, make sure to close and SAVE your changes by clicking here.
+Once you are happy with your changes, make sure to close and SAVE your changes and let me know.
+
+#tuto_53_c1
+I'm done, let's move on!
 
 #tuto_54_1
 You now finished organizing your basic defenses. 
@@ -521,7 +524,7 @@ This new button allows you to open another important menu : the Government Menu.
 That's where you can manage and monitor all global matters (non territory-specific ones) such as your treasury balance, your culture, your policies etc...
 
 #tuto_58_3
-Clic to open it.
+Click to open it.
 
 #tuto_59_1
 The "Society" tab is where you manage your Policies, defining how your society is organized and works.
@@ -563,7 +566,7 @@ Ok.--63--43
 The "Sedentary life" project will unlock the knowledge of "Sedentism". To start it you first need to assign "researchers" to the project, and each project requires a specific 'class' of researchers (here it's Farmers).
 
 #tuto_63_2
-Clic the "+" button to assign researchers to the project.
+Click the "+" button to assign researchers to the project.
 
 #tuto_64_1
 Be careful: assigning researchers reduces the productivity of all buildings employing the same population class as they are busy with the project instead of working.
@@ -587,7 +590,7 @@ Ok.--66--46
 To start some projects you may also need to pay coins or resources. You will also need enough knowledge space to store the new knowledge it unlocks.
 
 #tuto_66_2
-You can now clic to start the work on the project.
+You can now click to start the work on the project.
 
 #tuto_67_1
 Congratulations, you started your first project! It will take some time to complete it, depending on your number of researchers and their efficiency.
@@ -620,7 +623,7 @@ This is your player score. Its based on different stats like your total wealth, 
 Ok.--71--49
 
 #tuto_71_1
-Next to it are your Victory Points. They are earned by completing victory missions that may be shared in common with other players, in which case only the first one to complete it will get the reward.
+Next to it are your Victory Points. They are earned based on how your score compares to others and by completing victory missions that may be shared in common with other players, in which case only the first one to complete it will get the reward.
 
 #tuto_71_2
 You win the game by beeing the first player to reach the objective of Victory Points set for that game.
@@ -845,7 +848,7 @@ You don't even exist. You're just a script of pseudo interactive pre-written lin
 You're lying!
 
 #tuto_101_c1
-I can get rid of you anytime by simply editing the .ini file of this game.-102
+I can get rid of you anytime by simply editing the .ini file of this game.--102
 
 #tuto_102_1
 No you can't! You will be lost in this game without me. You NEED me.
@@ -950,7 +953,7 @@ You can also speed up this process by manually destroying the slums. If you dest
 Very well.--115
 
 #tuto_115_1
-This is the destroy tool. Its what you use to order the destruction of infrastuctures, clear terrain, or deconstruct building. When you right clic on it, you can filter what you wish to destroy.
+This is the destroy tool. Its what you use to order the destruction of infrastuctures, clear terrain, or deconstruct building. When you right click on it, you can filter what you wish to destroy.
 
 #tuto_115_2
 When your order the deconstruction of a building, you will recover about half it's initial materials.
@@ -992,13 +995,13 @@ While a militia is just a stack of weapons to use by your population in case of 
 Got it, so what do i do ?--120
 
 #tuto_120_1
-Now create a new 'Army' formation and recruit 10 warriors in it. 
+Now create a new 'Army' formation and recruit at least 10 warriors in it. 
 
 #tuto_120_2
 This time note that they will be removed from your current population as it's not a 'Militia', so you'll never want to recruit all your actives in an army because it would empty all it's production buildings of it's workers.
 
 #tuto_121_1
-Select your new formation by clicking on it's camp or by clicking it's button on the Formations tab.
+Select your 'Army' formation by clicking on it's camp or by clicking it's button on the Formations tab.
 
 #tuto_122_1
 On your selected Formation's menu, click the "+" button to add additionnal troops to your already existing army.
@@ -1045,17 +1048,20 @@ Good to know!--128
 #tuto_128_1
 Now try to locate a 'herd': a group of animals units, and explore new tiles if you have to. Select the herd formation once you have found one.
 
+#tuto_128_c1
+I can't find any...
+
 #tuto_129_1
 That's a 'herd'. You can see how many animals it has and you can click on it's inventory to see it's 'loot' : the total amound of meat and leather you can recover from killing them.
 
 #tuto_129_2
-With your formation of warriors selected, you can right clic on the tile of the territory where the herd is, and the action "Hunt" will be available.
+With your formation of warriors selected, you can right click on the tile of the territory where the herd is, and the action "Hunt" will be available.
 
 #tuto_129_c1
 What happens next ?--130
 
 #tuto_130_1
-If you confirm the hunting action, it will initiate a 'battle' between your warriors and the animals of the herd. You can also witness the hunting by going into the territory.
+With the hunting action, it will initiate a 'battle' between your warriors and the animals of the herd. You can also witness the hunting by going into the territory.
 
 #tuto_130_2
 If your warriors are sucessful, some or all of the animals loot will be transfered into your formation's inventory, which you can then bring back and unload into your territory, providing extra food to support your tribe's growth!
@@ -1237,3 +1243,14 @@ That is all for now. Good luck in this difficult transition!
 #tuto_413_c1
 Thank you mister Sagacious Pig.--997
 
+#tuto_414_1
+Be careful, you made a mistake: this is not a Militia! Close this menu and retry, making sure to select the "militia" formation type this time!
+
+#tuto_414_2
+Unlike militias, other types will actually drain your population when recruiting, which is not what we want right now.
+
+#tuto_415_1
+That's unfortunate... Well nevermind, maybe you'll find one later on.
+
+#tuto_415_c1
+...

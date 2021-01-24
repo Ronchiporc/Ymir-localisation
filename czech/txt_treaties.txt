@@ -1,56 +1,57 @@
-﻿#agrim_goldo_1
-Unique payment
+﻿
+#agrim_goldo_1
+Unikátní platba
 
 #agrim_goldo_2
 Platí [x] mincí
 
 #agrim_goldo_3
-Single coin payment from [x] to [y], at treaty signature.
+Jednorázová platba v mincích od [x] hráči [y], po podepsání smlouvy.
 
 #agrim_goldr_1
 Převod peněz(mincí)
 
 #agrim_goldr_2
-Continuous transfer of [x] coins from income
+Kontinuální převod [x] mincí z příjmu
 
 #agrim_goldr_3
-[x] continuously transfers coins to [y] for as long as the treaty remains active.
+[x] kontinuální převod mincí hráči [y] po celou dobu co dohoda je aktivní.
 
 #agrim_goldtax_1
-Coins tax
+Ďan v mincích
 
 #agrim_goldtax_2
-Gives [x]% of coins income
+Dává [x]% mincí z celkového výdělku
 
 #agrim_goldtax_3
-[x] transfers a % of his total coins income to [y].
+[x] převádí % z jeho celého příjmu hráči [y].
 
 #agrim_admtax_1
-Power transfer
+Převod moci/vlivu
 
 #agrim_admtax_2
-Transfers [x]% of state power
+Převádí [x]% státní moci
 
 #agrim_admtax_3
-[x] tranfers a % of his state power to [y].
+[x] převádí % z jeho státní moci hráči [y].
 
 #agrim_trad_1
 Obchodní dohoda
 
 #agrim_trad_2
-Allows trade
+Umožňuje obchod
 
 #agrim_trad_3
-Gives [y] access to all trade offers and trade routes from [x].
+Dává [y] přístup ke všem obchodním stezkám a všem obchodním nabídkám od hráče [x].
 
 #agrim_pass_1
-Right of passage
+Povolení k průchodu
 
 #agrim_pass_2
-Gives right of passage
+Dá právo k přístupu
 
 #agrim_pass_3
-Allows units of [y] to travel in the territories of [x].
+Umožní jednotkám hráče [y] cestovat přes území hráče [x].
 
 #agrim_embrg_1
 Embargo na...
@@ -65,10 +66,10 @@ Zakazuje obchody se zadaným státem
 Připojte se k národu
 
 #agrim_vassal_2
-Joining the [x]
+Připojení se k [x]
 
 #agrim_vassal_3
-[x] will join the nation of [y].
+[x] se připojí k národu [y].
 
 #agrim_war_1
 Vyhlaš válku...
@@ -77,7 +78,7 @@ Vyhlaš válku...
 Vyhlásit válku [x]
 
 #agrim_war_3
-Declare war to another specified state
+Vyhlásí válku na nějaký specifikovaný stát
 
 #agrim_peace_1
 Mírová smlouva
@@ -86,7 +87,7 @@ Mírová smlouva
 Mírová smlouva
 
 #agrim_peace_3
-Forbids war between treaty members.
+Zakazuje válku mezi dohodnutými členy.
 
 #agrim_ceasefr_1
 Ukončit palbu
@@ -95,7 +96,7 @@ Ukončit palbu
 Ukončit palbu
 
 #agrim_ceasefr_3
-Ends war between treaty members.
+Ukončí válku mezi dohodnutými členy.
 
 #agrim_tradrt_1
 Obchodní cesta
@@ -104,7 +105,7 @@ Obchodní cesta
 Obchodní cesta
 
 #agrim_tradrt_3
-Setup a treaty binded trade route
+Vytvoří dohodu o obchodní stezce
 
 #agrim_givreg_1
 Odevzdat region
@@ -122,10 +123,10 @@ Dát nápad
 Dát nápad za [x]
 
 #agrim_gividea_3
-[y] will receive from [x] a new idea for knowledges he doesnt have yet.
+[y] dostane nápad od [x] za znalost jež ještě on sám nemá.
 
 #treaty_powcost
-State power cost to maintain this treaty
+Velikost potřebné státní moci k udržování této dohody.
 
 #treaty_coinpen
 Sankce v mincích
@@ -140,40 +141,53 @@ k [x].
 [x]% z HDP
 
 #treaty_honor
-Honor commitment
+Vázáno čestí
 
 #treaty_honor_c1
-Level of commitment of [x] to respect this treaty.
+Úroveň zavázanosti k této dohodě [x].
 
 #treaty_honor_c2
-Proportionnal honor is lost if [x] breaks it.
+Kus česti je ztracena pokud hráč [x] poruší smlouvu.
 
 #treaty_warbound
-War bound
+Válkou vázán
 
 #treaty_warbound_c1
-Wether or not [x] will automatically declare war
+Jestli bude či nikoliv automaticky vyhlášená válka od hráče [x]
 
 #treaty_warbound_c2
-if [x] breaks this treaty.
+pokud hráč [x] poruší dohodu
 
 #treaty_closes
 Breaking closes
 
 #diplo_npass
-National right of passage
+Národní práco k přistupu
 
 #diplo_npass_dscr_1
-All members of the Nation can move through each other's territory.
+Všichni členové národu mohou se volně pohybovat přez územi členů národu.
 
 #diplo_ntrade
-National trade agreement
+Národní obchodní dohoda
 
 #diplo_ntrade_dscr_1
-All members of the Nation get automatic trading rights with each other.
+Všichni členové národa dostanou automatický obchodní práva se sebou navzájem.
 
 #diplo_ndef
 Národní obranná smlouva
 
 #diplo_ndef_dscr_1
 Jakékoliv vyhlášení války proti členu země(národu) vyvolá automatické vyhlášení války od všech ostatních členů země(národa), aniž by se přerušilo jeho uzavření.
+
+#agrim_fvassal_1
+Podroben
+
+#agrim_fvassal_2
+Podroben hráčem [x]
+
+#agrim_fvassal_3
+[x] bude podroben národem [y].
+
+#treaty_nocls
+(porušující ustanovení nejsou postižitelná, protože druhá strana je v současné době neaktivní)
+
