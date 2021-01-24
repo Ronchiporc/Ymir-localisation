@@ -245,7 +245,7 @@
 Морковь
 
 #r_tomatoes
-помидоры
+Помидоры
 
 #r_lettuce
 Салат
@@ -401,7 +401,7 @@
 Здание
 
 #r_plans
-Планы
+Чертежи
 
 #r_taxcollect
 Сбор налогов
@@ -461,7 +461,7 @@
 Обсидиан
 
 #r_topilli
-Topillis
+Топилис
 
 #r_macana
 Макана
@@ -471,3 +471,9 @@ Topillis
 
 #r_dates
 Финики
+
+#r_prisoners
+Пленники
+
+#r_bacon
+Бекон

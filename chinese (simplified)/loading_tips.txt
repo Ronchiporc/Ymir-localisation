@@ -1,28 +1,28 @@
-This is a game meant to be complex and hard.
-Any similarities with another species would be purely fortuitous and unintentionnal.
-The economy is never stable. Things are always fluctuating, and that's because it is the result of a dynamic simulation where lots of things continuously influence each other. Do not worry if you cannot get everything to stay still.
-If a porco's income represent 3% of the region's total incomes, his wealth will be 3% of the region's total wealth.
-The income of a social class is shared equitably between all the porcos belonging to that class. The individual income of a porco is therefore an average value based on his social class total income.
-The market study of rare resources will tend to match the wealth of your richest classes while abundant ones will tend to match the wealth of the commoners.
-A porco with a wealth of 2 will be able to fully satisfy his needs of any resource costing 2 coins or less.
-If a resource costs 4 coins, a porco with a wealth of 1 can only satisfy 25% of his need for that resource.
-The wealth of a porco defines his purchasing power, like the resources he can afford to buy to satisfy his needs.
-Wealth is the unit of objective value. It's defined by time spent by a Porco working on anything, regardless of the subjective value (coin prices) his society gives to what he does. 
-Wealth, as a reference universal unit of value, is the same across all regions and players.
-Each Porco spending time working on something produces Wealth proportionnaly to the amount of work done.
-A Porco working in a building with twice the efficiency of another one will produce twice the amount of work in a day, and therefore twice the Wealth.
-The type or price of goods have no effect on Wealth. These things are relative to societies while wealth is an objective universal unit representing time spent working on anything.
-If one Porco earns 10 coins out of 1000 circulating (sum of incomes in the region) but then things change and there's suddenly 2000 circulating, it's like he lost half of what his coins are really worth and he lost half of the region wealth he used to have out if his 10 coins.
-Currencies represent a right to a share of real value, and do not necessarly have value by themselves. In Ymir that "real objective value" is the unit of "Wealth" represented by currencies called "Coins". 
-If the total region wealth was one pie, each coin would give a Porco the right to a slice of it. The size of the slice would depend on how many other coins are circulating (sum of all incomes in the region) .
-A region's sum of all incomes represents the total amount of coins circulating and therefore the ojective value (wealth) each coin represents.
-In ymir, to simplify and avoid the complication of relative currencies, the amount of coins in circulation is set automatically as the sum of all incomes. Therefore the actual value (Wealth) of each coin also fluctuates automatically depending on the total amount of incomes.
-You can still access the resources from a storage building with no workers, but it cannot receive any new ones.
-Any resource distributed and made available to the population (whether its by merchants, producers or anything else) are lost whether they're actually sold or not.
-The price of a resource will always be at least one coin above its production cost to ensure minimum benefits to its producers.
-If an industry produces something highly valued, the producers of its required materials will covet that industry's income and rise the price of their materials.
-Each project has an optimal number of researchers. Beyond that, any extra researchers will only add a minor contribution to the project.
-In a project, each researcher contributes 'research points' based on their intelligence.
-Be careful: assigning researchers to a project reduces the productivity of all buildings employing the same population class.
-You cannot directly control when and what ideas your people will have. Each idea comes with its own hidden conditions.
-In the building tab, you can still choose to build the previous now obsolete version of a building by right-clicking on the building's button.
+这是一个复杂而艰难的游戏。
+与其它种类的任何相似之处都是纯粹的偶然且无意的。
+经济从来就是不稳定的。事物总是变化无常。这是一个动态模拟的结果，在这个动态模拟中，很多东西不断地相互影响。不用担心，就如您不能让所有事物都保持不变一样。
+如果一个波尔的收入占这个地区总收入的3%，那么他的财富将占这个地区总财富的3%。
+一个社会阶层的收入由属于这个阶层的所有波尔平等地分摊。因此波尔的个人收入是基于他的社会阶层总收入的平均值。
+稀有资源的市场调研将趋向于与您最富有阶层的财富相匹配，而丰富的资源将趋向于与普通阶层的财富相匹配。
+一个拥有2财富的波尔将能够完全满足他对任何价值为2枚硬币或更少的资源的需求。
+如果一种资源价值为4枚硬币，那么一个拥有财富为1的波尔只能满足他对该资源需求的25%。
+一个波尔的财富决定了他的购买力，而购买力决定了他能买得起的资源来满足他的需求。
+财富是客观价值的单位。它是由一个波尔从事任何工作所花费的时间来定义的，而不管他的社会给予他所做的事情的主观价值(硬币价值)。
+财富作为一个普遍的参考价值单位，在所有地区和参与者中都是一样的。
+每个波尔花时间在某件事上所产生的财富与所做的工作量成正比。
+一个波尔在一栋效率是另一栋两倍的建筑里工作，他一天的工作量将是另一栋的两倍，因此他的财富也将是另一栋的两倍。
+商品的种类和价格对财富没有影响。这些东西是相对于社会的，而财富是一个客观的普遍单位，它代表了花在任何事情上的时间。
+如果一个波尔在1000枚流通硬币(他所在地区的所有收入的总和)中赚到10枚硬币，但随后事情发生变化，突然有2000枚硬币流通，那么他的硬币就会突然贬值一半，从占该地区总财富的1%变成只代表该地区总财富的0.5%。
+货币代表了一种分享实际价值的权利，而货币本身不一定有价值。在Ymir中，“实际客观价值”是“财富”的单位，用货币表示，称为“硬币”。
+如果整个地区的财富是一个馅饼，那么每一枚硬币都会赋予波尔分一块的权利。切片的大小将取决于有多少其他硬币正在流通(该地区所有收入的总和)。
+在一个地区流通的硬币总数是该地区所有收入的总和。这决定了每枚硬币所代表的客观价值(财富)。
+在Ymir中，为了简化和避免相关货币的复杂性，流通中的硬币数量自动设置为所有收入的总和。因此，每枚硬币的实际价值(财富)也会根据总收入自动波动。
+您仍然可以从没有工人的储存建筑中获取资源，但它不能接收任何新资源。
+任何分配给人们并可供使用的资源(无论是由商人、生产者或任何其它方面提供的资源)，无论是否实际出售，都将丢失。
+一种资源的价格总是至少比其生产成本高一枚硬币，以确保其生产者获得最低的利益。
+如果一个行业生产某种高价值的产品，其所需的材料的生产商将觊觎该行业的收入，并提高其材料的价格。
+每个项目都有最佳的研究人数。除此之外，任何额外的研究人员都只会为这个项目贡献一小部分。
+在一个项目中，每个研究人员根据他们的智力贡献“研究点”。
+注意: 将研究人员分配到一个项目中会降低同样使用该类人口的所有建筑物的生产效率。
+您不能直接控制您的人民什么时候会有什么想法。每个想法都有其隐藏的条件。
+在建筑选项卡中，您仍然可以通过右键单击建筑来选择建造以前过时的版本建筑。

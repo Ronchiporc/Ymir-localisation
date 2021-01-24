@@ -13,6 +13,9 @@ Piglet
 #u_oldpig
 Oldpig
 
+#u_carrier
+Carrier
+
 #u_warrior
 Warrior
 
@@ -35,7 +38,7 @@ Snout
 Spearpig
 
 #u_hoplite
-Hoplite
+Hoglite
 
 #u_immortal
 Immortal
@@ -190,3 +193,23 @@ Manbearpig
 #u_rockthrower
 Rock thrower
 
+#u_frag_palentir
+Palentir fragment
+
+#u_palentir
+Palentir
+
+#u_elemental
+Elemental
+
+#u_goblin
+Goblin
+
+#u_orc
+Orc
+
+#u_fimyr
+Fimyr
+
+#u_golem
+Armor Golem

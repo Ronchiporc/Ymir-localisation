@@ -11,13 +11,13 @@ dynamiczne ceny
 Ceny zasobów i kosztowności są dynamiczne i oparte są na popycie i podaży populacji
 
 #civfx_autodist_n
-automatyczna dystrybucja
+automatyczną dystrybucje
 
 #civfx_autodist_dscr
 wszystkie zasoby są dystrybuowane automatycznie a dystrybutorzy nie są konieczni
 
 #civfx_bdgeff_n
-efektywność budynku
+efektywność budynków
 
 #civfx_bdgeff_dscr
 modyfikuje efektywność budynków
@@ -87,6 +87,9 @@ Przywileje przywódcy
 
 #civfx_leadwlth_dscr
 Przywódcy otrzymują część Bogactwa terytorium jako przywilej
+
+#civfx_leadwlth_actv
+[x]% przywilejów przywódcy
 
 #civfx_leadwlth_set
 Przywilej przywódcy
@@ -352,6 +355,9 @@ zapomogi
 #civfx_subv_dscr
 pomoc państwowa, jaką otrzymują pracownicy określonej klasy społecznej, by zwiększyć ich dochód
 
+#civfx_subv_actv
+Subwencja w wysokości [y] monety na [x]
+
 #civfx_subv_set1
 Zapomoga
 
@@ -376,9 +382,29 @@ Osobisty wkład przywódcy
 #civfx_ldcntrb_dscr
 Przywódca może wnieść osobisty wkład do skarbu państwa, obniży to jednak jego Bogactwo
 
+#civfx_ldcntrb_actv
+[x]% wkładu finansowego przywódcy
+
 #civfx_ldcntrb_set
 Procent osobistego wkładu przywódcy
 
 #civfx_ldcntrb_setd
 Procent osobistego wkładu przywódcy do skarbu państwa. Pamiętaj, że proporcjonalnie obniży to jego Bogactwo.
 
+#civfx_rescons_n
+Consumption of [x]
+
+#civfx_rescons_dscr
+Resource culturally adopted by your population:
+
+#traitfx_resprod_n
+Production level
+
+#traitfx_resprod_dscr
+1st level allows for production and following levels improve production efficiency and reduces material costs when relevant.
+
+#traitfx_resqual_n
+Quality level
+
+#traitfx_resqual_dscr
+Increases the base production quality of the resource.

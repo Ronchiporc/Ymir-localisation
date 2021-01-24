@@ -40,8 +40,11 @@ Gratuit
 #g_cost
 coût
 
+#g_coin
+monnaie
+
 #g_coins
-pièces
+monnaies
 
 #g_upkeep
 entretient
@@ -130,8 +133,17 @@ ou
 #g_status
 status
 
+#g_hamlet
+hameau
+
+#g_village
+village
+
+#g_town
+bourg
+
 #g_city
-cité
+ville
 
 #g_capital
 capitale
@@ -155,7 +167,7 @@ Salaires
 Taxes
 
 #g_Waste
-Corruption
+Gaspillage
 
 #g_Economy
 Economie
@@ -253,11 +265,23 @@ ajouter
 #g_Add
 Ajouter
 
+#g_Enables
+Active
+
 #g_enables
 active
 
 #g_disables
+Désactive
+
+#g_disables
 désactive
+
+#g_Disable
+Désactiver
+
+#g_Price
+Prix
 
 #g_price
 prix
@@ -445,17 +469,14 @@ Tout
 #g_all
 tout
 
-#g_Disable
-Désactivé
-
 #g_Partisans
-Resistants
+Résistants
 
 #g_nocltr
 ancienne culture
 
 #g_claim
-revendiquer
+revendiqué
 
 #g_and
 et
@@ -534,3 +555,66 @@ jours
 
 #g_never
 jamais
+
+#g_chief
+Chef
+
+#g_chiefdom
+Chefferie
+
+#g_vassal
+Vassal
+
+#g_vassaldom
+Fief
+
+#g_Game
+Partie
+
+#g_cltr_customs
+Usages
+
+#g_cltr_skills
+Savoir-faire
+
+#g_architecture
+Architecture
+
+#g_psyche
+Psyche
+
+#g_traditions
+Traditions
+
+#g_in
+dans
+
+#g_at
+à
+
+#g_when
+quand
+
+#g_You
+Vous
+
+#g_civpoint
+Points de Civilisation
+
+#g_bandits
+Bandits
+
+#g_hostnatv
+Autochtones hostiles
+
+#g_completed
+complété
+
+#g_Population
+Population
+
+#g_requires
+requiert
+
+#g_timesince
+il y a [x]

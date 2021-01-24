@@ -119,13 +119,13 @@ Place directly over clay tiles. Increases clay production of these tiles.
 Clothesmaker
 
 #txt_clothmk_dscr
-Produces clothes from textiles. Clothes are a distributable resource that satisfies the population's need for clothing. 
+Produces clothes from textiles. Clothes are a distributable resource that satisfies the population's need for clothing.
 
 #txt_gather_n
 Gathering camp
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+Can exploit wild agricultural resources. Needs to be placed in range of the resources.
 
 #txt_farm_n
 Farm
@@ -149,7 +149,7 @@ Can store food resources.
 Slum
 
 #txt_hslum_dscr
-Slums cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life Quality and no health. 
+Slums cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life Quality and no health.
 
 #txt_hrustc_n
 House
@@ -223,6 +223,12 @@ Heavy tower
 #txt_tow4_dscr
 This tower is built out of solid stone blocks to increase resistance to enemy artillery. Fires arrows.
 
+#txt_drktwr_n
+The Black Tower
+
+#txt_drktwr_dscr
+Home of the Black King and source of its evil powers gifted by the Palentir.
+
 #txt_batlm1_n
 Wooden battlements
 
@@ -239,7 +245,7 @@ Stone battlements providing cover from enemy fire to units on standing on the pl
 Machicolated stone battlements
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+Heavy battlements made of solid stone blocs with machicolations providing excellent cover from enemy fire to units standing on the platform during battles.
 
 #txt_batlm4_n
 Hoardings
@@ -479,7 +485,7 @@ A cheap, wooden gate.
 Strong gate
 
 #txt_gate2_dscr
-A strong gate made of wood held together by bronze. 
+A strong gate made of wood held together by bronze.
 
 #txt_gate3_n
 Reinforced gate
@@ -722,7 +728,7 @@ Produces paper
 Rumery
 
 #txt_rum_dscr
-A distilery that produces rum from sugarcane.
+A distillery that produces rum from sugarcane.
 
 #txt_trmarket_n
 Market
@@ -749,7 +755,7 @@ Primitive tower
 A primitive defensive tower made of wood. Fires javelins.
 
 #txt_wall1_n
-Palissade
+Palisade
 
 #txt_wall1_dscr
 A simple defensive wall made of timber.
@@ -777,3 +783,126 @@ Stoneblocks wall
 
 #txt_wall5_dscr
 A solid defensive wall made of stone blocks.
+
+#txt_oldpcrcl_n
+Elder's circle
+
+#txt_oldpcrcl_dscr
+A primitive way to store knowledge based on oral tradition.
+
+#txt_orcbutcher_n
+Orc butcher
+
+#txt_orcbutcher_dscr
+Slaughters prisoners to produce bacon, the only food Orcs can consumme.
+
+#txt_orchuts_n
+Orcish dwellings
+
+#txt_orchuts_dscr
+Shoddy huts built by Orcs and piled on top of each other for their dwelling.
+
+#txt_orcmine_n
+Orcish mine
+
+#txt_orcmine_dscr
+Deep underground mines exploited by Orcs to mine and refine Iron directly from the depths of the earth.
+
+#txt_prisoncamp_n
+Prison camp
+
+#txt_prisoncamp_dscr
+Stores live prisoners.
+
+#txt_jewelry_n
+Jewelry maker
+
+#txt_jewelry_dscr
+Crafts Jewelry out of precious materials.
+
+#txt_palace1_n
+Chief's hut
+
+#txt_palace1_dscr
+A unique early capital building linked to the 'Leadership' policy that produces State Power. Lavish hut where the leader resides and exercices his power.
+
+#txt_palace2_n
+Palace
+
+#txt_palace2_dscr
+A unique capital building linked to the 'Leadership' policy that produces State Power. Luxurious place of residence of the State's leader and his council exercice power.
+
+#txt_treasury_n
+Treasury
+
+#txt_treasury_dscr
+A unique capital building linked to the 'Treasury' policy that produces State Power. Manages the State's treasury.
+
+#txt_ministry_n
+Ministry
+
+#txt_ministry_dscr
+A unique capital building linked to the 'Ministry' policy that produces State Power.
+
+#txt_state_court_n
+Great Hall
+
+#txt_state_court_dscr
+An expensive unique capital building linked to the 'Court' policy and produces some State Power. A luxurious building used to host subordinates and vassals in splendor in order to better control them.
+
+#txt_lawmkr_n
+Lawmaker's House
+
+#txt_lawmkr_dscr
+A unique capital building linked to the 'Lawmaking' policy that produces State Power. An early legislative building where Civil servants specialized in Lawmaking gather to discuss and make new laws.
+
+#txt_senate_n
+Senate
+
+#txt_senate_dscr
+A unique capital building linked to the 'Republic' policy that produces State Power. A legislative building where Senators gather to discuss and make new laws.
+
+#txt_state_rcrds_n
+Government Archives
+
+#txt_state_rcrds_dscr
+A unique capital building that produces State Power. A building dedicated to keeping Government documents, improving its administration.
+
+#txt_state_dptmnt_n
+State Department
+
+#txt_state_dptmnt_dscr
+A costly capital building that produces some additionnal State Power. A governmental administrative building where Civil Servants specialize in managing specific domains of governance, improving its administration.
+
+#txt_agora_n
+Agora
+
+#txt_agora_dscr
+A unique capital building linked to the 'Democracy' policy that produces State Power. A large plaza where the Citizens gather to vote and discuss matters of the City's governance directly.
+
+#txt_comunhall_n
+Community Hall
+
+#txt_comunhall_dscr
+The regionnal administration center building required for a Village. A large communal house where matters of the village can be discussed and managed.
+
+#txt_townhall_n
+Town Hall
+
+#txt_townhall_dscr
+The regionnal administration center building required for a Town.
+
+#txt_cityhall_n
+City Hall
+
+#txt_cityhall_dscr
+The regionnal administration center building required for a City.
+
+#txt_postoffice_n
+Postal Office
+
+#txt_postoffice_dscr
+Produces a communication service reducing distance factors of the regional centers to the capital and of nation subordinates, thus improving administration.
+
+
+

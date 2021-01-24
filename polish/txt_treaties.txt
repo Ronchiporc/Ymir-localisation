@@ -70,6 +70,15 @@ Dołączenie do [x]
 #agrim_vassal_3
 [x] dołączy do Narodu [y].
 
+#agrim_fvassal_1
+Podbity
+
+#agrim_fvassal_2
+Podbity przez [x]
+
+#agrim_fvassal_3
+[x] został podbity przez [y].
+
 #agrim_war_1
 Wypowiedz wojnę...
 
@@ -177,3 +186,6 @@ Wewnątrznarodowy pakt obronny
 
 #diplo_ndef_dscr_1
 Każda deklaracja wojny przeciwko członkowi Narodu skutkować będzie automatyczną deklaracją wojny wobec agresora przez wszystkich członków Narodu. Klauzule za złamanie traktatu są po stronie agresora. 
+
+#treaty_nocls
+(breaking clauses are not effective because the other party is currently inactive)

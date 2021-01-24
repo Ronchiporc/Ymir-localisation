@@ -48,7 +48,7 @@ Musíme postavit lovecký kamp blízko jakéhokoliv zdroje divoké zvěře, kter
 Postav lovecký kamp na lov přírodně přítomné divoké zvěře a výroby masa.
 
 #msn3_o_2
-Go in your newly settled territory. In the building tabs, select the hunting camp and scan the terrain. The highlighted area around the building is its range. Exploitable tiles show up in green. Look for animals and place the hunting camp in range so that it will produce meat.
+Zajdi do nově zkolonozovaného územi. Ve stavebních záložkách zvol lovecký kemp a prohlídni si území. Zvýrazněná část kolem budovy je její dosah vlivu. Využitelné pole se ukazují zeleně. Hledej zvěř a místo pro postavení loveckého kempu aby začal produkovat maso a kůži.
 
 #msn4
 Sbýrání
@@ -294,11 +294,104 @@ Výměnný obchod
 Abychom rozvíjeli naši rostoucí společnost, musíme přejít z dárkové ekonomiky na výměnný obchod, abychom stabilizovali naši rostoucí populaci. Zatímco dárcovská ekonomika je vhodná pro malý kmen, jakmile počet obyvatel vzroste nad kapacitu každého jednotlivce poznat a zapamatovat si ostatní, je zapotřebí okamžitější výměnný systém, protože už nemůže sledovat, kdo udělal co. Bez ní se konflikty rychle zvednou a destabilizují naši společnost!
 
 #msn_barter_2
-Transitionning to a barter economy is a significant change. You will now have to manage a treasury balance and resources will no longer be free to use: they will have to be purchased from the population owning it. Consummables like food will no longer be auto-distributed and directly available to the population: they will now need to be distributed via merchants or market stands (a building annex).
+Přechod do výměnného obchodu je signifikantní změna. Budeš odteď se budeš muset starat o množství pokladu v pokladně a suroviny už nebudou zadarmo k využití jak tomu bylo doteď: budeš muset je nakupovat o občanů jež je vlastní. Zpotřebné zboží už nebude automatický distribuováno a přímo přístupné populaci: od teď bude muset být distribuováno ppomocí obchodníků a tržních stánků (vylepšení výrobních budov).
 
 #msn_barter_o_1
-Transition from gift economy to barter economy
+Přechod z darovné ekonomie na výměnný obchod
 
 #msn_barter_o_2
 Pass the "Fair exchange" policy, in the government menu's economic tab.
+
+#msn_frsthnt
+První lov
+
+#msn_frsthnt_1
+Hunting moving herds brings much more meat and resources than hunting local game. We should organize our first hunt by assembling the Porcos of our tribe and sending them into an expedition in the nearby territories to locate and hunt a herd. This will bring great bounty to our tribe, and help it grow faster and stronger!
+
+#msn_frsthnt_o_1
+Successfully complete a Hunt
+
+#msn_frsthnt_o_2
+Locate a herd in nearby territories and successfully complete a 'hunt' action using a formation of warriors and carriers.
+
+#msn_200pop
+Rozrůstající se kmen
+
+#msn_200pop_1
+Potřebujeme více prasat pro posílení a rozvíjení našeho klanu. Prasata přitahují prasata. A více prasat nám umožňuje(pomáhá) k novějším inovacím a více nápadům.
+
+#msn_200pop_o_1
+Rozrůstání populace
+
+#msn_200pop_o_2
+Dosáhni populace o velikosti 200 prasat
+
+#msn_palentfrg
+7 nebeských artefaktů
+
+#msn_palentfrg_o_1
+Najdi všech 7 Palentirových úlomků a navraťe ke do vašeho hlavního města.
+
+#msn_palentfrg_o_2
+Úlomky Palentiru jsou rozmístěny po celém světě, a lze je zabrat jakoukoli formací. Ovládání jednoho úlomku umožňuje zobrazit umístění všech ostatních úlomky. Získejte kontrolu nad všemi 7 a přiveďte je do svého hlavního města, aby znovu složili kámen Palentir a odemkli vám prastarou sílu.
+
+#msn_200pop_2
+Jak se velikost našeho kmene rozšiřuje, dochází k tomu že více lidí je k dispozici k rozvoji nových dovedností a znalostí. Pro zlepšení životních podmínek a kvality života v celé vesnici, budou nutná nová řemeslná umění, aby se mohla vesnice pokračovat ve svém rozvoji a růstu.
+
+#msn_agri
+Prosperující zemědělství
+
+#msn_agri_1
+Zemědělství je základem civilizace a skutečným ustanovením usedlého životního stylu. Nyní je čas využívat a rozvíjet naši půdu, aby bylo možné náležitě nakrmit naši rostoucí populaci!
+
+#msn_agri_o_1
+Rozvoj zemědělství
+
+#msn_agri_o_2
+Rozvíjejte zemědělství ve vaší vesnici tím, že vybudujete sýpky pro efektivnější ukládání potravin, stavěním polí a rozšiřováním chovu zvěře.
+
+#msn_ldrship
+Převzetí vedení
+
+#msn_ldrship_1
+Kmen je v současné době veden neformálně, různými vlivnými členy, různých rodin v komunitě, bez jakékoli formy oficiální hierarchie, což vede k neustálému přesunu moci a generaci mnoha konfliktů. Takováto forma organické správy věcí veřejných, se stává stále nestabilnější, jak se zvětšuje velikost komunity. A naše potřeba organizovanějšího a oficiálnějšího vedení se stává stále větší nutností. Je na čase, aby se vaši lidé rozvyvinuli a zorganizovali formální vedení, a učinili první krok k vytvoření organizovaného řízení.
+
+#msn_ldrship_2
+Získání nesporného vedení nad vašimi občany nebude snadné! Vládnutí vyžaduje sílu a budete potřebovat lepší válečníky, abyste si zajistili vládu a rozdrtili jakýkoliv pokus opozice. Ale síla sama o sobě nestačí a budete muset přesvědčit ostatní vlivné členy kmene, aby vás podpořili, a poslušní a loajální vám i vaší rodině. Jistě ne každý s tím bude souhlasit a po zahájení převratu se musíte připravit na nepokoje.
+
+#msn_ldrship_o_1
+Vytváření vašeho vedení
+
+#msn_ldrship_o_2
+Dáruj klenoty a pohodlné chaty pro získání podpory a věrnosti vlivných členů kmene, během přípravy nových válečníků na rozdrcení opozice.
+
+#msn_ldrship_fx
+Vyvolá okamžité povstání, vašich odpůrců ve vesnici.
+
+#msn_exp
+Rozvoj kmene
+
+#msn_exp_1
+Je čas zvážit rozšíření do nových teritorií, aby naši lidé mohli dále růst a získat přístup k více zdrojům a ovládat více zemí. Měli bychom připravit expedici za účelem založení nové osady s vepři, jež jsou ochotni se vypravit na takovéto dobrodružství. Budou ssebou potřebovat dobré jídlo, nástroje a materiály.
+
+#msn_exp_2
+Pokud budou úspěšní, mohou začít budovat vlastní vesnici a naše populace bude stále větší a silnější. Správa více sídel přinese nové výzvy, ale může také vyvolat nové inovace.
+
+#msn_exp_o_1
+Zřízení druhé osady
+
+#msn_exp_o_2
+Vyberte prázdné území poblíž vaší vesnice a připravte se na nové osídlení. Vytvořte novou formaci "osadníků" a naložte je jídlem, nástroji a materiály, než jim nařídíte, aby se usadili na tomto novém území. Rozviňte svůj nový kemp do samostatně fungující vesnice a zvyšte svou celkovou populaci do nových výšin.
+
+#msn_devmetl
+Doba měděná
+
+#msn_devmetl_1
+S novým objevem těchto podivných, kujných hornin, které nyní nazýváme „kovem“, přichází nový věk! Mohou býti použity k výrobě mnohem lepších nástrojů, a kladivem opracovány do tvarů, kterých nelze dosáhnouti pomocí obyčejných, křehkých kamenů. Musíme využít tohoto objevu, nalezením a zajištěním zdroje mědi, a rozvinutím dovetností ohledně zpracování kovů za účelém produkce lepších nástrojů, jež by podpořily rozvoj naší populace.
+
+#msn_devmetl_o_1
+Rozvoj zpracovávání kovů
+
+#msn_devmetl_o_2
+Zajistěte zdroj měděné rudy a rozšířte produkci mědi pomocí tavicích táborů a stabilní výrobou nových Seker, výrobci nástrojů.
 

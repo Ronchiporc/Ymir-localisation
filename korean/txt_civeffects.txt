@@ -88,6 +88,9 @@
 #civfx_leadwlth_dscr
 지도자들은 특권으로 영토 부(재산)의 일부를 받습니다.
 
+#civfx_leadwlth_actv
+지도자들의 특권[x]%
+
 #civfx_leadwlth_set
 지도자들의 특권
 
@@ -236,7 +239,7 @@
 무역로
 
 #civfx_entrout_dscr
-지역 간에 영구적인 교역로 생성을 허용합니다.
+지역 간에 영구적인 무역로 생성을 허용합니다.
 
 #civfx_legitprt_n
 국민의 수호자
@@ -352,6 +355,9 @@
 #civfx_subv_dscr
 특정 사회 계층의 각 노동자에게 그들의 소득을 증가시키기 위해 주는 정부 지원금입니다.
 
+#civfx_subv_actv
+[x]를 위한 동전[y] 보조금				  
+
 #civfx_subv_set1
 보조금
 
@@ -376,9 +382,23 @@
 #civfx_ldcntrb_dscr
 지도자는 자신의 재산의 일부를 정부 재정에 기여할 수 있습니다.(단, 그의 재산이 줄어듭니다.)
 
+#civfx_ldcntrb_actv
+지도자의 재산에서 [x]%의 기여금
+
 #civfx_ldcntrb_set
 기여율(%)
 
 #civfx_ldcntrb_setd
-정부 재정에 사용되는 지도자 재산의 백분율입니다. 이는 지도자의 재산이 그에 비례하여 감소합니다.
+정부 재정에 사용되는 지도자 재산의 백분율입니다.(이는 지도자의 재산이 그에 비례하여 감소되는 점에 유의)
 
+#civfx_rescons_n
+주민소비자원
+
+#civfx_rescons_dscr
+주민에 의해 소모되는 자원을 구분합니다.
+
+#civfx_rescons_set1
+자원 유형
+
+#civfx_rescons_set1d
+주민이 이용할 수 있게 하기 위해서 배포 가능한 새 자원을 선택합니다.

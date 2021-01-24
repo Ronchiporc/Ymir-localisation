@@ -138,7 +138,7 @@ Kosmetische Vegetation
 Aktiviere kosmetische Gräser und Sträucher.
 
 #b_menuop_cosunits
-Kosmetikgeräte 
+Kosmetikgeräte
 
 #bc_menuop_cosunits
 Aktiviere Kosmetikeinheiten wie Ziertiere.
@@ -180,7 +180,7 @@ Die Größe der Benutzeroberfläche wird automatisch an Deine Bildschirmauflösu
 Größe der Benutzeroberfläche
 
 #b_menuop_uisize_c1
-Ändert die Größe der Oberflächenschicht. 
+Ändert die Größe der Oberflächenschicht.
 
 #b_menuop_uisize_c2
 Nützlich, um zu verhindern, dass die Benutzeroberfläche je nach Größe und Displaydefinition deines Geräts unangenehm zu lesen ist.
@@ -1185,7 +1185,7 @@ Die Schatzkammer ist die Gesamtmenge der Münzen, die Deine Regierung besitzt. D
 Persönliches Vermögen des Anführers
 
 #ui_eco_lead_c1
-Der Führer ordnet derzeit [x]% seines persönlichen Gesamtvermögens von [y] den Staatsfinanzen zu.  
+Der Führer ordnet derzeit [x]% seines persönlichen Gesamtvermögens von [y] den Staatsfinanzen zu.
 
 #ui_eco_tax
 Steuern Einkommen und Ertrag
@@ -1194,7 +1194,7 @@ Steuern Einkommen und Ertrag
 Summe aller Steuereinnahmen aus allen deinen Gebieten.
 
 #ui_eco_contrib_c1
-In einer Gesellschaft ohne organisierte Steuern stammen die Einkommen nur aus dem freiwilligen Beitrag der Menschen für die Gemeinschaft (20% ihres Einkommens).
+In einer Gesellschaft ohne organisierte Steuern stammen die Einkommen nur aus dem freiwilligen Beitrag der Schweine für die Gemeinschaft (20% ihres Einkommens).
 
 #ui_eco_wast_c1
 Steuereinnahmen, die durch Verschwendung in deinen Gebieten verloren gehen. Abfall ist das Ergebnis einer niedrigen Gebietsverwaltung.
@@ -1332,7 +1332,7 @@ Wenn sie zu einer staatlichen Ressource erklärt werden, wird die gesamte Produk
 Eine nützliche Option für strategische Ressourcen, die ausschließlich vom Staat genutzt werden, wie Waffen oder Werkzeuge, um sicherzustellen, dass seine Produzenten ein regelmäßiges Einkommen für ihre Arbeit erhalten.
 
 #ui_mres_stmntn_c1
-Die Menge der Ressourcen in den Beständen, um das direkte Eigentum an. 
+Die Menge der Ressourcen in den Beständen, um das direkte Eigentum an.
 
 #ui_mres_stmntn_c2
 Wenn der angegebene Betrag unterschritten wird, werden neue Ressourcen, die in das Lager gehen, automatisch vom Staat gekauft, bis der erforderliche Betrag erreicht ist.
@@ -1392,7 +1392,7 @@ Priorität bei der Besetzung von Arbeitsplätzen in diesem Gebäude.
 Speicherrichtlinie
 
 #storpol_c_all1
-Die Bevorratung dieser Ressource ist auf jedem verfügbaren Speicherplatz erlaubt. 
+Die Bevorratung dieser Ressource ist auf jedem verfügbaren Speicherplatz erlaubt.
 
 #storpol_c_all2
 Wird sogar direkt am Boden gelagert, wenn kein Platz vorhanden ist.
@@ -1419,19 +1419,19 @@ Alle zusätzlichen Ressourcen werden zerstört.
 Bestand pflegen
 
 #stormntn_c
-Wenn der aktuelle Bestand unter dem gewünschten Wert liegt, werden 25% der Produktion reserviert und gesperrt, um den Bestand zu erhöhen. 
+Wenn der aktuelle Bestand unter dem gewünschten Wert liegt, werden 25% der Produktion reserviert und gesperrt, um den Bestand zu erhöhen.
 
 #stormntn_set
-Stelle die Bestandsführung auf mindestens [x] [y] ein. 
+Stelle die Bestandsführung auf mindestens [x] [y] ein.
 
 #storownr_set
-Setze die Aufrechterhaltung des Eigentums an mindestens [x] [y]. 
+Setze die Aufrechterhaltung des Eigentums an mindestens [x] [y].
 
 #storownr_enab
- [x] ist nun eine staatliche Ressource (die gesamte Produktion wird von Ihnen automatisch gekauft). 
+ [x] ist nun eine staatliche Ressource (die gesamte Produktion wird von Ihnen automatisch gekauft).
 
 #storownr_disab
-x] ist keine staatliche Ressource mehr (kein automatischer Einkauf der Produktion). 
+x] ist keine staatliche Ressource mehr (kein automatischer Einkauf der Produktion).
 
 #regeco_1
 Der Haushaltssaldo deines Gebiets ist das Ergebnis aller Einnahmen und Ausgaben, die für dieses Gebiet spezifisch sind, wie Steuern, Gehälter und Unterhaltskosten.
@@ -1449,7 +1449,7 @@ Je mehr Einwohner und Entfernung von der Hauptstadt, desto schwieriger ist es, d
 Effekte: vermindert das Wachstum (+Morde), vermindert die Loyalität (- Autorität)
 
 #regconf_1
-Konflikt stellt die Ebene der zufälligen Konflikte zwischen den Menschen des Territoriums dar.
+Konflikt stellt die Ebene der zufälligen Konflikte zwischen den Schweinen des Territoriums dar.
 
 #regconf_2
 Aktive staatliche Staatsbürger und Dienstleistungen im Gebiet wie Justiz können dazu beitragen, diese zu reduzieren.
@@ -1464,7 +1464,7 @@ Sie wird von vielen Faktoren beeinflusst, wie z.B. der Kultur des Volkes, der Ko
 Effekte: trägt zu deiner Gesamtkultur bei, beeinflusst die Loyalität, erhöht die Intelligenz der Bevölkerung.
 
 #regcltr_1
-Kultur repräsentiert das gesamte Wissen, die Bräuche und das Verhalten der Menschen in diesem Gebiet.
+Kultur repräsentiert das gesamte Wissen, die Bräuche und das Verhalten der Schweine in diesem Gebiet.
 
 #regcltr_2
 Eine Gesamtkultur, die auf der Bevölkerungszahl basiert, kann dann zwischen verschiedenen Arten von Kulturen geteilt werden. "Staatskultur" repräsentiert deine Kultur. "Die "Lokale Kultur" steht für Bräuche und Verhaltensweisen, die spezifisch für dieses Gebiet sind und sich von deiner Hauptkultur unterscheiden, die unter allen deinen Völkern geteilt wird. Es können auch andere fremde Kulturen vorhanden sein.
@@ -1479,13 +1479,13 @@ Die Kultur dieses Gebietes hat die Nation [x] vollständig integriert, da sie sc
 Die Übertragung dieses Territoriums zwischen den Nationalstaatenmitgliedern erzeugt 50% weniger Widerstand.
 
 #regcltr_notintgr_c1
-Die Kultur dieses Gebietes hat die Nation [x] noch nicht integriert. Es wird in [y] sein. 
+Die Kultur dieses Gebietes hat die Nation [x] noch nicht integriert. Es wird in [y] sein.
 
 #reggrwth_1
-Das Wachstum stellt die aktuelle demografische Entwicklung deiner Bevölkerung in diesem Gebiet dar. 
+Das Wachstum stellt die aktuelle demografische Entwicklung deiner Bevölkerung in diesem Gebiet dar.
 
 #reggrwth_2
-Das Wachstum hängt stark vom "Zuchtwillen" der Menschen ab, der bestimmt, wie viele Paare in der nächsten Generation Kinder bekommen werden.
+Das Wachstum hängt stark vom "Zuchtwillen" der Schweine ab, der bestimmt, wie viele Paare in der nächsten Generation Ferkel bekommen werden.
 
 #popw_base
 Basisvermögen
@@ -1659,7 +1659,7 @@ Jeder Punkt der Lebensqualität bietet +0,75 Intelligenz.
 Umfassende Kenntnisse
 
 #popint_kn_c1
-Die Summe deiner aktuellen Kenntnisse erhöht die allgemeine Intelligenz. 
+Die Summe deiner aktuellen Kenntnisse erhöht die allgemeine Intelligenz.
 
 #popint_cult
 Die Kultur des Territoriums
@@ -1761,7 +1761,7 @@ Maximale Speicherkapazität
 Verfall verursacht, wenn die derzeitige maximale Kapazität der Speicherkultur in diesem Gebiet erreicht wird.
 
 #cltrstat_dovrs_c2
-Diese Kapazität nimmt zu, je mehr Menschen sich im Gebiet aufhalten.
+Diese Kapazität nimmt zu, je mehr Schweine sich im Gebiet aufhalten.
 
 #cltrstat_dinf
 Kultureller Einfluss
@@ -1935,7 +1935,7 @@ Die gesamte staatliche Energie, die von allen derzeit aktiven Politiken verbrauc
 Territorien
 
 #statepow_nbcit_c1
-Summe der Kosten der Staatsmacht für alle Deine kontrollierten Gebiete (die Kosten können je nach Status der einzelnen Gebiete variieren). 
+Summe der Kosten der Staatsmacht für alle Deine kontrollierten Gebiete (die Kosten können je nach Status der einzelnen Gebiete variieren).
 
 #statepow_debt
 Schulden
@@ -1981,15 +1981,6 @@ Staatsgewalt, die von Untergebenen übertragen wurde: [x]
 
 #statepow_nation_c2
 Die Staatsgewalt wurde auf den Vorgesetzten übertragen: [x]
-
-#statepow_nation_c3
-Anzahl der direkten Untergebenen: [x]
-
-#statepow_nation_c4
-Entfernung der direkten Untergebenen: [x]
-
-#statepow_nation_c5
-Anzahl der gesamten Untergebenen: [x]
 
 #statepow_forms
 Pflege von Formationen
@@ -2085,13 +2076,13 @@ Die Staatsmacht beeinflusst die Loyalität aller Territorien.
 hohe Steuern
 
 #loyal_hightax_c1
-Hohe Steuern verärgern die Menschen und verringern ihre Loyalität zum Staat.
+Hohe Steuern verärgern die Schweine und verringern ihre Loyalität zum Staat.
 
 #loyal_prvldg
 Privilegien
 
 #loyal_prvldg_c1
-Privilegien verärgern die Menschen und reduzieren ihre Loyalität zum Staat.
+Privilegien verärgern die Schweine und reduzieren ihre Loyalität zum Staat.
 
 #loyal_autho
 Autorität
@@ -2196,7 +2187,7 @@ Die maximalen Widerstandspunkte, die dieses Gebiet haben kann. Der Widerstand wi
 Niederlagen Strafe: [x] Ehre
 
 #resist_hloss_c1
-Die Menge an Ehre, die als Strafe verloren geht, wenn es Partisanen gelingt, dieses Gebiet zu befreien. 
+Die Menge an Ehre, die als Strafe verloren geht, wenn es Partisanen gelingt, dieses Gebiet zu befreien.
 
 #resist_tot_c1
 Die Widerstandsbewegung weist derzeit [x] auf ein Potential von maximal [y] Punkten hin.
@@ -2403,7 +2394,7 @@ die durchschnittliche Anzahl der Ferkel pro Wurf
 Erzeugungslänge
 
 #growth_genlen_c1
-Die Zeitspanne, die eine Generierung von Porcos dauert. 
+Die Zeitspanne, die eine Generierung von Porcos dauert.
 
 #growth_genlen_c2
 Schweine leben bis zu 5 Generationen: eine als Ferkel, 3 als Erwachsene und 1 als Altschwein. Das macht ihre Gesamtlebensdauer bis zu [x] lang.
@@ -2478,7 +2469,7 @@ Transfer
 Militärische Unterstützung dieses Gebietes
 
 #ui_recruit_support_2
-Maximale Unterstützung: [x] Einheiten. 
+Maximale Unterstützung: [x] Einheiten.
 
 #ui_recruit_support_3
 Derzeit unterstützend: [x] Einheiten.
@@ -2544,7 +2535,7 @@ Nahkampf-Einheiten
 Bereichseinheiten
 
 #ui_recruit_totpop
-Die Gesamtbevölkerung, die für diese Einheit im Gebiet verfügbar ist: [x] 
+Die Gesamtbevölkerung, die für diese Einheit im Gebiet verfügbar ist: [x]
 
 #ui_recruit_inact
 Derzeit inaktiv: [x]
@@ -2754,7 +2745,7 @@ Dieses Gebäude muss auf Wasser von mindestens [x] Tiefe platziert werden.
 Muss in der Nähe des Besitzers platziert werden.
 
 #ui_builderr_bldrs
-Dieses Gebäude erfordert eine professionelle Konstruktion und Du hast keine Bauherren.
+Dieses Gebäude erfordert eine professionelle Konstruktion und du hast keine Baumeister.
 
 #ui_builderr_inaxss
 Du kannst dies nicht hier platzieren, da dieser Bereich derzeit nicht zugänglich ist!
@@ -2985,7 +2976,7 @@ Feind
 - Heimatdistanz ( [y]%): [x]
 
 #ui_form_movcost
-Grundlegende Aktionspunkte kosten für das Verschieben eines Territoriumskachels für diese Formation. Diese Basiskosten werden dann mit anderen Kontextfaktoren kombiniert, um die Endkosten einer Bewegung zu bestimmen. 
+Grundlegende Aktionspunkte kosten für das Verschieben eines Territoriumskachels für diese Formation. Diese Basiskosten werden dann mit anderen Kontextfaktoren kombiniert, um die Endkosten einer Bewegung zu bestimmen.
 
 #ui_form_movcost_d1
 - Basiskosten: [x]
@@ -3024,13 +3015,13 @@ Erfordert [x] Porcos im Gebiet.
 Nicht genug Bevölkerung, um diese Miliz vollständig in den Dreck zu ziehen!
 
 #ui_form_diplo_p1
-Diese Formation ist uns gegenüber friedlich. 
+Diese Formation ist uns gegenüber friedlich.
 
 #ui_form_diplo_p2
 Wir können sicher lagern oder ihr Territorium durchqueren.
 
 #ui_form_diplo_h1
-Diese Formation ist uns gegenüber feindlich gesinnt! 
+Diese Formation ist uns gegenüber feindlich gesinnt!
 
 #ui_form_diplo_h2
 Wenn diese Formation auf eine unserer Einheiten in einem Gebiet trifft oder wenn wir versuchen, ihren aktuellen Standort zu durchqueren, löst sie einen Kampf aus.
@@ -3261,7 +3252,7 @@ Produktionsanteil
 Die aktuelle Anzahl der Produktionen, abhängig von der Arbeitskraft der Gebäude und der erforderlichen Materialverfügbarkeit.
 
 #ui_bdgind_nbprd2
-Jede Produktion erzeugt [x] Einheiten von [y] und benötigt [z] Arbeitskräfte. 
+Jede Produktion erzeugt [x] Einheiten von [y] und benötigt [z] Arbeitskräfte.
 
 #ui_bdgind_prcnt1
 Die aktuelle Produktionsrate, abhängig von allen Verfügbarkeiten des benötigten Materials.
@@ -3276,16 +3267,16 @@ Produziert derzeit [x] Einheiten von [y] [z].
 Derzeit verbraucht [x] Einheiten von [y] [z] für diese Produktion.
 
 #ui_bdgind_mat1
-Stelle ein, dass du [x] als Material verwendest, um [y] zu produzieren. Der Bedarf an diesem Material ist bei [z]% gedeckt. 
+Stelle ein, dass du [x] als Material verwendest, um [y] zu produzieren. Der Bedarf an diesem Material ist bei [z]% gedeckt.
 
 #ui_bdgind_mat2
-Automatische Verwendung von [x] als Material zur Herstellung von [y]. Der Bedarf an diesem Material ist bei [z]% gedeckt. 
+Automatische Verwendung von [x] als Material zur Herstellung von [y]. Der Bedarf an diesem Material ist bei [z]% gedeckt.
 
 #ui_bdgcstr_self_c
-Einige einfache Gebäude können ohne professionelle Bauherren gebaut werden und werden auch ohne sie selbst gebaut.
+Einige einfache Gebäude können ohne professionelle Baumeister gebaut werden und werden auch ohne sie selbst gebaut.
 
 #ui_bdgcstr_bdrs_c
-Der Umfang der Bauarbeiten, die dieses Gebäude derzeit von professionellen Bauherren erhält.
+Der Umfang der Bauarbeiten, die dieses Gebäude derzeit von professionellen Baumeistern erhält.
 
 #ui_regres_inv
 Inventarisierung
@@ -3423,7 +3414,7 @@ Du importierst derzeit [x] von [y] von [z] in dieses Gebiet für insgesamt[v] M�
 du exportierst derzeit [x] von [y] nach [z] für insgesamt[v] Münzen.
 
 #button_trtcargo
-Erfordert [x] von Ladung, die von [y] betrieben wird. 
+Erfordert [x] von Ladung, die von [y] betrieben wird.
 
 #ui_ofrcanceled
 Handelsangebot storniert!
@@ -3435,16 +3426,16 @@ Eröffnung einer neuen Handelsroute.....
 Handelsroutenbetreiber
 
 #ui_troute_dscr
-Eine Handelsroute überträgt einen ständigen Ressourcenfluss zwischen den Städten. Für den Betrieb ist ein Frachtdienst erforderlich. 
+Eine Handelsroute überträgt einen ständigen Ressourcenfluss zwischen den Städten. Für den Betrieb ist ein Frachtdienst erforderlich.
 
 #ui_troute_opdscr1
 Der Handelsroutenbetreiber ist die Stadt, die sich mit dem Transport der Waren beschäftigt.
 
 #ui_troute_opdscr2
-Es kann die Stadt sein, die die Handelsroute öffnet, oder jede andere Stadt in deinem Handelsnetzwerk, die einen Frachtdienst zur Verfügung gestellt hat. 
+Es kann die Stadt sein, die die Handelsroute öffnet, oder jede andere Stadt in deinem Handelsnetzwerk, die einen Frachtdienst zur Verfügung gestellt hat.
 
 #ui_troute_opdscr3
-Die Kosten der Ladung sind exponentiell für den Handel routeӳ Entfernung. Die Wahl einer Stadt eines Drittanbieters, die sich in der Mitte deiner Handelsroute befindet, als Betreiber wird die Frachtkosten erheblich senken. 
+Die Kosten der Ladung sind exponentiell für den Handel routeӳ Entfernung. Die Wahl einer Stadt eines Drittanbieters, die sich in der Mitte deiner Handelsroute befindet, als Betreiber wird die Frachtkosten erheblich senken.
 
 #ui_troute_cargorq
 CARGO ERFORDERLICH
@@ -3459,7 +3450,7 @@ Entfernungsfaktor * Ladevolumen
 Entfernungsfaktor
 
 #ui_troute_distf_c1
-Dieser Faktor hängt von der längsten der beiden Entfernungen zwischen dem Betreiber und jedem der Ziele der Handelsroute ab. 
+Dieser Faktor hängt von der längsten der beiden Entfernungen zwischen dem Betreiber und jedem der Ziele der Handelsroute ab.
 
 #ui_troute_distf_c2
 längste Entfernung vom Bediener
@@ -3570,7 +3561,7 @@ Du benötigst [x] weitere(s) [y], um dieses Gebäude auf [z] aufzurüsten.
 Du hast nicht genug Münzen, um dieses Gebäude auf [x] aufzurüsten.
 
 #menu_bdg_up_err3
-Dieses Upgrade erfordert eine professionelle Konstruktion und Du hast keine Bauherren!
+Dieses Upgrade erfordert eine professionelle Konstruktion und du hast keine Baumeister!
 
 #menu_tch_curknw
 Aktuelles Wissen
@@ -3804,7 +3795,7 @@ Du hast persönliche Siegpunkte.
 Referenzwert
 
 #menu_scr_avg_c1
-Wird verwendet, um deinen Par-Score zu bestimmen. Sein Wert basiert auf allen Spielergebnissen des Spielers. 
+Wird verwendet, um deinen Par-Score zu bestimmen. Sein Wert basiert auf allen Spielergebnissen des Spielers.
 
 #menu_scr_avg_c2
 Eine persönliche Punktzahl über ihr zu haben, gewährt Siegpunkte.
@@ -4065,7 +4056,7 @@ Leistungsübertragung
 % der Staatsmacht, die auf den Vorgesetzten dieses Ranges übertragen wurde.
 
 #facttl_vote
-Kann abstimmen 
+Kann abstimmen
 
 #facttl_vote_c1
 Ob dieser Rang an Abstimmungsprozessen teilnehmen kann oder nicht.
@@ -4167,7 +4158,7 @@ Dein Titel erlaubt es dir, diesen Charakter aus der Nation auszuschließen.
 Beenden
 
 #facmmb_quit_c1
-Verlasse diese Nation und erhalte deine Souveränität zurück. 
+Verlasse diese Nation und erhalte deine Souveränität zurück.
 
 #facmmb_quit_c2
 WARNUNG: Wenn du durch Verträge an diese Nation gebunden bist, wird dies den Bruch auf deiner Seite auslösen!
@@ -4239,7 +4230,7 @@ Beachte, dass, wenn der benannte Erbe sich weigert oder nicht verfügbar ist, di
 Position von [x]
 
 #facprom_txt
-Du kannst die hierarchische Position von [x] innerhalb dieser Nation ändern, indem du seinen Rang änderst oder ihn unter einen anderen Vorgesetzten (nur unter deinen eigenen Untergebenen) stellst. Beachte, dass der Charakter alle seine Untergebenen mit der gleichen relativen Hierarchie unter sich behält, unabhängig von der geänderten Position. Die Ränge der Untergebenen können bei Bedarf automatisch angepasst werden, um ihre relative Hierarchie zu erhalten. 
+Du kannst die hierarchische Position von [x] innerhalb dieser Nation ändern, indem du seinen Rang änderst oder ihn unter einen anderen Vorgesetzten (nur unter deinen eigenen Untergebenen) stellst. Beachte, dass der Charakter alle seine Untergebenen mit der gleichen relativen Hierarchie unter sich behält, unabhängig von der geänderten Position. Die Ränge der Untergebenen können bei Bedarf automatisch angepasst werden, um ihre relative Hierarchie zu erhalten.
 
 #facprom_auto
 Automatischer Rang
@@ -4254,7 +4245,7 @@ Rang einstellen
 Vertreibung [x] aus der Nation
 
 #facxpl_txt
-Als Vorgesetzter von [x] erlaubt dir dein Rang, diesen Charakter aus der Nation zu vertreiben. Beachte, dass alle seine Untergebenen, falls vorhanden, unter diesem Charakter bleiben und somit auch die Nation verlassen. 
+Als Vorgesetzter von [x] erlaubt dir dein Rang, diesen Charakter aus der Nation zu vertreiben. Beachte, dass alle seine Untergebenen, falls vorhanden, unter diesem Charakter bleiben und somit auch die Nation verlassen.
 
 #facrplc_title
 Ersetzen von [x].....
@@ -4458,10 +4449,10 @@ Neuen Status setzen auf
 Du kannst nur eine Hauptstadt haben: Deine derzeitige Hauptstadt verliert ihren Status und wird eine normale Stadt. Beachte, dass der Umzug deines Kapitals die Verwaltung und Kultur in deinen anderen Städten sowie die staatliche Macht und die Finanzen beeinflussen kann.
 
 #regstatus_setcit_1
-Dieses Gebiet wird eine neue Region bilden und zusätzliche staatliche Macht kosten. Du kannst dann andere Gebiete an diese Stadt als Teil dieser Region anhängen. 
+Dieses Gebiet wird eine neue Region bilden und zusätzliche staatliche Macht kosten. Du kannst dann andere Gebiete an diese Stadt als Teil dieser Region anhängen.
 
 #regstatus_setcol_1
-WANRING: Das ist unumkehrbar. Du wirst die direkte Kontrolle über dieses Gebiet verlieren. Die Region erhält eine stabile Verwaltung, Loyalität und Kultur. Keine Wartungskosten und keine staatlichen Stromkosten. Erzeugt 5% Einkommenssteuer. Wenn ein Spieler darin spawnt, beginnt er in deiner Nation mit einem Kolonialvertrag von 5% Einkommensteuer. 
+WANRING: Das ist unumkehrbar. Du wirst die direkte Kontrolle über dieses Gebiet verlieren. Die Region erhält eine stabile Verwaltung, Loyalität und Kultur. Keine Wartungskosten und keine staatlichen Stromkosten. Erzeugt 5% Einkommenssteuer. Wenn ein Spieler darin spawnt, beginnt er in deiner Nation mit einem Kolonialvertrag von 5% Einkommensteuer.
 
 #regstatus_setcol_2
 Um eine Kolonie zu bilden, benötigt das Gebiet mindestens 150 Einwohner und mindestens 65 % der Grundbedürfnisse.
@@ -4644,13 +4635,13 @@ Nicht in Anspruch genommenes Gebiet
 Die Heimat dieser Formation zu verändern.....
 
 #formhome_dscr_1
-Die Heimatregion einer Formation ist die Stadt, der sie angehört. Das Heim bietet die Erneuerung alternder Soldaten und muss die damit verbundenen Armeen unterstützen. Es definiert auch die Kultur der Einheiten der Formation. 
+Die Heimatregion einer Formation ist die Stadt, der sie angehört. Das Heim bietet die Erneuerung alternder Soldaten und muss die damit verbundenen Armeen unterstützen. Es definiert auch die Kultur der Einheiten der Formation.
 
 #formhome_dscr_2
-Formationen werden verfallen, wenn sie an ein Haus gebunden sind, das nicht genügend Bevölkerung hat, um sie zu versorgen. 
+Formationen werden verfallen, wenn sie an ein Haus gebunden sind, das nicht genügend Bevölkerung hat, um sie zu versorgen.
 
 #formhome_dscr_3
-WARNUNG: Wenn du die Heimatregion änderst, werden alle deine Aktionspunkte aufgebraucht und das automatische Einlagern ausgelöst. 
+WARNUNG: Wenn du die Heimatregion änderst, werden alle deine Aktionspunkte aufgebraucht und das automatische Einlagern ausgelöst.
 
 #formhome_sel_c1
 Wähle die gewünschte Heimatregion für diese Formation aus.
@@ -4671,7 +4662,7 @@ Nation '[x]'.
 [Gib hier deine Nachricht ein]
 
 #ui_reginf_vsb
-Sichtbarkeit 
+Sichtbarkeit
 
 #chat_r_councl
 Rat
@@ -4824,7 +4815,7 @@ Um diesen Charakter zu unterwerfen, musst du die Kontrolle übernehmen:
 Unterwerft euch!
 
 #info_cltrtrsfr
- [x] Menschen zogen von [y] nach [z] um und übertrugen die Kultur von ihrer Heimatstadt in [z].
+ [x] Schweine zogen von [y] nach [z] um und übertrugen die Kultur von ihrer Heimatstadt in [z].
 
 #info_supportlmt
 Dieses Gebiet kann nicht mehr Einheiten unterstützen und erlaubt keine Überziehung!
@@ -4839,7 +4830,7 @@ die derzeit angezeigt wird:
 Höhenanzeige umschalten
 
 #button_togh_c2
-Höhen: 
+Höhen:
 
 #displyr_normal
 Normale Ansicht
@@ -4899,7 +4890,7 @@ Gebietsmenü
 Baukosten
 
 #ui_bdginf_bldrs
-erfordert Bauherren
+erfordert Baumeister
 
 #ui_bdginf_cost
 Materialkosten:
@@ -5001,7 +4992,7 @@ VON DER REFORM ABBRECHEN
 Klicke hier, um diese ausstehende Änderung aus deiner Reform zu entfernen.
 
 #ui_eco_notrsr_dscr
-Diese Gesellschaft arbeitet derzeit ohne jegliche Form von Währung und ihre Menschen teilen einfach alles in der Gemeinschaft: Die Regierung hat weder eine Staatskasse noch Einkommen oder Explans.
+Diese Gesellschaft arbeitet derzeit ohne jegliche Form von Währung und ihre Schweine teilen einfach alles in der Gemeinschaft: Die Regierung hat weder eine Staatskasse noch Einkommen oder Explans.
 
 #ui_eco_contrib
 Freiwillige Beiträge
@@ -5133,7 +5124,7 @@ Begrenzter Vertrieb
 alle Lager
 
 #regeco_eff
-Auswirkungen: Beeinflusst die Staatskasse deiner Regierung positiv oder negativ. 
+Auswirkungen: Beeinflusst die Staatskasse deiner Regierung positiv oder negativ.
 
 #regadmin_eff
 Effekte: erhöht die Haushaltseinnahmen (-abfall)
@@ -5148,7 +5139,7 @@ Effekte: Bestimmt die Entwicklung deiner Population.
 NEUES SPIEL ERSTELLEN
 
 #legit_relig
-Religiosität der Menschen
+Religiosität der Schweine
 
 #statepow_tot
 Gesamtstaatliche Macht
@@ -5193,7 +5184,7 @@ Die Bewegungsgeschwindigkeit der Einheit. Beeinflusst auch die Bewegungsgeschwin
 Betrag des Schadens, der dem Feind beim Treffer zugefügt wird.
 
 #ui_statunit_rch_dscr
-Im Nahkampf gibt eine höhere Reichweite als die des Gegners einen Trefferbonus. Reichweite gibt auch einen Bonus, um im Nahkampf gegen Einheiten mit höherer Masse zu treffen. 
+Im Nahkampf gibt eine höhere Reichweite als die des Gegners einen Trefferbonus. Reichweite gibt auch einen Bonus, um im Nahkampf gegen Einheiten mit höherer Masse zu treffen.
 
 #ui_statunit_rs_dscr
 Die Fähigkeit, Feinde im Fernkampf zu treffen.
@@ -5349,7 +5340,7 @@ WARNUNG: Du wirst dieses Gebiet nicht mehr kontrollieren: Wenn du es allein läs
 Das Gebiet wird geräumt. Die gesamte Bevölkerung wird in eine von mehreren Formationen versetzt, die alle Ressourcen, die sie mit sich führen können, mitnehmen.
 
 #ui_conf_capital
-Willst du dieses Gebiet wirklich zu deiner neuen Hauptstadt machen? 
+Willst du dieses Gebiet wirklich zu deiner neuen Hauptstadt machen?
 
 #b_actv_trt_eng
 engagiert für
@@ -5412,7 +5403,7 @@ Im Aufbau.....
 Selbstkonstruierend
 
 #ui_bdgcstr_bdrs
-Bauherren
+Baumeister
 
 #ui_regres_pndng
 Unsere Angebote
@@ -5578,4 +5569,24 @@ Du bist wahrscheinlich dabei, einen Fehler zu machen.....
 
 #warn_moveprim_1
 Der Start des Spiels, indem du deinen gesamten primitiven Stamm bewegst, ist eine SEHR gefährliche Entscheidung, die schnell zu einer Niederlage oder einer längeren Zeit des Stillstands führen kann. Wenn du nicht genau weißt, was du tust, ist es HÖCHST empfehlenswert, dich auf eine Startregion festzulegen: Du kannst später immer mit einer kleineren Gruppe erkunden und dann eine sichere Migration in bessere Länder organisieren.
+
+#menuop_togIP
+Verberge Account
+
+#menuop_togIP_c1
+Verberge Account-Informationen wie die User ID oder die IPs.
+
+#ui_annex_err3
+Du kannst nicht noch mehr von diesen Nebengebäuden platzieren.
+
+#statepow_nation_c31
+[y] direkte Untergebene: [x]
+
+#statepow_nation_c41
+Durchschnittliche Distanz [y] der direkten Untergebenen: [x]
+
+#statepow_nation_c51
+[y] gesamte Untergebene: [x]
+
+
 

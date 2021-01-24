@@ -1,779 +1,1559 @@
 #bdg_hous_n
-housing
+habitação
 
 #bdg_hous_dscr
-Accomodates population, improving their health and life quality.
+Acomoda população, melhorando a sua saúde e qualidade de vida.
 
 #bdg_prod_n
-production building
+edifício de produção
 
 #bdg_prod_dscr
-Exploits terrain tiles to produce raw resources.
+telhas terreno exploits para produzir recursos brutos.
 
 #bdg_ind_n
-industrial building
+construção industrial
 
 #bdg_ind_dscr
-Produces goods out of existing resources.
+Produz bens para fora dos recursos existentes.
 
 #bdg_srv_n
-service
+serviço
 
 #bdg_srv_dscr
-Produces a service (a non-material resources that cannot be stored).
+Produz um serviço (um dos recursos não-materiais que não podem ser armazenados).
 
 #bdg_stor_n
-storage
+armazenamento
 
 #bdg_stor_dscr
-Stocks resources.
+recursos ações.
 
 #bdg_merch_n
-distribution
+distribuição
 
 #bdg_merch_dscr
-Distributors get resources from any producing building or storage and make them available to the population. They can distribute high amounts of resources but merchants keep a share of the sales incomes for themselves, reducing the producer's.
+Distribuidores obter recursos a partir de qualquer edifício ou armazenamento de produção e torná-los disponíveis para a população. Eles podem distribuir grandes quantidades de recursos, mas os comerciantes manter uma parte dos rendimentos de vendas por si mesmos, reduzindo o produtor de.
 
 #bdg_roads_n
-roads
+estradas
 
 #bdg_roads_dscr
-Improves unit movement on this tile and provides bonuses to connected buildings.
+Melhora movimento da unidade neste azulejo e fornece bônus para edifícios ligados.
 
 #bdg_walls_n
-walls
+paredes
 
 #bdg_walls_dscr
-Defensive structure that prevents all units from passing.
+estrutura defensiva que evita todas as unidades de passagem.
 
 #bdg_deco_n
-decorative
+decorativo
 
 #bdg_deco_dscr
-Purely cosmetic elements to improve the look of your city.
+Puramente elementos estéticos para melhorar a aparência de sua cidade.
 
 #bdg_towers_n
-defensive towers
+torres defensivas
 
 #bdg_towers_dscr
-Defensive towers employ soldiers independently of garrisons and formations. They can only be built on platforms. They provide fire support during battles.
+torres defensivas empregar soldados independentemente de guarnições e formações. Eles só podem ser construídos em plataformas. Eles fornecem apoio de fogo durante as batalhas.
 
 #bdg_battlem_n
-battlements
+ameias
 
 #bdg_battlem_dscr
-Battlements can only be built on platforms. They provide a combat bonus to units standing on the platform during batlles.
+Ameias só pode ser construída em plataformas. Eles oferecem um bônus de combate às unidades de pé sobre a plataforma durante Batlles.
 
 #bdg_annex_n
-annex
+anexo
 
 #bdg_annex_dscr
-Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
+Os anexos são edifícios que pertencem a outro e lhe fornecem fontes de produção additionnal ou capacidades de distribuição.
 
 #bdg_pltf_n
-platforms
+plataformas
 
 #bdg_pltf_dscr
-Platforms are a pigmade tile elevation you can build over. Defensive structures like towers and battlements can only be built over platforms. They are costly and slow to build.
+As plataformas são uma elevação telha pigmade você pode construir mais. estruturas defensivas como torres e ameias só pode ser construída sobre plataformas. Eles são caros e lentos para construir.
 
 #bdg_stairs_n
-stairs
+escadas
 
 #bdg_stairs_dscr
-Allows porcos to access tiles with a different height. Place against platforms or cliffs to give access. 
+Permite Porcos acessar telhas com uma altura diferente. Coloque contra plataformas ou falésias para dar acesso.
 
 #bdg_gates_n
-gate
+portão
 
 #bdg_gates_dscr
-Gates block hostile troops during battles. Needs to be placed adjascent to a platform in 'bridge' mode.
+Portões bloquear as tropas hostis durante as batalhas. Necessita de ser colocado adjascent a uma plataforma em modo de 'ponte'.
 
 #bdg_all
-All buildings
+Todos os edifícios
 
 #txt_cider_n
-Cider mill
+moinho de cidra
 
 #txt_cider_dscr
-Produce cider from apples. Cider is a distributable resource than satisfies the population needs for alcohols.
+Produzir cidra de maçãs. Cider é um recurso distribuído do que satisfaz as necessidades da população para os álcoois.
 
 #txt_brewery_n
-Brewery
+Cervejaria
 
 #txt_brewery_dscr
-Produce beer from barley. Beer is a distributable resource than satisfies the population needs for alcohols.
+Produzir cerveja de cevada. A cerveja é um recurso distribuído do que satisfaz as necessidades da população para os álcoois.
 
 #txt_claycamp_n
-Clay exploitation
+exploração de argila
 
 #txt_claycamp_dscr
-Can exploit clay terrain tiles to produce clay. Needs to be placed in range of clay deposits.
+Podem explorar telhas terreno de argila para produzir argila. Necessita de ser colocado em série de depósitos de argila.
 
 #txt_claypit_n
-Clay pit
+poço de argila
 
 #txt_claypit_dscr
-Place directly over clay tiles. Increases clay production of these tiles.
+Coloque diretamente sobre telhas de barro. Aumenta a produção de argila destas telhas.
 
 #txt_clothmk_n
-Clothmaker
+fabricante de tecidos
 
 #txt_clothmk_dscr
-Produces clothes from textile. Cloth is a distributable resource that satisfies the population needs for clothing. 
+Produz roupas de têxtil. Pano é um recurso de distribuição que satisfaça as necessidades da população para a roupa.
 
 #txt_gather_n
-Gathering camp
+Acampamento Coletores
 
 #txt_gather_dscr
-Can exploit wild agricultural resources. Needs to be placed in range of the resources. 
+Pode explorar os recursos agrícolas selvagens. Precisa ser colocado na faixa dos recursos.
 
 #txt_farm_n
-Farm
+Fazenda
 
 #txt_farm_dscr
-Can create fields to produce a variety of agricultural resources. Can also exploit naturally present ones in range.
+Pode criar campos para produzir uma variedade de recursos agrícolas. Também pode explorar os naturalmente presentes na faixa.
 
 #txt_fisher_n
-Fisherpig
+Pescadores
 
 #txt_fisher_dscr
-Can exploit wild fishes to produce fresh fish. Needs to be placed on the shore in range of a wild fishes spot.
+Podem explorar peixes selvagens para produzir peixe fresco. Precisa ser colocado na margem na faixa de um local peixes selvagens.
 
 #txt_grnry_n
-Granary
+Celeiro
 
 #txt_grnry_dscr
-Can store food resources.
+Pode armazenar recursos alimentares.
 
 #txt_hslum_n
-Slum
+Favela
 
 #txt_hslum_dscr
-Slums that cost nothing and will spawn automatically when porcos can't find any available dwelling. They provide low Life quality and no health. 
+Favelas que não custam nada e vão aparecer automaticamente quando Porcos não consegue encontrar qualquer habitação disponível. Eles oferecem baixa qualidade de vida e não de saúde.
 
 #txt_hrustc_n
-House
+casa
 
 #txt_hrustc_dscr
-Rustic dwellings that provide low life quality and health bonuses.
+habitações rústicas que proporcionam qualidade de vida e saúde com bônus baixos.
 
 #txt_hconf_n
-Large house
+Grande casa
 
 #txt_hconf_dscr
-Comfortable dwellings that provide high life quality and health bonuses.
+habitações confortáveis, que proporcionam qualidade e saúde com bônus alta vida.
 
 #txt_hapt_n
-Apartment
+Apartamento
 
 #txt_hapt_dscr
-Multistorey buildings that provide housing for multiple households.
+edifícios de vários andares que fornecem moradia para várias famílias.
 
 #txt_hunter_n
-Hunter
+Caçador
 
 #txt_hunter_dscr
-Can exploit wild animals to produce fresh meat and leather. Needs to be placed in range of a wild animals spot.
+Pode explorar os animais selvagens para produzir carne fresca e couro. Precisa de ser colocado na gama de um ponto de animais selvagens.
 
 #txt_flint_n
-Flint collector
+coletor de Pedra
 
 #txt_flint_dscr
-Produces flints out of gravel terrain tiles. Flints can then be used by tool-makers to craft stone tools.
+Produz pedras fora de telhas terreno de cascalho. Pedras pode, então, ser usado por ferramentas decisores para elaborar ferramentas de pedra.
 
 #txt_platf1_n
-Wooden platform
+plataforma de madeira
 
 #txt_platf1_dscr
-A cheap low resistance platform. Usefull to make cheap defenses and bridges.
+Uma plataforma baixa resistência barato. Útil para fazer defesas baratos e pontes.
 
 #txt_platf2_n
-Stone platform
+plataforma de pedra
 
 #txt_platf2_dscr
-A solid platform usefull to make resistent walls.
+Um útil plataforma sólida para fazer paredes resistentes.
 
 #txt_dstrplatf_n
-Destroy platforms
+destruir plataformas
 
 #txt_dstrplatf_dscr
-Orders destruction of selected platforms.
+Ordens de destruição de plataformas selecionadas.
 
 #txt_tow1_n
-Watchtower
+Torre de vigia
 
 #txt_tow1_dscr
-A cheap but weak defensive tower made of leather covered wood. Fire arrows.
+A torre defensiva barato, mas fraco feita de couro coberto de madeira. flechas de fogo.
 
 #txt_tow2_n
-Wooden tower
+torre de madeira
 
 #txt_tow2_dscr
-A defensive tower made of thick wooden beams. Fire arrows.
+Uma torre defensiva feito de vigas de madeira de espessura. flechas de fogo.
 
 #txt_tow3_n
-Stone tower
+torre de pedra
 
 #txt_tow3_dscr
-Stone towers are much more resistent than their wooden counterparts. Fire arrows.
+torres de pedra são muito mais resistentes do que suas contrapartes de madeira. flechas de fogo.
 
 #txt_tow4_n
-Heavy tower
+torre pesada
 
 #txt_tow4_dscr
-This tower is built out of solid stone blocs to increase resistance to ennemy artillery. Fire arrows.
+Esta torre é construída a partir de blocos de pedra sólida para aumentar a resistência à ennemy artilharia. flechas de fogo.
 
 #txt_batlm1_n
-Wooden battlements
+ameias de madeira
 
 #txt_batlm1_dscr
-Crude wooden battlements providing basic cover from ennemy fire to units standing on the platform during battles.
+ameias de madeira em bruto que fornecem uma cobertura de base de ennemy fogo para unidades de pé sobre a plataforma durante batalhas.
 
 #txt_batlm2_n
-Stone battlements
+ameias de pedra
 
 #txt_batlm2_dscr
-Stone battlements providing cover from ennemy fire to units on standing on the platform during battles.
+ameias de pedra oferecem uma cobertura de ennemy fogo para unidades em pé na plataforma durante as batalhas.
 
 #txt_batlm3_n
-Machicolated stone battlements
+ameias de pedra Machicolated
 
 #txt_batlm3_dscr
-Heavy battlements made of solid stone blocs with machicolations providing excellent cover from ennemy fire to units standing on the platform during battles.
+ameias pesados ​​feitos de blocos de pedra sólida com machicolations proporcionando excelente cobertura de ennemy fogo para unidades de pé sobre a plataforma durante as batalhas.
 
 #txt_batlm4_n
-Hoardings
+painéis
 
 #txt_batlm4_dscr
-Excellent cover but weaker than stone battlements.
+Excelente cobertura, mas mais fraco do que ameias de pedra.
 
 #txt_market_n
-Market stand
+carrinho do mercado
 
 #txt_market_dscr
-Market stands distribute to the population the production of the building the stand belongs to. The income generated goes intirely to the producers but it takes one worker off production in order to manage the stand.
+arquibancadas mercado distribuir à população a produção da construção do stand pertence. A renda gerada vai inteiramente aos produtores, mas é preciso um trabalhador fora de produção, a fim de gerenciar o suporte.
 
 #txt_field_n
-Field
+Campo
 
 #txt_field_dscr
-Fields are workable only by the farm they belong to. They produce a wide range of agricultural products.
+Os campos são viáveis ​​apenas pela fazenda a que pertencem. Eles produzem uma vasta gama de produtos agrícolas.
 
 #txt_road1_n
-Dirt road
+Estrada de terra
 
 #txt_road1_dscr
-A basic road and free to build road.
+Uma estrada básica e livre para construir estrada.
 
 #txt_road2_n
-Wooden road
+estrada de madeira
 
 #txt_road2_dscr
-A road with pieces of wood encrusted in dirt to limit mud on rainy weather.
+Uma estrada com pedaços de madeira incrustado na sujeira para limitar lama em tempo chuvoso.
 
 #txt_road3_n
-Cobblestone road
+estrada do pedra
 
 #txt_road3_dscr
-A road paved with crude cobblestones.
+Uma estrada pavimentada com pedras grosseiras.
 
 #txt_road4_n
-Stone road
+estrada de pedra
 
 #txt_road4_dscr
-An expensive road made of large stone blocs
+Uma estrada caro feito de grandes blocos de pedra
 
 #txt_road5_n
-Paved road
+Estrada pavimentada
 
 #txt_road5_dscr
-A road made of small stone blocs composed artistically.
+Uma estrada feita de pequenos blocos de pedra compostas artisticamente.
 
 #txt_road6_n
-Mosaic plaza
+Piso Mosaico
 
 #txt_road6_dscr
-A fancy floor made of colofull small tiles of stone, glass and other materials.
+Um piso fantasia feita de pequenos azulejos colofull de pedra, vidro e outros materiais.
 
 #txt_road7_n
-Marble plaza
+Piso de mármore
 
 #txt_road7_dscr
-A fancy floor made of shiny marble blocs
+Um piso fantasia feita de blocos de mármore brilhantes
 
 #txt_road8_n
-Limestone road
+estrada calcário
 
 #txt_road8_dscr
-An expensive road made of large white limestone blocs
+Uma estrada caro feito de grandes blocos de pedra calcária branca
 
 #txt_road9_n
-Sandstone road
+estrada arenito
 
 #txt_road9_dscr
-An expensive road made of large sandstone blocs
+Uma estrada caro feito de grandes blocos de arenito
 
 #txt_fence1_n
-Wooden fence
+Cerca de madeira
 
 #txt_fence1_dscr
-Rustic fences made of wood.
+cercas rústico feito de madeira.
 
 #txt_fence2_n
-Fancy fence
+cerca de fantasia
 
 #txt_fence2_dscr
-Decorative fences worthy of gardens and avenues.
+Cercas dignos de jardins e avenidas.
 
 #txt_fence3_n
-Stone fence
+cerca de pedra
 
 #txt_fence3_dscr
-Rustic fences made of stone.
+cercas rústicas feitas de pedra.
 
 #txt_garden1_n
-Flower gardens
+jardins de flores
 
 #txt_garden1_dscr
-Decorative gardens with flowers.
+jardins decorativos com flores.
 
 #txt_garden2_n
-Tree gardens
+jardins de árvores
 
 #txt_garden2_dscr
-Decorative gardens with trees.
+jardins decorativos com árvores.
 
 #txt_grass_n
-Lawn
+Gramado
 
 #txt_grass_dscr
-An area of soil covered with carefully maintained grass for aesthetic and recreational purposes.
+Uma área de solo coberto com grama cuidadosamente mantidos para fins estéticos e recreativos.
 
 #txt_flowerbed_n
-Flowerbed
+Canteiro de flores
 
 #txt_flowerbed_dscr
-A plain patch of flowers for decoration.
+Um patch planície de flores para decoração.
 
 #txt_woodc_n
-Woodcutter
+Lenhador
 
 #txt_woodc_dscr
-Woodcutters can exploit most of the available trees in range to produce wood.
+Woodcutters pode explorar a maioria das árvores disponíveis na gama de produtos derivados de madeira.
 
 #txt_merchant_n
-Merchant
+Comerciante
 
 #txt_merchant_dscr
-Specialized distributors who make one selectable resource available to the population.
+distribuidores especializados que fazem um recurso selecionável disponíveis para a população.
 
 #txt_mine_n
-Mining camp
+campo de mineração
 
 #txt_mine_dscr
-Can exploit terrain tiles with special deposits to produce a wide range of raw materials, especially through the exploitation of its annexes when available.
+Podem explorar telhas terreno com depósitos especiais para produzir uma ampla gama de matérias-primas, especialmente através da exploração dos seus anexos, quando disponível.
 
 #txt_mineshaft_n
-Mining shaft
+eixo Mineração
 
 #txt_mineshaft_dscr
-Essential annex of the mining camp. Mining shafts increase the production of the mining camp they belong to. Must be built over tiles with valid deposits.
+Anexo essencial do campo de mineração. eixos de mineração aumentar a produção do campo de mineração a que pertencem. Deve ser construído ao longo de azulejos com depósitos válidos.
 
 #txt_paddock_n
-Paddock
+Pomar, pasto
 
 #txt_paddock_dscr
-Paddocks allow the storage of livestock resources.
+Piquetes permitir o armazenamento de recursos de gado.
 
 #txt_elephantpen_n
-Elephant pen
+Elephant caneta
 
 #txt_elephantpen_dscr
-Elephant pens allow the storage of single large animals such as Elephants.
+canetas de elefante permitir o armazenamento de grandes animais individuais, tais como elefantes.
 
 #txt_potter_n
-Potter
+Oleiro
 
 #txt_potter_dscr
-Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
+oliero refinar argila em cerâmica. A cerâmica é um recurso distribuído encher as necessidades da população em Móveis.
 
 #txt_stonecut_n
-Stonecutter camp
+acampamento Cortador de pedras
 
 #txt_stonecut_dscr
-Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
+Podem explorar telhas de rocha na faixa de produzir pedra bruta ou construir anexos de Pedreira para produzir blocos de pedra ou blocos especializados sobre azulejos com o tipo de rocha válido.
 
 #txt_quarry_n
-Quarry
+Pedreira
 
 #txt_quarry_dscr
-Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
+Anexo essencial do Cortador de pedras, pedreiras pode produzir blocos de pedra ou blocos especializados sobre tipos de rochas especiais.
 
 #txt_sawmill_n
-Sawmill
+Serraria
 
 #txt_sawmill_dscr
-The sawmill refines crude wood into wood planks, a material required to build many buildings.
+A serração refina madeira em bruto em pranchas de madeira, um material necessário para a construção de muitos edifícios.
 
 #txt_tannery_n
-Tannery
+Curtume
 
 #txt_tannery_dscr
-Tanneries refine leather into leather cloth, a distributable resource filling the population needs in clothing.
+Curtumes refinar couro em pano de couro, um recurso distribuído enchendo a população precisa de roupa.
 
 #txt_toolmk_n
-Tool-maker
+fabricante de Ferramenta
 
 #txt_toolmk_dscr
-Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
+Ferramentero produzir diferentes tipos de ferramentas. Ferramentas são usadas para muitas coisas, especialmente como material de construção.
 
 #txt_items_n
-Items
+Unid
 
 #txt_items_dscr
-These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
+Esses recursos são abandonado no chão e irá decair com o tempo, a menos que eles estão rapidamente armazenados em um armazenamento adequado!
 
 #txt_storegrnd_n
-Ground storage
+armazenamento chão
 
 #txt_storegrnd_dscr
-Ground marked as a storage area. It's free, but ungarded and doesnt have a hight storage capacity per tile.
+Chão marcado como uma área de armazenamento. É gratuito, mas esta desprotegido e não têm uma capacidade de armazenamento de altura por cada azulejo.
 
 #txt_warehouse_n
-Warehouse
+Armazém
 
 #txt_warehouse_dscr
-Warehouses can store all types of basic materials. They are garded and can store much more resources than ground storages.
+Armazéns pode armazenar todos os tipos de materiais básicos. Eles são protegido e podem armazenar muito mais recursos do que armazenamentos de terra.
 
 #txt_weapmk_n
-Weapon-maker
+fabricante de arma
 
 #txt_weapmk_dscr
-Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
+armeiro pode produzir uma grande variedade de armas e armaduras usadas para equipar e recrutar tropas.
 
 #txt_weaver_n
-Weaver
+Tecelão
 
 #txt_weaver_dscr
-The weaver refines different raw materials (cotton,flax,wool...) into textile. Textile can then be used for various things like clothmaking.
+O tecelão refina diferentes matérias-primas (algodão, linho, lã ...) em têxtil. Têxtil pode então ser usado para várias coisas como fabricação de pano.
 
 #txt_stairs1_n
-Wooden stairs
+Escadas de madeira
 
 #txt_stairs1_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Escadas que podem ser colocados contra ou arribas as paredes de qualquer altura para permitir a passagem. 
 
 #txt_stairs2_n
-Stone stairs
+escadas de pedra
 
 #txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+Escadas que podem ser colocados contra ou arribas as paredes de qualquer altura para permitir a passagem. 
 
 #txt_gate1_n
-Wooden gate
+Portão de madeira
 
 #txt_gate1_dscr
-A cheap wooden gate.
+Um portão de madeira barata.
 
 #txt_gate2_n
-Strong gate
+portão forte
 
 #txt_gate2_dscr
-A strong gate made of wood held tohether by bronze. 
+Um portão forte feita de madeira com juntas de bronze. 
 
 #txt_gate3_n
-Reinforced gate
+porta reforçada
 
 #txt_gate3_dscr
-A solid gate reinforced with iron.
+Um portão sólido reforçado com ferro.
 
 #txt_cattle_n
-Cattle farm
+Fazenda de gado
 
 #txt_cattle_dscr
-The cattle farms allows you to create pastures that produce cattle.
+As fazendas de gado permite criar pastos que produzem gado.
 
 #txt_pastr_n
-Pasture
+Pasto
 
 #txt_pastr_dscr
-An enclosed area of land where cattle can feed and breed.
+Uma área fechada de terra onde o gado pode se alimentar e se reproduzir.
 
 #txt_pastrw_n
-Wool Pasture
+Pasto lã
 
 #txt_pastrw_dscr
-Pastures of wool producing animals, regularly sheared to collect their wool.
+Pastagens de animais de lã produzir, regularmente tosa para coletar sua lã.
 
 #txt_builder_n
-Builders
+Construtores
 
 #txt_builder_dscr
-Many buildings can only be constructed by professional teams of builders.
+Muitos edifícios só pode ser construída por equipes profissionais de construtores.
 
 #txt_butcher_n
-Butcher
+Açougueiro
 
 #txt_butcher_dscr
-Slaughters live cattle to produce fresh meat.
+Mata gado vivo para produzir carne fresca.
 
 #txt_well_n
-Well
+Poço
 
 #txt_well_dscr
-Extracts water from the ground.
+Extrai água a partir do solo.
 
 #txt_watercol_n
-Water collector
+coletor de água
 
 #txt_watercol_dscr
-A point where people can collect fresh water from rivers or lakes.
+Um ponto onde as pessoas podem coletar a água doce dos rios ou lagos.
 
 #txt_landock_n
-Land docks
+Docas de terra
 
 #txt_landock_dscr
-Docks for land caravans, carrying goods across territories and required to operate trade routes.
+Docas para caravanas terrestres, que transportam mercadorias através de territórios é necessárias para operar rotas de comércio.
 
 #txt_dock_n
-Docks
+Docas
 
 #txt_dock_dscr
-Docks for trade ships, carrying goods across territories and required to operate trade routes. 
+Docas para navios comerciais, que transportam mercadorias através de territórios é necessárias para operar rotas de comércio. 
 
 #txt_theater_n
-Theater
+Teatro
 
 #txt_theater_dscr
-Provides entertainement to the Porcos.
+Fornece entertainement aos Porcos.
 
 #txt_baths_n
-Public baths
+Banheiros públicos
 
 #txt_baths_dscr
-A place of social gathering and relaxation which also provides better health.
+Um lugar de encontro social e relaxamento, que também fornece uma melhor saúde.
 
 #txt_tavern_n
-Tavern
+Taberna
 
 #txt_tavern_dscr
-A place of social gathering to drink and party.
+Um lugar de encontro social para beber e festajar.
 
 #txt_forum_n
-Forum
+Fórum
 
 #txt_forum_dscr
-A place of social gathering to discuss matters of the community.
+Um lugar de encontro social para discutir assuntos da comunidade.
 
 #txt_furnmkr_n
-Furniture maker
+Fabricante de móveis
 
 #txt_furnmkr_dscr
-Produces furniture, a distributable resource filling the population needs in Furnishings.
+Produz móveis, um recurso distribuído enchendo a população de Mobiliário.
 
 #txt_carpetmkr_n
-Carpet maker
+Marcador de carpete
 
 #txt_carpetmkr_dscr
-Produces rugs, a distributable resource filling the population needs in Furnishings.
+Produz tapetes, um recurso distribuído enchendo a população de Mobiliário.
 
 #txt_mudcamp_n
-Soil miner
+mineiro solo
 
 #txt_mudcamp_dscr
-A simple camp where workers collect and gather exploitable soil types such as mud, peat or ashes.
+Um acampamento simples, onde os trabalhadores recolhem e reunir tipos de solo exploráveis, como lama, turfa ou cinzas.
 
 #txt_brickwk_n
-Brickworks
+Fabrica de tijolos
 
 #txt_brickwk_dscr
-Produces bricks, a basic construction material.
+Produz tijolos, num material de construção básica.
 
 #txt_kiln_n
-Kiln
+Forno
 
 #txt_kiln_dscr
-Produces different construction materials.
+Produz materiais de construção diferentes.
 
 #txt_fundry_n
-Foundry
+Fundição
 
 #txt_fundry_dscr
-Refines metallic ores into ingots.
+Refina minérios metálicos em lingotes.
 
 #txt_steel_n
-Steel mill
+Moinho de aço
 
 #txt_steel_dscr1
-Produces steel by carburization of wrough iron through smithing.
+Produz aço por carburação de ferro através forja.
 
 #txt_steel_dscr2
-Produces steel by decarburization of cast iron by melting it.
+Produz aço por descarbonetação de ferro fundindo.
 
 #txt_charcl_n
-Charcoal clamps
+ Forno de carvão
 
 #txt_charcl_dscr
-Carbonizes wood into charcoal.
+Carboniza madeira em carvão.
 
 #txt_archtct_n
-Architect
+Arquiteto
 
 #txt_archtct_dscr
-Produces the service Plans, required for important monuments.
+Produz os planos de serviços, necessários para monumentos importantes.
 
 #txt_windwheel_n
-Windwheel
+Moinho de vento
 
 #txt_windwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+Fornece energia mecânica para o edifício, melhorando sua eficiência.
 
 #txt_waterwheel_n
-Waterwheel
+Roda d'água
 
 #txt_waterwheel_dscr
-Provides mechanical power to the building, improving its efficiency.
+Fornece energia mecânica para o edifício, melhorando sua eficiência.
 
 #txt_wash_n
-Washhouse
+Lavanderia
 
 #txt_wash_dscr
-A place where people can come wash their laundry.
+Um lugar onde as pessoas podem vir lavar a sua roupa.
 
 #txt_taxcol_n
-Tax collector
+Coletor de impostos
 
 #txt_taxcol_dscr
-Reduces waste by ensuring population pays correctly their taxes.
+Reduz o desperdício, garantindo população paga corretamente os seus impostos.
 
 #txt_scrib_n
-Scribe
+Escriba
 
 #txt_scrib_dscr
-Scribes at the service of the state help keep track of administrative matters.
+Escribas a serviço da ajuda estatal manter o controle de questões administrativas.
 
 #txt_eldcounc_n
-Elder's council
+O conselho do Élder
 
 #txt_eldcounc_dscr
-A council of elders to solve conflicts in the city.
+Um conselho de anciãos para resolver conflitos na cidade.
 
 #txt_magistrt_n
-Magistrate
+Magistrado
 
 #txt_magistrt_dscr
-Reduces conflict in the population.
+Reduz o conflito na população.
 
 #txt_school_n
-School
+Escola
 
 #txt_school_dscr
-School increases intelligence of the population.
+Escola aumenta a inteligência da população.
 
 #txt_winery_n
-Wine cellar
+Adega
 
 #txt_winery_dscr
-Produces wine out of grapes.
+Produz vinho de uvas.
 
 #txt_oilpress_n
-Olives press
+Prensa azeitona
 
 #txt_oilpress_dscr
-Produces olive oil out of olives.
+Produz azeite de azeitona.
 
 #txt_bakery_n
-Bakery
+Padaria
 
 #txt_bakery_dscr
-Makes bread from flour.
+Faz pão de farinha.
 
 #txt_mill_n
-Mill
+Moinho
 
 #txt_mill_dscr
-Crushes cereals to produce flour, easier to stock and used to make bread.
+Esmaga cereais para a produção de farinha, mais fácil de estoque e usado para fazer pão.
 
 #txt_libr_n
-Library
+Biblioteca
 
 #txt_libr_dscr
-Stores knowledges.
+Lojas conhecimentos.
 
 #txt_eldrcncl_n
-Tribal council
+Conselho tribal
 
 #txt_eldrcncl_dscr
-A council of family leaders that attempts to solve conflicts amongst the tribe and provides an early form of law.
+Um conselho de chefes de família que tenta resolver conflitos entre a tribo e fornece uma forma primitiva de lei.
 
 #txt_magistr_n
-Magistrate
+Magistrado
 
 #txt_magistr_dscr
-A service building that provides the Justice service to population, reducing conflict.
+Um edifício de serviços que oferece o serviço de Justiça à população, reduzir o conflito.
 
 #txt_paper_n
-Paper mill
+fábrica de papel
 
 #txt_paper_dscr
-Produces paper
+produz papel
 
 #txt_rum_n
-Rumery
+destilaria de rum
 
 #txt_rum_dscr
-A distilery that produces rum out of sugarcane.
+A destilaria que produz rum de cana.
 
 #txt_trmarket_n
-Market
+Mercado
 
 #txt_trmarket_dscr
-Allows to create trade offers to exchange goods with other territories.
+Permite criar ofertas comerciais para trocar bens com outros territórios.
 
 #txt_academ_n
 Academia
 
 #txt_acedem_dscr
-Wise and knowledgable pigs who study science and arts increasing education and culture and contribute to research projects.
+porcos sábios e qualificada que estudam ciência das artes aumentando educação e cultura e contribuir para projetos de pesquisa.
 
 #txt_doctor_n
-Doctor
+Médico
 
 #txt_doctor_dscr
-Increases health of the population.
+Aumenta a saúde da população.
 
 #txt_ftower1
-Primitive tower
+torre primitiva
 
 #txt_ftower1_dscr
-A primitive defensive tower made of wood. Fires javelins.
+Uma torre defensiva primitiva feita de madeira. Incêndios dardos.
 
 #txt_wall1_n
-Palissade
+Barreira
 
 #txt_wall1_dscr
-A simple defensive wall made of timbers.
+Uma barreira simples feito de madeira.
 
 #txt_wall2_n
-Mudbrick wall
+Parede Tijolos de barro
 
 #txt_wall2_dscr
-A simple defensive wall made of mudbricks, weaker but cheaper to maintain than a palissade.
+A muralha defensiva simples feito de Tijolos de barro, mais fraco e mas mais barato de manter do que um Barreira.
 
 #txt_wall3_n
-Cobblestone wall
+Parede pedra
 
 #txt_wall3_dscr
-A simple defensive wall made of cobble stone held together with crude masonry.
+Uma barreira simples feito de pedra godo realizada em conjunto com a alvenaria em bruto.
 
 #txt_wall4_n
-Brick wall
+Parede de tijolos
 
 #txt_wall4_dscr
-A simple defensive wall made of fired bricks, stronger than mudbricks.
+A muralha defensiva simples feita de tijolos queimados, mais forte do que Tijolos de barro.
 
 #txt_wall5_n
-Stoneblocs wall
+Parede Bloco de pedra
 
 #txt_wall5_dscr
-A solid defensive wall made of stone blocs.
+Uma barreira sólida feita de blocos de pedra.
+=======
+#bdg_hous_n
+habitações
+
+#bdg_hous_dscr
+Acomoda a população, melhorando a sua saúde e qualidade de vida.
+
+#bdg_prod_n
+edifícios de produção
+
+#bdg_prod_dscr
+Explora o terreno da região para produzir matérias-primas
+
+#bdg_ind_n
+edifícios industriais
+
+#bdg_ind_dscr
+Produz mercadorias de recursos existentes 
+
+#bdg_srv_n
+serviços
+
+#bdg_srv_dscr
+Produz um serviço (recursos não materiais que não podem ser armazenados).
+
+#bdg_stor_n
+armazenamentos
+
+#bdg_stor_dscr
+Estoca recursos.
+
+#bdg_merch_n
+distribuidores
+
+#bdg_merch_dscr
+Os distribuidores pegam os recursos de qualquer edifício de produção ou de armazenamento e os disponibilizam para a população. Eles podem distribuir grandes quantidades de recursos mas os comerciantes mantêm uma parcela das rendas das vendas para si, reduzindo as do produtor.
+
+#bdg_roads_n
+estradas
+
+#bdg_roads_dscr
+Melhora o movimento das unidades nas áreas construidas e fornece bônus para edifícios conectados.
+
+#bdg_walls_n
+muralhas
+
+#bdg_walls_dscr
+Estruturas defensivas que impedem todas as unidades de passar.
+
+#bdg_deco_n
+Decorativos
+
+#bdg_deco_dscr
+Elementos puramente estéticos para melhorar a aparência da sua cidade.
+
+#bdg_towers_n
+torres defensivas
+
+#bdg_towers_dscr
+Torres defensivas guarnecem soldados independentemente de seus exércitos e milícias. Elas só podem ser construídas em plataformas. Elas fornecem suporte defensivo durante as batalhas.
+
+#bdg_battlem_n
+ameias
+
+#bdg_battlem_dscr
+As ameias só podem ser construídas em plataformas. Elas fornecem um bônus de combate para unidades que estão nas plataformas durante as batalhas.
+
+#bdg_annex_n
+anexos
+
+#bdg_annex_dscr
+anexos são edifícios que pertencem a outros edifícios e fornecem fontes de produção adicional ou capacidade de distribuição.
+
+#bdg_pltf_n
+plataformas
+
+#bdg_pltf_dscr
+As plataformas são elevações do terreno feitas por porcos na qual você pode construir sobre elas. Estruturas defensivas como torres e barricadas só podem ser construídas sobre as plataformas. Elas são caras e lentas para construir.
+
+#bdg_stairs_n
+Escadas
+
+#bdg_stairs_dscr
+Permite que porcos acessem terrenos com alturas diferentes. Pode dar acesso a plataformas ou precipícios. 
+
+#bdg_gates_n
+portões
+
+#bdg_gates_dscr
+Portões bloqueiam a passagem de tropas hostis durante as batalhas. Eles precisam ser colocados entre dois muros.
+
+#bdg_all
+todos os edifícios
+
+#txt_cider_n
+Moinho de sidra
+
+#txt_cider_dscr
+Produz sidra de maçãs. A sidra é um recurso distribuível que satisfaz as necessidades alcoólicas da população.
+
+#txt_brewery_n
+Cervejaria
+
+#txt_brewery_dscr
+Produz cerveja da cevada. A cerveja é um recurso distribuível que satisfaz as necessidades alcoólicas da população .
+
+#txt_claycamp_n
+Depósito de argila
+
+#txt_claycamp_dscr
+Extrai e produz argila do terreno. Precisa ser colocado no alcance de depósitos de argila no solo.
+
+#txt_claypit_n
+Poço de argila
+
+#txt_claypit_dscr
+É colocado diretamente no solo com argila. Aumenta a sua produção de argila.
+
+#txt_clothmk_n
+Tecelã de roupas
+
+#txt_clothmk_dscr
+Produz roupas de tecidos. As roupas são um recurso distribuível que satisfaz as necessidades de vestimento da população.
+
+#txt_gather_n
+Campo de coleta
+
+#txt_gather_dscr
+Pode explorar recursos agrículas selvagens. Precisa ser colocado no alcance dos recursos. 
+
+#txt_farm_n
+Fazenda
+
+#txt_farm_dscr
+Pode criar campos para produzir uma variedade de recursos agrícolas. Também pode explorar recursos naturais do terreno.
+
+#txt_fisher_n
+Pesqueiro 
+
+#txt_fisher_dscr
+Pode explorar peixes selvagens para produzir peixes frescos. Precisa ser colocado ao alcance dos pontos de pesca selvagens .
+
+#txt_grnry_n
+Celeiro
+
+#txt_grnry_dscr
+Pode estocar comida.
+
+#txt_hslum_n
+Favela
+
+#txt_hslum_dscr
+Favelas aparecem automaticamente quando os porcos não conseguem encontrar habitações disponíveis. Elas não fornecem saúde e baixa qualidade de vida.
+
+#txt_hrustc_n
+Casa
+
+#txt_hrustc_dscr
+Habitação rústica que proporciona baixa qualidade de vida com um bônus de saúde.
+
+#txt_hconf_n
+Casa grande
+
+#txt_hconf_dscr
+Habitação confortáveis que proporciona alta qualidade de vida e bônus de saúde.
+
+#txt_hapt_n
+Apartamento
+
+#txt_hapt_dscr
+Edifício de vários andares que fornece habitação para várias famílias.
+
+#txt_hunter_n
+Caçador
+
+#txt_hunter_dscr
+Caça animais selvagens para produzir carne fresca e couro. Precisa ser colocado no alcance de animais selvagens.
+
+#txt_flint_n
+Coletor de sílex
+
+#txt_flint_dscr
+Coleta sílex de terrenos com cascalho no solo. Sílex pode ser usado por fabricantes de ferramentas para fazer ferramentas de sílex.
+
+#txt_platf1_n
+Plataforma de madeira
+
+#txt_platf1_dscr
+Uma plataforma pouco resistente e barata. Usada para fazer defesas baratas e pontes.
+
+#txt_platf2_n
+Plataforma de pedra
+
+#txt_platf2_dscr
+Uma plataforma sólida, útil para fazer paredes resistentes.
+
+#txt_dstrplatf_n
+Destruir plataformas
+
+#txt_dstrplatf_dscr
+Ordena a destruição de plataformas selecionadas.
+
+#txt_tow1_n
+Torre de vigia
+
+#txt_tow1_dscr
+Uma torre defensiva barata mas fraca, feita de madeira e couro. Dispara flechas.
+
+#txt_tow2_n
+Torre de madeira
+
+#txt_tow2_dscr
+Uma torre defensiva feita de vigas de madeira. Dispara flechas.
+
+#txt_tow3_n
+Torre de pedra
+
+#txt_tow3_dscr
+Torres de pedra são muito mais resistentes do que as de madeira. Dispara flechas
+
+#txt_tow4_n
+Torre pesada
+
+#txt_tow4_dscr
+Esta torre é feita de blocos de pedra sólidos para aumentar a resistência à artilharia inimiga. Dispara flechas.
+
+#txt_batlm1_n
+Ameias de madeira
+
+#txt_batlm1_dscr
+Ameias de madeira fornecem cobertura básica para as unidades das plataformas contra disparos inimigos durante as batalhas.
+
+#txt_batlm2_n
+Ameias de pedra
+
+#txt_batlm2_dscr
+Ameias de pedra fornecem cobertura para as unidades das plataformas contra disparos inimigos durante as batalhas.
+
+#txt_batlm3_n
+Ameias de pedras com balestreiro
+
+#txt_batlm3_dscr
+Ameias robustas feitas de blocos de pedra sólidos com balestreiros que fornecem excelente cobertura para as unidades das plataformas contra disparos inimigos durante as batalhas.
+
+#txt_batlm4_n
+Cadafalso
+
+#txt_batlm4_dscr
+Excelente cobertura, mas mais fraco do que as ameias de pedra.
+
+#txt_market_n
+Barraca de venda
+
+#txt_market_dscr
+As barracas de venda distribuem à população a produção do edifício que a barraca pertence. A renda gerada vai inteiramente para os produtores mas exige um trabalhador para tomar conta da barraca diminuindo a eficiência da produção. 
+
+#txt_field_n
+Campo de plantação
+
+#txt_field_dscr
+Os campos de plantação só podem ser trabalhados pelas fazendas a quais eles pertecem. Produzem uma vasta gama de produtos agrícolas.
+
+#txt_road1_n
+Estrada de terra
+
+#txt_road1_dscr
+Uma estrada básica e sem custos de construção
+
+#txt_road2_n
+Estrada de madeira
+
+#txt_road2_dscr
+Uma estrada com pedaços de madeira incrustados na terra para diminuir a lama no tempo chuvoso.
+
+#txt_road3_n
+Estrada de pedras arredondadas
+
+#txt_road3_dscr
+Uma estrada pavimentada com paralelepípedos de pedra.
+
+#txt_road4_n
+Estrada de pedra
+
+#txt_road4_dscr
+Uma estrada cara, feita de grandes blocos de pedra.
+
+#txt_road5_n
+Estrada pavimentada.
+
+#txt_road5_dscr
+Uma estrada feita com pequenos blocos de pedra compostos artisticamente.
+
+#txt_road6_n
+Piso de mosaico 
+
+#txt_road6_dscr
+Um piso extravagante feito de pequenos azulejos coloridos de pedra, vidro e outros materiais.
+
+#txt_road7_n
+Piso de mármore
+
+#txt_road7_dscr
+Um piso extravagante feito de blocos de mármore brilhantes
+
+#txt_road8_n
+Estrada de calcário
+
+#txt_road8_dscr
+Uma estrada cara feita de grandes blocos brancos da calcário
+
+#txt_road9_n
+Estrada de arenito
+
+#txt_road9_dscr
+Uma estrada cara feita de grandes blocos do arenito.
+
+#txt_fence1_n
+Cerca de madeira
+
+#txt_fence1_dscr
+Cercas rústicas feitas da madeira.
+
+#txt_fence2_n
+Cerca extravagante
+
+#txt_fence2_dscr
+Cercas decorativas dignas de jardins e avenidas.
+
+#txt_fence3_n
+Cerca de pedra
+
+#txt_fence3_dscr
+Cercas rústicas feitas de pedra.
+
+#txt_garden1_n
+Jardins de flores
+
+#txt_garden1_dscr
+Jardins decorativos com flores.
+
+#txt_garden2_n
+Jardins de árvores
+
+#txt_garden2_dscr
+Jardins decorativos com árvores.
+
+#txt_grass_n
+Gramado
+
+#txt_grass_dscr
+Uma área de solo coberta com grama cuidadosamente mantida para fins estéticos e recreativos.
+
+#txt_flowerbed_n
+Canteiro
+
+#txt_flowerbed_dscr
+Um canteiro de flores para decoração.
+
+#txt_woodc_n
+Lenhador
+
+#txt_woodc_dscr
+Os lenhadores podem explorar a maioria das árvores da região disponíveis em seu alcance para produzir madeira.
+
+#txt_merchant_n
+Comerciante
+
+#txt_merchant_dscr
+Distribuidores especializados que disponibilizem um recurso selecionável para a população.
+
+#txt_mine_n
+Campo de mineração
+
+#txt_mine_dscr
+Podem explorar os terrenos com depósitos especiais para produzir uma ampla gama de matérias-primas, especialmente através da exploração de seus anexos, quando disponível.
+
+#txt_mineshaft_n
+Poço de mineração
+
+#txt_mineshaft_dscr
+Anexo essencial do campo de mineração. Os poços de mineração aumentam a produção do campo de mineração a que pertencem. Deve ser construído sobre terrenos com depósitos válidos.
+
+#txt_paddock_n
+Cercado
+
+#txt_paddock_dscr
+Os cercados permitem estocar recursos pecuários.
+
+#txt_elephantpen_n
+Recinto de elefantes
+
+#txt_elephantpen_dscr
+Os recintos de elefantes permitem a criação de únicos grandes animais tais como os elefantes.
+
+#txt_potter_n
+Oleiro
+
+#txt_potter_dscr
+Os oleiros refinam a argila em cerâmica. A cerâmica é um recurso distribuível suprindo as necessidades da população por mobiliários.
+
+#txt_stonecut_n
+Acampamento de pedreiros
+
+#txt_stonecut_dscr
+Pode explorar o terreno rochoso em seu alcance para produzir pedra bruta ou construir anexos da pedreiras para produzir blocos de pedra ou blocos especializados conforme o terreno explorado.
+
+#txt_quarry_n
+Pedreiras
+
+#txt_quarry_dscr
+Anexo essencial do acampamento de pedreiros, pedreiras podem produzir blocos de pedra ou blocos especiais sobre tipo distintos de rocha.
+
+#txt_sawmill_n
+Serralheria
+
+#txt_sawmill_dscr
+A serralheria refina madeira bruta em tábuas de madeira, um material necessário para construir muitos edifícios.
+
+#txt_tannery_n
+Curtume
+
+#txt_tannery_dscr
+Os curtumes refinam o couro em pano de couro, um recurso distribuível que supre as necessidades da população por roupas.
+
+#txt_toolmk_n
+Fabricante de ferramentas
+
+#txt_toolmk_dscr
+Os fabricantes de ferramentas produzem diferentes tipos de ferramentas. As ferramentas são usadas para muitas coisas, especialmente como um material de construção.
+
+#txt_items_n
+Itens
+
+#txt_items_dscr
+Estes recursos estão abandonados no chão e deteriorarão com o tempo a menos que forem armazenados rapidamente em um armazenamento apropriado!
+
+#txt_storegrnd_n
+Armazém no solo 
+
+#txt_storegrnd_dscr
+Terra marcada como uma área de armazenamento. É grátis, mas desprotegida e não tem uma capacidade de armazenamento alta por únidade. 
+
+#txt_warehouse_n
+Armazém
+
+#txt_warehouse_dscr
+Os armazéns podem armazenar todos os tipos de materiais básicos. São vigiados e podem armazenar muito mais recursos do que armazéns no solo.
+
+#txt_weapmk_n
+Fabricante de armas
+
+#txt_weapmk_dscr
+Os fabricantes de armas podem produzir uma grande variedade de armas e armaduras usadas para equipar e recrutar tropas.
+
+#txt_weaver_n
+Tecelão
+
+#txt_weaver_dscr
+O tecelão refina diferentes matérias primas (algodão, linho, lã e etc) em tecidos. Tecidos podem ser usados para várias coisas, como confecção de roupas.
+
+#txt_stairs1_n
+Escadas de madeira
+
+#txt_stairs1_dscr
+Escadas que podem ser colocadas contra penhascos ou paredes de qualquer altura para permitir a passagem.
+
+#txt_stairs2_n
+Escadas de pedra
+
+#txt_stairs2_dscr
+Escadas que podem ser colocadas contra penhascos ou paredes de qualquer altura para permitir a passagem.
+
+#txt_gate1_n
+Portão de madeira
+
+#txt_gate1_dscr
+Um portão de madeira barato.
+
+#txt_gate2_n
+Portão forte
+
+#txt_gate2_dscr
+Um portão forte feito de madeira unida por bronze.
+
+#txt_gate3_n
+Portão Reforçado
+
+#txt_gate3_dscr
+Um portão sólido reforçado com ferro.
+
+#txt_cattle_n
+Fazenda de gado
+
+#txt_cattle_dscr
+As fazendas de gado permitem criar pastos que produzem gado.
+
+#txt_pastr_n
+Pastos
+
+#txt_pastr_dscr
+Uma área fechada de terra onde o gado pode se alimentar e se reproduzir.
+
+#txt_pastrw_n
+Pasto para lã
+
+#txt_pastrw_dscr
+Pastos que produzem animais com lã, que são regularmente tosquiados para recolher a lã.
+
+#txt_builder_n
+Construtores
+
+#txt_builder_dscr
+Muitos edifícios só podem ser construídos por equipes profissionais de construtores.
+
+#txt_butcher_n
+Açougueiro
+
+#txt_butcher_dscr
+Abatem animais para produzir carne fresca e subprodutos.
+
+#txt_well_n
+Poço de água
+
+#txt_well_dscr
+Extrai a água do solo.
+
+#txt_watercol_n
+Coletor de água 
+
+#txt_watercol_dscr
+Um ponto onde as pessoas podem coletar água doce de rios ou lagos.
+
+#txt_landock_n
+Docas terrestres
+
+#txt_landock_dscr
+Docas para caravanas terrestres, transportam mercadorias através dos territórios e precisam de rotas de comércio para operar.
+
+#txt_dock_n
+Docas
+
+#txt_dock_dscr
+Docas para navios comerciais, transportam mercadorias através dos territórios e precisam de rotas de comércio para operar.
+
+#txt_theater_n
+Teatro
+
+#txt_theater_dscr
+Fornecem entretenimento para os Porcos.
+
+#txt_baths_n
+Banhos públicos
+
+#txt_baths_dscr
+Um local de encontro e relaxamento social que também proporciona melhora na saúde.
+
+#txt_tavern_n
+Taberna
+
+#txt_tavern_dscr
+Um lugar de encontro social para beber e festejar.
+
+#txt_forum_n
+Fórum
+
+#txt_forum_dscr
+Um local de encontro social para discutir assuntos da comunidade.
+
+#txt_furnmkr_n
+Fabricante de móveis
+
+#txt_furnmkr_dscr
+Produz móveis, um recurso distribuivel que supre as necessidades da população por móveis.
+
+#txt_carpetmkr_n
+Fabricante de tapete
+
+#txt_carpetmkr_dscr
+Produz tapetes, um recurso distribuivel que supre as necessidades da população por móveis
+
+#txt_mudcamp_n
+Mineiro de solo
+
+#txt_mudcamp_dscr
+Uma mina simples onde os trabalhadores coletam e reúnem tipos de solo exploráveis, tais como lama, turfa ou cinzas
+
+#txt_brickwk_n
+Fabricante de tijolos
+
+#txt_brickwk_dscr
+Produz tijolos, um material básico de construção.
+
+#txt_kiln_n
+Forno
+
+#txt_kiln_dscr
+Produz diferentes materiais de construção.
+
+#txt_fundry_n
+Fundição
+
+#txt_fundry_dscr
+Refina minérios metálicos em lingotes.
+
+#txt_steel_n
+Steel mill
+
+#txt_steel_dscr1
+Produz aço por carburação de ferro forjado por metarlugicas.
+
+#txt_steel_dscr2
+Produz aço por descarbonetação do ferro fundido por fusão.
+
+#txt_charcl_n
+Carvoaria
+
+#txt_charcl_dscr
+Carboniza a madeira em carvão.
+
+#txt_archtct_n
+Arquitetura
+
+#txt_archtct_dscr
+Produz os planos de construção, necessários para monumentos importantes.
+
+#txt_windwheel_n
+Roda de vento
+
+#txt_windwheel_dscr
+Fornece energia mecânica ao edifício, melhorando sua eficiência.
+
+#txt_waterwheel_n
+Roda d'água
+
+#txt_waterwheel_dscr
+Fornece energia mecânica ao edifício, melhorando sua eficiência.
+
+#txt_wash_n
+Lavanderia
+
+#txt_wash_dscr
+Um lugar onde as pessoas podem vir lavar suas roupas.
+
+#txt_taxcol_n
+Coletor de impostos
+
+#txt_taxcol_dscr
+Reduz a sonegação, garantindo que a população pague corretamente seus impostos.
+
+#txt_scrib_n
+Escriba
+
+#txt_scrib_dscr
+Escribas a serviço do Estado ajudam a acompanhar questões administrativas.
+
+#txt_eldcounc_n
+Conselho dos anciãos
+
+#txt_eldcounc_dscr
+Um conselho de anciãos para resolver conflitos na cidade.
+
+#txt_magistrt_n
+Magistrado
+
+#txt_magistrt_dscr
+Reduz o conflito na população.
+
+#txt_school_n
+Escola
+
+#txt_school_dscr
+A escola aumenta a inteligência da população.
+
+#txt_winery_n
+Adega
+
+#txt_winery_dscr
+Produz vinho a partir de uvas.
+
+#txt_oilpress_n
+Prensa de olivas
+
+#txt_oilpress_dscr
+Produz azeite de olivas.
+
+#txt_bakery_n
+Padeiro
+
+#txt_bakery_dscr
+Faz pão da farinha.
+
+#txt_mill_n
+Moinho
+
+#txt_mill_dscr
+Esmaga cereais para produzir farinha, mais fácil de armazenar e usado para fazer pão.
+
+#txt_libr_n
+Biblioteca
+
+#txt_libr_dscr
+Armazena conhecimentos.
+
+#txt_eldrcncl_n
+Conselho Tribal
+
+#txt_eldrcncl_dscr
+Um conselho de líderes de famílias que tentam resolver conflitos entre a tribo e fornece uma forma inicial de lei.
+
+#txt_magistr_n
+Tribunal
+
+#txt_magistr_dscr
+Um edifício fornece o serviço de Justiça à população, reduzindo o conflito.
+
+#txt_paper_n
+Moinho de papel
+
+#txt_paper_dscr
+Produz papel
+
+#txt_rum_n
+Fabrica de rum
+
+#txt_rum_dscr
+Uma destilaria que produz rum de cana de açucar.
+
+#txt_trmarket_n
+Mercado
+
+#txt_trmarket_dscr
+Permite criar ofertas comerciais para trocar mercadorias com outros territórios.
+
+#txt_academ_n
+Academia
+
+#txt_acedem_dscr
+Porcos sábios e estudiosos que estudam ciências e artes, aumentando a educação e a cultura e contribuindo para projetos de pesquisa.
+
+#txt_doctor_n
+Médico
+
+#txt_doctor_dscr
+Aumenta a saúde da população.
+
+#txt_ftower1
+Torre primitiva
+
+#txt_ftower1_dscr
+Uma torre defensiva primitiva feita de madeira. Dispara dardos.
+
+#txt_wall1_n
+Paliçada
+
+#txt_wall1_dscr
+Um muro defensivo simples feito de vigas de madeiras.
+
+#txt_wall2_n
+Parede de tijolos de barro
+
+#txt_wall2_dscr
+Um simples muro defensivo feito de tijolos de barro, mais fraco mas mais barato de manter do que uma paliçada.
+
+#txt_wall3_n
+Muro de pedras arredondada
+
+#txt_wall3_dscr
+Um simples muro defensivo feito de pedras de calçada unidas com alvenaria grosseira.
+
+#txt_wall4_n
+Parede de tijolo
+
+#txt_wall4_dscr
+Um simples muro defensivo feito de tijolos queimados, mais forte que os tijolos de barro.
+
+#txt_wall5_n
+Parede do bloco de pedra
+
+#txt_wall5_dscr
+Um muro defensivo sólido feito de blocos de pedra.

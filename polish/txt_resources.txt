@@ -59,7 +59,7 @@ Piły
 Kilofy
 
 #r_hoes
-Podkowy
+Motyki
 
 #r_ploughs
 Pługi
@@ -407,7 +407,7 @@ Plany
 Pobór podatków
 
 #r_cmnty
-Społeczność
+Społeczne
 
 #r_tavern
 Tawerna
@@ -467,7 +467,25 @@ Topille
 Macany
 
 #r_library
-Biblioteka
+Książki
 
 #r_dates
 Daktyle
+
+#r_prisoners
+Więźniowie
+
+#r_bacon
+Bekon
+
+#r_shells
+Muszle
+
+#r_pearls
+Perły
+
+#r_shelljewelry
+Ozdoby
+
+#r_jewelry
+Biżuteria
