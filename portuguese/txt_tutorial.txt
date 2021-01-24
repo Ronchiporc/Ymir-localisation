@@ -1,1239 +1,1240 @@
 #tuto_launch_1
-Welcome to Ymir! It looks like it's the first time you're launching this game. 
+Bem-vindo ao Ymir! Parece que é a primeira vez que você está lançando este jogo.
 
 #tuto_launch_2
-This is a complex game: if you're not familiar with it yet, it's strongly advised to start by completing the beginner's tutorial in a solo game to learn the basics. Howerver if you already know the game, you can choose to disable all tutorials right now.
+Este é um jogo complexo: se você não está familiarizado com ele, no entanto, é fortemente aconselhado a começar por completar tutorial para iniciantes em um jogo de solo para aprender o básico. Contudo se você já conhece o jogo, você pode optar por desativar todos os tutoriais agora.
 
 #tuto_create_1
-This is where you setup and start a new game. There is 2 main game modes: persistent and realtime. If you're playing alone or with a few friends, its best to leave it to 'realtime'.
+Isto é onde você configurar e começar um novo jogo. Há 2 principais modos de jogo: persistente e em tempo real. Se você estiver jogando sozinho ou com alguns amigos, o melhor é deixá-lo para 'tempo real'.
 
 #tuto_lnchgame_1
-You are starting your first own game! This is a client-server game: even if you are playing solo, starting a new game will auto-launch a separated server and auto-connect you to it. For others to be able to join this game, you MUST make sure to forward the port used by your server properly (14804 by default). If the server auto-launch fails, you will have to manually start the server from the game folder using server.bat, and then connect to it with "join game".
+Você está começando seu primeiro jogo próprios! Este é um jogo cliente-servidor: mesmo se você estiver jogando sozinho, iniciar um novo jogo vai auto-lançar um servidor separado e auto-conectá-lo a ele. Para outros para ser capaz de participar deste jogo, você deve certificar-se de transmitir a porta utilizada pelo seu servidor corretamente (14804 por padrão). Se o servidor de auto-lançamento falhar, você terá que iniciar manualmente o servidor da pasta do jogo usando server.bat, e depois conectar a ele com "join jogo".
 
 #tuto_char_1
-This is where you create your character. You can design and name it, as well as your government's name and flag. 
+Isto é onde você cria seu personagem. Você pode projetar e nomea-lo, bem como o nome e a bandeira do seu governo.
 
 #tuto_char_2
-You have to choose among a list of different starting types, the default one for a new game being the "primitive tribe".
+Você tem que escolher entre uma lista de diferentes tipos de partida, o padrão para um novo jogo sendo a "tribo primitiva".
 
 #tuto_char_3
-In multiplayer, you may as well specify the name of a friend's character to spawn as close to him as possibe but to do so you will need his 'Invite code' as well.
+No modo multiplayer, assim como você pode especificar o nome do personagem de um amigo para desovar o mais próximo a ele como possível mas para isso você terá o seu 'Convidar código' também.
 
 #tuto_char_4
-Be careful: once you create a character -especially in persistent multiplayer games- you are not allowed to recreate a new one right away if you mess up! You will have to wait for a period of up to several days before you're allowed to try again in that same game. 
+Tenha cuidado: uma vez que você criar um personagem -especialmente no multiplayer persistente jogos-você não tem permissão para recriar uma nova imediatamente se você fracassar! Você vai ter que esperar por um período de até vários dias antes que você estár autorizado a tentar novamente no mesmo jogo.
 
 #tuto_warnjoin_1
-You have not completed the starting tutorial yet: It is strongly advised to do so before attempting to join any persistent multiplayer game.
+Você não tiver concluído o tutorial da partida ainda: Recomenda-se vivamente a fazê-lo antes de tentar participar de qualquer jogo multiplayer persistente.
 
 #tuto_warnjoin_2
-Multiplayer persistent games are unforgiving! Starting conditions can be much more complex, and if you fail you will not be allowed to immediately restart a new character as respawning is limited by a period of cool off up to several days. Learn the basics first so you don't mess up right away and lose you chance!
+Multiplayer jogos persistentes são implacáveis! condições de partida pode ser muito mais complexa, e você não terá permissão para reiniciar imediatamente com um novo personagem como respawning é limitado por um período de tempo a vários dias. Aprenda os conceitos básicos primeiro, para que você não mexa-se imediatamente e perder chance!
 
 #tuto_join_1
-This is where you join existing games. 
+Isto é onde você participar de jogos existentes. 
 
 #tuto_join_2
-If you need to rejoin your own local game, go to "Direct IP" and connect to "localhost" port 14804. 
+você precisa para tornar a unir seu próprio local do jogo, vá para o "IP direto" e se conectar a "localhost" porta 14804. 
 
 #tuto_join_3
-If you want to join multiplayer games you have the choice between persistent (24/7 games that last months) and realtime games (faster games to play with friends).
+Se você quer se juntar jogos multiplayer você tem a escolha entre persistentes (24/7 jogos que duram meses) e jogos em tempo real (jogos mais rápidos para jogar com amigos).
 
 #tuto_persist_1
-You have joined your first peristent multiplayer game! In this game mode, things go MUCH slower than in realtime mode, and be careful: no room for mistakes here! You have to deal with whatever start you've been given and second chances are expensive as you will have to wait days before being able to retry with a new character if you lose this one.
+Você se juntou o seu primeiro jogo multiplayer peristent! Neste modo de jogo, as coisas vão muito mais lento do que no modo em tempo real, e ter cuidado: não há espaço para erros aqui! Você tem que lidar com o que quer começar, segundo chances são caros como você vai ter que esperar dias antes de poder tentar novamente com um novo personagem se você perder este.
 
 #tuto_0_1
-Greetings newpig! I am Sagacious Pig your tutorial assistant. 
+Saudações leitão! Sou Porco Sagacious seu assistente de tutorial.
 
 #tuto_0_2
-I'm here to guide you through the first steps of the game and explain how things work.
+Estou aqui para guiá-lo através dos primeiros passos do jogo e explicar como as coisas funcionam.
 
 #tuto_0_c1
-Tell me more!--1
+Conte-me mais --1
 
 #tuto_0_c2
-I wanted to do the tutorial but now that i see your ugly face i'd rather skip it.--82
+Eu queria fazer o tutorial mas agora que eu vejo sua cara feia eu prefiro ignorá-lo .--82
 
 #tuto_1_1
-You are currently in the world map. Each tile is a 'territory' you can explore and colonize. 
+Você está atualmente no mapa do mundo. Cada peça é um 'território' que você pode explorar e colonizar.
 
 #tuto_1_2
-At the start, most of the map is unexplored except the few territories around your tribe.
+No início, a maior parte do mapa é inexplorado, exceto os poucos territórios ao redor sua tribo.
 
 #tuto_1_c1
-Very well... so what now ?--2--1
+Muito bem ... então o que agora? --2--1
 
 #tuto_2_1
-This is a mission event. You will sometimes get missions you can complete to unlock rewards. Here, your first task is simply to settle your tribe in your first territory.
+Este é um evento missão. Às vezes você terá missões que você pode concluir para destravar recompensas. Aqui, sua primeira tarefa é simplesmente para estabelecer a sua tribo em seu primeir território.
 
 #tuto_2_c1
-Yes... yes... Let us begin then!--3--2
+Sim ... sim ... Vamos começar então ! --3--2
 
 #tuto_3_1
-Events will appear  as flags on top of the screen and you can also review them all by clicking this button next to the flags.
+Eventos aparecerá como bandeiras no topo da tela e você também pode rever todos eles clicando neste botão ao lado das bandeiras.
 
 #tuto_3_c1
-Thank you mister Pig, shall we continue ?--4--3
+Obrigado Senhor Porco, vamos continuar ? --4--3
 
 #tuto_4_1
-You start with a single group of units (a 'formation') that is the primitive tribe of nomads you currently control.  Clic on it to select it.
+Você começa com um único grupo de unidades (a 'formação'), que é a tribo primitiva de nômades que você controla atualmente. Click nele para selecioná-lo.
 
 #tuto_5_1
-On the bottom left is the formation menu of your formation. It shows details such as the list of units in this formation and their inventory. 
+No canto inferior esquerdo é o menu de formação de sua formação. Ele mostra detalhes tais como a lista de unidades neste formação e seu inventário.
 
 #tuto_5_2
-Your tribe is currently camping in a territory with proper resources to start the game. This should be a safe place to establish your first settlement: on their formation menu, clic the 'orders' button.
+Sua tribo está acampando em um território com recursos adequados para iniciar o jogo. Este deve ser um lugar seguro para estabelecer o seu primeiro assentamento: em seu cardápio formação, cliquem no botão 'ordens'.
 
 #tuto_6_1
-Select the mission "Settle", leave all the options by default, and validate to order your whole tribe to settle in this territory. Its units and inventory will be unloaded in the territory which will now be under your control and the formation itself will disapear.
+Selecione a missão "estabelecer", deixar todas as opções por padrão, e validar a ordem toda a sua tribo para estabelecer neste território. Suas unidades e inventário será descarregados no território que agora estará sob seu controle e a formação em si desaparecerá.
 
 #tuto_7_1
-The territory selector shows the name of your  currently selected territory. On it's left is a round button that allows you to go into the territory.
+O seletor território mostra o nome do seu território selecionado. Por isso resta é um botão redondo que lhe permite entrar no território.
 
 #tuto_7_2
-With your newly settled territory selected, clic that button to go into your territory.
+Com o seu território recém-estabelecida selecionado, cliquem o botão para entrar em seu território.
 
 #tuto_8_1
-This is the territory you have settled and now control. In the middle of it is the camp your tribe has set with tents and with all their resources now unloaded onto the ground.
+Este é o território que você estabeleceu e agora controla. No meio dela está o acampamento que sua tribo estabeleceu com tendas e com todos os seus recursos agora descarregados no chão.
 
 #tuto_8_c1
-Very well.--9--7
+Muito bem .--9--7
 
 #tuto_9_1
-You have now completed your first mission and unlocked it's rewards.
+Você acabou de completar sua primeira missão e desbloqueado a recompensas.
 
 #tuto_9_2
-Your next mission is now to provide fresh water for your tribe.
+Sua próxima missão é agora para fornecer água fresca para sua tribo.
 
 #tuto_9_c1
-I am thrilled by the complexity of these missions, lets get on with it!--10
+Estou emocionado com a complexidade destas missões, vamos começar com ele! --10
 
 #tuto_10_1
-To sustain themselves, your porcos need food and water or they will quickly die. They were carrying a bit of food with them, but no water : the first urgent thing to do is to setup a water collection point on the shore a fresh water point.
+Para se sustentar, seus Porcos precisam de comida e água ou eles vão morrer rapidamente. Eles estavam levando um pouco de comida com eles, mas não há água: a primeira coisa urgente a fazer é configurar um ponto de recolha de água na margem de um ponto de água doce.
 
 #tuto_10_c1
-How do i do that ?--11--8
+Como eu faço isso? --11--8
 
 #tuto_11_1
-This is the building tab of the territory, where you can see all your currently available buildings and order their construction in this territory.
+Este é o guia de construção do território, onde você pode ver todos os seus edifícios atualmente disponíveis e ordenar a suas construção neste território.
 
 #tuto_11_2
-In the first "housing" building tab, select the "Water collector" building. 
+No primeiro guia de "habitação", selecione o edifício "coletor de água". 
 
 #tuto_12_1
-This building is free and does not require any workers: it simply represents a spot on the shore cleared and levelled to allow your porcos easy access to fresh water: they will get it themselves as they need it. Try to place it next to tiles of water:  it needs to have one edge adjascent to water to work.
+Este edifício é gratuito e não requer quaisquer trabalhadores: ele simplesmente representa um ponto na costa limpo e nivelado para permitir que seus Porcos fácil acesso à água potável: eles vão obtê-lo a si mesmos como eles precisam. Tente colocá-lo ao lado de telhas de água: ele precisa ter um adjacente borda à água para trabalhar.
 
 #tuto_13_1
-Now that your porcos need for water is satisifed, they need sustainable sources of food as their stocks will run out soon. 
+Agora que necessidade de água foi satisfeita, eles precisam de fontes sustentáveis ​​de alimentos como seus estoques irão acabar em breve. 
 
 #tuto_13_c1
-Food please!--14--10
+Alimentos por favor --14--10
 
 #tuto_14_1
-There is 2 kinds of natural sources of foods : edible plants and spots of wild animals. The first one can be exploited by the Farm building and the latter by the Hunter.
+Há 2 tipos de fontes naturais de alimentos: plantas comestíveis e grupos de animais selvagens. A primeira pode ser explorada pelo edifício Fazenda eo último pela Caçador.
 
 #tuto_14_2
-Farms and Hunters are buildings that exploit natural resources. They need to be placed near valid resources. Now, start by trying to place a hunter.
+Fazendas e Caçadores são edifícios que exploram recursos naturais. Eles precisam ser colocados perto de recursos válidos. Agora, começar por tentar colocar um caçador.
 
 #tuto_15_1
-When you are placing a building that exploits natural resources, an area of tiles appears highlighted around it: it's the production range of the building.  
+Quando você está colocando um edifício que explora os recursos naturais, uma área de telhas aparece destacada em torno dele: é a gama de produção do edifício.  
 
 #tuto_15_2
-Grey and Red tiles means there's nothing exploitable: you need to look fot the tiles that are highlighted in GREEN, indicating a valid exploitable resource for the building.
+Cinzenta e telhas vermelhas significa que não há nada explorável: você precisa olhar os azulejos que são destacadas em verde, indicando um recurso explorável válido para o edifício.
 
 #tuto_15_3
-Scan the territory with the building selected to look for a valid spot to place it.
+Digitalizar o território com a construção selecionada para procurar um local válido para colocá-lo.
 
 #tuto_15_c1
-How do i recognize exploitable animals ?--16
+Como faço para reconhecer os animais exploráveis ​​? --16
 
 #tuto_15_c2
-How do i recognize edible plants ?--18
+Como faço para reconhecer plantas comestíveis ? --18
 
 #tuto_16_1
-A natural spot of wild animals is a single tile that will appear green when placing a Hunter. It has a few visible animals walking wandering around it. One hunter is enough as it's only a single tile.
+Um ponto natural de animais selvagens é uma única peça que irá aparecer em verde quando a colocação de um Caçador. Tem alguns animais visíveis andam vagando em torno dele. Um caçador é suficiente, pois é apenas uma única telha.
 
 #tuto_16_c1
-Got it.--15
+Entendi .--15
 
 #tuto_16_c2
-I see animals but the Hunter doesnt seem to be able to exploit them.--17
+Vejo animais, mas o Caçador não parece ser capaz de explorá-los .--17
 
 #tuto_17_1
-Sometimes animals are present in a territory as a 'herd'. Herds are depletable and temporary groups of animals and they cannot be hunted in a permanent and sustainable way through a Hunter building: you will need to manually hunt them with units. Ignore them for now.
+Às vezes, os animais estão presentes em um território como um 'rebanho'. Rebanhos são grupos esgotáveis ​​e temporárias de animais e eles não podem ser caçados de forma permanente e sustentável através de um edifício Caçador: você terá que caçá-los manualmente com unidades. Ignore-os por enquanto.
 
 #tuto_17_c1
-Very well...--15
+Muito bem ...--15
 
 #tuto_18_1
-Spots of edible plants are usually large patches of similar looking plants or trees. If the patch is large, you may place several Farms around it to fully exploit it.
+Manchas de plantas comestíveis são geralmente grandes manchas de plantas de aparência semelhante ou árvores. Se o patch for grande, você pode colocar várias fazendas em torno dele para explorá-la totalmente.
 
 #tuto_18_c1
-Very well.--15
+Muito bem .--15
 
 #tuto_19_1
-You have now started satisfying the 2 urgent needs of your tribe of water and food. These 2 needs combined form something called the "Vital needs".
+Você já começou a satisfazer as 2 necessidades urgentes de sua tribo de água e comida. Estes 2 necessidades combinadas forma algo chamado as "necessidades vitais".
 
 #tuto_19_2
-When the Vital needs are not fully satisfied, it means some of your Porcos are suffering from malnutrition and dying.
+Quando as necessidades vitais não estão totalmente satisfeitos, isso significa que alguns de seus Porcos estão sofrendo de desnutrição e morte.
 
 #tuto_19_c1
-Good to know.--20--13
+É bom saber .--20--13
 
 #tuto_20_1
-This button opens an important menu: the "Territory menu". 
+Este botão abre uma importante menu: o menu "Território". 
 
 #tuto_20_2
-It shows everything you need to know about the territory you are in, allowing you to check it's situation and to diagnose it's problems. Clic to open it.
+Ela mostra tudo o que você precisa saber sobre o território em que está, permitindo verificar a situação e diagnosticar o problemas. Click para abri-lo.
 
 #tuto_21_1
-This menu has a lot of informations combined in it. The top half is a global summary of the territory with all it's important stats in a single space.
+Este menu tem muitas informações combinadas. A metade superior é um resumo global do território com todas as estatísticas importantes em um único espaço.
 
 #tuto_21_2
-The lower half of the menu is a set of tabs, each one giving you more in-depth details about a specific territory stat: economy, growth, administration...
+A metade inferior do menu é um conjunto de guias, cada um dando-lhe mais detalhes em profundidade sobre uma estatística específica território: economia, o crescimento, a administração ...
 
 #tuto_21_c1
-Ok!--22
+Ok --22
 
 #tuto_22_1
-This is the important part to look for now : the global vital needs of your populaiton that i mentionned earlier. 
+Esta é a parte importante procurar agora: as necessidades vitais globais da sua populaiton que é mencionada anteriormente. 
 
 #tuto_22_2
-It needs to remains more or less above 70%: meaning most people in your tribe have enough food and water not to starve to death. It's an important value you will always have to monitor.
+Ele precisa permanece mais ou menos acima de 70%: o que significa que a maioria das pessoas na sua tribo têm comida suficiente e água para não morrer de fome. É um valor importante você sempre tem que monitorar.
 
 #tuto_22_c1
-Very well.--23--15
+Muito bem .--23--15
 
 #tuto_23_1
-Just below it is the territory's Growth: the current variation of your population. This is what you will be looking for the most in early game.
+Logo abaixo é do Crescimento do território: a variação atual de sua população. Isto é o que você vai estar à procura de mais cedo no jogo.
 
 #tuto_23_2
-Positive growth means your population is increasing and you will get new active Porcos you can employ in buildings. 
+crescimento positivo significa que a sua população está aumentando e você vai ter nova Porcos ativo você pode empregar em edifícios. 
 
 #tuto_23_3
-Satisfied Vital Needs is essential to maintain a positive growth, but it's not the only factor influencing it.
+Necessidades vitais satisfeito é essencial para manter um crescimento positivo, mas não é o único fator que influencia.
 
 #tuto_23_c1
-Got it.--26--16
+Entendi .--26--16
 
 #tuto_23_c2
-What are the factors influencing Growth?--24
+Quais são os fatores que influenciam o crescimento ? --24
 
 #tuto_23_c3
-How do I improve Growth?--25
+Como posso melhorar Crescimento ? --25
 
 #tuto_24_1
-You can clic on the "Growth" tab to access details about the global Growth of your population. Growth is the result of 2 main factors: the will of population to have children and their survival. 
+Você pode cliquem na guia "Crescimento" para acessar detalhes sobre o crescimento global da sua população. O crescimento é o resultado de 2 fatores principais: a vontade da população de ter filhos e sua sobrevivência.
 
 #tuto_24_2
-The will to have children is detailed in the right side column and is affected mostly by the Life Quality of the population.
+A vontade de ter filhos é detalhado na coluna do lado direito e é afetada principalmente pela qualidade de vida da população.
 
 #tuto_24_3
-The survival of piglets into adulthood is affected mostly by the global Health of your population.
+A sobrevivência dos leitões em idade adulta é afetada principalmente pela saúde global da sua população.
 
 #tuto_24_c1
-Got it.--26--16
+Entendi .--26--16
 
 #tuto_24_c2
-So how do I improve it?--25
+Então, como posso melhorá-lo ? --25
 
 #tuto_25_1
-First make sure your Vital Needs are satisfied. Then you will want to improve global Health and Life Quality as much as possible.
+Primeiro certifique-se suas necessidades vitais estão satisfeitos. Então você vai querer para melhorar a saúde global e Qualidade de Vida, tanto quanto possível.
 
 #tuto_25_2
-Provide good dwellings for your population, diversified food and generally try to fill the maximum of your population's needs!
+Proporcionar boas moradias para a sua população, comida diversificada e geralmente tentam preencher o máximo de necessidades da sua população!
 
 #tuto_25_c1
-Got it.--26--16
+Entendi .--26--16
 
 #tuto_26_1
-This is your current population. It's divided into groups of "Social Classes", each one represented by one button.
+Esta é a sua população atual. É dividido em grupos de "classes sociais", cada um representado por um botão.
 
 #tuto_26_2
-"Inactives" is the default class of currently jobless adult Porcos available to work in new buildings. Once a porco starts working in a building, he converts to the social class the building employs.
+"Inactivos" é a classe padrão de Porcos adultos atualmente desempregados disponível para trabalhar em novos edifícios. Uma vez que um porco começa a trabalhar em um prédio, ele converte a classe social do edifício emprega.
 
 #tuto_26_c1
-Understood. Now what ?--27
+Entendido. Agora, o que ? --27
 
 #tuto_27_1
-Before building new production buildings, you will want to check that you have enough inactives to work in them.
+Antes de construir novos edifícios de produção, você vai querer verificar que você tem inativos suficientes para trabalhar neles.
 
 #tuto_27_2
-You should still have a decent amount of Inactive Porcos available: let's keep them busy and move on the next mission!
+Você ainda deve ter uma quantidade razoável de Inativo Porcos disponíveis: vamos mantê-los ocupados e passar a próxima missão!
 
 #tuto_27_c1
-I'm ready.--28--17
+Estou pronto .--28--17
 
 #tuto_28_1
-Building things require resources and one of the most commonly required one at first is Hammers, made from Flints.
+Construir coisas exigem recursos e uma das mais comumente necessário um em primeiro lugar é Martelos, feitos de Pederneiras.
 
 #tuto_28_2
-You must now produce your first Hammers as your stocks will soon run out as you build. 
+Agora você deve produzir o seu primeiro Martelos como suas ações acabará em breve como você construir. 
 
 #tuto_28_c1
-Ok.--29--18
+Ok .--29--18
 
 #tuto_29_1
-Hammers will be your first 'industrial product': a resource that is crafted from other resources.
+Martelos será o seu primeiro 'produto industrial': um recurso que é trabalhada a partir de outros recursos.
 
 #tuto_29_2
-Hammers require flints -a natural resource- which you can produce with the Flint collector.
+Martelos exigem pedras -a em recursos naturais que você pode produzir com o coletor de Flint.
 
 #tuto_29_3
-Start by building a Flint collector in a valid location, near any gravely looking ground tiles.
+Comece por construir um coletor Flint em um local válido, perto de quaisquer telhas terra com cascalho.
 
 #tuto_30_1
-Very well! Now you can build the Tool maker.
+Muito bem! Agora você pode construir a fabricante de ferramentas.
 
 #tuto_30_2
-Unlike natural producers, industries can be placed anywhere for they do not exploit any natural resource: they combine existing ones.
+Ao contrário de produtores naturais, indústrias pode ser colocado em qualquer lugar por que eles não explorar qualquer recurso natural: eles combinam os já existentes.
 
 #tuto_31_1
-Great, you are now producing your first Hammers!
+Ótimo, você está agora a produzir o seu primeiro Martelos!
 
 #tuto_31_2
-Hammers are your first type of tool. Later, you will unlock new tools which will also be required by many constructions.
+Martelos são o seu primeiro tipo de ferramenta. Mais tarde, você vai desbloquear novas ferramentas que também serão exigidas por muitas construções.
 
 #tuto_31_3
-Unlike resources like foods, tools are not consummed by the population to satisfy their needs: it's player-used only.
+Ao contrário dos recursos, como alimentos, ferramentas não são consumido pela população para satisfazer as suas necessidades: é utilizado pelo Jogador.
 
 #tuto_31_c1
-Ok.--32--21
+Ok .--32--21
 
 #tuto_32_1
-This is the resource tab of your territory: it lists all the resources produced and currently in the territory's storages. This is also where you can trade,buy,sell ot transport resources between territories later on.
+Este é o guia de recursos do seu território: ele lista todos os recursos produzidos e atualmente em armazéns do território. Esta é também onde você pode trocar, comprar, vender recursos de transporte entre os territórios mais tarde.
 
 #tuto_32_2
-Clic to open the tab.
+Click para abrir a guia.
 
 #tuto_33_1
-Each button shows you one type of resource currently stored or produced in the territory. On each button you can see the amount stocked, a sign indicating it's current variation, and it's local price.
+Cada botão mostra um tipo de recurso atualmente armazenados ou produzidos no território. Em cada botão, você pode ver a quantidade abastecida, um sinal indicando que é variação de circulação, e preço local.
 
 #tuto_33_2
-Now click on one of these buttons to open it's Resource Menu.
+Agora clique em um desses botões para abrir seu menu de recursos.
 
 #tuto_34_1
-The Resource Menu gives you all the details about a specific resource: production, consumption by population or industries, price...
+O menu de recursos dá-lhe todos os detalhes sobre um recurso específico: produção, consumo pela população ou indústrias, preço ...
 
 #tuto_34_c1
-Ok.--35--24
+Ok .--35--24
 
 #tuto_35_1
-It also gives you access to some resource-specific options. 
+Ele também lhe dá acesso a algumas opções específicas de recursos. 
 
 #tuto_35_2
-The first one is the storage policy: you can change the rules for storing this specific resource such as only allowing it in specific storages or forbidding it totally.
+A primeira é a política de armazenamento: você pode mudar as regras para armazenar este recurso específico, como permitindo apenas em armazéns específicos ou proibi-la totalmente.
 
 #tuto_35_c1
-Got it.--38--25
+Entendi .--38--25
 
 #tuto_35_c2
-What happens when there's no room to store things ?--36
+O que acontece quando não há espaço para guardar coisas ? --36
 
 #tuto_35_c3
-What is the "only in restricted" mode ?--37
+Qual é o modo "apenas no restrito" ? --37
 
 #tuto_36_1
-If there is no room available, resources will be placed directly on the floor where they will decay and eventually be lost unless quickly stored properly. 
+Se não houver espaço disponível, os recursos serão colocados diretamente no chão onde eles vão se deteriorar e, eventualmente, ser perdidos a menos que rapidamente armazenados corretamente. 
 
 #tuto_36_2
-Extra resources on the ground will auto-relocate to any valid storage if free space becomes available.
+recursos extras no chão vai automaticamente mudar para qualquer armazenamento válida se o espaço livre se torna disponível.
 
 #tuto_36_c1
-Got it.--38--25
+Entendi .--38--25
 
 #tuto_36_c2
-What is the "only in restricted" mode ?--37
+Qual é o modo "apenas no restrito" ? --37
 
 #tuto_37_1
-When you clic on a storage building, you can set it to "restricted" and control what resources are allowed in it. 
+Quando você cliquem em um edifício de armazenamento, você pode configurá-lo para "restrito" e controlar quais recursos são permitidos na mesma. 
 
 #tuto_37_2
-If you then set a resource storage policy to "only in restricted" in this menu, it will ONLY be allowed in storages that are in "restricted" mode AND that have been set to allow that specific resource. If there's no room the resources are destroyed.
+Se você, em seguida, definir uma política de armazenamento de recursos para "apenas no restrito" neste menu, ela só vai ser permitido em armazéns que estão no modo "restrito" e que foram definidos para permitir que esse recurso específico. Se não há espaço os recursos são destruídos.
 
 #tuto_37_c1
-Got it.--38--25
+Entendi .--38--25
 
 #tuto_37_c2
-What happens when there's no room to store things ?--36
+O que acontece quando não há espaço para guardar coisas ? --36
 
 #tuto_38_1
-The second one is the "Maintain stock" option: it allows you to ensure some of the produced resources will be saved to maintain a certain amount in stock, no matter what. Its really usefull to maintain stocks of foods for instance, regardless of the population's consumption.
+A segunda é a opção "Manter estoque": ele permite que você possa garantir alguns dos recursos produzidos serão Reservado para manter uma certa quantidade em estoque, não importa o quê. Sua realmente útil para manter estoques de alimentos, por exemplo, independentemente de consumo da população.
 
 #tuto_38_c1
-Good to know!--39--26
+É bom saber --39--26
 
 #tuto_39_1
-For now your only storage available is the "Ground storage": a free but inefficient storage of basic resources. It's just ground marked for storage of things. 
+Por agora o seu único armazenamento disponível é o "armazenamento de terra": armazenamento gratuito, mas ineficiente. É só solo marcada para o armazenamento de coisas.
 
 #tuto_39_2
-Later on you will unlock proper storage buildings that can store much more on a smaller surface.
+Mais tarde, você vai desbloquear edifícios de armazenamento adequadas que podem armazenar muito mais sobre uma superfície menor.
 
 #tuto_39_c1
-Very well.--40
+Muito bem .--40
 
 #tuto_40_1
-Not all resources can be stored anywhere: some specific categories of resources require specific storage types.
+Nem todos os recursos podem ser armazenados em qualquer lugar: algumas categorias específicas de recursos requerem tipos de armazenamento específicos.
 
 #tuto_40_2
-For example, foods like meat or wheat can only be stored in granaries and livestocks require Paddocks. For now though, you do not have access to these buildings.
+Por exemplo, alimentos como carne ou trigo só pode ser armazenado em celeiros e Pecuária exigem cercado. Por enquanto, você não tem acesso a esses edifícios.
 
 #tuto_40_c1
-Ok.--41--27
+Ok .--41--27
 
 #tuto_41_1
-Now to the next mission : start producing some Wood.
+Agora, para a próxima missão: começar a produzir algumas Madeira.
 
 #tuto_41_2
-Wood, like Hammers, is an essential material used for many constructions. It is also consummed by many industrial buildings to craft other products.
+Madeira, como martelos, é um material essencial usado para muitas construções. É também consumido por muitos edifícios industriais para elaborar outros produtos.
 
 #tuto_41_3
-Place a woodcutter near a dense area of trees to start producing some.
+Coloque um lenhador perto de uma área densa de árvores para começar a produzir algumas.
 
 #tuto_42_1
-Excellent. Now it's time to think about defending yourself: for that you will have to create a new "Formation" (a group of units).
+Excelente. Agora é hora de pensar em defender-se: para que você terá de criar uma nova "Formação" (um grupo de unidades).
 
 #tuto_42_2
-There is different types of formations. The best one to start defending yourself with is the "Militia".
+Há diferentes tipos de formações. O melhor para começar a defender-se é com a "milícia".
 
 #tuto_42_c1
-Tell me more.--43
+Conte-me mais .--43
 
 #tuto_43_1
-In a "Militia" formation, it's units are not really recruited: it's the current population of the territory itself. Think of it as a stash of weapons kept ready for the population to take arms with when attacked.
+Em uma formação "Milícia", é unidades não são realmente recrutados: é a atual população do próprio território. Pense nisso como um esconderijo de armas mantido pronto para a população a pegar em armas com quando atacado.
 
 #tuto_43_2
-Therefore, it's units are not actually removed from your population and are "free", but the Militia cannot move to other territories and is purely defensive. Its perfect as basic defense.
+Portanto, é unidades não são realmente removidos do sua população e são "livre", mas a milícia não pode mover-se para outros territórios e é puramente defensiva. É perfeito como defesa básica.
 
 #tuto_43_c1
-Where do i create one ?--44--29
+Onde posso criar um? --44--29
 
 #tuto_44_1
-This is the Units tab. In it you can see all the formations currently present in the territory. It's also where you can create new Formations.
+Este é o guia de Unidades. Nele você pode ver todas as formações atualmente presentes no território. É também onde você pode criar novas formações.
 
 #tuto_44_2
-Clic on the tab to open it.
+Cliquem na guia para abri-lo.
 
 #tuto_45_1
-Now clic the button to create a new Formation. Select the "Militia" type, and place the Formation's camp near your tribe.
+Agora cliquem no botão para criar uma nova formação. Selecione o tipo de "milícia", e coloque o acampamento do Formação perto de sua tribo.
 
 #tuto_46_1
-Very well. Now you have to recruit your first units into this new formation.
+Muito bem. Agora você tem que recrutar os seus primeiras unidades para esta nova formação.
 
 #tuto_46_2
-There is different categories of units: civilian units are what you will use to create settling expeditions or transfering goods with carriers, but obviously not to defend youself. Open the "Ranged" tab.
+Há diferentes categorias de unidades: unidades civis são o que você vai usar para criar estabelecer expedições ou transferência de bens com as operadoras, mas, obviamente, não defender o youself. Abra a guia "Longo Alcance".
 
 #tuto_47_1
-For now you only have access to a single ranged military unit: the rockthrower. A porco simply equiped with stones to throw, best used to defend behind walls and gates.
+Por enquanto você só tem acesso a uma única unidade militar variou: a lançador de Rocha. Um porco simplesmente equipados com pedras para atirar, melhor usado para defender atrás de muros e portões.
 
 #tuto_47_2
-Now, recruit at least 20 rockthrowers (2 troops of 10 each). Remember: as a "Militia", in fact you're not really recruiting them but merely storing equipment (here simple stones) for your population to use in case of attack.
+Agora, recrutar pelo menos 20 lançador de Rocha (2 tropas de 10 cada). Lembre-se: como uma "milícia", na verdade você não está realmente recrutá-los, mas simplesmente armazenar equipamentos (pedras aqui simples) para a sua população para usar em caso de ataque.
 
 #tuto_47_c1
-What happens if i 'recruit' more militia that i have of population ?--48
+O que acontece se eu recrutar "mais milícia que eu tenho da população ? --48
 
 #tuto_48_1
-Then your militia will not be fully "manned" in case of attack: if you saved up equipment for 40 soldiers as your militia but only have 15 porcos in age to fight at the time of the attack in the territory, your Militia will only include 15 soldiers in the battle.
+Em seguida, seu milícia não será totalmente "tripulado" em caso de ataque: se você salvou-se equipamentos para 40 soldados como sua milícia, mas só tem 15 Porcos em idade para lutar no momento do ataque no território, a sua milícia só incluirão 15 soldados na batalha.
 
 #tuto_48_c1
-Got it.--47
+Entendi .--47
 
 #tuto_49_1
-Congratulations: you now saved equipment -a bunch of wooden clubs- for your population to use in case of attack. 
+Parabéns: você agora salvos equipamentos -um monte de tacos de madeira--de madeira para sua população para usar em caso de ataque. 
 
 #tuto_49_2
-Now, additionnaly to that, you can also organize the defensive strategy of your units using the "Strategic tool", such as defining the deployment positions of your new militia. Clic to open it.
+Agora, Além disso, você também pode organizar a estratégia defensiva de suas unidades usando a "ferramenta estratégica", tais como a definição das posições de implantação de sua nova milícia. Click para abri-la.
 
 #tuto_50_1
-With this tool, you can preview where all your troops ( militia or not ) will deploy in case of battle.
+Com esta ferramenta, você pode visualizar onde todas as suas tropas (milícias ou não) estarão em caso de batalha.
 
 #tuto_50_2
-You can select each troop and redeploy it where you want with the right clic. Hold it to set their ranks and orientation.
+Você pode selecionar cada tropa e reimplantar-lo onde quiser com o Click direita. Segurá-la para definir as suas fileiras e orientação.
 
 #tuto_50_c1
-Tell me more.--51--35
+Conte-me mais .--51--35
 
 #tuto_51_1
-You can set the behavior mode of each troop. By default they will move to engage any enemy that arrives.
+Você pode definir o modo de comportamento de cada tropa. Por padrão eles vão passar para envolver qualquer inimigo que chega.
 
 #tuto_51_2
-With a troop selected, you can clic the dropdown button on the bottom left to select other modes that will affect that troop's behavior in battle.
+Com uma tropa selecionada, você pode cliquem no botão suspenso na parte inferior esquerda para selecionar outros modos que afetam o comportamento dessa tropa em batalha.
 
 #tuto_51_c1
-Very well.--52--36
+Muito bem .--52--36
 
 #tuto_52_1
-Another tool is to create "Defensive zones" by clicking this button. Then clic and drag on the terrain to set a point and a radius around it. 
+Outra ferramenta é a criação de "zonas defensivas", clicando neste botão. Então cliquem e arraste sobre o terreno para definir um ponto e um raio em torno dele.
 
 #tuto_52_2
-Once the zone is created, you can deploy troops in it and set them to the "defensive zone" behavior to have them defend this specific zone: they will be allowed to move out of it during battle.
+Uma vez que a zona é criada, você pode implantar tropas no-lo e configurá-los para o comportamento "zona defensiva" para tê-los defender esta zona específica: eles não vão ser autorizados a sair dele durante a batalha.
 
 #tuto_52_c1
-Got it.--53--37
+Entendi .--53--37
 
 #tuto_53_1
-Rockthrowers are only usefull in defense behind walls: I advise you to create a small fort of palissades and to then deploy them in it in 'stand ground' mode. This will protect you at least against invasion attempts.
+lançador de Rocha são apenas útil na defesa atrás de paredes: Eu aconselho você a criar um pequeno forte de paliçadas e, em seguida, implantá-los em-lo no modo 'zona defensiva'. Isso irá protegê-lo, pelo menos, contra tentativas de invasão.
 
 #tuto_53_2
-Once you are happy with your changes, make sure to close and SAVE your changes by clicking here.
+Quando estiver satisfeito com as alterações, certifique-se de fechar e guardar as alterações clicando aqui.
 
 #tuto_54_1
-You now finished organizing your basic defenses. 
+Você agora terminou organizar suas defesas básicas. 
 
 #tuto_54_2
-In addition to potential events or conflicts with other players, nearby NPC 'barbarian' camps are likely to regularly spawn warbands that will attempt to raid, sack , or even invade your territories. 
+Além de potenciais eventos ou conflitos com outros jogadores, campos NPC perto do 'bárbaros' são susceptíveis de gerar regularmente bandas de guerra que tentarão invadir, saquear , ou mesmo tomar seus territórios. 
 
 #tuto_54_3
-It won't be long before they notice you and send their first raiders, so you better be ready!
+Não demorará muito para que eles notem você e mandem seus primeiros atacantes, então é melhor você estar pronto!
 
 #tuto_54_c1
-Good to know...--55--39
+É bom saber ...--55--39
 
 #tuto_55_1
-It's time to address the topic of Knowledges (technologies), which unlock things like new buildings or new resources.
+É hora de abordar o tema de Conhecimentos (tecnologias), que desbloquear coisas como edifícios novos ou novos recursos.
 
 #tuto_55_2
-To get new knowledges, you need to complete Projects. And to get Projects, you need to get Ideas. 
+Para obter novos conhecimentos, você precisa concluir os Projetos. E para obter projetos, você precisa obter idéias.
 
 #tuto_55_c1
-Go on...--56
+Vá em ...--56
 
 #tuto_56_1
-Ideas can come from your own population, spread from other territories, or be directly exchanged with other players via treaties.
+As idéias podem vir de sua própria população, espalhada a partir de outros territórios, ou ser diretamente trocados com outros jogadores através de tratados.
 
 #tuto_56_2
-You cannot directly control when and what ideas your people will have. Each idea comes with it's own hidden conditions.
+Você não pode controlar diretamente quando e quais idéias as pessoas terão. Cada idéia vem com seu próprio condições escondidas.
 
 #tuto_56_c1
-Ok.--57
+Ok .--57
 
 #tuto_57_1
-Now that your tribe is done setting camp in this territory, they got their first idea for Sedentarity, which will allow you to build your first proper dwellings.
+Agora que sua tribo acabou de acampar neste território, eles tiveram sua primeira idéia para a Sedentaridade, que permitirá que você construa suas primeiras habitações apropriadas.
 
 #tuto_57_2
-To actually get the 'knowledge' of Sendentarity, you will need to complete it's project first.
+Para chegar realmente o 'conhecimento' de Sedentaridade, você vai precisar concluir o projeto pela primeira vez.
 
 #tuto_57_c1
-How do i do that ?--58--40
+Como posso fazer isso? --58--40
 
 #tuto_58_1
-This new button allows you to open another important menu : the Government Menu.
+Este novo botão permite que você abra outro menu importante: o Menu de Governo.
 
 #tuto_58_2
-That's where you can manage and monitor all global matters (non territory-specific ones) such as your treasury balance, your culture, your policies etc...
+É onde você pode gerenciar e monitorar todos os assuntos globais (os não específicos do território) como o seu saldo de tesouraria, a sua cultura, as suas políticas etc ...
 
 #tuto_58_3
-Clic to open it.
+Click para abri-lo.
 
 #tuto_59_1
-The "Society" tab is where you manage your Policies, defining how your society is organized and works.
+A guia "Sociedade" é onde você gerencia suas políticas, definindo como sua sociedade está organizada e funciona.
 
 #tuto_59_2
-For now, you are a primitive band society with a gift economy where everyone shares their goods. 
+Por agora, você é uma sociedade bando primitiva com uma economia da dádiva, onde todos compartilham seus bens. 
 
 #tuto_59_c1
-How do i change that ?--60
+Como faço para mudar isso ? --60
 
 #tuto_60_1
-Later, with new knowledges, you'll unlock new policies allowing your to evolve your society's political and economical organization.
+Mais tarde, com novos conhecimentos, você vai desbloquear novas políticas que permitam o seu evoluir organização política e econômica de sua sociedade.
 
 #tuto_60_2
-Now open the "Knowledges" tab to access your projects.
+Agora, abra a guia "Conhecimentos" para acessar seus projetos.
 
 #tuto_61_1
-This colum shows all the Knowledges your society currently has. It's empty for now.
+Este Coluna mostra todos os Conhecimentos que sua sociedade tem atualmente. Esta vazio por enquanto.
 
 #tuto_61_2
-It also shows your knowledge capacity and current use. Each new knowledge costs some points depending on it's complexity. If your capacity is fully used, you will not be able to master new knowledges.
+Ele também mostra a sua capacidade de conhecimento e uso atual. Cada novo conhecimento custa alguns pontos, dependendo isso da complexidade. Se a sua capacidade é totalmente utilizada, você não será capaz de dominar novos conhecimentos.
 
 #tuto_61_c1
-Ok.--63--43
+Ok .--63--43
 
 #tuto_61_c2
-How do i get knowledge capacity ?--62
+Como faço para obter capacidade de conhecimento ? --62
 
 #tuto_62_1
-Your capacity is increased by your total culture. At start, your culture will be mostly produced by your total population so the more population you have, the more knowledge capacity.
+Sua capacidade é aumentada pela sua cultura total. No início, sua cultura será produzido principalmente por sua população total assim que mais população que você tem, mais capacidade de conhecimento.
 
 #tuto_62_2
-Later, with writting,  you'll also be able to build Libraries to manually increased your knowledge capacity.
+Mais tarde, com a escrita, você também será capaz de construir bibliotecas ao aumento manualmente a sua capacidade de conhecimento.
 
 #tuto_62_c1
-Ok.--63--43
+Ok .--63--43
 
 #tuto_63_1
-The "Sedentary life" project will unlock the knowledge of "Sedentism". To start it you first need to assign "researchers" to the project, and each project requires a specific 'class' of researchers (here it's Farmers).
+O projeto "A vida sedentário" vai desbloquear o conhecimento de "sedentarismo". Para iniciá-lo você primeiro precisa atribuir "pesquisadores" para o projeto, e cada projeto requer um 'grupo' específico de pesquisadores (aqui é Agricultores).
 
 #tuto_63_2
-Clic the "+" button to assign researchers to the project.
+Cliquem no botão "+" para atribuir os pesquisadores do projeto.
 
 #tuto_64_1
-Be careful: assigning researchers reduces the productivity of all buildings employing the same population class as they are busy with the project instead of working.
+Tenha cuidado: pesquisadores atribuindo reduz a produtividade de todos os edifícios que empregam a mesma classe população como eles estão ocupados com o projeto em vez de trabalhar.
 
 #tuto_64_2
-For instance, if you assign ALL your farmers to a project, then your farms will no longer produce anything.
+Por exemplo, se você atribuir todos os seus agricultores en um projeto, em seguida, suas fazendas deixarão de produzir qualquer coisa.
 
 #tuto_64_3
-Select how many researchers you want to assign for the project and validate.
+Selecione quantas pesquisadores que deseja atribuir para o projeto e validar.
 
 #tuto_65_1
-Each researcher contributes 'research points' based on their intelligence.
+Cada pesquisador contribui com 'pontos de investigação' com base em sua inteligência.
 
 #tuto_65_2
-Each project also has a difficulty level, and the average intelligence of the assigned researchers define the odds of successfuly completing the project.
+Cada projeto também tem um nível de dificuldade, e a inteligência média dos pesquisadores atribuídos definir as probabilidades de completar com sucesso o projeto.
 
 #tuto_65_c1
-Ok.--66--46
+Ok .--66--46
 
 #tuto_66_1
-To start some projects you may also need to pay coins or resources. You will also need enough knowledge space to store the new knowledge it unlocks.
+Para iniciar alguns projetos você também pode precisar pagar moedas ou recursos. Você também vai precisar de espaço conhecimento suficiente para armazenar o novo conhecimento que eles desbloqueia.
 
 #tuto_66_2
-You can now clic to start the work on the project.
+Agora Click para iniciar o trabalho no projeto.
 
 #tuto_67_1
-Congratulations, you started your first project! It will take some time to complete it, depending on your number of researchers and their efficiency.
+Parabéns, você começou seu primeiro projeto! Vai levar algum tempo para concluí-lo, dependendo do número de pesquisadores e sua eficiência.
 
 #tuto_67_c1
-Very well.--111
+Muito bem .--111
 
 #tuto_67_c2
-What happens if a project fails ?--68
+O que acontece se um projeto falhar ? --68
 
 #tuto_68_1
-If your project fails, you will have to restart it from scratch again. 
+Se o projeto falhar, você terá que reiniciar a partir do zero novamente. 
 
 #tuto_68_2
-You will have to repay all the starting requirements.
+Você terá de reembolsar todos os requisitos iniciais.
 
 #tuto_68_c1
-Damnit... So what now ?--111
+Droga ... Então, o que agora? --111
 
 #tuto_69_1
-You now know all the minimum basics to start ruling and developing your tribe in Ymir and I only have a few things left to show you before i leave you.
+agora você sabe todos os princípios mínimos para começar a governar e desenvolver a sua tribo em Ymir e eu só tenho algumas coisas para a esquerda para mostrar a você antes de eu deixá-lo.
 
 #tuto_69_c1
-It's about time!--70--48
+É sobre o tempo --70--48
 
 #tuto_70_1
-This is your player score. Its based on different stats like your total wealth, culture, military power and knowledges.
+Esta é a sua pontuação de jogador. Sua base em diferentes estatísticas como a sua riqueza, cultura, poder e conhecimentos militar total.
 
 #tuto_70_c1
-Ok.--71--49
+Ok .--71--49
 
 #tuto_71_1
-Next to it are your Victory Points. They are earned by completing victory missions that may be shared in common with other players, in which case only the first one to complete it will get the reward.
+Próximo a ele são os seus pontos de vitória. Eles são ganhos por completar missões vitória que podem ser partilhados em comum com outros jogadores, caso em que apenas o primeiro a completar ela irá receber a recompensa.
 
 #tuto_71_2
-You win the game by beeing the first player to reach the objective of Victory Points set for that game.
+Você ganha o jogo por pontos o primeiro jogador a atingir o objectivo de Pontos de Vitória estabelecidos para esse jogo.
 
 #tuto_71_c1
-Good to know!--72--50
+É bom saber --72--50
 
 #tuto_71_c2
-How do i get these missions ?--81
+Como faço para obter estas missões ? --81
 
 #tuto_72_1
-Well that's it : my work here is now done and it's time for me to leave you in charge.
+Bom é isso: meu trabalho aqui é feito agora e é tempo para eu deixá-lo no comando.
 
 #tuto_72_c1
-Thank you mister Pig.--999
+Obrigado Senhor Pig .--999
 
 #tuto_72_c2
-Wait! What should i do now ?--73
+Esperar! O que devo fazer agora? --73
 
 #tuto_72_c3
-I have some questions!--74
+Eu tenho algumas perguntas --74
 
 #tuto_73_1
-Now that your tribe is settled, it's population should be slowly growing but this can take some time.
+Agora que a sua tribo é constante, população deve crescendo lentamente, mas isso pode levar algum tempo.
 
 #tuto_73_2
-In the meantime, it might be a good idea to keep exploring your surroundings in the worldmap and to locate herds to hunt down to provide your tribe with additional food to boost it's growth.
+Nesse meio tempo, pode ser uma boa idéia para explorar os arredores do mapa mundial e para localizar rebanhos para caçar para fornecer a sua tribo com comida adicional para impulsionar seu crescimento.
 
 #tuto_73_c1
-Ok.--74
+Ok .--74
 
 #tuto_74_1
-What do you want to know more about, young piglet ?
+O que você quer saber mais sobre, jovem leitão?
 
 #tuto_74_c1
-I have no more questions, mister Pig.--75
+Não tenho mais perguntas, senhor Porco .--75
 
 #tuto_74_c2
-Can i see you again ?--76
+eu posso vê-lo novamente ? --76
 
 #tuto_75_1
-Farewell then, and good luck!
+Adeus então, e boa sorte!
 
 #tuto_75_c1
-Goodbye!--999
+Adeus --999
 
 #tuto_76_1
-Yes i might popup from time to time when you unlock new important things!
+Sim, eu poderia aparecer de tempos em tempos quando você desbloquear novas coisas importantes!
 
 #tuto_76_c1
-Ok!--74
+Ok --74
 
 #tuto_77_1
-You will have to create a new 'Formation' (your exploration expedition) and recruit units in it, then move it from the worldmap view.
+Você terá de criar uma nova 'formação' (sua expedição exploração) e recrutar unidades, em seguida, movê-lo do ponto de vista do mapa mundial.
 
 #tuto_77_2
-But be careful! This is dangerous, as every time you explore new territory tiles you may trigger 'exploration events': There is a lot to gain from them but also a lot to lose.
+Mas tenha cuidado! Isso é perigoso, pois cada vez que você explorar novas telhas território você pode desencadear 'eventos de exploração': Há muito a ganhar com eles, mas também muito a perder.
 
 #tuto_77_c1
-Ok.--78
+Ok  .--78
 
 #tuto_78_1
-For your explorers to have any chance of success i strongly suggest you to recruit at least 10 warriors into your expedition party, for the world is dark and full of terrors.
+Para que seus exploradores possa ter qualquer chance de sucesso  sugiro fortemente que você recrutar pelo menos 10 guerreiros em seu partido de expedição, pois o mundo é escuro e cheio de terrores.
 
 #tuto_78_c1
-Very well.--74
+Muito bem .--74
 
 #tuto_79_1
-Herds are finite groups of animals and not a permanent resource: they cannot be exploited by the Hunter building.
+Rebanhos são grupos finitos de animais e não um recurso permanente: eles não podem ser explorados pela construção Caçador.
 
 #tuto_79_2
-To hunt them, you have to form a hunting party: Create a 'Formation' and recruit hunters (any warriors of your choice) as well as some carriers to transport the looted meat.
+Caçá-los, você tem que formar um grupo de caça: Crie um 'Formação' e caçadores recruta (qualquer guerreiros de sua escolha), bem como algumas operadoras para transportar a carne saqueados.
 
 #tuto_79_c1
-What then ?--80
+O que, então? --80
 
 #tuto_80_1
-Move the hunters to the same territory as the herd in the worldmap and give them the order to "Hunt": it will initiate a battle where they will attempt to kill animals of the herd.
+Mova os caçadores para o mesmo território que o rebanho no mapa mundial e dar-lhes a fim de "caça": ele vai iniciar uma batalha onde eles vão tentar matar animais do rebanho.
 
 #tuto_80_2
-Animals will fight back so be careful! Once the hunting is over and if successful, the formation will have fresh meat in it's inventory, which you can bring back to your tribe.
+Animais vai lutar por isso tome cuidado! Uma vez que a caça é longo e se for bem sucedida, a formação terá carne fresca em sua inventário, que você pode trazer de volta à sua tribo.
 
 #tuto_80_c1
-Excellent.--74
+Excelente  .--74
 
 #tuto_81_1
-You can't. Victory point missions, like other missions or other events, will happen to you randomly.
+missões de ponto de vitória, como outras missões ou outros eventos, vai acontecer com você aleatoriamente.
 
 #tuto_81_c1
-Fair enough.--72--50
+Justo .--72--50
 
 #tuto_82_1
-Are you sure? This tutorial can help you...
+Você tem certeza? Este tutorial pode ajudá-lo...
 
 #tuto_82_c1
-Yes--83
+Sim --83
 
 #tuto_83_1
-Are you really sure ? I think it might be the best thing for you.
+Você está realmente certo? Eu acho que poderia ser a melhor coisa para você.
 
 #tuto_83_c1
-Yes!--84
+Sim --84
 
 #tuto_84_1
-I think i know what is best for you, i'm going to stay here and go on with this tutorial. 
+Eu acho que sei o que é melhor para você, eu vou ficar aqui e continuar com este tutorial. 
 
 #tuto_84_c1
-Please go away...--1
+Por favor, vá embora ...--1
 
 #tuto_84_c2
-What can i do to make you leave me alone ?--85
+O que eu posso fazer para você me deixar em paz? --85
 
 #tuto_85_1
-Bears.
+Ursos.
 
 #tuto_85_c1
-What ?--86
+O que ? --86
 
 #tuto_86_1
-I have bears.
+Eu tenho ursos.
 
 #tuto_86_c1
-Bears ? What does that have to do with anything ?--87
+Ursos? O que isso tem a ver ? --87
 
 #tuto_87_1
-It will, if you don't go on with my tutorial.
+se você não seguir com meu tutorial.
 
 #tuto_87_c1
-You're a Bear summoning tutorial assistant ?--88
+Você é um assistente de tutorial invocador do Urso?
 
 #tuto_87_c2
-I don't see any bears. Where are they ?--98
+Eu não vejo quaisquer ursos. Onde eles estão? --98
 
 #tuto_88_1
-Yes.
+Sim.
 
 #tuto_88_c1
-And what will your bears do if i don't follow your tutorial ?--89
+E o que seus ursos fazer se eu não seguir o seu tutorial ? --89
 
 #tuto_89_1
-My bears are trained to do many things, including devouring the entrails of your tribespigs.
+Meus ursos são treinados para fazer muitas coisas, incluindo devorando as entranhas de seus tribos de pocos.
 
 #tuto_89_c1
-I don't care, i can get another tribe.--90
+Eu não me importo, eu posso obter outra tribo .--90
 
 #tuto_90_1
-You're not a really good leader for your people.
+Você não é um líder realmente bom para o seu povo.
 
 #tuto_90_c1
-You're not a really good tutorial assistant.--91
+Você não é realmente um bom assistente tutorial .--91
 
 #tuto_91_1
-You're mean.
+Você é malvada.
 
 #tuto_91_c1
-Will you leave me alone now ?--92
+Você vai me deixar em paz agora? --92
 
 #tuto_92_1
-Fine. Have fun with this shitty game: Its UIs and menus are so bad you're never gonna figure it out by yourself anyways. I'm too old for this shit...
+Bem. Divirta-se com este jogo de merda: Seus UIs e menus são tão ruins que você nunca vai descobrir isso por si mesmo de qualquer maneira. Estou velho demais para esta merda ...
 
 #tuto_92_c1
-Yes, FINE! I don't need you!--999
+Sim, tudo bem! Eu não preciso de você!--999
 
 #tuto_92_c2
-Wait what ?--93
+Esperar o que? --93
 
 #tuto_93_1
-No it's too late. Ha! I bet you won't even find how to settle your tribe, the buttons have been visciously hidden... Goodbye... Piglet!
+Não é tarde demais. Ha! Eu aposto que você não vai mesmo encontrar a forma de estabelecer a sua tribo, os botões foram viciosamente escondido ... Adeus ... Leitão!
 
 #tuto_93_c1
-No! Don't leave, i changed my mind!--94
+Não! Não deixe, eu mudei de idéia --94
 
 #tuto_93_c2
-I'll take my chances, if it means getting passed this lousy tutorial.--999
+Vou me arriscar, se isso significar passar por esse péssimo tutorial .--999
 
 #tuto_94_1
-That's not gonna be enough. I demand apologies.
+Isso não vai ser suficiente. Eu exijo desculpas.
 
 #tuto_94_c1
-I'm sorry.--95
+Lamento .--95
 
 #tuto_95_1
-I'm sorry who ?
+Lamento que?
 
 #tuto_95_c1
-I'm sorry, mister Sagacious Pig.--96
+Sinto muito, senhor Porco Sagacious .--96
 
 #tuto_96_1
-It's MISTER mister Sagacious pig to you.
+É MISTER senhor porco Sagacious para você.
 
 #tuto_96_c1
-I'm sorry, mister mister Sagacious Pig. Can we get back at it now?--97
+Sinto muito, senhor senhor Sagacious Pig. Podemos voltar para ele agora? --97
 
 #tuto_97_1
-Hmmmph... That will do, pig... that will do. You better be listening and nice this time!
+Hmmmph ... Isso fará, porco ... que fará. É melhor você estar ouvindo e agradável desta vez!
 
 #tuto_97_c1
-I'm listening.--1
+Estou ouvindo .--1
 
 #tuto_98_1
-They're hiding. Bears hibernate.
+Eles estão se escondendo. Ursos hibernam.
 
 #tuto_98_c1
-You're bluffing.--99
+Você está blefando .--99
 
 #tuto_98_c2
-We're not even in winter. Bears only hibernate in winter.--104
+Nós não estamos mesmo no inverno. Suportar apenas hibernar no inverno .--104
 
 #tuto_99_1
-I have an army of bears! I can summon them all and wipe your insolent tribe off this world!
+Eu tenho um exército dos ursos! Posso evocar todos eles e limpar a sua tribo insolente fora deste mundo!
 
 #tuto_99_c1
-No you don't. You're just a lame tutorial assistant trying to be funny.--100
+Não, você não. Você é apenas um assistente tutorial coxo tentando ser engraçado .--100
 
 #tuto_100_1
-How dare you!
+Como você ousa!
 
 #tuto_100_c1
-You don't even exist. You're just a script of pseudo interactive pre-written lines here only for my personnal entertainment.--101
+Você nem sequer existem. Você é apenas um roteiro de linhas pré-escritas interativos pseudo aqui apenas para meu entretenimento pessoal .--101
 
 #tuto_101_1
-You're lying!
+Você está mentindo!
 
 #tuto_101_c1
-I can get rid of you anytime by simply editing the .ini file of this game.-102
+Eu posso me livrar de você a qualquer hora, simplesmente editando o arquivo ini deste game.-102
 
 #tuto_102_1
-No you can't! You will be lost in this game without me. You NEED me.
+Não, você não pode! Você vai ser perdido neste jogo sem mim. Você precisa de mim.
 
 #tuto_102_c1
-Yes i can, and i will. Right now.--103--51
+Sim, eu posso, e eu vou. Agora .--103--51
 
 #tuto_102_c2
-Yes i could. But i'm a generous god. I will let you carry on with your purpose.--1
+Sim, eu poderia. Mas eu sou um deus generoso. Eu vou deixar você continuar com o seu propósito .--1
 
 #tuto_103_1
-Not before i spawn my army of Bears and exterminate your puny excuse of a tribe. Die Fetcher!
+Não antes de eu desovar meu exército dos ursos e exterminar sua desculpa insignificante de uma tribo. Die Fetcher!
 
 #tuto_103_c1
-How... What kind of freakin' tutorial is this ?!--999
+Como ... Que tipo de tutorial maldito é este? ! --999
 
 #tuto_104_1
-Oh because you're such an expert in bears!
+Oh porque você é como um especialista em ursos!
 
 #tuto_104_c1
-Yes i am, actually.--105
+Sim eu sou, na verdade .--105
 
 #tuto_105_1
-Fine. If you're such an expert, then answer that: how do you call a group of bears ? If you answer right, i will leave. If you don't, you'll have to endure my tutorial.
+Bem. Se você é um perito, em seguida, responder a isso: como você chama um grupo de ursos? Se você responder certo, eu vou sair. Se não o fizer, você vai ter de suportar o meu tutorial.
 
 #tuto_105_c1
-A group of bears.--106
+Um grupo de ursos .--106
 
 #tuto_105_c2
-A band.--107
+Um bando .--107
 
 #tuto_105_c3
-A sloth.--108
+Um preguiça .--108
 
 #tuto_105_c4
-A congregation.--107
+Uma congregação .--107
 
 #tuto_106_1
-You are wise, young piglet. Wiser than you look. Fair enough, i will leave you alone. But are you sure you want to skip this tutorial ?
+Você é sábio leitão, jovem. Mais sábio do que você olha. Justo o suficiente, eu vou deixá-lo sozinho. Mas você tem certeza que pretende ignorar este tutorial?
 
 #tuto_106_c1
-Yes.--999
+Sim .--999
 
 #tuto_106_c2
-No. I won, but I will indulge your tutorial.--1
+Não ganhei, mas vou saciar o seu tutorial .--1
 
 #tuto_107_1
-Wrong! You foolish piglet! Now pay attention and suffer my neverending tutorial!
+Errado! Você leitoa tola! Agora preste atenção e sofrem meu tutorial sem fim!
 
 #tuto_107_c1
-Damnit...--1
+Droga ...--1
 
 #tuto_108_1
-You googled it, didn't you.
+Você pesquiso, não é.
 
 #tuto_108_c1
-No.--109
+Sim .--109
 
 #tuto_109_1
-You did. I know it. Just admit it, or face irreversible consequences!
+Você fez. Eu sei . Apenas admita, ou enfrentar consequências irreversíveis!
 
 #tuto_109_2
-I am the Bearmaster. If you do not come clean, i will summon my army of vengeful bears and exterminate you and your puny tribe! Then, no more tutorial for you, MISTER piglet! You will be alone in this cruel unforgiving game with it's confusing counter-intuitive UIs and menus. So think again, before doing anything foolish as to defy me. This is your last chance!
+Eu sou o Bearmaster. Se você não vir limpo, eu vou chamar o meu exército dos ursos vingativos e exterminar você e sua tribo insignificante! Então, sem mais tutorial para você, leitão MISTER! Você estará sozinho neste jogo implacável cruel com ele está confundindo UIs e menus contra-intuitiva. Então, pense de novo, antes de fazer qualquer tolo a ponto de me desafiar. Esta é a sua última chance!
 
 #tuto_109_c1
-I will not!--110--51
+Eu não vou --110--51
 
 #tuto_110_1
-You CHEATED! For this you deserve unBEARable punishment! Its time for my bears to maul your insolent tribe!
+Você trapaceou! Por isso você merece punição insuperável! É hora de meus ursos atacarem sua tribo insolente!
 
 #tuto_110_c1
-I can't beleive this...--999
+Eu não posso acreditar ...--999
 
 #tuto_111_1
-Now let's wait until the project is completed...
+Agora vamos esperar até que o projeto seja concluído ...
 
 #tuto_112_1
-There! You can now build your first solid dwelling : a primitive rustic hut. 
+Lá! Agora você pode construir a sua primeira habitação sólida: uma cabana rústica primitiva.
 
 #tuto_112_2
-Currently, your tribe is living in 'slums'. Slums are 1 tile dwellings that will spawn automatically whenever no proper housing is available. They will also disapear automatically when empty houses are available, as it's residents relocate into them.
+Atualmente, sua tribo viver em 'favelas'. As favelas são 1º habitações azulejos que vão aparecer automaticamente sempre que não haver habitação adequada disponível. Eles também desaparecerá automaticamente quando casas vazias estão disponíveis, quando residentes mudar para eles.
 
 #tuto_112_c1
-What's the use of providing good houses ?--113
+Qual é a utilidade de fornecer boas casas ? --113
 
 #tuto_113_1
-Slums provide no bonuses while houses improve the Health and Life Quality of it's residents. Life quality increases Intelligence while Health decreases sickness, which reduces the amount of your porcos dying during each generation. 
+Favelas não fornecem bônus, casas melhorar a Saúde e Qualidade de Vida do residentes. qualidade de vida aumenta a inteligência, enquanto Saúde diminui a doença, o que reduz a quantidade de seus Porcos mortos durante cada geração.
 
 #tuto_113_2
-Improving both these stats will increase your population's happiness and growth, giving you more Actives to employ in buildings or armies.
+Melhorando a estas estatísticas irão aumentar a felicidade e crescimento da sua população, dando-lhe mais Ativos para empregar em edifícios ou exércitos.
 
 #tuto_113_c1
-Good to know!--114
+É bom saber --114
 
 #tuto_114_1
-Your next assignement is to use your starting resources to start building your first proper huts. Once they are completed, slums will progressively disapear as population relocates into the new houses. 
+Seu próximo atribuição é usar seus recursos da partida para começar a construir suas primeiras barracas apropriadas. Uma vez que eles são concluídos, favelas desaparecerá progressivamente à medida que a população se muda para as novas casas.
 
 #tuto_114_2
-You can also speed up this process by manually destroying the slums. If you destroy more than there is room available, new ones will simply reappear elsewhere, so you can't lose any population!
+Você também pode acelerar este processo, destruindo manualmente as favelas. Se você destruir mais do que há espaço disponível, novos simplesmente reaparecer em outro lugar, então você não pode perder qualquer população!
 
 #tuto_114_c1
-Very well.--115
+Muito bem .--115
 
 #tuto_115_1
-This is the destroy tool. Its what you use to order the destruction of infrastuctures, clear terrain, or deconstruct building. When you right clic on it, you can filter what you wish to destroy.
+Esta é a ferramenta destruir. É o que você usa para ordenar a destruição de infrastuctures, terreno limpo, ou desconstruir edifício. Quando você Click direito sobre ele, você pode filtrar o que você deseja destruir.
 
 #tuto_115_2
-When your order the deconstruction of a building, you will recover about half it's initial materials.
+Quando pedida a desconstrução de um edifício, você vai recuperar cerca de metade é materiais iniciais.
 
 #tuto_115_c1
-Good!--116
+Boa --116
 
 #tuto_116_1
-Now complete your current assignement by building at least 10 huts for your population.
+Agora completar a sua atribuição atual através da construção de pelo menos 10 cabanas para sua população.
 
 #tuto_117_1
-Good! As a reward new families settled in your territory which will help us for to the next step: creating your first expedition to hunt and explore.
+Boa! Como recompensa novas famílias assentadas no seu território que irão nos ajudar para para o próximo passo: a criação de sua primeira expedição para caçar e explorar.
 
 #tuto_117_c1
-Why is that ?--131
+Por que ? --131
 
 #tuto_131_1
-As hunters and gatherers, you currently rely only on your natural sources of food which might quickly become insufficient for your tribe. You need to explore territories around your village and to hunt Herds to provide the extra food you'll need to support the growth of your tribe.
+Como caçadores e coletores, você confia atualmente apenas em suas fontes naturais de alimentos, que pode rapidamente tornar-se insuficiente para a sua tribo. Você precisa explorar territórios ao redor sua aldeia e para caçar Rebanhos para fornecer o alimento extra que você precisa para suportar o crescimento de sua tribo.
 
 #tuto_131_c1
-What are Herds ?--118
+Quais são Rebanhos ? --118
 
 #tuto_118_1
-Herds are groups of animal units. They are finite and are not a permanent resource: they cannot be exploited by the Hunter building. 
+Efectivos são os grupos de unidades de animais. Eles são finitos e não são um recurso permanente: eles não podem ser explorados pela construção Caçador.
 
 #tuto_118_2
-As 'units', they are visible from the world map and can be hunted without the need of a settlement.
+Como 'unidades', que são visíveis a partir do mapa do mundo e podem ser caçados sem a necessidade de um acordo.
 
 #tuto_118_c1
-How do i hunt them, then ?--119
+Como faço para caçá-los, então? --119
 
 #tuto_119_1
-To hunt them, you have to form an expedition party.
+Caçá-los, você tem que formar um partido de expedição.
 
 #tuto_119_2
-While a militia is just a stack of weapons to use by your population in case of attack, a regular 'army' is a group of actual units that are removed from your population and permanently mobilized. An army can move to other territories and perform actions like hunting.
+Enquanto uma milícia é apenas uma pilha de armas para usar por sua população em caso de ataque, um 'exército' regular é um grupo de unidades reais que são removidos de sua população e permanentemente mobilizados. Um exército pode mover-se para outros territórios e executar ações como a caça.
 
 #tuto_119_c1
-Got it, so what do i do ?--120
+Entendi, então o que eu faço ? --120
 
 #tuto_120_1
-Now create a new 'Army' formation and recruit 10 warriors in it. 
+Agora crie uma nova formação 'Exército' e recrutar 10 guerreiros nele. 
 
 #tuto_120_2
-This time note that they will be removed from your current population as it's not a 'Militia', so you'll never want to recruit all your actives in an army because it would empty all it's production buildings of it's workers.
+Esta nota de tempo que eles serão removidos de sua população atual, uma vez que não é uma 'milícia', para que você nunca mais vai querer recrutar todos os seus ativos em um exército porque iria esvaziar tudo os edifícios de produção dos trabalhadores.
 
 #tuto_121_1
-Select your new formation by clicking on it's camp or by clicking it's button on the Formations tab.
+Selecione sua nova formação, clicando sobre ela do campo ou clicando é botão na guia Formações.
 
 #tuto_122_1
-On your selected Formation's menu, click the "+" button to add additionnal troops to your already existing army.
+No menu do seu Formação selecionado, clique no botão "+" para adicionar tropas adicional ao seu exército já existente.
 
 #tuto_123_1
-Armies can carry goods and have their own inventory whose capacity depends on the units in it. Carriers are non-fighting units who simply provide a lot of inventory capacity for your Formation.
+Os exércitos podem transportar mercadorias e têm o seu próprio inventário cuja capacidade depende das unidades na mesma. Os transportadores são unidades não-combate que simplesmente fornecer uma grande quantidade de capacidade de estoque para sua formação.
 
 #tuto_123_2
-You need to recruit at least 3 of them.
+Você precisa recrutar pelo menos 3 deles.
 
 #tuto_124_1
-You can see your formation's inventory by clicking on it's inventory tab in it's menu.
+Você pode ver o inventário da sua formação, clicando sobre ela da guia de inventário em sua menu.
 
 #tuto_124_2
-There you can see it's current inventory capacity, and you can load or unload resources from your formation into your territory.
+Lá você pode ver que é capacidade de estoque atual, e você pode carregar ou descarregar os recursos de sua formação em seu território.
 
 #tuto_124_c1
-Got it!--125
+Entendi --125
 
 #tuto_125_1
-Now that your first expedition is ready, go back to the worlmap view to start exploring other territories.
+Agora que a sua primeira expedição está pronto, volte para a visão mapa mundi para começar a explorar outros territórios.
 
 #tuto_126_1
-On the worldmap view, all your formations will be visible and you can select them and give them orders. 'Militias' will also appear, but cannot be moved as they are binded to their territory!
+Na visão mapa mundi, todas as suas formações será visível e você pode selecioná-los e dar-lhes ordens. 'milícias' também será exibido, mas não pode ser movido como eles são vinculado ao seu território!
 
 #tuto_126_2
-You can recruit, disband, load and unload resources directly from the worldmap as well.
+Você pode recrutar, dissolver, carregar e descarregar recursos diretamente do mapa mundial também.
 
 #tuto_126_c1
-Ok!--127
+Ok --127
 
 #tuto_127_1
-Now beware! Only the tiles next to your tribe are visible while the rest remains hidden until you first explore it. But whenever you uncover new tiles for the first time, you group of explorers might trigger an "exploration event".
+Agora cuidado! Apenas os azulejos ao lado de sua tribo são visíveis, enquanto o resto permanece escondido até que você primeiro explorá-lo. Mas sempre que você descobrir novas telhas, pela primeira vez,grupo de exploradores pode desencadear um "evento exploração".
 
 #tuto_127_c1
-Got it.--132
+Obteve-o .--132
 
 #tuto_132_1
-These events can be dangerous but can also be rewarding, giving you new resources and units. To have any chance of successfully explore, always do so with a group of 10 or more porcos. Once a territory has been explored once, you can then move safely through them for it will not trigger any new exploration event.
+Estes eventos podem ser perigosos, mas também pode ser gratificante, dando-lhe novos recursos e unidades. Para ter alguma chance de explorar com sucesso, sempre fazê-lo com um grupo de 10 ou mais dos Porcos. Uma vez que um território tem sido explorada uma vez, então você pode passar com segurança através de-los por isso não vai desencadear qualquer novo evento exploração.
 
 #tuto_132_c1
-Good to know!--128
+É bom saber --128
 
 #tuto_128_1
-Now try to locate a 'herd': a group of animals units, and explore new tiles if you have to. Select the herd formation once you have found one.
+Agora tente localizar um 'rebanho': um grupo de unidades animais, e explorar novas telhas se você tiver que. Selecione a formação rebanho depois de ter encontrado um.
 
 #tuto_129_1
-That's a 'herd'. You can see how many animals it has and you can click on it's inventory to see it's 'loot' : the total amound of meat and leather you can recover from killing them.
+Isso é um 'rebanho'. Você pode ver quantos animais tem e você pode clicar sobre ele do inventário para ver qua é o 'saque': A quatidade total de carne e couro que você pode se recuperar depois de matá-los.
 
 #tuto_129_2
-With your formation of warriors selected, you can right clic on the tile of the territory where the herd is, and the action "Hunt" will be available.
+Com sua formação de guerreiros selecionado, você pode com botão direito cliquem na telha do território onde o rebanho esta, e a ação "Caçar" estará disponível.
 
 #tuto_129_c1
-What happens next ?--130
+O que acontece a seguir ? --130
 
 #tuto_130_1
-If you confirm the hunting action, it will initiate a 'battle' between your warriors and the animals of the herd. You can also witness the hunting by going into the territory.
+Se confirmar a ação de caça, ele vai iniciar uma 'batalha' entre os guerreiros e os animais do rebanho. Você também pode testemunhar a caça, indo para o território.
 
 #tuto_130_2
-If your warriors are sucessful, some or all of the animals loot will be transfered into your formation's inventory, which you can then bring back and unload into your territory, providing extra food to support your tribe's growth!
+Se seus guerreiros um sucesso, alguns ou todos os animais loot será transferido para o inventário do seu formação, que você pode então trazer de volta e descarregar em seu território, fornecendo comida extra para suportar o crescimento de sua tribo!
 
 #tuto_130_c1
-Excellent!--69
+Excelente! --69
 
 #tuto_300_1
-Congrats! It looks like you have unlocked the knowledge of agriculture for the first time!
+Parabéns! Parece que você ter desbloqueado o conhecimento da agricultura, pela primeira vez!
 
 #tuto_300_c1
-Indeed.--301
+Na verdade .--301
 
 #tuto_300_c2
-No, i don't need your help thank you!--998
+Não, eu não preciso da sua ajuda obrigado --998
 
 #tuto_301_1
-Agriculture now allows you to create fields with your gathering camps. Fields are not buildings: they are 'annexes'.
+Agricultura agora permite criar campos com seus campos de coleta. Os campos não são edifícios: são 'anexos'.
 
 #tuto_301_2
-An annex is constructed and linked to the building owning it. It provides it with additionnal production sources, distribution, or even bonuses such as increasing its efficiency.
+Um anexo é construído e ligado ao edifício. Ele fornece-o com fontes adicional de produção, distribuição, ou mesmo bónus, tais como aumentar a sua eficiência.
 
 #tuto_301_c1
-Very well.--302
+Muito bem .--302
 
 #tuto_302_1
-Fields are a production annex to your gathering camps. Thanks to them you can now place new gathering camps regardless of the presence of exploitable natural resources, as you can make your own with fields!
+Os campos são um anexo de produção para seus campos de coleta. Graças a eles, agora você pode colocar novos campos de coleta, independentemente da presença de recursos naturais exploráveis, como você pode fazer o seu próprio com campos!
 
 #tuto_302_2
-To create fields, select one of your gathering camps to open its building menu.
+Para criar campos, selecione um dos seus campos de coleta para abrir seu menu edifício.
 
 #tuto_303_1
-The available annexes for a building appear on the bottom of its building menu. Click on the new Field button to place fields for this gathering camp.
+Os anexos disponíveis para um edifício aparecem na parte inferior do seu menu edifício. Clique no novo botão de campo para colocar campos para este campo de encontro.
 
 #tuto_304_1
-Fields cost hoes to create as well as one resource unit of the culture type (as seeds). Once placed they are permanent and each fields adds a new "production source" to the building they are attached to.
+Campos custar Enxadas para criar, bem como uma unidade de recursos do tipo de cultura (tal como as sementes). Uma vez colocado eles são permanentes e cada campos adiciona uma nova "fonte de produção" para o edifício que eles estão conectados.
 
 #tuto_304_2
-Ground fertility affects the productivity of the fields : try placing them over the most fertile grounds (groundwater is not effective yet).
+fertilidade do solo afeta a produtividade dos campos: tentar colocá-los sobre as terras mais férteis (águas subterrâneas não é eficaz até o momento).
 
 #tuto_304_c1
-Got it!--305
+Entendi --305
 
 #tuto_305_1
-Each field requires workforce from its building to be exploited. If the workforce of the gathering camp is already 100% used, it is useless to add any new fields until some is available. That can happen after upgrading the building or changing policies that affect building's efficiency.
+Cada campo exige força de trabalho de seu edifício a ser explorado. Se a força de trabalho do acampamento encontro já é 100% utilizado, é inútil para adicionar novos campos até que alguma está disponível. Isso pode acontecer após a atualização do edifício ou mudar as políticas que afetam a eficiência do edifício.
 
 #tuto_305_c1
-Good to know.--306
+É bom saber .--306
 
 #tuto_306_1
-Agriculture also unlocks a new type of tools required to make fields: hoes. To make them, you can click on one of your toolmakers and switch its production from hammers to hoes!
+A agricultura também desbloqueia um novo tipo de ferramentas necessárias para fazer campos: enxadas. Para fazê-los, você pode clicar em um de seus ferramenteiros e mudar sua produção de martelos para enxadas!
 
 #tuto_306_c1
-Ok!--307
+Ok --307
 
 #tuto_307_1
-That's it for now, enjoy farming!
+Isso é tudo por agora, desfrutar cultivando!
 
 #tuto_307_c1
-Thank you mister Sagacious Pig.--998
+Obrigado Pig senhor Sagacious .--998
 
 #tuto_400_1
-It looks like its the first time you ever discover the knowledge of "Barter"! 
+Parece que é a primeira vez que descobrir o conhecimento do "Barter"! 
 
 #tuto_400_2
-This allows you to enable the economic policy of "fair exchange". It's a milestone transition for your society that requires to explain a few new things...
+Isso permite que você ative a política econômica de "troca justa". É uma transição marco para a sua sociedade que exige explicar algumas coisas novas ...
 
 #tuto_400_c1
-Go on...--401
+Vá em ...--401
 
 #tuto_401_1
-By enabling "fair exchange", you will transition from a gift economy to a barter economy where people no longer freely share their commodities with each other while expecting later paybacks.
+Ao permitir "troca justa", você fará a transição de uma economia de presente a uma economia de troca, onde as pessoas já não compartilhar livremente suas mercadorias com o outro enquanto esperava depois retornos.
 
 #tuto_401_c1
-So what?--402
+Então, o que ? --402
 
 #tuto_402_1
-Then, people will have properties and trade goods of equivalent value immediately. Your population will have incomes depending on their activites and they will also be able to increase their wealth level beyond 1 as a consequence.
+Então, as pessoas terão propriedades e bens de comércio de valor equivalente imediatamente. Sua população terá rendimentos, dependendo de suas atividades e eles também serão capazes de aumentar o seu nível de riqueza para além de 1 como uma consequência.
 
 #tuto_402_c1
-Ok--403
+Ok --403
 
 #tuto_403_1
-More importantly, while being in a gift economy your people can automatically access any of the available resources they want but this will no longer be the case once you enable "fair exchange".
+Mais importante, ao estar em uma economia da dádiva suas pessoas podem acessar automaticamente qualquer um dos recursos disponíveis que eles querem, mas isso não vai mais ser o caso uma vez que você habilitar "troca justa".
 
 #tuto_403_2
-For people to access a resource, it will need to be distributed first and they'll have to purchase it.
+Para as pessoas para acessar um recurso, ele terá de ser distribuído em primeiro lugar e eles vão ter que comprá-lo.
 
 #tuto_403_c1
-How can I do that?--404
+Como posso fazer isso ? --404
 
 #tuto_403_c2
-Very well. What then?--405
+Muito bem. O que, então? --405
 
 #tuto_404_1
-There is 2 ways of doing this. The first one is with a new building, the merchant, that only does distribution. It will 'consume' one specific resource from the territory's stocks and make it available for the population to buy.
+Há 2 maneiras de fazer isso. A primeira é com um novo edifício, o comerciante, que só faz distribuição. Vai 'consumir' um recurso específico de estoques do território e torná-lo disponível para a população a comprar.
 
 #tuto_404_2
-The traders keep a share of the sales incomes while the rest goes to the original producers of the resource.
+Os comerciantes manter uma parte dos rendimentos das vendas, enquanto o resto vai para os produtores originais do recurso.
 
 #tuto_404_c1
-What's the other way?--405
+Qual é a outra maneira ? --405
 
 #tuto_405_1
-All production buildings also have access to a new type of annex: market stands. Like other annexes such as fields for farms, they're available from the production building's menu. 
+Todos os edifícios de produção também têm acesso a um novo tipo de anexo: mercado destaca. Como outros anexos, tais como campos de fazendas, eles estão disponíveis no menu do edifício de produção.
 
 #tuto_405_2
-These annexes consume some of the building's workforce but they make the whole production of the building available for the people to buy. 
+Estes anexos consumir alguma da força de trabalho do edifício, mas eles fazem toda a produção do edifício disponível para as pessoas a comprar. 
 
 #tuto_405_c1
-So what's the difference between the 2 methods?--406
+Então, qual é a diferença entre os 2 métodos ? --406
 
 #tuto_406_1
-Market stands are free, consume workforce, and cannot distribute resource from stocks. They only sell their building's current productions.
+estandes de mercado são livres, consomem força de trabalho, e não pode distribuir recursos de armazenagem. Eles só vender produções atuais da sua construção.
 
 #tuto_406_2
-Merchants will sell any available resource -produced or stored- but they require one worker and they are not free to build. Also, they keep a share of all sales for themselves reducing the income of the producers.
+Os comerciantes vão vender qualquer recurso disponível -produzido ou estoques-mas eles exigem um trabalhador e eles não são livres para construir. Além disso, eles mantêm uma parcela de todas as vendas para si, reduzindo a renda dos produtores.
 
 #tuto_406_c1
-Very well. What now?--407
+Muito bem. E agora? --407
 
 #tuto_407_1
-Once "fair exchange" is enabled, your population no longer has any access to any resource -including food- that is not 'distributed' by merchants or market stands. 
+Uma vez que "troca justa" está habilitado, seu população já não tem qualquer acesso a qualquer alimentos recurso incluindo que não é 'distribuída' por comerciantes ou mercado está. 
 
 #tuto_407_2
-It will be urgent that you start by making food (and then other resources such as pottery etc..) available to your people again by building merchants or setting up market stands with your production buildings.
+Vai ser urgente que você começar por fazer comida (e, em seguida, outros recursos, como a cerâmica etc ..) disponíveis para o seu povo novamente através da construção de mercadores ou a criação de mercado está com seus edifícios de produção.
 
 #tuto_407_c1
-Ok!--408
+Ok --408
 
 #tuto_407_c2
-Wait... How can I do that again?--404
+Espere ... Como posso fazer isso novamente ? --404
 
 #tuto_408_1
-Now, thanks to barter, your workers will now be much more efficient and your society more stable with less conflict allowing you to manage a bigger community with less risks of instability. 
+Agora, graças à permuta, seus trabalhadores agora será muito mais eficiente e sua sociedade mais estável com menos conflito permitindo-lhe gerir uma comunidade maior, com menos riscos de instabilidade. 
 
 #tuto_408_2
-You'll also get to control if and how much you want to distribute each produced resource depending on your needs, which you can't do in a gift economy!
+Você também terá de controlar se quanto você quiser distribuir cada recurso produzidos dependendo de suas necessidades, o que você não pode fazer em uma economia de presente!
 
 #tuto_408_c1
-Good to know.--409
+É bom saber .--409
 
 #tuto_409_1
-Fair exchange enabling a primitive form of currency, you'll now also have to manage your government's treasury balance which is in charge of all the services global to the community such as the maintenance of common buildings, the village's palissades, or armies. These services require payments as well once you're not in a gift economy!
+troca justa permitindo uma forma primitiva de moeda, você agora também têm de gerir saldo de tesouraria do seu governo que é responsável por todos os serviços globais para a comunidade, como a manutenção de edifícios comuns, paliçadas da aldeia, ou exércitos. Estes serviços exigem pagamentos bem uma vez que você não está em uma economia da dádiva!
 
 #tuto_409_c1
-How do I fund all that?--410
+Como faço para financiar tudo isso ? --410
 
 #tuto_410_1
-In these primitive times, the biggest source of income you can get is from your leader's own personnal funds by making them one and the same. 
+Nestes tempos primitivos, a maior fonte de renda que você pode obter é a partir de recursos próprios pessoal do seu líder, tornando-os uma e a mesma coisa. 
 
 #tuto_410_2
-Using the "privileges" policy you can define the % of the territory's wealth awarded to your leader by right. This will slowly increase his personal wealth level which you can monitor in the territory menu by selecting the "Leader" population class.
+Usando a política de "privilégios" você pode definir % da riqueza do território concedido ao seu líder por direito. Isto irá aumentar lentamente o seu nível de riqueza pessoal que você pode monitorar no menu território, selecionando o "Líder" class população.
 
 #tuto_410_c1
-Ok...--411
+Ok ...--411
 
 #tuto_411_1
-Then, with the "Leadership" policy, you can assign how much of his personnal wealth you wish to assign to the government's expenses! 
+Então, com a política de "Liderança", você pode atribuir o quanto de sua riqueza pessoal que deseja atribuir aos gastos do governo! 
 
 #tuto_411_2
-For example, a leader with a wealth of 20 contributing at 50% will therefore generate a treasury income of +10.
+Por exemplo, um líder com uma riqueza de 20 contribuindo em 50%, portanto, gerar uma renda de tesouraria de +10.
 
 #tuto_411_c1
-How else can I generate treasury income?--412
+O que mais posso gerar receitas de tesouraria ? --412
 
 #tuto_412_1
-This is likely to be your main source of income in these early ages. Besides that, your people will also willingly contribute to expenses for the community with up to 20% of their own incomes but its likely to remain marginal at first.
+Este é provável que seja a sua principal fonte de renda nessas idades precoces. Além disso, as pessoas também contribuirão voluntariamente para as despesas para a comunidade com até 20% de seus próprios rendimentos, mas a sua provável que se mantenha marginal em primeiro lugar.
 
 #tuto_412_2
-Once you develop proper taxation, you'll be able to modify this percentage yourself!
+Depois de desenvolver a tributação adequada, você vai ser capaz de modificar esse percentual de si mesmo!
 
 #tuto_412_c1
-Very well.--413
+Muito bem .--413
 
 #tuto_413_1
-That is all for now. Good luck in this difficult transition!
+Isso é tudo por enquanto. Boa sorte nessa transição difícil!
 
 #tuto_413_c1
-Thank you mister Sagacious Pig.--997
+Obrigado Pig senhor Sagacious .--997
+
 
