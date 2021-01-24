@@ -288,13 +288,13 @@ Drahá cesta, jež je vytvořena z velkých kamenných bloků.
 Dlážděnná cesta
 
 #txt_road5_dscr
-A road made of small stone blocs composed artistically.
+Cesta je vyskládaná artistycky rozloženým malým kamením.
 
 #txt_road6_n
-Mosaic plaza
+Mosaiková cesta
 
 #txt_road6_dscr
-A fancy floor made of colofull small tiles of stone, glass and other materials.
+Nádherná podlaha, jež je vyskládaná malým barevným kamením, sklem a jinim materiálem tak aby nám tvořila mozaiku.
 
 #txt_road7_n
 Mramorové náměstí
@@ -318,25 +318,25 @@ Drahá cesta z velkých pískovcových bloků
 Dřevěnný plot
 
 #txt_fence1_dscr
-Rustic fences made of wood.
+Rustikální oplocení vyrobené ze dřeva.
 
 #txt_fence2_n
 Ozdobný plot
 
 #txt_fence2_dscr
-Decorative fences worthy of gardens and avenues.
+Ozdobné oplocení ,které je vhodné pro zahrady a náměstí.
 
 #txt_fence3_n
 Kamenný plot
 
 #txt_fence3_dscr
-Rustic fences made of stone.
+Rustikální oplocení vyrobené z kamení.
 
 #txt_garden1_n
 Květinové zahrady
 
 #txt_garden1_dscr
-Decorative gardens with flowers.
+Ozdobné zahrádky s květinami.
 
 #txt_garden2_n
 Stromové zahrady
@@ -354,7 +354,7 @@ An area of soil covered with carefully maintained grass for aesthetic and recrea
 Záhon
 
 #txt_flowerbed_dscr
-A plain patch of flowers for decoration.
+Plocha jež je osázená kyticemi za účelem zúhlednění prostředí.
 
 #txt_woodc_n
 Dřevorubec
@@ -396,19 +396,19 @@ Sloní výběh umožňuje uchovávání vélké zvěře jako třeba slona.
 Hrnčíř
 
 #txt_potter_dscr
-Potters refine clay into pottery. Pottery is a distributable resource filling the population needs in Furnishings.
+Hrnčíři zpracují jíl do keramiky. Keramika (Hrnčířství) je distribuovatelný zdroj jež naplňuje potřebu popullace po Nábitku, také možné jej využít při výrobě alkoholických nápojů.
 
 #txt_stonecut_n
 Kamenářský tábor
 
 #txt_stonecut_dscr
-Can exploit rock tiles in range to produce crude stone or build Quarry annexes to produce stone blocs or specialized blocs over tiles with valid rock type.
+Dokáže využít kamené políčka v dosahu za účelem produkce kamení, nebo můžeš postavít annexovatelné(rotšiřitelné) Lomy jež produkují kamené bloky, nebo tebou zvolenou a těžitelnou suroviny.
 
 #txt_quarry_n
 Lom
 
 #txt_quarry_dscr
-Essential annex of the Stonecutter, quarries can produce stone blocs or specialized blocs over special rock types.
+Podstatné rozšíření pro Kamenářský tábor, lomy jsou schopny produovat kamenné bloky, nebo jiné speciální suroviny na jím určených políčkách.
 
 #txt_sawmill_n
 Pila
@@ -426,7 +426,7 @@ Koželužny přetváří kůži na koženou látku. Distribuvatelné zboží usp
 Výrobce nástrojů
 
 #txt_toolmk_dscr
-Tool-makers produce different types of tools. Tools are used for many things, especially as a building material.
+Výrobci nástrojů vyrábí velice rozmanité množství nástrojů. Nástroje jsou využívané v mnoha činnostech, hlavně ve stavebnictví.
 
 #txt_items_n
 Předměty
@@ -447,10 +447,10 @@ Skladiště
 Skladiště jsou schopny uchovávat jakýkoliv druh surovin. Jsou stráženy a jsou schopny uchovávat větší objem surovin než ty pozemní.
 
 #txt_weapmk_n
-Výrobce zbraní
+Zbrojířství
 
 #txt_weapmk_dscr
-Weapon-makers can produce a wide range of weapons and armors used to equip and recruit troops.
+Zbrojíři je schopen vyrobit rozmanité množství zbraní a zbroje ,jež jsou využívána k vyzbrojení a k rekrutování našich vojsk.
 
 #txt_weaver_n
 Tkadlec
@@ -778,3 +778,46 @@ Kamenná zeď
 
 #txt_wall5_dscr
 Pevná obranná stěna z kamenných bloků.
+
+#txt_oldpcrcl_n
+Kruh starších
+
+#txt_oldpcrcl_dscr
+Primitivní způsob uchovávaní znalostí založený na slovních tradicích.
+
+#txt_drktwr_n
+Temná věž
+
+#txt_drktwr_dscr
+Domov vládce Zla a zdroj jeho temné moci, darováno Palentirem.
+
+#txt_orcbutcher_n
+Orkský řezník
+
+#txt_orcbutcher_dscr
+Poráží vězně na výrobu slaniny, jež je jedinou možnou potravou pro Orky.
+
+#txt_orchuts_n
+Orkské obydlí
+
+#txt_orchuts_dscr
+Nasebe naskládané chatrče, jež orkové poskládají nasebe, aby vytvořily obydlí.
+
+#txt_orcmine_n
+Orkský důl
+
+#txt_orcmine_dscr
+Hlubinné doly využívané Orky k těžbě a zpracování železa.
+
+#txt_prisoncamp_n
+Vězeňský kemp
+
+#txt_prisoncamp_dscr
+Udržuje žívé vězně.
+
+#txt_jewelry_n
+Šperkař
+
+#txt_jewelry_dscr
+Vyrabí šperky ze vzácných materiálů.
+

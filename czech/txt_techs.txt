@@ -1,4 +1,5 @@
-﻿#tech_ptry
+﻿
+#tech_ptry
 Hrnčířství
 
 #tech_ptry_dscr_1
@@ -44,10 +45,10 @@ Governance
 A group of Porcos exclusively devoted to manage and control the community. They spend their time sniffing things and occasionally solving issues or taking decisions for the whole population.
 
 #tech_guard
-Guards
+Strážci
 
 #tech_guard_dscr_1
-Guards enforce the authority of the government by patrolling the cities and protecting the government and its officials.
+Stráže prosazují autority vlády tím, že hlídají města a chrání vládu a její úředníky a jistě také 'obyvatele'.
 
 #tech_tribut
 Tributes
@@ -82,7 +83,7 @@ People will now trade commodities of equivalent values instead of 'gifting' serv
 #tech_currcy
 Měna
 
-#tech_currcy_dscr_1 
+#tech_currcy_dscr_1
 Volba společné komodity, jako jsou kovové cihly pro všechny výměny, usnadňující obchodování, stejně jako skladování a měření bohatství.
 
 #tech_coing
@@ -199,12 +200,6 @@ Kopání studen
 #tech_well_dscr_1
 Znalost otom jak kopat díry za účelem naražení podzemního pramene vody.
 
-#tech_irrig
-Irrigation
-
-#tech_irrig_dscr_1
-tech_irrig_dscr_1
-
 #tech_watres
 Vodní nádrže
 
@@ -217,29 +212,8 @@ Odpadní systém
 #tech_sewers_dscr_1
 Kanálový systém určený pro odvod odpadů a fekálii z obytvných častí a tím se zbavení mnoha druhů nemocí neboli zvýšení celkového zdraví prasat.
 
-#tech_foodstor
-Uchovávání jídla
-
-#tech_foodstor_dscr_1
-tech_foodstor_dscr_1
-
-#tech_domcat
-Domestic cat
-
-#tech_domcat_dscr_1
-tech_domcat_dscr_1
-
 #tech_warehous
 Skladování
-
-#tech_warehous_dscr_1
-tech_warehous_dscr_1
-
-#tech_storhaul
-Storage hauling
-
-#tech_storhaul_dscr_1
-tech_storhaul_dscr_1
 
 #tech_storheav
 Heavy lifting
@@ -276,69 +250,6 @@ Mud bricks
 
 #tech_mudbrick_dscr_1
 How to use and process soil into solid bricks, facilitating construction out of cheap materials.
-
-#tech_stonebdg
-Stone building
-
-#tech_stonebdg_dscr_1
-tech_stonebdg_dscr_1
-
-#tech_stonecut
-Stonecutting
-
-#tech_stonecut_dscr_1
-tech_stonecut_dscr_1
-
-#tech_quarr
-Quarrying
-
-#tech_quarr_dscr_1
-tech_quarr_dscr_1
-
-#tech_quarrhv
-Heavy quarrying
-
-#tech_quarrhv_dscr_1
-tech_quarrhv_dscr_1
-
-#tech_builders
-Stavitelé
-
-#tech_builders_dscr_1
-tech_builders_dscr_1
-
-#tech_constrct
-Construction foremanship
-
-#tech_constrct_dscr_1
-tech_constrct_dscr_1
-
-#tech_sledge
-Sledge
-
-#tech_sledge_dscr_1
-tech_sledge_dscr_1
-
-#tech_masonry
-Zdivo
-
-#tech_masonry_dscr_1
-tech_masonry_dscr_1
-
-#tech_constrplan
-Construction planning
-
-#tech_constrplan_dscr_1
-tech_constrplan_dscr_1
-
-#tech_archtct
-Architects
-
-#tech_archtct_dscr_1
-tech_archtct_dscr_1
-
-#tech_corbarch
-Corbelled arch
 
 #tech_corbarch_dscr_1
 tech_corbarch_dscr_1
@@ -380,34 +291,34 @@ Treadwheel crane
 tech_trdwheelcr_dscr_1
 
 #tech_concrete
-Concrete
+Beton
 
 #tech_concrete_dscr_1
-tech_concrete_dscr_1
+What if we had the power to create stone and shape it as we wish? 
 
 #tech_metalrgy
-Metallurgy
+Hutnictví
 
 #tech_metalrgy_dscr_1
-tech_metalrgy_dscr_1
+Some stones look shiny and colorfull, and unlike others they are not brittle and look like they can be shaped into things by hitting them instead of beeing chipped and sculpted. 
 
 #tech_smelt
-Smelting
+Tavení
 
 #tech_smelt_dscr_1
-tech_smelt_dscr_1
+Some metals appear to be hidden and invisible inside regular rocks that look nowhere near them. 
 
 #tech_metcast
-Metal casting
+Odlévaní kovů
 
 #tech_metcast_dscr_1
-tech_metcast_dscr_1
+Metals become soft and maleable when heated in large fires. The hotter, the more maleable and soft they seem to become... 
 
 #tech_bronze
-Bronze working
+Doba bronzová
 
 #tech_bronze_dscr_1
-tech_bronze_dscr_1
+Now that we know how to make metals as liquid as water, what would happen if we mixed some together? Maybe we could create some new metals that never exist in nature with better properties? Copper is abundant and useful, but it is soft and it wears quickly. Maybe we should experiment mixing it with other metals to see if we can improve this?
 
 #tech_bloomry
 Bloomery
@@ -446,22 +357,16 @@ Puddling forge
 tech_puddlngforg_dscr_1
 
 #tech_forg
-Forging
+Kování
 
 #tech_forg_dscr_1
-tech_forg_dscr_1
+Když budeme do odlytého kovu mlátit kladivem po dostačující dobu jsme schopni ho jak vytvarovat tak i zpevnit podle našich potřeb.
 
 #tech_steel
 Ocel
 
 #tech_steel_dscr_1
-tech_steel_dscr_1
-
-#tech_decarb
-Decarburization
-
-#tech_decarb_dscr_1
-tech_decarb_dscr_1
+Při správné tepelné úpravě a přidáním uhlíku do železa jsme schopni vytvořit ocel jež je mnohem pevnější ,ale nákladnější na výrobu něž železo.
 
 #tech_cementation
 Cement
@@ -476,10 +381,10 @@ Air-blowing steel process
 tech_airblstl_dscr_1
 
 #tech_miningtl
-Mining tools
+Těžařské nástroje
 
 #tech_miningtl_dscr_1
-tech_miningtl_dscr_1
+Nástroje jež nám umožňují težbu těch ruzně barevně se povalujících kamínku!
 
 #tech_pickaxe
 Krumpáč
@@ -536,19 +441,19 @@ Pluh
 Velký nástroj s jednou a více čepelmi využívaný k orání pudy. Zoraná puda je připravnná k sázení a přispíva k většímu obnosu ze sklizně.
 
 #tech_domdog
-Domestic dog
+Domácí pes
 
 #tech_domdog_dscr_1
-Befriending wild wolves to assist porcos in their daily tasks, especially hunting and guarding.
+Spřátelení divokých vlků, aby pomohli vepřům v jejich každodenních úkolech, obzvláště lov a strážení.
 
 #tech_animcaptr
-Animal capture
+Odchyt zvěře
 
 #tech_animcaptr_dscr_1
 How to capture, tame and take care of wild animals to keep them as livestock for times of need. 
 
 #tech_animdom
-Animal breeding
+Rozmnožovíní zvěře
 
 #tech_animdom_dscr_1
 After knowing how to take care of captured animals, we now know how to handle their breeding, allowing us to produce new animals on our own!
@@ -584,10 +489,10 @@ Horseback riding
 We have trained and domesticated animals in order to be able to ride them directly sitting on their backs!
 
 #tech_soilcol
-Soil collectors
+Sběrači půdy
 
 #tech_soilcol_dscr_1
-tech_soilcol_dscr_1
+Všudem kolem nás je spousta hlíny a bahna, tak proč ho nezačít skladovat pro použíti na stavbu a výrobu stavebních materiálů.
 
 #tech_wheel
 Kolo
@@ -599,7 +504,7 @@ Ono se to točííí!
 Papír
 
 #tech_paper_dscr_1
-tech_paper_dscr_1
+Dřevo je hojné a snadno dostupné. Je možné psát na tablety ze dřeva, ale je těžké a těžko přepravitelné nebo skladovatelné... Ale možná bychom se mohli pokusit najít způsob, jak jej rozdrtit na pastu a usušit jej na jemné listy, které bychom mohli snáze skladovat a přenášet!
 
 #tech_charcoal
 Dřevěnné uhlí
@@ -641,7 +546,7 @@ A larger loom that sits directly on the floor and uses foot pedals called treadl
 Flying shuttle loom
 
 #tech_loom5_dscr_1
-With the flying shuttle, a single weaver can now produce fabric wider than an arm�s length and at much greater speeds than what had been achieved with previous looms.
+With the flying shuttle, a single weaver can now produce fabric wider than an arm? length and at much greater speeds than what had been achieved with previous looms.
 
 #tech_loom6
 Power loom
@@ -650,64 +555,64 @@ Power loom
 tech_loom6_dscr_1
 
 #tech_carpet
-Carpet making
+Výroba koberců
 
 #tech_carpet_dscr_1
-tech_carpet_dscr_1
+Kdo by doma nechtěl mít krásný koberec jež by zakryl du poškrábanou/hliněnou podlahu. Aspoň ty obydlí už nějak mohou vypadat.
 
 #tech_cloth
 Oblečení
 
 #tech_cloth_dscr_1
-The concept of wearing clothes instead of walking around naked.
+Koncept nošení oblečení místo procházení se nahý i když to některým může vyhovovat :).
 
 #tech_tanning
-Tanning
+Valchování
 
 #tech_tanning_dscr_1
-No need to wear putrid dead animal skins anymore. By unhairing, drying and smoking the hides we can produce proper leather. It lasts longer, its more flexible, and its less smelly for delicate snouts.
+Už nemusíte nosit hnijící mrtvé zvířecí kůže. Očištěním, sušením a kouřením kůží můžeme vyrobit správnou kůži. Vydrží déle, je pružnější a méně páchnoucí pro jemné čenichy.
 
 #tech_urunhair
 Urine unhairing
 
 #tech_urunhair_dscr_1
-Who though urine could be usefull: soaking the pelts in it for days facilitate the laborious process of unhairing them, improving the production of leather.
+Koho by to napadlo že moč může být užitečná: namočení kůží do moči po celé dny usnadňuje namáhavý proces jejich očištování a zlepšuje produkci kůže.
 
 #tech_vegettan
-Vegetable taning
+Rostlinné valchování
 
 #tech_vegettan_dscr_1
-Eco-pigs rejoice for vegetable tanning, the environmentally friendly evolution of tanning, is now available. No more using disgusting brains and smoke: tannis, which comes from tree barks, makes leather more flexible, durable and water repellent!
+Eko-prasata se radují z rostlinného valchování, což je ekologicky šetrný vývoj valchování. Už nepoužíváte nechutné mozky a kouř: pryskyřice, jež pochází ze stromové kůry, dělá kůži pružnější, odolnější a voděodolnou!
 
 #tech_sprfish
-Spear fishing
+Oštěpové rybaření
 
 #tech_sprfish_dscr_1
-tech_sprfish_dscr_1
+Když si vezmeme oštěp tak se sním dají docela dobře lovit ryby, které jsou ku podivu jedlé!
 
 #tech_castnet
-Cast nets
+Lité sítě
 
 #tech_castnet_dscr_1
-tech_castnet_dscr_1
+Proč místo házení oštěpů na ryby, proč ne tkát volné pružné koše, které bychom mohli házet do vody? Voda by prošla, zatímco by v ní zůstaly větší ryby! Potřebujeme zvládnout tuto novou dovednost a najít správný způsob a materiály k tkaní těchto speciálních košů ... to by usnadnilo chytání ryb a méně časově náročné!
 
 #tech_fishboat
-Fishing boats
+Rybářské lodě
 
 #tech_fishboat_dscr_1
-tech_fishboat_dscr_1
+Mnoho věcí se vznáší na vodě, jako jsou kmeny padlých stromů. Není snadné postavit se na jeden ... ale pokud bychom do nich vyřezali díru, mohlo by se do nich vlézt nekoli prasat. Namísto toho, aby trčeli na pobřeží, házeli sítě, aby chytili ryby, s takovým zařízením by rybáři mohli dosáhnout vzdálenějších ryb a účinněji je chytit!
 
 #tech_gillnet
 Gillnets
 
 #tech_gillnet_dscr_1
-tech_gillnet_dscr_1
+Většinou při házení sítí na ryby, tak ryby zůstávají zapletené do samotné sítě bez toho, že by v ní skutečně museli být uvězněni. Co kdybychom jednoduše vytvořili síťovou „zeď“ stojící ve vodě a čekali, až se ryby zamotají, aniž bychom museli něco dělat? Mohli bychom použít plováky na jedné straně a závaží na druhé straně, takže by stálo ve vodě svisle a chytilo všechny větší ryby, které se snaží projít! Taková technika by mohla usnadnit práci rybářů a zvýšit jejich účinnost.
 
 #tech_ferment
-Fermentation
+Kvašení
 
 #tech_ferment_dscr_1
-tech_ferment_dscr_1
+Kvašení či fermentace je proces přeměny organických látek (nejčastěji sacharidů), při němž za účasti mikroorganismů a jejich enzymů vznikají látky energeticky chudší. Využití kvašení je hlavně v oblastech potravinářství(chléb) a také při výrobě alkoholických nápojů.
 
 #tech_beer
 Pivo
@@ -725,13 +630,13 @@ tech_cuves_dscr_1
 Motiky
 
 #tech_hops_dscr_1
-tech_hops_dscr_1
+Pomocí motik můžeme pořádně obdělávat půdu jež nám umožňujě do ni efektivně zasazovat naše semena a zvyšujeme tím také naši rychlost produkce dané plodiny.
 
 #tech_bread
-Bread leavening
+Kváskový chléb
 
 #tech_bread_dscr_1
-tech_bread_dscr_1
+V každé domácnosti tráví lidé každý den hodně času broušením zrn v třecí misce, aby si u každého jídla uvařili svůj plochý chléb. Někteří proto naznačují, že pomocí našich znalostí ozubených kol a kamenování bychom mohli vytvořit obří třecí mísy, které by rozmělňovaly zrna pro všechny najednou a mají řemeslníky specializující se na vaření chleba pro každého ve městě přímo, což prasatům zachrání před samotným vyrobením ze surových obilovin. Mletá zrna by také bylo jednodušší a pohodlnější ukládat přímo do sýpek, což zlepšuje naši schopnost uchovávat jídlo!
 
 #tech_yeast
 Yeast dough
@@ -743,13 +648,13 @@ How to preserve desired properties given by a randomly obtained mixture of yeast
 Rum
 
 #tech_rum_dscr_1
-An alcoholic beverage made from sugarcane.
+Alkoholický nápoj výraběný z cukrové třtiny.
 
 #tech_alambic
-Alambic
+Alambik
 
 #tech_alambic_dscr_1
-A device that allows to separate different substances from a liquid, used mainly to distillate alcoholic beverages.
+Zařízení, které umožňuje oddělit různé látky od kapaliny a používá se hlavně k destilaci alkoholických nápojů.
 
 #tech_wine
 Víno
@@ -761,19 +666,19 @@ Znalost na přetváření hroznového vína na výborný alkoholický nápoj.
 Sud
 
 #tech_barrel_dscr_1
-A container made of wooden planks held together with hoops of metal. Solid, dismountable, optimized space usage and perfect to age and store alcohols.
+Kontejner vyrobený z dřevěných prken, který drží pohromadě pomocí kovových obručí. Masivní, přemístitelný, optimalizované využití prostoru a perfektní pro stárnutí a skladování alkoholů.
 
 #tech_baskpress
-Basket press
+Hydraulický lis
 
 #tech_baskpress_dscr_1
-A mechanical press using a capstan to provide pressure over fruits placed in a wooden basket with vertical slats, replacing older beam press technique.
+Mechanický lis využívající válec k zajištění tlaku na ovoce umístěné v dřevěném koši s vertikálně umístěnými lištami, nahrazující starší techniku ??lisovaní pomocí pákového lisu.
 
 #tech_cider
 Cider
 
 #tech_cider_dscr_1
-An alcoholic beverage made from fermented juice of apples.
+Alkoholický nápoj vyráběný řízeným kvašením jablečného moštu.
 
 #tech_oliveoil
 Olivový olej
@@ -782,16 +687,16 @@ Olivový olej
 Olivový olej je tekutý tuk získaný z oliv, který se používá jako přísada k vaření, ale také jako léčebný prostředek a pro péči o pleť.
 
 #tech_beamprss
-Beam press
+Pákový lis
 
 #tech_beamprss_dscr_1
-The beam press allows to extract juice out of fruits more efficiently than hand or foot crushing, using the principle of the lever with a large horizontal beam on top of an elevated platform that contains a shallow basin where the fruits are placed.
+Použitím nového principu páky bychom ji mohli použít ke zlepšení způsobu, jakým tlačíme tvrdé olivy do oleje, a to tak, že na desku použijeme vysoký tlak, zatímco olivy jsou drženy v měkkém koši z lan. Několik pracovníků mohlo vyvinout velký tlak z druhého konce páky, čímž je proces mnohem rychlejší než při použití třecí mísy a zvyšování rychlosti výroby olivového oleje.
 
 #tech_furnitr
-Furniture making
+Výroba nábytku
 
 #tech_furnitr_dscr_1
-How to produce fine pieces of furnitures for homes out of wood and metal.
+Místo toho, abychom žili v většinou prázdných chatkách a spali na podlaze na malých rohožkách, některé prasata navrhují začít vyrábět rafinovanější předměty s pomocí řezbářství a kovu k použití uvnitř domů a nahradit vestavěné police, lavičky a spací lůžka. Toto lehčí a mobilní vybavení by zvýšilo kvalitu života a pohodlí těch, kteří si jej mohou dovolit, zatímco vytvoří nové řemeslné umění a rozšíří naši ekonomiku.
 
 #tech_glue
 Lepidlo
@@ -806,10 +711,10 @@ Vermeering
 A technique of gluing thin sheets of wood together to produce a stronger and more economic piece of wood while retaining the same esthetic qualities.
 
 #tech_javelin
-Javelin
+Oštěp
 
 #tech_javelin_dscr_1
-tech_javelin_dscr_1
+Úžasná novinka! Když si opracujeme klacky a uděláme na nich hroty tak je potom můžeme velmi dobře házet ,což můžeme využit jak pro lov tak i pro boj!
 
 #tech_archery
 Lukostřelba
@@ -830,46 +735,16 @@ Composite bow
 tech_compbow_dscr_1
 
 #tech_crossbow
-Crossbow
+Kuše
 
 #tech_crossbow_dscr_1
 tech_crossbow_dscr_1
 
 #tech_spear
-Spear
+Kopí
 
 #tech_spear_dscr_1
-tech_spear_dscr_1
-
-#tech_battleaxe
-Battleaxe
-
-#tech_battleaxe_dscr_1
-tech_battleaxe_dscr_1
-
-#tech_sword
-Meč
-
-#tech_sword_dscr_1
-tech_sword_dscr_1
-
-#tech_longsword
-Longsword
-
-#tech_longsword_dscr_1
-tech_longsword_dscr_1
-
-#tech_warham
-Warhammer
-
-#tech_warham_dscr_1
-tech_warham_dscr_1
-
-#tech_helbard
-Helbard
-
-#tech_helbard_dscr_1
-tech_helbard_dscr_1
+Jeden z nejzákladnějších druhů zbraní který je zárověn jeden z nejjednodušších na výrobu. Je to klacek s hrotem!
 
 #tech_shield
 Štíty
@@ -881,7 +756,220 @@ Využití kusu dřeva k obraně těla před zásahy od zbraní.
 Kovové štíty
 
 #tech_metshield_dscr_1
-Využívání kovových materiálů k vytvoření odolnějšího štítu tim zlepšení celkoé obrany.
+Využívání kovových materiálů k vytvoření odolnějšího štítu tim zlepšení celkové obrany.
+
+#tech_lhelmet
+Helma
+
+#tech_lhelmet_dscr_1
+Helma  nám umožňuje ochránit naše vojsko proti ostrým úderům do palice, coč výrazně zvyšuje jejich šanci na přežití.
+
+#tech_hvhelmet
+Vyztužené přilby
+
+#tech_hvhelmet_dscr_1
+Modernější a vyspělejší techniky nám umožňují vyrábět více durabilní přilby.
+
+#tech_ptrwhl
+Hrnčířské kolo
+
+#tech_ptrwhl_dscr_1
+Hrnčířské kolo je stroj používaný při tvarování kulatých keramických výrobků, čímž se zlepšuje kvalita a výroba Keramiky. Umožňuje využít nový proces výroby keramiky nazývaný "házení", ve kterém je na kotouč umístěn kus hlíny a pak se tvaruje, když se kolo točí. Nahrazuje primitivnější techniku ??"navíjení", v níž byla hlína vytažena do dlouhých nití k vytvoření keramiky.
+
+#tech_glaz
+Glazulace
+
+#tech_glaz_dscr_1
+Glazing is the process of coating ceramic with vitreous substances, improving the esthetic and solidity of pottery. It also makes it impermeable which allows it to hold liquids more efficiently.
+
+#tech_garden
+Zahradničení
+
+#tech_garden_dscr_1
+Umění chovu, kultivace a aranžování rostlin pro estetické účely.
+
+#tech_elephrid
+Ježdění na slonech
+
+#tech_elephrid_dscr_1
+Znalost o tom jak se starat a ochočit si divoké slony a jak je trénovat pto různé úkoly jako je třeba boj.
+
+#tech_obsidn
+Obsidiánové zbraně
+
+#tech_obsidn_dscr_1
+The art of crafting deadly weapons out of wood and obsidian (volcanic glass) that are sharper than any other types of flint weapons. Obsidian can be sharper than steel but being glass it is also brittle and it can only be sculpted into desired shapes.
+
+#tech_beastwr
+Elitní armáda
+
+#tech_beastwr_dscr_1
+Elitní kasty válečníku inpirovanné duchem divoké zvěře.
+
+#tech_salt
+Sůl
+
+#tech_salt_dscr_1
+Sůl se používá pro zlepšení konzervace čerstvého masa.
+
+#tech_knives
+Nože
+
+#tech_knives_dscr_1
+Schopnost zpracování nových nástrojů specifický určených pro řeznictví.
+
+#tech_sausg
+Klobásy
+
+#tech_sausg_dscr_1
+Klobasování je způsob zpracování čerstvého masa , které umožnujě delší uchovávání.
+
+#tech_column
+Pošta a  zpravodajská budova
+
+#tech_column_dscr_1
+Možnost posílat si zprávy mezi městy a mezí ostatnímí zeměmi a roznášet informace po vašem impériu.
+
+#tech_plaster
+Omítka
+
+#tech_plaster_dscr_1
+Stavební materiál používaný k ochrannému nebo dekorativnímu opláštění stěn a stropů. Je vyráběnná ohřevem vápna při vysoké teplotě.
+
+#tech_godmono
+Dar moudrosti
+
+#tech_godmono_dscr_1
+Znalost darovaná Palentirem o tom, jak budovat monolitické artefakty, které přinášejí obyvatelům kolem sebe prosperitu, štěstí a moudrost.
+
+#tech_godmord
+Dar moci
+
+#tech_godmord_dscr_1
+Znalosti darovaná Palentirem, které vás poučují o tom, jak postavit obří černou věž, slibují vám, abyste po dokončení splnili své přání světové nadvlády.
+
+#tech_irrig
+Zavlažování
+
+#tech_irrig_dscr_1
+tech_irrig_dscr_1
+
+#tech_foodstor
+Uchovávání potravy
+
+#tech_foodstor_dscr_1
+tech_foodstor_dscr_1
+
+#tech_domcat
+Domestic cat
+
+#tech_domcat_dscr_1
+tech_domcat_dscr_1
+
+#tech_warehous_dscr_1
+tech_warehous_dscr_1
+
+#tech_storhaul
+Storage hauling
+
+#tech_storhaul_dscr_1
+tech_storhaul_dscr_1
+
+#tech_stonebdg
+Kamenné budovy
+
+#tech_stonebdg_dscr_1
+tech_stonebdg_dscr_1
+
+#tech_stonecut
+Zpracovávání kamene
+
+#tech_stonecut_dscr_1
+tech_stonecut_dscr_1
+
+#tech_quarr
+Quarrying
+
+#tech_quarr_dscr_1
+tech_quarr_dscr_1
+
+#tech_quarrhv
+Heavy quarrying
+
+#tech_quarrhv_dscr_1
+tech_quarrhv_dscr_1
+
+#tech_builders
+Stavitelé
+
+#tech_builders_dscr_1
+tech_builders_dscr_1
+
+#tech_constrct
+Construction foremanship
+
+#tech_constrct_dscr_1
+tech_constrct_dscr_1
+
+#tech_sledge_dscr_1
+tech_sledge_dscr_1
+
+#tech_masonry
+Zednářství
+
+#tech_masonry_dscr_1
+tech_masonry_dscr_1
+
+#tech_constrplan
+Construction planning
+
+#tech_constrplan_dscr_1
+tech_constrplan_dscr_1
+
+#tech_archtct
+Architekté
+
+#tech_archtct_dscr_1
+tech_archtct_dscr_1
+
+#tech_corbarch
+Corbelled arch
+
+#tech_decarb
+Decarburization
+
+#tech_decarb_dscr_1
+tech_decarb_dscr_1
+
+#tech_battleaxe
+Válečná sekera
+
+#tech_battleaxe_dscr_1
+Válečná sekera je jednoruční sekera, která se specializuje na boj, nikoli jako nástroj. Obvykle jsou lehké s malou údernou oblastí, aby soustředili sílu útoku.
+
+#tech_sword
+Meč
+
+#tech_sword_dscr_1
+Kovová zbraň ukovaná a nebo odlitá, většinou vyráběnná z mědi/bronzu/železa. A pozor píchá.
+
+#tech_longsword
+Dlouhý meč
+
+#tech_longsword_dscr_1
+tech_longsword_dscr_1
+
+#tech_warham
+Válečné kladivo
+
+#tech_warham_dscr_1
+tech_warham_dscr_1
+
+#tech_helbard
+Helbard
+
+#tech_helbard_dscr_1
+tech_helbard_dscr_1
 
 #tech_hvshield
 Těžký štít
@@ -920,10 +1008,10 @@ Brigandine
 tech_brigdn_dscr_1
 
 #tech_chnmail
-řetězová košile
+Kroužkové brnění
 
 #tech_chnmail_dscr_1
-tech_chnmail_dscr_1
+Kroužkové brnění, Brň nebo Brně, také označována jako pancíř, je typ zbroje, vytvořená z husté sítě malých kovových kroužků.
 
 #tech_cuirass
 Cuirass
@@ -935,77 +1023,26 @@ tech_cuirass_dscr_1
 Laminar armor
 
 #tech_lamnrarm_dscr_1
-tech_lamnrarm_dscr_1
+Laminar Armour consists of overlapping horizontal bands of metal.
 
 #tech_platearm
-Plátové brnění
+Plátěnné brnění
 
 #tech_platearm_dscr_1
-tech_platearm_dscr_1
+Plátěnné brnění je kovová zbroj, která se skládá z velkých pevných desek, tvarovaných a připevněných k uživateli a kloubově umožňujících mobilitu. Obvykle se nosí přes gambeson a drátěnnou košily. Nabízí skvělou ochranu před poškozením všeho druhu, ale je velmi nákladná na výrobu.
 
-#tech_lhelmet
-Helma
+#tech_sledge
+Sáně
 
-#tech_lhelmet_dscr_1
-tech_lhelmet_dscr_1
+#tech_jewelry
+Šperkařství
 
-#tech_hvhelmet
-Heavy helmet
+#tech_jewelry_dscr_1
+Umění vytváření šperků. Ozdobných předměty, jež se nosí pro osobní ozdobu a často používá k propagaci postavení ve společnosti.
 
-#tech_hvhelmet_dscr_1
-tech_hvhelmet_dscr_1
+#tech_goldsmth
+Zlatnictví
 
-#tech_ptrwhl
-Hrnčířské kolo
-
-#tech_ptrwhl_dscr_1
-Hrnčířské kolo je stroj používaný při tvarování kulatých keramických výrobků, čímž se zlepšuje kvalita a výroba Keramiky. Umožňuje využít nový proces výroby keramiky nazývaný "házení", ve kterém je na kotouč umístěn kus hlíny a pak se tvaruje, když se kolo točí. Nahrazuje primitivnější techniku ​​"navíjení", v níž byla hlína vytažena do dlouhých nití k vytvoření keramiky.
-
-#tech_glaz
-Glazulace
-
-#tech_glaz_dscr_1
-Glazing is the process of coating ceramic with vitreous substances, improving the esthetic and solidity of pottery. It also makes it impermeable which allows it to hold liquids more efficiently.
-
-#tech_garden
-Zahradničení
-
-#tech_garden_dscr_1
-Umění chovu, kultivace a aranžování rostlin pro estetické účely.
-
-#tech_elephrid
-Ježdění na slonech
-
-#tech_elephrid_dscr_1
-The knowledge of how to take care and tame wild pachyderms and how to train them for various tasks such as combat.
-
-#tech_obsidn
-Obsidiánové zbraně
-
-#tech_obsidn_dscr_1
-The art of crafting deadly weapons out of wood and obsidian (volcanic glass) that are sharper than any other types of flint weapons. Obsidian can be sharper than steel but being glass it is also brittle and it can only be sculpted into desired shapes.
-
-#tech_beastwr
-Elite vojsko
-
-#tech_beastwr_dscr_1
-Elite casts of warriors inspired by the spirit of fierce wild animals.
-
-#tech_salt
-Sůl
-
-#tech_salt_dscr_1
-Sůl se používá pro zlepšení konzervace čerstvého masa.
-
-#tech_knives
-Nože
-
-#tech_knives_dscr_1
-Schopnost zpracování nových nástrojů specifický určených pro řeznictví.
-
-#tech_sausg
-Klobásy
-
-#tech_sausg_dscr_1
-Klobasování je způsob zpracování čerstvého masa , které umožnujě delší uchovávání.
+#tech_goldsmth_dscr_1
+Umění práce se zlatem a jinými drahými kovy při výrobě ozdobných předmětů, jako jsou například šperky.
 

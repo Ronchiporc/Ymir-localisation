@@ -5,7 +5,7 @@ Gift economy
 A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future reward.
 
 #civ_fairxchang_n
-Fair exchange
+Barter
 
 #civ_fairxchang_dscr
 Immediate and reciprocal exchange of goods or services of equivalent value.
@@ -41,22 +41,10 @@ Leadership
 One recognized leader to rule them all.
 
 #civ_localchief_n
-Local authorities
+Regional Administration
 
 #civ_localchief_dscr
-Local territorial chiefs ruling their single territory and carrying out the orders of the central power.
-
-#civ_governors_n
-Governors
-
-#civ_governors_dscr
-Public officials with the power to govern provinces.
-
-#civ_senate_n
-Senate
-
-#civ_senate_dscr
-An assembly of statespigs acting in the interests of the people.
+The organisation of local administrations federated under a central government, allowing for the control multiple administrative regions.
 
 #civ_prtctor_n
 Protector of the people
@@ -83,28 +71,28 @@ Divine representative
 "I rule because I am chosen by the gods."
 
 #civ_comgood_n
-Common good
+By the People
 
 #civ_comgood_dscr
-"I rule for the people."
+"We are the people."
 
 #civ_people_n
-People representative
+People representatives
 
 #civ_people_dscr
-"I rule in the name of the people."
+"We rule in the name of the people."
+
+#civ_olig_n
+For the Elites
+
+#civ_olig_dscr
+"I rule for the elites."
 
 #civ_tax_n
 Taxation
 
 #civ_tax_dscr
-Financial charges imposed upon taxpayers by the state.
-
-#civ_seizem_n
-Seize materials
-
-#civ_seizem_dscr
-Seize construction materials from the population instead of paying for them. Excessive use of this policy might harm your economy.
+Organized financial charges imposed upon taxpayers by the state.
 
 #civ_statepriv_n
 Privileges
@@ -113,34 +101,22 @@ Privileges
 Privileges for the leadership of your government granting them a percentage of a territory's wealth by right.
 
 #civ_statesal_n
-State workers
+Civil servant wadges
 
 #civ_statesal_dscr
-State workers are directly employed and paid by the state and serve in various official buildings like in the administration or in schools.
-
-#civ_parl_n
-Parliament
-
-#civ_parl_dscr
-An assembly of representatives of the people.
+All Civil Servants are now formally employed and paid by the government, receiving an official salary for their work.
 
 #civ_minist_n
 Ministry
 
 #civ_minist_dscr
-A council of statespigs holding significant public offices making and implementing decisions on policies in conjunction with one another.
+A group of statespigs holding significant public offices making and implementing decisions on policies in conjunction with one another.
 
 #civ_ration_n
 Food rationing
 
 #civ_ration_dscr
 The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improve everyone's access to foods.
-
-#civ_agrisav_n
-Seed stocking
-
-#civ_agrisav_dscr
-Saves a portion of your agricultural food production from being directly distributed or consummed in order to save seeds for the sowing of new fields.
 
 #civ_subv_n
 Subvention
@@ -154,3 +130,74 @@ Paid researchers
 #civ_paidrsrch_dscr
 Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings in which they work.
 
+#cltr_consume_n
+Resource consumption
+
+#cltr_consume_dscr
+The cultural custom of your population to consume a specific resource. It enables population demand and the selling of that resource to the population.
+
+#cltr_resprod_n
+Resource production
+
+#cltr_resprod_dscr
+The cultural tradition of production unlocks the production of a specific resource. The subsequent levels improve production efficiency while reducing materials costs.
+
+#cltr_resqual_n
+Resource expertise
+
+#cltr_resqual_dscr
+The cultural tradition of craftsmanship of a specific resource improves the production quality of a resource.
+
+#civ_tributes_n
+Tributes
+
+#civ_tributes_dscr
+An early form of taxation where the government takes ownership of a portion of all produced resources.
+
+#civ_council_n
+Council
+
+#civ_council_dscr
+A council of trusted advisors assissting the Leader in governance matters, improving the administration of the State.
+
+#civ_treasury_n
+Treasury
+
+#civ_treasury_dscr
+The separation of the Leader and the Government's finances, the treasury manages the finances of the Government.
+
+#civ_lawmk_n
+Lawmaking
+
+#civ_lawmk_dscr
+An institution of Civil Servants specialized in Lawmaking.
+
+#civ_court_n
+Court
+
+#civ_court_dscr
+The constitution of a Court hosting and entertaining subordinates and vassals directly in the capital to better control and manage them.
+
+#civ_democracy_n
+Democracy
+
+#civ_democracy_dscr
+Governance as a direct democracy where citizens vote and participate in governance directly, and where the majority rules without any leader or representatives.
+
+#civ_republic_n
+Republic
+
+#civ_republic_dscr
+Governance as a republic where statespigs rule in the name of the people.
+
+#civ_aristo_n
+Aristocracy
+
+#civ_aristo_dscr
+Oligarchy becomes cemented as an official birthright that comes with priviledges and is transmitted by heredity, securing the status of the Oligarch families.
+
+#civ_comwork_n
+Community work
+
+#civ_comwork_dscr
+All actives have to devote a portion of their time to community work.

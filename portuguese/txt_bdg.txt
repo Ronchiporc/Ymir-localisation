@@ -777,3 +777,783 @@ Parede Bloco de pedra
 
 #txt_wall5_dscr
 Uma barreira sólida feita de blocos de pedra.
+=======
+#bdg_hous_n
+habitações
+
+#bdg_hous_dscr
+Acomoda a população, melhorando a sua saúde e qualidade de vida.
+
+#bdg_prod_n
+edifícios de produção
+
+#bdg_prod_dscr
+Explora o terreno da região para produzir matérias-primas
+
+#bdg_ind_n
+edifícios industriais
+
+#bdg_ind_dscr
+Produz mercadorias de recursos existentes 
+
+#bdg_srv_n
+serviços
+
+#bdg_srv_dscr
+Produz um serviço (recursos não materiais que não podem ser armazenados).
+
+#bdg_stor_n
+armazenamentos
+
+#bdg_stor_dscr
+Estoca recursos.
+
+#bdg_merch_n
+distribuidores
+
+#bdg_merch_dscr
+Os distribuidores pegam os recursos de qualquer edifício de produção ou de armazenamento e os disponibilizam para a população. Eles podem distribuir grandes quantidades de recursos mas os comerciantes mantêm uma parcela das rendas das vendas para si, reduzindo as do produtor.
+
+#bdg_roads_n
+estradas
+
+#bdg_roads_dscr
+Melhora o movimento das unidades nas áreas construidas e fornece bônus para edifícios conectados.
+
+#bdg_walls_n
+muralhas
+
+#bdg_walls_dscr
+Estruturas defensivas que impedem todas as unidades de passar.
+
+#bdg_deco_n
+Decorativos
+
+#bdg_deco_dscr
+Elementos puramente estéticos para melhorar a aparência da sua cidade.
+
+#bdg_towers_n
+torres defensivas
+
+#bdg_towers_dscr
+Torres defensivas guarnecem soldados independentemente de seus exércitos e milícias. Elas só podem ser construídas em plataformas. Elas fornecem suporte defensivo durante as batalhas.
+
+#bdg_battlem_n
+ameias
+
+#bdg_battlem_dscr
+As ameias só podem ser construídas em plataformas. Elas fornecem um bônus de combate para unidades que estão nas plataformas durante as batalhas.
+
+#bdg_annex_n
+anexos
+
+#bdg_annex_dscr
+anexos são edifícios que pertencem a outros edifícios e fornecem fontes de produção adicional ou capacidade de distribuição.
+
+#bdg_pltf_n
+plataformas
+
+#bdg_pltf_dscr
+As plataformas são elevações do terreno feitas por porcos na qual você pode construir sobre elas. Estruturas defensivas como torres e barricadas só podem ser construídas sobre as plataformas. Elas são caras e lentas para construir.
+
+#bdg_stairs_n
+Escadas
+
+#bdg_stairs_dscr
+Permite que porcos acessem terrenos com alturas diferentes. Pode dar acesso a plataformas ou precipícios. 
+
+#bdg_gates_n
+portões
+
+#bdg_gates_dscr
+Portões bloqueiam a passagem de tropas hostis durante as batalhas. Eles precisam ser colocados entre dois muros.
+
+#bdg_all
+todos os edifícios
+
+#txt_cider_n
+Moinho de sidra
+
+#txt_cider_dscr
+Produz sidra de maçãs. A sidra é um recurso distribuível que satisfaz as necessidades alcoólicas da população.
+
+#txt_brewery_n
+Cervejaria
+
+#txt_brewery_dscr
+Produz cerveja da cevada. A cerveja é um recurso distribuível que satisfaz as necessidades alcoólicas da população .
+
+#txt_claycamp_n
+Depósito de argila
+
+#txt_claycamp_dscr
+Extrai e produz argila do terreno. Precisa ser colocado no alcance de depósitos de argila no solo.
+
+#txt_claypit_n
+Poço de argila
+
+#txt_claypit_dscr
+É colocado diretamente no solo com argila. Aumenta a sua produção de argila.
+
+#txt_clothmk_n
+Tecelã de roupas
+
+#txt_clothmk_dscr
+Produz roupas de tecidos. As roupas são um recurso distribuível que satisfaz as necessidades de vestimento da população.
+
+#txt_gather_n
+Campo de coleta
+
+#txt_gather_dscr
+Pode explorar recursos agrículas selvagens. Precisa ser colocado no alcance dos recursos. 
+
+#txt_farm_n
+Fazenda
+
+#txt_farm_dscr
+Pode criar campos para produzir uma variedade de recursos agrícolas. Também pode explorar recursos naturais do terreno.
+
+#txt_fisher_n
+Pesqueiro 
+
+#txt_fisher_dscr
+Pode explorar peixes selvagens para produzir peixes frescos. Precisa ser colocado ao alcance dos pontos de pesca selvagens .
+
+#txt_grnry_n
+Celeiro
+
+#txt_grnry_dscr
+Pode estocar comida.
+
+#txt_hslum_n
+Favela
+
+#txt_hslum_dscr
+Favelas aparecem automaticamente quando os porcos não conseguem encontrar habitações disponíveis. Elas não fornecem saúde e baixa qualidade de vida.
+
+#txt_hrustc_n
+Casa
+
+#txt_hrustc_dscr
+Habitação rústica que proporciona baixa qualidade de vida com um bônus de saúde.
+
+#txt_hconf_n
+Casa grande
+
+#txt_hconf_dscr
+Habitação confortáveis que proporciona alta qualidade de vida e bônus de saúde.
+
+#txt_hapt_n
+Apartamento
+
+#txt_hapt_dscr
+Edifício de vários andares que fornece habitação para várias famílias.
+
+#txt_hunter_n
+Caçador
+
+#txt_hunter_dscr
+Caça animais selvagens para produzir carne fresca e couro. Precisa ser colocado no alcance de animais selvagens.
+
+#txt_flint_n
+Coletor de sílex
+
+#txt_flint_dscr
+Coleta sílex de terrenos com cascalho no solo. Sílex pode ser usado por fabricantes de ferramentas para fazer ferramentas de sílex.
+
+#txt_platf1_n
+Plataforma de madeira
+
+#txt_platf1_dscr
+Uma plataforma pouco resistente e barata. Usada para fazer defesas baratas e pontes.
+
+#txt_platf2_n
+Plataforma de pedra
+
+#txt_platf2_dscr
+Uma plataforma sólida, útil para fazer paredes resistentes.
+
+#txt_dstrplatf_n
+Destruir plataformas
+
+#txt_dstrplatf_dscr
+Ordena a destruição de plataformas selecionadas.
+
+#txt_tow1_n
+Torre de vigia
+
+#txt_tow1_dscr
+Uma torre defensiva barata mas fraca, feita de madeira e couro. Dispara flechas.
+
+#txt_tow2_n
+Torre de madeira
+
+#txt_tow2_dscr
+Uma torre defensiva feita de vigas de madeira. Dispara flechas.
+
+#txt_tow3_n
+Torre de pedra
+
+#txt_tow3_dscr
+Torres de pedra são muito mais resistentes do que as de madeira. Dispara flechas
+
+#txt_tow4_n
+Torre pesada
+
+#txt_tow4_dscr
+Esta torre é feita de blocos de pedra sólidos para aumentar a resistência à artilharia inimiga. Dispara flechas.
+
+#txt_batlm1_n
+Ameias de madeira
+
+#txt_batlm1_dscr
+Ameias de madeira fornecem cobertura básica para as unidades das plataformas contra disparos inimigos durante as batalhas.
+
+#txt_batlm2_n
+Ameias de pedra
+
+#txt_batlm2_dscr
+Ameias de pedra fornecem cobertura para as unidades das plataformas contra disparos inimigos durante as batalhas.
+
+#txt_batlm3_n
+Ameias de pedras com balestreiro
+
+#txt_batlm3_dscr
+Ameias robustas feitas de blocos de pedra sólidos com balestreiros que fornecem excelente cobertura para as unidades das plataformas contra disparos inimigos durante as batalhas.
+
+#txt_batlm4_n
+Cadafalso
+
+#txt_batlm4_dscr
+Excelente cobertura, mas mais fraco do que as ameias de pedra.
+
+#txt_market_n
+Barraca de venda
+
+#txt_market_dscr
+As barracas de venda distribuem à população a produção do edifício que a barraca pertence. A renda gerada vai inteiramente para os produtores mas exige um trabalhador para tomar conta da barraca diminuindo a eficiência da produção. 
+
+#txt_field_n
+Campo de plantação
+
+#txt_field_dscr
+Os campos de plantação só podem ser trabalhados pelas fazendas a quais eles pertecem. Produzem uma vasta gama de produtos agrícolas.
+
+#txt_road1_n
+Estrada de terra
+
+#txt_road1_dscr
+Uma estrada básica e sem custos de construção
+
+#txt_road2_n
+Estrada de madeira
+
+#txt_road2_dscr
+Uma estrada com pedaços de madeira incrustados na terra para diminuir a lama no tempo chuvoso.
+
+#txt_road3_n
+Estrada de pedras arredondadas
+
+#txt_road3_dscr
+Uma estrada pavimentada com paralelepípedos de pedra.
+
+#txt_road4_n
+Estrada de pedra
+
+#txt_road4_dscr
+Uma estrada cara, feita de grandes blocos de pedra.
+
+#txt_road5_n
+Estrada pavimentada.
+
+#txt_road5_dscr
+Uma estrada feita com pequenos blocos de pedra compostos artisticamente.
+
+#txt_road6_n
+Piso de mosaico 
+
+#txt_road6_dscr
+Um piso extravagante feito de pequenos azulejos coloridos de pedra, vidro e outros materiais.
+
+#txt_road7_n
+Piso de mármore
+
+#txt_road7_dscr
+Um piso extravagante feito de blocos de mármore brilhantes
+
+#txt_road8_n
+Estrada de calcário
+
+#txt_road8_dscr
+Uma estrada cara feita de grandes blocos brancos da calcário
+
+#txt_road9_n
+Estrada de arenito
+
+#txt_road9_dscr
+Uma estrada cara feita de grandes blocos do arenito.
+
+#txt_fence1_n
+Cerca de madeira
+
+#txt_fence1_dscr
+Cercas rústicas feitas da madeira.
+
+#txt_fence2_n
+Cerca extravagante
+
+#txt_fence2_dscr
+Cercas decorativas dignas de jardins e avenidas.
+
+#txt_fence3_n
+Cerca de pedra
+
+#txt_fence3_dscr
+Cercas rústicas feitas de pedra.
+
+#txt_garden1_n
+Jardins de flores
+
+#txt_garden1_dscr
+Jardins decorativos com flores.
+
+#txt_garden2_n
+Jardins de árvores
+
+#txt_garden2_dscr
+Jardins decorativos com árvores.
+
+#txt_grass_n
+Gramado
+
+#txt_grass_dscr
+Uma área de solo coberta com grama cuidadosamente mantida para fins estéticos e recreativos.
+
+#txt_flowerbed_n
+Canteiro
+
+#txt_flowerbed_dscr
+Um canteiro de flores para decoração.
+
+#txt_woodc_n
+Lenhador
+
+#txt_woodc_dscr
+Os lenhadores podem explorar a maioria das árvores da região disponíveis em seu alcance para produzir madeira.
+
+#txt_merchant_n
+Comerciante
+
+#txt_merchant_dscr
+Distribuidores especializados que disponibilizem um recurso selecionável para a população.
+
+#txt_mine_n
+Campo de mineração
+
+#txt_mine_dscr
+Podem explorar os terrenos com depósitos especiais para produzir uma ampla gama de matérias-primas, especialmente através da exploração de seus anexos, quando disponível.
+
+#txt_mineshaft_n
+Poço de mineração
+
+#txt_mineshaft_dscr
+Anexo essencial do campo de mineração. Os poços de mineração aumentam a produção do campo de mineração a que pertencem. Deve ser construído sobre terrenos com depósitos válidos.
+
+#txt_paddock_n
+Cercado
+
+#txt_paddock_dscr
+Os cercados permitem estocar recursos pecuários.
+
+#txt_elephantpen_n
+Recinto de elefantes
+
+#txt_elephantpen_dscr
+Os recintos de elefantes permitem a criação de únicos grandes animais tais como os elefantes.
+
+#txt_potter_n
+Oleiro
+
+#txt_potter_dscr
+Os oleiros refinam a argila em cerâmica. A cerâmica é um recurso distribuível suprindo as necessidades da população por mobiliários.
+
+#txt_stonecut_n
+Acampamento de pedreiros
+
+#txt_stonecut_dscr
+Pode explorar o terreno rochoso em seu alcance para produzir pedra bruta ou construir anexos da pedreiras para produzir blocos de pedra ou blocos especializados conforme o terreno explorado.
+
+#txt_quarry_n
+Pedreiras
+
+#txt_quarry_dscr
+Anexo essencial do acampamento de pedreiros, pedreiras podem produzir blocos de pedra ou blocos especiais sobre tipo distintos de rocha.
+
+#txt_sawmill_n
+Serralheria
+
+#txt_sawmill_dscr
+A serralheria refina madeira bruta em tábuas de madeira, um material necessário para construir muitos edifícios.
+
+#txt_tannery_n
+Curtume
+
+#txt_tannery_dscr
+Os curtumes refinam o couro em pano de couro, um recurso distribuível que supre as necessidades da população por roupas.
+
+#txt_toolmk_n
+Fabricante de ferramentas
+
+#txt_toolmk_dscr
+Os fabricantes de ferramentas produzem diferentes tipos de ferramentas. As ferramentas são usadas para muitas coisas, especialmente como um material de construção.
+
+#txt_items_n
+Itens
+
+#txt_items_dscr
+Estes recursos estão abandonados no chão e deteriorarão com o tempo a menos que forem armazenados rapidamente em um armazenamento apropriado!
+
+#txt_storegrnd_n
+Armazém no solo 
+
+#txt_storegrnd_dscr
+Terra marcada como uma área de armazenamento. É grátis, mas desprotegida e não tem uma capacidade de armazenamento alta por únidade. 
+
+#txt_warehouse_n
+Armazém
+
+#txt_warehouse_dscr
+Os armazéns podem armazenar todos os tipos de materiais básicos. São vigiados e podem armazenar muito mais recursos do que armazéns no solo.
+
+#txt_weapmk_n
+Fabricante de armas
+
+#txt_weapmk_dscr
+Os fabricantes de armas podem produzir uma grande variedade de armas e armaduras usadas para equipar e recrutar tropas.
+
+#txt_weaver_n
+Tecelão
+
+#txt_weaver_dscr
+O tecelão refina diferentes matérias primas (algodão, linho, lã e etc) em tecidos. Tecidos podem ser usados para várias coisas, como confecção de roupas.
+
+#txt_stairs1_n
+Escadas de madeira
+
+#txt_stairs1_dscr
+Escadas que podem ser colocadas contra penhascos ou paredes de qualquer altura para permitir a passagem.
+
+#txt_stairs2_n
+Escadas de pedra
+
+#txt_stairs2_dscr
+Escadas que podem ser colocadas contra penhascos ou paredes de qualquer altura para permitir a passagem.
+
+#txt_gate1_n
+Portão de madeira
+
+#txt_gate1_dscr
+Um portão de madeira barato.
+
+#txt_gate2_n
+Portão forte
+
+#txt_gate2_dscr
+Um portão forte feito de madeira unida por bronze.
+
+#txt_gate3_n
+Portão Reforçado
+
+#txt_gate3_dscr
+Um portão sólido reforçado com ferro.
+
+#txt_cattle_n
+Fazenda de gado
+
+#txt_cattle_dscr
+As fazendas de gado permitem criar pastos que produzem gado.
+
+#txt_pastr_n
+Pastos
+
+#txt_pastr_dscr
+Uma área fechada de terra onde o gado pode se alimentar e se reproduzir.
+
+#txt_pastrw_n
+Pasto para lã
+
+#txt_pastrw_dscr
+Pastos que produzem animais com lã, que são regularmente tosquiados para recolher a lã.
+
+#txt_builder_n
+Construtores
+
+#txt_builder_dscr
+Muitos edifícios só podem ser construídos por equipes profissionais de construtores.
+
+#txt_butcher_n
+Açougueiro
+
+#txt_butcher_dscr
+Abatem animais para produzir carne fresca e subprodutos.
+
+#txt_well_n
+Poço de água
+
+#txt_well_dscr
+Extrai a água do solo.
+
+#txt_watercol_n
+Coletor de água 
+
+#txt_watercol_dscr
+Um ponto onde as pessoas podem coletar água doce de rios ou lagos.
+
+#txt_landock_n
+Docas terrestres
+
+#txt_landock_dscr
+Docas para caravanas terrestres, transportam mercadorias através dos territórios e precisam de rotas de comércio para operar.
+
+#txt_dock_n
+Docas
+
+#txt_dock_dscr
+Docas para navios comerciais, transportam mercadorias através dos territórios e precisam de rotas de comércio para operar.
+
+#txt_theater_n
+Teatro
+
+#txt_theater_dscr
+Fornecem entretenimento para os Porcos.
+
+#txt_baths_n
+Banhos públicos
+
+#txt_baths_dscr
+Um local de encontro e relaxamento social que também proporciona melhora na saúde.
+
+#txt_tavern_n
+Taberna
+
+#txt_tavern_dscr
+Um lugar de encontro social para beber e festejar.
+
+#txt_forum_n
+Fórum
+
+#txt_forum_dscr
+Um local de encontro social para discutir assuntos da comunidade.
+
+#txt_furnmkr_n
+Fabricante de móveis
+
+#txt_furnmkr_dscr
+Produz móveis, um recurso distribuivel que supre as necessidades da população por móveis.
+
+#txt_carpetmkr_n
+Fabricante de tapete
+
+#txt_carpetmkr_dscr
+Produz tapetes, um recurso distribuivel que supre as necessidades da população por móveis
+
+#txt_mudcamp_n
+Mineiro de solo
+
+#txt_mudcamp_dscr
+Uma mina simples onde os trabalhadores coletam e reúnem tipos de solo exploráveis, tais como lama, turfa ou cinzas
+
+#txt_brickwk_n
+Fabricante de tijolos
+
+#txt_brickwk_dscr
+Produz tijolos, um material básico de construção.
+
+#txt_kiln_n
+Forno
+
+#txt_kiln_dscr
+Produz diferentes materiais de construção.
+
+#txt_fundry_n
+Fundição
+
+#txt_fundry_dscr
+Refina minérios metálicos em lingotes.
+
+#txt_steel_n
+Steel mill
+
+#txt_steel_dscr1
+Produz aço por carburação de ferro forjado por metarlugicas.
+
+#txt_steel_dscr2
+Produz aço por descarbonetação do ferro fundido por fusão.
+
+#txt_charcl_n
+Carvoaria
+
+#txt_charcl_dscr
+Carboniza a madeira em carvão.
+
+#txt_archtct_n
+Arquitetura
+
+#txt_archtct_dscr
+Produz os planos de construção, necessários para monumentos importantes.
+
+#txt_windwheel_n
+Roda de vento
+
+#txt_windwheel_dscr
+Fornece energia mecânica ao edifício, melhorando sua eficiência.
+
+#txt_waterwheel_n
+Roda d'água
+
+#txt_waterwheel_dscr
+Fornece energia mecânica ao edifício, melhorando sua eficiência.
+
+#txt_wash_n
+Lavanderia
+
+#txt_wash_dscr
+Um lugar onde as pessoas podem vir lavar suas roupas.
+
+#txt_taxcol_n
+Coletor de impostos
+
+#txt_taxcol_dscr
+Reduz a sonegação, garantindo que a população pague corretamente seus impostos.
+
+#txt_scrib_n
+Escriba
+
+#txt_scrib_dscr
+Escribas a serviço do Estado ajudam a acompanhar questões administrativas.
+
+#txt_eldcounc_n
+Conselho dos anciãos
+
+#txt_eldcounc_dscr
+Um conselho de anciãos para resolver conflitos na cidade.
+
+#txt_magistrt_n
+Magistrado
+
+#txt_magistrt_dscr
+Reduz o conflito na população.
+
+#txt_school_n
+Escola
+
+#txt_school_dscr
+A escola aumenta a inteligência da população.
+
+#txt_winery_n
+Adega
+
+#txt_winery_dscr
+Produz vinho a partir de uvas.
+
+#txt_oilpress_n
+Prensa de olivas
+
+#txt_oilpress_dscr
+Produz azeite de olivas.
+
+#txt_bakery_n
+Padeiro
+
+#txt_bakery_dscr
+Faz pão da farinha.
+
+#txt_mill_n
+Moinho
+
+#txt_mill_dscr
+Esmaga cereais para produzir farinha, mais fácil de armazenar e usado para fazer pão.
+
+#txt_libr_n
+Biblioteca
+
+#txt_libr_dscr
+Armazena conhecimentos.
+
+#txt_eldrcncl_n
+Conselho Tribal
+
+#txt_eldrcncl_dscr
+Um conselho de líderes de famílias que tentam resolver conflitos entre a tribo e fornece uma forma inicial de lei.
+
+#txt_magistr_n
+Tribunal
+
+#txt_magistr_dscr
+Um edifício fornece o serviço de Justiça à população, reduzindo o conflito.
+
+#txt_paper_n
+Moinho de papel
+
+#txt_paper_dscr
+Produz papel
+
+#txt_rum_n
+Fabrica de rum
+
+#txt_rum_dscr
+Uma destilaria que produz rum de cana de açucar.
+
+#txt_trmarket_n
+Mercado
+
+#txt_trmarket_dscr
+Permite criar ofertas comerciais para trocar mercadorias com outros territórios.
+
+#txt_academ_n
+Academia
+
+#txt_acedem_dscr
+Porcos sábios e estudiosos que estudam ciências e artes, aumentando a educação e a cultura e contribuindo para projetos de pesquisa.
+
+#txt_doctor_n
+Médico
+
+#txt_doctor_dscr
+Aumenta a saúde da população.
+
+#txt_ftower1
+Torre primitiva
+
+#txt_ftower1_dscr
+Uma torre defensiva primitiva feita de madeira. Dispara dardos.
+
+#txt_wall1_n
+Paliçada
+
+#txt_wall1_dscr
+Um muro defensivo simples feito de vigas de madeiras.
+
+#txt_wall2_n
+Parede de tijolos de barro
+
+#txt_wall2_dscr
+Um simples muro defensivo feito de tijolos de barro, mais fraco mas mais barato de manter do que uma paliçada.
+
+#txt_wall3_n
+Muro de pedras arredondada
+
+#txt_wall3_dscr
+Um simples muro defensivo feito de pedras de calçada unidas com alvenaria grosseira.
+
+#txt_wall4_n
+Parede de tijolo
+
+#txt_wall4_dscr
+Um simples muro defensivo feito de tijolos queimados, mais forte que os tijolos de barro.
+
+#txt_wall5_n
+Parede do bloco de pedra
+
+#txt_wall5_dscr
+Um muro defensivo sólido feito de blocos de pedra.

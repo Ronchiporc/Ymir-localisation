@@ -1,179 +1,188 @@
 #agrim_goldo_1
-Unique payment
+独特付款
 
 #agrim_goldo_2
-Pays [x] coins
+支付[x]硬币。
 
 #agrim_goldo_3
-Single coin payment from [x] to [y], at treaty signature.
+支付从[x]到[y]的单独款项硬币，在条约签署时。
 
 #agrim_goldr_1
-Coins transfer
+硬币转移
 
 #agrim_goldr_2
-Continuous transfer of [x] coins from income
+持续从收入中转移[x]枚硬币。
 
 #agrim_goldr_3
-[x] continuously transfers coins to [y] for as long as the treaty remains active.
+只要条约仍然有效，[x]就要不断向[y]转移硬币。
 
 #agrim_goldtax_1
-Coins tax
+硬币税
 
 #agrim_goldtax_2
-Gives [x]% of coins income
+给出[x]%的硬币收入。
 
 #agrim_goldtax_3
-[x] transfers a % of his total coins income to [y].
+[x]将他的硬币收入总额的一部分百分比转移给[y]。
 
 #agrim_admtax_1
-Power transfer
+权力转让
 
 #agrim_admtax_2
-Transfers [x]% of state power
+转移[x]%的国家权力。
 
 #agrim_admtax_3
-[x] tranfers a % of his state power to [y].
+[x]将他的国家权力的一部分百分比转让给[y]。
 
 #agrim_trad_1
-Trade agreement
+贸易协定
 
 #agrim_trad_2
-Allows trade
+允许贸易
 
 #agrim_trad_3
-Gives [y] access to all trade offers and trade routes from [x].
+允许[y]获取[x]提供的所有贸易报价和贸易路线。
 
 #agrim_pass_1
-Right of passage
+通行权
 
 #agrim_pass_2
-Gives right of passage
+给予通行权
 
 #agrim_pass_3
-Allows units of [y] to travel in the territories of [x].
+允许[y]的单位在[x]的领土内通行。
 
 #agrim_embrg_1
-Embargo against...
+针对性禁运…
 
 #agrim_embrg_2
-Embargo of against [x]
+对[x]禁运
 
 #agrim_embrg_3
-Forbids trade with a specified state
+禁止与特定的国家进行贸易。
 
 #agrim_vassal_1
-Join nation
+加入国家
 
 #agrim_vassal_2
-Joining the [x]
+加入[x]
 
 #agrim_vassal_3
-[x] will join the nation of [y].
+[x]将加入[y]的国家。
+
+#agrim_fvassal_1
+征服
+
+#agrim_fvassal_2
+被[x]所征服。
+
+#agrim_fvassal_3
+[x]将被[y]的国家征服。
 
 #agrim_war_1
-Declare war to...
+针对性宣战…
 
 #agrim_war_2
-Declaring war to [x]
+对[x]宣战
 
 #agrim_war_3
-Declare war to another specified state
+向另一特定的国家宣战。
 
 #agrim_peace_1
-Peace treaty
+和平条约
 
 #agrim_peace_2
-Peace treaty
+和平条约
 
 #agrim_peace_3
-Forbids war between treaty members.
+禁止条约成员国之间的战争。
 
 #agrim_ceasefr_1
-Cease fire
+停火协议
 
 #agrim_ceasefr_2
-Cease fire
+停火协议
 
 #agrim_ceasefr_3
-Ends war between treaty members.
+结束条约成员国之间的战争。
 
 #agrim_tradrt_1
-Trade route
+贸易路线
 
 #agrim_tradrt_2
-Trade route
+贸易路线
 
 #agrim_tradrt_3
-Setup a treaty binded trade route
+建立一条条约约束的贸易路线。
 
 #agrim_givreg_1
-Give region
+给予地区
 
 #agrim_givreg_2
-Giving region of '[x]' 
+给予“[x]”地区。
 
 #agrim_givreg_3
-Transfer ownership of a region to [y].
+将某一地区的所有权转让给[y]。
 
 #agrim_gividea_1
-Give idea
+给予想法
 
 #agrim_gividea_2
-Give idea for [x]
+给予知识给[x]。
 
 #agrim_gividea_3
-[y] will receive from [x] a new idea for knowledges he doesnt have yet.
+[y]将从[x]那里获得他尚未拥有的新知识。
 
 #treaty_powcost
-State power cost to maintain this treaty
+维护该条约的国家权力费用。
 
 #treaty_coinpen
-Coins penalty
+硬币罚款
 
 #treaty_coinpen_c1
-% of GDP transfered as penalty if [x] breaks this treaty,
+GDP的百分比作为罚金转移，如果[x]违反这一条约，
 
 #treaty_coinpen_c2
-to [x].
+对[x]。
 
 #treaty_gdp
-[x]% of GDP
+[x]%的GDP
 
 #treaty_honor
-Honor commitment
+荣誉承诺
 
 #treaty_honor_c1
-Level of commitment of [x] to respect this treaty.
+[x]遵守本条约的承诺程度。
 
 #treaty_honor_c2
-Proportionnal honor is lost if [x] breaks it.
+如果[x]违反了它，将会失去相称的荣誉。
 
 #treaty_warbound
-War bound
+战争约束
 
 #treaty_warbound_c1
-Wether or not [x] will automatically declare war
+[x]是否会自动宣战。
 
 #treaty_warbound_c2
-if [x] breaks this treaty.
+如果[x]违反了这项条约。
 
 #treaty_closes
-Breaking closes
+打破关闭
 
 #diplo_npass
-National right of passage
+国家通行权
 
 #diplo_npass_dscr_1
-All members of the Nation can move through each other's territory.
+这个国家的所有成员都可以在彼此的领土上通行。
 
 #diplo_ntrade
-National trade agreement
+国家贸易协定
 
 #diplo_ntrade_dscr_1
-All members of the Nation get automatic trading rights with each other.
+这个国家的所有成员都享有相互之间的自动贸易权。
 
 #diplo_ndef
-National defensive pact
+国家防御协定
 
 #diplo_ndef_dscr_1
-Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
+任何对某一国家成员宣战的行为都将触发该国所有其他成员的自动宣战，而打破僵局则是侵略者一方的行为。

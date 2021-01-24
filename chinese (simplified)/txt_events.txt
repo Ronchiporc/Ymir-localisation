@@ -1,1836 +1,1943 @@
 #cond_nbreg
-Own [x] or more territories
+拥有[x]个或更多领地
 
 #cond_prodsupto
-Produce at least [x] of [y] in territory
+在该地区内生产至少[x][y]
 
 #cond_incrfoodprod
-Increase your food production by at least [x]
+增加您的食物产量至少[x]
 
 #cond_ownbdg
-Have [x] [y] in the territory
+在该地区拥有[x][y]
 
 #cond_ownbdg_class
-Have [x] buildings of the [y] class in the territory
+在该地区拥有[x]个[y]类建筑
 
 #cond_cmplted_ev
-Completed event [x]
+完成[x]事件
 
 #cond_loyal_inf
-Territory loyalty inferior to [x]
+领土忠诚度低于[x]
 
 #cond_loyal_sup
-Territory loyalty superior to [x]
+领土忠诚度高于[x]
 
 #cond_pow_inf
-State power inferior to [x]
+国家权力低于[x]
 
 #cond_pow_sup
-State power superior to [x]
+国家权力高于[x]
 
 #cond_legit_inf
-State legitimacy inferior to [x]
+国家合法性低于[x]
 
 #cond_legit_sup
-State legitimacy superior to [x]
+国家合法性高于[x]
 
 #cond_coins_inf
-State currency inferior to [x]
+国家货币低于[x]
 
 #cond_coins_sup
-State currency superior to [x]
+国家货币高于[x]
 
 #cond_notech
-Do not have the knowledge of '[x]'
+未拥有“[x]”的知识
 
 #cond_hastech
-Have the knowledge of '[x]'
+拥有“[x]”的知识
 
 #cond_popnb_inf
-[y] inferior to [x]
+[y]低于[x]
 
 #cond_popnb_sup
-[y] superior to [x]
+[y]高于[x]
 
 #cond_intel_inf
-[y] intelligence inferior to [x]
+[y]的智力低于[x]
 
 #cond_intel_sup
-[y] intelligence superior to [x]
+[y]的智力高于[x]
 
 #cond_lifeq_inf
-[y] life quality inferior to [x]
+[y]的生活质量低于[x]
 
 #cond_lifeq_sup
-[y] life quality superior to [x]
+[y]的生活质量高于[x]
 
 #cond_health_inf
-[y] health inferior to [x]
+[y]的健康低于[x]
 
 #cond_health_sup
-[y] health superior to [x]
+[y]的健康高于[x]
 
 #cond_regcltr_sup
-Territory culture superior to [x]
+地区文化高于[x]
 
 #cond_cltr_inf
-Total Culture inferior to [x]
+总文化低于[x]
 
 #cond_cltr_sup
-Total Culture superior to [x]
+总文化高于[x]
 
 #cond_conflict_inf
-Population conflict inferior to [x]
+人口冲突低于[x]
 
 #cond_conflict_sup
-Population conflict superior to [x]
+人口冲突高于[x]
 
 #cond_cons_sup
-Consumption of [x] superior to [y]
+消耗的[x]高于[y]
 
 #cond_natres
-Have natural resource of [x]
+拥有自然资源的[x]
 
 #cond_resaxs_inf
-[y] access inferior to [x]%
+[y]获取低于[x]%
 
 #cond_resaxs_sup
-[y] access superior to [x]%
+[y]获取高于[x]%
 
 #cond_needaxs_inf
-[z] [y] access inferior to [x]%
+[z][y]获取低于[x]%
 
 #cond_needaxs_sup
-[z] [y] access superior to [x]%
+[z][y]获取高于[x]%
 
 #cond_resstk_inf
-[y] stocks inferior to [x]
+[y]的库存低于[x]
 
 #cond_resstk_sup
-[y] stocks superior to [x]
+[y]的库存高于[x]
 
 #cond_agrprd_inf
-Agricultural production inferior to [x]
+农业生产低于[x]
 
 #cond_agrprd_sup
-Agricultural production superior to [x]
+农业生产高于[x]
 
 #cond_natagri
-Have natural sources of vegetables and plants
+拥有天然来源的蔬菜和植物
 
 #cond_militia_inf
-Militia inferior to [x] [y]
+民兵的[y]低于[x]
 
 #cond_militia_sup
-Militia superior to [x] [y]
+民兵的[y]高于[x]
 
 #cond_army_inf
-Army inferior to [x] [y]
+军队的[y]低于[x]
 
 #cond_army_sup
-Army superior to [x] [y]
+军队的[y]高于[x]
+
+#cond_units_inf
+拥有小于[x][y]
+
+#cond_units_sup
+至少拥有[x][y]
 
 #cond_natmetal
-Have natural sources of metal
+拥有天然来源的金属
 
 #cond_GDP_inf
-GDP inferior to [x]
+GDP低于[x]
 
 #cond_GDP_sup
-GDP superior to [x]
+GDP高于[x]
 
 #cond_wlth_inf
-Wealth inferior to [x]
+财富低于[x]
 
 #cond_wlth_sup
-Wealth superior to [x]
+财富高于[x]
 
 #cond_vitn_inf
-Vital needs of [y] inferior to [x]
+生命需求的[y]低于[x]
 
 #cond_vitn_sup
-Vital needs of [y] superior to [x]
+生命需求的[y]高于[x]
 
 #cond_bdgcat_inf
-Have less than [x] [y] buildings
+拥有[y]的建筑少于[x]
 
 #cond_bdgcat_sup
-Have more than [x] [y] buildings
+拥有[y]的建筑大于[x]
 
 #cond_rescat_inf
-[y] stock inferior to [x]
+[y]的库存低于[x]
 
 #cond_rescat_sup
-[y] stock superior to [x]
+[y]的库存高于[x]
 
 #cond_rescatprd_inf
-[y] production inferior to [x]
+[y]产量低于[x]
 
 #cond_rescatprd_sup
-[y] production superior to [x]
+[y]产量高于[x]
 
 #cond_prdgrp_inf
-Stocks of [y] resources inferior to [x]
+[y]资源的库存低于[x]
 
 #cond_prdgrp_sup
-Stocks of [y] resources superior to [x]
+[y]资源的库存高于[x]
 
 #cond_prdgrpprd_inf
-Production of [y] resources inferior to [x]
+[y]资源的生产低于[x]
 
 #cond_prdgrpprd_sup
-Production of [y] resources superior to [x]
+[y]资源的生产高于[x]
 
 #cond_resneed_inf
-An unsatisfied demand of [y] of less than [x]
+一个未满足的需求[y]低于[x]
 
 #cond_resneed_sup
-An unsatisfied demand of [y] superior than [x]
+一个未满足的需求[y]高于[x]
 
 #cond_civic
-Have the civic '[x]' enabled
+启用市政“[x]”
 
 #cond_civeff
-Have the civic effect: '[x]'
+拥有市政效应: “[x]”
 
 #cond_militpow_inf
-Total military power inferior to [x]
+总军事力量低于[x]
 
 #cond_militpow_sup
-Total military power superior to [x]
+总军事力量高于[x]
 
 #cond_ecobal_inf
-Government budget balance inferior to [x]
+政府预算收支低于[x]
 
 #cond_ecobal_sup
-Government budget balance superior to [x]
+政府预算收支高于[x]
 
 #cond_growth_inf
-[y] growth inferior to [x]
+[y]的增长低于[x]
 
 #cond_growth_sup
-[y] growth superior to [x]
+[y]的增长高于[x]
 
 #cond_reglvl_inf
-territory level inferior to [x]
+领土地位低于[x]
 
 #cond_reglvl_sup
-territory level superior to [x]
+领土地位高于[x]
 
 #cond_speed_inf
-char speed inferior to [x]
+车辆速度低于[x]
 
 #cond_speed_sup
-char speed superior to [x]
+车辆速度高于[x]
 
 #cond_has_res
-Have access to [x]
+拥有获取的[x]
+
+#cond_hasevent
+完成“[x]”事件
 
 #effect_givres
-Receive [y] [x] 
+获得[y][x]
 
 #effect_takeres
-Lose [y] [x]
+失去[y][x]
 
 #effect_globgivres
-Receive [y] [x]
+获得[y][x]
 
 #effect_givfood
-Receive [x] of food
+获得[x]的食物
 
 #effect_trigev
-Triggers event
+触发事件
 
 #effect_givcoin
-Recive [x] coins
+获得[x]硬币
 
 #effect_setcoin
-Treasury set to [x] coins
+国库设为[x]硬币
 
 #effect_loyalev
-State event: [x] territory loyalty
+国家事件: [x]领土忠诚
 
 #effect_trigproj
-Unlocks the project: [x]
+项目解锁: [x]
 
 #effect_rejproj
-Rejects the project: [x]
+项目失败: [x]
 
 #effect_givtech
-Unlocks technology: [x]
+解锁技术: [x]
 
 #effect_bandits
-The formation is immediately attacked by [x] bandits.
+这个编队立即遭到[x]匪徒的攻击。
 
 #effect_invloss
-Lose [x]% of the formation's inventory.
+丢失[x]%的这个编队的库存。
 
 #effect_invcatloss
-Lose [x]% of the formation's [y] inventory.
+丢失[x]%的这个编队的[y]库存。
 
 #effect_givloot
-You receive [x] of loot.
+您获得[x]个战利品。
 
 #effect_hostribe
-The formation is immediately attacked by [x] primitives.
+这个编队立即遭到[x]土著的攻击。
 
 #effect_unitloss
-[x]% of the formation's porcos are lost.
+[x]%的这个编队的波尔丢失了。
 
 #effect_nbdeath
-Lose [x] random unit in the formation.
+在这个编队丢失[x]个随机单位。
 
 #effect_joinbfmly
-The formation is joined by [x] families.
+这个编队有[x]个家庭加入。
 
 #effect_xplrmap
-Reveals the map of the territory up to [x] tiles around the formation.
+显示该地区的地图，最宽达编队[x]板块的周围。
 
 #effect_formlst
-The formation is lost.
+这个编队丢失了。
 
 #effect_canceldebt
-Cancel your debt.
+抵消您的债务。
 
 #effect_givunit
-The formation is joined by [y] [x].
+这个编队是由[y]个[x]组成的。
 
 #effect_agrifood
-Receive [x] of agricultural food
+获得[x]个农业食品
 
 #effect_spawnunit
-[x] [z] [y] will appear.
+[x]个[z][y]将出现。
 
 #effect_modhonor
-Honor [x]
+荣誉[x]
 
 #effect_modAP
-Action Points [x]
+行动点数[x]
 
 #effect_giveVP
-Awards [x] Victory Points.
+奖励[x]胜利点数。
 
 #effect_immigr
-[x] families arrive in the territory.
+[x]个家庭抵达该地区。
 
 #effect_emigr
-[x] families leave the territory.
+[x]个家庭离开该地区。
 
 #effect_gividea
-Receive a new idea: [x]
+获得一个新想法: [x]
 
 #effect_givreg
-Gain control of the territory.
+取得对这个领土的控制权。
 
 #effect_fac_rplc
-You will swap position in the Nation's hierarchy with this character.
+您将在国家的层次结构中与该角色互换位置。
 
 #effect_fac_trigvt
-Will trigger a vote from subordinates to elect a successor to this character's position in the Nation.
+将触发一个来自下属投票选出该角色在国家中的继任者。
 
 #effect_res_convstate
-Converts [x]% of the stocked resources in all territories to State owned.
+在所有地区转化[x]%的库存资源为国有。
 
 #event_diplomes
-Message from [x]
+来自[x]的消息
 
 #event_treaty
-Treaty proposal from [x]
+条约提议来自[x]
 
 #event_dwar_att
-We have declared war to [x]
+我们已向[x]宣战了。
 
 #event_dwar_att_1
-My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
+我的主，我们已经向[x]的[y]宣战了，现在又在和这些弱小的小猪作战。
 
 #event_dwar_def
-[x] has declared war on us!
+[X]向我们宣战了!
 
 #event_dwar_def_1
-My lord, [x] of [y] has declared war on us.
+我的主，[x]的[y]已经向我们宣战了。
 
 #event_dwar_def_2
-We are now at war with these filthy hogs.
+我们现在正与这些肮脏的猪作战。
 
 #event_war_state
-Our country is currently at war!
+我们的国家现在正处于战争状态!
 
 #event_misscomp
-Mission completed: [x]
+任务已完成: [x]
 
 #event_misscomp_1
-We have completed this mission and received its rewards.
+我们完成了这项任务，并得到了它的回报。
 
 #event_gameovr
-Game over!
+游戏结束!
 
 #event_gameovr_1
-The game is over and its winner is the nation of '[x]' , being the first to reach [p1] Victory points and with a total score of [p2].
+这场游戏已结束了而它的胜利者是这个国家的“[x]”，是第一个到达[p1]胜利分数，总分为[p2]。
 
 #event_gameovr_2
-Note that the game may go on and you can keep playing, but scores and ranks will no longer be updated and there will be no further victory missions.
+注意，这场游戏您可以离开，也可以继续游玩，但分数和排名将不再更新，也不会有进一步的胜利任务。
 
 #event_rsk_upris
-Rebellion risk in [x]
+[x]存在叛乱风险
 
 #event_rsk_upris_1
-The loyalty of [x] is very low and there is a high risk of imminent rebellion of its population! We need to do something about it...
+[x]的忠诚非常低，其人口的叛乱迫在眉睫的风险很高!我们需要做点什么…
 
 #event_rsk_upris_2
-Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leaderboard to see your final score.
+忠诚会受到以下因素的影响: 地方文化的数量、地方驻军的强大、国家军队的缺乏、国家权力或合法性较低、城市数量和首都距离。您可以打开排行榜查看您的最终评分。
 
 #event_revolt
-Popular revolt in [x]!
+[x]存在民众起义!
 
 #event_revolt_1
-The population of [x] are revolting against us and rebels are trying to take control of the city! If they suceed, we will lose control of this territory!
+[x]的人民正在反抗我们，叛乱分子正试图控制这座城市!如果他们成功了，我们将失去对这片领土的控制!
 
 #event_revolt_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]%的人群拿走武器并叛变，其中包括叛变的[p4]名当地驻军士兵。我们的[P5]名忠诚士兵正在面对总共[p3]名叛乱分子。
 
 #event_br_revolt
-Revolt thwarted in [x]
+[x]的叛乱已挫败
 
 #event_br_revolt_1
-The population of [x] revolted against your government because of low loyalty, and rebels unsucessfully tried to take control of the city.
+[x]的人民因低忠诚而反抗你们的政府，反叛者企图控制这座城市，但没有成功。
 
 #event_br_revolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]%的人群拿走武器并叛变，其中包括叛变的[p4]名当地驻军士兵。[p5]名忠诚士兵正在面对总共[p3]名叛乱分子。
 
 #event_br_lstrevolt
-[x] was lost to rebels!
+[x]被叛军夺去了!
 
 #event_br_lstrevolt_1
-The population of [x] revolted against us and rebels managed to take control of the city. Losing control of one of our cities to rebels has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost 25 of honor.
+[x]的人民起来反抗我们，反叛者设法控制了这座城市。我们的一座城被叛乱者夺去，使您的统治蒙羞。这次失败将在一段时间内削弱您作为领导人的合法性: 您失去了25点荣誉。
 
 #event_br_lstrevolt_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]%的人群拿走武器并叛变，其中包括叛变的[p4]名当地驻军士兵。[p5]名忠诚士兵正在面对总共[p3]名叛乱分子。
 
 #event_partis
-Partisans uprising in [x]!
+党羽在[x]起义!
 
 #event_partis_1
-There is an active Resistance movement in [x], and partistans loyal to the [y] have just launched an attack to try take control of the city. If they suceed, we will lose control of this territory and [p7] of honor!
+在[x]有一场积极的抵抗运动，忠于[y]的政党刚刚发动了一场攻击，试图控制这座城市。如果他们成功了，我们将失去对这片领土的控制以及[p7]的荣誉!
 
 #event_partis_2
-[p2]% of the population are taking arms and rebeling, including [p3] soldiers of the local garrison who have defected to the rebels. Our [p5] loyalist soldiers are facing a total of [p4] rebels.
+[p2]%的人群拿走武器并叛变，其中包括叛变的[p3]名当地驻军士兵。我们的[p5]名忠诚士兵正在面对总共[p4]名叛乱分子。
 
 #event_br_partis
-Partisans defeated in [x]
+[x]的党羽已挫败
 
 #event_br_partis_1
-Good news! There was an attempt from the Resistance movement in [x] loyal to the [y] to retake control of the city, but their uprising was defeated and the resistance movement was weakened by this defeat!
+好消息!忠于[y]的[x]的抵抗运动曾企图重新控制这座城市，但他们的起义被打败了，抵抗运动也因此而削弱了!
 
 #event_br_partis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]%的人群拿走武器并叛变，其中包括叛变的[p4]名当地驻军士兵。[p5]名忠诚士兵正在面对总共[p3]名叛乱分子。
 
 #event_br_lstpartis
-[x] was lost to partisans!
+[x]被党羽夺去了!
 
 #event_br_lstpartis_1
-Terrible news: the Resistance movement of [x], loyal to the [y], has launched an uprising and partisans have managed to take control of the city. Losing to a Resistance movement has brought shame to your rule. This defeat will undermine your legitimacy as a leader for a while: you have lost [p7] of honor.
+可怕的消息: 忠于[y]的[x]抵抗运动发动了一场起义，游击队成功地控制了这座城市。输给抵抗运动使您的统治蒙羞。这次失败将在一段时间内削弱您作为领导者的合法性: 您已经失去了[p7]的荣誉。
 
 #event_br_lstpartis_2
-[p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
+[p2]%的人群拿走武器并叛变，其中包括叛变的[p4]名当地驻军士兵。[p5]名忠诚士兵正在面对总共[p3]名叛乱分子。
 
 #event_Ab_pitch
-Attacking [x] of [y]
+正攻击[y]的[x]
 
 #event_Ab_pitch_1
-We are engaging the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+我们正在与[y]的“[x]”敌军进行交战，使用[p2]名士兵。
 
 #event_Ab_pitch_2
-They are facing us with [p3] soldiers.
+他们带着[p3]名士兵面对我们。
 
 #event_Abr_pitch
-Attacked [x] of [y]
+攻击了[y]的[x]
 
 #event_Abr_pitch_1
-We engaged the enemy army of '[x]' of [y] in a pitch battle with [p2] soldiers.
+我们与[y]的“[x]”敌军进行了一场交战，使用[p2]名士兵。
 
 #event_Abr_pitch_2
-They faced us with [p3] soldiers.
+他们使用[p3]名士兵面对我们。
 
 #event_Db_pitch
-'[x]' are under attack by [y]
+“[x]”正受到[y]的攻击
 
 #event_Db_pitch_1
-'[x]' are beeing engaged in pitch battle by an army of [y].
+“[x]”正在与一支由[y]组成的军队进行激战。
 
 #event_Db_pitch_2
-Our [p2] soldiers are facing [p3] enemy soldiers.
+我们的[p2]名士兵正面对[p3]名敌人士兵。
 
 #event_Dbr_pitch
-'[x]' were attacked by an army [y]
+“[x]”正受到一支[y]军队的攻击
 
 #event_Dbr_pitch_1
-'[x]' was engaged in pitch battle by an army of [y].
+“[x]”正在与一支由[y]组成的军队进行激战。
 
 #event_Dbr_pitch_2
-Our [p3] soldiers faced [p2] enemy soldiers.
+我们的[p2]名士兵面对[p3]名敌人士兵。
 
 #event_Ab_invad
-Invading [x]
+侵略[x]
 
 #event_Ab_invad_1
-We're launching an assault on [x] with [p2] soldiers to invade and take control of the territory.
+我们正在使用[p2]名士兵对[x]发起一次袭击，以入侵并控制该领土。
 
 #event_Ab_invad_2
-To suceed we must eliminate all the enemies and defenses of the territory. They're defending it with [p3] soldiers.
+为了取得胜利，我们必须消灭该领土上的一切敌人和防御工事。他们正在用[p3]名士兵保卫它。
 
 #event_Abr_invad
-Invasion of [x]
+侵略的[x]
 
 #event_Abr_invad_1
-We launched an assault on [x] with [p2] soldiers to invade and take control of the territory.
+我们使用[p2]名士兵向[x]发动了一次袭击，入侵并控制了该领土。
 
 #event_Abr_invad_2
-They defended it with [p3] soldiers.
+他们使用[p3]名士兵保卫了它。
 
 #event_Db_invad
-[y] is trying to invade [x]
+[y]正尝试入略[x]
 
 #event_Db_invad_1
-[y] has launched an assault on [x] with [p3] soldiers to try to invade and take control of our territory.
+[y]使用[p3]名士兵对[x]发动袭击，试图入侵并控制我们的领土。
 
 #event_Db_invad_2
-We must repel their invasion or we will lose control of the territory! We have [p2] soldiers defending it.
+我们必须击退他们的入侵，否则我们将失去对领土的控制!我们有[p2]名士兵正在保卫它。
 
 #event_Dbr_invad
-Defense of [x] against an invasion from [y]
+针对来自[y]的一次入侵[x]的防御
 
 #event_Dbr_invad_1
-[y] launched an assault on [x] with [p3] soldiers to try to invade and take control of our territory.
+[y]使用[p3]名士兵对[x]发动袭击，试图入侵并控制我们的领土。
 
 #event_Dbr_invad_2
-We defended it with [p2] soldiers.
+我们使用[p2]名士兵保卫了它。
 
 #event_Ab_elim
-Attacking [x]
+袭击[x]
 
 #event_Ab_elim_1
-We're launching an assault on [x] with [p2] soldiers to eliminate all enemy forces in the territory.
+我们正在使用[p2]名士兵向[x]发起一次袭击，以消灭该地区的所有敌军。
 
 #event_Ab_elim_2
-To suceed we must eliminate all the enemies and defenses of the territory. Our troops will prioritize engaging all hostile forces in presence. Some minor pillage might occur on the way if the opportunity arises. They will leave the territory once done. They're defending it with [p3] soldiers.
+为了取得胜利，我们必须消灭该领土上的一切敌人和防御工事。我们的部队将优先与所有存在的敌对势力交战。如果有机会，途中可能会发生一些小掠夺。一旦完成，他们将离开该领土。他们正在使用[p3]名士兵保卫它。
 
 #event_Abr_elim
-Attack of [x]
+攻击的[x]
 
 #event_Abr_elim_1
-We launched an assault on [x] with [p2] soldiers to eliminate all ennemies in the territory.
+我们使用[p2]名士兵对[x]发动了一次袭击，以消灭了该领土上的一切敌人。
 
 #event_Abr_elim_2
-They defended it with [p3] soldiers.
+他们使用[p3]名士兵保卫了它。
 
 #event_Db_elim
-[y] is attacking [x]
+[y]正攻击[x]
 
 #event_Db_elim_1
-[y] has launched an assault on [x] with [p3] soldiers to eliminate all our forces in the territory.
+[y]已经发动了一次对[x]的袭击，使用[p3]名士兵以消灭我们在该领土上的所有武装力量。
 
 #event_Db_elim_2
-They are not attempting to pillage, sack or invade the territory but simply to engage and eliminate our forces. If successful they will then retreat out of the territory. We have [p2] soldiers defending it.
+他们并不是企图掠夺、洗劫或侵略该领土，而只是简单地为了同我们的武装力量交战然后消灭我们的武装力量。如果成功，他们将会撤出领土。我们拥有[p2]名士兵正在保卫它。
 
 #event_Dbr_elim
-Defense of [x] against an attack from [y]
+[x]防御来自[y]的攻击
 
 #event_Dbr_elim_1
-[y] launched an assault on [x] with [p3] soldiers to try to eliminate all our forces in the territory.
+[y]发动了一次对[x]的袭击，使用[p3]名士兵以消灭我们在该领土上的所有武装力量。
 
 #event_Dbr_elim_2
-We defended it with [p2] soldiers.
+我们使用[p2]名士兵保卫了它。
 
 #event_Ab_raid
-Raiding [x]
+突袭[x]
 
 #event_Ab_raid_1
-We're launching a raid on [x] to pillage their territory with [p2] soldiers.
+我们正在对[x]发起一次突袭，使用[p2]名士兵掠夺他们的领土。
 
 #event_Ab_raid_2
-Our troops will attempt to pillage resources and buildings before leaving the territory with their loot.
+我们的军队将试图在带着他们的战利品离开该领土之前掠夺资源和建筑物。
 
 #event_Abr_raid
-Raiding of [x]
+突袭的[x]
 
 #event_Abr_raid_1
-We raided [x] to pillage their territory with [p2] soldiers.
+我们使用[p2]名士兵对[x]发动了一次突袭以掠夺他们的领土。
 
 #event_Abr_raid_2
-Our troops managed to pillage [p3] resources and [p4] coins. 
+我们的军队设法掠夺了[p3]个资源和[p4]枚硬币。
 
 #event_Db_raid
-[y] is raiding [x]
+[y]正突袭[x]
 
 #event_Db_raid_1
-[y] has launched a raid on [x] with [p2] soldiers.
+[y]使用[p2]名士兵对[x]发动了突袭。
 
 #event_Db_raid_2
-We have to stop them before they reach and pillage our resources and buildings and leave the territory with their loot!
+我们必须在他们到达并掠夺我们的资源和建筑并带着他们的战利品离开领土之前阻止他们!
 
 #event_Dbr_raid
-Defense of [x] against a raid from [y]
+[x]对[y]袭击的防御
 
 #event_Dbr_raid_1
-[y] raided [x] to pillage our territory with [p2] soldiers.
+[y]使用[p2]名士兵袭击了[x]，掠夺我们的领土。
 
 #event_Dbr_raid_2
-They managed to pillage [p3] resources and [p4] coins. 
+他们设法掠夺了[p3]个资源和[p4]枚硬币。
 
 #event_Ab_sack
-Sacking [x]
+掠夺[x]
 
 #event_Ab_sack_1
-We're launching an assault on [x] to sack the territory with [p2] soldiers.
+我们正在对[x]发起一次突袭，准备使用[p2]名士兵掠夺该领土。
 
 #event_Ab_sack_2
-Our troops will attempt to eliminate all the enemies and defenses of the territory before pillaging everything they can and leave with their loot.
+我们的军队将试图消灭该地区的所有敌人和防御工事，然后洗劫他们所能掠夺的一切，带着他们的战利品离开。
 
 #event_Abr_sack
-Sacking of [x]
+[x]的掠夺
 
 #event_Abr_sack_1
-We launched an assault on [x] to sack their territory with [p2] soldiers.
+我们发动了一次对[x]的突袭，使用[p2]名士兵掠夺了他们的领土。
 
 #event_Abr_sack_2
-Our troops managed to pillage [p3] resources and [p4] coins. 
+我们的军队设法掠夺了[p3]个资源和[p4]枚硬币。
 
 #event_Db_sack
-[y] is trying to sack [x]
+[y]正试图对[x]掠夺
 
 #event_Db_sack_1
-[y] has launched an assault on [x] to sack the territory with [p2] soldiers.
+[y]已经发动了一次对[x]的突袭，准备使用[p2]名士兵掠夺该领土。
 
 #event_Db_sack_2
-They will attempt to eliminate all our troops and defenses before pillaging everything they can and leaving with the loot.
+他们会试图消灭我们所有的军队和防御工事，然后洗劫他们所能掠夺的一切，带着战利品离开。
 
 #event_Dbr_sack
-Defense of [x] against a sacking from [y]
+防御来自[y]对[x]的掠夺
 
 #event_Dbr_sack_1
-[y] launched an assault on [x] to sack our territory with [p2] soldiers.
+[y]发动了一次对[x]的突袭，使用[p2]名士兵掠夺了我们的领土。
 
 #event_Dbr_sack_2
-They managed to pillage [p3] resources and [p4] coins. 
+他们设法掠夺了[p3]个资源和[p4]枚硬币。
 
 #event_Db_assist
-Assisting [y] in defense of [x]
+正协助[y]在[x]的防卫
 
 #event_Db_assist_1
-[y] is under attack in [x]. 
+[y]在[x]受到攻击。
 
 #event_Db_assist_2
-As an ally, our [p2] troops are participating to the battle and assissting in its defense against [p3] enemies.
+作为盟友，我们的[p2]名士兵正在参与战斗并协助抵御其[p3]名敌人。
 
 #event_Dbr_assist
-Assisted [y] in defense of [x]
+协助了[y]在[x]的防卫
 
 #event_Dbr_assist_1
-[y] was attacked in [x]. 
+[y]在[x]受到了袭击。
 
 #event_Dbr_assist_2
-As an ally, our [p2] troops participated to the battle to help in its defense against [p3] enemies.
+作为盟友，我们的[p2]名士兵参加了战斗，以帮助其抵御[p3]名敌人。
 
 #event_Ab_assist
-Assisting [y] in the attack of [x]
+正协助[y]在[x]的袭击
 
 #event_Ab_assist_1
-[y] is attacking [y]. 
+[y]正攻击[y]。
 
 #event_Ab_assist_2
-As an ally of [y], our troops are participating to the battle and assissting his armies.
+作为[y]的盟友，我们的军队正在参加战斗，以支援他的军队。
 
 #event_Abr_assist
-Assisted [y] in the attack of [x]
+协助了[y]在[x]的袭击
 
 #event_Abr_assist_1
-[y] attacked [y]. 
+[y]攻击了[y]。
 
 #event_Abr_assist_2
-As an ally of [y], our troops participated to the battle and assissted his armies.
+作为[y]的盟友，我们的军队参加了战斗并支援了他的军队。
 
 #event_hunt
-Hunting [p2] [p3]
+狩猎[p2]只[p3]
 
 #event_hunt_1
-We are launching a hunt against [p2] [p3]!
+我们正在发起一场猎杀[p2]只[p3]的行动!
 
 #event_hunt_2
-Our hunters will attempt to kill as much of these animals as they can to fill their inventory.
+我们的猎人会尽可能多地猎杀这些动物，以填满他们的库存。
 
 #event_huntr
-Hunting [p2] [p3]
+狩猎[p2]只[p3]
 
 #event_huntr_1
-Our hunters launched a hunt against [p2] [p3].
+我们的猎人发起了对[p2]只[p3]的狩猎。
 
 #event_huntr_2
-They attempted to kill as much of these animals as they could to fill their inventory.
+他们试图杀死尽可能多的这些动物，以填满他们的库存。
 
 #event_debt
-Indebted !
+负债!
 
 #event_debt_1
-We are currently indebted of [p1] coins in our trasury. Beeing in debt reduces our State power and affects the loyalty of our cities and armies.
+我们的国库当前已负债了[p1]的硬币。负债累累会削弱我们的国家权力并影响我们城市和军队的忠诚。
 
 #event_debt_2
-We need to put back our state income balance in the green or we'll get in serious trouble. If the situation is desperate, we can also take a last resort decision of cancelling our debt but this will generate great unrest in our state.
+我们需要把我们的国家收入余额变成绿色，否则我们就会陷入严重的麻烦。如果情况危急，我们也可以采取最后的决定取消我们的债务，但这将在我们的国家产生巨大的动荡。
 
 #event_c_canceldebt
-Cancel the debt
+取消债务
 
 #event_confcdebt
-Confirm canceling the debt?
+确认取消债务?
 
 #event_confcdebt_1
-Are you sure you want to declare our debt nul and void ? 
+您确定您要宣布我们的债务无效吗? 
 
 #event_confcdebt_2
-With a debt of [p1] coins and a GDP of [p2], our debt currently represents [p3]% of our GDP: if we cancel it, we will suffer an estimated penalty of [p4] loyalty in all our territories and you will lose about [p5] of honor!
+我们的债务是[p1]硬币，GDP是[p2]，我们的债务目前占GDP的[p3]%: 如果我们取消它，我们将在我们所有的领土上遭受[p4]忠诚的惩罚，您将失去[p5]的荣誉!
 
 #event_canceldebt
-Debt canceled!
+债务取消!
 
 #event_canceldebt_1
-We took the drastic measure of declaring our debt of [p1] coins nul and void, anouncing that we would not be paying back what we owed.
+我们采取了极端的措施，宣布我们的[p1]硬币债务无效，并声明我们不会偿还我们所欠的债务。
 
 #event_canceldebt_2
-In all our cities, the creditors of our debt are revolted that they're never getting paid what we owed them. Many people lost everything and are ruined as a consequence. The economy is destabilized and in great turmoil, not to mention the loss of the people's trust in their government. 
+在我们所有的城市，我们债务的债权人都很反感，因为他们从来没有得到我们欠他们的钱。许多人失去了一切，结果被毁了。经济不稳定，动荡不安，更不用说失去人民对政府的信任。
 
 #event_canceldebt_3
-As a consequence of canceling a debt of [p3]% our total GDP ([p2] coins), we are suffering a penalty of [p4] Loyalty in all our territories and you have lost [p5] of honor. This effect will slowly decay as people forget this event, but it will require time. In the meantime, we should prepare for the worse.
+由于取消了占我们GDP总值[p3]%([p2]硬币)的债务，我们正受到一个在我们的所有领土上[p4]忠诚的惩罚而您失去了[p5]的荣誉。当人们忘记这件事的时候，这种影响会慢慢减弱，但这需要时间。与此同时，我们应该做最坏的打算。
 
 #event_lowpow
-Negative state power!
+消极的国家权力!
 
 #event_lowpow_1
-State power is the capacity of your state to manage things. Without it, we will be unable to pass reforms and the loyalty of our territories is negatively impacted which may lead to popular rebellions.
+国家权力是您的国家管理事物的能力。没有它，我们将无法通过改革，我们的领土的忠诚受到负面影响，这可能导致人民起义。
 
 #event_lowpow_2
-State power can be improved by : owning less cities, having no debt, revoquing expensive policies.
+国家权力可以通过以下方式得到改善: 拥有更少的城市、没有债务、取消昂贵的政策。
 
 #event_lowlegit
-Negative legitimacy!
+负面合法性!
 
 #event_lowlegit_1
-Legitimacy is how much the people recognizes the right of your state's claims to authority. Without it, not only do we face an increasing risk of popular uprisings, but our armies might also turn against us to overthrow our illegitimate government!
+合法性是指人民在多大程度上承认您的国家对权力的要求。没有它，我们不仅面临着越来越多的民众起义的风险，而且我们的军队也可能转而反对我们，推翻我们非法的政府!
 
 #event_lowlegit_2
-Legitimacy policies define what claims you make to assert your right as the leader of this State. These claims define the importance of all the different Legitimacy factors. To improve our situation, we could either work to improve the current factors, or reform our Legitimacy claims to rely on more beneficial ones.
+合法性政策定义了您主张什么来维护您作为这个国家领导人的权利。这些主张确定了所有不同合法性因素的重要性。要改善我们的状况，我们要么努力改善当前的因素，要么改革我们所声称的依赖于更有益因素的合法性。
 
 #event_tribwarn
-Stolen territory
+偷来的领土
 
 #event_tribwarn_1
-Beware! By creating our newest settlement of [x], we have usurped the lands of a primitive tribe that has been living there for generations. Sure, this territory looked appealing, but we will eventually pay the consequences of this action for the natives will not tolerate our presence forever.
+小心!通过在[x]建立我们最新的定居点，我们已经侵占了世代居住在那里的一个原始部落的土地。当然，这片土地看起来很吸引人，但我们最终会为这一行为付出代价，因为土著人不会永远容忍我们的存在。
 
 #event_tribwarn_2
-For now, they only watched us set camp from afar but they know these lands better than anyone and disapear everytime we try to approach them. I'm afraid we won't be able to 'deal with them' before they choose to cause trouble... We should prepare for a possible surprise attack by them. They might be preparing weapons and warriors to chase us from their lands as we speak! Or maybe this land is not worth the trouble after all and we could just pack up and leave them be?
+现在，他们只看到我们在远处扎营，但他们比任何人都更了解这片土地，每次我们试图接近他们时，他们就会消失。恐怕在他们选择制造麻烦之前，我们无法“对付他们”…我们应该为他们可能的突然袭击做好准备。当我们说话的时候，他们可能正在准备武器和战士把我们赶出他们的土地!或者也许这片土地根本不值得我们费这么大的劲，我们可以把它们收起来，不管它们了?
 
 #event_tribreb
-Primitive tribe uprsiging in [x]!
+原始部落正在[x]崛起!
 
 #event_tribreb_1
-The natives living in our territory of [x] have grown upset of having what they feel to be their territory occupied by us. They have taken arms and decided to treacherously attack!
+居住在我们[x]领土上的土著人对他们的领土被我们占领感到不安。他们拿起武器，决定背信弃义地进攻!
 
 #event_trt_ref
-[y] has refused our treaty proposal
+[y]拒绝了我们的条约提议
 
 #event_trt_ref_1
-An emissary of [y] has informed us that our fair and generous treaty offer has been declined by [x].
+[y]的一位使者通知我们，我方公平和慷慨的条约提议已被[x]拒绝。
 
 #event_trt_acc
-Treaty with [y] signed
+与[y]签订了条约
 
 #event_trt_acc_1
-Our treaty with [x] of [y] has been approved and signed by us both and is now effective!
+我们与[y]的[x]的条约已获得我们的批准和签署，现在生效！
 
 #event_trt_rngoc
-[y] is proposing a treaty renegociation
+[y]正提出重新谈判一项条约
 
 #event_trt_rngoc_1
-[x] of [y] is proposing the following renogication of a treaty we currently have with them. If we agree to these new terms, the treaty will be updated.
+[y]的[X]正提议将我们目前与他们签订的下述一项条约重新调整。如果我们同意这些新条款，该条约将得到更新。
 
 #event_trt_asktrm
-[y] is asking to terminate a treaty
+[y]要求终止一项条约
 
 #event_trt_asktrm_1
-[x] of [y] is asking for the mutually agreed termination of a treaty we have with his people. If we agree to this request, the treaty will be terminated instantly without triggering any breaking closes and its terms will cease to be effective. If we refuse, nothing will happen and the treaty will remain active unless they decide to break it illegally (in which case their breaking closes apply).
+[y]的[X]要求双方同意终止我们与他的人民之间的一项条约。如果我们同意这一要求，该条约将立即终止，而不会引起任何中断，其条款也将不再有效。如果我们拒绝，什么也不会发生，除非他们决定非法破坏条约(在这种情况下，他们的破坏终止适用)，否则条约将继续有效。
 
 #event_trt_brk1
-[x] has broken a treaty!
+[x]撕毁了一项条约!
 
 #event_trt_brk1_1
-[x] has illegaly broken the treaty of '[y]' they had with us!
+[x]非法地破坏了他们与我们之间的“[y]”条约!
 
 #event_trt_brk1_2
-According to the treaty's breaking terms, we have received [p1] coins in compensation and they lost [p2] of honor.
+根据条约的违约条款，我们收到了[p1]硬币作为赔偿，他们失去了[p2]的荣誉。
 
 #event_trt_brk2
-We have broken a treaty with [x]!
+我们撕毁了与[x]的一项条约!
 
 #event_trt_brk2_1
-We have illegaly broken the treaty of '[y]' we had with [x].
+我们非法地违反了与[x]签订的“[y]”条约。
 
 #event_trt_brk2_2
-According to the treaty's breaking terms, as a penalty we have paid [p1] coins and lost [p2] of honor.
+根据条约的违约条款，作为一种惩罚，我们支付了[p1]硬币并失去了[p2]的荣誉。
 
 #event_trt_brkw1
-We have declared war to them in retaliation, and any other treaty with them has 
+我们向他们宣战是为了报复，与他们签订的任何其他条约都是如此
 
 #event_trt_brkw2
-They have declared war on us in retaliation.
+他们向我们宣战以报复。
 
 #event_brb_raid
-Incoming barbarian raiders!
+传入野蛮人突袭者!
 
 #event_brb_raid_1
-Our scouts report that a group of around [p1] barbarian raiders have left the nearby territory of [x] and are coming our way.
+我们的侦察兵报告说，有一支大约[p1]名野蛮人袭击者已经离开了附近的[x]领地，正朝我们逼近。
 
 #event_brb_raid_2
-They might be here soon and attempt to quickly raid our warehouses. We must get our defenses ready! 
+他们可能很快就会到来，并试图迅速袭击我们的仓库。我们必须做好我们的防御准备!
 
 #event_brb_sack
-Incoming barbarian warband!
+传入野蛮人战团!
 
 #event_brb_sack_1
-Our scouts report that a barbarian warband of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+我们的侦察兵报告说，有一支大约[p1]名波尔的野蛮人战团已经离开了附近的[x]领地，正朝我们逼近。
 
 #event_brb_sack_2
-They might be here soon and will attack to overcome all our defenses beofre sacking the whole territory! We must get our defenses ready! 
+他们可能很快就会到来然后将会进攻，以攻破我们所有的防御工事，掠夺整个领土!我们必须做好防御准备!
 
 #event_brb_inv
-Incoming barbarian invaders!
+传入野蛮人侵略者!
 
 #event_brb_inv_1
-Our scouts report that an army of barbarians of around [p1] pocros has left the nearby territory of [x] and are coming our way.
+我们的侦察兵报告说，有一支大约[p1]名波尔野蛮人军队已经离开了附近的[x]领地，正朝我们逼近。
 
 #event_brb_inv_2
-They might be here soon and they dont seem to be coming just to pillage, but to invade our lands! We must get our defenses ready! 
+他们可能很快就会到来，但他们似乎不只是来掠夺的，而是来侵略我们的土地!我们必须做好防御准备!
 
 #event_crsh_vict
-Crushing victory!
+压倒性的胜利!
 
 #event_crsh_vict_1
-Our formation <<[x]>> has utterly crushed and eliminated a small troop of [y] enemies, thanks to our overwhelming superior numbers. 
+我们的编队<<[x]>>已经完全粉碎和消灭了一支小型军队的[y]名敌人，这要归功于我们压倒性的优势。
 
 #event_crsh_dfeat
-Crushing defeat!
+惨败!
 
 #event_crsh_dfeat_1
-Grave news : our formation <<[x]>> has been utterly crushed and eliminated by the [y] enemy, with overwhelming superior numbers. Nobody survived to even tell the tale.
+重大消息: 我们的编队<<[x]>>已经被[y]的敌人彻底粉碎并消灭了，有着压倒性的优势。甚至没有人幸存下来讲述这个故事。
 
 #event_popdefrise
-The people of [x] is defending the city!
+[x]的人民正在保卫这座城市!
 
 #event_popdefrise_1
-The people of the city of [x] are taking arms by themselves to help defend the city against the attackers. [p1] porcos are joining the battle!
+[x]市的人民正在自己携带武器，以帮助保卫该城市免受攻击者的袭击。[p1]波尔正在加入战斗!
 
 #event_trout_w1
-Trade route warning: no trading rights!
+贸易路线警告: 无贸易权!
 
 #event_trout_w1_1
-Because we no longer have trading rights with the city of [y], our trade route between this city and [x] will close soon unless we fix this issue quickly. 
+由于我们与[y]市之间不再有贸易权，我们与[x]市之间的贸易路线将很快关闭，除非我们迅速解决这个问题。
 
 #event_trout_w1_2
-This can happen if the city has a new owner with whom we havn't negociated trading rights, or if these rights have been revoked.
+如果这个城市有一个新的所有者，而我们没有与他商谈贸易权，或者这些权利已经被撤销，就会发生这种情况。
 
 #event_trout_b1
-Trade route broken!
+贸易路线中断了!
 
 #event_trout_b1_1
-Because we no longer had trading rights with the city of [y], our trade route between this city and [x] closed. 
+因为我们不再与[y]市有贸易权，我们与[x]市的贸易路线已经关闭。
 
 #event_trout_b1_2
-This happened because the city got a new owner with whom we havn't negociated trading rights or if because the trading rights were revoked.
+这是因为这座城市有了一个新的所有者，而我们并没有与他商谈贸易权，或者是因为贸易权被撤销了。
 
 #event_trout_w2
-Trade route warning: missing cargo!
+贸易路线警告: 丢失货运力!
 
 #event_trout_w2_1
-Our trade route with [x] operated by [y] is missing [p2] of cargo to be operated properly. The trade route will close soon unless we fix this issue quickly.
+我们与[y]运营[x]的贸易航线丢失[p2]的货运力，需要妥善经营。除非我们尽快解决这个问题，否则贸易路线很快就会关闭。
 
 #event_trout_w2_2
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
+货运服务是指允许携带货物不断地沿着一条贸易路线运输，并保持一个恒定的资源转移。每条路线都需要一定数量的货运力，这取决于贸易货物的距离和数量。
 
 #event_trout_w2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+然而，这个经营商已不再提供足够的所需货运服务来正常运作这条贸易路线: 要解决这个问题，这个经营商需要增加其现有服务，或我们需要切换至另一个可提供所需货运力的新经营商([p3])。
 
 #event_trout_b2
-Trade route broken!
+贸易路线中断了!
 
 #event_trout_b2_1
-Our trade route with [x] closed because its operator [y] was unable to provide the required cargo ([p3]) to maintain it (was missing [p2]).
+我们与[x]的贸易路线已关闭了，因为其经营商[y]无法提供所需的货运力([p3])来维持它(已丢失[p2])。
 
 #event_trout_b2_2
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
+货运服务是指允许携带货物不断地沿着一条贸易路线运输，并保持一个恒定的资源转移。每条路线都需要一定数量的货运力，这取决于贸易货物的距离和数量。
 
 #event_trout_b2_3
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
+然而，这个经营商已不再提供足够的所需货运服务来正常运作这条贸易路线: 要解决这个问题，这个经营商需要增加其现有服务，或我们需要切换至另一个可提供所需货运力的新经营商([p3])。
 
 #event_trout_w3
-Trade route warning: we are missing goods!
+贸易路线警告: 我们正在丢失货物!
 
 #event_trout_w3_1
-Our trade route exporting [p2] [p3] to [x] from [y] is lacking the required goods and will close soon unless we fix this issue quickly!
+我们从[y]出口到[x]的[p2][p3]的贸易路线缺少所需的货物，除非我们尽快解决这个问题，否则将很快关闭!
 
 #event_trout_w3_2
-This is happening because we are no longer producing enough [p3] in [x] and our stocks have run out. 
+这是因为我们在[y]中的[p3]产量不足，而且我们的库存已经耗尽。
 
 #event_trout_b3
-Trade route broken!
+贸易路线中断了!
 
 #event_trout_b3_1
-Our trade route exporting [p2] [p3] to [x] from [y] closed because we could no longer provide the required goods.
+我们从[y]出口到[x]的[p2][p3]的贸易路线已关闭，因为我们无法提供所需货物。
 
 #event_trout_b3_2
-This happened because we were not producing enough [p3] in [x] and our stocks had ran out. 
+这是因为我们在[y]中的[p3]产量不足，而且我们的库存已经耗尽。
 
 #event_trout_w4
-Trade route warning: exporter is missing goods!
+贸易路线警告: 出口货物已丢失!
 
 #event_trout_w4_1
-Our trade route importing [p2] [p3] from [y] to [x] is lacking the required goods and might close soon unless the exporter fix this issue quickly!
+我们从[x]进口到[y]的[p2][p3]的贸易路线缺少所需的货物，除非出口方尽快解决这个问题，否则可能很快关闭!
 
 #event_trout_w4_2
-This is happening because their production of [p3] in [y] is insufficent and their stocks ran out.
+这是因为他们在[x]中的[p3]产量不足，而且他们的库存已经耗尽。
 
 #event_trout_b4
-Trade route broken!
+贸易路线中断了!
 
 #event_trout_b4_1
-Our trade route importing [p2] [p3] from [x] to [y] closed because they could no longer provide the required goods.
+我们从[x]进口到[y]的[p2][p3]的贸易路线已关闭，因为他们无法提供所需货物。
 
 #event_trout_b4_2
-This happened because their production of [p3] in [x] was insufficent and their stocks had ran out.
+这是因为他们在[x]中的[p3]产量不足，而且他们的库存已经耗尽。
 
 #event_trout_c1
-[x] closed a trade route!
+[x]关闭了一条贸易路线!
 
 #event_trout_c1_1
-The city of [x] closed their trade route of [p2] [p3] with our city of [y].
+[x]市关闭了他们与我们[y]市的[p2][p3]的贸易路线。
 
 #event_trout_c2
-One of our trade routes was closed by its operator!
+我们的一条贸易航线被它的经营商关闭了!
 
 #event_trout_c2_1
-The city of [x] has decided to stop operating our trade route of [p2] [p3] with our city of [y]. This resulted in the trade route beeing closed.
+[x]市已决定停止运营我们与[y]市之间的[p2][p3]贸易路线。这导致贸易路线被关闭。
 
 #event_cdog
-A hunter tamed some wild dogs in [x]!
+一个猎人在[x]驯服了一些野狗!
 
 #event_cdog_1
-Some wild dogs have been wandering around the village of [x] lately. The animals seemed friendly and one hunter managed to tame some of them: he put them in a closed paddock to keep them around. We should keep them until we need fresh meat, its always good to have food stocks!
+最近，一些野狗一直在[x]的村落附近游荡。这些动物看起来很友好，一位猎人设法驯服了其中一些: 他把它们关在一个封闭的围场里，让它们待在附近。我们应该把它们饲养到我们需要新鲜肉的时候，它们始终是良好的食物储备!
 
 #event_csheep
-We have tamed some wild sheep in [x]!
+我们在[x]驯服了一些野生绵羊!
 
 #event_csheep_1
-Some wild sheep have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks! They are also quite fluffy.
+最近，一些野生绵羊一直在[x]的村落附近游荡。这些动物看起来很友好，于是一位村民设法吸引它们在一个小型封闭的围场里，以确保它们不会离开。我们应该把它们饲养到我们需要新鲜肉的时候，它们始终是良好的食物储备!它们还非常蓬松。
 
 #event_cgoat
-We have tamed some wild goats in [x]!
+我们在[x]驯服了一些野山羊!
 
 #event_cgoat_1
-Some wild goats have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+最近，一些野生山羊一直在[x]的村落附近游荡。这些动物看起来很友好，于是一位村民设法吸引它们在一个小型封闭的围场里，以确保它们不会离开。我们应该把它们饲养到我们需要新鲜肉的时候，它们始终是良好的食物储备!
 
 #event_crabbit
-Hunters have captured some wild rabbits in [x]!
+猎人们在[x]捕获了一些野兔!
 
 #event_crabbit_1
-The hunters of [x] got lucky and have managed to capture some rabbits alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]的猎人们很幸运，他们捕捉到了一些活着的兔子，并把它们放在笼子里饲养，以备我们在需要新鲜的肉的时候!它们始终是良好的食物储备。
 
 #event_cchick
-Hunters have catched some wild chicken in [x]!
+猎人们在[x]捕获了一些野鸡!
 
 #event_cchick_1
-The hunters of [x] got lucky and have managed to capture some chickens alive and have put them in cages to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]的猎人们很幸运，他们捕捉到了一些活着的鸡，并把它们放在笼子里饲养，以备我们在需要新鲜的肉的时候!它们始终是良好的食物储备。
 
 #event_ccow
-We have tamed some wild cows in [x]!
+我们在[x]驯服了一些野牛!
 
 #event_ccow_1
-Some wild cows have been wandering around the village of [x] lately. These animals seemed passive, and one villager managed to direct them to a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+最近，一些野牛一直在[x]的村落附近游荡。这些动物似乎很被动，于是一位村民设法吸引它们在一个小型封闭的围场里，以确保它们不会离开。我们应该把它们饲养到我们需要新鲜肉的时候，它们始终是良好的食物储备!
 
 #event_cbuff
-We have tamed some wild buffalos in [x]!
+我们在[x]驯服了一些野生水牛!
 
 #event_cbuff_1
-Some wild buffalos have been wandering around the village of [x] lately. These animals seem friendly, and one villager managed to attract them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+最近，一些野生的水牛一直在[x]的村落附近游荡。这些动物看起来很友好，于是一位村民设法吸引它们在一个小型封闭的围场里，以确保它们不会离开。我们应该把它们饲养到我们需要新鲜肉的时候，它们始终是良好的食物储备!
 
 #event_chorse
-Hunters captured some wild horses in [x]!
+猎人们在[x]捕获了一些野马!
 
 #event_chorse_1
-The hunters of [x] got lucky and have managed to capture some wild horses. They have locked the agitated animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]的猎人们很幸运，他们捕捉到了一些野马。他们已经把这些焦虑不安的动物关一个小型封闭的围场里饲养，以备我们在需要新鲜的肉的时候!它们始终是良好的食物储备。
 
 #event_ccamel
-Hunters captured some wild camels in [x]!
+猎人们在[x]捕获了一些野骆驼!
 
 #event_ccamel_1
-The hunters of [x] got lucky and have managed to capture some wild camels. They have locked the stubborn silly looking animals in a small paddock to keep them, in case we need fresh meat! its always good to have food stocks.
+[x]的猎人们很幸运，他们捕捉到了一些野骆驼。他们已经把这些看起来很傻很固执的动物关一个小型封闭的围场里饲养，以备我们在需要新鲜的肉的时候!它们始终是良好的食物储备。
 
 #event_cllama
-We have tamed some wild llamas in [x]!
+我们在[x]驯服了一些野生美洲驼!
 
 #event_cllama_1
-Some wild llamas have been wandering around the village of [x] lately. These animals seemed quite friendly - to the extent of a stubborn spitting llama - and one villager managed to push them in a small closed paddock to make sure they dont leave. We should keep them until we need fresh meat, its always good to have food stocks!
+最近，一些野生的美洲驼一直在[x]的村落附近游荡。这些动物看起来非常友好——甚至像一只倔强的吐着口水的羊驼——于是一位村民设法吸引它们在一个小型封闭的围场里，以确保它们不会离开。我们应该把它们饲养到我们需要新鲜肉的时候，它们始终是良好的食物储备!
 
 #event_projsuc
-Our project '[x]' was successfully completed!
+我们的项目“[x]”已成功完成!
 
 #event_projsuc_1
-Our project '[x]' has been successfully completed and we have earned its rewards!
+我们的项目“[x]”已经成功完成并且我们也得到了回报!
 
 #event_projfail
-Our Project '[x]' failed!
+我们的项目“[x]”失败了!
 
 #event_projfail_1
-Our project of '[x]' with [p2]% chances of success has been completed, but unfortunately it failed to meet its expectations and we have not earned its expected rewards. I'm afraid we have to start again from scratch and hope for better results...
+我们的“[x]”项目已经完成，有[p2]%的成功几率，但不幸的是，它没有达到它的预期值，我们没有获得它预期的回报。恐怕我们必须从头开始，希望得到更好的结果…
 
 #event_projfail_2
-A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We should try to assign better researchers to increase our chaces of success next time!
+如果一个项目它的难度高于分配给它的研究人员的平均智商，那么这个项目可能会失败。我们应该尝试指派更好的研究人员来增加我们下一次成功的机会!
 
 #event_herd
-Herd of [p2] spotted near [x]!
+在[x]附近发现了一群[p2]!
 
 #event_herd_1
-The scouts of the tribe have spotted a moving heard of around [p1] [p2] near our settlement of [x],in a territory of [y].
+这个部落的侦察员在我们的[x]定居点附近发现了一群大约[p1]只正在移动的[p2]，在一片属于[y]的领土上。
 
 #event_herd_2
-We could send some of our best Porcos to hunt them: that would provide us with fresh meat and leather for the tribe!
+我们可以派出一些我们最出色的波尔去猎杀它们: 这将为我们的部落提供新鲜的肉和皮革!
 
 #event_form_animesc
-[p3] have escaped the surveillance of our '[x]'!
+[p3]逃脱了我们“[x]”的监视!
 
 #event_form_animesc_1
-[p2] [p3] have escaped from the surveillance of our formation '[x]' that was guarding them, and are now lost.
+[p2][p3]已经逃过了看守它们的我们的“[x]”编队的监视，而现在已经失踪。
 
 #event_form_animesc_2
-Animals may escape if they are too numerous relative to their keepers or simply kept for too long in a formation's inventory. To make sure this doesn't happen again, maybe we should consider parking them in proper paddocks or carrying smaller numbers so they are less likely to escape the supervision of their assigned keepers.
+如果相对于饲养员来说，动物数量过多，或者只是在编队的库存中保存的时间过长，那么它们可能会逃跑。为了确保这种情况不会再次发生，也许我们应该考虑把它们搁置在合适的围场内或者携带较少的数量，这样它们就不太可能逃脱指定饲养员的监管。
 
 #event_rcvidea
-We received a new idea from [x]!
+我们从[x]那里得到了一个新想法!
 
 #event_rcvidea_1
-Good news: the people of [x] have shown us their knowledge of [p1] and explained to us the rudiments of what it is and how it works.
+好消息: [x]的人民向我们展示了他们的[p1]知识，并向我们解释了它是什么以及它是如何运作的。
 
 #event_rcvidea_2
-Based on what they shown us, we have now unlocked a new project: '[p2]', which we can attempt to complete ourselves to master the knowledge of [p1] as well!
+我们基于他们所展示的内容，我们现在已经解锁了一个新的项目:“[p2]”，我们也可以尝试完善自己来掌握[p1]的知识!
 
 #event_trtov
-Our treaty '[x]' with [y] is now over.
+我们与[y]的“[x]”条约现在结束了。
 
 #event_trtov_1
-The treaty '[x]' we had with [y] reached the end of its agreed duration and is now obsolete! 
+我们与[y]签订的条约“[x]”已经过了商定的期限，现已作废!
 
 #ev_migtrib
-Tribe of hungry nomads in [x]
+饥饿的游牧部落在[x]
 
 #ev_migtrib_1
-Attracted by our prosperity, a primitive tribe of hungry nomads has arrived in [x]. They have been wandering the lands for a long time, suffering from hunger, and they are interested in joining our community. They carry little with them and don't have much to offer besides their workforce.
+被我们的繁荣所吸引，一个饥饿的原始游牧部落来到了[x]。他们在这片土地上流浪了很长时间，饱受饥饿之苦，因此他们有兴趣加入我们的社区。他们随身携带的东西很少，除了劳动力，他们没有什么可以提供的。
 
 #ev_migtrib_2
-Should we welcome them into our tribe ?
+我们应该欢迎他们加入到我们的部落吗?
 
 #ev_migtrib_c1
-"Yes, we need the extra workforce. Let them be welcomed amongst us."
+“是的，我们需要额外的劳动力。让他们在我们之中受到欢迎吧。”
 
 #ev_migtrib_c2
-"No! We can't afford extra mouths to feed."
+“不!我们养不起多余的人。”
 
 #ev_stormwood
-Stormy night in [x]
+风雨交加的夜晚在[x]
 
 #ev_stormwood_1
-A violent storm raged all night in [x], with strong winds. Luckily, nooone was harmed and the village didn't sustain any damage.
+一场猛烈的暴风雨在[x]肆虐了一整夜，刮着强风。幸运的是，没有人受伤，村庄也没有遭受任何损失。
 
 #ev_stormwood_2
-In the morning however, the villagers noticed that a few tall old trees had fallen nearby, making it an easy free supply of wood! 
+然而，到了早上，村民们注意到附近有几棵高大的老树倒了，这使得它成为一个容易的免费供应的木材!
 
 #ev_luckgath
-Lucky gatherer in [x]
+幸运的采集者在[x]
 
 #ev_luckgath_1
-One of our gatherers got lucky and stumbled upon a previously undiscovered patch of edible plants hidden in the vegetation that noone had previously noticed! That is one good harvest for the day!
+我们的一个采集者很幸运，偶然发现了一块以前未被发现的可食用植物，它隐藏在以前没有人注意到的植物中!这是一个好收成的一天!
 
 #ev_nagwif
-The nagging wife
+爱唠叨的妻子
 
 #ev_nagwif_1
-One porco of the village of [x], exasperated by the constant naggings of his Sow, decided to go on a lonely retreat in the wilderness to hunt and thus he disapeared for several days. 
+[x]的村落里的一个波尔，由于被他的妻子没完没了的唠叨惹恼了，决定在荒野里孤独地去打猎，因此他失踪了好些天。
 
 #ev_nagwif_2
-Many feared he would never return. But on the 5th day he came back, carrying with him the spoils of what had turned out to be a greatly successful hunt. He was cheered by the whole tribe. His wife however was not pleased and left with her piglets to live at her mother's tribe on the other side of valley.
+许多人担心他再也不会回来了。但在第五天他回来了，带着他的那些战利品来证明是一个非常成功的狩猎。他受到了整个部落的欢呼。然而他的妻子很不高兴，带着她的仔猪离开了，住到了山谷另一边她母亲的部落里。
 
 #ev_regwolf
-Hungry wolves in [x]!
+饥饿的狼在[x]!
 
 #ev_regwolf_1
-A pack of hungry wolves has arrived in the territory of [x], probably attracted by our food stocks! During the night, they woke up the whole tribe with their frightening howlings which which got closer and closer. At dawn, their dark silhouettes were spotted around the village.
+一群饥饿的狼来到了[x]的地区，可能是被我们的粮食储备所吸引!到了晚上，它们用可怕的嚎叫惊醒了整个部落，吼声越来越近。黎明时分，它们的黑影出现在村落的周围。
 
 #ev_regwolf_2
-All the warriors rushed to their weapons and gathered, ready to fight off the incoming wolf pack and to protect the village's people and stocks!
+所有的勇士都匆忙的拿起他们的武器并聚集，准备击退来袭的狼群并保护村里的人民和库存!
 
 #ev_regbear
-Bad bears in [x]
+凶残的熊在[x]
 
 #ev_regbear_1
-A small group bears came wandering in the territory of [x]. During the night they entered the village and started to rampage through our food stocks and supplies.
+一小群熊来到了[x]的地区内漫游。在夜晚，它们进入了村落并开始大肆破坏我们的食品储备和供应品。
 
 #ev_regbear_c1
-"Everyone, just pretend to sleep..."
+“大家，假装睡觉…”
 
 #ev_regbear_c2
-Time to fight some bears!
+是时候和一些熊战斗了!
 
 #ev_asylm
-Asylum seekers in [x]
+寻求庇护者在[x]
 
 #ev_asylm_1
-A group of nomads arrived in our territory of [x]. They told their story of how they were chased away of their lands by another neighboring tribe after a conflict between them.
+一群游牧民族来到了我们的[x]地区。他们讲述了自己的故事，讲述了他们之间发生冲突后，如何被另一个邻近部落赶出自己的土地。
 
 #ev_asylm_2
-Attacked during one night, they lost most of their people and fled their homeland, but not before one of their best warriors managed to kill the chief of the enemy tribe. Since then, his son has vowed to hunt them down for revenge no matter where they go, and they have been on the run for many weeks. 
+在一个晚上的袭击中，他们失去了他们大部分的人民并逃离了他们的家园，但在此之前，他们最好的战士之一设法杀死了敌人部落的首领。从那以后，他的儿子誓言追捕复仇无论他们走到哪里，他们已经逃亡了好几个星期。
 
 #ev_asylm_3
-Their pursuers are not far behind, and your tribe is now their only hope. They beg for asylum and safety, offering to pledge their loyalty to our people if we accept to protect them. If we do, we will have to fight their pursuers! 
+他们的追击者紧随其后，而您的部落现在是他们唯一的希望。他们乞求庇护和安全，并承诺如果我们接受保护他们，他们将效忠于我们的人民。如果我们这样做，我们将不得不与他们的追击者战斗!
 
 #ev_asylm_c1
-Offer them asylum and fight off their pursuers.
+向他们提供庇护并击退他们的追击者。
 
 #ev_asylm_c2
-Capture these fugitives and offer them to justice of their pursuers for a reward.
+抓捕这些逃亡者，并将他们交给追捕他们的人，以获得奖赏。
 
 #ev_knowtrav
-The knowledgable traveler
+知识渊博的旅行者
 
 #ev_knowtrav_1
-One day, an old pig arrived in our village of [x], his feet weary from the many travels he had made. He was a lonely hermit, living and travelling alone for many years now. 
+有一天，一只老猪来到了我们[x]的村落，他的脚因为长途跋涉而疲惫不堪。他是一个孤独的隐士，多年来一直独自生活和旅行。
 
 #ev_knowtrav_2
-He told the tale of the ancient people he belonged to, who perished a long time ago from a mysterious desease that he was the only one to miraculously recover from, fleeing away from his land. He also told stories of how his people used to live: incredible stories about things they did that noone here had ever though off. There was much to learn from his teachings as he seemed to come from a more refined a mysterious people. 
+他讲述了他所属的古老民族的故事，他们在很久以前死于一种神秘的疾病，他是唯一一个奇迹般地康复的人，逃离了他的土地。他还讲述了他的民族过去是如何生活的: 他们所做的令人难以置信的事情，这里的人从来没有想过。他的教诲有很多值得学习的地方，因为他似乎来自一个更高雅、更神秘的民族。
 
 #ev_knowtrav_3
-But the wonder and influence he gained amongst the tribe started to upset its more dominant members who felt their position threatened... What should we do about it ?
+但是他在部落中获得的惊奇和影响力开始让部落中更有统治地位的成员感到不安，他们觉得自己的地位受到了威胁…我们应该怎么办呢?
 
 #ev_knowtrav_c1
-Listen to what this traveler has to teach even if it upsets them.
+听听这位旅行者都要给我们讲授什么，即使这会让他们感到不安。
 
 #ev_knowtrav_c2
-Ban the oldpig of the village for his lies.
+禁止他对村落里的老猪说谎。
 
 #ev_frndgift
-Gift of friendship in [x]
+友好的礼物在[x]
 
 #ev_frndgift_1
-A group of nomad travellers passed through our small village of [x]. They stayed for a few days, sharing stories and befriending some of our locals. Pleased by our hospitality, they gifted us with some of their belongings as a token of friendship, before bidding us farewell and moving on with their journey.
+一群游牧旅行者经过我们[x]的小村落。他们在那里停留了几天，分享了一些故事，并和我们当地的一些人成为了朋友。他们对我们的热情好客很满意，在向我们告别并继续他们的旅程之前，送给我们一些他们的东西作为友谊的象征。
 
 #ev_vp_complet
-Victory mission completed!
+胜利任务完成了!
 
 #ev_vp_complet_1
-We have completed the victory mission "[y]" before anyone else and earned its reward, proving to everyone that we are a glorious people!
+我们在其他任何人之前先完成了“[y]”胜利任务并获得了它的奖励，向所有人证明了我们是一个辉煌的民族!
 
 #ev_vp_fail
-[x] has completed a victory mission!
+[x]完成了一项胜利任务!
 
 #ev_vp_fail_1
-The people of [x] have completed the victory mission "[y]" before us!
+[x]的人民在我们之前完成了“[y]”胜利使命!
 
 #ev_joinwriors
-Warriors wish to join us!
+勇士们希望加入我们!
 
 #ev_joinwriors_1
-A group of 10 warriors had been wandering the lands for many moons before arriving in our tribe. They are friendly and wish to join us: they offer to help us to hunt herds and explore the world if we welcome them among us.
+一支由10名勇士组成的队伍在到达我们部落之前已经在这片土地上游荡了好几个月。他们很友好，希望加入我们: 如果我们欢迎他们加入我们，他们愿意帮助我们狩猎兽群和探索世界。
 
 #ev_joinwriors_c1
-"Yes, let us welcome them!"
+“是的，让我们欢迎他们!”
 
 #ev_joinwriors_c2
-"No, we cannot support new people right now."
+“不，我们现在不能支持新人。”
 
 #ev_exceptool
-Exceptionnal tools
+额外的工具
 
 #ev_exceptool_1
-One of the tribe's most skilled craftspig found stones of unusual solidity and hardness and he managed to craft a few tools of exceptionnal quality out of it!
+部落中最熟练的工匠之一发现了异常坚固和坚硬的石头，他设法用它制作出了一些质量上乘的工具!
 
 #ev_spdboost
-Speed boost!
+速度提升!
 
 #ev_spdboost_1
-As a newly created character, to enjoy a dynamic start you are awarded a temporary x[x] SPEED BOOST during your first [y] minuts of playing!
+作为一个新创建的角色，为了享受一个动态的开始，您会在开始的[y]分钟内获得一个临时的 x[x]速度提升!
 
 #ev_spdboost_2
-This bonus, as long as it remains active, modifies the following stats of your character:
+这个奖励，只要它保持活跃状态，就会修改您的角色的下列状态:
 
 #ev_spdboost_3
-- Production and consumption of resources in your territories happens at a faster rate, as the production cycle is reduced by [x].
+- 由于生产周期减少了[x]，在您的领土上，资源的生产和消费以更快的速度发生。
 
 #ev_spdboost_4
-- Population growth evolves faster as the duration of a normal generation is reduced by [x].
+- 随着正常一代人的寿命缩短了[x]，人口增长的速度也会加快。
 
 #ev_spdboost_5
-- Research speed is increased by [x].
+- 研究速度提高了[x]。
 
 #ev_spdboost_6
-- Construction speed is increased by [x].
+- 建造速度增加了[x]。
 
 #ev_rebljoin
-[x] rebelled and wishes to join us.
+[x]已反叛并希望加入我们
 
 #ev_rebljoin_1
-Good news: the city of [x] rebelled against its opressors of [y]. The city is free at last and the popuation, feeling culturally attached to us, now wishes to rejoin our glorious nation! 
+好消息: [x]城市背叛了[y]的压迫者。这座城市终于自由了，人民在文化上与我们结下了不缘，现在希望重新加入我们辉煌的民族!
 
 #ev_rebljoin_2
-If we accept, we will regain ownership and control of this territory. If we refuse, they will remain ruled by rebels.
+如果我们接受，我们将重新获得这一领土的所有权和控制权。如果我们拒绝，他们将继续由叛军统治。
 
 #ev_rebljoin_c1
-Agree and annex the territory
+同意并兼并该领土
 
 #ev_rebljoin_c2
-Refuse
+拒绝
 
 #ev_heirprop
-Heirdom
+继承权
 
 #ev_heirprop_1
-[x] is now inactive and his position is up for succession. He designated you as his heir, and you can therefore immediately take his place within the Nation.
+[x]现在处于不活跃状态，他的职位有待继任。他指定您为他的继承人，因此您可以立即代替他在国家内的位置。
 
 #ev_heirprop_2
-If you agree, your positions will be immediately swapped: you will inherit his rank and subordinates while he inherits yours, becoming your own subordinate. Depending on your new title's priviledges, you might then be able to remove him entirely from the Nation, dismantle his territories, or reorganize the hierarchy to recover your past subordinates or move him further down.
+如果您同意，您的职位将立即调换: 您将继承他的职位和下属，而他将继承您的职位，成为您自己的下属。根据您的新头衔所享有的特权，您或许可以将他完全从这个国家驱逐出去，拆解他的领土，或者重组等级制度，让您过去的下属复职，或者将他进一步降级。
 
 #ev_heirprop_c1
-Accept
+接受
 
 #ev_heirprop_c2
-Refuse
+拒绝
 
 #ev_votesucc
-Time to vote!
+时间投票!
 
 #ev_votesucc_1
-[x], your superior, is now inactive and his position is up for succession. It's time to vote to designate who amongst his subordinates will be chosen to replace him.
+[x]，您的上级，现在处于不活动状态，他的职位有待继任。是时候投票选出他的下属中谁来接替他了。
 
 #ev_votesucc_2
-Once a successor is elected, his position will be immediately swapped with [x] and he will inherit his rank and subordinates. The predecessor, by default, is automatically moved to the newly elected successor's previous position where he can then be further managed as a subordinate (dismantled, expelled, replaced...).
+继任者一旦当选，他的职位将立即与[x]调换，他将继承他的级别和下属。默认情况下，前任自动移到新当选的继任者以前的职位，在那里他可以作为下属进一步管理(拆解、驱逐、替换…)。
 
 #ev_votesucc_rslt
-[p2] has been elected [x]
+[p2]已当选[x]
 
 #ev_votesucc_rslt_1
-[p2] has been elected [x], succeeding to [p1]. 
+[p2]已当选[x]，接替[p1]。
 
 #ev_votesucc_rslt_2
-[p2] won the election with [p3] votes out of [p4] cast votes.
+[p2]在[p4]投票中以[p3]票赢得选举。
 
 #ev_votesucc_won
-You have been elected [x]!
+您当选[x]了!
 
 #ev_votesucc_won_1
-Congratulations! You have been elected [y] in succession of [p1]. 
+恭喜您!您在[y]中被选出接替[p1]。
 
 #ev_votesucc_won_2
-You won the election with [p3] votes in your favor out of [p4] cast votes.
+您在选举中以[p3]票中的[p4]票对您有利的投票而获胜。
 
 #ev_xplrch_vrywl
-"Very well."
+“非常好。”
 
 #ev_xplrch_shame
-"Its a shame."
+“真可惜。”
 
 #ev_xplrch_exlnt
-"Excellent!"
+“太棒了!”
 
 #ev_xplrch_notime
-"No, we have no time for this."
+“不，我们没时间了。”
 
 #ev_xplrch_proceed
-"Yes, proceed!"
+“是的，继续!”
 
 #ev_xplrch_nvrmnd
-"No. Nevermind."
+“不。别介意。”
 
 #ev_xplrch_leave
-Leave.
+离开。
 
 #ev_xplr_bdts
-Bandits ambushed our formation '[x]'!
+强盗伏击了我们的“[x]”编队!
 
 #ev_xplr_bdts_1
-While our formation '[x]' of [p2] Porcos was traveling through the wilderness, they happened at some point to pass through a small narrow pass nested between 2 hills. The sun was high and the Porcos were tired of the long journey and carrying of all the goods the troup had with them.
+当我们的[p2]波尔的“[x]”编队穿越荒野时，他们碰巧在某个时刻通过了嵌在两座小山之间的一个狭窄的小隘口。太阳已经很高了，波尔们已经厌倦了长途旅行和携带剧团与他们所有的货物。
 
 #ev_xplr_bdts_2
-Unsurprisingly, a small group of about 20 ambushed bandits suddenly emerged on both sides, surrounding our troops. Their leader moved forwarded, and made a simple demand: "Give us all yerr loot or be bacon!". What should we do?
+不出所料，两侧突然出现了大约20名埋伏的强盗，包围了我们的部队。他们的首领向前走了一步，简单地说: “要么给我们全部的战利品，要么做熏猪肉!”。我们该怎么办?
 
 #ev_xplr_bdts_c1
-"We ain't afraid of no Pigbandits!"
+“我们不怕没有猪强盗!”
 
 #ev_xplr_bdts_c2
-Give them what they want.
+给他们想要的。
 
 #ev_xplr_abvil
-'[x]' found an abandonned village.
+“[x]”发现了一个废弃的村落。
 
 #ev_xplr_abvil_1
-While exploring the lands, our group '[x]' stumbled upon the remains of an abonned primitive village of a few huts. Cautiously, the Porcos started to inspect these remains and came to the conclusion that whomever lived there are now long gone. "They seem to have abandonned many things here. Who knows for what reasons the people who lived there decided to leave, but they didnt take much with them!", concluded the group leader.
+在探索这片土地的时候，我们的团队“[x]”偶然发现了一个废弃的原始村庄的遗迹，只有几间小屋。波尔们开始小心翼翼地开始检查这些遗骸，并得出结论: 曾经住在那里的人早已不在了。“他们似乎已经放弃了这里的许多东西。谁知道住在那里的人是出于什么原因决定离开的，但他们没带多少东西!”，组长总结道。
 
 #ev_xplr_abvil_2
-Although many things have spoiled or decayed with time, some still appear to be in good enough condition to be of interest to us. Should we search the village and scavenge what we can ?
+尽管许多东西随着时间的流逝已经变质或腐烂，但有些东西似乎仍然完好无损，值得我们去关注。我们应该搜查这个村子，尽我们所能去寻找吗?
 
 #ev_xplr_abvil_c1
-"Yes, search the abandonned village and let's take what we can!"
+“是的，搜索这个被遗弃的村庄，让我们尽我们所能!”
 
 #ev_xplr_abvil_c2
-"No, let's leave things as they are, we have no time for this."
+“不，我们就这样吧，我们没时间了。”
 
 #ev_xplr_birds
-Fearless birds
+无所畏惧的鸟类
 
 #ev_xplr_birds_1
-'[x]' were camping in a forest after a long day of walking in these unknown lands. Night was coming, and all the porcos were gathered around campfires. That's they heard a noise in a nearby bush, from which emerged a bunch of dumblooking fat birds unknown to them. The beasts seemed oblivious of their presence, picking on things on the forest floor as if they were alone on earth.
+“[x]”在这片未知的土地上走了一整天之后，我们在森林里露营。夜幕降临，所有的波尔都聚集在营火旁。他们听到附近灌木丛里有声音，一群看起来傻乎乎的肥鸟从里面飞出来，他们根本不知道。野兽们似乎没有注意到它们的存在，它们在森林的地面上啄食着东西，好像只有它们在地球上。
 
 #ev_xplr_birds_2
-"Well... Looks like fresh meat's back on the menu, boys!", grinned the group's leader: by morning, all the birds had went to meet their maker. What a lucky hunt! The group, in the morning, left with a fullbelly and a new stocks of fresh meat.
+“嗯…看来新鲜的肉又出现在菜单上了，伙计们!领队咧嘴笑着说: 到了早上，所有的鸟都去见造物主了。多幸运的狩猎啊!早上，这群人带着饱腹的肚子和一批新鲜库存的肉离开了。
 
 #ev_xplr_hsttrib
-'[x]' is attacked by an hostile tribe!
+“[x]”受到了一个敌对部落的攻击!
 
 #ev_xplr_hsttrib_1
-Bad news! While '[x]' was walking across new unknown lands, they suddenly found themselves surrounded by a group of a demi-dozen hostile natives. They came from nowhere... We probably stepped to close to their territory, or maybe they just don't like our snouts. Before the porcos could even realize what was happening, the primitive warriors was already attacking...
+坏消息!当“[x]”穿越未知的新土地时，他们突然发现自己被一群敌对的当地人包围了。他们不知从何而来…我们很可能接近了他们的领地，或者也许他们只是不喜欢我们的鼻子。在波尔们意识到发生了什么之前，原始人的战士们已经开始进攻了…
 
 #ev_xplr_thirst
-Unforgiving desert
+无情的沙漠
 
 #ev_xplr_thirst_1
-Our formation '[x]' wandered too far in unknown arid lands. For days, they could not find any source of fresh water. The porcos desperately searched for water, but it was no easy task in these desertic foreign lands. By the time they found a muddy puddle to quench their thrist, many of them had been lost to the vultures and the unforgiving sun of these lands.
+我们的编队“[x]”在未知的干旱地带走得太远了。几天来，他们找不到任何淡水来源。波尔们拼命地寻找水源，但在这些荒无人烟的异国他乡，这并非易事。当他们发现一个泥泞的水坑来解他们的饥渴时，他们中的许多人已经被这片土地上的秃鹫和无情的太阳吞噬了。
 
 #ev_xplr_thirst_2
-Maybe we should have avoided venturing too far in such an hostile territory.  
+也许我们应该避免在这样一个充满敌意的领土上冒险走得太远。
 
 #ev_xplr_lstjngl
-Lost in the jungle
+迷失在丛林
 
 #ev_xplr_lstjngl_1
-The porcos of '[x]' had been wondering in this bloody jungle for days, harassed by the heat and lost. It wasnt long before the one group turned into 2 groups... "Hey Mr Jenkins, I swear i already saw this damn tree 2 days ago!" said Porkypigs. "Common, maybe we'll find the rest of the group soon! Let's keep waking!". But they never did. However, they did find a nest of flesh eating flies the size of a hand when Mr Jenkins decided it was a good time to poke a suspicious hole in a tree with a stick in an attempt to find something to eat.
+“[x]”的波尔在这片该死的丛林里游荡了好几天，由于酷热和疲惫焦虑，它们迷路了。没过多久，一组变成了两组…“嘿，詹金斯先生，我发誓两天前我就看到这棵该死的树了!”肥胖的猪说道。“很常见，也许我们很快就能找到其他人!让我们保持清醒!”。但他们从来没有这样做过。然而，当詹金斯先生决定是时候用棍子在树上戳一个可疑的洞，试图找些吃的东西时，他们确实发现了一窝手那么大的食肉苍蝇。
 
 #ev_xplr_lstjngl_c1
-"Bloody Mr Jenkins!" 
+“该死的詹金斯先生!”
 
 #ev_xplr_strvtrib
-The starving tribe
+饥饿的部落
 
 #ev_xplr_strvtrib_1
-The porcos of '[x]' had spotted a small group of people away from them, walking on the side of a hill. The next day, in the morning, the same group was spotted again, this time closer, and the Porcos decided to go meet them: it was a small group of a few families, with piglets and sows, and they didnt seem to be of any threat.
+“[x]”的波尔们发现有一小群人，走在丘陵的另一侧。第二天早上，同样的一群人又被发现了，这次离得更近了。于是，这个波尔决定去会见他们: 这是一小群几口之家，带着仔猪和母猪，他们似乎没有任何威胁。
 
 #ev_xplr_strvtrib_2
-When moving closer, their condition became horrifyingly clear: these people were walking skelettons, starving. They walked slowly, and in their eyes was no hope. They didn't seem to notice the presence of the group getting closer to them until one of us stepped litteraly in front of them.
+当走近时，他们的情况变得非常清楚: 这些人瘦得像骷髅一样，饥肠辘辘。他们走得很慢，在他们的眼里没有希望。他们似乎没有注意到这群人离他们越来越近，直到我们中的一个人在他们面前蹒跚而行。
 
 #ev_xplr_strvtrib_3
-We offered them some of our provisions, and it wasn't before the 2nd day that they finaly exchanged a few words with the group and told us their story. They used to be a bigger and prosperous tribe, living of hunting and gathering until they were chased away from their lands by a more powerful tribe. They had lost all their precious tools and weapons, and most of the strongest Porcos of their tribe had died fighting. Since then, the survivors had wandered the land unable to hunt, slowly starving.
+我们向他们提供了我们的一些粮食，直到第二天，他们才终于和大家交谈了几句话，并向我们讲了他们的故事。他们曾经是一个更大更繁荣的部落，以狩猎和采集为生，直到被一个更强大的部落从他们的土地上赶走。他们失去了所有珍贵的工具和武器，部落中最强壮的波尔也在战斗中死去。从那时起，幸存者就在这片土地上游荡，无法狩猎，慢慢地挨饿。
 
 #ev_xplr_strvtrib_c1
-"Join us, we will offer you a new home!"
+“加入我们，我们将为您提供一个新家!”
 
 #ev_xplr_strvtrib_c2
-We can't take care of these people. Let's wish them good luck and move on. 
+我们不能照顾这些人。让我们祝他们好运，然后继续前进。
 
 #ev_xplr_snakes
-Snakes in a plain
+平原上的蛇
 
 #ev_xplr_snakes_1
-Our formation '[x]' was slowly crossing a seemingly endless plain covered in tall thick grass the height of a porco when one of them felt a sharp pain on his feet: he had been bitten by a colorfull snake that quickly disapeared in the grass. There was nothing we could do for the poor bastard: in a few minuts his leg had doubled volume and he met a gruesome death.
+我们的编队“[x]”正缓缓地穿过一片看似无边无际的平原，平原上长满了像波尔一样高的又高又密的草，这时其中一个波尔感到脚上一阵剧痛: 他被一条颜色鲜艳的蛇咬了一口，很快就消失在草里了。我们什么也做不了对可怜的家伙: 没过几分钟，他的腿就肿了一倍，他遭遇了可怕的死亡。
 
 #ev_xplr_snakes_2
-That, unfortunately, was just a begining as by the time the group managed to escape the plain, 2 more had been bitten and followed the same fate. This plain was litterally infested with viscious snakes.
+不幸的是，这只是一个开始，当这群人设法逃离平原时，又有2人被咬伤，跟着同样的命运走了。这片平原上到处都是毒蛇。
 
 #ev_xplr_snakes_c1
-"I've had it with these motherfuckin' snakes!"
+“我受够这些该死的蛇了!”
 
 #ev_xplr_map
-Friendly tribe offers '[x]' a map of the territory.
+友好的部落向“[x]”提供了一张领土地图。
 
 #ev_xplr_map_1
-Our formation '[x]' was well received by natives in a small village, where they spent a few days to rest. The villagers offered our porcos to teach them all about the surrounding territory that they know very well: 
+我们的编队“[x]”受到了一个小村庄的当地人的欢迎，他们在那里休息了几天。村民们向我们的波尔提供了他们非常熟悉的周边地区的一切知识:
 
 #ev_xplr_map_2
-"Sniffingwind here is the village's best scout" said their chief. "He knows all the ins and outs of these lands. If you wish, Sniffingwind can show you how to travel in the territory, he's never been in trouble. He'll tell you what areas to avoid, what places are dangerous, and where to pass. In the meantime you're welcome to stay in our small village!" Should we stay a little more and accept their help?
+“Sniffingwind是这儿村落里最好的侦察兵”他们的首领说道。“他知道所以这片土地的来龙去脉。如果您愿意，Sniffingwind可以告诉您如何在这片土地上旅行，他从来没有遇到过麻烦。他会告诉您哪些地方要避开，哪些地方是危险的，以及从哪里经过。在此期间，欢迎您住在我们的小村庄里!”我们应该多呆一会儿，接受他们的帮助吗?
 
 #ev_xplr_snglost
-Explorer lost!
+探险者迷失了!
 
 #ev_xplr_snglost_1
-It is very dangerous to travel these unknown lands alone. Sadly, our explorer disapeared and was never heard of again. 
+独自在这些未知的土地上旅行是很危险的。可悲的是，我们的探险者失踪了，从此杳无音信。
 
 #ev_xplr_snglost_2
-Who knows what happened to him... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
+谁知道他出了什么事…也许我们应该考虑下次派出更大的探险队，以增加我们成功的机会。
 
 #ev_xplr_grplost
-Explorers lost!
+探险队迷失了!
 
 #ev_xplr_grplost_1
-It is very dangerous to travel these unknown lands in a small group. Sadly, our explorer disapeared and were never heard of again. 
+一小群人在这些未知的土地上旅行是很危险的。可悲的是，我们的探险者失踪了，从此杳无音信。
 
 #ev_xplr_grplost_2
-Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, to increase our chances of success.
+谁知道他们出了什么事…也许我们应该考虑下次派出更大的探险队，以增加我们成功的机会。
 
 #ev_xplr_storm
-Ships lost in a terrible storm!
+船只在一场可怕的风暴中沉没了!
 
 #ev_xplr_storm_1
-The sea is dangerous and moody. Before anyone had time to react, a calm breeze turned into a terrifying storm with waves taller than hills and a sky darker than the night. Our ship, sadly, was no match for this storm. The porcos fought bravely, but pigs and ships were all claimed by the sea by the next morning. I'm afraid we've lost the whole expedition.
+大海是危险而多变的。没等任何人反应过来，一阵平静的微风就变成了可怕的风暴，海浪比山还高，天空比夜晚还要黑。不幸的是，我们的船无法与这场风暴抗衡。波尔们勇敢地战斗着，但到了第二天早上，猪和船都被大海夺去了所有权。恐怕我们整个探险都失败了。
 
 #ev_xplr_rwave
-Rogue wave!
+巨浪滔天!
 
 #ev_xplr_rwave_1
-The sea is dangerous and treacherous. It was a sunny day, the sea appeared to be calm and the breeze was nice. The porcos were relaxed, though eager to be back on land. But suddenly, one pig squeeled, pointing at horizon on starboard. Everyone looked in terror at what looked like an improbable wall of water coming in the direction of the ship. Before anyone could do anything, the tiny ship was hit and capsized. 
+大海既危险又暗藏危机。这是一个阳光明媚的日子，大海似乎很平静，微风和煦。波尔们很放松，尽管他们渴望回到陆地上。但突然，一头猪尖叫着，指着右舷的地平线。每个人都惊恐地看着，似乎有一道不可思议的水墙朝船的方向涌来。没人来得及做什么，小船就被撞翻了。
 
 #ev_xplr_rwave_2
-There was nothing they could have done against such a treacherous and unpredictible event: they did not stand a chance. Ship and pigs were dragged to tbe bottom of the sea, never to be seen again.
+他们没有办法对付这种危险和不可预测的事件: 他们没有机会。船和猪被拖到海底，再也不见了。
 
 #ev_xplr_menlstsea
-'[x]' was hit by a storm.
+“[x]”遭到了暴风雨袭击。
 
 #ev_xplr_menlstsea_1
-The sky had been threatening all evening: a wall of dark clouds coming from the horizon towards them. The captain tried to escape it, but unsucessfuly. It was too big, it moved too fast, and the ship was too tiny. They had to face it, and by nightfall, it had engulfed them.
+整个晚上，天空都乌云密布: 一堵乌云的墙从地平线向他们袭来。船长试图摆脱它，但没有成功。它太大了，移动得太快了，而且船太小了。他们不得不面对它，夜幕降临时，它已经吞没了他们。
 
 #ev_xplr_menlstsea_2
-It was a terrible night all the porcos will forever remember. Waves almost capsized the freil ship multiple times, but fortunately and against all odds, their loyal embarcation hanged on. Not everyone was there in the morning, and many porcos lost brothers that night. They will never mention it again, but all will remember forever the desperate calls for help of those who fell in the sea during the storm while they watched, helpless, as they drifted inexorably away from the ship.
+那是一个所有波尔都会永远记住的可怕的夜晚。海浪几乎多次掀翻了这艘脆弱的船，但幸运的是，尽管困难重重，他们忠实的登船之旅仍然继续。不是每个人早上都在那里，那天晚上很多波尔失去了兄弟。他们再也不会提起这件事，但所有人都将永远记住那些在风暴中坠入大海的人绝望的呼救，他们无助地看着自己无情地漂离大船。
 
 #ev_xplr_invlstsea
-'[x]' lost supplies to the sea.
+“[x]”失去了海上补给。
 
 #ev_xplr_invlstsea_1
-One unskilled sailor didnt properly attach a crate of supplies the ship was carrying and during a turbulent night with strong winds, the crate fell into the sea and we lost its contents!
+一个不熟练的水手没有正确地把船上所载的物资装上板条箱。在一个狂风暴雨的夜晚，板条箱掉进了海里，我们失去了里面的东西!
 
 #ev_xplr_sngseal
-Dangerous sea
+危险的海
 
 #ev_xplr_sngseal_1
-The sea is no place for lone navigators. It is unforgiving and unmercyful: our few travellers disapeared and were never heard of again.
+大海不适合孤独的航海家。它是无情和残忍的: 我们为数不多的几个旅行者不见了踪影，从此杳无音信。
 
 #ev_xplr_sngseal_2
-Who knows what happened to them... Maybe we should consider sending a bigger expedition next time, if we want to stand a chance!
+谁知道他们出了什么事…如果我们有机会的话，也许下次我们应该考虑派一支更大的探险队!
 
 #ev_xplr_wiseold
-The Wise Oldpig
+充满智慧的老猪
 
 #ev_xplr_wiseold_1
-As our expedition '[x]' was heading to a new unexplored territory, a group of porcos in rags crossed our path. Despite their modest appearance, they all seemed well-educated, filled with assurance and determination. Their leader, a venerable oldpig wearing a shaggy beard falling to his knees, presented himself as a philosopher. He had been roaming the world for many years, professing his thought to anyone willing to listen.
+当我们的探险队“[x]”前往一个新的未被探索的地区时，一群衣衫褴褛的波尔挡住了我们的去路。尽管他们外表朴素，但他们似乎都受过良好的教育，充满自信和决心。他们的领袖是一位德高望重的老猪，留着蓬乱的胡须，跪倒在地，自称是哲学家。他在世界各地流浪多年，向任何愿意倾听的人表达自己的思想。
 
 #ev_xplr_wiseold_2
-We decided to sit with them for a moment and the wise old pig started to present his doctrine: He argued that happiness couldn�t be reached by satisfying conventional desires like wealth, power, fame or pleasures of the flesh. According to his school of thought, only a simple life free from all possessions could really fulfill our souls. 
+我们决定和他们坐一会儿，这个聪明的老猪开始陈述他的学说: 他认为幸福是不能通过满足传统的欲望，如财富、权力、名望或肉体的快乐来获得的。根据他的思想流派，只有一种简单的生活，没有所有的财产，才能真正充实我们的灵魂。
 
 #ev_xplr_wiseold_3
-He pleaded for hours, captivating the whole audience. His words were subtle and his reasoning logical. He was even so persuasive that many of us decided to give up all their possessions to follow him.
+他辩论了好几个小时，吸引了所有的听众。他的话很微妙，他的推理很有逻辑。他甚至很有说服力，我们中的许多人决定放弃他们所有的财产跟随他。
 
 #ev_xplr_cptsow
-Captive sows
+被俘虏的母猪
 
 #ev_xplr_cptsow_1
-A scout of the expedition '[x]' just reported the presence of a band of warriors in the area. Judging by the appearance of their camp, their presence in the territory is just temporary. 
+探险队“x”的一名侦察员刚刚报告说，该地区有一队战士。从他们营地的外表看来，他们在该领土上的存在只是暂时的。
 
 #ev_xplr_cptsow_2
-In the center of their bivouac, the scout has spotted a large wooden cage filled with captive sows. We do not know the intentions of these warriors, nor the circumstances in which these sows were caught, but their fate seem quite unpleasant. 
+在他们宿营地的中央，侦察员发现了一个大木笼子，里面关满了圈养的母猪。我们不知道这些战士的意图，也不知道这些母猪是在什么情况下被抓住的，但它们的命运似乎相当令人不快。
 
 #ev_xplr_cptsow_c1
-Fight the captors to free the sows.
+与俘获者战斗以解放母猪。
 
 #ev_xplr_cptsow_c2
-Do not get involved.
+不要参与其中。
 
 #ev_xplr_slprats
-Damn rats!
+该死的老鼠!
 
 #ev_xplr_slprats_1
-Our expedition, '[x]' was forced to take shelter in the first rocky cavity we could find as a thunderstorm suddenly broke out. Rain-soaked to the skin, we all clustered together and tried to rest despite the deafening noise of the tempest.
+我们的探险队“[x]”被迫躲在我们能找到的第一个岩石洞穴里，因为突然爆发了一场雷雨。雨水浸湿了皮肤，我们全部挤在一起并试图休息，尽管暴风雨的声音震耳欲聋。
 
 #ev_xplr_slprats_2
-In the morning, the rain finally stopped and calm returned. Half asleep, we heard squeaks coming from our food containers. We soon realized we were surrounded by rats. The malicious rodents had taken advantage of the noise to feast on our provisions all night. 
+早晨，雨终于停了，平静了下来。半睡半醒，我们听到食物容器里传来吱吱声。我们很快意识到我们被老鼠包围了。那些恶毒的啮齿动物利用噪音整夜大吃我们的供给。
 
 #ev_xplr_jnglsnek
-Jungle snake
+丛林里的蛇
 
 #ev_xplr_jnglsnek_1
-While '[x]' were making their way into the dense rainforest, one of our explorers was bitten by a jet-black snake. The creeping reptile then immediately vanished behind a bush. After a few hours, the injured porcos complained of feeling dizzy and having a blurred vision. He finally died in the night, unable to breathe. 
+当“[x]”进入浓密的热带雨林时，我们的一位探险者被一条乌黑的蛇咬了。这只爬行的爬行动物随即消失在灌木丛后面。几小时后，受伤的波尔们开始抱怨头晕目眩，视力模糊。最后他昨晚死了，无法呼吸。
 
 #ev_xplr_lckyfsh
-Lucky fishing
+幸运的捕鱼
 
 #ev_xplr_lckyfsh_1
-Our explorers of '[x]' were camping on the banks of a river for the night. It was a sunny late afternoon, and the water was crystal clear. That's when one porco spotted them: giant fat fishes swimming in the shallow waters! They were so slow the group could pick them up effortlessly.
+我们的探险者在河边露营过夜。这是一个阳光明媚的下午，水是清澈的。就在这时，一个波尔发现了它们: 在浅水区游动的巨大的肥鱼!它们是如此迟缓，整个团队都能毫不费力地把它们捡起来。
 
 #ev_xplr_lckyfsh_2
-The group fed well that night. They also gutted and smoked a lot more fish to take with them on their journey.
+那天晚上他们吃得很好。此外他们取出了鱼的内脏并熏制很多，以便在旅途中随身携带。
 
 #ev_xplr_natrprov
-Nature provides
+自然的提供
 
 #ev_xplr_natrprov_1
-'[x]', while travelling across the land, stumbled upon a small patch of fertile land covered with lustrous plants filled with vegetables and fruits ready for the picking.
+“[x]”，在这片土地上旅行时，偶然发现了一小块肥沃的土地，上面长满了有光泽待采摘的蔬菜和水果植物。
 
 #ev_xplr_natrprov_2
-Sometimes, the nature is generous and provides. The porcos stopped for a few hours and feasted with this unxpected gift and took the rest with them.
+有时候，大自然会慷慨的提供。波尔们停了几个小时，享用了这份意想不到的礼物，并带走了其余剩余的。
 
 #ev_xplr_elegsow
-The elegant sow
+高贵的母猪
 
 #ev_xplr_elegsow_1
-During their journey through an unexplored territory, the expedition of '[x]' met a procession led by an elegant sow, comfortably seated on a palanquin. The two groups decided to travel together temporarily in order to benefit from mutual protection. 
+在他们穿越一片未开发的土地的旅途中，“[x]”的探险队遇到了一队由一头优雅的母猪带领的队伍，它舒适地坐在轿子上。这两个团体决定暂时一起旅行，以便从相互保护中获益。
 
 #ev_xplr_elegsow_2
-The porcos in the cortege barely spoke a word. Unlike the other members of her group, the matriarch was very dynamic and talkative. She said she was versed in the arts of botany and could prepare all kinds of miraculous remedies and ointments. When the time came for dinner, she served some of her specialties.  In order to wash it down, she also offered holy drinks concocted by her. Upon finishing the strange mixture, the explorers felt better than they had ever felt before. They thought the drink was blessed and that the mighty sow was of divine nature for being able to conceive such a substance. The following month, they were offered the holy mixture whenever they asked for it. They soon became addicted to the delicious drug of the Hag. They became her puppets, drained of all their wills, just like all the other unfortunate fellows in the procession.
+卫兵里的波尔几乎一句话也没说。不像她的小组的其他成员，女族长是非常活跃和健谈。她说她精通植物学，能配制各种奇迹般的药物和药膏。晚饭时间到了，她端上了她的一些特色菜。为了把它冲掉，她还提供了她调制的圣水。吃完这种奇怪的混合物后，探险者们感到前所未有的舒畅。他们认为这杯酒是有福的，因为这头强大的母猪能够孕育出这样一种物质，它的本性是神圣的。在接下来的一个月里，只要他们要求，就会有人提供这种神圣的混合物。他们很快就对巫婆的美味毒品上瘾了。他们成了她的傀儡，完全丧失了自己的意志，就像队伍中其他不幸的人一样。
 
 #ev_xplr_elegsow_3
-A few of them couldn�t stand it any longer and decided to flee during the night. The next days, they wandered aimlessly, struggling against the lack of drug. After a long and tough weaning they finally recovered. Just a few porcos of the former expedition party are still there. All the others have been bewitched by the extremely addictive concoction of the hag. 
+他们中的一些人再也受不了了，于是决定在夜里逃跑。接下来的几天，他们漫无目的地游荡，与毒品的缺乏作斗争。经过长时间的艰苦戒断，他们终于恢复了健康。只有一些前探险队的波尔还在那里。其他所有人都被巫婆极其上瘾的混合物所迷惑。
 
 #ev_xplr_mahout
-The mahouts
+看象人
 
 #ev_xplr_mahout_1
-During their peregrinations in unexplored lands, the porcos of  '[x]' halted in a small hamlet of peaceful mahouts. The locals owned a couple of healthy elephants. Taming these big creatures is a long and laborious process, and sometimes their wild instincts take control again. 
+当他们在未开发的土地上游历时，“x”的波尔们在一个和平的小村庄里停了下来。当地人养了两只健康的大象。驯服这些大动物是一个漫长而艰苦的过程，有时它们的野性会再次控制它们。
 
 #ev_xplr_mahout_2
-As our explorers were about to leave, the enormous pachyderms suddenly went berserk. They made a breach in the fence and brought chaos in the hamlet, grinding the huts, putting everything upside down. As the situation became desperate, one of our porcos approached carefully the two furious elephants. Against all odds, the enraged animals calmed down instantly. Lying down on their stomachs, they raised their trunks towards the porcos, in sign of prostration. The local population was stunned and thought our porcos was a divine being.  They all knelt in his direction and shouted: �The father of elephants!�
+当我们的探险队正要离开时，这些巨大的厚皮动物突然发狂。它们在篱笆上打开缺口，把村子里弄得一片混乱，把小屋都捣毁了，把一切都弄得乱七八糟。当情况变得危急时，我们的一位波尔小心翼翼地靠近那两头狂暴的大象。尽管困难重重，但狂暴的动物们立刻平静下来。他们仰面躺着下，把鼻子朝波尔抬起，这是一种屈膝的迹象。当地居民感到震惊，并认为我们的波尔是一个神圣的存在。他们都朝他的方向跪下并喊道: “大象之父!”
 
 #ev_xplr_mahout_3
-After that, the mahouts seemed to worship our porcos and wished to join us with their herd.
+在那之后，看象人似乎崇拜我们的波尔，并希望加入我们与他们的牧群。
 
 #ev_xplr_mahout_c1
-Enroll them.
+使他们加入。
 
 #ev_xplr_mahout_c2
-Refuse and leave.
+拒绝并离开。
 
 #ev_xplr_luckstrk
-Lucky strike
+鸿运当头
 
 #ev_xplr_luckstrk_1
-Our explorers '[x]' were ascending the steep slopes of a newly discovered territory when they started to feel the ground moving under their feet.  The piece of land on which the group was standing sharply broke away, causing a massive landslide. 
+我们的探险队“[x]”正在攀登一个新发现的地区的陡坡，这时他们开始感到脚下的地面在移动。这群人站立的那块土地突然断裂，造成了大规模滑坡。
 
 #ev_xplr_luckstrk_2
-Many of our porcos were injured, but luckily all of them survived. As they got back on their feet, they noticed a shiny protuberance from afar.  As they approached it, they discovered an enormous deposit of ore, which had been laid bare by the landslide. 
+我们的很多波尔都受伤了，但幸运的是他们都活了下来。当他们站起来的时候，他们注意到远处有一个发亮的突起。当他们走近的时候，他们发现了一个巨大的矿藏，那是由于滑坡而裸露出来的。
 
 #ev_xplr_ruinorph
-The orphan survivors
+幸存的孤儿
 
 #ev_xplr_ruinorph_1
-Our explorers '[x]' had spotted a large cloud of smoke on the horizon, rising and covering the sky of its dark coat. Our porcos cautiously approached the location from which the fire originated and discovered smoldering ruins, filled with the stench of death: lifeless bodies littered the ground all around, stripped of all valuables. Even the cattle had not been spared. 
+我们的探险队“[x]”在地平线上发现了大量的烟雾，升起并覆盖着它的黑色涂层的天空。我们的波尔们小心翼翼地靠近火灾发生的地方，发现了冒烟的废墟，到处都是死的恶臭: 没有生命的尸体散落在地上，没有任何值钱的东西。甚至牛也没有幸免。
 
 #ev_xplr_ruinorph_2
-Night was falling and the members of the expedition did not intend to spend more time in the middle of this macabre scene. As they were about to leave, their attention was caught by hundreds of small green lights taking off from a nearby bush: fireflies. Something had disrupted all these insects.
+夜幕降临了，探险队的成员们不打算在这可怕的场景中花费更多的时间。就在他们要离开的时候，他们的注意力被附近灌木丛中成百上千的小绿光吸引住了: 萤火虫。有什么东西扰乱了所有这些昆虫。
 
 #ev_xplr_ruinorph_3
-By searching more closely, our porcos found dozens of children hidden in the vegetation. They all looked very weak and desperate. They undoubtedly belonged to the village in ruins and their chances of survival seem very small if no help is given.
+通过更仔细的搜索，我们的波尔发现了隐藏在植被中的几十个孩子。他们都显得非常虚弱和绝望。毫无疑问，他们属于废墟中的村庄，如果不给予帮助，他们的生存机会似乎很小。
 
 #ev_xplr_ruinorph_c1
-Adopt the orphaned piglets.
+收养孤儿仔猪。
 
 #ev_xplr_ruinorph_c2
-Leave.
+离开。
 
 #ev_xplr_sick
-Sick explorers
+生病的探险队
 
 #ev_xplr_sick_1
-Many porcos in the expedition '[x]' have contracted a fever. The disease doesnt seem to heal and even got worse day after day. The sick porcos are struck by hallucinations and delusions. They sweat profusely and can no longer walk with the rest of the expedition party. 
+“[x]”探险队中的许多波尔都发烧了。这种病似乎没有痊愈，甚至一天比一天严重。患病的波尔被幻觉和妄想所困扰。他们汗流浃背，再也不能和探险队的其他人一起行走了。
 
 #ev_xplr_sick_2
-The valid members of our expedition have to make a choice: either set camp for a while in the vicinity to feed the sick and hope that they'll recover, or leave without them.
+我们探险队的健康成员必须做出选择: 要么在附近扎营一段时间，给病人提供食物，希望他们能康复，要么不带他们离开。
 
 #ev_xplr_sick_c1
-Stop and feed the sick until their condition improves. 
+停下并照料病人直到他们的病情好转。
 
 #ev_xplr_sick_c2
-"These unfortunate Porcos are a burden. Let's keep moving!"
+“这些不幸的波尔们是一种负担。让我们继续前进!”
 
 #ev_xplr_shpwrk
-Shipwreck
+海难
 
 #ev_xplr_shpwrk_1
-The porcos '[x]' were exploring the coast of unknowned lands when they found various pieces of a recent ship wreck brought back on the shore by the tide. A little further away, they found the bodies of its unfortunate sailors lying down on the beach. 
+“[x]”波尔在探索未知的大陆海岸时，他们发现了一些最近被潮水带回岸上的沉船残骸。在更远的地方，他们发现它的不幸水手的身体躺在海滩上。
 
 #ev_xplr_shpwrk_2
-Most of them had drowned but some porcos could still breathe: with some food and rest, the survivors could be put back on their feet.
+他们中的大多数都淹死了，但有些波尔仍然可以呼吸: 一些食物和休息，幸存者就能重新站起来。
 
 #ev_xplr_shpwrk_c1
-Feed the shipwrecked porcos and enroll them in the group.
+照料海难的波尔们并让他们加入这个团体。
 
 #ev_xplr_shpwrk_c2
-Pillage the shipwreck and its survivors.
+掠夺失事的船和幸存者。
 
 #ev_xplr_drnkfl
-The drunken fool
+醉醺醺的傻瓜
 
 #ev_xplr_drnkfl_1
-Our expedition '[x]' encountered a small nomadic tribe. The members of this tribe were very kind and welcoming. Never had our explorers met such friendly fellows. 
+我们的探险队“[x]”遇到了一个小游牧部落。这个部落的成员非常友好和热情。我们的探险家从未遇到过如此友好的伙伴。
 
 #ev_xplr_drnkfl_2
-After a few pleasant days in their company, our porcos finally had to leave, and a ceremony was held in their honor the day before their departure. For the occasion, the nomads brought out a majestic statue of their idol: A squatting porco with two heads: one of wood and the other of gold.
+在他们的陪伴下度过了愉快的几天后，我们的波尔们终于不得不离开了，在他们离开的前一天举行了一个仪式来纪念他们。为了庆祝这个节日，牧民们拿出了他们的偶像的宏伟雕像: 一头蹲着的双头猪，一个是木头的，另一个是金子的。
 
 #ev_xplr_drnkfl_3
-During the festivities, one of our porcos, emboldened by alcohol, beheaded the golden head of the statue. This sparked great outrage from the tribe and the thief was immediately attached and condemned to death for this great sacrilege.
+在庆祝活动中，我们的一名波尔在酒精的刺激下，斩首了雕像的金色头像。这引起了部落的极大愤怒，小偷立即被抓了起来，并因这一巨大的亵渎行为而被判处死刑。
 
 #ev_xplr_drnkfl_c1
-Let the nomads execute your porco and leave.
+让游牧民处决您的波尔然后离开。
 
 #ev_xplr_drnkfl_c2
-Fight the nomads and free your drunken fool.
+与游牧民族战斗并释放您的醉醺醺的傻瓜。
 
 #ev_xplr_mourn
-The mourning tribe
+哀悼部落
 
 #ev_xplr_mourn_1
-Our explorers of '[x]' were exploring new lands when they encountered a dozen of mourning porcos, burying a sow and a piglet. After a poignant funeral, they told our porcos that they formerly belonged to a much larger group that had been slowly decimated by multiple bandit attacks and epidemics. They were running out of supplies now and had lost all hope of salvation.
+我们的探险队“[x]”在探索新的土地时，遇到了十几个哀悼日的波尔，他们正在埋葬一头母猪和一头小猪。在一场沉痛的葬礼之后，他们告诉我们的波尔，他们以前属于一个更大的群体，这个群体已经被多次强盗袭击和流行病慢慢摧毁。现在他们的给养快用完了，已经完全失去了得救的希望。
 
 #ev_xplr_mourn_c1
-Offer them to join your expedition.
+让他们加入您的探险队。
 
 #ev_xplr_mourn_c2
-Attack them and take their remaining supplies.
+攻击他们并拿走他们剩下的补给品。
 
 #ev_xplr_amazn
-Amazons!
+亚马逊女战士!
 
 #ev_xplr_amazn_1
-While exploring a dense tropical forest, our porcos '[x]' heard an enchanting melody. As they approached the location from which the music came from, they discovered a magnificent sow sitting at the edge of a pond, languorously sliding her fingers between the strings of a wooden harp. The explorers were captivated by so much beauty and lowered their guards.
+在探索茂密的热带森林时，我们的“[x]”波尔听到了一个迷人的旋律。当他们走近音乐的来源时，他们发现一头美丽的母猪坐在池塘边，懒洋洋地用手指拨弄着一架木竖琴的琴弦。探险家们被如此多的美景迷住了，放下了他们戒备。
 
 #ev_xplr_amazn_2
-After finishing her song, the sow delicately stood up, grabbed a short bow and shot an arrow in the direction of the explorers, accompanied by other warrior maidens who had sprung everywhere around them. 
+唱完这首歌，母猪优雅地站起来，抓起一把短弓，向探险者的方向射了一箭，随之而来的是其他到处涌现的少女战士。
 
 #ev_xplr_amazn_c1
-�I thought the Amazons were a legend� Defend yourselves!�
+“我以为亚马逊女战士是一个传说，保护好你们自己!”
 
 #ev_xplr_egg
-The curious hog
+好奇的猪
 
 #ev_xplr_egg_1
-Our explorers of '[x]' stumbled upon an abandonned nest containing a few large eggs: enough to make a juicy omelet. One curious hog decided to keep his egg , depriving himself of  the tasty meal. During days he carried it around, and he slept next to it at nights. This went on for dozens of days, attracting him mockery from his companions. 
+我们的探险队“[x]”偶然发现了一个废弃的巢穴，里面有几个大蛋: 足够做一个多汁的煎蛋卷。一只好奇的猪决定留下它的蛋，剥夺了它美味的食物。白天他带着它到处走，晚上他就睡在它旁边。这样持续了几十天，引来了同伴们的嘲笑。
 
 #ev_xplr_egg_2
-One morning, under the curious hog's scrutiny, the egg hatched and from it emerged a tiny fluffy ostrich. Since then, its been following its benefactor everywhere he goes and the rest of the group even came to consider the bird as their troop's mascott.
+一天早晨，在这只好奇的猪的注视下，蛋孵出了一只毛茸茸的小鸵鸟。从那时起，它就一直跟着它的恩人，无论他走到哪里，他的同伴们甚至认为这只鸟是他们队伍中的轻卡。
 
 #ev_xplr_orphel
-The orphaned pachyderm
+孤独的厚皮动物
 
 #ev_xplr_orphel_1
-Our explorers of '[x]' had been marching for hours under the sun of arid lands when they heard weird calling noises that seemed desperate. They walked to a deep muddy hole at the bottom of which was stuck a young pachyderm calf and her mother. While the little elephant was alive, the other was no longer. 
+我们的探险队“[x]”在干旱的土地的阳光下行进了几个小时，这时他们听到了似乎绝望的奇怪叫声。他们走到一个深深的泥洞里，在那里的底部卡住了一头年幼的厚皮动物和它的妈妈。而小象还活着，另一头已经死了。
 
 #ev_xplr_orphel_2
-By cutting branches from dead trees nearby, the group worked tiredlessly for a few hours to dig and help the calf out of the hole. As soon as it got out, the scared animal first ran away. But grateful and having nowhere else to go, the little pachyderm apparently took a liking of the group and started folowing them ever since. First at at a respectful distance, and everyday closer until it ended up marching right in the middle of their group and sleeping next to their camp at nights.
+通过从附近枯死的树上砍下树枝，这群人毫无疲倦地工作了几个小时，把幼崽从洞里挖了出来。它一出来，那头受惊的动物就先逃走了。但是，由于感激和无处可去，这只幼小的厚皮动物显然喜欢上了这群人，从那时起就开始跟着它们。起初，保持着一定的距离，然后每天都在靠近，直到它最终在他们的团队中间前进，晚上睡在他们的营地旁边。
 
 #ev_xplr_orphel_c1
-Keep the calf as a pet elephant
+收留这只幼崽作为宠物大象
 
 #ev_xplr_orphel_c2
-"Looks like fresh meat's back on the menu boys!"
+“看来鲜肉又上菜单了，伙计们!”
 
 #ev_xplr_tribrem
-Tribe's remains
+部落的遗骸
 
 #ev_xplr_tribrem_1
-Our explorers of '[x]' stumbled upon the remains of an unfortunate small group of nomads. By the looks of it, they had died a long time ago in circumstances the group couldn't figure out. All their belongings appeared to be still intact next to them.
+我们的探险队“[x]”偶然发现了一小群不幸的游牧民族的遗骸。从表面上看，他们在很久以前就死了，当时的情况是这个小组无法理解的。在他们旁边，他们所有的东西似乎都完好无损。
 
 #ev_xplr_tribrem_c1
-Scavenge their remains to recover what we can.
+搜寻他们的遗骸，以回收能为我们所用的。
 
 #ev_xplr_tribrem_c2
-Give them a proper burrial.
+给他们一个真正的葬礼。
 
 #ev_xplr_wolfcubs
-Abandonned cubs
+被遗弃的幼崽
 
 #ev_xplr_wolfcubs_1
-Our explorers of '[x]' where caught by a violent storm and took refuge in a small cavern under a nearby cliff to wait it out. While they were busy setting camp in it, they heard strange calling noises. 
+我们的探险队“[x]”在那里遇到了猛烈的风暴，他们躲在附近悬崖下的一个小洞里，等着风暴过去。当他们正忙着在里面安营扎寨时，他们听到了奇怪的叫声。
 
 #ev_xplr_wolfcubs_2
-Grabbing a torch, one Porco went in the back to investigate and discovered 3 distressed wolf cubs. They looked dirty and hungry, visibly abandonned for quite a while : this was no regular wolf den and there was no sign of any wolves nearby. Noone knew how these 3 cubs ended up here, but the group decided to adopt them. The young wolves quickly got back in shape and it wasnt long until they became loyal companions apreciated by the whole group. Well, all except for the old Clawhog whose entire family was tragically devoured by wolves when he was just a piglet. 
+一个波尔抓起火把，走到后面去查看，发现了三只身体虚弱的狼崽。它们看上去又脏又饿，显然被遗弃了好一阵子: 这不是正常的狼窝，附近也没有狼的踪迹。没有人知道这三只幼崽是如何来到这里的，但这群人决定收养它们。这些年轻的狼很快恢复了体型，没过多久，它们就成为了整个狼群的忠实伙伴。好吧，除了老Clawhog，他的整个家庭在他还是个小猪的时候，不幸地被狼吃掉了。
 
 #ev_xplr_wolves
-Beasts in the forest
+森林中的野兽
 
 #ev_xplr_wolves_1
-Our explorers of '[x]' where travelling through a dense forest when at dusk, they started to feel uneasy and watched. They kept progressing in silence, nervous, while dark silhouettes seemed to follow and encircle them. 
+我们的探险队“[x]”在黄昏时穿过茂密的森林，他们开始感到不安和注视。他们紧张不安，默默无语地向前走着，黑暗的身影似乎跟着他们，包围着他们。
 
 #ev_xplr_wolves_2
-Suddently, a terrifying growl came from the front, stopping the group. "Wolves i tell ya!", said the old Clawhop who didn't like these beasts -to say the least- as everyone on the group knew. "Get yerr weapons ready, pigs!", he added as several growls echoed around them. From all sides they emerged, ugly bacon-eating canines.
+突然，一声可怕的咆哮声从前面传来，阻止了这群人。“狼，我告诉您!”，这个老Clawhop说道，他不喜欢这些野兽——至少他不喜欢——这群人都知道。“准备好武器，猪!”几声咆哮在他们周围回荡，他补充道。它们从四面八方都出现了，丑陋的吃培根的犬科动物。
 
 #ev_xplr_bears
-Bears!
+熊!
 
 #ev_xplr_bears_1
-Our explorers of '[x]' had setup camp in unknown lands for the night when, at dawn, they woke up to unusual rumpus. Horrified, they saw a group of 3 huge bears scavenging through their inventory and supplies lying next to the camp.
+我们的探险队“[x]”在未知的土地上扎营过夜，在黎明时分，他们在不寻常的喧闹声中醒来。他们吓坏了，看到一群3只巨大的熊在营地旁边的库存和补给物中搜寻。
 
 #ev_xplr_bears_2
-One of the porcos sleeping close to where the bears were, startled by this realization, made a move which had the unfortunate consequence of calling the attention of one of the beasts. The animal, angry and hungry, ran up to the poor bastard and decided it was time for a bacon breakfast.
+一个睡在熊旁边的波尔，被这一发现吓了一跳，做了一个动作，不幸的是引起了一头野兽的注意。这只动物又饿又生气，跑到那个可怜的家伙跟前，决定是时候吃一顿猪肉培根的早餐了。
 
 #ev_xplr_bears_c1
-Everyone pretends to sleep. Poor ol' Jenkins...
+大家都假装睡觉。可怜的詹金斯…
 
 #ev_xplr_bears_c2
-"Die you ugly fat beasts!"
+“去死吧，你们这些又丑又胖的畜生!”
 
 #ev_xplr_civlost
-Defenseless explorers lost!
+毫无防备的探险队迷失了!
 
 #ev_xplr_civlost_1
-Sending defenseless civilians to explore unknown foreign lands is a risky and dangerous decision. Our explorers '[x]' disapeared and were never heard of again: who knows what ill fate was bestowed upon them...
+派遣手无寸铁的平民去探索未知的外国土地是一个危险的决定。我们的“[x]”探险队不见了踪影，从此杳无音信: 谁知道他们遭遇了什么不幸…
 
 #ev_xplr_blizzard
-Viscious blizzard
+恶性暴风雪
 
 #ev_xplr_blizzard_1
-A viscious blizzard immobolized our expedition of '[x]' for many days. Many of them did not make it while the survivors consummed all the remaining food supplies. There is nothing to eat in these bleak lands!
+一场猛烈的暴风雪使我们的“[x]”探险队一连好几天动弹不得。当幸存者吃完所有剩余的食物时，他们中的许多人都没能活下来。在这片荒凉的土地上没有什么可吃的!
 
 #ev_xplr_icehole
-Bloody ice-hole!
+该死的冰洞!
 
 #ev_xplr_icehole_1
-These lands are treacherous. While progressing on a difficult terrain, a few porcos of our expendition '[x]' fell to their death as ice broke under them, revealing a deep sink hole.
+这些地方很危险。在艰难的地形上行进时，我们探险队“[x]”的几个波尔由于他们脚下的冰层破裂而掉了下去，露出了一个很深沉洞。
 
 #ev_xplr_avlch
-Avalanche!
+雪崩!
 
 #ev_xplr_avlch_1
-As our group was travelling in a difficult terrain, a sudden avalanche took half of our people and supplies! What are we even doing there?!
+当我们一行人在崎岖的地形上行进时，突然发生的雪崩夺去了我们一半的人和补给品!我们在那干嘛?!
 
 #ev_xplr_freez1
-Glacial night
+冰川之夜
 
 #ev_xplr_freez1_1
-Travelling in such a glacial weather requires constant supplies, including wood to keep fires alive in the camp during nights. Good thing our expedition of '[x]' still had some wood to survive a particularly glacial night.
+在如此寒冷的天气中旅行需要不断的供应，包括夜间在营地里生火所需的木材。幸运的是，我们的探险队“[x]”仍然有一些木头来度过一个特别寒冷的夜晚。
 
 #ev_xplr_freez2
-Glacial night
+冰川之夜
 
 #ev_xplr_freez2_1
-After a particularly glacial night, having nothing to keep themselves warm,  many of members of the '[x]' expedition fell asleep never to wake up again.
+在经历了一个特别寒冷的夜晚之后，由于没有任何东西可以保暖，许多“[x]”探险队的成员都睡着了，再也没有醒来。
 
 #ev_xplr_polfood1
-Icy desert
+冰冷的沙漠
 
 #ev_xplr_polfood1_1
-Travelling in freezing hostile barren lands requires constant supplies, including food, as often there is absolutely nothing to eat in this icy desert. Good thing our expedition of '[x]' still had some food supplies to survive another day.
+在寒冷贫瘠的土地上旅行需要不断的补给，包括食物，因为在这片冰冷的沙漠里经常什么都没有吃。幸运的是，我们的探险队“[x]”仍然有一些食物可以再活一天。
 
 #ev_xplr_polfood2
-Icy desert
+冰冷的沙漠
 
 #ev_xplr_polfood2_1
-Sadly, now out of food supplies and unable to find anything to eat in these dreadful lands, our starving expedition '[x]' disapeared into this glacial white unforgiving desert and where never heard of again.
+可悲的是，现在没有食物供应了，在这片可怕的土地上又找不到任何东西吃，我们饥饿的远征队“[x]”消失了在这片冰冷无情的白色沙漠中，从此杳无音信。
 
 #ev_spwn_succ
-Succession
+继任
 
 #ev_spwn_succ_1
-[x] of the [y] has left his position after many years of service. You have been named as successor and have now inherited control of all the possessions and duties of the [y].
+[y]的[x]在任职多年后离职。您已被指定为继承人，现在继承了[y]所有财产和职责的控制权。
 
 #ev_spwn_succ_2
-You have taken over a character that became inactive for remaining unplayed for too long by its previous owner. You are therefore picking up where it was left. You inhertied all its regions, units, diplomatic relations and knowledges, and you might be part of an existing Nation. 
+您已经接管了一个角色，该角色因其前主人长时间不玩而变得不活跃。因此，您要重新拾起它原来的位置。您继承了它所有的地区、单位、外交关系和知识，您可能是一个现存国家的一部分。
 
 #ev_spwn_newld
-New leadership
+新的领导
 
 #ev_spwn_newld_1
-The region of [x], in need of new leadership, has chosen you for the task. 
+[x]的地区需要新的领导，选择了您来执行这项任务。
 
 #ev_spwn_newld_2
-You have taken over a previously leader-less region, either because it was abandonned by its previous owner or because its people rebelled against him. You are therefore a new free and independent sovereign entity free of all treaties, starting with a single region. Your starting knowledges are inherited from the pre-existing buildings in the region. Be weary: you might face the hostility of your region's previous owner if he's still around.
+您已经接管了一个以前没有领袖的地区，要么是因为它被以前的主人抛弃了，要么是因为它的人民反抗了他。因此，您是一个新的自由和独立的主权实体，没有任何条约，从一个单一区域开始。您的入门知识是从该地区已有的建筑中继承而来的。感到疲惫: 如果他还活着，您可能面临您所在地区的以前所有者的敌意。
 
 #ev_spwn_clny
-Leading the colony
+领导殖民地
 
 #ev_spwn_clny_1
-After many years of slow development and quiet leadership from obedient administrators, the colony of [x] attached to the [y] is now ready to become a political entity of its own. You have gained their trust and been promoted to become the first true leader of [x] as the region is awarded a new administrative and political status within the [p1], under the patronnage of the [y]. Its is time for [x] to make a name for itself and leave its mark in the history of Porcokind. 
+经过多年的缓慢发展和顺从的管理者的安静领导，依附于[y]的[x]殖民地现在准备成为自己的政治实体。您已获得他们的信任，并在[y]的资助下，被提升为[x]在[p1]内获得新的行政及政治地位，成为[x]的首位真正领袖。现在是[x]扬名立万的时候了，应该在波尔种类的历史上留下自己的印记。
 
 #ev_spwn_clny_2
-You have become the first ruler of a colony previously founded by another player. This region is therefore now evolving and becoming its own political entity ruled by you. However you start as a member of an existing Nation, and by default under the patronnage of the colony's original founder: the [y]. As a new branch of his culture, you also start with all the knowledges of the founders. As an ex-colony, be warned that you also start with a treaty binding you to his Nation, meaning you wont be able to leave it without breaking it and suffering penalties or even war. But this can also be a good thing: you are not starting alone and can seek protection and help from your superiors in the Nation, helping your development. It is probably a wise idea to start by reaching out to your superior and founder to greet him and establish friendly relations. Then who knows, maybe one day it will be time for [x] to claim its independance!
+您成为了先前由其他玩家建立的殖民地的第一位统治者。因此，这一地区现在正在演变并成为由您所统治的自己的政治实体。然而，您一开始是一个现有国家的一员，默认情况下是在殖民地最初的创建者的庇护下: [y]。作为他文化的一个新分支，您也要从创始人的所有知识开始。作为一个前殖民地，要注意的是，您也要从一个将您与他的国家捆绑在一起的条约开始，这意味着您不能在不违反条约的情况下离开它，否则您将遭受惩罚甚至战争。但这也可能是一件好事: 您不是一个人创业，您可以从国家的上级那里寻求保护和帮助，帮助您的发展。这可能是一个明智的想法，开始接触您的上级和创始人，以迎接他，并建立友好的关系。谁知道呢，也许有一天[x]会宣布独立!
 
 #ev_clnyevlv
-A colony has evolved!
+一个殖民地进化了!
 
 #ev_clnyevlv_1
-Good news! One of our colonies, [x], has found its first proper ruler: [p1]. They have established their own new government and are now known as the [p2]. 
+好消息!我们的一个殖民地，[x]，找到了它的第一个合适的统治者: [p1]。他们已经建立了自己的新政府，现在被称为[p2]。
 
 #ev_clnyevlv_2
-They have integrated our great nation as one of our subordinates and formally ratified the colonial treaty binding them to us and agreeing to a tax of 5% of their incomes in addition to the duties of their new title in the nation. 
+他们将我们伟大的国家作为我们的下属之一进行了整合，并同意征收5%的收入税，以及他们在国内的新头衔。
 
 #ev_clnyevlv_3
-As insurance, we will maintain control of their treasury of over 50% of their GDP in case they ever decide to illegally break this agreement!
+作为保险，我们将继续控制他们的国库超过50%的GDP，以防他们非法破坏这个协议!
 
 #ev_form_ovrdrft
-Home of '[y]' has insufficient population!
+“[y]”的家乡人口不足!
 
 #ev_form_ovrdrft_1
-The population of [x], home of our formation '[y]', is insufficient to maintain this formation! There isn't enough new young adult porcos to replace the ones aging and because of this we will be unable to maintain its current headcount and the formation will gradually lose units until this is fixed.
+[x]的人口，我们的编队“[y]”的家园，不足以维持这个编队!没有足够的年轻的成年波尔来取代衰老的人，因此我们将无法维持现有的数量，直到这个问题得到解决，队伍将逐渐失去单位。
 
 #ev_form_desertion
-Our soldiers are deserting!
+我们的士兵在擅离！
 
 #ev_form_desertion_1
-The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+我们军队里的士兵因为您的消极合法性而逃兵!人们不希望为一个他们不再认为合法的统治者服务，我们每天都会看到波尔离开我们的队伍，直到您的合法性再次得到肯定。
 
 #ev_form_ovrdrft_2
-Maybe we should consider downsizing to reduce the population over-draft in [x], or we could relocate this formation to another territory that could support them better. If we don't act, this formation will slowly decay!
+也许我们应该考虑缩减规模，以减少[x]中的人口过剩，或者我们可以将这支编队迁移到另一个能够更好地支持他们的地区。如果我们不采取行动，这支编队就会慢慢消亡!
 
 #ev_xplr_brkleg
-Broken leg
+腿部骨折
 
 #ev_xplr_brkleg_1
-One of our explorers managed to break his leg in a misstep while walking on a portion of difficult terrain, and is now slowing down the whole group. What should we do ?
+我们的一名探险者在一段崎岖的地形上行走时不慎摔断了腿，现在正在减慢整个队伍的速度。我们该怎么办?
 
 #ev_xplr_brkleg_c1
-Wait for him to recover.
+等待他康复。
 
 #ev_xplr_brkleg_c2
-Abandon him, there is no place for the weak!
+抛弃他，没有弱者的容身之地!
 
 #ev_xplr_drnriv
-River drowning
+溺水
 
 #ev_xplr_drnriv_1
-While crossing a river, one of our explorers fell in the water. The poor hog didn't knew how to swim and the currents carried him away before anyone could help him.
+我们的一个探险者在过河时掉进了水里。可怜的猪不知道怎么游泳，没等任何人帮它，水流就把它冲走了。
 
 #ev_xplr_cliff
-Clumsy Porco
+笨拙的波尔
 
 #ev_xplr_cliff_1
-While our explorers were walking along the edge of a tall cliff, one clumsy Porco tripped and fell to his death.
+当我们的探险者沿着悬崖边行走时，一只笨手笨脚的波尔因绊了一跤而摔死了。
 
 #ev_xplr_slowed
-Challenging terrain
+富有挑战性的地形
 
 #ev_xplr_slowed_1
-These unknown lands proved particularly challenging to cross: our explorers got lost multiple times and lost a lot of time and it took them much longer than expected to reach their destination.
+这些未知的土地被证明是特别具有挑战性的: 我们的探险者迷失了很多次，失去了很多时间，他们花了比预期更长的时间到达目的地。
 
 #ev_xplr_wellrest
-Hospitable natives
+好客的当地人
 
 #ev_xplr_wellrest_1
-Our explorers met friendly natives that offered them their hospitality. After a good rest and plentyful meals, our expedition bid them farewell and left reinvigorated.
+我们的探险者遇到了友好的当地人，他们盛情款待我们。休息好，饱餐一顿后，我们的探险队告别了他们，精神抖擞地离开了。
 
 #ev_claimloss
-[x] has lost a territorial claim!
+[x]已失去一块领土声称!
 
 #ev_claimloss_1
-Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
+由于地方行政管理([p1])不足，[x]市已失去了它的一块领土声称，因为它再也无法维持它。
 
 #ev_has_subjug
-You have subjugated [x]!
+您已征服了[x]!
 
 #ev_has_subjug_1
-You have subjugated the state of [x], ruled by [y], who is now your vassal. 
+您已征服了[x]的国家，由[y]统治，他现在是您的附庸。
 
 #ev_has_subjug_2
-[x] will now pay you tributes of coins and State power, and he has joined your nation as your subordinate. In exchange, all occupied territories have been retroceeded to [x]. 
+[x]现在将向您支付硬币和国家权力的贡品，他已经加入您的国家作为您的下属。作为交换，所有被占领领土都将归还给[x]。
 
 #ev_been_subjug
-You have been subjugated by [x]!
+您已被[x]征服了!
 
 #ev_been_subjug_1
-You have been subjugated the state of [x], ruled by [y], who is now your liedge lord. 
+您已被[x]的国家所征服了，由[y]统治，他现在是您的君主。
 
 #ev_been_subjug_2
-You will now have to pay tributes of coins and State power, and he have joined the nation of [x] as a subordinate of [y]. In exchange, all occupied territories have been retroceeded to you. 
+现在您将不得不支付硬币和国家权力的贡品，而他已经作为[y]的下属加入了[x]的国家。作为交换，所有被占领的领土都将归还给了您。
 
+#ev_govcolps_city
+政府垮台: 我们失去了[x]!
+
+#ev_govcolps_city_1
+我们的中央政府正在从极端消极的国家权力中垮台!正因为如此，我们的政府现在无法维持对其领土的控制。
+
+#ev_govcolps_city_2
+不幸的是，我们现在实际上已经失去了[x]地区的所有权。我们的领土将继续分裂，直到我们能够重新获得一个更积极的国家权力然后恢复控制。
+
+#ev_govcolps_army
+政府垮台: 我们失去了“[x]”!
+
+#ev_govcolps_army_1
+我们的中央政府正在从极端消极的国家权力中垮台!正因为如此，我们的政府现在无法维持对其军队的控制。
+
+#ev_govcolps_army_2
+不幸的是，我们现在实际上已经失去了对我们的编队“[x]”的所有权。我们的军队将继续解散，直到我们能够重新获得一个更积极的国家权力来维持他们。
+
+#ch_palentir1_1
+那是一个没有月光的宁静夜晚，所有的小猪都早已睡着了。天空晴朗，人们在星空的谨慎光线下休息时，这时，一道微弱的闪光突然出现在地平线上，比任何满月都亮。那些在那一刻还醒着的人看着它慢慢地掠过他们的天空。
+
+#ch_palentir1_2
+在几分钟的时间里，人们只是静静地站在那里看着，被迷住了，还没有决定如何应对这样的事件。随着灯光的推进，它周围的天空开始亮起来，呈现出舞动的绿色阴影。灯光很漂亮，摇曳不定，变幻莫测，照亮了整个城市。这么漂亮的东西怎么可能是个坏兆头呢?当然，这预示着一些好事。
+
+#ch_palentir1_3
+突然，当它到达天顶时，随着越来越多的观众惊讶和惊奇地喘气，光无声地爆炸成7个不同的火球。这7个碎片，每一个碎片后面都有一条闪闪发光的金色轨迹，分散在不同的方向，画出闪闪发光的线条，从四面八方回落到地平线。在那里，他们无声无息地消失了。很快，夜晚就像几分钟前一样安静而黑暗。
+
+#ch_palentir2_1
+关于神秘的人工品从天而降并被强大的光环包围的谣言正在蔓延。许多来自不同地区的旅行者都在讲述好奇的人们去调查那些看到火光从天而降的地方的故事。尽管许多去过那里的人再也没有回来过，但也有一些人谈到了未知的危险和活过来的岩石。住在附近的人说，他们可以看到在半夜发光。
+
+#ch_palentir2_2
+有一个特别的故事声称有人设法看到了一个: 一块发光的深色石头，你几乎无法脱离他的视线，闪耀着难以形容的颜色，比海洋更深，伴随着移动的暴风云酝酿着。它休息在陨石坑的中央，周围环绕着史无前例的石头生物，它周围的整个区域感觉充满了强大的能量。但也许更有趣的是，这块石头看起来破损了: 一面非常光滑，像球体表面一样弯曲，而另一面则像一块破碎的黑曜石碎片一样锋利。它看起来似乎只是一块原本大得多的完美球体形状的石头的碎片。
+
+#ch_palentir2_3
+有人会设法发现这些故事是否有真实性吗？占卜者已经在传播预言并讲述这些石头碎片，说它们具有重要的意义，无论是谁的管理者收集它们，都将拥有超乎他梦想的巨大力量赐予自己的力量。
+
+#ch_palentir3_1
+消息正在蔓延，[y]的[x]已经成功地收集了7个真知晶球碎片，并且他已经在他的首都成功地重组装了真知晶球!
+
+#ch_palentir3_2
+没有人知道现在会发生什么，如果预言是正确的，那么这种强大的力量将被用来做什么。
+
+#ch_palentir4_1
+新的谣言正在四散，说真知晶球的主人已经利用了它，并希望除了[y]的所有人的繁荣、幸福和进步之外别无其他。
+
+#ch_palentir4_2
+据说，作为回应，这块石头给了[x]众神的知识来实现这个愿望。据一些目击者称，这座城市的工程师和建筑商已经得到指示和神秘的计划，建造不朽的人工品，据推测，这些人工品会给所有居民带来神奇的好处。
+
+#ch_palentir5_1
+The people of [y] have finally completed building a first mysterious black monolith based on the unexplainable knowledges given by the power of the Palentir. Following the event, visitors witnessed that the people of the city seemed to behave differently within days: the most agressive and violent Porcos now appeared well-behaved and law abiding, the mood in the whole city seemed to have inexplicably improved, and porcos once dumb as a rock were now seen discussing philosophical ideas with their neigbors. All violences and discontent was reportedly reduced. It was as if the whole population had suddenly achieved a higher degree of wisdom and refinement,shedding off a layer of their barbaric ways. 
+
+#ch_palentir5_2
+Rumors have it that many new black monoliths are already planned for contruction. If each one brings as much benefits as that first one, it won't be long before the people of the [y] evolve to something far above the level of other peoples, thus achieving undisputable glory beyond the reach of any of us.
+
+#ch_palentir6_1
+Terrible rumors are spreading from the [y]. It is said that [x], owner of the Palentir, has made use of it with sinister intent wishing to become nothing else but the only ruler of this world. The greatest engineers and builders of the capital are said to have been called upon and given specific plans surrounded by great secrecy, and it is therefore speculated that he did received in response knowledges from the Gods to fulfil his wish. 
+
+#ch_palentir7_1
+Something terrible happened in the capital city of the [y], as the contruction of a mysterious dark tower ordered by [x] was achieved. Many people are said to have fled the capital city, giving terrifying accounts of unbeleivale events. They say a mysterious light appeared from the top of the tower, rising like a column into the skies where a dark thunderstorm inexplicably materialized. Soon, it was followed by a black rain that fell onto the unexpecting crowds below that had gathered to watch the event. The people fell sick from an invisible desease that stroke as fast as the storm had appeared. They screamed in agony there, rolling into the ground. Meanwhile, those who had somehow been spared by the rains feld the city in terror, abandonning all their belongings and families. Some say they didn't die, and described how the afflicted howled in horror while their looks transformed and their skin turned green.
+
+#ch_palentir7_2
+Since then, nobody has heard of anyone from the city. Those who went there in the following days havn't been seen again, and most people are now too afraid to try. No one knows what terrible things may be happening there or what really happened to the afflicted, in what was known until now as the capital of the [y].
+
+#ev_palntruse
+使用真知晶球
+
+#ev_palntruse_1
+You cannot detach your eyes from looking at the stone. Shining of indescribable colours it seems to be refracting a space much bigger that itself, like a window into something else. 
+
+#ev_palntruse_2
+As you lay your hands on the black stone, you immediately feel a powerful and overwhelming energy going through your body. The air around you is electrized. The stormy clouds moving inside the stone start swirling faster, and reveal a growing light coming far away from the insides of the globe.
+
+#ev_palntruse_3
+You feel a presence. There is no signs of it, you don't see it, you don't hear it. But you know it's there. And you know it's asking for your deepest desire, promissing you to make it a reality. What will it be?
+
+#ev_palntruse_c1
+我想确保我的人民未来的繁荣和幸福，给予他们无可置疑的荣耀和威望。
+
+#ev_palntruse_c2
+我想要的唯一意愿是一切屈服于我，用铁腕统治这个世界。
+
+#ev_palntrch1
+A gift of Wisdom
+
+#ev_palntrch1_1
+You do not hear any answer. There is no voice in your head. You just suddenly... know. Your wish has been granted, and the stone has answered you with a gift of Wisdom. In front of you, the stone has vanished.
+
+#ev_palntrch1_2
+You have received instructions of how to build monolithic black artifacts that will increase the happiness, wealth, wisdom, and prestige of all the inhabitants of the territories where they are erected. You do not understand why and how these work, you just know that they will and what you must do to build them. It's time to write down the knowledges you have been gifted and to call upon your best engineers and builders to start preparations.
+
+#ev_palntrch2
+A gift of Power
+
+#ev_palntrch2_1
+You do not hear any answer. There is no voice in your head. You just suddenly... know. Your wish has been granted, and the stone has answered you with a gift of Power. In front of you, the stone has vanished.
+
+#ev_palntrch2_2
+You have received instructions of how to build gigantic tower of black stone that will promisses to grant your desire for domination and power only once you complete it's construction. You know you must build it. It's time to write down the plans you have been gifted with and to call upon your best engineers and builders to start preparations, it's going to be a long and expensive construction work.

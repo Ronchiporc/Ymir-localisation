@@ -80,7 +80,7 @@ Mudbricks
 Bricks
 
 #r_ashes
-Ashes
+Ash
 
 #r_plaster
 Plaster
@@ -92,13 +92,13 @@ Cement
 Charcoal
 
 #r_flints
-Flints
+Flint
 
 #r_stone
 Stone
 
 #r_stoneblocs
-Stoneblocs
+Stoneblocks
 
 #r_slate
 Slate
@@ -107,7 +107,7 @@ Slate
 Limestone
 
 #r_granit
-Granit
+Granite
 
 #r_sandstone
 Sandstone
@@ -170,13 +170,13 @@ Flax
 Wool
 
 #r_textile
-Textile
+Textiles
 
 #r_cloth
-Cloth
+Clothes
 
 #r_leathercloth
-Leathercloth
+Leather clothes
 
 #r_rabbits
 Rabbits
@@ -209,13 +209,13 @@ Elephants
 Mammoths
 
 #r_sheeps
-Sheeps
+Sheep
 
 #r_chickens
 Chickens
 
 #r_caipibaras
-Caipibaras
+Capybaras
 
 #r_llamas
 Llamas
@@ -305,7 +305,7 @@ Longswords
 Battleaxes
 
 #r_warhammers
-Wrhammers
+Warhammers
 
 #r_halberds
 Halberds
@@ -443,7 +443,10 @@ Laundry
 Baths
 
 #r_scribe
-Scribe
+Administration
+
+#r_govern
+Governance
 
 #r_academ
 Academia
@@ -471,3 +474,24 @@ Library
 
 #r_dates
 Dates
+
+#r_prisoners
+Prisoners
+
+#r_bacon
+Bacon
+
+#r_shells
+Shells
+
+#r_pearls
+Pearls
+
+#r_shelljewelry
+Adornments
+
+#r_jewelry
+Jewelry
+
+#r_postage
+Postage

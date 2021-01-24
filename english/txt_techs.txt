@@ -41,7 +41,7 @@ One Porco to rule them all. It sure is more efficient than wasting time discussi
 Governance
 
 #tech_gov_dscr_1
-A group of Porcos exclusively devoted to manage and control the community. They spend their time sniffing things and occasionally solving issues or taking decisions for the whole population.
+An organized and hierarchized gorvernment composed of Civil Servants and regulated by formal laws.
 
 #tech_guard
 Guards
@@ -65,7 +65,7 @@ We keep track of stocks, transactions and payments by doing little marks in wet 
 Taxation
 
 #tech_tax_dscr_1
-A better system of taxation allowing for a more efficient collection.
+An organized system of monetary taxation.
 
 #tech_laws
 Code of laws
@@ -203,49 +203,49 @@ How to dig holes in the ground to exploit underground water sources.
 Irrigation
 
 #tech_irrig_dscr_1
-tech_irrig_dscr_1
+The technique of water management and transportation to keep large areas of fields well irrigated.
 
 #tech_watres
 Water reservoirs
 
 #tech_watres_dscr_1
-tech_watres_dscr_1
+How to build impermeable large water reservoirs to store water.
 
 #tech_sewers
 Sewers
 
 #tech_sewers_dscr_1
-tech_sewers_dscr_1
+How to manage sewage with a network of canals with running water to evacuate waste.
 
 #tech_foodstor
 Food storing
 
 #tech_foodstor_dscr_1
-tech_foodstor_dscr_1
+How to build storages optimized for storing food and protecting it against humidity and pests.
 
 #tech_domcat
 Domestic cat
 
 #tech_domcat_dscr_1
-tech_domcat_dscr_1
+The keeping of domesticated felines to protect food reserves against pests.
 
 #tech_warehous
 Warehouses
 
 #tech_warehous_dscr_1
-tech_warehous_dscr_1
+The construction of specialized buildings for the storing and hauling of large amounts of resources.
 
 #tech_storhaul
 Storage hauling
 
 #tech_storhaul_dscr_1
-tech_storhaul_dscr_1
+Using  pack animals and chariots to improve the manutention of goods in warehouses.
 
 #tech_storheav
 Heavy lifting
 
 #tech_storheav_dscr_1
-tech_storheav_dscr_1
+Using engineering and treadwheels to improve the manutention of goods in warehouses.
 
 #tech_granary
 Granary
@@ -257,19 +257,19 @@ How to build structures specifically designed for storing food and protecting it
 Running water
 
 #tech_runwat_dscr_1
-tech_runwat_dscr_1
+The expertise of managing the transportation of water accross distance to provide it directly into buildings.
 
 #tech_baths
 Baths
 
 #tech_baths_dscr_1
-tech_baths_dscr_1
+The expertise of building complex public baths with pools, heated water, and saunas.
 
 #tech_mudbdg
 Mud building
 
 #tech_mudbdg_dscr_1
-tech_mudbdg_dscr_1
+The practice of building structures made of various mortars derived from mud and water.
 
 #tech_mudbrick
 Mud bricks
@@ -281,223 +281,229 @@ How to use and process soil into solid bricks, facilitating construction out of 
 Stone building
 
 #tech_stonebdg_dscr_1
-tech_stonebdg_dscr_1
+The practice of building structures with cobble stones stacked together and held by crude mortar.
 
 #tech_stonecut
 Stonecutting
 
 #tech_stonecut_dscr_1
-tech_stonecut_dscr_1
+The ability to cut through stone with metallic tools to shape them as desired.
 
 #tech_quarr
 Quarrying
 
 #tech_quarr_dscr_1
-tech_quarr_dscr_1
+The organized excavaction of heavy stone blocs.
 
 #tech_quarrhv
 Heavy quarrying
 
 #tech_quarrhv_dscr_1
-tech_quarrhv_dscr_1
+Improving quarrying with engineering mechanics and treadwheel cranes.
 
 #tech_builders
 Builders
 
 #tech_builders_dscr_1
-tech_builders_dscr_1
+Workers specialized in construction, allowing for more complex and elaborate methods of construction.
 
 #tech_constrct
 Construction foremanship
 
 #tech_constrct_dscr_1
-tech_constrct_dscr_1
+Expert builders that oversee, organize, and coordinate the work of other workers to increase the quality and efficiency of construction projects.
 
 #tech_sledge
 Sledge
 
 #tech_sledge_dscr_1
-tech_sledge_dscr_1
+A load-bearing mobile platform mounted on wooden rails and using animal grease in order to move heavy loads accross the ground with a limited workforce, improving construction speed and capabilities.
 
 #tech_masonry
 Masonry
 
 #tech_masonry_dscr_1
-tech_masonry_dscr_1
+The building of structures from individual units such as stones or bricks which are often laid in and bound together by mortar.
 
 #tech_constrplan
 Construction planning
 
 #tech_constrplan_dscr_1
-tech_constrplan_dscr_1
+The management of land use and coordination of all constructions by a central administrative authority also in charge of developping infrastructures that benefit all such as tracing public city streets and roads.
 
 #tech_archtct
 Architects
 
 #tech_archtct_dscr_1
-tech_archtct_dscr_1
+Expert builders focused only on the design and planning of buildings. Their specialized knowledges in mathematics and plan making allows for the construction of much more refined and complex structures.
 
 #tech_corbarch
 Corbelled arch
 
 #tech_corbarch_dscr_1
-tech_corbarch_dscr_1
+An improvement in load-bearing efficiency over the post and lintel design, this type of arch construction method uses the architectural technique of corbeling to span larger spaces in walls.
 
 #tech_archbdg
 Arch building
 
 #tech_archbdg_dscr_1
-tech_archbdg_dscr_1
+The architectural experise of building fully self-supporting arches. This improved load-bearing system allows to create lighter and taller structures with more openings.
+
+#tech_column
+Post & lintel building
+
+#tech_column_dscr_1
+A building system where strong horizontal elements are held up by strong vertical elements with large spaces between them.
 
 #tech_domebdg
 Dome building
 
 #tech_domebdg_dscr_1
-tech_domebdg_dscr_1
+The architectural expertise of building large domes to create monumental indoor spaces.
 
 #tech_multistor
 Multistorey building
 
 #tech_multistor_dscr_1
-tech_multistor_dscr_1
+The architectural expertise of building taller multistorey buildings.
 
 #tech_lever
 Lever
 
 #tech_lever_dscr_1
-tech_lever_dscr_1
+A simple machine consisting of a beam or rigid rod pivoted at a fixed hinge that allows to amplify an input force to provide a greater output force, improving greatly the ability to manipulate heavy loads in manutention and construction.
 
 #tech_pulley
 Pulley
 
 #tech_pulley_dscr_1
-tech_pulley_dscr_1
+A wheel on an axle or shaft that is designed to support movement and change of direction of a taut cable or belt, or transfer of power between the shaft and cable or belt. 
 
 #tech_trdwheelcr
 Treadwheel crane
 
 #tech_trdwheelcr_dscr_1
-tech_trdwheelcr_dscr_1
+A wooden, swine powered, hoisting and lowering crane used in construction and manutention using pulleys and counterweights to handle heavy loads with little pigpower. 
 
 #tech_concrete
 Concrete
 
 #tech_concrete_dscr_1
-tech_concrete_dscr_1
+A type of mortar that sets through hydration (with water) instead of carbonation (absorbing CO2), allowing it to set and resist the presence of water.
 
 #tech_metalrgy
 Metallurgy
 
 #tech_metalrgy_dscr_1
-tech_metalrgy_dscr_1
+The knowledge of metals, hard and malleable through hammering unlike brittle stones.
 
 #tech_smelt
 Smelting
 
 #tech_smelt_dscr_1
-tech_smelt_dscr_1
+The knowledge of how to extract pure metals hidden in mineral ores through heating.
 
 #tech_metcast
 Metal casting
 
 #tech_metcast_dscr_1
-tech_metcast_dscr_1
+The expertise of using fully liquified metals poured into casts to efficiently produce metallic objects.
 
 #tech_bronze
 Bronze working
 
 #tech_bronze_dscr_1
-tech_bronze_dscr_1
+The knowledge of how to produce Bronze by mixing copper and tin, improving greatly the durability and solidity of copper.
 
 #tech_bloomry
 Bloomery
 
 #tech_bloomry_dscr_1
-tech_bloomry_dscr_1
+A simple furnace capable of reaching temperatures high enough to smelt most metals.
 
 #tech_iron
 Iron working
 
 #tech_iron_dscr_1
-tech_iron_dscr_1
+The knowledge of Iron, its different ores, its extraction with furnaces, and how to work with it.
 
 #tech_bllws
 Bellows
 
 #tech_bllws_dscr_1
-tech_bllws_dscr_1
+A mechanical device that allows to blow air into furnaces, improving their efficiency and quality.
 
 #tech_blastfurn
 Blast furnace
 
 #tech_blastfurn_dscr_1
-tech_blastfurn_dscr_1
+A furnace powerful enough to fully melt iron and quickly produce large amounts of iron out of ore. However, with high carbon content and other impurities (sulphur) making it very brittle, the produced 'cast' iron often requires expensive further processing.
 
 #tech_fineryforg
 Finery forge
 
 #tech_fineryforg_dscr_1
-tech_fineryforg_dscr_1
+The refinement of 'cast' iron (full of carbon) into pure 'wrought' iron by heating it with oxydants and hammering it mechanically for extended periods of time to draw impurities out.
 
 #tech_puddlngforg
-Puddling forge
+Reverberation furnace
 
 #tech_puddlngforg_dscr_1
-tech_puddlngforg_dscr_1
+A metallurgical furnace that allows for the isolation of the iron being processed from being in contact with the fuel, producing higher grade 'wrought' iron (no carbon) through puddling.
 
 #tech_forg
 Forging
 
 #tech_forg_dscr_1
-tech_forg_dscr_1
+The art of working iron by hammering it.
 
 #tech_steel
 Steel
 
 #tech_steel_dscr_1
-tech_steel_dscr_1
+An alloy of Iron with carbon of great resistance and flexibility used to improve tools and weapons.
 
 #tech_decarb
-Decarburization
+Puddling
 
 #tech_decarb_dscr_1
-tech_decarb_dscr_1
+The process of making steel by decarburization of 'cast' iron (full of carbon) by melting it and mixing it with oxydants for extended periods of time instead of carburizing 'wrought' iron (no carbon) through manual forging with charcoal. By using 'cast' iron as a material which is much easier to mass produce via blast furnaces, this process makes steel production much more efficient. 
 
 #tech_cementation
 Cementation
 
 #tech_cementation_dscr_1
-tech_cementation_dscr_1
+A process for making steel by carburization of 'wrought' iron (no carbon) with specialized furnaces heating iron bars and charcoal packed together in alternating layers to infuse carbon into iron.
 
 #tech_airblstl
-Air-blowing steel process
+Air-blowing decarburization
 
 #tech_airblstl_dscr_1
-tech_airblstl_dscr_1
+A very efficient steel making process by decarburization of 'cast' iron (full of carbon) with the injection of hot air in melted iron in a crucible. This allows for the removal of carbon and other impurities through their combustion, while generating enough heat at the same time to keep the iron melted.
 
 #tech_miningtl
 Mining tools
 
 #tech_miningtl_dscr_1
-tech_miningtl_dscr_1
+The expertise of crafting tools and equipment specialized for mining.
 
 #tech_pickaxe
 Pickaxe
 
 #tech_pickaxe_dscr_1
-tech_pickaxe_dscr_1
+A steel tool for breaking rock.
 
 #tech_orecrush
 Ore crusher mill
 
 #tech_orecrush_dscr_1
-tech_orecrush_dscr_1
+A mill used to mechanically crush ores in smaller pieces, improving the efficiency and quality of ore refinement.
 
 #tech_grndmining
 Underground mining
 
 #tech_grndmining_dscr_1
-tech_grndmining_dscr_1
+The expertise of digging underground galleries and of surveying and exploiting underground ore deposits.
 
 #tech_ventshaft
 Ventilation shafts
@@ -587,7 +593,7 @@ We have trained and domesticated animals in order to be able to ride them direct
 Soil collectors
 
 #tech_soilcol_dscr_1
-tech_soilcol_dscr_1
+Collecting population waste to use as fertilizer in agriculture.
 
 #tech_wheel
 Wheel
@@ -599,7 +605,7 @@ It spins!
 Paper
 
 #tech_paper_dscr_1
-tech_paper_dscr_1
+A thin sheet material produced by mechanically processing fibres derived from wood, rags, grasses or other vegetables and used a support for writting.
 
 #tech_charcoal
 Charcoal
@@ -647,13 +653,13 @@ With the flying shuttle, a single weaver can now produce fabric wider than an ar
 Power loom
 
 #tech_loom6_dscr_1
-tech_loom6_dscr_1
+A mechanized loom.
 
 #tech_carpet
 Carpet making
 
 #tech_carpet_dscr_1
-tech_carpet_dscr_1
+The expertise of weaving carpets to isolate and furbish homes.
 
 #tech_cloth
 Clothing
@@ -683,55 +689,55 @@ Eco-pigs rejoice for vegetable tanning, the environmentally friendly evolution o
 Spear fishing
 
 #tech_sprfish_dscr_1
-tech_sprfish_dscr_1
+The expertise of using spears to kill and catch fishes on the shores or in shallow waters.
 
 #tech_castnet
 Cast nets
 
 #tech_castnet_dscr_1
-tech_castnet_dscr_1
+The expertise of weaving nets and how to throw them to entrap fishes on the shores or in shallow waters.
 
 #tech_fishboat
 Fishing boats
 
 #tech_fishboat_dscr_1
-tech_fishboat_dscr_1
+Using boats to catch bigger fishes directly in high waters instead of being limited to the shores.
 
 #tech_gillnet
 Gillnets
 
 #tech_gillnet_dscr_1
-tech_gillnet_dscr_1
+Gill nets are composed of vertical panels of netting that hang from a line with regularly spaced floaters that hold the line on the surface of the water, entangling fishes who collide with the net.
 
 #tech_ferment
 Fermentation
 
 #tech_ferment_dscr_1
-tech_ferment_dscr_1
+The knowledge of controlling the fermentation of foods to change its properties.
 
 #tech_beer
 Beer
 
 #tech_beer_dscr_1
-tech_beer_dscr_1
+An alcoholic beverage brewed from cereal grains. 
 
 #tech_cuves
 Cuves
 
 #tech_cuves_dscr_1
-tech_cuves_dscr_1
+The craftsmanship of building large metallic reservoirs for liquids, improving the quality and productivity of industries such as breweries.
 
 #tech_hops
 Hops
 
 #tech_hops_dscr_1
-tech_hops_dscr_1
+The practice of adding Hops in brewing which not only adds bitterness and flavouring to beer but also acts as a stability agent increasing its shelf life.
 
 #tech_bread
 Bread leavening
 
 #tech_bread_dscr_1
-tech_bread_dscr_1
+The practice of baking leavened bread.
 
 #tech_yeast
 Yeast dough
@@ -809,151 +815,151 @@ A technique of gluing thin sheets of wood together to produce a stronger and mor
 Javelin
 
 #tech_javelin_dscr_1
-tech_javelin_dscr_1
+A light spear designed primarily to be thrown as a ranged weapon dealing high damage even against armored foes.
 
 #tech_archery
 Archery
 
 #tech_archery_dscr_1
-tech_archery_dscr_1
+The art, practice, and skill of using bows to shoot arrows.
 
 #tech_longbow
 Longbow
 
 #tech_longbow_dscr_1
-tech_longbow_dscr_1
+A type of bow that is tall, allowing experienced archers a fairly long and powerful draw.
 
 #tech_compbow
 Composite bow
 
 #tech_compbow_dscr_1
-tech_compbow_dscr_1
+A bow made from horn, wood, and sinew laminated together for better performances and with a smaller size making it ideal for mounted archers.
 
 #tech_crossbow
 Crossbow
 
 #tech_crossbow_dscr_1
-tech_crossbow_dscr_1
+A mechanical bow that does not require force to maintain the bow's draw and requires less training from the wielder.
 
 #tech_spear
 Spear
 
 #tech_spear_dscr_1
-tech_spear_dscr_1
+A basic pole weapon consisting of a shaft, usually of wood, with a pointed head.
 
 #tech_battleaxe
 Battleaxe
 
 #tech_battleaxe_dscr_1
-tech_battleaxe_dscr_1
+An axe specifically designed for combat.
 
 #tech_sword
 Sword
 
 #tech_sword_dscr_1
-tech_sword_dscr_1
+A bladed melee weapon intended for cutting or thrusting the opponent.
 
 #tech_longsword
 Longsword
 
 #tech_longsword_dscr_1
-tech_longsword_dscr_1
+A type of sword characterized as having a cruciform hilt with a grip for two-handed use and of significant length.
 
 #tech_warham
 Warhammer
 
 #tech_warham_dscr_1
-tech_warham_dscr_1
+A long-handled weapon derived from the tool and especially efficient against heavy armor such as steel plates.
 
 #tech_helbard
 Helbard
 
 #tech_helbard_dscr_1
-tech_helbard_dscr_1
+A two-handed pole weapon combining the piercing attack of spears and the cutting or battle axes.
 
 #tech_shield
 Shield
 
 #tech_shield_dscr_1
-tech_shield_dscr_1
+A piece of personal armor made of wood and leather, held in the hand to counter blows in melee or projectiles such as arrows. 
 
 #tech_metshield
 Metal shield
 
 #tech_metshield_dscr_1
-tech_metshield_dscr_1
+A shield reinforced with metal plating such as bronze or iron for additionnal resistance.
 
 #tech_hvshield
 Heavy shield
 
 #tech_hvshield_dscr_1
-tech_hvshield_dscr_1
+A very large shield reinforced with metal plating such as bronze or iron.
 
 #tech_stlshld
 Steel shield
 
 #tech_stlshld_dscr_1
-tech_stlshld_dscr_1
+Shield reinforced with steel for addionnal resistance while remaining lighter than other metallic shields.
 
 #tech_paddarm
 Padded armor
 
 #tech_paddarm_dscr_1
-tech_paddarm_dscr_1
+A cheap padded defensive jacket worn as a stand alone or combined with mail or plate armor, usually made of linen or wool and produced with the quilting sewing technique.
 
 #tech_scalearm
 Scale armor
 
 #tech_scalearm_dscr_1
-tech_scalearm_dscr_1
+A type of armor made of many individual small armor scales attached to each other and to a backing of cloth or leather in overlapping rows, offering good protection against blunt force hits.
 
 #tech_paparmor
 Paper armor
 
 #tech_paparmor_dscr_1
-tech_paparmor_dscr_1
+An armor made of layered paper that is surprisingly efficient for its production cost.
 
 #tech_brigdn
 Brigandine
 
 #tech_brigdn_dscr_1
-tech_brigdn_dscr_1
+A garment of heavy cloth and leather lined with small oblong steel plates riveted to the fabric providing a good compromise of mobility, cost, and protection.
 
 #tech_chnmail
 Chainmail
 
 #tech_chnmail_dscr_1
-tech_chnmail_dscr_1
+A type of armor consisting of small metal rings linked together in a pattern to form a mesh providing great protection against piercing and slashing blows. 
 
 #tech_cuirass
 Cuirass
 
 #tech_cuirass_dscr_1
-tech_cuirass_dscr_1
+A piece of heavy armor that is formed of a single or multiple pieces of metal which covers the torso.
 
 #tech_lamnrarm
 Laminar armor
 
 #tech_lamnrarm_dscr_1
-tech_lamnrarm_dscr_1
+An armor made from overlapping rows or bands of solid armor plates providing better mobility than solid cuirasses.
 
 #tech_platearm
 Plate armor
 
 #tech_platearm_dscr_1
-tech_platearm_dscr_1
+A type of armor made from carefully articulated steel plates entirely encasing the wearer and providing extreme protection to its wearer while remaining as light as possible.
 
 #tech_lhelmet
 Helmet
 
 #tech_lhelmet_dscr_1
-tech_lhelmet_dscr_1
+A protective piece of armor worn on the head.
 
 #tech_hvhelmet
 Heavy helmet
 
 #tech_hvhelmet_dscr_1
-tech_hvhelmet_dscr_1
+The knowledge of designing and crafting heavy metal helemets for increased protection. 
 
 #tech_ptrwhl
 Potter's wheel
@@ -968,7 +974,7 @@ Glazing
 Glazing is the process of coating ceramic with vitreous substances, improving the esthetic and solidity of pottery. It also makes it impermeable which allows it to hold liquids more efficiently.
 
 #tech_garden
-Gardening
+Gardens
 
 #tech_garden_dscr_1
 The art of tending, cultivating and arranging plants for esthetical purposes.
@@ -1008,4 +1014,162 @@ Sausages
 
 #tech_sausg_dscr_1
 Sausages are a way to process fresh meat allowing for a longer conservation.
+
+#tech_plaster
+Plaster
+
+#tech_plaster_dscr_1
+A building material used for the protective or decorative coating of walls and ceilings made by heating Lime at high temperature.
+
+#tech_godmono
+Gift of Wisdom
+
+#tech_godmono_dscr_1
+A knowledge gifted by the Palentir of how to build monolithic artefacts that bring prosperity, happiness and wisdom to the inhabitants around it.
+
+#tech_godmord
+Gift of Power
+
+#tech_godmord_dscr_1
+A knowledge gifted by the Palentir instructing you how to build a giant black tower promissing you to grant your wish of world domination once completed.
+
+#tech_jewelry
+Jewelry
+
+#tech_jewelry_dscr_1
+The art of creating jewelry, decorative items worn for personal adornment often used to advertise a social status.
+
+#tech_goldsmth
+Goldsmithing
+
+#tech_goldsmth_dscr_1
+The art of working with Gold and other precious metals to craft decorative things such as jewelry.
+
+#tech_council
+Council
+
+#tech_council_dscr_1
+A council of advisors exclusively devoted in assisting the Leader in governance. They spend their time sniffing things and occasionally solving issues or taking decisions in behalf of the Leader.
+
+#tech_treasury
+Treasury
+
+#tech_treasury_dscr_1
+The separation of the Leader and the Government's finances.
+
+#tech_treaties
+Diplomatic treaties
+
+#tech_treaties_dscr_1
+The practice of upholding formal diplomatic treaties and engagements.
+
+#tech_laws
+Lawmaking
+
+#tech_laws_dscr_1
+The specialization of Civil Servants into the management of a formal legislation.
+
+#tech_vassalage
+Vassalage
+
+#tech_vassalage_dscr_1
+The establishment of more complex laddered hierachic relations where Liedges and Lords establish mutual obligations and commit to loyalty.
+
+#tech_regions
+Regionnal administrations
+
+#tech_regions_dscr_1
+The organization of territory into separated regions each one with its own administration and oversight, federated under a central government.
+
+#tech_seals
+Authentication seals
+
+#tech_seals_dscr_1
+The practice of using official stamps and seals in administration to authenticate the origin of documents and missives coming from distant places.
+
+#tech_postal
+Postal service
+
+#tech_postal_dscr_1
+An organized service of messengers and relays specialized in carrying written documents and messages between cities.
+
+#tech_court
+Court
+
+#tech_court_dscr_1
+The establishment of a Court to host and entertain vassals and subordinates in order to improve their management and better control them.
+
+#tech_tributaries
+Tributaries hostages
+
+#tech_tributaries_dscr_1
+The practice of keeping hostages from states vassalized by force to ensure their loyalty and submission.
+
+#tech_prefects
+Prefects
+
+#tech_prefects_dscr
+Civil servants of the government established in subordinate states to improve their management and communication with them.
+
+#tech_archives
+Archiving
+
+#tech_archives_dscr
+The practice of organizing and maintaining archives to improve administration.
+
+#tech_statedprt
+State Departments
+
+#tech_statedprt_dscr
+Expanding administration into different departments with specialized civil servants focusing on the management of a unique aspect of governance, improving the administrative capacity of the government.
+
+#tech_republic
+Republic
+
+#tech_republic_dscr
+Governance as a republic where statespigs rule in the name of the people.
+
+#tech_lawmaking
+Lawmaking
+
+#tech_lawmaking_dscr
+An institution of Civil Servants specialized in Lawmaking.
+
+#tech_democracy
+Democracy
+
+#tech_democracy_dscr
+Governance as a direct democracy where citizens vote and participate in governance directly, and where the majority rules without any leader or representatives.
+
+#tech_marriages
+Alliance marriages
+
+#tech_marriages_dscr
+The practice of organizing political marriages to seal alliances between states.
+
+#tech_tercntrl
+Territorial control
+
+#tech_tercntrl_dscr
+The organization of patrols to wacth over claimed empty territories.
+
+#tech_village
+Communal administration
+
+#tech_village_dscr
+The idea of having a community building used to discuss and organize matters of the settlement and employing civil servants dedicated to administering local affairs.
+
+#tech_town
+Town administration
+
+#tech_town_dscr
+The development of a local administration employing civil servants dedicad to administering affairs of the city and its attached regional territories.
+
+#tech_city
+City administration
+
+#tech_city_dscr
+The development of an organized regional government employing civil servants administering the regional capital and all the territories of the region.
+
+
 
