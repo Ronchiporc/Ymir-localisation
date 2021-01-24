@@ -11,19 +11,22 @@ Maciorka
 Prosiak
 
 #u_oldpig
-Staroknur
+Starowieprz
+
+#u_carrier
+Tragarz
 
 #u_warrior
-Wojswin
+Wojownik
 
 #u_axepig
-Toporswin
+Topornik
 
 #u_swordpig
-Mieczswin
+Wieprz z mieczem
 
 #u_swordboar
-Mieczknur
+Dzik z mieczem
 
 #u_porcus
 Wieprzus
@@ -32,13 +35,13 @@ Wieprzus
 Ryjek
 
 #u_spearpig
-Wl骳zswin
+W艂贸cznik
 
 #u_hoplite
-Hoplitswin
+Hoplita
 
 #u_immortal
-Niesmiertelswin
+Nie艣miertelny
 
 #u_voulger
 Voulger
@@ -47,25 +50,25 @@ Voulger
 Wieprz wojny
 
 #u_battleswine
-Swinia bitewna
+Bitewny
 
 #u_baconeer
 Bekonier
 
 #u_martelsnout
-Mlotswin
+M艂otem
 
 #u_javelin
-Oszczeswin
+Oszczepnik
 
 #u_bowpig
-Lukswin
+艁ucznik
 
 #u_longbowpig
-Strzelswin z lukiem dlugim
+Longbow Wieprz
 
 #u_crossbowpig
-Kuszswin
+Kusznik
 
 #u_horsepig
 Jezdziec konny
@@ -74,22 +77,22 @@ Jezdziec konny
 Katafrakt
 
 #u_pigatarms
-Zbrojswin
+Zbrojmistrz
 
 #u_mntdarcher
-Luczswin konny
+艁ucznik konny
 
 #u_camelpig
-Jezdziec wielbladzi
+Jezdziec wielb艂adzi
 
 #u_camephract
-Katafrakt wielbladzi
+Katafrakt wielb艂adzi
 
 #u_camelier
 Saladyn
 
 #u_camelbow
-Luczswin wielbladzi
+艁ucznik wielb艂adzi
 
 #u_stomper
 Deptacz
@@ -98,22 +101,22 @@ Deptacz
 Cubiphant
 
 #u_crusher
-Miazdzyswin
+Mia偶d偶yciel
 
 #u_megaphant
 Megaphant
 
 #u_killerrabbit
-Niezwykly kr髄ik
+Niezwykly kr贸lik
 
 #u_porkoderthal1
 Porkoderthal
 
 #u_horse
-Kon
+Ko艅
 
 #u_elephant
-Slon
+Slo艅
 
 #u_mammoth
 Mamut
@@ -125,22 +128,22 @@ Pies
 Owca
 
 #u_rabbit
-Kr髄ik
+Kr贸lik
 
 #u_deer
-Jelen
+Jele艅
 
 #u_cow
 Krowa
 
 #u_buffalo
-Baw髄
+Baw贸艂
 
 #u_capybara
 Kapibara
 
 #u_camel
-Wielblad
+Wielb艂膮d
 
 #u_goat
 Koza
@@ -152,7 +155,7 @@ Kura
 Lama
 
 #u_ostrich
-Strus
+Stru艣
 
 #u_fish
 Ryba
@@ -167,26 +170,47 @@ Ptak
 Papuga
 
 #u_sparrow
-Wr骲el
+Wr贸bel
 
 #u_wolf
 Wilk
 
 #u_bear
-Niedzwiedz
+Niedzwied藕
 
 #u_pitsotl
 Pitsotl
 
 #u_eaglewarrior
-Wojswin orla
+Wojswin or艂a
 
 #u_wolfwarrior
 Wojswin wilka
 
 #u_bearserker
-Berserswin
+Berserwieprz
 
 #u_rockthrower
 Miotacz kamieni
+
+#u_frag_palentir
+Palentir fragment
+
+#u_palentir
+Palentir
+
+#u_elemental
+Elemental
+
+#u_goblin
+Goblin
+
+#u_orc
+Ork
+
+#u_fimyr
+Fimyr
+
+#u_golem
+Golem
 

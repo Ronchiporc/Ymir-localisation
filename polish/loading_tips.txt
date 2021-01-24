@@ -11,7 +11,7 @@ Bogactwo jest jednostką wartości obiektywnej. Jest określane przez czas, jaki
 Bogactwo, jako referencyjna, uniwersalna jednostka wartości, oznacza to samo dla wszystkich regionów i graczy.
 Każdy świniak poświęcający czas na pracę, podnosi wartość Bogactwa proporcjonalnie do wykonywanej pracy.
 Świniak pracujący w budynku o dwukrotnie zwiększonej efektywności, wykona dwukrotnie większą pracę, a więc dwukrotnie bardziej podniesie wartość Bogactwa w stosunku do efektywności bazowej.
-Typ i cena zasobów nie mają wpływu na Bogactwo. Są one zależne od społeczeństw, zaś Bogactwo jest obiektywną, uniwersalną jednostką wartości, reprezentującą czas spędzony na pracy.
+Typ i cena zasobów nie mają wpływu na bogactwo. Są one zależne od społeczeństw, zaś bogactwo jest obiektywną, uniwersalną jednostką wartości, reprezentującą czas spędzony na pracy.
 Jeśli jeden świniak zarabia 10 Monet spośród 1000 znajdujących się w obiegu (suma wszystkich dochodów w regionie), lecz zajdzie nagła zmiana i w obiegu znajdzie się 2000 monet, to efekt będzie taki, jakby stracił połowę swoich Monet i połowę wartości bogactwa rejonu, jaką posiadał dzięki 10 Monetom .
 Waluta reprezentuje prawo do dzielenia wartości rzeczywistej i niekoniecznie posiada wartość sama w sobie. W Ymir tą subiektywną, rzeczywistą wartością jest jednostka Bogactwa, reprezentowana przez walutę nazywaną Monetami. 
 Jeśli całkowite bogactwo regionu to jeden tort, to każda Moneta daje świniakowi prawo do jego kawałka. Rozmiar tego kawałka będzie zależny od ilości Monet znajdujących się w obiegu, a więc sumy dochodów w regionie.
