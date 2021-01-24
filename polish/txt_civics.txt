@@ -1,156 +1,173 @@
 #civ_gifteco_n
-Gift economy
+Bonus ekonomiczny
 
 #civ_gifteco_dscr
-A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future rewards.
+Tryb wymiany, w którym kosztowności nie są przedmiotem obrotu ani sprzedaży, ale raczej wręczane bez wyraźnej zgody na natychmiastowe lub przyszłe nagrody.
 
 #civ_fairxchang_n
-Fair exchange
+Uczciwa wymiana
 
 #civ_fairxchang_dscr
-Immediate and reciprocal exchange of equivalent valuables.
+Natychmiastowa i wzajemna wymiana równoważnej wartości przedmiotów.
 
 #civ_currency_n
-Currency
+Waluta
 
 #civ_currency_dscr
-Having a reference valuable to facilitate exchanges and used as a unit for value measurement. 
+Posiadanie wartości referencyjnej ułatwiającej wymianę i wykorzystywanej jako jednostka pomiaru wartości.
 
 #civ_coinage_n
-Coinage
+Waluta
 
 #civ_coinage_dscr
-A state certified currency.
+Waluta certyfikowana przez państwo.
 
 #civ_repmoney_n
-Representative money
+Reprezentatywne pieniądze
 
 #civ_repmoney_dscr
-A currency representing a claim on a commodity instead of beeing a commodity in itself.
+Waluta reprezentująca roszczenie do towaru, zamiast być towarem sama w sobie.
 
 #civ_bandsociety_n
-Band society
+Stowarzyszenie
 
 #civ_bandsociety_dscr
-The simplest form of society, with loose organization and informal leadership.
+Najprostsza forma społeczeństwa, z luźną organizacją i nieformalnym przywództwem.
 
 #civ_leadership_n
-Leadership
+Przywództwo
 
 #civ_leadership_dscr
-One recognized leader to rule them all.
+Jeden uznanym przywódca, który rządzi wszystkimi.
 
 #civ_localchief_n
-Local authorities
+Lokalny autorytet
 
 #civ_localchief_dscr
-Local territorynal chiefs ruling their single territory and carrying the orders of the central power.
+Lokalni wodzowie terytorialni rządzący swoim terytorium i wykonujący rozkazy władzy centralnej.
 
 #civ_governors_n
-Governors
+Gubernatorzy
 
 #civ_governors_dscr
-Public officials with the power to govern provinces.
+Urzędnicy publiczni uprawnieni do zarządzania prowincjami.
 
 #civ_senate_n
-Senate
+Senat
 
 #civ_senate_dscr
-An assembly of statespigs acting for the interests of the people.
+Zgromadzenie wieprzy państwowych działających w interesie ludu.
 
 #civ_prtctor_n
-Protector of the people
+Obrońca ludu
 
 #civ_prtctor_dscr
-"I rule because i am in charge of protecting the people."
+„Rządzę, ponieważ odpowiadam za ochronę ludzi”.
 
 #civ_superior_n
-Superior leader
+Najwyższy przywódca
 
 #civ_superior_dscr
-"I rule because i am superior."
+„Rządzę, bo jestem lepszy”.
 
 #civ_divine_n
-Divine leader
+Boski przywódca
 
 #civ_divine_dscr
-"I rule because i am a god."
+„Rządzę, bo jestem bogiem”.
 
 #civ_divinerep_n
-Divine representative
+Boski przedstawiciel
 
 #civ_divinerep_dscr
-"I rule because i am chosen by the gods."
+„Rządzę, ponieważ jestem wybrany przez bogów”.
 
 #civ_comgood_n
-Common good
+Dobro wspólne
 
 #civ_comgood_dscr
-"I rule for the people."
+„Rządzę dla ludzi”.
 
 #civ_people_n
-People representative
+Reprezentant ludu
 
 #civ_people_dscr
-"I rule in the name of the people."
+„Rządzę w imieniu ludu”.
 
 #civ_tax_n
-Taxation
+Opodatkowanie
 
 #civ_tax_dscr
-Financial charges imposed upon taxpayers by the state.
+Opłaty finansowe nakładane na podatników przez państwo.
 
 #civ_seizem_n
-Seize materials
+Zbieraj materiały
 
 #civ_seizem_dscr
-Seize construction materials from the population instead of paying for them. Excess of this might harm your economy.
+Zbieraj materiały budowlane od ludności, zamiast za nie płacić. Nadmiar może zaszkodzić Twojej gospodarce.
 
 #civ_statepriv_n
-Privileges
+Przywileje
 
 #civ_statepriv_dscr
-Privileges for the leadership of your government, granting them a percentage of territory's wealth by right.
+Przywileje dla kierownictwa twojego rządu, przyznające im prawnie określony procent bogactwa terytorialnego.
 
 #civ_statesal_n
-State workers
+Pracownicy państwowi
 
 #civ_statesal_dscr
-State workers are directly employed and paid by the state and serve in various official buildings like administration or schools.
+Pracownicy państwowi są bezpośrednio zatrudniani i opłacani przez państwo i służą w różnych budynkach urzędowych, takich jak administracja czy szkoły.
 
 #civ_parl_n
-Parliament
+Parlament
 
 #civ_parl_dscr
-An assembly of representatives of the people.
+Zgromadzenie przedstawicieli ludu.
 
 #civ_minist_n
-Ministry
+Ministerstwo
 
 #civ_minist_dscr
-A council of statespigs holding significant public offices, making and implementing decisions on policies in conjunction with each other.
+Rada wieprzy państwowych pełniąca ważne funkcje publiczne, wspólnie podejmująca i wdrażająca decyzje dotyczące ustaw.
 
 #civ_ration_n
-Food rationing
+Racjonowanie żywności
 
 #civ_ration_dscr
-The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improving everyone's access to foods.
+Racjonowanie żywności zmniejsza spożycie żywności każdego wieprza. W czasach niedoboru żywności pomaga poprawić dostępność żywności dla każdego.
 
 #civ_agrisav_n
-Seeds stocking
+Gromadzenie nasion
 
 #civ_agrisav_dscr
-Prevent a portion of your agricultural food production from beeing directly distributed or consummed in order to save seeds to create new fields.
+Zapobiegaj bezpośredniej dystrybucji lub konsumpcji części swojej produkcji rolno-spożywczej w celu oszczędzania nasion i tworzenia nowych pól.
 
 #civ_subv_n
-Subvention
+Subwencje
 
 #civ_subv_dscr
-An aid paid by the state to every porco of a specific class of workers, increasing their income.
+Pomoc wypłacana przez państwo każdemu wieprzowi określonej klasy robotników, zwiększająca ich dochody.
 
 #civ_paidrsrch_n
-Paid researchers
+Dofinansowanie naukowców
 
 #civ_paidrsrch_dscr
-Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings where they work.
+Badacze biorący udział w projekcie otrzymują wynagrodzenie od państwa proporcjonalnie do ich obecnego bogactwa i nie redukują już siły roboczej w budynkach, w których pracują.
 
+#cltr_consume_n
+Zużycie zasobów
+
+#cltr_consume_dscr
+Kulturowy zwyczaj twojej populacji polegający na konsumowaniu określonego zasobu. Umożliwia popyt i sprzedaż tego surowca przez ludności.
+
+#cltr_resprod_n
+Produkcja surowców
+
+#cltr_resprod_dscr
+Kulturowa tradycja odblokowuje produkcję określonego surowca. Kolejne poziomy poprawiają wydajność produkcji przy jednoczesnym zmniejszeniu kosztów materiałów.
+
+#cltr_resqual_n
+Znajomość zasobów
+
+#cltr_resqual_dscr
+Kulturowa tradycja rzemiosła określonego surowca poprawia jakość produkcji zasobu.

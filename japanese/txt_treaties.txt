@@ -29,7 +29,7 @@
 国威譲渡
 
 #agrim_admtax_2
-州の国威の[x]%を譲渡する。
+地域の国威の[x]%を譲渡する。
 
 #agrim_admtax_3
 [x]の国家威信の[y]%を譲渡する。
@@ -69,6 +69,15 @@
 
 #agrim_vassal_3
 [x]は[y]の国に加わります。
+
+#agrim_fvassal_1
+Subjugated
+
+#agrim_fvassal_2
+Subjugated by the [x]
+
+#agrim_fvassal_3
+[x] will be subjugated by the nation of [y].
 
 #agrim_war_1
 宣戦布告を依頼
@@ -177,3 +186,6 @@ GDP[x] %
 
 #diplo_ndef_dscr_1
 国家の構成国に対して行われた宣戦布告は全ての構成国から自動的に相手国に対して宣戦布告を引き起こします。
+
+#treaty_nocls
+（違反条項は、相手が現在非アクティブであるため有効ではありません）

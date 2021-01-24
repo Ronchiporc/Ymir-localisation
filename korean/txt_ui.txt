@@ -49,8 +49,8 @@ Ymir Trello
 #ui_connctstat_1
 현재 [x]에 연결됨. 핑:[y]
 
-#ui_connctstat_2
-손실율: [x]%(전송:[y] 실패:[z])
+#ui_connctstat2_2
+지연율: [x]%(응답:[y] 지연:[z] 실패:[v])
 
 #ui_connct_stable
 서버와의 접속은 안정적입니다.
@@ -65,7 +65,7 @@ Ymir Trello
 전체화면/창모드
 
 #mainmenu_quit
-게임을 킅내려면 클릭하세요.
+게임을 끝내려면 클릭하세요.
 
 #mainmenu_maxim
 최대
@@ -80,7 +80,7 @@ Ymir Trello
 - 이 게임은 1인 프로젝트입니다. 개발이 느립니다. 솔로플래이가 가능하지만, 이 게임은 멀티플레이에 맞춰졌습니다.
 
 #dsclmr_2
-- 이 게임은 진행 중인 실험적인 작업으로 영원히 남을 것이며, 완제품의 품질, 적절한 안정성 및 최적화에 도달하지 못할 가능성이 높습니다.
+- 이 게임은 진행 중인 실험적인 작업으로 영원히 남을 수 있으며, 완제품의 품질, 적절한 안정성 및 최적화에 도달하지 못할 가능성이 높습니다.
 
 #dsclmr_3
 - 한글번역이 이루어졌으나, 번역 검수와 게임내 검사가 되지 않았으며 일부 오역이 있을 수 있습니다. 발견시 디스코드의 한국채널에 오역 및 번역 문제들을 제보해주세요.
@@ -223,6 +223,12 @@ UI 소리
 #menuop_togtut_c1
 처음일 때에 필요한 튜토리얼과 모든 도움말 팝업을 활성화합니다.
 
+#menuop_togIP
+계정 정보 숨기기
+
+#menuop_togIP_c1
+사용자의 ID나 IP주소 등의 계정 정보가 화면상에 표시되는 것을 숨깁니다.
+
 #menuop_resetut
 전부 초기화
 
@@ -249,6 +255,9 @@ UI 소리
 
 #joingame_yourgames
 여러분의 게임들
+
+#joingame_yourgames_dscr_1
+쉽게 접근하기위한, 기록된 모든 당신의 마지막으로 플레이했던 캐릭터들.  
 
 #joingame_persist
 영구 게임(Persistent Game)
@@ -309,6 +318,30 @@ UI 소리
 
 #servlst_dur_c1
 이 게임이 진행한 시간양입니다.
+
+#servlst_sb
+시작 보너스
+
+#servlst_sb_c1
+서버에서 없어진 플레이어들이 많을수록 원시 시작을 제외한 초기 시작에 보너스를 받습니다.	
+
+#servlst_prgrs
+진도
+
+#servlst_prgrs_c1
+게임의 종합적인 기술의 발전율.
+
+#servlst_won
+승패 여부
+
+#servlst_won_c1
+이 게임은 아직 승패를 가리지 못했습니다. 일단 승패가 결정되면 게임은 끝나고 서버에서 지워지고 다시 시작될 수도 있습니다.
+
+#servlst_psw
+비밀번호
+
+#servlst_psw_c1
+이 게임에 대한 접근에 대하여 암호로 보호되는지 여부를 나타냅니다.
 
 #servlst_admn
 관리자 도구
@@ -374,7 +407,7 @@ UI 소리
 서버 설정
 
 #newgame_serv_run
-서버가 자동으로 닫히지 않습니다.
+서버는 자동으로 닫히지 않습니다.
 
 #newgame_serv_empty
 서버가 비어 있을 때 서버를 닫습니다
@@ -456,6 +489,18 @@ UI 소리
 
 #maptyp6_dscr
 열대섬이 많은 따뜻하고 습한 바다세계입니다.
+
+#mapcont
+대륙
+
+#mapsea
+바다 면적
+
+#maprelief
+구제 금액
+
+#maptemp
+온도
 
 #maptypcust
 사용자 정의
@@ -552,6 +597,9 @@ UI 소리
 
 #newchar_availspwn
 설정에 따른 사용가능한 시작 위치
+
+#newchar_bestspwn
+(최고값: [x])			 
 
 #newchar_closeto
 특정 캐릭터의 가까이에서 시작하기
@@ -719,10 +767,10 @@ UI 소리
 이 주택의 수용 가정 수
 
 #bc_bdginf_h
-이 주거지의 거주자를 위한 체력 보너스입니다.
+이 주택의 거주자를 위한 체력 보너스입니다.
 
 #bc_bdginf_lq
-이 주거지의 거주자를 위한 삶의 질 보너스입니다.
+이 주택의 거주자를 위한 삶의 질 보너스입니다.
 
 #bc_bdginf_eff
 효율성은 건물의 각 작업자의 노동력을 배가시킵니다.
@@ -848,13 +896,19 @@ UI 소리
 사용 :
 
 #ui_menubdg_perslot
-슬롯당
+단위로 묶어서 슬롯마다 배치 
 
 #ui_menubdg_upto
 개선 사항:
 
 #ui_menubdg_upgrades
 개선
+
+#ui_menubdg_solid
+견고함
+
+#ui_menubdg_struct
+건축물
 
 #ui_menubdg_winc_1
 각 노동자가 벌어들인 소득
@@ -935,7 +989,10 @@ UI 소리
 부속에서 생산에 사용할 자원이 없습니다.
 
 #ui_annex_err2
-이 건물에는 유통 할 수 있는 생산물이 없습니다
+이 건물에는 유통 할 수 있는 생산물이 없습니다.
+
+#ui_annex_err3
+더 이상 이 부속은 배치할 수 없습니다.
 
 #bc_menubdg_selp
 생산할 자원 선택
@@ -1039,6 +1096,12 @@ UI 소리
 #regeco_up_infr_c1
 영토 내 모든 도시 인프라의 총 유비지 (유지비가 드는 벽이나 정원등)
 
+#regeco_up_free
+영역 상태
+
+#regeco_up_free_c1
+영토 상태에 의해 유지비용이 무료입니다.
+
 #regeco_tradebal
 거래잔고
 
@@ -1100,7 +1163,7 @@ UI 소리
 GDP:
 
 #bc_menureg_gdp1
-지역내총생산
+지역내 총생산
 
 #bc_menureg_gdp2
 그 지역의 모든 동전 수입의 합계
@@ -1109,7 +1172,7 @@ GDP:
 영토의 재산:
 
 #bc_menureg_wlth
-영토의 총 재산
+영토의 총재산
 
 #ui_menureg_admin1
 수용치
@@ -1121,10 +1184,10 @@ GDP:
 영토
 
 #bc_menureg_totpop
-총인구
+총시민수
 
 #bc_menureg_totpop2
-활동인구
+활동 시민수
 
 #bc_menureg_sprt1
 이 지역은 현재 [x] 부대를 유지지원하고 있습니다.
@@ -1150,8 +1213,17 @@ M
 #bc_gen_mainmenu
 메뉴 열기
 
-#bc_gen_speed
-해당 [x] 만큼의 게임 속도
+#bc_gen_speed_c1
+게임의 전체 진행 속도를 설정합니다.
+
+#bc_gen_speed_c2
+이는 자원 생산, 연구, AP 복구, 새로운 아이디어 발견, 세계 지도에서의 이동 속도 등과 같은 사물의 속도에 영향을 미칩니다.
+
+#bc_btl_speed_c1
+게임의 전투 및 유닛 속도를 설정합니다.
+
+#bc_btl_speed_c2
+이것은 영토에서의 전투와 유닛의 속도에만 영향을 미칩니다.											
 
 #bc_gen_gameset
 현재 게임 설정
@@ -1232,10 +1304,10 @@ M
 활성화된 정책
 
 #ui_gov_coins
-도시 주화
+국가 재정
 
 #ui_gov_ecobalance
-경상예산수지
+경상 재정 수지
 
 #ui_gov_legit
 현 정부의 정통성
@@ -1337,7 +1409,7 @@ GDP
 지도자의 개인재산
 
 #ui_eco_lead_c1
-지도자는 현재 [y] 자신의 개인 총 재산의 [x]%를 정부 재정에 할당하고 있습니다.
+지도자는 현재 [y] 자신의 개인 총재산의 [x]%를 정부 재정에 할당하고 있습니다.
 
 #ui_eco_tax
 세금수입
@@ -1362,12 +1434,6 @@ GDP
 
 #ui_eco_bdgs_c1
 당신의 모든 영토에 있는 모든 건물의 총유지.
-
-#ui_eco_infr
-기반시설 유지비
-
-#ui_eco_infr_c1
-벽이나 도로와 같은 모든 지역의 모든 기반시설을 유지하는 총비용.
 
 #ui_eco_units
 유닛 유지비
@@ -1438,6 +1504,9 @@ GDP
 #ui_mres_dist
 배분
 
+#ui_mres_dist_cltr
+이 자원은 인구가 소비하는 모든 단위에 대해 [x]의 문화를 생산하며, 현재 총 [y]의 문화를 생산하고 있습니다.
+
 #ui_mres_ind
 산업
 
@@ -1456,11 +1525,17 @@ GDP
 #ui_price_base1_c1
 이 자원에 대한 현지 생산품의 비용은 필수 자재 비용에 근거합니다.
 
+#ui_price_base1_c2
+생산은 단위당 [y]의 평균 비용으로 총 입력의 [x]%를 나타내며, 그 결과 [z]의 최소 가격에 영향
+
 #ui_price_base2
 수입 비용 ([x]%)
 
 #ui_price_base2_c1
-현재 교역로에서 이 자원을 수입하는 비용.
+현재 무역로에서 이 자원을 수입하는 비용.
+
+#ui_price_base2_c2
+수입은 단위당 평균 비용[y]으로 총 입력의 [x]%를 나타내며, 최소 가격[z]에 영향을 미칩니다.
 
 #ui_price_base3
 매출액 이윤
@@ -1613,7 +1688,7 @@ GDP
 투자
 
 #ui_bdgeff_profit
-무익함 ([x]%)
+비효율성[x]%
 
 #ui_mres_indaccess
 산업 접근율
@@ -1715,73 +1790,73 @@ GDP
 [x]는 더 이상 국가 자원이 아닙니다.(생산 자동구매 금지)
 
 #regeco_eff
-효과: 정부 재정에 긍정적 또는 부정적 영향을 미칩니다.
+영향: 정부 재정에 긍정적 또는 부정적 영향을 미칩니다.
 
 #regeco_1
 당신의 영토의 예산수지는 세금, 임금, 유지비용과 같은 이 지역에 특정한 모든 수입과 비용의 결과물입니다.
 
 #regeco_2
-예산 또한 낭비에 의해 부정적인 영향을 받을 수 있습니다. 그것은 세금 사기, 나쁜 경영, 부패 그리고 '지하 경제'로 잃어버린 수입을 나타낸다.
+예산 또한 낭비에 의해 부정적인 영향을 받을 수 있습니다. 이들은 탈세, 부실 경영, 부패 그리고 '지하 경제'로 잃어버리는 수입을 나타냅니다.
 
 #regadmin_eff
-효과: 예산수입(-낭비) 증가
+영향: 예산수입 증가(-낭비)
 
 #regadmin_1
-관리는 이 지역에서 당신의 정부의 관리 능력을 나타낸다.
+행정은 이 지역에서 당신의 정부의 관리 능력을 나타냅니다.
 
 #regadmin_2
-인구와 수도와의 거리가 많을수록 영토 관리가 더 어려워진다. 그러나 서기와 같은 영토 내의 적극적인 정책과 서비스를 통해 개선될 수 있습니다.
+시민수가 많을수록 또는 수도와의 거리가 멀수록 영토 관리가 더 어려워집니다. 그러나 서기와 같은 영토 내의 활성화된 정책과 서비스를 통해 개선될 수 있습니다.
 
 #regconf_eff
-효과: 성장감소(+살인), 충성(-권한) 감소
+영향: 성장율 감소(+살인), 충성도 감소(-권한)
 
 #regconf_1
-갈등은 그 영토의 국민들 사이의 임의의 충돌의 정도를 나타낸다.
+갈등은 그 영토의 시민들 사이의 임의의 충돌 정도를 나타냅니다.
 
 #regconf_2
-재판과 같은 영토에서 적극적인 정부 윤리와 서비스는 그것을 줄이는 데 도움을 줄 수 있습니다.
+재판과 같은 영토에서 활성화된 정부 윤리와 공공서비스는 이 갈등을 줄이는 데 도움을 줄 수 있습니다.
 
 #regloy_eff
-효과:반란을 방지함
+영향: 반란 방지
 
 #regloy_1
-충성도는 당신에게 그 지역 주민들의 충성을 나타낸다: 중앙정부가 이 영토를 통제하는 것입니다.
+충성도는 당신에게 그 지역 주민들의 충성을 나타냅니다. (중앙정부가 이 영토를 통제하는 것입니다.)
 
 #regloy_2
-국민의 문화, 영토 내 갈등 수준, 적극적인 정책, 과거 사건이나 영토 내 정부의 권한 등 여러 요인에 의해 영향을 받는다. 충성도가 너무 낮아지면(30% 미만) 영토 통제력 상실로 이어질 수 있는 글로벌 민중봉기의 위험성이 커진다.
+시민의 문화, 영토 내 갈등 수준, 활성화된 정책, 과거 사건이나 영토 내 정부의 권한 등 여러 요인에 의해 영향을 받습니다. 충성도가 너무 낮아지면(30% 미만) 영토의 통제력 상실로 이어질 수 있으며, 이는 민중봉기 및 반란의 위험성이 커집니다.
 
 #regcltr_eff
-효과: 당신의 전체 문화에 기여하고, 충성도에 영향을 주며, 인구의 지능을 높인다.
+영향: 전체 문화에 기여하고, 충성도에 영향을 주며, 인구의 지능을 높입니다.
 
 #regcltr_1
-문화는 이 영토에 사는 사람들의 전체적인 지식, 관습, 행동을 나타낸다.
+문화는 이 지역의 시민들의 전체적인 지식, 관습, 행동을 나타냅니다.
 
 #regcltr_2
-인구의 양에 기초한 전체 문화는 다른 유형의 문화 사이에서 공유될 수 있습니다. "국가 문화"는 당신의 문화를 대표합니다. "지방 문화"는 이 영토에 특정한 관습과 행동을 나타내며, 모든 사람들이 공유하는 당신의 주요 문화와는 다르다. 다른 외국 문화도 존재할 수 있습니다.
+시민 수에 기초한 문화는 다른 문화들과 공유될 수 있습니다. "국가 문화"는 당신의 문화를 대표합니다. "지역 문화"는 이 지역에 특정한 관습과 행동을 나타내며 모든 국민들의 주된 문화와는 다릅니다. 다른 외국 문화들도 존재할 수 있습니다.
 
 #regcltr_intgr
 국가의 문화 통합
 
 #regcltr_intgr_c1
-이 지역의 문화는 오랫동안 국가의 일부로서 [x]에 완전히 통합하였다.
+이 지역의 문화는 오랫동안 [x]국가의 일부로서 완전히 통합하였습니다.
 
 #regcltr_intgr_c2
 이 영토를 국가 구성원 간에 이전하면 저항이 50% 감소합니다.
 
 #regcltr_notintgr_c1
-이 지역의 문화는 아직 [x] 국가에 통합하지 못했다. 그것은 [y]에 있을 것입니다.
+이 지역의 문화는 아직 [x] 국가에 통합되지 못 했습니다. 이들의 문화는 아직 [y]의 것입니다.
 
 #reggrwth_eff
-효과: 당신의 인구의 진화를 결정합니다.
+영향: 시민 수의 성장을 결정합니다.
 
 #reggrwth_1
-성장은 이 지역에서 당신의 인구의 현재 인구통계학적 진화를 나타낸다.
+이 지역에서 시민수에 대한 인구통계학적인 성장을 말합니다.
 
 #reggrwth_2
-성장은 다음 세대 안에 얼마나 많은 부부가 아이를 낳을지를 결정하는 국민의 '육아 의지'에 크게 좌우됩니다.
+성장은 다음 세대 안에 얼마나 많은 부부가 아이를 낳을지를 결정하는 시민의 '출산 의지'에 크게 좌우됩니다.
 
 #popw_base
-기반 부(재산)
+기본 부(재산)
 
 #popw_income
 민간 소득
@@ -1796,10 +1871,10 @@ GDP
 부
 
 #popstat_wealth_c1
-사람의 재산은 그것이 구매력이라고 정의합니다.
+돼지들의 부(재산)는 곧 구매력입니다.
 
 #popstat_wealth_c2
-사람은 어떠한 재산에 대해 동등하게 가격을 지불할 수 있고 재산 수준 이하로도 지불할 수 있음
+돼지들은 모든 가치있는 가격을 동등하게 지불할 수 있으며, 그들의 부(재산)의 수준에 맞게 충분히 감당할 수 있습니다.
 
 #popstat_health
 체력
@@ -1808,67 +1883,67 @@ GDP
 체력은 수명을 결정하고 질병에 대한 저항력을 결정합니다.
 
 #popstat_health_c2
-인구의 성장을 향상시킵니다.
+시민 수의 성장을 향상시킵니다.
 
 #poph_base
 기본 체력
 
 #poph_base_c1
-이 인구 계층의 기본 체력
+이 시민 사회 계층의 기본 체력입니다.
 
 #poph_ter
 지형 효과
 
 #poph_ter_c1
-기후[y] 조정자: [x]
+[y]기후에 의하여 [x]로 조정되었습니다.
 
 #poph_ter_c2
 늪: [x]
 
 #poph_housing
-주택효과
+주거 효과
 
 #poph_housing_c1
-주택마다 주민에게 체력 보너스를 지급합니다.
+주택마다 시민에게 체력 보너스를 지급합니다.
 
 #poph_housing_c2
-이것은 이 인구 계층이 점유한 대수층의 주택의 평균 체력 보너스입니다.
+이것은 이 시민 사회 계층이 점유한 대수층의 주택이 제공한 평균 체력 보너스입니다.
 
 #poph_totpop
-총인구
+총시민수
 
 #poph_totpop_c1
-그 지역의 전체 인구는 체력을 감소시킵니다.
+그 지역의 총시민수는 체력을 감소시킵니다.
 
 #poph_foodqual
-[x]의 식품품질
+[x]의 식품 품질
 
 #poph_foodqual_c1
 음식의 질이 높아지면 체력도 높아집니다.
 
 #poph_foodqual_c2
-현재 식품품질 접근 : [x]
+현재 접근할 수 있는 식품 품질  : [x]
 
 #poph_serv
 체력 서비스
 
 #poph_serv_c1
-일부 서비스(의사 등)는 그것에 접근할 수 있는 사람들에게 체력 보너스를 제공합니다.
+일부 공공서비스(의사 등)는 이것에 접근할 수 있는 시민들에게 체력 보너스를 제공합니다.
 
 #poph_vitals
-중요 욕구 결여로 의해 -[x]% 
+필수 욕구 결여로 의해 -[x]% 
 
 #poph_vitals_c1
-필수요건의 결여는 전반적인 체력상태에 비례하여 영향을 미친다
+필수 욕구의 결여는 전반적인 체력상태에 비례하여 영향을 미칩니다.
 
 #popstat_lifequal
 삶의 질
 
 #popstat_lifequal_c1
-삶의 질은 한 사람의 삶이 얼마나 좋고 편안한지를 가늠하는 점수다.
+삶의 질은 한 시민의 삶이 얼마나 좋고 편안한지를 가늠하는 지표입니다.
 
 #popstat_lifequal_c2
-그것은 지능, 행복, 성장과 같은 다른 많은 것들에 영향을 미칩니다.
+이것은 지능, 행복, 성장과 같은 다른 많은 것들에 영향을 미칩니다.
 
 #poplq_vitals
 필수욕구(1차욕구)
@@ -1880,10 +1955,10 @@ GDP
 필수 욕구는 [x]%로 충족됩니다.
 
 #poplq_house
-주택품질
+주거품질
 
 #poplq_house_c1
-이 인구가 점유하고 있는 주택의 평균 주거품질에 의해 삶의 질이 향상되었다.
+삶의 질은 이 시민들이 점유하고 있는 주택들의 평균 주거품질에 의해 향상됩니다.  
 
 #poplq_house_c2
 주거의 평균 품질: [x]
@@ -1892,58 +1967,58 @@ GDP
 (중요 욕구의 충족 필요)
 
 #poplq_2nd
-이차적 욕구
+2차 욕구
 
 #poplq_2nd_c1
-2차적 욕구의 만족과 질에 의해 삶의 질이 향상됩니다.
+2차 욕구의 만족과 질에 의해 삶의 질이 향상됩니다.
 
 #poplq_2nd_c2
-(중요 욕구의 충족 필요)
+(필수 욕구의 충족 필요)
 
 #poplq_3rd
-삼차적 욕구
+3차 욕구
 
 #poplq_3rd_c1
-3차적 욕구의 만족과 질에 의해 삶의 질이 향상됩니다.
+3차 욕구의 만족과 질에 의해 삶의 질이 향상됩니다.
 
 #poplq_3rd_c2
-(2차적중요 욕구의 충족 필요)
+(2차 욕구의 충족 필요)
 
 #poplq_4th
-사차적 욕구
+4차 욕구
 
 #poplq_4th_c1
-4차적 욕구의 만족과 질에 의해 삶의 질이 향상됩니다.
+4차 욕구의 만족과 질에 의해 삶의 질이 향상됩니다.
 
 #poplq_4th_c2
-(3차적중요 욕구의 충족 필요)
+(3차 욕구의 충족 필요)
 
 #popstat_intel
 지능
 
 #popstat_intel_c1
-지능은 진리의 확률을 측정할 수 있는 능력을 만드는 능력입니다.
+지능은 진실의 알고리즘을 분석할 수 있는 능력입니다.
 
 #popstat_intel_c2
-지능적인 돼지들은 더 많은 발상과 문화를 만들어낼 것이지만, 더 불행하고 통제하기 어려운 경향이 있습니다.
+지능적인 돼지는 더 많은 아이디어와 문화를 만들어 낼 것이지만, 더 쉽게 불행해하며 통제하기 어려운 경향이 있습니다.
 
 #popint_base
 기본 지능
 
 #popint_base_c1
-이 종의 기본 지능 수준.
+이 돼지 종의 기본 지능 수준.
 
 #popint_serv
 교육 서비스
 
 #popint_serv_c1
-학교 등 교육 서비스에 대한 접근으로 습득지능 .
+학교 등 교육 서비스에 대한 접근으로 습득가능한 지능입니다.
 
 #popint_lq
 삶의 질
 
 #popint_lq_c1
-현재 삶의 질로 부터 얻은 지능
+현재 삶의 질로 부터 얻은 지능입니다.
 
 #popint_lq_c2
 삶의 질은 각각 +0.75의 지능을 제공합니다.
@@ -1958,7 +2033,7 @@ GDP
 영토의 문화
 
 #popint_cult_c1
-이 지역의 전체 문화는 전체 인구의 지능을 높인다.
+이 지역의 전체 문화는 전체 시민들의 지능을 높입니다.
 
 #popneed_qual
 만족의 질
@@ -1994,13 +2069,13 @@ GDP
 사교
 
 #popneed_2
-2차욕구
+2차 욕구
 
 #popneed_3
-3차욕구
+3차 욕구
 
 #popneed_4
-4차욕구
+4차 욕구
 
 #popneed_unsat
 (높은 우선순위 미충족도 으로 인한 -[x]% )
@@ -2009,64 +2084,64 @@ GDP
 삶의 질 보너스: +[x]
 
 #cltrstat_prod
-인구
+시민 수
 
 #cltrstat_prod_c1
-현재 그 영토에서 그 인구에 의해 생성된 국가 문화의 양.
+현재 그 영토에서의 시민들에 의해 생성된 국가 문화의 양입니다.
 
 #cltrstat_pop
-원시문화생산
+기본 문화 생산
 
 #cltrstat_pop_c1
-인구에 의해 생산된 원시 문화의 양.
+시민들에 의해 생산된 기본 문화의 양입니다.
 
 #cltrstat_pop_c2
-[y] 지능의 [x] 돼지는 현재 문화의 [z]를 생산하고 있습니다.
+총[x]마리 돼지의 평균 지능[y]는 현재 문화의 [z]를 생산하고 있습니다.
 
 #cltrstat_local
 -[x]%의 지역문화
 
 #cltrstat_local_c1
-[x] 만큼의 문화비중은 지방인구입니다.
+[x]% 만큼의 문화비중은 지역 시민 수에 의해 생산됩니다.
 
 #cltrstat_local_c2
--자본거리에서 본 지역문화 : +[x]%
+ - 수도와의 거리에서의 지역문화 : +[x]%
 
 #cltrstat_local_c3
--영토지위로부터 지역문화 : +[x]%
+ - 지역 행정 종류로부터의 지역문화 : +[x]%
 
 #cltrstat_serv
 공공서비스
 
 #cltrstat_serv_c1
-문화 건축물과 그 서비스의 활동에 의해 생산된 국가 정점의 양.
+문화 건축물 및 그 공공서비스의 활동에 의해 생산된 국가 문화의 양입니다.
 
 #cltrstat_decay
 쇠퇴
 
 #cltrstat_decay_c1
-쇠퇴로 인해 상실된 국가의 문화양.
+쇠퇴로 인해 상실된 국가 문화의 양입니다.
 
 #cltrstat_dovrs
 최대 저장 용량
 
 #cltrstat_dovrs_c1
-이 지역에서 현재 저장된 문화의 최대 수용량에 도달하는 경우 쇠퇴가 시작됩니다.
+이 지역에서 저장된 문화의 최대 수용량에 도달하는 경우 쇠퇴가 시작됩니다.
 
 #cltrstat_dovrs_c2
-이 능력은 그 지역에 더 많은 인구가 거주할 수 있도록 증가시킵니다.
+이 수용량은 그 지역에 더 많은 시민들이 거주할 수 있을수록 증가합니다. 
 
 #cltrstat_dinf
 문화적 영향
 
 #cltrstat_dinf_c1
-이 영토에 존재하는 다른 문화에 비해 국가 문화가 영향력을 잃었기 때문에 쇠퇴합니다.
+이 지역에 존재하는 다른 문화에 비해 국가 문화가 영향력을 잃었다면 쇠퇴합니다.
 
 #cltrstat_dinf_c2
-이 지역은 [y] 문화의 전체 생산량 중 [x] 국가 문화의 [x]를 생산하여, 이 영토에서 [z]%의 목표 문화적 영향을 초래합니다.
+이 지역은 [y]문화의 전체 생산량 중 국가 문화의 [x]를 생산하여, 이 지역에서 [z]%의 목표 문화적 영향을 초래합니다.
 
 #cltrstat_dinf_c3
-현재의 국가 문화 영향력은 [x]%입니다.
+현재 국가 문화에 대한 영향력은 [x]%입니다.
 
 #cltrstat_stock
 문화 수용력
@@ -2135,19 +2210,19 @@ GDP
 기본 부(재산)
 
 #popstat_wbase_c1
-모든 돼지는 자연히 스스로 부를 만듭니다.
+모든 돼지들은 직접 스스로 자연적인  부(재산)를 만듭니다.
 
 #popstat_winhrt_c1
-그 부와 자원의 접근을 모든 행위자의 평균으로부터 상속합니다.
+모든 활동의 평균으로부터 부(재산)와 자원에 대한 접근을 상속합니다.
 
 #popstat_winc
 수입금
 
 #popstat_winc_c1
-[y] 총액으로 동전[x]원의 소득
+총액[y]에서 동전[x]원의 소득
 
 #popstat_winc_c2
-[y]영토 재산의 [x]%를 보상합니다.
+지역의 재산 [y]의 [x]%를 수여합니다.
 
 #popstat_wpriv
 특권을 부여하다
@@ -2156,10 +2231,10 @@ GDP
 사회 정책에 의해 특권으로 직접 주어지는 재산.
 
 #legit_dscr
-합법성은 사람들이 당신의 적극적인 합법적 정책들에 의해 정의되는 권위에 대한 당신의 주의 청구권을 얼마나 많이 인지하는 가입니다. 이것들은 모든 다른 합법성 요소들의 긍정적이거나 부정적인 영향력에 영향을 미칩니다.
+합법성은 사람들이 당신의 활성화된 합법적 정책들에 의해 정의되는 권위에 대한 당신의 주의 청구권을 얼마나 많이 인지하는 가입니다. 이것들은 모든 다른 합법성 요소들의 긍정적이거나 부정적인 영향력에 영향을 미칩니다.
 
 #legit_tot
-총정당성
+전체 정당성
 
 #legit_honor
 명예
@@ -2228,19 +2303,19 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 권력 정책
 
 #statepow_civ_c1
-현재 활성화된 권력 정책에 의해 생성된 총 권력 상태.
+현재 활성화된 권력 정책에 의해 생성된 총권력 상태.
 
 #statepow_upk
 정책유지
 
 #statepow_upk_c1
-현재 모든 활동적인 정책들이 소비하는 총 국가 권력.
+현재 모든 활동적인 정책들이 소비하는 총국가권력.
 
 #statepow_nbcit
 모든 영토
 
 #statepow_nbcit_c1
-당신의 모든 통제된 지역의 총 권력 비용 (비용은 각 지역의 상태에 따라 달라질 수 있습니다.)
+당신의 모든 통제된 지역의 총권력비용 (비용은 각 지역의 행정 종류에 따라 달라질 수 있습니다.)
 
 #statepow_debt
 부채
@@ -2252,7 +2327,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 불명예
 
 #statepow_hon_c1
-누구도 불명예스러운 지도자를 섬기고 싶어하지 않습니다! 네거티브 명예는 주(州)권력을 떨어뜨린다(현재의 명예 : [x]).
+누구도 불명예스러운 지도자를 섬기고 싶어하지 않습니다! 실추된 명예는 국가 권력을 떨어뜨립니다.(현재의 명예 : [x])
 
 #statepow_tmain
 조약 유지
@@ -2287,14 +2362,14 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #statepow_nation_c2
 상위권자로 넘어간 국가권력: [x]
 
-#statepow_nation_c3
-직속 부하 인원: [x]
+#statepow_nation_c31
+[y]의 직속 부하 인원: [x]
 
-#statepow_nation_c4
-직속 부하들의 거리 : [x]
+#statepow_nation_c41
+[y]의 직속 부하들의 거리 : [x]
 
-#statepow_nation_c5
-총 부하 인원: [x]
+#statepow_nation_c51
+[y]의 총부하 인원: [x]
 
 #statepow_forms
 부대 유지
@@ -2324,13 +2399,13 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 기본 갈등
 
 #conf_pop_c1
-그 지역의 총인구는 자연히 갈등을 일으킨다.
+그 지역의 총시민수는 자연적으로 갈등을 일으킵니다.
 
 #conf_territ
-[x]% 영토 상태서
+지역 행정 종류로부터 [x]%
 
 #conf_territ_c1
-현재의 영토 상태는 인구에 의해 발생되는 기본 갈등을 조정할 수 있습니다.
+현재의 이 지역 행정 종류는 인구에 의해 발생되는 기본 갈등에 영향을 줄 수 있습니다.
 
 #conf_state
 정책 ([x]%)
@@ -2390,7 +2465,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 고액의 세금
 
 #loyal_hightax_c1
-높은 세금은 사람들을 화나게 하고 국가에 대한 그들의 충성심을 떨어뜨린다.
+높은 세금은 국민을 화나게 하고 국가에 대한 그들의 충성심을 떨어뜨린다.
 
 #loyal_prvldg
 특권
@@ -2402,7 +2477,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 권한
 
 #loyal_autho_c1
-권위의 다른 요소들이 영토의 충성도에 어떻게 영향을 미치는지.
+권위의 다른 요소들이 영토의 충성도에 미치는 영향입니다.
 
 #loyal_statearmy
 국군
@@ -2414,7 +2489,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 경비병
 
 #loyal_guard_c1
-총생산된 경비병은 국가의 권위를 높인다.
+생산된 총경비서비스는 국가의 권위를 높입니다.
 
 #loyal_garrison
 지역 수비대
@@ -2423,10 +2498,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 영토의 시민들에게 스스로를 방어하기 위해 군사 장비를 제공하는 것 또한 그들이 국가의 권위에 저항할 수 있는 자신감을 갖게 합니다.
 
 #loyal_poppow
-인구수
+시민수
 
 #loyal_poppow_c1
-인구가 많을수록 권위가 떨어진다. 인구의 총량이 그 지역의 충성도를 떨어뜨린다.
+시민이 많을수록 권위가 떨어집니다. 시민의 총량이 그 지역의 충성도를 떨어뜨립니다.
 
 #loyal_conf
 갈등
@@ -2498,7 +2573,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 최대 저항: [x]
 
 #resist_max_c1
-이 영역이 가질 수 있는 최대 저항 계수입니다. 저항은 그 지역의 총 인구에 의해 제한됩니다.
+이 영역이 가질 수 있는 최대 저항 계수입니다. 저항은 그 지역의 총국민수에 의해 제한됩니다.
 
 #resist_hloss
 패배 페널티: 명예[x]
@@ -2576,16 +2651,16 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 사용자의 통제 하에 있는 추가 지역 수: [x]
 
 #admin_dist
-[x]% 만큼의 수도와의 거리
+수도와의 거리로 인한 [x]%
 
 #admin_dist_c1
-수도와의 거리는 [y]의 전체 행정력의 [x]%를 차지하게 합니다.
+수도와의 거리는 생산된 전체 행정력[y]에서 [x]%를 차지하게 합니다.
 
 #admin_dist_c2
-수도와 [y]영토사이의 [x]% 만큼의 거리
+수도와의 [y]만큼의 거리로 인한 [x]% 
 
 #admin_dist_c3
-[x]%의 [y]%의 영토 상태 거리 수식자로 부터 [x]%
+지역 행정 종류에 따른 [y]%의 거리 변수로 인한 [x]%
 
 #admin_claim
 지역청구권
@@ -2624,7 +2699,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 돼지 다양성
 
 #growth_sows
-암퇘지 다양성
+암컷 돼지 다양성
 
 #growth_piglets
 새끼돼지 다양성
@@ -2633,7 +2708,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 늙은 돼지 다양성
 
 #growth_mnew
-어른이 되어가는 수컷 새끼들
+성숙기에 도달한 아기돼지들
 
 #growth_msick
 질병
@@ -2642,13 +2717,13 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 살인
 
 #growth_mage
-늙어가는 돼지가 늙은 돼지가 되다.
+돼지들의 늙음
 
 #growth_munitsup
-부대의 고령화: [x] 수의 돼지 (free support for [y])
+부대의 고령화: [x] 수의 돼지가 유닛들로 지원되었습니다. ([y]까지 안정적으로 지원됩니다.)
 
 #growth_snew
-성년이 되는 암컷 돼지.
+성숙기에 도달한 암컷 돼지
 
 #growth_ssick
 질병
@@ -2657,7 +2732,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 살인
 
 #growth_sage
-늙어가는 암퇘지들이 늙은 돼지가 되다.
+암컷 돼지들의 늙음
 
 #growth_pnew
 출산
@@ -2669,10 +2744,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 살인
 
 #growth_page
-성년이 되다
+성숙기에 도달한 아기돼지들
 
 #growth_onew
-고령화 인구가 늙은 돼지가 되고있습니다.
+돼지들의 늙음
 
 #growth_osick
 질병
@@ -2687,10 +2762,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 출산율
 
 #breed_chance_dscr
-다음 세대 동안 새끼 돼지를 낳을 암퇘지를의 비율.
+다음 세대에 아기 돼지를 낳을 암컷 돼지들의 비율입니다.
 
 #breed_chance_c
-[x] 만큼의 암퇘지는 다음 세대 동안 새끼 돼지를 낳을 것 입니다.
+[x] 만큼의 암컷 돼지는 다음 세대에 아기 돼지를 낳을 것입니다.
 
 #breed_base
 기본 출산율
@@ -2702,19 +2777,19 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 총인구효과
 
 #breed_piglets
-암퇘지 영향력당 아기돼지
+암컷 돼지 영향력당 아기돼지
 
 #breed_smcity
 소도시의 부양책
 
 #breed_vit
-필수욕구의 부재.
+필수 욕구의 부재.
 
 #breed_fertil
 생식력
 
 #breed_fertil_c
-한 배당 평균 새끼 돼지 수
+한 배당 평균 아기 돼지 수
 
 #growth_genlen
 세대 길이
@@ -2723,28 +2798,28 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 한 세대의 돼지가 지속되는 시간의 길이.
 
 #growth_genlen_c2
-돼지는 새끼 돼지로 한 마리, 어른으로 세 마리, 늙은 돼지로 한 마리까지 5대까지 산다. 그것은 그들의 전체 수명을 [x]까지 지속됩니다.
+돼지는 아기 돼지로 한 마리, 어른으로 세 마리, 늙은 돼지로 한 마리까지 5대까지 산다. 그것은 그들의 전체 수명을 [x]까지 지속됩니다.
 
 #growth_pergen
 차세대 예측
 
 #growth_pergen_c
-다음 세대의 총인구의 예측
+다음 세대의 총시민수의 예측
 
 #growth_c
-총인구의 유동변동률
+총시민수의 현재 변동률
 
 #ui_growthdel
 다음 세대에 대한 추정치...
 
 #troop_recruit
-신병을 모집
+신병 모집
 
 #b_dplmode
-전략도구
+전략 도구
 
 #bc_dplmode
-모든 군대의 배치 위치와 명령을 관리할 수 있는 배치 모드로 가십시오.
+모든 부대의 위치와 명령을 관리할 수 있는 배치 모드입니다.
 
 #b_newform
 새 부대
@@ -2753,7 +2828,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 클릭해서 새로운 부대 편성
 
 #regctrl_b_h
-주택
+주거
 
 #regctrl_b_p
 생산
@@ -2762,7 +2837,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 문화
 
 #regctrl_b_m
-군대
+군사
 
 #regctrl_b_g
 정부
@@ -2812,6 +2887,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #ui_recruit_resist
 반군이 있는 지역에서는 새로운 부대를 모집할 수 없습니다.
 
+#ui_recruit_btl
+전투 중에는 병력을 수정할 수 없습니다!
+
 #ui_recruit_immo
 이 부대가 움직일 수 없는 동안에는 군대를 개편할 수 없습니다.
 
@@ -2822,10 +2900,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 당신이 통제하지 않는 영토에서는 군대를 모집하거나 해산할 수 없습니다.
 
 #ui_recruit_ovrdrft
-모집할 수 없음: 지원 한도 도달 및 당좌대월 금지
+모집할 수 없음: 지원 한도에 도달했습니다. 한도 이상을 넘길 수도 없습니다. 
 
 #ui_recruit_noup
-(군인의 임금이 포함되어 있지 않기 때문에 민병대의 유지가 더 낮습니다.)
+(민병대의 유지비는 병사들의 급료가 포함되지 않기 때문에 비교적 낮습니다.)
 
 #ui_recruit_nopop
 (지역 민병대라서 동원된 인구 없음)
@@ -2859,6 +2937,15 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #ui_recruit_cost
 유닛당 비용
+
+#ui_recruit_into
+전환대상
+
+#ui_recruit_coincost
+비용
+
+#ui_recruit_coininc
+수입 
 
 #ui_recruit_civ
 민간 부대
@@ -2997,6 +3084,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #ui_foinv_empreg
 빈 영토에서 자원을 적재할 수 없습니다!
+
+#ui_foinv_unldfail
+저장 공간이 부족하여 [x] [y]개를 부대에 적재하지 못했습니다!
 
 #ui_foinv_load
 부대의 인벤토리에 물품 적재
@@ -3151,6 +3241,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #ui_builderr_maxan
 이 건물은 [x] [y] 이상의 것을 가질 수 없습니다.
 
+#ui_builderr_maxreg
+영토에는 [x] [y] 이상의 것이 있을 수 없습니다.
+
 #ui_dpltool_needreg
 병력 배치를 설정하려면 영토 내부시점에 있어야 합니다!
 
@@ -3174,6 +3267,12 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #ui_dpltool_matt_dscr
 그 부대는 들어오는 위협에 맞설 수 있도록 재배치될 것이고 즉시 난전을 벌일 것입니다. 따라서 현재 부대의 배치 위치는 이 모드에서는 중요하지 않다.
+
+#ui_dpltool_delzone
+(삭제하려면 마우스 오른쪽 버튼을 클릭하세요)
+
+#ui_dpltool_conf
+전략 변경이 확인되었습니다!
 
 #ui_dpltool_mdef
 제한된 교전
@@ -3214,6 +3313,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #ui_dpltool_needdefz
 병력을 배치하기 전에 적어도 하나의 방어구역을 배치해야 합니다.
 
+#ui_dpltool_inaxss
+병력이 부족하기 때문에 이곳에는 병력을 배치할 수 없습니다!
+
 #ui_dpltool_maxdefz
 방어 구역 최대 수에 도달하셨습니다.
 
@@ -3234,6 +3336,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #bc_menuform_disb_3
 통제하지 않는 영역에서는 해산할 수 없습니다!
+
+#bc_menuform_cantchtype
+이 부대 유형은 변경할 수 없습니다.
 
 #menuform_pwr
 이 부대 유형은 유지보수를 위해 [x] 주권력 비용이 듭니다.
@@ -3589,6 +3694,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #err_reg_abdn4
 이 영토의 현재 상황은 당신이 철수 명령을 내리는 것을 허락되지 않습니다.
 
+#err_reg_abdn5
+이 지역은 이미 대피 중입니다!
+
 #b_regclaim
 영토 점유
 
@@ -3646,6 +3754,21 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 #b_actv_trt_m2
 다른 사람
 
+#b_actv_trt_brk
+위반자
+
+#b_actv_trt_wbrk1
+당신은 위반합니다.
+
+#b_actv_trt_wbrk2
+[x]는(은) 위반합니다.
+
+#b_actv_trt_brkcl1
+어떠한 위반한 조항이 없습니다.
+
+#b_actv_trt_brkcl2
+계기로 의해 파기될 조약:
+
 #b_actv_trt_cancel
 조약 취소
 
@@ -3663,6 +3786,9 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 
 #ui_wrldmov_er5
 이 부대는 적어도 50만큼의 행동력를 가질 때까지 야영을 해제할 수 없습니다.
+
+#ui_wrldmov_erxplr
+이 부대는 새로운 영역을 탐색할 수 없습니다.
 
 #formimob_er1
 이 부대는 현재 움직일 수 없기 때문에 어떤 명령도 내릴 수 없습니다!
@@ -3722,10 +3848,10 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 근로자들에게 이익이 되지 않으면 건물의 효율은 점차 감소합니다.
 
 #ui_bdg_proddet
-생산품 세부 정보
+생산 세부 정보
 
 #ui_bdg_pdet_1
-직접 판매됨
+직접 판매한 양
 
 #ui_bdg_pdet_1_c
 생산량의 [x]%는 이 건물의 근로자들이 직접 시장에 내놓는다.
@@ -3734,25 +3860,25 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 ([y])의 [x]%는 단위당 [z]의 가격에 성공적으로 판매됬다(미매도 물품은 손실됨).
 
 #ui_bdg_pdet_2
-상인을 통해 판매됨.
+상인을 통해 판매한 양
 
 #ui_bdg_pdet_2_c
 [x]%의 생산은 이익의 몫을 나눠가지는 상인을 통해 시중에 유통됩니다.
 
 #ui_bdg_pdet_3
-생산자에게 판매됨.
+산업에 판매한 양
 
 #ui_bdg_pdet_3_c
 [x]%의 생산은 다른 산업이나 서비스에 판매됩니다.
 
 #ui_bdg_pdet_4
-수출한
+수출한 양
 
 #ui_bdg_pdet_4_c
 [x]%의 생산량은 해외시장에 수출됨
 
 #ui_bdg_pdet_5
-국개 매입
+국가가 매입하는 양
 
 #ui_bdg_pdet_5_c1
 판매에서 주(유저)로의 수익은 천천히 근로자에게 다시 전달되어 더 오랜 시간 소득을 창출합니다.
@@ -3764,7 +3890,7 @@ The [x] factor currently has a negative influence over our Legitimacy. ([y])
 과거 구매 : 동전[x]원.
 
 #ui_bdg_pdet_6
-생산비
+생산비용
 
 #ui_bdg_pdet_6_c
 생산에 필요한 재료를 구입하는 데 드는 비용.
@@ -3878,7 +4004,7 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 수입
 
 #ui_regres_totimp_c1
-수입품은 교역로 가격에 당신이 구매한 후 그 지역에서의 현지 가격에 판매됩니다.
+수입품은 무역로 가격에 당신이 구매한 후 그 지역에서의 현지 가격에 판매됩니다.
 
 #ui_regres_totimp_c2
 거래 경로에서 구입 비용:
@@ -3893,28 +4019,49 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 수출
 
 #ui_regres_totexp_c1
-수출품은 귀하가 이 지역의 생산자로부터 현지 가격으로 구입하여 수입자에게 교역로 가격으로 판매합니다.
+수출품은 귀하가 이 지역의 생산자로부터 현지 가격으로 구입하여 수입자에게 무역로 가격으로 판매합니다.
 
 #ui_regres_totexp_c2
 지역 생산자로부터 구입 비용:
 
 #ui_regres_totexp_c3
-교역로 판매 수익:
+무역로 판매 수익:
 
 #ui_regres_totexp_c4
 판매 화물:
 
+#ui_regres_totexp_c4w
+손해를 보는 판매입니다! 현지 화물 가격이 무역로보다 높습니다.
+
 #ui_regres_addofr
 제안 추가하기
+
+#ui_regres_selres
+자원 유형을 선택
 
 #ui_regres_trsf
 이송
 
+#ui_regres_trsf_c1
+영토마다의 지속적인 자원 전송을 설정합니다.
+
+#ui_regres_trsf_c2
+이들의 제안은 거래망에 표시되지 않으며 해당 지역에서만 이용할 수 있습니다.
+
 #ui_regres_imp
 수입
 
+#ui_regres_imp_c1
+지속적인 자원 전송을 제공하는 지역의 거래망에 있는 기존 제안을 봅니다.
+
 #ui_regres_exp
 수출
+
+#ui_regres_exp_c1
+거래망의 다른 영역으로 자원을 지속적으로 전송할 수 있습니다.
+
+#ui_regres_exp_c2
+이들의 제안은 공개적이며 거래망에 있는 모든 사용자가 이용할 수 있습니다.
 
 #ui_regres_buy
 구매
@@ -3946,6 +4093,12 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_regres_pndng
 우리의 제안
 
+#ui_regres_buying
+[x]에서 구매
+
+#ui_regres_selling
+[x]에서 판매
+
 #ui_regres_prod
 상품
 
@@ -3958,6 +4111,9 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_regres_atprc
 의 값
 
+#ui_regres_amnt
+수량
+
 #ui_regres_noinp
 [자원 이름을 한글로 기입하세요.]
 
@@ -3968,7 +4124,7 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 거래 서비스가 부족하여 이 제안을 만들 수 없음!
 
 #ui_newofr_sent
-새로운 교역로 제안을 발송함!
+새로운 무역로 제안을 발송함!
 
 #ui_regres_pndng2
 현재 우리의 무역로 제안:
@@ -4001,7 +4157,7 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 무역로운영자
 
 #ui_troute_dscr
-교역로는 도시들 사이에 일정한 자원의 흐름을 전달합니다. 그것은 운항을 위해 화물 운송 서비스를 필요로 합니다.
+무역로는 도시들 사이에 일정한 자원의 흐름을 전달합니다. 그것은 운항을 위해 화물 운송 서비스를 필요로 합니다.
 
 #ui_troute_opdscr1
 무역로 운영자는 상품의 운송을 다루는 도시다.
@@ -4010,7 +4166,7 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 일부 화물 서비스를 이용할 수 있게 한 것은 당신의 무역 네트워크 내의 다른 도시나 무역 루트를 여는 도시일 수 있습니다.
 
 #ui_troute_opdscr3
-화물의 가격은 무역로 거리에 따라 기하급수적입니다. 당신의 교역로 중간에 위치한 제3의 도시를 운영자로 선택하면 그 도시의 화물 비용이 크게 절감될 것입니다.
+화물의 가격은 무역로 거리에 따라 기하급수적입니다. 당신의 무역로 중간에 위치한 제3의 도시를 운영자로 선택하면 그 도시의 화물 비용이 크게 절감될 것입니다.
 
 #ui_troute_vol
 화물 물량
@@ -4045,6 +4201,12 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_troute_maxava_c1
 운영자에서 현재 이용할 수 있는 화물 서비스의 양.
 
+#ui_troute_basevol
+기반화물량
+
+#ui_troute_basevol_c1
+이 교역로에 필요한 기반화물량, 즉 운송되는 모든 자원의 화물량을 합한 것입니다.
+
 #ui_troute_edit
 기존 거래 경로를 편집하는 중...
 
@@ -4061,7 +4223,13 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 무역로 총비용
 
 #ui_troute_totcost_c1
-이 교역로를 유지하는 데 드는 총 비용.
+이 무역로를 유지하는 데 드는 총 비용.
+
+#ui_troute_totinc
+TOTAL INCOME(총소득)
+
+#ui_troute_totinc_c1
+이 교역 경로의 총 수입입니다.
 
 #ui_troute_bdgtdscr1
 국가는 나중에 사용하는 것에 관계없이 수출 도시로부터 수입된 물품의 전액을 지불하고 소유합니다.
@@ -4074,6 +4242,12 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 
 #ui_troute_bgc_c1
 수출 도시로 물건을 구입하는 데 드는 비용.
+
+#ui_troute_binc
+상품 수익
+
+#ui_troute_binc_c1
+무역 경로 상품의 판매로부터 발생하는 수익입니다.
 
 #ui_troute_bcc
 화물비
@@ -4140,6 +4314,39 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 
 #menu_nfrm_t3_3
 정규군은 마음대로 국군으로 전환할 수 있고, 반대로도 자유롭게 변경할 수 있습니다.
+
+#form_atfct
+유물
+
+#form_atfct_dscr_1
+이것은 특별한 유물입니다. 무생물 개체로서 그것은 현재 그것을 통제하고 있는 사람의 것입니다. 파괴, 모집 또는 부대이동이 불가능합니다.
+
+#form_atfct_dscr_2
+소유권은 같은 지역에 위치해 있고 그것을 점유하고 있는 부대에 의해서도 획득될 수 있지만, 현재의 소유주 역시 부대가 '보호'하고 있지 않는 경우에만 가능합니다.
+
+#form_atfct_dscr_3
+소유권은 같은 방법으로 상실될 수 있습니다.
+
+#form_sttlrs
+정착민들
+
+#form_sttlrs_dscr_1
+정착민들은 새로운 영토를 정착시키기 위해 민간인들을 모집할 수 있는 시민부대입니다.
+
+#form_migrnts
+이민자들
+
+#form_migrnts_dscr_1
+이민자들은 집이 없는 인구의 특별한 민간인 형태입니다. 이들은 새로운 지역에 정착할 수 있고, 주택 지원이 필요하지 않으며, 거리 벌칙 없이 AP를 복구할 수 있지만, 주정부 전력과 유지보수가 추가로 필요합니다.
+
+#form_migrnts_dscr_2
+이민자들은 한 지역이 대피할 때 생겨납니다.
+
+#form_nomad
+유목민들
+
+#form_nomad_dscr_1
+유목민들은 가정 지원이 필요하지 않으며 거리 벌칙 없이 AP를 복구할 수 있습니다. 그들은 또한 새로운 영토를 정착시킬 수 있습니다.
 
 #menu_trbuy_title
 자원을 구입하는 중...
@@ -4348,6 +4555,9 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #ui_tech_ter
 새 영토 상황
 
+#ui_tech_rev
+드러난 것들
+
 #ui_tech_unit
 새 유닛
 
@@ -4411,12 +4621,6 @@ y에 총 노동력중 [x]% 가 가동중 = [z] 의 생산노동력.
 #menu_scr_p_c
 당신의 총 군사력에서 점수를 얻습니다. 민병대는 포함되지 않습니다.
 
-#menu_scr_v
-하급자
-
-#menu_scr_v_c
-부하 로부터의 점수 : 모든 직계 부하들로 부터 점수의 일정 부분을 받습니다.
-
 #menu_scr_tot
 점수
 
@@ -4456,8 +4660,11 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 #menu_scr_vpcost
 승점 비용
 
-#menu_scr_vpcost_c
+#menu_scr_vpcost_c1
 각 승리 포인트를 획득하기 위해 기준 점수 보다 위에 필요한 점수 양.
+
+#menu_scr_vpcost_c2
+승점 100점의 가치는 현재 세계 점수의 50%와 동일하다고 정의됩니다. 이를 통해 모든 VP의 비용이 세계 점수의 0.5%(최소 100점)까지 상승합니다.
 
 #menu_scr_frna
 국가 기여도
@@ -4551,6 +4758,9 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 
 #btl_rslt_neutr
 중립이였음
+
+#btl_rslt_rtrtd
+후퇴함
 
 #btlrslt_neutr
 중립
@@ -4676,7 +4886,16 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 이 서버에서 '비활성'으로 전환되기 전에 캐릭터가 오프라인 할 수 있는 최대 시간입니다.
 
 #gamelob_maxoff_c2
-경고: 최근에 만든 캐릭터의 경우 이 제한이 더 낮습니다!
+경고: 최근에 생성된 캐릭터들보다 이 한도가 더 낮습니다!
+
+#gamelob_spwnbon
+시작 보너스
+
+#gamelob_spwnbon_c1
+이 보너스는 새로운 캐릭터가 생성될때 선택한 시작의 조건(자원들, 기술들, ...) 전반을 개선시켜줍니다.
+
+#gamelob_spwnbon_c2
+이 보너스는 서버에 활성 플레이어가 없는 경우에 비례합니다.
 
 #gamelob_err1
 현 게임에서 허용되는 최대 캐릭터 수를 가지고 있습니다!
@@ -4826,10 +5045,10 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 이 캐릭터는 비활성화 되었기 때문에, 당신의 계급은 그 영역을 해체하고 당신의 부하나 당신 자신 이 그것들을 공유할 수 있게 할 수 있습니다.
 
 #facmmb_prom
-승진
+계급 조정
 
 #facmmb_prom_c1
-당신의 계급은 계층순위를 관리할 수 있습니다: 승진 또는 강등.
+해당 캐릭터의 계급을 승진 및 강등과 함께 소속까지 조정합니다.
 
 #facmmb_xpl
 추방
@@ -5048,13 +5267,13 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 투표하세요!
 
 #regstatus_claim_1
-빈 영토는 주(州)에서 주장할 수 있으며 공식 국경지역에 포함될 수 있습니다.
+빈 영토는 국가에서 주장할 수 있으며 공식 국경지역에 포함될 수 있습니다.
 
 #regstatus_trtry_1
 영토는 한 지역의 일부이며 그 지역의 주요 도시 행정부에 의해 관리됩니다.
 
 #regstatus_colony_1
-주(州)에 붙어 있는 자치 구역입니다.
+국가에 붙어 있는 자치 구역입니다.
 
 #regstatus_occup_1
 외국 영토는 군사력에 의해 통제되고있습니다. 국가의 직접적인 일부도 아니고 정부 행정부에 통합되지도 않은, 이것은 불안정하고 무질서한 상태입니다.
@@ -5063,13 +5282,13 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 재정적으로 의존적이고, 관리되고 있지 않으며, 자치적인 영역입니다. 전략적인 자원을 이용하기 위해 만들어진 소규모 원격 캠프에 유용합니다.
 
 #regstatus_city_1
-여러분의 주(州)의 지역 중심지로, 여러분의 정부에 의해 완전히 통합되고 관리됩니다.
+국가 중심지로서, 당신의 정부에 의해 완전히 통합되고 관리됩니다.
 
 #regstatus_capital_1
-지도자가 거주하는 정부의 고향입니다.
+지도자가 거주하는 정부의 중심입니다.
 
 #regstatprop
-영역 상태 특수 재산입니다.
+지역 행정 종류에서의 특수 속성입니다.
 
 #regstatprop_build
 건설할 수 없습니다.
@@ -5082,6 +5301,12 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 
 #regstatprop_bdgup
 건물 유지비는 [x]입니다.
+
+#regstatprop_freeup
+무료 유지비[x]
+
+#regstatprop_freeclaims
+무료 영토 점령[x]
 
 #regstatprop_loyal
 충성도 [x]
@@ -5132,16 +5357,16 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 포기할 수 없습니다.
 
 #regstatprop_trsfr
-전송할 수 없습니다.
+변경할 수 없습니다.
 
 #regstatprop_spawn
-플레이어 생성입니다
+플레이어의 스폰자리로서의 역할을 가지게 됩니다. 다른 플레이어가 참여하여 해당 지역을 대신 통치 할 수 있습니다.
 
 #regstatprop_pnlty
 [x] 충성도 변경 이벤트입니다.
 
 #regstatprop_overdrft
-당좌대월할 수 없습니다.
+한도를 넘길 수 없습니다.
 
 #regstatus_penalty
 경고: 현재 상태를 변경하면 [x]의 즉각적인 로열티 이벤트가 트리거됩니다!
@@ -5150,13 +5375,13 @@ Par Score를 결정하는 데 사용됩니다. 모든 선수의 점수를 기준
 경고: 이 점거된 영역에 소유권을 주장하면 즉시 [x] 저항 및 [y] 충성도가 발생하게 됩니다!
 
 #regstatus_title
-영토 상태
+지역 행정 종류
 
 #regstatus_txt
-이 영토의 행정 상태를 수정하는 중입니다...
+이 지역의 행정 종류를 변경하는 중입니다...
 
 #regstatus_setnew
-새 상태설정 :
+새로운 지역 행정 설정 :
 
 #regstatus_setcap_1
 여러분은 오직 하나의 수도만을 가질 수 있습니다: 여러분의 현재 수도는 그 지위를 잃고 일반 도시가 될 것입니다. 수도를 이전하는 것은 다른 도시의 행정과 문화뿐 아니라 권력 및 재정에도 영향을 미칠 수 있습니다.
@@ -5180,7 +5405,7 @@ WANRING: 이것은 되돌릴 수 없습니다. 이 지역을 직접 통제할 �
 그 지역은 식민지가 되기에는 너무 많은 저항이 있습니다!
 
 #regstatus_err1
-수도의 상태를 변경할 수 없습니다!
+수도의 지역 행정 종류를 변경할 수 없습니다!
 
 #voxclss_wall
 벽
@@ -5290,6 +5515,21 @@ Cubes
 #wkprio_4
 최우선
 
+#strprio_0
+[자동]
+
+#strprio_1
+낮음
+
+#strprio_2
+중간
+
+#strprio_3
+높음
+
+#strprio_4
+매우 높음
+
 #recyclmat
 우린 회복했습니다.
 
@@ -5311,7 +5551,13 @@ Cubes
 #err_inaxsbdg
 이 건물은 현재 접근할 수 없습니다.
 
+#err_cantrstr
+당신은 이 건물을 다시 수리할 수 없습니다!
+
 #formact_none
+대기
+
+#formact_move
 이동
 
 #formact_camp
@@ -5319,6 +5565,12 @@ Cubes
 
 #formact_hunt
 사냥하기
+
+#formact_wood
+벌목하기
+
+#formact_wood_rslt
+그 부대는 나무[x]를 모았습니다.
 
 #formact_captr
 포획하기
@@ -5346,6 +5598,12 @@ Cubes
 
 #formact_unclaim
 영토를 포기합니다.
+
+#formact_tkartfct
+유물을 점유합니다.
+
+#formact_palntr
+팔렌티르를 사용합니다.
 
 #formhome_title
 이 부대의 고향을 바꾸고 있습니다...
@@ -5459,10 +5717,10 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 선택 항목 지우기: 마우스 오른쪽 버튼을 클릭합니다.
 
 #regmenu_status_c1
-현재 영토 상태: '[x]'(변경하려면 클릭)입니다.
+현재 지역 행정 종류: '[x]'(변경하려면 클릭)
 
 #regmenu_powcost
-이 영토 상태는 현재 상태 유지를 위해 [x]의 국가 권한이 필요합니다.
+이 지역 행정 종류는 유지관리를 위해서 [x]의 국가 권력이 필요합니다.
 
 #regmenu_jobs
 일자리
@@ -5471,16 +5729,16 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 모든 일자리가 채워졌습니다!
 
 #regmenu_jobs_c2
-[x]%의 가용 일자리는 근로자가 없습니다([y]).
+가용 일자리의 [x]%([y]개)에는 근로자가 없습니다.
 
 #regmenu_actives
 취직중
 
 #regmenu_actv_c1
-모든 활동인구는 현재 고용되어 있습니다!
+모든 활동 가능한 시민들은 현재 모두 고용되어 있습니다!
 
 #regmenu_actv_c2
-[x]% 의 활동인구는 무직입니다.([y])
+활동 가능한 시민수의 [x]%([y]마리)는 무직입니다.
 
 #regmenu_inc
 이 영토의 예산 잔액입니다.
@@ -5507,10 +5765,10 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 10개의 경제 주기에 걸쳐 이 영역(주 또는 인구)에서 발생한 모든 소득의 합계입니다.
 
 #regmenu_growth_1
-현재의 인구통계학적 발전: [x] 돼지들 [y]입니다.
+인구통계학적 성장: [y], 돼지들이 [x]
 
 #regmenu_growth_2
-활동인구: [x] [y]
+활동인구: [y], [x] 
 
 #regmenu_vitals_1
 인구는 현재 필수욕구 [x]%를 만족하고 있습니다.
@@ -5525,7 +5783,7 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 [x]를 자동으로 예속할 수 있습니다.
 
 #subjug_dscr
-이것으로 당신과 [x] 사이의 전쟁이 끝날 것입니다. 이 주(州)는 국가 권력과 세금 수입을 귀하에게 넘겨주는 항복 조약과 함께 당신의 신하로서 당신의 나라에 통합될 것입니다. 현재 귀국의 군대가 점령하고 있는 모든 영토는 자동으로 [x]로 환원됩니다.
+이것으로 당신과 [x] 사이의 전쟁이 끝날 것입니다. 이 국가는 국가 권력과 세금 수입을 귀하에게 넘겨주는 항복 조약과 함께 당신의 신하로서 당신의 나라에 통합될 것입니다. 현재 귀국의 군대가 점령하고 있는 모든 영토는 자동으로 [x]로 환원됩니다.
 
 #subjug_cant
 아직 [x]를 예속할 수 없습니다.
@@ -5543,7 +5801,7 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 [x] 사람들은 [y]에서 [z]로 이주하여 고향에서 [v] 문화를 [z]로 이전하였습니다.
 
 #info_supportlmt
-이 영역에서는 더 많은 유닛을 지원할 수 없으며 당좌대출을 허용하지 않습니다!
+이 영토에서는 더 많은 유닛을 지원할 수 없으며, 한도를 넘길 수도 없습니다!
 
 #displyr_c1
 클릭해서 표시할 화면 계층을 선택합니다.
@@ -5577,3 +5835,540 @@ ctrl+왼쪽 클릭으로 선택에서 추가/제거합니다.
 
 #warn_moveprim_1
 게임을 시작할때에 여러분의 원시 부족 전체를 이동시키는 것은 빠르게 패배로 이어질 수 있습니다. 중요한 시간동안 꼼짝 못하게 될 수 있는 아주 위험한 결정입니다. 여러분이 무엇을 하고 있는지 정확히 알지 못하는 한, 시작 지역에 정착하는 것이 현명합니다: 여러분은 나중에 다른 플레이어와의 더 작은 파티와 함께 탐험한 다음에서야 더 나은 땅으로 안전하게 이주할 수 있습니다.
+
+#treaty_offr_sent
+조약제안서의 성공적인 발송!
+
+#startuto_cmplt
+시작 튜토리얼 완료!
+
+#cnvrt_mil_err
+이 민병대를 전환할 인구수가 부족합니다!
+
+#mg_localgame
+로컬 게임
+
+#mg_remove_1
+'나의 게임'에서 삭제
+
+#mg_remove_2
+(이것은 단지 꼼수일 뿐, 삭제하더라도 실제 해당 게임에서 실제 캐릭터는 삭제되지 않습니다.)
+
+#mg_serverstatus
+서버 상태
+
+#mg_srvr_unknown
+알 수 없음
+
+#mg_srvr_online
+온라인
+
+#uiworldforms_inreg
+이 영토의 부대
+
+#uiworldforms_novisib
+알 수 없음: 시야가 확보되지 않음
+
+#formmisspop
+이 병사들이 완전히 회복되기에는 지역 내 인구가 충분하지 않습니다.
+
+#autoban_cheat
+부정행위로 계정이 금지되었습니다.
+
+#autoban_vm
+가상머쉰(에뮬) 사용에 대해 계정이 금지되었습니다.
+
+#autoban_device
+1개 장치 전용 제한을 속이려 시도한 경우로 계정이 금지되었습니다.
+
+#autobanned
+부정행위 자동방지로 인해 서버 사용이 금지되었습니다.
+
+#modbanned
+관리자에 의해 수동으로 서버 사용이 금지되었습니다.
+
+#insuf_funds
+자금이 부족합니다!
+
+#trtybrk_load
+조약들을 확인하는 중입니다...
+
+#trtybrk_none
+이번 조치로 어떤 조약도 위반되지 않을 것입니다.
+
+#trtybrk_warn
+경고! 이 조치는 다음 조약을 위반하는 계기가 될 것입니다:
+
+#ui_menubdg_prio
+저장 우선 순위
+
+#sc_menubdg_prio_c1
+다른 저장소와 달리 이 저장소 건물에 새 자원을 비축하기 위한 우선 순위 수준을 선택합니다.
+
+#ui_menubdg_stck_wlth_c1
+부축적
+
+#ui_menubdg_stck_wlth_c2
+현재 이 저장소에 있는 자원들은 이 영토의 전체 부에서 [x]만큼이 해당됩니다.
+
+#ui_menubdg_stck_wlth_c3
+축적된 부는 모든 자원의 기반이 되는 부의 총 합계입니다. 자원의 기반이 되는 부는 이를 생산하기 위해 필요한 인력 양에 따라 상수이다.
+
+#ui_regwlth_tot
+전체 부
+
+#ui_regwlth_tot_c1
+이 지역에서 유효하게 이용할 수 있는 재산입니다. 그것은 그들의 동전 수입에 기초하여 모든 활동적인 노동자들 사이에 공유되고 그것은 그들의 개인 재산 수준과 구매력을 결정합니다.
+
+#ui_regwlth_prod
+생산한 부
+
+#ui_regwlth_prod_c1
+현재 이 지역에서 일어나고 있는 모든 생산적인 일에서 얻은 총 재산은, 이 모든 일을 통해 부를 창출하는 모든 건물의 합계입니다.
+
+#ui_regwlth_stck
+축적된 부
+
+#ui_regwlth_stck_c1
+현재 저장되어 있는 모든 자원의 총 재산(부)입니다.(참고로 무인 지상 저장소에 저장된 데이터는 무시됩니다.)
+
+#ui_regwlth_mtl
+대표화폐
+
+#ui_regwlth_mtl_c1
+대표화폐 정책으로 귀금속 비축물(금 또는 은)이 영토의 부에 추가됩니다.
+
+#ui_regwlth_mtl_c2
+현재 비축물은 부의 +[x]%를 보너스로 제공하고 있습니다.
+
+#ui_regwlth_prv
+특권[x]%
+
+#ui_regwlth_prv_c1
+부는 특권 계급에 의해 직접적으로 전환되합니다.
+
+#ui_regwlth_prv_c2
+[x]%의 [y] 부 = [z]가 특권으로 전환됩니다.
+
+#ui_tradeordr_your
+[x]에서 당신의 주문
+
+#ui_tradeordr_in
+[x]에서
+
+#ui_tradeordr_recur
+순환 순서
+
+#ui_tradeordr_recur_c1
+클릭해서 해당 지역의 비축분을 기준으로 이 주문이 반복되고 자동으로 트리거되도록 합니다.
+
+#ui_tradeordr_stcktrg1
+...비축분이 해당 수량보다 적을 때
+
+#ui_tradeordr_stcktrg2
+...비축분이 해당 수량보다 많을 때
+
+#ui_tradeordr_instck
+재고있음
+
+#ui_tradeordr_lclprc
+현지 가격
+
+#ui_tradeordr_inc1
+Trade's raw income
+
+#ui_tradeordr_inc1_c1
+This is the raw income this trade offer will generate if taken, based on the amount sold and specified limit price.
+
+#ui_tradeordr_inc2
+Local producer's share
+
+#ui_tradeordr_inc2_c1
+If the sold resources are privately owned, their local owners must be paid at the local price for the amount sold.
+
+#ui_tradeordr_inc2_c2
+* Local producers own [x], at a local price of [y]: +[z] coins
+
+#ui_tradeordr_inc2_c3
+* Income tax of [x]%: -[y] coins
+
+#ui_tradeordr_inc2_c4
+* Actual income for local producers: [x] coins
+
+#ui_tradeordr_inc3
+Expected profit
+
+#ui_tradeordr_inc3_c1
+This is the expected profit expected for this trade offer.
+
+#ui_tradeordr_inc4
+Trade's raw expense (deposit)
+
+#ui_tradeordr_inc4_c1
+This is the maximum raw expense of this trade based on the amount purchased and specified limit price. Immediately taken from the treasury to insure the order.
+
+#ui_tradeordr_inc5
+Potential local incomes
+
+#ui_tradeordr_inc5_c1
+If the purchased resources are then sold locally, this is the income they will generate based on their local selling price.
+
+#ui_tradeordr_inc6
+Expected profit
+
+#ui_tradeordr_inc6_c1
+This is the expected profit if all purchased resources are then sold locally.
+
+#ui_tradeordr_inc7
+Expected waste of -[x]%
+
+#ui_tradeordr_inc7_c1
+This is the expected profit lost to waste based on the current waste rate of [x]% in this territory.
+
+#ui_tradeordr_prc1
+Maximum purchasing price. If selling offers are available at a lower price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_prc2
+Minimum selling price. If buying offers are available at a higher price, they will be filled in priority generating more income than predicted.
+
+#ui_tradeordr_quant
+Enter the amount of resources to trade for this offer.
+
+#ui_tradeordr_trdsrvcav
+This offer requires [x] of trading service. You have currently [y] available.
+
+#ui_tradeordr_cant
+This resource cannot be traded!
+
+#ui_tradeordr_showall
+Show all resources
+
+#ui_tradeordr_showall_c1
+Show pending orders for this territory of all resources.
+
+#ui_tradeordr_allreg
+For all territories
+
+#ui_tradeordr_allreg_c1
+Show the trading history of all your territories combined instead of just the currently selected one.
+
+#ui_tradeordr_nocoin
+Insufficient treasury funds to place this order.
+
+#ui_tradeordr_nostck1
+Insufficient resources in stock to place this order.
+
+#ui_tradeordr_nostck2
+Impossible to set a sell order of an amount higher than the stock triggering it.
+
+#ui_tradeordr_priclmt1
+This order conflicts with a selling order from the same territory at a price of [x].
+
+#ui_tradeordr_priclmt2
+This order conflicts with a buying order from the same territory at a price of [x].
+
+#ui_tradeordr_trdsrvc_c1
+Trading service is produced by Market buildings and is required to set and maintain orders in your trading network.
+
+#ui_tradeordr_trdsrvc_c2
+* Your functionning Markets in this territory currenty produce [x] of Trading service. 
+
+#ui_tradeordr_trdsrvc_c3
+* You current orders currently consumme [x] of Trading service.
+
+#ui_tradeordr_trdsrvc_c4
+* You have [x] of Trading service available for new orders.
+
+#ui_tradeordr_butn_c1
+Buying [x] [y] at a maximum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c2
+Recurrent buying of [x] [y] at a maximum price of [z] coins per unit triggered whenever stocks go below [v].
+
+#ui_tradeordr_butn_c3
+Selling [x] [y] at a minimum price of [z] coins per unit.
+
+#ui_tradeordr_butn_c4
+Recurrent selling of [x] [y] at a minimum price of [z] coins per unit triggered whenever stocks reach [v].
+
+#ui_tradeordr_butn_c5
+This order is currently inactive. It will automatically trigger if stocks of [x] reach [y] in this territory.
+
+#ui_tradeordr_butn_c6
+This order is currently active. It will automatically cancel if stocks of [x] go below [y] (stock trigger [z] -order size [v]) in this territory.
+
+#ui_tradeordr_butn_c7
+This order is currently inactive. It will automatically trigger if stocks of [x] go below [y] in this territory.
+
+#ui_tradeordr_butn_c8
+This order is currently active. It will automatically cancel if stocks of [x] go above [y] (stock trigger [z] +order size [v]) in this territory.
+
+#ui_tradeordr_shwinctv
+Show inactive orders
+
+#ui_tradeordr_shwinctv_c1
+Click to toggle the display of recurrent orders that are currently inactive.
+
+#ui_tradeordr_butn_c9
+Offer in [x], from [y] of [z] ([v])
+
+#ui_tradeordr_butn_c10
+Offer in [x], from you
+
+#ui_tradebook_title
+Orders book
+
+#ui_tradebook_buy
+Best ask
+
+#ui_tradebook_sell
+Best bid
+
+#ui_tradebook_buyd
+Ask orders depth
+
+#ui_tradebook_selld
+Bid orders depth
+
+#ui_tradebook_nosell
+No selling offers in your trading network!
+
+#ui_tradebook_nobuy
+No buying offers in your trading network!
+
+#ui_tradebook_noofr
+You havn't any openned orders in this territory.
+
+#ui_tradebook_nbuy_c1
+Place a one-time buying order for [x] [y] at maximum price of [z] coins.
+
+#ui_tradebook_nbuy_c2
+[x] coins will immediately be taken from your treasury and reserved for this order. Note that if the order is cancelled or satisfied at a lower price, the difference will be returned to the treasury.
+
+#ui_tradebook_nbuy_c3
+Place a recurring buying order for [x] [y] at maximum price of [z] coins everytime territory's stocks are below [v].
+
+#ui_tradebook_nbuy_c4
+* Activates when territory go below [x] of [y].
+
+#ui_tradebook_nbuy_c5
+* Deactivates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c1
+Place a one-time selling order for [x] [y] at minimum price of [z] coins.
+
+#ui_tradebook_nsell_c2
+[x] [y] will immediately be taken from your resource stocks and reserved for this order.
+
+#ui_tradebook_nsell_c3
+Place a recurring selling order for [x] [y] at minimum price of [z] coins everytime the territory's stocks reach [v].
+
+#ui_tradebook_nsell_c4
+* Activates when territory reaches [x] of [y].
+
+#ui_tradebook_nsell_c5
+* Deactivates when territory go below [x] of [y].
+
+#ui_tradehist_ttle
+History
+
+#ui_tradehist_ttle_c1
+Trading history in the territory of [x], for the last [y].
+
+#ui_tradehist_but_c1
+[x] ago, in [y]:
+
+#ui_tradehist_but_c2
+You bought [x] [y] to [z] at price [v].
+
+#ui_tradehist_but_c3
+You sold [x] [y] to [z] at price [v].
+
+#ui_tradehist_but_c4
+* Gross income: +[x] coins
+
+#ui_tradehist_but_c5
+* Local producers share: -[x] coins
+
+#ui_tradehist_but_c6
+* Profit & Taxes: [x] coins
+
+#ui_tradehist_but_c7
+* Total cost: [x] coins
+
+#ui_tradehist_but_c8
+* Waste: -[x] coins
+
+#menu_res_gen
+General
+
+#menu_res_wealth_c1
+The base wealth of this resource type. This is an objective constant independent of the fluctuating market value of the resource, based on the amount of work required to produce this resource. 
+
+#menu_res_wealth_c2
+If stocked in proper storage buildings, each unit will add [x] to the territory's wealth.
+
+#menu_res_trd
+Trading
+
+#menu_res_trd2
+Trade
+
+#ui_tradehist_tots
+Total sales
+
+#ui_tradehist_tots_c1
+Total income from sales since the last [x].
+
+#ui_tradehist_totb
+Total purchases
+
+#ui_tradehist_totb_c1
+Total expenses from purchases since the last [x].
+
+#ui_tradehist_prtnr
+Best partner
+
+#ui_tradehist_bs
+their purchases: [x], sales: [y]
+
+#ui_tradentwk_title
+Best offers
+
+#ui_tradentwk_title_c1
+Best available offers in your current trading network, for each resource type.
+
+#ui_tradentwk_bst_c1
+* Best bid offer available: [x] coins
+
+#ui_tradentwk_bst_c2
+* Best ask offer available: [x] coins
+
+#ui_tradentwk_bst_c3
+* No bid offers available.
+
+#ui_tradentwk_bst_c4
+* No ask offers available.
+
+#ui_tradentwk_bst_c5
+in stock: [x], local price: [y]
+
+#ui_tradentwk_prof
+Filter unprofitable offers
+
+#ui_tradentwk_prof_c1
+Only list resources whose best offers are potentially profitable for this territory:
+
+#ui_tradentwk_prof_c2
+If the best bid is superior or equal to the local price, or if the best ask is lower or equal to the local price.
+
+#menu_res_trdfrm
+Trade from...
+
+#menu_res_trdfrm_c1
+Select the territory to consider for trading with [x].
+
+#button_opertrt_c1
+Operating a trade route between [x] of [y] and [z] of [v].
+
+#button_opertrt_c2
+* using [x] cargo at price [y]:  [z] coins
+
+#button_opertrt_c3
+* buying cargo at local price [x]:  -[y] coins
+
+#button_opertrt_c4
+* operation profit:  [x] coins
+
+#button_routeitem_c1
+Importing [x] of [y] at price [z] from [v], for a total cargo volume of [w].
+
+#button_routeitem_c2
+Purchased from the trade route at price [x] for [y] coins and currently reselling in [z] at price [v] for [w] coins.
+
+#button_routeitem_c3
+Exporting [x] of [y] at price [z] towards [v], for a total cargo volume of [w].
+
+#button_routeitem_c4
+Purchased from local producers at price [x] for [y] coins and currently sold to the trade route for [z] at price [v] for [w] coins.
+
+#button_routeownr
+Trade route owner
+
+#button_routeownr_c1
+The trade route owner is the one who opened the trade route, and is the only one paying the required cargo and able to choose the route's operator.
+
+#button_routeresedit_1
+This is a trade route with a third party: you may only reduce the amount traded.
+
+#button_routeresedit_2
+This is a trade route that you fully control, and you may increase or reduce the amount traded.
+
+#srvr_restart
+Warning: Server daily auto-restart in [x]!
+
+#srvr_decorstrt
+The server is restarting and will be back online in a few minuts.
+
+#ui_char_notblk
+This character isn't currenlty blocked. Click to block.
+
+#ui_char_isblk
+This character is currently blocked. Click to unblock.
+
+#ui_char_nowblk
+This character is now blocked.
+
+#ui_char_nowunblk
+This character is no longer blocked.
+
+#ui_char_blk_dscr_1
+Blocking hides all the chats, messages, and chronicles from this character.
+
+#ui_char_blk_dscr_2
+It also replaces all his territory names with default ones.
+
+#ui_govcltr_civpt_c1
+You currently have [x] unused Civilization Points available to invest in new cultural traits.
+
+#ui_govcltr_civpt_dscr_1
+Civilization Points allow you to customize and specialize your culture by investing your points in several different categories providing various perks such as unlocking the consumption and production of resources, enabling behavioral traits and modifying your architecture style.
+
+#ui_govcltr_civpt_dscr_2
+These points are mainly earned through the generation of State Culture in all your territories, but they can also be earned through event and project rewards.
+
+#ui_govcltr_civpt_dscr_3
+These points cannot be refunded once invested: choose your traits carefully!
+
+#ui_govcltr_civpt_use_c1
+You currently have invested [x] Points out of a total of [y] earned points so far.
+
+#ui_govcltr_lvl
+Culture level
+
+#ui_govcltr_lvl_c1
+Your current culture level is [x].
+
+#ui_govcltr_lvl_c2
+For every new level reached, you will gain an extra Civilization Point.
+
+#ui_govcltr_nxtlvl
+Next level
+
+#ui_govcltr_xpbar_c1
+You need to generate [x] of State Culture to reach the next Culture Level.
+
+#ui_govcltr_xpbar_c2
+You are currently generating [x] of State Culture [y] in all your territories.
+
+#ui_govcltr_xpbar_dscr_1
+The main way to earn new Civilization Points is by leveling up your Culture: you gain one new point for every new level.
+
+#ui_govcltr_xpbar_dscr_2
+Levelling up is achieved by producing State Culture in your territories and each new level requires more Culture than the previous one.
+
+#ui_formmove_blckd
+Movement was cancelled because its path was blocked by hostiles!
+
+#ui_rveal_res
+We have discovered [x] in [y]!

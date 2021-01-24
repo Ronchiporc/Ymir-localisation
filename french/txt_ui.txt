@@ -1,9 +1,8 @@
-﻿
-#b_menu_tutorial
+﻿#b_menu_tutorial
 TUTORIEL
 
 #b_menu_newgame
-NOUVELLE PARTIE
+NOUVEAU
 
 #b_menu_load
 CHARGER
@@ -32,14 +31,14 @@ Quitter la partie et revenir au menu principal?
 #ui_connctstat_1
 Connecté à [x] ping: [y]
 
-#ui_connctstat_2
-Taux de pertes: [x]% (envoyé: [y] a échoué: [z])
+#ui_connctstat2_2
+Pertes: [x]% (demandes: [y] retards: [z]  pertes: [v])
 
 #ui_connct_stable
-Votre connexion au serveur est stable.
+votre connexion au serveur est stable.
 
 #ui_connct_unstbl
-Attention: Votre connexion au serveur est instable!
+Attention: votre connexion au serveur est instable!
 
 #mainmenu_mute
 cliquer pour couper / activer les sons du jeu
@@ -131,6 +130,33 @@ Language
 #bc_menuop_lang
 Choisir le language du jeu
 
+#menuop_k_up
+Camera haut
+
+#menuop_k_le
+Camera gauche
+
+#menuop_k_ri
+Camera droite
+
+#menuop_k_dw
+Camera bas
+
+#menuop_keyset
+cliquer et presser une touche pour l'associer à cette action.
+
+#menuop_togtut
+Activer tutoriaux
+
+#menuop_togtut_c1
+Active le tutorial principal et les popups d'aide.
+
+#menuop_togIP
+Masquer le comtpe
+
+#menuop_togIP_c1
+Masquer les informations du compte (ex Steam ID, IP...).
+
 #b_menuop_apply
 Appliquer
 
@@ -148,6 +174,9 @@ OPTIONS
 
 #joingame_yourgames
 Vos parties
+
+#joingame_yourgames_dscr_1
+Historique des derniers personnages joués localement ou en ligne, sauvegardant les coordonnées des serveurs pour permettre un accès facilité aux parties.
 
 #joingame_persist
 Parties persistantes
@@ -185,6 +214,30 @@ Durée
 #servlst_dur_c1
 Durée totale de cette partie depuis son commencement
 
+#servlst_sb
+Bonus de départ
+
+#servlst_sb_c1
+Plus un serveur manque de joueurs, plus le bonus de départ est important (sauf tribus primitives).
+
+#servlst_prgrs
+Avancement
+
+#servlst_prgrs_c1
+Niveau d'avancement technologique global de la partie.
+
+#servlst_won
+Victoire
+
+#servlst_won_c1
+Statut de la partie en cours. Une fois la victoire atteinte, la partie est terminée et peut être effacée pour relancer une nouvelle partie à zéro.
+
+#servlst_psw
+Mot de passe
+
+#servlst_psw_c1
+Si l'accès a ce serveur est vérouillé par un mot de passe.
+
 #servlst_ver
 Version du serveur
 
@@ -192,7 +245,7 @@ Version du serveur
 La version du jeu utilisée par ce serveur.
 
 #servlst_ver_c2
-Attention! Votre version ([x]) ne correspond pas à celle de ce serveur ([y])!
+Attention! votre version ([x]) ne correspond pas à celle de ce serveur ([y])!
 
 #servlst_nogam
 Désolé: Il n'a pas de présentement de parti disponible!
@@ -317,6 +370,18 @@ Tropico
 #maptyp6_dscr
 Cartes de mer chaudes et humides avec beaucoup d'îles tropicales.
 
+#mapcont
+Continents
+
+#mapsea
+Océan
+
+#maprelief
+Reliefs
+
+#maptemp
+Temperature
+
 #maptypcust
 Paramètres personnalisés
 
@@ -396,7 +461,10 @@ JOUER
 Préférences de départ
 
 #newchar_availspwn
-Disponible commence à correspondre à ces paramètres
+Départs disponibles
+
+#newchar_bestspwn
+(meilleure valeur: [x])
 
 #newchar_closeto
 frayer près du caractère ...
@@ -638,8 +706,20 @@ Démolir
 #ui_menubdg_recycl2
 Ce bâtiment est en train d'être démoli. Lorsque le processus sera terminé, il sera complètement enlevé et la moitié de ses matériaux de construction seront récupérés.
 
+#ui_menubdg_linkpol1
+Politique manquante
+
+#ui_menubdg_linkpol2
+Ca bâtiment requiert une politique active pour être fonctionnel ([x]).
+
+#ui_menubdg_linkter1
+Statut territorial invalide
+
+#ui_menubdg_linkter2
+Ca bâtiment requiert le statut territorial de '[x]' pour être fonctionnel.
+
 #ui_menubdg_stckperm
-Autorisations de stockage:
+Permissions
 
 #ui_menubdg_Usage
 Utilisation:
@@ -652,6 +732,12 @@ Améliorer en
 
 #ui_menubdg_upgrades
 Améliorations
+
+#ui_menubdg_solid
+Solidité
+
+#ui_menubdg_struct
+Structure
 
 #bc_menubdg_wake1
 Réveiller
@@ -720,7 +806,10 @@ Fournit [x] d'efficacité supplémentaire au bâtiment.
 aucune ressource disponible pour la production par cette annexe
 
 #ui_annex_err2
-ce bâtiment n'a aucune production valide pour la distribution
+Ce bâtiment n'a aucune production valide pour la distribution.
+
+#ui_annex_err3
+Ce bâtiment ne peut pas posséder plus d'annexes de ce type.
 
 #bc_menubdg_selp
 sélectionnez la ressource à produire
@@ -728,11 +817,23 @@ sélectionnez la ressource à produire
 #bc_menubdg_nopran
 Ce bâtiment n'a pas d'annexes possibles.
 
+#regeco_inc
+Revenus
+
+#regeco_inc_c1
+Revenus totaux généré dans le territoire.
+
 #regeco_taxes
 Taxes
 
 #regeco_taxes_c1
-Total des revenus de toutes les taxes dans ce territoire
+Somme des revenus générés par les taxes dans ce territoire.
+
+#regeco_comwork
+Travail communautaire
+
+#regeco_comwork_c1
+[x] des Actifs allouent [y]% de temps aux tâches communautaires.
 
 #regeco_tax_inc
 Revenus d'impôts
@@ -764,6 +865,12 @@ Maintenance des infrastructures
 #regeco_up_infr_c1
 Coût total de maintenance de toutes les infrastructures de ce territoire (ex: murs ou jardins).
 
+#regeco_up_free
+Statut territorial
+
+#regeco_up_free_c1
+Rabattement de maintenance due au statut territorial actuel.
+
 #regeco_tradebal
 Commerce
 
@@ -771,28 +878,28 @@ Commerce
 Le solde final de toutes les marchandises expansées et des revenus importés et exportés.
 
 #regeco_ii
-Ventes locales de marchandises importées
+Revenus des importations
 
 #regeco_ii_c1
-Revenus générés par toutes les marchandises importées vendues sur le territoire (à leur prix local).
+Revenus générés par toutes les marchandises importées vendues sur le territoire, à leur prix local.
 
 #regeco_ic
-Coût d'achat des biens importés
+Coût des importations
 
 #regeco_ic_c1
-Coût total payé pour toutes les marchandises importées via les routes commerciales vers ce territoire (au prix de leur route commerciale).
+Coût total payé pour toutes les marchandises importées via les routes commerciales vers ce territoire, à leur prix d'importation.
 
 #regeco_ei
-Ventes de biens exportés
+Revenus des exportations
 
 #regeco_ei_c1
-Revenus de toutes les marchandises exportées de ce territoire par des routes commerciales (au prix de leur route commerciale).
+Revenus des marchandises exportées depuis ce territoire par les routes commerciales, à leur prix d'export.
 
 #regeco_ec
-Coût d'achat des biens exportés
+Coût des exportations
 
 #regeco_ec_c1
-Coût total payé pour l'achat des produits exportés à leurs producteurs locaux sur ce territoire (à leur prix local).
+Coût total d'achat des produits exportés payé aux producteurs locaux, à leur prix local.
 
 #bc_menureg_cur1
 Devise utilisée sur ce territoire:
@@ -873,7 +980,7 @@ Gouvernement
 Trésorerie
 
 #bc_gen_cult
-Culture
+Points de Civilisation
 
 #bc_gen_fact
 Nation
@@ -909,7 +1016,7 @@ autoriser
 tout authoriser
 
 #sc_menubdg_restrict
-restreint
+manuelles
 
 #sc_menubdg_allow
 authoriser
@@ -965,6 +1072,9 @@ liste des nouvelles politiques disponibles
 #ui_gov_nopol
 pas de nouvelles politiques disponibles!
 
+#ui_gov_nosel
+aucune politique séléctionnée
+
 #ui_civ_repl
 remplace '[x]'
 
@@ -972,19 +1082,19 @@ remplace '[x]'
 nécessite '[x]'
 
 #ui_civ_on
-AJOUTER DANS LA RÉFORME
+Ajouter
 
 #ui_civ_on_c
 cliquez pour ajouter cette nouvelle politique à la réforme
 
 #ui_civ_off
-REVOQUE DANS LA RÉFORME
+Révoquer
 
 #ui_civ_off_c
 cliquez pour ajouter la révocation de cette politique à la réforme
 
 #ui_civ_cncl
-ANNULER LA REFORME
+Retirer de la réforme
 
 #ui_civ_cncl_c
 cliquez pour supprimer cette modification en attente de votre réforme
@@ -1002,7 +1112,7 @@ les stratégies par défaut ne peuvent pas être révoquées ou transmises manue
 ils apparaissent automatiquement lorsqu'aucune autre politique n'est active.
 
 #ui_stateeffect
-EFFETS DE L'ÉTAT
+EFFETS DU GOUVERNEMENT
 
 #bc_stateeffect
 effet de réforme en attente
@@ -1014,22 +1124,22 @@ RÉFORMER
 Cliquez pour appliquer toutes les modifications en attente sur les stratégies
 
 #ui_eco_title
-TRÉSORERIE
+ÉCONOMIE
 
 #ui_eco_balance
-Solde budgétaire
+Budget
 
-#ui_eco_dscr
-Le trésor est le montant total des monnaies détenues par votre gouvernement. Les politiques économiques définissent comment l'économie de votre société est actuellement organisée.
+#ui_eco_comwork
+Travail communautaire
 
-#ui_eco_notrsr_dscr
-Cette société fonctionne actuellement sans aucune forme de monnaie et ses gens partagent tout dans la communauté: le gouvernement n'a pas de trésorerie ni de revenus.
+#ui_eco_comwork_c1
+Force de travail dédiée aux travaux commuautaires.
 
 #ui_eco_lead
 Contributions du dirigeant
 
 #ui_eco_lead_c1
-Le dirigeant attribue actuellement [x]% de sa richesse personnelle totale aux finances publiques.
+Le dirigeant réattribue aux finances publiques actuellement [x]% de sa richesse personnelle de [y] octroyée par ses privilèges.
 
 #ui_eco_tax
 Impôts
@@ -1041,7 +1151,7 @@ Somme de tous les revenus fiscaux de tous vos territoires.
 Contributions volontaires
 
 #ui_eco_contrib_c1
-Dans une société sans impôts organisés, les revenus proviennent uniquement des contributions informelles et volontaires du peuple pour la communauté (20% de ses revenus).
+Dans une société sans impôts organisés, les revenus proviennent uniquement des contributions informelles du peuple pour la communauté (25% des revenus).
 
 #ui_eco_wast
 Gaspillage
@@ -1050,16 +1160,10 @@ Gaspillage
 Revenus fiscaux perdus en raison du gaspillage et la corruption dans vos territoires. Le gaspillage est le résultat d'une administration locale faible dans les territoires.
 
 #ui_eco_bdgs
-Maintenance des bâtiments
+Maintenance des régions
 
 #ui_eco_bdgs_c1
-Maintenance total de tous les bâtiments de tous vos territoires.
-
-#ui_eco_infr
-Maintenance des infrastructures
-
-#ui_eco_infr_c1
-Coût de maintenance total de toutes les infrastructures dans tout vos territoires (tels que les murs ou les jardins).
+Maintenance totale des bâtiments et infrastructures de toutes vos régions.
 
 #ui_eco_units
 Maintenance des unités
@@ -1111,6 +1215,12 @@ IMPORTATIONS
 
 #ui_mres_dist
 DISTRIBUTION
+
+#ui_mres_dist_cltr
+Cette ressource produit [x] de Culture d'Etat pour chaque unité consommée par la population, générant actuellement un total de [y] de Culture d'Etat.
+
+#ui_mres_dist_cltr
+Cette ressource produit [x] de Culture d'Etat pour chaque unité produite, générant actuellement un total de [y] de Culture d'Etat.
 
 #ui_mres_ind
 INDUSTRIES
@@ -1251,7 +1361,7 @@ Le solde budgétaire de votre territoire est le résultat de tous les revenus et
 Le budget peut également être affecté négativement par les gaspillages. Il représente les revenus perdus à cause de la fraude fiscale, de la mauvaise gestion, de la corruption et de l'économie souterraine.
 
 #regadmin_eff
-Effets: augmente les revenus budgétaires (-waste)
+Effets: augmente les revenus budgétaires (-gaspillage)
 
 #regadmin_1
 L'administration représente la capacité de gestion de votre gouvernement dans ce territoire.
@@ -1437,73 +1547,76 @@ richesse de base
 monnaies
 
 #popstat_winc_c1
-gagner [x] monnaies sur [y] au total
+gagne [x] monnaies d'un total de [y]
 
 #popstat_winc_c2
-attribue [x]% de la richesse du territoire [y]
+octroies [x]% de la richesse du territoire de [y]
 
 #popstat_wpriv
-privilèges
+[x]% de privilèges
 
 #popstat_wpriv_c
 la richesse donnée directement en tant que privilèges par les politiques sociales
 
+#popstat_wpriv_c1
+Cette classe reçoit [x]% de la richesse du territoire en tant que privilèges.
+
+#popstat_wpriv_c2
+[x]% de [y] de richesse produite dans le territoire = [z] 
+
+#popstat_wpriv_c3
+-[x] en raison des [y]% de contribution du leader à la trésorerie
+
 #legit_dscr
-La légitimité est la mesure dans laquelle les gens reconnaissent le droit des prétentions à l'autorité de votre État qui sont définies par vos politiques de légitimité actives. Ceux-ci affectent l'influence positive ou négative de tous les différents facteurs de légitimité.
+La légitimité mesure la reconnaissance par le peuple des prétentions au pouvoir de votre gouvernement. Celles-ci sont définies par vos choix de politiques, qui influencent de manière positive ou négative l'importance de différents facteurs de légitimité.
 
 #legit_tot
 Légitimité totale
 
-#legit_protect
-Force militaire
+#legit_from_pol
+* Politiques actives:
 
-#legit_protect_c
-Notre force militaire est actuellement [x]. Il a augmenté en ayant plus d'armées et d'unités plus puissantes par rapport à votre population totale.
+#legit_honor
+Honneur
 
-#legit_wealth
-Supériorité du dirigeant
+#legit_honor_c
+L'Honneur affecte directement votre Légitimité. Personne ne veut servir un gouvernement déshonnorable!
 
-#legit_wealth_c
-La supériorité du dirigeant est actuellement de [x]. Elle est définie par la Richesse de la classe du Dirigeant, résidant dans la capitale.
+#legit_protect_c1
+Augmenté par la quantité d'armée et la puissance des unités en relation à votre population totale.
 
-#legit_relig
-Religiosité des gens
+#legit_protect_c2
+* Puissance des armées par habitant: [x]
 
-#legit_relig_c
-[pas encore implémenté]
+#legit_wealth_c1
+Augmenté par le richesse personelle du Dirigeant.
 
-#legit_parl
-Pouvoir du Parlement
+#legit_wealth_c2
+* Richesse personnelle du Dirigeant: [x]
 
-#legit_parl_c
-[pas encore implémenté]
+#legit_olig_c1
+Le soutient peut etre amélioré en s'assurant que la classe des Oligarques deumeure supérieure en Richesse et en Qualité de Vie par rapport au reste de la population.
+	 
+#legit_olig_c2
+* Dominance de classe [x] de [y] Oligarques: [z]
 
-#legit_senat
-Pouvoir du Sénat
+#legit_repres_c1
+Soutient basé sur les Politiques actives.
 
-#legit_senat_c
-[pas encore implémenté]
+#legit_people_c1
+Soutient basé sur les Politiques actives.
 
-#legit_approv
-Approbation du peuple
-
-#legit_approv_c
-[pas encore implémenté]
-
-#legit_minist
-Pouvoir du ministère
-
-#legit_minist_c
-[pas encore implémenté]
+#legit_relig_c1
+Soutient basé sur les Politiques actives.
 
 #legit_inf_pos
-Ce facteur [x] a actuellement une influence positive sur notre légitimité. ([y])
+Valeur de [x] à un effet direct (x[y]) sur la Légitimité résultant en un modificateur de [z].
 
 #legit_inf_neg
-Ce facteur [x] a actuellement une influence négative sur notre légitimité. ([y])
+Valeur de [x] à un effet inverse (x[y]) sur la Légitimité résultant en un modificateur de [z].
 
 #legit_inf_neut
-Ce facteur [x] n'a actuellement aucune influence sur notre légitimité.
+N'a présentement pas d'influence sur la Légimité.
 
 #statepow_dscr
 Le Pouvoir d'État représente la capacité de gestion de votre gouvernement. Les politiques de pouvoir définissent l'organisation du gouvernement et sa capacité a produire du Pouvoir d'État. Le Pouvoir d'État augmente la stabilité politique et économique des territoires.
@@ -1511,8 +1624,14 @@ Le Pouvoir d'État représente la capacité de gestion de votre gouvernement. Le
 #statepow_tot
 Puissance totale de l'État
 
+#statepow_prod
+Bâtiments gouvernementaux
+
+#statepow_prod_c1
+Pouvoir d'Etat généré par les bâtiments gouvernementaux actifs.
+
 #statepow_civ
-Organisation du pouvoir
+Politiques de gouvernment
 
 #statepow_civ_c1
 Pouvoir d'État total généré par les politiques de pouvoir actuellement actives.
@@ -1547,12 +1666,6 @@ Maintenance des traités
 #statepow_tmain_c1
 Tous les traités actifs coûtent un certain pouvoir d'État à maintenir, en fonction de leurs termes.
 
-#statepow_powtr
-Transferts de Pouvoir d'État
-
-#statepow_powtr_c1
-Le Pouvoir d'État est transféré à d'autres gouvernements ou en provenance d'autres gouvernements en raison des traités actifs en vigueur.
-
 #statepow_civmnt
 Maintenance des politiques
 
@@ -1568,11 +1681,14 @@ Pouvoir d'État transféré des subordonnés: [x]
 #statepow_nation_c2
 Pouvoir d'État transféré aux subordonnés: [x]
 
-#statepow_nation_c3
-Nombre de subordonnés directs: [x]
+#statepow_nation_c31
+[y] subordonnés directs: [x]
 
-#statepow_nation_c4
-Distance des subordonnés directs: [x]
+#statepow_nation_c41
+Distance moyenne de [y] des subordonnés directs: [x]
+
+#statepow_nation_c51
+Total de [y] subordonnés: [x]
 
 #conf_c1
 Le conflit effectif actuel du territoire
@@ -1716,37 +1832,31 @@ la résistance!
 Loyalistes à l'ancien propriétaire de ce territoire ([x])
 
 #admin_capacit
-production
+Production
 
 #admin_capacit_c1
-Total de l'administration disponible sur ce territoire.
+Total d'Administration disponible dans ce territoire.
 
-#admin_streg
-politiques territoriales
+#admin_prodstatus
+Statut territorial
 
-#admin_streg_c1
-Administration générée à partir de stratégies de puissance active affectant tous les territoires.
+#admin_prodstatus_c1
+Administration générée par le statut territorial actuel.
 
-#admin_stcity
-politiques de la ville
+#admin_prodpol
+Politiques actives
 
-#admin_stcity_c1
-Administration generated from active power policies affecting cities.
+#admin_prodpol_c1
+Administration générée par les politiques gouvernementales actives.
 
-#admin_stcap
-capital policies
+#admin_prodserv
+Travail administratif
 
-#admin_stcap_c1
-Administration generated from active power policies affecting the capital.
-
-#admin_scrib
-scribes
-
-#admin_scrib_c1
-Extra administration produced by Scribes.
+#admin_prodserv_c1
+Administration produite actuellement par tous les fonctionnaires travaillant dans les bâtiments administratifs.
 
 #admin_reg
-local
+Locale
 
 #admin_reg_c1
 Facteurs locaux affectant l'administration.
@@ -1764,13 +1874,13 @@ gestion des bâtiments
 Coût total des bâtiments nécéssiant de l'administration dans ce territoire.
 
 #admin_glob
-global
+Globale
 
 #admin_glob_c1
 Facteur généraux affectant l'administration de ce territoire.
 
 #admin_nbcit
-nombre de régions
+Nombre de régions
 
 #admin_nbcit_c1
 -[x]% d'administration par région autre que la capitale
@@ -1779,7 +1889,7 @@ nombre de régions
 nombre de regions sous votre contrôle: [x]
 
 #admin_dist
-distance de la capitale
+[x]% de distance de la capitale
 
 #admin_dist_c1
 -[x]% d'administration par case de distance avec la capitale
@@ -1972,6 +2082,15 @@ La taille maximale de cette troupe est de [x] unités.
 
 #ui_recruit_cost
 Coût par unité
+
+#ui_recruit_into
+Transfer vers
+
+#ui_recruit_coincost
+Coût
+
+#ui_recruit_coininc
+Revenu
 
 #ui_recruit_civ
 unités civiles
@@ -2241,7 +2360,7 @@ OUTIL STRATÉGIQUE
 Concevez la stratégie défensive de votre territoire au cas où il serait attaqué.
 
 #ui_dpltool_done
-TERMINÉ
+FERMER
 
 #ui_dpltool_addz
 Ajouter une nouvelle zone défensive
@@ -2251,6 +2370,12 @@ Prendre part à la bataille
 
 #ui_dpltool_matt_dscr
 La troupe se redéploiera pour faire face à toute menace entrante et engagera immédiatement une bataille de terrain. La position de déploiement actuelle de la troupe n'a donc aucune importance dans ce mode
+
+#ui_dpltool_delzone
+(clic-droit pour suprimmer cette zone)
+
+#ui_dpltool_conf
+Modification stratégiques confirmées!
 
 #ui_dpltool_mdef
 Engagement restreint
@@ -2285,6 +2410,12 @@ définir la stratégie des troupes sélectionnées
 #ui_dpltool_needdefz
 Vous devez placer au moins une zone défensive avant de pouvoir y affecter des troupes.
 
+#ui_dpltool_notindefz
+Cette troupe ne peut être en mode défensif car elle n'est pas dans une zone défensive!
+
+#ui_dpltool_inaxss
+Cette troupe ne peut pas être déployée ici car c'est inacessible!
+
 #ui_dpltool_maxdefz
 Vous avez atteint le nombre maximum de zones défensives.
 
@@ -2306,6 +2437,9 @@ Si vous démantelez cette formation dans l'un de vos territoires contrôlés, to
 #bc_menuform_disb_3
 Vous ne pouvez pas dissoudre dans les territoires que vous ne contrôlez pas!
 
+#bc_menuform_cantchtype
+This formation type cannot be changed.
+
 #menuform_disb_err1
 Vous ne pouvez pas dissoudre cette formation ici!
 
@@ -2322,7 +2456,7 @@ DÉCLARATION DE GUERRE
 Êtes-vous sûr de vouloir déclarer la guerre?
 
 #contact_sending
-Envoyer un message à [x] de [y] ...
+Envoi de la missve à [x] de [y] en cours...
 
 #contact_messto
 Message à [x] de [y]
@@ -2379,16 +2513,16 @@ Aucune connaissances à partager!
 Aucun territoire valide pour le transfert!
 
 #b_endtreaty
-Rompre le traité!
+Rompre!
 
 #b_endtreaty_c1
-Le traité sera immédiatement résilié. Les close de pénalité de rupture de votre côté s'appliqueront
+Le traité sera immédiatement résilié. Les close de pénalité de rupture de votre côté s'appliqueront.
 
 #b_endagreed
-Demander la résiliation
+Résilier
 
 #b_endagreed_c1
-Demandez à l'autre partie une résiliation convenue. Si accepté, aucune close de pénalité de rupture ne s'appliquera.
+Demander à l'autre parti une rupture conventionnelle du traité. Si accepté, celui-ci sera terminé sans qu'aucune close de pénalité ne s'applique.
 
 #b_renegoc
 Renégocier
@@ -2400,7 +2534,7 @@ Envoyer une proposition de renégociation. Si l'autre partie est d'accord, le tr
 Demande d'accord pour mettre fin à ce traité envoyé à l'autre partie!
 
 #ui_treat_eng1
-Vous êtes actuellement engagé par ce traité! Si vous choisissez d'y mettre fin de toute façon, vos clauses de pénalité de rupture s'appliqueront. Vous paierez [x] monnaies ([y]% de votre PIB) et perdrez [z] honneur.
+Vous êtes actuellement engagé par ce traité! Si vous choisissez d'y mettre fin de toute façon, vos clauses de pénalité de rupture s'appliqueront. Vous perdrez [z] d'honneur.
 
 #ui_treat_eng2
 Cela ne déclenchera pas la guerre avec [x].
@@ -2427,10 +2561,10 @@ entrée invalide!
 Aucun événement à afficher
 
 #menuevt_new
-Nouveaux événements
+Nouveaux
 
 #menuevt_all
-Tous les évènements
+Tous
 
 #menuevt_dipl
 Diplomatique
@@ -2454,13 +2588,13 @@ Idées
 Commerce
 
 #menuevt_objv
-Objectifs
+Conditions
 
 #menuevt_rewd
-Récompenses
+Effets
 
 #menuevt_prgrs
-actuel
+actuellement
 
 #menuevt_comp
 terminé!
@@ -2505,10 +2639,10 @@ Cette formation est hostile envers nous!
 Si cette formation rencontre l'une de nos unités dans un même territoire ou si nous essayons de passer par leur emplacement actuel, cela déclenchera une bataille.
 
 #ui_form_sprt
-Ville natale
+Ville d'attache
 
 #ui_form_sprt_c1
-La ville natale qui soutient ces unités: les porcos vieillissent et doivent être remplacés par de nouveaux porcos de la ville natale.
+La ville d'attache qui soutient ces unités: avec le temps les porcos vieillissent et doivent être remplacés par de nouveaux porcos provenant de la ville d'attache.
 
 #ui_form_sprt_c2
 Cette formation nécessite actuellement [x] porcos par génération de sa ville natale pour être maintenue.
@@ -2538,13 +2672,16 @@ Maintenance de cette formation
 Vous ne contrôlerez plus ce territoire. Laissé à lui-même, ce territoire tombera dans l'anarchie.
 
 #ui_conf_abandon
-Le territoire sera nettoyé. Toute sa population sera transférée en une formation ou plus, en prenant toutes les ressources qu'ils peuvent porter avec eux.
+Le territoire commencera à se préparer pour l'évactuation. C'est un processus long. Une fois complet, toute la population sera transférée dans une ou plusieur formations de "Migrants" emportant un maximum de resources avec eux. Attention: les Migrants ont un coup d'entretient élevé!
 
 #ui_conf_capital
 Voulez-vous vraiment définir ce territoire comme votre nouvelle capitale?
 
 #b_renonce
 Renoncer au contrôle de ce territoire
+
+#b_setcapital
+Déplacer la Capitale dans ce territoire
 
 #err_reg_rnnc1
 Vois ne pouvez renoncer à ce territoire tant qu'il y a une bataille.
@@ -2604,25 +2741,40 @@ engagé pour
 Vous
 
 #b_actv_trt_m2
-L'autre
+Autre parti
+
+#b_actv_trt_brk
+en faute
+
+#b_actv_trt_wbrk1
+VOUS serez en rupture du
+
+#b_actv_trt_wbrk2
+[x] sera en rupture du 
+
+#b_actv_trt_brkcl1
+sans clauses de rupture
+
+#b_actv_trt_brkcl2
+déclenchant les clauses de rupture de
 
 #b_actv_trt_cancel
 annuler le traité
 
 #ui_wrldmov_er1
-Cette formation est déjà sur le territoire.
+Points d'Action insuffisants pour effectuer cette action!
 
 #ui_wrldmov_er2
-Tu ne peux pas bouger ici.
+Vous ne pouvez pas vous déplacer ici.
 
 #ui_wrldmov_er3
-Cette formation est actuellement immmobilisée et ne peut pas bouger!
+Mouvement impossible: la formation est actuellement immobilisée!
 
 #ui_wrldmov_er4
-Vous ne pouvez pas vous déplacer ici car vous n'avez aucun droit de passage avec le propriétaire de ce territoire!
+Mouvement impossible: vous n'avez pas de droit de passage avec le propriétaire de ce territoire!
 
 #formimob_er1
-Vous ne pouvez pas donner d'ordres à cette formation car elle est actuellement immobilisée!
+Action impossible car cette formation est actuellement immobilisée!
 
 #ui_bdg_nbprod
 Nombre de travailleurs affectés à la production
@@ -2646,10 +2798,10 @@ La quantité totale de travail que ce bâtiment peut actuellement faire.
 [x] production de travailleurs * [y] efficacité = [z] de l'efficacité total
 
 #ui_bdg_wl_dscr
-67/5000Combien ce bâtiment contribue à la richesse du territoire total.
+Richesse actuellement produite par ce bâtiment, ajoutée a la richesse totale du territoire.
 
 #ui_bdg_wl_dscr2
-[x] de la main-d'œuvre productive * [y] = [z] de la richesse additionnelle
+[x] de main-d'œuvre productive * [y] = +[z] de richesse
 
 #ui_bdg_wu_dscr
 Quelle proportion de la main-d'œuvre disponible est actuellement utilisée et occupée à produire?
@@ -2777,6 +2929,9 @@ Utiliser automatiquement [x] comme matériau pour produire [y]. Le besoin de ce 
 #ui_bdgind_recip
 Il faut [x] de [y] pour chaque unité de [z] produite.
 
+#ui_bdgind_recip2
+Effet culturel: matériaux [x]%
+
 #ui_bdgind_byprod
 Produire [x] [y] comme sous-produits.
 
@@ -2802,7 +2957,7 @@ Inventaire
 Liste de toutes les ressources et services de ce territoire.
 
 #ui_regres_mtrd
-Métiers de marché
+Commerce
 
 #ui_regres_mtrd_c
 Acheter et vendre des stocks de ressources
@@ -2826,10 +2981,10 @@ Importations
 Les marchandises importées sont achetées par vous à leur prix de route commerciale et sont ensuite vendues sur le territoire à leur prix local.
 
 #ui_regres_totimp_c2
-Coût d'achat de la route commerciale:
+Imports aux prix des routes commerciales:
 
 #ui_regres_totimp_c3
-Ventes locales
+Ventes aux prix locaux:
 
 #ui_regres_totexp
 Exportations
@@ -2838,28 +2993,46 @@ Exportations
 Les marchandises exportées sont achetées par vous à leur prix local auprès des producteurs de ce territoire et sont ensuite vendues au prix de l'itinéraire de l'importateur.
 
 #ui_regres_totexp_c2
-Coût d'achat des producteurs locaux:
+Achats aux prix locaux:
 
 #ui_regres_totexp_c3
-Revenus des ventes d'itinéraires commerciaux:
+Exportations aux prix des routes commerciales:
 
 #ui_regres_addofr
-Ajouter une offre
+ENVOYER L'ORDRE
+
+#ui_regres_selres
+Selectionner un type de ressource
 
 #ui_regres_trsf
 TRANSFERTS
 
+#ui_regres_trsf_c1
+Organiser un transfer continu de ressources entre vos territoires.
+
+#ui_regres_trsf_c2
+Ces offres sont internes et invisibles à vos partenaires commerciaux. Elles ne peuvent être prises que par vous-même.
+
 #ui_regres_imp
 IMPORTATIONS
+
+#ui_regres_imp_c1
+Voir les offres existantes de nouvelles routes commerciales disponibles dans votre réseau commercial.
 
 #ui_regres_exp
 EXPORTATIONS
 
+#ui_regres_exp_c1
+Placer une nouvelle offre de route commerciale pour exporter continuellement une ressource.
+
+#ui_regres_exp_c2
+Ces offres sont visible à l'ensemble de votre réseau commercial et peuvent être prises par n'importe lequel de vos partenaires.
+
 #ui_regres_buy
-ACHETER
+ACHAT
 
 #ui_regres_sell
-VENDRE
+VENTE
 
 #ui_regres_imps
 Importations actuelles
@@ -2885,6 +3058,12 @@ Imposer un pourcentage de la valeur totale de toutes les marchandises de chaque 
 #ui_regres_pndng
 Nos offres
 
+#ui_regres_buying
+[x] achètes
+
+#ui_regres_selling
+[x] vends
+
 #ui_regres_prod
 Production
 
@@ -2895,7 +3074,10 @@ En stock
 Prix local
 
 #ui_regres_atprc
-au prix
+Prix limite
+
+#ui_regres_amnt
+Quantité
 
 #ui_regres_noinp
 [tapez un nom de ressource]
@@ -2907,7 +3089,7 @@ Vous ne pouvez pas exporter cette ressource car vous n'en possédez aucune produ
 Pas assez de service commercial pour créer cette offre!
 
 #ui_newofr_sent
-Nouvelle offre de route commerciale envoyée!
+Ordre de commerce envoyé!
 
 #ui_regres_pndng2
 Notre itinéraire commercial actuel offre:
@@ -2922,10 +3104,10 @@ Offres concurrentes dans notre réseau de commerce:
 Annuler l'offre commerciale
 
 #button_trtimp_c1
-Vous importez actuellement [x] de [y] de [z] dans ce territoire pour un total de [v] monnaies.
+Vous importez actuellement [x] depuis [y] sur [z].
 
 #button_trtexp_c1
-Vous exportez actuellement [x] de [y] vers [z] pour un total de [v] monnaies.
+Vous exportez actuellement [x] de [y] vers [z].
 
 #button_trtcargo
 Exiger [x] de Cargo, opéré par [y].
@@ -2984,6 +3166,12 @@ Cargo disponible
 #ui_troute_maxava_c1
 La quantité de service de cargo actuellement disponible dans l'opérateur.
 
+#ui_troute_basevol
+Volume de base
+
+#ui_troute_basevol_c1
+La quantité de cargo de base requise pour cette route commerciale, résultat de la somme des volumes de chaque ressource transportée.
+
 #ui_troute_edit
 Modification d'une route commerciale existante ...
 
@@ -2997,10 +3185,16 @@ Appliquer
 Coût total du cargo utilisé par ce territoire comme opérateur de routes commerciales.
 
 #ui_troute_totcost
-COÛT TOTAL DE LA ROUTE
+COÛT TOTAL
 
 #ui_troute_totcost_c1
 Le coût total du maintien de cette route commerciale.
+
+#ui_troute_totinc
+REVENU TOTAL
+
+#ui_troute_totinc_c1
+Revenu total généré actuellement par cette route commerciale.
 
 #ui_troute_bdgtdscr1
 L'État paie et détient la totalité des marchandises importées de la ville exportatrice, indépendamment de leur utilisation ultérieure.
@@ -3047,25 +3241,25 @@ Sélectionnez un type de formation
 #menu_nfrm_type1
 Armée
 
-#menu_nfrm_t1_dscr1
+#menu_nfrm_t1_dscr_1
 Une armée est composée d'unités mobilisées en permanence, ce qui coût d'entretien.
 
-#menu_nfrm_t1_dscr2
+#menu_nfrm_t1_dscr_2
 Ils ont besoin d'un soutien constant de leur ville natale pour remplacer les porcos vieillissants, et le recrutement de nouvelles unités enlève les porcs du territoire.
 
-#menu_nfrm_t1_dscr3
+#menu_nfrm_t1_dscr_3
 Les armées peuvent se déplacer dans d'autres territoires et leur présence augmente l'autorité de l'État.
 
 #menu_nfrm_type2
 Milice
 
-#menu_nfrm_t2_dscr1
+#menu_nfrm_t2_dscr_1
 Une milice est composée par la population du territoire elle-même, ne se mobilisant que pour défendre le territoire lorsqu'il est attaqué.
 
-#menu_nfrm_t2_dscr2
+#menu_nfrm_t2_dscr_2
 Les milices ne monopolisent pas les porcos en permanence, ce qui leur permet de garder un emploi et son entretien est moins important, car les soldats n'ont pas besoin de salaire.
 
-#menu_nfrm_t2_dscr3
+#menu_nfrm_t2_dscr_3
 Cependant, la milice ne peut pas se déplacer vers d'autres territoires et diminue l'autorité de l'État.
 
 #menu_trbuy_title
@@ -3102,7 +3296,7 @@ Connaissances actuelles
 Capacité
 
 #menu_tch_curuse_c1
-Votre société a actuellement [x] de connaissances, et une capacité de stockage de [y].
+votre société a actuellement [x] de connaissances, et une capacité de stockage de [y].
 
 #menu_tch_curuse_c2
 Vous perdrez des connaissances si votre capacité de stockage est inférieure à vos connaissances actuelles.
@@ -3132,7 +3326,31 @@ Projets disponibles
 Projets rejetés
 
 #menu_tch_prj_rwd
-Récompenses du projet:
+Résultats du projet:
+
+#menu_tch_prj_newtech
+Découverte de
+
+#menu_tch_prj_trgevent
+Déclenche l'évenement
+
+#menu_tch_prj_trgevent_c
+L'accomplissement de ce projet déclenchera cet évenement.
+
+#menu_tch_prj_cltrskl
+Nouveau Savoir-Faire
+
+#menu_tch_prj_cltrskl_c
+L'accomplissement de ce projet déclenchera l'adoption de ce nouveau Savoir-Faire (à moins qu'il ne soit déja actif), vous coûtant [x] Point de Civilization.
+
+#menu_tch_prj_cltrcons
+Nouvel Usage
+
+#menu_tch_prj_cltrcons_c
+L'accomplissement de ce projet déclenchera l'adoption de cette nouvel Usage (à moins qu'il ne soit déja actif), vous coûtant [x] Point de Civilization.
+
+#menu_tch_prj_res
+Ressources
 
 #menu_prj_inpgr
 En cours...
@@ -3141,10 +3359,13 @@ En cours...
 Nouveau projet...
 
 #menu_prj_req
-Conditions de départ:
+Coût de lancement:
 
 #menu_prj_reqkn
-Vous avez besoin de [x] espace libre de connaissances pour lancer ce projet.
+[x] Points de Connaissances sont nécessaires pour lancer ce projet.
+
+#menu_prj_reqcp
+[x] Points de Civilisation sont nécessaires pour lancer ce projet.
 
 #menu_prj_rcoin1
 Coût de base du projet: [x] monnaies
@@ -3153,9 +3374,12 @@ Coût de base du projet: [x] monnaies
 Les matériaux requis coûtent: [x] monnaies
 
 #menu_prj_rmat1
-Besoins [x] [y] de [z]
+Nécessite [x] de [y]
 
 #menu_prj_rmat2
+Actuellement sur [x]: [y]/[z]
+
+#menu_prj_rmat3
 (cliquez pour sélectionner un autre territoire)
 
 #menu_prj_start
@@ -3165,7 +3389,7 @@ DÉBUT DU PROJET
 Difficulté
 
 #menu_prj_work
-Recherché
+Travail
 
 #menu_prj_rschrs
 Chercheurs
@@ -3258,7 +3482,7 @@ Pas de [x] actuellement disponible dans cette ville!
 Vous devez affecter des chercheurs avant de commencer ce projet!
 
 #prj_strt_err2
-Il vous manque des monnaies pour lancer ce projet!
+Budget insuffisant pour lancer ce projet!
 
 #prj_strt_err3
 Il vous manque des matériaux nécessaires pour démarrer ce projet!
@@ -3336,16 +3560,16 @@ Score de votre puissance militaire totale. N'inclut pas les milices.
 Score
 
 #menu_scr_tot_c
-Votre score personnel.
+votre score personnel.
 
 #menu_scr_vpscr
-Du score d'équilibrage
+Score
 
 #menu_scr_vpscr_c1
-Le score d'équilibrage est votre score supérieur au score de référence de [y] pts. Vous obtenez 1 point de victoire pour chaque [x] pts de score d'équilibrage.
+Vous pouvez gagner ou perdre des Points de Victoire en fonction de votre score actuel. Vous gagnez actuellement 1 PDV par [x] de score.
 
 #menu_scr_vpscr_c2
-Le score moyen et le coût de chaque point de victoire sont dynamiques et basés sur les scores de tous les joueurs.
+Le coût en score de chaque PDV est dynamique et basé sur la somme des scores de touts les personnages présentement actifs dans la partie.
 
 #menu_scr_vpmiss
 Missions
@@ -3360,19 +3584,22 @@ Points de victoire
 Vos points de victoire personnels.
 
 #menu_scr_avg
-Score référence
+Score mondial
 
 #menu_scr_avg_c1
-Utilisé pour déterminer votre score d'équilibrage. Sa valeur est basée sur les scores de tous les joueurs.
+Le score mondial est la somme des scores de chaque personnage dans la partie. Il est utilisé pour déterminer le coût en score par Point de Victoire.
 
 #menu_scr_avg_c2
-Avoir un score personnel au dessus de ça accorde des points de victoire.
+A noter que les personnages inactifs ne comptent dans cette somme que pour moitié de leur score réel.
 
 #menu_scr_vpcost
-Point de victoire
+Score par PDV
 
-#menu_scr_vpcost_c
-Le coût en points de score (au-dessus du score de référence) pour chaque point de victoire.
+#menu_scr_vpcost_c1
+Chaque Point de Victoire coûte actuellement [x] de score.
+
+#menu_scr_vpcost_c2
+Le coût de 100 Points de Victoire est définit comme étant égal à 50% du score mondial. Le coût de chaque PDV est donc de 0.5% du score mondial (avec un minimum de 100 points). 
 
 #menu_scr_frna
 pour la Nation
@@ -3381,13 +3608,13 @@ pour la Nation
 De combien de points vous contribuez actuellement au score de votre nation.
 
 #menu_scr_frnavp_c
-De combien de points de victoire vous contribuez actuellement aux points de victoire de votre nation.
+Contribution effective de vos Points de Victoire à votre nation. Elle est basée sur votre rang dans la Nation: plus il est bas, moins vous contribuez.
 
 #menu_nscr_name
-Votre nation
+votre nation
 
 #menu_nscr_rank
-Votre rang dans votre nation
+votre rang dans votre nation
 
 #menu_nscr_scr
 Le score total de votre nation
@@ -3432,7 +3659,7 @@ Fertilité
 Eaux souterraines
 
 #btl_objtv_neut
-neutre
+inactif
 
 #btl_objtv_raid
 pillage
@@ -3456,16 +3683,19 @@ attaque
 chasse
 
 #btl_rslt_dead
-éliminés
+éliminée
 
 #btl_rslt_deft
-vaincus
+vaincue
 
 #btl_rslt_vict
-victorieux
+victorieuse
 
 #btl_rslt_neutr
-était neutre
+neutre
+
+#btl_rslt_rtrtd
+repliée
 
 #btlrslt_neutr
 NEUTRE
@@ -3492,10 +3722,19 @@ tue
 butin total
 
 #rcvloot_reg
-Nous avons reçu du butin dans [x]:
+Nous avons reçu dans [x]:
 
 #rcvloot_form
-Notre formation a reçu le butin:
+Notre formation a reçu:
+
+#ev_rcvloot
+Nous avons reçu: [x]
+
+#ev_rcvres
+Nous avons reçu [x] de [y].
+
+#ev_lostres
+Nous avons perdu [x] de [y].
 
 #gamelob_genav
 Générer un avatar
@@ -3586,6 +3825,15 @@ La durée maximale pendant laquelle un personnage peut rester hors ligne avant d
 
 #gamelob_maxoff_c2
 ATTENTION: cette limite est plus basse pour les personnages créés récemment!
+
+#gamelob_spwnbon
+Bonus de départ
+
+#gamelob_spwnbon_c1
+Lors de la création d'un nouveau personnage, ce bonus améliore les conditions de départ (resources, connaissances...) du départ séléctionné.
+
+#gamelob_spwnbon_c2
+Ce bonus est proportionnel à la pénurie de joueurs actif sur le serveur.
 
 #gamelob_err1
 Vous avez actuellement atteint la limite du nombre de personnages autorisés sur cette partie!
@@ -3726,7 +3974,7 @@ Vous ne pouvez pas supprimer ce rang parce qu'il est actuellement utilisé par u
 Nouveau rang ...
 
 #facmmb_ter
-Les régions
+Territoires
 
 #facmmb_dismant
 Démanteler
@@ -3738,13 +3986,13 @@ Parce que ce personnage est inactif, votre titre vous permet de démanteler ses 
 Promouvoir
 
 #facmmb_prom_c1
-Votre titre vous permet de gérer cette position hiérarchique de ce personnage: promouvoir ou rétrograder ce personnage.Your title allows you to manage this hierarchic position of this character: promote or demote this character.
+votre titre vous permet de gérer cette position hiérarchique de ce personnage: promouvoir ou rétrograder ce personnage.Your title allows you to manage this hierarchic position of this character: promote or demote this character.
 
 #facmmb_xpl
 Expulser
 
 #facmmb_xpl_c1
-Votre titre vous permet d'expulser ce personnage de la Nation.
+votre titre vous permet d'expulser ce personnage de la Nation.
 
 #facmmb_quit
 Quitter
@@ -3819,13 +4067,13 @@ Supérieur
 Rang
 
 #facxpl_title
-Expuler [x] de la Nation
+Expulser [x] de la Nation
 
 #facxpl_txt
 En tant que supérieur de [x], votre rang vous authorise a expulser ce personnage de la Nation. Notez que tous ses subordonnés, s'il en a, le suivront et quitteront donc également la Nation avec lui.
 
 #facxpl_xpl
-Virer!
+Expulser!
 
 #facrplc_title
 Remplacer [x]...
@@ -3906,7 +4154,7 @@ indécis
 Votes cast
 
 #uivote_yrvt
-VOTRE VOTE
+votre VOTE
 
 #uivote_txt1
 Vous n'avez pas encore voté. Selectionnez un des choix ci-dessous et votez. Attention: votre vote est définitif et ne peut être modifié une fois confirmé!
@@ -3933,7 +4181,7 @@ Une colonie est un territoire autonome rattaché à votre gouvernement. Vous ne 
 La ville est le centre d'une région. Elle a sa propre administration locale qui gère également tous les sous-territoires de la région. Chaque ville coûte du Pouvoir d'Etat à maintenir.
 
 #regstatus_capital_1
-Lieu de votre gouvernment et résidence de votre dirigeant. Contrairement aux villes ordinaires, ne coûte aucun Pouvoir d'État. Certains bâtiments gouvernementaux sont uniques à la capitale. La distance des autres villes avec votre capitale a de multiples effets, notamment sur leur administration, culture, et loyauté.
+Lieu de résidence du gouvernement et du dirigeant. Ne coûte aucun Pouvoir d'État et permet certains bâtiments gouvernementaux uniques. La distance des autres territoires avec avec la capitale affecte plusieurs de leurs paramètres tels que leur administration locale, culture, ou loyauté.
 
 #regstatus_title
 Statut du territoire
@@ -4059,7 +4307,7 @@ L'objectif sera tout dabord d'éliminer toutes les défenses du territoire. En c
 Cette action fournit plus de butin qu'un simple raid tout en infligeant plus de dommages, mais contrairement a un raid elle implique au préalable d'éliminer toutes les defenses, et l'action coute de l'honneur.
 
 #wkprio_0
-EvitéAvoided
+Indésirable
 
 #wkprio_1
 Faible
@@ -4072,6 +4320,21 @@ Haute
 
 #wkprio_4
 Critique
+
+#strprio_0
+[automatique]
+
+#strprio_1
+Basse
+
+#strprio_2
+Moyenne
+
+#strprio_3
+Haute
+
+#strprio_4
+Très Haute
 
 #recyclmat
 Nous avons récupéré
@@ -4094,7 +4357,13 @@ Sans-terre
 #err_inaxsbdg
 Ce bâtiment est inacessible!
 
+#err_cantrstr
+Vous ne pouvez pas restaurer ce bâtiment!
+
 #formact_none
+Inactif
+
+#formact_move
 Mouvement
 
 #formact_camp
@@ -4102,6 +4371,51 @@ Camper
 
 #formact_hunt
 Chasser
+
+#formact_fish
+Pêcher
+
+#formact_hunt1_rslt
+Nos chasseurs ont tué [x] [y] et collecté [z] ressources.
+
+#formact_hunt2_rslt
+Nos chasseurs ont capturé [x] [y].
+
+#formact_hunt3_rslt
+La chasse s'est bien passée et nous n'avons subit aucune perte!
+
+#formact_hunt4_rslt
+La chasse s'est bien passée mais nous avons perdus [x] chasseurs.
+
+#formact_hunt5_rslt
+La chasse s'est mal passée et nous avons perdus [x] chasseurs.
+
+#formact_hunt6_rslt
+La chasse a tourné a la catastrophe et tous nos chasseurs sont morts...
+
+#formact_fish_rslt
+Nos pêcheurs ont capturé [x] [y] et collecté [z] ressources.
+
+#formact_prospct
+Prospecter
+
+#prospct_discov
+Nous avons découvert du [x] dans [y]!
+
+#prospct_nodiscov
+Nous n'avons rien découvert d'utile dans [x]!
+
+#prospct_nonew
+Nous n'avons rien découvert de nouveau dans [x]!
+
+#formact_scav
+Collecter des ressources
+
+#formact_wood
+Collecter du bois
+
+#formact_wood_rslt
+La formation à collecté [x] de bois.
 
 #formact_captr
 Capturer
@@ -4130,6 +4444,12 @@ Revendiquer
 #formact_unclaim
 Dé-revendiquer
 
+#formact_tkartfct
+Prendre l'artéfact
+
+#formact_tkartfct
+Utiliser le palentir
+
 #formhome_title
 Réassigner la region mère de cette formation...
 
@@ -4148,11 +4468,20 @@ Selectionnez la nouvelle région mère de cette formation.
 #formhome_sel_c2
 (la formation doit être localisée dans le territoire désiré pour pouvoir s'y relocaliser )
 
+#menu_mission_ttle
+Action pour la formation '[x]' à [y]
+
 #menu_mission_sel
 Action
 
 #menu_mission_sel_c1
 Séléctionner l'action a éfféctuer dans ce territoire.
+
+#menu_mission_scav1
+Ressource à récolter:
+
+#menu_mission_scav2
+Selectionnez un type de ressource connue à récolter dans ce territoire.
 
 #chat_pm
 Contacter [x]
@@ -4395,37 +4724,55 @@ Attention! En raison de son contenu, votre réforme causera une pénalité uniqu
 Balance commerciale
 
 #ui_eco_tradbal_c1
-Somme de la balance commerciale de toutes vos routes commerciales sur tout vos territoires.
+Balance commerciale globale de tout vos territoires.
 
 #ui_eco_tradbal_c2
-Revenus commerciaux: [x]
+Ressources d'Etat:  +[x] ventes   -[y] achats
 
 #ui_eco_tradbal_c3
-Dépenses commerciales: [x]
+Importations:       +[x] ventes   -[y] achats
+
+#ui_eco_tradbal_c4
+Exportations:       +[x] ventes   -[y] achats
+
+#ui_eco_tradbal_c5
+Cargo:              +[x] ventes   -[y] achats
 
 #ui_price_base
-Prix minimum: [x]
+Prix minimum de [x]
 
 #ui_price_base_c1
 Le prix minimum possible pour cette ressource, quelque soit les autres facteurs.
 
 #ui_price_base1
-Coût de production ([x]%)
+Coût de production de [y]  ([x]%)
 
 #ui_price_base1_c1
 Le coût moyen de production de cette ressource basé sur le coût actuel de ses matériaux.
 
+#ui_price_base1_c2
+La production représente [x]% du total à un prix moyen de [y] par unité, résultant d'un effet sur le prix minimum de [z].
+
 #ui_price_base2
-Coût d'importation ([x]%)
+Coût d'importation de [y]  ([x]%)
 
 #ui_price_base2_c1
 Le coût moyen d'importation de cette ressource via les routes commerciales actuelles.
+
+#ui_price_base2_c2
+Les importations représentent [x]% du total à un prix moyen de [y] par unité, résultant d'un effet sur le prix minimum de [z].
 
 #ui_price_base3
 Profitabilité
 
 #ui_price_base3_c1
 Assure un minimum de profits aux producteurs, à hauteur de 20% du coût de production.
+
+#ui_price_base3_c1
+Assure un minimum de profits aux producteurs et marchands de cette resource, appliqué au prix minimum par unité de [x].
+
+#ui_price_base3_c2
+Le taux actuel de profits est de [x]% de [y] +1, résultant d'un effet sur le prix minimum de [z].
 
 #ui_price_work
 Prix de base
@@ -4530,10 +4877,7 @@ bonus de qualité de vie: +[x]
 Honeur
 
 #legit_honor_c
-Votre honneur affecte directement votre légitimité. Personne ne veut suivre un dirigeant déshonorable!
-
-#statepow_nation_c5
-Nombre total de subordonnés: [x]
+votre honneur affecte directement votre légitimité. Personne ne veut suivre un dirigeant déshonorable!
 
 #statepow_forms
 Maintenance des formations
@@ -4541,8 +4885,11 @@ Maintenance des formations
 #statepow_forms_c1
 Chaque formation que vous possédez coût de Pouvoir d'État à maintenir.
 
+#ui_recruit_btl
+Impossible de modifier les troupes de cette formation pendant une bataille!
+
 #ui_recruit_immo
-Vous ne pouvez modifier les troupes de cette formation lorsqu'elle est immobilisée.
+Impossible de modifier les troupes de cette formation lorsqu'elle est immobilisée.
 
 #ui_recruit_cost_1
 Coût pour recruter une unité.
@@ -4577,6 +4924,9 @@ Cette action coûtera [x] Points d'Action à la formation (cependant vous pourre
 #ui_foinv_empreg
 Vous ne pouvez charger de resources depuis un territoire vide!
 
+#ui_foinv_unldfail
+La formation n'a pas pu décharger [x] de [y] en raison d'un manque d'éspace de stockage!
+
 #ui_foinv_cost_c1
 Coût d'achat des resources.
 
@@ -4592,6 +4942,9 @@ Acheter [x] resources au prix local de [y] monnaies.
 #ui_builderr_maxan
 Ce bâtiment ne peut avoir plus de [x] [y].
 
+#ui_builderr_maxreg
+Il ne peut y avoir plus de [x] [y] dans in territoire.
+
 #ui_dpltool_formtog
 (cliquer pour acceder au options de déploiement des formations)
 
@@ -4602,10 +4955,10 @@ Ce type de formation coûte [x] de Pouvoir d'État à maintenir.
 Annuler l'offre
 
 #b_trtcancelofr_c1
-Votre proposition de traité sera annulée et l'autre parti ne sera plus en mesure de le ratifier.
+votre proposition de traité sera annulée et l'autre parti ne sera plus en mesure de le ratifier.
 
 #ui_treat_cancld
-Votre proposition de traité a été annulée.
+votre proposition de traité a été annulée.
 
 #ui_form_AP_c1
 Points d'Action: [x]/100   ([y] [z])
@@ -4691,23 +5044,32 @@ inactif: en attente d'une réponse de l'autre parti...
 #ui_wrldmov_er5
 Cette formation ne peut lever le camp tant qu'elle n'a pas au moins 50 points d'Action.
 
+#ui_wrldmov_nomove
+Ce type de formation ([x]) ne peut pas se déplacer.
+
+#ui_wrldmov_erxplr
+Cette formation ne peut pas explorer de nouveaux territoires.
+
 #ui_bdg_ef4_dscr
 Si ce bâtiment fonctionne à pertes, son efficacité est progressivement réduite.
 
 #ui_bdg_pdet_5_c1
-Les revenus des ventes à l'État (vous) sont stockées dans une caisse de cottisation reversant graduallement ces revenus aux travailleurs de cette classe.
+Les revenus des ventes à l'État peuvent être soit directes (achat automatique de l'État) ou différés (ressources privées achetées ponctuellement par l'État). Les revenus différés sont stockées dans une caisse de cottisation reversant graduallement ses revenus aux travailleurs de cette classe.
 
 #ui_bdg_pdet_5_c2
-Achats automatiques: [x] monnaies ([y] ressources).
+Revenus directs: [x] monnaies ([y] ressources).
 
 #ui_bdg_pdet_5_c3
-Achats passés: [x] monnaies.
+Revenus différés: [x] monnaies ([y] dans la caisse).
 
 #ui_regres_totimp_c4
 Cargo acheté:
 
 #ui_regres_totexp_c4
-cargo vendu:
+Cargo vendu:
+
+#ui_regres_totexp_c4w
+Vente déficitaire! Prix local du Cargo supérieur à celui des routes commerciales
 
 #menu_nfrm_type3
 Armée nationale
@@ -4721,14 +5083,47 @@ Les armées nationales fournissent un bonus d'authorité même aux autres membre
 #menu_nfrm_t3_3
 Notez que vous pouvez convertir cette armée régulière en nationale et vice-versa.
 
+#form_atfct
+Artéfact
+
+#form_atfct_dscr_1
+Ceci est un artéfact spécial. C'est un objet inanimé sans propriétaire définit. Il ne peut ni être détruit, recruté, ou transféré à d'autres formations.
+
+#form_atfct_dscr_2
+Son contrôle peut être obtenu par n'importe quelle formation localisée sur le meme territoire à condition que son propriétaire précédent n'aie lui même aucune formation en assurant la 'guarde'.
+
+#form_atfct_dscr_3
+Le contrôle de l'artéfact peut donc être gagné aussi bien que perdu.
+
+#form_sttlrs
+Colons
+
+#form_sttlrs_dscr_1
+Les colons sont des formations civiles qui peuvent recruter de la popuation et coloniser de nouveaux territoires.
+
+#form_migrnts
+Migrants
+
+#form_migrnts_dscr_1
+Les migrants sont des formations civiles spéciales sans ville d'attache. Elles peuvent coloniser de nouveaux territoires, ne requierent aucun support et peuvent récuperer leur PA sans pénalités de distance mais côutent plus de Pouvoir d'Etat et de maintenance.
+
+#form_migrnts_dscr_2
+Les migrants sont crées lors de l'évacuation d'un territoire.
+
+#form_nomad
+Nomades
+
+#form_nomad_dscr_1
+Les nomades sont des formations sans ville d'attache. Elles ne requierent aucun support et peuvent récuperer leur PA sans pénalités de distance, et peuvent également coloniser de nouveaux territoires.
+
+#form_tribe
+Tribu primitive
+
+#form_tribe_dscr_1
+Une tribu primitive de nomade est un point spawn potentiel pour de nouveaux personnages. Il est dangereux de voler leur territoire car cela risque de déclencher leur hostilité.
+
 #fstate_encamp
 En Campement
-
-#menu_scr_v
-Subordonés
-
-#menu_scr_v_c
-Score de vos subordonés: vous recevez une petite part du score de tout vos subordonnés directs.
 
 #gamelob_spcloff_c3
 Dernier spawn: [x]
@@ -4866,7 +5261,7 @@ Revenus perdus par le gaspillage.
 Revenus totaux exposés au gaspillage.
 
 #regeco_wastab_c2
-Revenus d'impôts: [x]
+Revenus territoriaux: [x]
 
 #regeco_wastab_c3
 Profits d'importations: [x]
@@ -4877,14 +5272,17 @@ Profits d'exporations: [x]
 #regeco_wastab_c5
 Ventes de resources d'État: [x]
 
-#bc_gen_speed
-définir la vitesse de jeu gobale à x[x]
+#bc_gen_speed_c1
+Définit la vitesse de progression générale de la partie.
 
-#ui_eco_tradbal_c4
-Exportations: +[x] ventes -[y] achats
+#bc_gen_speed_c2
+Cela modifie la vitesse de multiples parametres tels que la production de ressources, la recherche, la récupération de PA, la decouverte de nouvelles idées, le mouvement des formations sur la carte etc...
 
-#ui_eco_tradbal_c5
-Cargo: +[x] ventes -[y] achats
+#bc_btl_speed_c1
+Définit la vitesse des batailles et unités de la partie.
+
+#bc_btl_speed_c2
+Cela ne modifie que la vitesse de progression des batailles et du visuel des unités dans les territoires.
 
 #ui_price_base3_c2
 Agumentes de +30% du coût de production si cette ressource est distribuée via des marchands, comme leur part doit également être prise en compte par les producteurs.
@@ -4893,7 +5291,7 @@ Agumentes de +30% du coût de production si cette ressource est distribuée via 
 Arbitrage
 
 #ui_price_arb_c1
-L'arbitrage des prix peut se produire lorsqu'il existe de grandes différence entre le prix local et celui des autres territoires a proximité (vôtres où étrangers avec relations commerciales)
+L'arbitrage des prix peut se produire lorsqu'il existe de grandes différence entre le prix local et celui des autres territoires a proximité (votres où étrangers avec relations commerciales)
 
 #ui_price_arb_c5
 Prix local avant arbitrage: [x] monnaies.
@@ -4908,7 +5306,7 @@ Avec une différence de prix de [x]%, le prix mondial à une influence de [y]% s
 Pas d'arbitrage: aucune territorie a proximité n'utilise cette ressource.
 
 #bc_menubdg_lmtd
-Stock limité
+Distribution limitée
 
 #bc_menubdg_lmtd_c1
 Cliquer pour limiter le stock de ce marchand: vous permet de contrôler la quantité de resources mises en vente sur le marché public à la population.
@@ -5049,7 +5447,7 @@ Chaque point de Qualité de Vie fournit +0.75 d'Intelligence.
 Connaissances totales
 
 #popint_kn_c1
-Votre total de connaissances actuelles augmentes l'intelligence moyenne de la population.
+votre total de connaissances actuelles augmentes l'intelligence moyenne de la population.
 
 #popint_cult
 Culture du territoire
@@ -5070,7 +5468,7 @@ Production brut de culture
 Quantité de culture brut produite par la population.
 
 #cltrstat_pop_c2
-[x] Porcos d'une intelligence de [y] produisent continuellement +[z] de culture.
+[x] Porcos avec une qualité de vie de [y] produisent +[z] de culture.
 
 #cltrstat_local
 -[x]% de culture locale
@@ -5223,7 +5621,7 @@ Plus la Résistance possède de points, plus elle est forte dans ce territoire e
 [x]% en raison du statut territorial modifiant les pénalités de distance de [y]%
 
 #growth_oldpigs
-Evolution des Vieuxporcs
+Vieuxporcs
 
 #b_newform
 Nouvelle formation
@@ -5306,8 +5704,14 @@ Le statut actuel de ce territoire ne vous authorise pas à renoncer à son contr
 #err_reg_abdn4
 Le statut actuel de ce territoire ne vous authorise pas à ordonner son évacuation.
 
+#err_reg_abdn5
+Ce territoire est déjà en train d'être évacué!
+
 #ui_tech_ter
 Nouveau statut territorial
+
+#ui_tech_rev
+Revèles
 
 #facprom_auto
 Rang automatique
@@ -5332,6 +5736,12 @@ pas de contrôle commercial
 
 #regstatprop_bdgup
 maintenance des bâtiments [x]
+
+#regstatprop_freeup
+[x] de maintenance gratuite
+
+#regstatprop_freeclaims
+[x] revendications territoriales gratuites
 
 #regstatprop_loyal
 loyauté [x]
@@ -5364,6 +5774,11 @@ pas de pénalité administrative de distance
 #regstatprop_noinc
 pas de revenus de taxes
 
+#regstatprop_tinc
+[x]% des revenus commerciaux
+
+pas de revenus commerciaux
+
 #regstatprop_exp
 [x]% des dépenses
 
@@ -5392,8 +5807,13 @@ est un spawn de joueur
 [x] de loyauté en cas de changement ultérieur
 
 #regstatprop_overdrft
-cannot overdraft
 sur-recrutement impossible
+
+#regstatprop_bdg
+requierts bâtiment '[x]'
+
+#regstatprop_pol
+requierts politique '[x]'
 
 #regstatus_penalty
 ATTENTION: changer ce statut territorial déclenchera un évenement de loyauté de [x]!
@@ -5403,6 +5823,12 @@ ATTENTION: revendiquer ce territoire occupé augmentera la pénalité d'honneur 
 
 #setcolony_err3
 Ce territoire a trop de résistance pour être convertit en colonie!
+
+#setterrit_errbdg
+Ce statut territorial requierts un '[x]' fonctionnel.
+
+#setterrit_errpol
+Ce statut territorial requierts la politique '[x]' active.
 
 #antl_name
 Gestionnaire d'annexes
@@ -5486,7 +5912,7 @@ Une faible satisfaction des besoins vitaux réduit les naissances et augmente le
 Subjuger
 
 #subjug_can
-Vous pouvez automatiquement subjuger [x].
+Comme tous les territoires de [x] sont occupés, vous pouvez forcer sa subjugation immédiate.
 
 #subjug_dscr
 Cela mettra fin a la guerre entre vous et [x]. Cet état sera intégré à votre nation comme vassal, avec un traité de capitulation vous transferant du Pouvoir d'État et une partie de ses revenus. Tous ses territoires présentement occupés par les forces de votre nation seront automatiquement rétrocédés à [x]. 
@@ -5495,7 +5921,7 @@ Cela mettra fin a la guerre entre vous et [x]. Cet état sera intégré à votre
 Vous ne pouvez pas encore subjuger [x].
 
 #subjug_cant_dscr
-Un personnage qui a perdu le contrôle de tout ses territoires dans une guerre peut être automatiquement subjugé, a condition d'être l'occupant d'au moins l'un de ses territoires. La Subjugation force sa capitulation et en fait un vassal, l'intégrant à votre nation.
+Un personnage qui a perdu le contrôle de tout ses territoires dans une guerre peut être automatiquement subjugé, à condition d'être l'occupant d'au moins l'un de ses territoires. La Subjugation force sa capitulation et en fait un vassal, l'intégrant à votre nation.
 
 #subjug_cant_why
 Pour subjuger ce perosnnnage il vous faut prendre le contrôle de:
@@ -5541,3 +5967,813 @@ Etes-vous vraiment sûr?
 
 #warn_moveprim_1
 Commencer une partie en bougeant toute sa tribu primitive est une décision TRES dangereuse qui peut rapidement mener à votre perte. A moins que vous ne sachiez exactement ce que vous faites, il est FORTEMENT conseillé de s'installer sur votre région de départ: vous pourrez toujours par la suite explorer avec un petit groupe sans risquer l'intégralité de votre peuple.
+
+#treaty_offr_sent
+Nouvelle offre envoyée avec succès!
+
+#startuto_cmplt
+Tutoriel de départ terminé!
+
+#cnvrt_mil_err
+Population insuffisante pour convertir cette milice!
+
+#mg_localgame
+partie locale
+
+#mg_remove_1
+retirer de 'mes parties'
+
+#mg_remove_2
+(ceci n'est qu'un raccourcis et ne suprimme pas le personnage lui même)
+
+#mg_serverstatus
+statut du serveur
+
+#mg_srvr_unknown
+inconnu
+
+#mg_srvr_online
+en-ligne
+
+#menuop_resetut
+Reset all
+
+#menuop_resetut_c1
+Réinitialiser tous les tutoriels.
+
+#menuop_resetutd
+Tutoriels réinitialisés.
+
+#uiworldforms_inreg
+Formations dans ce territoire
+
+#uiworldforms_novisib
+Inconnu: pas de visibilité
+
+#formmisspop
+Population du territoire insuffisante pour affecter l'entiereté de cette troupe.
+
+#autoban_cheat
+Banni pour tricherie.
+
+#autoban_vm
+Banni pour usage d'une Marchine Virtuelle.
+
+#autoban_device
+Banni pour tentative the contourner la règle d'un seul personnage par machine.
+
+#autoban_multi
+Banni pour multi-compte (gestion d'un personnage pour le seul bénéfice d'un autre).
+
+#autobanned
+Vous avez été banni de ce serveur par le systeme automatique d'anti-triche.
+
+#modbanned
+Vous avez été manuellement banni de ce serveur par son admin.
+
+#insuf_funds
+Fonds insuffisants!
+
+#trtybrk_load
+Vérifictation des traités en cours...
+
+#trtybrk_none
+Aucun traité ne sera brisé par cette action.
+
+#trtybrk_warn
+ATTENTION! Cette action déclenchera la rupture des traités suivants:
+
+#ui_menubdg_prio
+Priorité
+
+#sc_menubdg_prio_c1
+Selectionnez le niveau de priorité de ce batiment pour le stockage de nouvelles resources.
+
+#ui_menubdg_stck_wlth_c1
+Richesse stockée
+
+#ui_menubdg_stck_wlth_c2
+Les ressources actuellement stockées dans ce bâtiment contribuent de [x] à la richesse totale du territoire.
+
+#ui_menubdg_stck_wlth_c3
+La richesse stockée est la somme de la richesse de base de toutes les ressources qui y sont entreposées. La richesse de base d'une ressource est une constante basée sur la quantité de travail nécéssaire pour la produire.
+
+#ui_regwlth_tot
+Richesse totale
+
+#ui_regwlth_tot_c1
+Richesse effective du territoire partagée ensuire par tous les actifs en fonction de leurs revenus en monnaies et qui determine leurs niveaux de richesse individuels et leurs pouvoirs d'achat.
+
+#ui_regwlth_prod
+Richesse produite
+
+#ui_regwlth_prod_c1
+Total de richesse actuellement produite dans le territoire. Il s'agit de la somme de la richesse générée par tous les bâtiments productifs.
+
+#ui_regwlth_stck
+Richesse stockée
+
+#ui_regwlth_stck_c1
+Total de richesse des ressouces actuellement stockées dans le territoire (à noter que les ressources dans les stockages au sol non gardés sont ignorées).
+
+#ui_regwlth_mtl
+Monnaie représentative
+
+#ui_regwlth_mtl_c1
+Avec la monnaie représentative, les stocks de métaux précieux (Or et Argent) contribuent à la richesse de tous les territoires.
+
+#ui_regwlth_mtl_c2
+Les réserves actuelles fournissent un bonuns de +[x]% de richesse.
+
+#ui_regwlth_prv
+[x]% de privilèges
+
+#ui_regwlth_prv_c1
+Richesse détournée directement par les classes sociales privilégiées.
+
+#ui_regwlth_prv_c2
+[x]% d'une richesse totale de [y] = [z] détournés par les privilèges
+
+#ui_tradeordr_your
+Vos ordres à [x]
+
+#ui_tradeordr_in
+à [x]
+
+#ui_tradeordr_recur
+Ordre récurrent
+
+#ui_tradeordr_recur_c1
+Cliquez pour rendre cet ordre récurrent et déclenché automatiquement en fonction des stocks de cette ressource dans le territoire.
+
+#ui_tradeordr_stcktrg1
+...si les stocks sont inférieur à
+
+#ui_tradeordr_stcktrg2
+...si les stocks sont supérieur à
+
+#ui_tradeordr_instck
+En stock
+
+#ui_tradeordr_lclprc
+Prix local
+
+#ui_tradeordr_inc1
+Revenus bruts
+
+#ui_tradeordr_inc1_c1
+Revenus bruts minimaux qui seront réalisés pour cette offre en fonction de la quantité vendue et du prix minimum spécifié.
+
+#ui_tradeordr_inc2
+Part des producteurs locaux
+
+#ui_tradeordr_inc2_c1
+Si les ressources vendues sont privées, leurs propriétaires doivent être repayés au prix local et pour la quantité vendue.
+
+#ui_tradeordr_inc2_c2
+* Producteurs locaux possèdent [x] ressources au prix de [y]: +[z] monnaies
+
+#ui_tradeordr_inc2_c3
+* Impôts de [x]%: -[y] monnaies
+
+#ui_tradeordr_inc2_c4
+* Revenu effetif pour les producteurs locaux: [x] coins
+
+#ui_tradeordr_inc3
+Profits prévus
+
+#ui_tradeordr_inc3_c1
+Une prévision des profits net qui seront réalisés avec cette offre, en fonction de la situation actuelle.
+
+#ui_tradeordr_inc4
+Dépense maximale (caution)
+
+#ui_tradeordr_inc4_c1
+Dépense brute maximale prévue pour cet achat en fonction de la quantité achetée et du prix maximum spécifié. Prélevé de la trésorerie à l'avance pour assurer les fonds requis.
+
+#ui_tradeordr_inc5
+Revenus locaux potentiels
+
+#ui_tradeordr_inc5_c1
+Si les ressources achetées sont ensuite vendues localement, il s'agit des revenus prévisionnels qui seront générés basés sur le prix local actuel.
+
+#ui_tradeordr_inc6
+Profits prévus
+
+#ui_tradeordr_inc6_c1
+Une prévision des profits attendus si toutes les ressources achetées sont ensuite vendues sur le marché local.
+
+#ui_tradeordr_inc7
+Gaspillage de [x]%
+
+#ui_tradeordr_inc7_c1
+Estimation des profits qui seront perdus par Gaspillage, basée sur le taux actuel de [x]% dans le territoire.
+
+#ui_tradeordr_prc1
+Prix d'achat maximum. Si des offres de ventes sont disponibles à un prix plus bas, elles seront remplies en priorité générant plus de revenus que prévu.
+
+#ui_tradeordr_prc2
+Prix de vente minimum. Si des offres d'achats sont disponibles à un prix plus élevé, elles seront remplies en priorité générant plus de revenus que prévu.
+
+#ui_tradeordr_quant
+Saisissez la quantité de resources à commercer pour cette offre.
+
+#ui_tradeordr_trdsrvcav
+Cette offre requiert [x] de Négoce. Vous en avez actuellement[y] de disponible.
+
+#ui_tradeordr_cant
+Cette ressource ne peut pas être commercée!
+
+#ui_tradeordr_showall
+Toutes les resources
+
+#ui_tradeordr_showall_c1
+Afficher tout vos ordres de commerce pour ce territoire, toutes ressources confondues.
+
+#ui_tradeordr_allreg
+Pour tout les territoires
+
+#ui_tradeordr_allreg_c1
+Afficher l'historique de tout vos territoires combinés plustôt qu'uniquement le territoire actuellement séléctionné.
+
+#ui_tradeordr_nocoin
+Trésorerie insuffisante pour passer cet ordre.
+
+#ui_tradeordr_nostck1
+Ressources en stock insuffisantes pour executer cet ordre.
+
+#ui_tradeordr_nostck2
+Impossible de placer un ordre de vente d'une quantité supérieure au stock de déclenchement.
+
+#ui_tradeordr_priclmt1
+Cet ordre entre en conflit avec un ordre de vente du meme territoire au prix de [x].
+
+#ui_tradeordr_priclmt2
+Cet ordre entre en conflit avec un ordre d'achat du meme territoire au prix de [x].
+
+#ui_tradeordr_trdsrvc_c1
+Le service de Négoce est produit par les Marchés et requis pour passer et maintenir des ordres au sein de votre réseau commercial.
+
+#ui_tradeordr_trdsrvc_c2
+* Vos Marchés présentement en fonction dans ce territoire produisent [x] de Négoce.
+
+#ui_tradeordr_trdsrvc_c3
+* Vos ordres actuels monopolisent [x] de Négoce.
+
+#ui_tradeordr_trdsrvc_c4
+* Il vous reste [x] de Négoce disponible pour de nouveaux ordres.
+
+#ui_tradeordr_butn_c1
+Achat de [x] de [y] au prix maximum de [z] monnaies par ressource.
+
+#ui_tradeordr_butn_c2
+Achat récurrent de [x] de [y] au prix maximum de [z] monnaies par ressource quand les stocks sont inférieurs à [v].
+
+#ui_tradeordr_butn_c3
+Vente de [x] de [y] au prix minimum de [z] monnaies par ressource.
+
+#ui_tradeordr_butn_c4
+Vente récurrente de [x] de [y] au prix minimum de [z] monnaies quand les stocks atteignent [v].
+
+#ui_tradeordr_butn_c5
+Cet ordre est actuellement inactif. Il se déclenchera automatiquement si les stocks de [x] atteignent [y] dans le territoire.
+
+#ui_tradeordr_butn_c6
+Cet ordre est actuellement actif. Il sera annulé automatiquement si les stocks de [x] passent en dessous de [y] dans le territoire (stock déclencheur de [z] -taille de l'ordre de [v]).
+
+#ui_tradeordr_butn_c7
+Cet ordre est actuellement inactif. Il se déclenchera automatiquement si les stocks de [x] passent en dessous de [y] dans le territoire.
+
+#ui_tradeordr_butn_c8
+Cet ordre est actuellement actif. Il sera annulé automatiquement si les stocks de [x] atteignent [y] dans le territoire (stock déclencheur de [z] +taille de l'ordre de [v]).
+
+#ui_tradeordr_shwinctv
+Afficher les ordres inactifs
+
+#ui_tradeordr_shwinctv_c1
+Cliquez pour activer l'affichage des ordres récurrents inactifs.
+
+#ui_tradeordr_butn_c9
+Offre sur [x], par [y] de [z] ([v])
+
+#ui_tradeordr_butn_c10
+Offre sur [x], par vous
+
+#ui_tradebook_title
+Carnet d'ordres
+
+#ui_tradebook_buy
+Meilleur achat
+
+#ui_tradebook_sell
+Meilleure vente
+
+#ui_tradebook_buyd
+Profondeur
+
+#ui_tradebook_selld
+Profondeur
+
+#ui_tradebook_nosell
+Aucune offre dans votre réseau commercial!
+
+#ui_tradebook_nobuy
+Aucune demande dans votre réseau commercial!
+
+#ui_tradebook_noofr
+Aucun ordre ouvert dans ce territoire.
+
+#ui_tradebook_nbuy_c1
+Placer un ordre d'achat unique pour [x] de [y] au prix maximum de [z] monnaies.
+
+#ui_tradebook_nbuy_c2
+[x] monnaies seront immédiatement prélevées de votre trésorerie et réservées pour cet ordre. Si l'ordre est satisfait a un prix inferieur ou annulé, les fonds excedentaires seront rétribués à votre trésorerie.
+
+#ui_tradebook_nbuy_c3
+Placer un ordre récurrent d'achat pour [x] de [y] au prix maximum de [z] monnaies chaque fois que les stocks du territoire sont inférieurs à [v].
+
+#ui_tradebook_nbuy_c4
+* S'active lorsque le territoire passe en dessous de [x] de [y].
+
+#ui_tradebook_nbuy_c5
+* Se désactive lorsque le territoire atteind [x] de [y].
+
+#ui_tradebook_nsell_c1
+Placer un ordre de vente unique pour [x] de [y] au prix minimum de [z] monnaies.
+
+#ui_tradebook_nsell_c2
+[x] de [y] seront immédiatement prélevés de vos stocks et réservés pour cet ordre.
+
+#ui_tradebook_nsell_c3
+Placer un ordre récurrent de vente pour [x] de [y] au prix minimum de [z] monnaies chaque fois que les stocks du territoire atteignent [v].
+
+#ui_tradebook_nsell_c4
+* S'active quand le territoire atteind [x] de [y].
+
+#ui_tradebook_nsell_c5
+* Se désactive quand le terrioitre passe en dessous de [x] de [y].
+
+#ui_tradehist_ttle
+Historique
+
+#ui_tradehist_ttle_c1
+Historique commercial du territoire de [x], sur [y].
+
+#ui_tradehist_but_c1
+Il y a [x], à [y]:
+
+#ui_tradehist_but_c2
+Vous avez acheté [x] de [y] à [z] au prix de [v].
+
+#ui_tradehist_but_c3
+Vous avez vendu [x] de [y] à [z] au prix de [v].
+
+#ui_tradehist_but_c4
+* Revenu brut: +[x] monnaies
+
+#ui_tradehist_but_c5
+* Producteurs locaux: -[x] monnaies
+
+#ui_tradehist_but_c6
+* Profit & Taxes: [x] monnaies
+
+#ui_tradehist_but_c7
+* Coût total: [x] monnaies
+
+#ui_tradehist_but_c8
+* Gaspillage: -[x] coins
+
+#menu_res_gen
+Général
+
+#menu_res_wealth_c1
+La richesse de base de ce type de ressource. Il s'agit d'une constante indépendante du prix de la ressource sur les marchés, basée sur la quantité de travail requise pour la produire.
+
+#menu_res_wealth_c2
+Quand elle est stockée en entrepôts gardés, chaque unité contribue de [x] à la richesse totale du territoire.
+
+#menu_res_trd
+Commerce
+
+#menu_res_trd2
+Commercer
+
+#ui_tradehist_tots
+Total des ventes
+
+#ui_tradehist_tots_c1
+Total des ventes depuis [x].
+
+#ui_tradehist_totb
+Total des achats
+
+#ui_tradehist_totb_c1
+Total des dépense depuis [x].
+
+#ui_tradehist_prtnr
+Meilleur partenaire
+
+#ui_tradehist_bs
+leurs achats: [x], ventes: [y]
+
+#ui_tradentwk_title
+Meilleures offres
+
+#ui_tradentwk_title_c1
+Meilleures offres disponibles dans votre réseau commercial, pour chaque ressource.
+
+#ui_tradentwk_bst_c1
+* Meilleure achat: [x] monnaies
+
+#ui_tradentwk_bst_c2
+* Meilleure vente: [x] monnaies
+
+#ui_tradentwk_bst_c3
+* Aucune offre d'achat.
+
+#ui_tradentwk_bst_c4
+* Aucune offre de vente.
+
+#ui_tradentwk_bst_c5
+en stock: [x], prix local: [y]
+
+#ui_tradentwk_prof
+Profitables uniquement
+
+#ui_tradentwk_prof_c1
+Ne lister que les resources dont les meilleures offres sont profitables par rapport au prix local dans ce territoire:
+
+#ui_tradentwk_prof_c2
+Si le meilleur achat est supérieur ou égal au prix local, ou si la meilleure vente est inférieure ou égale au prix local.
+
+#menu_res_trdfrm
+Depuis...
+
+#menu_res_trdfrm_c1
+Selectionner le territoire de destination à considerer pour le commerce avec [x].
+
+#button_opertrt_c1
+Opère une route commerciale entre [x] de [y] et [z] de [v].
+
+#button_opertrt_c2
+* utilise [x] de cargo au prix de [y]: [z] monnaies
+
+#button_opertrt_c3
+* achat du cargo au prix local: -[x] monnaies
+
+#button_opertrt_c4
+* profit de l'opération: [x] monnaies
+
+#button_routeitem_c1
+Importe [x] de [y] au prix de [z] depuis [v], pour un volume de [w] de cargo.
+
+#button_routeitem_c2
+Acheté à la route commerciale au prix de [x] pour [y] monnaies et revendu actuellement dans [y] au prix de [v] pour [w] monnaies.
+
+#button_routeitem_c3
+Exporte [x] de [y] au prix de [z] vers [v], pour un volume de [w] de cargo.
+
+#button_routeitem_c4
+Acheté aux producteurs locaux au prix de [x] pour [y] monnaies et revendu actuellement à la route commerciale pour [z] au prix de [v] pour [w] monnaies.
+
+#button_routeownr
+Propriétaire de la route
+
+#button_routeownr_c1
+Le propriétaire de la route commercial est celui qui a initiallement commandé l'ouverture de la route, et il est le seul a en payer le Cargo ainsi qu'a pouvoir choisir l'opérateur.
+
+#button_routeresedit_1
+Il s'agit d'une route commerciale avec un tiers: vous n'êtes authorisé qu'à réduire la quantité commercée.
+
+#button_routeresedit_2
+Il s'agit d'une route commerciale entièrement sous votre contrôle et vous pouvez réduire aussi bien qu'augmentée la quantité commercée.
+
+#srvr_restart
+Attention: Redémarrage journalier automatique du serveur dans [x]!
+
+#srvr_decorstrt
+Le serveur est en train de redémarrer et sera à nouveau en ligne dans quelques minutes.
+
+#ui_char_notblk
+Cliquez pour bloquer ce personnage.
+
+#ui_char_isblk
+Cliquez pour débloquer ce personnage.
+
+#ui_char_nowblk
+Ce personnage est désormais bloqué.
+
+#ui_char_nowunblk
+Ce personnage n'est plus bloqué.
+
+#ui_char_blk_dscr_1
+Bloquer masque tous les chats, messages, et chroniques de ce personnage.
+
+#ui_char_blk_dscr_2
+Cela remplace également tous les noms de territoires par des noms automatiques.
+
+#ui_govcltr_civpt_c1
+Vous avez actuellement [x] Points de Civilisation disponibles pour débloquer de nouveaux traits culturels.
+
+#ui_govcltr_civpt_dscr_1
+Les Points de Civilisation vous permettent de customiser et spécialiser votre culture en les dépensant dans différentes catégories débloquant divers choses tels que la consommation et la production de nouvelles ressources, des traits comportementaux aux effets variés, ou encore la modification de votre style architectural.
+
+#ui_govcltr_civpt_dscr_2
+Ces points sont gagnés principalement par la production de Culture d'Etat dans tout vos territoires, mais ils peuvent également être gagnés via des projets et des missions.
+
+#ui_govcltr_civpt_dscr_3
+Ces points ne peuvent pas être récupérés apres utilisation: choisissez prudemment! 
+
+#ui_govcltr_civpt_use_c1
+Vous avez investi [x] points sur un total de [y] gagnés jusqu'a présent.
+
+#ui_govcltr_lvl
+Niveau Culturel
+
+#ui_govcltr_lvl_c1
+votre niveau culturel est de [x].
+
+#ui_govcltr_lvl_c2
+Pour chaque niveau, vous gagnez un Point de Civilisation suplémentaire.
+
+#ui_govcltr_nxtlvl
+Prochain niveau
+
+#ui_govcltr_xpbar_c1
+Vous devez générer [x] de Culture d'Etat pour atteindre le prochain Niveau Culturel.
+
+#ui_govcltr_xpbar_c2
+Vous générez actuellement [x] de Culture d'Etat [y] sur tout vos territoires.
+
+#ui_govcltr_xpbar_dscr_1
+Le moyen principal d'obtenir de nouveaux Point de Civilisation est d'augmenter votre Niveau Culturel: pour chaque niveau vous gagnez un nouveau point.
+
+#ui_govcltr_xpbar_dscr_2
+votre Niveau Culturel augmente en produisant de la Culture d'Etat dans tout vos territoires. Chaque nouveau niveau demande plus de culture que le précédent.
+
+#ui_formmove_blckd
+Le mouvement à été annulé car des unités hostiles étaient présentes sur le chemin!
+
+#ui_rveal_res
+Nous avons découvert du [x] à [y]!
+
+#ui_cltr_customs
+USAGES CULTURELS
+
+#ui_custom_dscr
+Usages représentant la pratique culturelle de votre population de consommer un type particulier de ressource. Les usages activent la demande pour cette ressource, permettant sa vente et consommation par votre population.
+
+#ui_cltr_skills
+SAVOIR-FAIRE CULTURELS
+
+#ui_skills_dscr
+Les savoir-faire culturels vous permettent de débloquer la production de nouvelles ressources et de vous spécialiser en améliorant l'efficacité et la qualité de production de certaines ressources.
+
+#ui_custom_new
+Selectionnez une nouvelle ressource
+
+#ui_cltr_traitfx
+Effet du trait
+
+#ui_pass_custom
+ADOPTER CE TRAIT
+
+#ui_pass_custom_c
+Cliquez pour dépenser [x] Points de Civilisation et adopter ce trait culturel.
+
+#ui_rvq_custom
+REVOQUER CE TRAIT
+
+#ui_rvq_custom_c1
+Cliquez pour révoquer ce trait culturel et récuperer son coût en Points de Civilisation.
+
+#ui_rvq_custom_c2
+Vous ne pouvez révoquer qu'un seul trait a la fois, et ce processus est long ([x]).
+
+#resprop_distrib
+Peut être vendu et consommé par la population
+
+#resprop_need
+Satisfait le besoin en '[x]' de la population
+
+#resprop_farm
+Cultivable
+
+#resprop_cltr
+[x] de Culture d'Etat par consommation
+
+#resprop_admin
+[x] d'Administration
+
+#resprop_statepwr
+[x] de Pouvoir d'Etat
+
+#resprop_health
+[x] de Santé
+
+#resprop_intel
+[x] d'Intelligance
+
+#resprop_conflict
+[x]% de Conflit
+
+#resprop_waste
+[x]% de Gaspillage
+
+#resprop_oncons
+par unité consommée
+
+#resprop_onprod
+par unité produite
+
+#resprop_nocustom
+Usage culturel non requis
+
+#resprop_noskill
+Savoir-Faire non requis pour la production
+
+#ui_cltr_cp_dscr
+Ces points vous permettent de personnaliser votre culture via des Traits Culturels.
+
+#ui_cltr_cp_use
+Utilisation actuelle
+
+#ui_cltr_cp_use_c
+Vous utilisez actuellement [x] Points de Civilisation sur un total disponible de [y].
+
+#ui_cltr_lvl
+Niveau Culturel
+
+#ui_cltr_lvl_dscr_1
+La Culture d'Etat actuellement produite par tous vos territoires incrémente votre progrès vers votre prochain niveau culturel.
+
+#ui_cltr_lvl_dscr_2
+Vous gagnez 1 nouveau Point de Civilisation chaque fois que vous passez un niveau culturel.
+
+#ui_cltr_nxtlvl
+Prochain niveau (dans [x])
+
+#ui_cltr_cstm_nores
+[Aucune disponible]
+
+#ui_cltr_cstm_nores_dscr
+Il n'y a actuellement aucune nouvelle ressource disponible à adopter!
+
+#ui_cltr_xpbar_c1
+Vous avez accumulé [x] d'experience sur un total de [y] requis pour le prochain niveau.
+
+#ui_cltr_xpbar_c2
+Vous produisez actuellement [x] d'experience culturelle [y].
+
+#ui_cltr_xpbar_c3
+Production totale de Culture [x] / [y] de population * 1000 =  +[z]
+
+#ui_cltr_cantadd
+Ce Trait ne peut pas être ajouté!
+
+#ui_cltr_alrdrvq
+Vous ne pouvez révoquer qu'un seul Trait à la fois!
+
+#ui_cltr_nocivpt
+Vous n'avez pas suffisemment de Points de Civilisation pour adopter ce nouveau Trait!
+
+#ui_cltr_rescons
+Consommation de [x]
+
+#ui_cltr_resprod
+Production de [x]
+
+#ui_cltr_resqual
+Expertise en [x]
+
+#ui_cltr_resprod_0
+La production de cette resource n'est pas disponible.
+
+#ui_cltr_resprod_1
+Permet la production de cette resource
+
+#ui_cltr_resprod_2
+Vitesse de production [x]%
+
+#ui_cltr_resprod_3
+Matériaux requis [x]%
+
+#ui_cltr_resprod_4
+Production des sources naturelles [x]%
+
+#ui_cltr_resqual_1
+Qualité de production de base [x]
+
+#ui_cltr_newcons
+Nous avons adopté la consommation de [x]!
+
+#ui_cltr_newprod
+Nous avons developpé le savoir-faire de [x]!
+
+#ui_cltr_devprod
+Nous avons amélioré notre savoir-faure de [x] au niveau [y]!
+
+#ui_cltr_newtrait
+Nous avons adopté un nouveau trait culturel: '[x]'!
+
+#ui_warninacess_bdgs
+Attention: [x] bâtiments sont rendus inacessibles et seront désactivés à moins que l'accès soit immédiatement restauré!
+
+#ui_warninacess_infra
+Attention: [x] infrastructures sont rendues inacessibles et seront détruites à moins que l'accès soit immédiatement restauré!
+
+#ui_prodskill_unlock
+débloquer
+
+#ui_prodskill_imprv
+améliorer
+
+#ui_cnfrm_trait_add
+Etes-vous sûr de vouloir dépenser [x] Points de Civilisation pour activer le Trait '[y]'?
+
+#ui_cnfrm_trait_rvk
+Etres-vous sûr de vouloir entammer la révocation de ce Trait? Ce processus est long et ne peut être annulé une fois commencé.
+
+#pol_info_replpol
+Remplace politique: '[x]'
+
+#pol_info_reqpol
+Requiert politique active: '[x]'
+
+#pol_info_reqbdg
+Bâtiment dans la capitale: '[x]'
+
+#pol_info_cantpass
+Impossible d'activer cette politique car vous ne remplissez pas ses conditions.
+
+#pol_info_rvk_cflct
+[x] de Conflit si révoqué
+
+#pol_info_rvk_loyal
+[x] de Loyauté si révoqué
+
+#ui_movecaptl_1
+Déplacement de Capitale
+
+#ui_movecaptl_2
+Êtes vous certain de vouloir faire de ce territoire votre nouvelle capitale et d'y transferer votre gouvernement? Notez que si des bâtiments gouvernementaux manquent dans cette nouvelle capitale, les Politiques qui en sont dépendentes seront désactivées!
+
+#ui_money_1_typename
+Travail communautaire
+
+#ui_money_1_dscr
+En éconmie de dons, il n'existe pas de monnaie et les villageois partagent leur temps entre leur activité personelle et les tâches communautaires. Cette force de travail disponible à la communauté est ce qui limite la gestion du village.
+
+#ui_money_2_typename
+Troc
+
+#ui_money_2_dscr
+En économie de troc, les biens sont échangés directement selon leurs valeurs respectives sans intermédiaire. Les biens appartenant au gouvernement sont utilisés comme monnaie pour payer les dépenses nécéssaires à sa gestion.
+
+#ui_money_3_typename
+Monnaie de commodité
+
+#ui_money_3_dscr
+La valeur des biens est mesurée en unités de compte basées sur des commodités fiables et durables telles que des lingots de métaux, permettant le stockage et l'échange indirect de valeur. 
+
+#ui_money_4_typename
+Pièces de monnaie
+
+#ui_money_4_dscr
+La monnaie est standardisée sous forme de pièces de monnaie métalliques frapées du sceau du gouvernement authentifiant leur validité et leur valeur. Elle est ainsi sous le contrôle exclusif de l'Etat.
+
+#ui_curmoney
+Monnaie: [x]
+
+#ui_curmoney_c1
+La forme principale de monnaie utilisée actuellement dans votre société.
+
+#ui_polcantrmv
+Impossible de révoquer cette politique car elle est actuellement requise par une politique par défaut!
+
+#ui_availcomwork
+Travail communautaire disponible
+
+#ui_insuffcomwrk
+Travail communautaire disponible insuffisant!
+
+#msg_spotherd
+Un troupeau de [x] à été repéré près de [y]!
+
+#msg_formscav_fail
+Notre formation n'a rien collecté d'utile.
+
+#msg_formscav_res
+Notre formation a collecté [x] de [y].
+
+#ui_reginf_nvprospct
+Non prospecté!
+
+#ui_reginf_prospect
+Ressources connues:
+
+#ui_reginf_sinceprspct
+Temps passé depuis la dernière prospection de ce territoire.
+
+#msg_territxploit_cooldwn
+Ce territoire ne peut pas être exploité à nouveau avant [x].

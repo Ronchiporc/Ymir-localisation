@@ -70,6 +70,15 @@ Joining the [x]
 #agrim_vassal_3
 [x] will join the nation of [y].
 
+#agrim_fvassal_1
+Subjugated
+
+#agrim_fvassal_2
+Subjugated by the [x]
+
+#agrim_fvassal_3
+[x] will be subjugated by the nation of [y].
+
 #agrim_war_1
 Declare war to...
 
@@ -128,7 +137,7 @@ Give idea for [x]
 State power cost to maintain this treaty
 
 #treaty_coinpen
-Coins penalty
+Financial penalty
 
 #treaty_coinpen_c1
 % of GDP transfered as penalty if [x] breaks this treaty,
@@ -177,3 +186,6 @@ National defensive pact
 
 #diplo_ndef_dscr_1
 Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
+
+#treaty_nocls
+(breaking clauses are not effective because the other party is currently inactive)

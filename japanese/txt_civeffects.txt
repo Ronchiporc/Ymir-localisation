@@ -1,20 +1,20 @@
 #civfx_inc_n
-豚収入
+収入
 
 #civfx_inc_dscr
-動的な豚資産のロックを解除
+動的な資産のロックを解除
 
 #civfx_price_n
 動的価格
 
 #civfx_price_dscr
-資源と貴重品は、豚需要と供給に基づいて動的な価格を持っています
+資源と貴重品は、需要と供給に基づいて動的な価格を持っています
 
 #civfx_autodist_n
 自動配給
 
 #civfx_autodist_dscr
-全ての資源はすべての豚が好きに利用できます、 そのため卸売業者等は必要ありません
+全ての資源は、すべての豚が自由に利用できます。 そのため商店等は必要ありません
 
 #civfx_bdgeff_n
 施設効率
@@ -23,19 +23,19 @@
 施設の効率
 
 #civfx_conflict_n
-豚の社会情勢
+社会情勢
 
 #civfx_conflict_dscr
-豚の社会情勢補正
+社会情勢補正
 
 #civfx_stress_n
-豚のストレス
+ストレス
 
 #civfx_stress_dscr
 豚が受けるストレス補正
 
 #civfx_paidmat_n
-有料資料
+材料調達費
 
 #civfx_paidmat_dscr
 州は現在の市場価格で消費する材料の代金を支払わなければならない
@@ -44,13 +44,13 @@
 押収品
 
 #civfx_seizem_dscr
-有料の資料が有効な場合は、州から支払われるのではなく、すべてまたは一部の資料が無料で差し押さえられます。
+材料調達費が有効な場合は、州から支払われるのではなく、すべてまたは一部の資料が無料で差し押さえられます。
 
 #civfx_seizem_set
 押収率
 
 #civfx_seizem_setd
-あなたがつかむことを望む材料の価格のパーセントを設定する
+獲得したい材料の価格の割合を設定します。
 
 #civfx_territ_n
 州の領地
@@ -65,7 +65,7 @@
 領地内の豚全ての所得に適用される税
 
 #civfx_inctax_set
-所得税パーセント
+所得税率
 
 #civfx_inctax_setd
 課税される所得の割合を設定します
@@ -86,7 +86,10 @@
 首長の特権
 
 #civfx_leadwlth_dscr
-指導者は特権として領地の資本の一部を得る
+指導者は特権として領地の収入の一部を得る
+
+#civfx_leadwlth_actv
+[x]%のリーダー権限
 
 #civfx_leadwlth_set
 指導者特権
@@ -104,7 +107,7 @@
 首長給与
 
 #civfx_leadsal_setd
-コインの給与額
+コインでの給与額
 
 #civfx_nobwlth_n
 貴族特権
@@ -137,7 +140,7 @@
 州の労働者は特権として領地の資本の一部を取得します
 
 #civfx_offwlth_set
-ステートワーカー特権
+州の労働者の特権
 
 #civfx_offwlth_setd
 州の労働者に特権として与えられた領地の資本の割合
@@ -152,25 +155,25 @@
 州の労働者の給与
 
 #civfx_offsal_setd
-コインの給与額
+コインでの給与額
 
 #civfx_capadmin_n
 資本管理
 
 #civfx_capadmin_dscr
-首都の管理を変更する
+首都の管理力を変更する
 
 #civfx_cityadmin_n
 市政
 
 #civfx_cityadmin_dscr
-各都市の管理を変更する
+各都市の管理力を変更する
 
 #civfx_regadmin_n
-支配地登録
+支配地管理
 
 #civfx_regadmin_dscr
-全ての地域の管理を変更する
+全ての地域の管理力を変更する
 
 #civfx_caplead_n
 首都
@@ -215,28 +218,28 @@
 貯蔵庫内の貴金属（金と銀）の各ユニットごとに全地域の資本を増加させる
 
 #civfx_modhap_n
-豚幸せ
+人口の幸福度
 
 #civfx_modhap_dscr
-豚幸せを変える
+人口の幸福度を変更
 
 #civfx_happy_n
-豚幸せ
+人口の幸福度
 
 #civfx_happy_dscr
-豚幸せを変える
+人口の幸福度を変更
 
 #civfx_enmerch_n
 商人
 
 #civfx_enmerch_dscr
-豚に資源を売ることができる商人の使用を許可します
+資源を売ることができる商人の使用を許可します
 
 #civfx_entrout_n
 貿易路
 
 #civfx_entrout_dscr
-地域間の恒久的な貿易路を作成することができます
+国家間の継続的な貿易路を作成することができます
 
 #civfx_legitprt_n
 豚達の保護者

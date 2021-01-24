@@ -1,5 +1,4 @@
-﻿
-#pop_inactive
+﻿#pop_inactive
 Inaktiv
 
 #pop_hunter
@@ -16,6 +15,9 @@ Holzfäller
 
 #pop_miner
 Bergleute
+
+#pop_metal
+Metallurgen
 
 #pop_blacksm
 Schmiede
@@ -45,7 +47,7 @@ Beamte
 Wachen
 
 #pop_build
-Bauherren
+Baumeister
 
 #pop_archi
 Architekten
@@ -60,7 +62,7 @@ Philosophen
 Adlige
 
 #pop_lead
-Leiter
+Anführer
 
 #pop_piglet
 Ferkel
@@ -70,7 +72,3 @@ Säue
 
 #pop_old
 Altschweine
-
-#pop_metal
-Metallbauer
-

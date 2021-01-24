@@ -2,10 +2,10 @@
 単位
 
 #u_porco
-豚
+オス豚
 
 #u_sow
-雌豚
+メス豚
 
 #u_piglet
 子豚
@@ -13,6 +13,8 @@
 #u_oldpig
 老豚
 
+#u_carrier
+キャリアー
 #u_warrior
 戦士
 
@@ -21,6 +23,7 @@
 
 #u_swordpig
 剣豚
+
 #u_swordboar
 剣猪
 
@@ -40,13 +43,13 @@
 インモータル
 
 #u_voulger
-ボウル
+ボルジャー
 
 #u_warhog
-イボ猪
+ウォーホッグ
 
 #u_battleswine
-バトルワイン
+バトルスワイン
 
 #u_baconeer
 ベーコニア
@@ -70,10 +73,10 @@
 騎豚
 
 #u_cataphract
-重騎豚
+カタフラクト
 
 #u_pigatarms
-強靭な豚
+近接歩兵
 
 #u_mntdarcher
 ホースボー
@@ -82,19 +85,19 @@
 ラクダ騎豚
 
 #u_camephract
-Camephract
+キャメフラクト
 
 #u_camelier
-ラクダ操豚
+キャメリア
 
 #u_camelbow
-ラクダ弓豚
+キャメルボウ
 
 #u_stomper
-ストンパ
+ストンパー
 
 #u_cubiphant
-立方体
+キュービファント
 
 #u_crusher
 クラッシャー
@@ -145,7 +148,7 @@ Camephract
 山羊
 
 #u_chicken
-鶏
+ニワトリ
 
 #u_llama
 ラマ
@@ -188,3 +191,9 @@ Camephract
 
 #u_rockthrower
 投石豚
+
+#u_frag_palentir
+パレンティールの欠片
+
+#u_palentir
+パレンティール

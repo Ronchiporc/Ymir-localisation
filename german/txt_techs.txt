@@ -12,7 +12,7 @@ Es wird hergestellt, indem ein Tonkörper zu Objekten einer gewünschten Form ge
 Sedentismus
 
 #tech_sedent_dscr_1
-Die Praxis, dauerhaft an einem Ort zu leben. 
+Die Praxis, dauerhaft an einem Ort zu leben.
 
 #tech_eldcncl
 ältestenrat
@@ -72,13 +72,13 @@ Wir haben jetzt ein universelles Regelwerk, um zu definieren, was in unserer Ges
 Tausch
 
 #tech_barter_dscr_1
-Die Menschen werden nun Waren mit gleichwertigen Werten handeln, anstatt Dienstleistungen zu "verschenken", während sie spätere Rückzahlungen erwarten. Dies reduziert Konflikte zwischen größeren Gemeinschaften, die sich nicht gegenseitig im Auge behalten können.
+Die Schweine werden nun Waren mit gleichwertigen Werten handeln, anstatt Dienstleistungen zu "verschenken", während sie spätere Rückzahlungen erwarten. Dies reduziert Konflikte zwischen größeren Gemeinschaften, die sich nicht gegenseitig im Auge behalten können.
 
 #tech_currcy
 Währung
 
 #tech_currcy_dscr_1
-Die Wahl eines gemeinsamen Rohstoffs, wie z.B. Metallbarren, um alle Börsen zu errichten, was den Handel erleichtert und die Lagerung und Messung des Vermögens erleichtert. 
+Die Wahl eines gemeinsamen Rohstoffs, wie z.B. Metallbarren, um alle Börsen zu errichten, was den Handel erleichtert und die Lagerung und Messung des Vermögens erleichtert.
 
 #tech_coing
 Münzprägung
@@ -114,7 +114,7 @@ Wir verwenden jetzt von Tieren gezogene Rollwagen, um große Mengen an Ladung zu
 Kräuterkunde
 
 #tech_herb_dscr_1
-Das Studium von Pflanzen, Früchten und Wurzeln und deren Auswirkungen auf den Menschen, um Krankheiten und andere Leiden des Fleisches zu heilen.
+Das Studium von Pflanzen, Früchten und Wurzeln und deren Auswirkungen auf das Schwein, um Krankheiten und andere Leiden des Fleisches zu heilen.
 
 #tech_pictgrm
 Piktogrammbeschriftung
@@ -135,7 +135,7 @@ Ausbildung
 Der Prozess der Erleichterung des Lernens und der Vermittlung von Wissen, Traditionen, Fähigkeiten, Werten, überzeugungen und Gewohnheiten.
 
 #tech_diagnos_dscr_1
-Der Prozess der Bestimmung, welche Krankheit oder welcher Zustand die Symptome und Anzeichen einer Person erklärt. 
+Der Prozess der Bestimmung, welche Krankheit oder welcher Zustand die Symptome und Anzeichen einer Person erklärt.
 
 #tech_academ_dscr_1
 Institutionen des Hochschulwesens und der Forschung.
@@ -174,7 +174,7 @@ Ein Zweig der Mathematik, der sich mit Fragen der Form, Größe, relativen Posit
 Messtechnik
 
 #tech_metrolog_dscr_1
-Die Verwendung von standardisierten Maßeinheiten für Dinge wie Entfernungen, Volumen oder Gewichte. 
+Die Verwendung von standardisierten Maßeinheiten für Dinge wie Entfernungen, Volumen oder Gewichte.
 
 #tech_engineer
 Ingenieurwesen
@@ -279,7 +279,7 @@ tech_quarr_dscr_1
 tech_quarrhv_dscr_1
 
 #tech_builders
-Bauherren
+Baumeister
 
 #tech_builders_dscr_1
 tech_builders_dscr_1
@@ -504,7 +504,7 @@ Befreundete Wildwölfe, um die Porcos bei ihren täglichen Aufgaben zu unterstü
 Tierfang
 
 #tech_animcaptr_dscr_1
-Wie man wilde Tiere fängt, zähmt und pflegt, um sie in Zeiten der Not als Nutztiere zu halten. 
+Wie man wilde Tiere fängt, zähmt und pflegt, um sie in Zeiten der Not als Nutztiere zu halten.
 
 #tech_animdom
 Tierzucht
@@ -516,7 +516,7 @@ Nachdem wir wissen, wie man sich um gefangene Tiere kümmert, wissen wir jetzt, 
 Tierhaltung
 
 #tech_animhusb_dscr_1
-Es scheint, dass wir durch selektive Zucht von Tieren mit gewünschten Verhaltensweisen und Eigenschaften diese verändern und neü Tiere entwickeln können, die mehr produzieren und freundlicher zu uns sind, viel anders als die wilden Originale. Wir haben sie domestiziert! 
+Es scheint, dass wir durch selektive Zucht von Tieren mit gewünschten Verhaltensweisen und Eigenschaften diese verändern und neü Tiere entwickeln können, die mehr produzieren und freundlicher zu uns sind, viel anders als die wilden Originale. Wir haben sie domestiziert!
 
 #tech_rotgraz
 Rotationsweiden
@@ -561,7 +561,7 @@ tech_paper_dscr_1
 Holzkohle
 
 #tech_charcoal_dscr_1
-Wie man Holzkohle aus Holz durch langsame Pyrolyse gewinnt: die Erwärmung von Holz ohne Sauerstoff. Holzkohle kann dann als Brennstoff eingesetzt werden, der effizienter ist als Holz, da sie viel mehr Wärme produziert! 
+Wie man Holzkohle aus Holz durch langsame Pyrolyse gewinnt: die Erwärmung von Holz ohne Sauerstoff. Holzkohle kann dann als Brennstoff eingesetzt werden, der effizienter ist als Holz, da sie viel mehr Wärme produziert!
 
 #tech_kiln
 Ofen
@@ -1012,4 +1012,10 @@ Trägerpresse
 
 #tech_furnitr
 Möbelherstellung
+
+#tech_column
+Säulen und Träger Gebäude
+
+#tech_column_dscr_1
+tech_column_dscr_1
 

@@ -48,22 +48,22 @@ Nous devons construire un camp de chasse près de toute source d'animaux sauvage
 Construire un camp de chasse pour chasser les animaux sauvages naturellement présents et produire de la viande.
 
 #msn3_o_2
-Allez dans votre territoire nouvellement installé. Dans les onglets de construction, sélectionnez le camp de chasse et scannez le terrain. La zone mise en évidence autour du bâtiment est sa portée. Les tuiles exploitables apparaissent en vert. Cherchez des animaux et placez le camp de chasse à portée pour qu'il produise de la viande.
+Allez dans votre territoire nouvellement installé. Dans les onglets de construction, sélectionnez le camp de chasse et scannez le terrain. La zone mise en évidence autour du bâtiment est sa portée. Les cases exploitables apparaissent en vert. Cherchez des animaux et placez le camp de chasse à portée pour qu'il produise de la viande.
 
 #msn4
-Rassemblement
+Cueillette
 
 #msn4_1
-Il semble qu'il y ait aussi des plantes dans le territoire qui produisent des légumes et des fruits que nous pouvons récolter pour nourrir la tribu.
+Il semble qu'il y ait également des plantes comestibles sur le territoire que nous pouvons récolter pour nourrir la tribu.
 
 #msn4_2
-Nous devons construire un camp de rassemblement près de toute source disponible de plantes comestibles sauvages que nous pouvons trouver dans notre nouveau territoire.
+Nous devons établir des camps de cueillette à proximité de toutes les sources disponibles de plantes comestibles sauvages que nous pouvons trouver sur notre nouveau territoire.
 
 #msn4_o_1
-Construire un camp de rassemblement pour exploiter les plantes comestibles et produire plus de nourriture.
+Construire un camp de cueillette pour exploiter les plantes comestibles et fournir plus de nourriture.
 
 #msn4_o_2
-Dans votre territoire nouvellement établi, dans les onglets du bâtiment, sélectionnez le camp de rassemblement et scannez le terrain. La zone mise en évidence autour du bâtiment est sa portée. Les tuiles exploitables apparaissent en vert. Cherchez des plantes comestibles et placez le campement à portée de la main pour qu'il puisse les récolter et produire de la nourriture.
+Dans votre territoire nouvellement établi, dans les onglets des bâtiments, sélectionnez le camp de cueillette et scannez le terrain. Les cases exploitables apparaissent en vert. Cherchez des plantes comestibles et placez le campement à proximité pour qu'il puisse les exploiter et fournir de la nourriture.
 
 #msn5
 Outils
@@ -303,3 +303,129 @@ Passez la politique "Échange équitable", dans l'onglet économique du menu gou
 #vmsn_cltr_o
 Soyez le premier à atteindre le niveau requis de culture d’État, tous territoires confondus.
 
+#msn_frsthnt
+Première chasse
+
+#msn_frsthnt_1
+Chasser les troupeaux itinérants rapporte bien plus de nourriture et de ressources que le gibier local permanent. Nous devrions organiser notre premiere chasse en rassemblant les guerriers du village pour les envoyer en expedition localiser et chasser un troupeau dans les terres environnantes. Cela ramenera moult butin au village, favorisant notre croissance et notre force!
+
+#msn_frsthnt_o_1
+Réussir une Chasse
+
+#msn_frsthnt_o_2
+Localiser un 'troupeau' dans les territoires environnants et completer l'action 'chasse' avec une formation de guerriers et porteurs.
+
+#msn_200pop
+Artisannat tribal
+
+#msn_200pop_1
+Vôtre peuple nouvellement sédentarisé n'étant désormais plus contraint de pouvoir porter sur soi toutes ses propriétés pour rester moblie, cela ouvre la voie à la possession des plus de richesses matérielles et au développement de nouveaux conforts pour mieux tirer parti de ce nouveau mode de vie. 
+
+#msn_200pop_2
+A mesure que la tribu croit, plus de gens impliquent plus de force de travaille disponible au développement de nouvelles compétences et connaissances.
+Maitriser de nouveaux artisannats sera nécéssaire à l'amélioration des conditions de vie du village, lui permettant ainsi de poursuivre sa croissance.
+
+#msn_200pop_o_1
+Maîtriser de nouvelles connaissances
+
+#msn_200pop_o_2
+Augmentez vôtre population et développez l'artisannat de Potterie et de Vêtements.
+
+#msn_palentfrg
+Les 7 artéfacts des cieux
+
+#msn_palentfrg_o_1
+Trouvez les 7 fragments de palentir et réunissez les dans vôtre capitale.
+
+#msn_palentfrg_o_2
+Disséminés sur toute la planète, ils peuvent être revendiqué par n'importe quelle formation. En contrôler un permet de voir la localisation de tous les autres. Obtenez le contrôle des 7 pièces et rassemblez les dans votre capitale pour reconstituer le Palentir et obtenir un grand pouvoir.
+
+#msn_agri
+Agriculture florissante
+
+#msn_agri_1
+L'agriculture est la fondation de toute civilisation et l'accomplissement du mode de vie sédentaire.
+Il est temps d'exploiter et developper nos terres pour correctement nourrir notre population croissante!
+
+#msn_agri_o_1
+Developper l'agriculture
+
+#msn_agri_o_2
+Developpez l'agricutlure dans votre village en construisant des greniers pour stocker votre nourriture plus éfficacement, en démarrant la culture des plantes locales, et en obtenant la maîtrise des techniques d'élevage.
+
+#msn_ldrship
+Prise du pouvoir
+
+#msn_ldrship_1
+La tribu est présentement dirigée de manière informelle par divers membres des différentes familles de la communauté sans aucune forme de hiérarchie officielle, générant ainsi de constants changements de pouvoir et de nombreux conflits. Une telle forme de gouvernance organique devient de plus en plus instable à mesure de la taille de la communauté augmente, et le besoin d'établir une autorité officielle et organisée devient une nécéssité croissante. Il est temps pour vôtre peuple d'accepter l'idée d'une hiérarchie officielle, faisant ainsi son premier pas vers l'établissement d'une gouvernance organisée.
+
+#msn_ldrship_2
+Obtenir la direction incontestée de votre peuple ne sera pas facile. Gouverner requiert de la force et il vous faudra de meilleurs guerriers pour récuriser vôtre pouvoir et éliminer la résistance d'opposants. Mais la force seule n'est pas suffisante, et il vous faudra persuader un maximum de membres influents de la tribu de soutenir vôtre revendication et de promettre loyauté et obéissance à votre famille. Assurément, tout le monde ne sera pas d'accord avec cette transition, et il faut vous préparer à faire face à des troubles internes une fois vôtre coup initié.
+
+#msn_ldrship_o_1
+Prise du pouvoir
+
+#msn_ldrship_o_2
+Offrez bijoux précieux et huttes confortables à divers membres influents de la tribu pour acheter leur loyauté tout en préparant des guerriers pour matter la rebellion de vos rivaux.
+
+#msn_ldrship_fx
+Déclenchera une rebellion immédiate des opposants à vôtre prise de pouvoir.
+
+#msn_chiefhut
+Une hutte pour le Chef
+
+#msn_chiefhut_1
+Maintenant que vos opposants ont été éliminés et que vous avez pris la direction de la tribu de manière indisputable, il est temps de concretiser en construisant une luxueuse hutte du Chef digne de votre nouveau statut qui servira également de lieu de gouvernance ou les affaires du village pourrons être discuttées et organisées.
+
+#msn_chiefhut_o_1
+Establissement du gouvernement
+
+#msn_chiefhut_o_2
+Construisez la hutte du Chef et passez la politique du Leadership.
+
+#msn_exp
+Expansion tribale
+
+#msn_exp_1
+Avec vôtre authorité désormais clairement établie au sein de la tribu, il est temps de considerer l'expansion vers de nouveaux territoires afin que notre peuple puisse poursuivre sa croissance avec de nouvelles terres et plus de ressources.
+Nous devrions préparer une expedition pour établir un nouveau camp avec les Porcos de notre village volontaires pour s'embarquer dans cette aventure. Ils auront besoin d'emporter avec eux nourriture, outils, et matériaux en quantité.
+
+#msn_exp_2
+S'ils réussissent, ils pourront commencer à établir leur propre village et notre peuple en ressortira plus puissant.
+Gérer plusieurs villages apportera ne nouveaux problemes, mais pourra également amener de nouvelles innovations.
+
+#msn_exp_o_1
+Etablir un deuxieme village
+
+#msn_exp_o_2
+Choisissez un territoire vide près de vôtre village interessant pour l'établiseement d'un nouveau village. Créez une formation de "Colons" et chargez la de nourriture, outils, et matériaux avant de lui donner l'ordre de s'établir sur le territoire qu'il faudra ensuite développer en un village auto-suffisant afin d'assurer la croissance de vôtre population totale vers un nouveau reccord.
+
+#msn_devmetl
+L'Age du Cuivre
+
+#msn_devmetl_1
+Avec la découverte de ces étranges roches malléables que l'on nomme désormais 'métaux', un nouvel age s'ouvre à nous. Ils peuvent être utilisé pour façonner de bien meilleurs outils et martellés en formes impossibles à obtenir avec des roches ordinaires.
+Nous devons tirer parti de cette découverte en sécurisant une source de minerais de cuivre et en développant sa production et celle des nouveaux outils qu'il permet de produire, pour soutenir le développement de notre peuple.
+
+#msn_devmetl_o_1
+Developpement de la métallurgie
+
+#msn_devmetl_o_2
+Sécurisez l'accès à une source de minerais de cuivre puis augmentez la production de cuivre et assurez une production conséquente de Haches par les artisans outilleurs.
+Secure a source of copper ore and scale up the production of Copper with smelting camps and a steady production of new Axes by tool makers.
+
+#msn_animbreed
+Une réserve de sécurité
+
+#msn_animbreed_1
+Nos chasseurs ne seront peut être pas toujours en mesure de trouver des hordes à chasser pour nourrire tout le monde.
+Maintenant que nous savons comment garder des animaux vivants à notre disposition dans notre propre village et comment d'en occuper jusqu'à ce qu'on en aie besoin, il est temps de capturer suffisemment de ces bêtes pour assurer la survie de notre tribu en cas de problèmes.
+
+#msn_animbreed_2
+Avec nos chasseurs désormais familiarisés avec les techniques de capture, nous devrions préparer des enclos gardés avant d'envoyer des expeditions capturer des animaux environnants dans le but d'en rammener suffisement d'encore vivants au village.
+
+#msn_animbreed_o_1
+Capturer des animaux
+
+#msn_animbreed_o_2
+Construisez des enclos et envoyez des expeditions de chasse effectuer des actions de capture sur les hordes environnantes pour les remplir.
