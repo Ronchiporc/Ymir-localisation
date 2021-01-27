@@ -1759,17 +1759,23 @@ du Pouvoir d'État
 #loyal_statepow_c1
 Le pouvoir d'État affecte la loyauté de tous les territoires.
 
+#loyal_prodtrib
+tributs de production
+
+#loyal_prodtrib_c1
+Les tributs de production mécontentent le peuple et réduisent sa loyauté envers l'État.
+
 #loyal_hightax
 impôts élevés
 
 #loyal_hightax_c1
-Lorsque la somme de toutes les taxes d'État dépasse 50%, cela commence à bouleverser les gens et à réduire leur loyauté envers l'État.
+Au delà d'un certain seuil, la somme des differentes taxes mécontente la population et réduit sa loyauté envers l'État.
 
 #loyal_prvldg
 privilèges
 
 #loyal_prvldg_c1
-Privilèges déranger les gens et réduire leur loyauté à l'État.
+Les privilèges de classe mécontentent le peuple et réduisent sa loyauté envers l'État.
 
 #loyal_autho
 autorité
@@ -1787,10 +1793,10 @@ La présence de troupes d'état augmente l'autorité de l'État sur le territoir
 gardes
 
 #loyal_guard_c1
-Le service de gardiennage total augmente l'autorité de l'État.
+Les guardes augmentent l'autorité de l'État.
 
 #loyal_garrison
-garnison locale
+milice
 
 #loyal_garrison_c1
 Fournir du matériel militaire aux citoyens du territoire pour se défendre les rend également plus confiants pour défier l'autorité de l'État.

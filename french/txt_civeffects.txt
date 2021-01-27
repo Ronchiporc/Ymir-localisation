@@ -64,6 +64,12 @@ Territoires de la province
 #civfx_territ_dscr
 les villes peuvent annexer d'autres territoires à leur province
 
+#civfx_prodtax_n
+Tribus de production
+
+#civfx_prodtax_dscr
+Une portion des ressources produites est saisie par le gouvernement comme tribut
+
 #civfx_inctax_n
 impôt sur le revenu
 

@@ -4,6 +4,9 @@ Controller au moins [x] régions
 #cond_nbter
 Controller au moins [x] territoires
 
+#cond_nbterstatus
+Controller au moins [x] '[y]'
+
 #cond_prodsupto
 Avoir au moins +[x] de production de [y] sur le territoire
 

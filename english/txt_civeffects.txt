@@ -58,6 +58,18 @@ province territories
 #civfx_territ_dscr
 Cities can annex other territories as their province
 
+#civfx_prodtax_n
+production tributes
+
+#civfx_prodtax_dscr
+A portion of all produced livestock and agricultural foods is seized by the government as tribute
+
+#civfx_prodtax_set
+seized production
+
+#civfx_prodtax_setd
+Sets the percentage of produced resources (cattle and agricultural foods) that are to be seized by the government
+
 #civfx_inctax_n
 income tax
 
@@ -399,6 +411,18 @@ time allocation
 
 #civfx_comwork_setd
 Sets the percentage of time actives will spend on community work (decreases building efficiency proportionnally).
+
+#civfx_bribes_n
+bribes
+
+#civfx_bribes_dscr
+Gifts and bribes paid to the Oligarch class, increasing their wealth and favoring their support.
+
+#civfx_bribes_set
+bribes for Oligarchs
+
+#civfx_bribes_setd
+The value of average bribes paid to every Oligarch.
 
 #civfx_comworkmod_n
 community work

@@ -4,6 +4,9 @@ Control [x] or more regions
 #cond_nbter
 Control [x] or more territories
 
+#cond_nbterstatus
+Control [x] or more '[y]'
+
 #cond_prodsupto
 Produce at least [x] of [y] in territory
 

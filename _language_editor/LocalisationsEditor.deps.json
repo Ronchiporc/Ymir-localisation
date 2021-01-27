@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LocalisationsEditor/1.0.0": {
+        "dependencies": {
+          "Ookii.Dialogs.Wpf": "3.1.0"
+        },
+        "runtime": {
+          "LocalisationsEditor.dll": {}
+        }
+      },
+      "Ookii.Dialogs.Wpf/3.1.0": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Ookii.Dialogs.Wpf.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalisationsEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ookii.Dialogs.Wpf/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EpUWoSLLO1aVkUmo2dPE4xO+zQZRxbp13agbbQzGBL1ACALgCD69cTwdLdPdg2LIsPcZ4uA3iID+YaazdZxyww==",
+      "path": "ookii.dialogs.wpf/3.1.0",
+      "hashPath": "ookii.dialogs.wpf.3.1.0.nupkg.sha512"
+    }
+  }
+}

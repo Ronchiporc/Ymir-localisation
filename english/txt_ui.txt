@@ -2473,11 +2473,17 @@ from state power
 #loyal_statepow_c1
 State power affects the loyalty of all territories.
 
+#loyal_prodtrib
+production tributes
+
+#loyal_prodtrib_c1
+Production tributes upset people and reduces their loyalty to the state.
+
 #loyal_hightax
 high taxes
 
 #loyal_hightax_c1
-High taxes upset people and reduces their loyalty to the state.
+Taxes above a certain level start to upset people and reduces their loyalty to the state.
 
 #loyal_prvldg
 priviledges
@@ -2504,7 +2510,7 @@ guards
 The total produced guarding service increases the authority of the state.
 
 #loyal_garrison
-local garrison
+militia
 
 #loyal_garrison_c1
 Providing military equipment to the citizens of the territory to defend themselves also makes them more confident to defy the state's authority.
