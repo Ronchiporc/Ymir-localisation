@@ -1,192 +1,192 @@
-
-#agrim_goldo_1
-Paiement unique
-
-#agrim_goldo_2
-Paie [x] pièces
-
-#agrim_goldo_3
-Paiement unique de pièces de [x] vers [y], effectué à la signature du traité.
-
-#agrim_goldr_1
-Transfert d'argent
-
-#agrim_goldr_2
-Transfert constant d'argent d'un total de [x] pièces.
-
-#agrim_goldr_3
-[x] transfère continuellement de l'argent à [y] aussi longtemps que le traité reste actif.
-
-#agrim_goldtax_1
-Taxe sur les revenus
-
-#agrim_goldtax_2
-Donne [x]% de ses revenus
-
-#agrim_goldtax_3
-[x] transfère un % de ses revenus à [y].
-
-#agrim_admtax_1
+#agrim_admtax_1#1
 Transfert de pouvoir
 
-#agrim_admtax_2
+#agrim_admtax_2#1
 Transferes [x]% de Pouvoir d'État
 
-#agrim_admtax_3
+#agrim_admtax_3#1
 [x] transfère un % de son pouvoir d'État à [y].
 
-#agrim_trad_1
-Accords commerciaux
-
-#agrim_trad_2
-Permet le commerce
-
-#agrim_trad_3
-[x] donne à [y] l'accès à toutes ses offres d'échanges et de routes commerciales.
-
-#agrim_pass_1
-Droit de passage
-
-#agrim_pass_2
-Donne le droit de passage
-
-#agrim_pass_3
-Permet aux unités de [y] de passer sur les territoires de [x].
-
-#agrim_embrg_1
-Embargo contre ...
-
-#agrim_embrg_2
-Embargo contre [x]
-
-#agrim_embrg_3
-Interdit le commerce avec un état spécifié
-
-#agrim_vassal_1
-Rejoidre la nation
-
-#agrim_vassal_2
-Rejoindre le [x]
-
-#agrim_vassal_3
-[x] rejoindra la nation de [y].
-
-#agrim_fvassal_1
-Subjugation
-
-#agrim_fvassal_2
-Subjugé par le [x]
-
-#agrim_fvassal_3
-[x] se subjugé à la nation de [y].
-
-#agrim_war_1
-Déclarer la guerre à ...
-
-#agrim_war_2
-Déclaration de guerre à [x]
-
-#agrim_war_3
-Déclarer la guerre à un autre état spécifié
-
-#agrim_peace_1
-Traité de paix
-
-#agrim_peace_2
-Traité de paix
-
-#agrim_peace_3
-Interdit la guerre entre les membres du traité.
-
-#agrim_ceasefr_1
+#agrim_ceasefr_1#1
 Cessez-le-feu
 
-#agrim_ceasefr_2
+#agrim_ceasefr_2#1
 Cessez-le-feu
 
-#agrim_ceasefr_3
+#agrim_ceasefr_3#1
 Fin de la guerre entre les membres du traité.
 
-#agrim_tradrt_1
-Route commerciale
+#agrim_embrg_1#1
+Embargo contre ...
 
-#agrim_tradrt_2
-Route commerciale
+#agrim_embrg_2#1
+Embargo contre [x]
 
-#agrim_tradrt_3
-Configurer une route commerciale consolidée par traité
+#agrim_embrg_3#1
+Interdit le commerce avec un état spécifié
 
-#agrim_givreg_1
-Donner la région
+#agrim_fvassal_1#1
+Subjugation
 
-#agrim_givreg_2
-Donner la région de '[x]'
+#agrim_fvassal_2#1
+Subjugé par le [x]
 
-#agrim_givreg_3
-Transférer la propriété d'une région à [y].
+#agrim_fvassal_3#1
+[x] se subjugé à la nation de [y].
 
-#agrim_gividea_1
+#agrim_gividea_1#1
 Donner une idée
 
-#agrim_gividea_2
+#agrim_gividea_2#1
 Donner une idée pour [x]
 
-#agrim_gividea_3
+#agrim_gividea_3#1
 [y] recevra de [x] une nouvelle idée de connaissances qu'il n'a pas encore.
 
-#treaty_powcost
-Coût de l'Etat pour maintenir ce traité
+#agrim_givreg_1#1
+Donner la région
 
-#treaty_coinpen
-Pénalité de pièces
+#agrim_givreg_2#1
+Donner la région de '[x]'
 
-#treaty_coinpen_c1
-% du PIB transféré comme pénalité si [x] rompt ce traité,
+#agrim_givreg_3#1
+Transférer la propriété d'une région à [y].
 
-#treaty_coinpen_c2
-à [x].
+#agrim_goldo_1#1
+Paiement unique
 
-#treaty_gdp
-[x]% du PIB
+#agrim_goldo_2#1
+Paie [x] pièces
 
-#treaty_honor
-Engagement d'honneur
+#agrim_goldo_3#1
+Paiement unique de pièces de [x] vers [y], effectué à la signature du traité.
 
-#treaty_honor_c1
-Niveau d'engagement de [x] à respecter ce traité.
+#agrim_goldr_1#1
+Transfert d'argent
 
-#treaty_honor_c2
-L'honneur proportionnel est perdu si [x] le casse.
+#agrim_goldr_2#1
+Transfert constant d'argent d'un total de [x] pièces.
 
-#treaty_warbound
-Guerre
+#agrim_goldr_3#1
+[x] transfère continuellement de l'argent à [y] aussi longtemps que le traité reste actif.
 
-#treaty_warbound_c1
-Si oui ou non la rupture du traité entrainera une déclaration de guerre automatique de [x]
+#agrim_goldtax_1#1
+Taxe sur les revenus
 
-#treaty_warbound_c2
-au cas ou [x] rompt ce traité.
+#agrim_goldtax_2#1
+Donne [x]% de ses revenus
 
-#treaty_closes
-Clauses de rupture
+#agrim_goldtax_3#1
+[x] transfère un % de ses revenus à [y].
 
-#diplo_npass
-Droit de passage national
+#agrim_pass_1#1
+Droit de passage
 
-#diplo_npass_dscr_1
-Droit de passage automatique entre tous les membres de la nation.
+#agrim_pass_2#1
+Donne le droit de passage
 
-#diplo_ntrade
-Accord commercial national
+#agrim_pass_3#1
+Permet aux unités de [y] de passer sur les territoires de [x].
 
-#diplo_ntrade_dscr_1
-Accord commercial automatique entre tous les membres de la nation.
+#agrim_peace_1#1
+Traité de paix
 
-#diplo_ndef
+#agrim_peace_2#1
+Traité de paix
+
+#agrim_peace_3#1
+Interdit la guerre entre les membres du traité.
+
+#agrim_trad_1#1
+Accords commerciaux
+
+#agrim_trad_2#1
+Permet le commerce
+
+#agrim_trad_3#1
+[x] donne à [y] l'accès à toutes ses offres d'échanges et de routes commerciales.
+
+#agrim_tradrt_1#1
+Route commerciale
+
+#agrim_tradrt_2#1
+Route commerciale
+
+#agrim_tradrt_3#1
+Configurer une route commerciale consolidée par traité
+
+#agrim_vassal_1#1
+Rejoidre la nation
+
+#agrim_vassal_2#1
+Rejoindre le [x]
+
+#agrim_vassal_3#1
+[x] rejoindra la nation de [y].
+
+#agrim_war_1#1
+Déclarer la guerre à ...
+
+#agrim_war_2#1
+Déclaration de guerre à [x]
+
+#agrim_war_3#1
+Déclarer la guerre à un autre état spécifié
+
+#diplo_ndef#1
 Pacte de défense national
 
-#diplo_ndef_dscr_1
+#diplo_ndef_dscr_1#1
 Toute déclaration de guerre faite à un membre de la Nation déclenchera une déclaration de guerre automatique de la part de tous les autres membres de la Nation, la close de rupture étant du côté de l'agresseur.
 
-#treaty_nocls
+#diplo_npass#1
+Droit de passage national
+
+#diplo_npass_dscr_1#1
+Droit de passage automatique entre tous les membres de la nation.
+
+#diplo_ntrade#1
+Accord commercial national
+
+#diplo_ntrade_dscr_1#1
+Accord commercial automatique entre tous les membres de la nation.
+
+#treaty_closes#1
+Clauses de rupture
+
+#treaty_coinpen#1
+Pénalité de pièces
+
+#treaty_coinpen_c1#1
+% du PIB transféré comme pénalité si [x] rompt ce traité,
+
+#treaty_coinpen_c2#1
+à [x].
+
+#treaty_gdp#1
+[x]% du PIB
+
+#treaty_honor#1
+Engagement d'honneur
+
+#treaty_honor_c1#1
+Niveau d'engagement de [x] à respecter ce traité.
+
+#treaty_honor_c2#1
+L'honneur proportionnel est perdu si [x] le casse.
+
+#treaty_nocls#1
 (les clauses de ruptures sont actuellement non-effectives car l'autre parti est présentement inactif)
+
+#treaty_powcost#1
+Coût de l'Etat pour maintenir ce traité
+
+#treaty_warbound#1
+Guerre
+
+#treaty_warbound_c1#1
+Si oui ou non la rupture du traité entrainera une déclaration de guerre automatique de [x]
+
+#treaty_warbound_c2#1
+au cas ou [x] rompt ce traité.
+

@@ -1,203 +1,210 @@
-#civ_gifteco_n
-Économie de don
-
-#civ_gifteco_dscr
-Un mode d'échange où les objets de valeur ne sont pas échangés ou vendus, mais plutôt donnés sans un accord explicite pour des récompenses immédiates ou futures.
-
-#civ_fairxchang_n
-Troc
-
-#civ_fairxchang_dscr
-Échange immédiat et réciproque d'objets de valeur équivalents.
-
-#civ_currency_n
-Devise
-
-#civ_currency_dscr
-L'utilisation d'objets de valeur intérmédiaires pour faciliter les échanges, le stockage des richesses, et mieux mesurer la valeur des choses.
-
-#civ_coinage_n
-Monnaie
-
-#civ_coinage_dscr
-Une forme de monnaie standardisée en pièces frappées par le sceau de l'Etat garantissant leur valeur.
-
-#civ_repmoney_n
-Monnaie représentative
-
-#civ_repmoney_dscr
-Une monnaie sans valeur marchande intrinsèque reposant uniquement sur la réputation de l'Etat garantissant sa valeur.
-
-#civ_bandsociety_n
-Société tribale
-
-#civ_bandsociety_dscr
-La forme la plus simple de la société, faiblement organisée et un avec une hierarchie informelle.
-
-#civ_leadership_n
-Leadership
-
-#civ_leadership_dscr
-Un Dirigeant est reconnu formellement comme chef du gouvernement.
-
-#civ_localchief_n
-Administration Régionale
-
-#civ_localchief_dscr
-L'organisation d'administrations locales fédérées sous un gouvernement central, permettant le contrôle de multiple régions administratives.
-
-#civ_prtctor_n
-Protecteur du peuple
-
-#civ_prtctor_dscr
-"Je dirige parce que je suis en charge de protéger les gens."
-
-#civ_superior_n
-Leader supérieur
-
-#civ_superior_dscr
-"Je dirige parce que je suis supérieur."
-
-#civ_divine_n
-Chef divin
-
-#civ_divine_dscr
-"Je dirige parce que je suis un dieu."
-
-#civ_divinerep_n
-Représentant divin
-
-#civ_divinerep_dscr
-"Je dirige parce que j'ai été choisi par les dieux."
-
-#civ_comgood_n
-Par le Peuple
-
-#civ_comgood_dscr
-"Nous sommes le peuple."
-
-#civ_people_n
-Représentants du peuple
-
-#civ_people_dscr
-"Nous dirigeons au nom du peuple."
-
-#civ_olig_n
-Pour les Elites
-
-#civ_olig_dscr
-"Je dirige pour les Elites."
-
-#civ_tax_n
-Imposition
-
-#civ_tax_dscr
-Organisation de charges financières imposées aux contribuables par l'État.
-
-#civ_statepriv_n
-Privilèges
-
-#civ_statepriv_dscr
-Privilèges pour le dirigeant de vôtre gouvernement, en lui accordant un pourcentage de la richesse du territoire de droit.
-
-#civ_statesal_n
-Salaire d'Etat
-
-#civ_statesal_dscr
-Les fonctionnaires sont directement employés et payés par l'Etat et servent dans divers bâtiments officiels comme l'administration ou les écoles.
-
-#civ_minist_n
-Ministère
-
-#civ_minist_dscr
-Un conseil des états-majors occupant des fonctions publiques importantes, prenant et mettant en œuvre des décisions sur les politiques de concert.
-
-#civ_ration_n
-Rationnement
-
-#civ_ration_dscr
-Le rationnement des aliments réduit la consommation alimentaire de chaque porco. En période de pénurie alimentaire, cela permet d'améliorer l'accès de tous aux aliments.
-
-#civ_subv_n
-Subvention
-
-#civ_subv_dscr
-Une aide versée par l'État à chaque porco d'une catégorie spécifique de travailleurs, augmentant ainsi leurs revenus.
-
-#civ_paidrsrch_n
-Chercheurs payés
-
-#civ_paidrsrch_dscr
-Les chercheurs du projet sont payés par l'Etat proportionnellement  à leur richesse actuelle et ne réduisent plus la main-d'œuvre des bâtiments où ils travaillent.
-
-#cltr_consume_n
-Consommation de ressource
-
-#cltr_consume_dscr
-La pratique culturelle de vôtre population de consommer un type de resource spécifique. Permets la distribution et la vente de cette resource a la population.
-
-#cltr_resprod_n
-Production de ressource
-
-#cltr_resprod_dscr
-Débloque la possibilité de produire une resource. Les niveaux suivants améliorent l'efficacité de production tout en réduisant la quantié de matériaux requis.
-
-#cltr_resqual_n
-Expertise de production
-
-#cltr_resqual_dscr
-La tradition culturelle d'expertise augmente la qualité de production d'un type de ressource spécifique.
-
-#civ_tributes_n
-Tributs
-
-#civ_tributes_dscr
-Forme basique de taxation dans laquelle le gouvernement réquisitionne une partie des productions.
-
-#civ_council_n
-Conseil
-
-#civ_council_dscr
-Des conseillers de confiance assistent le Dirigeant dans les affaires du gouvernement, améliorant l'administration de l'Etat.
-
-#civ_treasury_n
-Trésorerie
-
-#civ_treasury_dscr
-Séparation des finances du Dirigeant de celle du Gouvernement, la Trésorerie administre uniquement les finances du gouvernement.
-
-#civ_lawmk_n
-Législation
-
-#civ_lawmk_dscr
-Une institution de fonctionnaires gouvernementaux dédiée a l'exercice du pouvoir législatif.
-
-#civ_court_n
-Cour
-
-#civ_court_dscr
-Constitution d'une Cour hébergeant et divertissant subordonnés et vassaux directement au sein de la capitale afin d'en assurer un meilleur contrôle et de faciliter leur administration.
-
-#civ_democracy_n
-Democracie
-
-#civ_democracy_dscr
-Gouvernance en tant que Démocracie directe ou les citoyens votent et participent au pouvoir directement et ou la majorité dirige sans aucun Dirigeant ou intermédiaire.
-
-#civ_republic_n
-République
-
-#civ_republic_dscr
-Gouvernance en tant que République ou les politiciens dirigent au nom du peuple.
-
-#civ_aristo_n
-Aristocratie
-
-#civ_aristo_dscr
+#civ_aristo_dscr#1
 L'Oligarchie est cimentée par le droit du sang, est associé a des privilèges, et est transmise par hérédité, assurant le statut des familles d'Oligarques.
 
-#civ_comwork_n
+#civ_aristo_n#1
+Aristocratie
+
+#civ_bandsociety_dscr#1
+La forme la plus simple de la société, faiblement organisée et un avec une hierarchie informelle.
+
+#civ_bandsociety_n#1
+Société tribale
+
+#civ_coinage_dscr#1
+Une forme de monnaie standardisée en pièces frappées par le sceau de l'Etat garantissant leur valeur.
+
+#civ_coinage_n#1
+Monnaie
+
+#civ_comgood_dscr#1
+"Nous sommes le peuple."
+
+#civ_comgood_n#1
+Par le Peuple
+
+#civ_comwork_dscr#1
+Tous les actifs doivent allouer une portion de leur temps aux tâches communautaires.
+
+#civ_comwork_n#1
 Travail communautaire
 
-#civ_comwork_dscr
-Tous les actifs doivent allouer une portion de leur temps aux tâches communautaires.
+#civ_council_dscr#1
+Des conseillers de confiance assistent le Dirigeant dans les affaires du gouvernement, améliorant l'administration de l'Etat.
+
+#civ_council_n#1
+Conseil
+
+#civ_court_dscr#1
+Constitution d'une Cour hébergeant et divertissant subordonnés et vassaux directement au sein de la capitale afin d'en assurer un meilleur contrôle et de faciliter leur administration.
+
+#civ_court_n#1
+Cour
+
+#civ_currency_dscr#1
+L'utilisation d'objets de valeur intérmédiaires pour faciliter les échanges, le stockage des richesses, et mieux mesurer la valeur des choses.
+
+#civ_currency_n#1
+Devise
+
+#civ_democracy_dscr#1
+Gouvernance en tant que Démocracie directe ou les citoyens votent et participent au pouvoir directement et ou la majorité dirige sans aucun Dirigeant ou intermédiaire.
+
+#civ_democracy_n#1
+Democracie
+
+#civ_divine_dscr#1
+"Je dirige parce que je suis un dieu."
+
+#civ_divine_n#1
+Chef divin
+
+#civ_divinerep_dscr#1
+"Je dirige parce que j'ai été choisi par les dieux."
+
+#civ_divinerep_n#1
+Représentant divin
+
+#civ_fairxchang_dscr#1
+Échange immédiat et réciproque d'objets de valeur équivalents.
+
+#civ_fairxchang_n#1
+Troc
+
+#civ_gifteco_dscr#1
+Un mode d'échange où les objets de valeur ne sont pas échangés ou vendus, mais plutôt donnés sans un accord explicite pour des récompenses immédiates ou futures.
+
+#civ_gifteco_n#1
+Économie de don
+
+#civ_lawmk_dscr#1
+Une institution de fonctionnaires gouvernementaux dédiée a l'exercice du pouvoir législatif.
+
+#civ_lawmk_n#1
+Législation
+
+#civ_leadership_dscr#1
+Un Dirigeant est reconnu formellement comme chef du gouvernement.
+
+#civ_leadership_n#1
+Leadership
+
+#civ_localchief_dscr#1
+L'organisation d'administrations locales fédérées sous un gouvernement central, permettant le contrôle de multiple régions administratives.
+
+#civ_localchief_n#1
+Administration Régionale
+
+#civ_minist_dscr#1
+Un conseil des états-majors occupant des fonctions publiques importantes, prenant et mettant en œuvre des décisions sur les politiques de concert.
+
+#civ_minist_n#1
+Ministère
+
+#civ_olig_dscr#1
+"Je dirige pour les Elites."
+
+#civ_olig_n#1
+Pour les Elites
+
+#civ_oligbribes_dscr#1
+Pratique d'offrir des cadeaux et paiements pour gagner le soutient politique des Oligarches influents.
+
+#civ_oligbribes_n#1
+Pots-de-vin
+
+#civ_paidrsrch_dscr#1
+Les chercheurs du projet sont payés par l'Etat proportionnellement  à leur richesse actuelle et ne réduisent plus la main-d'œuvre des bâtiments où ils travaillent.
+
+#civ_paidrsrch_n#1
+Chercheurs payés
+
+#civ_people_dscr#1
+"Nous dirigeons au nom du peuple."
+
+#civ_people_n#1
+Représentants du peuple
+
+#civ_prtctor_dscr#1
+"Je dirige parce que je suis en charge de protéger les gens."
+
+#civ_prtctor_n#1
+Protecteur du peuple
+
+#civ_ration_dscr#1
+Le rationnement des aliments réduit la consommation alimentaire de chaque porco. En période de pénurie alimentaire, cela permet d'améliorer l'accès de tous aux aliments.
+
+#civ_ration_n#1
+Rationnement
+
+#civ_repmoney_dscr#1
+Une monnaie sans valeur marchande intrinsèque reposant uniquement sur la réputation de l'Etat garantissant sa valeur.
+
+#civ_repmoney_n#1
+Monnaie représentative
+
+#civ_republic_dscr#1
+Gouvernance en tant que République ou les politiciens dirigent au nom du peuple.
+
+#civ_republic_n#1
+République
+
+#civ_statepriv_dscr#1
+Privilèges pour le dirigeant de vôtre gouvernement, en lui accordant un pourcentage de la richesse du territoire de droit.
+
+#civ_statepriv_n#1
+Privilèges
+
+#civ_statesal_dscr#1
+Les fonctionnaires sont directement employés et payés par l'Etat et servent dans divers bâtiments officiels comme l'administration ou les écoles.
+
+#civ_statesal_n#1
+Salaire d'Etat
+
+#civ_subv_dscr#1
+Une aide versée par l'État à chaque porco d'une catégorie spécifique de travailleurs, augmentant ainsi leurs revenus.
+
+#civ_subv_n#1
+Subvention
+
+#civ_superior_dscr#1
+"Je dirige parce que je suis supérieur."
+
+#civ_superior_n#1
+Leader supérieur
+
+#civ_tax_dscr#1
+Organisation de charges financières imposées aux contribuables par l'État.
+
+#civ_tax_n#1
+Imposition
+
+#civ_treasury_dscr#1
+Séparation des finances du Dirigeant de celle du Gouvernement, la Trésorerie administre uniquement les finances du gouvernement.
+
+#civ_treasury_n#1
+Trésorerie
+
+#civ_tributes_dscr#1
+Forme basique de taxation dans laquelle le gouvernement réquisitionne une partie des productions.
+
+#civ_tributes_n#1
+Tributs
+
+#cltr_consume_dscr#1
+La pratique culturelle de vôtre population de consommer un type de resource spécifique. Permets la distribution et la vente de cette resource a la population.
+
+#cltr_consume_n#1
+Consommation de ressource
+
+#cltr_resprod_dscr#1
+Débloque la possibilité de produire une resource. Les niveaux suivants améliorent l'efficacité de production tout en réduisant la quantié de matériaux requis.
+
+#cltr_resprod_n#1
+Production de ressource
+
+#cltr_resqual_dscr#1
+La tradition culturelle d'expertise augmente la qualité de production d'un type de ressource spécifique.
+
+#cltr_resqual_n#1
+Expertise de production
+

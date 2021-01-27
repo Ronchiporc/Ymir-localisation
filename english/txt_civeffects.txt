@@ -1,434 +1,435 @@
-#civfx_inc_n
-population incomes
-
-#civfx_inc_dscr
-Unlocks dynamic population wealth
-
-#civfx_price_n
-dynamic prices
-
-#civfx_price_dscr
-Resources and valuables have dynamic prices based on the supply and demand of the population
-
-#civfx_autodist_n
-automatic distribution
-
-#civfx_autodist_dscr
-All resources are automatically available to the entire population and there is no need for distributors
-
-#civfx_bdgeff_n
-building efficiency
-
-#civfx_bdgeff_dscr
-Modifies the efficiency of buildings
-
-#civfx_conflict_n
-population conflict
-
-#civfx_conflict_dscr
-Modifies conflict of population
-
-#civfx_stress_n
-population stress
-
-#civfx_stress_dscr
-Modifies the stress of the population
-
-#civfx_paidmat_n
-resource prices
-
-#civfx_paidmat_dscr
-Resources now have prices and ownership.
-
-#civfx_seizem_n
-seized materials
-
-#civfx_seizem_dscr
-When paid materials is active, all or a fraction of materials is seized for free instead of being paid for by the state.
-
-#civfx_seizem_set
-seized percentage
-
-#civfx_seizem_setd
-Sets the percentage of a material's price you wish to seize
-
-#civfx_territ_n
-province territories
-
-#civfx_territ_dscr
-Cities can annex other territories as their province
-
-#civfx_prodtax_n
-production tributes
-
-#civfx_prodtax_dscr
-A portion of all produced livestock and agricultural foods is seized by the government as tribute
-
-#civfx_prodtax_set
-seized production
-
-#civfx_prodtax_setd
-Sets the percentage of produced resources (cattle and agricultural foods) that are to be seized by the government
-
-#civfx_inctax_n
-income tax
-
-#civfx_inctax_dscr
-A tax applied to all the incomes of the population in the territory 
-
-#civfx_inctax_set
-income tax percent
-
-#civfx_inctax_setd
-Sets the percentage of income that is to be taxed
-
-#civfx_saltax_n
-sales tax
-
-#civfx_saltax_dscr
-A tax applied to all sales in the territory (simplified VAT tax)
-
-#civfx_saltax_set
-sales tax percentage
-
-#civfx_saltax_setd
-Sets the percentage of sales that are to be taxed
-
-#civfx_leadwlth_n
-Leader's privileges
-
-#civfx_leadwlth_dscr
-The leader gets a share of the capital's produced wealth as privileges.
-
-#civfx_leadwlth_actv
-[x]% of Leader privileges
-
-#civfx_leadwlth_set
-Privileges rate
-
-#civfx_leadwlth_setd
-The percentage of the capital's produced wealth awarded as a privilege to the leader.
-
-#civfx_leadsal_n
-Leader's salary
-
-#civfx_leadsal_dscr
-Leaders get a salary that is paid by the state
-
-#civfx_leadsal_set
-Leader's salary
-
-#civfx_leadsal_setd
-Amount of the salary in coins
-
-#civfx_nobwlth_n
-Oligarchic privileges
-
-#civfx_nobwlth_dscr
-Oligarchs get a portion of the territory wealth as a privilege.
-
-#civfx_nobwlth_actv
-[x]% of Oligarchy privileges
-
-#civfx_nobwlth_set
-Privileges rate
-
-#civfx_nobwlth_setd
-The percentage of the territory wealth given as a privilege to the Oligarchs class.
-
-#civfx_nobsal_n
-Oligarchs's salary
-
-#civfx_nobsal_dscr
-Oligarchs get a salary that is paid by the state
-
-#civfx_nobsal_set
-Salary
-
-#civfx_nobsal_setd
-Amount of the salary in coins
-
-#civfx_offwlth_n
-State workers privileges
-
-#civfx_offwlth_dscr
-State workers get a portion of the territory wealth as a privilege
-
-#civfx_offwlth_set
-State workers privilege
-
-#civfx_offwlth_setd
-the percentage of territory wealth given as a privilege to the State workers
-
-#civfx_offsal_n
-Salary
-
-#civfx_offsal_dscr
-All Civil servant population classes get a salary paid directly by the government.
-
-#civfx_offsal_set
-State workers salary
-
-#civfx_offsal_setd
-Amount of the salary in coins
-
-#civfx_capadmin_n
-capital administration
-
-#civfx_capadmin_dscr
-Modifies administration in the capital
-
-#civfx_cityadmin_n
-city administration
-
-#civfx_cityadmin_dscr
-Modifies administration in every city
-
-#civfx_regadmin_n
-territory adimnistration
-
-#civfx_regadmin_dscr
-Modifies administration in every territory
-
-#civfx_caplead_n
-Leader
-
-#civfx_caplead_dscr
-adds Leader in the capital
-
-#civfx_capnob_n
-capital Oligarchs
-
-#civfx_capnob_dscr
-adds Oligarchs in the capital
-
-#civfx_regnob_n
-regional Oligarchs
-
-#civfx_regnob_dscr
-adds Oligarchs in every region center
-
-#civfx_goldstck_n
-Wealth from precious metals
-
-#civfx_goldstck_dscr
-increases the wealth of all territories for each unit of precious metals (gold and silver) in storages
-
-#civfx_modhap_n
-population happiness
-
-#civfx_modhap_dscr
-Modifies happiness of population
-
-#civfx_happy_n
-population happiness
-
-#civfx_happy_dscr
-modifies happiness of population
-
-#civfx_enmerch_n
-merchants
-
-#civfx_enmerch_dscr
-Allows the use of merchants who can sell resources to the population
-
-#civfx_entrout_n
-trade routes
-
-#civfx_entrout_dscr
-Allows the creation of permanent trade routes between territories
-
-#civfx_legitw_n
-Leader superiority
-
-#civfx_legitw_dscr
-The amount of respect, power and influence the Leader has personally.
-
-#civfx_wlegitw_n
-importance of the Leader's superiority
-
-#civfx_wlegitw_dscr
-How the Leader's superiority factor affects Legitimacy
-
-#civfx_legitprt_n
-Military support
-
-#civfx_legitprt_dscr
-The amount of power and support from the military.
-
-#civfx_wlegitprt_n
-importance of the military
-
-#civfx_wlegitprt_dscr
-How the military support affects Legitimacy
-
-#civfx_legitr_n
-Religious support
-
-#civfx_legitr_dscr
-The amount of power and support from religion.
-
-#civfx_wlegitr_n
-importance of religion
-
-#civfx_wlegitr_dscr
-How the religious support factor affects Legitimacy
-
-#civfx_legitpop_n
-People's approval
-
-#civfx_legitpop_dscr
-How much the people approves the current governance.
-
-#civfx_wlegitpop_n
-importance of People's approval
-
-#civfx_wlegitpop_dscr
-How the people's approval factor affects Legitimacy.
-
-#civfx_legitolig_n
-Oligarchy's support
-
-#civfx_legitolig_dscr
-The amount of power and support from the Oligarchy.
-
-#civfx_wlegitolig_n
-importance of Oligarchy
-
-#civfx_wlegitolig_dscr
-How the support of Oligarchy factor affects Legitimacy.
-
-#civfx_legitrep_n
-Representatives's support
-
-#civfx_legitrep_dscr
-The amount of power and support from representatives of the People.
-
-#civfx_wlegitrep_n
-importance of representatives power
-
-#civfx_wlegitrep_dscr
-How much the Representative's support factor affects Legitimacy.
-
-#civfx_statepow_n
-State Power
-
-#civfx_statepow_dscr
-Modifies the amount of state power
-
-#civfx_foodcons_n
-food consumption
-
-#civfx_foodcons_dscr
-Affects the amount of food required by porcos to satisfy their need for food
-
-#civfx_nomoney_n
-no money
-
-#civfx_nomoney_dscr
-There is no form of storable money.
-
-#civfx_treasury_n
-separation of funds
-
-#civfx_treasury_dscr
-The treasury of the government and the private properties of the Leader are now two separated things.
-
-#civfx_agrisav_n
-stocking seeds
-
-#civfx_agrisav_dscr
+#civfx_agrisav_dscr#1
 25% of all agricultural food production goes directly into granaries
 
-#civfx_subv_n
-subvention
+#civfx_agrisav_n#1
+stocking seeds
 
-#civfx_subv_dscr
-A government aid given to each worker of a specified social class, to increase their income
+#civfx_autodist_dscr#1
+All resources are automatically available to the entire population and there is no need for distributors
 
-#civfx_subv_actv
-Subvention of [y] coin for [x]
+#civfx_autodist_n#1
+automatic distribution
 
-#civfx_subv_set1
-Subventioned class
+#civfx_bdgeff_dscr#1
+Modifies the efficiency of buildings
 
-#civfx_subv_set1d
-The social class that receives this subvention
+#civfx_bdgeff_n#1
+building efficiency
 
-#civfx_subv_set2
-Subvention amount in coins
-
-#civfx_subv_set2d
-The amount of the subvention in coins, per Porco. Each one will receive this amount of coins added to their income.
-
-#civfx_paidrsrch_n
-paid researchers
-
-#civfx_paidrsrch_dscr
-Researchers get paid and no longer reduce the workforce of the buildings where they work.
-
-#civfx_ldcntrb_n
-Leader's treasury contribution
-
-#civfx_ldcntrb_dscr
-The leader can contribute to the government's finances with his own wealth (this reduces his wealth).
-
-#civfx_ldcntrb_actv
-[x]% of Leader treasury contribution
-
-#civfx_ldcntrb_set
-Contribution rate
-
-#civfx_ldcntrb_setd
-The percentage of the leader's wealth going into the government's treasury (Note that this will reduce the Leader's wealth proportionnally).
-
-#civfx_rescons_n
-Consumption of [x]
-
-#civfx_rescons_dscr
-Resource culturally adopted by your population:
-
-#traitfx_resprod_n
-Production level
-
-#traitfx_resprod_dscr
-1st level allows for production and following levels improve production efficiency and reduces material costs when relevant.
-
-#traitfx_resqual_n
-Quality level
-
-#traitfx_resqual_dscr
-Increases the base production quality of the resource.
-
-#civfx_comwork_n
-community work
-
-#civfx_comwork_dscr
-Percentage of time Actives will allocate to community work at the detriment of building efficiency.
-
-#civfx_comwork_set
-time allocation
-
-#civfx_comwork_setd
-Sets the percentage of time actives will spend on community work (decreases building efficiency proportionnally).
-
-#civfx_bribes_n
-bribes
-
-#civfx_bribes_dscr
+#civfx_bribes_dscr#1
 Gifts and bribes paid to the Oligarch class, increasing their wealth and favoring their support.
 
-#civfx_bribes_set
+#civfx_bribes_n#1
+bribes
+
+#civfx_bribes_set#1
 bribes for Oligarchs
 
-#civfx_bribes_setd
+#civfx_bribes_setd#1
 The value of average bribes paid to every Oligarch.
 
-#civfx_comworkmod_n
+#civfx_capadmin_dscr#1
+Modifies administration in the capital
+
+#civfx_capadmin_n#1
+capital administration
+
+#civfx_caplead_dscr#1
+adds Leader in the capital
+
+#civfx_caplead_n#1
+Leader
+
+#civfx_capnob_dscr#1
+adds Oligarchs in the capital
+
+#civfx_capnob_n#1
+capital Oligarchs
+
+#civfx_cityadmin_dscr#1
+Modifies administration in every city
+
+#civfx_cityadmin_n#1
+city administration
+
+#civfx_comwork_dscr#1
+Percentage of time Actives will allocate to community work at the detriment of building efficiency.
+
+#civfx_comwork_n#1
 community work
 
-#civfx_comworkmod_dscr
+#civfx_comwork_set#1
+time allocation
+
+#civfx_comwork_setd#1
+Sets the percentage of time actives will spend on community work (decreases building efficiency proportionnally).
+
+#civfx_comworkmod_actv#1
+[x]% of community work 
+
+#civfx_comworkmod_dscr#1
 modifies the efficiency of community work.
 
-#civfx_comworkmod_actv
-[x]% of community work 
+#civfx_comworkmod_n#1
+community work
+
+#civfx_conflict_dscr#1
+Modifies conflict of population
+
+#civfx_conflict_n#1
+population conflict
+
+#civfx_enmerch_dscr#1
+Allows the use of merchants who can sell resources to the population
+
+#civfx_enmerch_n#1
+merchants
+
+#civfx_entrout_dscr#1
+Allows the creation of permanent trade routes between territories
+
+#civfx_entrout_n#1
+trade routes
+
+#civfx_foodcons_dscr#1
+Affects the amount of food required by porcos to satisfy their need for food
+
+#civfx_foodcons_n#1
+food consumption
+
+#civfx_goldstck_dscr#1
+increases the wealth of all territories for each unit of precious metals (gold and silver) in storages
+
+#civfx_goldstck_n#1
+Wealth from precious metals
+
+#civfx_happy_dscr#1
+modifies happiness of population
+
+#civfx_happy_n#1
+population happiness
+
+#civfx_inc_dscr#1
+Unlocks dynamic population wealth
+
+#civfx_inc_n#1
+population incomes
+
+#civfx_inctax_dscr#1
+A tax applied to all the incomes of the population in the territory 
+
+#civfx_inctax_n#1
+income tax
+
+#civfx_inctax_set#1
+income tax percent
+
+#civfx_inctax_setd#1
+Sets the percentage of income that is to be taxed
+
+#civfx_ldcntrb_actv#1
+[x]% of Leader treasury contribution
+
+#civfx_ldcntrb_dscr#1
+The leader can contribute to the government's finances with his own wealth (this reduces his wealth).
+
+#civfx_ldcntrb_n#1
+Leader's treasury contribution
+
+#civfx_ldcntrb_set#1
+Contribution rate
+
+#civfx_ldcntrb_setd#1
+The percentage of the leader's wealth going into the government's treasury (Note that this will reduce the Leader's wealth proportionnally).
+
+#civfx_leadsal_dscr#1
+Leaders get a salary that is paid by the state
+
+#civfx_leadsal_n#1
+Leader's salary
+
+#civfx_leadsal_set#1
+Leader's salary
+
+#civfx_leadsal_setd#1
+Amount of the salary in coins
+
+#civfx_leadwlth_actv#1
+[x]% of Leader privileges
+
+#civfx_leadwlth_dscr#1
+The leader gets a share of the capital's produced wealth as privileges.
+
+#civfx_leadwlth_n#1
+Leader's privileges
+
+#civfx_leadwlth_set#1
+Privileges rate
+
+#civfx_leadwlth_setd#1
+The percentage of the capital's produced wealth awarded as a privilege to the leader.
+
+#civfx_legitolig_dscr#1
+The amount of power and support from the Oligarchy.
+
+#civfx_legitolig_n#1
+Oligarchy's support
+
+#civfx_legitpop_dscr#1
+How much the people approves the current governance.
+
+#civfx_legitpop_n#1
+People's approval
+
+#civfx_legitprt_dscr#1
+The amount of power and support from the military.
+
+#civfx_legitprt_n#1
+Military support
+
+#civfx_legitr_dscr#1
+The amount of power and support from religion.
+
+#civfx_legitr_n#1
+Religious support
+
+#civfx_legitrep_dscr#1
+The amount of power and support from representatives of the People.
+
+#civfx_legitrep_n#1
+Representatives's support
+
+#civfx_legitw_dscr#1
+The amount of respect, power and influence the Leader has personally.
+
+#civfx_legitw_n#1
+Leader superiority
+
+#civfx_modhap_dscr#1
+Modifies happiness of population
+
+#civfx_modhap_n#1
+population happiness
+
+#civfx_nobsal_dscr#1
+Oligarchs get a salary that is paid by the state
+
+#civfx_nobsal_n#1
+Oligarchs's salary
+
+#civfx_nobsal_set#1
+Salary
+
+#civfx_nobsal_setd#1
+Amount of the salary in coins
+
+#civfx_nobwlth_actv#1
+[x]% of Oligarchy privileges
+
+#civfx_nobwlth_dscr#1
+Oligarchs get a portion of the territory wealth as a privilege.
+
+#civfx_nobwlth_n#1
+Oligarchic privileges
+
+#civfx_nobwlth_set#1
+Privileges rate
+
+#civfx_nobwlth_setd#1
+The percentage of the territory wealth given as a privilege to the Oligarchs class.
+
+#civfx_nomoney_dscr#1
+There is no form of storable money.
+
+#civfx_nomoney_n#1
+no money
+
+#civfx_offsal_dscr#1
+All Civil servant population classes get a salary paid directly by the government.
+
+#civfx_offsal_n#1
+Salary
+
+#civfx_offsal_set#1
+State workers salary
+
+#civfx_offsal_setd#1
+Amount of the salary in coins
+
+#civfx_offwlth_dscr#1
+State workers get a portion of the territory wealth as a privilege
+
+#civfx_offwlth_n#1
+State workers privileges
+
+#civfx_offwlth_set#1
+State workers privilege
+
+#civfx_offwlth_setd#1
+the percentage of territory wealth given as a privilege to the State workers
+
+#civfx_paidmat_dscr#1
+Resources now have prices and ownership.
+
+#civfx_paidmat_n#1
+resource prices
+
+#civfx_paidrsrch_dscr#1
+Researchers get paid and no longer reduce the workforce of the buildings where they work.
+
+#civfx_paidrsrch_n#1
+paid researchers
+
+#civfx_price_dscr#1
+Resources and valuables have dynamic prices based on the supply and demand of the population
+
+#civfx_price_n#1
+dynamic prices
+
+#civfx_prodtax_dscr#1
+A portion of all produced livestock and agricultural foods is seized by the government as tribute
+
+#civfx_prodtax_n#1
+production tributes
+
+#civfx_prodtax_set#1
+seized production
+
+#civfx_prodtax_setd#1
+Sets the percentage of produced resources (cattle and agricultural foods) that are to be seized by the government
+
+#civfx_regadmin_dscr#1
+Modifies administration in every territory
+
+#civfx_regadmin_n#1
+territory adimnistration
+
+#civfx_regnob_dscr#1
+adds Oligarchs in every region center
+
+#civfx_regnob_n#1
+regional Oligarchs
+
+#civfx_rescons_dscr#1
+Resource culturally adopted by your population:
+
+#civfx_rescons_n#1
+Consumption of [x]
+
+#civfx_saltax_dscr#1
+A tax applied to all sales in the territory (simplified VAT tax)
+
+#civfx_saltax_n#1
+sales tax
+
+#civfx_saltax_set#1
+sales tax percentage
+
+#civfx_saltax_setd#1
+Sets the percentage of sales that are to be taxed
+
+#civfx_seizem_dscr#1
+When paid materials is active, all or a fraction of materials is seized for free instead of being paid for by the state.
+
+#civfx_seizem_n#1
+seized materials
+
+#civfx_seizem_set#1
+seized percentage
+
+#civfx_seizem_setd#1
+Sets the percentage of a material's price you wish to seize
+
+#civfx_statepow_dscr#1
+Modifies the amount of state power
+
+#civfx_statepow_n#1
+State Power
+
+#civfx_stress_dscr#1
+Modifies the stress of the population
+
+#civfx_stress_n#1
+population stress
+
+#civfx_subv_actv#1
+Subvention of [y] coin for [x]
+
+#civfx_subv_dscr#1
+A government aid given to each worker of a specified social class, to increase their income
+
+#civfx_subv_n#1
+subvention
+
+#civfx_subv_set1#1
+Subventioned class
+
+#civfx_subv_set1d#1
+The social class that receives this subvention
+
+#civfx_subv_set2#1
+Subvention amount in coins
+
+#civfx_subv_set2d#1
+The amount of the subvention in coins, per Porco. Each one will receive this amount of coins added to their income.
+
+#civfx_territ_dscr#1
+Cities can annex other territories as their province
+
+#civfx_territ_n#1
+province territories
+
+#civfx_treasury_dscr#1
+The treasury of the government and the private properties of the Leader are now two separated things.
+
+#civfx_treasury_n#1
+separation of funds
+
+#civfx_wlegitolig_dscr#1
+How the support of Oligarchy factor affects Legitimacy.
+
+#civfx_wlegitolig_n#1
+importance of Oligarchy
+
+#civfx_wlegitpop_dscr#1
+How the people's approval factor affects Legitimacy.
+
+#civfx_wlegitpop_n#1
+importance of People's approval
+
+#civfx_wlegitprt_dscr#1
+How the military support affects Legitimacy
+
+#civfx_wlegitprt_n#1
+importance of the military
+
+#civfx_wlegitr_dscr#1
+How the religious support factor affects Legitimacy
+
+#civfx_wlegitr_n#1
+importance of religion
+
+#civfx_wlegitrep_dscr#1
+How much the Representative's support factor affects Legitimacy.
+
+#civfx_wlegitrep_n#1
+importance of representatives power
+
+#civfx_wlegitw_dscr#1
+How the Leader's superiority factor affects Legitimacy
+
+#civfx_wlegitw_n#1
+importance of the Leader's superiority
+
+#traitfx_resprod_dscr#1
+1st level allows for production and following levels improve production efficiency and reduces material costs when relevant.
+
+#traitfx_resprod_n#1
+Production level
+
+#traitfx_resqual_dscr#1
+Increases the base production quality of the resource.
+
+#traitfx_resqual_n#1
+Quality level
+

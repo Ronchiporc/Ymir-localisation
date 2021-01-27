@@ -1,54 +1,54 @@
-
-#clim_sea
-Mer
-
-#clim_pol
-Polaire
-
-#clim_nord
-Nordique
-
-#clim_cont
-Continental
-
-#clim_oce
-Océanique
-
-#clim_med
-Mediterranéen
-
-#clim_trop
-Tropical
-
-#clim_arid
+#clim_arid#1
 Aride
 
-#clim_des
+#clim_cont#1
+Continental
+
+#clim_des#1
 Désert
 
-#relief_none
-Plat
+#clim_med#1
+Mediterranéen
 
-#relief_plain
-Plaines
+#clim_nord#1
+Nordique
 
-#relief_rock
-Rocailleux
+#clim_oce#1
+Océanique
 
-#relief_hill
+#clim_pol#1
+Polaire
+
+#clim_sea#1
+Mer
+
+#clim_trop#1
+Tropical
+
+#relief_hill#1
 Collines
 
-#relief_mount
+#relief_mount#1
 Montagnes
 
-#water_lake
+#relief_none#1
+Plat
+
+#relief_plain#1
+Plaines
+
+#relief_rock#1
+Rocailleux
+
+#veget_forest#1
+Forêt
+
+#water_lake#1
 Lac
 
-#water_river
+#water_river#1
 Rivière
 
-#water_swamp
+#water_swamp#1
 Marecageux
 
-#veget_forest
-Forêt

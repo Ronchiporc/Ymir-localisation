@@ -1,53 +1,54 @@
-#clim_sea
-Sea
-
-#clim_pol
-Polar
-
-#clim_nord
-Nordic
-
-#clim_cont
-Continental
-
-#clim_oce
-Oceanic
-
-#clim_med
-Mediterranean
-
-#clim_trop
-Tropical
-
-#clim_arid
+#clim_arid#1
 Arid
 
-#clim_des
+#clim_cont#1
+Continental
+
+#clim_des#1
 Desert
 
-#relief_none
-Flatlands
+#clim_med#1
+Mediterranean
 
-#relief_plain
-Plains
+#clim_nord#1
+Nordic
 
-#relief_rock
-Rocky
+#clim_oce#1
+Oceanic
 
-#relief_hill
+#clim_pol#1
+Polar
+
+#clim_sea#1
+Sea
+
+#clim_trop#1
+Tropical
+
+#relief_hill#1
 Hills
 
-#relief_mount
+#relief_mount#1
 Mountain
 
-#water_lake
+#relief_none#1
+Flatlands
+
+#relief_plain#1
+Plains
+
+#relief_rock#1
+Rocky
+
+#veget_forest#1
+Forest
+
+#water_lake#1
 Lake
 
-#water_river
+#water_river#1
 River
 
-#water_swamp
+#water_swamp#1
 Swamp
 
-#veget_forest
-Forest

@@ -1,191 +1,192 @@
-#agrim_goldo_1
-Unique payment
-
-#agrim_goldo_2
-Pays [x] coins
-
-#agrim_goldo_3
-Single coin payment from [x] to [y], at treaty signature.
-
-#agrim_goldr_1
-Coins transfer
-
-#agrim_goldr_2
-Continuous transfer of [x] coins from income
-
-#agrim_goldr_3
-[x] continuously transfers coins to [y] for as long as the treaty remains active.
-
-#agrim_goldtax_1
-Coins tax
-
-#agrim_goldtax_2
-Gives [x]% of coins income
-
-#agrim_goldtax_3
-[x] transfers a % of his total coins income to [y].
-
-#agrim_admtax_1
+#agrim_admtax_1#1
 Power transfer
 
-#agrim_admtax_2
+#agrim_admtax_2#1
 Transfers [x]% of state power
 
-#agrim_admtax_3
+#agrim_admtax_3#1
 [x] tranfers a % of his state power to [y].
 
-#agrim_trad_1
-Trade agreement
-
-#agrim_trad_2
-Allows trade
-
-#agrim_trad_3
-Gives [y] access to all trade offers and trade routes from [x].
-
-#agrim_pass_1
-Right of passage
-
-#agrim_pass_2
-Gives right of passage
-
-#agrim_pass_3
-Allows units of [y] to travel in the territories of [x].
-
-#agrim_embrg_1
-Embargo against...
-
-#agrim_embrg_2
-Embargo of against [x]
-
-#agrim_embrg_3
-Forbids trade with a specified state
-
-#agrim_vassal_1
-Join nation
-
-#agrim_vassal_2
-Joining the [x]
-
-#agrim_vassal_3
-[x] will join the nation of [y].
-
-#agrim_fvassal_1
-Subjugated
-
-#agrim_fvassal_2
-Subjugated by the [x]
-
-#agrim_fvassal_3
-[x] will be subjugated by the nation of [y].
-
-#agrim_war_1
-Declare war to...
-
-#agrim_war_2
-Declaring war to [x]
-
-#agrim_war_3
-Declare war to another specified state
-
-#agrim_peace_1
-Peace treaty
-
-#agrim_peace_2
-Peace treaty
-
-#agrim_peace_3
-Forbids war between treaty members.
-
-#agrim_ceasefr_1
+#agrim_ceasefr_1#1
 Cease fire
 
-#agrim_ceasefr_2
+#agrim_ceasefr_2#1
 Cease fire
 
-#agrim_ceasefr_3
+#agrim_ceasefr_3#1
 Ends war between treaty members.
 
-#agrim_tradrt_1
-Trade route
+#agrim_embrg_1#1
+Embargo against...
 
-#agrim_tradrt_2
-Trade route
+#agrim_embrg_2#1
+Embargo of against [x]
 
-#agrim_tradrt_3
-Setup a treaty binded trade route
+#agrim_embrg_3#1
+Forbids trade with a specified state
 
-#agrim_givreg_1
-Give region
+#agrim_fvassal_1#1
+Subjugated
 
-#agrim_givreg_2
-Giving region of '[x]' 
+#agrim_fvassal_2#1
+Subjugated by the [x]
 
-#agrim_givreg_3
-Transfer ownership of a region to [y].
+#agrim_fvassal_3#1
+[x] will be subjugated by the nation of [y].
 
-#agrim_gividea_1
+#agrim_gividea_1#1
 Give idea
 
-#agrim_gividea_2
+#agrim_gividea_2#1
 Give idea for [x]
 
-#agrim_gividea_3
+#agrim_gividea_3#1
 [y] will receive from [x] a new idea for knowledges he doesnt have yet.
 
-#treaty_powcost
-State power cost to maintain this treaty
+#agrim_givreg_1#1
+Give region
 
-#treaty_coinpen
-Financial penalty
+#agrim_givreg_2#1
+Giving region of '[x]' 
 
-#treaty_coinpen_c1
-% of GDP transfered as penalty if [x] breaks this treaty,
+#agrim_givreg_3#1
+Transfer ownership of a region to [y].
 
-#treaty_coinpen_c2
-to [x].
+#agrim_goldo_1#1
+Unique payment
 
-#treaty_gdp
-[x]% of GDP
+#agrim_goldo_2#1
+Pays [x] coins
 
-#treaty_honor
-Honor commitment
+#agrim_goldo_3#1
+Single coin payment from [x] to [y], at treaty signature.
 
-#treaty_honor_c1
-Level of commitment of [x] to respect this treaty.
+#agrim_goldr_1#1
+Coins transfer
 
-#treaty_honor_c2
-Proportionnal honor is lost if [x] breaks it.
+#agrim_goldr_2#1
+Continuous transfer of [x] coins from income
 
-#treaty_warbound
-War bound
+#agrim_goldr_3#1
+[x] continuously transfers coins to [y] for as long as the treaty remains active.
 
-#treaty_warbound_c1
-Wether or not [x] will automatically declare war
+#agrim_goldtax_1#1
+Coins tax
 
-#treaty_warbound_c2
-if [x] breaks this treaty.
+#agrim_goldtax_2#1
+Gives [x]% of coins income
 
-#treaty_closes
-Breaking closes
+#agrim_goldtax_3#1
+[x] transfers a % of his total coins income to [y].
 
-#diplo_npass
-National right of passage
+#agrim_pass_1#1
+Right of passage
 
-#diplo_npass_dscr_1
-All members of the Nation can move through each other's territory.
+#agrim_pass_2#1
+Gives right of passage
 
-#diplo_ntrade
-National trade agreement
+#agrim_pass_3#1
+Allows units of [y] to travel in the territories of [x].
 
-#diplo_ntrade_dscr_1
-All members of the Nation get automatic trading rights with each other.
+#agrim_peace_1#1
+Peace treaty
 
-#diplo_ndef
+#agrim_peace_2#1
+Peace treaty
+
+#agrim_peace_3#1
+Forbids war between treaty members.
+
+#agrim_trad_1#1
+Trade agreement
+
+#agrim_trad_2#1
+Allows trade
+
+#agrim_trad_3#1
+Gives [y] access to all trade offers and trade routes from [x].
+
+#agrim_tradrt_1#1
+Trade route
+
+#agrim_tradrt_2#1
+Trade route
+
+#agrim_tradrt_3#1
+Setup a treaty binded trade route
+
+#agrim_vassal_1#1
+Join nation
+
+#agrim_vassal_2#1
+Joining the [x]
+
+#agrim_vassal_3#1
+[x] will join the nation of [y].
+
+#agrim_war_1#1
+Declare war to...
+
+#agrim_war_2#1
+Declaring war to [x]
+
+#agrim_war_3#1
+Declare war to another specified state
+
+#diplo_ndef#1
 National defensive pact
 
-#diplo_ndef_dscr_1
+#diplo_ndef_dscr_1#1
 Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
 
-#treaty_nocls
+#diplo_npass#1
+National right of passage
+
+#diplo_npass_dscr_1#1
+All members of the Nation can move through each other's territory.
+
+#diplo_ntrade#1
+National trade agreement
+
+#diplo_ntrade_dscr_1#1
+All members of the Nation get automatic trading rights with each other.
+
+#treaty_closes#1
+Breaking closes
+
+#treaty_coinpen#1
+Financial penalty
+
+#treaty_coinpen_c1#1
+% of GDP transfered as penalty if [x] breaks this treaty,
+
+#treaty_coinpen_c2#1
+to [x].
+
+#treaty_gdp#1
+[x]% of GDP
+
+#treaty_honor#1
+Honor commitment
+
+#treaty_honor_c1#1
+Level of commitment of [x] to respect this treaty.
+
+#treaty_honor_c2#1
+Proportionnal honor is lost if [x] breaks it.
+
+#treaty_nocls#1
 (breaking clauses are not effective because the other party is currently inactive)
+
+#treaty_powcost#1
+State power cost to maintain this treaty
+
+#treaty_warbound#1
+War bound
+
+#treaty_warbound_c1#1
+Wether or not [x] will automatically declare war
+
+#treaty_warbound_c2#1
+if [x] breaks this treaty.
+

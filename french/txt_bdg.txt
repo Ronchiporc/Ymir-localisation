@@ -1,906 +1,906 @@
-
-#bdg_hous_n
-hébergement
-
-#bdg_hous_dscr
-Heberge la population, améliorant leur santé et qualité de vie.
-
-#bdg_prod_n
-production
-
-#bdg_prod_dscr
-Exploite les ressources naturelles du terrain.
-
-#bdg_ind_n
-industrie
-
-#bdg_ind_dscr
-Produit des biens manufacturés en combinaison des ressources existantes.
-
-#bdg_srv_n
-service
-
-#bdg_srv_dscr
-Produit des services (ressources non-matérielles qui ne peuvent être stockées).
-
-#bdg_stor_n
-stockage
-
-#bdg_stor_dscr
-Stocke des ressources.
-
-#bdg_merch_n
-marchand
-
-#bdg_merch_dscr
-Les marchands fournissent des ressources produites ou stockées disponibles à la consommation pour la population.
-
-#bdg_roads_n
-route
-
-#bdg_roads_dscr
-Améliore les déplacements des unités et offre des bonus aux batiments connectés.
-
-#bdg_walls_n
-murs
-
-#bdg_walls_dscr
-Structures défensives qui empêchent les unités de passer.
-
-#bdg_deco_n
-décoration
-
-#bdg_deco_dscr
-Éléments cosmétiques améliorant l'esthétique de la ville.
-
-#bdg_towers_n
-tours défensives
-
-#bdg_towers_dscr
-Les tours défensives emploient des soldats indépendamment des garnisons et des formations. Ils ne peuvent être construits que sur des plates-formes. Ils fournissent un appui-feu pendant les batailles.
-
-#bdg_battlem_n
-créneaux
-
-#bdg_battlem_dscr
-Les remparts ne peuvent être construits que sur des plates-formes. Ils fournissent un bonus de combat aux unités qui se tiennent sur la plate-forme pendant les batlles.
-
-#bdg_annex_n
-annexe
-
-#bdg_annex_dscr
-Les annexes sont des structures secondaires qui fournissent des sources de production, de l'efficacité, ou d'autres bonus, a leur bâtiment propriétaire.
-
-#bdg_pltf_n
-plateformes
-
-#bdg_pltf_dscr
-Les plates-formes sont une élévation de tuile de porc que vous pouvez construire. Les structures défensives comme les tours et les remparts ne peuvent être construites que sur des plates-formes. Ils sont coûteux et lent à construire.
-
-#bdg_stairs_n
-escaliers
-
-#bdg_stairs_dscr
-Permet aux porcos d'accéder aux cases avec une hauteur différente. Placer contre des plates-formes ou des falaises pour en donner l'accès.
-
-#bdg_gates_n
-porte
-
-#bdg_gates_dscr
-Les portes bloquent les troupes hostiles pendant les batailles. Doit être placé entre des palissades ou devant une plateforme en mode 'pont'.
-
-#bdg_all
+#bdg_all#1
 Tous les bâtiments
 
-#txt_cider_n
-Cidrerie
+#bdg_annex_dscr#1
+Les annexes sont des structures secondaires qui fournissent des sources de production, de l'efficacité, ou d'autres bonus, a leur bâtiment propriétaire.
 
-#txt_cider_dscr
-Produit du cidre à partir de pommes. Le cidre est une ressource distribuable qui répond aux besoins de la population en alcools.
+#bdg_annex_n#1
+annexe
 
-#txt_brewery_n
-Brasserie
+#bdg_battlem_dscr#1
+Les remparts ne peuvent être construits que sur des plates-formes. Ils fournissent un bonus de combat aux unités qui se tiennent sur la plate-forme pendant les batlles.
 
-#txt_brewery_dscr
-Produit de la bière à partir d'orge. La bière est une ressource distribuable qui répond aux besoins de la population en alcools.
+#bdg_battlem_n#1
+créneaux
 
-#txt_claycamp_n
-Exploitation d'argile
+#bdg_deco_dscr#1
+Éléments cosmétiques améliorant l'esthétique de la ville.
 
-#txt_claycamp_dscr
-Peut exploiter des cases de terrain argileux pour produire de l'argile. Doit être placé à portée des dépôts d'argile.
+#bdg_deco_n#1
+décoration
 
-#txt_claypit_n
-Terre d'argile
+#bdg_gates_dscr#1
+Les portes bloquent les troupes hostiles pendant les batailles. Doit être placé entre des palissades ou devant une plateforme en mode 'pont'.
 
-#txt_claypit_dscr
-Placez directement sur les cases d'argile. Augmente la production d'argile de ces cases.
+#bdg_gates_n#1
+porte
 
-#txt_clothmk_n
-Couturier
+#bdg_hous_dscr#1
+Heberge la population, améliorant leur santé et qualité de vie.
 
-#txt_clothmk_dscr
-Produit des vêtements en textile. Le vêtement en textile est une ressource distribuable qui satisfait les besoins de la population en vêtements.
+#bdg_hous_n#1
+hébergement
 
-#txt_gather_n
-Camp de cueilleurs
+#bdg_ind_dscr#1
+Produit des biens manufacturés en combinaison des ressources existantes.
 
-#txt_gather_dscr
-Peut exploiter les ressources agricoles sauvages. Doit être placé dans à portée des ressources.
+#bdg_ind_n#1
+industrie
 
-#txt_farm_n
-Ferme
+#bdg_merch_dscr#1
+Les marchands fournissent des ressources produites ou stockées disponibles à la consommation pour la population.
 
-#txt_farm_dscr
-Peut créer des champs pour produire une variété de ressources agricoles. Peut également exploiter naturellement celles présentes à portée.
+#bdg_merch_n#1
+marchand
 
-#txt_fisher_n
-Pêcheur
+#bdg_pltf_dscr#1
+Les plates-formes sont une élévation de tuile de porc que vous pouvez construire. Les structures défensives comme les tours et les remparts ne peuvent être construites que sur des plates-formes. Ils sont coûteux et lent à construire.
 
-#txt_fisher_dscr
-Peut exploiter les poissons sauvages pour produire du poisson frais. Doit être placé sur la rive à portée d'un banc de poissons sauvages.
+#bdg_pltf_n#1
+plateformes
 
-#txt_grnry_n
-Grenier
+#bdg_prod_dscr#1
+Exploite les ressources naturelles du terrain.
 
-#txt_grnry_dscr
-Peut stocker des ressources alimentaires.
+#bdg_prod_n#1
+production
 
-#txt_hslum_n
-Taudis
+#bdg_roads_dscr#1
+Améliore les déplacements des unités et offre des bonus aux batiments connectés.
 
-#txt_hslum_dscr
-Taudis qui ne coûtent aucun entretient et qui apparaîtront automatiquement lorsque les porcos ne peuvent trouver aucun logement disponible. Ils n'offrent qu'une faible qualité de vie et aucun bonus de santé.
+#bdg_roads_n#1
+route
 
-#txt_hrustc_n
-Barraque
+#bdg_srv_dscr#1
+Produit des services (ressources non-matérielles qui ne peuvent être stockées).
 
-#txt_hrustc_dscr
-Logements rustiques qui offrent une faible qualité de vie et un bonus de santé.
+#bdg_srv_n#1
+service
 
-#txt_hconf_n
-Maison
+#bdg_stairs_dscr#1
+Permet aux porcos d'accéder aux cases avec une hauteur différente. Placer contre des plates-formes ou des falaises pour en donner l'accès.
 
-#txt_hconf_dscr
-Logements confortables qui offrent un bonus de qualité de vie et de santé élevées.
+#bdg_stairs_n#1
+escaliers
 
-#txt_hapt_n
-Appartements
+#bdg_stor_dscr#1
+Stocke des ressources.
 
-#txt_hapt_dscr
-Bâtiments à plusieurs étages qui fournissent un logement pour plusieurs foyers.
+#bdg_stor_n#1
+stockage
 
-#txt_hunter_n
-Chasseur
+#bdg_towers_dscr#1
+Les tours défensives emploient des soldats indépendamment des garnisons et des formations. Ils ne peuvent être construits que sur des plates-formes. Ils fournissent un appui-feu pendant les batailles.
 
-#txt_hunter_dscr
-Peut exploiter les animaux sauvages pour produire de la viande et du cuir frais. Doit être placé à portée d'un groupe d'animaux sauvages.
+#bdg_towers_n#1
+tours défensives
 
-#txt_flint_n
-Collecteur de gravier
+#bdg_walls_dscr#1
+Structures défensives qui empêchent les unités de passer.
 
-#txt_flint_dscr
-Produit des silex à partir des cases de gravier. Les silex peuvent ensuite être utilisés par les fabricants d'outils pour fabriquer des outils en pierre. Peut également exploiter l'obsidienne.
+#bdg_walls_n#1
+murs
 
-#txt_platf1_n
-Plateforme en bois
-
-#txt_platf1_dscr
-Une plate-forme à faible résistance et bon marché. Utile pour faire des défenses et des ponts peu cher.
-
-#txt_platf2_n
-Plateforme en pierre
-
-#txt_platf2_dscr
-Une plate-forme solide utile pour faire des murs résistants.
-
-#txt_dstrplatf_n
-Détruire les plates-formes
-
-#txt_dstrplatf_dscr
-Commande la destruction des plates-formes sélectionnées.
-
-#txt_tow1_n
-Tour de guet
-
-#txt_tow1_dscr
-Une tour défensive bon marché mais faible faite de bois recouvert de cuir.
-
-#txt_tow2_n
-Tour en bois
-
-#txt_tow2_dscr
-Une tour de défense faite de poutres en bois épais. 
-
-#txt_tow3_n
-Tour de pierre
-
-#txt_tow3_dscr
-Les tours de pierre sont beaucoup plus résistantes que leurs celles en bois. 
-
-#txt_tow4_n
-Tour maçonnée
-
-#txt_tow4_dscr
-Cette tour est construite à partir de blocs de pierre solides pour augmenter la résistance à l'artillerie ennemie.
-
-#txt_drktwr_n
-La Tour Noire
-
-#txt_drktwr_dscr
-Cette sombre tour est la résidence du Roi Noir et la source de ses pouvoirs maléfiques. Elle fut reçue en cadeau par l'usage du Palentir.
-
-#txt_batlm1_n
-Créneaux en bois
-
-#txt_batlm1_dscr
-Des créneaux en bois grossier fournissant une couverture de base du feu ennemi aux unités debout sur la plate-forme pendant les batailles.
-
-#txt_batlm2_n
-Remparts de pierre
-
-#txt_batlm2_dscr
-Les remparts en pierre servant de couverture du feu ennemi aux unités se tenant debout sur la plate-forme pendant les batailles.
-
-#txt_batlm3_n
-Remparts à machicoulis
-
-#txt_batlm3_dscr
-Des remparts lourds faits de blocs de pierre solides avec des mâchicoulis offrant une excellente couverture depuis le feu ennemi jusqu'aux unités qui se tenaient sur la plate-forme pendant les batailles.
-
-#txt_batlm4_n
-Hourds
-
-#txt_batlm4_dscr
-Excellente couverture mais moins résistants que les créneaux en pierre.
-
-#txt_market_n
-Etal de marché
-
-#txt_market_dscr
-L'étals de marché distribue à la population une des productions du bâtiment auquel il appartient. Les revenus générés vont intégralement aux producteurs mais il réduit la force de travail du bâtiment employée a la production.
-
-#txt_field_n
-Champ
-
-#txt_field_dscr
-Les champs ne sont exploitables que par la ferme à laquelle ils appartiennent. Ils produisent une large variété de produits agricoles.
-
-#txt_road1_n
-Chemin de terre
-
-#txt_road1_dscr
-Une route de base et libre de construire la route.
-
-#txt_road2_n
-Route en bois
-
-#txt_road2_dscr
-Une route avec des morceaux de bois incrustés dans la terre pour limiter la boue par temps pluvieux.
-
-#txt_road3_n
-Route pavée
-
-#txt_road3_dscr
-Une route pavée de pavés grossiers.
-
-#txt_road4_n
-Route de pierre
-
-#txt_road4_dscr
-Une route chère faite de grands blocs de pierre
-
-#txt_road5_n
-Rue pavée
-
-#txt_road5_dscr
-Une route faite de petits blocs de pierre composés artistiquement.
-
-#txt_road6_n
-Place de mosaïque
-
-#txt_road6_dscr
-Un sol décoratif composé de petits cases de pierre, de verre et d'autres matériaux.
-
-#txt_road7_n
-Place de marbre
-
-#txt_road7_dscr
-Un sol décoratif fait de blocs de marbre brillant.
-
-#txt_road8_n
-Route de calcaire
-
-#txt_road8_dscr
-Une route chère faite de gros blocs de calcaire blanc.
-
-#txt_road9_n
-Route de grès
-
-#txt_road9_dscr
-Une route coûteuse faite de gros blocs de grès.
-
-#txt_fence1_n
-Clôtures
-
-#txt_fence1_dscr
-Clôtures rustiques de bois, de pierre ou d'arbustes.
-
-#txt_fence2_n
-Clôtures décoratif
-
-#txt_fence2_dscr
-Des clôtures décoratives pour jardins et avenues.
-
-#txt_garden1_n
-Jardins de fleurs
-
-#txt_garden1_dscr
-Jardins décoratifs avec fleurs.
-
-#txt_garden2_n
-Jardins d'arbres
-
-#txt_garden2_dscr
-Jardins décoratifs avec arbres.
-
-#txt_grass_n
-Pelouse
-
-#txt_grass_dscr
-Une zone de sol couverte d'herbe soigneusement entretenue à des fins esthétiques et récréatives.
-
-#txt_flowerbed_n
-Parterre de fleurs
-
-#txt_flowerbed_dscr
-Une plate-bande de fleurs pour la décoration.
-
-#txt_woodc_n
-Bûcheron
-
-#txt_woodc_dscr
-Les bûcherons peuvent exploiter la plupart des arbres disponibles à portée pour produire du bois.
-
-#txt_merchant_n
-Marchand
-
-#txt_merchant_dscr
-Distributeurs spécialisés qui vendent une ressource à la population.
-
-#txt_mine_n
-Camp minier
-
-#txt_mine_dscr
-Peut exploiter des cases de terrain avec des dépôts spéciaux pour produire une large variété de matières premières, notamment grâce à l'exploitation de ses annexes lorsqu'elles sont disponibles.
-
-#txt_mineshaft_n
-Puits minier
-
-#txt_mineshaft_dscr
-Annexe essentielle du camp minier. Les puits d'extraction augmentent la production du camp minier auquel ils appartiennent. Doit être construit sur des tuiles avec des dépôts valides.
-
-#txt_paddock_n
-Enclos
-
-#txt_paddock_dscr
-Les enclos permettent le stockage du bétail.
-
-#txt_potter_n
-Potier
-
-#txt_potter_dscr
-Les potiers façonnent des pots à partir d'argile. La poterie est une ressource distribuable qui comble les besoins de la population dans l'ameublement.
-
-#txt_stonecut_n
-Tailleur de pierre
-
-#txt_stonecut_dscr
-Peut exploiter des cases de roche pour produire de la pierre brute ou construire des annexes de carrière pour produire des blocs de pierre ou des blocs spécialisés sur des tuiles avec un type de roche valide.
-
-#txt_quarry_n
-Carrière
-
-#txt_quarry_dscr
-Annexes essentielles du tailleur de pierre, les carrières peuvent produire des blocs de pierre ou des blocs spécialisés sur des types de roche spéciaux.
-
-#txt_sawmill_n
-Scierie
-
-#txt_sawmill_dscr
-La scierie raffine le bois brut en planches de bois, matériau nécessaire à la construction de nombreux bâtiments.
-
-#txt_tannery_n
-Tannerie
-
-#txt_tannery_dscr
-Les tanneries affinent le cuir en veston, une ressource distribuable qui comble les besoins de la population en vêtements.
-
-#txt_toolmk_n
-Outilleur
-
-#txt_toolmk_dscr
-Les fabricants d'outils produisent différents types d'outils. Les outils sont utilisés pour beaucoup de choses, en particulier comme matériaux de construction.
-
-#txt_items_n
-Ressources
-
-#txt_items_dscr
-Ces ressources sont abandonnées sur le sol et se décomposent avec le temps à moins qu'elles ne soient rapidement stockées dans un stockage approprié!
-
-#txt_storegrnd_n
-Stockage au sol
-
-#txt_storegrnd_dscr
-Terrain marqué comme zone de stockage. C'est gratuit, mais non gardé et n'a pas une grande capacité de stockage.
-
-#txt_warehouse_n
-Entrepôt
-
-#txt_warehouse_dscr
-Les entrepôts peuvent stocker tous les types de matériaux de base. Ils sont gardés et peuvent stocker beaucoup plus de ressources que les entrepôts au sol.
-
-#txt_weapmk_n
-Armurier
-
-#txt_weapmk_dscr
-Les fabricants d'armes peuvent produire un large éventail d'armes et d'armures utilisées pour équiper et recruter des troupes.
-
-#txt_weaver_n
-Tisserand
-
-#txt_weaver_dscr
-Le tisserand affine différentes matières premières (coton, lin, laine ...) en textile. Le textile peut ensuite être utilisé pour diverses choses comme la confection de vêtements.
-
-#txt_stairs1_n
-Escaliers
-
-#txt_stairs1_dscr
-Escaliers flexibles qui peuvent être placés contre des falaises ou des murs de toute hauteur.
-
-#txt_gate1_n
-Porte en bois
-
-#txt_gate1_dscr
-Une porte en bois bon marché.
-
-#txt_gate2_n
-Porte forte
-
-#txt_gate2_dscr
-Une solide porte en bois maintenue par le bronze.
-
-#txt_gate3_n
-Porte renforcée
-
-#txt_gate3_dscr
-Une porte solide renforcée de fer.
-
-#txt_cattle_n
-Ferme d'élevage
-
-#txt_cattle_dscr
-Les fermes d'élevage vous permettent de créer des pâturages qui produisent du bétail.
-
-#txt_pastr_n
-Pâturage
-
-#txt_pastr_dscr
-Une zone fermée de terre où le bétail peuvent se nourrir et se reproduire.
-
-#txt_pastrw_n
-Pâturage de laine
-
-#txt_pastrw_dscr
-Pâturages d'animaux producteurs de laine, régulièrement cisaillés pour recueillir leur laine.
-
-#txt_builder_n
-Constructeurs
-
-#txt_builder_dscr
-De nombreux bâtiments ne peuvent être construits que par des équipes professionnelles de constructeurs.
-
-#txt_butcher_n
-Boucher
-
-#txt_butcher_dscr
-Les bouchers vivent du bétail pour produire de la viande fraîche.
-
-#txt_well_n
-Puits
-
-#txt_well_dscr
-Extrait l'eau du sol.
-
-#txt_watercol_n
-Collecteur d'eau
-
-#txt_watercol_dscr
-Berge aménagée où les gens peuvent venir collecter l'eau douce des rivières ou des lacs.
-
-#txt_landock_n
-Caravane
-
-#txt_landock_dscr
-Docks pour caravanes terrestres, transportant des marchandises à travers les territoires et produisant le service de Cargo nécessaire pour maintenir des routes commerciales.
-
-#txt_dock_n
-Docks
-
-#txt_dock_dscr
-Docks pour les navires de commerce, transportant des marchandises à travers les territoires et produisant le service de Cargo nécessaire pour maintenir des routes commerciales.
-
-#txt_theater_n
-Théâtre
-
-#txt_theater_dscr
-Fournit du divertissement aux Porcos.
-
-#txt_baths_n
-Bains publics
-
-#txt_baths_dscr
-Un lieu de rassemblement social et de détente qui offre également un bonus de santé aux usagers.
-
-#txt_tavern_n
-Taverne
-
-#txt_tavern_dscr
-Un lieu de rassemblement social pour boire et faire la fête.
-
-#txt_forum_n
-Forum
-
-#txt_forum_dscr
-Un lieu de rassemblement social pour discuter et maintenir la communauté.
-
-#txt_furnmkr_n
-Fabriquant de meubles
-
-#txt_furnmkr_dscr
-Produit du mobilier, une ressource distribuable répondant aux besoins de la population en Mobilier.
-
-#txt_carpetmkr_n
-Fabricant de tapis
-
-#txt_carpetmkr_dscr
-Produit des tapis, une ressource distribuable répondant aux besoins de la population en Ameublement.
-
-#txt_mudcamp_n
-Exploitation de terre
-
-#txt_mudcamp_dscr
-Un simple camp où les travailleurs collectent différents types de sols exploitables tels que la boue, la tourbe ou les cendres.
-
-#txt_brickwk_n
-Briqueterie
-
-#txt_brickwk_dscr
-Produit des briques, un matériau de construction de base.
-
-#txt_kiln_n
-Four
-
-#txt_kiln_dscr
-Utilisé pour produire différents matériaux de construction.
-
-#txt_fundry_n
-Fonderie
-
-#txt_fundry_dscr
-Transforme les minerais en lingots.
-
-#txt_steel_n
-Aciérie
-
-#txt_steel_dscr1
-Produit de l'acier par carburation du fer forgé à la forge.
-
-#txt_steel_dscr2
-Produit de l'acier par décarburation de la fonte en la fondant.
-
-#txt_charcl_n
-Charbonnière
-
-#txt_charcl_dscr
-Carbonise le bois en charbon de bois.
-
-#txt_archtct_n
-Architecte
-
-#txt_archtct_dscr
-Produit des plans en tant que service, requis pour les monuments importants.
-
-#txt_windwheel_n
-Roue à vent
-
-#txt_windwheel_dscr
-Fournit une puissance mécanique au bâtiment, améliorant son efficacité.
-
-#txt_waterwheel_n
-Roue à eau
-
-#txt_waterwheel_dscr
-Fournit une puissance mécanique au bâtiment, améliorant son efficacité.
-
-#txt_wash_n
-Lavoir
-
-#txt_wash_dscr
-Un endroit où les gens peuvent venir laver leur linge.
-
-#txt_taxcol_n
-Collecteur de taxes
-
-#txt_taxcol_dscr
-Réduit le gaspillage en s'assurant que la population paie correctement ses impôts.
-
-#txt_scrib_n
-Scribe
-
-#txt_scrib_dscr
-Les scribes au service de l'Etat aident à suivre les affaires administratives.
-
-#txt_eldcounc_n
-Conseil tribal
-
-#txt_eldcounc_dscr
-Un conseil des chefs de familles pour résoudre les conflits dans la tribu.
-
-#txt_magistrt_n
-Magistrat
-
-#txt_magistrt_dscr
-Réduit les conflits dans la population.
-
-#txt_school_n
-École
-
-#txt_school_dscr
-L'école augmente l'intelligence de la population.
-
-#txt_winery_n
-Cave à vin
-
-#txt_winery_dscr
-Produit du vin à partir de raisins.
-
-#txt_oilpress_n
-Presse d'olives
-
-#txt_oilpress_dscr
-Produit de l'huile d'olive à partir d'olives.
-
-#txt_bakery_n
-Boulangerie
-
-#txt_bakery_dscr
-Fait du pain à partir de farine.
-
-#txt_mill_n
-Moulin
-
-#txt_mill_dscr
-Broie les céréales pour produire de la farine, plus facile à stocker et à utiliser pour faire du pain.
-
-#txt_libr_n
-Bibliothèque
-
-#txt_libr_dscr
-Stocke les connaissances.
-
-#txt_eldrcncl_n
-Conseil des anciens
-
-#txt_eldrcncl_dscr
-Un conseil des vieux qui tente de résoudre les conflits entre la tribu et fournit une forme précoce de justice.
-
-#txt_magistr_n
-Magistrat
-
-#txt_magistr_dscr
-Bâtiment produisant le service de Justice pour la population, réduisant les conflits.
-
-#txt_paper_n
-Papeterie
-
-#txt_paper_dscr
-Produit du papier
-
-#txt_rum_n
-Rhumerie
-
-#txt_rum_dscr
-Une distillerie qui produit de l'alchool à partir de la canne à sucre.
-
-#txt_trmarket_n
-Marché
-
-#txt_trmarket_dscr
-Produit le service de Négoce requis pour la création d'offres commerciales avec d'autres cités.
-
-#txt_academ_n
+#txt_academ_n#1
 Académie
 
-#txt_acedem_dscr
+#txt_acedem_dscr#1
 Des cochons sages et bien instruits qui étudient les sciences et les arts pour accroître l'éducation, la culture, et contribuer à la recherche de nouvelles idées.
 
-#txt_doctor_n
-Docteur
-
-#txt_doctor_dscr
-Augmente la santé de la population.
-
-#txt_ftower1
-Tour primitive
-
-#txt_ftower1_dscr
-Une tour de défense primitive en bois. Tire des javelots.
-
-#txt_wall1_n
-Palissade
-
-#txt_wall1_dscr
-Un mur défensif simple fait de rondins de bois.
-
-#txt_wall2_n
-Mur de boue
-
-#txt_wall2_dscr
-Un mur défensif simple fait de briques de boue séchée.
-
-#txt_fence3_n
-Muret de pierre
-
-#txt_fence3_dscr
-Un muret rustique fait de pierres.
-
-#txt_elephantpen_n
-Etable à éléphant
-
-#txt_elephantpen_dscr
-Elephant pens allow the storage of single large animals such as Elephants.
-
-#txt_stairs2_n
-Escaliers en pierre
-
-#txt_stairs2_dscr
-Stairs that can be placed against cliffs or walls of any height to allow for passage. 
-
-#txt_wall3_n
-Mur de pavés
-
-#txt_wall3_dscr
-Un simple mur de défense en pavés, assemblé avec de la maçonnerie grossière.
-
-#txt_wall4_n
-Mur de brique
-
-#txt_wall4_dscr
-Un simple mur de défense en briques cuites, plus solides que les briques en boue.
-
-#txt_wall5_n
-Mur de blocs de pierre
-
-#txt_wall5_dscr
-Un mur de défense solide constitué de blocs de pierre.
-
-#txt_oldpcrcl_n
-Cercle des anciens
-
-#txt_oldpcrcl_dscr
-Moyen primitif de stocker des connaissances par traditions orales.
-
-#txt_orcbutcher_n
-Boucherie Orque
-
-#txt_orcbutcher_dscr
-Execute des prisonniers pour produire du bacon, la seule nourriture que les Orcs peuvent consommer.
-
-#txt_orchuts_n
-Huttes Orques
-
-#txt_orchuts_dscr
-Huttes rudimentaires construites par des Orcs et empilées les unes sur les autres.
-
-#txt_orcmine_n
-Mine Orque
-
-#txt_orcmine_dscr
-Profondes minies exploitées par les Orcs pour miner et rafiner du fer directement depuis les profondeurs de la terre.
-
-#txt_prisoncamp_n
-Camp de prisonniers
-
-#txt_prisoncamp_dscr
-Permet le stockage de prisonniers
-
-#txt_jewelry_n
-Bijoutier
-
-#txt_jewelry_dscr
-Artisan fabriquant de la bijouterie à partir de matériaux précieux.
-
-#txt_palace1_n
-Hutte du Chef
-
-#txt_palace1_dscr
-Bâtiment unique de capitale lié à la politique de 'Dirigeant' qui produit du Pouvoir d'Etat. Une grande hutte confortable, résidence du Chef d'où il exerce sont pouvoir.
-
-#txt_palace2_n
-Palace
-
-#txt_palace2_dscr
-Bâtiment unique de capitale lié à la politique de 'Dirigeant' qui produit du Pouvoir d'Etat. Un bâtiment majestueux faisant office de centre du gouvernement et de résidence du Dirigeant d'où il exerce sont pouvoir.
-
-#txt_treasury_n
-Trésorerie
-
-#txt_treasury_dscr
-Bâtiment unique de capitale lié à la politique de 'Trésorerie' qui produit du Pouvoir d'Etat. Gère la Trésorerie et les finances du gouvernement.
-
-#txt_ministry_n
-Ministère
-
-#txt_ministry_dscr
-Bâtiment unique de capitale lié à la politique de 'Ministère' qui produit du Pouvoir d'Etat.
-
-#txt_state_court_n
-Grand Hall
-
-#txt_state_court_dscr
-Bâtiment unique de capitale lié à la politique de 'Cour' qui produit du Pouvoir d'Etat. Un large et cher bâtiment luxueux utilisé pour acceuillir subordonnés et vassaux avec faste afin de mieux les controller.
-
-#txt_lawmkr_n
-Maison des Législateurs
-
-#txt_lawmkr_dscr
-Bâtiment unique de capitale lié à la politique de 'Législation' qui produit du Pouvoir d'Etat. Centre législatif primitif ou des fonctionnaires spécialisés en législation se rassemblent pour faire de nouvelles lois.
-
-#txt_senate_n
-Sénat
-
-#txt_senate_dscr
-Bâtiment unique de capitale lié à la politique de 'République' qui produit du Pouvoir d'Etat. Un bâtiment législatif ou les Sénateurs se rassemblent pour débattre et voter de nouvelles lois.
-
-#txt_state_rcrds_n
-Archives gouvernementales
-
-#txt_state_rcrds_dscr
-Bâtiment unique de capitale produisant du Pouvoir d'Etat. Dédié a l'archivage des documents du gouvernement, améliorant ainsi son administration.
-
-#txt_state_dptmnt_n
-Département d'Etat
-
-#txt_state_dptmnt_dscr
-Un couteux bâtiment de capitale qui produit du Pouvoir d'Etat suplémentaire, où des fonctionnaires spécialisés administrent un domaine particulier du gouvernement améliorant son administration.
-
-#txt_agora_n
-Agora
-
-#txt_agora_dscr
+#txt_agora_dscr#1
 Bâtiment unique de capitale lié à la politique de 'Démocracie' qui produit du Pouvoir d'Etat. Une large place où les citoyens de la cité se rassemblent pour voter et discutter de sa gouvernance directement.
 
-#txt_comunhall_n
-Hall communautaire
+#txt_agora_n#1
+Agora
 
-#txt_comunhall_dscr
-Le centre d'administration régionnal requis pour un Village. Une large maison communale où les affaires locales du village peuvent être reglées et administrées.
+#txt_archtct_dscr#1
+Produit des plans en tant que service, requis pour les monuments importants.
 
-#txt_townhall_n
-Hotel de Bourg
+#txt_archtct_n#1
+Architecte
 
-#txt_townhall_dscr
-Le centre d'administration régionnal requis pour un Bourg.
+#txt_bakery_dscr#1
+Fait du pain à partir de farine.
 
-#txt_cityhall_n
-Hotel de Ville
+#txt_bakery_n#1
+Boulangerie
 
-#txt_cityhall_dscr
+#txt_baths_dscr#1
+Un lieu de rassemblement social et de détente qui offre également un bonus de santé aux usagers.
+
+#txt_baths_n#1
+Bains publics
+
+#txt_batlm1_dscr#1
+Des créneaux en bois grossier fournissant une couverture de base du feu ennemi aux unités debout sur la plate-forme pendant les batailles.
+
+#txt_batlm1_n#1
+Créneaux en bois
+
+#txt_batlm2_dscr#1
+Les remparts en pierre servant de couverture du feu ennemi aux unités se tenant debout sur la plate-forme pendant les batailles.
+
+#txt_batlm2_n#1
+Remparts de pierre
+
+#txt_batlm3_dscr#1
+Des remparts lourds faits de blocs de pierre solides avec des mâchicoulis offrant une excellente couverture depuis le feu ennemi jusqu'aux unités qui se tenaient sur la plate-forme pendant les batailles.
+
+#txt_batlm3_n#1
+Remparts à machicoulis
+
+#txt_batlm4_dscr#1
+Excellente couverture mais moins résistants que les créneaux en pierre.
+
+#txt_batlm4_n#1
+Hourds
+
+#txt_brewery_dscr#1
+Produit de la bière à partir d'orge. La bière est une ressource distribuable qui répond aux besoins de la population en alcools.
+
+#txt_brewery_n#1
+Brasserie
+
+#txt_brickwk_dscr#1
+Produit des briques, un matériau de construction de base.
+
+#txt_brickwk_n#1
+Briqueterie
+
+#txt_builder_dscr#1
+De nombreux bâtiments ne peuvent être construits que par des équipes professionnelles de constructeurs.
+
+#txt_builder_n#1
+Constructeurs
+
+#txt_butcher_dscr#1
+Les bouchers vivent du bétail pour produire de la viande fraîche.
+
+#txt_butcher_n#1
+Boucher
+
+#txt_carpetmkr_dscr#1
+Produit des tapis, une ressource distribuable répondant aux besoins de la population en Ameublement.
+
+#txt_carpetmkr_n#1
+Fabricant de tapis
+
+#txt_cattle_dscr#1
+Les fermes d'élevage vous permettent de créer des pâturages qui produisent du bétail.
+
+#txt_cattle_n#1
+Ferme d'élevage
+
+#txt_charcl_dscr#1
+Carbonise le bois en charbon de bois.
+
+#txt_charcl_n#1
+Charbonnière
+
+#txt_cider_dscr#1
+Produit du cidre à partir de pommes. Le cidre est une ressource distribuable qui répond aux besoins de la population en alcools.
+
+#txt_cider_n#1
+Cidrerie
+
+#txt_cityhall_dscr#1
 Le centre d'administration régionnal requis pour une Ville.
 
-#txt_postoffice_n
+#txt_cityhall_n#1
+Hotel de Ville
+
+#txt_claycamp_dscr#1
+Peut exploiter des cases de terrain argileux pour produire de l'argile. Doit être placé à portée des dépôts d'argile.
+
+#txt_claycamp_n#1
+Exploitation d'argile
+
+#txt_claypit_dscr#1
+Placez directement sur les cases d'argile. Augmente la production d'argile de ces cases.
+
+#txt_claypit_n#1
+Terre d'argile
+
+#txt_clothmk_dscr#1
+Produit des vêtements en textile. Le vêtement en textile est une ressource distribuable qui satisfait les besoins de la population en vêtements.
+
+#txt_clothmk_n#1
+Couturier
+
+#txt_comunhall_dscr#1
+Le centre d'administration régionnal requis pour un Village. Une large maison communale où les affaires locales du village peuvent être reglées et administrées.
+
+#txt_comunhall_n#1
+Hall communautaire
+
+#txt_dock_dscr#1
+Docks pour les navires de commerce, transportant des marchandises à travers les territoires et produisant le service de Cargo nécessaire pour maintenir des routes commerciales.
+
+#txt_dock_n#1
+Docks
+
+#txt_doctor_dscr#1
+Augmente la santé de la population.
+
+#txt_doctor_n#1
+Docteur
+
+#txt_drktwr_dscr#1
+Cette sombre tour est la résidence du Roi Noir et la source de ses pouvoirs maléfiques. Elle fut reçue en cadeau par l'usage du Palentir.
+
+#txt_drktwr_n#1
+La Tour Noire
+
+#txt_dstrplatf_dscr#1
+Commande la destruction des plates-formes sélectionnées.
+
+#txt_dstrplatf_n#1
+Détruire les plates-formes
+
+#txt_eldcounc_dscr#1
+Un conseil des chefs de familles pour résoudre les conflits dans la tribu.
+
+#txt_eldcounc_n#1
+Conseil tribal
+
+#txt_eldrcncl_dscr#1
+Un conseil des vieux qui tente de résoudre les conflits entre la tribu et fournit une forme précoce de justice.
+
+#txt_eldrcncl_n#1
+Conseil des anciens
+
+#txt_elephantpen_dscr#1
+Elephant pens allow the storage of single large animals such as Elephants.
+
+#txt_elephantpen_n#1
+Etable à éléphant
+
+#txt_farm_dscr#1
+Peut créer des champs pour produire une variété de ressources agricoles. Peut également exploiter naturellement celles présentes à portée.
+
+#txt_farm_n#1
+Ferme
+
+#txt_fence1_dscr#1
+Clôtures rustiques de bois, de pierre ou d'arbustes.
+
+#txt_fence1_n#1
+Clôtures
+
+#txt_fence2_dscr#1
+Des clôtures décoratives pour jardins et avenues.
+
+#txt_fence2_n#1
+Clôtures décoratif
+
+#txt_fence3_dscr#1
+Un muret rustique fait de pierres.
+
+#txt_fence3_n#1
+Muret de pierre
+
+#txt_field_dscr#1
+Les champs ne sont exploitables que par la ferme à laquelle ils appartiennent. Ils produisent une large variété de produits agricoles.
+
+#txt_field_n#1
+Champ
+
+#txt_fisher_dscr#1
+Peut exploiter les poissons sauvages pour produire du poisson frais. Doit être placé sur la rive à portée d'un banc de poissons sauvages.
+
+#txt_fisher_n#1
+Pêcheur
+
+#txt_flint_dscr#1
+Produit des silex à partir des cases de gravier. Les silex peuvent ensuite être utilisés par les fabricants d'outils pour fabriquer des outils en pierre. Peut également exploiter l'obsidienne.
+
+#txt_flint_n#1
+Collecteur de gravier
+
+#txt_flowerbed_dscr#1
+Une plate-bande de fleurs pour la décoration.
+
+#txt_flowerbed_n#1
+Parterre de fleurs
+
+#txt_forum_dscr#1
+Un lieu de rassemblement social pour discuter et maintenir la communauté.
+
+#txt_forum_n#1
+Forum
+
+#txt_ftower1#1
+Tour primitive
+
+#txt_ftower1_dscr#1
+Une tour de défense primitive en bois. Tire des javelots.
+
+#txt_fundry_dscr#1
+Transforme les minerais en lingots.
+
+#txt_fundry_n#1
+Fonderie
+
+#txt_furnmkr_dscr#1
+Produit du mobilier, une ressource distribuable répondant aux besoins de la population en Mobilier.
+
+#txt_furnmkr_n#1
+Fabriquant de meubles
+
+#txt_garden1_dscr#1
+Jardins décoratifs avec fleurs.
+
+#txt_garden1_n#1
+Jardins de fleurs
+
+#txt_garden2_dscr#1
+Jardins décoratifs avec arbres.
+
+#txt_garden2_n#1
+Jardins d'arbres
+
+#txt_gate1_dscr#1
+Une porte en bois bon marché.
+
+#txt_gate1_n#1
+Porte en bois
+
+#txt_gate2_dscr#1
+Une solide porte en bois maintenue par le bronze.
+
+#txt_gate2_n#1
+Porte forte
+
+#txt_gate3_dscr#1
+Une porte solide renforcée de fer.
+
+#txt_gate3_n#1
+Porte renforcée
+
+#txt_gather_dscr#1
+Peut exploiter les ressources agricoles sauvages. Doit être placé dans à portée des ressources.
+
+#txt_gather_n#1
+Camp de cueilleurs
+
+#txt_grass_dscr#1
+Une zone de sol couverte d'herbe soigneusement entretenue à des fins esthétiques et récréatives.
+
+#txt_grass_n#1
+Pelouse
+
+#txt_grnry_dscr#1
+Peut stocker des ressources alimentaires.
+
+#txt_grnry_n#1
+Grenier
+
+#txt_hapt_dscr#1
+Bâtiments à plusieurs étages qui fournissent un logement pour plusieurs foyers.
+
+#txt_hapt_n#1
+Appartements
+
+#txt_hconf_dscr#1
+Logements confortables qui offrent un bonus de qualité de vie et de santé élevées.
+
+#txt_hconf_n#1
+Maison
+
+#txt_hrustc_dscr#1
+Logements rustiques qui offrent une faible qualité de vie et un bonus de santé.
+
+#txt_hrustc_n#1
+Barraque
+
+#txt_hslum_dscr#1
+Taudis qui ne coûtent aucun entretient et qui apparaîtront automatiquement lorsque les porcos ne peuvent trouver aucun logement disponible. Ils n'offrent qu'une faible qualité de vie et aucun bonus de santé.
+
+#txt_hslum_n#1
+Taudis
+
+#txt_hunter_dscr#1
+Peut exploiter les animaux sauvages pour produire de la viande et du cuir frais. Doit être placé à portée d'un groupe d'animaux sauvages.
+
+#txt_hunter_n#1
+Chasseur
+
+#txt_items_dscr#1
+Ces ressources sont abandonnées sur le sol et se décomposent avec le temps à moins qu'elles ne soient rapidement stockées dans un stockage approprié!
+
+#txt_items_n#1
+Ressources
+
+#txt_jewelry_dscr#1
+Artisan fabriquant de la bijouterie à partir de matériaux précieux.
+
+#txt_jewelry_n#1
+Bijoutier
+
+#txt_kiln_dscr#1
+Utilisé pour produire différents matériaux de construction.
+
+#txt_kiln_n#1
+Four
+
+#txt_landock_dscr#1
+Docks pour caravanes terrestres, transportant des marchandises à travers les territoires et produisant le service de Cargo nécessaire pour maintenir des routes commerciales.
+
+#txt_landock_n#1
+Caravane
+
+#txt_lawmkr_dscr#1
+Bâtiment unique de capitale lié à la politique de 'Législation' qui produit du Pouvoir d'Etat. Centre législatif primitif ou des fonctionnaires spécialisés en législation se rassemblent pour faire de nouvelles lois.
+
+#txt_lawmkr_n#1
+Maison des Législateurs
+
+#txt_libr_dscr#1
+Stocke les connaissances.
+
+#txt_libr_n#1
+Bibliothèque
+
+#txt_magistr_dscr#1
+Bâtiment produisant le service de Justice pour la population, réduisant les conflits.
+
+#txt_magistr_n#1
+Magistrat
+
+#txt_magistrt_dscr#1
+Réduit les conflits dans la population.
+
+#txt_magistrt_n#1
+Magistrat
+
+#txt_market_dscr#1
+L'étals de marché distribue à la population une des productions du bâtiment auquel il appartient. Les revenus générés vont intégralement aux producteurs mais il réduit la force de travail du bâtiment employée a la production.
+
+#txt_market_n#1
+Etal de marché
+
+#txt_merchant_dscr#1
+Distributeurs spécialisés qui vendent une ressource à la population.
+
+#txt_merchant_n#1
+Marchand
+
+#txt_mill_dscr#1
+Broie les céréales pour produire de la farine, plus facile à stocker et à utiliser pour faire du pain.
+
+#txt_mill_n#1
+Moulin
+
+#txt_mine_dscr#1
+Peut exploiter des cases de terrain avec des dépôts spéciaux pour produire une large variété de matières premières, notamment grâce à l'exploitation de ses annexes lorsqu'elles sont disponibles.
+
+#txt_mine_n#1
+Camp minier
+
+#txt_mineshaft_dscr#1
+Annexe essentielle du camp minier. Les puits d'extraction augmentent la production du camp minier auquel ils appartiennent. Doit être construit sur des tuiles avec des dépôts valides.
+
+#txt_mineshaft_n#1
+Puits minier
+
+#txt_ministry_dscr#1
+Bâtiment unique de capitale lié à la politique de 'Ministère' qui produit du Pouvoir d'Etat.
+
+#txt_ministry_n#1
+Ministère
+
+#txt_mudcamp_dscr#1
+Un simple camp où les travailleurs collectent différents types de sols exploitables tels que la boue, la tourbe ou les cendres.
+
+#txt_mudcamp_n#1
+Exploitation de terre
+
+#txt_oilpress_dscr#1
+Produit de l'huile d'olive à partir d'olives.
+
+#txt_oilpress_n#1
+Presse d'olives
+
+#txt_oldpcrcl_dscr#1
+Moyen primitif de stocker des connaissances par traditions orales.
+
+#txt_oldpcrcl_n#1
+Cercle des anciens
+
+#txt_orcbutcher_dscr#1
+Execute des prisonniers pour produire du bacon, la seule nourriture que les Orcs peuvent consommer.
+
+#txt_orcbutcher_n#1
+Boucherie Orque
+
+#txt_orchuts_dscr#1
+Huttes rudimentaires construites par des Orcs et empilées les unes sur les autres.
+
+#txt_orchuts_n#1
+Huttes Orques
+
+#txt_orcmine_dscr#1
+Profondes minies exploitées par les Orcs pour miner et rafiner du fer directement depuis les profondeurs de la terre.
+
+#txt_orcmine_n#1
+Mine Orque
+
+#txt_paddock_dscr#1
+Les enclos permettent le stockage du bétail.
+
+#txt_paddock_n#1
+Enclos
+
+#txt_palace1_dscr#1
+Bâtiment unique de capitale lié à la politique de 'Dirigeant' qui produit du Pouvoir d'Etat. Une grande hutte confortable, résidence du Chef d'où il exerce sont pouvoir.
+
+#txt_palace1_n#1
+Hutte du Chef
+
+#txt_palace2_dscr#1
+Bâtiment unique de capitale lié à la politique de 'Dirigeant' qui produit du Pouvoir d'Etat. Un bâtiment majestueux faisant office de centre du gouvernement et de résidence du Dirigeant d'où il exerce sont pouvoir.
+
+#txt_palace2_n#1
+Palace
+
+#txt_paper_dscr#1
+Produit du papier
+
+#txt_paper_n#1
+Papeterie
+
+#txt_pastr_dscr#1
+Une zone fermée de terre où le bétail peuvent se nourrir et se reproduire.
+
+#txt_pastr_n#1
+Pâturage
+
+#txt_pastrw_dscr#1
+Pâturages d'animaux producteurs de laine, régulièrement cisaillés pour recueillir leur laine.
+
+#txt_pastrw_n#1
+Pâturage de laine
+
+#txt_platf1_dscr#1
+Une plate-forme à faible résistance et bon marché. Utile pour faire des défenses et des ponts peu cher.
+
+#txt_platf1_n#1
+Plateforme en bois
+
+#txt_platf2_dscr#1
+Une plate-forme solide utile pour faire des murs résistants.
+
+#txt_platf2_n#1
+Plateforme en pierre
+
+#txt_postoffice_dscr#1
+Produit un service de communication réduisant le facteur de distance entre un centre régionnal et la capitale ou d'un capitale à ses subordonnés, améliorant ainsi leur administration.
+
+#txt_postoffice_n#1
 Bureau de Poste
 
-#txt_postoffice_dscr
-Produit un service de communication réduisant le facteur de distance entre un centre régionnal et la capitale ou d'un capitale à ses subordonnés, améliorant ainsi leur administration.
+#txt_potter_dscr#1
+Les potiers façonnent des pots à partir d'argile. La poterie est une ressource distribuable qui comble les besoins de la population dans l'ameublement.
+
+#txt_potter_n#1
+Potier
+
+#txt_prisoncamp_dscr#1
+Permet le stockage de prisonniers
+
+#txt_prisoncamp_n#1
+Camp de prisonniers
+
+#txt_quarry_dscr#1
+Annexes essentielles du tailleur de pierre, les carrières peuvent produire des blocs de pierre ou des blocs spécialisés sur des types de roche spéciaux.
+
+#txt_quarry_n#1
+Carrière
+
+#txt_road1_dscr#1
+Une route de base et libre de construire la route.
+
+#txt_road1_n#1
+Chemin de terre
+
+#txt_road2_dscr#1
+Une route avec des morceaux de bois incrustés dans la terre pour limiter la boue par temps pluvieux.
+
+#txt_road2_n#1
+Route en bois
+
+#txt_road3_dscr#1
+Une route pavée de pavés grossiers.
+
+#txt_road3_n#1
+Route pavée
+
+#txt_road4_dscr#1
+Une route chère faite de grands blocs de pierre
+
+#txt_road4_n#1
+Route de pierre
+
+#txt_road5_dscr#1
+Une route faite de petits blocs de pierre composés artistiquement.
+
+#txt_road5_n#1
+Rue pavée
+
+#txt_road6_dscr#1
+Un sol décoratif composé de petits cases de pierre, de verre et d'autres matériaux.
+
+#txt_road6_n#1
+Place de mosaïque
+
+#txt_road7_dscr#1
+Un sol décoratif fait de blocs de marbre brillant.
+
+#txt_road7_n#1
+Place de marbre
+
+#txt_road8_dscr#1
+Une route chère faite de gros blocs de calcaire blanc.
+
+#txt_road8_n#1
+Route de calcaire
+
+#txt_road9_dscr#1
+Une route coûteuse faite de gros blocs de grès.
+
+#txt_road9_n#1
+Route de grès
+
+#txt_rum_dscr#1
+Une distillerie qui produit de l'alchool à partir de la canne à sucre.
+
+#txt_rum_n#1
+Rhumerie
+
+#txt_sawmill_dscr#1
+La scierie raffine le bois brut en planches de bois, matériau nécessaire à la construction de nombreux bâtiments.
+
+#txt_sawmill_n#1
+Scierie
+
+#txt_school_dscr#1
+L'école augmente l'intelligence de la population.
+
+#txt_school_n#1
+École
+
+#txt_scrib_dscr#1
+Les scribes au service de l'Etat aident à suivre les affaires administratives.
+
+#txt_scrib_n#1
+Scribe
+
+#txt_senate_dscr#1
+Bâtiment unique de capitale lié à la politique de 'République' qui produit du Pouvoir d'Etat. Un bâtiment législatif ou les Sénateurs se rassemblent pour débattre et voter de nouvelles lois.
+
+#txt_senate_n#1
+Sénat
+
+#txt_stairs1_dscr#1
+Escaliers flexibles qui peuvent être placés contre des falaises ou des murs de toute hauteur.
+
+#txt_stairs1_n#1
+Escaliers
+
+#txt_stairs2_dscr#1
+Stairs that can be placed against cliffs or walls of any height to allow for passage. 
+
+#txt_stairs2_n#1
+Escaliers en pierre
+
+#txt_state_court_dscr#1
+Bâtiment unique de capitale lié à la politique de 'Cour' qui produit du Pouvoir d'Etat. Un large et cher bâtiment luxueux utilisé pour acceuillir subordonnés et vassaux avec faste afin de mieux les controller.
+
+#txt_state_court_n#1
+Grand Hall
+
+#txt_state_dptmnt_dscr#1
+Un couteux bâtiment de capitale qui produit du Pouvoir d'Etat suplémentaire, où des fonctionnaires spécialisés administrent un domaine particulier du gouvernement améliorant son administration.
+
+#txt_state_dptmnt_n#1
+Département d'Etat
+
+#txt_state_rcrds_dscr#1
+Bâtiment unique de capitale produisant du Pouvoir d'Etat. Dédié a l'archivage des documents du gouvernement, améliorant ainsi son administration.
+
+#txt_state_rcrds_n#1
+Archives gouvernementales
+
+#txt_steel_dscr1#1
+Produit de l'acier par carburation du fer forgé à la forge.
+
+#txt_steel_dscr2#1
+Produit de l'acier par décarburation de la fonte en la fondant.
+
+#txt_steel_n#1
+Aciérie
+
+#txt_stonecut_dscr#1
+Peut exploiter des cases de roche pour produire de la pierre brute ou construire des annexes de carrière pour produire des blocs de pierre ou des blocs spécialisés sur des tuiles avec un type de roche valide.
+
+#txt_stonecut_n#1
+Tailleur de pierre
+
+#txt_storegrnd_dscr#1
+Terrain marqué comme zone de stockage. C'est gratuit, mais non gardé et n'a pas une grande capacité de stockage.
+
+#txt_storegrnd_n#1
+Stockage au sol
+
+#txt_tannery_dscr#1
+Les tanneries affinent le cuir en veston, une ressource distribuable qui comble les besoins de la population en vêtements.
+
+#txt_tannery_n#1
+Tannerie
+
+#txt_tavern_dscr#1
+Un lieu de rassemblement social pour boire et faire la fête.
+
+#txt_tavern_n#1
+Taverne
+
+#txt_taxcol_dscr#1
+Réduit le gaspillage en s'assurant que la population paie correctement ses impôts.
+
+#txt_taxcol_n#1
+Collecteur de taxes
+
+#txt_theater_dscr#1
+Fournit du divertissement aux Porcos.
+
+#txt_theater_n#1
+Théâtre
+
+#txt_toolmk_dscr#1
+Les fabricants d'outils produisent différents types d'outils. Les outils sont utilisés pour beaucoup de choses, en particulier comme matériaux de construction.
+
+#txt_toolmk_n#1
+Outilleur
+
+#txt_tow1_dscr#1
+Une tour défensive bon marché mais faible faite de bois recouvert de cuir.
+
+#txt_tow1_n#1
+Tour de guet
+
+#txt_tow2_dscr#1
+Une tour de défense faite de poutres en bois épais. 
+
+#txt_tow2_n#1
+Tour en bois
+
+#txt_tow3_dscr#1
+Les tours de pierre sont beaucoup plus résistantes que leurs celles en bois. 
+
+#txt_tow3_n#1
+Tour de pierre
+
+#txt_tow4_dscr#1
+Cette tour est construite à partir de blocs de pierre solides pour augmenter la résistance à l'artillerie ennemie.
+
+#txt_tow4_n#1
+Tour maçonnée
+
+#txt_townhall_dscr#1
+Le centre d'administration régionnal requis pour un Bourg.
+
+#txt_townhall_n#1
+Hotel de Bourg
+
+#txt_treasury_dscr#1
+Bâtiment unique de capitale lié à la politique de 'Trésorerie' qui produit du Pouvoir d'Etat. Gère la Trésorerie et les finances du gouvernement.
+
+#txt_treasury_n#1
+Trésorerie
+
+#txt_trmarket_dscr#1
+Produit le service de Négoce requis pour la création d'offres commerciales avec d'autres cités.
+
+#txt_trmarket_n#1
+Marché
+
+#txt_wall1_dscr#1
+Un mur défensif simple fait de rondins de bois.
+
+#txt_wall1_n#1
+Palissade
+
+#txt_wall2_dscr#1
+Un mur défensif simple fait de briques de boue séchée.
+
+#txt_wall2_n#1
+Mur de boue
+
+#txt_wall3_dscr#1
+Un simple mur de défense en pavés, assemblé avec de la maçonnerie grossière.
+
+#txt_wall3_n#1
+Mur de pavés
+
+#txt_wall4_dscr#1
+Un simple mur de défense en briques cuites, plus solides que les briques en boue.
+
+#txt_wall4_n#1
+Mur de brique
+
+#txt_wall5_dscr#1
+Un mur de défense solide constitué de blocs de pierre.
+
+#txt_wall5_n#1
+Mur de blocs de pierre
+
+#txt_warehouse_dscr#1
+Les entrepôts peuvent stocker tous les types de matériaux de base. Ils sont gardés et peuvent stocker beaucoup plus de ressources que les entrepôts au sol.
+
+#txt_warehouse_n#1
+Entrepôt
+
+#txt_wash_dscr#1
+Un endroit où les gens peuvent venir laver leur linge.
+
+#txt_wash_n#1
+Lavoir
+
+#txt_watercol_dscr#1
+Berge aménagée où les gens peuvent venir collecter l'eau douce des rivières ou des lacs.
+
+#txt_watercol_n#1
+Collecteur d'eau
+
+#txt_waterwheel_dscr#1
+Fournit une puissance mécanique au bâtiment, améliorant son efficacité.
+
+#txt_waterwheel_n#1
+Roue à eau
+
+#txt_weapmk_dscr#1
+Les fabricants d'armes peuvent produire un large éventail d'armes et d'armures utilisées pour équiper et recruter des troupes.
+
+#txt_weapmk_n#1
+Armurier
+
+#txt_weaver_dscr#1
+Le tisserand affine différentes matières premières (coton, lin, laine ...) en textile. Le textile peut ensuite être utilisé pour diverses choses comme la confection de vêtements.
+
+#txt_weaver_n#1
+Tisserand
+
+#txt_well_dscr#1
+Extrait l'eau du sol.
+
+#txt_well_n#1
+Puits
+
+#txt_windwheel_dscr#1
+Fournit une puissance mécanique au bâtiment, améliorant son efficacité.
+
+#txt_windwheel_n#1
+Roue à vent
+
+#txt_winery_dscr#1
+Produit du vin à partir de raisins.
+
+#txt_winery_n#1
+Cave à vin
+
+#txt_woodc_dscr#1
+Les bûcherons peuvent exploiter la plupart des arbres disponibles à portée pour produire du bois.
+
+#txt_woodc_n#1
+Bûcheron
+

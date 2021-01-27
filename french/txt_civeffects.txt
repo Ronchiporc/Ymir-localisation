@@ -1,413 +1,435 @@
-#civfx_inc_n
-revenus de la population
-
-#civfx_inc_dscr
-débloque la richesse dynamique de la population
-
-#civfx_price_n
-prix dynamiques
-
-#civfx_price_dscr
-les ressources et les objets de valeur ont des prix dynamiques basés sur l'offre et la demande de la population
-
-#civfx_autodist_n
-distribution automatique
-
-#civfx_autodist_dscr
-toutes les ressources sont automatiquement disponibles pour toute la population et il n'y a pas besoin de distributeurs
-
-#civfx_bdgeff_n
-Efficacité des bâtiments
-
-#civfx_bdgeff_dscr
-modifie l'efficacité des bâtiments
-
-#civfx_conflict_n
-conflit de population
-
-#civfx_conflict_dscr
-modifie les conflits de population
-
-#civfx_stress_n
-stress de la population
-
-#civfx_stress_dscr
-modifie le stress de la population
-
-#civfx_paidmat_n
-prix des ressources
-
-#civfx_paidmat_dscr
-Les ressources ont désormais un prix et un propriétaire.
-
-#civfx_seizem_n
-matériaux saisis
-
-#civfx_seizem_dscr
-Lorsque les matériaux saisis sont actifs, tout ou partie des matériaux est saisi gratuitement au lieu d'être payé par l'Etat.
-
-#civfx_seizem_set
-pourcentage saisi
-
-#civfx_rescons_set1
-Ressource
-
-#civfx_rescons_set1d
-Selectionnez une nouvelle ressource distribuable à rendre disponible à votre population.
-
-#civfx_seizem_setd
-définir le pourcentage des prix du matériel que vous souhaitez saisir
-
-#civfx_territ_n
-Territoires de la province
-
-#civfx_territ_dscr
-les villes peuvent annexer d'autres territoires à leur province
-
-#civfx_prodtax_n
-Tribus de production
-
-#civfx_prodtax_dscr
-Une portion des ressources produites est saisie par le gouvernement comme tribut
-
-#civfx_inctax_n
-impôt sur le revenu
-
-#civfx_inctax_dscr
-une taxe appliquée à tous les revenus de la population du territoire
-
-#civfx_inctax_set
-Taux
-
-#civfx_inctax_setd
-Taxe les revenus de la population
-
-#civfx_saltax_n
-taxe de vente
-
-#civfx_saltax_dscr
-taxe appliquée à toutes les ventes sur le territoire (TVA simplifiée)
-
-#civfx_saltax_set
-pourcentage de taxe de vente
-
-#civfx_saltax_setd
-définir le pourcentage de ventes à taxer
-
-#civfx_leadwlth_n
-Privilèges du dirigeant
-
-#civfx_leadwlth_dscr
-Le dirigeant obtient une partie de la richesse produite par la capitale en tant que privilèges.
-
-#civfx_leadwlth_actv
-[x]% de privilèges pour le Dirigeant
-
-#civfx_leadwlth_set
-Taux de privilèges
-
-#civfx_leadwlth_setd
-Le pourcentage de richesse produite dans la capitale attribué comme privilèges au dirigeant.
-
-#civfx_leadsal_n
-Salaire du dirigeant
-
-#civfx_leadsal_dscr
-Le dirigeant reçoit un salaire payé par le gouvernement.
-
-#civfx_leadsal_set
-Salaire du dirigeant
-
-#civfx_leadsal_setd
-Le montant du salaire versé au dirigeant en monnaies.
-
-#civfx_nobwlth_n
-Privilèges Oligarchiques
-
-#civfx_nobwlth_dscr
-Les Oligarques obtiennent une partie de la richesse du territoire en tant que privilège
-
-#civfx_nobwlth_actv
-[x]% de privilèges pour le Oligarques
-
-#civfx_nobwlth_set
-Taux de privilèges
-
-#civfx_nobwlth_setd
-le pourcentage de richesse territoriale donné comme privilège à la classe des Oligarques.
-
-#civfx_nobsal_n
-Salaire d'Oligarques
-
-#civfx_nobsal_dscr
-Les Oligarches reçoivent un salaire payé par le gouvernement.
-
-#civfx_nobsal_set
-Salaire
-
-#civfx_nobsal_setd
-montant du salaire en pièces de monnaie
-
-#civfx_offwlth_n
-Privilèges des travailleurs d'Etat
-
-#civfx_offwlth_dscr
-Les travailleurs de l'Etat obtiennent une partie de la richesse du territoire en tant que privilège
-
-#civfx_offwlth_set
-Privilège des travailleurs d'Etat
-
-#civfx_offwlth_setd
-le pourcentage de richesse territoriale donné en tant que privilège aux travailleurs de l'Etat
-
-#civfx_offsal_n
-Salaire
-
-#civfx_offsal_dscr
-Les classes fonctionnaires reçoivent un salaire payé par le gouvernement.
-
-#civfx_offsal_set
-Salaire des travailleurs d'Etat
-
-#civfx_offsal_setd
-montant du salaire en pièces de monnaie
-
-#civfx_capadmin_n
-administration du capital
-
-#civfx_capadmin_dscr
-modifie l'administration de la capitale
-
-#civfx_cityadmin_n
-administration de la ville
-
-#civfx_cityadmin_dscr
-modifie l'administration de chaque ville
-
-#civfx_regadmin_n
-adimnistration du territoire
-
-#civfx_regadmin_dscr
-modifie l'administration de chaque territoire
-
-#civfx_caplead_n
-Dirigeant
-
-#civfx_caplead_dscr
-ajoute un Dirigeant dans la capitale
-
-#civfx_capnob_n
-Oligarques dans la capitale
-
-#civfx_capnob_dscr
-ajoute des Oligarques dans la capitale
-
-#civfx_regnob_n
-Oligarques régionnaux
-
-#civfx_regnob_dscr
-ajoute des Oligarques dans chaque centre régional
-
-#civfx_goldstck_n
-richesse des métaux précieux
-
-#civfx_goldstck_dscr
-augmente la richesse de tous les territoires pour chaque unité de métaux précieux (or et argent) dans les entrepôts
-
-#civfx_modhap_n
-bonheur de la population
-
-#civfx_modhap_dscr
-modifie le bonheur de la population
-
-#civfx_happy_n
-bonheur de la population
-
-#civfx_happy_dscr
-modifie le bonheur de la population
-
-#civfx_enmerch_n
-marchands
-
-#civfx_enmerch_dscr
-permet l'utilisation de marchands qui peuvent vendre des ressources à la population
-
-#civfx_entrout_n
-routes commerciales
-
-#civfx_entrout_dscr
-permet de créer des routes commerciales permanentes entre territoires
-
-#civfx_legitw_n
-Supériorité du Dirigeant
-
-#civfx_legitw_dscr
-La quantité de respect, de pouvoir, et d'influence dont jouit personnellement le Dirigeant.
-
-#civfx_wlegitw_n
-importance de la supériorité du Dirigeant
-
-#civfx_wlegitw_dscr
-Influence du facteur de supériorité du Dirigeant sur la Légitimité
-
-#civfx_legitprt_n
-Soutient des militaires
-
-#civfx_legitprt_dscr
-La quantité de pouvoir et de soutient des militaires.
-
-#civfx_wlegitprt_n
-importance des militaires
-
-#civfx_wlegitprt_dscr
-Influence du facteur de soutient des militaires sur la Légitimité
-
-#civfx_legitr_n
-Soutient des religieux
-
-#civfx_legitr_dscr
-La quantité de pouvoir et de soutient des religieux.
-
-#civfx_wlegitr_n
-importance des religieux
-
-#civfx_wlegitr_dscr
-Influence du facteur de soutient des religieux sur la Légitimité
-
-#civfx_legitpop_n
-Approbation du Peuple
-
-#civfx_legitpop_dscr
-Le degré d'approbation du Peuple.
-
-#civfx_wlegitpop_n
-importance du Peuple
-
-#civfx_wlegitpop_dscr
-Influence du facteur d'approbation du Peuple sur la Légitimité
-
-#civfx_legitolig_n
-Soutient de l'oligarchie
-
-#civfx_legitolig_dscr
-La quantité de pouvoir et de soutient de l'oligarchie.
-
-#civfx_wlegitolig_n
-importance de l'oligarchy
-
-#civfx_wlegitolig_dscr
-Influence du facteur de soutient de l'oligarchie sur la Légitimité
-
-#civfx_legitrep_n
-Soutient des représentants
-
-#civfx_legitrep_dscr
-La quantité de pouvoir et de soutient des représentants du Peuple.
-
-#civfx_wlegitrep_n
-importance des représentants
-
-#civfx_wlegitrep_dscr
-Influence du facteur de soutient des représentants sur la Légitimité
-
-#civfx_statepow_n
-Pouvoir d'État
-
-#civfx_statepow_dscr
-modifie la quantité de pouvoir de l'Etat
-
-#civfx_foodcons_n
-consommation de nourriture
-
-#civfx_foodcons_dscr
-affecte la quantité de nourriture requise par les porcos pour satisfaire leurs besoins alimentaires
-
-#civfx_nomoney_n
-pas de monnaie
-
-#civfx_nomoney_dscr
-Il n'existe aucune forme de monnaie quantifiable et stockable.
-
-#civfx_treasury_n
-séparation des fonds
-
-#civfx_treasury_dscr
-La trésorerie gouvernmentale et les propriétés privées du Dirigeant sont désormais séparées.
-
-#civfx_agrisav_n
-graines de stockage
-
-#civfx_agrisav_dscr
+#civfx_agrisav_dscr#1
 25% de toute la production agroalimentaire va directement dans les greniers
 
-#civfx_subv_n
-subvention
+#civfx_agrisav_n#1
+graines de stockage
 
-#civfx_subv_dscr
-une aide publique accordée à chaque travailleur d'une classe sociale déterminée, pour augmenter son revenu
+#civfx_autodist_dscr#1
+toutes les ressources sont automatiquement disponibles pour toute la population et il n'y a pas besoin de distributeurs
 
-#civfx_subv_actv
-Subvention de [y] monnaies pour les [x]
+#civfx_autodist_n#1
+distribution automatique
 
-#civfx_subv_set1
-Population
+#civfx_bdgeff_dscr#1
+modifie l'efficacité des bâtiments
 
-#civfx_subv_set1d
-La classe sociale qui reçoit cette subvention
+#civfx_bdgeff_n#1
+Efficacité des bâtiments
 
-#civfx_subv_set2
-Subvention
+#civfx_bribes_dscr#1
+Cadeaux offerts à la classe des Oligarches, augmentant leur richesse et favorisant leur soutient.
 
-#civfx_subv_set2d
-Le montant de la subvention. Chaque ouvrier de cette classe recevra cette quantité de pièces ajoutée à son revenu.
+#civfx_bribes_n#1
+pots-de-vin
 
-#civfx_paidrsrch_n
-chercheurs rémunérés
+#civfx_bribes_set#1
+pots-de-vin pour Oligarches
 
-#civfx_paidrsrch_dscr
-les chercheurs sont payés et ne réduisent plus les effectifs des bâtiments où ils travaillent.
+#civfx_bribes_setd#1
+Valeur des pots-de-vin versés à chaque Oligarche.
 
-#civfx_ldcntrb_n
-Contribution à la trésorerie
+#civfx_capadmin_dscr#1
+modifie l'administration de la capitale
 
-#civfx_ldcntrb_dscr
-Le dirigeant peut contribuer aux finances du gouvernement avec sa propre richesse.
+#civfx_capadmin_n#1
+administration du capital
 
-#civfx_ldcntrb_actv
-[x]% de contribution du Dirigeant
+#civfx_caplead_dscr#1
+ajoute un Dirigeant dans la capitale
 
-#civfx_ldcntrb_set
-Taux de contribution
+#civfx_caplead_n#1
+Dirigeant
 
-#civfx_ldcntrb_setd
-Pourcentage de la richesse du dirigeant gagnée par les privilèges qui est réaffectée à la trésorerie du gouvernement (à noter que cela réduira proportionnellement la richesse du dirigeant).
+#civfx_capnob_dscr#1
+ajoute des Oligarques dans la capitale
 
-#civfx_rescons_n
-Consommation de [x]
+#civfx_capnob_n#1
+Oligarques dans la capitale
 
-#civfx_rescons_dscr
-Ressource culturellement adoptée par vôtre population:
+#civfx_cityadmin_dscr#1
+modifie l'administration de chaque ville
 
-#traitfx_resprod_n
-Niveau de production
+#civfx_cityadmin_n#1
+administration de la ville
 
-#traitfx_resprod_dscr
-Le 1er niveau permet la production, et les niveaux suivants améliorent l'efficacité de production tout en réduisant le coût en matériaux par unité.
-
-#traitfx_resqual_n
-Niveau de qualité
-
-#traitfx_resqual_dscr
-Chaque niveau augmente la qualité de production de la ressource.
-
-#civfx_comwork_n
-travail communautaire
-
-#civfx_comwork_dscr
+#civfx_comwork_dscr#1
 Pourcentage de temps que les Actifs attribuent aux tâches communautaires au détriment de l'efficacité des bâtiments.
 
-#civfx_comwork_set
+#civfx_comwork_n#1
+travail communautaire
+
+#civfx_comwork_set#1
 temps alloué
 
-#civfx_comwork_setd
+#civfx_comwork_setd#1
 Définit le pourcentage du temps que les actifs consacreront aux travaux communautaires (réduits l'efficacité des bâtiments proportionellement).
+
+#civfx_comworkmod_actv#1
+[x]% de travail communautaire
+
+#civfx_comworkmod_dscr#1
+modifies l'efficacité du travail communautaire.
+
+#civfx_comworkmod_n#1
+travail communautaire
+
+#civfx_conflict_dscr#1
+modifie les conflits de population
+
+#civfx_conflict_n#1
+conflit de population
+
+#civfx_enmerch_dscr#1
+permet l'utilisation de marchands qui peuvent vendre des ressources à la population
+
+#civfx_enmerch_n#1
+marchands
+
+#civfx_entrout_dscr#1
+permet de créer des routes commerciales permanentes entre territoires
+
+#civfx_entrout_n#1
+routes commerciales
+
+#civfx_foodcons_dscr#1
+affecte la quantité de nourriture requise par les porcos pour satisfaire leurs besoins alimentaires
+
+#civfx_foodcons_n#1
+consommation de nourriture
+
+#civfx_goldstck_dscr#1
+augmente la richesse de tous les territoires pour chaque unité de métaux précieux (or et argent) dans les entrepôts
+
+#civfx_goldstck_n#1
+richesse des métaux précieux
+
+#civfx_happy_dscr#1
+modifie le bonheur de la population
+
+#civfx_happy_n#1
+bonheur de la population
+
+#civfx_inc_dscr#1
+débloque la richesse dynamique de la population
+
+#civfx_inc_n#1
+revenus de la population
+
+#civfx_inctax_dscr#1
+une taxe appliquée à tous les revenus de la population du territoire
+
+#civfx_inctax_n#1
+impôt sur le revenu
+
+#civfx_inctax_set#1
+Taux
+
+#civfx_inctax_setd#1
+Taxe les revenus de la population
+
+#civfx_ldcntrb_actv#1
+[x]% de contribution du Dirigeant
+
+#civfx_ldcntrb_dscr#1
+Le dirigeant peut contribuer aux finances du gouvernement avec sa propre richesse.
+
+#civfx_ldcntrb_n#1
+Contribution à la trésorerie
+
+#civfx_ldcntrb_set#1
+Taux de contribution
+
+#civfx_ldcntrb_setd#1
+Pourcentage de la richesse du dirigeant gagnée par les privilèges qui est réaffectée à la trésorerie du gouvernement (à noter que cela réduira proportionnellement la richesse du dirigeant).
+
+#civfx_leadsal_dscr#1
+Le dirigeant reçoit un salaire payé par le gouvernement.
+
+#civfx_leadsal_n#1
+Salaire du dirigeant
+
+#civfx_leadsal_set#1
+Salaire du dirigeant
+
+#civfx_leadsal_setd#1
+Le montant du salaire versé au dirigeant en monnaies.
+
+#civfx_leadwlth_actv#1
+[x]% de privilèges pour le Dirigeant
+
+#civfx_leadwlth_dscr#1
+Le dirigeant obtient une partie de la richesse produite par la capitale en tant que privilèges.
+
+#civfx_leadwlth_n#1
+Privilèges du dirigeant
+
+#civfx_leadwlth_set#1
+Taux de privilèges
+
+#civfx_leadwlth_setd#1
+Le pourcentage de richesse produite dans la capitale attribué comme privilèges au dirigeant.
+
+#civfx_legitolig_dscr#1
+La quantité de pouvoir et de soutient de l'oligarchie.
+
+#civfx_legitolig_n#1
+Soutient de l'oligarchie
+
+#civfx_legitpop_dscr#1
+Le degré d'approbation du Peuple.
+
+#civfx_legitpop_n#1
+Approbation du Peuple
+
+#civfx_legitprt_dscr#1
+La quantité de pouvoir et de soutient des militaires.
+
+#civfx_legitprt_n#1
+Soutient des militaires
+
+#civfx_legitr_dscr#1
+La quantité de pouvoir et de soutient des religieux.
+
+#civfx_legitr_n#1
+Soutient des religieux
+
+#civfx_legitrep_dscr#1
+La quantité de pouvoir et de soutient des représentants du Peuple.
+
+#civfx_legitrep_n#1
+Soutient des représentants
+
+#civfx_legitw_dscr#1
+La quantité de respect, de pouvoir, et d'influence dont jouit personnellement le Dirigeant.
+
+#civfx_legitw_n#1
+Supériorité du Dirigeant
+
+#civfx_modhap_dscr#1
+modifie le bonheur de la population
+
+#civfx_modhap_n#1
+bonheur de la population
+
+#civfx_nobsal_dscr#1
+Les Oligarches reçoivent un salaire payé par le gouvernement.
+
+#civfx_nobsal_n#1
+Salaire d'Oligarques
+
+#civfx_nobsal_set#1
+Salaire
+
+#civfx_nobsal_setd#1
+montant du salaire en pièces de monnaie
+
+#civfx_nobwlth_actv#1
+[x]% de privilèges pour le Oligarques
+
+#civfx_nobwlth_dscr#1
+Les Oligarques obtiennent une partie de la richesse du territoire en tant que privilège
+
+#civfx_nobwlth_n#1
+Privilèges Oligarchiques
+
+#civfx_nobwlth_set#1
+Taux de privilèges
+
+#civfx_nobwlth_setd#1
+le pourcentage de richesse territoriale donné comme privilège à la classe des Oligarques.
+
+#civfx_nomoney_dscr#1
+Il n'existe aucune forme de monnaie quantifiable et stockable.
+
+#civfx_nomoney_n#1
+pas de monnaie
+
+#civfx_offsal_dscr#1
+Les classes fonctionnaires reçoivent un salaire payé par le gouvernement.
+
+#civfx_offsal_n#1
+Salaire
+
+#civfx_offsal_set#1
+Salaire des travailleurs d'Etat
+
+#civfx_offsal_setd#1
+montant du salaire en pièces de monnaie
+
+#civfx_offwlth_dscr#1
+Les travailleurs de l'Etat obtiennent une partie de la richesse du territoire en tant que privilège
+
+#civfx_offwlth_n#1
+Privilèges des travailleurs d'Etat
+
+#civfx_offwlth_set#1
+Privilège des travailleurs d'Etat
+
+#civfx_offwlth_setd#1
+le pourcentage de richesse territoriale donné en tant que privilège aux travailleurs de l'Etat
+
+#civfx_paidmat_dscr#1
+Les ressources ont désormais un prix et un propriétaire.
+
+#civfx_paidmat_n#1
+prix des ressources
+
+#civfx_paidrsrch_dscr#1
+les chercheurs sont payés et ne réduisent plus les effectifs des bâtiments où ils travaillent.
+
+#civfx_paidrsrch_n#1
+chercheurs rémunérés
+
+#civfx_price_dscr#1
+les ressources et les objets de valeur ont des prix dynamiques basés sur l'offre et la demande de la population
+
+#civfx_price_n#1
+prix dynamiques
+
+#civfx_prodtax_dscr#1
+Une portion des ressources produites est saisie par le gouvernement comme tribut
+
+#civfx_prodtax_n#1
+Tribus de production
+
+#civfx_prodtax_set#1
+production saisie
+
+#civfx_prodtax_setd#1
+Définis le pourcentage de ressources produites (bétail et nourritures agricoles) saisies par l'Etat.
+
+#civfx_regadmin_dscr#1
+modifie l'administration de chaque territoire
+
+#civfx_regadmin_n#1
+adimnistration du territoire
+
+#civfx_regnob_dscr#1
+ajoute des Oligarques dans chaque centre régional
+
+#civfx_regnob_n#1
+Oligarques régionnaux
+
+#civfx_rescons_dscr#1
+Ressource culturellement adoptée par vôtre population:
+
+#civfx_rescons_n#1
+Consommation de [x]
+
+#civfx_saltax_dscr#1
+taxe appliquée à toutes les ventes sur le territoire (TVA simplifiée)
+
+#civfx_saltax_n#1
+taxe de vente
+
+#civfx_saltax_set#1
+pourcentage de taxe de vente
+
+#civfx_saltax_setd#1
+définir le pourcentage de ventes à taxer
+
+#civfx_seizem_dscr#1
+Lorsque les matériaux saisis sont actifs, tout ou partie des matériaux est saisi gratuitement au lieu d'être payé par l'Etat.
+
+#civfx_seizem_n#1
+matériaux saisis
+
+#civfx_seizem_set#1
+pourcentage saisi
+
+#civfx_seizem_setd#1
+définir le pourcentage des prix du matériel que vous souhaitez saisir
+
+#civfx_statepow_dscr#1
+modifie la quantité de pouvoir de l'Etat
+
+#civfx_statepow_n#1
+Pouvoir d'État
+
+#civfx_stress_dscr#1
+modifie le stress de la population
+
+#civfx_stress_n#1
+stress de la population
+
+#civfx_subv_actv#1
+Subvention de [y] monnaies pour les [x]
+
+#civfx_subv_dscr#1
+une aide publique accordée à chaque travailleur d'une classe sociale déterminée, pour augmenter son revenu
+
+#civfx_subv_n#1
+subvention
+
+#civfx_subv_set1#1
+Population
+
+#civfx_subv_set1d#1
+La classe sociale qui reçoit cette subvention
+
+#civfx_subv_set2#1
+Subvention
+
+#civfx_subv_set2d#1
+Le montant de la subvention. Chaque ouvrier de cette classe recevra cette quantité de pièces ajoutée à son revenu.
+
+#civfx_territ_dscr#1
+les villes peuvent annexer d'autres territoires à leur province
+
+#civfx_territ_n#1
+Territoires de la province
+
+#civfx_treasury_dscr#1
+La trésorerie gouvernmentale et les propriétés privées du Dirigeant sont désormais séparées.
+
+#civfx_treasury_n#1
+séparation des fonds
+
+#civfx_wlegitolig_dscr#1
+Influence du facteur de soutient de l'oligarchie sur la Légitimité
+
+#civfx_wlegitolig_n#1
+importance de l'oligarchy
+
+#civfx_wlegitpop_dscr#1
+Influence du facteur d'approbation du Peuple sur la Légitimité
+
+#civfx_wlegitpop_n#1
+importance du Peuple
+
+#civfx_wlegitprt_dscr#1
+Influence du facteur de soutient des militaires sur la Légitimité
+
+#civfx_wlegitprt_n#1
+importance des militaires
+
+#civfx_wlegitr_dscr#1
+Influence du facteur de soutient des religieux sur la Légitimité
+
+#civfx_wlegitr_n#1
+importance des religieux
+
+#civfx_wlegitrep_dscr#1
+Influence du facteur de soutient des représentants sur la Légitimité
+
+#civfx_wlegitrep_n#1
+importance des représentants
+
+#civfx_wlegitw_dscr#1
+Influence du facteur de supériorité du Dirigeant sur la Légitimité
+
+#civfx_wlegitw_n#1
+importance de la supériorité du Dirigeant
+
+#traitfx_resprod_dscr#1
+Le 1er niveau permet la production, et les niveaux suivants améliorent l'efficacité de production tout en réduisant le coût en matériaux par unité.
+
+#traitfx_resprod_n#1
+Niveau de production
+
+#traitfx_resqual_dscr#1
+Chaque niveau augmente la qualité de production de la ressource.
+
+#traitfx_resqual_n#1
+Niveau de qualité
+

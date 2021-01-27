@@ -1,209 +1,210 @@
-#civ_gifteco_n
-Gift economy
-
-#civ_gifteco_dscr
-A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future reward.
-
-#civ_fairxchang_n
-Barter
-
-#civ_fairxchang_dscr
-Immediate and reciprocal exchange of goods or services of equivalent value.
-
-#civ_currency_n
-Currency
-
-#civ_currency_dscr
-Having a reference valuable to facilitate exchanges and use as a unit for value measurement. 
-
-#civ_coinage_n
-Coinage
-
-#civ_coinage_dscr
-A state-certified currency.
-
-#civ_repmoney_n
-Representative money
-
-#civ_repmoney_dscr
-A currency representing a claim on a commodity instead of being a commodity itself.
-
-#civ_bandsociety_n
-Band society
-
-#civ_bandsociety_dscr
-The simplest form of society with loose organization and informal leadership.
-
-#civ_leadership_n
-Leadership
-
-#civ_leadership_dscr
-One recognized leader to rule them all.
-
-#civ_oligbribes_n
-Political bribes
-
-#civ_oligbribes_dscr
-Offering gifts and payments to gain political support from influent Oligarchs.
-
-#civ_localchief_n
-Regional Administration
-
-#civ_localchief_dscr
-The organisation of local administrations federated under a central government, allowing for the control multiple administrative regions.
-
-#civ_prtctor_n
-Protector of the people
-
-#civ_prtctor_dscr
-"I rule because I am in charge of protecting the people."
-
-#civ_superior_n
-Superior leader
-
-#civ_superior_dscr
-"I rule because I am superior."
-
-#civ_divine_n
-Divine leader
-
-#civ_divine_dscr
-"I rule because I am a god."
-
-#civ_divinerep_n
-Divine representative
-
-#civ_divinerep_dscr
-"I rule because I am chosen by the gods."
-
-#civ_comgood_n
-By the People
-
-#civ_comgood_dscr
-"We are the people."
-
-#civ_people_n
-People representatives
-
-#civ_people_dscr
-"We rule in the name of the people."
-
-#civ_olig_n
-For the Elites
-
-#civ_olig_dscr
-"I rule for the elites."
-
-#civ_tax_n
-Taxation
-
-#civ_tax_dscr
-Organized financial charges imposed upon taxpayers by the state.
-
-#civ_statepriv_n
-Privileges
-
-#civ_statepriv_dscr
-Privileges for the leadership of your government granting them a percentage of a territory's wealth by right.
-
-#civ_statesal_n
-Civil servant wadges
-
-#civ_statesal_dscr
-All Civil Servants are now formally employed and paid by the government, receiving an official salary for their work.
-
-#civ_minist_n
-Ministry
-
-#civ_minist_dscr
-A group of statespigs holding significant public offices making and implementing decisions on policies in conjunction with one another.
-
-#civ_ration_n
-Food rationing
-
-#civ_ration_dscr
-The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improve everyone's access to foods.
-
-#civ_subv_n
-Subvention
-
-#civ_subv_dscr
-An aid paid by the state to every porco of a specific class of workers increasing their income.
-
-#civ_paidrsrch_n
-Paid researchers
-
-#civ_paidrsrch_dscr
-Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings in which they work.
-
-#cltr_consume_n
-Resource consumption
-
-#cltr_consume_dscr
-The cultural custom of your population to consume a specific resource. It enables population demand and the selling of that resource to the population.
-
-#cltr_resprod_n
-Resource production
-
-#cltr_resprod_dscr
-The cultural tradition of production unlocks the production of a specific resource. The subsequent levels improve production efficiency while reducing materials costs.
-
-#cltr_resqual_n
-Resource expertise
-
-#cltr_resqual_dscr
-The cultural tradition of craftsmanship of a specific resource improves the production quality of a resource.
-
-#civ_tributes_n
-Tributes
-
-#civ_tributes_dscr
-An early form of taxation where the government takes ownership of a portion of all produced resources.
-
-#civ_council_n
-Council
-
-#civ_council_dscr
-A council of trusted advisors assissting the Leader in governance matters, improving the administration of the State.
-
-#civ_treasury_n
-Treasury
-
-#civ_treasury_dscr
-The separation of the Leader and the Government's finances, the treasury manages the finances of the Government.
-
-#civ_lawmk_n
-Lawmaking
-
-#civ_lawmk_dscr
-An institution of Civil Servants specialized in Lawmaking.
-
-#civ_court_n
-Court
-
-#civ_court_dscr
-The constitution of a Court hosting and entertaining subordinates and vassals directly in the capital to better control and manage them.
-
-#civ_democracy_n
-Democracy
-
-#civ_democracy_dscr
-Governance as a direct democracy where citizens vote and participate in governance directly, and where the majority rules without any leader or representatives.
-
-#civ_republic_n
-Republic
-
-#civ_republic_dscr
-Governance as a republic where statespigs rule in the name of the people.
-
-#civ_aristo_n
-Aristocracy
-
-#civ_aristo_dscr
+#civ_aristo_dscr#1
 Oligarchy becomes cemented as an official birthright that comes with priviledges and is transmitted by heredity, securing the status of the Oligarch families.
 
-#civ_comwork_n
+#civ_aristo_n#1
+Aristocracy
+
+#civ_bandsociety_dscr#1
+The simplest form of society with loose organization and informal leadership.
+
+#civ_bandsociety_n#1
+Band society
+
+#civ_coinage_dscr#1
+A state-certified currency.
+
+#civ_coinage_n#1
+Coinage
+
+#civ_comgood_dscr#1
+"We are the people."
+
+#civ_comgood_n#1
+By the People
+
+#civ_comwork_dscr#1
+All actives have to devote a portion of their time to community work.
+
+#civ_comwork_n#1
 Community work
 
-#civ_comwork_dscr
-All actives have to devote a portion of their time to community work.
+#civ_council_dscr#1
+A council of trusted advisors assissting the Leader in governance matters, improving the administration of the State.
+
+#civ_council_n#1
+Council
+
+#civ_court_dscr#1
+The constitution of a Court hosting and entertaining subordinates and vassals directly in the capital to better control and manage them.
+
+#civ_court_n#1
+Court
+
+#civ_currency_dscr#1
+Having a reference valuable to facilitate exchanges and use as a unit for value measurement. 
+
+#civ_currency_n#1
+Currency
+
+#civ_democracy_dscr#1
+Governance as a direct democracy where citizens vote and participate in governance directly, and where the majority rules without any leader or representatives.
+
+#civ_democracy_n#1
+Democracy
+
+#civ_divine_dscr#1
+"I rule because I am a god."
+
+#civ_divine_n#1
+Divine leader
+
+#civ_divinerep_dscr#1
+"I rule because I am chosen by the gods."
+
+#civ_divinerep_n#1
+Divine representative
+
+#civ_fairxchang_dscr#1
+Immediate and reciprocal exchange of goods or services of equivalent value.
+
+#civ_fairxchang_n#1
+Barter
+
+#civ_gifteco_dscr#1
+A mode of exchange where valuables are not traded or sold, but rather given without an explicit agreement for immediate or future reward.
+
+#civ_gifteco_n#1
+Gift economy
+
+#civ_lawmk_dscr#1
+An institution of Civil Servants specialized in Lawmaking.
+
+#civ_lawmk_n#1
+Lawmaking
+
+#civ_leadership_dscr#1
+One recognized leader to rule them all.
+
+#civ_leadership_n#1
+Leadership
+
+#civ_localchief_dscr#1
+The organisation of local administrations federated under a central government, allowing for the control multiple administrative regions.
+
+#civ_localchief_n#1
+Regional Administration
+
+#civ_minist_dscr#1
+A group of statespigs holding significant public offices making and implementing decisions on policies in conjunction with one another.
+
+#civ_minist_n#1
+Ministry
+
+#civ_olig_dscr#1
+"I rule for the elites."
+
+#civ_olig_n#1
+For the Elites
+
+#civ_oligbribes_dscr#1
+Offering gifts and payments to gain political support from influent Oligarchs.
+
+#civ_oligbribes_n#1
+Political bribes
+
+#civ_paidrsrch_dscr#1
+Project researchers get paid by the state proportionnaly to their current wealth and no longer reduce the workforce of the buildings in which they work.
+
+#civ_paidrsrch_n#1
+Paid researchers
+
+#civ_people_dscr#1
+"We rule in the name of the people."
+
+#civ_people_n#1
+People representatives
+
+#civ_prtctor_dscr#1
+"I rule because I am in charge of protecting the people."
+
+#civ_prtctor_n#1
+Protector of the people
+
+#civ_ration_dscr#1
+The rationning of food reduces the food consumption of each porco. In times of food shortage, it helps improve everyone's access to foods.
+
+#civ_ration_n#1
+Food rationing
+
+#civ_repmoney_dscr#1
+A currency representing a claim on a commodity instead of being a commodity itself.
+
+#civ_repmoney_n#1
+Representative money
+
+#civ_republic_dscr#1
+Governance as a republic where statespigs rule in the name of the people.
+
+#civ_republic_n#1
+Republic
+
+#civ_statepriv_dscr#1
+Privileges for the leadership of your government granting them a percentage of a territory's wealth by right.
+
+#civ_statepriv_n#1
+Privileges
+
+#civ_statesal_dscr#1
+All Civil Servants are now formally employed and paid by the government, receiving an official salary for their work.
+
+#civ_statesal_n#1
+Civil servant wadges
+
+#civ_subv_dscr#1
+An aid paid by the state to every porco of a specific class of workers increasing their income.
+
+#civ_subv_n#1
+Subvention
+
+#civ_superior_dscr#1
+"I rule because I am superior."
+
+#civ_superior_n#1
+Superior leader
+
+#civ_tax_dscr#1
+Organized financial charges imposed upon taxpayers by the state.
+
+#civ_tax_n#1
+Taxation
+
+#civ_treasury_dscr#1
+The separation of the Leader and the Government's finances, the treasury manages the finances of the Government.
+
+#civ_treasury_n#1
+Treasury
+
+#civ_tributes_dscr#1
+An early form of taxation where the government takes ownership of a portion of all produced resources.
+
+#civ_tributes_n#1
+Tributes
+
+#cltr_consume_dscr#1
+The cultural custom of your population to consume a specific resource. It enables population demand and the selling of that resource to the population.
+
+#cltr_consume_n#1
+Resource consumption
+
+#cltr_resprod_dscr#1
+The cultural tradition of production unlocks the production of a specific resource. The subsequent levels improve production efficiency while reducing materials costs.
+
+#cltr_resprod_n#1
+Resource production
+
+#cltr_resqual_dscr#1
+The cultural tradition of craftsmanship of a specific resource improves the production quality of a resource.
+
+#cltr_resqual_n#1
+Resource expertise
+
