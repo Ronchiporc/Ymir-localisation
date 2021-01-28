@@ -19,7 +19,7 @@ All the extra keys ("Deleted" state) and files are automatically deleted, and al
 ##  How to set up the tool
 
 1) At this point, you should see something like this: ![Base Image](images/1.png)
-2) In order to open the folder which contains all the localizations, click on `Languages Folder` (top-left corner), and then click on `Open Folder`. ![Language Folder Image](images/2.png)
+2) In order to open the folder which contains all the localizations, click on `Languages Folder` (top-left corner), and then `Open Folder`. ![Language Folder Image](images/2.png)
 3) This should open a new window asking you to open the folder. Browse to the correct directory (`Ymir-localisation`), and then click `Select Folder` (bottom-right corner). ![Select Folder Image](images/3.png)
 4) Now, a new grey text saying `Select language...` should appear in the menu item to the right of `Languages Folder` button. ![Select Language Image](images/4.png)
 5) Click it, and a dropdown displaying all the available localizations should appear. Finally select the language you want to edit. ![Localizations Dropdown Image](images/5.png)
