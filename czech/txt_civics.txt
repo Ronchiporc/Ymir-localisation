@@ -47,18 +47,6 @@ Místní authority
 #civ_localchief_dscr
 Místní teritoriální šlechtic vladne svému jednomu teritoriu a vynáší rozkazy hlavní mocy.
 
-#civ_governors_n
-Guvernéři
-
-#civ_governors_dscr
-Veřejní činitelé s pravomocí řídit provincie.
-
-#civ_senate_n
-Senát
-
-#civ_senate_dscr
-Sestava státních svázku jednajících za zájmy prasat.
-
 #civ_prtctor_n
 Ochránce prasat
 
@@ -101,12 +89,6 @@ Zdanění
 #civ_tax_dscr
 Finanční poplatky uložené daňovým poplatníkům státem.
 
-#civ_seizem_n
-Zabrat materiál
-
-#civ_seizem_dscr
-Zabrat konstrukční materiály od tvé populace místo placení za ně. Převeliké využívání, může narušit běh ekonomie.
-
 #civ_statepriv_n
 Privilégia
 
@@ -119,12 +101,6 @@ Státní zaměstnanci
 #civ_statesal_dscr
 Státní pracovníci jsou přímo zaměstnáni a placeni státem a slouží v různých oficiálních budovách, jako je administrativa nebo školství.
 
-#civ_parl_n
-Parlament
-
-#civ_parl_dscr
-Poskládaní reprezentativců lidí.
-
 #civ_minist_n
 Ministerstvo
 
@@ -136,12 +112,6 @@ Jídelní přídělový systém
 
 #civ_ration_dscr
 Přídělový systém na jídlo sníží spotřebu jídla od každého prasete. Vyplatí se v kryzích nedostatku jídla, umožňujě přístup všem k jídlu. Ale pozor zvyšuje nepohodlnost obyvatelstva. 
-
-#civ_agrisav_n
-Uchovávání semen
-
-#civ_agrisav_dscr
-Zabraňuje části vypěstovaného jídla býti zkonzumováno nebo distuboováno, účelem je uchovat dostatek na možnost stavby dalších nových polí.
 
 #civ_subv_n
 Podpora
@@ -160,4 +130,70 @@ Spotřeba zdrojů
 
 #cltr_consume_dscr
 Kulturní zvyk vaší populace spotřebovat konkrétní zdroj. Umožňuje populační poptávku a prodej tohoto zdroje obyvatelstvu.
+
+#civ_olig_n
+Za Elitu
+
+#civ_olig_dscr
+"Jsem zástupcem vepřovské Eliti!"
+
+#cltr_resprod_n
+Výroba zdrojů
+
+#cltr_resprod_dscr
+Kulturní tradice výroby odemyká produkci konkrétního zdroje. Následující úrovně zlepšují efektivitu výroby a zároveň snižují náklady na výrobní materiál.
+
+#cltr_resqual_n
+Odbornost v oblasti zdrojů
+
+#cltr_resqual_dscr
+Kulturní tradice řemeslného zpracování konkrétního zdroje, zlepšuje kvalitu výroby daného zdroje.
+
+#civ_tributes_n
+Hold (Tributes)
+
+#civ_tributes_dscr
+Raná forma zdanění, kdy vláda převezme vlastnictví části všech vyprodukovaných zdrojů.
+
+#civ_council_n
+Rada
+
+#civ_council_dscr
+Rada důvěryhodných poradců, kteří se usilují o výpomoc Vládci v otázkách správy věcí veřejných a zlepšují Administrativy státu.
+
+#civ_treasury_n
+Státní pokladna
+
+#civ_treasury_dscr
+Separace vůdcova bohatství od vládních financí, Ministerstvo Financí spravuje finance vlády.
+
+#civ_lawmk_n
+Zákonodárství
+
+#civ_lawmk_dscr
+Instituce státních zaměstnanců se specializací na tvorbu právních předpisů.
+
+#civ_court_n
+Dvůr
+
+#civ_court_dscr
+Státní dvůr, který hostuje a baví podřízené a vazaly přímo v hlavním městě, aby je lépe kontroloval a spravoval.
+
+#civ_democracy_n
+Demokracie
+
+#civ_democracy_dscr
+Vládnutí jako přímá demokracie, kde občané volí a přímo se účastní vládnutí, a kde vládne většina bez vůdce či zástupců.
+
+#civ_republic_n
+Republika
+
+#civ_republic_dscr
+Vládnutí jako republika, kde vládnou státní vepří jménem lidu.
+
+#civ_aristo_n
+Aristokracie
+
+#civ_aristo_dscr
+Oligarchie se stává oficiálním právem prvorozenství, které má privilegia a je přenášeno dědičností, což zajišťuje status rodin Oligarchů.
 
