@@ -1703,48 +1703,6 @@ Total legitimacy
 #legit_honor_c
 Your Honor directly affects your legitimacy. Noone wants to serve under a dishonnorable ruler!
 
-#legit_protect
-Vojská síla
-
-#legit_protect_c
-Our military strenght is currently [x]. It's increased by having more armies and more powerful units in relation to your total population.
-
-#legit_wealth
-Vznešenost vládce
-
-#legit_wealth_c
-Vznešenost našeho vládce je právě [x]. Je to určeno bohatstvím vládcovské populační třídy.
-
-#legit_relig
-Náboženství populace
-
-#legit_relig_c
-[zatím není implementováno]
-
-#legit_parl
-Moc Parlamentu
-
-#legit_parl_c
-[zatím není implementováno]
-
-#legit_senat
-Moc Senátu
-
-#legit_senat_c
-[zatím není implementováno]
-
-#legit_approv
-Podpora obyvatelstva
-
-#legit_approv_c
-[zatím není implementováno]
-
-#legit_minist
-Moc Ministerstva
-
-#legit_minist_c
-[zatím není implementováno]
-
 #legit_inf_pos
 The [x] factor currently has a positive influence over our Legitimacy. ([y])
 
@@ -6365,3 +6323,296 @@ Formace nasbírala [x] dřeva.
 #ui_regwlth_prv_c2
 [x]% z [y] bohatství = [z] odkloněn od privilegií
 
+#ui_menubdg_linkpol1
+Chybějící Politiky
+
+#ui_menubdg_linkpol2
+Tato budova vyžaduje, aby byly aktivní politiky ([x]) aby byla funkční.
+
+#ui_menubdg_linkter1
+Invalidní teritoriální status
+
+#ui_menubdg_linkter2
+Tato budova vyžaduje teritoriální status '[x]'  aby byla funkční.
+
+#ui_mres_prod_cltr
+Tento zdroj produkuje [x] Státní Kultury za každou vyrobenou jednotku, v současné době produkuje celkem [y] Státní Kultury.
+
+#legit_from_pol
+* Aktivní politiky: [x]
+
+#legit_protect_c1
+Zvyšuje se tím, že máte více armád a mocnějších jednotek ve vztahu k vaší celkové populaci.
+
+#legit_protect_c2
+* Síla armády na obyvatele: [x]
+
+#legit_wealth_c2
+* Vládcovo osobní bohatství: [x]
+
+#legit_wealth_c1
+Zvyšuje se osobním bohatstvím Vladnoucí třídy.
+
+#legit_olig_c2
+* Třídní dominance [x] z [y] Oligarchů: [z]
+
+#legit_olig_c1
+Podporu lze získat zajištěním toho, že třída Oligarchů zůstane lepší než průměrná populace v oblasti bohatství a kvality života.
+
+#legit_repres_c1
+Podpora založená na aktivních politikách.
+
+#legit_people_c1
+Podpora založená na aktivních politikách.
+
+#legit_relig_c1
+Podpora založená na aktivních politikách.
+
+#statepow_prod
+Vládní budovy
+
+#statepow_prod_c1
+Celková Státní Moc vyprodukovaná aktivními vládními budovami.
+
+#b_setcapital
+Nastav toto území jako tvoje Hlavní Město
+
+#ui_bdgind_recip2
+Kulturní efekt: materiály [x]%
+
+#menu_tch_prj_newtech
+Objev
+
+#menu_tch_prj_cltrskl
+Nová Kulturní dovednost
+
+#menu_tch_prj_cltrskl_c
+Po úspěšném dokončení bude tato nová Kulturní Dovednost přijata (pokud již není aktivní) a bude vás stát [x] Civilizačních Bodů.
+
+#menu_tch_prj_cltrcons
+Nový Kulturní Zvyk
+
+#menu_tch_prj_cltrcons_c
+Po úspěšném dokončení bude tento nový Kulturní Zvyk přijat (pokud již není aktivní) a bude vás stát [x] Civilizačních Bodů.
+
+#menu_tch_prj_res
+Odměny
+
+#menu_prj_reqcp
+Ke spuštění tohoto projektu potřebujete [x] dostupných Civilizačních Bodů.
+
+#menu_prj_rmat3
+(kliknutím vyberte jiné území)
+
+#regstatprop_tinc
+[x]% z příjmů z obchodu
+
+#regstatprop_notinc
+žádné obchodní příjmy
+
+#ui_govcltr_civpt_c2
+Momentálně produkujete [x] Státní Kultury [y].
+
+#ui_cltr_customs
+KULTURNÍ ZVYKY
+
+#ui_custom_dscr
+Zvyky představují kulturní praxi vašich lidí při konzumaci konkrétního typů surovin. Zvyky umožňují poptávku po tomto prostředku, což umožňuje jeho distribuci, prodej a spotřebu vaší populací.
+
+#ui_cltr_skills
+KULTURNÍ DOVEDNOSTI
+
+#ui_skills_dscr
+Dovednosti představují kulturní tradice řemeslných dovedností vašich lidí a umožňují vám uvolnit výrobu nových zdrojů a specializovat vaše vepře dalším zlepšováním efektivity výroby, nebo kvality konkrétních zdrojů.
+
+#ui_custom_new
+Vyberte nový zdroj
+
+#ui_cltr_traitfx
+Efekt Vlastnosti(Trait)
+
+#ui_pass_custom
+PŘIJMI TUTO VLASTNOST
+
+#ui_pass_custom_c
+Kliknutím utratíte [x] Civilizační Bodů, abyste si osvojili tento Kulturní Rys(trait).
+
+#ui_rvq_custom
+ZRUŠIT TUTO VLASTNOST
+
+#ui_rvq_custom_c1
+Kliknutím zrušíte tuto vlastnost a získáte zpět její cenu v Civilizačních bodech.
+
+#ui_rvq_custom_c2
+Současně můžete odvolat pouze jednu vlastnost a tento proces trvá dlouho ([x]).
+
+#resprop_distrib
+Může být prodán a spotřebován obyvatelstvem
+
+#resprop_need
+Uspokojí populační potřebu '[x]'
+
+#resprop_farm
+Kultivovatelné
+
+#resprop_cltr
+[x] Státní Kultury
+
+#resprop_admin
+[x] Administrativy
+
+#resprop_statepwr
+[x] Státní Moci
+
+#resprop_health
+[x] zdraví
+
+#resprop_intel
+[x] inteligence
+
+#resprop_conflict
+[x]% konfliktu
+
+#resprop_waste
+[x]% ztrát
+
+#resprop_oncons
+na spotřebě
+
+#resprop_onprod
+na produkci
+
+#resprop_nocustom
+Ke spotřebě není potřeba jakéhokoliv Zvyku
+
+#resprop_noskill
+K produkci není potřeba jakékoliv Dovedností
+
+#ui_cltr_cp_dscr
+Tyto body vám umožňují přizpůsobit vaši kulturu prostřednictvím Kulturních Vlastností(Traits).
+
+#ui_cltr_cp_use
+Aktuální využití bodů
+
+#ui_cltr_cp_use_c
+Momentálně využíváte [x] Civilizační Bodů z celkového počtu [y].
+
+#ui_cltr_lvl
+Kulturní level
+
+#ui_cltr_lvl_dscr_1 
+Státní Kultura produkovaná na všech vašich aktuálně kontrolovaných územích, generuje pokrok směrem k vaší další Kulturní úrovni.
+
+#ui_cltr_lvl_dscr_2
+Pokaždé, když zvýšíte(level up) svou Kulturu, můžete získat 1 nový Civilizační Bod.
+
+#ui_cltr_nxtlvl
+Další level (asi za [x])
+
+#ui_cltr_cstm_nores
+[Nejsou k dispozici]
+
+#ui_cltr_cstm_nores_dscr
+Momentálně neexistuje žádná nová možný surovina k odemčení!
+
+#ui_cltr_xpbar_c1
+Nashromáždili jste [x] Kulturních Zkušeností(XP) z [y] potřebných k dosažení další úrovně.
+
+#ui_cltr_xpbar_c2
+Momentálně produkujete [x] Kulturních Zkušeností(XP) [y].
+
+#ui_cltr_xpbar_c3
+Celková produkce Kultury [x] / [y] celková populace * 1000 = +[z]
+
+#ui_cltr_cantadd
+Tato vlastnost nemůže býti přidána!
+
+#ui_cltr_alrdrvq
+Můžete zrušit pouze jednu vlastnost najednou!
+
+#ui_cltr_nocivpt
+Nemáte dostatek Civilizačních Bodů k přijetí této nové vlastnosti!
+
+#ui_cltr_rescons
+Spotřeba [x]
+
+#ui_cltr_resprod
+Produkce [x]
+
+#ui_cltr_resqual
+Odbornost v [x]
+
+#ui_cltr_resprod_0
+Produkce tohoto zdroje není k dispozici.
+
+#ui_cltr_resprod_1
+Umožňuje výrobu tohoto zdroje
+
+#ui_cltr_resprod_2
+Efektivita výroby [x]%
+
+#ui_cltr_resprod_3
+Potřebné materiály [x]%
+
+#ui_cltr_resprod_4
+Produktivita přírodních zdrojů [x]%
+
+#ui_cltr_resqual_1
+Základní kvalita vytvořených surovin [x]
+
+#ui_cltr_newcons
+Osvojili jsme si zvyk konzumace [x]!
+
+#ui_cltr_newprod
+Vyvinuli jsme dovednost vyrábět [x]!
+
+#ui_cltr_devprod
+Zvýšili jsme naši schopnost vyrábět [x] na level [y]!
+
+#ui_cltr_newtrait
+Přijali jsme nový Kulturní rys: '[x]'!
+
+#ui_cltr_rvqd
+Zrušili jsme Kulturní rys: '[x]' !
+
+#ui_warninacess_bdgs
+Varování: [x] budov jsou znepřístupněny a budou brzy deaktivovány, pokud nebude obnoven přístup!
+
+#ui_warninacess_infra
+Varování: [x] infrastruktury jsou nedostupné a brzy se automaticky rozpadnou, pokud nebude obnoven přístup!
+
+#ui_prodskill_unlock
+odemknout
+
+#ui_prodskill_imprv
+zlepšit
+
+#ui_cnfrm_trait_add
+Opravdu chcete utratit [x] Civilizačních Bodů za učelem přijetí Vlastnosti '[y]'?
+
+#ui_cnfrm_trait_rvk
+Opravdu chcete této vlastnost zbavit? Tento proces je velmi pomalý a nelze jej zvrátit, jakmile je spuštěn.
+
+#pol_info_replpol
+Nahradí politiku: '[x]'
+
+#pol_info_reqpol
+Požaduje aktivní politiku: '[x]'
+
+#pol_info_reqbdg
+Budova v kapitálu: '[x]'
+
+#pol_info_cantpass
+Tuto zásadu nemůžete povolit, protože nesplňujete její požadavky.
+
+#pol_info_rvk_cflct
+[x] konfliktu, pokud je odvolán(zrušena)
+
+#pol_info_rvk_loyal
+[x] Věrnosti, pokud je odvolán(zrušena)
+
+#ui_movecaptl_1
+Přesun kapitálu(Hl. města)
+
+#ui_movecaptl_2
+Opravdu chcete z tohoto území udělat novým Hl. Městem a přemístit svou vládu na toto území? Vezměte prosím na vědomí, že pokud v tomto novém hlavním městě chybí požadované vládní budovy, aktivní zásady, které je vyžadují, budou deaktivovány!
