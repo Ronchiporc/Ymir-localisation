@@ -185,24 +185,6 @@ počet vůdců ve hlavním městě
 #civfx_capnob_dscr
 počet šlechticů ve hlavním městě
 
-#civfx_citlead_n
-měšťští vůdci
-
-#civfx_citlead_dscr
-počet vůdců v každém městě
-
-#civfx_citnob_n
-měšťští šlechtici
-
-#civfx_citnob_dscr
-šlechticů na město
-
-#civfx_reglead_n
-místní vůdcy
-
-#civfx_reglead_dscr
-vůdců na území
-
 #civfx_regnob_n
 místní šlechtici
 
@@ -257,30 +239,6 @@ people's religiosity
 #civfx_legitr_dscr
 upravuje faktor legitimity náboženství
 
-#civfx_legitp_n
-moc parlamentu
-
-#civfx_legitp_dscr
-upravuje faktor legitimity parlamentu
-
-#civfx_legitsen_n
-senate's power
-
-#civfx_legitsen_dscr
-upravuje faktor legitimity senátu
-
-#civfx_legitm_n
-ministry's power
-
-#civfx_legitm_dscr
-upravuje faktor legitimity ministerstva
-
-#civfx_legitap_n
-souhlas prasat
-
-#civfx_legitap_dscr
-upravuje faktor legitimity podporované obyvatelstvem
-
 #civfx_wlegitprt_n
 důležitost armádní síly
 
@@ -298,30 +256,6 @@ důležitost důchovenstva
 
 #civfx_wlegitr_dscr
 Jak moc vliv duchovenstva ovlivňuje legitimitu vládce.
-
-#civfx_wlegitp_n
-důležitost parlamentu
-
-#civfx_wlegitp_dscr
-Jak moc vliv parlamentu ovlivňuje legitimitu vládce.
-
-#civfx_wlegitsen_n
-důležitost Senátu
-
-#civfx_wlegitsen_dscr
-Jak moc vliv senátu ovlivňuje legitimitu vládce.
-
-#civfx_wlegitm_n
-důležitost ministersta
-
-#civfx_wlegitm_dscr
-Jak moc vliv ministerstva ovlivňuje legitimitu vládce.
-
-#civfx_wlegitap_n
-důležitost podpory lidu
-
-#civfx_wlegitap_dscr
-Jak moc podpora lidu ovlivňuje legitimitu vládce.
 
 #civfx_statepow_n
 státní moc
@@ -389,12 +323,6 @@ Spotřeba zdrojů populací
 #civfx_rescons_dscr
 Dělá distributovatelné zdroje spotřebovatelnými vaší populací.
 
-#civfx_rescons_set1
-Typ suroviny
-
-#civfx_rescons_set1d
-Vyberte nový distribuovatelný zdroj, který bude k dispozici vaši populaci.
-
 #civfx_leadwlth_actv
 [x]% z privilegií Vládce
 
@@ -403,4 +331,55 @@ Dotace [y] mincí [x]
 
 #civfx_ldcntrb_actv
 [x]% příspěvku z Vládcovi pokladnice
+
+#civfx_nobwlth_actv
+[x]% z privilegií Oligarchů
+
+#civfx_legitpop_n
+Podpora vepřů
+
+#civfx_legitpop_dscr
+Nakolik lidé schvalují současnou vládu.
+
+#civfx_wlegitpop_n
+důležitost Podpory vepřů
+
+#civfx_wlegitpop_dscr
+Jak moc faktor podpory vepřů ovlivňuje Legitimitu vlády.
+
+#civfx_legitolig_n
+Podpora Oligarchů
+
+#civfx_legitolig_dscr
+Mnoužství moci a podpory od Oligarchů.
+
+#civfx_wlegitolig_n
+důležitost Podpory Oligarchů
+
+#civfx_wlegitolig_dscr
+Jak moc faktor podpory ze strany Oligarchů ovlivňuje Legitimitu vlády.
+
+#civfx_legitrep_n
+Popora Reprezentativců
+
+#civfx_legitrep_dscr
+Mnoužství moci a podpory od zástupců Vepřidů(lidu).
+
+#civfx_wlegitrep_n
+Vznam moci Reprezentativců
+
+#civfx_wlegitrep_dscr
+Nakolik faktor podpory Reprezentativců, ovlivňuje Legitimitu Vládce.
+
+#traitfx_resprod_n
+Úroveň produkce
+
+#traitfx_resprod_dscr
+1. úroveň umožňuje výrobu a následující úrovně zvyšují efektivitu výroby a případně snižují náklady na materiál.
+
+#traitfx_resqual_n
+Úroveň kvality
+
+#traitfx_resqual_dscr
+Zvyšuje základní produkční kvalitu suroviny.
 
