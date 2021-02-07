@@ -2030,3 +2030,51 @@ Pošli [x] Vepřů
 #cond_pay_actv_act
 Odeslat Vepře
 
+#cond_nbter
+Ovládej [x] nebo více teritorií
+
+#cond_nbsubrd_inf
+Měj celkem méně než [x] podřízených
+
+#cond_nbsubrd_sup
+Měj celkem alespoň více než [x] podřízených
+
+#effect_give_civpt
++[x] Civilizační/ch body/ů
+
+#effect_adopt_rescons
+Přijetí [x] ke konzumaci
+
+#effect_adopt_foodscons
+Přijetí spotřeby místních potravinových zdrojů
+
+#ev_civpoint_lvlup
+Kulturní level up!
+
+#ev_civpoint_lvlup_1
+Naše kultura se level upla a my jsme získali nový Civilizační bod, který je nyní k dispozici k útratě v Kulturních vlastnostech v nabídce Vláda. Lze jej použít například k odemknutí spotřeby nových surovin nebo ke zlepšení jejich výroby.
+
+#ev_traitrvq
+Zrušení Vlastnosti(Trait) '[x]'
+
+#ev_traitrvq_1
+Jste v procesu zrušení Kulturní Vlastnosti '[x]'.
+
+#ev_traitrvq_2
+Můžete zrušit pouze jednu Vlastnost(Trait) najednou a je to pomalý proces, který vyžaduje spoustu času.
+
+#ev_traitrvq_o_1
+Kulturní modifikace čeká na vyřízení...
+
+#ev_traitrvq_o_2
+Po dokončení bude Vlastnost(Trait) zrušena a bude vrácena její cena v Civilizačních Bodech. Pokud má vlastnost více úrovní, bude tímto procesem odstraněna pouze 1 úroveň.
+
+#ev_traitrvq_fx
+Kulturní Vlastnost(Trait) bude zrušena.
+
+#ev_poldisabled
+Politika deaktivována!
+
+#ev_poldisabled_1
+Naše zásady '[p1]' byly deaktivovány, protože již už nebyly splněny jejích požadavky.
+
