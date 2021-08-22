@@ -549,10 +549,10 @@ Flying shuttle loom
 With the flying shuttle, a single weaver can now produce fabric wider than an arm? length and at much greater speeds than what had been achieved with previous looms.
 
 #tech_loom6
-Power loom
+Mechanický stav
 
 #tech_loom6_dscr_1
-tech_loom6_dscr_1
+Mechanizovaný tkalcovský stav.
 
 #tech_carpet
 Výroba koberců
@@ -621,10 +621,10 @@ Pivo
 Schopnost vařit pivo a být správný čech.
 
 #tech_cuves
-Cuves
+Tankery
 
 #tech_cuves_dscr_1
-tech_cuves_dscr_1
+Řemeslné zpracování velkých kovových zásobníků na kapaliny, zlepšování kvality a produktivity průmyslových odvětví, jako jsou pivovary.
 
 #tech_hops
 Motiky
@@ -639,10 +639,10 @@ Kváskový chléb
 V každé domácnosti tráví lidé každý den hodně času broušením zrn v třecí misce, aby si u každého jídla uvařili svůj plochý chléb. Někteří proto naznačují, že pomocí našich znalostí ozubených kol a kamenování bychom mohli vytvořit obří třecí mísy, které by rozmělňovaly zrna pro všechny najednou a mají řemeslníky specializující se na vaření chleba pro každého ve městě přímo, což prasatům zachrání před samotným vyrobením ze surových obilovin. Mletá zrna by také bylo jednodušší a pohodlnější ukládat přímo do sýpek, což zlepšuje naši schopnost uchovávat jídlo!
 
 #tech_yeast
-Yeast dough
+Kynuté těsto
 
 #tech_yeast_dscr_1
-How to preserve desired properties given by a randomly obtained mixture of yeasts by keeping and reusing samples of previous batches to mix them with the dough of the next ones, improving bread production.
+Jak zachovat požadované vlastnosti dané náhodně získanou směsí kvasinek uchováním a opětovným použitím vzorků předchozích šarží k jejich smíchání s těstem dalších, čímž se zlepší produkce chleba.
 
 #tech_rum
 Rum
@@ -726,19 +726,19 @@ Možnost využívat luky a šípy k většímu a přesnějšímu dostřelu.
 Longbow
 
 #tech_longbow_dscr_1
-tech_longbow_dscr_1
+Typ luku, který je vysoký a umožňuje zkušeným lukostřelcům poměrně dlouhou a silnou remízu.
 
 #tech_compbow
-Composite bow
+Kompozitní luk
 
 #tech_compbow_dscr_1
-tech_compbow_dscr_1
+Luk vyrobený z rohu, dřeva a šlachy laminovaný společně pro lepší výkon a menší velikosti, takže je ideální pro namontované lukostřelce.
 
 #tech_crossbow
 Kuše
 
 #tech_crossbow_dscr_1
-tech_crossbow_dscr_1
+Mechanický luk, který nevyžaduje sílu k udržení tahu luku a vyžaduje méně tréninku od uživatele.
 
 #tech_spear
 Kopí
@@ -852,94 +852,94 @@ Znalosti darovaná Palentirem, které vás poučují o tom, jak postavit obří 
 Zavlažování
 
 #tech_irrig_dscr_1
-tech_irrig_dscr_1
+Technika vodního hospodářství a dopravy k zajištění dobrého zavlažování velkých ploch polí.
 
 #tech_foodstor
 Uchovávání potravy
 
 #tech_foodstor_dscr_1
-tech_foodstor_dscr_1
+Jak vybudovat sklady optimalizované pro skladování potravin a jejich ochranu před vlhkostí a škůdci.
 
 #tech_domcat
 Domestic cat
 
 #tech_domcat_dscr_1
-tech_domcat_dscr_1
+Chování domestikovaných kočkovitých šelem k ochraně zásob potravin před škůdci.
 
 #tech_warehous_dscr_1
-tech_warehous_dscr_1
+Výstavba specializovaných budov pro skladování a odvoz velkého množství zdrojů.
 
 #tech_storhaul
-Storage hauling
+Převoz zásob
 
 #tech_storhaul_dscr_1
-tech_storhaul_dscr_1
+Používání smečných zvířat a vozů ke zlepšení manipulace se zbožím ve skladech.
 
 #tech_stonebdg
 Kamenné budovy
 
 #tech_stonebdg_dscr_1
-tech_stonebdg_dscr_1
+Praxe stavby konstrukcí s dlažebními kameny naskládanými dohromady a drženými surovou maltou.
 
 #tech_stonecut
 Zpracovávání kamene
 
 #tech_stonecut_dscr_1
-tech_stonecut_dscr_1
+Schopnost prořezávat kámen kovovými nástroji a tvarovat je podle potřeby.
 
 #tech_quarr
-Quarrying
+Kamenolom
 
 #tech_quarr_dscr_1
-tech_quarr_dscr_1
+Schopnost prořezávat kámen kovovými nástroji a tvarovat je podle potřeby.
 
 #tech_quarrhv
 Heavy quarrying
 
 #tech_quarrhv_dscr_1
-tech_quarrhv_dscr_1
+Zdokonalení těžby pomocí inženýrské mechaniky a jeřábů na běžících kolech.
 
 #tech_builders
 Stavitelé
 
 #tech_builders_dscr_1
-tech_builders_dscr_1
+Pracovníci se specializovali na stavbu, což umožňovalo složitější a komplikovanější způsoby stavby.
 
 #tech_constrct
 Construction foremanship
 
 #tech_constrct_dscr_1
-tech_constrct_dscr_1
+Odborní stavitelé, kteří dohlížejí, organizují a koordinují práci ostatních pracovníků za účelem zvýšení kvality a efektivity stavebních projektů.
 
 #tech_sledge_dscr_1
-tech_sledge_dscr_1
+Nosná mobilní plošina namontovaná na dřevěných kolejnicích a používající zvířecí mazivo k přepravě těžkých břemen po zemi s omezenou pracovní silou, což zvyšuje rychlost a schopnosti konstrukce.
 
 #tech_masonry
 Zednářství
 
 #tech_masonry_dscr_1
-tech_masonry_dscr_1
+Stavba konstrukcí z jednotlivých celků, jako jsou kameny nebo cihly, které se často pokládají a spojují maltou.
 
 #tech_constrplan
 Construction planning
 
 #tech_constrplan_dscr_1
-tech_constrplan_dscr_1
+The management of land use and coordination of all constructions by a central administrative authority also in charge of developping infrastructures that benefit all such as tracing public city streets and roads.
 
 #tech_archtct
 Architekté
 
 #tech_archtct_dscr_1
-tech_archtct_dscr_1
+Expert builders focused only on the design and planning of buildings. Their specialized knowledges in mathematics and plan making allows for the construction of much more refined and complex structures.
 
 #tech_corbarch
 Corbelled arch
 
 #tech_decarb
-Decarburization
+Oduhličování
 
 #tech_decarb_dscr_1
-tech_decarb_dscr_1
+Proces výroby oceli oduhličením „litiny“ (plné uhlíku) jeho roztavením a mícháním s oxidanty po delší dobu namísto nauhličování „tepaného“ železa (bez uhlíku) ručním kováním s dřevěným uhlím. Díky použití „litiny“ jako materiálu, který je mnohem snazší hromadně vyrábět pomocí vysokých pecí, tento proces činí výrobu oceli mnohem efektivnější.
 
 #tech_battleaxe
 Válečná sekera
@@ -957,55 +957,55 @@ Kovová zbraň ukovaná a nebo odlitá, většinou vyráběnná z mědi/bronzu/�
 Dlouhý meč
 
 #tech_longsword_dscr_1
-tech_longsword_dscr_1
+Typ meče charakterizovaný jako mající křížovou rukojeť s rukojetí pro obouruční použití a značné délky.
 
 #tech_warham
 Válečné kladivo
 
 #tech_warham_dscr_1
-tech_warham_dscr_1
+Zbraň s dlouhou rukojetí odvozená z nástroje a obzvláště účinná proti těžkému brnění, jako jsou ocelové pláty.
 
 #tech_helbard
 Helbard
 
 #tech_helbard_dscr_1
-tech_helbard_dscr_1
+Obouruční tyčová zbraň kombinující pronikavý útok kopí a sekání nebo bojové sekery.
 
 #tech_hvshield
 Těžký štít
 
 #tech_hvshield_dscr_1
-tech_hvshield_dscr_1
+Velmi velký štít vyztužený pokovením, jako je bronz nebo železo.
 
 #tech_stlshld
 Ocelový štít
 
 #tech_stlshld_dscr_1
-tech_stlshld_dscr_1
+Štít vyztužený ocelí pro další odolnost, zatímco zůstává lehčí než jiné kovové štíty.
 
 #tech_paddarm
-Padded armor
+Polstrované brnění
 
 #tech_paddarm_dscr_1
-tech_paddarm_dscr_1
+Levná vycpaná obranná bunda, která se nosí samostatně nebo v kombinaci s poštovním nebo plátěným brněním, obvykle vyrobená z lnu nebo vlny a vyrobená technikou prošívání.
 
 #tech_scalearm
 Šupinaté brnění
 
 #tech_scalearm_dscr_1
-tech_scalearm_dscr_1
+Typ brnění vyrobený z mnoha jednotlivých malých pancéřových šupin připojených k sobě navzájem a na podložce z látky nebo kůže v překrývajících se řadách, nabízející dobrou ochranu před zásahy tupými silami.
 
 #tech_paparmor
 Papírové brnění
 
 #tech_paparmor_dscr_1
-tech_paparmor_dscr_1
+Pancíř vyrobený z vrstveného papíru, který je překvapivě efektivní na své levné výrobní náklady.
 
 #tech_brigdn
 Brigandine
 
 #tech_brigdn_dscr_1
-tech_brigdn_dscr_1
+Oděv z těžké látky a kůže lemovaný malými podlouhlými ocelovými deskami přichycenými k látce poskytuje dobrý kompromis mobility, nákladů a ochrany.
 
 #tech_chnmail
 Kroužkové brnění
@@ -1014,10 +1014,10 @@ Kroužkové brnění
 Kroužkové brnění, Brň nebo Brně, také označována jako pancíř, je typ zbroje, vytvořená z husté sítě malých kovových kroužků.
 
 #tech_cuirass
-Cuirass
+Kyrysové brnění
 
 #tech_cuirass_dscr_1
-tech_cuirass_dscr_1
+Kus těžkého brnění, který je vytvořen z jednoho nebo více kusů kovu, který pokrývá trup.
 
 #tech_lamnrarm
 Laminar armor
@@ -1045,4 +1045,125 @@ Zlatnictví
 
 #tech_goldsmth_dscr_1
 Umění práce se zlatem a jinými drahými kovy při výrobě ozdobných předmětů, jako jsou například šperky.
+
+#tech_council
+Statní rada
+
+#tech_council_dscr_1
+Rada poradců, která se výhradně věnují pomoci Vladci při správě věcí veřejných. Tráví čas čicháním věcí a občas řeší problémy nebo rozhodují jménem Vladce.
+
+#tech_treasury
+Finanční správa
+
+#tech_treasury_dscr_1
+Odděluje finance Vladce a Statní správy.
+
+#tech_treaties
+Diplomatické smlouvy
+
+#tech_treaties_dscr_1
+Praxe dodržování formálních diplomatických smluv a závazků.
+
+#tech_vassalage
+Vasalizace
+
+#tech_vassalage_dscr_1
+Vytvoření složitějších hierachických vztahů, kde Lenní Páni a Lordi vytvářejí vzájemné závazky a zavazují se k loajalitě.
+
+#tech_regions
+Regionální správy
+
+#tech_regions_dscr_1
+Organizace území do oddělených oblastí s vlastní správou a dohledem, federovaných pod ústřední vládou.
+
+#tech_seals
+Užívání pečetí
+
+#tech_seals_dscr_1
+Praxe používání úředních razítek a pečetí ve správě k ověření původu dokumentů a misí pocházejících ze vzdálených míst.
+
+#tech_postal
+Poštovní služba
+
+#tech_postal_dscr_1
+Organizovaná služba poslů a štafet specializovaných na přenášení písemných dokumentů a zpráv mezi městy.
+
+#tech_court
+Dvůr
+
+#tech_court_dscr_1
+Zřízení Dvoru, který bude hostitelem podřízených a vazalů, za účelem zlepšení managmentu jejich uzemí a zvýšením controly nad nimi samotnými.
+
+#tech_tributaries
+Rukojmí poddaných
+
+#tech_tributaries_dscr_1
+Praxe udržování rukojmí ze států násilně vasalizovaných, aby byla zajištěna jejich loajalita a podřízení.
+
+#tech_prefects
+Prefekti
+
+#tech_prefects_dscr
+Státní úředníci vlády usazení v podřízených státech s cílem zlepšit jejich řízení a komunikaci s nimi.
+
+#tech_archives
+Archivace
+
+#tech_archives_dscr
+Praxe organizace a údržby archivů za účelem zlepšení správy.
+
+#tech_statedprt
+Státní ústavy
+
+#tech_statedprt_dscr
+Rozdělení administrativi na různá oddělení se specializovanými úředníky se zaměřením na řízení jedinečného aspektu správy věcí veřejných, zlepšení administrativní kapacity vlády.
+
+#tech_republic
+Republika
+
+#tech_republic_dscr
+Vláda jako republika, kde státní vepři vládnou jménem lidu.
+
+#tech_lawmaking
+Zákonodárství
+
+#tech_lawmaking_dscr
+AInstituce státních úředníků se specializací na tvorbu právních předpisů.
+
+#tech_democracy
+Demokracie
+
+#tech_democracy_dscr
+Vládnutí jako přímá demokracie, kde občané volí a přímo se účastní vládnutí, a kde vládne většina bez vůdce či zástupců.
+
+#tech_marriages
+Politické sňatky
+
+#tech_marriages_dscr
+Praxe organizování politických manželství za účelem uzavření spojenectví mezi státy.
+
+#tech_tercntrl
+Kontrola území
+
+#tech_tercntrl_dscr
+The organization of patrols to wacth over claimed empty territories.
+Organizace hlídek, které budou hlídat zabraná prázdná územími.
+
+#tech_village
+Komunitní administrativa
+
+#tech_village_dscr
+Myšlenka, že by se 'Společenská hala' používala k projednávání a organizaci záležitostí osídlení a zaměstnávání státních zaměstnanců věnovaných správě místních záležitostí.
+
+#tech_town
+Městská správa
+
+#tech_town_dscr
+Rozvoj místní správy zaměstnávající úředníky zaměřené na správu věcí města a jeho připojených regionálních území.
+
+#tech_city
+Správa města
+
+#tech_city_dscr
+Rozvoj organizované regionální vlády zaměstnávající státní úředníky spravující hlavní město regionu a všechna území regionu.
 
