@@ -94,6 +94,12 @@ Barter
 #tech_barter_dscr_1#1
 People will now trade commodities of equivalent values instead of 'gifting' services while expecting later paybacks. This reduces conflicts amongst larger communities that can't keep track of every each other.
 
+#tech_barter_fx1#1
+Allows stockable money with the Barter policy.
+
+#tech_barter_fx2#1
+Disabling Gift-Economy unlocks regional production transfers. 
+
 #tech_baskpress#1
 Basket press
 
@@ -532,6 +538,9 @@ Irrigation
 #tech_irrig_dscr_1#1
 The technique of water management and transportation to keep large areas of fields well irrigated.
 
+#tech_irrig_fx1#1
+Fields efficiency +0.1
+
 #tech_javelin#1
 Javelin
 
@@ -640,6 +649,9 @@ Manure fertilizing
 #tech_manure_dscr_1#1
 It turns out that putting manure on the ground makes plants grow faster and bigger, who would have guessed ?
 
+#tech_manure_fx1#1
+Fields efficiency +0.1
+
 #tech_market#1
 Market
 
@@ -651,6 +663,9 @@ Alliance marriages
 
 #tech_marriages_dscr#1
 The practice of organizing political marriages to seal alliances between states.
+
+#tech_marriages_fx1#1
+Allows for 1 Nation subordinate.
 
 #tech_masonry#1
 Masonry
@@ -866,7 +881,7 @@ Heavy quarrying
 Improving quarrying with engineering mechanics and treadwheel cranes.
 
 #tech_regions#1
-Regionnal administrations
+Regional administrations
 
 #tech_regions_dscr_1#1
 The organization of territory into separated regions each one with its own administration and oversight, federated under a central government.
@@ -1069,6 +1084,9 @@ Diplomatic treaties
 #tech_treaties_dscr_1#1
 The practice of upholding formal diplomatic treaties and engagements.
 
+#tech_treaties_fx1#1
+Allows for up to 10 Nation subordinates.
+
 #tech_tribut#1
 Tributes
 
@@ -1081,6 +1099,9 @@ Tributaries hostages
 #tech_tributaries_dscr_1#1
 The practice of keeping hostages from states vassalized by force to ensure their loyalty and submission.
 
+#tech_tributaries_fx1#1
+Allows new 'Subjugation' action in war, forcing the vassalization of an ennemy.
+
 #tech_urunhair#1
 Urine unhairing
 
@@ -1092,6 +1113,9 @@ Vassalage
 
 #tech_vassalage_dscr_1#1
 The establishment of more complex laddered hierachic relations where Liedges and Lords establish mutual obligations and commit to loyalty.
+
+#tech_vassalage_fx1#1
+Allows having Nation subordinates even if you're not the Nation leader.
 
 #tech_vegettan#1
 Vegetable taning
@@ -1111,8 +1135,8 @@ Vermeering
 #tech_verneer_dscr_1#1
 A technique of gluing thin sheets of wood together to produce a stronger and more economic piece of wood while retaining the same esthetic qualities.
 
-#tech_village#1
-Communal administration
+#tech_village#2
+Village center
 
 #tech_village_dscr#1
 The idea of having a community building used to discuss and organize matters of the settlement and employing civil servants dedicated to administering local affairs.

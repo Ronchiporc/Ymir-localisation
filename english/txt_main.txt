@@ -89,7 +89,7 @@ Chief
 Chief
 
 #g_city#1
-city
+City
 
 #g_civpoint#1
 Civilization Points
@@ -272,7 +272,7 @@ Groundwater
 Growth
 
 #g_hamlet#1
-hamlet
+Hamlet
 
 #g_Health#1
 Health
@@ -327,6 +327,9 @@ Loyalty
 
 #g_medium#1
 medium
+
+#g_minut#1
+minut
 
 #g_minuts#1
 minutes
@@ -386,7 +389,7 @@ OK
 or
 
 #g_outpost#1
-outpost
+Outpost
 
 #g_owner#1
 owner
@@ -458,7 +461,7 @@ Rebels
 refuse
 
 #g_reg_claim#1
-claim
+Claim
 
 #g_requires#1
 requires
@@ -524,13 +527,13 @@ Structure
 Taxes
 
 #g_territory#1
-territory
+Territory
 
 #g_timesince#1
 [x] ago
 
 #g_town#1
-town
+Town
 
 #g_traditions#1
 Traditions
@@ -557,7 +560,7 @@ Vassal
 Vassaldom
 
 #g_village#1
-village
+Village
 
 #g_vital_needs#1
 vital needs
@@ -604,3 +607,8 @@ YES
 #g_You#1
 You
 
+#g_imminent#1
+imminent
+
+#g_various#1
+various

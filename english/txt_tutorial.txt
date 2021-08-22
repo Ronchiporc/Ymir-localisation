@@ -250,10 +250,10 @@ Now that your porcos need for water is satisifed, they need sustainable sources 
 #tuto_13_c1#1
 Food please!--14--10
 
-#tuto_130_1#1
-With the hunting action, it will initiate a 'battle' between your warriors and the animals of the herd. You can also witness the hunting by going into the territory.
+#tuto_130_1#2
+With the hunting action, it will initiate an instantaneous 'battle' between your warriors and the animals of the herd.
 
-#tuto_130_2#1
+#tuto_130_2#2
 If your warriors are sucessful, some or all of the animals loot will be transfered into your formation's inventory, which you can then bring back and unload into your territory, providing extra food to support your tribe's growth!
 
 #tuto_130_c1#1
@@ -982,17 +982,17 @@ This is your player score. Its based on different stats like your total wealth, 
 #tuto_70_c1#1
 Ok.--71--49
 
-#tuto_71_1#1
-Next to it are your Victory Points. They are earned based on how your score compares to others and by completing victory missions that may be shared in common with other players, in which case only the first one to complete it will get the reward.
+#tuto_71_1#2
+Next to it are your Victory Points. At the end of every reward cycle, the players who meet the different victory conditions earn its associated Victory Point rewards.
 
-#tuto_71_2#1
-You win the game by beeing the first player to reach the objective of Victory Points set for that game.
+#tuto_71_2#2
+You win the game by beeing the first player to reach the objective of Victory Points set for that game (usually 100).
 
 #tuto_71_c1#1
 Good to know!--72--50
 
-#tuto_71_c2#1
-How do i get these missions ?--81
+#tuto_71_c2#2
+How long are reward cycles?--81
 
 #tuto_72_1#1
 Well that's it : my work here is now done and it's time for me to leave you in charge.
@@ -1075,8 +1075,8 @@ Animals will fight back so be careful! Once the hunting is over and if successfu
 #tuto_80_c1#1
 Excellent.--74
 
-#tuto_81_1#1
-You can't. Victory point missions, like other missions or other events, will happen to you randomly.
+#tuto_81_1#2
+The length of the reward cycles is dynamic: they become shorter as the game progresses or if the number of active players drops.
 
 #tuto_81_c1#1
 Fair enough.--72--50

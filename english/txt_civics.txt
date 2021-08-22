@@ -22,11 +22,11 @@ Coinage
 #civ_comgood_n#1
 By the People
 
-#civ_comwork_dscr#1
-All actives have to devote a portion of their time to community work.
+#civ_comwork_dscr#2
+All actives owe a portion of their time to the Government as forced labor.
 
-#civ_comwork_n#1
-Community work
+#civ_comwork_n#2
+Forced labor
 
 #civ_council_dscr#1
 A council of trusted advisors assissting the Leader in governance matters, improving the administration of the State.
@@ -154,11 +154,11 @@ Privileges for the leadership of your government granting them a percentage of a
 #civ_statepriv_n#1
 Privileges
 
-#civ_statesal_dscr#1
-All Civil Servants are now formally employed and paid by the government, receiving an official salary for their work.
+#civ_statesal_dscr#2
+All classes of State workers receive a fixed salary from the government for their work.
 
-#civ_statesal_n#1
-Civil servant wadges
+#civ_statesal_n#2
+Government salaries
 
 #civ_subv_dscr#1
 An aid paid by the state to every porco of a specific class of workers increasing their income.
@@ -184,11 +184,11 @@ The separation of the Leader and the Government's finances, the treasury manages
 #civ_treasury_n#1
 Treasury
 
-#civ_tributes_dscr#1
-An early form of taxation where the government takes ownership of a portion of all produced resources.
+#civ_tributes_dscr#2
+An early form of taxation where the government seizes a portion of all agricultural goods produced on its land.
 
-#civ_tributes_n#1
-Tributes
+#civ_tributes_n#2
+Agricultural levies
 
 #cltr_consume_dscr#1
 The cultural custom of your population to consume a specific resource. It enables population demand and the selling of that resource to the population.
@@ -207,4 +207,65 @@ The cultural tradition of craftsmanship of a specific resource improves the prod
 
 #cltr_resqual_n#1
 Resource expertise
+
+#civ_prefcts_n#1
+Prefects
+
+#civ_prefcts_dscr#1
+Government officials sent to subordinate territories to represent the State and improve control, communication and management.
+
+#civ_tribcouncl_n#1
+Tribal council
+
+#civ_tribcouncl_dscr#1
+Justice is dealt by a council gathering all the family leaders of the tribe (enables Tribal council buildings).
+
+#civ_codelaw_n#1
+Code of Laws
+
+#civ_codelaw_dscr#1
+Justice is dealt by a written code of laws enforced by Magistrates (enables Magistrate buildings).
+
+#civ_banditextor_n#1
+Banditry extortion
+
+#civ_banditextor_dscr#1
+A corrupted government looks the other way while organized gangs of bandits extort the population, in exchange for a fair share of their spoils.
+
+#civ_terrorpatrl_n#1
+Terror patrols
+
+#civ_terrorpatrl_dscr#1
+Patrols of soldiers break in random homes at night to ransack and territorize the population so that they live in fear and constant reminder of the army's presence.
+
+#civ_sumexec_n#1
+Summary executions
+
+#civ_sumexec_dscr#1
+The practice of proceeding to summary public executions of people for petty crimes to serve as an example and instigate fear into the population.
+
+#civ_nepotism_n#1
+Nepotism
+
+#civ_nepotism_dscr#1
+Favoritism granted to the Leader's relatives for position of power in the society resulting in more loyal Oligarchs at the cost of increased conflict.
+
+#civ_bannish_n#1
+Bannishment
+
+#civ_bannish_dscr#1
+Indesirables of the community are bannished from the city, never to return and leaving their family to a precarious existence.
+
+#civ_bloodfeuds_n#1
+Blood feuds
+
+#civ_bloodfeuds_dscr#1
+The right to pursue Blood feuds: retaliatory violence by the relatives of someone who has been killed, wronged or dishonored against the culprits or their relatives. 
+
+#civ_delegflab_n#1
+Delegated Forced Labor
+
+#civ_delegflab_dscr#1
+The rich can escapte their forced labor duties by paying another -usually the poor- to fullfill it on their place.
+
 

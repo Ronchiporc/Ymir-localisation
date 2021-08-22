@@ -1,8 +1,14 @@
-#civfx_agrisav_dscr#1
-25% of all agricultural food production goes directly into granaries
+#civfx_multireg_n#1
+multiple regions
 
-#civfx_agrisav_n#1
-stocking seeds
+#civfx_multireg_dscr#1
+Allows to control multiple regions, each one with its own regional center.
+
+#civfx_nationmaintn_n#1
+subordinates maintenance
+
+#civfx_nationmaintn_dscr#1
+Modifies the State Power maintenance costs of your subordinates in the Nation.
 
 #civfx_autodist_dscr#1
 All resources are automatically available to the entire population and there is no need for distributors
@@ -16,14 +22,20 @@ Modifies the efficiency of buildings
 #civfx_bdgeff_n#1
 building efficiency
 
+#civfx_waste_n#1
+waste
+
+#civfx_waste_dscr#1
+Affects waste rate in all territories.
+
 #civfx_bribes_dscr#1
 Gifts and bribes paid to the Oligarch class, increasing their wealth and favoring their support.
 
 #civfx_bribes_n#1
 bribes
 
-#civfx_bribes_set#1
-bribes for Oligarchs
+#civfx_bribes_set#2
+bribes per Oligarch
 
 #civfx_bribes_setd#1
 The value of average bribes paid to every Oligarch.
@@ -52,26 +64,26 @@ Modifies administration in every city
 #civfx_cityadmin_n#1
 city administration
 
-#civfx_comwork_dscr#1
-Percentage of time Actives will allocate to community work at the detriment of building efficiency.
+#civfx_comwork_dscr#2
+Percentage of time Actives owe to the State as forced labor, at the detriment of building efficiency.
 
-#civfx_comwork_n#1
-community work
+#civfx_comwork_n#2
+forced labor
 
 #civfx_comwork_set#1
 time allocation
 
-#civfx_comwork_setd#1
-Sets the percentage of time actives will spend on community work (decreases building efficiency proportionnally).
+#civfx_comwork_setd#2
+Sets the percentage of time actives will spend on forced labor (decreases building efficiency proportionnally).
 
-#civfx_comworkmod_actv#1
-[x]% of community work 
+#civfx_comworkmod_actv#2
+[x]% of forced labor
 
-#civfx_comworkmod_dscr#1
-modifies the efficiency of community work.
+#civfx_comworkmod_dscr#2
+modifies the efficiency of forced labor.
 
-#civfx_comworkmod_n#1
-community work
+#civfx_comworkmod_n#2
+forced labor
 
 #civfx_conflict_dscr#1
 Modifies conflict of population
@@ -81,6 +93,42 @@ population conflict
 
 #civfx_enmerch_dscr#1
 Allows the use of merchants who can sell resources to the population
+
+#civfx_popcltr_n#1
+population's Culture
+
+#civfx_popcltr_dscr#1
+Modifies Culture production of population
+
+#civfx_poplifeq_n#1
+population's Life Quality
+
+#civfx_poplifeq_dscr#1
+Modifies the Life Quality of population
+
+#civfx_popmurder_n#1
+murders rate
+
+#civfx_popmurder_dscr#1
+Modifies the percentage of population dying from violence per generation.
+
+#civfx_author_n#1
+authority
+
+#civfx_author_dscr#1
+Modifies the Loyalty from authority in all territories.
+
+#civfx_authortroop_n#1
+State troops authority
+
+#civfx_authortroop_dscr#1
+Modifies the authority of State troops affecting the Loyalty of all territories.
+
+#civfx_banditextr_n#1
+extortion
+
+#civfx_banditextr_dscr#1
+Population income stolen or robbed by criminals, half of which is then funneled into the Treasury as 'taxes'.
 
 #civfx_enmerch_n#1
 merchants
@@ -227,7 +275,7 @@ Amount of the salary in coins
 [x]% of Oligarchy privileges
 
 #civfx_nobwlth_dscr#1
-Oligarchs get a portion of the territory wealth as a privilege.
+Oligarchs get a share of the territory wealth as a privilege.
 
 #civfx_nobwlth_n#1
 Oligarchic privileges
@@ -245,25 +293,40 @@ There is no form of storable money.
 no money
 
 #civfx_offsal_dscr#1
-All Civil servant population classes get a salary paid directly by the government.
+Officials get a salary paid directly by the government.
 
-#civfx_offsal_n#1
-Salary
+#civfx_offsal_n#2
+Officials salary
 
 #civfx_offsal_set#1
+Officials salary
+
+#civfx_offsal_setd#2
+Salary paid to government Officials
+
+#civfx_statesal_dscr#1
+All population classes of State workers get a salary paid directly by the government.
+
+#civfx_statesal_n#2
+State worker salaries
+
+#civfx_statesal_set#1
 State workers salary
 
-#civfx_offsal_setd#1
-Amount of the salary in coins
+#civfx_statesal_setd#2
+Salary paid to every regular State worker
 
-#civfx_offwlth_dscr#1
-State workers get a portion of the territory wealth as a privilege
+#civfx_offwlth_dscr#2
+The Officials class gets a share of the territory's produced wealth as privileges.
 
-#civfx_offwlth_n#1
-State workers privileges
+#civfx_offwlth_n#2
+Officials privileges
 
-#civfx_offwlth_set#1
-State workers privilege
+#civfx_offwlth_actv#1
+[x]% of Officials privileges
+
+#civfx_offwlth_set#2
+Privileges rate
 
 #civfx_offwlth_setd#1
 the percentage of territory wealth given as a privilege to the State workers
@@ -286,23 +349,23 @@ Resources and valuables have dynamic prices based on the supply and demand of th
 #civfx_price_n#1
 dynamic prices
 
-#civfx_prodtax_dscr#1
-A portion of all produced livestock and agricultural foods is seized by the government as tribute
+#civfx_prodtax_dscr#2
+A portion of all produced agricultural goods and livestock is seized by the government as a tax.
 
 #civfx_prodtax_n#1
-production tributes
+agricultural levies
 
 #civfx_prodtax_set#1
 seized production
 
 #civfx_prodtax_setd#1
-Sets the percentage of produced resources (cattle and agricultural foods) that are to be seized by the government
+Sets the percentage of produced resources (agricultural goods & livestock) that are to be seized by the government
 
 #civfx_regadmin_dscr#1
 Modifies administration in every territory
 
 #civfx_regadmin_n#1
-territory adimnistration
+territory administration
 
 #civfx_regnob_dscr#1
 adds Oligarchs in every region center
@@ -433,3 +496,41 @@ Increases the base production quality of the resource.
 #traitfx_resqual_n#1
 Quality level
 
+#civfx_subormntn_n#1
+subordinates maintenance
+
+#civfx_subormntn_dscr#1
+Modifies the State Power maintenance cost of Nation subordinates.
+
+#civfx_multireg_n#1
+multiple regions
+
+#civfx_multireg_dscr#1
+Allows to settle and control multiple regions.
+
+#civfx_leadcntrbmod_n#1
+leader contributions
+
+#civfx_leadcntrbmod_dscr#1
+Modifies the amount of monies earned from the Leader's Wealth
+
+#civfx_leadcntrbmod_actv#1
+Leader contributions [x]%
+
+#civfx_prvlgmalus_n#1
+privileges tolerance
+
+#civfx_prvlgmalus_dscr#1
+Modifies the Loyalty penalty in territories caused by privileges.
+
+#civfx_prvlgmalus_actv#1
+Privileges Loyalty malus [x]%
+
+#civfx_flabmalus_n#1
+forced labor tolerance
+
+#civfx_flabmalus_dscr#1
+Modifies the Loyalty penalty in territories caused by forced labor.
+
+#civfx_flabmalus_actv#1
+Forced labor Loyalty malus [x]%

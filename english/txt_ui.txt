@@ -83,7 +83,13 @@ Regional territories
 The management cost of all the additionnal territories belonging to this region.
 
 #admin_ter_c2#1
-number of annexed territories: [x]
+number of attached regional territories: [x]
+
+#admin_overxtnd#2
+Regional overexpansion!
+
+#admin_overxtnd_c1#2
+A big administrative penalty is applied for every extra regional territory attached to this regional center.
 
 #antl_1#1
 Relink: hold left click and drag.
@@ -191,13 +197,19 @@ Strategic tool
 Ask termination
 
 #b_endagreed_c1#1
-Ask the other party for an agreed termination. If accepted, no breaking closes will apply.
+Ask the other party for an agreed termination. If accepted, no breaking clauses will apply.
 
 #b_endtreaty#1
 Break treaty!
 
 #b_endtreaty_c1#1
-The treaty will instantly be terminated. Breaking closes on your side will apply.
+The treaty will instantly be terminated. Breaking clauses on your side will apply.
+
+#b_termintreaty#1
+Terminate
+
+#b_termintreaty_c1#1
+The treaty will instantly be terminated and no breaking clauses will apply.
 
 #b_erase_bdg#1
 buildings
@@ -427,15 +439,6 @@ Reform effect: -[x] loyalty in all territories
 #b_reform_loyal_c1#1
 Warning! Because of its content, your pending reform will cause an instant one-time penalty of [x] loyalty in all of your territories.
 
-#b_regclaim#1
-Claim territory
-
-#b_regunclaim_1#1
-You can unclaim this territory: it will become free of any ownership.
-
-#b_regunclaim_2#1
-WARNING: By willingly revoking this claim you will lose 2 of Honor!
-
 #b_renegoc#1
 Renegociate
 
@@ -562,14 +565,17 @@ Limited distribution
 #bc_menubdg_lmtd_c1#1
 Click to toggle limited distribution for this merchant. Allows you to control the amount of the resource distributed to the public market.
 
-#bc_menubdg_move#1
-move
+#bc_menubdg_move#2
+Move this building
 
 #bc_menubdg_move2#1
 deconstruct this building and rebuild it elsewhere
 
 #bc_menubdg_nopran#1
 This building doesnt have any possible annexes.
+
+#bc_menubdg_anxsource#1
+[x] sources of [y] from [z]
 
 #bc_menubdg_nsource#1
 natural sources of
@@ -802,17 +808,23 @@ Operating a trade route between [x] of [y] and [z] of [v].
 #button_opertrt_c4#1
 * operation profit:  [x] monies
 
-#button_routeitem_c1#1
-Importing [x] of [y] at price [z] from [v], for a total cargo volume of [w].
+#button_routeitem_c1#2
+Importing [x] of [y] at price [z] from [v].
 
-#button_routeitem_c2#1
-Purchased from the trade route at price [x] for [y] monies and currently reselling in [z] at price [v] for [w] monies.
+#button_routeitem_c2#2
+* Purchasing [x] from the trade route at price [y]: -[z] monies 
 
-#button_routeitem_c3#1
-Exporting [x] of [y] at price [z] towards [v], for a total cargo volume of [w].
+#button_routeitem_c3#2
+* Reselling [x] in [y] at price [z]: +[v] monies.
 
-#button_routeitem_c4#1
-Purchased from local producers at price [x] for [y] monies and currently sold to the trade route for [z] at price [v] for [w] monies.
+#button_routeitem_c4#2
+Exporting [x] of [y] at price [z] towards [v].
+
+#button_routeitem_c5#2
+* Purchasing [x] from local producers at price [y] ([z]% is state owned): -[v] monies 
+
+#button_routeitem_c6#2
+* Selling [x] to the trade route for [y] at price [z]: +[v] monies.
 
 #button_routeownr#1
 Trade route owner
@@ -976,6 +988,12 @@ This capacity increases the more population resides in the territory.
 #cltrstat_local_c3#1
 - local culture from territorial status: +[x]%
 
+#cltrstat_poppol#1
+[x]% from active policies
+
+#cltrstat_poppol_c1#1
+[x]% of the culture production due to currently active government policies.
+
 #cltrstat_pop#1
 Raw culture production
 
@@ -1042,14 +1060,14 @@ Base conflict
 #conf_pop_c1#1
 The total population in the territory naturally generates conflict.
 
-#conf_serv#1
-Services ([x]%)
+#conf_serv#2
+Services
 
 #conf_serv_c1#1
 Services in the territory like Justice can reduce the final conflict level, depending on how well population has access to them.
 
-#conf_state#1
-Policies ([x]%)
+#conf_state#2
+Policies
 
 #conf_state_c1#1
 Current government policies can effect the base conflict from population.
@@ -1273,12 +1291,6 @@ Promote
 #facmmb_prom_c1#1
 Your title allows you to manage this hierarchic position of this character: promote or demote this character.
 
-#facmmb_pwr#1
-Power transfers
-
-#facmmb_pwr_c1#1
-State power can be received from direct subordinates and transfered to the superior. Rates are defined by their respective ranks.
-
 #facmmb_pwrlss#1
 POWERLESS
 
@@ -1292,7 +1304,7 @@ Quit
 Leave this Nation and regain your sovereignty. 
 
 #facmmb_quit_c2#1
-WARNING: if you are bound to this nation by treaties, this will trigger the breaking closes on your end!
+WARNING: if you are bound to this nation by treaties, this will trigger the breaking clauses on your end!
 
 #facmmb_rplc#1
 Replace
@@ -1311,6 +1323,18 @@ Paid to superior: [x]
 
 #facmmb_tax_r#1
 Taxes from subordinates: [x]
+
+#facmmb_maxsubor#1
+Maximum subordinates
+
+#facmmb_maxsubor_c1#1
+Based on its current technological knowledges and nation rank, this character can currently have up to [x] direct subordinates.
+
+#facmmb_maxsubor_c2#1
+Current number of direct subordinates: [x]
+
+#facmmb_maxsubor_c3#1
+WARNING: Over maximum capacity of direct subordinates!
 
 #facmmb_ter#1
 Regions
@@ -1333,6 +1357,9 @@ Set rank
 #facprom_supr#1
 Set superior
 
+#facprom_suprlimit#1
+[x] can't manage more than [y] direct subordinates.
+
 #facprom_title#1
 Position of [x]
 
@@ -1343,7 +1370,7 @@ You can change the hierarchic position of [x] within this Nation by changing his
 Are you sure?
 
 #facquit_txt#1
-By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking closes on your end, exposing you to potential penalties or even war.
+By leaving this Nation you will regain your full sovereignty as the head of a new independent Nation. All your current subordinates will remain under you and therefore join the new Nation as well. However be warned that if you are bound to this Nation by treaties, leaving it will trigger the breaking clauses on your end, exposing you to potential penalties or even war.
 
 #facrank_ter#1
 Territory
@@ -1480,11 +1507,11 @@ Ownership can be lost in the same way.
 #form_migrnts#1
 Migrants
 
-#form_migrnts_dscr_1#1
-Migrants are special civilian formations of population without a home. They can settle new territories, do not require any home support and can recover their AP without any distance penalties but they cost extra State Power and upkeep.
+#form_migrnts_dscr_1#2
+Migrants are special civilian formations of population without a home. 
 
-#form_migrnts_dscr_2#1
-Migrants are created when a territory is evacuated.
+#form_migrnts_dscr_2#2
+They can settle new territories, do not require any home support and can recover their AP without any distance penalties.
 
 #form_nomad#1
 Nomads
@@ -1507,23 +1534,41 @@ A primitive nomadic tribe is a potential spawn point for new characters. It is d
 #formact_batl#1
 Battle
 
+#formact_batl_dscr#1
+The formation will trigger a battle where its troops will engage and try to eliminate all enemies in the territory.
+
 #formact_camp#1
 Encamp
+
+#formact_camp_dscr#1
+The formation will encamp in the territory, regaining its Action Points faster but unable to move until it has regained at least 50 AP.
 
 #formact_captr#1
 Capture
 
+#formact_captr_dscr#1
+A hunt where hunters will try to capture live animals instead of killing them.
+
 #formact_claim#1
 Claim territory
 
+#formact_claim_dscr#1
+This empty territory will be claimed by one of your regions and attached to it, making it unavailable for other States to pass or to exploit it.
+
 #formact_fish#1
 Fish
+
+#formact_fish_dscr#1
+The formation will fish in the territory, awarding some of its resources that will be transfered into the formation's inventory.
 
 #formact_fish_rslt#1
 Our fisherpigs have catched [x] [y] and collected [z] resources.
 
 #formact_hunt#1
 Hunt
+
+#formact_hunt_dscr#1
+The formation will attempt to hunt the herd in the territory, awarding some of its resources that will be transfered into the formation's inventory. Based on the strenght of the hunters and the hunted animals, the hunt may go badly causing the death of some (or all) hunters.
 
 #formact_hunt1_rslt#1
 Our hunters have killed [x] [y] and collected [z] resources.
@@ -1546,50 +1591,80 @@ The hunt went terribly bad and all our hunters have died!
 #formact_invd#1
 Invade
 
+#formact_invd_dscr#1
+The formation will attempt to invade the territory. It will trigger a battle where troops of the formation will try to overcome all defenses of the territory. If successful, the enemy will lose control of the territory, which will become an "occupied territory" under your control.
+
 #formact_move#1
 Move
+
+#formact_move_dscr#1
+The formation will move to this territory and remain idle there.
 
 #formact_none#1
 Idle
 
+#formact_none_dscr#1
+The formation remains idle in the territory.
+
 #formact_palntr#1
 Use the palentir
+
+#formact_palntr_dscr#1
+The palentir will be used, offering your a power of your choice. It will be destroyed in the process.
 
 #formact_prospct#1
 Prospect
 
+#formact_prospct_dscr#1
+The formation will inspect the territory to list its known natural resources.
+
 #formact_raid#1
 Raid
+
+#formact_raid_dscr#1
+The formation will attempt to raid the territory. It will trigger a battle where troops of the formation will try to steal resources from the enemy territory in priority.
 
 #formact_reclaim#1
 Reclaim territory
 
+#formact_reclaim_dscr#1
+The formation will claim this territory from the enemy, attaching it to your own regions.
+
 #formact_sack#1
 Sack
 
-#formact_sack_1#1
-Warning: this action will cost you 15 of honnor, if successful!
-
-#formact_sack_2#1
-The objective will be to first eliminate all the defenses of the territory. If sucessful, they will then proceed to methodically pillage as much resources as possible, but to inflict great damages to the city by burning down buildings and slaughtering its inhabitants. Once done, the formation will leave the region.
-
-#formact_sack_3#1
-This action provides much more resources than a simple raid while inflicting greater damage, but unlike a raid, it implies taking full control of the territory by eliminating all its defenses first and it costs you honnor.
+#formact_sack_dscr#1
+The formation will attempt to sack the territory. It will trigger a battle where troops of the formation will first try to eliminate all defenses before methodically pillaging and destroying as much as possible.
 
 #formact_scav#1
 Scavenge resources
 
+#formact_scav_dscr#1
+The formation will directly exploit a natural ressource available in the territory, producing a small amount of it that will be loaded in the formation's inventory.
+
 #formact_settle#1
 Settle
+
+#formact_settle_dscr#1
+The formation will create a new settlement in the territory. Its units will be converted into population, and the resources of its inventory will be unloaded into the territory. The formation is disbanded.
 
 #formact_tkartfct#1
 Claim the artefact
 
+#formact_tkartfct_dscr#1
+The artefact will be claimed by the formation, and become yours to control.
+
 #formact_unclaim#1
 Unclaim territory
 
+#formact_unclaim_dscr#1
+The territory will be unclaimed.
+
 #formact_wood#1
 Gather wood
+
+#formact_wood_dscr#1
+The formation will directly cut wood in the territory, producing a small amount of wood that will be loaded in the formation's inventory.
 
 #formact_wood_rslt#1
 The formation has collected [x] of wood.
@@ -2036,10 +2111,10 @@ Support based on active policies.
 Total legitimacy
 
 #legit_wealth_c1#1
-Is increased by the personnal wealth of the Leader class.
+Is increased by the personal wealth of the Leader class.
 
 #legit_wealth_c2#1
-* Leader personnal wealth: [x]
+* Leader personal wealth: [x]
 
 #loadgame_copy#1
 copy
@@ -2113,14 +2188,20 @@ militia
 #loyal_garrison_c1#1
 Providing military equipment to the citizens of the territory to defend themselves also makes them more confident to defy the state's authority.
 
+#loyal_pol#1
+authority from policies
+
+#loyal_pol_c1#1
+Authority gained by currently active government policies.
+
 #loyal_good#1
 This territory is currently not at risk of a popular uprising.
 
-#loyal_guard#1
-guards
+#loyal_guard#2
+authority services
 
-#loyal_guard_c1#1
-The total produced guarding service increases the authority of the state.
+#loyal_guard_c1#2
+Some services such as Guarding or Police can increase authority.
 
 #loyal_hightax#1
 high taxes
@@ -2146,11 +2227,17 @@ amount of population
 #loyal_poppow_c1#1
 The more population there is, the less authority. The total amount of population reduces the territory's loyalty.
 
-#loyal_prodtrib#1
-production tributes
+#loyal_prodtrib#2
+agricultural levies
 
-#loyal_prodtrib_c1#1
-Production tributes upset people and reduces their loyalty to the state.
+#loyal_prodtrib_c1#2
+Agricultural levies upsets the farmers class and reduce their loyalty to the state (malus is affected by the ratio and quantity of Farmers).
+
+#loyal_forcedlab#2
+forced labor
+
+#loyal_forcedlab_c1#2
+Forced labor upsets the people and reduce their loyalty to the state.
 
 #loyal_prvldg#1
 priviledges
@@ -2272,6 +2359,9 @@ Temperature
 #maptyp#1
 Map preset
 
+#mapseed#1
+Map seed
+
 #maptyp1#1
 Terra
 
@@ -2328,6 +2418,24 @@ You cannot convert formations in resistant cities.
 
 #menu_frmtyp_title#1
 Changing this formation's type...
+
+#menu_mission_setl_name#1
+New territory's name:
+
+#menu_mission_setl_status#1
+New territory's status:
+
+#menu_mission_setl_cost1#1
+Administration cost:
+
+#menu_mission_setl_cost1_c#1
+This territory will cost [x] of Administration to its regional capital to be maintained.
+
+#menu_mission_setl_cost2#1
+State Power cost:
+
+#menu_mission_setl_cost2_c#1
+This territory will cost [x] of State Power to the government to be maintained.
 
 #menu_mission_scav1#1
 Resource to scavenge:
@@ -2548,14 +2656,56 @@ Adding researchers...
 #menu_rschr_type#1
 Researching population for this project
 
-#menu_scr_avg#1
-World score
+#menu_scr_viccnd#1
+Victory conditions
 
-#menu_scr_avg_c1#1
-The world score is the sum of all scores of every characters in the game. It's used to determine the score cost per VP. 
+#menu_scr_nxtcycle#2
+Reward cycle:
 
-#menu_scr_avg_c2#1
-Inactive characters only count for half their actual score.
+#menu_scr_nxtcycle_c1#2
+The duration of a reward cycle is currenlty of [x].
+
+#menu_scr_nxtcycle_c2#2
+This means the leaders of Nations currently meeting victory conditions are earning their Victory Points rewards every [x] on average.
+
+#menu_scr_nxtcycle_c3#1
+The duration of cycles is dynamic: it is affected by the server activity and age. Less active players mean shorter cycles to hasten the game's end.
+
+#menu_scr_vpgoal#1
+Victory goal:
+
+#menu_scr_vpgoal_c1#1
+The amount of Victory Points a Nation must accumulate to win the game.
+
+#menu_scr_hegmny#1
+Hegemony
+
+#menu_scr_hegmny_dscr_1#2
+Be a Nation with one of the highest scores.
+
+#menu_scr_hegmny_dscr_2#1
+The leading 5 Nations receive decreasing Victory Points, from +10 to +1.
+
+#menu_scr_domin#1
+Domination
+
+#menu_scr_domin_dscr#1
+Be the Nation totalling 75% of the world score.
+
+#menu_scr_leadcand#1
+Leading candidate:
+
+#menu_scr_yourvp#1
+Your rewards
+
+#menu_scr_yourprod#1
+Victory Points per cycle:
+
+#menu_scr_yourprod_c1#1
+You are currenty earning [x] Victory Points per reward cycle ([y]).
+
+#menu_scr_yourprod_c2#1
+Progress towards next Victory point: [x]% (estimated in [y]).
 
 #menu_scr_c#1
 Culture
@@ -2573,7 +2723,7 @@ How much points you are currently contributing to your Nation's score. The lower
 How much victory points you are currently contributing to your Nation's Victory Points. It's affected by your current rank: the lower it is, the less you contribute.
 
 #menu_scr_govnam#1
-Your personnal government's name
+Your personal government's name
 
 #menu_scr_k#1
 Knowledges
@@ -2599,41 +2749,32 @@ Score
 #menu_scr_t4#1
 Victory points
 
+#menu_scr_t5#1
+Progress
+
 #menu_scr_tot#1
 Score
 
 #menu_scr_tot_c#1
-You personnal score.
+Your current personal score.
 
 #menu_scr_vp#1
 Victory points
 
 #menu_scr_vp_c#1
-You personnal victory points.
-
-#menu_scr_vpcost#1
-Score per VP
-
-#menu_scr_vpcost_c1#1
-Each Victory Point currently costs [x] points of score.
-
-#menu_scr_vpcost_c2#1
-The cost of 100 Victory Points is defined as equal to 50% of the current world score. This makes the cost of every VP to 0.5% of the world score (with a minimum of 100 points).
+You current personal victory points.
 
 #menu_scr_vpmiss#1
 Missions
 
-#menu_scr_vpmiss_c#1
-Victory points you earned by completing Victory missions.
+#menu_scr_vpmiss_c#2
+Victory points you earned by completing missions.
 
-#menu_scr_vpscr#1
-Score
+#menu_scr_vpscr#2
+Reward cycles
 
-#menu_scr_vpscr_c1#1
-You can gain or lose Victory Points based on your current score. You currently get 1 VP for every [x] of score.
-
-#menu_scr_vpscr_c2#1
-The cost of score per VP is dynamic and based on the sum of the scores of all active characters.
+#menu_scr_vpscr_c1#2
+You may gain Victory Points at the end of every reward cycle based on the different Victory conditions.
 
 #menu_scr_w#1
 Wealth
@@ -2648,7 +2789,7 @@ Current knowledges
 Knowledge use
 
 #menu_tch_curuse_c1#1
-Your societe currently has [x] of knowledges, and a capacity to store [y].
+Your society currently has [x] of knowledges, and a capacity to store [y].
 
 #menu_tch_curuse_c2#1
 You will lose knowledges if your storage capacity gets lower than your current knowledges.
@@ -3112,6 +3253,12 @@ Life quality gained by the satisfaction and quality of quaternary needs.
 #poplq_4th_c2#1
 (requires satisfaction of tertiary needs)
 
+#poplq_lq#1
+[x]% from active policies
+
+#poplq_lq_c1#1
+Currently active government policies are having an effect of [x]% on final Life Quality.
+
 #poplq_house#1
 Housing quality
 
@@ -3230,10 +3377,10 @@ A porco can fully afford any valuable priced equally or bellow it's wealth level
 monies of income
 
 #popstat_winc_c1#1
-earning [x] monies out of [y] in total
+earning average of [x] monies per porco
 
 #popstat_winc_c2#1
-awards [x]% of [y] territory wealth
+current monetary unit value: [x] Wealth
 
 #popstat_winhrt_c1#1
 inherits its wealth and resources access from the average of all actives
@@ -3244,11 +3391,23 @@ inherits its wealth and resources access from the average of all actives
 #popstat_wpriv_c1#1
 This class gets [x]% of the territory's wealth as a privilege.
 
-#popstat_wpriv_c2#1
-[x]% of [y] of produced wealth in the territory = [z] 
+#popstat_wpriv_c2#2
+[x]% of [y] of produced wealth in the territory for [z] [v] = +[w] 
 
 #popstat_wpriv_c3#1
 -[x] from [y]% of leader's treasury contributions
+
+#popstat_wmoney#1
+Monetary unit value:
+
+#popstat_wmoney_c1#1
+The current value of a monetary unit in this territory is of [x] Wealth.
+
+#popstat_wmoney_c2#1
+Money is a unit to measure value and used to distribute Wealth in a society. The value per unit is based on the total Wealth there is to share divided by the amount of monetary units in existance.
+
+#popstat_wmoney_c3#1
+Monetary supply of [x] monies / total value of [y] Wealth = [z] Wealth per unit. 
 
 #popw_base#1
 Base wealth
@@ -3298,8 +3457,8 @@ The more population and distance from the capital, the harder it is to manage th
 #regadmin_eff#1
 Effects: increases budget incomes (-waste)
 
-#regclaim_acst#1
-Administration cost
+#regclaim_acst#2
+Administration cost:
 
 #regclaim_acst_c1#1
 Maintaining this claim will cost [x] of Administration from the parent territory.
@@ -3307,8 +3466,8 @@ Maintaining this claim will cost [x] of Administration from the parent territory
 #regclaim_err1#1
 You cannot claim this territory because its currently occupied by foreign units!
 
-#regclaim_err2#1
-Insufficient Administration! You cannot claim any new territories with this region.
+#regclaim_err2#2
+The region of '[x]' can't currently control more territorial claims!
 
 #regclaim_err3#1
 Colonies cannot claim new territories!
@@ -3376,17 +3535,17 @@ The budget balance of your territory is the result of all incomes and expenses s
 #regeco_2#1
 Budget can also be negatively affected by Waste. It represents incomes lost to tax fraud, bad management, corruption and 'black economy'.
 
-#regeco_comwork#1
-Community work
+#regeco_comwork#2
+Forced labor
 
-#regeco_comwork_c1#1
-[x] Actives spend [y]% of their time assigned to community work.
+#regeco_comwork_c1#2
+[x] Actives owe [y]% of their time to the Government as forced labor.
 
 #regeco_ec#1
 Exported goods purchasing cost
 
-#regeco_ec_c1#1
-Total cost paid for purchasing the exported goods to their local producers in this territory (at their local price).
+#regeco_ec_c1#2
+Total cost paid for purchasing the exported goods to their local producers in this territory.
 
 #regeco_eff#1
 Effects: affects your government's treasury positively or negatively 
@@ -3394,8 +3553,8 @@ Effects: affects your government's treasury positively or negatively
 #regeco_ei#1
 Exported goods sales
 
-#regeco_ei_c1#1
-Revenues of all the goods exported from this territory via trade routes (at their trade route price).
+#regeco_ei_c1#2
+Revenues of all the goods exported from this territory via regional transfers.
 
 #regeco_ers#1
 State-owned resources sales
@@ -3412,14 +3571,14 @@ Total paid auto-purchasing resources for the state (you).
 #regeco_ic#1
 Imported goods purchasing cost
 
-#regeco_ic_c1#1
-Total cost paid for all the goods imported via trade routes to this territory (at their trade route price).
+#regeco_ic_c1#2
+Total cost paid for all the goods imported via regional transfers into this territory.
 
 #regeco_ii#1
 Imported goods local sales
 
-#regeco_ii_c1#1
-Revenues generated from all imported goods sold in the territory (at their local price).
+#regeco_ii_c1#2
+Revenues generated from all imported goods sold in the territory.
 
 #regeco_inc#1
 Incomes
@@ -3518,16 +3677,34 @@ Local administration
 Waste caused by a weak or negative local administration.
 
 #regeco_wst_pop#1
-Population's corruption
+Population corruption
 
-#regeco_wst_pop_c1#1
-Corruption and waste from the total population in the region.
+#regeco_wst_pop_c1#2
+Corruption and waste from the total population in the territory.
+
+#regeco_wst_pop_c2#2
+It grows proportionnally to the amount of population.
+
+#regeco_wst_off#1
+Officials corruption
+
+#regeco_wst_off_c1#1
+Corruption and waste from the government Officials in the territory.
+
+#regeco_wst_off_c2#1
+It's affected by the Wealth of the Officials class compared to the rest of the average population: having poor Officials increases their corruption.
 
 #regeco_wst_srvc#1
 Waste reduction services
 
 #regeco_wst_srvc_c1#1
 Waste reduction from active services such as Tax collection.
+
+#regeco_wst_pol#1
+Active policies
+
+#regeco_wst_pol_c1#1
+Waste from currenctly active government policies.
 
 #regeco_wst_stpwr#1
 State's corruption
@@ -3625,6 +3802,24 @@ Unclaimed territory
 #regstatprop#1
 Territorial status special properties
 
+#regstatprop_regcntr#1
+can control [x] regional territories
+
+#regstatprop_subter#1
+is a sub-territory
+
+#regstatprop_maxprod#1
+max [x] production buildings
+
+#regstatprop_noprod#1
+no production buildings
+
+#regstatprop_maxind#1
+max [x] industrial buildings
+
+#regstatprop_noind#1
+no industrial buildings
+
 #regstatprop_army#1
 cannot recruit army
 
@@ -3632,13 +3827,16 @@ cannot recruit army
 requires '[x]' building
 
 #regstatprop_bdgup#1
-buildings upkeep [x]
+[x] maintenance per building
+
+#regstatprop_bdgadmin#1
+[x] administration per building
 
 #regstatprop_build#1
 cannot build
 
-#regstatprop_claim#1
-cannot own sub-territories
+#regstatprop_claim#3
+can claim [x] territories
 
 #regstatprop_conf#1
 population conflict [x]%
@@ -3659,7 +3857,7 @@ cannot be evacuated
 [x] free territorial claims
 
 #regstatprop_freeup#1
-[x] of free upkeep
+[x] monnies of free upkeep
 
 #regstatprop_inc#1
 [x]% of tax incomes
@@ -3691,8 +3889,8 @@ cannot overdraft
 #regstatprop_pol#1
 requires '[x]' policy
 
-#regstatprop_rencd#1
-cannot be renounced
+#regstatprop_rencd#2
+can be renounced
 
 #regstatprop_res#1
 cannot control resources
@@ -3715,11 +3913,17 @@ cannot control trade
 #regstatprop_trsfr#1
 cannot be transfered
 
-#regstatus_capital_1#1
-Home of the government, where the leader resides.
+#regstatus_hamlet_1#1
+The most basic form of settlement, a regional center with no local administration and unable to control regional territories. It can then evolve into a bigger regional capital.
 
-#regstatus_city_1#1
-A regional center, administered by your government.
+#regstatus_vilg_1#1
+A tiny regional capital that can start managing regional territories.
+
+#regstatus_town_1#1
+A regional capital with a basic local administration subordinated to your government.
+
+#regstatus_city_1#2
+A regional capital with a powerful local administration subordinated to your government.
 
 #regstatus_claim_1#1
 An empty territory can be claimed by your state and included in your official frontiers.
@@ -3727,14 +3931,14 @@ An empty territory can be claimed by your state and included in your official fr
 #regstatus_claimoccup#1
 WARNING: claiming this occupied territory will increase the honor penalty to [z] in case of defeat against partistans, and will trigger an immediate penalty of [x] resistance and [y] loyalty!
 
-#regstatus_colony_1#1
-Autonomous territory attached to a state.
+#regstatus_colony_1#2
+An regional capital with a highly autonomous local administration but still subordinated to your government.
 
 #regstatus_occup_1#1
 Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
 
-#regstatus_outpost_1#1
-Financially dependent, unadministered and autonomous territory. Useful for small remote campments made to exploit strategic resources.
+#regstatus_outpost_1#2
+A detached territory devoid of local administration and costly to maintain but useful to estabish small remote campments to exploit strategic resources.
 
 #regstatus_penalty#1
 WARNING: changing current status will trigger an immediate loyalty event of [x]!
@@ -3757,11 +3961,44 @@ Set new status to
 #regstatus_title#1
 Territory status
 
-#regstatus_trtry_1#1
-A territory is part of a region and is managed by the region's main city administration.
+#regstatus_trtry_1#2
+A territory attached to a regional capital, used to exploit lands surrounding it with a limited number of production buildings. Its production can be directly sent back to the regional capital.
 
 #regstatus_txt#1
 Modifying the administrative status of this territory...
+
+#regevac_title#1
+Evacutating territory
+
+#regevac_txt#1
+Organize the evacuation of the population of this territory towards another one of your territories.
+
+#regevac_targ#1
+Evacuation destination
+
+#regevac_dscr_1#1
+The evacuation of this territory towards another one of your territories will be initiated. This is a lengthly process which, once completed, will transfer all the population and resources of the territory into the selected destination leaving this current territory abandonned.
+
+#regevac_dscr_2#1
+Migrating population is dangerous, a portion of the population will be lost by this process. The amount of time to complete the action and the percentage of losses is proportionnal to the distance of the destination territory. 
+
+#regevac_dscr_3#1
+While all the resources in storages will be transfered along with the population, all the existing structures and buildings of the territory will however remain and be left abandonned here when the evacuation is completed. They should be manually demolished to recover materials if necessary.
+
+#regevac_dscr_4#1
+Warning: note that once started, the evacuation process cannot be cancelled!
+
+#regevac_time#1
+Time to complete
+
+#regevac_time_c#1
+Time it will take to evacuate this territory towards '[x]' at a distance of [y].
+
+#regevac_losses#1
+Losses estimation
+
+#regevac_losses_c#1
+Estimated percentage of population and resources that will be lost in the evacuation process. The further away, the higher.
 
 #resist_abandon_1#1
 You cannot abandon buildings in a resistant city!
@@ -3814,6 +4051,9 @@ The more points, the stronger the resistance is in this territory and the more p
 #resprop_conflict#1
 [x]% of conflict
 
+#resprop_authorty#1
+[x] of authority
+
 #resprop_distrib#1
 Can be sold and consummed by population
 
@@ -3834,6 +4074,12 @@ No Custom needed for consumption
 
 #resprop_noskill#1
 No Skill needed for production
+
+#resprop_free#1
+Is free
+
+#resprop_prodtrib#2
+Subject to agricultural levies
 
 #resprop_oncons#1
 on consumption
@@ -4021,11 +4267,8 @@ Noone wants to serve a dishonorable leader! Negative honor reduces State Power (
 #statepow_nation#1
 Nation
 
-#statepow_nation_c1#1
-State power transfered from subordinates: [x]
-
-#statepow_nation_c2#1
-State power transfered to superior: [x]
+#statepow_nation_c1#2
+Actives policies effect ([y]%): [x]
 
 #statepow_nation_c31#1
 [y] direct subordinates: [x]
@@ -4035,6 +4278,9 @@ Average distance [y] of direct subordinates: [x]
 
 #statepow_nation_c51#1
 [y] total subordinates: [x]
+
+#statepow_nation_c6#1
+WARNING! Over maximum capacity of direct subordinates: [x]
 
 #statepow_nbcit#1
 Territories
@@ -4066,11 +4312,11 @@ If the current stock is below the desired value, 25% of the production will be r
 #stormntn_set#1
 Set maintaining stock at minimum of [x] [y]. 
 
-#storownr_disab#1
-[x] no longer is a State Resource (no auto-purchasing of production). 
+#storownr_disab#2
+[x] production is no longer State-backed  (no auto-purchasing of excess production). 
 
-#storownr_enab#1
-[x] is now a State Resource (all production auto-purchased by you). 
+#storownr_enab#2
+[x] production is now State-backed (all excess production is auto-purchased by you). 
 
 #storownr_set#1
 Set maintaining ownership of minimum [x] [y]. 
@@ -4157,10 +4403,7 @@ Available demands:
 treaty duration
 
 #treated_dur_c1#1
-after this duration, the treaty will end
-
-#treated_dur_c2#1
-(some treaty terms are permanent and will remain active even when the treaty duration has ended but they can then be cancelled without any penalty)
+At the end of this duration, the treaty will be breakable without triggering penalty clauses.
 
 #treated_inst#1
 Applied once, at the treaty's signature
@@ -4172,7 +4415,7 @@ NEW TREATY
 Available offers:
 
 #treated_pers#1
-Remains effective even after treaty's duration but it can then be cancelled without breaking closes
+Remains effective even after treaty's duration but it can then be cancelled without breaking clauses
 
 #treaterm_coins#1
 monies
@@ -4258,8 +4501,8 @@ adds a new production source
 #ui_annex_txt2#1
 directly distributes production
 
-#ui_availcomwork#1
-Available community work
+#ui_availcomwork#2
+Available forced labor
 
 #ui_battleover#1
 Battle is over!
@@ -4363,8 +4606,8 @@ Total amount of work that this building can currently get done.
 #ui_bdg_wl_dscr#1
 How much this building contributes to the total territory's wealth.
 
-#ui_bdg_wl_dscr2#1
-[x] of producing workforce * [y] = [z] of additionnal wealth
+#ui_bdg_wl_dscr2#2
+[x] of used workforce * [y] = [z] of additionnal wealth
 
 #ui_bdg_wu_dscr#1
 How much of the available workforce is currently being used and busy producing.
@@ -4477,6 +4720,12 @@ employs
 #ui_builderr_adjcnt#1
 Must be placed adjascent to it's owner.
 
+#ui_builderr_custm#1
+This building can't be functionnal without the cultural custom of '[x]'.
+
+#ui_builderr_prodskl#1
+This building can't be functionnal without the cultural production skill of '[x]'.
+
 #ui_builderr_bldrs#1
 This building requires professional construction and you do not have any builders.
 
@@ -4497,6 +4746,12 @@ This building cannot have more than [x] [y].
 
 #ui_builderr_maxreg#1
 There can't be more than [x] [y] in a territory.
+
+#ui_builderr_maxbdgprod#1
+The status of this territory doesn't allow for more than [x] production buildings.
+
+#ui_builderr_maxbdgind#1
+The status of this territory doesn't allow for more than [x] industrial buildings.
 
 #ui_builderr_mustw#1
 This building must be placed on water of at least [x] of depth.
@@ -4738,6 +4993,9 @@ Delete this zone
 #ui_dpltool_delzone#1
 (right-click to delete)
 
+#ui_dpltool_delzoncant#1
+You're not allowed to delete this defensive zone!
+
 #ui_dpltool_done#1
 DONE
 
@@ -4816,11 +5074,20 @@ Policies upkeep
 #ui_eco_civc_c1#1
 Total cost of maintaining all our currently active policies.
 
-#ui_eco_comwork#1
-Community work
+#ui_eco_comwork#2
+Forced labor
 
-#ui_eco_comwork_c1#1
-Amount of workforce available for community work.
+#ui_eco_comwork_c1#3
+The amount of workforce dedicated to the government.
+
+#ui_eco_comwork_c2#1
+Note that forced labor management becomes increasingly inefficient as population grows, reducing its yield.
+
+#ui_eco_comwork_c3#1
+* Raw forced labor: [x]
+
+#ui_eco_comwork_c4#1
+* Inefficiency: [x]
 
 #ui_eco_contrib#1
 Voluntary contributions
@@ -4829,10 +5096,13 @@ Voluntary contributions
 In a society without organized taxes, incomes only come from voluntary contribution of the people for the community (25% of their incomes).
 
 #ui_eco_lead#1
-Leader's wealth
+Leader contributions
 
-#ui_eco_lead_c1#1
-The leader is currently assigning [x]% of his personnal priviledged wealth of [y] to the government finances.  
+#ui_eco_lead_c1#2
+The Leader can offer his personal assets being used by the government thus reducing some of its expenses (territories maintenance and formations maintenance).
+
+#ui_eco_lead_c2#2
+Currently has [x]% of privileges contributing at [y]%: reducing [z] of government expenses by [v]% = [w] 
 
 #ui_eco_nat#1
 Nation
@@ -4870,17 +5140,14 @@ Trade balance
 #ui_eco_tradbal_c1#1
 The trade balance across all your territories from all your current trade routes.
 
-#ui_eco_tradbal_c2#1
-State resources: +[x] sales   -[y] purchases
+#ui_eco_tradbal_c2#2
+State backed productions:  [x]
 
-#ui_eco_tradbal_c3#1
-Importations:    +[x] sales   -[y] purchases
+#ui_eco_tradbal_c3#2
+Regional transfers:       [x]
 
 #ui_eco_tradbal_c4#1
-Exportations:    +[x] sales   -[y] purchases
-
-#ui_eco_tradbal_c5#1
-Cargo:           +[x] sales   -[y] purchases
+State-owned sales:             [x]
 
 #ui_eco_trt#1
 Treaties
@@ -5174,7 +5441,7 @@ Estimated for the next generation...
 click to select an icon
 
 #ui_insuffcomwrk#1
-Insufficient community work available to maintain more things!
+Insufficient forced labor available to maintain more things!
 
 #ui_menubdg_addan#1
 add a market stand
@@ -5278,6 +5545,18 @@ Sleep mode
 #ui_menubdg_sleep2#1
 In sleep mode : all functionnalities are stopped until you activate it again. Building does not degrade with time (maintenance).
 
+#ui_menubdg_nocustm1#1
+Missing cultural custom
+
+#ui_menubdg_nocustm2#1
+This building is not functionning properly because the local population is missing the cultural custom of consumming '[x]'.
+
+#ui_menubdg_nocustm1#1
+Missing cultural skill
+
+#ui_menubdg_nocustm2#1
+This building is not functionning properly because the local population is missing the cultural skill of producing '[x]'.
+
 #ui_menubdg_solid#1
 Solidity
 
@@ -5332,11 +5611,11 @@ State
 #ui_menureg_admin3#1
 Territory
 
-#ui_money_1_dscr#1
+#ui_money_1_dscr#2
 There is no money and the villagers divide their time between their personal activity and community tasks. The labor force available to the community is what limits the management of the village.
 
-#ui_money_1_typename#1
-Community work
+#ui_money_1_typename#2
+Forced labor
 
 #ui_money_2_dscr#1
 In a barter economy, goods are exchanged directly according to their respective values without an intermediary. Goods belonging to the government are used as currency to pay the expenses necessary for its management.
@@ -5425,14 +5704,14 @@ If below the specified amount, new resources going into storage will be automati
 #ui_mres_storvar#1
 STORAGE VARIATION
 
-#ui_mres_stres#1
-State resource
+#ui_mres_stres#2
+State-backed production
 
-#ui_mres_stres_c1#1
-If declared a State Resource, the whole production of this resource will be automatically purchased by the state as they are produced.
+#ui_mres_stres_c1#2
+If State-backed, any excess production going in storages for this resource will be automatically purchased by the governement (you) to garantee immediate revenues for the local producers.
 
-#ui_mres_stres_c2#1
-A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work.
+#ui_mres_stres_c2#2
+A useful option for strategic resources used exclusively by the state such as weapons or tools, to ensure its producers receive regular income for their work and can remain profitable.
 
 #ui_mres_ststk#1
 State owned
@@ -5445,6 +5724,9 @@ You do not have to buy the resources you already own when using them and you als
 
 #ui_mres_ststk_c3#1
 You currently own [x] of the [y] [z] currently stocked in this territory.
+
+#ui_mres_stbuy#1
+Buying
 
 #ui_newgame_newgame#1
 NEW GAME
@@ -5506,41 +5788,44 @@ Price arbitrage
 #ui_price_arb_c1#1
 Price arbitrage can happen when there are large price discrepancies between this territory and the nearby regions (yours or foreign you have trading relations with).
 
-#ui_price_arb_c2#1
-Average price in this area of the world: [x] monies.
+#ui_price_arb_c2#2
+Average price in this area of the world: [x] monies (weight: [y])
 
-#ui_price_arb_c3#1
-With a price difference of [x]%, the world price has an influence of [y]% over the local price resulting in an arbitrage effect of [z] on the final price.
+#ui_price_arb_c3#2
+With an influence of [x]% and a price difference of [y]%, the world price impacts local price by [z]% resulting in an arbitrage effect of [v] on the final price.
 
 #ui_price_arb_c4#1
 No price arbitrage: no nearby territories are currently using this resource.
 
-#ui_price_arb_c5#1
-Local price before arbitrage: [x] monies.
+#ui_price_arb_c5#2
+Local price before arbitrage: [x] monies (weight: [y])
 
-#ui_price_base#1
-Minimum price of [x]
+#ui_price_arb_c6#1
+Main influence: '[x]' (weight: [y])
+
+#ui_price_base#2
+Minimum of [x]
 
 #ui_price_base_c1#1
 This is the minimum price possible for this resource, regardless of the other factors.
 
-#ui_price_base1#1
-Production cost of [y]  ([x]%)
+#ui_price_base1#3
+Production cost of [x]  ([y]%)
 
-#ui_price_base1_c1#1
-The cost of local production for this resource based on the cost of required materials.
+#ui_price_base1_c1#2
+The current cost of production for this resource based on the cost of required materials.
 
 #ui_price_base1_c2#1
 Production represents [x]% of the total input at an average cost of [y] per unit, resulting in an effect on minimum price of [z].
 
-#ui_price_base2#1
-Importation cost of [y]  ([x]%)
+#ui_price_base2#2
+In storage cost of [x]  ([y]%)
 
-#ui_price_base2_c1#1
-The cost of importation of this resource from current trade routes.
+#ui_price_base2_c1#2
+The average cost of production of resources currently in storage.
 
 #ui_price_base2_c2#1
-Importations represents [x]% of the total input at an average cost of [y] per unit, resulting in an effect on minimum price of [z].
+Storage represents [x]% of the total input at an average cost of [y] per unit, resulting in an effect on minimum price of [z].
 
 #ui_price_base3#1
 Profit margin
@@ -5548,8 +5833,8 @@ Profit margin
 #ui_price_base3_c1#1
 Ensuring minimum profits for the producers and traders of the resource and applied to the minimum price per unit of [x].
 
-#ui_price_base3_c2#1
-Current rate is [x]% of [y] +1, resulting in an effect on minimum price of [z].
+#ui_price_base3_c2#3
+Current profits rate is 0.1 + [x]% of [y], resulting in an effect on minimum price of [z].
 
 #ui_price_mkt#1
 Market study:  [x]
@@ -5596,8 +5881,17 @@ Demand: [x] units
 #ui_price_sd_c41#1
 (effect limited by minimal price of [x] monies!)
 
-#ui_price_work#1
-Base price
+#ui_price_whole#2
+Wholesale price
+
+#ui_price_whole_c1#2
+Resources that are State-bought or exported are purchased at a lower price: the wholesale price is the retail price minus the merchants share of 25%.
+
+#ui_price_whole_c2#2
+Note that State-owned resources in storage that are also resold at the wholesale price.
+
+#ui_price_work#2
+Work price
 
 #ui_price_work_c1#1
 Price based on the amount of work required to produce this resource.
@@ -5761,14 +6055,23 @@ Time passed since the last time this territory was prospected.
 #ui_reginf_vsb#1
 Visibility 
 
-#ui_regres_addofr#1
+#ui_regres_sndordr#1
 SEND ORDER
 
-#ui_regres_addrt#1
-New trade route
+#ui_regres_addofr#2
+SEND TO REGION CENTER
+
+#ui_regres_addofr_c#2
+You will start transfering a production of [x] [y] to the regional center of '[z]'. 
+
+#ui_regres_addrt#2
+New transfer
 
 #ui_regres_amnt#1
-Amount
+Transfer
+
+#ui_regres_amnt_c#1
+The amount of production of this territory you want to transfer to the regional center.
 
 #ui_regres_atprc#1
 Limit price
@@ -5797,8 +6100,11 @@ Offer a continuous transfer of resources to other territories of your trading ne
 #ui_regres_exp_c2#1
 These offers are public and can be taken by anyone in your trading network.
 
-#ui_regres_exps#1
-Current exportations
+#ui_regres_exps#2
+Sending to regional center
+
+#ui_regres_exps_c#2
+Goods that are being exported to the regional center this territory is attached to.
 
 #ui_regres_imp#1
 IMPORT
@@ -5806,8 +6112,11 @@ IMPORT
 #ui_regres_imp_c1#1
 View existing offers in your trading network of territories offering the exportation of a continuous transfer of resources.
 
-#ui_regres_imps#1
-Current importations
+#ui_regres_imps#2
+From regional territories
+
+#ui_regres_imps_c#2
+Goods that are being imported from regional territories attached to this regional center.
 
 #ui_regres_inv#1
 Inventory
@@ -5866,29 +6175,23 @@ tax
 #ui_regres_tax_c#1
 Taxing a percentage of the total value of all goods of every trade route operated by this city.
 
-#ui_regres_totexp#1
-Exportations
+#ui_regres_totexp#2
+Exportations balance
 
-#ui_regres_totexp_c1#1
-Exported goods are bought by you at their local price from the producers of this territory and are then sold at their trade route price to the importer.
+#ui_regres_totexp_c1#2
+Expenses for goods that are being exported to the regional center.
 
-#ui_regres_totexp_c2#1
-Purchasing cost from local producers:
+#ui_regres_totexp_c2#2
+Purchasing cost from local producers ([x]% state owned):
 
 #ui_regres_totexp_c3#1
 Income from trade route sales:
 
-#ui_regres_totexp_c4#1
-Sold cargo:
+#ui_regres_totimp#2
+Importations balance
 
-#ui_regres_totexp_c4w#1
-Selling at a loss! Local Cargo price higher than in the trade routes
-
-#ui_regres_totimp#1
-Importations
-
-#ui_regres_totimp_c1#1
-Imported goods are bought by you at their trade route price and are then sold in the territory at their local price.
+#ui_regres_totimp_c1#2
+Incomes from goods that are being imported from regional territories attached to this regional center.
 
 #ui_regres_totimp_c2#1
 Purchasing cost from the trade route:
@@ -5896,23 +6199,20 @@ Purchasing cost from the trade route:
 #ui_regres_totimp_c3#1
 Local sales:
 
-#ui_regres_totimp_c4#1
-Purchased cargo:
-
 #ui_regres_trsf#1
 TRANSFER
 
-#ui_regres_trsf_c1#1
-Setup a continuous transfer of resources between your territories. 
+#ui_regres_trsf_c1#2
+Setup a continuous transfer of resources from this territory to its regional center. 
 
-#ui_regres_trsf_c2#1
-These offers are not visible to your trading network and can only be taken by your own territories.
+#ui_regres_trsf_c2#2
+Goods are bought at the local price of the producing territory by the State.
 
-#ui_regres_trt#1
-Trade routes
+#ui_regres_trt#2
+Regional transfers
 
-#ui_regres_trt_c#1
-To transfer a constant flux of resources between territories.
+#ui_regres_trt_c#2
+To transfer the production of regional territories to the regional center.
 
 #ui_regwlth_mtl#1
 Representative money
@@ -6064,6 +6364,9 @@ Reveals
 #ui_tech_ter#1
 New territorial status
 
+#ui_tech_form#1
+New formation type
+
 #ui_tech_unit#1
 New unit
 
@@ -6209,7 +6512,7 @@ their purchases: [x], sales: [y]
 [x] ago, in [y]:
 
 #ui_tradehist_but_c2#1
-You bought [x] [y] to [z] at price [v].
+You bought [x] [y] from [z] at price [v].
 
 #ui_tradehist_but_c3#1
 You sold [x] [y] to [z] at price [v].
@@ -6232,17 +6535,20 @@ You sold [x] [y] to [z] at price [v].
 #ui_tradehist_prtnr#1
 Best partner
 
-#ui_tradehist_totb#1
-Total purchases
+#ui_tradehist_totb#2
+* total purchases:
 
-#ui_tradehist_totb_c1#1
-Total expenses from purchases since the last [x].
+#ui_tradehist_tots#2
+* total sales:
 
-#ui_tradehist_tots#1
-Total sales
+#ui_tradehist_tbal#1
+* total balance:
 
-#ui_tradehist_tots_c1#1
-Total income from sales since the last [x].
+#ui_tradehist_bal#1
+Trade balance
+
+#ui_tradehist_bal_c1#1
+[x] averaged trade balance, of last [y].
 
 #ui_tradehist_ttle#1
 History
@@ -6316,6 +6622,12 @@ This order is currently active. It will automatically cancel if stocks of [x] go
 #ui_tradeordr_butn_c9#1
 Offer in [x], from [y] of [z] ([v])
 
+#ui_tradeordr_butn_stown#1
+[x]% State-owned
+
+#ui_tradeordr_butn_intrn#1
+internal order
+
 #ui_tradeordr_cant#1
 This resource cannot be traded!
 
@@ -6334,20 +6646,20 @@ Local producer's share
 #ui_tradeordr_inc2_c1#1
 If the sold resources are privately owned, their local owners must be paid at the local price for the amount sold.
 
-#ui_tradeordr_inc2_c2#1
-* Local producers own [x], at a local price of [y]: +[z] monies
-
-#ui_tradeordr_inc2_c3#1
-* Income tax of [x]%: -[y] monies
-
-#ui_tradeordr_inc2_c4#1
-* Actual income for local producers: [x] monies
+#ui_tradeordr_inc2_c2#2
+Local producers own [x], at a wholesale price of [y]:  [z] monies
 
 #ui_tradeordr_inc3#1
 Expected profit
 
 #ui_tradeordr_inc3_c1#1
-This is the expected profit expected for this trade offer.
+This is the expected profit expected for this trade offer (local producers income will also generate additionnal tax incomes based on your current rate, thus increasing the potential profits from your sales not accounted here).
+
+#ui_tradeordr_inc3_c2#1
+Trade expected profit: [x] monies
+
+#ui_tradeordr_inc3_c3#1
+Territorial status effect of [x]%: [y] monies
 
 #ui_tradeordr_inc4#1
 Trade's raw expense (deposit)
@@ -6358,8 +6670,14 @@ This is the maximum raw expense of this trade based on the amount purchased and 
 #ui_tradeordr_inc5#1
 Potential local incomes
 
-#ui_tradeordr_inc5_c1#1
-If the purchased resources are then sold locally, this is the income they will generate based on their local selling price.
+#ui_tradeordr_inc5_c1#2
+If the purchased resources are then sold locally, this is the income they will generate based on their local retail price, minus the merchants share.
+
+#ui_tradeordr_inc5_c2#1
+* Raw income: [x]
+
+#ui_tradeordr_inc5_c3#1
+* 25% merchant share: [x]
 
 #ui_tradeordr_inc6#1
 Expected profit
@@ -6370,14 +6688,23 @@ This is the expected profit if all purchased resources are then sold locally.
 #ui_tradeordr_inc7#1
 Expected waste of -[x]%
 
-#ui_tradeordr_inc7_c1#1
-This is the expected profit lost to waste based on the current waste rate of [x]% in this territory.
+#ui_tradeordr_inc7_c1#2
+This is the expected income that will be lost to waste based on the current waste rate of this territory.
+
+#ui_tradeordr_inc7_c2#2
+[x] monies subject to [y]% waste = [z] monies
 
 #ui_tradeordr_instck#1
 In stock
 
 #ui_tradeordr_lclprc#1
 Local price
+
+#ui_tradeordr_lclprc_c#1
+The current retail price of this resource in this territory.
+
+#ui_tradeordr_wholprc#1
+Wholesale price
 
 #ui_tradeordr_nocoin#1
 Insufficient treasury funds to place this order.
@@ -6401,6 +6728,9 @@ This order conflicts with a selling order from the same territory at a price of 
 This order conflicts with a buying order from the same territory at a price of [x].
 
 #ui_tradeordr_quant#1
+Amount
+
+#ui_tradeordr_quant_c1#2
 Enter the amount of resources to trade for this offer.
 
 #ui_tradeordr_recur#1
@@ -6408,6 +6738,12 @@ Recurring order
 
 #ui_tradeordr_recur_c1#1
 Click to make this order recurrent and automatically triggered based on the territory's stocks.
+
+#ui_tradeordr_intrn#1
+Internal order
+
+#ui_tradeordr_intrn_c1#1
+Click to make this order internal to your State (it will only be visible to your territories).
 
 #ui_tradeordr_showall#1
 Show all resources
@@ -6490,11 +6826,11 @@ cargo cost
 #ui_troute_bcc_c1#1
 The cost of the cargo service purchased to the trade route operator.
 
-#ui_troute_bdgtdscr1#1
-The state pays and owns the entirety of the imported goods from the exporting city, regardless of their later use.
+#ui_troute_bdgtdscr1#2
+The government pays and owns the entirety of the goods imported from the regional territories, regardless of their later use.
 
-#ui_troute_bdgtdscr2#1
-All the later incomes made locally from the selling of these goods are then entirely for the state.
+#ui_troute_bdgtdscr2#2
+Therefore, all the subsequent incomes made by reselling these state-owned goods in the regional center go to the government as well.
 
 #ui_troute_bgc#1
 goods cost
@@ -6508,71 +6844,26 @@ goods income
 #ui_troute_binc_c1#1
 The income generated from the selling of the trade route goods.
 
-#ui_troute_bt#1
-operator tax
-
-#ui_troute_bt_c1#1
-The amount paid to the operator taxing goods transiting through their city.
-
-#ui_troute_cargorq#1
-CARGO REQUIRED
-
-#ui_troute_cargorq_c1#1
-The amount of cargo service needed to operate this trade route.
-
-#ui_troute_cargorq_c2#1
-distance factor * cargo volume
-
-#ui_troute_cgcost_c1#1
-Total cost of cargo using this territory as the trade route operator.
-
-#ui_troute_close#1
-Close this trade route
+#ui_troute_close#2
+Close this transfer
 
 #ui_troute_distf#1
 Distance factor
 
-#ui_troute_distf_c1#1
-This factor depends of the longest of the 2 distances between the operator and each one of the trade route's destinations. 
-
-#ui_troute_distf_c2#1
-longest distance from operator
-
-#ui_troute_dscr#1
-A trade route transfers a constant flux of resources between cities. It requires a cargo service to operate. 
+#ui_troute_dscr#2
+Regional transfers send a constant flux of resources from regional territories to their regional center.
 
 #ui_troute_edit#1
-Editing existing trade route...
+Editing regional transfer...
 
 #ui_troute_err1#1
-Cannot open trade route because the selected operator cannot provide the required cargo service!
+Cannot open regional transfer because the selected operator cannot provide the required cargo service!
 
-#ui_troute_maxava#1
-Cargo available
+#ui_troute_open#2
+Opened a new regional transfer!
 
-#ui_troute_maxava_c1#1
-The amount of cargo service currently available in the operator's territory.
-
-#ui_troute_opdscr1#1
-The trade route operator is the city dealing with the transportation of the goods.
-
-#ui_troute_opdscr2#1
-It can be the city opening the trade route or any other city within your trade network that has made some cargo service available. 
-
-#ui_troute_opdscr3#1
-The cost of cargo is exponential to the trade route's distance. Choosing a third party city located in the middle of your trade route as the operator will greatly reduce it's cargo cost. 
-
-#ui_troute_open#1
-Opened a new trade route!
-
-#ui_troute_opetax#1
-OPERATOR TAX
-
-#ui_troute_opetax_c1#1
-A trade route operator may also tax a percentage of the value of all goods transiting through their territory.
-
-#ui_troute_opnw#1
-Opening new trade route...
+#ui_troute_opnw#2
+Opening new regional transfer...
 
 #ui_troute_optr#1
 Trade route operator
@@ -6627,6 +6918,9 @@ You cannot move here because you have no right of passage with the owner of this
 
 #ui_wrldmov_er5#1
 This formation cannot break camp until it has at least 50 Action Points.
+
+#ui_wrldmov_er6#1
+This formation's inventory is already full!
 
 #ui_wrldmov_erxplr#1
 This formation cannot explore new territories.
@@ -6766,3 +7060,23 @@ High
 #wkprio_4#1
 Critical
 
+#wkprio_5#1
+Forced
+
+#b_inv_res_c1#1
+In stock: [x]
+
+#b_inv_res_c2#1
+Price: [x]
+
+#msg_settle_err#1
+Your current policies do not allow you to control more than one regional center.
+
+#ui_maxregterrit
+The regional center of '[x]' cannot support more than [y] regional territories!
+
+#chng_gamespeed#1
+Game speed changed to x[x].
+
+#chng_battlespeed#1
+Battle speed changed to x[x].

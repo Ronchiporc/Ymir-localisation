@@ -124,6 +124,12 @@ Joining the [x]
 #agrim_vassal_3#1
 [x] will join the nation of [y].
 
+#agrim_err_maxsubor1#1
+You can't currently manage any more subordinates!
+
+#agrim_err_maxsubor2#1
+Character [x] can't currently manage any more Nation subordinates!
+
 #agrim_war_1#1
 Declare war to...
 

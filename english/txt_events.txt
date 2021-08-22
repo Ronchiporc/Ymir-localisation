@@ -478,11 +478,23 @@ Culture level up!
 #ev_civpoint_lvlup_1#1
 Our culture has levelled up and we have gained a new Civilization Point that is now available to spend in Cultural Traits in the Government menu. It can be used for things such as unlocking the consumption of new resources or improving their production.
 
-#ev_claimloss#1
+#ev_claimloss#2
 [x] has lost a territorial claim!
 
-#ev_claimloss_1#1
-Because of its insufficient local administration ([p1]), the city of [x] has lost one of its territorial claims as it could no longer afford to maintain it.
+#ev_claimloss_1#2
+The territory of [x] has lost a territorial claim as it was over the maximum limit allowed by its current territorial status.
+
+#ev_claimlossall#1
+[x] lost all its territorial claims!
+
+#ev_claimlossall_1#1
+The territory of [x] has lost all its attached territorial claims as it's new status no longer allowed for it.
+
+#ev_claimdisco#1
+[x] has lost a territorial claim!
+
+#ev_claimdisco_1#1
+The region of [x] has lost one its territorial claims because it wasn't properly connected to the region center anymore.
 
 #ev_clnyevlv#1
 A colony has evolved!
@@ -520,11 +532,11 @@ Exceptionnal tools
 #ev_exceptool_1#1
 One of the tribe's most skilled craftspig found stones of unusual solidity and hardness and he managed to craft a few tools of exceptionnal quality out of it!
 
-#ev_form_desertion#1
-Our soldiers are deserting!
+#ev_form_desertion#2
+Units of '[x]' are deserting!
 
-#ev_form_desertion_1#1
-The soldiers in our armies are deserting because of your negative Legitimacy! People do not wish to serve a ruler they no longer consider legitimate and we'll keep seeing Porcos leaving our ranks everyday until your legitimacy is positive again.
+#ev_form_desertion_1#2
+The units of our formation '[x]' are deserting! They do not wish to serve under a State that is falling apart: units will gradually disapear permanently from the formation until our situation improves.
 
 #ev_form_ovrdrft#1
 Home of '[y]' has insufficient population!
@@ -589,8 +601,8 @@ Insolvency!
 #ev_insolvency_1#1
 Your government is unable to fullfil its monetary duties and it can no longer maintain its properties nor pay civil servants or soldiers.
 
-#ev_insolvency_2#1
-Until a better budget balance is achieved, buildings requiring government maintenance will progressively be abandonned, costly policies will be disabled, and units of all formations will decay. It is absolutely urgent to fix your budget balance or your government will collapse!
+#ev_insolvency_2#2
+Until a better budget balance is achieved, buildings requiring government maintenance will progressively be abandonned, costly policies will be disabled, and units of all formations will desert. It is absolutely urgent to fix your budget balance or your government will collapse!
 
 #ev_joinwriors#1
 Warriors wish to join us!
@@ -799,17 +811,17 @@ A violent storm raged all night in [x], with strong winds. Luckily, nooone was h
 #ev_stormwood_2#1
 In the morning however, the villagers noticed that a few tall old trees had fallen nearby, making it an easy free supply of wood! 
 
-#ev_territdisabled#1
-Territorial status of '[y]' lost!
+#ev_territdisabled#2
+Territorial status of '[x]' lost!
 
-#ev_territdisabled_1#1
-The territorial status of '[x]' in '[y]' was lost because the territory no longer met it's requirements.
+#ev_territdisabled_1#2
+The territorial status '[p1]' of '[x]' was lost because the territory no longer met it's requirements and it has decayed to '[p2]'.
 
 #ev_tradenmds#1
 Trading nomads in [x]
 
 #ev_tradenmds_1#1
-A caravan of trading nomads has arrived in [x] and are offering to sell us some previous shells in exchange for some goods!
+A caravan of trading nomads has arrived in [x] and are offering to sell us some precious shells in exchange for some goods!
 
 #ev_traitrvq#1
 Revoking Trait '[x]'
@@ -1954,95 +1966,23 @@ Beware! By creating our newest settlement of [x], we have usurped the lands of a
 #event_tribwarn_2#1
 For now, they only watched us set camp from afar but they know these lands better than anyone and disapear everytime we try to approach them. I'm afraid we won't be able to 'deal with them' before they choose to cause trouble... We should prepare for a possible surprise attack by them. They might be preparing weapons and warriors to chase us from their lands as we speak! Or maybe this land is not worth the trouble after all and we could just pack up and leave them be?
 
-#event_trout_b1#1
-Trade route broken!
+#event_trout_b1#2
+Regional transfer from '[x]' terminated!
 
-#event_trout_b1_1#1
-Because we no longer had trading rights with the city of [y], our trade route between this city and [x] closed. 
+#event_trout_b1_1#2
+The regional transfer of productions from '[x]' to the regional center of '[y]' has been terminated because '[x]' is no longer a regional territory.
 
-#event_trout_b1_2#1
-This happened because the city got a new owner with whom we havn't negociated trading rights or if because the trading rights were revoked.
+#event_trout_b2#2
+Regional transfer from '[x]' terminated!
 
-#event_trout_b2#1
-Trade route broken!
+#event_trout_b2_1#2
+The regional transfer of productions from '[x]' to the regional center of '[y]' has been terminated because '[y]' is no longer the parent territory of '[x]'.
 
-#event_trout_b2_1#1
-Our trade route with [x] closed because its operator [y] was unable to provide the required cargo ([p3]) to maintain it (was missing [p2]).
+#event_trout_b3#2
+Regional transfer from '[x]' terminated!
 
-#event_trout_b2_2#1
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
-
-#event_trout_b2_3#1
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
-
-#event_trout_b3#1
-Trade route broken!
-
-#event_trout_b3_1#1
-Our trade route exporting [p2] [p3] to [x] from [y] closed because we could no longer provide the required goods.
-
-#event_trout_b3_2#1
-This happened because we were not producing enough [p3] in [x] and our stocks had ran out. 
-
-#event_trout_b4#1
-Trade route broken!
-
-#event_trout_b4_1#1
-Our trade route importing [p2] [p3] from [x] to [y] closed because they could no longer provide the required goods.
-
-#event_trout_b4_2#1
-This happened because their production of [p3] in [x] was insufficent and their stocks had ran out.
-
-#event_trout_c1#1
-[x] closed a trade route!
-
-#event_trout_c1_1#1
-The city of [x] closed their trade route of [p2] [p3] with our city of [y].
-
-#event_trout_c2#1
-One of our trade routes was closed by its operator!
-
-#event_trout_c2_1#1
-The city of [x] has decided to stop operating our trade route of [p2] [p3] with our city of [y]. This resulted in the trade route beeing closed.
-
-#event_trout_w1#1
-Trade route warning: no trading rights!
-
-#event_trout_w1_1#1
-Because we no longer have trading rights with the city of [y], our trade route between this city and [x] will close soon unless we fix this issue quickly. 
-
-#event_trout_w1_2#1
-This can happen if the city has a new owner with whom we havn't negociated trading rights, or if these rights have been revoked.
-
-#event_trout_w2#1
-Trade route warning: missing cargo!
-
-#event_trout_w2_1#1
-Our trade route with [x] operated by [y] is missing [p2] of cargo to be operated properly. The trade route will close soon unless we fix this issue quickly.
-
-#event_trout_w2_2#1
-The cargo service is what allows to carry the goods continuously along a trade route and maintain a constant transfer of resources. Each route, depending on the distance and volume of the traded goods, requires a certain amount of cargo.  
-
-#event_trout_w2_3#1
-However, this operator no longer produces enough of the requried cargo service to properly operate this trade route: To fix this issue, it needs to increase its available service or we need to switch to a new different operator that can provide the required cargo ([p3]).
-
-#event_trout_w3#1
-Trade route warning: we are missing goods!
-
-#event_trout_w3_1#1
-Our trade route exporting [p2] [p3] to [x] from [y] is lacking the required goods and will close soon unless we fix this issue quickly!
-
-#event_trout_w3_2#1
-This is happening because we are no longer producing enough [p3] in [x] and our stocks have run out. 
-
-#event_trout_w4#1
-Trade route warning: exporter is missing goods!
-
-#event_trout_w4_1#1
-Our trade route importing [p2] [p3] from [y] to [x] is lacking the required goods and might close soon unless the exporter fix this issue quickly!
-
-#event_trout_w4_2#1
-This is happening because their production of [p3] in [y] is insufficent and their stocks ran out.
+#event_trout_b3_1#2
+The regional transfer of productions from '[x]' to '[y]' has been terminated because '[y]' is not longer a valid regional center.
 
 #event_trt_acc#1
 Treaty with [y] signed
@@ -2093,11 +2033,26 @@ An emissary of [y] has informed us that our fair and generous treaty offer has b
 [x] of [y] is proposing the following renogication of a treaty we currently have with them. If we agree to these new terms, the treaty will be updated.
 
 #event_trtov#1
-Our treaty '[x]' with [y] is now over.
+Engagement period of treaty '[x]' with [y] has ended!
 
 #event_trtov_1#1
-The treaty '[x]' we had with [y] reached the end of its agreed duration and is now obsolete! 
+The treaty '[x]' we had with [y] reached the end of its initially agreed engagement period and it can now be terminated without consequences! 
 
 #event_war_state#1
 Our country is currently at war!
+
+#ev_overextend#1
+Overexpansion!
+
+#ev_overextend_1#2
+We currently control [p1] regions but our current government policies do not allow us to manage more than [p2] regions!
+
+#ev_overextend_2#2
+Our government is not ogranized in a way to properly manage these extra regions. It cannot operate normally until this is resolved and it's efficiency will remain crippled by this overexpansion, represented by a huge State Power penalty for every extra region.
+
+#ev_suborlimit#1
+Too many subordinates!
+
+#ev_suborlimit_1#1
+Our current government is unable to manage this many Nation subordinates. This is causing a huge Nation maintenance penalty of State Power that must be resolved urgently!
 
