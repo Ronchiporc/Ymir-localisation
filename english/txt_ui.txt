@@ -6271,74 +6271,80 @@ GOVERNMENT EFFECTS
 #ui_statunit_a#1
 Armor
 
-#ui_statunit_a_dscr#1
-Armor gives chances to deflect enemy hits.
+#ui_statunit_a_dscr#2
+Gives chances to deflect enemy hits. Odds are increased versus ballistic attacks.
 
 #ui_statunit_c#1
 Carrying capacity
 
 #ui_statunit_c_dscr#1
-The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units' carrying capacity.
+The amount of resource this unit can carry. The formation's inventory capacity is the sum of all it's units carrying capacity.
 
 #ui_statunit_m#1
 Movement
 
-#ui_statunit_m_dscr#1
-The movement speed of the unit. Also affects the movement speed of the formation in the worldmap (slowest unit defines worldmap speed).
+#ui_statunit_m_dscr#2
+The movement speed of the unit on the battlefield. It also affects the overall movement cost of the formation in the worldmap.
 
 #ui_statunit_mass#1
 Mass
 
-#ui_statunit_mass_dscr#1
-The mass of the unit combined with it's speed gives a damage bonus when charging.
+#ui_statunit_mass_dscr#2
+The mass of the unit combined with it's speed gives a damage bonus when charging and a skill bonus in melee combat versus lighter units.
 
-#ui_statunit_md#1
-Melee damage
+#ui_statunit_md#2
+Melee damage & attack speed
 
-#ui_statunit_md_dscr#1
-Amount of damage inflicted to the enemy when hit.
+#ui_statunit_md_dscr#2
+The amount of damage inflicted to the enemy when succesfully hit with a melee attack. Attack speed determines the average amount of attacks dealt per turn.
 
-#ui_statunit_ms#1
-Melee skill
+#ui_statunit_md_dscr2#2
+Damage above 5 gives an "armor piercing" bonus reducing the enemy's armor saving rate.
 
-#ui_statunit_ms_dscr#1
-In melee, the ability to hit enemies and dodge their attacks depends on the difference of melee skill between the 2 opponents.
+#ui_statunit_ms#2
+Offensive & defensive melee skill
 
-#ui_statunit_p#1
-Pillage
-
-#ui_statunit_p_dscr#1
-The pillage ability of the unit. Improves the speed and efficiency of pillaging ennemy buildings.
+#ui_statunit_ms_dscr#2
+The ability to hit enemies or dodge their attacks in melee attacks. Chances to hit depends on the differences between the offensive skill of the attacker and the defensive skill of the defender.
 
 #ui_statunit_rch#1
 Reach
 
-#ui_statunit_rch_dscr#1
-In melee, a higher reach than the opponent's gives a bonus to hit. Reach also gives a bonus to hit in melee against units of higher mass. 
+#ui_statunit_rch_dscr#2
+Represents the maximum distance at which the unit can strike its enemy in melee attacks. A higher reach than the opponent's gives a skill bonus to hit. 
 
-#ui_statunit_rd#1
-Range damage
+#ui_statunit_rch_dscr2#2
+A Reach above 2 also gives a bonus to hit in melee against units of higher mass (ex: spears vs cavalry). 
 
-#ui_statunit_rd_dscr#1
-Amount of damage inflicted to the enemy when hit.
+#ui_statunit_rd#2
+Ballistic damage & attack speed
+
+#ui_statunit_rd_dscr#2
+The amount of damage inflicted to the enemy when succesfully hit with a ballistic attack. Attack speed determines the average amount of attacks dealt per turn.
 
 #ui_statunit_rg#1
 Range
 
-#ui_statunit_rg_dscr#1
-For range units, the maximum distance (in terrain tiles) at which they can engage ennemies.
+#ui_statunit_rg_dscr#2
+For ballistic attacks, the maximum distance in terrain tiles this unit can target enemies.
 
-#ui_statunit_rs#1
-Ranged skill
+#ui_statunit_rs#2
+Ballistic skill
 
-#ui_statunit_rs_dscr#1
-The ability to hit enemies in ranged combat.
+#ui_statunit_rs_dscr#2
+The ability to hit distant enemies in ballistic attacks. Difficulty is increased by distance of the target and its movement speed.
 
 #ui_statunit_t#1
 Toughness
 
-#ui_statunit_t_dscr#1
-Toughness if the capacity of the unit to withstand damage when hit, determining it's chances to be actually wounded.
+#ui_statunit_t_dscr#2
+The resistance of the unit to damage. The higher Toughness is compared to the received damage, the lower the odds of being killed by the hit.
+
+#ui_statunit_str#1
+Strength
+
+#ui_statunit_str_dscr#1
+A procedurally calculated score based on all the unit's stats to estimate it's overall level of combat abilities. 
 
 #ui_tech_alw#1
 Allows...
