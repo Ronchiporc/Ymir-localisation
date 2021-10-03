@@ -1,5 +1,5 @@
 This is a game meant to be complex and hard.
-Any similarities with another species would be purely fortuitous and unintentionnal.
+Any similarities with another species would be purely fortuitous and unintentional.
 The economy is never stable. Things are always fluctuating. This is the result of a dynamic simulation where lots of things continuously influence each other. Do not worry if you cannot get everything to stay still.
 If a porco's income represents 3% of the combined income of everyone in the region, his wealth will be 3% of the region's total wealth.
 The income of a social class is shared equally between all the porcos belonging to that class. The individual income of a porco is therefore an average value based on his social class's total income.
@@ -9,13 +9,13 @@ If a resource costs 4 coins, a porco with a wealth of 1 can only satisfy 25% of 
 The wealth of a porco defines his purchasing power which determines the resources he can afford to buy to satisfy his needs.
 Wealth is a unit of objective value. It's defined by the time spent by a Porco working on anything, regardless of the subjective value (coin price) his society gives to what he does. 
 Wealth, as a universal reference unit of value, is the same across all regions and players.
-Each Porco spending time working on something produces Wealth proportionnaly to the amount of work done.
+Each Porco spending time working on something produces Wealth proportionally to the amount of work done.
 A Porco working in a building with twice the efficiency of another one will produce twice the amount of work in a day, and therefore twice the Wealth.
 Neither the type nor price of goods has an effect on Wealth. These things are relative to societies while wealth is a universal, objective unit representing the time spent working on anything.
 If one Porco earns 10 coins out of 1000 circulating coins (the sum of all the incomes in his region) but then things change and there are suddenly 2000 circulating coins, his coins have suddenly lost half of their worth and have gone from representing 1 percent of the region's total wealth to representing only 0.5 percent of the region's total wealth.
 Currencies represent a right to a share of real value, and do not necessarily have value by themselves. In Ymir that "real objective value" is the unit of "Wealth" represented by currencies called "Coins". 
-If the total region wealth was one pie, each coin would give a Porco the right to a slice of it. The size of the slice would depend on how many other coins are circulating (the sum of all the incomes in the region) .
-The total number of coins circulating in a region is the sum of all that region's incomes. This determines the ojective value (wealth) each coin represents.
+If the total region wealth was one pie, each coin would give a Porco the right to a slice of it. The size of the slice would depend on how many other coins are circulating (the sum of all the incomes in the region).
+The total number of coins circulating in a region is the sum of all that region's incomes. This determines the objective value (wealth) each coin represents.
 In Ymir, to simplify and avoid the complication of relative currencies, the amount of coins in circulation is set automatically as the sum of all incomes. Therefore, the actual value (Wealth) of each coin also fluctuates automatically depending on the total amount of incomes.
 You can still access the resources from a storage building with no workers, but it cannot receive any new ones.
 Any resource distributed and made available to the population (whether through its merchants, producers, or anything else) is lost whether it is actually sold or not.
