@@ -15,6 +15,8 @@ All the extra keys ("Deleted" state) and files are automatically deleted, and al
 3) Execute the editor by double-clicking `LocalisationsEditor.exe`. NOTE: If a pop-up opens asking you to download .NET Core, follow the instructions, which summarized are:
    - Download and install the [.NET Core 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/current/runtime).
    - Execute again `LocalisationsEditor.exe`.
+   - If a pop-up still exist, try to install [.NET Core 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
+   - Execute again `LocalisationsEditor.exe`.
 
 ##  How to set up the tool
 
