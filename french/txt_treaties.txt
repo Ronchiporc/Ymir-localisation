@@ -25,6 +25,12 @@ Embargo contre [x]
 #agrim_embrg_3#1
 Interdit le commerce avec un état spécifié
 
+#agrim_err_maxsubor1#1
+Vous ne pouvez actuellement pas gérer plus de subordonnés!
+
+#agrim_err_maxsubor2#1
+[x] ne peut actuellement pas gérer de subordonnés suplémentaires!
+
 #agrim_fvassal_1#1
 Subjugation
 

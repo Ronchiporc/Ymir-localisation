@@ -4,11 +4,35 @@ L'Oligarchie est cimentée par le droit du sang, est associé a des privilèges,
 #civ_aristo_n#1
 Aristocratie
 
+#civ_banditextor_dscr#1
+Le gouvernment laisse des gangs organisés de bandits exortioner la population en échange d'une partie du butin.
+
+#civ_banditextor_n#1
+Extortion organisée
+
 #civ_bandsociety_dscr#1
 La forme la plus simple de la société, faiblement organisée et un avec une hierarchie informelle.
 
 #civ_bandsociety_n#1
 Société tribale
+
+#civ_bannish_dscr#1
+Les indésirables de la communauté sont bannis de la cité sans jamais pouvoir revenir, abandonnant de même leur famille démunie à un triste sort.
+
+#civ_bannish_n#1
+Bannissement
+
+#civ_bloodfeuds_dscr#1
+Le droit de poursuivre des vendettas contre ceux ayant tué ou déshonnoré un membre de famille, entrainant un cycle de vengeances par la violence.
+
+#civ_bloodfeuds_n#1
+Vendettas
+
+#civ_codelaw_dscr#1
+La Justice est pratiquée en accord avec des textes de lois écrits par des Magistrats.
+
+#civ_codelaw_n#1
+Code des Lois
 
 #civ_coinage_dscr#1
 Une forme de monnaie standardisée en pièces frappées par le sceau de l'Etat garantissant leur valeur.
@@ -22,11 +46,11 @@ Monnaie
 #civ_comgood_n#1
 Par le Peuple
 
-#civ_comwork_dscr#1
-Tous les actifs doivent allouer une portion de leur temps aux tâches communautaires.
+#civ_comwork_dscr#2
+Tous les adultes doivent allouer une portion de leur temps pour les travailler au profit du gouvernment.
 
-#civ_comwork_n#1
-Travail communautaire
+#civ_comwork_n#2
+Travail forcé
 
 #civ_council_dscr#1
 Des conseillers de confiance assistent le Dirigeant dans les affaires du gouvernement, améliorant l'administration de l'Etat.
@@ -45,6 +69,12 @@ L'utilisation d'objets de valeur intérmédiaires pour faciliter les échanges, 
 
 #civ_currency_n#1
 Devise
+
+#civ_delegflab_dscr#1
+Les riches ont le droit d'échapper à leurs obligations de travail forcé en payant d'autres -généralement pauvres- pour les remplacer.
+
+#civ_delegflab_n#1
+Délégation de la Corvée
 
 #civ_democracy_dscr#1
 Gouvernance en tant que Démocracie directe ou les citoyens votent et participent au pouvoir directement et ou la majorité dirige sans aucun Dirigeant ou intermédiaire.
@@ -100,6 +130,12 @@ Un conseil des états-majors occupant des fonctions publiques importantes, prena
 #civ_minist_n#1
 Ministère
 
+#civ_nepotism_dscr#1
+Favoritisme occtroyé à la famille du Dirigeant pour les postes de pouvoir dans la société, résultant en une caste d'Oligarches plus loyale au prix d'un taux de Conflit plus élevé.
+
+#civ_nepotism_n#1
+Népotisme
+
 #civ_olig_dscr#1
 "Je dirige pour les Elites."
 
@@ -123,6 +159,12 @@ Chercheurs payés
 
 #civ_people_n#1
 Représentants du peuple
+
+#civ_prefcts_dscr#1
+Haut fonctionnaires gouvernementaux envoyés dans les territoires subordonnés pour représenter l'Etat et améliorer leur gestion et contrôle.
+
+#civ_prefcts_n#1
+Préfets
 
 #civ_prtctor_dscr#1
 "Je dirige parce que je suis en charge de protéger les gens."
@@ -154,17 +196,23 @@ Privilèges pour le dirigeant de vôtre gouvernement, en lui accordant un pource
 #civ_statepriv_n#1
 Privilèges
 
-#civ_statesal_dscr#1
-Les fonctionnaires sont directement employés et payés par l'Etat et servent dans divers bâtiments officiels comme l'administration ou les écoles.
+#civ_statesal_dscr#2
+Toutes les classes d'employés gouvernementaux reçoivent un salaire fixe pour leur travail.
 
-#civ_statesal_n#1
-Salaire d'Etat
+#civ_statesal_n#2
+Salaire Gouvernemental
 
 #civ_subv_dscr#1
 Une aide versée par l'État à chaque porco d'une catégorie spécifique de travailleurs, augmentant ainsi leurs revenus.
 
 #civ_subv_n#1
 Subvention
+
+#civ_sumexec_dscr#1
+La pratique de procéder a des executions sommaires pour des crimes mineurs afin d'instiguer la peur dans la population.
+
+#civ_sumexec_n#1
+Exécutions sommaires
 
 #civ_superior_dscr#1
 "Je dirige parce que je suis supérieur."
@@ -178,17 +226,29 @@ Organisation de charges financières imposées aux contribuables par l'État.
 #civ_tax_n#1
 Imposition
 
+#civ_terrorpatrl_dscr#1
+Organisation de patrouilles nocturnes ayant pour mission d'entrer et de sacager des habitations chaque nuit, afin de maintenir la population terrorrisée dans un état permanent de peur et de rappel de la présence militaire.
+
+#civ_terrorpatrl_n#1
+Patrouilles de terreur
+
 #civ_treasury_dscr#1
 Séparation des finances du Dirigeant de celle du Gouvernement, la Trésorerie administre uniquement les finances du gouvernement.
 
 #civ_treasury_n#1
 Trésorerie
 
-#civ_tributes_dscr#1
-Forme basique de taxation dans laquelle le gouvernement réquisitionne une partie des productions.
+#civ_tribcouncl_dscr#1
+La Justice est pratiquée par un conseil regroupant les chefs de famille de la tribu.
 
-#civ_tributes_n#1
-Tributs
+#civ_tribcouncl_n#1
+Conseil tribal
+
+#civ_tributes_dscr#2
+Une forme primitive de taxation où le gouvernement prélève une portion de toutes les productions agricoles produites sur ses terres.
+
+#civ_tributes_n#2
+Prélevements agricoles
 
 #cltr_consume_dscr#1
 La pratique culturelle de vôtre population de consommer un type de resource spécifique. Permets la distribution et la vente de cette resource a la population.

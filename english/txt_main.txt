@@ -127,6 +127,9 @@ conflict
 #g_Conflict#1
 Conflict
 
+#g_Research#1
+Research Points
+
 #g_cost#1
 cost
 
@@ -249,6 +252,9 @@ Free
 
 #g_Free_cities#1
 Free cities
+
+#g_Free_trad#1
+Free traders
 
 #g_from#1
 from

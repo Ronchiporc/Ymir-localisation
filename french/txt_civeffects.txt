@@ -1,14 +1,26 @@
-#civfx_agrisav_dscr#1
-25% de toute la production agroalimentaire va directement dans les greniers
+#civfx_author_dscr#1
+Modifies la Loyauté par l'Authorité dans tous les territoires.
 
-#civfx_agrisav_n#1
-graines de stockage
+#civfx_author_n#1
+authorité
+
+#civfx_authortroop_dscr#1
+Modifies l'Authorité des armées gouvernementales, affectant la Loyauté des territoires.
+
+#civfx_authortroop_n#1
+Authorité des armées
 
 #civfx_autodist_dscr#1
 toutes les ressources sont automatiquement disponibles pour toute la population et il n'y a pas besoin de distributeurs
 
 #civfx_autodist_n#1
 distribution automatique
+
+#civfx_banditextr_dscr#1
+Revenus volés par des criminels, la moitié étant ensuite reversée dans la trésorerie sous forme de 'taxes'.
+
+#civfx_banditextr_n#1
+extortion
 
 #civfx_bdgeff_dscr#1
 modifie l'efficacité des bâtiments
@@ -22,8 +34,8 @@ Cadeaux offerts à la classe des Oligarches, augmentant leur richesse et favoris
 #civfx_bribes_n#1
 pots-de-vin
 
-#civfx_bribes_set#1
-pots-de-vin pour Oligarches
+#civfx_bribes_set#2
+pots-de-vin par Oligarche
 
 #civfx_bribes_setd#1
 Valeur des pots-de-vin versés à chaque Oligarche.
@@ -52,26 +64,26 @@ modifie l'administration de chaque ville
 #civfx_cityadmin_n#1
 administration de la ville
 
-#civfx_comwork_dscr#1
-Pourcentage de temps que les Actifs attribuent aux tâches communautaires au détriment de l'efficacité des bâtiments.
+#civfx_comwork_dscr#2
+Pourcentage de temps que les adultes doivent attribuer à la Corvée, au détriment de l'efficacité des bâtiments.
 
-#civfx_comwork_n#1
-travail communautaire
+#civfx_comwork_n#2
+corvée
 
 #civfx_comwork_set#1
 temps alloué
 
-#civfx_comwork_setd#1
-Définit le pourcentage du temps que les actifs consacreront aux travaux communautaires (réduits l'efficacité des bâtiments proportionellement).
+#civfx_comwork_setd#2
+Définit le pourcentage du temps que les adultes doivent consacrer à la Corvée (réduits l'efficacité des bâtiments proportionellement).
 
-#civfx_comworkmod_actv#1
-[x]% de travail communautaire
+#civfx_comworkmod_actv#2
+[x]% de Corvée
 
-#civfx_comworkmod_dscr#1
-modifies l'efficacité du travail communautaire.
+#civfx_comworkmod_dscr#2
+modifies l'efficacité de la Corvée.
 
-#civfx_comworkmod_n#1
-travail communautaire
+#civfx_comworkmod_n#2
+corvée
 
 #civfx_conflict_dscr#1
 modifie les conflits de population
@@ -90,6 +102,15 @@ permet de créer des routes commerciales permanentes entre territoires
 
 #civfx_entrout_n#1
 routes commerciales
+
+#civfx_flabmalus_actv#1
+Corvée [x]% de Loyauté
+
+#civfx_flabmalus_dscr#1
+Modifies la pénalité de Loyauté causée par la Corvée.
+
+#civfx_flabmalus_n#1
+tolérance à la Corvée
 
 #civfx_foodcons_dscr#1
 affecte la quantité de nourriture requise par les porcos pour satisfaire leurs besoins alimentaires
@@ -141,6 +162,15 @@ Taux de contribution
 
 #civfx_ldcntrb_setd#1
 Pourcentage de la richesse du dirigeant gagnée par les privilèges qui est réaffectée à la trésorerie du gouvernement (à noter que cela réduira proportionnellement la richesse du dirigeant).
+
+#civfx_leadcntrbmod_actv#1
+Contributions du Dirigeant [x]%
+
+#civfx_leadcntrbmod_dscr#1
+Modifies la quantité de monnaies gagnées par la richesse du Dirigeant.
+
+#civfx_leadcntrbmod_n#1
+contributions du Dirigeant
 
 #civfx_leadsal_dscr#1
 Le dirigeant reçoit un salaire payé par le gouvernement.
@@ -211,6 +241,18 @@ modifie le bonheur de la population
 #civfx_modhap_n#1
 bonheur de la population
 
+#civfx_multireg_dscr#1
+Permet le contrôle de multiples régions, chacune dotée de sa propre capitale régionale.
+
+#civfx_multireg_n#1
+régions multiples
+
+#civfx_nationmaintn_dscr#1
+Modifies le côut en Pouvoir d'Etat des subordonnés nationaux.
+
+#civfx_nationmaintn_n#1
+Maintenance des subordonnés
+
 #civfx_nobsal_dscr#1
 Les Oligarches reçoivent un salaire payé par le gouvernement.
 
@@ -247,23 +289,26 @@ pas de monnaie
 #civfx_offsal_dscr#1
 Les classes fonctionnaires reçoivent un salaire payé par le gouvernement.
 
-#civfx_offsal_n#1
-Salaire
+#civfx_offsal_n#2
+Salaire des Fonctionnaires
 
 #civfx_offsal_set#1
 Salaire des travailleurs d'Etat
 
-#civfx_offsal_setd#1
-montant du salaire en pièces de monnaie
+#civfx_offsal_setd#2
+Salaire payé aux fonctionnaires d'Etat
 
-#civfx_offwlth_dscr#1
-Les travailleurs de l'Etat obtiennent une partie de la richesse du territoire en tant que privilège
+#civfx_offwlth_actv#1
+[x]% de privilèges pour Fonctionnaires
 
-#civfx_offwlth_n#1
-Privilèges des travailleurs d'Etat
+#civfx_offwlth_dscr#2
+La classe des Fonctionnaires reçoit une partie de la Richesse produite en tant que privilège.
 
-#civfx_offwlth_set#1
-Privilège des travailleurs d'Etat
+#civfx_offwlth_n#2
+Privilèges des Fonctionnaires
+
+#civfx_offwlth_set#2
+Taux de privilèges
 
 #civfx_offwlth_setd#1
 le pourcentage de richesse territoriale donné en tant que privilège aux travailleurs de l'Etat
@@ -280,14 +325,32 @@ les chercheurs sont payés et ne réduisent plus les effectifs des bâtiments o�
 #civfx_paidrsrch_n#1
 chercheurs rémunérés
 
+#civfx_popcltr_dscr#1
+Modifies la production de Culture de la population.
+
+#civfx_popcltr_n#1
+Culture de la population
+
+#civfx_poplifeq_dscr#1
+Modifies la Qualité de Vie de la population.
+
+#civfx_poplifeq_n#1
+Qualité de Vie
+
+#civfx_popmurder_dscr#1
+Modifies le pourcentage de population mourant de violences par génération.
+
+#civfx_popmurder_n#1
+Taux de meurtres
+
 #civfx_price_dscr#1
 les ressources et les objets de valeur ont des prix dynamiques basés sur l'offre et la demande de la population
 
 #civfx_price_n#1
 prix dynamiques
 
-#civfx_prodtax_dscr#1
-Une portion des ressources produites est saisie par le gouvernement comme tribut
+#civfx_prodtax_dscr#2
+Une portion de toutes les productions agricoles est saisie par le gouvernement comme impôt.
 
 #civfx_prodtax_n#1
 Tribus de production
@@ -297,6 +360,15 @@ production saisie
 
 #civfx_prodtax_setd#1
 Définis le pourcentage de ressources produites (bétail et nourritures agricoles) saisies par l'Etat.
+
+#civfx_prvlgmalus_actv#1
+Malus de Loyauté des privilèges [x]%
+
+#civfx_prvlgmalus_dscr#1
+Modifies la pénalité de Loyauté causée par les privilèges.
+
+#civfx_prvlgmalus_n#1
+tolérance des privilèges
 
 #civfx_regadmin_dscr#1
 modifie l'administration de chaque territoire
@@ -346,11 +418,29 @@ modifie la quantité de pouvoir de l'Etat
 #civfx_statepow_n#1
 Pouvoir d'État
 
+#civfx_statesal_dscr#1
+Toute les classes d'employés d'Etat reçoivent un salaire payé directement par le gouvernement.
+
+#civfx_statesal_n#2
+Salaire des travailleurs d'Etat
+
+#civfx_statesal_set#1
+Salaire des travailleurs d'Etat
+
+#civfx_statesal_setd#2
+Salaire payé à chaque travailleur d'Etat.
+
 #civfx_stress_dscr#1
 modifie le stress de la population
 
 #civfx_stress_n#1
 stress de la population
+
+#civfx_subormntn_dscr#1
+Modifies le côut en Pouvoir d'Etat des subordonnés nationaux.
+
+#civfx_subormntn_n#1
+maintenance des subordonnés
 
 #civfx_subv_actv#1
 Subvention de [y] monnaies pour les [x]
@@ -384,6 +474,12 @@ La trésorerie gouvernmentale et les propriétés privées du Dirigeant sont dé
 
 #civfx_treasury_n#1
 séparation des fonds
+
+#civfx_waste_dscr#1
+Affecte le taux de Gaspillage dans tous les territoires.
+
+#civfx_waste_n#1
+gaspillage
 
 #civfx_wlegitolig_dscr#1
 Influence du facteur de soutient de l'oligarchie sur la Légitimité

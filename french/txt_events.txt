@@ -478,11 +478,23 @@ Augmentation du niveau culturel!
 #ev_civpoint_lvlup_1#1
 Nous avons gagné un niveau Culturel et ainsi obtenu un nouveau Point de Civilisation qui peu dès à présent être dépensé dans des Traits Culturels dans le menu de Gouvernement. Les Points de Civilisation peuvent par exemple être utilisés pour débloquer la consommation de nouvelles resources ou pour améliorer leur production.
 
+#ev_claimdisco#1
+[x] a perdu une revendication territoriale!
+
+#ev_claimdisco_1#1
+La région de [x] a perdu une de ses revendications territoriales car celle-ci n'était plus correctement reliée à la capitale regionale.
+
 #ev_claimloss#1
 [x] a perdu une revendication territoriale!
 
-#ev_claimloss_1#1
-En raison de son administration locale insuffisante ([p1]), la ville de [x] a perdu l'une de ses revendications territoriales car elle ne pouvait plus se permettre de la maintenir.
+#ev_claimloss_1#2
+Le territoire de [x] a perdu une de ses revendications territoriales car il outrepassait la limite maximale permise par sont statut territorial.
+
+#ev_claimlossall#1
+[x] a perdu toutes ses revendications territoriales!
+
+#ev_claimlossall_1#1
+Le territoire de [x] a perdu toutes ses revendications territoriales car son nouveau statut ne lui permettait plus de les maintenir.
 
 #ev_clnyevlv#1
 Une colonie a évolué!
@@ -520,11 +532,11 @@ Outils exceptionnels
 #ev_exceptool_1#1
 L'un des artisans les plus talentueux de la tribu a trouvé des pierres d'une solidité et d'une dureté inhabituelles et il a réussi à en fabriquer quelques outils d'une qualité exceptionnelle!
 
-#ev_form_desertion#1
-Nos soldats désertent!
+#ev_form_desertion#2
+Les unités de '[x]' désertent!
 
-#ev_form_desertion_1#1
-Les soldats de nos armées désertent à cause de votre légitimité négative! Les gens ne souhaitent pas servir un dirigeant qu'ils ne considèrent plus comme légitime et nous continuerons de voir les porcos quitter nos rangs tous les jours jusqu'à ce que votre légitimité soit redevenue positive.
+#ev_form_desertion_1#2
+Les unités de notre formation '[x]' désertent! Elles ne souhaitent plus servir sous un Etat en éffondrement: nous allons continuellement perdre des unités dans cette formation à moins que notre situation ne s'améliore.
 
 #ev_form_ovrdrft#1
 La foyer de '[y]' a une population insuffisante!
@@ -798,6 +810,9 @@ Une violente tempête a fait rage toute la nuit à [x], avec des vents violents.
 
 #ev_stormwood_2#1
 Cependant, au matin, les villageois ont remarqué que plusieurs grands arbres étaient tombés à proximité fournissant ainsi sans éffort une bonne source de bois gratuite et prête à l'usage!
+
+#ev_suborlimit#1
+Trop de subordonnés!
 
 #ev_territdisabled#1
 Statut territorial de '[y]' perdu!
@@ -1960,89 +1975,17 @@ Route commerciale interrompue!
 #event_trout_b1_1#1
 Parce que nous n'avions plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] a été fermée.
 
-#event_trout_b1_2#1
-Cela s'est produit parce que la ville a eu un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de commerce ou parce que les droits de commerce ont été révoqués.
-
-#event_trout_b2#1
-Route commerciale interrompue!
+#event_trout_b2#2
+Transfer régional depius '[x]' terminé!
 
 #event_trout_b2_1#1
 Notre route commerciale avec [x] s'est fermée parce que le territoire de '[y]' qui en assurait l'opération ne possédait plus la capacité de fournir les [p3] de Cargo requis pour la maintenir (il manquait [p2]).
-
-#event_trout_b2_2#1
-Le Cargo est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et maintenir un transfert constant de ressources. Chaque itinéraire, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de marchandises.
-
-#event_trout_b2_3#1
-Cependant, cet opérateur ne produit plus assez de Cargo requis pour exploiter correctement cette route commerciale: pour résoudre ce problème, il doit augmenter son service disponible ou nous devons passer à un nouvel opérateur différent qui peut fournir le fret requis ([ p3]).
 
 #event_trout_b3#1
 Route commerciale interrompue!
 
 #event_trout_b3_1#1
 Notre route commerciale exportant [p2] [p3] à [x] de [y] a été fermée parce que nous ne pouvions plus fournir les biens requis.
-
-#event_trout_b3_2#1
-Cela est arrivé parce que nous ne produisions pas assez [p3] en [x] et que nos stocks étaient épuisés.
-
-#event_trout_b4#1
-Route commerciale interrompue!
-
-#event_trout_b4_1#1
-Notre route commerciale important [p2] [p3] de [x] à [y] a fermé parce qu'elle ne pouvait plus fournir les biens requis.
-
-#event_trout_b4_2#1
-Cela est arrivé parce que leur production de [p3] en [x] était insuffisante et que leurs stocks étaient épuisés.
-
-#event_trout_c1#1
-[x] a fermé une route commerciale!
-
-#event_trout_c1_1#1
-La ville de [x] a fermé sa route commerciale de [p2] [p3] avec notre ville de [y].
-
-#event_trout_c2#1
-Une de nos routes commerciales a été fermée par son opérateur!
-
-#event_trout_c2_1#1
-La ville de [x] a décidé d'arrêter d'exploiter notre route commerciale de [p2] [p3] avec notre ville de [y]. Cela a entraîné la fermeture de la route commerciale.
-
-#event_trout_w1#1
-Problème de route commerciale: droits commerciaux perdus!
-
-#event_trout_w1_1#1
-Parce que nous n'avons plus de droits de commerce avec la ville de [y], notre route commerciale entre cette ville et [x] se fermera bientôt, à moins que nous ne réglions ce problème rapidement.
-
-#event_trout_w1_2#1
-Cela peut arriver si la ville a un nouveau propriétaire avec lequel nous n'avons pas négocié de droits de commerce, ou si ces droits ont été révoqués.
-
-#event_trout_w2#1
-Problème de route commerciale: Cargo manquant!
-
-#event_trout_w2_1#1
-Notre route commerciale avec [x] exploité par [y] manque de [p2] capacité de Cargo pour être exploitée correctement. La route commerciale se fermera sous peu à moins que nous réglions ce problème rapidement.
-
-#event_trout_w2_2#1
-Le Cargo est ce qui permet de transporter les marchandises en continu le long d'une route commerciale et de maintenir un transfert constant de ressources. Chaque route commerciale, en fonction de la distance et du volume des marchandises échangées, nécessite une certaine quantité de Cargo pour être maintenue.
-
-#event_trout_w2_3#1
-Le territoire opérant cette route ne produit plus assez de Cargo pour en assurer la maintenance. Pour résoudre ce problème, il faut augmenter sa capacité de Cargo ou trouver un nouvel opérateur en mesure de fournir le Cargo requis ([ p3]).
-
-#event_trout_w3#1
-Problème de route commerciale: marchandises manquantes!
-
-#event_trout_w3_1#1
-Notre route commerciale exportant [p2] [p3] à [x] de [y] manque des biens requis et fermera bientôt si nous ne résolvons pas ce problème rapidement!
-
-#event_trout_w3_2#1
-Cela arrive parce que nous ne produisons plus assez de [p3] en [x] et que nos stocks sont épuisés.
-
-#event_trout_w4#1
-Problème de route commerciale: l'exportateur manque des marchandises!
-
-#event_trout_w4_1#1
-Notre route commerciale important [p2] [p3] de [y] vers [x] manque des biens requis et pourrait bientôt se fermer à moins que l'exportateur répare rapidement ce problème!
-
-#event_trout_w4_2#1
-Cela arrive parce que leur production de [p3] en [y] est insuffisante et leurs stocks épuisés.
 
 #event_trt_acc#1
 Traité avec [y] signé

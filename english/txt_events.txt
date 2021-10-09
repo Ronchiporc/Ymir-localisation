@@ -427,6 +427,9 @@ Unlocks the project: [x]
 #effect_xplrmap#1
 Reveals the map of the territory up to [x] tiles around the formation.
 
+#effect_givrsrch#1
+Receive [x] Research Points
+
 #ev_animlv#1
 Wildlife is leaving [x]
 
@@ -1906,14 +1909,17 @@ The people of [x] is defending the city!
 #event_popdefrise_1#1
 The people of the city of [x] are taking arms by themselves to help defend the city against the attackers. [p1] porcos are joining the battle!
 
-#event_projfail#1
+#event_projfail#2
 Our Project '[x]' failed!
 
-#event_projfail_1#1
-Our project of '[x]' with [p2]% chances of success has been completed, but unfortunately it failed to meet its expectations and we have not earned its expected rewards. I'm afraid we have to start again from scratch and hope for better results...
+#event_projfail_1#2
+The main lead of researchers on our project of '[x]' turned out to be a dead-end, resulting in them having to restart work from scratch. Hopefully they will learn from this unfortunate experience and will be more successful next time!
 
-#event_projfail_2#1
-A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We should try to assign better researchers to increase our chaces of success next time!
+#event_projfail_2#2
+A project may fail if its difficulty is higher than the average intelligence of the researchers assigned to it. We could try to assign better researchers to increase our chaces of success next time!
+
+#event_projfail_3#2
+Researchers had [p2]% chances of being successful, however they failed and [p3] Research points of progress have been lost. This experience has given them a bonus of +[p4]% success on their next trial.
 
 #event_projsuc#1
 Our project '[x]' was successfully completed!
@@ -2044,15 +2050,24 @@ Our country is currently at war!
 #ev_overextend#1
 Overexpansion!
 
-#ev_overextend_1#2
-We currently control [p1] regions but our current government policies do not allow us to manage more than [p2] regions!
+#ev_overextend_1#3
+We don't have enough Expansion Points to maintain our current territories!
 
-#ev_overextend_2#2
-Our government is not ogranized in a way to properly manage these extra regions. It cannot operate normally until this is resolved and it's efficiency will remain crippled by this overexpansion, represented by a huge State Power penalty for every extra region.
+#ev_overextend_2#3
+Our government is not ogranized in a way to properly manage these extra territories. It cannot operate normally until this is resolved and it's efficiency will remain crippled by this overexpansion, represented by a big State Power penalty for every missing Expansion Point.
 
 #ev_suborlimit#1
 Too many subordinates!
 
 #ev_suborlimit_1#1
 Our current government is unable to manage this many Nation subordinates. This is causing a huge Nation maintenance penalty of State Power that must be resolved urgently!
+
+#event_inovfail#1
+Nothing to innovate in '[p2]'!
+
+#event_inovfail_1#1
+Researchers researched long and hard, but they simply found nothing and gave up.
+
+#event_inovfail_2#1
+It seems that right now, there doesn't seem to be any way to innovate in the domain of [p2]. However it may be that exploring other domains of research first can later lead to new possible innovations in this domain.
 

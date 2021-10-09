@@ -2429,13 +2429,13 @@ New territory's status:
 Administration cost:
 
 #menu_mission_setl_cost1_c#1
-This territory will cost [x] of Administration to its regional capital to be maintained.
+This territory will cost [x] of Administration to its regional center to be maintained.
 
-#menu_mission_setl_cost2#1
-State Power cost:
+#menu_mission_setl_cost2#2
+Expansion Points cost:
 
-#menu_mission_setl_cost2_c#1
-This territory will cost [x] of State Power to the government to be maintained.
+#menu_mission_setl_cost2_c#2
+This territory will cost [x] Expansion Points to be maintained.
 
 #menu_mission_scav1#1
 Resource to scavenge:
@@ -2512,11 +2512,38 @@ Your nation's total Victory points
 #menu_prj_addnewr#1
 click to assign new researchers to the project
 
-#menu_prj_bdgt#1
-Budget
+#menu_prj_bdgt#2
+Maintenance
 
-#menu_prj_bdgt_c1#1
-The total maintenance cost for this project, to be paid continuously until the project is completed.
+#menu_prj_bdgt_c1#2
+The current maintenance cost for this project, to be paid continuously until the project is completed.
+
+#menu_prj_haste#2
+Haste!
+
+#menu_prj_haste_c1#2
+Spend stored Research Points to haste the completion of this project.
+
+#menu_cnfrm_haste_1#2
+Hasten project: '[x]'
+
+#menu_cnfrm_haste_2#2
+Are you sure you want to spend [x] of your stored Research Points to advance progress on this project?
+
+#menu_cnfrm_haste_3#2
+Are you sure you want to spend [x] of your stored Research Points to instantly finish this project?
+
+#menu_cnfrm_haste_4#2
+You don't have any stored Research Points to haste projects!
+
+#menu_cnfrm_haste_5#2
+You have spent [x] Research Points.
+
+#menu_prj_bdgt_c2#1
+* project cost: [x]
+
+#menu_prj_bdgt_c3#1
+* researchers salary: [x]
 
 #menu_prj_bdgt_p#1
 Project
@@ -2532,6 +2559,9 @@ Researchers
 
 #menu_prj_diff#1
 Difficulty
+
+#menu_prj_diff_c1#1
+The level of difficulty for completing this project, impacting its odds of success.
 
 #menu_prj_inpgr#1
 In progress...
@@ -2593,20 +2623,26 @@ This project requires [x] as researchers.
 #menu_prj_rwk#1
 Work
 
-#menu_prj_rwk_c1#1
-All the assigned researchers currently generate [x] research points [y].
+#menu_prj_rwk_c1#2
+All the researchers currently generate [x] Research Points [y].
 
-#menu_prj_rwk_c2#1
-* from [x] main researchers: [y] research points.
+#menu_prj_rwk_c2#2
+Assigning extra researchers beyond the ideal required number for this project generates diminishing returns.
 
-#menu_prj_rwk_c3#1
-* from [x] extra researchers: [y] research points.
+#menu_prj_rwk_c3#2
+* raw research work: +[x] research points.
+
+#menu_prj_rwk_c4#2
+* inefficiency (-[x]%): -[y] research points.
 
 #menu_prj_start#1
 START PROJECT
 
-#menu_prj_work#1
-Research
+#menu_prj_work#2
+Required work
+
+#menu_prj_work_c#1
+This project requires a total of [x] research points to be completed.
 
 #menu_res_gen#1
 General
@@ -2639,13 +2675,16 @@ From
 No [x] currently available in this city!
 
 #menu_rschr_odds#1
-success
+Success odds
 
-#menu_rschr_odds_c1#1
-Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will need to be restarted from scratch.
+#menu_rschr_odds_c1#2
+Once completed, this project currently has [x]% chances to be successful and to triger it's rewards. If failed, the project will suffer a setback.
 
-#menu_rschr_odds_c2#1
-100 +researchers efficiency [x] -difficulty [y] = [z]% success odds
+#menu_rschr_odds_c2#2
+* 100 +researchers intelligence [x] -difficulty [y] = [z]% success odds
+
+#menu_rschr_odds_c3#2
+* experience from past attempts = +[x]% success odds
 
 #menu_rschr_time#1
 Estimated time to complete this project
@@ -2785,14 +2824,35 @@ Score from the total wealth produced in all your territories.
 #menu_tch_curknw#1
 Current knowledges
 
-#menu_tch_curuse#1
-Knowledge use
+#menu_tch_filter#1
+Display
 
-#menu_tch_curuse_c1#1
-Your society currently has [x] of knowledges, and a capacity to store [y].
+#menu_tch_curuse#2
+Knowledge capacity
 
-#menu_tch_curuse_c2#1
-You will lose knowledges if your storage capacity gets lower than your current knowledges.
+#menu_tch_curuse_c1#2
+Knowledge capacity is required to store new Knowledges.
+
+#menu_tch_curuse_c2#2
+* available storage: [x]
+
+#menu_tch_curuse_c3#2
+* capacity from stored culture: [x]
+
+#menu_tch_curuse_c4#2
+* capacity from active libraries: [x]
+
+#menu_tch_rsrch#1
+Research Points
+
+#menu_tch_rsrch_c1#1
+Research Points allow you to haste the completion of ongoing projects. 
+
+#menu_tch_rsrch_c2#1
+They are produced by your territories population and active research buildings. The storage maximum capacity of Research Points is based on Knowledge capacity.
+
+#menu_tch_rsrch_c3#1
+* Research Points production: [x] [y]
 
 #menu_tch_prj_avail#1
 Available Projects
@@ -2832,18 +2892,6 @@ Successful completion of the project will trigger this event.
 
 #menu_tch_prjcts#1
 Projects
-
-#menu_tch_str_cult#1
-Culture
-
-#menu_tch_str_cult1#1
-Culture gives you knowledge storage capacity, proportionally to your total culture.
-
-#menu_tch_str_lbr#1
-Libraries
-
-#menu_tch_str_lbr1#1
-Each library building in service increases your knowledge storage capacity.
 
 #menu_trbuy_bght#1
 Bought [x] of [y] for [z] monies!
@@ -3511,6 +3559,33 @@ Active government civics and services in the territory such as Justice can help 
 #regconf_eff#1
 Effects: decreases growth (+murders), decreases loyalty (-authority)
 
+#regrsrch_1#1
+Research Points can be spent to haste research projects.
+
+#regrsrch_2#1
+Small amounts are produced passively by population but it can also be produced manually with specific services such as Library or Academia.
+
+#regrsrch_eff#1
+Effects: used to haste research projects.
+
+#regrsrch_prod#1
+This territory is currently producing [x] Research Points [y].
+
+#regrsrch_gpop_c1#1
+Amount of Research Points generated by the current population in the territory.
+
+#regrsrch_serv_c1#1
+Amount of Research Points generated by services in the territory.
+
+#regrsrch_pop#1
+[x] of population
+
+#regrsrch_pop_c1#1
+Population passively generates small amounts of Research Points, based on their average Intelligence.
+
+#regrsrch_pop_c2#1
+* [x] of population with Intelligence of [y]: [z]
+
 #regctrl_b_c#1
 Cultural
 
@@ -3772,8 +3847,8 @@ All available jobs are filled!
 #regmenu_jobs_c2#1
 [x]% of available jobs are missing workers ([y]).
 
-#regmenu_powcost#1
-This territorial status currently costs you [x] of State Power to maintain.
+#regmenu_powcost#2
+This territorial status currently costs you [x] Expansion Points to maintain.
 
 #regmenu_status_c1#1
 Current territorial status: '[x]' (click to change)
@@ -3865,6 +3940,9 @@ cannot be evacuated
 #regstatprop_loyal#1
 loyalty [x]
 
+#regstatprop_settl#1
+cannot recruit settlers
+
 #regstatprop_milit#1
 cannot recruit militia
 
@@ -3914,16 +3992,16 @@ cannot control trade
 cannot be transfered
 
 #regstatus_hamlet_1#1
-The most basic form of settlement, a regional center with no local administration and unable to control regional territories. It can then evolve into a bigger regional capital.
+The most basic form of settlement, a regional center with no local administration and unable to control regional territories. It can then evolve into a bigger regional center.
 
 #regstatus_vilg_1#1
-A tiny regional capital that can start managing regional territories.
+A tiny regional center that can start managing regional territories.
 
 #regstatus_town_1#1
-A regional capital with a basic local administration subordinated to your government.
+A regional center with a basic local administration subordinated to your government.
 
 #regstatus_city_1#2
-A regional capital with a powerful local administration subordinated to your government.
+A regional center with a powerful local administration subordinated to your government.
 
 #regstatus_claim_1#1
 An empty territory can be claimed by your state and included in your official frontiers.
@@ -3932,7 +4010,7 @@ An empty territory can be claimed by your state and included in your official fr
 WARNING: claiming this occupied territory will increase the honor penalty to [z] in case of defeat against partistans, and will trigger an immediate penalty of [x] resistance and [y] loyalty!
 
 #regstatus_colony_1#2
-An regional capital with a highly autonomous local administration but still subordinated to your government.
+An regional center with a highly autonomous local administration but still subordinated to your government.
 
 #regstatus_occup_1#1
 Foreign lands kept under control by military force. Not directly part of a state and not integrated into the government's administration, this is an unstable disorganized status.
@@ -3962,7 +4040,7 @@ Set new status to
 Territory status
 
 #regstatus_trtry_1#2
-A territory attached to a regional capital, used to exploit lands surrounding it with a limited number of production buildings. Its production can be directly sent back to the regional capital.
+A territory attached to a regional center, used to exploit lands surrounding it with a limited number of production buildings. Its production can be directly sent back to the regional center.
 
 #regstatus_txt#1
 Modifying the administrative status of this territory...
@@ -4047,6 +4125,9 @@ The more points, the stronger the resistance is in this territory and the more p
 
 #resprop_cltr#1
 [x] of State Culture
+
+#resprop_rsrch#1
+[x] of Research Points
 
 #resprop_conflict#1
 [x]% of conflict
@@ -4243,26 +4324,26 @@ Policies maintenance
 #statepow_civmnt_c1#1
 The power cost to maintain all the currently active policies.
 
-#statepow_debt#1
-Debt
+#statepow_pnlty#1
+Penalties
 
-#statepow_debt_c1#1
-Debt reduces State power and we currentlly have a debt of [x] monies.
+#statepow_pnlty_c1#1
+State Power penalties can be applied when exceeding certain limits.
 
-#statepow_dscr#1
-State power is the capacity of your state to manage things. Power policies define how the political power is organized in the state, generating State power and affecting different types of legitimacies. State power increases the loyalty of territories.
+#statepow_pnlty_c2#1
+* Debt of [x] monies: [y]
+
+#statepow_pnlty_c3#1
+* Territorial overexpansion: [x]
+
+#statepow_pnlty_c4#1
+* Subordinates overmanagement: [x]
 
 #statepow_forms#1
 Formations maintenance
 
 #statepow_forms_c1#1
 Each formation you own can cost some State Power to maintain.
-
-#statepow_hon#1
-Dishonor
-
-#statepow_hon_c1#1
-Noone wants to serve a dishonorable leader! Negative honor reduces State Power (current honor : [x] ).
 
 #statepow_nation#1
 Nation
@@ -4279,15 +4360,6 @@ Average distance [y] of direct subordinates: [x]
 #statepow_nation_c51#1
 [y] total subordinates: [x]
 
-#statepow_nation_c6#1
-WARNING! Over maximum capacity of direct subordinates: [x]
-
-#statepow_nbcit#1
-Territories
-
-#statepow_nbcit_c1#1
-Sum of State Power cost of all your controlled territories (costs can vary depending of the status of each territory). 
-
 #statepow_prod#1
 Government buildings
 
@@ -4302,6 +4374,27 @@ All active treaties cost a certain amount of State Power to be maintained, depen
 
 #statepow_tot#1
 Total state power
+
+#statepow_prod#1
+Government buildings
+
+#expn_pol#1
+Government policies
+
+#expn_pol_c1#1
+Expansion Points generated by the currently active policies.
+
+#expn_tech#1
+Knowledges
+
+#expn_tech_c1#1
+Expansion Points earned by current Knowledges.
+
+#expn_use#1
+Territories maintenance
+
+#expn_use_c1#1
+Expansion Points currently used to maintain controlled territories.
 
 #stormntn#1
 Maintain stock
@@ -4408,6 +4501,21 @@ At the end of this duration, the treaty will be breakable without triggering pen
 #treated_inst#1
 Applied once, at the treaty's signature
 
+#treated_rsrchcost#1
+This transfer costs [x] Research Points to the giver.
+
+#treatsg_err1
+Can't sign treaty because you are missing [x] monies to fullfill its terms!
+
+#treatsg_err2
+Can't sign treaty because the other party is missing monies to fullfill its terms!
+
+#treatsg_err3
+Can't sign treaty because you are missing [x] Research Points to fullfill its terms!
+
+#treatsg_err4
+Can't sign treaty because the other party is missing Research Points to fullfill its terms!
+
 #treated_new#1
 NEW TREATY
 
@@ -4419,6 +4527,9 @@ Remains effective even after treaty's duration but it can then be cancelled with
 
 #treaterm_coins#1
 monies
+
+#treaterm_rsrch#1
+It will cost [x] Research Points to transfer this knowledge.
 
 #treaterm_noidea#1
 No knowledges to share!
@@ -4897,6 +5008,9 @@ Required materials [x]%
 #ui_cltr_resprod_4#1
 Natural sources  productivity [x]%
 
+#ui_cltr_resprod_5#1
+Unlocks purchasing offers by "Free Traders"
+
 #ui_cltr_resqual#1
 Expertise in [x]
 
@@ -4919,7 +5033,7 @@ You have accumulated [x] of Cultural XP out of [y] needed to reach the next leve
 You are currently producing [x] of Cultural XP [y].
 
 #ui_cltr_xpbar_c3#1
-Total Culture production [x] / [y] total population * 1000 =  +[z]
+Total Culture production [x] / [y] total population * 2000 =  +[z]
 
 #ui_cnfrm_trait_add#1
 Are you sure you want to spend [x] Civilization Points to enable the Trait '[y]'? 
@@ -5389,8 +5503,20 @@ no policicy selected
 #ui_gov_pdgreform#1
 You have a pending reform that is not applied. Are you sure you want to close this menu and discard this reform (policy changes will not be applied)?
 
-#ui_gov_power#1
-current state power
+#ui_gov_stpower#1
+STATE POWER
+
+#ui_gov_stpower_dscr#1
+State power is the capacity of your state to manage things. Power policies define how the political power is organized in the state, generating State power and affecting different types of legitimacies. State power increases the loyalty of territories.
+
+#ui_gov_stpower_c1#2
+current State Power
+
+#ui_gov_expn#1
+EXPANSION POINTS
+
+#ui_gov_expn_c1#1
+Expansion Points are used to control territories and maintain their statuses. 
 
 #ui_govcltr_civpt_c1#1
 You currently have [x] unused Civilization Points available to invest in new cultural traits.
@@ -5950,11 +6076,8 @@ Disbanding units
 #ui_recruit_err1#1
 The status of this territory doesn't allow you to recruit armies in it.
 
-#ui_recruit_err2#1
-You are not allowed to recruit militias in this territory.
-
-#ui_recruit_err3#1
-You are not allowed to recruit armies in this territory.
+#ui_recruit_err2#2
+You are not allowed to recruit this type of formation in this type of territory.
 
 #ui_recruit_full#1
 This formation is full!
@@ -6367,6 +6490,9 @@ New production
 #ui_tech_rev#1
 Reveals
 
+#ui_tech_expan#1
+[x] Expansion Points
+
 #ui_tech_ter#1
 New territorial status
 
@@ -6627,6 +6753,15 @@ This order is currently active. It will automatically cancel if stocks of [x] go
 
 #ui_tradeordr_butn_c9#1
 Offer in [x], from [y] of [z] ([v])
+
+#ui_tradeordr_butn_c11#1
+Offer from [x]
+
+#ui_tradeordr_ftrad_buy#1
+Free traders purchase goods at around 80% of the world's average 'minimum price'.
+
+#ui_tradeordr_ftrad_sell#1
+Free traders resell goods at around 200% of the world's average 'retail price'.
 
 #ui_tradeordr_butn_stown#1
 [x]% State-owned
@@ -7086,3 +7221,31 @@ Game speed changed to x[x].
 
 #chng_battlespeed#1
 Battle speed changed to x[x].
+
+#tech_cat_soc#1
+Society
+
+#tech_cat_eco#1
+Economy
+
+#tech_cat_sci#1
+Sciences
+
+#tech_cat_con#1
+Construction
+
+#tech_cat_met#1
+Metallurgy
+
+#tech_cat_agr#1
+Agriculture
+
+#tech_cat_ind#1
+Production
+
+#tech_cat_mil#1
+Military
+
+#territstat_chng#1
+Terriorial status of '[x]' changed to: [y]
+

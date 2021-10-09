@@ -46,6 +46,12 @@ Nombre de régions
 #admin_nbcit_c2#1
 nombre de regions sous votre contrôle: [x]
 
+#admin_overxtnd#2
+Surexpansion régionale!
+
+#admin_overxtnd_c1#2
+Une importante pénalité est appliquée pour chaque territoire attaché à ce centre régional au delà de sa capacité.
+
 #admin_pop#1
 gestion de la population
 
@@ -210,6 +216,12 @@ plateformes
 
 #b_erase_ter#1
 terrain
+
+#b_inv_res_c1#1
+En stock: [x]
+
+#b_inv_res_c2#1
+Prix: [x]
 
 #b_menu_discord_1#1
 Discord officiel d'Ymir
@@ -427,15 +439,6 @@ Effet: -[x] de loyauté instantané sur tout les territoires
 #b_reform_loyal_c1#1
 Attention! En raison de son contenu, votre réforme causera une pénalité unique et instantanée de [x] de loyauté sur tout vos territoires!
 
-#b_regclaim#1
-Revendiquer le territoire
-
-#b_regunclaim_1#1
-Vous pouvez dé-revendiquer ce territoire: il sera alors à nouveau libre de propriétaire.
-
-#b_regunclaim_2#1
-ATTENTION: En révoquant volontairement votre revendication, vous perdrez 2 d'Honneur!
-
 #b_renegoc#1
 Renégocier
 
@@ -447,6 +450,12 @@ Renoncer au contrôle de ce territoire
 
 #b_setcapital#1
 Déplacer la Capitale dans ce territoire
+
+#b_termintreaty#1
+Terminer
+
+#b_termintreaty_c1#1
+Ce traité sera instantanément terminé et aucune clause de rupture ne sera appliquée.
 
 #b_trtcancelofr#1
 Annuler l'offre
@@ -547,6 +556,9 @@ Abandonner
 #bc_menubdg_aband2#1
 (le bâtiment est désactivé mais se dégrade avec le temps)
 
+#bc_menubdg_anxsource#1
+[x] sources de [y] de [z]
+
 #bc_menubdg_destroy#1
 Démolir le bâtiment
 
@@ -562,8 +574,8 @@ Distribution limitée
 #bc_menubdg_lmtd_c1#1
 Cliquer pour limiter le stock de ce marchand: vous permet de contrôler la quantité de resources mises en vente sur le marché public à la population.
 
-#bc_menubdg_move#1
-Déplacer
+#bc_menubdg_move#2
+Déplacer ce bâtiment
 
 #bc_menubdg_move2#1
 Démolit ce bâtiment pour le reconstruire ailleurs
@@ -802,17 +814,23 @@ Opère une route commerciale entre [x] de [y] et [z] de [v].
 #button_opertrt_c4#1
 * profit de l'opération: [x] monnaies
 
-#button_routeitem_c1#1
-Importe [x] de [y] au prix de [z] depuis [v], pour un volume de [w] de cargo.
+#button_routeitem_c1#2
+[x] de [y] importé au prix de [z] depuis [v].
 
-#button_routeitem_c2#1
-Acheté à la route commerciale au prix de [x] pour [y] monnaies et revendu actuellement dans [y] au prix de [v] pour [w] monnaies.
+#button_routeitem_c2#2
+* [x] acheté à la route commerciale au prix de [y]: -[z] monnaies
 
-#button_routeitem_c3#1
-Exporte [x] de [y] au prix de [z] vers [v], pour un volume de [w] de cargo.
+#button_routeitem_c3#2
+* [x] revendu dans [y] au prix de [z]: +[v] monnaies.
 
-#button_routeitem_c4#1
-Acheté aux producteurs locaux au prix de [x] pour [y] monnaies et revendu actuellement à la route commerciale pour [z] au prix de [v] pour [w] monnaies.
+#button_routeitem_c4#2
+[x] de [y] exporté au prix de [z] vers [v].
+
+#button_routeitem_c5#2
+* Achat de [x] aux producteurs locaux au prix de [y] ([z]% appartient à l'Etat): -[v] monnaies
+
+#button_routeitem_c6#2
+* [x] vendu à la route commerciale vers [y] au prix de [z]: +[v] monnaies.
 
 #button_routeownr#1
 Propriétaire de la route
@@ -891,6 +909,12 @@ Conseil
 
 #chat_r_hall#1
 Grand Hall
+
+#chng_battlespeed#1
+Vitesse de bataille changée à x[x].
+
+#chng_gamespeed#1
+Vitesse du jeu changée à x[x].
 
 #chron_expand#1
 lire le reste
@@ -985,6 +1009,12 @@ Quantité de culture brut produite par la population.
 #cltrstat_pop_c2#1
 [x] Porcos avec une qualité de vie de [y] produisent +[z] de culture.
 
+#cltrstat_poppol#1
+[x]% des politiques actives
+
+#cltrstat_poppol_c1#1
+[x]% de production culturelle en raison des politiques gouvernementales actuelles.
+
 #cltrstat_prod#1
 Population
 
@@ -1042,14 +1072,14 @@ Conflit de base
 #conf_pop_c1#1
 La population totale du territoire engendrera naturellement des conflits, utilisés comme base pour d'autres facteurs.
 
-#conf_serv#1
-Services ([x]%)
+#conf_serv#2
+Services
 
 #conf_serv_c1#1
 Les services sur le territoire comme la justice peuvent réduire le niveau de conflit final, en fonction de l'accès de la population.
 
-#conf_state#1
-Politiques ([x]%)
+#conf_state#2
+Politiques
 
 #conf_state_c1#1
 Les politiques gouvernementales actuelles peuvent affecter le conflit de base de la population.
@@ -1273,12 +1303,6 @@ Promouvoir
 #facmmb_prom_c1#1
 votre titre vous permet de gérer cette position hiérarchique de ce personnage: promouvoir ou rétrograder ce personnage.Your title allows you to manage this hierarchic position of this character: promote or demote this character.
 
-#facmmb_pwr#1
-Transfers de pouvoir
-
-#facmmb_pwr_c1#1
-Le pouvoir d'état peut être reçu de subordonnés directs et transféré au supérieur. Les tarifs sont définis par leurs rangs respectifs.
-
 #facmmb_pwrlss#1
 SANS-TERRE
 
@@ -1480,8 +1504,8 @@ Le contrôle de l'artéfact peut donc être gagné aussi bien que perdu.
 #form_migrnts#1
 Migrants
 
-#form_migrnts_dscr_1#1
-Les migrants sont des formations civiles spéciales sans ville d'attache. Elles peuvent coloniser de nouveaux territoires, ne requierent aucun support et peuvent récuperer leur PA sans pénalités de distance mais côutent plus de Pouvoir d'Etat et de maintenance.
+#form_migrnts_dscr_1#2
+Type de formation civile spécial sans attache territoriale.
 
 #form_migrnts_dscr_2#1
 Les migrants sont crées lors de l'évacuation d'un territoire.
@@ -1566,15 +1590,6 @@ Revendiquer
 
 #formact_sack#1
 Mettre à sac
-
-#formact_sack_1#1
-Attention: cette action vous coutera 15 d'honneur!
-
-#formact_sack_2#1
-L'objectif sera tout dabord d'éliminer toutes les défenses du territoire. En cas de succès, vos troupes iront ensuite piller méthodiquement autant de ressources que possible tout en infligeant un maximum de dommages à la cité en détruisant des bâtiments et massacrant les habitants. Une fois terminé la formation se retirera.
-
-#formact_sack_3#1
-Cette action fournit plus de butin qu'un simple raid tout en infligeant plus de dommages, mais contrairement a un raid elle implique au préalable d'éliminer toutes les defenses, et l'action coute de l'honneur.
 
 #formact_scav#1
 Collecter des ressources
@@ -2548,15 +2563,6 @@ Ajout de chercheurs ...
 #menu_rschr_type#1
 Recherche de population pour ce projet
 
-#menu_scr_avg#1
-Score mondial
-
-#menu_scr_avg_c1#1
-Le score mondial est la somme des scores de chaque personnage dans la partie. Il est utilisé pour déterminer le coût en score par Point de Victoire.
-
-#menu_scr_avg_c2#1
-A noter que les personnages inactifs ne comptent dans cette somme que pour moitié de leur score réel.
-
 #menu_scr_c#1
 Culture
 
@@ -2611,15 +2617,6 @@ Points de victoire
 #menu_scr_vp_c#1
 Vos points de victoire personnels.
 
-#menu_scr_vpcost#1
-Score par PDV
-
-#menu_scr_vpcost_c1#1
-Chaque Point de Victoire coûte actuellement [x] de score.
-
-#menu_scr_vpcost_c2#1
-Le coût de 100 Points de Victoire est définit comme étant égal à 50% du score mondial. Le coût de chaque PDV est donc de 0.5% du score mondial (avec un minimum de 100 points). 
-
 #menu_scr_vpmiss#1
 Missions
 
@@ -2631,9 +2628,6 @@ Score
 
 #menu_scr_vpscr_c1#1
 Vous pouvez gagner ou perdre des Points de Victoire en fonction de votre score actuel. Vous gagnez actuellement 1 PDV par [x] de score.
-
-#menu_scr_vpscr_c2#1
-Le coût en score de chaque PDV est dynamique et basé sur la somme des scores de touts les personnages présentement actifs dans la partie.
 
 #menu_scr_w#1
 Richesse
@@ -3715,9 +3709,6 @@ pas de contrôle commercial
 #regstatprop_trsfr#1
 ne peut être transféré
 
-#regstatus_capital_1#1
-Lieu de résidence du gouvernement et du dirigeant. Ne coûte aucun Pouvoir d'État et permet certains bâtiments gouvernementaux uniques. La distance des autres territoires avec avec la capitale affecte plusieurs de leurs paramètres tels que leur administration locale, culture, ou loyauté.
-
 #regstatus_city_1#1
 La ville est le centre d'une région. Elle a sa propre administration locale qui gère également tous les sous-territoires de la région. Chaque ville coûte du Pouvoir d'Etat à maintenir.
 
@@ -4024,9 +4015,6 @@ Nation
 #statepow_nation_c1#1
 Pouvoir d'État transféré des subordonnés: [x]
 
-#statepow_nation_c2#1
-Pouvoir d'État transféré aux subordonnés: [x]
-
 #statepow_nation_c31#1
 [y] subordonnés directs: [x]
 
@@ -4159,9 +4147,6 @@ durée du traité
 #treated_dur_c1#1
 après cette durée, le traité prendra fin
 
-#treated_dur_c2#1
-(Certains termes du traité sont permanents et resteront actifs même lorsque la durée du traité est terminée, mais ils peuvent être annulés sans aucune pénalité)
-
 #treated_inst#1
 Appliqué une fois, à la signature du traité
 
@@ -4258,8 +4243,8 @@ ajoute une nouvelle source de production
 #ui_annex_txt2#1
 distribue directement la production
 
-#ui_availcomwork#1
-Travail communautaire disponible
+#ui_availcomwork#2
+Travail de Corvée disponible
 
 #ui_battleover#1
 La bataille est terminée!
@@ -4363,8 +4348,8 @@ La quantité totale de travail que ce bâtiment peut actuellement faire.
 #ui_bdg_wl_dscr#1
 Richesse actuellement produite par ce bâtiment, ajoutée a la richesse totale du territoire.
 
-#ui_bdg_wl_dscr2#1
-[x] de main-d'œuvre productive * [y] = +[z] de richesse
+#ui_bdg_wl_dscr2#2
+[x] de main-d'œuvre * [y] = +[z] de richesse
 
 #ui_bdg_wu_dscr#1
 Quelle proportion de la main-d'œuvre disponible est actuellement utilisée et occupée à produire?
@@ -4483,6 +4468,9 @@ Cette construction nécessite des bâtisseurs professionnels.
 #ui_builderr_coin#1
 Vous n'avez pas assez de monnaies pour construire ceci [x].
 
+#ui_builderr_custm#1
+Ce bâtiment ne peut pas être fonctionnel sans la tradition culturelle de '[x]'.
+
 #ui_builderr_dist#1
 Ce bâtiment doit être à au moins [x] cases de tout autre bâtiment du même type.
 
@@ -4495,6 +4483,12 @@ Vous ne pouvez pas placer ceci ici parce que cette zone est actuellement inacces
 #ui_builderr_maxan#1
 Ce bâtiment ne peut avoir plus de [x] [y].
 
+#ui_builderr_maxbdgind#1
+Le statut de ce territoire ne permet pas d'avoir plus de [x] bâtiments industriels.
+
+#ui_builderr_maxbdgprod#1
+Le statut de ce territoire ne permet pas d'avoir plus de [x] bâtiments de production.
+
 #ui_builderr_maxreg#1
 Il ne peut y avoir plus de [x] [y] dans in territoire.
 
@@ -4506,6 +4500,9 @@ Il n'y a rien à exploiter par ce bâtiment ici.
 
 #ui_builderr_onres#1
 Ce bâtiment ne peut être placé que sur une ressource qu'il peut exploiter.
+
+#ui_builderr_prodskl#1
+Ce bâtiment ne peut pas être fonctionnel sans la compétence culturelle de '[x]'.
 
 #ui_builderr_ptf#1
 Ce bâtiment ne peut être placé que sur des plateformes.
@@ -4735,6 +4732,9 @@ définir la stratégie des troupes sélectionnées
 #ui_dpltool_delzon#1
 Supprimer cette zone
 
+#ui_dpltool_delzoncant#1
+Vous n'êtes pas authorisé à suprimmer cette zone défensive!
+
 #ui_dpltool_delzone#1
 (clic-droit pour suprimmer cette zone)
 
@@ -4816,11 +4816,20 @@ Maintenance des politiques
 #ui_eco_civc_c1#1
 Coût total du maintien de toutes nos politiques actuellement actives.
 
-#ui_eco_comwork#1
-Travail communautaire
+#ui_eco_comwork#2
+Corvée
 
-#ui_eco_comwork_c1#1
-Force de travail dédiée aux travaux commuautaires.
+#ui_eco_comwork_c1#3
+Force de travail dédiée au gouvernement.
+
+#ui_eco_comwork_c2#1
+La Corvée possède un rendement décroissant à mesure que la population augmente en raison de sa gestion difficile.
+
+#ui_eco_comwork_c3#1
+* Corvée brute: [x]
+
+#ui_eco_comwork_c4#1
+* Inefficacité de gestion: [x]
 
 #ui_eco_contrib#1
 Contributions volontaires
@@ -4831,8 +4840,11 @@ Dans une société sans impôts organisés, les revenus proviennent uniquement d
 #ui_eco_lead#1
 Contributions du dirigeant
 
-#ui_eco_lead_c1#1
-Le dirigeant réattribue aux finances publiques actuellement [x]% de sa richesse personnelle de [y] octroyée par ses privilèges.
+#ui_eco_lead_c1#2
+Le Dirigeant peut utiliser ses possessions personnelles pour aider à réduire certaines dépenses gouvernementales (maintenance des formations et territoires).
+
+#ui_eco_lead_c2#2
+Avec [x]% de privilèges contribuant à [y]%, reduit [z] de dépenses gouvernementales par [v]% = [w] 
 
 #ui_eco_nat#1
 Nation
@@ -4870,17 +4882,14 @@ Balance commerciale
 #ui_eco_tradbal_c1#1
 Balance commerciale globale de tout vos territoires.
 
-#ui_eco_tradbal_c2#1
-Ressources d'Etat:  +[x] ventes   -[y] achats
+#ui_eco_tradbal_c2#2
+Productions garanties par l'Etat: [x]
 
-#ui_eco_tradbal_c3#1
-Importations:       +[x] ventes   -[y] achats
+#ui_eco_tradbal_c3#2
+Transfers régionaux:       [x]
 
 #ui_eco_tradbal_c4#1
 Exportations:       +[x] ventes   -[y] achats
-
-#ui_eco_tradbal_c5#1
-Cargo:              +[x] ventes   -[y] achats
 
 #ui_eco_trt#1
 Traités
@@ -5176,6 +5185,9 @@ cliquer pour selectionner un symbole
 #ui_insuffcomwrk#1
 Travail communautaire disponible insuffisant!
 
+#ui_maxregterrit#1
+La capitale régionale de '[x]' ne peut pas supporter plus de [y] territoires!
+
 #ui_menubdg_addan#1
 ajouter un stand de marché
 
@@ -5244,6 +5256,12 @@ Travailleurs disparus
 
 #ui_menubdg_morework2#1
 Ce bâtiment a besoin de plus de travailleurs pour être pleinement fonctionnel.
+
+#ui_menubdg_nocustm1#1
+Tradition culturelle manquante
+
+#ui_menubdg_nocustm2#1
+Ce bâtiment ne peut pas fonctionner correctement car la population locale n'a pas la Tradition culturelle de consommer '[x]'.
 
 #ui_menubdg_noworker1#1
 Vide
@@ -5332,11 +5350,11 @@ Capacité
 #ui_menureg_admin3#1
 Territoire
 
-#ui_money_1_dscr#1
-En éconmie de dons, il n'existe pas de monnaie et les villageois partagent leur temps entre leur activité personelle et les tâches communautaires. Cette force de travail disponible à la communauté est ce qui limite la gestion du village.
+#ui_money_1_dscr#2
+Il n'existe pas de monaie matérielle et le village répartit sont temps entre activités personnelles et tâches communautaires (Corvée). La force de travail corvéable est ce qui limite la gestion du village.
 
-#ui_money_1_typename#1
-Travail communautaire
+#ui_money_1_typename#2
+Corvée
 
 #ui_money_2_dscr#1
 En économie de troc, les biens sont échangés directement selon leurs valeurs respectives sans intermédiaire. Les biens appartenant au gouvernement sont utilisés comme monnaie pour payer les dépenses nécéssaires à sa gestion.
@@ -5413,6 +5431,9 @@ Cette ressources produit [x] de Culture d'Etat pour chaque unité produite, prod
 #ui_mres_prodcost#1
 Coût de production
 
+#ui_mres_stbuy#1
+Achète
+
 #ui_mres_stmntn#1
 Maintenir en stock
 
@@ -5425,14 +5446,14 @@ Si inférieur à la quantité spécifiée, les nouvelles resources stockées ser
 #ui_mres_storvar#1
 EVOLUTION DES STOCKS
 
-#ui_mres_stres#1
-Ressource d'État
+#ui_mres_stres#2
+Production garantie
 
-#ui_mres_stres_c1#1
-Si déclaré resource d'État, la production totale de cette resource sera automatiquement achetée et assurée par l'État, au fur et à mesure qu'elles sont produites.
+#ui_mres_stres_c1#2
+Si la production est garantie par l'Etat, toute production excédentaire est automatiquement achetée par le gouvernement (vous) afin d'assurer des revenus immédiats aux producteurs locaux.
 
-#ui_mres_stres_c2#1
-Une option utile pour les resources stratégiques utilisées exclusivement par l'État tel que les armements et les outils, afin de garantir le travail de leurs producteurs.
+#ui_mres_stres_c2#2
+Une option utile pour les resources stratégiques utilisées exclusivement par l'État tel que les armements et les outils, afin de garantir des revenus pour leurs producteurs.
 
 #ui_mres_ststk#1
 Propriété d'État
@@ -5506,26 +5527,29 @@ Arbitrage
 #ui_price_arb_c1#1
 L'arbitrage des prix peut se produire lorsqu'il existe de grandes différence entre le prix local et celui des autres territoires a proximité (votres où étrangers avec relations commerciales)
 
-#ui_price_arb_c2#1
-Prix moyen dans cette région du monde: [x] monnaies.
+#ui_price_arb_c2#2
+Prix moyen dans cette région du monde: [x] monnaies (influence: [y]).
 
-#ui_price_arb_c3#1
-Avec une différence de prix de [x]%, le prix mondial à une influence de [y]% sur le prix local résultant d'un arbitrage de [z] sur le prix final.
+#ui_price_arb_c3#2
+Avec une influence de [x]% et une différence de prix de [y]%, le prix mondial à un effet de [z]% sur le prix local résultant d'un arbitrage de [v] sur le prix final.
 
 #ui_price_arb_c4#1
 Pas d'arbitrage: aucune territorie a proximité n'utilise cette ressource.
 
-#ui_price_arb_c5#1
-Prix local avant arbitrage: [x] monnaies.
+#ui_price_arb_c5#2
+Prix local avant arbitrage: [x] monnaies (influence: [y])
 
-#ui_price_base#1
-Prix minimum de [x]
+#ui_price_arb_c6#1
+Influence principale: '[x]' (influence: [y])
+
+#ui_price_base#2
+Minimum de [x]
 
 #ui_price_base_c1#1
 Le prix minimum possible pour cette ressource, quelque soit les autres facteurs.
 
-#ui_price_base1#1
-Coût de production de [y]  ([x]%)
+#ui_price_base1#3
+Coût de production de [x]  ([y]%)
 
 #ui_price_base1_c1#1
 Le coût moyen de production de cette ressource basé sur le coût actuel de ses matériaux.
@@ -5878,12 +5902,6 @@ Achats aux prix locaux:
 #ui_regres_totexp_c3#1
 Exportations aux prix des routes commerciales:
 
-#ui_regres_totexp_c4#1
-Cargo vendu:
-
-#ui_regres_totexp_c4w#1
-Vente déficitaire! Prix local du Cargo supérieur à celui des routes commerciales
-
 #ui_regres_totimp#1
 Importations
 
@@ -5895,9 +5913,6 @@ Imports aux prix des routes commerciales:
 
 #ui_regres_totimp_c3#1
 Ventes aux prix locaux:
-
-#ui_regres_totimp_c4#1
-Cargo acheté:
 
 #ui_regres_trsf#1
 TRANSFERTS
@@ -6003,12 +6018,6 @@ Compétence de mêlée
 
 #ui_statunit_ms_dscr#1
 En mêlée, la capacité de toucher les ennemis et d'esquiver leurs attaques dépend de la différence de compétence de mêlée entre les 2 adversaires.
-
-#ui_statunit_p#1
-Pillage
-
-#ui_statunit_p_dscr#1
-La capacité de pillage de l'unité. Améliore la vitesse et l'efficacité du pillage des bâtiments ennemis.
 
 #ui_statunit_rch#1
 Portée de mélée
@@ -6202,6 +6211,12 @@ Profondeur
 #ui_tradebook_title#1
 Carnet d'ordres
 
+#ui_tradehist_bal#1
+Balance commerciale
+
+#ui_tradehist_bal_c1#1
+Balance commerciale moyenne de [x] sur [y].
+
 #ui_tradehist_bs#1
 leurs achats: [x], ventes: [y]
 
@@ -6232,17 +6247,14 @@ Vous avez vendu [x] de [y] à [z] au prix de [v].
 #ui_tradehist_prtnr#1
 Meilleur partenaire
 
-#ui_tradehist_totb#1
-Total des achats
+#ui_tradehist_tbal#1
+* balance totale:
 
-#ui_tradehist_totb_c1#1
-Total des dépense depuis [x].
+#ui_tradehist_totb#2
+* total des achats:
 
-#ui_tradehist_tots#1
-Total des ventes
-
-#ui_tradehist_tots_c1#1
-Total des ventes depuis [x].
+#ui_tradehist_tots#2
+* total des ventes:
 
 #ui_tradehist_ttle#1
 Historique
@@ -6316,6 +6328,12 @@ Cet ordre est actuellement actif. Il sera annulé automatiquement si les stocks 
 #ui_tradeordr_butn_c9#1
 Offre sur [x], par [y] de [z] ([v])
 
+#ui_tradeordr_butn_intrn#1
+ordre interne
+
+#ui_tradeordr_butn_stown#1
+[x]% propriété d'Etat
+
 #ui_tradeordr_cant#1
 Cette ressource ne peut pas être commercée!
 
@@ -6334,20 +6352,20 @@ Part des producteurs locaux
 #ui_tradeordr_inc2_c1#1
 Si les ressources vendues sont privées, leurs propriétaires doivent être repayés au prix local et pour la quantité vendue.
 
-#ui_tradeordr_inc2_c2#1
-* Producteurs locaux possèdent [x] ressources au prix de [y]: +[z] monnaies
-
-#ui_tradeordr_inc2_c3#1
-* Impôts de [x]%: -[y] monnaies
-
-#ui_tradeordr_inc2_c4#1
-* Revenu effetif pour les producteurs locaux: [x] coins
+#ui_tradeordr_inc2_c2#2
+Producteurs locaux possèdent [x], au prix de gros de [y]: +[z] monnaies
 
 #ui_tradeordr_inc3#1
 Profits prévus
 
 #ui_tradeordr_inc3_c1#1
 Une prévision des profits net qui seront réalisés avec cette offre, en fonction de la situation actuelle.
+
+#ui_tradeordr_inc3_c2#1
+Bénéfices commerciaux prévus: [x] monnaies
+
+#ui_tradeordr_inc3_c3#1
+Effet du statut territorial de [x]%: [y] monnaies
 
 #ui_tradeordr_inc4#1
 Dépense maximale (caution)
@@ -6358,8 +6376,14 @@ Dépense brute maximale prévue pour cet achat en fonction de la quantité achet
 #ui_tradeordr_inc5#1
 Revenus locaux potentiels
 
-#ui_tradeordr_inc5_c1#1
-Si les ressources achetées sont ensuite vendues localement, il s'agit des revenus prévisionnels qui seront générés basés sur le prix local actuel.
+#ui_tradeordr_inc5_c1#2
+Si les ressources achetées sont ensuite vendues localement, il s'agit des revenus prévisionnels basés sur le prix local actuel, moins la part des marchands.
+
+#ui_tradeordr_inc5_c2#1
+* Revenu brut: [x]
+
+#ui_tradeordr_inc5_c3#1
+* part des marchands 25%: [x]
 
 #ui_tradeordr_inc6#1
 Profits prévus
@@ -6370,14 +6394,26 @@ Une prévision des profits attendus si toutes les ressources achetées sont ensu
 #ui_tradeordr_inc7#1
 Gaspillage de [x]%
 
-#ui_tradeordr_inc7_c1#1
-Estimation des profits qui seront perdus par Gaspillage, basée sur le taux actuel de [x]% dans le territoire.
+#ui_tradeordr_inc7_c1#2
+Estimation des profits qui seront perdus par Gaspillage, basée sur le taux actuel du territoire.
+
+#ui_tradeordr_inc7_c2#2
+[x] monnaies sujettes à [y]% de Gaspillage = [z] monnaies
 
 #ui_tradeordr_instck#1
 En stock
 
+#ui_tradeordr_intrn#1
+Ordre interne
+
+#ui_tradeordr_intrn_c1#1
+Selectionnez pour rendre cet ordre interne à votre Etat (visible uniquement dans vos territoires).
+
 #ui_tradeordr_lclprc#1
 Prix local
+
+#ui_tradeordr_lclprc_c#1
+Prix au détail actuel de cette ressource dans votre territoire.
 
 #ui_tradeordr_nocoin#1
 Trésorerie insuffisante pour passer cet ordre.
@@ -6402,6 +6438,9 @@ Cet ordre entre en conflit avec un ordre d'achat du meme territoire au prix de [
 
 #ui_tradeordr_quant#1
 Saisissez la quantité de resources à commercer pour cette offre.
+
+#ui_tradeordr_quant_c1#2
+Entez la quantité de ressources a commercer pour cette offre.
 
 #ui_tradeordr_recur#1
 Ordre récurrent
@@ -6441,6 +6480,9 @@ Le service de Négoce est produit par les Marchés et requis pour passer et main
 
 #ui_tradeordr_trdsrvcav#1
 Cette offre requiert [x] de Négoce. Vous en avez actuellement[y] de disponible.
+
+#ui_tradeordr_wholprc#1
+Prix de gros
 
 #ui_tradeordr_your#1
 Vos ordres à [x]
@@ -6490,11 +6532,11 @@ coût du cargo
 #ui_troute_bcc_c1#1
 Le coût du service de cargo acheté à l'opérateur de route commerciale.
 
-#ui_troute_bdgtdscr1#1
-L'État paie et détient la totalité des marchandises importées de la ville exportatrice, indépendamment de leur utilisation ultérieure.
+#ui_troute_bdgtdscr1#2
+L'État achète et détient initialement la totalité des marchandises importées, indépendamment de leur utilisation ultérieure.
 
-#ui_troute_bdgtdscr2#1
-Tous les revenus plus tard faits localement de la vente de ces marchandises sont alors entièrement pour l'état.
+#ui_troute_bdgtdscr2#2
+Tous les revenus générés ultérieurement par la revente de ces marchandises sont donc entièrement reversés à la trésorerie du gouvernement.
 
 #ui_troute_bgc#1
 coût des marchandises
@@ -6508,38 +6550,14 @@ revenus des biens
 #ui_troute_binc_c1#1
 Revenus générés par la revente des biens de la route commerciale.
 
-#ui_troute_bt#1
-taxe d'opérateur
-
-#ui_troute_bt_c1#1
-Le montant payé à l'opérateur taxant les marchandises transitant dans leur ville.
-
-#ui_troute_cargorq#1
-CARGO REQUIS
-
-#ui_troute_cargorq_c1#1
-La quantité de service de cargo nécessaire pour exploiter cette route commerciale.
-
-#ui_troute_cargorq_c2#1
-facteur de distance * volume de chargement
-
-#ui_troute_cgcost_c1#1
-Coût total du cargo utilisé par ce territoire comme opérateur de routes commerciales.
-
-#ui_troute_close#1
-Fermer cette route commerciale
+#ui_troute_close#2
+Fermer ce transfer
 
 #ui_troute_distf#1
 Facteur de distance
 
-#ui_troute_distf_c1#1
-Ce facteur dépend de la plus longue des deux distances entre l'opérateur et chacune des destinations de l'itinéraire commercial.
-
-#ui_troute_distf_c2#1
-plus longue distance de l'opérateur
-
-#ui_troute_dscr#1
-Une route commerciale transfère un flux constant de ressources entre les villes. Il nécessite un service de cargo pour fonctionner.
+#ui_troute_dscr#2
+Les transfers régionaux envoient un flux constant de ressources entre un territoire et sa capitale régionale.
 
 #ui_troute_edit#1
 Modification d'une route commerciale existante ...
@@ -6547,32 +6565,11 @@ Modification d'une route commerciale existante ...
 #ui_troute_err1#1
 Impossible d'ouvrir une route commerciale car l'opérateur sélectionné ne peut pas fournir le service de cargo requis!
 
-#ui_troute_maxava#1
-Cargo disponible
+#ui_troute_open#2
+Ouvrir un nouveau transfer régional!
 
-#ui_troute_maxava_c1#1
-La quantité de service de cargo actuellement disponible dans l'opérateur.
-
-#ui_troute_opdscr1#1
-L'opérateur de route commerciale est la ville qui s'occupe du transport des marchandises.
-
-#ui_troute_opdscr2#1
-Il peut s'agir de la ville ouvrant la route commerciale ou de toute autre ville au sein de votre réseau commercial qui a rendu un service de cargo disponible.
-
-#ui_troute_opdscr3#1
-Le coût du cargo est exponentiel à la distance de la route commerciale. Le choix d'une ville tierce située au milieu de votre route commerciale en tant qu'opérateur réduira considérablement son coût de cargo.
-
-#ui_troute_open#1
-Ouvrir une nouvelle route commerciale!
-
-#ui_troute_opetax#1
-TAXE D'EXPLOITATION
-
-#ui_troute_opetax_c1#1
-Un opérateur de routes commerciales peut également imposer un pourcentage de la valeur de toutes les marchandises transitant sur leur territoire.
-
-#ui_troute_opnw#1
-Ouverture d'une nouvelle route commerciale ...
+#ui_troute_opnw#2
+Ouverture d'un nouveau transfer régional...
 
 #ui_troute_optr#1
 Opérateur de route commerciale
@@ -6627,6 +6624,9 @@ Mouvement impossible: vous n'avez pas de droit de passage avec le propriétaire 
 
 #ui_wrldmov_er5#1
 Cette formation ne peut lever le camp tant qu'elle n'a pas au moins 50 points d'Action.
+
+#ui_wrldmov_er6#1
+L'inventaire de cette formation est plein!
 
 #ui_wrldmov_erxplr#1
 Cette formation ne peut pas explorer de nouveaux territoires.
@@ -6765,4 +6765,7 @@ Haute
 
 #wkprio_4#1
 Critique
+
+#wkprio_5#1
+Obligatoire
 

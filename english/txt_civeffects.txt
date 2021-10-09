@@ -1,8 +1,8 @@
-#civfx_multireg_n#1
-multiple regions
+#civfx_multireg_n#2
+multiple cities
 
-#civfx_multireg_dscr#1
-Allows to control multiple regions, each one with its own regional center.
+#civfx_multireg_dscr#2
+Allows for non-capital regional centers to grow beyond village status.
 
 #civfx_nationmaintn_n#1
 subordinates maintenance
@@ -403,11 +403,17 @@ seized percentage
 #civfx_seizem_setd#1
 Sets the percentage of a material's price you wish to seize
 
-#civfx_statepow_dscr#1
-Modifies the amount of state power
-
 #civfx_statepow_n#1
 State Power
+
+#civfx_statepow_dscr#1
+Modifies the amount of State Power
+
+#civfx_expanpt_n#1
+Expansion Points
+
+#civfx_expanpt_dscr#1
+Modifies the amount of Expansion Points
 
 #civfx_stress_dscr#1
 Modifies the stress of the population
