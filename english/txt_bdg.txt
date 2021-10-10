@@ -2,7 +2,7 @@
 All buildings
 
 #bdg_annex_dscr#1
-Annexes are buildings that belong to another and provide it with additionnal production sources or distribution capacities.
+Annexes are buildings that belong to another and provide it with additional production sources or distribution capacities.
 
 #bdg_annex_n#1
 annex
@@ -194,7 +194,7 @@ Produces cider from apples. Cider is a distributable resource than satisfies the
 Cider mill
 
 #txt_cityhall_dscr#1
-The regionnal administration center building required for a City.
+The regional administration center building required for a City.
 
 #txt_cityhall_n#1
 City Hall
@@ -218,13 +218,13 @@ Produces clothes from textiles. Clothes are a distributable resource that satisf
 Clothesmaker
 
 #txt_comunhall_dscr#1
-The regionnal administration center building required for a Village. A large communal house where matters of the village can be discussed and managed.
+The regional administration center building required for a Village. A large communal house where matters of the village can be discussed and managed.
 
 #txt_comunhall_n#1
 Community Hall
 
 #txt_dock_dscr#1
-Docks for trade ships carrying goods across territories. Produces a large amounr of Cargo which is required to operate trade routes.
+Docks for trade ships carrying goods across territories. Produces a large amount of Cargo which is required to operate trade routes.
 
 #txt_dock_n#1
 Docks
@@ -386,7 +386,7 @@ Can store food resources.
 Granary
 
 #txt_hapt_dscr#1
-Multistorey buildings that provide housing for multiple households.
+Multistory buildings that provide housing for multiple households.
 
 #txt_hapt_n#1
 Apartment
@@ -416,7 +416,7 @@ Can exploit wild animals to produce fresh meat and leather. Needs to be placed i
 Hunter
 
 #txt_items_dscr#1
-These resources are abandonned on the floor and will decay with time unless they're quickly stored in a proper storage!
+These resources are abandoned on the floor and will decay with time unless they're quickly stored in a proper storage!
 
 #txt_items_n#1
 Items
@@ -518,7 +518,7 @@ A primitive way to store knowledge based on oral tradition.
 Elder's circle
 
 #txt_orcbutcher_dscr#1
-Slaughters prisoners to produce bacon, the only food Orcs can consumme.
+Slaughters prisoners to produce bacon, the only food Orcs can consume.
 
 #txt_orcbutcher_n#1
 Orc butcher
@@ -542,13 +542,13 @@ Paddocks allow the storage of livestock resources.
 Paddock
 
 #txt_palace1_dscr#1
-A unique early capital building linked to the 'Leadership' policy that produces State Power. Lavish hut where the leader resides and exercices his power.
+A unique early capital building linked to the 'Leadership' policy that produces State Power. Lavish hut where the leader resides and exercises his power.
 
 #txt_palace1_n#1
 Chief's hut
 
 #txt_palace2_dscr#1
-A unique capital building linked to the 'Leadership' policy that produces State Power. Luxurious place of residence of the State's leader and his council exercice power.
+A unique capital building linked to the 'Leadership' policy that produces State Power. Luxurious place of residence of the State's leader and his council exercise power.
 
 #txt_palace2_n#1
 Palace
@@ -704,13 +704,13 @@ Stairs that can be placed against cliffs or walls of any height to allow for pas
 Stone stairs
 
 #txt_state_court_dscr#1
-An expensive unique capital building linked to the 'Court' policy and produces some State Power. A luxurious building used to host subordinates and vassals in splendor in order to better control them.
+An expensive unique capital building linked to the 'Court' policy and produces some State Power. A luxurious building used to host subordinates and vassals in splendour in order to better control them.
 
 #txt_state_court_n#1
 Great Hall
 
 #txt_state_dptmnt_dscr#1
-A costly capital building that produces some additionnal State Power. A governmental administrative building where Civil Servants specialize in managing specific domains of governance, improving its administration.
+A costly capital building that produces some additional State Power. A governmental administrative building where Civil Servants specialize in managing specific domains of governance, improving its administration.
 
 #txt_state_dptmnt_n#1
 State Department
@@ -761,7 +761,7 @@ Reduces waste by ensuring population pays their taxes correctly.
 Tax collector
 
 #txt_theater_dscr#1
-Provides entertainement to the Porcos.
+Provides entertainment to the Porcos.
 
 #txt_theater_n#1
 Theater
@@ -797,7 +797,7 @@ This tower is built out of solid stone blocks to increase resistance to enemy ar
 Heavy tower
 
 #txt_townhall_dscr#1
-The regionnal administration center building required for a Town.
+The regional administration center building required for a Town.
 
 #txt_townhall_n#1
 Town Hall
@@ -821,7 +821,7 @@ A simple defensive wall made of timber.
 Palisade
 
 #txt_wall2_dscr#1
-A simple defensive wall made of mudbricks and is weaker but cheaper to maintain than a palissade.
+A simple defensive wall made of mudbricks and is weaker but cheaper to maintain than a palisade.
 
 #txt_wall2_n#1
 Mudbrick wall
@@ -845,7 +845,7 @@ A solid defensive wall made of stone blocks.
 Stoneblocks wall
 
 #txt_warehouse_dscr#1
-Warehouses can store all types of basic materials. They are guarded and can store a larger number of resources than ground storages.
+Warehouses can store all types of basic materials. They are guarded and can store a larger number of resources than ground storage.
 
 #txt_warehouse_n#1
 Warehouse

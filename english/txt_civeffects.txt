@@ -74,7 +74,7 @@ forced labor
 time allocation
 
 #civfx_comwork_setd#2
-Sets the percentage of time actives will spend on forced labor (decreases building efficiency proportionnally).
+Sets the percentage of time actives will spend on forced labor (decreases building efficiency proportionally).
 
 #civfx_comworkmod_actv#2
 [x]% of forced labor
@@ -146,7 +146,7 @@ Affects the amount of food required by porcos to satisfy their need for food
 food consumption
 
 #civfx_goldstck_dscr#1
-increases the wealth of all territories for each unit of precious metals (gold and silver) in storages
+increases the wealth of all territories for each unit of precious metals (gold and silver) in storage
 
 #civfx_goldstck_n#1
 Wealth from precious metals
@@ -188,7 +188,7 @@ Leader's treasury contribution
 Contribution rate
 
 #civfx_ldcntrb_setd#1
-The percentage of the leader's wealth going into the government's treasury (Note that this will reduce the Leader's wealth proportionnally).
+The percentage of the leader's wealth going into the government's treasury (Note that this will reduce the Leader's wealth proportionally).
 
 #civfx_leadsal_dscr#1
 Leaders get a salary that is paid by the state
@@ -224,7 +224,7 @@ The amount of power and support from the Oligarchy.
 Oligarchy's support
 
 #civfx_legitpop_dscr#1
-How much the people approves the current governance.
+How much the people approve the current governance.
 
 #civfx_legitpop_n#1
 People's approval

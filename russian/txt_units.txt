@@ -1,216 +1,225 @@
-
-#u_all
+#u_all#1
 юниты
 
-#u_porco
-Порко
-
-#u_sow
-Свиножена
-
-#u_piglet
-Поросенок
-
-#u_oldpig
-Старосвин
-
-#u_warrior
-Воин
-
-#u_axepig
+#u_axepig#1
 Топоросвин
 
-#u_swordpig
-Мечесвин
-
-#u_swordboar
-Мечеборов
-
-#u_porcus
-Хряк
-
-#u_snout
-Пятачок
-
-#u_spearpig
-Копьесвин
-
-#u_hoplite
-Гоплит
-
-#u_immortal
-Бессмертный
-
-#u_voulger
-Свин с вульжем
-
-#u_warhog
-Хряк войны
-
-#u_battleswine
-Свин битвы
-
-#u_baconeer
+#u_baconeer#1
 Беконьер
 
-#u_martelsnout
-Молотохряк
+#u_battleswine#1
+Свин битвы
 
-#u_javelin
-Метатель дротиков
-
-#u_bowpig
-Лукосвин
-
-#u_longbowpig
-Свин с длинным луком
-
-#u_crossbowpig
-Арбалетчик
-
-#u_horsepig
-Конник
-
-#u_cataphract
-Катафрактарий
-
-#u_pigatarms
-Свин д'арм
-
-#u_mntdarcher
-Конный лучник
-
-#u_camelpig
-Наездник на верблюде
-
-#u_camephract
-Катафрактарий на верблюде
-
-#u_camelier
-Саладин
-
-#u_camelbow
-Лучник на верблюде
-
-#u_stomper
-Топотун
-
-#u_cubiphant
-Кубифант
-
-#u_crusher
-Крушитель
-
-#u_megaphant
-Мегафант
-
-#u_killerrabbit
-Не обычный кролик
-
-#u_porkoderthal1
-Поркондертальцы
-
-#u_horse
-Лошади
-
-#u_elephant
-Слоны
-
-#u_mammoth
-Мамонты
-
-#u_dog
-Собаки
-
-#u_sheep
-Овцы
-
-#u_rabbit
-Кролики
-
-#u_deer
-Олени
-
-#u_cow
-Коровы
-
-#u_buffalo
-Буффало
-
-#u_capybara
-Капибары
-
-#u_camel
-Верблюды
-
-#u_goat
-Козы
-
-#u_chicken
-Курицы
-
-#u_llama
-Ламы
-
-#u_ostrich
-Страусы
-
-#u_fish
-Рыбы
-
-#u_crow
-Вороны
-
-#u_bird
-Птицы
-
-#u_parrot
-Попугаи
-
-#u_sparrow
-Воробьи
-
-#u_wolf
-Волки
-
-#u_bear
+#u_bear#1
 Медведи
 
-#u_pitsotl
-Питсотль
-
-#u_eaglewarrior
-Войн-орел
-
-#u_wolfwarrior
-Воин-волк
-
-#u_bearserker
+#u_bearserker#1
 Челмедведосвин
 
-#u_rockthrower
-Камнеметатель
+#u_bird#1
+Птицы
 
-#u_frag_palentir
-Фрагмент Палентира
+#u_bowpig#1
+Лукосвин
 
-#u_palentir
-Палентир
+#u_buffalo#1
+Буффало
 
-#u_elemental
+#u_camel#1
+Верблюды
+
+#u_camelbow#1
+Лучник на верблюде
+
+#u_camelier#1
+Саладин
+
+#u_camelpig#1
+Наездник на верблюде
+
+#u_camelpig_l#1
+Light Camelpig
+
+#u_camephract#1
+Катафрактарий на верблюде
+
+#u_capybara#1
+Капибары
+
+#u_carrier#1
+Носильщик
+
+#u_cataphract#1
+Катафрактарий
+
+#u_chicken#1
+Курицы
+
+#u_cow#1
+Коровы
+
+#u_crossbowpig#1
+Арбалетчик
+
+#u_crow#1
+Вороны
+
+#u_crusher#1
+Крушитель
+
+#u_cubiphant#1
+Кубифант
+
+#u_deer#1
+Олени
+
+#u_dog#1
+Собаки
+
+#u_eaglewarrior#1
+Войн-орел
+
+#u_elemental#1
 Элементаль
 
-#u_goblin
-Гоблин
+#u_elephant#1
+Слоны
 
-#u_orc
-Орк
-
-#u_fimyr
+#u_fimyr#1
 Фимир
 
-#u_golem
+#u_fish#1
+Рыбы
+
+#u_frag_palentir#1
+Фрагмент Палентира
+
+#u_goat#1
+Козы
+
+#u_goblin#1
+Гоблин
+
+#u_golem#1
 Голем в броне
 
-#u_carrier
-Носильщик
+#u_hoplite#1
+Гоплит
+
+#u_horse#1
+Лошади
+
+#u_horsepig#1
+Конник
+
+#u_horsepig_l#1
+Легкая лошадиная свинья
+
+#u_immortal#1
+Бессмертный
+
+#u_javelin#1
+Метатель дротиков
+
+#u_killerrabbit#1
+Не обычный кролик
+
+#u_llama#1
+Ламы
+
+#u_longbowpig#1
+Свин с длинным луком
+
+#u_mammoth#1
+Мамонты
+
+#u_martelsnout#1
+Молотохряк
+
+#u_megaphant#1
+Мегафант
+
+#u_mntdarcher#1
+Конный лучник
+
+#u_oldpig#1
+Старосвин
+
+#u_orc#1
+Орк
+
+#u_ostrich#1
+Страусы
+
+#u_palentir#1
+Палентир
+
+#u_parrot#1
+Попугаи
+
+#u_pigatarms#1
+Свин д'арм
+
+#u_piglet#1
+Поросенок
+
+#u_pitsotl#1
+Питсотль
+
+#u_porco#1
+Порко
+
+#u_porcus#1
+Хряк
+
+#u_porkoderthal1#1
+Поркондертальцы
+
+#u_rabbit#1
+Кролики
+
+#u_rockthrower#1
+Камнеметатель
+
+#u_sheep#1
+Овцы
+
+#u_snout#1
+Пятачок
+
+#u_snout_sh#1
+Экранированное рыло
+
+#u_sow#1
+Свиножена
+
+#u_sparrow#1
+Воробьи
+
+#u_spearpig#1
+Копьесвин
+
+#u_stomper#1
+Топотун
+
+#u_swordboar#1
+Мечеборов
+
+#u_swordpig#1
+Мечесвин
+
+#u_voulger#1
+Свин с вульжем
+
+#u_warhog#1
+Хряк войны
+
+#u_warrior#1
+Воин
+
+#u_wolf#1
+Волки
+
+#u_wolfwarrior#1
+Воин-волк
+
