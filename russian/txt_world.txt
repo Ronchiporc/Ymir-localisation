@@ -1,54 +1,54 @@
-
-#clim_sea
-Море
-
-#clim_pol
-Полярный
-
-#clim_nord
-Нордический
-
-#clim_cont
-Континентальный
-
-#clim_oce
-Океанический
-
-#clim_med
-Средиземноморский
-
-#clim_trop
-Тропический
-
-#clim_arid
+#clim_arid#1
 Засушливый
 
-#clim_des
+#clim_cont#1
+Континентальный
+
+#clim_des#1
 Пустыня
 
-#relief_none
-Слабовыраженный рельеф
+#clim_med#1
+Средиземноморье
 
-#relief_plain
-Равнина
+#clim_nord#1
+Скандинавский
 
-#relief_rock
-Скалы
+#clim_oce#1
+Океанический
 
-#relief_hill
+#clim_pol#1
+Полярный
+
+#clim_sea#1
+Море
+
+#clim_trop#1
+Тропический
+
+#relief_hill#1
 Холмы
 
-#relief_mount
+#relief_mount#1
 Горы
 
-#water_lake
+#relief_none#1
+Равнины
+
+#relief_plain#1
+Равнины
+
+#relief_rock#1
+Нагорье
+
+#veget_forest#1
+Лес
+
+#water_lake#1
 Озеро
 
-#water_river
+#water_river#1
 Река
 
-#water_swamp
-Болота
+#water_swamp#1
+Болото
 
-#veget_forest
-Лес

@@ -556,8 +556,8 @@ Abandonner
 #bc_menubdg_aband2#1
 (le bâtiment est désactivé mais se dégrade avec le temps)
 
-#bc_menubdg_anxsource#1
-[x] sources de [y] de [z]
+#bc_menubdg_anxsource#2
+[x] sources de [y] de [z] (exploitées à [v]%)
 
 #bc_menubdg_destroy#1
 Démolir le bâtiment
@@ -583,8 +583,8 @@ Démolit ce bâtiment pour le reconstruire ailleurs
 #bc_menubdg_nopran#1
 Ce bâtiment n'a pas d'annexes possibles.
 
-#bc_menubdg_nsource#1
-sources naturelles de
+#bc_menubdg_nsource#2
+[x] sources naturelles de [y] (exploitées à [z]%)
 
 #bc_menubdg_perm#1
 Sélectionnez comment les ressources sont acceptées dans ce bâtiment de stockage
@@ -727,11 +727,17 @@ le nombre moyen de porcelets pouvant naitre d'une Porcasse au cours d'une géné
 #breed_intel#1
 intelligence moyenne
 
+#breed_lqual#1
+qualité de vie
+
 #breed_piglets#1
 porcelets par porcasse
 
 #breed_smcity#1
 bonus de petite ville
+
+#breed_territ#1
+statut territorial
 
 #breed_totpop#1
 population totale
@@ -2686,18 +2692,6 @@ L'accomplissement de ce projet déclenchera cet évenement.
 #menu_tch_prjcts#1
 Projets
 
-#menu_tch_str_cult#1
-Culture
-
-#menu_tch_str_cult1#1
-La culture vous donne de la capacité de stockage des connaissances, proportionnellement à votre culture totale.
-
-#menu_tch_str_lbr#1
-Bibliothèques
-
-#menu_tch_str_lbr1#1
-Chaque bibliothèque en service augmente votre capacité de stockage des connaissances.
-
 #menu_trbuy_bght#1
 Acheté [x] de [y] pour [z] monnaies!
 
@@ -3988,26 +3982,11 @@ Maintenance des politiques
 #statepow_civmnt_c1#1
 Coût de maintenance en Pouvoir d'Etat de toutes les politiques actuellement actives.
 
-#statepow_debt#1
-Dette
-
-#statepow_debt_c1#1
-La dette réduit le Pouvoir d'État et nous avons actuellement une dette de [x] monnaies.
-
-#statepow_dscr#1
-Le Pouvoir d'État représente la capacité de gestion de votre gouvernement. Les politiques de pouvoir définissent l'organisation du gouvernement et sa capacité a produire du Pouvoir d'État. Le Pouvoir d'État augmente la stabilité politique et économique des territoires.
-
 #statepow_forms#1
 Maintenance des formations
 
 #statepow_forms_c1#1
 Chaque formation que vous possédez coût de Pouvoir d'État à maintenir.
-
-#statepow_hon#1
-Déshoneur
-
-#statepow_hon_c1#1
-Personne ne veut servir un leader déshonorable! L'honneur négatif réduit le pouvoir d'État (honneur actuel: [x]).
 
 #statepow_nation#1
 Nation
@@ -4023,12 +4002,6 @@ Distance moyenne de [y] des subordonnés directs: [x]
 
 #statepow_nation_c51#1
 Total de [y] subordonnés: [x]
-
-#statepow_nbcit#1
-Nombre de régions
-
-#statepow_nbcit_c1#1
-Nous contrôlons actuellement [x] régions supplémentaires. Chaque région, outre le capital, coûte le Pouvoir d'État.
 
 #statepow_prod#1
 Bâtiments gouvernementaux
@@ -5131,9 +5104,6 @@ aucune politique séléctionnée
 #ui_gov_pdgreform#1
 Vous avez une réforme en attente qui n'est pas appliquée. Êtes-vous sûr de vouloir fermer ce menu et annuler cette réforme (les changements de politique ne seront pas appliqués)?
 
-#ui_gov_power#1
-Pouvoir d'État actuel
-
 #ui_govcltr_civpt_c1#1
 Vous avez actuellement [x] Points de Civilisation disponibles pour débloquer de nouveaux traits culturels.
 
@@ -5682,9 +5652,6 @@ Le statut de ce territoire ne vous permet pas d'y recruter des armées.
 
 #ui_recruit_err2#1
 Vous n'êtes pas authorisé à recruter de la milice dans ce territoire.
-
-#ui_recruit_err3#1
-Vous n'êtes pas authorisé à recruter des armées dans ce territoire.
 
 #ui_recruit_full#1
 Cette formation est pleine!

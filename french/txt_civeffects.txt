@@ -103,6 +103,12 @@ permet de créer des routes commerciales permanentes entre territoires
 #civfx_entrout_n#1
 routes commerciales
 
+#civfx_expanpt_dscr#1
+Modifies la quantité de Points d'Expansion
+
+#civfx_expanpt_n#1
+Points d'Expansion
+
 #civfx_flabmalus_actv#1
 Corvée [x]% de Loyauté
 
@@ -241,11 +247,11 @@ modifie le bonheur de la population
 #civfx_modhap_n#1
 bonheur de la population
 
-#civfx_multireg_dscr#1
-Permet le contrôle de multiples régions, chacune dotée de sa propre capitale régionale.
+#civfx_multireg_dscr#2
+Permet aux centres regionnaux (hors capitale) de croître au delà du statut de village.
 
-#civfx_multireg_n#1
-régions multiples
+#civfx_multireg_n#2
+cités multiples
 
 #civfx_nationmaintn_dscr#1
 Modifies le côut en Pouvoir d'Etat des subordonnés nationaux.

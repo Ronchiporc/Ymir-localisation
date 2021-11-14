@@ -58,6 +58,15 @@ Donner la région de '[x]'
 #agrim_givreg_3#1
 Transférer la propriété d'une région à [y].
 
+#agrim_givtech_1#1
+Donner une Connaissance
+
+#agrim_givtech_2#1
+Donner Connaissance de [x]
+
+#agrim_givtech_3#1
+[x] dépensera ses Points de Recherche pour transférer directement une Connaissance à [y].
+
 #agrim_goldo_1#1
 Paiement unique
 

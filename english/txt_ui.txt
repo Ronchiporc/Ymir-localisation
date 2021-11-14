@@ -574,11 +574,11 @@ deconstruct this building and rebuild it elsewhere
 #bc_menubdg_nopran#1
 This building doesnt have any possible annexes.
 
-#bc_menubdg_anxsource#1
-[x] sources of [y] from [z]
+#bc_menubdg_anxsource#2
+[x] sources of [y] from [z] ([v]% exploited)
 
-#bc_menubdg_nsource#1
-natural sources of
+#bc_menubdg_nsource#2
+[x] natural sources of [y] ([z]% exploited)
 
 #bc_menubdg_perm#1
 Select how resources are accepted in this storage building
@@ -732,6 +732,12 @@ total population effect
 
 #breed_vit#1
 missing vital needs influence
+
+#breed_territ#1
+territory status
+
+#breed_lqual#1
+life quality influence
 
 #btl_objtv_atta#1
 assisting attack
@@ -4359,6 +4365,9 @@ Average distance [y] of direct subordinates: [x]
 
 #statepow_nation_c51#1
 [y] total subordinates: [x]
+
+#statepow_nation_c6#1
+Excess of subordinates: [x]
 
 #statepow_prod#1
 Government buildings

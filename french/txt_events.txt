@@ -364,6 +364,9 @@ Prise du contrôle du territoire
 #effect_givres#1
 Réception de [y] [x] dans le territoire
 
+#effect_givrsrch#1
+Recevez [x] Points de Recherche
+
 #effect_givtech#1
 Donne la Connaissance: [x]
 
@@ -484,7 +487,7 @@ Nous avons gagné un niveau Culturel et ainsi obtenu un nouveau Point de Civilis
 #ev_claimdisco_1#1
 La région de [x] a perdu une de ses revendications territoriales car celle-ci n'était plus correctement reliée à la capitale regionale.
 
-#ev_claimloss#1
+#ev_claimloss#2
 [x] a perdu une revendication territoriale!
 
 #ev_claimloss_1#2
@@ -601,8 +604,8 @@ Insolvabilité!
 #ev_insolvency_1#1
 Votre gouvernment n'est plus en mesure de remplir ses obligations monétaires et ne peut plus maintenir ses propriétés ni payer fonctionnaires et armées.
 
-#ev_insolvency_2#1
-Jusqu'a ce qu'un meilleur équilibre budgétaire soit obtenu, les bâtiments nécéssitant de la maintenance gouvernementale seront abandonnés, les politiques couteuses seront désactivées, et les unités dans toutes nos Formations vont se dissoudre. Il est urgent de rétablir l'équilibre budgétaire ou votre gouvernment s'éffondrera!
+#ev_insolvency_2#2
+Jusqu'a ce qu'un meilleur équilibre budgétaire soit obtenu, les bâtiments nécéssitant de la maintenance gouvernementale seront progressivement abandonnés, les politiques couteuses se désactiveront, et les unités dans toutes nos Formations vont déserter. Il est urgent de rétablir l'équilibre budgétaire ou votre gouvernment s'éffondrera!
 
 #ev_joinwriors#1
 Des guerriers veulent se joindrent à nous!
@@ -663,6 +666,15 @@ Un porco du village de [x], exaspéré par les harcèlements incessants de sa po
 
 #ev_nagwif_2#1
 Beaucoup craignaient qu'il ne revienne jamais. Mais le 5ème jour il revint, raportant avec lui les dépouilles de ce qui s'était avéré être une chasse fort abondante. Il fut ainsi chaleureusement acceuillit par toute la tribu. Cependant, sa femme toujours furieuse partit avec ses porcelets vivre dans la tribu de sa mère de l'autre côté de la vallée.
+
+#ev_overextend#1
+Surexpansion!
+
+#ev_overextend_1#3
+Nous n'avons pas suffisemment de Points d'Expansion pour maintenir nos territoires actuels!
+
+#ev_overextend_2#3
+L'organisation de notre gouvernement ne nous permet pas actuellement de gérer correctement tout nos territoires. Il ne peut donc pas opérer normalement tant que ce problème n'est pas résolu et sont efficacité deumeurera handicapée par cette surexpansion, représentée par une importante pénalité de Pouvoir d'Etat pour chaque Point d'Expansion manquant.
 
 #ev_palntrch1#1
 Un Don de Sagesse
@@ -745,6 +757,15 @@ Un petit groupe d'ours est venu errer sur le territoire de [x]. Pendant la nuit,
 #ev_regbear_c2#1
 "Il est temps de se battre avec des ours!"
 
+#ev_regoverexp#1
+Surexpansion regionnale de '[x]'!
+
+#ev_regoverexp_1#1
+Le centre régionnal de '[x]' est en surexpansion: trop de territoires régionaux y sont rattachés, bien au delà de sa capacité administrative locale!
+
+#ev_regoverexp_2#1
+En raison d'une pénurie administrative de [p1], les territoires de la région sont désormais inadministrés. Ils vont progressivement perdre de-facto leur rattachement au centre régional en regressant au statut d'Avant-Poste a moins que la situation ne soit réglée.
+
 #ev_regwolf#1
 Loups affamés à [x]!
 
@@ -814,11 +835,14 @@ Cependant, au matin, les villageois ont remarqué que plusieurs grands arbres é
 #ev_suborlimit#1
 Trop de subordonnés!
 
-#ev_territdisabled#1
-Statut territorial de '[y]' perdu!
+#ev_suborlimit_1#1
+Notre gouvernement n'est pas en capacité de gérer autant de surdonnés nationaux. Il en résulte une importante pénalité de Pouvoir d'Etat jusqu'a ce que la situation soit reglée!
 
-#ev_territdisabled_1#1
-Le statut territorial '[x]' de '[x]' à été perdu car le territoire ne remplissait plus ses conditions.
+#ev_territdisabled#2
+Statut territorial de '[x]' perdu!
+
+#ev_territdisabled_1#2
+Ne remplissant plus les conditions requises, '[x]' a perdu son statut territorial de '[p1]' et a régréssé au statut de '[p2]'.
 
 #ev_tradenmds#1
 Caravane de nomades à [x]
@@ -1834,6 +1858,12 @@ La partie est terminée et son vainqueur est la nation de '[x]', étant la premi
 #event_gameovr_2#1
 Notez que la partie peut continuer et que vous pouvez continuer à jouer, mais les scores et les rangs ne seront plus mis à jour.
 
+#event_gamewipe#1
+Redémarrage de Partie
+
+#event_gamewipe_1#1
+Attention: cette partie est terminée et le serveur sera automatiquement redémarré le [x] UTC.
+
 #event_hunt#1
 Chasse [p2] [p3]
 
@@ -1869,6 +1899,15 @@ People travel and with them, knowledges and stories about revolutionnary innovat
 
 #event_ideasprd_2#1
 News about a knowledge unknown to us has reached us from [x] and its given us the opportunity to research and adopt this new way of things as well.
+
+#event_inovfail#1
+Rien à innover en '[p2]'!
+
+#event_inovfail_1#1
+Les chercheurs ont cherché longtemps et durement, mais n'ont simplement rien trouvé à innover dans ce domaine et ont décidé d'abandonner.
+
+#event_inovfail_2#1
+Il semble que présentement, il n'y aie donc aucun moyen de prorgesser dans le domaine de [p2]. Néanmoins, il est possible qu'explorer d'autres domaines de recherche au préalable puisse ultérieurement permettre de nouvelles innovations dans ce domaine.
 
 #event_lowlegit#1
 Légitimité négative!
@@ -1912,8 +1951,8 @@ Les habitants de la ville de [x] prennent les armes par eux-mêmes pour aider à
 #event_projfail#1
 Notre projet '[x]' a échoué!
 
-#event_projfail_1#1
-Notre projet de '[x]' avec [p2]% de chances de succès a été complété, mais malheureusement, il n'a pas répondu à ses attentes et nous n'avons pas obtenu les récompenses attendues. Je crains que nous devons recommencer à zéro et espérer de meilleurs résultats ...
+#event_projfail_1#2
+La piste principale suivie par nos chercheurs sur notre projet de '[x]' s'est avérée mener à une impasse, les forçant a redémarrer de zéro. Avec un peu de chance, ils auront appris de cet échec et auront plus de succès la prochaine fois!
 
 #event_projfail_2#1
 Un projet peut échouer si sa difficulté est supérieure à l'intelligence moyenne des chercheurs qui lui sont assignés. Nous devrions essayer d'assigner de meilleurs chercheurs pour augmenter nos chances de succès la prochaine fois!

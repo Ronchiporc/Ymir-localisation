@@ -1834,6 +1834,12 @@ The game is over and its winner is the nation of '[x]' , being the first to reac
 #event_gameovr_2#1
 Note that the game may go on and you can keep playing, but scores and ranks will no longer be updated and there will be no further victory missions.
 
+#event_gamewipe#1
+Server auto-wipe
+
+#event_gamewipe_1#1
+Warning: this game is over and the server will be automatically wiped and restarted on [x] UTC.
+
 #event_hunt#1
 Hunting [p2] [p3]
 
@@ -2055,6 +2061,15 @@ We don't have enough Expansion Points to maintain our current territories!
 
 #ev_overextend_2#3
 Our government is not ogranized in a way to properly manage these extra territories. It cannot operate normally until this is resolved and it's efficiency will remain crippled by this overexpansion, represented by a big State Power penalty for every missing Expansion Point.
+
+#ev_regoverexp#1
+Regional overexpansion of '[x]'!
+
+#ev_regoverexp_1#1
+The region of '[x]' is overexpanded and managing territories far beyond its administative capabilities!
+
+#ev_regoverexp_2#1
+With an administrative debt of [p1], regional territories are left unmanaged and will gradually lose their attachment to the regional capital and default back as 'Outposts' until this issue is fixed.
 
 #ev_suborlimit#1
 Too many subordinates!
