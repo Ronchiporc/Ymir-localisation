@@ -131,7 +131,7 @@ Join nation
 Joining the [x]
 
 #agrim_vassal_3#1
-[x] will join the nation of [y].
+[x] will plead allegiance to [y].
 
 #agrim_err_maxsubor1#1
 You can't currently manage any more subordinates!
@@ -152,7 +152,7 @@ Declare war to another specified state
 National defensive pact
 
 #diplo_ndef_dscr_1#1
-Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking closes being on the side of the agressor. 
+Any declaration of war made against a Nation member will trigger an automatic declaration of War from all the other members of the Nation, with breaking clauses being on the side of the agressor. 
 
 #diplo_npass#1
 National right of passage
@@ -167,7 +167,7 @@ National trade agreement
 All members of the Nation get automatic trading rights with each other.
 
 #treaty_closes#1
-Breaking closes
+Breaking clauses
 
 #treaty_coinpen#1
 Financial penalty
@@ -181,14 +181,11 @@ to [x].
 #treaty_gdp#1
 [x]% of GDP
 
-#treaty_honor#1
-Honor commitment
+#treaty_honor#2
+Political commitment
 
-#treaty_honor_c1#1
-Level of commitment of [x] to respect this treaty.
-
-#treaty_honor_c2#1
-Proportionnal honor is lost if [x] breaks it.
+#treaty_honor_c1#2
+The amount of Politics Points [x] will lose if breaking this treaty illegitimately before its expiration.
 
 #treaty_nocls#1
 (breaking clauses are not effective because the other party is currently inactive)
@@ -196,12 +193,132 @@ Proportionnal honor is lost if [x] breaks it.
 #treaty_powcost#1
 State power cost to maintain this treaty
 
-#treaty_warbound#1
-War bound
+#treaty_brk_mode#2
+Breaking conditions
 
-#treaty_warbound_c1#1
-Wether or not [x] will automatically declare war
+#treaty_brk_mode_1#2
+Direct
 
-#treaty_warbound_c2#1
-if [x] breaks this treaty.
+#treaty_brk_mode_1_c1#2
+Breaking clauses will trigger if [x] breaks this treaty during its engagement period by terminating it or by declaring war to the other party as main belligerent.
+
+#treaty_brk_mode_2#2
+Indirect
+
+#treaty_brk_mode_2_c1#2
+Breaking clauses will trigger if [x] breaks this treaty during its engagement period by terminating it or by declaring a war that includes the other party (as main belligerent or forced co-belligerent).
+
+#treaty_warbound#2
+Casus-belli
+
+#treaty_warbound_1#2
+None
+
+#treaty_warbound_1_c1#2
+Breaking this treaty will not constitute a casus-belli for the other party.
+
+#treaty_warbound_2#1
+Reparations
+
+#treaty_warbound_2_c1#2
+Breaking this treaty will give a 'reparations war' casus-belli to the other party.
+
+#treaty_warbound_3#1
+PUNISHMENT
+
+#treaty_warbound_3_c1#1
+Breaking this treaty will give a 'punishment war' casus-belli to the other party which, if won, leads to the definitive elimination of this Character.
+
+#war_raid#1
+Raiding campaign
+
+#war_raid_dscr#1
+This is a war with no other objective than pillaging resources, money, and slaves from the defender.
+
+#war_extor#1
+Extortion
+
+#war_extor_dscr#1
+This is a war with the objective of submitting the defender to force it to pay tributes to the attacker.
+
+#war_extor_afx1#1
+defender pays 15% tax in tribute
+
+#war_repair#1
+Reparation
+
+#war_repair_dscr#1
+This is a war with the objective of submitting the defender to force it to pay reparations for breaking agreements.
+
+#war_punish#1
+Punishment
+
+#war_punish_dscr#1
+This is a war to punish a rebelious defender who betrayed its word. The agressor now seeks for the definitive eradication of the defender's dynasty and government as it's considered unruly: if victorious the defender will be eliminated from the game.
+
+#war_punish_afx1#1
+defender is killed (turns 'inactive')
+
+#war_annex#1
+Annexion
+
+#war_annex_dscr#1
+This is a war with the objective of annexing a territory of the defender that the attacker has a claim of.
+
+#war_annex_afx1#1
+attacker takes over the claimed territory
+
+#war_liberate#1
+Liberation
+
+#war_liberate_dscr#1
+This is a war with the objective of liberating a legitimate territory that is being held by the defender.
+
+#war_subj#1
+Subjugation
+
+#war_subj_dscr#1
+This is a war with the objective of vassalizing the defender by force, making it join the Nation of the attacker as his subordinate.
+
+#war_subj_afx1#1
+defender becomes a tributary State
+
+#war_stealtrib#1
+Stealing Tributary
+
+#war_stealtrib_dscr#1
+This is a war with the objective of stealing control of a tributary State from the defender by force, making it join the Nation of the attacker as its own subjugated subordinate.
+
+#war_stealtrib_afx1#1
+target becomes a tributary State
+
+#war_humil#1
+Humiliation
+
+#war_humil_dscr#1
+This is a war specific to Rivals with the objective of humiliating the defender through defeat, costing him Victory Points and Culture. Its penalties are non-stackable.
+
+#war_humil_afx1#1
+defender loses 50% of its Victory Points.
+
+#war_humil_afx2#1
+defender gets temporary -30 Legitimacy.
+
+#war_humil_dfx1#1
+attacker loses 50% of its Victory Points.
+
+#war_humil_dfx2#1
+attacker gets temporary -30 Legitimacy.
+
+#war_prop#1
+Special properties:
+
+#war_prop_nowin#1
+cannot be auto-won
+
+#war_prop_nocall#1
+cannot call allies
+
+#war_prop_nosubor#1
+subordinates not forced to join
 

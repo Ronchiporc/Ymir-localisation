@@ -238,8 +238,8 @@ Production of [y] resources inferior to [x]
 #cond_prdgrpprd_sup#1
 Production of [y] resources superior to [x]
 
-#cond_prodsupto#1
-Produce at least [x] of [y] in territory
+#cond_prodsupto#2
+Production of at least +[x] of [y] in territory
 
 #cond_regcltr_sup#1
 Territory culture superior to [x]
@@ -429,6 +429,27 @@ Reveals the map of the territory up to [x] tiles around the formation.
 
 #effect_givrsrch#1
 Receive [x] Research Points
+
+#effect_givpolpnts#1
+Receive [x] Politics Points
+
+#ev_maxgates#1
+Decaying gates in [x]
+
+#ev_maxgates_1#1
+The territorial status of [x] does not allow to maintain this many gates. There is currently [p1] gates for a maximum allowed of [p2]. Without proper maintenance, the extra gates will randomly break down unless the situation is fixed quickly.
+
+#ev_maxwalls#1
+Decaying walls in [x]
+
+#ev_maxwalls_1#1
+The territorial status of [x] does not allow to maintain this many simple walls. There is currently [p1] walls for a maximum allowed of [p2]. Without proper maintenance, the extra walls will randomly break down unless the situation is fixed quickly.
+
+#ev_maxptfrms#1
+Decaying platforms in [x]
+
+#ev_maxptfrms_1#1
+The territorial status of [x] does not allow to maintain this many platforms. There is currently [p1] platforms for a maximum allowed of [p2]. Without proper maintenance, the extra platforms will randomly break down unless the situation is fixed quickly.
 
 #ev_animlv#1
 Wildlife is leaving [x]
@@ -1549,6 +1570,9 @@ Good news! There was an attempt from the Resistance movement in [x] loyal to the
 #event_br_partis_2#1
 [p2]% of the population took arms and rebeled, including [p4] soldiers of the local garrison who defected to the rebels. [p5] loyalist soldiers faced a total of [p3] rebels.
 
+#event_battle_report#1
+[x]
+
 #event_br_revolt#1
 Revolt thwarted in [x]
 
@@ -1798,23 +1822,26 @@ We are currently indebted of [p1] coins in our trasury. Beeing in debt reduces o
 #event_debt_2#1
 We need to put back our state income balance in the green or we'll get in serious trouble. If the situation is desperate, we can also take a last resort decision of cancelling our debt but this will generate great unrest in our state.
 
-#event_diplomes#1
-Message from [x]
+#event_diplomes#2
+Message from the [y]
 
-#event_dwar_att#1
-We have declared war to [x]
+#event_dwar_att#2
+War against [x] ([p2])
 
-#event_dwar_att_1#1
-My lord, we have declared war to [x] of [y] and are now at war with these weak piglets.
+#event_dwar_att_1#2
+We are in a war of [p2] against [x] of [y]!
 
-#event_dwar_def#1
-[x] has declared war on us!
+#event_dwar_def#2
+Defending against [x] ([p2]) 
 
-#event_dwar_def_1#1
-My lord, [x] of [y] has declared war on us.
+#event_dwar_def_1#2
+We are defending against [x] of [y] in a war of [p2]!
 
-#event_dwar_def_2#1
-We are now at war with these filthy hogs.
+#event_warend#1
+War between [x] and [y] has ended!
+
+#event_warescal#1
+War between [x] and [y] has escalated
 
 #event_form_animesc#1
 [p3] have escaped the surveillance of our '[x]'!
@@ -1927,6 +1954,15 @@ A project may fail if its difficulty is higher than the average intelligence of 
 #event_projfail_3#2
 Researchers had [p2]% chances of being successful, however they failed and [p3] Research points of progress have been lost. This experience has given them a bonus of +[p4]% success on their next trial.
 
+#event_projinsolv#1
+Our Project '[x]' was aborted!
+
+#event_projinsolv_1#1
+Due to our insolvency, we were no longer able to maintain our project of '[x]' and it was aborted.
+
+#event_projinsolv_2#1
+All progress and invested resources have been lost! The project will have to be restarted from scratch when our treasury issues are resolved.
+
 #event_projsuc#1
 Our project '[x]' was successfully completed!
 
@@ -1960,8 +1996,8 @@ The loyalty of [x] is very low and there is a high risk of imminent rebellion of
 #event_rsk_upris_2#1
 Loyalty is reduced by factors such as : amount of local culture, strong local garrison, absence of state troops, low state power or legitimacy, number of cities and capital distance. You can open the leaderboard to see your final score.
 
-#event_treaty#1
-Treaty proposal from [x]
+#event_treaty#2
+Treaty proposal from the [y]
 
 #event_tribreb#1
 Primitive tribe uprsiging in [x]!
@@ -1982,7 +2018,7 @@ For now, they only watched us set camp from afar but they know these lands bette
 Regional transfer from '[x]' terminated!
 
 #event_trout_b1_1#2
-The regional transfer of productions from '[x]' to the regional center of '[y]' has been terminated because '[x]' is no longer a regional territory.
+The regional transfer of productions from '[x]' to the regional center of '[y]' has been terminated because '[x]' is no longer a Countryside territory.
 
 #event_trout_b2#2
 Regional transfer from '[x]' terminated!
@@ -2006,7 +2042,7 @@ Our treaty with [x] of [y] has been approved and signed by us both and is now ef
 [y] is asking to terminate a treaty
 
 #event_trt_asktrm_1#1
-[x] of [y] is asking for the mutually agreed termination of a treaty we have with his people. If we agree to this request, the treaty will be terminated instantly without triggering any breaking closes and its terms will cease to be effective. If we refuse, nothing will happen and the treaty will remain active unless they decide to break it illegally (in which case their breaking closes apply).
+[x] of [y] is asking for the mutually agreed termination of a treaty we have with his people. If we agree to this request, the treaty will be terminated instantly without triggering any breaking clauses and its terms will cease to be effective. If we refuse, nothing will happen and the treaty will remain active unless they decide to break it illegally (in which case their breaking clauses apply).
 
 #event_trt_brk1#1
 [x] has broken a treaty!
@@ -2014,8 +2050,8 @@ Our treaty with [x] of [y] has been approved and signed by us both and is now ef
 #event_trt_brk1_1#1
 [x] has illegaly broken the treaty of '[y]' they had with us!
 
-#event_trt_brk1_2#1
-According to the treaty's breaking terms, they lost [p2] of honor.
+#event_trt_brk1_2#2
+According to the treaty's breaking terms, they lost [p2] of Politics.
 
 #event_trt_brk2#1
 We have broken a treaty with [x]!
@@ -2023,8 +2059,26 @@ We have broken a treaty with [x]!
 #event_trt_brk2_1#1
 We have illegaly broken the treaty of '[y]' we had with [x].
 
-#event_trt_brk2_2#1
-According to the treaty's breaking terms, as a penalty we lost [p2] of honor.
+#event_trt_brk2_2#2
+According to the treaty's breaking terms, as a penalty we lost [p2] of Politics.
+
+#event_trt_termn1#1
+[x] has terminated a treaty.
+
+#event_trt_termn1_1#1
+[x] has terminated the treaty of '[y]' they had with us.
+
+#event_trt_termn1_2#1
+Because this treaty was legally terminated, no penalties were applied.
+
+#event_trt_termn2#1
+We have terminated a treaty with [x].
+
+#event_trt_termn2_1#1
+We have terminated the treaty of '[y]' we had with [x].
+
+#event_trt_termn2_2#1
+Because this treaty was legally terminated, no penalties were applied.
 
 #event_trt_brkw1#1
 We have declared war to them in retaliation, and any other treaty with them has 
@@ -2068,14 +2122,20 @@ Regional overexpansion of '[x]'!
 #ev_regoverexp_1#1
 The region of '[x]' is overexpanded and managing territories far beyond its administative capabilities!
 
-#ev_regoverexp_2#1
-With an administrative debt of [p1], regional territories are left unmanaged and will gradually lose their attachment to the regional capital and default back as 'Outposts' until this issue is fixed.
+#ev_regoverexp_2#2
+With an administrative debt of [p1], Countryside territories are left unmanaged and will gradually lose their attachment to the regional capital and default back as 'Unadministered' until this issue is fixed.
 
 #ev_suborlimit#1
 Too many subordinates!
 
 #ev_suborlimit_1#1
 Our current government is unable to manage this many Nation subordinates. This is causing a huge Nation maintenance penalty of State Power that must be resolved urgently!
+
+#ev_unadmin_territ#1
+Unadministered territories!
+
+#ev_unadmin_territ_1#1
+We currently have [p1] unadministered territories! These territories are in a state of anarchy and waiting to be reorganized with a proper territorial status. Your Political Points gains will remain penalized until this issue is resolved.
 
 #event_inovfail#1
 Nothing to innovate in '[p2]'!
@@ -2085,4 +2145,355 @@ Researchers researched long and hard, but they simply found nothing and gave up.
 
 #event_inovfail_2#1
 It seems that right now, there doesn't seem to be any way to innovate in the domain of [p2]. However it may be that exploring other domains of research first can later lead to new possible innovations in this domain.
+
+#event_inovsetbck#1
+Innovating in '[p2]' requires more time.
+
+#event_inovsetbck_1#1
+Researchers claim they are on to something, but that developping this new undiscovered idea requires much more work than initially expected and that they require more time to pursue their research.
+
+#event_inovsetbck_2#1
+The project's progress has unfortunately been reset and needs to be completed again, but it is now closer to fruition.
+
+#ev_autoriv#1
+Forced rivalry with [x]!
+
+#ev_autoriv_1#1
+Being one of the leading powers of for this world comes with different expectations and ambitions from our Oligarchs and Porcos of influence. 
+
+#ev_autoriv_2#1
+Our position now places our Nation in direct competition with [x] and, unfortunately, pressure from internal politics now dictate that they be considered as our effective rivals regardless of our past relations. 
+
+#ev_autoriv_3#1
+A forced rivalry cannot be revoked unless it's replaced by another one or if the rival ceases to be a worthy competitor (as with other rivalries).
+
+#ev_newriv#1
+[x] is now our rival!
+
+#ev_newriv_1#1
+[x] has is now a rival Nation. This means having diplomatic relations such as passage or trading will negatively affect your Legitimacy, but that conflict will yield additionnal rewards as well as additional casus-belli possibilities.
+
+#ev_lostriv#1
+[x] is no longer our rival.
+
+#ev_lostriv_1#1
+[x] has is no longer considered a rival Nation, either because they are no longer considered a threat or because anoter rival has been designated instead. This means having diplomatic relations will no longer affect your Legitimacy.
+
+#ev_onewriv#1
+[x] has designated your as a rival!
+
+#ev_onewriv_1#1
+Unfortunate news: [x] has now designated you as their rival and although this doesn't directly affect you in any way, you can expect any relations with them to deteriorate as a result.
+
+#ev_olostriv#1
+[x] no longer considers you as a rival.
+
+#ev_olostriv_1#1
+Good news: [x] no longer considers you as their rival, meaning your relations can possibly be restaured and improved from now on.
+
+#ev_fabclaim_fx#1
+New 'Annexion' casus-belli for this territory.
+
+#ev_fabclaim#1
+Fabricating claim for '[x]'
+
+#ev_fabclaim_1#1
+Order has been given to start fabricating our claim over the foreign territory of '[x]' by gathering support from the powers that be in our society to justify its annexion by our State.
+
+#ev_fabclaim_2#1
+[y] who currently controls this territory has been made aware of our new claims.
+
+#ev_fabclaim_o_1#1
+Claim fabrication in progress...
+
+#ev_fabclaim_o_2#1
+Once the process is completed, you will gain a new casus-belli against [y] allowing you to annex this territory if the war is won.
+
+#ev_ofabclaim#1
+[y] started fabricating claim over '[x]'
+
+#ev_ofabclaim_1#1
+[y] has started fabricating claims over our territory of '[x]', claiming it is rightfully theirs. 
+
+#ev_ofabclaim_2#1
+This process will be completed in about [p1], giving them a casus-belli to attack us with the goal of annexing this territory: we should prepare for the eventuality of war breaking out soon!
+
+#ev_cb_claim#1
+Territorial claim on '[x]' of [y]
+
+#ev_cb_claim_1#1
+We currently hold a claim to annex the territory of '[x]': the powers that be in our society are now in agreement that it should legitimately belong to our State and are open to the possibility of taking it by force. 
+
+#ev_cb_claim_2#1
+For as long as this claim remains valid, this gives us the possibility to declare war to it's current owner with the objective of taking this territory. If the war is won, the territory will be recognized as ours and we will gain direct ownership of it.
+
+#ev_enem_claim#1
+[y] claims our territory of '[x]'
+
+#ev_enem_claim_1#1
+[y] now claims our territory of '[x]' for they have convinced themselves it should legitimately be theirs. 
+
+#ev_enem_claim_2#1
+For as long as this claim remains valid, this gives them the possibility to declare war with the objective of taking this territory. If the war is won, the territory will be recognized as theirs and we will lose ownership of it.
+
+#ev_calltoarms#1
+Call to arms!
+
+#ev_calltoarms_1#1
+[x] is requesting our help to participate in their war of [p2] against [y]! We have no binding obligation to enter this war and we can choose to decline if we wish.
+
+#ev_calltoarms_2#1
+If we do join their war, we would enter the war as a co-belligerant of [x] to help them complete their war objective ([p2]) and will gain Politics Points as a reward if their war is won. However our active participation will be expected and failing to do so would allow [x] to publicly denounce our inaction if they wish to do so, costing us Politics Points in penalty. If we are individually defeated, we will have to pay war reparations to the main enemy of their war.
+
+#ev_calltoarms_c1#1
+Join the war
+
+#ev_calltoarms_c2#1
+Decline
+
+#ev_liedgewar#1
+We have been dragged into a war!
+
+#ev_liedgewar_1#1
+The [x], our Nation superior, has entered a war of [p2] against the [y].
+
+#ev_liedgewar_2#1
+We have the obligation to follow them and we have now de facto entered the war as well. All our treaties with the ennemy have been terminated, however, breaking penalties -if any- did not apply as this war was not started on our initiative. 
+
+#ev_defjoinwar#1
+An ally has been attacked!
+
+#ev_defjoinwar_1#1
+The [x] has entered a war of [p2] against our allies the [y].
+
+#ev_defjoinwar_2#1
+By the terms of our defensive pact, we are now de facto at war with the agressor and must help the [y] to defend themselves. All our treaties with the ennemy have been terminated, however, breaking penalties -if any- did not apply as this war was not started on our initiative. 
+
+#ev_warcapitul#1
+We have capitulated!
+
+#ev_warcapitul_1#1
+We have willingly capitulated in the war against the [x] of [p2], ending our involvment in this conflict in exchange for peace. 
+
+#ev_warcapitul_2#1
+Hostilities with the [x] and its allies have ceased (unless we are involved in other conflicts) and we will have to pay war reparations to the [x] if the war ends in their favor. Until then, we've also been forced to grant rights-of-passage to all enemy belligerents. 
+
+#ev_wardenounce#1
+Denounce an ally
+
+#ev_wardenounce_1#1
+We have the possibility to denounce our ally the [x] for its apparent inaction in our war against the [y], thus failing to honnor its engagement to help us.
+
+#ev_wardenounce_2#1
+If we chose to do so and publicly denounce them, it will damage their reputation and political stability, costing their government [p4] Politics Points. 
+
+#ev_wardenounce_c1#1
+No, they have played a sufficient role in this war.
+
+#ev_wardenounce_c2#1
+Denounce them for their treachery!
+
+#ev_wasdenounced#1
+We have been denounced by [x]!
+
+#ev_wasdenounced_1#1
+We have been publicly denounced by [x] for our apparent lack of participation in the war against the [y] as their ally, claiming that we have failed to honnor our duties to help them in this conflict.
+
+#ev_wasdenounced_2#1
+This has caused significant political turmoil in our State, and you have lost a great deal of Political support as a result: a penalty of [p1] Politics Points has been applied.
+
+#ev_warelimntd#1
+We have been defeated!
+
+#ev_warelimntd_1#1
+We have been forced to admit defeat in the war against the [x] of [p2], ending our involvment in this conflict in exchange for peace. 
+
+#ev_warelimntd_2#1
+We had to agree to the enemy's terms of ceasing hostilities with the [x] and its allies (unless we are involved in other conflicts) and, as co-belligerents in this war, to pay reparations to the [x] if the war ends in their favor. Until then, we've also been forced to grant rights-of-passage to all enemy belligerents. 
+
+#ev_warallyelim#1
+An allied co-belligerent has been defeated.
+
+#ev_warallyelim_1#1
+The [x], an allied co-belligerent in our war against the [y], has been forced to admit defeat.
+
+#ev_warallyelim_2#1
+They had to agree to the enemey's terms to cease hostilities and grant passage to all enemy belligerents until the end of the conflict, and to pay war reparations to the [y] if the war ends in their favor.
+
+#ev_warenemelim#1
+An enemy co-belligerent has been defeated.
+
+#ev_warenemelim_1#1
+The [x], an enemy co-belligerent in our war against the [y], has been forced to admit defeat.
+
+#ev_warallyelim_2#1
+They had to agree to our terms to cease hostilities and grant passage to all allied belligerents until the end of the conflict, and to pay war reparations to the [y] if the war ends in their favor.
+
+#ev_warallycapit#1
+An allied co-belligerent has capitulated.
+
+#ev_warallycapit_1#1
+The [x], an allied co-belligerent in our war against the [y], has willingly capitulated to the enemy.
+
+#ev_warallycapit_2#1
+They agreed to the enemey's terms to cease hostilities and grant passage to all enemy belligerents until the end of the conflict, and to pay war reparations to the [y] if the war ends in their favor.
+
+#ev_cb_freeterrit#1
+Liberate '[x]' of [y]
+
+#ev_cb_freeterrit_1#1
+We currently hold a legitimate claim to liberate and retreive the territory of '[x]' which was stolen from our State!
+
+#ev_cb_freeterrit_2#1
+For as long as this claim remains valid, this gives us the possibility to declare war to it's current owner with the objective of liberating and retreiving this territory. If the war is won, the territory will be recognized as ours and we will regain direct ownership of it.
+
+#ev_cb_brokentreaty#1
+[x] have betrayed their word!
+
+#ev_cb_brokentreaty_1#1
+We currently hold a legitimate casus belli against [x] for betraying their word and breaking the diplomatic treaty of '[y]' they had with our State.
+
+#ev_cb_brokentreaty_2#1
+For as long as this claim remains valid, this gives us the possibility to declare war to punish them and ask for reparations.
+
+#ev_cb_rebellion#1
+[x] are traitorous rebels!
+
+#ev_cb_rebellion_1#1
+The traitorous scums of [x] have entered open rebellion against us and proven they cannot be trusted to uphold any agreement. By showing that negociation with them is useless, we can now legitimate a punitive action to purge their whole government: we will execute their whole ruling class with their families and replace them with a apathetic puppet administration that will ensure no more rebellions and betrayals can come from them in the future.
+
+#ev_cb_rebellion_2#1
+We now hold a legitimate casus belli for a punitive war against [x] for breaking the diplomatic treaty of '[y]' they had with our State. If won, the enemy character will be killed, replaced by a 'Puppet' character set as 'Inactive' which will allow you to dispose of all its possession at your convenience.
+
+#ch_war_armistice#1
+The [x] and the [y] have negociated an armistice, putting an end to their war.
+
+#ch_war_raid#1
+The [x] has launched a raiding campaign against the [y].
+
+#ch_war_raid_win#1
+The raiding campaign of the [x] against the [y] has ended.
+
+#ch_war_raid_lost#1
+The [x], who had launched a raiding campaign against [y], has been defeated and forced to pay reparations for their pillages.
+
+#ch_war_extor#1
+The [x] has declared war to the [y] and demand the payment of tributes for peace.
+
+#ch_war_extor_win#1
+The [y] has admitted defeated against the [x] and is now forced to pay tributes to the victor.
+
+#ch_war_extor_lost#1
+The attempt of the [x] to extort tributes from the [y] has been defeated and they have been forced to settle for peace and pay reparations for their agression.
+
+#ch_war_annex#1
+The [x] has declared war to the [y] with the objective of annexing their territory of '[w]'.
+
+#ch_war_annex_win#1
+The [x] has won it's annexion war of '[z]' against the [y], who has agreed to concede the territory to the victor in exchange for peace.
+
+#ch_war_annex_lost#1
+The [x] has been defeated by the [y] in its attempt to annex the territory of '[z]'. They have forfeited their claim on the territory and agreed to pay reparations for their agression in exchange for peace.
+
+#ch_war_liber#1
+The [x] has declared war to the [y] with the objective of liberating the territory of '[w]' from the [y].
+
+#ch_war_liber_win#1
+The [x] celebrates the liberation of its territory of '[z]' from the [y], who has been defeated and forced to retrocede the territory to the victor in exchange for peace.
+
+#ch_war_liber_lost#1
+The [x] has failed to liberate its territory of '[z]' from the [y]. Defeated, they had to settle for peace and agree to pay reparations for their attempt.
+
+#ch_war_humil#1
+The [x] has declared war to the [y] with the objective of defeating their rival.
+
+#ch_war_humil#1
+The [x] has declared war to the [y] with the objective of defeating their rival.
+
+#ch_war_humil_win#1
+The [x] has won its war against their rival the [y], proving to the world that their ennemy was inferior. Their perceived power and might has thus been greatly reduced by this defeat, costing them half their Victory Points.
+ 
+#ch_war_humil_lost#1
+The [x] has lost its war against their rival the [y]. Their attempt to demonstrate the inferiority of their rival has backfired and their humiliating defeat has greatly reduced their perceived power and might, costing them half their Victory Points.
+
+#ch_war_subjug#1
+The [x] has launched an imperialistic war against the [y] to demand their complete subjugation.
+
+#ch_war_subjug_win#1
+The [y] has been invaded and subjugated by the [x]. Its leadership has been forced into pleading alliegance to their new masters and to pay them hefty tributes in exchange for peace.
+
+#ch_war_subjug_lost#1
+The [x] has lost its war against the [y] and had to give up on its plans to vassalize them by force. Defeated, they were forced to settle for peace and to agree to pay reparations for their failed invasion.
+
+#ch_war_stealtrib#1
+The [x] has launched an imperialistic war against the [y] to steal their tributary State of [w].
+
+#ch_war_stealtrib_win#1
+The [y] has been defeated and has lost control of its tributary State of [z], which is now been taken over by the [x].
+
+#ch_war_stealtrib_lost#1
+The [x] has lost its war against the [y] and had to give up on its plans to steal control of their tributary State of [z]. Defeated, they were forced to settle for peace and to agree to pay reparations for their failed invasion.
+
+#ch_war_repair#1
+The [x] has declared war to the [y] to demand reparations for illegaly breaking past agreements.
+
+#ch_war_repair_win#1
+The [y] has been defeated and forced to pay reparations to the [x] for illegaly breaking past agreements.
+
+#ch_war_repair_lost#1
+The [x] has failed to force the [y] to pay reparations for illegaly breaking past agreements. Defeated, they had to settle for peace and to agree to be the ones paying reparations to the [y].
+
+#ch_war_punish#1
+The [x] has launched a punitive war against the [y] to punish their traitorous rebellion. As they have now proven to be unruly and untrustworthy, the [x] now seeks the definitive eradication of their dynasty and government.
+
+#ch_war_punish_win#1
+The [y] has fallen. Its government is no more: in its Capital, troops of the [x] have captured the families of the whole ruling class and they have been exectued for treason and rebellion. In its place, a completely apathetic puppet administration has been installed to ensure no further possible rebellion.
+
+#ch_war_punish_lost#1
+The [y], who defied the opression of the [x] and refused to bow down to their terms, has won it's rebellion. The [x] has been forced to concede defeat and give up on its attempt to overthrow the government and execute them for treason.
+
+#ch_war_cobel_att#1
+[z] have joined the attacker as co-belligerants.
+
+#ch_war_cobel_def#1
+[v] have joined the defender as co-belligerants.
+
+#ch_first_discov#1
+Rumors are spreading that the [x] has made a new important discovery: [y]
+
+#ch_calltoarms#1
+The [x] has answered the call-to-arms of the [y] and has joined their war.
+
+#ch_calltoarms_sub#1
+As subordinates of the [x], [z] have also been dragged into the war.
+
+#ch_char_joined_nation#1
+[x] of the [y] has pledged alliegance to [z] of the [v], thus becoming their subordinate and integrating the [w].
+
+#ch_char_quit_nation#1
+[x] has decided to break its alliegance to the [z] and therefore the [y] has regained its full sovereignty and independance.
+
+#ch_char_xpell_nation#1
+The [x] has been expelled from the [y] by [z], ending all the obligations of the Nation towards them and making it de-facto an independent State again.
+
+#ch_allydenounced#1
+The [x] has accused the [y] of failing to honnor its duties as an ally in war, claiming they have done nothing during the conflict and have betrayed their diplomatic obligations. This serious accusation is justified by the apparent lack of accounts of them participating in any meaningful way during the war. This denounciation, legitimate or not, has been enough to cause great internal political turmoil to the [y] for tainting its reputation.
+
+#ev_was_humiliated#1
+Humiliated at war!
+
+#ev_was_humiliated_1#1
+We have been recently humiliated at war by [x] who had designated us a rival and this defeat is going to temporarily undermine the support of your Power keys with a -30 Legitimacy penalty.
+
+#ev_was_humiliated_2#1
+Our international standing was also greatly tarnished by this event, costing you half of any previously accrued Victory Points.
+
+#ev_was_humiliated_3#1
+It will also be impossible for us to start any Humiliation war as well while this penalty remains active.
+
+#ev_viol_pass#1
+Right of passage violation!
+
+#ev_viol_pass_1#1
+The State of [x] has decided to ignore our lack of permission to pass through our territory with military troops: it is therefore within our rights to attack any of their armies found illegaly intruding our lands without a war declaration, and it will not give a legitimate Casus Belli to the intruder either.
 

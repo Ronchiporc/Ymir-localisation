@@ -92,7 +92,7 @@ With the leadership within ou tribe now established, it is time to consider expa
 If they are sucessful, they can start exploiting land around the village and our people will grow bigger and more powerful. 
 
 #msn_exp_o_1#1
-Controlling regional territories
+Controlling Countryside territories
 
 #msn_exp_o_2#1
 Select an empty territory close from your village and fit for a new settlement. Create a new "Settlers" formation and load them with food, tools and materials before ordering them to settle on this new territory.
@@ -142,8 +142,8 @@ Building your first houses
 #msn_houses_o_2#1
 In the building tab, select the rustic house building and place at least 10 of them.
 
-#msn_ldrship#1
-Taking Leadership
+#msn_ldrship#2
+Becoming the Chieftain
 
 #msn_ldrship_1#1
 The tribe is currently led informally by various influent members of different famillies in the community without any form of official hierarchy, leading to constant shifts of power and generating many conflicts. Such form of organic governance becomes increasingly unstable as the size of the comunity increases, and the need for a more organized and official leadership becomes a growing necessity. 
@@ -151,14 +151,29 @@ The tribe is currently led informally by various influent members of different f
 #msn_ldrship_2#1
 Establishing your undisputed leadership over your people will not be easy. Ruling requires strenght and you will need better warriors to secure your rule and crush any attempt from opponents. But strength alone isn't enough, and you will need to persuade other influent members of the tribe to support your claim and and pledge loyalty and obedience to your family. Surely, not everyone will agree to this and you must prepare to face unrest once your coup is initiated.
 
-#msn_ldrship_fx#1
-Will trigger an immediate uprising from your opponents in the village.
+#msn_ldrship_fx#2
+You will be ready to launch your coup.
 
-#msn_ldrship_o_1#1
-Taking the leadership
+#msn_ldrship_o_1#2
+Mustering support
 
 #msn_ldrship_o_2#1
 Gift jewelry and comfortable huts to gain the support and loyalty of influent tribe members while preparing new warriors to crush the opposition. 
+
+#msn_ldrship_strt#1
+Taking power!
+
+#msn_ldrship_strt_1#1
+You have now secured the support of all the key influent members of the tribe that you could get to back you through bribes and favors. More loyal warriors have also been recruited to crush any opposition. Everything is now in place to launch you coup and become the undisputed leader of the tribe, securing your position as its new Chieftain.
+
+#msn_ldrship_strt_2#1
+However, not everyone will support your claim. Prepare for opponents who will surely take arms against you when you make your move, and only launch your coup once you are ready!
+
+#msn_ldrship_strt_c1#1
+Launch your coup!
+
+#msn_ldrship_strt_fx#2
+Will trigger an immediate attack from your opponents in the village of 20 Warriors and 10 Javelineers.
 
 #msn_palentfrg#1
 The 7 artefacts from the sky

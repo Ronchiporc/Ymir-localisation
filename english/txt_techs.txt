@@ -589,6 +589,9 @@ Leadership
 #tech_lead_dscr_1#1
 One Porco to rule them all. It sure is more efficient than wasting time discussing with everyone of the tribe about which mud is the best mud.
 
+#tech_lead_fx1#1
+Unlocks fabricating claims
+
 #tech_lever#1
 Lever
 
@@ -1052,7 +1055,7 @@ The organization of patrols to wacth over claimed empty territories.
 Town administration
 
 #tech_town_dscr#1
-The development of a local administration employing civil servants dedicad to administering affairs of the city and its attached regional territories.
+The development of a local administration employing civil servants dedicad to administering affairs of the city and its attached Countryside territories.
 
 #tech_tradewg#1
 Trade Wagons
@@ -1094,13 +1097,10 @@ Tributes
 The government is full of porcos devoting their entire time to manage things: they have no time for lowly peasant work! But of course they still need to eat, and have nice shiny things. Its therefore only natural to have everyone else give a share of their work to 'the community' for the common good of all.
 
 #tech_tributaries#1
-Tributaries hostages
+Tributaries
 
 #tech_tributaries_dscr_1#1
 The practice of keeping hostages from states vassalized by force to ensure their loyalty and submission.
-
-#tech_tributaries_fx1#1
-Allows new 'Subjugation' action in war, forcing the vassalization of an ennemy.
 
 #tech_urunhair#1
 Urine unhairing

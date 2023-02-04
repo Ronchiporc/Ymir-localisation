@@ -509,7 +509,7 @@ Surely the officials of the government shouldnt belittle themselves in doing suc
 A local government
 
 #idea_hallcity_1#1
-With our new administrative innovations, we should invest resources to improve the organization of local townhalls to better manage the local population and the regional territories by delegating more power and responsabilities to them when need be. This would facilitate the management of larger towns, managed by efficient and developped regional governments.
+With our new administrative innovations, we should invest resources to improve the organization of local townhalls to better manage the local population and the Countryside territories by delegating more power and responsabilities to them when need be. This would facilitate the management of larger towns, managed by efficient and developped regional governments.
 
 #idea_hallcomn#1
 A place for the community
@@ -1463,13 +1463,13 @@ There's a limit to how much ore is available directly on the surface. It keeps g
 Lets create and organize a new cast directly dependent on the goverment: guards, a new kind of warriors that would protect the government not against foreign ennemies but against our own population. They would protect officals and patrol the city everyday, reinforcing our authority on the population. 
 
 #proj_hallcity_1#1
-Developping a new territorial status with more delegated power to the region and more budjet for its administration in order to allow for better management of larger settlements and regional territories.
+Developping a new territorial status with more delegated power to the region and more budjet for its administration in order to allow for better management of larger settlements and Countryside territories.
 
 #proj_hallcomn_1#1
 Developing the idea of building a communal hall: a building shared by all the people of the tribe and used as a place of meeting and discussion for everyone to better organize the life of the settlement and palliate the growing problems of organizing the growth of the settlement's population.
 
 #proj_halltown_1#1
-Organizing a proper local administration with civil servants devoted to management of regionnal affairs, allowing for better management of larger settlements and more regional territories.
+Organizing a proper local administration with civil servants devoted to management of regionnal affairs, allowing for better management of larger settlements and more Countryside territories.
 
 #proj_helbard_1#1
 Some weaponsmiths proposed to build a new versatile pole weapon combining the features of spears and battleaxes into one. With its high reach it could be efficient against other pikes and spears infantry but also against mounted units while beeing also able to cut and slash with its side blade.
@@ -1866,3 +1866,12 @@ A research project to develop a new innovation in the domain of construction.
 
 #proj_rsrch_bld_fx#1
 Potentially receive a new Idea in construction.
+
+#proj_rsrch_mil#1
+Military innovation
+
+#proj_rsrch_mil_1#1
+A research project to develop a new innovation in the military domain.
+
+#proj_rsrch_mil_fx#1
+Potentially receive a new military Idea.

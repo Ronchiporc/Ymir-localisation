@@ -4,6 +4,30 @@ multiple cities
 #civfx_multireg_dscr#2
 Allows for non-capital regional centers to grow beyond village status.
 
+#civfx_claimrc_n#1
+region center claiming
+
+#civfx_claimrc_dscr#1
+Allows to directly fabricate claims on non-capital regional centers of adjascent regions.
+
+#civfx_captlter_n#1
+capital countryside
+
+#civfx_captlter_dscr#1
+Increases the maximum amount of Countryside territories of the capital.
+
+#civfx_singlereg_n#1
+single region limit
+
+#civfx_singlereg_dscr#1
+Only allows for a single region center (the capital).
+
+#civfx_militsprt_n#1
+military support
+
+#civfx_militsprt_dscr#1
+Modifies the military support capacity of territories.
+
 #civfx_nationmaintn_n#1
 subordinates maintenance
 
@@ -508,11 +532,11 @@ subordinates maintenance
 #civfx_subormntn_dscr#1
 Modifies the State Power maintenance cost of Nation subordinates.
 
-#civfx_multireg_n#1
-multiple regions
+#civfx_multireg_n#2
+multiple cities
 
-#civfx_multireg_dscr#1
-Allows to settle and control multiple regions.
+#civfx_multireg_dscr#2
+Allows to grow non-capital regions beyond the Village status.
 
 #civfx_leadcntrbmod_n#1
 leader contributions
